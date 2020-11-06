@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2017-01-03"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -232,9 +232,7 @@ VI. Daño: Muerte o lesiones corporales, daños o perjuicios morales y materiale
 
 VII. Delito: Acto u omisión que sancionan las leyes penales;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
-
-VIII. Fondo: Fondo de Ayuda, Asistencia y Reparación Integral;
+VIII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -260,9 +258,9 @@ XIII. Programa: Programa de Atención Integral a Víctimas;
 
 XIV. Procedimiento: Procedimientos seguidos ante autoridades judiciales o administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XV. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en los títulos segundo, tercero y cuarto de la Ley, con cargo al Fondo o a los Fondos estatales, según corresponda;
+XV. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en los títulos segundo, tercero y cuarto de la Ley, que corresponda cubrir a la Federación o a las entidades federativas, en el ámbito de sus respectivas competencias;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -382,9 +380,9 @@ XXXIV. Toda comparecencia ante el órgano investigador, el juez o tribunal, orga
 
 XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la Ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la legislación aplicable;
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XXXVI. Tener acceso ágil, eficaz y transparente a los fondos de ayuda federal y estatales en términos de esta Ley, y
+XXXVI. Tener acceso ágil, eficaz y transparente a los Recursos de Ayuda y Fondos Estatales en términos de esta Ley, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -418,17 +416,17 @@ Las víctimas podrán requerir que las medidas materia de esta Ley le sean propo
 
 La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas deberán otorgar, con cargo a sus Recursos de Ayuda que corresponda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva o Comisiones de víctimas podrán autorizar que la víctima acuda a una institución de carácter privado con cargo al Fondo o al Fondo Estatal, según corresponda.
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva o Comisiones de víctimas podrán autorizar que la víctima acuda a una institución de carácter privado con cargo a los Recursos de Ayuda o al Fondo Estatal, según corresponda.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Ejecutiva, así como las Comisiones de víctimas, en el ámbito de sus competencias, deberán otorgar, con cargo al Fondo o del Fondo Estatal que corresponda, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión Ejecutiva o las Comisiones de víctimas requerirán a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 136 de la Ley.
+La Comisión Ejecutiva, así como las Comisiones de víctimas, en el ámbito de sus competencias, deberán otorgar, con cargo al presupuesto autorizado de la Comisión Ejecutiva o del Fondo Estatal que corresponda, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho víctimizante. La Comisión Ejecutiva o las Comisiones de víctimas requerirán a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 136 de la Ley.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Ejecutiva deberá cubrir, con cargo al Fondo, medidas de ayuda inmediata cuando la Comisión Estatal lo solicite por escrito en caso de no contar con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
+La Comisión Ejecutiva deberá cubrir medidas de ayuda inmediata de acuerdo con su disponibilidad presupuestaria cuando la Comisión Estatal lo solicite por escrito en caso de no contar con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 
 ###### Artículo 9.
 
@@ -498,9 +496,9 @@ XII. A que se les notifique toda resolución que pueda afectar sus derechos y a 
 
 XIII. En los casos que impliquen graves violaciones a los derechos humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar que grupos de esos expertos revisen, informen y emitan recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda.
+La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -526,9 +524,9 @@ Las víctimas tienen derecho a intervenir en el proceso penal y deberán ser rec
 
 Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse dependiendo de la naturaleza del caso, y en caso de aceptar su realización a ser acompañadas en todo momento por su Asesor Jurídico o la persona que consideren.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda.
+La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -582,9 +580,9 @@ Esta obligación, incluye la realización de las exhumaciones de cementerios, fo
 
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí y/o a través de sus asesores jurídicos; a ser informadas sobre los protocolos y procedimientos que serán aplicados; y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los derechos humanos, que contribuyan al mejor desarrollo de las mismas.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
+La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -672,9 +670,9 @@ VI. Para los efectos de la presente Ley, la reparación colectiva se entenderá 
 
 Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo al Fondo o a los Fondos Estatales, según corresponda.
+Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo a los recursos autorizados para tal fin o a los Fondos Estatales, según corresponda.
 
 > <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -834,7 +832,9 @@ III. Solicitar a alguna institución nacional medidas de seguridad o protección
 
 IV. Recibir atención especializada o de tratamiento por alguna institución nacional, pública o privada cuando así sea autorizado en términos del quinto párrafo del artículo 8 de esta Ley, para el apoyo médico, psicológico o social que requiera.
 
-En caso de que las Comisiones de víctimas no hayan cubierto los gastos, la Comisión Ejecutiva de conformidad con los lineamientos que para tal efecto emita, deberá brindar la ayuda a que se refiere el presente artículo, con cargo al Fondo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que las Comisiones de víctimas no hayan cubierto los gastos, la Comisión Ejecutiva de conformidad con los lineamientos que para tal efecto emita deberá brindar la ayuda a que se refiere el presente artículo sujeto a su disponibilidad presupuestaria.
 
 Las Comisiones de víctimas deberán reintegrar los gastos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 
@@ -1134,11 +1134,11 @@ Cuando se trate de resoluciones judiciales que determinen la compensación a la 
 
 Sólo en caso de que no se actualicen los supuestos anteriores, se estará a lo dispuesto en el artículo 67 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 67.
 
-La Comisión Ejecutiva o las Comisiones de víctimas, según corresponda, determinarán el monto del pago de una compensación en forma subsidiaria a cargo del fondo respectivo en términos de la presente Ley y la legislación local aplicable, así como de las normas reglamentarias correspondientes, tomando en cuenta:
+La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, determinarán el monto del pago de una compensación en forma subsidiaria, en términos de la presente Ley y la legislación local aplicable, así como de las normas reglamentarias correspondientes, tomando en cuenta:
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1162,7 +1162,9 @@ El monto de la compensación subsidiaria a la que se podrá obligar al Estado, e
 
 La Federación y las entidades federativas compensarán a través de las Comisiones en el ámbito de su competencia, de forma subsidiaria el daño causado a la víctima de los delitos que ameriten prisión preventiva oficiosa o en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, daño o menoscabo al libre desarrollo de su personalidad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física o mental como consecuencia del delito, cuando así lo determine la autoridad judicial.
 
-La Comisión Ejecutiva podrá cubrir la compensación subsidiaria para asegurar su cumplimiento, con cargo al Fondo, cuando la Comisión de víctimas de la entidad federativa lo solicite por escrito en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+La Comisión Ejecutiva podrá cubrir la compensación subsidiaria para asegurar su cumplimiento, con cargo a los recursos autorizados para tal fin, cuando la Comisión de víctimas de la entidad federativa lo solicite por escrito en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1176,17 +1178,17 @@ II. La sentencia firme de la autoridad judicial competente, en la que se señale
 
 III. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos de donde se desprenda que no ha obtenido la reparación del daño, de la persona directamente responsable de satisfacer dicha reparación.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 70.
 
-La compensación subsidiaria a favor de las víctimas de delitos se cubrirá con cargo al Fondo o los Fondos Estatales, según corresponda, en términos de esta Ley y su Reglamento.
+La compensación subsidiaria a favor de las víctimas de delitos se cubrirá por la Comisión Ejecutiva con cargo a los recursos autorizados para tal fin o con cargo a los Fondos Estatales, según corresponda, en términos de esta Ley y su Reglamento.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 71.
 
-La Federación a través de la Comisión Ejecutiva o las entidades federativas, según corresponda, tendrán la obligación de exigir que el sentenciado restituya al Fondo o a los Fondos Estatales los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
+La Federación a través de la Comisión Ejecutiva o las entidades federativas, según corresponda, tendrán la obligación de exigir que el sentenciado restituya a la Comisión Ejecutiva o a los Fondos Estatales los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1364,17 +1366,27 @@ XV. Expedir sus reglas de organización y funcionamiento;
 
 XVI. Promover la uniformidad de criterios jurídicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XVII. Promover la celebración de convenios de coordinación entre la Comisión Ejecutiva y las Comisiones de víctimas para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva a través del Fondo, ya sea por conceptos de Recursos de Ayuda o de compensación subsidiaria. Dichos convenios garantizarán los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas y deberán contener como mínimo:
+XVII. Promover la celebración de convenios de coordinación entre la Comisión Ejecutiva y las Comisiones de víctimas para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva, ya sea por conceptos de Recursos de Ayuda o de compensación subsidiaria. Dichos convenios garantizarán los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas y deberán contener como mínimo:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 2017)</small>
 
 a) La obligación de las Comisiones de víctimas de entregar por escrito a la Comisión Ejecutiva la solicitud fundada y motivada de apoyo para la atención de la víctima;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 2017)</small>
+
 b) La obligación de las Comisiones de víctimas de acompañar a cada solicitud de apoyo copia certificada del estado financiero que guarda su Fondo Estatal en el que demuestre que no cuenta con recursos suficientes para la atención de la víctima;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 2017)</small>
 
 c) El plazo para restituir los recursos solicitados a la Comisión Ejecutiva, el cual no podrá exceder del primer semestre del siguiente ejercicio fiscal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 2017)</small>
+
 En caso de incumplimiento al reintegro, la Federación compensará el monto respectivo con cargo a las transferencias de recursos federales que correspondan a la entidad federativa de que se trate, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 2017)</small>
 
 d) La obligación de la Comisión Ejecutiva de dar aviso a la Auditoria Superior de la Federación en caso de incumplimiento de pago de la entidad federativa, y
 
@@ -1466,13 +1478,13 @@ El domicilio de la Comisión Ejecutiva es en la Ciudad de México, y podrá esta
 
 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-De la Comisión Ejecutiva depende el Fondo, la Asesoría Jurídica Federal y el Registro Nacional de Víctimas.
+De la Comisión Ejecutiva depende la Asesoría Jurídica Federal, el Registro Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación, en términos de esta Ley, el Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Federal contará con un Fondo, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
+A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Federal contará con un área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia y reparación integral, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1606,11 +1618,11 @@ En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los
 
 El Comisionado Ejecutivo se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 87.
 
-El Comisionado Ejecutivo para el desarrollo de las actividades de la Comisión Ejecutiva designará a las personas responsables del Fondo, la Asesoría Jurídica y el Registro Nacional de Víctimas.
+El Comisionado Ejecutivo para el desarrollo de las actividades de la Comisión Ejecutiva designará a las personas responsables de la Asesoría Jurídica, el Registro Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1644,9 +1656,9 @@ XII. Establecer las directrices para alimentar de información el Registro Nacio
 
 XIII. Rendir un informe anual ante el Sistema, sobre los avances del Programa y demás obligaciones previstas en esta Ley;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+XIV. Vigilar el adecuado ejercicio de su presupuesto a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
 
 XV. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes;
 
@@ -1654,7 +1666,9 @@ XVI. Elaborar anualmente las tabulaciones de montos compensatorios en los térmi
 
 XVII. Hacer recomendaciones al Sistema, mismo que deberá dar respuesta oportuna a aquéllas;
 
-XVIII. Nombrar a los titulares del Fondo, Asesoría Jurídica Federal y del Registro;
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Nombrar a los titulares de la Asesoría Jurídica Federal, del Registro y del área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación;
 
 XIX. Emitir opinión sobre el proyecto de Reglamento de la presente Ley y sus reformas y adiciones;
 
@@ -1694,9 +1708,9 @@ XXXIII. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a
 
 XXXIV. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas. La supervisión deberá ser permanente y los comités u órganos específicos que se instauren al respecto, deberán emitir recomendaciones que deberán ser respondidas por las instituciones correspondientes;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XXXV. Hacer públicos los informes anuales sobre el funcionamiento del Fondo, de la Asesoría Jurídica Federal, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
+XXXV. Hacer públicos los informes anuales sobre el funcionamiento de la Asesoría Jurídica Federal y del área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1732,7 +1746,9 @@ c) A solicitud de la Secretaría de Gobernación, cuando el hecho constitutivo v
 
 La Comisión Ejecutiva podrá valorar estos casos, de oficio, o a petición de la Comisión Nacional de los Derechos Humanos, los organismos públicos de derechos humanos locales, las Comisiones de víctimas locales, la autoridad ministerial o jurisdiccional correspondiente, o bien de las víctimas o sus representantes. La determinación que al respecto realice la Comisión Ejecutiva deberá atender a la obligación de garantizar de manera oportuna y efectiva los derechos de las víctimas.
 
-Los recursos erogados bajo este supuesto deberán ser reintegrados al Fondo Federal, por la Comisión de víctimas local con cargo al Fondo Local correspondiente, en cuanto éste cuente con los recursos para tal efecto, o por la entidad federativa, con cargo a su presupuesto, en caso de que aún no exista la Comisión de víctimas local o se haya constituido el Fondo Local.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Los recursos erogados bajo este supuesto deberán ser reintegrados a la tesorería de la Comisión Ejecutiva, por la Comisión de víctimas local con cargo al Fondo Local correspondiente, en cuanto éste cuente con los recursos para tal efecto, o por la entidad federativa, con cargo a su presupuesto, en caso de que aún no exista la Comisión de víctimas local o se haya constituido el Fondo Estatal.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1772,7 +1788,9 @@ Se deberá procurar en todo momento, además de la especialización técnica y c
 
 La Comisión Ejecutiva cuenta con un comité interdisciplinario evaluador con las siguientes facultades:
 
-I. Elaborar los proyectos de dictamen de acceso a los recursos del Fondo para el otorgamiento de los Recursos de Ayuda;
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+I. Elaborar los proyectos de dictamen de acceso a los recursos para el otorgamiento de los Recursos de Ayuda;
 
 II. Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en la Ley y el Reglamento;
 
@@ -1810,9 +1828,9 @@ IV. Notificar a los integrantes del Sistema los acuerdos asumidos y dar seguimie
 
 V. Coordinar las funciones del Registro Nacional de Víctimas, incluido el registro federal, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-VI. Rendir cuentas a la Cámara de Diputados cuando sea requerido, sobre las funciones encomendadas a la Comisión Ejecutiva, al Registro Nacional de Víctimas y al Fondo;
+VI. Rendir cuentas a la Cámara de Diputados cuando sea requerido, sobre las funciones encomendadas a la Comisión Ejecutiva y a las áreas que la integran;
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2140,7 +2158,9 @@ VII. La Comisión Ejecutiva, y
 
 VIII. El Ministerio Público.
 
-El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley y en el Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los Recursos de Ayuda, a la reparación integral y a la compensación, de conformidad con lo previsto en la presente Ley y en el Reglamento.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2152,7 +2172,9 @@ I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, 
 
 II. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 
-Al reconocerse su calidad de víctima, ésta podrá acceder a los recursos del Fondo y a la reparación integral, de conformidad con lo previsto en la presente Ley y en el Reglamento. El procedimiento y los elementos a acreditar, se determinarán en el Reglamento correspondiente.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Al reconocerse su calidad de víctima, ésta podrá acceder a los Recursos de Ayuda y a la reparación integral, de conformidad con lo previsto en la presente Ley y en el Reglamento. El procedimiento y los elementos a acreditar, se determinarán en el Reglamento correspondiente.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2652,137 +2674,101 @@ IV. Cuando tenga acceso a información reservada, respetar y guardar la confiden
 
 Todo empleador de una víctima, sea público o privado, deberá permitir y respetar que la misma haga uso de los mecanismos, acciones y procedimientos reconocidos para hacer efectivos sus derechos y garantías, aunque esto implique ausentismo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-## TÍTULO OCTAVO. FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
+## TÍTULO OCTAVO. DE LOS RECURSOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
 
 ### CAPÍTULO I. OBJETO E INTEGRACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 130.
 
-El Fondo tiene por objeto brindar los Recursos de Ayuda y la reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+En el otorgamiento de los Recursos de Ayuda y la reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos deberán observarse los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+La víctima podrá acceder de manera subsidiaria a las ayudas, asistencia y reparación integral que otorgue la Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, en los términos previstos en esta Ley y en el Reglamento, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
-La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 131.
 
-Para ser beneficiarios del apoyo del Fondo, además de los requisitos que al efecto establezca esta Ley y su Reglamento, las víctimas deberán estar inscritas en el Registro a efecto de que la Comisión Ejecutiva realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de ayuda, asistencia, protección, reparación integral y, en su caso, la compensación.
+Para ser beneficiarios del apoyo de las ayudas, asistencia y reparación integral, además de los requisitos que al efecto establezca esta Ley y su Reglamento, las víctimas deberán estar inscritas en el Registro a efecto de que la Comisión Ejecutiva realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de ayuda, asistencia, protección, reparación integral y, en su caso, la compensación.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 132.
 
-El Fondo se conformará con:
+En términos de las disposiciones aplicables la Comisión Ejecutiva recibirá:
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+I. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Nacional de Procedimientos Penales o en la legislación respectiva, y
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación en el rubro correspondiente, sin que pueda disponerse de dichos recursos para un fin diverso, y sin que pueda ser disminuido.
+II. Los recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad.
 
-La aportación al Fondo se realizará siempre y cuando el patrimonio total del mismo sea inferior al 0.014% del gasto programable del Presupuesto de Egresos de la Federación del año inmediato anterior;
+Lo anterior a efecto de que dichos recursos sean destinados para el pago de las ayudas, asistencia y reparación integral a víctimas, en términos de esta Ley y el Reglamento.
 
-II. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Federal de Procedimientos Penales o en la legislación respectiva;
+La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los previstos en esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
 
-III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad;
-
-IV. El monto de las reparaciones del daño no reclamadas;
-
-V. Las aportaciones que a este fin hagan en efectivo o en especie las personas físicas o morales de carácter público, privado o social nacionales o extranjeros de manera altruista;
-
-VI. Los rendimientos que generen los recursos que obren en el Fondo;
-
-VII. Los montos que se recuperen en virtud del derecho de repetición en los términos de esta Ley, y
-
-VIII. Los demás recursos que se determinen en las disposiciones aplicables.
-
-La constitución del Fondo será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los de esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
-
-Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspondiente al ejercicio fiscal vigente al momento de la solicitud. La Comisión Ejecutiva velará por la maximización del uso de los recursos del Fondo, priorizando en todo momento aquellos casos de mayor gravedad.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+Las compensaciones subsidiarias se cubrirán con cargo al presupuesto autorizado de la Comisión Ejecutiva para el ejercicio fiscal en el que se presente la solicitud o con cargo a los recursos del Fondo estatal que corresponda. La Comisión Ejecutiva velará por la maximización del uso de los recursos, priorizando en todo momento aquellos casos de mayor gravedad.
 
 ###### Artículo 133.
 
-El Fondo estará exento de toda imposición de carácter fiscal y parafiscal, así como de los diversos gravámenes a que puedan estar sujetas las operaciones que se realicen por el Fondo.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 134.
 
-La Comisión Ejecutiva deberá emitir las reglas de operación para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 135.
 
-Cuando la situación lo amerite, en términos de lo establecido en el Reglamento, el Comisionado Ejecutivo, previo dictamen a que se refiere el artículo 93, fracción III podrá crear un fondo de emergencia para el otorgamiento de los Recursos de Ayuda, el cual tendrá adjudicado parte de los recursos del Fondo por un tiempo determinado. El ejercicio de los recursos del fondo de emergencia no estará supeditado al dictamen a que se refiere el artículo 93, fracción I de la Ley.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 136.
 
-El Fondo será administrado por una institución de banca de desarrollo que funja como fiduciaria, de acuerdo a las instrucciones de la Comisión Ejecutiva en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+La Comisión Ejecutiva administrará directamente los recursos autorizados en su presupuesto para dar cumplimiento a lo previsto en la presente Ley y el Reglamento, observando en todo momento los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
-La Comisión Ejecutiva proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refieren los Títulos Segundo, Tercero y Cuarto de la Ley, con cargo al Fondo. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+La Comisión Ejecutiva proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refieren los Títulos Segundo, Tercero y Cuarto de la Ley. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
 
 ###### Artículo 137.
 
-Los recursos del Fondo serán administrados y operados por medio de un fideicomiso público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 138.
 
-El titular de la Comisión Ejecutiva, con el apoyo del servidor público designado por éste para realizar los actos que le corresponden a aquélla en calidad de fideicomitente del Fondo, deberá:
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
-
-I. Vigilar que los recursos que conforman el Fondo se administren y ejerzan adecuadamente a fin de permitir el cumplimiento efectivo del objeto de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
-
-II. Gestionar lo pertinente para que los recursos asignados al Fondo ingresen oportunamente al mismo;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
-
-III. Presentar periódicamente informes y rendición de cuentas a la Junta de Gobierno, y
-
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
-
-IV. Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 139.
 
-Los recursos del Fondo se aplicarán también para otorgar a la víctima los apoyos a que se refieren los Títulos Tercero y Cuarto, y, en los casos de víctimas de delitos o de violación a derechos humanos, a la medida de compensación, en los términos de esta Ley y conforme al Reglamento respectivo.
+La Comisión Ejecutiva determinará el apoyo o asistencia que corresponda otorgar a la víctima incluida la medida de compensación, previa opinión que al respecto emita el Comité interdisciplinario evaluador, en términos de la presente Ley y el Reglamento.
 
-La Comisión Ejecutiva determinará el apoyo o asistencia que corresponda otorgar a la víctima de los recursos del Fondo incluida la compensación, previa opinión que al respecto emita el Comité interdisciplinario evaluador.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 140.
 
-El Fondo será fiscalizado anualmente por la Auditoría Superior de la Federación.
+Los Recursos de Ayuda, asistencia y reparación integral que se otorguen al amparo de esta Ley y del Reglamento, serán fiscalizados anualmente por la Auditoría Superior de la Federación.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 141.
 
-La Federación se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo.
+La Federación se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al presupuesto de la Comisión Ejecutiva para dar cumplimiento a lo previsto en la presente Ley y el Reglamento. Dichos recursos deberán enterarse a la tesorería de la Comisión Ejecutiva, mismos que serán utilizados para continuar otorgando la compensación prevista en el Título Quinto del presente ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Para tal efecto, se aportarán a la Federación los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
 El Ministerio Público estará obligado a ofrecer los elementos probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor de la Federación en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial correspondiente.
 
@@ -2792,21 +2778,25 @@ En el caso de las compensaciones por error judicial, éstas se cubrirán con car
 
 La Federación ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación conforme a las disposiciones aplicables, sin perjuicio de que dicho cobro pueda reclamarse por la víctima en la vía civil, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en términos de las disposiciones que resulten aplicables.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 143.
 
-El Reglamento precisará el funcionamiento, alcance y criterios específicos de asignación de recursos del Fondo.
+El Reglamento precisará el funcionamiento, alcance y criterios específicos de asignación de los Recursos de Ayuda, asistencia y reparación integral.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 144.
 
-Para acceder a los recursos del Fondo, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva de conformidad con lo señalado por esta Ley y su Reglamento.
+Para acceder a los Recursos de Ayuda, asistencia y reparación integral, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva de conformidad con lo señalado por esta Ley y su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Quien reciba la solicitud la remitirá a la Comisión Ejecutiva o comisiones de víctimas en un plazo que no podrá exceder los dos días hábiles.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Las determinaciones de las comisiones respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
 
@@ -2856,17 +2846,25 @@ El Reglamento de esta Ley especificará el procedimiento que se seguirá para el
 
 La Comisión Ejecutiva deberá integrar el expediente completo en un plazo no mayor a veinte días hábiles y resolver con base a su dictamen la procedencia de la solicitud.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 149.
 
-Las solicitudes para acceder a los recursos del Fondo en materia de reparación serán procedentes siempre que la víctima:
+Las solicitudes para acceder a los recursos en materia de reparación serán procedentes siempre que la víctima:
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 I. Cuente con sentencia ejecutoria en la que se indique que sufrió el daño por dichos ilícitos, así como el monto a pagar y/o otras formas de reparación;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 II. No haya alcanzado el pago total de los daños que se le causaron;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 III. No haya recibido la reparación integral del daño por cualquier otra vía, lo que podrá acreditarse con el oficio del juez de la causa penal o con otro medio fehaciente, y
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 IV. Presente solicitud de asistencia, ayuda o reparación integral, siempre y cuando dicha solicitud sea avalada por la Comisión Ejecutiva.
 
@@ -2884,7 +2882,9 @@ III. La imposibilidad de trabajar como consecuencia del daño;
 
 IV. El número y la edad de los dependientes económicos, y
 
-V. Los recursos disponibles en el Fondo.
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+V. La disponibilidad presupuestaria.
 
 ### CAPÍTULO IV. DE LA REPARACIÓN
 
@@ -2924,11 +2924,11 @@ Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimient
 
 La Comisión Ejecutiva tendrá facultades para cubrir las necesidades en términos de asistencia, ayuda y reparación integral, a través de los programas gubernamentales federales, estatales o municipales con que se cuente.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 157.
 
-Cuando proceda el pago de la reparación, el fondo registrará el fallo judicial que lo motivó y el monto de la indemnización, que será de consulta pública.
+Cuando proceda el pago de la reparación, se registrará el fallo judicial que lo motivó y el monto de la indemnización, mismos que estarán disponibles para su consulta pública.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -2940,21 +2940,25 @@ Cuando proceda el pago de la reparación, el fondo registrará el fallo judicial
 
 El Fondo estatal se conformará con los recursos que destinen las entidades federativas expresamente para dicho fin.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 157 Ter.
 
-La suma de las asignaciones anuales que cada entidad federativa aporte a su respectivo Fondo estatal, será igual al 50% de la asignación que se destine al Fondo en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
-
-La aportación anual que deberá realizar cada entidad federativa al Fondo estatal respectivo, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población de dicha entidad federativa con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
-
-La aportación anual de cada entidad federativa se deberá efectuar, siempre y cuando, el patrimonio del Fondo estatal al inicio del ejercicio sea inferior al monto de aportación que corresponde a la entidad federativa de acuerdo con el párrafo anterior. Dicha aportación se deberá efectuar a más tardar al 31 de marzo de cada ejercicio.
+La suma de las asignaciones anuales que cada entidad federativa aporte a su respectivo Fondo estatal, será igual al 50% de los recursos que se autoricen a la Comisión Ejecutiva en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, para el pago de ayudas, asistencia y reparación integral en términos de esta Ley y el Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
+La aportación anual que deberá realizar cada entidad federativa al Fondo estatal respectivo, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población de dicha entidad federativa con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La aportación anual de cada entidad federativa se deberá efectuar, siempre y cuando, el patrimonio del Fondo estatal al inicio del ejercicio sea inferior al monto de aportación que corresponde a la entidad federativa de acuerdo con el párrafo anterior. Dicha aportación se deberá efectuar a más tardar al 31 de marzo de cada ejercicio.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 157 Quáter.
 
-De los recursos que constituyan el patrimonio de cada uno de los Fondos estatales, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo, de acuerdo con lo establecido en los artículos 8, 39 Bis, 68 y 88 Bis de esta Ley.
+De los recursos que constituyan el patrimonio de cada uno de los Fondos estatales, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse a la tesorería de la Comisión Ejecutiva, de acuerdo con lo establecido en los artículos 8, 39 Bis, 68 y 88 Bis de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -3341,3 +3345,83 @@ Décimo Cuarto.- En tanto las entidades federativas se encuentren en la integrac
 Décimo Quinto.- Por única ocasión, para la primera designación de los miembros de la Asamblea Consultiva a que se refiere el artículo 84 Octies, el Comisionado Ejecutivo enviará propuestas de integrantes al Senado de la República, el cual los elegirá por las dos terceras partes de los presentes en sesión ordinaria.
 
 Décimo Sexto.- Constituida la Asamblea Consultiva, deberá elegir a los integrantes de la Junta de Gobierno dentro de los diez días siguientes.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+
+A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
+
+Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
+
+Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+
+Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
+
+El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
+
+Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
+
+En caso de que los Centros Públicos de Investigación cuenten con fideicomisos que integren el cumplimiento de obligaciones de carácter laboral o en materia de seguridad social y otras obligaciones de distinta naturaleza en un solo instrumento, deberán llevar a cabo la modificación a los mismos dentro de un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichos fideicomisos públicos conserven únicamente aquellas obligaciones de carácter laboral o en materia de seguridad social, y concentren los recursos no relacionados con dichos fines en términos del primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
+
+A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de Energía-Hidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
+
+Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
+
+Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
+
+Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+
+Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+
+Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+
+Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+
+Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+
+Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
+
+Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+
+Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
+
+A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
+
+Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el transitorio Cuarto del presente Decreto.
+
+Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en (sic) Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
+
+Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+
+Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+
+Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+
+A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
