@@ -4,7 +4,7 @@ identifier: "QUE-estatuto-organico-del-instituto-de-infraestructura-fisica-14483
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-10-30"
-last_updated: "2020-10-30"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE NOVIEMBRE DE 2020.]</small>
 
 Estatuto publicado en el Número 83 del Periódico Oficial del Estado de Querétaro, el viernes 30 de octubre de 2020.
 
@@ -581,7 +581,9 @@ Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 
 Tercero. No serán afectados los derechos laborales de los trabajadores, que con motivo de este Estatuto cambien de adscripción.
 
-Dado en el Palacio de La Corregidora, sede del Poder Ejecutivo del Gobierno del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., a los días 21 veintiún del mes de septiembre del 2020 dos mil veinte.
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+Dado en el Palacio de La Corregidora, sede del Poder Ejecutivo del Gobierno del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., a los 21 veintiún días del mes de septiembre del 2020 dos mil veinte.
 
 Francisco Domínguez Servién
 
