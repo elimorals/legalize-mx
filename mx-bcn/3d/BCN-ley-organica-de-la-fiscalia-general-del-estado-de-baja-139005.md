@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2020-04-30"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -149,19 +149,25 @@ i. Fiscalía Especializada en Derechos Humanos;
 
 j. Fiscalía Especializada en Justicia para Adolescentes;
 
-k. Fiscalía de Unidades Especializadas;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+k. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-l. Unidad de Inteligencia Patrimonial y Económica;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+l. Fiscalía de Unidades Especializadas;
 
-m. Unidad de Procedimientos de Extinción de Dominio, y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ABRIL DE 2020)</small>
+m. Unidad de Inteligencia Patrimonial y Económica;
 
-n. Fiscalía Especializada en Delitos Contra la Tortura.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+n. Unidad de Procedimientos de Extinción de Dominio, y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+o. Fiscalía Especializada en Delitos Contra la Tortura.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
@@ -491,23 +497,29 @@ IX. Fiscalía Especializada en Derechos Humanos;
 
 X. Fiscalía Especializada en Justicia para Adolescentes;
 
-XI. Fiscalía de Unidades Especializadas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+XI. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-XII. Unidad de Inteligencia Patrimonial y Económica;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+XII. Fiscalía de Unidades Especializadas;
 
-XIII. Unidad de Procedimientos de Extinción de Dominio;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2020)</small>
+XIII. Unidad de Inteligencia Patrimonial y Económica;
 
-XIV. Fiscalía Especializada en Delitos Contra la Tortura, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2020)</small>
+XIV. Unidad de Procedimientos de Extinción de Dominio;
 
-XV. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+XV. Fiscalía Especializada en Delitos Contra la Tortura, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
 El Fiscal Central ejercerá el mando y autoridad jerárquica en términos de Ley, sobre los servidores públicos que formen parte de su estructura, incluidos los fiscales regionales y especializados.
 
@@ -924,3 +936,9 @@ P.O. 30 DE ABRIL DE 2020.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: El Fiscal General deberá emitir las disposiciones reglamentarias derivadas del presente decreto en un tiempo que no excederá de 180 días naturales.
+
+P.O. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 72 MEDIANTE EL CUAL SE REFORMA A LOS ARTÍCULOS 9 Y 24 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
