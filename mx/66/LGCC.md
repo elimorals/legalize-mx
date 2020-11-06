@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2018-07-13"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -136,7 +136,7 @@ XIX. Estrategia Nacional: Estrategia Nacional de Cambio Climático.
 
 XX. Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales, para que puedan participar en todos los aspectos de la adaptación, mitigación e investigación sobre el cambio climático.
 
-XXI. Fondo: Fondo para el Cambio Climático.
+XXI. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 XXII. Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera.
 
@@ -252,7 +252,7 @@ l) Las demás que determinen otras leyes;
 
 VII. Incorporar en los instrumentos de política ambiental criterios de mitigación y adaptación al cambio climático;
 
-VIII. La creación y regulación del fondo;
+VIII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 IX. Crear, autorizar y regular el comercio de emisiones;
 
@@ -344,7 +344,9 @@ IV. Elaborar e instrumentar su programa en materia de cambio climático, promovi
 
 V. Establecer criterios y procedimientos para evaluar y vigilar el cumplimiento del programa estatal en la materia y establecer metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que implementen;
 
-VI. Gestionar y administrar fondos locales para apoyar e implementar acciones en la materia;
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+VI. Gestionar y administrar recursos estatales para apoyar e implementar acciones en la materia;
 
 VII. Celebrar convenios de coordinación con la federación, entidades federativas y los municipios, para la implementación de acciones para la mitigación y adaptación;
 
@@ -366,7 +368,7 @@ XV. Diseñar y promover el establecimiento y aplicación de incentivos que promu
 
 XVI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas hacia el cumplimiento de su programa;
 
-XVII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones en la materia;
+XVII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de esta ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento, y
 
@@ -484,13 +486,17 @@ VI. Los ingresos que obtenga por:
 
 a) Los recursos que las Entidades Federativas, y Municipios les destinen;
 
-b) Los fondos que se obtengan para el financiamiento de programas específicos;
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+b) Los recursos que se obtengan para el financiamiento de programas específicos;
 
 c) Los ingresos que adquiera por los servicios que preste y por las actividades que realice;
 
 d) Los recursos que se obtengan por la comercialización de sus obras literarias, derechos y demás que correspondan, y
 
-VII. Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+VII. Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otras fuentes de ingreso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -848,7 +854,9 @@ La política debe cuidar que la línea base a comprometer por México no limite 
 
 La política nacional de mitigación se instrumentará con base en un principio de gradualidad, promoviendo el fortalecimiento de capacidades nacionales para la mitigación de emisiones y la adaptación a los efectos adversos del cambio climático, priorizando en los sectores de mayor potencial de reducción hasta culminar en los que representan los costos más elevados, además de atender los compromisos internacionales de los Estados Unidos Mexicanos en la materia.
 
-Para aquellas políticas y actividades que impliquen o que trasladen un costo al sector privado o a la sociedad en general, y que no existan fondos o fuentes internacionales de financiamiento que puedan cubrir los costos para la implementación de dichas políticas y actividades, éstas podrán instrumentarse en dos fases, cuando exista área de oportunidad para los sectores regulados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Para aquellas políticas y actividades que impliquen o que trasladen un costo al sector privado o a la sociedad en general, y que no existan recursos o fuentes internacionales de financiamiento que puedan cubrir los costos para la implementación de dichas políticas y actividades, éstas podrán instrumentarse en dos fases, cuando exista área de oportunidad para los sectores regulados:
 
 I. Fomento de capacidades nacionales en la cual, las políticas y actividades a ser desarrolladas, deberán implementarse con carácter voluntario, con el objetivo de fortalecer las capacidades de los sectores regulados, considerando:
 
@@ -1170,7 +1178,9 @@ I. Emitir las convocatorias para las sesiones de la comisión previo acuerdo con
 
 II. Llevar el registro y control de las actas, acuerdos y toda la documentación relativa al funcionamiento de la Comisión;
 
-III. Dar seguimiento a los acuerdos de la comisión, del consejo y del fondo, así como promover su cumplimiento, además de informar periódicamente al presidente sobre los avances, y
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+III. Dar seguimiento a los acuerdos de la comisión, del consejo y de las acciones implementadas para enfrentar el cambio climático, así como promover su cumplimiento, además de informar periódicamente al presidente sobre los avances, y
 
 IV. Las demás que señale el Reglamento que para el efecto se expida.
 
@@ -1452,15 +1462,19 @@ Con base en el Sistema de Información sobre el Cambio Climático, la Secretarí
 
 Los datos se integrarán en un sistema de información geográfica que almacene, edite, analice, comparta y muestre los indicadores clave geográficamente referenciados utilizando medios electrónicos.
 
-### CAPÍTULO VII. FONDO PARA EL CAMBIO CLIMÁTICO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO VII. DE LOS RECURSOS PARA APOYAR LA IMPLEMENTACIÓN DE ACCIONES PARA ENFRENTAR EL CAMBIO CLIMÁTICO
 
 ###### Artículo 80.
 
-Se crea el Fondo para el Cambio Climático con el objeto de captar y canalizar recursos financieros públicos, privados, nacionales e internacionales, para apoyar la implementación de acciones para enfrentar el cambio climático. Las acciones relacionadas con la adaptación serán prioritarias en la aplicación de los recursos del fondo.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 81.
 
-El patrimonio del Fondo se constituirá por:
+Las fuentes de financiamiento para apoyar la implementación de acciones para enfrentar los efectos adversos del cambio climático serán las siguientes:
 
 I. Los recursos anuales que, en su caso, señale el Presupuesto de Egresos de la Federación y aportaciones de otros fondos públicos;
 
@@ -1470,13 +1484,17 @@ III. Las donaciones de personas físicas o morales, nacionales o internacionales
 
 IV. Las aportaciones que efectúen gobiernos de otros países y organismos internacionales;
 
-V. El valor de las reducciones certificadas de emisiones de proyectos implementados en los Estados Unidos Mexicanos que de forma voluntaria el fondo adquiera en el mercado, y
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+V. El valor de las reducciones certificadas de emisiones de proyectos implementados en los Estados Unidos Mexicanos que de forma voluntaria se adquieran en el mercado, y
 
 VI. Los demás recursos que obtenga, previstos en otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 82.
 
-Los recursos del Fondo se destinarán a:
+Los recursos para apoyar la implementación de acciones para enfrentar los efectos adversos del cambio climático se destinarán a:
 
 I. Acciones para la adaptación al cambio climático atendiendo prioritariamente a los grupos sociales ubicados en las zonas más vulnerables del país;
 
@@ -1494,25 +1512,29 @@ VII. Compra de reducciones certificadas de emisiones de proyectos inscritos en e
 
 VIII. Otros proyectos y acciones en materia de cambio climático que la comisión considere estratégicos.
 
+> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Respecto de la aplicación de los recursos se dará prioridad a las acciones relacionadas con la Adaptación.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 83.
 
-El Fondo operará a través de un Fideicomiso público creado por la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones jurídicas que resulten aplicables.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+La Secretaría con cargo a su presupuesto autorizado administrará y ejercerá los recursos destinados para apoyar la implementación de acciones para enfrentar los efectos adversos del cambio climático, incluyendo aquellos que provengan de otras fuentes de financiamiento. Para tal efecto, la Secretaría emitirá disposiciones generales en las cuales se establezcan, entre otros, los criterios y procedimientos que deberán observarse para la asignación de recursos a los proyectos y acciones que permitan dar cumplimiento al artículo 82 de esta Ley.
 
 ###### Artículo 84.
 
-El Fondo contará con un Comité Técnico presidido por la Secretaría de Medio Ambiente y Recursos Naturales; y con representantes de las Secretarías de Hacienda y Crédito Público; de Economía; de Gobernación; de Desarrollo Social; de Comunicaciones y Transportes; de Energía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Desarrollo Agrario, Territorial y Urbano.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 85.
 
-El Comité Técnico solicitará la opinión de la Comisión respecto de sus reglas de operación del Fondo y su presupuesto operativo, así como cualquier modificación que se realice a dichos instrumentos.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-El Fondo se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen esta Ley y las disposiciones legales aplicables.
+La administración, aplicación y ejercicio de los recursos destinados para apoyar la implementación de acciones para enfrentar los efectos adversos del cambio climático se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen esta Ley y las disposiciones legales aplicables.
 
 ### CAPÍTULO VIII. REGISTRO
 
@@ -1566,7 +1588,9 @@ Se consideran instrumentos económicos los mecanismos normativos y administrativ
 
 Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política nacional sobre el cambio climático. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 
-Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la mitigación y adaptación del cambio climático; al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica o para el desarrollo y tecnología de bajas emisiones en carbono.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos privados, cuando sus objetivos estén dirigidos a la mitigación y adaptación del cambio climático; al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica o para el desarrollo y tecnología de bajas emisiones en carbono.
 
 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones, o bien, que incentiven la realización de acciones de reducción de emisiones proporcionando alternativas que mejoren la relación costo - eficiencia de las mismas.
 
@@ -1702,15 +1726,17 @@ Los resultados de las evaluaciones deberán ser publicados en el Diario Oficial 
 
 Toda persona tendrá derecho a que las autoridades en materia de cambio climático, así como la Comisión, el Consejo y el Sistema de Información sobre el Cambio Climático pongan a su disposición la información que les soliciten en los términos previstos por las leyes.
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 107.
 
-La Comisión, en coordinación con el Instituto Nacional de Geografía y Estadística y el INECC, deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del país en materia de cambio climático, el informe anual de la Comisión que alude la fracción XIII del artículo 47 de esta Ley, las acciones que se llevaron a cabo con recursos del Fondo para el Cambio Climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la Federación a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la Política Nacional de Cambio Climático. En dicha página de Internet los particulares podrán revisar el inventario y el registro.
+La Comisión, en coordinación con el Instituto Nacional de Estadística y Geografía y el INECC, deberá elaborar y desarrollar una página de Internet que incluya el informe anual detallado de la situación general del país en materia de cambio climático, el informe anual de la Comisión que alude la fracción XIII del artículo 47 de esta Ley, las acciones que se llevaron a cabo para apoyar la implementación de acciones para enfrentar el cambio climático, los recursos que anualmente se asignan en el Presupuesto de Egresos de la Federación a las dependencias que integran la Comisión para cumplir con las obligaciones de esta Ley y la forma en que se ejercieron; así como los resultados de las evaluaciones de la Política Nacional de Cambio Climático. En dicha página de Internet los particulares podrán revisar el inventario y el registro.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 108.
 
-Los recursos federales que se transfieran a las Entidades Federativas y Municipios, a través de los convenios de coordinación o de proyectos aprobados del fondo, se sujetarán a las disposiciones federales en materia de transparencia y evaluación de los recursos públicos.
+Los recursos federales que se transfieran a las Entidades Federativas y Municipios, se sujetarán a las disposiciones federales en materia de transparencia y evaluación de los recursos públicos.
 
 ## TÍTULO OCTAVO. DE LA PARTICIPACIÓN SOCIAL
 
@@ -1913,3 +1939,83 @@ Además, las bases del sistema de comercio de emisiones deberán considerar los 
 En dichas bases se deberán considerar las circunstancias de competitividad de la industria nacional en el contexto global, particularmente en aquellos sectores cuya actividad económica se encuentra expuesta a la competencia internacional, cuidando no se afecte su competitividad. Igualmente, las bases del sistema de comercio de emisiones deberán de tomar en cuenta las experiencias internacionales y regionales en materia de intercambio de créditos, bonos u otros instrumentos mercadeables de reducción de gases de efecto invernadero, como lo son CORSIA, el mercado de carbono regional entre California y Quebec, el Mecanismo de Desarrollo Limpio de la Convención o el Sistema de Comercio de Emisiones de la Unión Europea.
 
 Tercero.- En un plazo máximo de 180 días a partir de la entrada en vigor del presente Decreto, la Secretaría, en coordinación con la Secretaría de Gobernación, el Sistema Nacional de Protección Civil, el Centro Nacional de Prevención de Desastres y el Servicio Meteorológico Nacional, establecerá un sistema de alerta temprana ante la ocurrencia de fenómenos hidrometeorológicos extremos, incluyendo huracanes, lluvias atípicas, olas de calor, olas de frío y sus efectos como inundaciones, deslaves, marea alta, u otros que generan vulnerabilidad en la población, en la infraestructura estratégica y en las actividades productivas del país.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+
+A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
+
+Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
+
+Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+
+Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
+
+El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
+
+Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
+
+En caso de que los Centros Públicos de Investigación cuenten con fideicomisos que integren el cumplimiento de obligaciones de carácter laboral o en materia de seguridad social y otras obligaciones de distinta naturaleza en un solo instrumento, deberán llevar a cabo la modificación a los mismos dentro de un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichos fideicomisos públicos conserven únicamente aquellas obligaciones de carácter laboral o en materia de seguridad social, y concentren los recursos no relacionados con dichos fines en términos del primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
+
+A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de Energía-Hidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
+
+Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
+
+Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
+
+Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+
+Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+
+Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+
+Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+
+Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+
+Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
+
+Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+
+Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
+
+A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
+
+Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el transitorio Cuarto del presente Decreto.
+
+Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en (sic) Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
+
+Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+
+Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará (sic) parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+
+Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+
+A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
