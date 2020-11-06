@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2016-01-28"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -47,11 +47,17 @@ ACUERDO
 
 ### Capítulo 1. De las Sesiones
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 1.
 
-Las sesiones de los tribunales colegiados de Circuito serán ordinarias y extraordinarias. Ordinarias son las que se establezcan conforme al artículo 5, fracción I, de este Acuerdo; extraordinarias serás (sic) las adicionales a las anteriores, incluidas las que deban realizarse para resolver los recursos de queja a que se refiere el artículo 97, fracción I, inciso b) de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+Las sesiones de los tribunales colegiados de Circuito serán ordinarias y extraordinarias. Ordinarias son las que se establezcan conforme al artículo 5, fracción I, de este Acuerdo; extraordinarias serán las adicionales a las anteriores, incluidas las que deban realizarse para resolver los recursos de queja a que se refiere el artículo 97, fracción I, inciso b) de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Ambas sesiones podrán celebrarse de manera presencial o a través de videoconferencia, utilizando la plataforma tecnológica prevista en el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
+
+Cuando las sesiones se lleven a cabo por videoconferencia, el Presidente del Tribunal, deberá establecer las razones o causas que justifiquen y motiven la celebración de la sesión por este método, lo cual será asentado en el acta correspondiente.
+
+En el caso de las sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes en un primer momento y eventualmente el público en general, tengan acceso en la misma modalidad virtual, atendiendo al tipo de videoconferencia y de acuerdo con las reglas que se generen al respecto. Cuando por alguna razón no sea posible el acceso del público a las sesiones por videoconferencia, se deberá garantizar su acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 2.
 
@@ -95,25 +101,25 @@ IV. El orden en que corresponderá la discusión de los asuntos de cada ponencia
 
 V. El número mínimo de asuntos que cada magistrado procurará listar en cada sesión, así como un límite máximo, en el entendido de que previo acuerdo, éste podrá variar atendiendo a la carga de trabajo que presente el tribunal o a causas extraordinarias, lo que deberá asentarse en el acta de la sesión respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
-Cada ponencia entregará a las otras dos, la lista de los asuntos que deban verse en cada sesión y los proyectos respectivos, a más tardar el día de la publicación a la que se refiere el artículo 184, párrafo primero, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+Cada ponencia entregará o enviará por correo electrónico institucional, según corresponda a las otras dos, la lista de los asuntos que deban verse en cada sesión y los proyectos respectivos, a más tardar el día de la publicación a la que se refiere el artículo 184, párrafo primero, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Este listado se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán de conformidad con el acuerdo al que hace referencia el artículo 5, fracción IV, de este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-El Presidente del tribunal, previo al inicio de la sesión, ordenará al Secretario de Acuerdos o a la persona designada que active el sistema de grabación de audio y video; hecho lo anterior, hará la declaración de inicio, haciendo mención de la fecha y la hora correspondientes.
+El Presidente del tribunal, previo al inicio de la sesión, ordenará al Secretario de Acuerdos o a la persona designada que active el sistema de grabación de audio y video; y en su caso, el sistema de videoconferencia, hecho lo anterior, hará la declaración de inicio, haciendo mención de la fecha y la hora correspondientes.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-Las sesiones se llevarán a cabo en la sala habilitada para tal efecto; además de los tres magistrados, asistirán el Secretario de Acuerdos, o en su caso, el secretario que el Pleno designe, con el objeto de que dé fe de lo actuado y, levante el acta correspondiente, así como el personal que el tribunal determine y el público en general, de acuerdo a la capacidad de espacio del Tribunal correspondiente.
+Las sesiones se llevarán a cabo en la sala habilitada para tal efecto o a través de videoconferencia; además de los tres magistrados, participarán el Secretario de Acuerdos, o en su caso, el secretario que el Pleno designe, con el objeto de que dé fe de lo actuado y, levante el acta correspondiente, así como el personal que el tribunal determine y el público en general, de acuerdo a la capacidad de espacio del Tribunal correspondiente.
 
 ###### Artículo 9.
 
@@ -179,11 +185,13 @@ Después de haber intervenido los magistrados que desearon hacerlo, el President
 
 Cuando el asunto no amerite discusión ni debate el Presidente tomará la votación de manera económica.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Secretario de Acuerdos que asista a la sesión, concluida la discusión, en los términos fijados en los artículos precedentes, tomará la votación correspondiente; el Presidente del Tribunal hará la declaratoria correspondiente.
+El Secretario de Acuerdos que intervenga en la sesión, concluida la discusión, en los términos fijados en los artículos precedentes, tomará la votación correspondiente; el Presidente del Tribunal hará la declaratoria correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 41/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2014)</small>
 
 La votación definirá el sentido del fallo.
 
@@ -216,6 +224,12 @@ Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que t
 ###### Artículo 18.
 
 La sala de sesiones de los tribunales colegiados de Circuito en la República contará con un equipo de grabación de audio y video. La unidad administrativa competente en materia informática, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal que el Pleno del tribunal designe, para operar el sistema de grabación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 18 Bis.
+
+La Dirección General de Tecnologías de la Información, será la encargada de brindar atención técnica y planeación de la logística operacional para el desarrollo de las videoconferencias, en el marco del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
 
 ###### Artículo 19.
 
@@ -285,11 +299,11 @@ La Comisión de Administración de este Consejo, en el ámbito de sus atribucion
 
 En las visitas ordinarias de inspección a los tribunales colegiados de Circuito, los visitadores verificarán que los mencionados órganos jurisdiccionales hayan dado cumplimiento al presente Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-El Pleno del Consejo y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, en el ámbito de sus atribuciones, estarán facultados para interpretar el presente Acuerdo o para resolver cualquier situación relacionada con el mismo.
+El Pleno del Consejo, y en su caso, el Comité de Transparencia del Consejo de la Judicatura Federal, en el ámbito de sus atribuciones, estarán facultados para interpretar el presente Acuerdo o para resolver cualquier situación relacionada con el mismo.
 
 ## TRANSITORIOS
 
@@ -382,3 +396,11 @@ SEGUNDO. El inicio de operación de la biblioteca virtual de las sesiones de los
 TERCERO. La biblioteca virtual de las sesiones de los Tribunales Colegiados de Circuito se integrará con las celebradas a partir de la entrada en vigor de la Ley General de Transparencia y Acceso a la Información Pública, atento a lo previsto en el último párrafo del artículo octavo transitorio de la propia legislación.
 
 CUARTO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
