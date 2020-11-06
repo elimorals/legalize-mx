@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2018-12-14"
+last_updated: "2020-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-23"
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -107,9 +107,17 @@ XVIII. Suprema Corte: Suprema Corte de Justicia de la Nación;
 
 XIX. Tesis: Criterio adoptado por un tribunal a través de argumentaciones lógico-jurídicas para justificar su decisión en una controversia resuelta en forma definitiva;
 
-XX. Tribunal o tribunales: Tribunales colegiados de Circuito; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XXI. Vía electrónica auxiliar: Uso manual y personalizado del correo electrónico oficial.
+XX. Tribunal o tribunales: Tribunales colegiados de Circuito;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Vía electrónica auxiliar: Uso manual y personalizado del correo electrónico oficial; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+XXII. Videoconferencia: Método de comunicación virtual alternativo multidireccional que tiene por objeto reproducir imágenes y audios en tiempo real a través de una infraestructura de telecomunicaciones, utilizando como vía las conexiones entre los diversos dispositivos dedicados a esos fines (códec de videoconferencia, computadoras, tabletas, teléfonos inteligentes, entre otros) que permite a varios usuarios mantener una conversación virtual por medio de la transmisión de video, audio y datos a través de internet.
 
 ## TÍTULO SEGUNDO. NATURALEZA E INTEGRACIÓN DE LOS PLENOS DE CIRCUITO
 
@@ -253,7 +261,9 @@ En todos los casos, los integrantes durarán un año en su cargo y no podrán se
 
 Los magistrados tendrán las siguientes obligaciones y facultades:
 
-I. Asistir y participar con voz y voto a las sesiones del Pleno;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+I. Asistir o intervenir, según corresponda, y participar con voz y voto a las sesiones del Pleno;
 
 II. Guardar la compostura y dirigirse con propiedad y respeto en sus intervenciones;
 
@@ -287,7 +297,9 @@ Cuando el Consejo no haya autorizado la creación de una plaza de secretario de 
 
 El secretario de acuerdos tendrá las obligaciones siguientes:
 
-I. Asistir a las sesiones del Pleno y levantar el acta respectiva;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+I. Asistir o intervenir, según corresponda, en las sesiones del Pleno y levantar el acta respectiva;
 
 II. Dar cuenta de los asuntos programados para su vista;
 
@@ -327,15 +339,23 @@ Las sesiones de los Plenos se verificarán en los lugares o espacios asignados p
 
 Por las características fijas de los lugares de sesiones referidos, su ubicación podrá no siempre coincidir con el domicilio oficial de los Plenos mencionada en el artículo inmediato anterior.
 
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de las sesiones por videoconferencia, éstas se llevarán a cabo en los recintos judiciales o bien, en sedes remotas.
+
+(REUBICADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)
+
 Lo anterior, deberá señalarse en los avisos correspondientes en los estrados de los tribunales que integran el Circuito.
 
 ###### Artículo 25.
 
 La denominación de los Plenos en la República Mexicana y sus domicilios oficiales; el nombre de sus presidentes y de los magistrados que los integren; así como el lugar en que dichos órganos sesionarán; se publicarán en el directorio de magistrados y jueces que aparece en la página de internet del Consejo, el que se mantendrá permanentemente actualizado, informando lo conducente a la Comisión para su conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-Con exclusión del Presidente, los magistrados integrantes de un Pleno cuyo tribunal colegiado se encuentre en una residencia distinta a la del lugar de sesiones, podrán asistir a éstas, en su modalidad presencial, mediante el sistema de videoconferencia, la cual preferentemente se realizará en un solo local con la infraestructura similar a la del Pleno.
+El Presidente y los magistrados integrantes de un Pleno cuyo tribunal colegiado se encuentre en una residencia distinta a la del lugar de sesiones, podrán asistir a éstas, mediante el sistema de videoconferencia, la cual preferentemente se realizará en un solo local con la infraestructura similar a la del Pleno.
 
 Durante el desarrollo de las sesiones realizadas mediante el sistema de videoconferencia, la atención de los magistrados integrantes del Pleno solamente se distraerá por situaciones extraordinarias, con asuntos distintos a los inherentes a ese cargo; en esos casos, los integrantes del Pleno deberán solicitar la autorización de su Presidente, quien determinará lo conducente dependiendo de la magnitud de la interrupción.
 
@@ -348,6 +368,18 @@ Las sesiones serán ordinarias y extraordinarias.
 Las sesiones ordinarias se celebrarán al menos una vez al mes, en los días y horas hábiles que acuerden los magistrados integrantes del Pleno y durante los periodos a que hace referencia el artículo 70 de la Ley Orgánica, siempre y cuando existan asuntos por resolver.
 
 Las sesiones extraordinarias se celebrarán cuando así lo determine el Presidente o el Pleno.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Ambas sesiones podrán celebrarse de manera presencial o a través de videoconferencia, utilizando la plataforma tecnológica prevista en el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Para la celebración de las sesiones por videoconferencia, el Presidente deberá establecer en la convocatoria las razones que justifiquen su realización bajo tal método.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de las sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes en un primer momento y eventualmente el público en general, tengan acceso en la misma modalidad virtual, atendiendo al tipo de videoconferencia y de acuerdo con las reglas que se generen al respecto. Cuando por alguna razón no sea posible el acceso del público a las sesiones por videoconferencia, se deberá garantizar su acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 28.
 
@@ -395,6 +427,12 @@ Para el desahogo de las sesiones extraordinarias se podrán limitar los plazos c
 
 Todas las sesiones del Pleno deberán ser públicas en términos de la legislación aplicable, y serán videograbadas, conservándose en los archivos digitales correspondientes, en observancia de los lineamientos contenidos en los acuerdos generales 74/2008 y 16/2009 del Consejo y sus reformas.
 
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 35 Bis.
+
+La Dirección General de Tecnologías de la Información, será la encargada de brindar atención técnica y planeación de la logística operacional para el desarrollo de las videoconferencias, en el marco del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
+
 ###### Artículo 36.
 
 Las convocatorias a sesiones ordinarias y extraordinarias se comunicarán, por medio electrónico, a cada uno de los magistrados que integran el Pleno de Circuito, y se publicarán en los estrados de los tribunales que conforman el Circuito, diez días hábiles previos a su celebración.
@@ -405,15 +443,19 @@ Las sesiones se desarrollarán de conformidad con el orden del día establecido 
 
 En la primera sesión del año, cada Pleno emitirá las reglas básicas relacionadas con su funcionamiento interno, la discusión y, en general, con el desahogo de sus asuntos, con el objeto de que las sesiones y resoluciones se desarrollen con la mayor agilidad posible. Dichas reglas podrán modificarse por decisión del Pleno, en caso de ser necesario.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 38.
 
-Las sesiones se llevarán a cabo con la asistencia del secretario de acuerdos o, en su ausencia, con el secretario que designe el presidente, a quien corresponderá levantar las actas respectivas.
+Las sesiones se llevarán a cabo con la participación del secretario de acuerdos o, en su ausencia, con el secretario que designe el presidente, a quien corresponderá levantar las actas respectivas.
 
 ### CAPÍTULO TERCERO. Del quórum y asistencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Los Plenos celebrarán válidamente sus sesiones con la concurrencia de la mayoría de sus integrantes; con excepción de los que estén conformados por tres magistrados, en cuyo caso, se requerirá de la presencia de todos ellos.
+Los Plenos celebrarán válidamente sus sesiones con la concurrencia de la mayoría de sus integrantes; con excepción de los que estén conformados por tres magistrados, en cuyo caso, se requerirá de la participación de todos ellos.
 
 Cuando no se integre el quórum, el presidente convocará ese mismo día a una nueva sesión, la cual tendrá lugar, a más tardar, dentro de las cuarenta y ocho horas hábiles siguientes.
 
@@ -447,21 +489,15 @@ III. Las consideraciones del disidente para llegar a dicha determinación; y
 
 IV. Los nombres y firmas de los disidentes.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-El engrose de la resolución emitida deberá realizarse dentro de los diez días hábiles siguientes al de la emisión del fallo del asunto. En ese mismo plazo, deberá incluirse el voto particular o de minoría, si lo hubiere. Lo anterior, a fin de proceder conforme a lo establecido en los Acuerdos Generales 19/2013 y 20/2013 del Pleno de la Suprema Corte de Justicia de la Nación.
+El engrose de la resolución emitida deberá realizarse dentro de los diez días hábiles siguientes al de la emisión del fallo del asunto. En ese mismo plazo, deberá incluirse el voto particular o de minoría, si lo hubiere. Lo anterior, a fin de proceder conforme a lo establecido en los Acuerdos Generales 16/2019 y 17/2019 del Pleno de la Suprema Corte de Justicia de la Nación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+Si la resolución da motivo a la aprobación de una o más tesis jurisprudenciales, la o las tesis respectivas quedan sujetas a las observaciones de forma que en su caso efectúe la Dirección General de la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
-
-Si la resolución da motivo a la aprobación de una o más tesis jurisprudenciales, la o las tesis respectivas quedan sujetas a las observaciones de forma que en su caso efectúe la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
-
-La tesis o las tesis enviadas por la Coordinación de Compilación y Sistematización de Tesis se entenderán que forman parte del engrose respectivo, aun cuando obren en documentos diversos, en el momento en que dichas observaciones sean aprobadas por el propio Pleno de Circuito.
+La tesis o las tesis enviadas por la Dirección General de la Coordinación de Compilación y Sistematización de Tesis se entenderán que forman parte del engrose respectivo, aun cuando obren en documentos diversos, en el momento en que dichas observaciones sean aprobadas por el propio Pleno de Circuito.
 
 ### CAPÍTULO QUINTO. De los asuntos de conocimiento del Pleno
 
@@ -485,15 +521,19 @@ En ese sentido, recibirán todos los expedientes pendientes incluyendo aquellos 
 
 ### CAPÍTULO SEXTO. Del Sistema Electrónico de Plenos de Circuito
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 47.
 
-El Sistema Electrónico se caracterizará por el uso automatizado de la transmisión, registro, control y administración de la información generada en cada Pleno, que para el efecto implementen, desarrollen y operen la Dirección General de Tecnologías de la Información y la Dirección General de Estadística Judicial.
+El Sistema Electrónico se caracterizará por el uso automatizado de la transmisión, registro, control y administración de la información generada en cada Pleno, que para el efecto implementen, desarrollen y operen la Dirección General de Tecnologías de la Información y la Dirección General de Gestión Judicial.
 
 Las actuaciones que se realicen en los Plenos se incorporarán de forma inmediata al expediente electrónico que corresponda, el cual se formará con cada asunto que se tramite en ellos.
 
-Cuando por causa de fuerza mayor sea imposible utilizar el Sistema Electrónico, la transmisión de la documentación necesaria y relacionada con el Pleno respectivo, se realizará mediante el uso manual y personalizado de los correos electrónicos oficiales, denominado “vía electrónica auxiliar”; a la que deberán incorporarse, entre otros elementos, los expedientes manuales auxiliares y los engroses con firma autógrafa, de forma similar a los trámites usuales de los órganos jurisdiccionales. Dicho expediente deberá incorporarse al Sistema Electrónico, en el momento en que éste se reestablezca.
+Cuando por causa de fuerza mayor sea imposible utilizar el Sistema Electrónico, la transmisión de la documentación necesaria y relacionada con el Pleno respectivo, se realizará mediante el uso manual y personalizado de los correos electrónicos oficiales, denominado "vía electrónica auxiliar"; a la que deberán incorporarse, entre otros elementos, los expedientes manuales auxiliares y los engroses con firma autógrafa, de forma similar a los trámites usuales de los órganos jurisdiccionales. Dicho expediente deberá incorporarse al Sistema Electrónico, en el momento en que éste se reestablezca.
 
-Todos los casos de interrupción del sistema electrónico y, en consecuencia, de uso de la vía electrónica auxiliar, deberán comunicarse a la Comisión por medio de la Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, dentro de las veinticuatro horas del día hábil siguiente.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Todos los casos de interrupción del sistema electrónico y, en consecuencia, de uso de la vía electrónica auxiliar, deberán comunicarse a la Comisión por medio de la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información, dentro de las veinticuatro horas del día hábil siguiente.
 
 ## TÍTULO CUARTO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -612,3 +652,11 @@ D.O.F. 14 DE DICIEMBRE DE 2018.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
