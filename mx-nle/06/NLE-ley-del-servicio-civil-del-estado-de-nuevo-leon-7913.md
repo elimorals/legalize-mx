@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2020-11-02"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -389,7 +389,11 @@ XV.- Hacer las deducciones que solicite la organización a que pertenezcan los t
 
 XVI.- Propiciar el establecimiento de Centros de Atención para las hijas e hijos en edad escolar de las y los trabajadores al servicio del Estado o Municipios en los centros de trabajo o cerca de ellos.
 
-Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea su denominación de modalidad pública; en donde se prestan servicios para la atención, cuidado y desarrollo integral infantil en un marco de ejercicio pleno de los derechos de niñas y niños desde los cuarenta y tres días de nacido” (sic)
+Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea su denominación de modalidad pública; en donde se prestan servicios para la atención, cuidado y desarrollo integral infantil en un marco de ejercicio pleno de los derechos de niñas y niños desde los cuarenta y tres días de nacido" (sic)
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+XVII.- Otorgar permiso de ausencia laboral por motivo de luto a causa del fallecimiento de algún familiar dentro del primer grado por consanguinidad o afinidad, por un plazo mínimo de 3 días hábiles y máximo de 5 días hábiles con goce de sueldo a las personas trabajadoras. Estos días serán aquellos inmediatos al deceso.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1132,3 +1136,11 @@ P.O. 2 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1º de enero del año 2021.
+
+P.O. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 368. SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
