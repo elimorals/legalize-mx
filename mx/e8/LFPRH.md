@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2019-11-19"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -334,7 +334,7 @@ La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto s
 
 Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia.
 
-Los fondos a que se refiere la Ley de Ciencia y Tecnología, se constituirán y operarán conforme a lo previsto en la misma, sin perjuicio de lo dispuesto en el artículo 11 de esta Ley.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
@@ -360,7 +360,9 @@ En los términos que señale el Reglamento, los informes trimestrales y la Cuent
 
 Las dependencias y entidades con cargo a cuyo presupuesto se hayan otorgado los recursos deberán suspender las aportaciones subsecuentes cuando no se cumpla con las autorizaciones y registros correspondientes.
 
-Al extinguir los fideicomisos a que se refieren los artículos 9 y 10 de esta Ley, las dependencias y entidades deberán enterar los recursos públicos federales remanentes a la Tesorería de la Federación o, en su caso, a la tesorería de la entidad, salvo que se haya acordado un destino diferente en el contrato respectivo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Al extinguir los fideicomisos a que se refieren los artículos 9 y 10 de esta Ley, las dependencias y entidades deberán enterar los recursos públicos federales remanentes a la Tesorería de la Federación o, en su caso, a la tesorería de la entidad, en términos de las disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -490,13 +492,15 @@ Las comisiones correspondientes del Congreso de la Unión, al elaborar los dict�
 
 El Ejecutivo Federal realizará una evaluación del impacto presupuestario de las iniciativas de ley o decreto que presente a la consideración del Congreso de la Unión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
 El Ejecutivo Federal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos o de excedentes de ingresos propios de las entidades, conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente; así como a la atención de desastres naturales cuando el Fondo de Desastres a que se refiere el artículo 37 de esta Ley resulte insuficiente.
+I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente, así como a la atención de desastres naturales a que se refiere el artículo 37 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA IV, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
@@ -902,13 +906,15 @@ Las dependencias y entidades informarán a la Secretaría del ejercicio de estos
 
 La Secretaría establecerá un comité de crédito externo como instancia de coordinación para que sus integrantes analicen la programación, presupuestación, ejercicio y seguimiento de los programas y proyectos financiados con crédito externo.
 
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 37.
 
-En el proyecto de Presupuesto de Egresos deberán incluirse las previsiones para el Fondo para la Prevención de Desastres así como para el Fondo de Desastres, y el Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas, con el propósito de constituir reservas para, respectivamente, llevar a cabo acciones preventivas o atender oportunamente los daños ocasionados por fenómenos naturales.
+En el proyecto de Presupuesto de Egresos deberán incluirse las previsiones para llevar a cabo acciones preventivas o ejecutar programas y proyectos para atender los daños ocasionados por fenómenos naturales. El ejercicio de estos recursos se sujetará a las disposiciones que se establezcan en el Presupuesto de Egresos, así como a las disposiciones que emita la Secretaría, los cuales podrán destinarse a cubrir los gastos que se hayan devengado conforme a los fines antes referidos.
 
-Las asignaciones en el Presupuesto de Egresos para estos fondos, sumadas a las disponibilidades existentes en las reservas correspondientes, en su conjunto no podrán ser inferiores a una cantidad equivalente al 0.4 por ciento del gasto programable.
+Las dependencias y entidades podrán celebrar compromisos plurianuales con cargo a los recursos y para los fines a que se refiere el primer párrafo de este artículo, con sujeción a las disposiciones que emita la Secretaría.
 
-La aplicación de los recursos de los Fondos se sujetará a las respectivas reglas de operación.
+Las entidades federativas y sus municipios que cuenten con disponibilidades de recursos que hayan recibido en términos de lo señalado en este artículo pero que no se hayan podido ejercer conforme a las disposiciones específicas aplicables, deberán concentrarlas en la Tesorería de la Federación por concepto de aprovechamientos y se podrán destinar por la Secretaría para los fines a que se refiere el primer párrafo de este artículo.
 
 ###### Artículo 38.
 
@@ -1838,49 +1844,71 @@ I. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingre
 
 II. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos de las Entidades Federativas serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0064.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y III, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 88.
 
-Las transferencias del Fondo Mexicano del Petróleo que se realicen al Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, a otros fondos de investigación científica y desarrollo tecnológico de institutos que realicen investigación en materia de hidrocarburos y al Fondo Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0065 y se destinarán a lo siguiente:
+Las transferencias del Fondo Mexicano del Petróleo que se realicen para la investigación en materia de hidrocarburos y sustentabilidad energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0065 y se destinarán a través de la Secretaría de Energía a lo siguiente:
 
-I. El 65% al Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, creado de conformidad con las disposiciones de la Ley de Ciencia y Tecnología y cuyo fin será:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+I. El 20% de los recursos se destinará para:
 
 a) Apoyar actividades de investigación para identificar áreas con potencial de hidrocarburos que, en el ámbito de sus atribuciones, lleve a cabo la Comisión Nacional de Hidrocarburos, y
 
-b) Al financiamiento de las actividades señaladas en el artículo 25 de la Ley de Ciencia y Tecnología en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos, con especial énfasis en la formación de recursos humanos especializados;
+b) Apoyar la realización de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocadas en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos.
 
-II. El 15% al Fondo de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, conforme a lo establecido en la Ley de Ciencia y Tecnología, para las actividades relacionadas con:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-a) La investigación y desarrollo tecnológico aplicados, tanto a la exploración, extracción y refinación de hidrocarburos, como a la producción de petroquímicos, y
-
-b) La adopción, innovación y asimilación en las materias señaladas en el inciso anterior, así como los demás elementos asociados.
-
-De estos recursos, el Instituto Mexicano del Petróleo destinará un máximo de 5% a la formación de recursos humanos especializados, y
-
-III. El 20% al Fondo Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, creado de conformidad con las disposiciones de la Ley de Ciencia y Tecnología. Estos recursos se destinarán al financiamiento de las actividades señaladas en el artículo 25 de la Ley de Ciencia y Tecnología en temas de fuentes renovables de energía, eficiencia energética, uso de tecnologías limpias y diversificación de fuentes primarias de energía. Las materias de investigación serán definidas por la Secretaría de Energía.
-
-La transferencia a que se refiere este artículo se realizará sin perjuicio de otros recursos que se aprueben para los mismos fines en el Presupuesto de Egresos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y III, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+II. El 15% para actividades de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, relacionadas con:
 
 > <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
+a) La investigación y desarrollo tecnológico aplicados, tanto a la exploración, extracción y refinación de hidrocarburos, como a la producción de petroquímicos, y
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+b) La adopción, innovación y asimilación en las materias señaladas en el inciso anterior, así como los demás elementos asociados.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+De estos recursos, el Instituto Mexicano del Petróleo destinará un máximo de 5% a la formación de recursos humanos especializados, y
+
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+III. El 65% se destinará al financiamiento de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocados en temas de fuentes renovables de energía, eficiencia energética, uso de tecnologías limpias y diversificación de fuentes primarias de energía.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+La transferencia a que se refiere este artículo se realizará sin perjuicio de otros recursos que se aprueben para los mismos fines en el Presupuesto de Egresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Para la definición y seguimiento de los proyectos señalados en las fracciones I y III la Secretaría de Energía se coordinará con el Consejo Nacional de Ciencia y Tecnología.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 89.
 
-En la aplicación de los recursos asignados por las fracciones I y II del artículo anterior, se dará prioridad a las finalidades siguientes:
+En la aplicación de los recursos asignados en el artículo anterior, se dará prioridad a las finalidades siguientes:
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 I. Elevar el factor de recuperación y la obtención del volumen máximo de hidrocarburos de los yacimientos;
 
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
 II. Fomentar la exploración, especialmente en aguas profundas, para incrementar la tasa de restitución de reservas;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 III. Mejorar la refinación de petróleo crudo pesado, y
 
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
 IV. La prevención de la contaminación y la remediación ambiental relacionadas con las actividades de la industria petrolera.
 
-Los recursos de los Fondos a que se refieren las fracciones I, II y III del artículo anterior se canalizarán de conformidad con el objeto y las prioridades establecidas para cada Fondo, para atender el Programa de Investigación, Desarrollo de Tecnología y Formación de Recursos Humanos Especializados que apruebe el comité técnico y de administración del Fondo respectivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
@@ -2641,3 +2669,83 @@ Octavo. En un plazo de hasta ciento ochenta días hábiles posteriores a la entr
 Noveno. La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
 
 Décimo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+
+A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
+
+Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
+
+Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+
+Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
+
+El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
+
+Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
+
+En caso de que los Centros Públicos de Investigación cuenten con fideicomisos que integren el cumplimiento de obligaciones de carácter laboral o en materia de seguridad social y otras obligaciones de distinta naturaleza en un solo instrumento, deberán llevar a cabo la modificación a los mismos dentro de un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichos fideicomisos públicos conserven únicamente aquellas obligaciones de carácter laboral o en materia de seguridad social, y concentren los recursos no relacionados con dichos fines en términos del primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
+
+A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de Energía-Hidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
+
+Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
+
+Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
+
+Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+
+Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+
+Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+
+Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+
+Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+
+Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
+
+Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+
+Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
+
+A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
+
+Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el transitorio Cuarto del presente Decreto.
+
+Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en (sic) Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
+
+Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+
+Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará (sic) parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+
+Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+
+A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
