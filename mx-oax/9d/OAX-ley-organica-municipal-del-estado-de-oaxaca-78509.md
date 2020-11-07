@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-31"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -559,75 +559,87 @@ En ese orden se deberá especificar el uso y destino de los recursos económicos
 
 XXIV.- Dotar a la cabecera municipal, Agencias, a los Núcleos Rurales, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
 
-XXV.- Coadyuvar en la ejecución de los planes y programas federales y estatales en el Municipio;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XXV.- Llevar a cabo la sanitización de los mercados y centros de abastos que se encuentren bajo su administración, coordinadamente con la Secretaria de Salud, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, acción que deberá ser realizada periódicamente, con la finalidad de mantener un adecuado control sanitario; lo anterior de conformidad con (sic) establecido en el artículo 16 de la Ley Estatal de Salud.
+
+XXVI.- Coadyuvar en la ejecución de los planes y programas federales y estatales en el Municipio;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia y el propio Plan Municipal de Desarrollo;
+XXVII.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia y el propio Plan Municipal de Desarrollo;
 
-XXVII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+XXVIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
 
-XXVIII.- Celebrar convenios para la administración y custodia de las zonas federales;
+XXIX.- Celebrar convenios para la administración y custodia de las zonas federales;
 
-XXIX.- Participar en la creación y administración de sus reservas territoriales y ecológicas, así como en la elaboración y aplicación de programas de ordenamiento en la materia; autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+XXX.- Participar en la creación y administración de sus reservas territoriales y ecológicas, así como en la elaboración y aplicación de programas de ordenamiento en la materia; autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
 
-XXX.- Dictar resoluciones con la aprobación de los dos tercios de sus integrantes que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento, en términos de esta Ley;
+XXXI.- Dictar resoluciones con la aprobación de los dos tercios de sus integrantes que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento, en términos de esta Ley;
 
-XXXI.- Formular y fomentar programas de organización y participación comunitaria, en los trabajos colectivos de beneficio común, que permitan una mayor cooperación entre autoridades y habitantes del Municipio, conforme a sus usos y costumbres;
+XXXII.- Formular y fomentar programas de organización y participación comunitaria, en los trabajos colectivos de beneficio común, que permitan una mayor cooperación entre autoridades y habitantes del Municipio, conforme a sus usos y costumbres;
 
-XXXII.- Formular programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
+XXXIII.- Formular programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
 
-XXXIII.- Cumplir y hacer cumplir las disposiciones legales aplicables en materia de cultos;
+XXXIV.- Cumplir y hacer cumplir las disposiciones legales aplicables en materia de cultos;
 
-XXXIV.- Asignar en la primera sesión las regidurías por materia que sean necesarias para el cumplimiento de sus fines y la prestación de los servicios públicos a su cargo;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XXXV.- Designar a los alcaldes y sus suplentes en términos de la fracción VIII del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+XXXV.- Asignar en la primera sesión las regidurías por materia que sean necesarias para el cumplimiento de sus fines y la prestación de los servicios públicos a su cargo.
 
-XXXVI.- Designar las comisiones y los concejales que deberán integrarlas, presidiéndolas en su caso, los regidores de la materia;
+XXXVI.- Designar a los alcaldes y sus suplentes en términos de la fracción VIII del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-XXXVII.- Conceder licencias a sus integrantes y resolver lo relacionado con el abandono del cargo y fallecimientos de los concejales, en los términos de esta Ley;
+XXXVII.- Designar las comisiones y los concejales que deberán integrarlas, presidiéndolas en su caso, los regidores de la materia;
 
-XXXVIII.- Promover ante la Legislatura del Estado, la suspensión o revocación del mandato de sus miembros por causa grave de acuerdo con la presente Ley;
+XXXVIII.- Conceder licencias a sus integrantes y resolver lo relacionado con el abandono del cargo y fallecimientos de los concejales, en los términos de esta Ley;
 
-XXXIX.- Rendir a la ciudadanía por conducto del Presidente Municipal, un informe anual detallado sobre el estado financiero de la hacienda pública municipal, el avance de los programas, las obras en proceso y concluidas, y en general del estado que guardan los asuntos municipales;
+XXXIX.- Promover ante la Legislatura del Estado, la suspensión o revocación del mandato de sus miembros por causa grave de acuerdo con la presente Ley;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+XL.- Rendir a la ciudadanía por conducto del Presidente Municipal, un informe anual detallado sobre el estado financiero de la hacienda pública municipal, el avance de los programas, las obras en proceso y concluidas, y en general del estado que guardan los asuntos municipales;
 
-XL.- Constituir el Concejo de Protección Civil Municipal y llevar a cabo las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso emergencias o de siniestros; promoviendo la elaboración del Atlas de Riesgo Municipal a fin de ubicar las situaciones de riesgo en su jurisdicción;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XLI.- Constituir el Concejo de Protección Civil Municipal, y llevar a cabo las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso de emergencias o de siniestros; promoviendo la elaboración del Atlas de Riesgo Municipal a fin de ubicar las situaciones de riesgo en su jurisdicción;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XLI.- Constituir los Consejos Municipales de Seguridad Pública, que tendrán como función primordial establecer criterios y acciones para la prevención del delito, a fin de salvaguardar la integridad y derechos humanos, preservando las libertades, el orden y la paz pública, en sus respectivas demarcaciones y realizar las acciones y medidas que promuevan los sistemas nacional y estatal de seguridad pública.
+XLII.- Constituir los Consejos Municipales de Seguridad Pública, que tendrán como función primordial establecer criterios y acciones para la prevención del delito, a fin de salvaguardar la integridad y derechos humanos, preservando las libertades, el orden y la paz pública, en sus respectivas demarcaciones y realizar las acciones y medidas que promuevan los sistemas nacional y estatal de seguridad pública.
 
-Los Presidentes Municipales inmediatamente después de tomar posesión de su cargo, deberán constituir su cuerpo de Policía Preventiva Municipal en términos del artículo 21 de la Constitución Política de los Estado (sic) Unidos Mexicanos, 21 y 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Para tal fin los Presidentes Municipales, realizaran todas las acciones correspondientes para la creación y funcionamiento de su Policía Preventiva Municipal, la cual tendrá las facultades previstas en el artículo 55 de esta ley.
+Los Presidentes Municipales inmediatamente después de tomar posesión de su cargo, deberán constituir su cuerpo de Policía Preventiva Municipal en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, 21 y 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
 
-XLII.- Nombrar al Cronista Municipal o al Concejo de Cronistas, el cargo será honorífico;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XLIII.- Constituir y actualizar el registro de población municipal conforme a la reglamentación correspondiente;
+Para tal fin los Presidentes Municipales, realizarán todas las acciones correspondientes para la creación y funcionamiento de su Policía Preventiva Municipal, la cual tendrá las facultades previstas en el artículo 55 de esta Ley.
 
-XLIV.- Establecer un sistema de estímulos y reconocimientos al mérito de los servidores públicos municipales y de sus habitantes, en base en la disposición respectiva del Ayuntamiento;
+XLIII.- Nombrar al Cronista Municipal o al Concejo de Cronistas, el cargo será honorífico;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XLIV.- Constituir y actualizar el registro de población municipal conforme a la reglamentación correspondiente:
+
+XLV.- Establecer un sistema de estímulos y reconocimientos al mérito de los servidores públicos municipales y de sus habitantes, en base en la disposición respectiva del Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-XLV.- Instituir una dirección que se encargue de impulsar, fomentar y mantener las actividades culturales, deportivas y recreativas, en los niños, jóvenes, adultos;
+XLVI.- Instituir una dirección que se encargue de impulsar, fomentar y mantener las actividades culturales, deportivas y recreativas, en los niños, jóvenes, adultos;
 
-XLVI.- Fomentar y fortalecer los valores históricos cívicos del pueblo, así como el respeto y aprecio a los símbolos patrios;
+XLVII.- Fomentar y fortalecer los valores históricos cívicos del pueblo, así como el respeto y aprecio a los símbolos patrios;
 
-XLVII.- Aceptar herencias y legados en favor del Municipio;
+XLVIII.- Aceptar herencias y legados en favor del Municipio;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XLVIII.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado al Órgano Superior de Fiscalización del Estado de Oaxaca;
+XLIX.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado al Órgano Superior de Fiscalización del Estado de Oaxaca;
 
-XLIX.- Establecer y actualizar la información económica, social y estadística de interés general;
+L.- Establecer y actualizar la información económica, social y estadística de interés general;
 
-L.- Elaborar y publicar en coordinación con las autoridades competentes, el catálogo del patrimonio histórico y cultural del Municipio, vigilando y promoviendo su preservación y coadyuvando a determinar las construcciones y edificios que no podrán modificarse;
+LI.- Elaborar y publicar en coordinación con las autoridades competentes, el catálogo del patrimonio histórico y cultural del Municipio, vigilando y promoviendo su preservación y coadyuvando a determinar las construcciones y edificios que no podrán modificarse;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
 
-LI.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación se señala:
+LII.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación se señala:
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -653,9 +665,9 @@ e) Estado analítico del activo;
 
 f) Estado analítico de los ingresos;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-g) Estado analítico de los egresos en las clasificaciones administrativa (sic), por objeto del gasto y funcional-programática.
+g) Estado analítico de los egresos en las clasificaciones administrativas, por objeto del gasto y funcional programática.
 
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -663,135 +675,141 @@ h) Estado de actividades;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-LII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública para el Estado de Oaxaca;
+LIII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública para el Estado de Oaxaca;
 
-LIII.- Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del Municipio respectivo;
+LIV.- Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del Municipio respectivo;
 
-LIV.- Celebrar convenios con el Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna función o de un servicio que el Municipio tenga a su cargo o para que se ejerzan coordinadamente por el Estado y el propio Municipio;
+LV.- Celebrar convenios con el Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna función o de un servicio que el Municipio tenga a su cargo o para que se ejerzan coordinadamente por el Estado y el propio Municipio;
 
-LV.- Conservar y acrecentar en beneficio público el patrimonio municipal y llevar el registro de los bienes del dominio público y del dominio privado del Municipio;
+LVI.- Conservar y acrecentar en beneficio público el patrimonio municipal y llevar el registro de los bienes del dominio público y del dominio privado del Municipio;
 
-LVI.- Proponer a la Legislatura estatal las cuotas y tarifas, los valores unitarios del suelo; a que se refiere la fracción II inciso c) tercer párrafo del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+LVII.- Proponer a la Legislatura estatal las cuotas y tarifas, los valores unitarios del suelo; a que se refiere la fracción II inciso c) tercer párrafo del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-LVII.- Celebrar convenios con el Estado para que éste asuma las funciones relacionadas con la administración de contribuciones municipales, o para que en su caso, el Ayuntamiento asuma las de carácter estatal;
+LVIII.- Celebrar convenios con el Estado para que éste asuma las funciones relacionadas con la administración de contribuciones municipales, o para que en su caso, el Ayuntamiento asuma las de carácter estatal;
 
-LVIII.- Celebrar convenios de coordinación o asociación con otros Ayuntamientos de la entidad o con el Estado, para que con sujeción a la ley, se brinde un mejor ejercicio de sus funciones o la más eficaz prestación de los servicios públicos municipales. Cuando el convenio se celebre con Municipios de otras Entidades Federativas, se deberá contar con la aprobación de la Legislatura del Estado;
+LIX.- Celebrar convenios de coordinación o asociación con otros Ayuntamientos de la entidad o con el Estado, para que con sujeción a la ley, se brinde un mejor ejercicio de sus funciones o la más eficaz prestación de los servicios públicos municipales. Cuando el convenio se celebre con Municipios de otras Entidades Federativas, se deberá contar con la aprobación de la Legislatura del Estado;
 
-LIX.- Solicitar, cuando no exista el convenio correspondiente y con aprobación de la mayoría calificada, que la Legislatura Local disponga que el gobierno del Estado asuma una función o servicio público municipal, por encontrarse el Municipio imposibilitado para ejercerla o prestarlo;
+LX.- Solicitar, cuando no exista el convenio correspondiente y con aprobación de la mayoría calificada, que la Legislatura Local disponga que el gobierno del Estado asuma una función o servicio público municipal, por encontrarse el Municipio imposibilitado para ejercerla o prestarlo;
 
-LX.- Realizar programas de capacitación para los servidores públicos municipales, por si o por convenio con otros organismos;
+LXI.- Realizar programas de capacitación para los servidores públicos municipales, por si o por convenio con otros organismos;
 
-LXI.- Enajenar y dar en arrendamiento, usufructo o comodato los bienes del Municipio con el voto aprobatorio de los dos tercios de los concejales que conforman el Ayuntamiento en los términos establecidos en esta ley;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-LXII.- Otorgar poderes para pleitos y cobranzas a propuesta del Síndico cuando sea necesario;
+LXII.- Enajenar y dar en arrendamiento, usufructo o comodato los bienes del Municipio con la aprobación con el voto de los dos tercios de los concejales que conforman el Ayuntamiento en los términos establecidos en esta ley;
 
-LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
+LXIII.- Otorgar poderes para pleitos y cobranzas a propuesta del Síndico cuando sea necesario;
+
+LXIV.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
 
-LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
+LXV.- Acordar las remuneraciones de sus miembros en términos de esta Ley de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
 
 La Remuneración de los Concejales y demás servidores públicos municipales, se fijará por el Ayuntamiento en el Presupuesto de Egresos del Municipio, atendiendo las bases del artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XLV (SIC).- Presupuestar de forma inmediata y transparente, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos; y
+LXVI.- Presupuestar de forma inmediata y transparente, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos; y
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-LXVI.- Crear el Instituto Municipal de la Juventud, a fin de promover el desarrollo y fortalecer los valores de los adolescentes y los jóvenes, y considerar en su caso, por lo menos, el diez por ciento de la plantilla de personal a la población joven.
+LXVII.- Crear el Instituto Municipal de la Juventud, a fin de promover el desarrollo y fortalecer los valores de los adolescentes y los jóvenes y considerar, en su caso, por lo menos el diez por ciento de la plantilla de personal a la población joven.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XLVII.- Autorizar la celebración de acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
-
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
-
-XLVIII.- Autorizar la celebración de convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
+LXVIII.- Autorizar la celebración de acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público-privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXIX.- Aprobar criterios generales y transparentes para la cancelación de cuentas incobrables;
+LXIX.- Autorizar la celebración de convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXX.- Mediante disposiciones de carácter general, condonar, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo o en parcialidades en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
+LXX.- Aprobar criterios generales y transparentes para la cancelación de cuentas incobrables;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXI.- Autorizar estímulos y subsidios fiscales e implementar los programas en que se desarrollarán los mismos;
+LXXI.- Mediante disposiciones de carácter general, condonar, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo o en parcialidades en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXII.- Revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por la Tesorería Municipal;
+LXXII.- Autorizar estímulos y subsidios fiscales e implementar los programas en que se desarrollarán los mismos;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXIII.- Autorizar mediante acuerdo la publicación de datos relativos a contribuyentes cuando considere conveniente en beneficio de la Hacienda Pública Municipal;
+LXXIII.- Revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por la Tesorería Municipal;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXIV.- Establecer el procedimiento de aclaración de datos en términos de lo dispuesto por el artículo 75 del Código Fiscal Municipal del Estado de Oaxaca;
+LXXIV.- Autorizar mediante acuerdo la publicación de datos relativos a contribuyentes cuando considere conveniente en beneficio de la Hacienda Pública Municipal;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+LXXV.- Establecer el procedimiento de aclaración de datos en términos de lo dispuesto por el artículo 75 del Código Fiscal Municipal (sic) Oaxaca.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXV.- Señalar mediante acuerdo los requisitos de las garantías tendientes a garantizar el cumplimiento de las obligaciones fiscales;
+LXXVI.- Señalar mediante acuerdo los requisitos de las garantías tendientes a garantizar el cumplimiento de las obligaciones fiscales;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2017)</small>
 
-LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
+LXXVII.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
 
-(ADICIONADA, P.O. 10 DE MARZO DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-LXXVII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012; y
-
-(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
-
-LXXVIII.- Promover e instalar los Comités de contraloría social;
+LXXVIII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012;
 
 (ADICIONADA, P.O. 20 DE OCTUBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
-LXXIX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales.
+LXXIX.- Promover e instalar los Comités de contraloría social;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+LXXX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-LXXX.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
+LXXXI.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXXXI.- Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar el Órgano Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
+LXXXII.- Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar el Órgano Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXXXII.- Remitir al Órgano Superior de Fiscalización del Estado de Oaxaca, en copia certificada dentro de los 15 días hábiles siguientes a su suscripción, los contratos a que hace referencia la fracción anterior;
+LXXXIII.- Remitir al Órgano Superior de Fiscalización del Estado de Oaxaca, en copia certificada dentro de los 15 días hábiles siguientes a su suscripción, los contratos a que hace referencia la fracción anterior;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-LXXXIII.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de éste ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
+LXXXIV.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de este ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
+LXXXV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-LXXXV.- Crear la instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
+LXXXVI.- Crear la Instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-LXXXVI.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
+LXXXVII.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXVI], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVII.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+LXXXVIII.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los municipios y las agencias municipales podrán crear y organizar el Instituto Comunitario Municipal de la Lengua Indígena que corresponda a su particular comunidad, para la preservación, enseñanza, hablada y escrita de sus lenguas originarias o nativas.
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-LXXXVIII.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
+LXXXIX.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-LXXXIX.- Las demás que les señalen las leyes y reglamentos municipales.
+XC.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -1639,19 +1657,23 @@ III.- Cuidar el orden, la seguridad y la tranquilidad de los vecinos del lugar; 
 
 IV.- Promover el establecimiento de los servicios públicos y vigilar su funcionamiento;
 
-V.- Promover la integración de comités de colaboración ciudadana como coadyuvantes en las acciones de bienestar de la comunidad;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VI.- Informar anualmente a la asamblea general de la población, sobre el monto, destino y aplicación de los recursos proporcionados por el Ayuntamiento, y de las labores de gestión realizadas;
+V.- Promover y participar en la sanitización de los mercados y centros de abasto, coordinadamente con su Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+VI.- Promover la integración de comités de colaboración ciudadana como coadyuvantes en las acciones de bienestar de la comunidad;
 
-VII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste, y remitirle en forma mensual la documentación comprobatoria respectiva; así informar al Ayuntamiento la recaudación por concepto (sic) agua que hayan realizado, por sí o a través de sus comités.
+VII.- Informar anualmente a la asamblea general de la población, sobre el monto, destino y aplicación de los recursos proporcionados por el Ayuntamiento, y de las labores de gestión realizadas;
 
-VIII.- Cuidar y proteger los recursos ecológicos con sujeción a la ley aplicable;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-IX.- Participar en el Concejo de Desarrollo Social Municipal para la priorización de sus obras; y
+VIII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste y remitirle en forma mensual la documentación comprobatoria respectiva; así (sic) informar al Ayuntamiento la recaudación por concepto (sic) agua que hayan realizado, por sí o a través de sus comités.
 
-X.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamiento.
+IX.- Cuidar y proteger los recursos ecológicos con sujeción a la ley aplicable;
+
+X.- Participar en el Concejo de Desarrollo Social Municipal para la priorización de sus obras; y
+
+XI.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
 
@@ -3992,6 +4014,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 31 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1544.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 104,; (SIC) Y SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1704.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 43, RECORRIÉNDOSE LAS SUBSECUENTES; Y LA FRACCIÓN V AL ARTÍCULO 80, RECORRIÉNDOSE, LAS SUBSECUENTES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
