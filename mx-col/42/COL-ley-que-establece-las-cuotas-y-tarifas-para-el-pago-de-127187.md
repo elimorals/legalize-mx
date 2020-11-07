@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-127187"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-17"
-last_updated: "2020-03-14"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número 20 del Periódico Oficial del Estado de Colima, el sábado 17 de marzo de 2018.
 
@@ -111,15 +111,17 @@ b).- Consumo medio tipo A:
 
 Comprenden: abrevaderos, pintura y laminado de vehículos, academias y escuelas, locales comerciales para renta, billares, estacionamientos, fabricación de dulces, funerarias, gasolineras sin servicio de lavado, fabricación de nieves y paletas, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, cubrirán una cuota bimestral de: 3.879 UMA.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 c).- Consumo medio tipo B:
 
-Alquiler de loza, muebles y manteles, locales para fiestas, carnicerías, cenadurías tortillerías sin molino de nixtamal, fondas, cocinas económicas y rosticerías, tiendas de autoservicio (kioskos) auto detallado sin lavado de camiones, reparación de llantas, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de 9.728 UMA
+Alquiler de loza, muebles y manteles, locales para fiestas, carnicerías, cenadurías, tortillerías, molinos de nixtamal, fondas, cocinas económicas y rosticerías, tiendas de autoservicio (kioscos), auto detallado y auto lavados de carros y camiones, reparación de llantas, vulcanizadoras y/o vitalizadoras de llantas, cantinas, bares, empaques de fruta, restaurantes, centros botaneros, lavanderías, purificador y embotelladora de agua para consumo humano, empacadoras, ruedos de jaripeo, plaza de toros, viveros, hoteles, moteles y boqueras; cubrirán una cuota bimestral de 5.728 UMA
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 d).- Consumo alto:
 
-Comprenden: cantinas, bares, empaques de fruta, restaurantes, centros botaneros, lavanderías, autolavados de carros y camiones, purificador y embotelladora de agua para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; jardines públicos, y jardines en camellones, hoteles, moteles, bloqueras y molinos de nixtamal, edificio de protección civil, casas de usos múltiples pagarán una cuota bimestral de 19.457 UMA.
+Comprenden: Edificio de la Presidencia Municipal, casa de la cultura, purificadora de agua municipal, rastros, jardines públicos y jardines en camellones, edificio de protección civil, casas de usos múltiples, viveros públicos, panteones, canchas deportivas, campos deportivos, canchas de usos múltiples, juegos infantiles, andadores, centros de cómputo y aprendizaje pagarán una cuota bimestral de 19.457 UMA
 
 e).- Servicio mixto:
 
@@ -640,3 +642,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 326.- POR EL QUE SE REFORMAN LOS INCISOS C) Y D) DEL ARTÍCULO 5, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS POR EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
