@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2020-09-19"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -529,9 +529,11 @@ Cuando los bienes propiedad del menor, los haya adquirido con el producto de su 
 
 El nombre de las personas físicas se forma con el nombre propio y sus apellidos.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Art. 61.
 
-El nombre propio será impuesto por quien declare el nacimiento de una persona, respetando la voluntad de los progenitores, pudiendo ser simple o compuesto y los apellidos serán el del padre y el de la madre, o en su caso sólo los de aquél o los de ésta en el supuesto de reconocimiento por separado.
+El nombre propio será impuesto por quien declare el nacimiento de un (sic) persona, respetando la voluntad de los progenitores, pudiendo ser simple o compuesto y los apellidos serán el que decidan primero, si el del padre o el de la madre, o en su caso sólo los de aquél o los de ésta en el supuesto de reconocimiento por separado. Una vez que se acepte el orden en que se pondrán los apellidos del primogénito de una familia, los demás hermanos deberán seguir el mismo orden, en ningún caso se les permitirá elegir nuevamente el cambio del orden de los apellidos. En el caso de que los progenitores, no llegaren a un acuerdo en el orden de los apellidos, el Oficial del Registro Civil, deberá determinar el mismo a través de un sorteo, dejando constancia del método utilizado para la celebración del mismo.
 
 ###### Art. 62.
 
@@ -565,11 +567,15 @@ No se podrá utilizar dicho apellido en los casos de divorcio o de ilegitimidad 
 
 El seudónimo es el nombre con que es conocido (sic) públicamente una persona con motivo de su profesión u ocupación por sus actividades deportivas, artísticas, culturales o religiosas.
 
+> <small>(REFORMADO, P.O.7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Art. 68.
 
-Firma es la expresión gráfica que estampa una persona para dejar constancia de su voluntad en el documento que con su persona está referido.
+Firma es la constancia de la voluntad de una persona que se expresa de manera gráfica o electrónica en el documento que con su persona está referido.
 
-Esta expresión gráfica es libre y solamente se tendrá como auténtica, para efectos de cotejo y comprobación, aquélla que se estampe en presencia de servidores públicos o con motivo de funciones oficiales.
+La expresión gráfica es libre y solamente se tendrá como auténtica, para efectos de cotejo y comprobación, aquélla que se estampe en presencia de servidores públicos o con motivo de funciones oficiales.
+
+La firma electrónica, se considera valida cuando cumple los requisitos de la ley que la regula.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
@@ -622,6 +628,10 @@ V. Los privados de su libertad corporal por más de seis meses en la población 
 ###### Art. 76.
 
 No obstante lo señalado en el artículo anterior, podrá designarse un domicilio convencional para el ejercicio y cumplimiento de derechos y obligaciones, así como la renuncia en el aspecto judicial a la jurisdicción de su domicilio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Las personas pueden señalar en cualquier instrumento legal en que sean parte, un sitio o correo electrónico como domicilio convencional el cual puede utilizarse como domicilio legal, sólo para el efecto de los derechos y obligaciones estipulados en dicho instrumento legal.
 
 ### CAPITULO XI. Del estado civil
 
@@ -1821,9 +1831,15 @@ Los cónyuges mayores de edad, tienen capacidad para administrar, disponer de su
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Art. 282.
 
-El matrimonio puede celebrarse por lo que respecta a su relación patrimonial, bajo el régimen de sociedad legal; sociedad conyugal o voluntaria y separación de bienes. El régimen de sociedad legal será presunto en los matrimonios que se celebren. En la sociedad conyugal o voluntaria, y en el régimen de separación de bienes, se requiere expresamente de capitulaciones matrimoniales para su establecimiento. Al celebrarse el matrimonio los cónyuges deberán indicar cuál de los dos tendrá la administración.
+El matrimonio puede celebrarse por lo que respecta a su relación patrimonial, bajo el régimen de sociedad legal; sociedad conyugal o voluntaria y separación de bienes.
+
+Es obligación del Oficial del Registro Civil ante quien se celebre el matrimonio, informar a los contrayentes la existencia de las tres opciones y sus alcances para que estos puedan tomar una decisión informada.
+
+En la sociedad conyugal o voluntaria, y en el régimen de separación de bienes, se requiere expresamente de capitulaciones matrimoniales para su establecimiento. Al celebrarse el matrimonio los cónyuges deberán indicar cuál de los dos tendrá la administración.
 
 ###### Art. 283.
 
@@ -2166,6 +2182,12 @@ La separación de bienes puede ser absoluta o parcial. En el segundo caso, los b
 ###### Art. 352.
 
 Durante el matrimonio, la separación de bienes puede terminar para ser sustituida por la sociedad legal o la sociedad conyugal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Art. 352 Bis.
+
+Cuando durante el matrimonio una de las partes se haya dedicado exclusivamente a las labores propias del hogar y al cuidado de los dependientes, el régimen de separación de bienes, deberá ser substituido por el régimen de sociedad legal, siempre y cuando exista sentencia ejecutoriada de delito en contra del cónyuge que se haya dedicado a las labores propias del hogar y cuidado de los dependientes.
 
 ###### Art. 353.
 
@@ -3797,13 +3819,15 @@ Son niñas y niños las personas menores de doce años, y adolescentes las perso
 
 Niñas, niños y adolescentes gozarán de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México sea parte, la Constitución Política del Estado, la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este código y todas aquellas disposiciones que atiendan el interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 569.
 
-Ninguna de las disposiciones enunciadas en este código, debe ser interpretada en forma restrictiva respecto de los derechos y de los intereses superiores de la niñez, sino que las normas aplicables a niños, niñas y adolescentes, se entenderán dirigidas a procurarles, primordialmente, los cuidados y la asistencia que requieren para lograr un crecimiento y desarrollo plenos dentro de un ambiente de bienestar familiar y social.
+Ninguna de las disposiciones enunciadas en este código, debe ser interpretada en forma restrictiva respecto de los derechos y de los intereses superiores de la niñez, sino que las normas aplicables a niños, niñas y adolescentes, se entenderán dirigidas a procurarles, primordialmente, los cuidados y la asistencia que requieren para lograr un crecimiento y desarrollo plenos dentro de un ambiente de bienestar familiar y social. En todos los casos la autoridad judicial y administrativa atenderá al interés superior de la niñez.
 
-En todos los casos la autoridad judicial y administrativa atenderá al interés superior de la niñez.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Cuando en los procesos judiciales de índole civil y familiar, se tenga que decidir sobre los derechos y obligaciones de las niñas, niños y adolescentes, el juez deberá recabar y desahogar oficiosamente las pruebas que considere necesarias, con el propósito de salvaguardar en todo caso el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -5503,9 +5527,7 @@ III. La existencia de la familia a cuyo favor se va a constituir el Patrimonio y
 
 IV. Que son de su propiedad o de su cónyuge, con el consentimiento de éste, los bienes destinados a su patrimonio, y que tratándose de inmuebles no reportan gravámenes fuera de las servidumbres legales;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-V. Que el valor de los bienes que van a constituir el patrimonio no excedan del equivalente de 40,000 veces el valor diario de la Unidad de Medida y Actualización vigente en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777. Tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado; y
+V. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -19228,3 +19250,15 @@ SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar 
 TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
 
 CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27990/LXII/20 QUE REFORMA LOS ARTÍCULOS 68 Y 76 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27993/LXII/20 QUE REFORMA LOS ARTÍCULOS 61 Y 282, ADICIONA EL ARTÍCULO 352 BIS Y UN PÁRRAFO AL ARTÍCULO 569 Y DEROGA LA FRACCIÓN V DEL ARTÍCULO 784 TODAS LAS ANTERIORES DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
