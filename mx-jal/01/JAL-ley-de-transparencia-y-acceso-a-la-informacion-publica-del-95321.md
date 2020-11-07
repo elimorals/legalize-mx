@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2020-10-27"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -2275,7 +2275,7 @@ XIII. Las demás que establezcan otras disposiciones legales y reglamentarias ap
 
 ### Capítulo III. De la Unidad de Transparencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
@@ -2285,11 +2285,17 @@ Unidad - Naturaleza y función
 
 1. La Unidad es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública y protección de datos personales en posesión del sujeto obligado.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-2. Las funciones y atribuciones de la Unidad se asignarán a los titulares de las unidades administrativas que dependan directamente del titular del sujeto obligado, preferentemente a las que cuenten con experiencia en la materia o a las encargadas de los asuntos jurídicos.
+2. Las funciones y atribuciones de la Unidad se asignarán a los titulares de las unidades administrativas que dependan directamente del titular del sujeto obligado.
 
-3. Las funciones de la Unidad, correspondientes a varios sujetos obligados, pueden concentrarse en un solo órgano, por acuerdo del superior jerárquico común a ellos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+3. Para ser titular de la Unidad, se deberá procurar contar con experiencia en áreas relativas al servicio público, protección de datos personales y archivos. Procurando desarrollar conocimiento durante su función en materias de transparencia y acceso a la información. Para lo cual el instituto proporcionará de manera constante información útil y accesible para la formación de los titulares que desarrollan dicha función.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+4. Las áreas o unidades administrativas de los sujetos obligados deberán prestar apoyo a la Unidad de Transparencia para el adecuado cumplimiento de sus responsabilidades.
 
 ###### Artículo 32.
 
@@ -2374,6 +2380,8 @@ III. Las unidades administrativas que establezca su Reglamento Interno, y
 IV. Las unidades desconcentradas que apruebe el Consejo.
 
 2. El Instituto contará además con un Consejo Consultivo, el cual se regirá por las disposiciones de la presente ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
@@ -2515,6 +2523,10 @@ XXXVIII. Las demás que establezcan otras disposiciones legales y reglamentarias
 
 3. El Reglamento de esta Ley indicará las consideraciones a las que el Instituto se habrá de ajustar para la verificación de la información fundamental de los sujetos obligados, así como lo procedente en caso de detectar incumplimientos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+4. El Instituto proporcionará al Consejo Consultivo todos los elementos materiales necesarios para que, en el año de elección de Comisionados, cumpla con sus respectivas atribuciones.
+
 ###### Artículo 36.
 
 Instituto - Patrimonio
@@ -2591,11 +2603,11 @@ III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 5. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-Pleno-Atribuciones
+Pleno - Atribuciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -2657,13 +2669,17 @@ XVII. Presentar petición fundada al Instituto Nacional para que conozca de los 
 
 XVIII. Coordinarse con las autoridades competentes para que en los procedimientos de acceso a la información, así como en los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua y, en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Instruir al Presidente a interponer acciones de inconstitucionalidad, cuando así lo estime pertinente; y
+XIX. Instruir al Presidente a interponer acciones de inconstitucionalidad, cuando así lo estime pertinente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XX. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la Ley General y otras disposiciones legales y reglamentarias aplicables.
+XX. Atender y responder de manera fundada y motivada, en un plazo no mayor a quince días hábiles, las propuestas y recomendaciones que le presente el Consejo Consultivo en ejercicio de sus atribuciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la Ley General y otras disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -2721,11 +2737,11 @@ XI. Las demás que establezcan otras disposiciones legales o reglamentarias apli
 
 ### Capítulo III. De los Comisionados del Instituto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 43.
 
-Comisionados-Requisitos
+Comisionados - Requisitos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -2739,9 +2755,13 @@ III. Tener título profesional registrado en la dependencia estatal en materia d
 
 IV. Haber desempeñado tareas sociales, profesionales, académicas, empresariales o culturales, que denoten compromiso y conocimiento en materia de acceso a la información pública;
 
-V. Acreditar el examen de conocimientos en la forma y término que señale esta ley;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VI. Presentar al menos dos cartas de recomendación expedidas por instituciones con prestigio reconocido en materia de transparencia;
+V. Acreditar un examen de conocimientos en la forma y término que señale esta ley, mismo que versará en las materias de transparencia, acceso a la información, protección de datos personales, archivos, gobierno abierto y Sistema Anticorrupción.
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+VI. Presentar al menos dos cartas de recomendación expedidas por instituciones u organismos con prestigio reconocido en materia de transparencia;
 
 VII. No haber sido condenado por delito doloso;
 
@@ -2949,6 +2969,8 @@ XI. Tres representantes de la sociedad civil.
 
 9. La asistencia de los integrantes del Consejo Consultivo es obligatoria, y en caso de acumular tres faltas o más sin causa justificada, se procederá a la sustitución del consejero.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 53.
 
 Consejo Consultivo - Funcionamiento
@@ -2958,6 +2980,10 @@ Consejo Consultivo - Funcionamiento
 2. El Consejo debe sesionar cuando menos una vez cada tres meses.
 
 3. Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión, teniendo el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación. Salvo la elección de la terna a que se refiere el artículo 58, la cual debe ser aprobada por las dos terceras partes de los integrantes del Consejo Consultivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+4. En caso de ausencia del Presidente, habiendo sido convocado el Consejo Consultivo a sesión, la Presidencia de la sesión recaerá en el miembro con mayor antigüedad, levantando el Secretario el acta respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -3061,6 +3087,8 @@ Consejo Consultivo - Periodo
 
 2. El Secretario Técnico deberá notificar tanto a las instituciones que conforman el Consejo Consultivo como a éste, el vencimiento del nombramiento de los consejeros.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 58.
 
 Consejo Consultivo - Propuesta de aspirantes
@@ -3079,9 +3107,9 @@ b) Los requisitos de elegibilidad y los documentos o medios de acreditación de 
 
 c) El periodo de registro de aspirantes, que no podrá ser inferior a tres días hábiles;
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-d) El procedimiento y los criterios para la evaluación de conocimientos en materia de transparencia e información pública de los candidatos;
+d) El procedimiento, los criterios para la evaluación de conocimientos en materia de transparencia, acceso a la información pública, protección de datos personales, archivos, gobierno abierto y Sistema Anticorrupción, de los candidatos;
 
 e) La fecha límite para la revisión de los requisitos de elegibilidad;
 
@@ -3091,7 +3119,15 @@ f) La fecha límite para la votación de los candidatos elegibles;
 
 g) La aceptación por los aspirantes de la publicación de la calificación obtenida en la evaluación de conocimientos, incluidos el nombre y la clave que le sea asignada;
 
-h) El procedimiento para el registro y acreditación de observadores ciudadanos;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+h) El procedimiento para el registro y acreditación de observadores ciudadanos; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+i) La fecha, horario y lugar en que los aspirantes reciban la retroalimentación o aclaraciones que soliciten sobre el examen aplicado.
+
+> <small>(REFORMADO [REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 II. El Consejo Consultivo en el procedimiento para la elaboración, calificación y publicación del resultado de los exámenes, se sujetará a lo siguiente:
 
@@ -4652,3 +4688,9 @@ P.O. 27 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27976/LXII/20 QUE REFORMAN LOS ARTÍCULOS 8 Y 12 Y ADICIONA EL TÍTIULO (SIC) V “DEL USO DE REDES SOCIALES DIGITALES”, AL CAPÍTULO PRIMERO, Y LOS ARTÍCULOS 23-SEXIES, 23-SEPTIES Y 23-OCTIES, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor en los ciento ochenta días naturales siguientes de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27982/LXII/20 QUE REFORMA LOS ARTÍCULOS 31, 35, 41, 43, 53 Y 58 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, ASÍ COMO EL ARTÍCULO 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.]</small>
