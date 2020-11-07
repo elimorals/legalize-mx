@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2020-10-03"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -71,19 +71,21 @@ VI. Establecer los criterios de coordinación de las acciones que se realicen en
 
 VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado así como el sector social de la economía;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión para el Desarrollo Social;
+VIII. Fortalecer el desarrollo regional equilibrado, de conformidad con las disposiciones legales aplicables;
 
-IX. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+IX. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión para el Desarrollo Social;
 
-X. Establecer mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+X. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
 
-XI. Los demás que se deriven de la Ley General de Desarrollo Social, la Constitución Local y demás ordenamientos legales que estén vinculados con los principios de la Política Estatal de Desarrollo Social.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XI. Crear mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia.
 
 ###### Artículo 2.
 
@@ -243,17 +245,21 @@ VIII. El derecho a recibir apoyo al transporte para estudiantes de los niveles d
 
 IX. El derecho a la cultura;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-X. El derecho a la recreación y el esparcimiento;
+X. El derecho al uso y aprovechamiento de las tecnologías de la comunicación y de la información;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XI. El derecho a la cohesión social y la vida comunitaria; y
+XI. El derecho a la recreación y el esparcimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades.
+XII. El derecho a la cohesión social y la vida comunitaria; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XIII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades.
 
 ###### Artículo 8.
 
@@ -289,9 +295,9 @@ II. Ser tratados con respeto, oportunidad, dignidad y atendidos con calidad;
 
 III. Contar con la información necesaria de los programas, y conocer sus reglas de operación y forma de acceder a los mismos;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-IV. Al tratamiento de los datos e información de carácter personal que proporcionen, en términos de la Ley de Transparencia y Acceso a la Información Publica del Estado de Jalisco y sus Municipios y demás disposiciones aplicables.
+IV. Al tratamiento de los datos e información de carácter personal que proporcionen, en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y demás disposiciones aplicables;
 
 V. Recibir asesoría para alcanzar su desarrollo integral;
 
@@ -407,9 +413,17 @@ IX. Establecer mecanismos para incluir la participación social organizada en lo
 
 X. Informar a la sociedad sobre las acciones en torno al desarrollo social y hacer públicos y difundir los programas de desarrollo social;
 
-XI. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Municipio, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Municipal de Desarrollo Social; e
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas.
+XI. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Municipio, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Municipal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Las que le señale esta Ley y las demás disposiciones aplicables.
 
 ## TITULO CUARTO. DE LA POLITICA DE DESARROLLO SOCIAL
 
@@ -435,9 +449,9 @@ III. Impulsar esquemas que fomenten el empleo y la conservación del mismo, el a
 
 IV. Fomentar el desarrollo regional, de las micro-regiones y de las cadenas productivas, así como el de las Zonas de Atención Prioritaria;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social; y
+V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio y perspectiva de género, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad, que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social; y
 
 VI. Asegurar y fomentar la participación ciudadana en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social.
 
@@ -1091,9 +1105,17 @@ f) Acceso a los servicios básicos en la vivienda;
 
 g) Acceso a la alimentación;
 
-h) Grado de cohesión social; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-i) Grado de Accesibilidad a carretera pavimentada.
+h) Grado de cohesión social;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+i) Grado de accesibilidad a carretera pavimentada; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+j) Grado de accesibilidad a las tecnologías de comunicación y de la información;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1300,5 +1322,11 @@ Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudad
 P.O. 3 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27770/LXII/19 QUE REFORMA LOS ARTÍCULOS 1 EN SUS FRACCIONES I, IV, V, VI, VII Y X, 6 FRACCIÓN II, 7 FRACCIÓN III, ARTÍCULO 10, ARTÍCULO 11 FRACCIONES I, II, VI Y VII, ARTÍCULO 13 Y 14 FRACCIONES X Y XI, Y ADICIONAN AL ARTÍCULO 1 UNA FRACCIÓN XI, AL ARTÍCULO 6 LAS FRACCIONES III, V, VI, X Y XI RECORRIÉNDOSE LAS SUBSECUENTES IV, VII, VIII Y IX, Y AL ARTÍCULO 8, UN SEGUNDO PÁRRAFO TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27984/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
