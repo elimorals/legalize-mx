@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2018-09-28"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -87,9 +87,9 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Ley de Coordinación Fiscal, a la Ley de Coordinación Fiscal de aplicación federal;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-II. Secretaría de Finanzas y Administración, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Colima;
+II. Secretaría de Planeación y Finanzas, a la Secretaría de Planeación y Finanzas del Gobierno del Estado de Colima;
 
 III. Sistema de Coordinación Fiscal, al Sistema de Coordinación Fiscal del Estado de Colima;
 
@@ -119,11 +119,11 @@ Para efectos de la presente Ley, son participaciones las asignaciones que corres
 
 Los municipios, además de las participaciones federales establecidas en la presente Ley, recibirán directamente de la Federación las relativas al artículo 2o. A, fracciones I y II de la Ley de Coordinación Fiscal, en los términos establecidos en dicho ordenamiento.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 4°.
 
-De las participaciones federales que correspondan al Estado, la Secretaría de Finanzas y Administración determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la Ley de Coordinación Fiscal establezca, en las proporciones que se señalan en los artículos 6° y 7° de la presente Ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
+De las participaciones federales que correspondan al Estado, la Secretaría de Planeación y Finanzas determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la Ley de Coordinación Fiscal establezca, en las proporciones que se señalan en los artículos 6° y 7° de la presente Ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
 
@@ -147,25 +147,33 @@ III. El 20 por ciento como mínimo de las cantidades que el Estado recaude por c
 
 IV. El 20 por ciento como mínimo de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la misma Ley; y
+V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la misma Ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización y Recaudación, de acuerdo a la Ley de Coordinación Fiscal.
+VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización y recaudación, de acuerdo a la Ley de Coordinación Fiscal; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 7º.
+VII. El 20 por ciento del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
-Además de los conceptos de participaciones enumerados en el artículo anterior, los municipios participarán de un 20 por ciento como mínimo de las cantidades que al Estado le correspondan de la recaudación obtenida por la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, cuando tenga celebrado convenio de colaboración con la Federación para la administración de dichas cuotas, en los términos del artículo 4o.-A, fracción I de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+###### ARTÍCULO 7°.
+
+Además de los conceptos de participaciones enumerados en el artículo anterior, los municipios participarán de un 20 por ciento como mínimo, de las cantidades que les correspondan al Estado respecto de la recaudación obtenida por la aplicación de las cuotas previstas en el artículo 2º-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, por la veta (sic) final de gasolina y diesel, cuando se tenga celebrado convenio de colaboración con la Federación para la administración de dichas cuotas, en los términos del artículo 4º-A, fracción I de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 7° BIS.- Además de las participaciones establecidas en los artículos 6º y 7º que anteceden, el Estado participará a los municipios el 100 por ciento de la recaudación del Impuesto sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio de que se trate, así como en sus respectivos organismos autónomos y entidades paramunicipales, de conformidad con lo establecido en el artículo 3-B, de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 8°.
 
-El Estado, a través de la Secretaría de Finanzas y Administración, deberá publicar anualmente en el Periódico Oficial, el calendario de entrega, montos y estimados de las participaciones federales a que se refieren los artículos 6° y 7° de este ordenamiento, así como porcentajes, fórmulas y variables utilizadas en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos. También deberá publicar trimestralmente el importe de las participaciones entregadas.
+El Estado, a través de la Secretaría de Planeación y Finanzas, deberá publicar anualmente en el Periódico Oficial, el calendario de entrega, montos y estimados de las participaciones federales a que se refieren los artículos 6° y 7° de este ordenamiento, así como porcentajes, fórmulas y variables utilizadas en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos. También deberá publicar trimestralmente el importe de las participaciones entregadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
@@ -229,31 +237,33 @@ IV. En el caso de que ninguno de los municipios aumenten su recaudación de ingr
 
 Durante los primeros tres meses de cada ejercicio, las participaciones a que se refiere el artículo 6° de este ordenamiento, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto la Asamblea aprueba los definitivos correspondientes al ejercicio de que se trate.
 
-En el mes de abril, la Secretaría de Finanzas y Administración hará el ajuste que se derive de la aplicación de los nuevos factores aprobados por la Asamblea, a los montos ya entregados de manera provisional a los municipios.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+En el mes de abril, la Secretaría de Planeación y Finanzas hará el ajuste que se derive de la aplicación de los nuevos factores aprobados por la Asamblea, a los montos ya entregados de manera provisional a los municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 11.
 
-En relación a las participaciones provenientes del Fondo General entregadas mensualmente como anticipo por la Federación al Gobierno del Estado, éste a través de la Secretaría de Finanzas y Administración deberá distribuir entre los municipios cuando menos el 70 por ciento del importe que resulte de aplicar al anticipo recibido la fracción I del artículo 6° de esta Ley La distribución se hará conforme a los factores determinados con base en el artículo 9° de este Ordenamiento.
+En relación a las participaciones provenientes del Fondo General entregadas mensualmente como anticipo por la Federación al Gobierno del Estado, éste a través de la Secretaría de Planeación y Finanzas deberá distribuir entre los municipios cuando menos el 70 por ciento del importe que resulte de aplicar al anticipo recibido la fracción I del artículo 6° de esta Ley. La distribución se hará conforme a los factores determinados con base en el artículo 9° de este Ordenamiento.
 
 En relación con el ajuste anual de los Fondos a que se refiere el artículo 6º de esta Ley, para su distribución entre los municipios se aplicará el factor del ejercicio al que corresponde el ajuste, aun cuando ya estuvieran vigentes los factores a que se refiere la fracción VIII del artículo 42 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 12.
 
-En caso de que los municipios soliciten anticipos extraordinarios por montos superiores a lo señalado en el artículo anterior, deberá contar con la aprobación del Cabildo, por mayoría calificada, previa justificación de la viabilidad financiera y la no afectación a los programas municipales, presentada a la Comisión de Hacienda por el Tesorero Municipal. En estos casos deberá suscribirse convenio entre el Gobierno del Estado, a través de la Secretaría de Finanzas y Administración y el municipio respectivo, en el que deberá especificarse el plazo, los montos a amortizar y el origen de los recursos con que se cubrirá el adeudo.
+En caso de que los municipios soliciten anticipos extraordinarios por montos superiores a lo señalado en el artículo anterior, deberá contar con la aprobación del Cabildo, por mayoría calificada, previa justificación de la viabilidad financiera y la no afectación a los programas municipales, presentada a la Comisión de Hacienda por el Tesorero Municipal. En estos casos deberá suscribirse convenio entre el Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas y el municipio respectivo, en el que deberá especificarse el plazo, los montos a amortizar y el origen de los recursos con que se cubrirá el adeudo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 13.
 
-Las participaciones federales a los municipios serán cubiertas en efectivo, sin restricción alguna y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal; serán calculadas para cada ejercicio fiscal y se entregarán por conducto de la Secretaría de Finanzas y Administración, dentro de los cinco días hábiles siguientes a aquel en que el Estado las reciba efectivamente.
+Las participaciones federales a los municipios serán cubiertas en efectivo, sin restricción alguna y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal; serán calculadas para cada ejercicio fiscal y se entregarán por conducto de la Secretaría de Planeación y Finanzas, dentro de los cinco días siguientes a aquel en que el Estado las reciba efectivamente.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-La Secretaría de Finanzas y Administración entregará a los municipios las constancias de recepción de las participaciones federales, al día siguiente de obtener las mismas.
+La Secretaría de Planeación y Finanzas entregará a los municipios las constancias de recepción de las participaciones federales, al día siguiente de obtener las mismas.
 
 El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
@@ -269,13 +279,13 @@ No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones q
 
 El Estado y los municipios efectuarán los pagos de las obligaciones garantizadas con la afectación de participaciones, de acuerdo con los mecanismos y sistemas de registro establecidos en la Ley de Deuda Pública del Estado de Colima.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 16.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, y el Congreso, por conducto del Órgano Superior, pondrán a disposición de los municipios que lo soliciten, la información necesaria que les permita comprobar la correcta determinación de los factores de participación, así como la aplicación exacta de los mismos.
+El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, y el Congreso, por conducto del Órgano Superior, pondrán a disposición de los municipios que lo soliciten, la información necesaria que les permita comprobar la correcta determinación de los factores de participación, así como la aplicación exacta de los mismos.
 
-La Secretaría de Finanzas y Administración informará a la Comisión sobre los montos recibidos por el Estado por concepto de participaciones y aportaciones federales, así como de su distribución a los municipios, conforme a las disposiciones aplicables, en relación a la facultad que a la Comisión le otorga el artículo 44, fracción VI, de este ordenamiento.
+La Secretaría de Planeación y Finanzas informará a la Comisión sobre los montos recibidos por el Estado por concepto de participaciones y aportaciones federales, así como de su distribución a los municipios, conforme a las disposiciones aplicables, en relación a la facultad que a la Comisión le otorga el artículo 44, fracción VI, de este ordenamiento.
 
 ###### ARTÍCULO 17.
 
@@ -299,23 +309,29 @@ Los Fondos anteriores, se integrarán, distribuirán, administrarán, ejercerán
 
 Los montos de los recursos que integren los Fondos de Aportaciones señalados en el presente artículo, serán los que anualmente se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 18 Bis.
+
+El Ejecutivo Estatal deberá prever en el proyecto de presupuesto de Egresos del Estado el monto estimado de participaciones, aportaciones y otros fondos que correspondan a cada uno de los Municipios, los cuales estarán sujetos al Presupuesto de Egresos de la Federación y a las modificaciones o ajustes que durante el ejercicio fiscal correspondiente determine el Gobierno Federal en términos de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 19.
 
-Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en la aplicación del factor que determine la Secretaría de Finanzas y Administración, aplicando el procedimiento establecido en la Ley de Coordinación Fiscal, debiendo publicar dicha información en el Periódico Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
+Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en la aplicación del factor que determine la Secretaría de Planeación y Finanzas, aplicando el procedimiento establecido en la Ley de Coordinación Fiscal, debiendo publicar dicha información en el Periódico Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 20.
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará a los municipios mensualmente durante los primeros diez meses del año por partes iguales y por conducto de la Secretaría de Finanzas y Administración; será de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 33, de la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará a los municipios mensualmente durante los primeros diez meses del año por partes iguales y por conducto de la Secretaría de Planeación y Finanzas; será de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 33, de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 21.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría de Finanzas y Administración~ (sic) será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 37 de la Ley de Coordinación Fiscal.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría de Planeación y Finanzas; será de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 37 de la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 22.
 
@@ -343,11 +359,11 @@ El Congreso, a través del Órgano Superior, será el responsable de supervisar,
 
 ### CAPITULO CUARTO. DE LA COLABORACION ADMINISTRATIVA DEL ESTADO CON LOS MUNICIPIOS Y DE ESTOS ENTRE SI
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-Por conducto de la Secretaría de Finanzas y Administración, el Ejecutivo del Estado y los municipios de la Entidad, podrán celebrar, previa autorización del Congreso, convenios de colaboración administrativa respecto de gravámenes estatales y municipales, así como en materia de ingresos federales coordinados.
+Por conducto de la Secretaría de Planeación y Finanzas, el Ejecutivo del Estado y los municipios de la Entidad, podrán celebrar, previa autorización del Congreso, convenios de colaboración administrativa respecto de gravámenes estatales y municipales, así como en materia de ingresos federales coordinados.
 
 Los municipios podrán celebrar entre sí, previa autorización de los Cabildos correspondientes, convenios de colaboración administrativa en materia fiscal municipal.
 
@@ -363,6 +379,10 @@ El Estado podrá efectuar compensaciones sobre incentivos a los municipios, como
 
 Los convenios de colaboración administrativa celebrados entre el Estado y los municipios y de éstos entre sí, serán publicados en el Periódico Oficial y surtirán sus efectos a partir de la fecha que en los mismos se establezca.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+De igual manera el Ejecutivo Estatal deberá publicar y transparentar, a través de la página oficial de Internet de la Secretaría de Planeación y Finanzas, la totalidad de los convenios por parte del Estado con la Federación, incluyendo aquellos que se deriven de transferencias federales de recursos, en un período no mayor a 15 días naturales contados a partir del día siguiente al de su celebración.
+
 ###### ARTÍCULO 30.
 
 El Estado o el municipio de que se trate, podrá dar por terminados total o parcialmente los convenios a que se refiere el artículo 26 de esta Ley, debiendo notificar a la otra parte con una anticipación de por lo menos 30 días naturales, salvo disposición en contrario contenida en el propio convenio. Su terminación será publicada en el Periódico Oficial y surtirá sus efectos de acuerdo a lo dispuesto en el artículo anterior.
@@ -377,49 +397,47 @@ Cuando las autoridades fiscales municipales actúen con base en los convenios re
 
 ### CAPITULO QUINTO. DE LOS ORGANISMOS EN MATERIA DE COORDINACION FISCAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas y Administración y los municipios a través de sus Tesorerías Municipales, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán:
+El Gobierno del Estado por conducto de la Secretaría de Planeación y Finanzas y los municipios a través de sus Tesorerías Municipales, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán:
 
 I. La Asamblea Fiscal Estatal;
 
 II. La Comisión de Coordinación Fiscal; y
 
-III. El Instituto Técnico Hacendario del Estado de Colima.
+II. (SIC) El Instituto Técnico Hacendario del Estado de Colima.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2012)</small>
-
-En el ejercicio de las atribuciones que esta Ley le confiere al Secretario de Finanzas y Administración en su carácter de Presidente de la Asamblea y de Presidente de la Comisión, previstas en las fracciones I y II anteriores, podrá ser suplido por el Director General de Ingresos del Gobierno del Estado de Colima o por el Director de Política de Ingresos y Coordinación Fiscal de esa misma dependencia.
+En el ejercicio de las atribuciones que esta Ley le confiere al Secretario de Planeación y Finanzas en su carácter de Presidente de la Asamblea y de Presidente de la Comisión, previstas en las fracciones I y II anteriores, podrá ser suplido por el Director General de Ingresos o por el Director de Política de Ingresos y Coordinación Fiscal de esa misma dependencia.
 
 ###### ARTÍCULO 34.
 
 La Asamblea se establece como instancia de coordinación de los municipios entre sí y con el Gobierno del Estado, para la definición de la política tributaria de jurisdicción de ambas esferas de gobierno y para la adopción de los sistemas de su administración.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 35.
 
-La Asamblea se formará con el Secretario de Finanzas y Administración, los Tesoreros de los municipios de la Entidad y el Director del Instituto.
+La Asamblea se formará con el Secretario de Planeación y Finanzas, los Tesoreros de los municipios de la Entidad y el Director del Instituto.
 
 Para efectos de la instalación legal de la Asamblea, el quórum lo harán exclusivamente alguno de los funcionarios señalados en el artículo 33, último párrafo, de esta Ley y los Tesoreros Municipales.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 36.
 
-La Asamblea será presidida conjuntamente por el Secretario de Finanzas y Administración y por el Tesorero Municipal que elija la propia Asamblea como Copresidente.
+La Asamblea será presidida conjuntamente por el Secretario de Planeación y Finanzas y por el Tesorero Municipal que elija la propia Asamblea como Copresidente.
 
 ###### ARTÍCULO 37.
 
 La Asamblea se reunirá cuando menos dos veces al año en el municipio del Estado que elijan sus integrantes, quienes desarrollarán sus trabajos conforme a las bases que la propia Asamblea establezca.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 38.
 
-La Asamblea será convocada por el Secretario de Finanzas y Administración o, en su caso, cuando menos por cuatro Tesoreros Municipales. En la convocatoria se señalarán los asuntos de que deba ocuparse la Asamblea.
+La Asamblea será convocada por el Secretario de Planeación y Finanzas o, en su caso, cuando menos por cuatro Tesoreros Municipales. En la convocatoria se señalarán los asuntos de que deba ocuparse la Asamblea.
 
 ###### ARTÍCULO 39.
 
@@ -445,17 +463,17 @@ Serán facultades de la Asamblea:
 
 I. Aprobar y expedir el reglamento de funcionamiento de la propia Asamblea, de la Comisión y del Instituto, así como el reglamento para determinar las aportaciones a los organismos de coordinación fiscal;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-II. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los municipios, para el sostenimiento de los organismos citados en la fracción anterior, atendiendo al techo financiero que fije la Secretaría de Finanzas y Administración, previa consulta a la Asamblea;
+II. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los municipios, para el sostenimiento de los organismos citados en la fracción anterior, atendiendo al techo financiero que fije la Secretaría de Planeación y Finanzas, previa consulta a la Asamblea;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
 
 III. Intervenir como Asamblea General del Instituto y aprobar sus programas e informes de actividades;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-IV. Proponer al Ejecutivo del Estado, por conducto del Secretario de Finanzas y Administración y de los Tesoreros Municipales, las medidas que estime convenientes para actualizar y mejorar el Sistema de Coordinación Fiscal;
+IV. Proponer al Ejecutivo del Estado, por conducto del Secretario de Planeación y Finanzas y de los Tesoreros Municipales, las medidas que estime convenientes para actualizar y mejorar el Sistema de Coordinación Fiscal;
 
 V. Realizar consulta y análisis, respecto del estudio, modificación y actualización de la legislación local estatal y municipal de la Entidad, para proponerlas al Congreso, por conducto de las instancias gubernativas correspondientes;
 
@@ -483,9 +501,9 @@ XI. Nombrar al Director del Instituto, quien durará en su encargo dos años, el
 
 En el supuesto de que no se realice la elección del nuevo Director o, en su caso, la ratificación del que esté en funciones al término de dos años, éste continuará desempeñando dicho cargo hasta que sea ratificado o electo el nuevo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XII.- Aprobar anualmente, a más tardar el 31 de diciembre, los presupuestos de ingresos y de egresos del Instituto del año siguiente, sujeto al techo financiero que la Secretaría de Finanzas y Administración apruebe para el Instituto.
+XII. Aprobar anualmente, a más tardar el 31 de diciembre, los presupuestos de ingresos y de egresos del Instituto del año siguiente, sujeto al techo financiero que la Secretaría de Planeación y Finanzas apruebe para el Instituto.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
@@ -509,13 +527,13 @@ XVI. Las demás que determine la propia Asamblea.
 
 La Comisión se integrará como sigue:
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-I. Se formará por el Secretario de Finanzas y Administración y por cuatro Tesoreros Municipales~ (sic)
+I. Se formará por el Secretario de Planeación y Finanzas y por cuatro Tesoreros Municipales;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-II. Será presidida conjuntamente por el Tesorero Municipal que elija la Asamblea como Copresidente y por el Secretario de Finanzas y Administración;
+II. Será presidida conjuntamente por el Tesorero Municipal que elija la Asamblea como Copresidente y por el Secretario de Planeación y Finanzas;
 
 III. La elección del Copresidente de la Comisión, deberá recaer siempre en un Tesorero Municipal; en su elección no participará funcionario alguno del Gobierno del Estado;
 
@@ -529,9 +547,9 @@ V. El Director del Instituto participará como Secretario de Actas;
 
 VI. La totalidad de los municipios del Estado estará representada a través de la Comisión, por los cuatro que al efecto elijan, los cuales actuarán a través del Tesorero Municipal Copresidente de la misma;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VII. La Comisión sesionará mensualmente en el lugar del territorio del Estado que elijan sus integrantes y será convocada por el Secretario de Finanzas y Administración, conjuntamente con el Tesorero Municipal Copresidente de la Comisión;
+VII. La Comisión sesionará mensualmente en el lugar del territorio del Estado que elijan sus integrantes y será convocada por el Secretario de Planeación y Finanzas, conjuntamente con el Tesorero Municipal Copresidente de la Comisión;
 
 VIII. Los municipios que integren la Comisión, serán elegidos por cada una de las zonas que a continuación se expresan:
 
@@ -571,9 +589,9 @@ IV. Revisar los informes de actividades del Instituto, así como formular los de
 
 V. Sugerir las medidas encaminadas a coordinar la acción impositiva estatal y municipal, para el logro de una más equitativa distribución de los ingresos;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-VI. Verificar mensualmente, por conducto del Instituto, la distribución y entrega de las participaciones y aportaciones Federales que haga la Secretaría de Finanzas y Administración a los municipios se realice con apego a los plazos, factores, coeficientes, bases y montos que por ley sean aplicables;
+VI. Verificar mensualmente, por conducto del Instituto, la distribución y entrega de las participaciones y aportaciones Federales que haga la Secretaría de Planeación y Finanzas a los municipios se realice con apego a los plazos, factores, coeficientes, bases y montos que por ley sean aplicables;
 
 > <small>(ADICIONADA, P.O. 28 DE ENERO DE 2012)</small>
 
@@ -623,7 +641,9 @@ II. La Asamblea General, que aprobará sus estatutos, reglamentos, programas y p
 
 III. El Consejo Directivo, que tendrá las facultades que señalen los estatutos. La Comisión participará como Consejo Directivo; y
 
-IV. El Comisario, quien será nombrado por el Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+IV. El Comisario, quien será nombrado por el Secretario de Planeación y Finanzas.
 
 ###### ARTÍCULO 47.
 
@@ -651,11 +671,11 @@ El Congreso vigilará el estricto cumplimiento de las disposiciones contenidas e
 
 Cuando el Estado o algún municipio contravenga lo establecido por esta Ley o en la de Coordinación Fiscal, la parte afectada lo manifestará por escrito a la autoridad infractora y presentará, además, inconformidad ante el Congreso a efecto de que determine sobre medidas correctivas a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 51.
 
-Cuando un municipio no cumpla con lo señalado en algún Convenio de Colaboración Administrativa suscrito con el Gobierno del Estado, previa opinión de la Asamblea, será prevenido por la Secretaría de Finanzas y Administración para que en un plazo que no exceda de diez días naturales, adopte las medidas necesarias para corregir las violaciones en que hubiere incurrido~ (sic) de no hacerlo, se dará por terminado el convenio de que se trata. El Ejecutivo del Estado hará la declaratoria correspondiente y ordenará su publicación en el Periódico Oficial.
+Cuando un municipio no cumpla con lo señalado en algún Convenio de Colaboración Administrativa suscrito con el Gobierno del Estado, previa opinión de la Asamblea, será prevenido por la Secretaría de Planeación y Finanzas para que en un plazo que no exceda de diez días naturales, adopte las medidas necesarias para corregir las violaciones en que hubiere incurrido; de no hacerlo, se dará por terminado el convenio de que se trata. El Ejecutivo del Estado hará la declaratoria correspondiente y ordenará su publicación en el Periódico Oficial.
 
 En caso de que el incumplimiento sea por parte del Gobierno del Estado o entre los municipios, la propia Asamblea emitirá opinión al respecto, a petición expresa del municipio afectado, para que éste la presente junto con su inconformidad al Congreso, quien deberá emitir resolución a los 30 días naturales siguientes de recibida.
 
@@ -1064,3 +1084,11 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 328.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA; DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS; ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA Y COORDINACIÓN FISCAL DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
