@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-09-05"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -713,6 +713,14 @@ La ley determinará las formas y modalidades que correspondan, para observar el 
 
 La elección local ordinaria para elegir Gobernador, Diputadas y Diputados y Ayuntamientos, se celebrará el primer domingo de junio del año que corresponda.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En la postulación de candidaturas se observará el principio de paridad de género en los términos establecidos en esta Constitución, así como en las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+A efecto de garantizar la aplicación del principio de paridad de género, y la igualdad sustantiva entre mujeres y hombres, se establecerá en las leyes correspondientes el concepto de violencia política contra las mujeres en razón de género, así como los mecanismos para promover, respetar y garantizar los derechos políticos, electorales y civiles de las mujeres.
+
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
 Además de lo dispuesto en la ley general, la ley local regulará el régimen aplicable a la postulación, registro, derechos y obligaciones de las candidaturas independientes.
@@ -1265,6 +1273,10 @@ La Legislatura del Estado se instalará el siete de septiembre del año de su el
 
 La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concurrencia de más de la mitad de sus miembros; pero los que se presenten el día señalado por la ley llamarán a los ausentes, con la advertencia de que de no presentarse, sin causa justificada, los suplentes asumirán las funciones de propietarios para los fines de integración de la Legislatura e inicio de sus trabajos.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En los casos que se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado, las y los Diputados podrán continuar con los trabajos legislativos en sesiones virtuales. Los medios tecnológicos, procedimientos y lineamientos serán determinados en la Ley Orgánica del Poder Legislativo y su Reglamento General.
+
 Los Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
@@ -1354,6 +1366,10 @@ Toda resolución de la Legislatura tendrá el carácter de ley, decreto o acuerd
 "La Legislatura del Estado Libre y Soberano de Zacatecas, en nombre del Pueblo, decreta: (aquí el texto de la ley o decreto). Comuníquese al Ejecutivo del Estado para su promulgación y publicación".
 
 Los acuerdos deberán firmarse únicamente por los Secretarios.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Cuando existan elementos de riesgo en los términos del párrafo segundo del artículo 58 de esta Constitución y la Legislatura se encuentre sesionando de manera virtual, se aprobará el uso de firmas electrónicas que permitan el cumplimiento de las obligaciones contenidas en el presente artículo. Los lineamientos, procedimientos y medios tecnológicos, serán determinados en la Ley Orgánica del Poder Legislativo y su Reglamento General.
 
 #### SECCIÓN TERCERA. DE LAS FACULTADES Y OBLIGACIONES DE LA LEGISLATURA
 
@@ -1566,6 +1582,10 @@ V. Los demás que dispongan la Ley Orgánica del Poder Legislativo y el Reglamen
 ###### Artículo 67.
 
 A la conclusión de los periodos ordinarios y antes de clausurar sus sesiones, la Legislatura nombrará de su seno a una Comisión Permanente integrada por once Diputados en calidad de propietarios y otros tantos como suplentes. El primero nombrado será el Presidente de la Comisión, los dos siguientes Secretarios y el resto vocales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+La Comisión Permanente podrá sesionar de manera virtual, cuando existan elementos de riesgo en los términos del párrafo segundo del artículo 58 de esta Constitución. Los medios tecnológicos, procedimientos y lineamientos serán determinados en la Ley Orgánica del Poder Legislativo y su Reglamento General.
 
 ###### Artículo 68.
 
@@ -3929,17 +3949,25 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 
 Artículo Segundo. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá expedir las leyes que regulen la organización y el funcionamiento del Tribunal de Justicia Laboral Burocrática del Estado y del organismo descentralizado encargado de la función conciliatoria en materia laboral, así como realizar las adecuaciones a la Ley del Servicio Civil del Estado, a la Ley Orgánica del Poder Judicial del Estado de Zacatecas y a los demás ordenamientos que sean necesarios para dar cumplimiento al presente Decreto y al Artículo Segundo Transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral publicada en el Diario Oficial de la Federación en fecha 24 de febrero de 2017.
 
-Artículo Tercero. El Tribunal de Justicia Laboral Burocrática, los tribunales laborales del Tribunal Superior de Justicia del Estado y el Centro de Conciliación Laboral del Estado deberán entrar en funciones el 1 de octubre de 2020.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Hasta en tanto inician operaciones los órganos mencionados en el párrafo anterior, la Junta Local de Conciliación y Arbitraje del Estado y el Tribunal de Conciliación y Arbitraje continuarán ateniendo las diferencias o conflictos que se presenten entre el capital y el trabajo, los servidores y los Entes Públicos y sobre el registro de contratos colectivos de trabajo, organizaciones sindicales y condiciones generales de trabajo, de conformidad con la competencia que les señalan las leyes aplicables.
+Artículo Tercero. Los tribunales laborales del Tribunal Superior de Justicia del Estado y el Centro de Conciliación Laboral del Estado deberán entrar en funciones el 1 de octubre de 2020, o bien, cuando lo acuerde el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, debiendo informar, en su caso, la nueva fecha a la Legislatura del Estado.
 
-Artículo Cuarto. El Presupuesto de Egresos del Estado para el ejercicio fiscal 2020 deberá destinar los recursos necesarios para la operación del Tribunal de Justicia Laboral Burocrática, de los tribunales laborales del Tribunal Superior de Justicia del Estado y del Centro de Conciliación Laboral del Estado.
+El Tribunal de Justicia Laboral Burocrática deberá comenzar sus funciones en el mes de enero de 2021.
+
+Hasta en tanto inician operaciones los órganos mencionados en los párrafos anteriores, la Junta Local de Conciliación y Arbitraje del Estado y el Tribunal de Conciliación y Arbitraje continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo, los servidores y los Entes Públicos y sobre el registro de contratos colectivos de trabajo, organizaciones sindicales y condiciones generales de trabajo, de conformidad con la competencia que les señalan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Artículo Cuarto. El Presupuesto de Egresos del Estado para el ejercicio fiscal 2020 deberá destinar los recursos necesarios para la operación de los tribunales laborales del Tribunal Superior de Justicia del Estado y del Centro de Conciliación Laboral del Estado.
+
+De la misma forma, en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2021, deberán preverse los recursos indispensables para el inicio de actividades del Tribunal de Justicia Laboral Burocrática.
 
 Artículo Quinto. Los derechos de los trabajadores que estén adscritos a la Junta Local de Conciliación y Arbitraje del Estado de Zacatecas serán reconocidos y respetados conforme a la Ley del Servicio Civil del Estado de Zacatecas.
 
-Artículo Sexto. A más tardar el 1 de julio de 2020, la Legislatura del Estado comenzará el procedimiento para la elección de los Magistrados señalado en el artículo 115 de este Decreto.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Los magistrados que actualmente integran el Tribunal de Conciliación y Arbitraje del Estado podrán participar en el citado procedimiento de designación, cumpliendo con los requisitos que se establezcan en la convocatoria que para el efecto se emita.
+Artículo Sexto. A más tardar el 3 de noviembre de 2020, la Legislatura del Estado comenzará el procedimiento para la elección de los Magistrados señalado en el artículo 115 del Decreto número 385, por el cual se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, publicado en el suplemento 2 al 26 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 28 de marzo de 2020.
 
 Por única ocasión, la Legislatura del Estado nombrará a los titulares de las magistraturas del Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas en los términos siguientes:
 
@@ -3949,7 +3977,7 @@ b) Un Magistrado o Magistrada que durará en su encargo cinco años, y
 
 c) Un Magistrado o Magistrada que durará en su encargo siete años.
 
-Los Magistrados a que se refieren los incisos anteriores se rotarán la Presidencia del Tribunal en el mismo orden señalado.
+Los Magistrados a que se refieren los incisos anteriores deberán ser designados a más tardar el 31 de diciembre de 2020, y se rotarán la Presidencia del Tribunal en el mismo orden señalado.
 
 Artículo Séptimo. El Poder Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas.
 
@@ -3982,3 +4010,15 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 432.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+TERCERO. La Legislatura del Estado, deberá hacer las adecuaciones correspondientes a las leyes estatales, en un plazo no mayor a 60 días naturales, a partir de su entrada en vigor.
+
+CUARTO. Conforme al apartado de efectos de la sentencia emitida por el Tribunal de Justicia Electoral del Estado de Zacatecas, relativa a los procedimientos de carácter jurisdiccional con el número de expediente TRIJEZ-JDC-008/2020 y Acumulado TRIJEZ-AG- 002/2020, y derivado que se encuentra en curso el proceso electoral local 2020-2021, las disposiciones normativas que sean parte de la armonización en el tema de Violencia Política Contra las Mujeres en Razón de Género, deberán iniciar su vigencia y aplicabilidad una vez concluido el proceso electoral que dio inicio el día siete de septiembre del año en curso.
