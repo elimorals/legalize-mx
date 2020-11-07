@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2020-07-01"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -383,6 +383,12 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo III. Disposiciones generales del Juicio Político
 
+#### Sección Primera. Disposiciones Generales
+
+#### Sección Segunda. De su Estructura
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ### Capítulo I. Observancia de la Ley General de Responsabilidades Administrativas
 
 ###### Artículo 31.
@@ -563,6 +569,8 @@ XXI. Cometer actos u omisiones en el ejercicio de su encargo, considerados como 
 
 1. Cuando se mencione en cualquier ley estatal alguna causal de responsabilidad administrativa que no encuadre en las hipótesis de falta administrativa grave según lo establecido en la Ley General de Responsabilidades Administrativas, se entenderá que será causal de falta administrativa no grave.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ### Capítulo IV. Procedimientos de responsabilidad administrativa y sus recursos
 
 ###### Artículo 50.
@@ -571,9 +579,15 @@ XXI. Cometer actos u omisiones en el ejercicio de su encargo, considerados como 
 
 2. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado que de manera directa, o a través de los órganos internos de control de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, ejercerá sus atribuciones de conformidad a la legislación orgánica del Poder Ejecutivo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 51.
 
 1. Los órganos internos de control se regirán conforme a lo establecido en el artículo 106 de la Constitución Política del Estado y tendrán las facultades y obligaciones que les otorga la Ley General de Responsabilidades Administrativas y las demás leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Para el desempeño de sus funciones, los Órganos Internos de Control gozarán de autonomía técnica y de gestión que les permita cumplir con la finalidad para la cual fueron creados. Los Órganos Internos de Control deberán emitir y aprobar los manuales, lineamientos y estatutos necesarios para el desempeño de sus funciones.
 
 ###### Artículo 52.
 
@@ -616,6 +630,32 @@ XIV. Las demás que le otorguen la legislación general y estatal aplicable.
 ###### Artículo 53.
 
 1. El órgano interno de control se integrará con una estructura que permita que la autoridad encargada de la substanciación y, en su caso, de la resolución del procedimiento de responsabilidad administrativa, sea distinto de aquél o aquellos encargados de la investigación, garantizando la independencia en el ejercicio de sus funciones.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 53 Bis.
+
+1. El Órgano Interno de Control, se conforma preferentemente de la siguiente manera:
+
+I. La persona titular del Órgano Interno de Control;
+
+II. Área de Auditoría;
+
+III. Área de Investigación;
+
+IV. Área de Substanciación;
+
+V. Área de Responsabilidades; y
+
+VI. Las demás áreas necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 53 Ter.
+
+Para el estudio y despacho de los asuntos de su competencia, el Órgano Interno de Control, se auxiliará del personal adscrito al área para el cumplimiento de las funciones a su cargo, atendiendo a su disponibilidad presupuestal aprobada.
+
+Las instituciones deberán de hacer la previsión presupuestal necesaria para el debido cumplimiento de las funciones de los Órganos Internos de Control.
 
 ### Capítulo IV (SIC). Facilidades para presentar las declaraciones fiscal, patrimonial y de intereses
 
@@ -798,3 +838,9 @@ TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participaci
 CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
 
 QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27987/LXII/20 QUE REFORMA LA NOMENCLATURA DEL CAPÍTULO III DEL TÍTULO TERCERO Y LOS ARTÍCULOS 51, SE ADICIONA LA SECCIÓN SEGUNDA Y EL ARTÍCULO 53 BIS Y 53 TER A LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
