@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-y-contratacion-de-126512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-17"
-last_updated: "2019-08-17"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2018.
 
@@ -1261,13 +1259,15 @@ La garantía correspondiente a los anticipos se presentará previamente a la ent
 
 La garantía de saneamiento para el caso de evicción, vicios ocultos y daños y perjuicios, se otorgará previamente al acto de recepción de los bienes o servicios.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 85.
 
-Las garantías que deban otorgarse conforme a esta Ley se constituirán en favor de:
+Las garantías que deban otorgarse conforme a esta Ley se constituirán conforme a lo siguiente:
 
-I. La Secretaría, por actos o contratos que se celebren con el Poder Ejecutivo del Estado.
+I. A favor de la Secretaría, por actos o contratos que se celebren con el Poder Ejecutivo del Estado.
 
-II. El órgano encargado de atender todo lo concerniente a la administración financiera y fiscal de los demás entes públicos, cuando los actos o contratos se celebren con ellos.
+II. A favor de los demás entes públicos, cuando los actos o contratos se celebren con ellos o, en su caso, de los órganos encargados de atender todo lo concerniente a su administración financiera y fiscal.
 
 ###### Artículo 86.
 
@@ -2032,3 +2032,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado realizará las adecuaciones pertinentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0757/2020 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 85 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
