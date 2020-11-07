@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-de-responsabilidad-hacendaria-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-28"
-last_updated: "2017-01-28"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de enero de 2017.
 
@@ -238,6 +238,10 @@ LXII. Techo presupuestario: El monto total de recursos públicos asignados para 
 LXIII. Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado Libre y Soberano de Colima; y
 
 LXIV. Transferencias federales etiquetadas: Los recursos que recibe de la Federación el Estado, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+El proyecto de Presupuesto de Egresos del Estado incluirá las definiciones de este artículo que se consideren pertinentes, las cuales estarán dirigidas a la ciudadanía para una mayor comprensión del contenido de la información financiera.
 
 ###### Artículo 5.
 
@@ -642,6 +646,142 @@ IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinc
 V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
 2. La Ley de Ingresos y el Presupuestos (sic) de Egresos del Estado, deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el Proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 37 Bis.
+
+Contenido complementario del proyecto de la Ley de Ingresos del Estado
+
+1. El proyecto de la Ley de Ingresos del Estado contendrá, además de lo establecido en el artículo 37 de esta Ley, lo siguiente:
+
+I.- El monto de los ingresos previstos para cada uno de los rubros y tipos de ingresos de acuerdo con el Clasificador por Rubros de Ingresos aprobado por el Consejo Nacional. El Clasificador se desagregará a un tercer nivel y podrá hacerlo a un cuarto nivel. La Secretaría de Planeación y Finanzas incorporará todos los rubros y tipos de ingresos que desglosa el Clasificador por Rubros de Ingresos. En caso de que no se estimen ingresos en determinados rubros se deberá anotar cero y no eliminar el mismo;
+
+II.- El Techo de Financiamiento Neto;
+
+III.- La situación de la deuda pública, incluyendo el saldo y la composición de dicha obligación y el destino de los recursos obtenidos, conforme a lo dispuesto en la Ley de Deuda Pública del Estado de Colima y sus Municipios; y
+
+IV.- El saldo y la composición de los compromisos de pago de asociaciones público privadas, proyectos de prestación de servicios, y proyectos de inversión productiva de largo plazo conforme a lo dispuesto en la Ley de Asociaciones Público Privadas del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 37 Bis 1.
+
+Contenido complementario del proyecto de Presupuesto de Egresos del Estado
+
+1. El proyecto de Presupuesto de Egresos del Estado contendrá, además de lo establecido en el artículo 37 de esta Ley, lo siguiente:
+
+I. Exposición de motivos, en la que se describa las condiciones económicas y hacendarias del Estado;
+
+II. La previsión de gasto para las diversas Clasificaciones del Presupuesto de Egresos del Estado a que hace referencia el artículo 37 BIS 2 de esta Ley;
+
+III. Las previsiones de gasto de los poderes públicos del Estado, de conformidad a lo siguiente:
+
+a. Poder Ejecutivo: de manera consolidada y desagregada por dependencia y unidad responsable y por órganos desconcentrados;
+
+b. Poder Legislativo: de manera consolidada y desagregada entre el Congreso del Estado de Colima y el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
+
+c. Poder Judicial: de manera consolidada y desagregada conforme a la Ley Orgánica del Poder Judicial del Estado de Colima;
+
+IV. Las previsiones de gasto de los órganos autónomos del Estado, de manera consolidada y para cada uno de ellos.
+
+Las previsiones de gasto del Instituto Electoral del Estado de Colima deberán integrar las estimaciones por el financiamiento de los partidos políticos de manera global y para cada uno de ellos en términos del Código Electoral del Estado de Colima;
+
+V. Las previsiones de gasto de los organismos descentralizados, entidades de la Administración Pública Paraestatal, y aquellos que, de conformidad con la Ley Orgánica de la Administración Pública del Estado de Colima, sean considerados entidades paraestatales o con una estructura orgánica análoga a la de un organismo descentralizado. Los fideicomisos públicos a los que se refiere esta fracción deberán desglosar además el saldo patrimonial, el número de contrato y el fiduciario;
+
+VI. Un capítulo específico que incorpore las previsiones de recursos que se asignen a los fideicomisos en los que participe el Estado, que no sean considerados entidades públicas en virtud de la Ley Orgánica de la Administración Pública del Estado de Colima o aquellos que no cuenten con estructura orgánica. Los fideicomisos a los que se refiere esta fracción deberán desglosar el saldo patrimonial, el número de contrato y el fiduciario;
+
+VII. Las previsiones de recursos que se asignen a las instituciones de educación superior del Estado;
+
+VIII. Las previsiones de gasto en la prestación de servicios educativos en el Estado en todos los niveles, distinguiendo el origen de los recursos entre federales y estatales;
+
+IX. Un capítulo específico que incorpore las previsiones de gasto que correspondan a los compromisos plurianuales que deriven de los proyectos de asociación público-privada, de prestación de servicios aprobados y de proyectos de infraestructura productiva de largo plazo, en términos de la Ley de Asociaciones Público Privadas del Estado de Colima;
+
+X. Las previsiones de recursos que se asignen al Régimen de Protección Social en Salud del Estado;
+
+XI. Las previsiones de gasto que correspondan a las erogaciones para la igualdad entre mujeres y hombres;
+
+XII. Las previsiones de gasto que correspondan a la mitigación de los efectos del cambio climático;
+
+XIII. Las previsiones de gasto que correspondan a la atención de niños, niñas y adolescentes;
+
+XIV. La estimación de recursos que se transfieran a los municipios en donde se distinga el origen de las transferencias de conformidad con la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Colima;
+
+XV. La estimación de recursos que se transfieran a cada uno de los organismos de la sociedad civil, asociaciones civiles e instituciones sin fines de lucro;
+
+XVI. Los programas del Estado en donde se señalen objetivos, metas e indicadores de desempeño, y los responsables de su ejecución, así como su cuantificación en costo y fuente de financiamiento;
+
+XVII. Las previsiones en el gasto de inversión, en donde se especifique:
+
+a. Los nuevos proyectos, identificando los que se consideren prioritarios y estratégicos de acuerdo con los criterios del Plan Estatal y demás instrumentos que emanen del mismo;
+
+b. El lugar geográfico de su realización y los responsables de su ejecución;
+
+c. La previsión de recursos en el ejercicio fiscal correspondiente, para la puesta en operación de los programas y proyectos; y
+
+d. La información que se considere útil en los términos de la normatividad aplicable.
+
+XVIII. Los montos máximos de los importes de cada operación para poder contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de invitación a cuando menos tres personas o de adjudicación directa, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima;
+
+XIX. Los montos máximos de los importes de cada operación para poder contratar obras públicas o servicios relacionadas con las mismas, sin sujetarse al procedimiento de licitación pública, a través de invitación a cuando menos tres personas o de adjudicación directa, en términos de la Ley Estatal de Obras Públicas;
+
+XX. Una previsión financiera para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionada por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto en las finanzas estatales, en términos de lo dispuesto en el artículo 9 de la Ley de Disciplina Financiera, así como el saldo y los recursos presupuestados para el fideicomiso del Fondo de Desastres Naturales del Estado en el ejercicio fiscal correspondiente; y
+
+XXI. En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 37 Bis 2.
+
+Clasificaciones en el proyecto de Presupuesto de Egresos del Estado
+
+1. El proyecto de Presupuesto de Egresos del Estado se presentará, desglosará y aprobará, conforme a las siguientes clasificaciones:
+
+I. Clasificación por Objeto del Gasto, desglosada al menos al tercer nivel;
+
+II. Clasificación Administrativa, desglosando únicamente la estructura del sector público a nivel del quinto dígito;
+
+III. Clasificación Funcional del Gasto, desglosada al menos al tercer nivel;
+
+IV. Clasificación por Fuente de Financiamiento;
+
+V. Clasificación por Tipo de Gasto; y
+
+VI. Clasificación Programática.
+
+2. Las clasificaciones señaladas en el presente artículo se elaborarán conforme los clasificadores presupuestarios emitidos por el Consejo Nacional.
+
+3. La Secretaría de Planeación y Finanzas incorporará todos los conceptos desglosados en los clasificadores emitidos por el Consejo Nacional, por lo que no se deben eliminar conceptos cuando no se prevea un gasto del Estado. En este caso, se deberá anotar cero.
+
+4. Además de las clasificaciones contempladas, deberá distinguir entre el gasto programable y no programable del Estado.
+
+5. Los clasificadores deberán desglosar los montos consolidados del Presupuesto de Egresos del Estado. También podrá hacerlo únicamente para el Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 37 Bis 3.
+
+Sección de erogaciones correspondientes al gasto en servicios personales en el proyecto de Presupuesto de Egresos.
+
+1. En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+I. Las remuneraciones base y adicionales de los servidores públicos y las erogaciones a cargo de los ejecutores de gasto por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones;
+
+II. Las remuneraciones base y adicionales del personal docente del Estado por nivel educativo; y
+
+III. Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral.
+
+2. Asimismo, la Secretaría de Planeación y Finanzas deberá observar lo dispuesto en el artículo 10, fracción I, de la Ley de Disciplina Financiera.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 37 Bis 4.
+
+Integración de información de plazas, personal de base y confianza en el proyecto de Presupuesto de Egresos del Estado.
+
+1. El proyecto de Presupuesto de Egresos del Estado deberá integrar el número total de las plazas, del personal de base y confianza por nivel de puesto, para cada unidad administrativa y del magisterio. Al desglosar las plazas del magisterio, se deberá distinguir a aquellos que pertenecen al magisterio federal y al estatal.
+
+2. Asimismo, deberá desglosarse el número total de personas contratadas bajo el régimen de servicios profesionales por honorarios para cada unidad administrativa.
 
 ###### Artículo 38.
 
@@ -1196,3 +1336,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el 13 trece de enero de 2017 dos mil diecisiete.
 
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima. Rúbrica. ARNOLDO OCHOA GONZÁLEZ, Secretario General de Gobierno. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 328.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA; DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS; ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA Y COORDINACIÓN FISCAL DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
