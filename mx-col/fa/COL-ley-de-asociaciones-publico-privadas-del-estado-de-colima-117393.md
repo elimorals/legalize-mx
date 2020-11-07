@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asociaciones-publico-privadas-del-estado-de-colima-11739
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2016-11-22"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el martes 22 de noviembre de 2016.
 
@@ -514,6 +514,24 @@ Proyecciones presupuestales de las asociaciones público-privadas
 4. Los proyectos de asociación público-privada que se pretendan realizar, y los proyectos en proceso o en marcha que se pretendan incorporar a dicho esquema, serán autorizados por el ente gubernamental interesado, con la opinión del Comité Estatal, a fin de determinar la prelación y su inclusión en un capítulo específico del proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado, así como su orden de ejecución, en congruencia con el Plan Estatal de Desarrollo.
 
 5. En el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado de cada ejercicio se deberá prever en un capítulo específico y por sector, los compromisos plurianuales de gasto que deriven de los proyectos de asociación público-privada.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Además, en el proyecto de la Ley de Ingresos del Estado deberá desglosarse el estado que guarda cada una de las obligaciones derivadas de los proyectos de asociación público-privada aprobados en ejercicios fiscales anteriores, incorporando los siguientes elementos:
+
+a) Denominación del proyecto de Asociación Público-Privada;
+
+b) Fecha de contratación;
+
+c) Fecha de inicio de operación del proyecto;
+
+d) Fecha de vencimiento;
+
+e) Monto de inversión pactado;
+
+f) Plazo pactado; y
+
+g) Saldo pendiente por pagar de la inversión del último trimestre disponible.
 
 6. Asimismo, se deberá presentar la descripción de cada uno de los proyectos, montos erogados o por erogar conforme las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como el monto de los pagos anuales comprometidos.
 
@@ -1948,3 +1966,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 20 veinte del mes de Septiembre del año 2016 dos mil dieciséis.
 
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima. Rúbrica. ARNOLDO OCHOA GONZÁLEZ. Secretario General de Gobierno. Rúbrica. KRISTIAN MEINERS TOVAR. Secretario de Administración y Gestión Pública. Rúbrica. CARLOS ARTURO NORIEGA GARCÍA. Secretario de Planeación y Finanzas. Rúbrica. CARLOS DOMÍNGUEZ AHEDO. Secretario de Fomento Económico. Rúbrica. JOSE DE JESÚS SÁNCHEZ ROMO. Secretario de Infraestructura y Desarrollo Urbano. ANDRÉS GERARDO GARCÍA NORIEGA. Consejero Jurídico del Poder Ejecutivo del Estado. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 328.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA; DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS; ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA Y COORDINACIÓN FISCAL DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
