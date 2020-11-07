@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2020-10-03"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,209 +21,297 @@ state: "JAL"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
-Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
+Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
-JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 455, CUYO TEXTO ES EL SIGUIENTE:
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
+Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
-DECRETO N° 455
+NÚMERO.- 20861 EL CONGRESO DEL ESTADO DECRETA:
 
-ÚNICO.- Se aprueba la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA, para quedar como sigue:
+Se expide la Ley de Desarrollo Social Para el Estado de Jalisco
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
+Artículo Único.- Se expide la Ley de Desarrollo Social Para el Estado de Jalisco para quedar como sigue:
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-### CAPÍTULO I. DEL OBJETO Y DEFINICIONES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 1.
 
-Esta ley es de orden público e interés social y regula el derecho de acceso de cualquier persona a la información pública y la protección de los datos personales en posesión de cualquier autoridad del Estado de Baja California.
+La presente ley es de interés social, orden público y observancia general en el Estado de Jalisco y tiene por objeto:
 
-Los principios en los que se funda esta ley, son los de máxima publicidad, sencillez y prontitud en el procedimiento de acceso a la información, austeridad, gratuidad, suplencia de la solicitud y deberán también observarse en la interpretación y aplicación de la misma.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Promover, proteger y garantizar el cumplimiento de los derechos sociales de los habitantes del Estado de Jalisco y crear los mecanismos necesarios para lograr su cabal cumplimiento;
+
+II. Coordinar y armonizar la política estatal y municipal de desarrollo social, en el marco de la Política Nacional de Desarrollo Social;
+
+III. Establecer las bases y principios generales para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Regular y garantizar la prestación, los bienes y servicios contenidos en los programas sociales a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a los principios de las políticas públicas de desarrollo social contenidos en la Ley General de Desarrollo Social y esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. Impulsar la Política Estatal en materia de Desarrollo Social, promoviendo la participación ciudadana;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Establecer los criterios de coordinación de las acciones que se realicen entre el Gobierno del Estado y los Municipios, y con la Federación, en materia de Desarrollo Social, así como las bases para la concertación de acciones con los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado así como el sector social de la economía;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Fortalecer el desarrollo regional equilibrado, de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+IX. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión para el Desarrollo Social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+X. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XI. Crear mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia.
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto:
+La aplicación de la presente ley corresponde a las dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de su competencia.
 
-I.- Fijar procedimientos para garantizar que toda persona pueda tener acceso a la información pública que genere o se encuentre en posesión de los sujetos obligados señalados en esta Ley, así como a sus datos personales, mediante procedimientos sencillos, gratuitos y expeditos.
-
-II.- Transparentar la gestión pública mediante la difusión de la información completa y actualizada que generan, administran o posean los sujetos obligados.
-
-III.- Garantizar la protección de los datos personales en poder de los sujetos obligados.
-
-IV.- Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obligados a la ciudadanía, a través de la generación y publicación de información sobre sus indicadores de gestión y el ejercicio de los recursos públicos, de forma completa, veraz, oportuna y comprensible.
-
-V.- Promover la cultura de transparencia y acceso a la información pública.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-La información generada, administrada o en posesión de los sujetos obligados, se considera un bien del dominio público, por lo que cualquier persona tendrá acceso a la misma en los términos y con las excepciones que esta Ley señala. Su reglamento no podrá establecer más excepciones que las previstas en este ordenamiento.
+Para los efectos previstos en esta ley, se aplicará en forma supletoria:
 
-La información que proporcionen los sujetos obligados, deberá reunir los requisitos de claridad, calidad, veracidad, oportunidad y confiabilidad.
+I. La Ley General de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+II. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
+
+III. El Código de Asistencia Social del Estado de Jalisco;
+
+IV. El Código Civil para el Estado de Jalisco;
+
+V. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+
+VI. Legislación general y estatal de los derechos de niñas, niños y adolescentes;
+
+VII. Ley Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+VIII. Ley para el Desarrollo Integral del Adulto Mayor del Estado de Jalisco;
+
+IX. Legislación para la inclusión y desarrollo integral de las personas con discapacidad;
+
+X. Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas;
+
+XI. La legislación general y estatal en materia de discriminación; y
+
+XII. Las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 4.
 
-El trámite de acceso que soliciten las personas respecto de la, información pública será gratuito, salvo los costos de reproducción que se establezcan en la ley de ingresos respectiva.
+Para los efectos de esta ley se entiende por:
+
+I. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normatividad correspondiente;
+
+II. Consejo: El Consejo Estatal para el Desarrollo Social;
+
+III. Comisión: La Comisión para el Desarrollo Social;
+
+IV. Desarrollo Social: Es el proceso mediante el cual se amplían las capacidades de las personas para elegir y desarrollar libremente sus proyectos de vida; permitiendo a cada persona extender sus potencialidades en el marco de igualdad de oportunidades sociales para todos. Las personas son concebidas como actores del desarrollo, dado que el ejercicio de su libertad implica la participación activa en la mejora de su calidad de vida en lo individual y de su grupo social, en un pleno ejercicio de su voluntad;
+
+V. Grupos sociales en condición de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan condiciones de riesgo, discriminación o exclusión social que les impide alcanzar mejores niveles de vida, a quienes deberá garantizarse la atención e inversión del Gobierno para lograr su bienestar conforme a la Política Estatal de Desarrollo Social;
+
+VI. Formato de padrón único: Cuestionario que se utiliza como instrumento de recolección de datos de los beneficiarios de programas de desarrollo social;
+
+VII. Organizaciones: Agrupaciones civiles, sociales y asistenciales, legalmente constituidas, en las que participen personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+
+VIII. Padrón único de beneficiarios: Sistema de información que integra y organiza datos sobre los beneficiarios o personas que reciben apoyos de programas de desarrollo social, a cargo de las diferentes dependencias y organismos de la administración estatal y municipal;
+
+IX. Programa de desarrollo social: Es la intervención pública directa que, mediante un conjunto sistemático y articulado de acciones vinculados a las políticas de desarrollo social, busca contribuir a la materialización y goce progresivo de los derechos sociales o el bienestar económico de las personas y grupos sociales en condición de vulnerabilidad, mediante la distribución de recursos, la provisión de servicios, el otorgamiento de subsidios y la construcción y operación de infraestructura social;
+
+X. Reglas de operación: Son las normas, lineamientos y mecanismos, establecidos por las secretarías, que rigen a cada uno de los programas de desarrollo social, mediante los cuales se organizan sus distintas etapas o fases de instrumentación en el corto plazo; así como su difusión, y que resumen la planificación anual de los medios, acciones y metas, así como los indicadores correspondientes, para avanzar en el cumplimiento de los objetivos estratégicos de dichos programas; y
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+XI. Secretaría: La Secretaría del Sistema de Asistencia Social del Gobierno del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Para los efectos de esta Ley, se entiende por:
+Todos los programas de desarrollo que implementen u operen el Gobierno del Estado o los Municipios con el fin de garantizar los derechos sociales, se considerarán de desarrollo social.
 
-I.- Comité: El Comité Técnico de Transparencia y Acceso a la Información Pública de cada sujeto obligado.
+### Capítulo II. De los Principios Rectores
 
-II.- Datos Personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo, concerniente a una persona física o jurídica identificada o identificable, entre otra, la relativa a su origen racial o étnico, domicilio, número telefónico, patrimonio, ideología, creencias o convicción religiosa, filosófica, política o de otro género y los referidos a características físicas, morales o emocionales, preferencias sexuales, vida afectiva o familiar, o cualquier otro referente al estado de salud físico o mental.
-
-III.- Derecho de Acceso a la Información Pública: La prerrogativa que tiene toda persona para acceder a la Información Pública.
-
-IV.- Derecho de Acceso y Protección a los Datos Personales: La prerrogativa del titular de los datos personales para acceder, actualizar, rectificar, suprimir u oponerse a la publicidad de dicha información.
-
-V.- Documentos: Todo archivo, registro o comunicación contenido en cualquier medio, los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas, las facturas y documentos de comprobación fiscal así como, cualquier otro registro en posesión de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
-
-VI.- Información Pública: Todo archivo, registro o comunicación contenido en cualquier medio, documento o registro impreso, óptico, electrónico o cualquier otro que se encuentre en poder de los sujetos obligados, generado u obtenido en el ejercicio de sus funciones.
-
-VII.- Información confidencial: La que concierne al interés de los particulares, a sus datos personales y que de publicarse afectaría injustificadamente sus derechos individuales o su vida privada.
-
-VIII.- Información reservada: La información pública cuyo acceso se encuentra temporalmente restringido por disposición de esta Ley.
-
-IX.- Indicadores de Gestión: Los instrumentos o parámetros de medición que permiten evaluar el desempeño, la eficiencia, la economía y los procedimientos de los sujetos obligados, en relación con sus objetivos, actividades, metas, estrategias y responsabilidades.
-
-X.- Ley: Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
-
-XI.- Órganos Constitucionales Autónomos: El Instituto Electoral y de Participación Ciudadana del Estado de Baja California, el Tribunal de lo Contencioso Administrativo, la Procuraduría de los Derechos Humanos y, Protección Ciudadana, el Instituto de Transparencia y Acceso a la Información Pública, y los demás órganos que, con esa naturaleza, se establezcan en la Constitución Política del Estado.
-
-XII.- Órgano Garante: El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California.
-
-XIII.- Persona: Cualquier persona física o moral.
-
-XIV.- Portal: La página institucional de Internet que establezcan los sujetos obligados para publicar la información de oficio.
-
-XV.- Reglamento: Reglamento o Acuerdo expedido dentro de sus ámbitos de competencia por los sujetos obligados, cuyo objeto sea desarrollar y dar plena eficacia a las reglas y principios contenidos en esta Ley.
-
-XVI.- Sistemas y Medios de Comunicación: Todos aquellos que la tecnología adopte para el envío y recepción de información por medios electrónicos disponibles.
-
-XVII.- Solicitante: La persona física o moral que pida tener acceso o consultar la información pública.
-
-XVIII.- Titular: El Titular del sujeto obligado.
-
-XIX.- Unidad de Transparencia: Las referidas en el Capítulo I del Título II de la Ley; y
-
-XX.- Versión pública: Documento en el que, para permitir su acceso, se testa o elimina la información considerada por la ley como reservada o confidencial.
-
-### CAPÍTULO II. DE LOS SUJETOS OBLIGADOS
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 6.
 
-Los sujetos obligados de esta Ley son:
+Son principios rectores en la observancia, interpretación y aplicación de la política de desarrollo social, además de los contenidos en el artículo 3 de la Ley General, los siguientes:
 
-I.- El Poder Legislativo del Estado;
+I. Desarrollo integral de la persona: a través de políticas públicas de desarrollo social se le brindarán las oportunidades necesarias a fin de que ésta despliegue sus potencialidades y capacidades para acceder a una mejor calidad de vida;
 
-II.- Las Dependencias y Entidades del Poder Ejecutivo, incluyendo a los organismos descentralizados, empresas de participación estatal y los fideicomisos públicos estatales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III.- El Poder Judicial del Estado;
+II. Justicia distributiva: garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y de las demás personas;
 
-IV.- Los Ayuntamientos, incluyendo a los organismos descentralizados, empresas de participación municipal y los fideicomisos públicos municipales;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-V.- Los Órganos Constitucionales Autónomos; y
+III. Elegibilidad: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social;
 
-VI.- Las demás entidades públicas que reciban, administren o apliquen recursos públicos.
+IV. Respeto por la familia: fomentará el desarrollo armónico de la familia, procurando que ésta, en conjunto con todos sus miembros, supere su situación y acceda a mejores condiciones de vida;
 
-## TÍTULO SEGUNDO. DEL ACCESO A LA INFORMACIÓN
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO III. DE LA PROMOCIÓN DE LA CULTURA DE LA TRANSPARENCIA
+V. Respeto a la diversidad: reconocimiento en términos de origen étnico, genero, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Perspectiva de género: visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género;
+
+VII. Corresponsabilidad: responsabilidad compartida entre gobierno y sociedad, para que los beneficiarios se asuman como sujetos de su propia transformación, a través de la participación activa y permanente en actividades vinculadas a los programas de desarrollo social, que coadyuven al fortalecimiento de sus capacidades y el desarrollo de nuevas habilidades;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Buena fe: la información y documentación que aportan las personas para acreditar que cumplen con los requisitos y criterios necesarios para acreditar su condición de vulnerabilidad y ser beneficiarios de los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IX. Transversalidad: en el ejercicio de las políticas públicas de las instituciones públicas con la participación de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Efectividad: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto, y con una actitud republicana de vocación de servicio, respeto y reconocimiento de los derechos que profundice el proceso de construcción de ciudadanía de todos los habitantes; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Transparencia: la información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
+
+## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+
+### Capítulo I. De los Derechos para el Desarrollo Social
 
 ###### Artículo 7.
 
-Las disposiciones de esta Ley aplicarán para los organismos ciudadanos, instituciones privadas y organismos no gubernamentales que reciban, administren o apliquen recursos públicos, sólo en lo referente a la solicitud y entrega de información respecto del origen, administración y aplicación de dichos recursos.
+Sin perjuicio de lo que señalen otras disposiciones legales, en el Estado de Jalisco se reconocen y consideran como derechos para el desarrollo social los siguientes:
+
+I. El derecho a la salud;
+
+II. El derecho a la educación;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. El derecho a la alimentación nutritiva y de calidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. El derecho a vivienda digna y decorosa y, el acceso a los servicios básicos;
+
+V. El derecho a un medio ambiente sano;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VI. El derecho al trabajo y la seguridad social;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VII. El derecho a la no discriminación;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. El derecho a recibir apoyo al transporte para estudiantes de los niveles de educación secundaria, media superior y superior, adultos mayores y personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IX. El derecho a la cultura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+X. El derecho al uso y aprovechamiento de las tecnologías de la comunicación y de la información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XI. El derecho a la recreación y el esparcimiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XII. El derecho a la cohesión social y la vida comunitaria; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XIII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades.
 
 ###### Artículo 8.
 
-Corresponderá al Órgano Garante, en colaboración con los sujetos obligados, la difusión del derecho de acceso a la información, la protección de los datos personales y la cultura de la transparencia, para lo cual podrán celebrar, convenios de colaboración entre ellos, para la realización de cursos, seminarios, talleres o cualquier otro método didáctico para capacitar y actualizar permanentemente a los servidores públicos.
+El Gobierno del Estado y los Gobiernos Municipales, deberán cumplir y hacer cumplir con los derechos sociales en todas sus funciones y actividades.
 
-Así mismo, los sujetos obligados podrán celebrar convenios con las instituciones de educación superior en el Estado, para efecto de impulsar la investigación, difusión y docencia sobre el derecho de acceso a la información pública, la protección de los datos personales y la cultura de la transparencia.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO IV. DE LA INFORMACIÓN DE OFICIO
+Queda prohibida cualquier práctica discriminatoria en el goce de los bienes y servicios contenidos en los programas para el desarrollo social.
+
+### Capítulo II. De los Beneficiarios
 
 ###### Artículo 9.
 
-El Órgano Garante promoverá que, en los planes y programas educativos de educación básica y para la formación de maestros que se impartan en el Estado, se incluyan contenidos que reconozcan la importancia del ejercicio del derecho de acceso a la información pública. Igualmente, promoverá que en las instituciones públicas y privadas de educación superior, se incluya en la currícula el tema, ponderando la importancia del ejercicio de este derecho en la vida democrática de la Entidad.
+Toda persona tiene derecho a ser beneficiada por los programas de desarrollo social y formar parte en los consejos de participación ciudadana que tenga que ver con el desarrollo social, siempre y cuando cumpla con los requisitos que para el caso se señalen en las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-El Órgano Garante promoverá la cultura de la transparencia y el derecho de acceso a la información pública y su impacto en el desarrollo de la democracia, para el público en general, mediante la realización de cursos, talleres y cualquier otro método pedagógico.
+Toda persona o grupo social en situación de vulnerabilidad tienen derecho a recibir los servicios y apoyos tendientes a disminuir su desventaja y contar con mejor calidad de vida.
 
 ###### Artículo 11.
 
-Los sujetos obligados deberán, de oficio, poner a disposición del público, la siguiente información:
+Los beneficiarios de los programas de desarrollo social tienen derecho a:
 
-I.- Sus facultades y los indicadores de gestión utilizados para evaluar su desempeño, metas y objetivos de sus programas operativos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-II.- Su estructura orgánica;
+I. Recibir los servicios y prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que estos mismos señalen;
 
-III.- La información curricular de los servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-IV.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
+II. Ser tratados con respeto, oportunidad, dignidad y atendidos con calidad;
 
-V.- Los informes de acceso a la información, que contengan cuando menos:
+III. Contar con la información necesaria de los programas, y conocer sus reglas de operación y forma de acceder a los mismos;
 
-a).- Número de solicitudes de información que les han sido presentadas;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-b).- Objeto de las solicitudes;
+IV. Al tratamiento de los datos e información de carácter personal que proporcionen, en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y demás disposiciones aplicables;
 
-c).- Solicitudes procesadas y respondidas, así como el número de aquellas que se encuentren pendientes; y
+V. Recibir asesoría para alcanzar su desarrollo integral;
 
-d).- Las solicitudes que hayan sido denegadas y los fundamentos por lo que fueron desechadas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VI.- El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes, hasta el nivel del funcionario de mayor jerarquía. En el caso de los funcionarios jurisdiccionales, deberá incluir desde el nivel de actuario o equivalente.
+VI. Participar de manera corresponsable en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
 
-VII.- Plantilla del personal indicando el nombre, puesto, adscripción, remuneración mensual que considere prestaciones, estímulos o compensaciones y cualquier otra percepción en dinero o en especie, de todos los servidores públicos de los sujetos obligados, incluyendo a sus titulares;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VIII.- Respecto del presupuesto de egresos aprobado, por programas, grupos y partidas de gastos, y los informes sobre su ejecución; así como de la situación financiera y en su caso, respecto a la deuda pública;
+VII. Presentar denuncias ante la Secretaría, como cualquier incumplimiento de los objetivos y líneas de acción de los programas, así como de las disposiciones de la presente Ley;
 
-IX.- Las enajenaciones de bienes que realicen por cualquier titulo o acto, indicando los motivos, beneficiarios o adquirientes, y los montos de las operaciones;
+VIII. Las demás que establezcan los planes y programas de desarrollo social, así como otras disposiciones legales aplicables.
 
-X.- Los permisos, concesiones y autorizaciones otorgadas, especificando sus titulares, concepto y vigencia;
-
-XI.- Los convenios celebrados con instituciones públicas o privadas;
-
-XII.- El padrón de proveedores;
-
-XIII.- El padrón inmobiliario y el vehicular;
-
-XIV.- Las resoluciones de los procedimientos de responsabilidad administrativa, una vez que hayan causado estado;
-
-XV.- Los montos asignados y criterios de acceso a los programas sociales;
-
-XVI.- Las leyes, reglamentos, decretos, circulares y demás normas que les resulten aplicables;
-
-XVII.- Las convocatorias a concurso o licitación pública para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos, que contendrán por lo menos:
-
-a).- La justificación técnica y financiera;
-
-b).- Número de Identificación precisa del contrato, el monto, el nombre o razón social de la persona física o moral con quien se haya celebrado el contrato, el plazo y demás condiciones de cumplimiento; y
-
-c).- En su caso, las modificaciones a las condiciones originales del contrato.
-
-XVIII.- Las adjudicaciones directas, señalando los motivos y fundamentos legales aplicados;
-
-XIX.- Respecto de los contratos de servicios profesionales celebrados por el sujeto obligado, un listado que relacione el número de contrato, su fecha de celebración, el nombre o razón social del proveedor, el objeto del contrato y el monto del valor total de la contratación;
-
-XX.- El domicilio, número telefónico y la dirección electrónica de la Unidad de Transparencia, así como del Órgano Garante;
-
-XXI.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
-
-XXII.- La relación de los servidores públicos comisionados fuera de su área de adscripción por cualquier causa, incluso de carácter sindical;
-
-XXIII.- Los dictámenes de las auditorías que se practiquen a los sujetos obligados;
-
-XXIV.-Los informes que por disposición legal generen los sujetos obligados; y
-
-XXV.- Cualquier otra información que sea de utilidad o se considere relevante, además de aquella que, con base en la información estadística, responda a las preguntas formuladas con más frecuencia por el público.
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 11 Bis.
 
@@ -233,197 +321,213 @@ Los beneficiarios de los programas de desarrollo social tienen la obligación de
 
 ###### Artículo 12.
 
-Los sujetos obligados deberán actualizar la información de oficio contenida en el artículo anterior, conforme a los plazos siguientes:
+Para ser beneficiario de los programas de desarrollo social, los solicitantes, deberán proporcionar de forma veraz y oportuna, la documentación e información que les soliciten las autoridades, bajo el principio de buena fe, de conformidad con las reglas de operación de los programas de desarrollo social.
 
-I.- Anualmente, tratándose de la información comprendida en las fracciones I a la
+## TITULO TERCERO. DE LAS AUTORIDADES RESPONSABLES
 
-V;
-
-Il.- Trimestralmente, la contenida en las fracciones VI a la XVIII;
-
-III.- Dentro de los cinco días naturales a su expedición, la contenida en las fracciones XVI a la XIX; y
-
-IV.- En forma permanente, aquella comprendida en las fracciones XX a la XXV.
-
-Con el objeto de verificar que la información pública de oficio que recibe cualquier persona sea la versión más actualizada, el sujeto obligado deberá difundir, dentro del primer mes de cada año, un calendario de actualización por cada contenido de información. En todos los casos se deberá indicar la fecha de la última actualización por cada rubro. Los sujetos obligados deberán señalar en sus reglamentos y en sus portales los rubros del presente artículo que no les son aplicables.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
-
-## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS DE ACCESO
-
-### CAPÍTULO V. DE LA INFORMACIÓN PÚBLICA RESERVADA
+### Capítulo I. De las atribuciones del Gobierno del Estado
 
 ###### Artículo 13.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, el Poder Legislativo deberá dar a conocer y mantener actualizado en su portal de internet:
-
-I.- Las leyes, decretos, acuerdos de los órganos de gobierno y proposiciones con punto de acuerdo que haya expedido;
-
-II.- El Plan de Desarrollo Legislativo, así como las agendas legislativas correspondientes a los Grupos Parlamentarios y Diputados que cuenten con un escaño en el Congreso del Estado;
-
-III.- Las convocatorias y lista de asistencia de los Diputados, al pleno, comisiones y comités, así como sus actas, acuerdos y resoluciones;
-
-IV.- Las iniciativas de ley, decreto y proposiciones con punto de acuerdo económico y cualquier otra disposición de carácter general, incluyendo en cada caso el nombre o nombres de quienes las presentan, la fecha en que se recibió, la comisión o comisiones a las que hubiere sido turnada, así como el estado que guardan en su caso los dictámenes que recaigan sobre las mismas, clasificándolas por grupo parlamentario o por Diputado;
-
-V.- La votación obtenida en los dictámenes y acuerdos sometidos al Pleno y demás órganos de trabajo, con expresión del sentido del voto de Diputados a favor, en contra y en abstención, referida con el nombre de quien lo haya emitido, salvo que sea votación secreta en términos de la Ley respectiva;
-
-VI.- El Diario de los Debates de la Legislatura y la Gaceta Parlamentaria;
-
-VII.- Los documentos presentados al Pleno conforme al orden del día de las sesiones ordinarias y extraordinarias, mismos que serán clasificados por sesión y deberán ser copia fiel de su original, debiendo publicarse en el portal dentro de las cuarenta y ocho horas siguientes a su presentación;
-
-VIII.- Las actas de las sesiones, dictámenes y acuerdos del pleno;
-
-IX.- Los Informes del Órgano Superior de Fiscalización sobre la revisión de las cuentas públicas;
-
-X.- La información relativa a la estructura, directorio y nombres, así como programas de trabajo, resultados de desempeño y proyectos realizados por los Institutos pertenecientes al Congreso del Estado;
-
-XI.- Las resoluciones definitivas sobre juicios políticos y de declaratorias de procedencia penal, una vez que hayan causado estado;
-
-XII.- Las dietas de los legisladores y las partidas presupuestales asignadas a los Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva y demás órganos del Congreso, así como los responsables de ejercerlas;
-
-XIII.- Programas, metas y objetivos de los órganos de apoyo parlamentario y administrativo;
-
-XIV.- Viajes en comisiones oficiales de Diputados y titulares de los órganos de apoyo parlamentario y administrativo así como de Directivos y demás personal de los Institutos del Congreso del Estado;
-
-XV.- Los demás informes que deban presentarse conforme a su Ley Orgánica.
+El Ejecutivo del Estado, será la autoridad rectora del desarrollo social del Estado, en la planeación y ejecución de las políticas y programas relativos a ello.
 
 ###### Artículo 14.
 
-Además de lo previsto en el artículo 11 que le resulte aplicable, el Poder Ejecutivo del Estado deberá dar a conocer:
+Para la aplicación de la presente ley el Ejecutivo del Estado, a través de la Secretaría deberá:
 
-I.- El Plan Estatal de Desarrollo;
+I. Coordinar el Sistema de Desarrollo Social del Estado;
 
-II.- Los planes y programas que se deriven de la aplicación de la Ley de Planeación para el Estado de Baja California;
+II. Operar y coordinar los trabajos del Consejo y de la Comisión;
 
-III.- El listado de patentes de notarios otorgadas, en términos de la Ley respectiva;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-IV.- Los ingresos por concepto de participaciones federales, así como por la recaudación fiscal que se integre a la hacienda pública;
+III. Formular y ejecutar el programa sectorial de desarrollo e integración social como parte del Plan Estatal de Desarrollo y Gobernanza y cumpliendo con las disposiciones que esta ley señala;
 
-V.- Las estadísticas e indicadores de gestión relativos a la procuración de justicia; y
+IV. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General de Desarrollo Social;
 
-VI.- Las aportaciones estatales a los municipios.
+V. Colaborar con las dependencias y entidades federales en la formulación, ejecución, e implementación de los programas sociales en los términos de las disposiciones legales aplicables;
+
+VI. Realizar gestiones interinstitucionales para que los programas de desarrollo social, en que participe el Gobierno del Estado, alcancen las metas previstas;
+
+VII. Convenir acciones y programas sociales con el Gobierno Federal y los Municipios;
+
+VIII. Fomentar la organización y participación ciudadana y familiar en los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+IX. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas; así como informar a la Secretaría de Bienestar del Gobierno Federal sobre el avance y los resultados generados con los mismos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Rendir cuentas a la sociedad sobre las acciones en torno al desarrollo social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con eficiencia, legalidad, eficacia, economía, honradez, oportunidad, transparencia, honestidad, equidad e imparcialidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Fomentar la participación de instituciones académicas, sociales y de investigación, en la planeación, ejecución, supervisión y evaluación de la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XIII. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Estado, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Integrar, supervisar y coordinar el Padrón Único de Beneficiarios;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Formar parte de la Comisión Nacional de Desarrollo Social, en los términos de la Ley General de Desarrollo Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Promover el intercambio de información y acciones de coordinación con los funcionarios responsables del desarrollo social en los municipios, para la creación e implementación de programas de desarrollo social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Las demás que señalen la ley y las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, el Poder Judicial del Estado deberá dar a conocer:
+Corresponde a los Municipios en el ámbito de su competencia, las siguientes atribuciones:
 
-I.- Las listas de acuerdos;
+I. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General de Desarrollo Social;
 
-II.- Las versiones públicas de las sentencias relevantes, así como ejecutorias sobresalientes pronunciadas por el Pleno y las Salas, con los respectivos votos particulares si los hubiere;
+II. Participar y ser parte de la Comisión en los términos que señala la presente ley;
 
-III.- Los acuerdos que expidan el Tribunal Superior de Justicia, el Tribunal de Justicia Electoral y del Consejo de la Judicatura;
+III. Coordinarse, con los Gobiernos Federal y Estatal, para la ejecución de los programas de desarrollo social;
 
-IV.- Opiniones, informes y dictámenes efectuados con motivo de la evaluación de los servidores públicos que, por disposición de Ley, sean sujetos a procesos de ratificación, una vez que concluya dicho proceso;
+IV. Coordinar acciones de desarrollo social con Municipios de su propia entidad federativa;
 
-V.- Los ingresos y aplicación del Fondo Auxiliar para la Administración de la Justicia;
+V. Coordinar acciones de desarrollo social con Municipios de otras entidades federativas, con la aprobación de las legislaturas correspondientes;
 
-VI.- Los datos estadísticos relativos al desempeño de los órganos jurisdiccionales y el Consejo de la Judicatura. Los principales indicadores sobre la actividad jurisdiccional deberán incluir, al menos, asuntos radicados, concluidos y en trámite, de primera y segunda instancia, indicando el sentido de la resolución;
+VI. Formular y ejecutar el programa municipal de desarrollo social que deberá estar en armonía con los de los Gobiernos Federal y Estatal y ser parte del Plan Municipal de Desarrollo;
 
-VII.- Las convocatorias a concursos para ocupar cargos jurisdiccionales y administrativos, así como los resultados de los mismos; y
+VII. Ejercer fondos y recursos federales y estatales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes correspondientes; así como informar a las dependencias correspondientes sobre el avance y los resultados generados con los mismos;
 
-VIII.- Los perfiles y formas de evaluación del personal jurisdiccional y administrativo que se indiquen en la Ley Orgánica.
+VIII. Concertar acciones con los sectores social y privado en materia de desarrollo social;
 
-Tratándose de lo establecido en la fracción I, la información deberá ser actualizada diariamente.
+IX. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
 
-## TÍTULO CUARTO. RESPONSABILIDADES Y SANCIONES
+X. Informar a la sociedad sobre las acciones en torno al desarrollo social y hacer públicos y difundir los programas de desarrollo social;
 
-### CAPÍTULO VI. DE LA INFORMACIÓN CONFIDENCIAL
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XI. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Municipio, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Municipal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Las que le señale esta Ley y las demás disposiciones aplicables.
+
+## TITULO CUARTO. DE LA POLITICA DE DESARROLLO SOCIAL
+
+### Capítulo I. De la Política Estatal de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-El Poder Judicial del Estado, permitirá la consulta de las sentencias ejecutoriadas y demás resoluciones que hayan causado estado.
+La Política Estatal de Desarrollo Social comprende los programas, acciones, directrices, líneas de acción y convenios que establezca bajo los criterios de integralidad y transversalidad el Gobierno del Estado por medio de la Secretaría, encaminados a impulsar el desarrollo social en el Estado y tendrá los siguientes objetivos:
 
-El Poder Judicial determinará el mecanismo mediante el cual, las partes podrán dar su autorización, para que se revelen o publiquen sus datos personales contenidos en la sentencia.
+I. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para los habitantes del Estado;
 
-### CAPÍTULO I. DE LAS UNIDADES DE TRANSPARENCIA
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. Implementar de manera transversal los programas que sean necesarios para la ejecución de las políticas públicas de desarrollo social para garantizar el respeto de los derechos económicos y sociales, individuales o colectivos;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Impulsar esquemas que fomenten el empleo y la conservación del mismo, el auto empleo, el cooperativismo y las empresas sociales, los cuales eleven el nivel de ingreso y mejore su distribución;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Fomentar el desarrollo regional, de las micro-regiones y de las cadenas productivas, así como el de las Zonas de Atención Prioritaria;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio y perspectiva de género, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad, que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social; y
+
+VI. Asegurar y fomentar la participación ciudadana en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social.
+
+### Capítulo II. De la Política Municipal de Desarrollo Social
 
 ###### Artículo 17.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, los Ayuntamientos deberán dar a conocer:
+La Política Municipal de Desarrollo Social tendrá los mismos objetivos que se señalan en el artículo anterior.
 
-I.- El Plan Municipal de Desarrollo, así como los planes y programas operativos anuales que se deriven de éste y de la Ley de Planeación para el Estado de Baja California;
-
-II.- Las iniciativas de reglamentos o acuerdos, así como el estado que guardan;
-
-III.- Las actas de las sesiones del Cabildo, que incluyan la lista de asistencia; así como el sentido de votación sobre las iniciativas o acuerdos;
-
-IV.- Dictámenes y Acuerdos aprobados por el Cabildo;
-
-V.- Los ingresos por concepto de participaciones federales y estatales; así como por la recaudación fiscal que se integre a la hacienda pública;
-
-VI.- Inventario de bienes inmuebles;
-
-VII.- Inventario de bienes muebles y asignación; y
-
-VIII- Inventario de vehículos y asignación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 18.
 
-Además de la información que le resulte aplicable contenida en el artículo 11 de esta Ley, el Instituto Electoral y de Participación Ciudadana del Estado de Baja California, deberá dar a conocer aquella que con respecto a los partidos políticos, señale la ley electoral.
+El Gobierno del Estado y los Municipios deberán convenir acciones y destinar recursos para la ejecución de programas de desarrollo social en las áreas o regiones que sean declarados Zonas de Atención Prioritaria por la Cámara de Diputados del Congreso de la Unión, contando siempre con la intervención que, en su caso, corresponda a la Secretaría de Bienestar del Gobierno Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La Secretaría promoverá la suscripción de convenios de coordinación con los municipios, a fin de coordinar sus acciones de desarrollo social, compartiendo la información relevante para la eficiencia en la creación e implementación de los programas de desarrollo social de ambos niveles de gobierno.
 
 ## TITULO QUINTO. DE LA PLANEACION DEL DESARROLLO SOCIAL EN EL ESTADO
 
-### CAPÍTULO II. DE LOS COMITÉS TÉCNICOS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+### Capítulo Único. De la Planeación del Desarrollo Social en el Estado
 
 ###### Artículo 19.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, la Procuraduría de Derechos Humanos del Estado de Baja California deberá hacer pública y actualizar de forma permanente, la siguiente información:
+La planeación es el proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones mediante las cuales se llevará el adecuado funcionamiento de la Política Estatal de Desarrollo Social.
 
-I.- Las denuncias o quejas recibidas;
-
-II.- Los recursos de reconsideración y la resoluciones recaídas a los mismos; y
-
-III.- Las recomendaciones públicas emitidas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 20.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, el Tribunal de lo Contencioso Administrativo deberá hacer pública la siguiente información:
+La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo del Estado a través del Consejo de Participación y Planeación para el Desarrollo del Estado de Jalisco, y de la Secretaría y deberá estar en concordancia con la Política Nacional de Desarrollo Social y, de conformidad con las disposiciones contenidas en la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios y se establecerá dentro del Plan Estatal de Desarrollo y Gobernanza.
 
-I.- Las listas de acuerdos;
-
-II.- Las versiones públicas de las sentencias; las ejecutorias pronunciadas por el Pleno y las Salas con los respectivos votos particulares si los hubiere; así como los registros de las audiencias públicas;
-
-III.- Los acuerdos que expida dicho Tribunal;
-
-IV.- Opiniones, informes y dictámenes efectuados con motivo de la evaluación de los servidores públicos que por disposición de Ley, sean sujetos a procesos de ratificación, una vez que concluya dicho proceso;
-
-V.- Los datos estadísticos relativos al desempeño del Tribunal de lo Contencioso Administrativo. Los principales indicadores sobre la actividad jurisdiccional deberán incluir, al menos, los asuntos radicados, concluidos y en trámite, de primera y segunda instancia, indicando el sentido de la resolución;
-
-VI.- Las convocatorias a concursos para ocupar cargos jurisdiccionales y administrativos, así como los resultados de los mismos; y
-
-VII.- Los perfiles y formas del personal jurisdiccional y administrativo que se indiquen en la normatividad aplicable.
-
-Tratándose de lo establecido en la fracción I, la información deberá ser actualizada diariamente.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 21.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, el Órgano Garante deberá hacer pública la siguiente información:
+En el caso de los Municipios, la planeación del desarrollo social estará a cargo del ayuntamiento y de los respectivos Consejos de Participación y Planeación para el Desarrollo Municipal, y en congruencia con los términos de la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
 
-I.- El resultado de los recursos de revisión interpuestos y las versiones públicas de las resoluciones emitidas;
-
-II.- Los estudios que apoyan la resolución de los recursos de revisión;
-
-III.- En su caso, los amparos que existan en contra de sus resoluciones;
-
-IV.- Estadísticas sobre las solicitudes de información por cada sujeto obligado;
-
-V.- Las actas de las sesiones del Pleno, que incluyan el sentido de votación de los consejeros sobre las resoluciones o acuerdos;
-
-VI.- Los resultados de la evaluación al cumplimiento de la Ley, por parte de los sujetos obligados;
-
-VII.- Informe sobre las acciones de promoción de la cultura de transparencia;
-
-VIII.- Programas de promoción de la cultura de la transparencia, acciones desarrolladas; y
-
-IX.- La que se considere relevante y de interés para el público.
+Los Planes de Desarrollo y Gobernanza, estatal y municipales, deberán contemplar la Planeación del Desarrollo Social.
 
 ###### Artículo 22.
 
-La información pública de oficio referida en los artículos que anteceden, deberá mantenerse a disposición de todo interesado en el portal de Internet de los sujetos obligados, sin menoscabo de que dicha información pueda entregarse de manera impresa a petición del solicitante.
+La planeación del Desarrollo Social será clara y concisa, para que permita vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el Programa, y contendrá la opinión de los grupos sociales involucrados.
+
+La planeación se concretará a través del Programa Estatal de Desarrollo Social y los Programas Municipales de Desarrollo Social que en su conjunto constituyen el instrumento rector de la planeación en esta materia.
+
+En la planeación del Desarrollo Social Estatal y Municipal, deberán tomarse en cuenta los datos e indicadores que se contengan en el Sistema de Investigación e Información para el Desarrollo Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 23.
 
-El acceso a la información pública podrá reservarse temporalmente por causas de interés público y conforme a las modalidades establecidas en la presente Ley.
+Dentro del Plan Estatal de Desarrollo y Gobernanza, así como de los planes municipales de desarrollo y gobernanza existirá un apartado para el programa sectorial de desarrollo e integración social que contendrá lo siguiente:
+
+I. El diagnóstico del desarrollo social y de la situación económica así como de los índices de pobreza en el Estado o en el municipio, considerando factores de sexo, edad y entorno socioeconómico;
+
+II. Los programas de desarrollo social que se tiene planeado implementar;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+III. Las matrices de indicadores de resultados, en las cuales se especificará el nombre del programa, su contribución a los fines del Plan Estatal de Desarrollo y Gobernanza, así como a los Planes Sectoriales, los componentes que harán posible cumplir con el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo;
+
+IV. Los esquemas de atención para los grupos sociales en situación de vulnerabilidad;
+
+V. Las metas y objetivos que se pretende alcanzar en el corto, mediano y largo plazo;
+
+VI. Los criterios y estrategias de colaboración y corresponsabilidad con la sociedad y las organizaciones;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Las prioridades en materia de desarrollo social, así como las condiciones mínimas aceptables en las áreas de educación, salud, seguridad alimentaria e infraestructura social básica, que requieren los habitantes del Estado; y
+
+VIII. Los demás puntos que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 23 Bis.
 
@@ -437,75 +541,33 @@ Para efectos de la expedición de los lineamientos previstos en este artículo, 
 
 ###### Artículo 24.
 
-Para los efectos de esta Ley se considera información reservada cuando:
-
-I.- Se trate de información cuya difusión comprometa la seguridad de la Nación, el Estado o el Municipio.
-
-II.- Sea información que otros estados u organismos internacionales entreguen con tal carácter, a los sujetos obligados.
-
-III.- Se ponga en riesgo la vida, la seguridad o la salud de cualquier persona.
-
-IV.- Se pueda causar un serio perjuicio a:
-
-a).- Las actividades de verificación del cumplimiento de las leyes;
-
-b).- La prevención, investigación o persecución de los delitos;
-
-c).- La impartición de la justicia;
-
-d).- La seguridad de un denunciante o testigo, incluso sus familias;
-
-e).- La recaudación de las contribuciones; y
-
-f).- Las estrategias procesales de los sujetos obligados en procesos judiciales, administrativos o arbitrales, mientras las resoluciones que ponen fin a la instancia no se hayan dictado.
-
-V.- Se trate de información referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones públicas en proceso y que los sujetos obligados lleven a cabo para adquirir, enajenar, concesionar, arrendar o contratar bienes, servicios u obra pública, en tanto no concluya el procedimiento respectivo.
-
-VI.- Se pueda menoscabar el patrimonio de una entidad pública.
-
-VII.- Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, en tanto pueda afectar un proceso de toma de decisiones que impacte el interés público y hasta en tanto no sea adoptada la decisión definitiva.
-
-VIII.- Los procedimientos administrativos, fiscales, laborales y la información de juicios políticos y declaración de procedencia, hasta que la sentencia, resolución o laudo que le recaiga haya quedado firme. Dichos expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener.
-
-IX.- Los expedientes de los procedimientos para fincar responsabilidad a los servidores públicos, en tanto no se haya expedido la resolución administrativa que corresponda; y
-
-X.- La que por disposición expresa de una ley sea calificada reservada.
-
-No podrá invocarse el carácter de reservado cuando se trate de investigación de violaciones graves a las garantías individuales o delitos de lesa humanidad.
+Los Municipios serán entes primordiales en la ejecución de los programas de desarrollo social, que en coordinación con los gobiernos federal y estatal, establecerán las líneas de acción y celebrará los acuerdos o convenios que sean necesarios.
 
 ###### Artículo 25.
 
-La resolución que clasifique la información como reservada deberá indicar:
-
-I.- El nombre del sujeto obligado que la emite;
-
-II.- La fundamentación y motivación correspondientes;
-
-III.- Las partes de los documentos que se reservan;
-
-IV.- El plazo de reserva; y
-
-V.- El nombre de la autoridad responsable de su conservación.
+En los Planes Regionales de Desarrollo que se formulen, siempre deberán incluirse un programa regional de desarrollo social, que se apegue a los lineamientos que señalan ésta ley y las demás que resulten aplicables.
 
 ## TITULO SEXTO. DE LA DIFUSION DE LOS PROGRAMAS DE DESARROLLO SOCIAL
 
-### CAPÍTULO III. DEL ÓRGANO GARANTE
+### Capítulo Único. De la Difusión de los Programas de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
 
-La información clasificada como reservada, podrá permanecer con tal carácter hasta por un periodo de cinco años contados a partir de que se genere la información. Esta información deberá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el periodo de reserva. Este periodo podrá ser excepcionalmente ampliado, siempre y cuando subsistan tales causas.
+El Gobierno del Estado a más tardar el 31 de marzo de cada año, deberá elaborar y publicar en el Periódico Oficial "El Estado de Jalisco", así como en el sitio oficial en internet, las reglas de operación de los programas de desarrollo social estatales, así como, la distribución que se haga de los recursos federales a Municipios para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2008)</small>
+
+En un plazo de cinco días a partir de la publicación, la Secretaría deberá remitir a los ayuntamientos los documentos que contengan la información citada en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-Los titulares de los sujetos obligados, serán responsables de clasificar la información reservada, debiendo justificar que:
+Los municipios, en el mismo plazo al señalado en el segundo párrafo del artículo anterior, deberán elaborar y publicar en su gaceta municipal u órgano oficial de difusión, las reglas de operación de los programas de desarrollo social municipales que vayan a implementar, así como los programas de desarrollo social estatales y federales de los que puedan ser beneficiados sus habitantes y los montos y distribución de los recursos que les fueron entregados para la implementación de estos programas. En caso de que no se cuente con gaceta municipal, la publicación se hará en los estrados de la Presidencia Municipal.
 
-I.- La información encuadra en alguna de las hipótesis de excepción previstas en la ley.
-
-II.- La liberación de la información de referencia puede amenazar efectivamente el interés protegido por la ley; y
-
-III.- El daño que puede producirse con la liberación de la información es mayor que el interés público de conocer la información de referencia.
-
-Mediante acuerdo, los titulares podrán delegar a sus representantes, la atribución prevista por este artículo.
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 27 Bis.
 
@@ -555,35 +617,27 @@ XXI. Mecanismos de participación social y ciudadana.
 
 ###### Artículo 28.
 
-Los sujetos obligados, por conducto de su Unidad de Transparencia, elaborarán semestralmente y por rubros temáticos debidamente descritos, un índice de la información o de los expedientes clasificados como reservados. El índice contendrá la referencia del sujeto obligado que generó o posea la información pública, la fecha de su clasificación y el plazo de reserva. En ningún caso el índice será considerado como información reservada, el cual se hará público.
+Además de las obligaciones que señalan los artículos anteriores, el Gobierno del Estado y los Municipios implementarán campañas de difusión masivas para que toda la población se entere del contenido, reglas de operación y beneficios de los programas de desarrollo social que se aplican en el Estado.
 
 ###### Artículo 29.
 
-Se considerará como información confidencial:
+La publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales deberán identificarse con el Escudo Nacional en los términos que señala la ley en la materia y tendrá la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social".
 
-I.- La entregada con tal carácter por los particulares a los sujetos obligados, quienes deberán señalar los documentos que contengan información confidencial, siempre que tengan el derecho de restringir el acceso a la información de conformidad con las disposiciones aplicables, y que estos así lo determinen;
-
-II.- Los datos personales que requieran del consentimiento de las personas para su difusión o distribución, y cuya divulgación no esté prevista en una Ley; y
-
-III.- Los acuerdos y procedimientos de mediación cuando el mediador sea un sujeto obligado.
-
-No se considerará como información confidencial aquella que se halle en registros públicos o fuentes de acceso público.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-Los particulares podrán entregar a los sujetos obligados, con carácter de confidencial, la siguiente información:
-
-I.- La relativa al patrimonio de una persona moral, con excepción de cualquiera de los sujetos obligados;
-
-II.- La que comprenda hechos y actos de carácter económico, contable, jurídico o administrativo, relativos a una persona física o moral, que pudiera ser útil para un competidor o que pudiera afectar sus negociaciones, acuerdos de los órganos de administración, políticas de dividendos y sus modificaciones o actas de asamblea; y
-
-III.- Aquella cuya difusión esté prohibida por una cláusula o convenio de confidencialidad o que su divulgación afecte el patrimonio de un particular.
+Cuando en un municipio exista población indígena las autoridades municipales deberán difundir el contenido, las reglas de operación y los beneficios de los programas de desarrollo social que se estén implementando en el municipio, en la lengua materna o lenguas indígenas conforme a sus variantes lingüísticas, según el catálogo de lenguas nacionales expedido de conformidad a la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
 ###### Artículo 31.
 
-Los sujetos obligados no podrán difundir los datos personales contenidos en los sistemas de datos, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de los individuos a que haga referencia la información.
+La Secretaría publicará en sistema braile (sic), los programas de desarrollo social en donde pueda ser beneficiada una persona con discapacidad visual, de igual forma, contará con personal capacitado para dar asesoría sobre estos programas a las personas con discapacidad auditiva.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2014)</small>
+
+### Capitulo Segundo. Del Padrón Único de Beneficiarios de Programas Gubernamentales
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 31 Bis.
 
@@ -653,335 +707,71 @@ La información del Padrón Único de Beneficiarios de Programas de Desarrollo S
 
 ## TITULO SEPTIMO. DEL FOMENTO AL DESARROLLO SOCIAL
 
-### CAPÍTULO II. DEL PROCEDIMIENTO DE ACCESO A LOS DATOS PERSONALES
-
-###### Artículo 70.
-
-Las personas interesadas o sus representantes podrán solicitar de manera gratuita, previa acreditación ante la Unidad de Transparencia, les dé acceso, rectifique, cancele o haga efectivo su derecho de oposición, respecto de los datos personales que le conciernan y que obren en un sistema de datos personales en posesión de los sujetos obligados.
-
-Con tal propósito el interesado deberá presentar un escrito libre o cumplimentar una solicitud en la que requiera el acceso, rectificación, cancelación u oposición de sus datos personales a la Unidad de Transparencia en la cual indique las modificaciones por realizarse, aporte la información que justifique su petición, y en su caso, señale el sistema de datos personales donde se encuentren.
-
-La unidad de Transparencia deberá notificar al solicitante, en un plazo de diez días hábiles contados desde la admisión de la solicitud, la determinación adoptada en relación con su solicitud, a efecto de que si resulta procedente, se haga efectiva la misma dentro de los diez días hábiles siguientes a la fecha de la citada notificación.
-
-El plazo referido en el párrafo anterior, podrá ser prorrogado una sola vez, por un periodo igual, siempre y cuando así lo justifiquen las circunstancias del caso.
-
-###### Artículo 71.
-
-En caso de que haya transcurrido el plazo descrito en el artículo anterior, sin que se haya entregado la respuesta, la solicitud se entenderá aceptada en sentido positivo y el solicitante podrá interponer el recurso de revisión previsto en esta Ley.
-
-La positiva ficta anterior no surtirá efectos cuando la solicitud de acceso a los datos personales no haya sido presentada por su titular o su representante legal.
-
-###### Artículo 72.
-
-La solicitud de acceso, rectificación, cancelación u oposición deberá contener:
-
-I.- El nombre del solicitante, firma y domicilio u otro medio para recibir notificaciones, como el correo electrónico, así como los datos generales de su representante, en su caso;
-
-II.- La descripción clara y precisa de los datos personales respecto de los que se busca ejercer alguno de los derechos antes mencionados;
-
-III.- Cualquier otro elemento que facilite la localización de la información; y
-
-IV.- Opcionalmente, la modalidad en la que prefiere se otorgue el acceso a sus datos personales, la cual podrá ser verbalmente, mediante consulta directa, copias simples u otro tipo de medio.
-
-###### Artículo 73.
-
-Cuando la solicitud de acceso a los datos personales resulte confusa, sea omisa en contener los datos necesarios para la localización de la información o no satisfaga alguno de los requisitos previstos en el artículo que antecede, y la Unidad de Transparencia no cuente con los elementos necesarios para suplir la deficiencia, se procederá en los términos señalados en el artículo 58 de la Ley.
-
-###### Artículo 74.
-
-En el supuesto que los datos personales a que se refiere la solicitud, obren en los sistemas de datos personales del sujeto obligado y éste considere improcedente la solicitud de acceso, rectificación, cancelación u oposición, se deberá emitir una resolución fundada y motivada al respecto.
-
-Si en los sistemas no fuesen localizados los datos personales del sujeto obligado, dicha circunstancia se comunicará al interesado vía resolución.
-
-En ambos supuestos se notificaría al interesado o su representante a través de la Unidad de Transparencia, en términos del procedimiento que se establezca en el reglamento del Sujeto obligado.
-
-###### Artículo 75.
-
-El acceso a los datos personales será gratuito, debiendo cubrir el interesado únicamente los gastos de reproducción o envío, de conformidad con las tarifas establecidas en la ley de ingresos.
-
-###### Artículo 76.
-
-Será aplicable al presente procedimiento, lo dispuesto en los artículos 59 y 65 de la Ley.
+### Capítulo I. De los Recursos para el Desarrollo Social
 
 ###### Artículo 32.
 
-No se requerirá el consentimiento de los titulares para proporcionar sus datos personales, en los siguientes casos:
+Las políticas públicas y recursos destinados al desarrollo social son de interés público, y se sujetarán a las disposiciones contenidas en la presente ley.
 
-I.- Cuando se transmitan entre sujetos obligados, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos;
-
-II.- Cuando exista una orden judicial;
-
-III.- Cuando los datos figuren en fuentes accesibles al público y su tratamiento sea necesario, siempre que no se vulneren los derechos y libertades fundamentales del interesado; y
-
-IV.- En los demás casos que establezcan las leyes.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 33.
 
-Los sujetos obligados que soliciten datos personales deberán informar al particular, previamente, de modo expreso, preciso e inequívoco, lo siguiente:
+El presupuesto estatal y municipal que se destine al gasto social se procurará que no sea inferior al del año fiscal anterior y que se incremente conforme al crecimiento del producto interno bruto según los Criterios Generales de Política Económica y en congruencia con la disponibilidad de recursos autorizados por el Congreso del Estado y los ayuntamientos.
 
-I.- De la existencia o creación de un banco o tratamiento de datos de carácter personal, y de la finalidad de la obtención de éstos;
-
-II.- Del carácter obligatorio o facultativo de su respuesta a las preguntas que le sean planteadas;
-
-III.- De los efectos de la negativa a suministrarlos;
-
-IV.- De la posibilidad de que tales datos sean difundidos, en cuyo caso deberá constar el consentimiento expreso de la persona; y
-
-V.- De los derechos de acceso, rectificación, cancelación y oposición.
+Los programas sociales previstos en esta ley o en otros ordenamientos legales, están sujetos a la disponibilidad presupuestal y se ejercerán conforme a lo establecido en las reglas de operación correspondientes para cada ejercicio fiscal.
 
 ###### Artículo 34.
 
-Los sujetos obligados serán responsables del cuidado y confidencialidad de los datos personales y, en relación con éstos, deberán:
-
-I.- Adoptar las medidas de índole técnico y organizativas necesarias, que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado. Dichas medidas serán adoptadas en relación con el menor o mayor grado de protección que ameriten los datos personales; y
-
-II.- Cumplir con las demás prevenciones que se establezcan en el reglamento.
+La distribución y aplicación de los ingresos se realizará con estricto apego a los principios rectores de esta ley, así como a la equidad y la transparencia. En el presupuesto del Poder Ejecutivo del Estado y de los Municipios, se establecerán las partidas para el desarrollo social.
 
 ###### Artículo 35.
 
-Quedan prohibidos los sistemas de datos personales creados con la finalidad exclusiva de almacenar datos de carácter personal que revelen la ideología, afiliación sindical, religión, creencias, origen racial o étnico, o vida sexual.
-
-Esta información solo será proporcionada en los casos pertinentes y adecuados para los propósitos que persiga la función del sujeto obligado.
+La planeación, aplicación y distribución de los recursos destinados a financiar los programas de desarrollo social, se basarán en los indicadores y lineamientos generales de eficacia, eficiencia y calidad en la prestación de los servicios.
 
 ###### Artículo 36.
 
-Los titulares de los datos personales tienen derecho a:
-
-I.- Conocer, actualizar y completar la información referente a ellos, contenida en bancos de datos y en archivos de los sujetos obligados;
-
-II.- Obtener la rectificación o supresión de la información archivada, cuando sea incorrecta o cuando los registros sean ilícitos o injustificados;
-
-III.- Solicitar de los sujetos obligados, el que se abstengan de otorgar o difundir información que esté protegida por el derecho a la privacidad;
-
-IV.- Conocer los destinatarios de la información cuando ésta sea entregada en los términos de esta Ley;
-
-V.- Autorizar por escrito al sujeto obligado, a proporcionar información considerada como personal;
-
-VI.- Solicitar y obtener gratuitamente información de sus datos de carácter personal sometidos a tratamiento, el origen de dichos datos, así como las transmisiones realizadas o que se prevean hacer de los mismos; y
-
-VII.- Oponerse al tratamiento de los datos que le conciernan, en el supuesto que los datos se hubiesen recabado sin su consentimiento, cuando existan motivos fundados para ello y la ley no disponga lo contrario. De actualizarse tal supuesto, el responsable del banco de datos deberá excluir del tratamiento los datos relativos al afectado.
+Los recursos estatales y municipales presupuestados para los programas de desarrollo social, podrán ser complementados con recursos provenientes del gobierno federal o de las organizaciones civiles o sociales, fondos internacionales, donativos, o generados por cualquier otro acto jurídico.
 
 ###### Artículo 37.
 
-La Unidad de Transparencia es el órgano operativo encargado de difundir la información de oficio, recibir y tramitar las solicitudes de acceso a la información y de protección de los datos personales, que se formulen a los sujetos obligados, y servir como vínculo entre éstos y los solicitantes.
+El Congreso del Estado de conformidad con sus atribuciones, procurará que se destinen los recursos suficientes para financiar los Programas de Desarrollo Social Estatales.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
-
-###### Artículo 77.
-
-El recurso de revisión podrá presentarse, de manera directa o por medios electrónicos, ante el Órgano Garante.
-
-Para tal efecto, las Unidades de Transparencia, al momento de dar respuesta a una solicitud de acceso a la información pública o a los datos personales, le harán saber al particular sobre su derecho de interponer la revisión y la forma de hacerlo.
-
-###### Artículo 78.
-
-El recurso de revisión es procedente en cualquiera de los siguientes supuestos:
-
-I.- La negativa de acceso a la información;
-
-II.- La declaración de inexistencia de información;
-
-III.- La clasificación de información como reservada o confidencial;
-
-IV.- La entrega de información en una modalidad distinta a la solicitada, o en un formato incomprensible;
-
-V.- La información que se entregó sea incompleta o no corresponda con la solicitud;
-
-VI.- La negativa de acceso, rectificación, cancelación u oposición de datos personales;
-
-VII.- El tratamiento inadecuado de los datos personales; y
-
-VIII.- El cumplimiento de la positiva ficta, por la falta de respuesta a una solicitud de acceso dentro de los plazos establecidos en la ley.
-
-###### Artículo 79.
-
-El recurso deberá interponerse dentro de los quince días hábiles siguientes a la notificación de la resolución.
-
-En el caso de la fracción VIII del artículo anterior, el plazo contará a partir del momento en que haya transcurrido el término para dar contestación a la solicitud. En este caso bastará que el solicitante acompañe al recurso, la copia o acuse electrónico de la solicitud.
-
-###### Artículo 80.
-
-El Órgano Garante deberá prevenir al solicitante sobre las imprecisiones de forma o fondo que advierta en el recurso; en tal caso, se suspenderá el procedimiento y se le concederá un plazo no mayor de cinco días hábiles para subsanarlas.
-
-###### Artículo 81.
-
-En todos los casos, el Órgano Garante deberá suplir las deficiencias del recurso, siempre y cuando cuente con los elementos suficientes para ello y no altere el contenido original de la solicitud de acceso o de datos personales.
-
-###### Artículo 82.
-
-El recurso de revisión podrá interponerse por escrito libre, o a través de los formatos que al efecto proporcione el Órgano Garante, o por medios electrónicos; dicho recurso deberá contener lo siguiente:
-
-I.- El nombre del recurrente y, en su caso, el de su representante legal o mandatario, así como del tercero interesado, si lo hubiere;
-
-II.- El sujeto obligado ante el cual se presentó la solicitud de acceso;
-
-III.- El domicilio o medio electrónico para oír y recibir notificaciones, y el del tercero interesado, si lo hubiere;
-
-IV.- El acto o resolución que recurre y, en su caso, el número de folio o expediente que identifique el mismo;
-
-V.- La fecha en que se le notificó o tuvo conocimiento del acto o resolución que se impugna; y
-
-VI.- Los puntos petitorios.
-
-Adicionalmente, se podrán anexar las pruebas y demás elementos que justifiquen la solicitud de acceso.
-
-En tratándose del supuesto contenido en la fracción VIII del Artículo 78 de la Ley, deberá anexarse la copia o acuse electrónico de la solicitud correspondiente.
-
-En caso de no cumplir con el requisito señalado en la fracción III del presente artículo, todas las notificaciones, aún las de carácter personal, se harán por estrados.
-
-###### Artículo 83.
-
-Presentado el recurso ante el Órgano Garante, se estará a lo siguiente:
-
-I.- El auto de admisión se dictará dentro de los tres días siguientes a su presentación;
-
-II.- A dmitido (sic) el recurso, se integrará un expediente y dentro de los tres días hábiles, siguientes, se notificará al sujeto obligado señalado como responsable o a la Unidad Concentradora de Transparencia que en su caso corresponda, para que dentro del término de diez días hábiles contados a partir del día hábil siguiente de dicha notificación, produzca su contestación y aporte las pruebas que considere pertinente;
-
-III.- En el caso de existir tercero interesado, se le hará la notificación para que en el mismo plazo señalado en la fracción anterior, acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes;
-
-IV.- Recibida la contestación o transcurrido el plazo para contestar el recurso, el Órgano Garante dará vista al recurrente para que en un plazo de tres días hábiles presente las pruebas y alegue lo que a su derecho convenga;
-
-V.- Si alguna de las partes ofrece medios de prueba que requieran de desahogo o de algún trámite para su perfeccionamiento, el Órgano Garante podrá conceder una dilación probatoria no mayor de veinte días hábiles. Una vez desahogadas las pruebas se declarará cerrada la instrucción y el expediente pasará a resolución; y
-
-VI.- El Órgano Garante, bajo su más estricta responsabilidad, deberá emitir la resolución debidamente fundada y motivada, en un término no mayor de diez días hábiles, contados a partir del cierre de la instrucción. Este plazo podrá, en casos excepcionales, ser ampliado hasta por diez días hábiles adicionales, previa notificación a las partes.
-
-###### Artículo 84.
-
-Las resoluciones del Órgano Garante podrán:
-
-I.- Sobreseer o declarar improcedente el recurso; y
-
-II.- Confirmar, revocar o modificar la resolución del sujeto obligado.
-
-###### Artículo 85.
-
-Las resoluciones deberán contener lo siguiente:
-
-I.- Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
-
-II.- Los preceptos que la fundamenten y las consideraciones que la sustenten;
-
-III.- Los alcances y efectos de la resolución, fijando con precisión, en su caso, los sujetos obligados a cumplirla;
-
-IV.- Los puntos resolutivos, que podrán confirmar, modificar o revocar la resolución del sujeto obligado; y
-
-V.- En su caso, la indicación de la existencia de una probable responsabilidad y la solicitud de inicio de la investigación en materia de responsabilidad de servidores públicos.
-
-En tratándose de la fracción V, se remitirá copia del expediente al órgano de control interno del sujeto obligado correspondiente.
-
-###### Artículo 86.
-
-El recurso será improcedente cuando:
-
-I.- Sea extemporáneo;
-
-II.- Exista cosa juzgada;
-
-III.- Se recurra una resolución que no haya sido emitido (sic) por el sujeto obligado; o,
-
-IV.- Se esté tramitando ante los tribunales competentes algún recurso o medio de defensa interpuesto por el recurrente, respecto del mismo acto o resolución.
-
-###### Artículo 87.
-
-El recurso será sobreseído en los casos siguientes:
-
-I.- Por desistimiento expreso o fallecimiento del recurrente; o
-
-II.- Cuando por cualquier motivo quede sin materia el recurso.
-
-###### Artículo 88.
-
-El órgano garante podrá en cualquier momento del procedimiento citar a las partes a una audiencia de conciliación. De resolverse favorablemente el asunto, el Órgano Garante emitirá una resolución en la que haga constar el contenido del acuerdo, el cual tendrá efectos vinculantes para las partes.
-
-###### Artículo 89.
-
-La información confidencial o reservada que, en su caso, sea solicitada por el Órgano Garante por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
-
-###### Artículo 90.
-
-Salvo prueba en contrario, la falta de contestación del sujeto obligado al recurso dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado en él, siempre que éstos le sean directamente imputables.
-
-###### Artículo 91.
-
-Las partes podrán ofrecer todo tipo de pruebas, excepto la confesional de los servidores públicos y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá al Órgano Garante desechar de plano aquellas pruebas que no guarden relación con el recurso.
-
-###### Artículo 92.
-
-Interpuesto el recurso por una positiva ficta, el Órgano Garante dará vista al sujeto obligado a más tardar al tercer día hábil del cual se admitió la solicitud, para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días hábiles.
-
-Recibida su contestación, el Órgano Garante deberá emitir su resolución en un plazo no mayor a diez días hábiles, la cual deberá ser favorable al solicitante, salvo que el sujeto obligado pruebe fehacientemente haber dado respuesta o que exponga de manera fundada y motivada a satisfacción del Órgano Garante que se trata de información reservada o confidencial.
-
-###### Artículo 93.
-
-Las actuaciones y resoluciones del Órgano Garante se notificarán en el domicilio o medio electrónico que al efecto señalen las partes, al día hábil siguiente al que se dictan y surtirán efectos un día hábil después.
-
-###### Artículo 94.
-
-En la tramitación del recurso de revisión se aplicarán supletoriamente las disposiciones contenidas en el Código de Procedimientos Civiles para el Estado de Baja California.
-
-###### Artículo 95.
-
-Los sujetos obligados, en su caso, deberán informar al Órgano Garante del cumplimiento de sus resoluciones, en un plazo no mayor a tres días hábiles.
-
-###### Artículo 96.
-
-En caso de incumplimiento de la resolución, el Órgano Garante notificará al Titular del sujeto obligado que corresponda, a fin de que ordene el cumplimiento en un plazo que no excederá de tres días hábiles.
-
-###### Artículo 97.
-
-Las resoluciones del Órgano Garante en materia de revisión serán definitivas para los Sujetos Obligados y contra ellas no procederá recurso alguno. Los particulares podrán impugnarlas ante el Poder Judicial de la Federación.
-
-La autoridad jurisdiccional federal tendrá acceso a la información reservada o confidencial cuando resulte indispensable para resolver el asunto. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente judicial.
-
-###### Artículo 98.
-
-Todas las resoluciones del Órgano Garante serán públicas; cuando sea solicitado su acceso, deberán prepararse versiones públicas en los términos de la Ley.
-
-No podrá archivarse ningún expediente sin que se haya cumplido la resolución correspondiente o se hubiere extinguido la materia de la ejecución.
-
-###### Artículo 99.
-
-A fin de que la tramitación del recurso de revisión sea expedita, el Órgano Garante podrá imponer, en estricto orden gradual, las siguientes medidas de apremio:
-
-I.- Apercibimiento; y
-
-II.- Multa de 15 a 30 días de salario mínimo vigente.
-
-###### Artículo 100.
-
-Cualquier persona podrá denunciar ante el Órgano Garante, por cualquier medio, violaciones a las disposiciones relativas a la información de oficio, contenidas en la presente ley.
-
-En este caso, el Órgano Garante procederá a revisar la denuncia para que, de considerarla procedente, en un plazo no mayor a quince días hábiles emita una resolución en la que ordene al sujeto obligado las medidas que considere necesarias para remediar la violación en el menor tiempo posible.
+### Capítulo II. Del Fomento a las Actividades Productivas con Beneficio Social
 
 ###### Artículo 38.
 
-Los titulares de los sujetos obligados, designarán a los servidores públicos u órgano interno que fungirá como Unidad de Transparencia de los mismos, sin que esto implique la creación de nuevas áreas o plazas.
+El Gobierno del Estado, en coordinación con los Municipios y con el fin de estimular el crecimiento de las actividades productivas de beneficio social, tendrá las siguientes atribuciones:
 
-Los sujetos obligados comprendidos en las fracciones I, II, III y IV del artículo 6 de esta ley, podrán crear Unidades Concentradoras de Transparencia, en lugar de contar con Unidades de Transparencia en cada uno de los órganos que los conforman.
+I. Realizar las gestiones necesarias a fin de que se instalen en el Estado empresas que generen empleo y bienestar;
+
+II. Promover las actividades productivas, el empleo y el cooperativismo, como medios para generar ingresos para los grupos en situación de vulnerabilidad;
+
+III. Fomentar la organización de personas, familias y grupos sociales en proyectos productivos;
+
+IV. Promover alternativas de financiamiento y créditos para la creación de microempresas y pequeños negocios, particularmente en las Zonas que sean consideradas de Atención Prioritaria; y
+
+V. Fomentar dentro del sector empresarial del Estado el sentido social, procurando que participe activamente en los programas de desarrollo social.
 
 ###### Artículo 39.
 
-Las Unidades de Transparencia deberán:
+Con el fin de promover el desarrollo integral de las familias asentadas en las regiones con mayor grado de marginación, el Gobierno del Estado deberá procurar los siguientes incentivos, a las empresas que se instalen en las Zonas que sean consideradas de Atención Prioritaria en los términos que señala la Ley General de Desarrollo Social:
 
-I.- Recibir, tramitar y dar seguimiento a las solicitudes de acceso a la información pública y de acceso a los datos personales;
+I. Programas especiales de capacitación;
 
-II.- Entregar al solicitante la información requerida o, en su caso, el documento o acuerdo que exprese los motivos y fundamentos que se tienen para otorgar el acceso parcial a la misma o, en su caso, para negarlo;
+II. Otorgamiento de becas para capacitación y adiestramiento;
 
-III.- Orientar a los interesados en la formulación de solicitudes de información pública y de los medios de impugnación previstos por esta Ley;
+III. Apoyo financiero para programas de capacitación y adiestramiento;
 
-IV.- Realizar los requerimientos a los solicitantes cuando su solicitud de información, no cumpla los requisitos previstos por esta Ley;
+IV. Aportación estatal para obras de infraestructura pública;
 
-V.- Realizar las notificaciones a los particulares, respecto de los acuerdos, prevenciones o resoluciones que recaigan a sus solicitudes;
+V. Aportación estatal para la creación, instalación o mejoramiento de servicios públicos;
 
-VI.- Recibir y enviar al órgano garante los recursos que se presenten para su trámite, al día hábil siguiente en que se reciban;
+VI. Programas para promover exportaciones; y
 
-VII.- Llevar un registro de las solicitudes de acceso a la información y sus resultados;
+VII. Apoyo para que puedan participar en ferias y eventos nacionales e internacionales.
 
-VIII.- Elaborar el informe anual de acceso a la información, de acuerdo a los lineamientos que expida el Órgano Garante, para que sea publicado en el portal del sujeto obligado, a más tardar el día último del mes de marzo del año siguiente al que se informa. En la misma fecha deberá ser remitido al Órgano Garante con el fin de que este pueda integrar la información, y a su vez generar un informe sobre el cumplimiento de las obligaciones de transparencia y acceso a la información en el Estado, para presentarlo ante el Poder Legislativo del Estado;
-
-IX.- Fomentar la cultura de transparencia; y
-
-X.- Las demás obligaciones que señalen ésta Ley y el reglamento.
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39 Bis.
 
@@ -997,107 +787,15 @@ IV. El servicio preferente de guarderías para los hijos de madres del medio rur
 
 ## TITULO OCTAVO. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
-### CAPÍTULO ÚNICO
-
-###### Artículo 101.
-
-Serán causas de responsabilidad administrativa de los servidores públicos por incumplimiento de las obligaciones establecidas en esta ley, las siguientes:
-
-I.- Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar total o parcialmente y de manera indebida, información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
-
-II.- Actuar con negligencia, dolo o mala fe en la substanciación de las solicitudes de acceso a la información o en la difusión de la información a que están obligados conforme a esta Ley;
-
-III.- Denegar dolosamente información no clasificada como reservada o confidencial conforme a esta Ley;
-
-IV.- No resolver o resolver fuera de los términos que señala esta Ley, sobre las solicitudes de acceso que reciba;
-
-V.- No publicar o no actualizar, la información de oficio en los términos que se señalan en esta Ley o, en su caso, no remitir oportunamente la información al órgano encargado de publicarla y actualizarla;
-
-VI.- Clasificar dolosamente como reservada, información que no cumpla con las características señaladas en esta Ley;
-
-VII.- Entregar información considerada como reservada o confidencial, conforme a lo dispuesto por esta Ley;
-
-VIII.- Entregar dolosamente de manera incompleta información requerida en una solicitud de información;
-
-IX.- No proporcionar la información cuya entrega haya sido ordenada mediante resolución del Órgano Garante;
-
-X.- No informar al Órgano Garante, sobre la negativa de entrega de información por parte de algún servidor público o personal de los Sujetos Obligados;
-
-XI.- Entregar una versión pública de alguna resolución emitida por el Poder Judicial del Estado, sin haber suprimido los datos sensibles o los demás datos personales, según corresponda en los términos de la presente ley; y
-
-XII.- Las demás que se establezcan en otras Leyes.
-
-La responsabilidad a la que se refiere este artículo o cualquier otra derivada del incumplimiento de las obligaciones establecidas por esta Ley, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
-
-La infracción prevista en las fracciones IV, V, IX y XII, o la reincidencia de las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
-
-###### Artículo 102.
-
-Las responsabilidades que se generen por el incumplimiento de las obligaciones a las que se refiere el artículo anterior, son independientes de las que procedan en materia civil o penal.
-
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
-
-SEGUNDO.- Se abroga la Ley de Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 36, de fecha 12 de Agosto de 2005.
-
-TERCERO.- En todas las disposiciones legales en las que se haga mención a la Ley de Acceso a la Información Pública para el Estado de Baja California, se entenderán referidas a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
-
-CUARTO.- Los asuntos que se encuentren en trámite, serán substanciados conforme al procedimiento previsto en la Ley anterior.
-
-QUINTO.- La publicación de la información de oficio comprendida en el Capítulo Tercero del Título Primero de la presente ley, deberá realizarse, a más tardar, seis meses después de su entrada en vigor.
-
-SEXTO.- Los Sujetos Obligados deberán designar sus Unidades de Transparencia, a más tardar, treinta días naturales después de la expedición del reglamento respectivo, y en el mismo plazo deberán iniciar funciones. Solo por el lapso de tiempo en que los Sujetos Obligados no cuenten con Unidades de Transparencia, éstos serán responsables de dar seguimiento a las solicitudes de acceso a la información pública.
-
-SÉPTIMO.- Los Sujetos Obligados deberán expedir su reglamento, dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
-
-OCTAVO.- Los particulares podrán presentar las solicitudes de acceso a la información o de acceso a los datos personales, aun cuando los Sujetos Obligados no hayan expedido el reglamento respectivo.
-
-NOVENO.- Dentro de un plazo no mayor de tres años a partir de la entrada en vigencia de la presente ley, se deberán realizar las acciones necesarias para la implementación de los medios electrónicos en los mecanismos de acceso y procedimientos de revisión.
-
-DECIMO.- Para los efectos de la designación de los primeros Consejeros del Instituto, la Comisión Especial encargada de la evaluación y selección de los aspirantes, será integrada por tres representantes del Poder Ejecutivo y por los tres miembros que integraron el Consejo Ciudadano de Transparencia y Acceso a la Información Publica contemplado en la legislación que se abroga.
-
-DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los veintinueve días del mes de septiembre del año dos mil diez.
-
-DIP. JUAN MANUEL GASTÉLUM BUENROSTRO
-
-P R E S I D E N T E
-
-DIP. CARLOS ALONSO ANGULO RENTERIA
-
-S E C R E T A R I O
-
-DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
-
-MEXICALI, BAJA CALIFORNIA, A LOS TREINTA DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIEZ.
-
-JOSÉ GUADALUPE OSUNA MILLÁN.
-
-GOBERNADOR DEL ESTADO.
-
-CUAUHTÉMOC CARDONA BENAVIDES.
-
-SECRETARIO GENERAL DE GOBIERNO.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 4 DE OCTUBRE DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- En un plazo que no excederá de treinta días naturales el Poder Legislativo adecuará su portal de internet para actualizar su contenido en base a las disposiciones del presente Decreto.
+### Capítulo I. Del Sistema Estatal de Desarrollo Social
 
 ###### Artículo 40.
 
-Las Unidades Concentradoras de Transparencia tendrán las mismas funciones y atribuciones que esta ley confiere a las Unidades de Transparencia.
-
-Igualmente, las reglas y los términos para procesar la información que se solicite en las Unidades Concentradoras de Transparencia, serán los mismos que se señalan para las Unidades de Transparencia.
-
-Tratándose de las Unidades Concentradoras de Transparencia, no resultará aplicable lo establecido en el primer párrafo del artículo 38 de esta Ley.
+El Sistema Estatal de Desarrollo Social es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación del gobierno estatal y los gobiernos municipales, así como de los sectores social y privado, y tiene por objeto integrar de manera coordinada los esfuerzos de los diferentes actores en el desarrollo social a través de la concurrencia y vinculación de las acciones y programas del desarrollo social del Estado a través de los órganos que para el efecto prevé ésta Ley.
 
 ###### Artículo 41.
 
-Las Unidades Concentradoras de Transparencia podrán establecer unidades receptoras en los lugares que consideren convenientes.
+La Secretaría coordinará al Sistema Estatal de Desarrollo Social.
 
 ### Capítulo II. Del Consejo Estatal para el Desarrollo Social
 
@@ -1105,91 +803,79 @@ Las Unidades Concentradoras de Transparencia podrán establecer unidades recepto
 
 ###### Artículo 42.
 
-Todo sujeto obligado contará con un Comité, el cual será su órgano colegiado normativo en materia de transparencia, acceso a la información y protección a los datos personales, conformados por los Titulares de los sujetos obligados y los demás funcionarios que señale su reglamento. Los órganos internos de control podrán asistir a las sesiones del comité con voz, pero sin voto.
+El Consejo es un órgano consultivo del Gobierno del Estado, de participación ciudadana y que coadyuvará en la planeación participativa de la Política Estatal de Desarrollo Social, será permanente y estará integrado por los siguientes miembros:
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+I. El Secretario del Sistema de Asistencia Social quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+II. Un Secretario Técnico designado por el Secretario del Sistema de Asistencia Social;
+
+III. Dos consejeros ciudadanos que participen en organizaciones sociales, civiles y asistenciales que realicen actividades relacionadas con el desarrollo social;
+
+IV. Dos consejeros ciudadanos que cuenten con estudios, investigaciones o experiencia académica en el área de desarrollo social;
+
+V. Dos consejeros ciudadanos que participen en agrupaciones del sector empresarial; y
+
+VI. Dos consejeros ciudadanos que sean miembros o participen en sindicatos de trabajadores con representación en el Estado.
 
 ###### Artículo 43.
 
-Los sujetos obligados deberán registrar sus respectivos Comités ante el Órgano Garante.
+Los Consejeros Ciudadanos tendrán voz y voto en todas las sesiones del Consejo, y serán elegidos por la Secretaría de entre los candidatos que se presenten a la convocatoria abierta a la sociedad que para el caso emitirá la misma Secretaría. Durarán en su encargo un máximo de dos años, con posibilidad de ser reelectos por una sola ocasión.
 
 ###### Artículo 44.
 
-Compete al Comité:
-
-I.- Diseñar el sistema de información del sujeto obligado;
-
-II.- Vigilar que el sistema de información se ajuste a la normatividad aplicable;
-
-III.- Proponer las acciones necesarias para garantizar la protección de los datos personales;
-
-IV.- Elaborar y revisar los criterios de clasificación y resguardo de información;
-
-V.- Supervisar el registro y actualización de las solicitudes de acceso a la información, así como sus trámites y resultados;
-
-VI.- Proponer la política y la normatividad del sujeto obligado en materia de transparencia, acceso a la información y datos personales;
-
-VII.- Validar el informe anual elaborado por la Unidad de Transparencia;
-
-VIII.- Establecer la Unidad de Transparencia y las unidades receptoras que sean necesarias y cuidar el efectivo cumplimiento de las funciones de éstas;
-
-IX.- Promover la capacitación y actualización del (sic) los servidores públicos del sujeto obligado y del personal adscrito a la Unidad de Transparencia;
-
-X.- Fomentar la cultura de transparencia;
-
-XI.- Establecer los lineamientos para elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
-
-XII.- Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los sujetos obligados; y
-
-XIII.- Las demás que le confiera el reglamento.
+El cargo de Consejero Ciudadano será honorífico y los ciudadanos que lo ocupen no deberán tener puesto directivo en la administración pública ni en algún partido político.
 
 ###### Artículo 45.
 
-El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, es un organismo constitucional autónomo, especializado, imparcial, con personalidad jurídica, y con autonomía operativa, presupuestaria, y de decisión; encargado de garantizar el acceso a la información pública y la protección de datos personales; de fomentar la cultura de transparencia; de asegurar el cumplimiento de la Ley y de resolver los procedimientos de revisión, conforme a los principios y bases contemplados en la Constitución Política del Estado, respecto de los sujetos obligados descritos en el artículo 6 de esta Ley.
+El Consejo tendrá las siguientes atribuciones:
+
+I. Proponer políticas públicas y programas en materia de desarrollo social, basados en la equidad y los principios rectores de la presente ley;
+
+II. Realizar estudios sobre los niveles de desarrollo social en el Estado, detectando las zonas marginadas y los segmentos de la población que requieren de mayores apoyos;
+
+III. Proponer los criterios, bases y principios para la planeación y articulación de la política estatal en materia de desarrollo social;
+
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2015)
+
+V. Verificar que se esté cumpliendo con las (sic) objetivos y metas fijadas en los programas de desarrollo social en los que participe el Gobierno del Estado y los Municipios;
+
+VI. Fomentar la participación ciudadana en la Política Estatal de Desarrollo Social;
+
+VII. Proponer programas y acciones que fomente el empleo y el desarrollo de las actividades productivas con beneficio social;
+
+VIII. Promover mecanismos de consulta con los distintos sectores sociales sobre propuestas y programas de Desarrollo Social y, en su caso, recomendar la inclusión de las propuestas pertinentes;
+
+IX. Verificar la correcta difusión de los programas de desarrollo social, y en su caso, proponer estrategias de comunicación para que la información llegue a todos los grupos socialmente vulnerables; y
+
+X. Las demás que señale el reglamento de la presente ley y las disposiciones legales aplicables.
 
 ###### Artículo 46.
 
-El Órgano Garante se integrará por cuatro representantes de la sociedad civil, denominados Consejeros, tres de los cuales tendrán la calidad de Titulares, así como un Suplente que suplirá las ausencias de aquellos. Serán designados de conformidad con las siguientes bases:
-
-I.- Mediante convocatoria suscrita por el Gobernador del Estado, y publicada cuando menos treinta días antes de la conclusión del cargo de Consejero del que se trate, en el Periódico Oficial del Estado y en los medios de comunicación escritos de mayor circulación, se invitará a los interesados, a participar en la selección respectiva.
-
-II.- En la convocatoria se establecerán los requisitos y la forma de acreditarlos, así como los plazos, lugares y horarios de presentación de las solicitudes y demás documentos.
-
-III.- Los interesados presentarán la solicitud respectiva, anexando la anuencia de sujetarse al procedimiento siguiente:
-
-a) Se formará una Comisión Especial encargada de la evaluación y selección de los aspirantes, integrada por tres representantes del Poder Ejecutivo y por tres ciudadanos elegidos por el Pleno del Instituto.
-
-b) La Comisión Especial revisará los perfiles y celebrará entrevistas con los aspirantes, y en general, realizará las evaluaciones que considere pertinentes.
-
-c) De ser posible, la Comisión Especial integrará un listado de tres candidatos, acompañado de un informe en el que se asienten los criterios de mérito, capacidad y especialización por los cuales fueron seleccionados. En todo caso, la Comisión Especial podrá integrar el listado con un solo aspirante.
-
-d) La Comisión Especial enviará al Gobernador del Estado, la relación de los candidatos seleccionados, para que éste la remita al Congreso del Estado.
-
-e) El Pleno del Congreso del Estado elegirá, por mayoría calificada, a la persona que desempeñará el cargo de Consejero.
-
-f) En caso de que no se aprueben los aspirantes propuestos, se hará del conocimiento del Gobernador del Estado, para efecto de que remita una nueva lista de aspirantes. Si se rechaza de nueva cuenta la propuesta, será designado el aspirante que ocupe el primer lugar en el listado correspondiente.
-
-g) En todo caso, la instancia legislativa tendrá un plazo de diez días naturales para resolver, vencido el cual, sin que se haya emitido resolución alguna, se entenderá como elegido el aspirante propuesto en primer lugar en el listado respectivo, y se expedirá el nombramiento respectivo en un plazo de tres días naturales.
-
-IV.- Una vez realizado lo anterior, El Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en los diarios de mayor circulación.
+El funcionamiento y organización del Consejo, quedará regulado por el reglamento que para el caso se emita, con apego a la presente ley.
 
 ###### Artículo 47.
 
-Para ser Consejero se requiere:
+El Gobierno del Estado impulsará la creación de Consejos Regionales de Desarrollo Social, que se constituirán de conformidad con las siguientes reglas:
 
-I.- Ser ciudadano mexicano y tener una residencia mínima en el Estado, de cinco años anteriores al día de su designación;
+I. Cada uno de ellos será presidido por un representante de la Secretaría;
 
-II.- Tener por lo menos treinta y cinco años de edad al día de su designación;
+II. Estarán integrados por un máximo de siete Consejeros Ciudadanos que no deberán ocupar cargos directivos en la administración pública ni en algún partido político, y se procurara que exista representación de la mayoría de los Municipios que integran la región;
 
-III.- No haber sido condenado por la comisión de algún delito doloso o que merezca pena corporal;
+III. Los consejeros deberán ser residentes de la región y serán elegidos por la Secretaría previa convocatoria públicas (sic) y tomando en cuenta las propuestas que hagan los ayuntamientos de la región;
 
-IV.- Haberse desempeñado destacadamente en actividades comunitarias, profesionales o académicas relacionadas con el cumplimiento de esta Ley;
+IV. Los cargos serán honoríficos y se renovarán cada dos años con posibilidad de reelección; y
 
-V.- No tener cargo en alguno de los sujetos obligados, ni haber sido servidor público; ni desempeñar ni haber desempeñado cargo de elección popular, ni haber sido registrado como candidato para alguno de ellos; ni desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal o su equivalente de algún partido político; en un año anterior a la fecha de su designación o elección, y
-
-VI.- No haber sido inhabilitado para el ejercicio público.
+V. Las demás que se señalen en las disposiciones reglamentarias que para el caso emita la Secretaría.
 
 ###### Artículo 48.
 
-Los consejeros del Órgano Garante durarán en su encargo cuatro años, sin posibilidad de reelección, y durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, siempre y cuando no ostenten cargos directivos ni atiendan dichas actividades de tiempo completo.
+Los Municipios podrán constituir Consejos Municipales de Desarrollo Social de acuerdo con las disposiciones reglamentarias que para el caso, estos emitan, de igual forma dos o más Municipios del Estado podrán constituir Consejos Metropolitanos de Desarrollo Social.
+
+> <small>(F. DE E., P.O. 19 DE FEBRERO 2005)</small>
 
 ### Capítulo III. De la Comisión para el Desarrollo Social
 
@@ -1197,57 +883,103 @@ Los consejeros del Órgano Garante durarán en su encargo cuatro años, sin posi
 
 ###### Artículo 49.
 
-El Órgano Garante tendrá su residencia y domicilio en el Estado y ejercerá sus funciones conforme a la siguiente estructura:
+La Comisión para el Desarrollo Social es un organismo interinstitucional de coordinación, apoyo y vinculación entre las distintas dependencias y entidades de la administración pública estatal que tengan atribuciones relacionadas con el desarrollo social.
 
-I.- El Pleno como órgano supremo;
+Será presidido por el Titular del Poder Ejecutivo del Estado y se integrará con:
 
-II.- Un Secretario Ejecutivo; y
+I. El titular de la Secretaría quién tendrá a cargo la coordinación ejecutiva y suplirá al Titular del Poder Ejecutivo en caso de ausencia;
 
-III.- La estructura orgánica que acuerde el Pleno de conformidad al presupuesto que se le asigne.
+II. Por los titulares de las siguientes Secretarías de Estado y dependencias:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
+a) Educación;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
+b) Salud;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+c) Trabajo y Previsión Social;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+d) Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
+e) Desarrollo Económico;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
+f) Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
+g) Cultura;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+h) Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+i) Hacienda Pública;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+j) Planeación y Participación Ciudadana;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+k) Administración;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+l) Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+m) Comisión Estatal Indígena.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+n) Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+ñ) Comisión Estatal Indígena.
+
+III. Tres presidentes municipales de distintas regiones del Estado, elegidos por el titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Podrán participar como invitados un representante de la Secretaría de Bienestar del Gobierno Federal y las demás personas que se considere necesario.
 
 ###### Artículo 50.
 
-El Pleno del Órgano Garante se integrará por los Consejeros Titulares funcionará como órgano colegiado, sus decisiones se tomarán por mayoría de votos y sesionará al menos semanalmente.
+La Comisión tendrá las siguientes atribuciones:
+
+I. Dar seguimiento a la ejecución de los Programas de Desarrollo Social y proponer las líneas de acción para que estos generen los mejores resultados;
+
+II. Proponer métodos para conjuntar, coordinar y unificar los esfuerzos del Sistema Estatal de Desarrollo Social;
+
+III. Recomendar medidas para que la Política Estatal en materia de desarrollo social sea aplicada con eficiencia y efectividad;
+
+IV. Dar alternativas para tener una mejor coordinación con el Gobierno Federal, Estatal y los Municipios;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Presentar propuestas de partidas y montos que se pueden destinar a los programas de desarrollo social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Articular la transversalidad de las políticas públicas de desarrollo social.
 
 ###### Artículo 51.
 
-El Órgano Garante tendrá las siguientes atribuciones:
-
-I.- Conocer y resolver los recursos de revisión interpuestos por los solicitantes;
-
-II.- Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial;
-
-III.- Vigilar y, en caso de incumplimiento de las obligaciones que le impone esta ley, hacer las recomendaciones a los sujetos obligados;
-
-IV.- Orientar y asesorar a los particulares acerca de las solicitudes de acceso a la información;
-
-V.- Difundir la cultura de transparencia y acceso a la información pública, y la protección de los datos personales;
-
-VI.- Hacer del conocimiento del órgano interno de control de cada sujeto obligado, las presuntas infracciones a esta Ley;
-
-VII.- Impulsar, conjuntamente con instituciones de educación superior, la investigación, difusión y docencia sobre el derecho de acceso a la información pública;
-
-VIII.- Promover la realización de estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de esta Ley;
-
-IX.- Cooperar respecto de la materia de esta Ley, con los demás sujetos obligados, la Federación, las demás entidades federativas, los municipios, o sus órganos de acceso a la información, mediante la celebración de acuerdos o programas;
-
-X.- Celebrar los convenios para la promoción y difusión de la cultura de la transparencia;
-
-XI.- Coadyuvar con las instancias correspondientes, para el cumplimiento de la Ley General de Administración Documental para el Estado de Baja California;
-
-XII.- Establecer los lineamientos para elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales que le presenten los sujetos obligados;
-
-XIII.- Requerir, analizar y sistematizar los informes que deban emitir y publicar los sujetos obligados;
-
-XIV.- Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los sujetos obligados;
-
-XV.- Validar los sistemas que instalen los sujetos obligados para recibir solicitudes vía electrónica;
-
-XVI.- Proponer a las autoridades educativas competentes, la inclusión en los programas de estudio de contenidos que versen sobre la importancia social del derecho de acceso a la información pública;
-
-XVII.- Elaborar su Reglamento Interior y demás normas de operación; y
-
-XVIII.- Las demás que le confieran esta Ley, su Reglamento y cualquier otra disposición aplicable.
+La Comisión deberá reunirse por lo menos una vez cada tres meses.
 
 ## TITULO NOVENO. DE LA PARTICIPACION SOCIAL
 
@@ -1257,7 +989,29 @@ XVIII.- Las demás que le confieran esta Ley, su Reglamento y cualquier otra dis
 
 ###### Artículo 52.
 
-Los Consejeros del Órgano Garante sólo podrán ser removidos de sus cargos por el Congreso del Estado, cuando medie causa grave de conformidad con la Ley de Responsabilidades de los Servidores Públicos.
+El Gobierno del Estado, a través de las dependencias y entidades públicas que tengan a su cargo Programas de Desarrollo Social, y los Municipios, a fin de garantizar la participación de los ciudadanos en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social, deberán:
+
+I. Establecer las formas y requisitos para participar en los consejos consultivos y en las planeación y evaluación de la política social;
+
+II. Realizar consultas públicas periódicas para verificar la calidad de los servicios y programas de desarrollo social, así como para captar las propuestas y sugerencias;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
+
+IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar Comités de Contraloría Social y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+V. Proponer y coordinar los lineamientos y políticas de capacitación y asistencia técnica para las Contralorías Sociales a efecto de mejorar el desarrollo de la participación y en el desempeño de las tareas de control y vigilancia; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+VI. Los demás que considere necesarios para la promoción de la participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 52 Bis.
 
@@ -1291,21 +1045,25 @@ II. Recibir, atender y determinar la procedencia de las manifestaciones realizad
 
 ###### Artículo 53.
 
-El reglamento señalará los supuestos en los que los Consejeros deberán excusarse por algún impedimento para conocer de un caso concreto. Las partes en un recurso podrán asimismo recusar con causa a un comisionado. Corresponderá al Pleno calificar la procedencia de la recusación.
+Las organizaciones podrán recibir y administrar recursos públicos para actividades y programas relacionados con el desarrollo social. Las organizaciones que reciban recursos públicos estarán sujetas a la vigilancia de la Secretaría.
 
 ###### Artículo 54.
 
-El Presidente del Pleno será electo de entre los Consejeros; dicho cargo será de carácter rotativo, con una duración en el encargo de dos años y sin posibilidad de ratificación.
+La sociedad, participará activamente en la planeación, programación, implementación y evaluación de los programas y acciones de Desarrollo Social, de acuerdo a lo establecido en esta Ley.
 
 ### Capítulo II. De la Denuncia Ciudadana
 
 ###### Artículo 55.
 
-El Órgano Garante remitirá por escrito anualmente un informe público al H. Congreso del Estado sobre el acceso a la información, con base en los datos que le rindan las unidades de transparencia correspondientes, en el cual se incluirá, al menos, el número de solicitudes de acceso a la información presentadas, así como su resultado; su tiempo de respuesta; el número y resultado de los asuntos atendidos por el Órgano Garante; el estado que guardan las denuncias presentadas ante los órganos internos de control y las dificultades observadas en el cumplimiento de la Ley.
+Los ciudadanos que adviertan una anomalía en la operación o atención de la Política Estatal de Desarrollo Social o cualquier otro hecho que atente contra los derechos sociales consignados en la presente ley, podrán denunciarlo ante la Contraloría del Estado.
 
 ###### Artículo 56.
 
-El Órgano Garante tendrá las obligaciones de transparencia, de acceso a la información y de protección de datos personales que esta Ley señala para los sujetos obligados.
+Toda denuncia siempre tendrá una respuesta por escrito. La forma en la que se presentará la denuncia que señala el artículo anterior, los plazos para responder la misma y el procedimiento de desahogo quedarán asentados en el reglamento de la presente ley.
+
+En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su competencia, esta deberá de remitirla a la autoridad competente para su conocimiento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO DECIMO. DEL SISTEMA ESTATAL DE INFORMACION PARA EL DESARROLLO SOCIAL
 
@@ -1317,29 +1075,69 @@ El Órgano Garante tendrá las obligaciones de transparencia, de acceso a la inf
 
 ###### Artículo 57.
 
-Cualquier persona sin necesidad de acreditar un derecho subjetivo, podrá solicitar el acceso a la información pública, ante la Unidad de Transparencia que corresponda, mediante el formato que al efecto ésta le proporcione o, en su caso, por escrito libre en original y copia en el que se señale, por lo menos:
+El Sistema Estatal de Información para el Desarrollo Social, tiene por objeto generar desde la Secretaría información relevante para el desarrollo social, así como los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos para planear y aplicar eficazmente la Política Estatal de Desarrollo Social.
 
-I.- El nombre del solicitante y el domicilio o medio para recibir notificaciones. En caso de que el solicitante no señale domicilio será notificado a través de estrados o mediante sistema electrónico;
-
-II.- La descripción clara y precisa de la información que solicita o cualquier otro dato que propicie su localización, con objeto de facilitar su búsqueda; y
-
-III.- Opcionalmente, la modalidad en la que prefiera se otorgue el acceso a la información, mediante consulta directa, copias, u otro tipo de medio disponible.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 58.
 
-Cuando la solicitud de información resulte confusa, sea omisa en contener los datos necesarios para la localización de la información, o no satisfaga alguno de los requisitos previstos en el artículo que antecede, y la Unidad de Transparencia no cuente con los elementos necesarios para suplir la deficiencia, se requerirá al interesado para que en el plazo de cinco días hábiles, contados a partir del día hábil siguiente del requerimiento, haga las aclaraciones pertinentes o subsane las omisiones en que haya incurrido; en este caso, el cómputo del término para la entrega de la información solicitada iniciará una vez que el interesado presente la solicitud con la aclaración o corrección.
+El Sistema Estatal de Información para el Desarrollo Social deberá contener como mínimo lo siguiente:
 
-De no recibir la aclaración correspondiente, la solicitud se tendrá como no interpuesta.
+I. Los niveles estatales de desarrollo social por municipio y región;
+
+II. Indicadores del desarrollo social nacionales e internacionales que tengan relación con los estatales;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Los índices de medición multidimensional de la pobreza tomando en cuenta por lo menos los siguientes factores:
+
+a) Ingreso corriente per cápita;
+
+b) Rezago educativo promedio en el hogar;
+
+c) Acceso a los servicios de salud;
+
+d) Acceso a la seguridad social;
+
+e) Calidad y espacios de la vivienda;
+
+f) Acceso a los servicios básicos en la vivienda;
+
+g) Acceso a la alimentación;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+h) Grado de cohesión social;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+i) Grado de accesibilidad a carretera pavimentada; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+j) Grado de accesibilidad a las tecnologías de comunicación y de la información;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. La retroalimentación y las propuestas de las contralorías sociales o consultas públicas en relación con los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Los resultados de las evaluaciones que se realicen de los programas de desarrollo social en los que participe el Gobierno del Estado o los Municipios; y
+
+VI. Estudios e investigaciones sobre el desarrollo social en el Estado.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 59.
 
-Toda solicitud de acceso a la información que se presente de manera directa, deberá sellarse de recibido en original y copia, debiendo entregar esta última al solicitante. Con el original, se iniciará el procedimiento de acceso a la información.
+La información contenida en el Sistema Estatal de Información para el Desarrollo Social será pública, de fácil acceso para su consulta y análisis, y deberá ser sistematizada.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 60.
 
-Los sujetos obligados establecerán como vía de acceso a la información pública, sistemas de comunicación remota, mediante los cuales recibirán solicitudes por medio electrónico, sin menoscabo de la solicitud directa.
-
-Los sujetos obligados adoptarán las medidas que doten de certeza a los solicitantes del seguimiento de las solicitudes de información enviadas por medios remotos de comunicación, mediante la generación de comprobantes electrónicos de la recepción de la solicitud, entrega de la información solicitada, así como del cumplimiento de las demás disposiciones relativas al procedimiento de acceso a la información contempladas por esta Ley. En todos los casos, la Unidad de Transparencia conservará constancia de las resoluciones originales
+La Secretaría atenderá las mediciones de la evaluación de la pobreza y el desarrollo social en el Estado, que al efecto realice la Secretaría de Planeación y Participación Ciudadana, con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
 
 ### Capítulo II. De la Evaluación
 
@@ -1347,25 +1145,43 @@ Los sujetos obligados adoptarán las medidas que doten de certeza a los solicita
 
 ###### Artículo 61.
 
-Los formatos de solicitud de acceso a la información pública deberán estar disponibles en las unidades de transparencia y en el Portal respectivo.
+Corresponde a la Secretaría de Planeación y Participación Ciudadana, emitir lineamientos respecto a la elaboración, seguimiento y evaluación de las matrices de indicadores para resultados y sus indicadores, para normar la ejecución de las acciones específicas de seguimiento y evaluación de la Política Estatal de Desarrollo Social, de las políticas públicas y de los programas de desarrollo social, en coordinación con los integrantes de la Comisión.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Para el cumplimiento de este artículo las funciones de monitoreo y evaluación se regirán de conformidad a lo previsto por la Ley General de Desarrollo Social, esta Ley y la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La evaluación de la Política Estatal, de las políticas públicas y de los programas de desarrollo social será anual, y se observará lo siguiente:
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+I. La Secretaría de Planeación y Participación Ciudadana, en coordinación con la Secretaría, deberá presentar ante la Comisión una propuesta de los programas de desarrollo social a evaluarse durante el siguiente ejercicio anual; misma que deberá contemplar nombres de los programas, tipo de evaluación a realizar conforme a los Lineamientos Generales de Monitoreo y Evaluación, y dependencia o entidad que será responsable de coordinar y financiar la realización de cada evaluación;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. La Comisión podrá emitir sugerencias y recomendaciones al Programa Anual de Evaluación del ejercicio anual que corresponda;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Una vez concluidas las evaluaciones, las dependencias y entidades deberán presentar los resultados ante la Comisión, así como las agendas de los aspectos susceptibles de mejora que de esos resultados deriven;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Los resultados de la evaluación y el seguimiento a la agenda de los aspectos susceptibles de mejora derivados de ejercicios de evaluación, deberán estar disponibles públicamente en los sitios oficiales de internet de las dependencias y entidades evaluadas.
+
+Dichas publicaciones deberán incluir los datos del responsable de la ejecución del programa evaluado y del evaluador, así como el costo, el objetivo, la metodología y las recomendaciones derivadas de la evaluación; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Las dependencias y entidades que cuenten con agenda de aspectos susceptibles de mejora derivadas de evaluaciones, deberán informar ante la Comisión los avances en su cumplimiento al menos una vez al año.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 62.
 
-Una vez admitida la solicitud de información por la Unidad de Transparencia, se estará al procedimiento siguiente:
-
-I.- Remitirá la solicitud de información al Titular, con el objeto de que éste la localice.
-
-Il.- Recibida la solicitud por el Titular, éste remitirá la información en el formato en el que se encuentre disponible, a la Unidad de Transparencia, o en su caso, el acuerdo que funde y motive que la información es considerada como reservada o confidencial.
-
-Cuando la información sea negada al solicitante, la Unidad de Transparencia remitirá al Comité, copia de la determinación que se le entregue al interesado.
-
-III.- La Unidad de Transparencia, deberá contar con la información solicitada en un plazo no mayor a diez días hábiles, contados a partir del día siguiente a la admisión de la solicitud.
-
-IV.- La Unidad de Transparencia deberá notificar al solicitante los resultados de su solicitud por estrados y a través del Portal y, en su caso, los costos de reproducción que deberá cumplir para la entrega de su información, sin perjuicio de que lo pueda hacer personalmente en caso de que concurra el interesado.
-
-Una vez que el solicitante exhiba el recibo de pago a que se refiere el párrafo anterior, la Unidad de Transparencia procederá a la reproducción de la información para entregarla al solicitante en un plazo máximo de dos días hábiles.
-
-V.- En caso de que la información sea negada por tratarse de información restringida, o que no sea competencia del sujeto obligado, se deberá notificar al solicitante en un plazo no mayor de diez días hábiles, contados a partir del día hábil siguiente en que la Unidad de Transparencia recibió la solicitud.
+Los Lineamientos Generales de Monitoreo y Evaluación previstos en este capítulo, deberán ajustarse a los criterios de evaluación emitidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, de conformidad a la Ley General de Desarrollo Social.
 
 ## TITULO DECIMO PRIMERO. DEL INCUMPLIMIENTO
 
@@ -1375,43 +1191,79 @@ V.- En caso de que la información sea negada por tratarse de información restr
 
 ###### Artículo 63.
 
-Los sujetos obligados sólo estarán obligados a entregar documentos que se encuentren en sus archivos; dicha información se entregará en el estado en que se encuentre.
+El incumplimiento de las disposiciones establecidas en el presente ordenamiento, serán sancionadas de conformidad a lo establecido por la Constitución Política del Estado de Jalisco, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; independientemente de las responsabilidades políticas, civiles o penales a que haya lugar.
 
-En el caso de que la información ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información. Si se encuentra disponible en Internet se le indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida; al ternativamente (sic) podrá proporcionarle una impresión de la misma.
+T R A N S I T O R I O S
 
-###### Artículo 64.
+PRIMERO. El presente Decreto entrará vigor a los noventa días naturales de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-En caso de que exista un documento que contenga en forma parcial información cuyo acceso se encuentre restringido en términos de esta Ley, deberá proporcionarse el resto de la información que no esté sujeta a dicha restricción.
+SEGUNDO. Una vez que entre en vigor el presente decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia, tendrán un término de treinta días naturales para expedir las disposiciones reglamentarias correspondientes.
 
-###### Artículo 65.
+TERCERO. El Titular del Poder Ejecutivo del Estado deberá integrar el Consejo Estatal de Desarrollo Social y la Comisión de Desarrollo Social, a más tardar el día en que entre en vigor este decreto.
 
-La Unidad de Transparencia deberá conservar la información que responda a la solicitud por un plazo de 40 días hábiles, contados a partir del día siguiente a la recepción de la solicitud; en caso de que el solicitante no se presente a recibirla en dicho plazo, el sujeto obligado queda eximido de responsabilidad de la (sic) conservarla.
+CUARTO. Se derogan todas las disposiciones legales que contravengan el presente decreto.
 
-###### Artículo 66.
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-Cuando la información solicitada corresponda a un trámite previamente establecido y previsto en una Ley, se orientará al solicitante para que inicie el procedimiento correspondiente. En esos casos la solicitud de información se considerará satisfecha.
+GUADALAJARA, JALISCO, 16 DE DICIEMBRE DEL 2004
 
-###### Artículo 67.
+Diputado Presidente
 
-Las Unidades de Transparencia no estarán obligadas a dar trámite a solicitudes de acceso, cuando:
+FCO. JAVIER HIDALGO Y COSTILLA HERNÁNDEZ
 
-I.- Se hayan formulado de forma ofensiva o irrespetuosa; o
+(RÚBRICA)
 
-II.- La información se encuentre disponible públicamente.
+Diputado Secretario
 
-En cualquiera de los supuestos anteriores, la Unidad de Transparencia deberá emitir un informe fundando y motivando la negativa.
+JAVIER HARO TELLO
 
-###### Artículo 68.
+(RÚBRICA)
 
-Toda solicitud de información presentada en los términos de esta Ley deberá ser resuelta en un plazo no mayor de diez días hábiles.
+Diputado Secretario
 
-De manera excepcional este plazo podrá prorrogarse por un periodo igual cuando no sea posible reunir la información solicitada en dicho término. El Sujeto Obligado deberá comunicar a la Unidad de Transparencia para que ésta a su vez notifique al solicitante, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrán invocarse como causales de ampliación del plazo, motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
+ANA ELIA PAREDES ARCIGA
 
-###### Artículo 69.
+(RÚBRICA)
 
-En el caso de que no se dé respuesta a la petición de acceso a la información pública dentro del plazo señalado en el artículo anterior, se entenderá resuelta en sentido positivo, y el solicitante podrá interponer el recurso de revisión previsto en esta Ley, para efecto de que el sujeto obligado haga entrega inmediata de la información solicitada.
+En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
-La positiva ficta anterior no surtirá efectos cuando la solicitud de acceso trate sobre información reservada o confidencial.
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 21 veintiún días del mes de Diciembre de 2004 dos mil cuatro.
+
+El Gobernador Constitucional del Estado
+
+LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
+
+El Secretario General de Gobierno
+
+LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 2915/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 4 Y 14; Y SE ADICIONA UN CAPÍTULO II AL TITULO SEXTO DENOMINADO "DEL PADRÓN ÚNICO DE BENEFICIARIOS DE PROGRAMAS GUBERNAMENTALES", CON LOS' ARTÍCULOS 31 BIS, 31 TER, 31 QUATER Y 31 QUINQUIES, TODOS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 2933/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, 42 Y 49 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 25872/LXI/16 QUE REFORMA EL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y ADICIONA EL ARTÍCULO 39 BIS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
 
@@ -1466,3 +1318,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27770/LXII/19 QUE REFORMA LOS ARTÍCULOS 1 EN SUS FRACCIONES I, IV, V, VI, VII Y X, 6 FRACCIÓN II, 7 FRACCIÓN III, ARTÍCULO 10, ARTÍCULO 11 FRACCIONES I, II, VI Y VII, ARTÍCULO 13 Y 14 FRACCIONES X Y XI, Y ADICIONAN AL ARTÍCULO 1 UNA FRACCIÓN XI, AL ARTÍCULO 6 LAS FRACCIONES III, V, VI, X Y XI RECORRIÉNDOSE LAS SUBSECUENTES IV, VII, VIII Y IX, Y AL ARTÍCULO 8, UN SEGUNDO PÁRRAFO TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27984/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
