@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-10-03"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -675,17 +675,25 @@ Al instalarse el nuevo Ayuntamiento, debe comunicar los nombres del Presidente M
 
 Corresponde al Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes, declarar la desintegración de los Ayuntamientos previo el cumplimiento del derecho de audiencia y defensa de los afectados.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 20.
 
 Son causas de desintegración del Ayuntamiento:
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 I. La falta absoluta de la mayoría de sus miembros, tanto propietarios como suplentes, de tal manera que no pueda integrarse el mismo;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 II. Por renuncia de la mayoría de sus integrantes, tanto propietarios como suplentes, de tal manera que no pueda integrarse el mismo;
 
-III. Por la comisión de hechos que culminen por declaratoria de responsabilidad política, hecha por el Congreso del Estado, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos, respecto de la mayoría de los integrantes del Ayuntamiento y no pueda integrarse éste, aún con los suplentes; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+III. Por la comisión de hechos que culminen por declaratoria de responsabilidad política, hecha por el Congreso del Estado, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, respecto de la mayoría de los integrantes del Ayuntamiento y no pueda integrarse éste, aún con los suplentes; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IV. Cuando no sea posible el ejercicio de las funciones de un Ayuntamiento conforme la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Jalisco.
 
@@ -941,11 +949,13 @@ XI. Los demás casos que señalen la presente ley y otras leyes.
 
 ### CAPITULO VIII. De las Obligaciones y Facultades de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
 Son obligaciones de los Ayuntamientos, las siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 I. Presentar al Congreso del Estado las iniciativas de sus leyes de ingresos a mas tardar el día 31 de agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas.
 
@@ -953,9 +963,11 @@ I. Presentar al Congreso del Estado las iniciativas de sus leyes de ingresos a m
 
 Las iniciativas de leyes de ingresos se deberán presentar cumpliendo con las disposiciones y requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, la Ley de Hacienda Municipal del Estado de Jalisco así como las normas que para tal efecto emita el Consejo Nacional de Armonización Contable.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos, así como de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación social y vecinal;
 
@@ -963,29 +975,55 @@ II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, 
 
 La aprobación de (sic) presupuesto de egresos y en su caso la aplicación del gasto público municipal, se sujetarán a las disposiciones y requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Hacienda Municipal del Estado de Jalisco, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco, y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 III. Remitir a la Auditoría Superior a más tardar el día veinte de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; a más tardar el día último de julio, el corte del primer semestre; y a más tardar el día último de febrero, el corte general del año inmediato anterior;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IV. Conservar y acrecentar los bienes materiales del Municipio y llevar el Registro Público de Bienes Municipales, en el que se señalen los bienes del dominio público y del dominio privado del Municipio y de sus entidades;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 V. Cuidar de la prestación de todos los servicios públicos de su competencia;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 VI. Observar las disposiciones de las leyes federales y estatales en el desempeño de las funciones o en la prestación de los servicios a su cargo;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 VII. Cumplir las disposiciones federales y estatales en materia de protección civil;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 VIII. Expedir y aplicar los reglamentos relativos a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a las bases generales definidas por las leyes federales y estatales en la materia;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 IX. Apoyar la educación, la cultura, la asistencia social y demás funciones públicas en la forma que las leyes y reglamentos de la materia dispongan;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 X. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, el orden público y la preservación de los derechos humanos;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 XI. Realizar la fiscalización y evaluación de la administración pública municipal, mediante los órganos, dependencias o entidades creadas para tal efecto;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 XII. Realizar las funciones del Registro Civil;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 XIII. Regular los procedimientos internos, para la adquisición de bienes o la contratación de servicios, asegurando que cubran las mejores condiciones de precio, calidad, financiamiento, oportunidad y demás condiciones pertinentes y evitando que esos actos se realicen en beneficio de servidores públicos del propio Municipio, a la par de fomentar la transparencia y la participación ciudadana en la vigilancia del uso de los recursos públicos;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -1709,9 +1747,9 @@ I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Pres
 
 II. Por revocación del mandato; o
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-III. Por destitución del cargo, en los casos previstos en la ley estatal en materia de responsabilidades de los servidores públicos.
+III. Por destitución del cargo, en los casos previstos en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -2553,11 +2591,11 @@ La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios e
 
 Para los efectos de las responsabilidades a que alude este capítulo, se consideran como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal en su caso, y en general a toda persona que desempeñe un cargo o comisión, de cualquier naturaleza en la administración pública municipal, así como a quienes presten servicios en los organismos públicos descentralizados municipales, órganos derivados de contratos de fideicomiso público y empresas de participación municipal mayoritaria, quienes son responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones, pudiendo en consecuencia proceder en su contra la autoridad respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 142.
 
-La acción para exigir dichas responsabilidades puede ejercitarse, durante el desempeño del cargo y dentro de los plazos establecidos en la ley estatal en materia de responsabilidades de los servidores públicos.
+La acción para exigir dichas responsabilidades puede ejercitarse, durante el desempeño del cargo y dentro de los plazos establecidos en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
@@ -2573,11 +2611,11 @@ Cuando algún miembro del Ayuntamiento comete un delito del orden común deberá
 
 Tienen obligación de presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad, ante su respectivo Órgano Interno de Control, todos los Servidores Públicos, asimismo, deberán presentar su constancia de declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 145.
 
-La declaración de situación patrimonial y de intereses debe presentarse en los plazos y términos que al efecto señala la Ley General de Responsabilidades Administrativas.
+La declaración de situación patrimonial y de intereses debe presentarse en los plazos y términos que al efecto señala la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
@@ -3252,3 +3290,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27951/LXII/2 QUE REFORMA EL ARTÍCULO 102 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27988/LXII/20 QUE REFORMA LOS ARTÍCULOS 20, 37, 70, 142 Y 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial “El Estado de Jalisco”.
