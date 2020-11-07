@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2020-02-27"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LA INCLUSION Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO -- ANTES LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD --
 
-(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 176/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 27815/LXII/20, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTISIETE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO 27210/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, SE EXTINGUE EL ORGANISMO PÚBLICO DESCONCENTRADO DENOMINADO CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CON DISCAPACIDAD.]</small>
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -44,8 +44,6 @@ Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad de
 ## TITULO PRIMERO. DISPOSICIONES GENERALES Y DERECHOS
 
 ### Capítulo I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 1.
 
@@ -491,13 +489,13 @@ El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapaci
 
 La Unidad de Valoración es un órgano técnico dependiente de la Secretaría de Salud que tiene por objeto la valoración de las personas para certificar la existencia de la discapacidad, su naturaleza, su grado y temporalidad, así como las posibilidades y requerimientos para la plena inclusión de la persona con discapacidad en el ámbito social, educativo, ocupacional, deportivo y laboral, en los términos de la Ley General, la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Para la emisión de los certificados a que se refiere el párrafo anterior, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría y el DIF Estatal.
+El certificado al que se refiere el párrafo anterior deberá incluir, en su caso, si la persona con discapacidad requiere de perro guía o de asistencia.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-La Unidad de Valoración contará con el personal que autorice el presupuesto de egresos correspondiente, y con el apoyo de la Secretaría.
+Para la emisión de los certificados a que se refiere el primer párrafo de este artículo, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría y el DIF Estatal.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1173,6 +1171,14 @@ Las autoridades diseñarán e instrumentarán programas y campañas permanentes 
 
 Las autoridades vigilarán que se garantice a las personas con discapacidad el acceso y movilidad en medios de transporte, espacios públicos, privados, laborales, educativos, recreativos, y en espectáculos públicos, incluyendo sus aparatos ortopédicos, sillas de ruedas, equipos y perros guía.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Toda persona con discapacidad y sus perros guías tienen acceso libre e irrestricto a establecimientos mercantiles, instalaciones o transportes, individuales o colectivos, sean de carácter público o privado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio en los términos de esta Ley o cobre por ello una tarifa adicional cuando se incluya aparatos ortopédicos, sillas de ruedas, equipos o perros guía, se harán acreedores a las sanciones que establece la presente Ley.
+
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 65.
@@ -1273,9 +1279,9 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, aplica
 
 I. Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
 
-(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-II. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los prestadores en cualquier modalidad de transporte que nieguen, impidan u obstaculicen el uso del servicio a una persona con discapacidad;
+II. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los proveedores de bienes y servicios, sea de carácter público o privado, que nieguen el acceso, la permanencia, el uso de un servicio a personas con discapacidad en los términos de esta Ley, o cobren una tarifa adicional cuando se incluyan aparatos ortopédicos, sillas de ruedas, equipos o perros guía;
 
 (REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
@@ -1502,3 +1508,11 @@ P.O. 27 DE FEBRERO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las personas con discapacidad que ya cuenten con el certificado expedido por la Unidad de Valoración, podrán acudir a dicho órgano para que se les expida uno nuevo con la adición de ser usuarios de perros guía o de asistencia.
