@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidad-patrimonial-del-estado-de-jalisco-y-3383
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-11"
-last_updated: "2019-05-11"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 11 de septiembre de 2003.
 
@@ -313,23 +313,31 @@ En caso contrario, deberán remitir la reclamación al Tribunal de Justicia Admi
 
 ### CAPÍTULO V. Del Derecho del Estado y Municipios de Repetir contra los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 36.
 
-Las entidades podrán repetir en contra de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se determine su responsabilidad, siempre y cuando la falta administrativa haya tenido el carácter de infracción grave. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
+Las entidades podrán repetir en contra de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación del procedimiento administrativo previsto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, se determine su responsabilidad, siempre y cuando la falta administrativa haya tenido el carácter de infracción grave. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
-La gravedad de la falta se calificará de acuerdo a los criterios que se establecen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y se tomarán en cuenta los estándares promedio de la actividad administrativa, la perturbación de la misma, la existencia o no de intencionalidad, la responsabilidad profesional y su relación con la producción del resultado dañoso.
+La gravedad de la falta se calificará de acuerdo a los criterios que se establecen en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y se tomarán en cuenta los estándares promedio de la actividad administrativa, la perturbación de la misma, la existencia o no de intencionalidad, la responsabilidad profesional y su relación con la producción del resultado dañoso.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que haya pagado la entidad con motivo de las reclamaciones de indemnización respectivas, de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que haya pagado la entidad con motivo de las reclamaciones de indemnización respectivas, de conformidad con lo previsto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-La presentación de reclamaciones por responsabilidad patrimonial del Estado o municipios suspenderá los plazos de prescripción que la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco determina para iniciar el procedimiento administrativo a los servidores públicos, mismos que se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+La presentación de reclamaciones por responsabilidad patrimonial del Estado o municipios suspenderá los plazos de prescripción que la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco determina para iniciar el procedimiento administrativo a los servidores públicos, mismos que se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado o municipios.
+Las cantidades que se obtengan con motivo de las sanciones económicas e indemnizaciones que la autoridad competente imponga a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado o municipios.
 
 ###### Artículo 40.
 
@@ -410,5 +418,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 11 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27268/LXII/19, QUE REFORMA (SIC) LOS ARTÍCULOS 28 Y 35 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27985/LXII/20 QUE REFORMA LOS ARTÍCULOS 36, 37, 38 Y 39 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
