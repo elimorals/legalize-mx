@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-y-sus-municipios-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-16"
-last_updated: "2016-11-16"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 71 del Periódico Oficial del Estado de Colima, el miércoles 16 de noviembre de 2016.
 
@@ -301,11 +301,37 @@ XVII. Realizar los trámites necesarios para la inscripción de los Financiamien
 
 XVIII. Solicitar a los sujetos de esta Ley, la información sobre las operaciones y saldos de sus Financiamientos u Obligaciones;
 
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 XIX. Suscribir los fideicomisos o instrumentos jurídicos procedentes que operen como mecanismo o conducto legal para afectar los recursos que se utilicen como garantía y/o fuente de pago de la Deuda directa y en su caso de la Deuda indirecta avalada por el Estado.
 
-Los fideicomisos que se implementen podrán servir como instrumentos de captación y/o distribución de la totalidad de las participaciones y/o aportaciones federales susceptibles de afectarse como garantía y/o fuente de pago, incluyendo los recursos que correspondan a los municipios, de conformidad con la legislación aplicable; dichos fideicomisos no serán considerados parte de la Administración Pública Paraestatal; y
+Los fideicomisos que se implementen podrán servir como instrumentos de captación y/o distribución de la totalidad de las participaciones y/o aportaciones federales susceptibles de afectarse como garantía y/o fuente de pago, incluyendo los recursos que correspondan a los municipios, de conformidad con la legislación aplicable; dichos fideicomisos no serán considerados parte de la Administración Pública Paraestatal;
 
-XX. Las demás atribuciones que en materia de Deuda pública le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XX. Incluir en el proyecto de la Ley de Ingresos del Estado, la situación y la composición de la deuda pública al último trimestre disponible, incorporando los siguientes elementos:
+
+a) El saldo total de la Deuda pública y para cada una de las contrataciones de deuda;
+
+b) La fuente de pago para cada una de las contrataciones de Deuda pública;
+
+c) La garantía de pago para cada una de las contrataciones de Deuda pública;
+
+d) El número de inscripción ante el Registro Público Único, para cada una de las contrataciones de Deuda pública;
+
+e) El tipo de obligación o instrumento de contratación para cada una de las obligaciones de Deuda pública;
+
+f) La tasa de contratación para cada una de las obligaciones de Deuda pública;
+
+g) La institución bancaria acreedora de cada una de las obligaciones de Deuda pública;
+
+h) El plazo de contratación de cada una de las obligaciones de Deuda pública;
+
+i) El destino de cada una de las obligaciones de Deuda pública de acuerdo con lo aprobado por el Congreso del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Las demás atribuciones que en materia de Deuda pública le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales aplicables.
 
 ###### Artículo 10.
 
@@ -349,11 +375,37 @@ XIV. Presentar al Congreso del Estado los documentos y demás información que l
 
 XV. Vigilar que la capacidad de pago de las Entidades de la Administración Pública Paramunicipal, que contraten Obligaciones u Financiamientos, sea suficiente para cubrir puntualmente los compromisos establecidos;
 
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 XVI. Aprobar la constitución y suscripción de los fideicomisos o instrumentos jurídicos procedentes que operen como mecanismo o conducto legal para afectar los recursos que se utilicen como garantía y/o fuente de pago de la Deuda directa y en su caso de la Deuda indirecta avalada por el Municipio.
 
-Los fideicomisos que se implementen podrán servir como instrumentos de captación y/o distribución de la totalidad de las participaciones y/o aportaciones federales susceptibles de afectarse como garantía y/o fuente de pago, de conformidad con la legislación aplicable; dichos fideicomisos no serán considerados parte de la Administración Pública Paramunicipal; y
+Los fideicomisos que se implementen podrán servir como instrumentos de captación y/o distribución de la totalidad de las participaciones y/o aportaciones federales susceptibles de afectarse como garantía y/o fuente de pago, de conformidad con la legislación aplicable; dichos fideicomisos no serán considerados parte de las entidades de la Administración Pública Paramunicipal;
 
-XVII. Las demás atribuciones que en materia de Deuda pública le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Incluir en la iniciativa de la Ley de Ingresos del Municipio, la situación y la composición de la Deuda pública al último trimestre disponible, incorporando los siguientes elementos:
+
+a) El saldo total de la Deuda pública y para cada una de las contrataciones de deuda;
+
+b) La fuente de pago para cada una de las contrataciones de Deuda pública;
+
+c) La garantía de pago para cada una de las contrataciones de Deuda pública;
+
+d) El número de inscripción ante el Registro Público Único, para cada una de las contrataciones de Deuda pública;
+
+e) El tipo de obligación o instrumento de contratación para cada una de las obligaciones de Deuda pública;
+
+f) La tasa de contratación para cada una de las obligaciones de Deuda pública;
+
+g) La institución bancaria acreedora de cada una de las obligaciones de Deuda pública;
+
+h) El plazo de contratación de cada una de las obligaciones de Deuda pública;
+
+i) El destino de cada una de las obligaciones de deuda pública de acuerdo con lo aprobado por el Congreso del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Las demás atribuciones que en materia de Deuda pública le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales aplicables.
 
 2. Para las aprobaciones a que se refieren las fracciones I, II, III, V, VII, IX, X y XVI anteriores, será necesario el voto a favor de cuando menos las dos terceras partes de los miembros que integran el Ayuntamiento.
 
@@ -794,3 +846,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 14 catorce de noviembre del año 2016 dos mil dieciséis.
 
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima. Rúbrica. ARNOLDO OCHOA GONZÁLEZ, Secretario General de Gobierno. Rúbrica. CARLOS ARTURO NORIEGA GARCÍA, Secretario de Planeación y Finanzas. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 328.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA; DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS; ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA Y COORDINACIÓN FISCAL DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
