@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2020-07-01"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1157,13 +1157,17 @@ XXVIII. Todo servidor público está obligado a responder las recomendaciones qu
 
 A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte; y
+XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internaciones (sic) de los que el Estado mexicano sea parte;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabajo o usuarias y usuarios de los servicios públicos, por sí o por interpósita persona, actos u omisiones que materialicen cualquier tipo o modalidad de violencia contra las mujeres en razón de género previstas por las leyes aplicables.
+XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabajo o usuarias y usuarios de los servicios públicos, actos u omisiones que materialicen cualquier tipo o modalidad de violencia de género previstas por las leyes aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XXXI. Atender los requerimientos de la Unidad de Transparencia del sujeto obligado al que está adscrito, sobre información pública y protección de datos personales.
 
 ## TITULO TERCERO
 
@@ -3044,3 +3048,7 @@ TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participaci
 CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
 
 QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. EL “DECRETO 27982/LXII/20 QUE REFORMA LOS ARTÍCULOS 31, 35, 41, 43, 53 Y 58 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, ASÍ COMO EL ARTÍCULO 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
