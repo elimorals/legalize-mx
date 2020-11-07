@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-09-19"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -995,7 +995,9 @@ III. Padezca enfermedad grave e incurable avanzada o precario estado de salud. E
 
 Se exceptúa la reparación del daño y la sanción económica, por lo que no se podrá prescindir de su imposición; o
 
-IV. Haya cometido el delito durante el lapso en que sufriere en su persona una prolongada violencia de género producida por la víctima, que pusiere en serio peligro la integridad física del sujeto activo.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+IV. Haya cometido el delito durante el lapso en que sufriere en su persona violencia de género producida por la víctima, que pusiere en serio peligro la integridad física del sujeto activo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1797,9 +1799,9 @@ Se le aplicará prisión de uno a cinco años, al que empleando la fuerza, el am
 
 La misma sanción sufrirá el que, a través de la coacción física o moral, obligue a la autoridad pública a que ejecute un acto oficial, con o sin los requisitos legales o cualquier otro que no esté en sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Se aplicará de seis meses a un año de prisión al que viole o infrinja una orden de protección preventiva y/o de emergencia de las establecidas en el artículo 93 bis del Código de Procedimientos Penales del Estado de Jalisco.
+Se aplicará de uno a cinco años de prisión al que incumpla, obstaculice, viole o infrinja órdenes de protección o de emergencia de las establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco, así como las medidas y providencias precautorias establecidas en el Código Nacional de Procedimientos Penales.
 
 ###### Art. 130.
 
@@ -1967,11 +1969,11 @@ Se impondrán de uno a seis meses de prisión al que provoque públicamente a co
 
 ### CAPITULO I. Corrupción de Menores
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-###### Artículo 142-A.
+###### Art. 142-A.
 
-Se impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización a la persona que facilite, provoque, induzca o promueva en persona menor de edad o con quien no tenga capacidad para comprender el significado del hecho:
+Se impondrá de tres a diez años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización a la persona que facilite, provoque, induzca o promueva en persona menor de edad o con quien no tenga capacidad para comprender el significado del hecho:
 
 > <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -1989,51 +1991,21 @@ III. La iniciación o práctica de la actividad sexual, la realización de activ
 
 IV. La comisión de cualquier delito.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Cuando se trate de los actos mencionados y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de cuatro a siete años de prisión y multa de doscientos a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Cuando se trate de los actos mencionados y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de cuatro a doce años de prisión y multa de doscientos a setecientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
 Cuando el acto de corrupción se realice a través de las tecnologías de la información y la comunicación, al responsable se le impondrá de seis a doce años de prisión y multa de doscientos cincuenta a quinientos cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas correspondientes a los demás delitos que en su caso se cometan.
 
-(REPUBLICADO, P.O. 10 DE OCTUBRE DE 2017)
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Se aumentará en una cuarta parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea persona menor de doce años.
+Se aumentará en una tercera parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea persona menor de doce años.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
 Cuando la corrupción de la víctima conlleve un beneficio económico para el corruptor se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-###### Art. 142-A.
-
-Se impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que por cualquier medio faciliten, provoquen, induzcan o promuevan en un menor de edad o con quien no tenga capacidad para comprender el significado del hecho:
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
-
-I. El hábito de la mendicidad;
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
-
-II. El hábito de consumir alcohol, drogas o sustancias similares;
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
-
-III. La iniciación ó práctica de la actividad sexual; ó
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2007)</small>
-
-IV. La comisión de cualquier delito.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-Cuando se trate de los actos mencionados y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de cuatro a siete años de prisión y multa de doscientos a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Se aumentará en una cuarta parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea persona menor de 12 años.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -2113,11 +2085,17 @@ II. De tres a seis años de prisión, cuando la víctima sea menor de doce años
 
 Art. 142 M. A quien tenga cópula o cópula equiparada, con una persona menor de edad o en una persona que no tenga la capacidad de comprender el significado de las cosas o de resistir el hecho, se le impondrá una pena de:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 I. Tres meses a cinco años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice con su consentimiento por medio de la seducción, la cual se presume salvo prueba en contrario, o por medio del engaño;
 
-II. Ocho a quince años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice sin su consentimiento, o cuando sea una persona que no tenga la capacidad de comprender el significado de las cosas o de resistir el hecho, y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-III. Doce a veinte años de prisión, cuando la víctima sea menor de quince años de edad.
+II. Ocho a quince años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice sin su consentimiento, o cuando sea una persona que no tenga la capacidad de comprender el significado de las cosas o de resistir el hecho; y
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+III. Doce a veinticinco años de prisión, cuando la víctima sea menor de quince años de edad.
 
 El delito señalado en la fracción I del párrafo anterior, se perseguirá por querella de la parte ofendida o de su legítimo representante.
 
@@ -2141,9 +2119,9 @@ Los agravantes comunes a los delitos contra el desarrollo de la personalidad a q
 
 ### CAPITULO IX. Agravantes comunes a los delitos contra el desarrollo de la personalidad
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-###### Artículo 142
+###### Art. 142
 
 Ñ. Se incrementarán en dos terceras partes las penas correspondientes a los delitos contra el desarrollo de la personalidad, cuando:
 
@@ -2171,33 +2149,15 @@ VI. El sujeto activo utilice la violencia física o psicológica para cometer el
 
 VII. Cuando el delito sea cometido por más de una persona contra el mismo sujeto pasivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En los supuestos que establecen las fracciones II y III, de éste artículo, cuando el autor del delito tuviere derechos de tutela, patria potestad o a heredar bienes por sucesión legítima respecto de la víctima, además de la sanción señalada en el primer párrafo, perderá estos derechos; y en su caso el juez resolverá respecto a dar alimentos a la víctima en caso de que sea un acreedor alimenticio al que por ley esté obligado hasta que éste cumpla la mayoría de edad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+El autor del delito en cualquiera de las circunstancias en que lo haya estará obligado como una parte de la reparación del daño a cubrir los gastos por las terapias psicológicas que la víctima requiera por indicaciones del profesional en la materia.
+
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2018)</small>
-
-###### Art. 142.
-
-A. Se impondrán de tres a seis años de prisión y multa de cien a doscientos días de salario mínimo, a la persona que por cualquier medio faciliten, provoquen, induzcan o promuevan en un menor de edad o con quien no tenga capacidad para comprender el significado del hecho:
-
-I. El hábito de la mendicidad;
-
-II. El hábito de consumir alcohol, drogas o sustancias similares;
-
-III. La iniciación ó práctica de la actividad sexual; ó
-
-IV. La comisión de cualquier delito.
-
-Cuando se trate de los actos mencionados y el sujeto activo del delito empleare cualquier tipo de violencia, o se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere, la pena será de cuatro a siete años de prisión y multa de doscientos a quinientos días de salario mínimo.
-
-Se aumentará en una cuarta parte de la pena que corresponda, cuando la víctima u ofendido de los delitos de este capítulo, sea persona menor de 12 años.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Art. 142 B. Se impondrán de un mes a tres años de prisión, multa por el importe de setenta a doscientos días de salario y cierre temporal o definitivo del establecimiento, al que por cualquier prestación en efectivo, especie o gratuitamente, utilice para beneficio propio o del establecimiento, los servicios con persona menor de dieciocho años de edad o con quien no tengan capacidad para comprender el significado del hecho en cantinas, tabernas o centros de vicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-Art. 142 C. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2007)</small>
 
 ###### Artículo 142-O.
 
@@ -2781,13 +2741,17 @@ XVI. A quien ejerciendo funciones de supervisor de libertad o con motivo de ella
 
 XVII. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución; o
+XVIII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito o interfiera de manera indebida en el procedimiento de cadena de custodia.
+XIX. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito o interfiera de manera indebida en el procedimiento de cadena de custodia; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XX. Viole o infrinja una orden de protección preventiva y/o de emergencia de las establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y/o en el Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3439,11 +3403,11 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 ### CAPITULO III. Violación
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012) (F. DE E., P.O. 28 DE MAYO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 175.
 
-Se impondrán de ocho a quince años de prisión al que, por medio de la violencia física o moral tenga cópula con persona mayor de edad, cualquiera que sea su sexo.
+Se impondrán de ocho a veinte años de prisión al que, por medio de la violencia física o moral, tenga cópula con persona cualquiera que sea su sexo.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3453,9 +3417,9 @@ Para los efectos de éste capítulo, se entiende por cópula, la introducción, 
 
 Cuando el autor del delito tuviere derechos de tutela, patria potestad o a heredar bienes por sucesión legítima respecto de la víctima, además de la sanción señalada en el primer párrafo, perderá estos derechos.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-La violación del padrastro al hijastro y la ejecutada por éste a su padrastro, la del amasio al hijo de su amasia, la del tutor a su pupilo, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos o persona con cualquier relación de parentesco, será sancionada de nueve a dieciocho años. En estos supuestos, se perderán los derechos de la patria potestad o tutela cuando la ejerciere sobre la víctima.
+La violación del padrastro al hijastro y la ejecutada por éste a su padrastro, la del amasio al hijo de su amasia, la del tutor a su pupilo, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos, la cometida entre cónyuges, concubinos o cualquier otra relación de pareja o persona con cualquier relación de parentesco, será sancionada de nueve a veinticinco años. En estos supuestos, se perderán los derechos de la patria potestad o tutela cuando la ejerciere sobre la víctima.
 
 (REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 28 DE MAYO DE 2013)
 
@@ -3493,43 +3457,21 @@ Al responsable que cometa este delito en contra de servidores públicos que en e
 
 Estos delitos sólo serán perseguidos por querella del ofendido o de su legítimo representante, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio. Una vez presentada la denuncia el delito se seguirá de oficio.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-### CAPITULO V. Violación a la intimidad sexual
+### CAPITULO V. Del Aprovechamiento Sexual
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 176 Bis 1.
 
-Comete el delito de violación a la intimidad sexual quien, por cualquier medio difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado y/o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido bajo engaño o manipulación.
+Comete el delito de Aprovechamiento Sexual la persona que valiéndose de su superioridad, se aproveche de la necesidad o subordinación que tiene sobre otra persona, derivada de sus relaciones laborales, docentes, religiosas o domésticas, obtenga para él, o de un tercero vinculado a éste, la cópula como condición para el ingreso, la conservación, la promoción o la permanencia en una determinada circunstancia.
 
-Esta conducta se sancionará de uno a ocho años de prisión y multa de mil a dos mil Unidades de Medida y Actualización. Este delito se perseguirá por querella.
+Al responsable se le impondrá sanción de ocho a quince años de prisión.
 
-Las mismas penas se aumentarán hasta en una mitad cuando:
+Se considera también como aprovechamiento sexual a quien valiéndose de las malas condiciones y necesidades de otra, obtenga para él o para un tercero, la cópula, a cambio de prestar ayuda o beneficio para su situación.
 
-I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
-
-II. Cuando el sujeto activo mantenga una relación familiar, religiosa, laboral, docente o educativa, o de carácter político;
-
-III. Cuando aprovechando su condición de responsable o encargado de algún establecimiento de servicio público realice alguna de las conductas establecidas en el presente artículo;
-
-IV. Cuando aprovechando su condición de responsable o encargado de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión en cualquiera de sus modalidades, difunda, compile, publicite, o reproduzca material intimo sin su consentimiento;
-
-V. El sujeto activo se desempeñe como servidor público o integrante de las instituciones de Seguridad Pública;
-
-VI. Cuando se cometa contra persona menor de 18 años;
-
-VII. Se cometa contra una persona en situación de vulnerabilidad social, por su condición cultural y/o indígena;
-
-VIII. Cuando medie la violencia física o moral para fabricar el contenido íntimo, sexual o erótico publicado sin consentimiento, y
-
-IX. Si por las características de los espacios de las tecnologías de la información donde se difundió, éste se distribuye masivamente por medios digitales.
-
-En todos los casos la autoridad judicial, tratándose de sentencia condenatoria, ordenará al infractor a ofrecer disculpa pública, a realizar trabajo a favor de la comunidad, a asistir a programas de reeducación integral con perspectiva de género, y a borrar o eliminar el contenido audiovisual o electrónico cuando la conducta se haya cometido por medio de las tecnologías de la información.
-
-Para los efectos de las disposiciones anteriores, el Ministerio Público o la autoridad judicial competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido íntimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, o que este haya sido obtenido bajo engaño o manipulación.
-
-Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecuen al delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta, la cual empezará a correr una vez que se haya cumplido la pena privativa de la libertad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4119,7 +4061,9 @@ Cuando el homicidio se cometa en riña inesperada, al provocado se le impondrá 
 
 Cuando el homicidio se cometa en riña inesperada, al provocador de la misma, y a los contendientes de una riña preconcertada donde se cometa homicidio, se le impondrá una sanción privativa de la libertad de entre un mínimo de ocho años y un máximo de hasta doce años.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO VI BIS. Inducción o ayuda al suicidio feminicida
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 218.
 
@@ -4179,9 +4123,9 @@ VII. Cuando se causen por envenenamiento, contagio intencional, asfixia, o uso d
 
 VIII. Cuando se causen derivaciones de cualquiera de los delitos a que se refieren los artículos 124-Bis y 124-Ter de este Código;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-IX. Cuando la víctima sea un periodista y el delito se cometa con motivo de su actividad como tal; y
+IX. Cuando la víctima sea un periodista y el delito se cometa con motivo de su actividad como tal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -4207,9 +4151,15 @@ i) alguna discapacidad o condiciones de salud; o
 
 j) su profesión u oficio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-Para los efectos de la fracción X, se presume que existen motivos de odio cuando el sujeto activo del delito se ha expresado de manera personal, por redes sociales o por algún otro medio de difusión, en rechazo, repudio, desprecio o intolerancia contra el colectivo de personas establecidos en los incisos de dicha fracción, al que pertenezca la víctima; o bien, cuando existan antecedentes o datos previos al hecho delictivo, que indicien que hubo amenazas o acoso contra la víctima por razón de su pertenencia a dichos colectivos.
+Para los efectos de la fracción X, se presume que existen motivos de odio cuando el sujeto activo del delito se ha expresado de manera personal, por redes sociales o por algún otro medio de difusión, en rechazo, repudio, desprecio o intolerancia contra el colectivo de personas establecidos en los incisos de dicha fracción, al que pertenezca la víctima; o bien, cuando existan antecedentes o datos previos al hecho delictivo, que indicien que hubo amenazas o acoso contra la víctima por razón de su pertenencia a dichos colectivos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+XI. Cuando se cometan por odio hacia la víctima en razón de género.
+
+Se considera que hay razón de género, cuando exista situación de exclusión, subordinación, desventaja, marginación, discriminación, explotación, relación afectiva o expectativa de la misma, hacia el sujeto pasivo de parte del sujeto activo.
 
 ###### Art. 220.
 
@@ -4229,15 +4179,13 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocupantes de un vehículo de servicio particular, o público en servicio particular, ligados al conductor por vínculos de consanguinidad, afinidad o civil, o por lazos de estrecha amistad o de trabajo o de gratitud, el delito se perseguirá por querella de parte, siempre que el conductor no se encuentre, al momento de cometer la infracción, bajo el influjo de bebidas embriagantes, de enervantes o psicotrópicos. Para los casos de homicidio, se tendrá como legítimo representante del ofendido, al que pudiera tener derecho a su sucesión legítima.
 
-### CAPITULO VIII. Aborto
+### CAPITULO VII. Infanticidio
 
 ###### Art. 223.
 
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida a la persona con quien tenga un parentesco consanguíneo en línea recta o colateral hasta en cuarto grado, o con quien tenga una relación conyugal o de concubinato, o se trate de su adoptante o adoptado, tutor o pupilo, sabiendo el sujeto activo del delito la existencia de esta relación.
 
-### CAPITULO IX. Abandono de personas
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VIII. Aborto
 
 ###### Artículo 224.
 
@@ -4275,11 +4223,27 @@ Si el sujeto pasivo del delito fallece o sufre lesiones como consecuencia del de
 
 Se aumentará la pena privativa de la libertad en una cuarta parte cuando alguno de los delitos previstos en este artículo se cometa a través de las tecnologías de la información y la comunicación.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO IX. Abandono de personas
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+###### Art. 224 Bis.
+
+Quien indujere u obligue a una mujer al suicidio o le prestare ayuda para cometerlo, será sancionada con la pena prevista en el primer párrafo del artículo anterior aumentada de un tercio a la mitad cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Que el suicidio fuera precedido por cualquier forma de violencia de género del actor contra la víctima; y
+
+II. Que el agresor se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes entre él y la víctima.
+
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, éstas serán consideradas como lesiones calificadas.
+
+Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
+
 ### CAPITULO X. Feminicidio
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
-
-### CAPITULO I. Robo
 
 ###### Art. 225.
 
@@ -4289,9 +4253,7 @@ Se aumentará la pena privativa de la libertad en una cuarta parte cuando alguno
 
 (DEROGADO, P.O. 9 DE JULIO DE 2016)
 
-### CAPITULO II. Abigeato y robo de animales
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+### CAPITULO I. Robo
 
 ###### Art. 227.
 
@@ -4329,7 +4291,9 @@ No es punible el aborto culposo causado por la mujer embarazada ni cuando el emb
 
 Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO III. Abuso de confianza
+### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 230.
 
@@ -4351,7 +4315,7 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO IV. Violación de depósito
+### CAPITULO III. Abuso de confianza
 
 ###### Art. 232 Bis.
 
@@ -4413,7 +4377,7 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO V. Fraude
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 233.
 
@@ -4697,9 +4661,7 @@ III. Cuando el adquiriente de un bien mueble, acredite su legítima propiedad o 
 
 IV. Tratándose del robo de vehículos o de cualquiera de sus partes será causa de inculpabilidad acreditar su legítima posesión, uso o custodia.
 
-### CAPITULO VI. Delitos contra el Desarrollo Urbano
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO V. Fraude
 
 ###### Art. 240.
 
@@ -4869,9 +4831,9 @@ II. Si la información aconteciere durante el proceso, el beneficio será de sei
 
 En todos los casos previstos en este capítulo será aplicable, en lo conducente, lo dispuesto en el Art. 238 de este Código.
 
-### CAPITULO VII. Administración Fraudulenta
+### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 245.
 
@@ -4907,9 +4869,9 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 
 Es aplicable a este Capítulo, en lo conducente, el Artículo 238 de este Código.
 
-### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 249.
 
@@ -4931,7 +4893,7 @@ El hecho de que una persona disponga, como suyo, del depósito que garantice la 
 
 Es aplicable a este capítulo en lo conducente el artículo 238 de este Código. Al responsable de los delitos previstos en este artículo, se le aplicarán las sanciones contenidas en el artículo 246.
 
-### CAPITULO IX. Usura
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5045,9 +5007,9 @@ XXV. Al que con fines de lucro y a sabiendas de que un producto o servicio no cu
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
-### CAPITULO X. Daños en las cosas
+### CAPITULO IX. Usura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 253.
 
@@ -5119,9 +5081,9 @@ Se impondrán de seis meses a seis años de prisión multa por el importe de cua
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO XI. Daño al patrimonio urbano
+### CAPITULO X. Daños en las cosas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
 
 ###### Art. 254 Bis.
 
@@ -5153,7 +5115,7 @@ II. Cuando el valor de lo defraudado exceda del monto señalado en la fracción 
 
 III. De cinco a diez años de prisión y multa por el importe de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de lo defraudado exceda del importe de dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO XII. Despojo de inmuebles y aguas
+### CAPITULO XI. Daño al patrimonio urbano
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5171,9 +5133,9 @@ Si el concursado fuere persona moral, la sanción será impuesta al o a los dire
 
 La reparación del daño proveniente de los delitos previstos en este capítulo será regulada en la sentencia de gradación del concurso.
 
-### CAPITULO XIII. Del pillaje
+### CAPITULO XII. Despojo de inmuebles y aguas
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 258.
 
@@ -5183,9 +5145,9 @@ I. Al que, abusando de la apremiante necesidad de una persona, le otorgue un pr�
 
 II. Al que, abusando de la apremiante necesidad del ofendido, cobre para sí o para otro una comisión evidentemente desproporcionada, por gestionarle o conseguirle un préstamo cualquiera.
 
-### CAPITULO I. Encubrimiento
+### CAPITULO XIII. Del pillaje
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 259.
 
@@ -5229,9 +5191,9 @@ Se impondrán de uno a cinco años de prisión y multa por el importe de dos a v
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
+### CAPITULO I. Encubrimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 261 Bis.
 
@@ -5245,9 +5207,9 @@ La sanción se aumentará hasta en dos terceras partes de la señalada en el pá
 
 Al reincidente se le aplicará además, la pena de dos a cuatro años de prisión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 262.
 
@@ -5271,7 +5233,9 @@ Las sanciones anteriores serán aplicables aun cuando la posesión de la cosa us
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 262 Bis.
 
@@ -5313,7 +5277,7 @@ Si el responsable de este delito fuere servidor público se le destituirá adem�
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 ###### Art. 263.
 
@@ -5335,7 +5299,7 @@ En todo caso, la sanción que se imponga al encubridor, no podrá exceder de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 ###### Art. 265.
 
@@ -5355,7 +5319,7 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 ###### Art. 266.
 
@@ -5363,7 +5327,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 ###### Art. 267.
 
@@ -5371,7 +5335,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO VI. Disposiciones Comunes
 
 ###### Art. 268.
 
@@ -5379,9 +5343,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 269.
 
@@ -5391,7 +5353,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 270.
 
@@ -5399,9 +5361,9 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO. Crueldad contra los animales
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 271.
 
@@ -5559,9 +5521,9 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO. Crueldad contra los animales
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 289.
 
@@ -5696,6 +5658,10 @@ No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del 
 ## TITULO DECIMO (SIC) SEGUNDO. DE LOS DELITOS EN MATERIA DE INFORMACION PUBLICA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 298.
 
@@ -7038,5 +7004,15 @@ TERCERO. Las secretarías y las instituciones señaladas en el presente decreto 
 P.O. 19 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27971/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. EL “DECRETO 27991/LXII/20 QUE REFORMA LOS ARTÍCULOS 142-A, 142-M, 142-Ñ Y 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE JALISCO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27992/LXII/20 QUE REFORMA LOS ARTÍCULOS 62, 129, 154, Y 219 SE ADICIONAN LOS ARTÍCULOS 176-BIS 1 Y 224 BIS; Y SE ADICIONAN EL CAPÍTULO V "DEL APROVECHAMIENTO SEXUAL" DEL TÍTULO DÉCIMO PRIMERO Y EL CAPÍTULO VI BIS "INDUCCIÓN O AYUDA AL SUICIDIO FEMINICIDA" DEL TÍTULO DÉCIMO SEXTO TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
