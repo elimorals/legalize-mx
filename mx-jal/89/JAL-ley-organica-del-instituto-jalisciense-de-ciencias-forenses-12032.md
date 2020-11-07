@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2020-10-03"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -509,9 +509,9 @@ Las relaciones laborales se regirán por la Constitución Política de los Estad
 
 El personal del Instituto gozará de la seguridad social que instituye la Ley del Instituto de Pensiones del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, 7 DE NOVIEMBRE DE 2020)</small>
 
-Los servidores públicos deberán de asistir a los cursos de capacitación que para tal efecto implemente el Instituto, acatar las instrucciones que sus superiores jerárquicos dicten en el ejercicio de sus funciones, sin perjuicio de cumplir con las obligaciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y demás ordenamientos aplicables.
+Los servidores públicos deberán de asistir a los cursos de capacitación que para tal efecto implemente el Instituto, acatar las instrucciones que sus superiores jerárquicos dicten en el ejercicio de sus funciones, sin perjuicio de cumplir con las obligaciones establecidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -521,23 +521,37 @@ Son requisitos del personal encargado de aplicar las normas técnicas y elaborar
 
 Tratándose del personal encargado de elaborar los dictámenes e informes médico-forenses, será requisito tener título profesional de medicina, acreditado mediante documento o certificado con validez oficial registrado en la Dirección de Profesiones del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
 El personal pericial estará sujeto a responsabilidad cuando:
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 I. Incumpla cualquiera de las obligaciones contenidas en las leyes de carácter administrativo que rigen a los elementos operativos del Instituto Jalisciense de Ciencias Forenses;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 II. Incumplan o retrasen la emisión de los dictámenes que le hayan sido turnados sin causa justificada;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 III. Realicen o encubran conductas que atenten contra la imparcialidad y autonomía técnica en la emisión de los dictámenes e informes periciales
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 IV. No cumplan con las normas técnicas oficiales, las normas administrativas y las leyes que se establezcan para el debido cumplimiento de su labor pericial;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 V. Omitan la práctica de las diligencias de campo necesarias, según la naturaleza de cada asunto;
 
-VI. Cometan acciones u omisiones que contravengan las obligaciones que le impongan la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y demás leyes aplicables; y
+> <small>(REFORMADA, 7 DE NOVIEMBRE DE 2020)</small>
+
+VI. Cometan acciones u omisiones que contravengan las obligaciones que le impongan la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás leyes aplicables; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 VII. Tengan una notoria ineptitud o descuido en el desempeño de las funciones periciales y administrativas que deban realizar.
 
@@ -621,7 +635,9 @@ VIII. Iniciar, llevar a cabo, substanciar y resolver los procedimientos, según 
 
 a) Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios,
 
-b) Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco,
+> <small>(REFORMADO, 7 DE NOVIEMBRE DE 2020)</small>
+
+b) Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco,
 
 c) Ley del Sistema de Seguridad Pública para el Estado de Jalisco,
 
@@ -645,7 +661,9 @@ XVI. Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos 
 
 La Junta de Gobierno, el Director General o las demás áreas y entidades del Instituto deben proporcionar la información que les solicite la Contraloría señalada en el presente capítulo y facilitar las diligencias de inspección y vigilancia que se realicen.
 
-El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
+> <small>(REFORMADO, 7 DE NOVIEMBRE DE 2020)</small>
+
+El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
 
 El Órgano Interno de Control y Vigilancia depende administrativamente del Director, pero gozará de autonomía en el ejercicio de sus atribuciones.
 
@@ -744,3 +762,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27741/LXII/19 QUE REFORMAN LOS ARTÍCULOS 8, 18 Y19 DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27986/LXII/20 QUE REFORMA LOS ARTÍCULOS 20, 22 Y 26 DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial “El Estado de Jalisco”.
