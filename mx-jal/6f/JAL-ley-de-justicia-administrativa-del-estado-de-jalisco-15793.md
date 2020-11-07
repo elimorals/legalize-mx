@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2020-06-13"
+last_updated: "2020-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -79,9 +79,11 @@ Quien tenga interés jurídico en la anulación de un acto favorable a un partic
 
 Sólo podrán intervenir en el juicio las personas que tengan un interés jurídico que funde su pretensión.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos.
+Toda promoción deberá presentarse con firma autógrafa, o en el caso del juicio tramitado en línea, con la firma electrónica avanzada de quien la formule, y sin este requisito se tendrá por no presentada a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos.
 
 ###### Artículo 6.
 
@@ -141,81 +143,61 @@ En los juicios en materia administrativa no habrá lugar a condenación en costa
 
 ### CAPÍTULO II. DE LAS NOTIFICACIONES Y DE LOS TÉRMINOS
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-Toda resolución debe notificarse, a más tardar, al tercer día siguiente a aquel en que el expediente se haya turnado al actuario para ese efecto, y se asentará la razón respectiva a continuación de la misma resolución.
+Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Electrónico, enviándose previamente un aviso a su dirección de correo electrónico o dirección de correo electrónico institucional, según sea el caso, de que se realizará la notificación a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Electrónico.
 
-Para los efectos de este artículo, los actuarios deberán llevar un registro en el cual se hagan constar las fechas de entrega, recepción y baja de los expedientes o actuaciones respectivas.
+Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Electrónico, y con independencia del envío, cuando así proceda, de los avisos electrónicos previos.
+
+Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Electrónico, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Electrónico, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. El Actuario o el Secretario, en todos los casos, previo levantamiento de razón, entregará los traslados de ley.
+
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Electrónico o al día hábil siguiente a aquél en que las partes sean notificadas personalmente en las instalaciones designadas del Tribunal, cuando así proceda, en términos de lo establecido por el artículo 15 de esta Ley.
+
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-Los particulares, en el primer escrito o en la primera diligencia judicial en la que intervengan, deben designar domicilio ubicado en el lugar del juicio para que les sean practicadas las notificaciones que deban ser personales conforme a esta ley. En el caso de no cumplir con esta obligación, les serán practicadas en la forma prescrita en la fracción II del artículo 15 de esta ley.
+La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el Boletín Electrónico.
 
-También podrán señalar un domicilio fuera del lugar del juicio cuando alguna de las autoridades demandadas resida fuera del mismo, en cuyo caso, las notificaciones se harán mediante correo registrado.
+En el Boletín Electrónico deberá indicarse la denominación de la Sala y ponencia del Magistrado que corresponda, el número de expediente, la identificación de las autoridades a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del auto, resolución o sentencia. El Boletín Electrónico podrá consultarse en la página electrónica del Tribunal.
 
-En cualquier estado que se encuentre el juicio las partes podrán sustituir el domicilio procesal que hubieren señalado, o designarlo si no lo hicieron en su primer escrito, sin que ello afecte la validez de las notificaciones que les hubieren sido practicadas con anterioridad.
+La Junta de Administración, mediante lineamientos, establecerá el contenido de la síntesis del auto, resolución o sentencia, así como las áreas, dentro del Tribunal, en las cuales serán entregados los traslados de ley; y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución o sentencia correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El actuario deberá asentar en autos la razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancias a dichas actuaciones.
+El actuario deberá asentar en autos la razón de las notificaciones por Boletín Electrónico, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancias a dichas actuaciones.
 
-En el caso de las notificaciones por lista se hará constar la fecha de la misma y, en su caso, la fecha de su publicación en el Boletín Judicial y el número del mismo.
+Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces la unidad de medida y actualización elevada al mes, sin que exceda del 30 por ciento de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+
+El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Electrónico y hará la certificación que corresponda, a través de los servidores públicos competentes.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-Las notificaciones se harán:
+Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 
-I. Personalmente, por correo registrado con acuse de recibo o, mediante oficio si se trata de la autoridad, cuando se trate de las siguientes resoluciones:
+I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad;
 
-a) La que admita o deseche la demanda, la contestación y, en su caso, la ampliación;
+II. La que mande citar al testigo que no pueda ser presentado por la parte oferente.
 
-b) La que señale fecha para el desahogo de alguna diligencia;
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 35, último párrafo, de la presente Ley.
 
-c) La que mande citar a los testigos, peritos, o a un tercero;
+Los Magistrados podrán excepcionalmente ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberán fundar y motivar esa determinación en el acuerdo respectivo.
 
-d) El requerimiento de un acto a la parte que deba cumplirlo;
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Electrónico.
 
-e) La que resuelve un incidente;
-
-f) La que decrete el sobreseimiento;
-
-g) La sentencia definitiva;
-
-h) La que admita, deseche o resuelva un recurso;
-
-i) La que imponga un medio de apremio o medida disciplinaria;
-
-j) La que admita una prueba superveniente;
-
-k) La que ordene cumplir con la sentencia y la que decrete su ejecución forzosa; y
-
-l) En todos aquellos casos en que lo ordene el órgano jurisdiccional que conozca del asunto.
-
-Si se tratare de notificar a la autoridad y de un caso urgente, la notificación en los casos a que se refiere esta fracción podrá practicarse por vía telegráfica;
-
-II. Fuera de los casos señalados en la fracción anterior, las notificaciones se harán en el local del Tribunal, si las partes se presentan dentro del día siguiente al en que fue dictada la resolución de que se trate. Cuando no se presenten, se harán por lista autorizada que se publicará en el Boletín Judicial, en los lugares en que lo haya y se fijará en lugar visible y de fácil acceso en el local del tribunal.
-
-La lista de acuerdos será formulada diariamente, por triplicado, y deberá contener:
-
-a) El nombre y la firma del Secretario que corresponda y que la autorice;
-
-b) El sello del tribunal;
-
-c) Los números de los expedientes correspondientes;
-
-d) El nombre o denominación de las partes;
-
-e) El tipo de resolución; y
-
-f) La fecha de la resolución.
-
-Uno de los ejemplares de la lista se pondrá a disposición del público en lugar visible y de fácil acceso en el local del tribunal; el otro se guardará en el archivo del tribunal; y el tercero se remitirá al Boletín Judicial para su publicación. La lista contendrá el nombre de la persona a quien se notifica, tipo de acuerdo y fecha del mismo.
-
-Las notificaciones hechas por lista se tendrán por practicadas el día en que la misma sea publicada en el Boletín Judicial en los lugares en que lo haya. En caso contrario se tendrán por practicadas a partir de la fecha en que se ponga a disposición de las partes en el local del tribunal.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-Las notificaciones también podrán hacerse a través de los medios electrónicos de comunicación de que disponga el tribunal, siempre y cuando la parte que así lo solicite proporcione los datos necesarios para el efecto, exista acuerdo que lo autorice y quede prueba fehaciente de la práctica de las mismas.
+La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
 
 ###### Artículo 17.
 
@@ -353,6 +335,10 @@ El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados
 
 La demanda se presentará directamente ante la sala competente o se podrá enviar por correo registrado si el actor tiene su domicilio legal en lugar distinto al de la residencia de la Sala. Se tendrá como fecha de recepción del escrito respectivo, en este último caso, la de su depósito en la oficina postal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+También se podrá optar por presentar la demanda en la modalidad de juicio en línea ante el Tribunal de conformidad con lo establecido en el capítulo XVIII de esta Ley.
+
 La presentación deberá hacerse dentro de los treinta días siguientes a aquél en que haya surtido efectos la notificación del acto o resolución impugnado o a aquél en que se haya tenido conocimiento del mismo.
 
 ###### Artículo 32.
@@ -377,11 +363,15 @@ Recibido el asunto por el Tribunal, el Presidente lo turnará a la Sala a que co
 
 Las resoluciones dictadas por los jueces de primera instancia, en ejercicio de la competencia auxiliar que les confiere este artículo, surtirán sus efectos provisionalmente hasta en tanto las Salas del Tribunal de Justicia Administrativa resuelvan en definitiva sobre la admisión de la demanda, sin que la suspensión dictada por la jurisdicción ordinaria en uso de la competencia auxiliar que le confiere este artículo deba ser tomada en cuenta para resolver en definitiva sobre la admisión de la demanda y la suspensión.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
 La demanda deberá contener:
 
-I. El nombre del demandante y su domicilio para recibir notificaciones;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+I. El nombre del demandante, domicilio procesal y correo electrónico para recibir notificaciones;
 
 II. El señalamiento de la resolución o acto administrativo que se impugna;
 
@@ -397,7 +387,13 @@ VII. El nombre y domicilio del tercero interesado cuando lo haya; y
 
 VIII. La enumeración de las pruebas que ofrezca, las que deberán relacionarse con los hechos en los que se funda la demanda.
 
-En caso de que se ofrezca prueba pericial, de inspección judicial o testimonial, se precisarán los hechos sobre los que deben versar y se señalarán los nombres y domicilios del perito o de los testigos en su caso.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que se ofrezca prueba pericial, de inspección judicial o testimonial, se precisarán los hechos sobre los que deben versar y se señalarán los nombres, domicilios y correos electrónicos del perito o de los testigos en su caso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
 
 ###### Artículo 36.
 
@@ -462,6 +458,10 @@ Si los demandados fueren varios, el término para contestar les correrá individ
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2000)</small>
 
 En la contestación de la demanda y hasta antes del cierre de la instrucción, el demandado podrá allanarse a las pretensiones del demandante si se tratare de la autoridad, el magistrado podrá ordenar de inmediato la revocación del acto origen de la demanda o la expedición del acto que subsane la omisión, según sea el caso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Las dependencias, organismos o autoridades cuyos actos o resoluciones sean susceptibles de impugnarse ante el Tribunal, así como aquéllas encargadas de su defensa en el juicio y quienes puedan promover juicio de lesividad, deben registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios administrativos, para el efecto del envío del aviso electrónico.
 
 ###### Artículo 43.
 
@@ -616,6 +616,14 @@ Las partes podrán hacer valer el incidente a que se refiere el artículo anteri
 ###### Artículo 62.
 
 La acumulación se tramitará de oficio o a petición de parte, ante la Sala que esté en conocimiento del juicio en el cual la demanda se presentó primero. Se citará a las partes a una audiencia, que se celebrará dentro de un plazo de diez días, en la que se hará relación de los autos y se presentarán alegatos. Concluida la audiencia se dictará la resolución que proceda, a más tardar a los cinco días siguientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+Si de los procesos a acumular se tramita alguno a través del juicio en línea y otro en forma escrita, se requerirá a los interesados y terceros en este último para que manifiesten su conformidad de substanciarlo mediante juicio en línea, si no lo hicieron antes, si desean que el incidente se substancie en juicio en línea deberán acreditar en tal caso haber realizado los trámites necesarios para acceder al juicio en línea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que manifieste su oposición, la Sala dispondrá lo conducente para que se digitalicen los documentos que dicho interesado o tercero presente, a fin de que se prosiga con la instrucción del incidente en juicio en línea con relación a las demás partes, y a su vez, se impriman y certifiquen las constancias de las actuaciones y documentación electrónica, a fin de que se integren al expediente del disconforme en forma escrita.
 
 ###### Artículo 63.
 
@@ -913,6 +921,10 @@ Cuando el recurso de reclamación se interponga contra las resoluciones que conc
 
 El recurso se interpondrá ante la autoridad judicial que hubiere dictado la resolución recurrida.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que el juicio administrativo se haya interpuesto por la modalidad en línea, el recurso de reclamación deberá presentarse por la misma vía.
+
 ###### Artículo 92.
 
 En el recurso se deberán expresar con claridad la resolución impugnada y los agravios que ésta cause al recurrente.
@@ -973,6 +985,12 @@ Con independencia de lo dispuesto por el artículo anterior, el recurso de apela
 
 El recurso de apelación se interpondrá por escrito ante la sala que hubiere dictado la sentencia, misma que tramitará el expediente hasta dejarlo en estado de resolución para remitirlo a la Sala Superior del Tribunal de Justicia Administrativa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que el juicio administrativo se haya interpuesto por la modalidad en línea, el recurso de apelación deberá presentarse por la misma vía.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
 En todo caso la admisión de la apelación se decretará en ambos efectos.
 
 ###### Artículo 99.
@@ -1026,6 +1044,10 @@ Quien interponga un recurso de apelación que resulte desestimado por notoriamen
 Al Actuario que sin causa justificada incumpla con la obligación de notificar una resolución dentro del término que señala esta ley, se le impondrá una amonestación. En caso de reincidencia, una multa que no excederá del quince por ciento de su salario mensual; y si incurriera nuevamente en tal conducta, se le impondrá una sanción hasta por treinta días de suspensión; de persistir en la omisión, será destituido sin responsabilidad para el Estado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2005)</small>
+
+### CAPÍTULO XVIII. Del juicio en línea
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 108.
 
@@ -1114,6 +1136,146 @@ El Tribunal recibe la solicitud con sus anexos y en un plazo no mayor a cinco d�
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
 
 Los plazos a que se refiere el párrafo anterior, inician a partir del día siguiente al en que la autoridad reciba el escrito del Tribunal, otorgando formal acuse de recibo del cual se deja copia en el mismo Tribunal a disposición del particular.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 115.
+
+El juicio en materia administrativa se promoverá, substanciará y resolverá en línea, a través del sistema informático del Tribunal que deberá establecer los términos dispuestos en el presente capítulo y las demás disposiciones que al efecto emita la Sala Superior del Tribunal; así como aquéllas aplicables establecidas en esta Ley.
+
+En todo lo no previsto, se aplicarán las disposiciones de esta Ley así como del Código de Procedimientos Civiles del Estado de Jalisco de manera supletoria.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 116.
+
+Cuando el promovente ejerza su derecho a presentar su demanda en línea, a través del sistema informático del Tribunal, la autoridad o autoridades demandadas deberán comparecer y tramitar el juicio en la misma Plataforma.
+
+Si el promovente no señala expresamente su correo electrónico en el escrito inicial de demanda, se tramitará el juicio de manera escrita, y el acuerdo correspondiente se notificará por boletín electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 117.
+
+Cuando el promovente sea una autoridad, el particular demandado al contestar la demanda tendrá el derecho de solicitar que el juicio se tramite y resuelva en línea conforme a las disposiciones de este capítulo, señalando para ello su domicilio y dirección de correo electrónico debidamente registrada ante el registro electrónico del Tribunal.
+
+A fin de emplazar al particular demandado, los secretarios deberán imprimir y certificar la demanda y documentos anexos, que se notificarán de manera personal al particular demandado.
+
+Si el particular se opone a que el juicio se realice en línea, se contestará la demanda en forma escrita.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 118.
+
+En el sistema informático del Tribunal, se integrará el expediente electrónico, mismo que incluirá todas las promociones, pruebas, anexos y documentos que presenten las partes, así como los oficios, acuerdos y resoluciones tanto interlocutorias como definitivas, así como cualquier otra actuación que derive de la substanciación del juicio, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos expedidos por la Sala Superior del Tribunal, en cumplimento a la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, así como la Ley Orgánica del Tribunal de Justicia Administrativa.
+
+El desahogo de la prueba testimonial, confesional, pericial e inspección judicial se realizará en el despacho de la Sala Unitaria, conforme a las reglas previstas en esta Ley, así como en el Código de Procedimientos Civiles del Estado de Jalisco, aplicado de manera supletoria y se integrará al expediente electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 119.
+
+La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través de la autoridad certificadora y del Sistema Informático del Tribunal, previa obtención del registro y autorización correspondientes.
+
+Para hacer uso del juicio en línea deberán observarse los lineamientos que para tal efecto expida la Sala Superior del Tribunal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 120.
+
+La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 121.
+
+Solamente los interesados, sus representantes legales, los licenciados en derecho autorizados por aquéllos, las autoridades y los abogados patronos designados por las partes, tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña o ya sea usuario de los servicios electrónicos en la modalidad de la consulta electrónica de expedientes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 122.
+
+Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema Informático del Tribunal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 123.
+
+Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema Informático del Tribunal emitirá el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 124.
+
+Cualquier actuación en el juicio en línea se efectuará a través del Sistema Informático del Tribunal en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas y firmas digitales de los Magistrados, así como del secretario que de fe.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 125.
+
+Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma legible a través del Sistema Informático del Tribunal y se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de esta ley, del Código de Procedimientos Civiles del Estado de Jalisco y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de la Sala que corresponda, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+
+Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas a la Sala que esté conociendo del asunto, en la misma fecha en la que se registre en el Sistema Informático del Tribunal la promoción correspondiente a su presentación material, haciendo constar su recepción por vía electrónica.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 126.
+
+Para los juicios que se substancien en términos de este capítulo no será necesario que las partes exhiban copias para correr los traslados que la ley establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
+
+En el escrito a través del cual el tercero interesado se apersone en juicio, deberá precisar si desea que el juicio se continúe substanciando en línea y señalar en tal caso, su dirección de correo electrónico previamente proporcionada por el Tribunal, y realizar los trámites correspondientes para acceder al juicio en línea.
+
+En caso de que manifieste su oposición, la Sala dispondrá lo conducente para que se digitalicen los documentos que dicho tercero presente, a fin de que se prosiga con la instrucción del juicio en línea con relación a las demás partes, y a su vez, se impriman y certifiquen las constancias de las actuaciones y documentación electrónica, a fin de que se integre el expediente del tercero en forma escrita.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 127.
+
+Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán de conformidad a lo siguiente:
+
+I. Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban notificarse por boletín electrónico, en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea del Tribunal.
+
+II. El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea del Tribunal junto con la actuación o resolución respectiva y los documentos adjuntos.
+
+III. El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual estará disponible en el Sistema de Justicia en Línea del Tribunal.
+
+IV. El Sistema de Justicia en Línea del Tribunal registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior.
+
+V. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el Sistema de Justicia en Línea del Tribunal genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar.
+
+VI. En caso de que en el plazo señalado en la fracción anterior, el Sistema de Justicia en Línea del Tribunal no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante boletín electrónico al cuarto día hábil contado a partir de la fecha de envío del Correo Electrónico, fecha en que se tendrá por legalmente notificado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 128.
+
+Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas del Tribunal. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea del Tribunal, en el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar de la sede del Tribunal. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 129.
+
+En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover juicios en línea. Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces la unidad de medida y actualización diaria, vigente al momento de cometer la infracción.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 130.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas del Sistema Informático del Tribunal se interrumpa su funcionamiento, haciendo imposible el cumplimiento de los plazos establecidos en esta Ley, las partes deberán dar aviso a la Sala correspondiente en la misma promoción sujeta a término, quien pedirá un reporte a la Secretaría General con base en la información que le proporcione la Dirección de Informática del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El aviso a que se refiere el párrafo que antecede se realizará de oficio cuando la Secretaría General por información proporcionada por la Dirección de Informática tenga pleno conocimiento de la falla técnica que impida la prestación de los servicios electrónicos.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales. No obstante lo anterior, en los casos previstos en este artículo las partes podrán presentar sus promociones como si se tratara de un juicio en forma escrita, mismas que se deberán digitalizar y agregarse al Expediente Electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 131.
+
+Cuando en el juicio en línea la autoridad demandada sea omisa en comparecer mediante las formalidades del juicio en línea, las notificaciones posteriores al emplazamiento se practicarán por boletín electrónico, hasta que se cumpla con dicha formalidad.
 
 ## TRANSITORIOS.
 
@@ -1268,3 +1430,21 @@ P.O. 13 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27881/LXII/20 QUE REFORMA LOS ARTÍCULOS 1°, 69 Y 85 DE LA LEY DE JUSTICIA ADMINISTRATIVA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 7 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27996/LXII/20 QUE REFORMA LOS ARTÍCULOS 5, 12, 13, 14, 15, 16, 31, 35, 42, 62, 91 Y 98 Y ADICIONA EL CÁPITULO XVIII "DEL JUICIO EN LÍNEA" ASÍ COMO LOS ARTÍCULOS 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130 Y 131 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigencia a partir del día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Tribunal de Justicia Administrativa del Estado de Jalisco deberá realizar las acciones que correspondan, a efecto de que el juicio en línea inicie su operación a más tardar doce meses después de la entrada en vigor del presente decreto.
+
+El Tribunal promoverá una campaña de difusión dirigida a los usuarios de los servicios electrónicos del Tribunal y a los ciudadanos para difundir las disposiciones contenidas en este decreto.
+
+TERCERO. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de Justicia Administrativa del Estado de Jalisco deberán llevar a cabo los trámites de Firma Electrónica Avanzada, su Perfil de Usuario y Contraseña según corresponda ante la Secretaría General de Acuerdos del referido Tribunal o ante la Secretaría General de Gobierno del Estado de Jalisco, de conformidad con el Convenio de Colaboración Administrativa que celebren ambas instituciones para la certificación y uso de la firma electrónica.
+
+CUARTO. Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de Justicia Administrativa del Estado de Jalisco en los procesos administrativos deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al juicio en línea a través del Sistema Informático del Tribunal.
+
+QUINTO. En caso de que el Tribunal de Justicia Administrativa del Estado de Jalisco reciba una demanda para tramitarse por juicio en línea y constate que la autoridad demandada no ha realizado trámite alguno para estar en posibilidad de comparecer mediante juicio en línea, se le prevendrá para que en el plazo de diez días hábiles contados a partir de que se le notifique dicha prevención, proceda a realizar los trámites respectivos o, en su caso, acredite que ya cumplió.
+
+SEXTO. Los juicios que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Jalisco a la fecha en que inicie la operación del juicio en línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
