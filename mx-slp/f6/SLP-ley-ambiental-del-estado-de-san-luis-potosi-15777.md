@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-06-25"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -567,13 +567,17 @@ XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que estable
 
 XXXIV. Elaborar los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de manejo especial;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XXXV. Celebrar convenios y acuerdos para la atención y respuesta a problemas ambientales comunes con otros municipios, aunque pertenezcan a diferentes entidades federativas, en términos del artículo 13 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+XXXV. Celebrar convenios y acuerdos para la atención y respuesta a problemas ambientales comunes con otros municipios, aunque pertenezcan a diferentes entidades federativas, en términos del artículo 13 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XXXVI. Coordinarse con las autoridades federales para el monitoreo de la calidad de agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+XXXVI. Coordinarse con las autoridades federales para el monitoreo de la calidad de agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+
+XXXVII. El cobro por la utilización compartida de un relleno sanitario entre dos o más municipios, se establecerá a partir de la cantidad de residuos sólidos que genere cada municipio.
 
 ###### ARTICULO 9o.
 
@@ -3604,3 +3608,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso de trescientos sesenta días y cinco días a partir de la vigencia de este Decreto, para promover mediante campañas de difusión, la eliminación del uso de utensilios de plásticos, polietileno o productos homólogos en las oficinas oficiales del Estado y municipios que se utilicen en los servicios de cafetería, y sugerir el uso de biodegradables.
 
 CUARTO. Las oficinas oficiales del Estado y municipios dispondrán de un lapso de trescientos sesenta y cinco días posteriores a la vigencia del presente Decreto, para adecuarse a estas disposiciones.
+
+P.O. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0799.- SE REFORMA EL ARTÍCULO 8° EN SUS FRACCIONES XXXV Y XXXVI; Y ADICIONA AL MISMO ARTÍCULO 8° LA FRACCIÓN XXXVII, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
