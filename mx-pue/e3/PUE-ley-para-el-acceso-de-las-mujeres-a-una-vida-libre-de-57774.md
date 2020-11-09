@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-10-13"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -279,13 +279,17 @@ IV.- Favorecer la separación y distanciamiento del agresor con respecto a la v�
 
 V.- Favorecer la instalación y mantenimiento de albergues, casas de medio camino y refugios para las víctimas, sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-VI.- Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima; y
+VI.- Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-VII.- La instalación, mantenimiento y funcionamiento de los Centros de Reeducación para agresores.
+VII.- La instalación, mantenimiento y funcionamiento de los Centros de Reeducación para Agresores, y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+
+VIII.- Desarrollar programas para sensibilizar y capacitar a las personas que ejerzan tareas de cuidado de mujeres adultas mayores, a fin de prevenir violencia en su contra.
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO LABORAL O DOCENTE
 
@@ -875,9 +879,9 @@ X.- Favorecer la creación de instituciones públicas o privadas encargadas de l
 
 XI.- Promover programas de información a la población en la materia;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XII.- Impulsar programas y servicios integrales especializados para los agresores;
+XII.- Impulsar programas y servicios integrales especializados a través de los Centros de Reeducación para Agresores, con el objeto de transformar los patrones de conducta violenta, además de concientizar y educar para prevenir y erradicar la violencia en todos sus tipos y modalidades previstos en esta ley;
 
 XIII.- Difundir por todos los medios de comunicación el contenido de esta Ley;
 
@@ -1241,9 +1245,9 @@ IV.- Establecer programas y servicios profesionales y eficaces, con horario de v
 
 V.- Aplicar los criterios para la prevención y atención de violencia familiar, sexual y contra las mujeres establecidos en la norma oficial mexicana vigente;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-VI.- Brindar servicios reeducativos integrales especializados a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
+VI.- Brindar servicios integrales especializados de reeducación para agresores, y para las víctimas a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1439,9 +1443,11 @@ El Tribunal Electoral del Estado impulsara la especialización de sus integrante
 
 ARTÍCULO 48 TER.- Corresponde a las instituciones encargadas de promover y fomentar las condiciones que posibiliten la no discriminación y la igualdad sustantiva de oportunidades y de trato, entre mujeres y hombres, implementar sistemas de registro con indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de violencia política contra las mujeres en razón de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-Para hacer efectivos los derechos contenidos en esta Ley corresponde a los Municipios, de conformidad con lo dispuesto en los ordenamientos federales y locales aplicables en la materia las atribuciones siguientes:
+Para hacer efectivos los derechos contenidos en esta Ley corresponde (sic) a los Ayuntamientos de conformidad con lo dispuesto en los ordenamientos federales y locales aplicables en la materia las atribuciones siguientes:
 
 I.- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
@@ -1453,9 +1459,9 @@ III.- Promover, en coordinación con el Estado, cursos de capacitación a las pe
 
 IV.- Ejecutar las acciones necesarias para el cumplimiento de los Programas Integral y Estatal;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-V.- Apoyar la creación de programas de servicios integrales especializados para los agresores;
+V.- Apoyar la creación de programas de servicios especializados para los agresores con el objeto de transformar los patrones de conducta violenta, además de concientizar y educar para prevenir y erradicar la violencia en todos sus tipos y modalidades previstos en esta ley, basados en los programas implementados en los Centros de Reeducación para Agresores;
 
 VI.- Impulsar programas educativos sobre la igualdad y equidad entre géneros para eliminar la violencia contra las mujeres;
 
@@ -1471,13 +1477,17 @@ IX.- Llevar a cabo, de acuerdo con los Sistemas Nacional y Estatal, programas de
 
 X.- Suscribir convenios de coordinación, colaboración y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XI.- Instalar Centros de Reeducación para Agresores con el objetivo de transformar los patrones de conducta violenta, y de educación para prevenir y erradicar la violencia en todos los tipos y modalidades previstos en esta Ley; y
+XI.- Instalar Centros de Reeducación para Agresores con el objetivo de transformar los patrones de conducta violenta, y de educación para prevenir y erradicar la violencia en todos sus tipos y modalidades previstos en esta Ley;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XII.- Las demás previstas en otros ordenamientos legales aplicables.
+XII.- Difundir en sus portales de internet, en sus micrositios o en sus oficinas, información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así como los números telefónicos donde se les pueda brindar atención y orientación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2020)</small>
+
+XIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1848,6 +1858,14 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA (SIC) LAS FRACCIONES VI Y VII DEL ARTÍCULO 12, LA FRACCIÓN XII DEL 38, LA FRACCIÓN VI DEL 45 EL PRIMER PÁRRAFO Y LAS FRACCIONES V, XI Y XII DEL 49, Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 12 Y LA FRACCIÓN XIII AL 49, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
