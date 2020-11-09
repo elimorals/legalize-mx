@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-09-30"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,23 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-REGLAMENTO DE LA COMISION INTERSECRETARIAL DE BIOSEGURIDAD DE LOS ORGANISMOS GENETICAMENTE MODIFICADOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de noviembre de 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2020.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en lo dispuesto por los artículos 1, 2, 3, 19, 20, 21, 108, 109 y demás relativos aplicables de la Ley de Bioseguridad de Organismos Genéticamente Modificados; 13, 31, 32 Bis, 34, 35, 38 y 39 de la Ley Orgánica de la Administración Pública Federal, y 1, 2 y 3 de la Ley de Ciencia y Tecnología, he tenido a bien expedir el siguiente:
+EL CIUDADANO GENERAL AGUSTIN MILLAN, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes, sabed, que:
 
-REGLAMENTO DE LA COMISIÓN INTERSECRETARIAL DE BIOSEGURIDAD DE LOS ORGANISMOS GENÉTICAMENTE MODIFICADOS
+"La XXVI Legislatura Constitucional del Estado de México, en funciones de Constituyente, de acuerdo con el Decreto y autorización expedidos por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, el veintidós de marzo y catorce de abril del año en curso, respectivamente; así como con el Decreto número cinco expedido por el Ciudadano Gobernador Preconstitucional del Estado, el dieciséis de abril de mil novecientos diecisiete, decreta la siguiente:
+
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+
+Que Reforma y adiciona la del 31 de octubre de 1917
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO PRIMERO. Del Estado de México como Entidad Política
 
@@ -39,51 +45,31 @@ REGLAMENTO DE LA COMISIÓN INTERSECRETARIAL DE BIOSEGURIDAD DE LOS ORGANISMOS GE
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización y funcionamiento de la Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados.
+El Estado de México es parte integrante de la Federación de los Estados Unidos Mexicanos, libre y soberano en todo lo que concierne a su régimen interior.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 2.
 
-Para los efectos de este Reglamento se entenderá por:
+El Estado de México tiene la extensión y límites que le corresponden históricamente y los que se precisen en los convenios que se suscriban con las entidades colindantes o los que deriven de las resoluciones emitidas de acuerdo a los procedimientos legales.
 
-I. CIBIOGEM: Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados;
-
-II. CONABIO: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
-
-III. CONACYT: Consejo Nacional de Ciencia y Tecnología;
-
-IV. Ley: Ley de Bioseguridad de Organismos Genéticamente Modificados;
-
-V. OGMs: Organismo u organismos genéticamente modificados;
-
-VI. Protocolo: Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica;
-
-VII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
-
-VIII. SALUD: Secretaría de Salud;
-
-IX. SE: Secretaría de Economía;
-
-X. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
-
-Xl. SEP: Secretaría de Educación Pública, y
-
-XII. SHCP: Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 3.
 
-De conformidad con lo dispuesto por el artículo 19 de la Ley, la CIBIOGEM es una Comisión lntersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, y estará integrada por los titulares de la SAGARPA, de la SEMARNAT, de SALUD, de la SEP, de la SHCP, de la SE y del CONACYT.
+El Estado de México adopta la forma de gobierno republicana, representativa, democrática, laica y popular.
 
-La CIBIOGEM podrá invitar a otras dependencias a participar con voz en las sesiones que tengan relación con su objeto, así como a miembros del Consejo Consultivo Científico y especialistas que, por la naturaleza de los asuntos a tratar, sea pertinente.
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+
+El ejercicio de la autoridad se sujetará a esta Constitución, a las leyes y a los ordenamientos que de una y otras emanen.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 4.
 
-Para el desarrollo de sus funciones, la CIBIOGEM contará con un Presidente, un Vicepresidente y un Secretario Ejecutivo, cuyas funciones y facultades se detallan en el presente Reglamento. Asimismo, contará con los siguientes órganos técnicos y consultivos:
+La soberanía estatal reside esencial y originariamente en el pueblo del Estado de México, quien la ejerce en su territorio por medio de los poderes del Estado y de los ayuntamientos, en los términos de la Constitución Federal y con arreglo a esta Constitución.
 
-I. Comité Técnico;
-
-II. Consejo Consultivo Científico, y
-
-III. Consejo Consultivo Mixto.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2012)</small>
 
 ## TITULO SEGUNDO. De los Principios Constitucionales, los Derechos Humanos y sus Garantías
 
@@ -91,211 +77,499 @@ III. Consejo Consultivo Mixto.
 
 ###### Artículo 5.
 
-Para el cumplimiento de su objeto, la CIBIOGEM tendrá las siguientes funciones:
+En el Estado de México todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en los que el Estado mexicano sea parte, en esta Constitución y en las leyes que de ésta emanen, por lo que gozarán de las garantías para su protección, las cuales no podrán restringirse ni suspenderse salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
 
-I. Formular y coordinar las políticas nacionales de bioseguridad de OGMs, así como proponer a las dependencias competentes la incorporación de dichas políticas en los programas sectoriales;
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
-II. Coordinar, dar seguimiento y evaluar a ejecución de las políticas nacionales de bioseguridad de OGMs;
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en la materia y esta Constitución para favorecer en todo tiempo a las personas la protección más amplia.
 
-III. Promover y propiciar la colaboración de manera coordinada de sus integrantes, para el cumplimiento de la Ley y de los objetivos de la CIBIOGEM;
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
-IV. Promover el fortalecimiento de la capacidad de las instituciones cuyas actividades se relacionen con los OGMs, para el cumplimiento de los objetivos de la Ley y de las demás disposiciones aplicables;
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-V. Definir las posiciones de México en materia de bioseguridad de OGMs y presentar, a través de la delegación designada, dichas posiciones ante los organismos y foros internacionales correspondientes;
+> <small>(REFORMADO, G.G. 25 DE JULIO DE 2016)</small>
 
-VI. Coordinar la organización de las delegaciones y representaciones mexicanas en los eventos y ante los organismos internacionales en la materia, sin perjuicio de la participación que corresponda a la Secretaría de Relaciones Exteriores;
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
 
-VII. Analizar y, en su caso, proponer la concertación de instrumentos jurídicos internacionales relativos a los movimientos transfronterizos internacionales de OGMs;
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2019)</small>
 
-VIII. Promover en el ámbito internacional bilateral, regional y multilateral, el intercambio de información en materia de OGMs;
+El Estado de México garantizará el Derecho Humano a la Ciudad, entendiéndose como un derecho de las colectividades, con el cual se busca lograr la igualdad, sustentabilidad, justicia social, participación democrática, respeto a la diversidad cultural, la inclusión social, la distribución equitativa de bienes públicos y la justicia territorial; buscando que los grupos vulnerables y desfavorecidos logren su derecho.
 
-IX. Verificar el adecuado cumplimiento de las actividades que realice la Secretaría Ejecutiva en su carácter de enlace y Centro Focal Nacional ante el Secretariado Técnico del Protocolo;
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2019)</small>
 
-X. Desarrollar, a través de la Secretaría Ejecutiva, el Sistema Nacional de Información sobre Bioseguridad y propiciar la colaboración de las dependencias y entidades de la Administración Pública Federal en materia de OGMs para el eficaz funcionamiento del Sistema;
+El derecho a la ciudad se garantizará a través de instrumentos que observen las funciones social, política, económica, cultural, territorial y ambiental de la ciudad, determinados por ordenamientos secundarios que prevean las disposiciones para su cumplimiento.
 
-Xl. Procurar la colaboración efectiva de las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias para la estructuración y operación del Registro Nacional de Bioseguridad de los OGMs;
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-XII. Promover, con la participación que corresponda a la CONABIO, el establecimiento de un banco de datos sobre la presencia y distribución de especies silvestres relacionadas con los OGMs que se pudieran liberar, así como mecanismos de monitoreo y evaluación del impacto al ambiente, a la salud humana y animal, derivados de la liberación, producción y consumo de OGMs y productos que los contengan;
+El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen.
 
-XIII. Dictaminar, con la participación que corresponda al Consejo Consultivo Científico, sobre el establecimiento de zonas libres de OGMs para los efectos que establece la Ley, debiendo contener la opinión que emita la CONABIO;
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Definir y acordar los estudios y las consideraciones socioeconómicas que deban realizarse para conocer los efectos de los OGMs que se liberen al ambiente en el territorio nacional, y establecer los mecanismos para realizar la consulta y participación de los pueblos y comunidades indígenas asentadas en las zonas donde se pretenda liberar OGMs, en su caso, en coordinación con las autoridades competentes;
+Toda persona tiene derecho a la educación. El Estado de México y Municipios impartirán y garantizarán la educación inicial, preescolar, primaria, secundaria, media superior y superior en todo el territorio mexiquense. La educación inicial, preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias; la educación superior lo será en términos de la fracción X del artículo 3° de la Constitución Federal. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-XV. Notificar, por conducto de la Secretaría Ejecutiva, las solicitudes de permisos de liberación al ambiente de OGMs a los gobiernos de las entidades federativas en las que se pretenda llevar a cabo dicha actividad, a fin de que puedan emitir sus opiniones en los términos de Ley;
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-XVI. Promover programas para la transferencia tecnológica y para la investigación científica que impliquen el uso de OGMs;
+La obligatoriedad de la educación superior corresponde al Estado. Por lo que, en conjunto con las autoridades federales, el gobierno de la entidad establecerá políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionará los medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
-XVII. Aprobar la propuesta de Secretario Ejecutivo que el Director General del CONACYT presentará al Presidente de la República para su designación;
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. Aprobar el programa anual de trabajo de la Secretaría Ejecutiva;
+Corresponde al Estado la rectoría de la educación. La impartida por éste, además de obligatoria, será universal, de excelencia, inclusiva, intercultural, pública, gratuita y laica. Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de respeto a la naturaleza y los derechos humanos. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-XIX. Emitir sus reglas de operación, las cuales contendrán:
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-a) Las reglas de organización y funcionamiento del Comité Técnico;
+El Estado fomentará una educación basada en el respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad.
 
-b) Las reglas de organización y funcionamiento del Consejo Consultivo Científico;
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-c) Las reglas de organización y funcionamiento del Consejo Consultivo Mixto, así como los mecanismos para la incorporación de sus integrantes;
+La educación en el Estado de México cumplirá las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones en la materia.
 
-d) Las disposiciones relativas a las sesiones, acuerdos y demás cuestiones de su funcionamiento, y
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-e) Los mecanismos de participación que establece la Ley.
+La Universidad Autónoma del Estado de México es un organismo público descentralizado del Estado de México, contará con personalidad jurídica y patrimonio propios; se encontrará dotada de plena autonomía en su régimen interior en todo lo concerniente a sus aspectos académico, técnico, de gobierno, administrativo y económico. Tendrá por fines impartir la educación media superior y superior; llevar a cabo la investigación humanística, científica y tecnológica; difundir y extender los avances del humanismo, la ciencia, la tecnología, el arte y otras manifestaciones de la cultura, conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos. Especial atención tendrá en el cumplimiento de la función social del servicio que ofrece.
 
-XX. Las demás que se establezcan en la Ley y demás disposiciones aplicables y las que le encargue el Titular del Ejecutivo Federal.
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, niveles y modalidades educativas, incluyendo la educación inicial, especial, educación física, artística, educación para adultos e indígena, considerados necesarios para el desarrollo de la nación; favorecerá políticas públicas para erradicar el analfabetismo en la Entidad. El sistema educativo del Estado contará, también, con escuelas rurales, de artes y oficios, de agricultura, educación indígena y educación para adultos. Se considerarán las diferentes modalidades para la educación básica y media superior.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado fomentará la Investigación en la Educación.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Las medidas para la equidad y la excelencia en la educación estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado deberá fomentar el uso y manejo de las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Los particulares podrán impartir educación, siempre con apego a los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos en su artículo tercero y deberán obtener en cada caso, la autorización expresa del poder público, siempre sujetándose a la vigilancia e inspecciones oficiales establecidas.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, soberanía y gobierno, tendrán la facultad y la responsabilidad de gobernarse por sí mismas.
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+
+El Estado garantizará a todas las personas el acceso a la ciencia y a la tecnología; establecerá políticas de largo plazo e implementará mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades.
+
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Toda persona en el Estado de México, tiene derecho al libre acceso a la información plural y oportuna, así como a buscar recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. No se puede restringir este derecho por vías o medios indirectos, tales como el abuso de controles oficiales o particulares, de papel para periódicos, de frecuencias radioeléctricas o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios y tecnologías de la información y comunicación encaminados a impedir la transmisión y circulación de ideas y opiniones.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el párrafo décimo cuarto de este mismo artículo, de esta Constitución. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
+
+(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
+
+En el Estado de México toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado, conforme a lo establecido en el Artículo 24 de la Constitución Federal.
+
+(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
+
+La Legislatura del Estado en ningún momento podrá dictar leyes que establezcan o prohíban religión alguna.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
+
+> <small>(REFORMADO, G.G. 8 DE JUNIO DE 2015)</small>
+
+Para garantizar el ejercicio del derecho de transparencia, acceso a la información pública y protección de datos personales, los poderes públicos y los organismos autónomos, transparentarán sus acciones, en términos de las disposiciones aplicables, la información será oportuna, clara, veraz y de fácil acceso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE JUNIO DE 2015)</small>
+
+Este derecho se regirá por los principios y bases siguientes:
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismos de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos estatales y municipales, así como del gobierno y de la administración pública municipal y sus organismos descentralizados, asimismo de cualquier persona física, jurídica colectiva o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones previstas en la Constitución Política de los Estados Unidos Mexicanos de interés público y seguridad, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+II. La información referente a la intimidad de la vida privada y la imagen de las personas será protegida a través de un marco jurídico rígido de tratamiento y manejo de datos personales, con las excepciones que establezca la ley reglamentaria.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+V. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria y el organismo autónomo garante en el ámbito de su competencia. Las resoluciones que correspondan a estos procedimientos se sistematizarán para favorecer su consulta.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VI. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y los resultados obtenidos.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VII. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o jurídicas colectivas.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VIII. El Estado contará con un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de transparencia, acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+
+El organismo autónomo garante previsto en esta fracción, se regirá por la ley en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados.
+
+En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+El organismo autónomo garante tiene competencia para conocer de los asuntos relacionados con la transparencia, el acceso a la información pública y la protección de datos personales en posesión de cualquiera de los sujetos obligados a que se refiere la fracción I del presente artículo, con excepción de aquellos asuntos jurisdiccionales que correspondan al Tribunal Superior de Justicia en cuyo caso resolverá un comité integrado por tres Magistrados. Resolverá la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+
+La ley establecerá la información que se considere reservada o confidencial.
+
+Las resoluciones del organismo autónomo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+Cuando dichas resoluciones puedan poner en peligro el interés público y la seguridad de las instituciones locales, la Secretaría de Justicia y Derechos Humanos podrá interponer recurso de revisión ante el Tribunal Superior de Justicia en términos de las disposiciones aplicables.
+
+El organismo autónomo garante podrá acudir ante el organismo garante federal a través de petición fundada para que éste conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El organismo autónomo garante se integra por cinco comisionadas o comisionados. Para su nombramiento, la Legislatura, previa realización de una consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará a la comisionada o comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de este plazo, ocupará el cargo la persona nombrada por la Legislatura.
+
+En caso de que el Gobernador objetara el nombramiento, la Legislatura hará un nuevo nombramiento, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las comisionadas o comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+En la conformación del organismo autónomo garante se observará el principio de paridad de género.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La comisionada o el comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura, en la fecha y en los términos que disponga la ley.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinco consejeras o consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura. Anualmente serán sustituidos las o los dos consejeras o consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo autónomo garante, para asegurar el cumplimiento de sus decisiones.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo autónomo garante y sus integrantes para el buen desempeño de sus funciones.
+
+El organismo autónomo garante coordinará sus acciones con el Órgano Superior de Fiscalización del Estado de México, con la entidad especializada en materia de archivos y con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, así como los organismos garantes federal, de las entidades federativas y del Distrito Federal, con el objeto de fortalecer la rendición de cuentas del Estado de México.
+
+El organismo garante podrá formular programas de difusión de la cultura de transparencia, acceso a la información pública y protección de datos personales, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+IX. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Toda persona tiene derecho a una alimentación adecuada.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+
+> <small>(ADICIONADO, G.G. 19 DE ENERO DE 2015)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de este derecho. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+
+El Estado garantizará a toda persona el derecho a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad, sustentabilidad y progresividad.
+
+> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
+
+Toda persona tiene derecho al acceso a la gestión pública a través del uso de medios electrónicos. Las autoridades del Estado y los municipios en el ámbito de su competencia, tienen la obligación de promover, respetar, proteger y garantizar ese derecho, mediante el uso de las tecnologías de información en el ejercicio de la gestión pública, en los términos que disponga la Ley y en su caso el Estado deberá prevenir, investigar y sancionar los ilícitos y violaciones a este derecho.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El Poder Ejecutivo del Estado de México organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El Estado de México podrá celebrar convenios con otras entidades federativas y la Ciudad de México, para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El sistema integral de justicia para adolescentes del Estado de México, será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 6.
 
-Para que la CIBIOGEM pueda sesionar válidamente, se requerirá la asistencia de la mayoría de sus miembros, y sus acuerdos se tomarán por consenso.
+Los habitantes del Estado gozan del derecho a que les sea respetado su honor, su crédito y su prestigio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 7.
 
-La presidencia de la CIBIOGEM se ejercerá de manera rotatoria por los titulares de SALUD, SAGARPA y SEMARNAT por periodos de dos años, en ese orden.
+Las leyes del Estado no podrán establecer sanciones que priven de la vida a las personas, confisquen sus bienes, ni penas crueles, inhumanas o degradantes.
 
-Serán funciones del Presidente de la CIBIOGEM:
+> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
-I. Presidir las sesiones de la CIBIOGEM;
+No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Propiciar la colaboración de las dependencias y entidades que la integran para cumplir los objetivos de la CIBIOGEM;
-
-III. Informar al Presidente de la República de los acuerdos de la CIBIOGEM y de los aspectos que ameriten de su conocimiento, y
-
-IV. Las demás que sean necesarias para la ejecución de los acuerdos de la CIBIOGEM.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-La Vicepresidencia de la CIBIOGEM estará a cargo del Director General del CONACYT, el que tendrá las siguientes funciones:
+Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador o Gobernadora del Estado de acuerdo con las o los titulares de las secretarías del Poder Ejecutivo dictará los acuerdos necesarios para hacer frente a la contingencia, los cuales deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas; la o el Fiscal General de Justicia únicamente tendrá voz.
 
-I. Presidir las sesiones en ausencia del Presidente de la CIBIOGEM;
-
-II. Presentar al Presidente de la República la propuesta de la CIBIOGEM para la designación de su Secretario Ejecutivo, en los términos de la fracción IV del artículo 19 de la Ley;
-
-III. Coadyuvar con la CIBIOGEM y con el Secretario Ejecutivo de la CIBIOGEM en el ejercicio de sus funciones, y
-
-IV. Realizar las demás actividades que le encomiende la CIBIOGEM, las que se establezcan en las reglas de operación y en las demás disposiciones aplicables.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-La Secretaría Ejecutiva tendrá las siguientes atribuciones:
+En los casos de riesgo, siniestro o desastre, el o la titular del Ejecutivo del Estado acordará la ejecución de acciones y programas públicos en relación a las personas, sus bienes o del hábitat para el restablecimiento de la normalidad; para ello podrá disponer de los recursos necesarios, sin autorización previa de la Legislatura. Asimismo podrá ordenar la ocupación o utilización temporal de bienes o la prestación de servicios.
 
-I. Elaborar el proyecto de las políticas nacionales de la Administración Pública Federal relativas a la bioseguridad de los OGMs;
+Una vez tomadas las primeras medidas para atender las causas mencionadas, el o la titular del Ejecutivo del Estado, dará cuenta de inmediato a la Legislatura o a la Diputación Permanente de las acciones adoptadas para hacer frente a esos hechos.
 
-II. Promover y gestionar la incorporación de las políticas nacionales relativas a la bioseguridad de los OGMs en el Plan Nacional de Desarrollo, así como en los programas sectoriales correspondientes;
-
-III. Fungir como Centro Focal Nacional ante el Secretariado Técnico del Protocolo;
-
-IV. Realizar las actividades relativas a la intervención de México en los organismos y foros internacionales en las materias competencia de la CIBIOGEM, con la participación que corresponda a la Secretaría de Relaciones Exteriores;
-
-V. Proyectar, organizar y operar el Sistema Nacional de Información sobre Bioseguridad, para lo cual solicitará la información que se requiera, así como incorporar la correspondiente al Registro Nacional de Bioseguridad de los OGMs;
-
-VI. Proyectar, organizar y operar el Registro Nacional de Bioseguridad de los OGMs;
-
-VII. Solicitar, recopilar e integrar de las dependencias y entidades competentes, la información requerida por el Secretariado del Protocolo y proporcionarla a su Centro de Intercambio de Información sobre Bioseguridad de la Biotecnología;
-
-VIII. Formular y preparar el informe de la situación general existente en el país en materia de biotecnología y bioseguridad, para su publicación anual;
-
-IX. Conducir, coordinar y operar los mecanismos de participación que se establezcan en las reglas de operación de la CIBIOGEM en los términos que establecen las disposiciones aplicables;
-
-X. Formular y preparar el dictamen para el establecimiento de zonas libres de OGMs, con la opinión de la CONABIO;
-
-Xl. Notificar las solicitudes de permisos de liberación al ambiente de OGMs, a los gobiernos de las entidades federativas en las que se pretenda llevar a cabo dicha actividad, a efecto de que tengan conocimiento de esa situación y puedan emitir sus opiniones en los términos previstos en la Ley;
-
-XII. Realizar o encargar estudios técnicos e investigaciones que apruebe la CIBIOGEM, necesarios para el cumplimiento de su objeto;
-
-XIII. Solicitar a los miembros de la CIBIOGEM la información referente a los convenios o acuerdos de coordinación que celebren con los gobiernos de las entidades federativas, para el monitoreo de riesgos de OGMs que se liberen al ambiente;
-
-XIV. Preparar y presentar a la CIBIOGEM los análisis y propuestas para la formulación del Programa para el Desarrollo de la Bioseguridad y la Biotecnología;
-
-XV. Apoyar a las dependencias y entidades competentes en la formulación de programas para la transferencia tecnológica que implique el uso de OGMs, y
-
-XVI. Desempeñar las demás que establezcan otras disposiciones aplicables, y aquellas que le encomiende el Presidente de la CIBIOGEM.
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 10.
 
-Corresponde al Secretario Ejecutivo:
+El sufragio constituye la expresión soberana de la voluntad popular.
 
-I. Administrar y ejercer los recursos que se asignen por el CONACYT a la Secretaría Ejecutiva, de conformidad con la Ley y demás disposiciones aplicables;
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-II. Convocar a las sesiones de la CIBIOGEM, levantar las actas correspondientes y desempeñar las demás funciones que le otorguen las reglas de operación;
+Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean organizados, desarrollados y vigilados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-III. Coordinar y presidir el Comité Técnico;
+La ley establecerá las sanciones por violaciones al sufragio.
 
-IV. Ser el enlace de la CIBIOGEM con instituciones y organismos cuyo objeto se relacione con OGMs
-
-V. Coordinar la relación de la CIBIOGEM con el Consejo Consultivo Científico y el Consejo Consultivo Mixto;
-
-VI. Suscribir los dictámenes, notificaciones y demás documentación que, conforme a la Ley, corresponda realizar a la CIBIOGEM;
-
-VII. Informar a la CIBIOGEM los resultados de los estudios e investigaciones a su cargo;
-
-VIII. Presentar a la CIBIOGEM el proyecto de reglas de operación así como sus modificaciones;
-
-IX. Acordar con el Presidente de la CIBIOGEM los asuntos de su competencia;
-
-X. Someter a consideración de la CIBIOGEM el programa anual de trabajo y el informe de actividades relativo,
-
-Xl. Ejercer las facultades que le otorga el Estatuto Orgánico del CONACYT, las demás disposiciones y las que le encomiende el Presidente de la CIBIOGEM.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-El Comité Técnico es un órgano colegiado de carácter técnico que tendrá como objeto apoyar a la CIBIOGEM con la realización de análisis y propuestas, así como coadyuvar a la coordinación y colaboración de sus integrantes, para el cumplimiento de sus funciones. Estará conformado por representantes que designen los miembros de la CIBIOGEM, de nivel jerárquico no inferior al de director general o su equivalente, los cuales contarán con sus respectivos suplentes.
+La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernadora o Gobernador, Diputadas y Diputados a la Legislatura del Estado, de las y los integrantes de Ayuntamientos, son una función que se realiza a través del Instituto Nacional Electoral y el Organismo Público Electoral del Estado de México, denominado Instituto Electoral del Estado de México, dotado de personalidad jurídica y patrimonio propios, este contará con un Órgano de Dirección Superior, integrado por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales, con derecho a voz y voto, designados bajo el principio de paridad de género por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con una representación de cada partido político y una o un Secretario Ejecutivo, quienes asistirán con voz, pero sin voto. En el ejercicio de esta función, la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad serán principios rectores y se realizarán con perspectiva de género.
 
-Corresponde al Comité Técnico:
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-I. Actuar como órgano de apoyo, de coordinación y de cooperación técnica;
+El Instituto Electoral del Estado de México será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos, operativos y de vigilancia.
 
-II. Apoyar en la formulación de las propuestas de las políticas nacionales relativas a OGMs;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-III. Analizar e integrar la información que se requiera para definir la posición internacional de México en materia de OGMs;
+La Secretaria o Secretario Ejecutivo será nombrado por el Consejo General del Instituto Electoral del Estado de México en la forma y términos que señale la ley, durará en su encargo seis años y fungirá como Secretaria o Secretario del Consejo General.
 
-IV. Realizar las acciones necesarias que faciliten la colaboración y coordinación de los integrantes de la CIBIOGEM;
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-V. Apoyar en la integración y funcionamiento del Sistema Nacional de Información sobre Bioseguridad y del Registro Nacional de Bioseguridad;
+El Instituto Electoral del Estado de México contará con una Contraloría General adscrita al Consejo General, que tendrá a su cargo la fiscalización de las finanzas y recursos que este ejerza y conocerá de las responsabilidades administrativas de sus servidores públicos. El Titular de la Contraloría General del Organismo será designado por la Legislatura del Estado, mediante las dos terceras partes de la votación de sus integrantes presentes, en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de México.
 
-VI. Formular opiniones a la CIBIOGEM respecto a los resultados de los trabajos que realicen el Consejo Consultivo Científico y el Consejo Consultivo Mixto;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Apoyar a la Secretaría Ejecutiva en la instrumentación de acciones y gestión de los asuntos que tenga a su cargo, así como prestarle la asesoría técnica que le requiera;
+La Consejera o el Consejero Presidente, y las Consejeras y los Consejeros Electorales durarán en su encargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-VIII. Preparar la documentación, información y datos que le solicite la CIBIOGEM, y
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-IX. Ejercer las demás atribuciones que se establezcan en la Ley y en las disposiciones aplicables.
+El Instituto Electoral, de ser el caso que ejecute las funciones de fiscalización delegadas por el Instituto Nacional Electoral, contará con su respectivo órgano técnico de fiscalización.
 
-El Comité, mediante acuerdo y conforme a la naturaleza de los asuntos a tratar, podrá invitar a especialistas a sus sesiones de trabajo para recabar las opiniones técnicas que se requieran.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Consejera o el Consejero Presidente, y las Consejeras y los Consejeros Electorales cuando no haya proceso electoral, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral, de participación ciudadana y de educación cívica.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretaria o Secretario Ejecutivo y la o el titular de la Contraloría General.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+La ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Electoral del Estado de México, así como las relaciones jerárquicas y administrativas entre éstos.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Los emolumentos que perciban la Consejera o el Consejero Presidente, las Consejeras y los Consejeros Electorales, la Secretaria o el Secretario Ejecutivo y la o el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Las leyes determinarán los regímenes laboral y de responsabilidades de los servidores públicos del Instituto Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+El Instituto Electoral del Estado de México contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley de la materia.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El Instituto Electoral del Estado de México tendrá a su cargo, además de las que determine la ley de la materia, las actividades relativas al desarrollo de la democracia y la cultura política, la paridad de género y el respeto de los derechos humanos en el ámbito político y electoral, derecho y acceso a las prerrogativas de las candidatas, candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos, declaración de validez y otorgamiento de constancias en las elecciones locales, resultados preliminares, encuestas o sondeos de opinión, observación electoral, conteo rápido y sobre mecanismos de participación ciudadana, así como las que le delegue el Instituto Nacional Electoral.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Asimismo, se faculta al Instituto Electoral del Estado de México a celebrar convenios con los ayuntamientos del Estado de México para la organización, desarrollo y vigilancia de las elecciones de autoridades auxiliares municipales. A petición de los partidos políticos locales y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+El Instituto Electoral del Estado de México podrá convenir con el Instituto Nacional Electoral que se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-El Consejo Consultivo Científico se organizará de acuerdo con las siguientes disposiciones:
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanas y ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad de género en las candidaturas a Diputaciones Locales e integrantes de los Ayuntamientos, y a los demás cargos de elección popular, así como contribuir a la erradicación de la violencia política en razón de género. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de las candidatas y candidatos a cargos de elección popular. Solo las ciudadanas y ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
 
-I. Se integrará por trece expertos en las disciplinas que se establezcan en la convocatoria respectiva, provenientes de centros, universidades, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal y en forma honorífica;
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
-II. Los integrantes del Consejo Consultivo Científico durarán en su encargo por un periodo de tres años, el cual podrá ser renovado por una sola vez en forma consecutiva;
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
 
-III. La selección de los integrantes del Consejo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACYT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-IV. La formulación de convocatorias para la elaboración de protocolos de investigación, análisis, metodologías y los dictámenes técnicos que requiera la CIBIOGEM para el ejercicio de sus funciones;
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatas y candidatos, formulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
 
-V. Informar a la CIBIOGEM los resultados de los estudios técnicos e investigaciones que realice, en aquellos casos en que participe el Consejo en las denuncias que se presenten por daños ambientales o a la biodiversidad;
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-VI. Los integrantes del Consejo Consultivo Científico elegirán a un coordinador de entre sus miembros, el cual ejercerá dicha función durante un año sin posibilidad de reelección inmediata, y
+La coalición podrá ser total, parcial o flexible y deberá formalizarse, mediante convenio por el cual no podrá existir transferencia o distribución de votación entre los partidos coaligados, de acuerdo con lo que establece la legislación de la materia.
 
-VII. Los demás aspectos relativos a la organización y funcionamiento del Consejo Consultivo Científico serán establecidos en las reglas de operación que emita la CIBIOGEM.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Cada partido político en lo individual, independiente de participar coaligado, deberá garantizar la paridad de género, en las candidaturas locales correspondientes.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Ninguna ciudadana o ciudadano podrá ser registrado como candidata o candidato a distintos cargos de elección popular en el mismo proceso electoral. Los partidos políticos podrán registrar simultáneamente, en un proceso comicial hasta cuatro fórmulas de candidatas y candidatos a las Diputaciones por mayoría relativa y por representación proporcional.
+
+> <small>(DEROGADO PÁRRAFO SÉPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El partido político local que no obtenga, al menos el tres por ciento de la votación válida emitida en la elección para Gobernadora o Gobernador o Diputadas y Diputados a la Legislatura del Estado, le será cancelado el registro. Para tener derecho a participar en la asignación de Diputaciones de representación proporcional, los partidos políticos deberán haber obtenido al menos el tres por ciento de la votación válida emitida en la elección para Diputadas y Diputados.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. La ley establecerá las reglas a las que se sujetará el financiamiento tanto público como privado de los partidos políticos.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en que sus bienes y remanentes pasarán a formar parte del patrimonio del Estado.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Los partidos políticos, las candidatas y los candidatos independientes, en su caso, podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Federal, los cuales en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Ninguna otra persona, física o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de las y los ciudadanos, ni a favor o en contra de partidos políticos o de candidatas y candidatos a cargos de elección popular.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatas y candidatos a cargos de elección popular, así como las reglas para el desarrollo de las precampañas. También establecerá los plazos para el desarrollo de las campañas electorales de los partidos políticos, de las candidatas y candidatos independientes.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La duración máxima de las campañas será de sesenta días para la elección de Gobernadora o Gobernador y de treinta y cinco días cuando se elijan Diputadas y Diputados locales o Ayuntamientos. Asimismo, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales; la ley de la materia fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de los y las militantes y simpatizantes.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+La violación a estas disposiciones por los partidos o cualquier otra persona física o moral, será sancionada conforme a la ley.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La propaganda política o electoral que realicen y difundan los partidos políticos, candidatas y candidatos deberán abstenerse de expresiones que calumnien a las personas o que contengan violencia política en razón de género.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+Desde el inicio de las campañas electorales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social toda propaganda gubernamental, tanto de las autoridades estatales, como municipales y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud o las necesarias para la protección civil en caso de emergencia.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+La propaganda impresa deberá ser reciclable, preferentemente deberá elaborarse con materiales reciclados o biodegradables que no contengan sustancias tóxicas ni materiales que produzcan riesgos a la salud de las personas.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Las infracciones a lo dispuesto en materia de propaganda electoral darán motivo a la imposición de sanciones en los términos que determine la ley. El Instituto Electoral del Estado de México impondrá las sanciones en el ámbito de su competencia mediante procedimientos ordinarios y especiales expeditos o, en su caso, solicitará a la autoridad competente la imposición de las mismas.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+El Instituto Electoral del Estado de México y el Tribunal Electoral podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+La ley determinará las faltas en materia electoral, estableciendo los procedimientos aplicables y las sanciones que deba (sic) imponerse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-El Consejo Consultivo Mixto de la CIBIOGEM es un órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo quienes participarán en forma honorífica, de conformidad con lo establecido en la Ley y demás disposiciones aplicables.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de la ciudadanía.
 
-## TRANSITORIOS
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-SEGUNDO.- Se abroga el Acuerdo por el que se crea la Comisión Intersecretarial de Bioseguridad y Organismos Genéticamente Modificados con el objeto de coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad y a la producción, importación, exportación, movilización, propagación, liberación, consumo y, en general, uso y aprovechamiento de organismos genéticamente modificados, sus productos y subproductos publicado en el Diario Oficial de la Federación el 5 de noviembre de 1999.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-TERCERO.- La Comisión Intersecretarial de Bioseguridad y Organismos Genéticamente Modificados emitirá sus reglas de operación dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Reglamento.
+El Tribunal Electoral funcionará en Pleno, se compondrá de cinco Magistraturas designadas por el Senado de la República en los términos que establece la legislación de la materia, y gozarán de todas las garantías judiciales previstas en la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
-CUARTO.- La Presidencia de la Comisión lntersecretarial de Bioseguridad y Organismos Genéticamente Modificados será ejercida por el Titular de la Secretaría de Medio Ambiente y Recursos Naturales hasta el 31 de diciembre del 2006; al término de dicho período, la Presidencia de la Comisión será transferida a la Secretaría de Salud en los términos del Artículo 7 del presente Reglamento.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-QUINTO.- Con el propósito de que la renovación de los integrantes del Consejo Consultivo Científico sea progresiva y escalonada, por única ocasión los integrantes que la conformen, durarán en ese encargo: cuatro integrantes un año, cuatro integrantes dos años y cinco miembros tres años. Lo anterior se determinará mediante un procedimiento de insaculación.
+Las Magistradas y los Magistrados del Tribunal Electoral designarán a su Presidenta o Presidente, por mayoría de votos, entre ellos; la Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
 
-Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario de Salud, Julio José Frenk Mora.- Rúbrica.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+En caso de falta absoluta de alguna de las Magistradas o Magistrados, quien presida el Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, corresponderá a la Legislatura designar, de entre una terna de ciudadanas y ciudadanos propuestos por el Pleno del Tribunal Electoral y con el voto de las dos terceras partes de los miembros presentes, a quien cubrirá la vacante.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Quienes hayan fungido como magistradas o magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 24 DE JUNIO DE 2014)</small>
+
+Al Tribunal Electoral le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto Electoral del Estado de México a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores y entre el Instituto Electoral del Estado de México y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+El Tribunal Electoral expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento, en los términos que señale la ley.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+El Tribunal Electoral contará con una Contraloría General adscrita al Pleno, que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su titular será nombrado por la Legislatura del Estado, en la forma y términos que señale la ley.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Magistrada o el Magistrado Presidente, las Magistradas y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La ley fijará las causales de nulidad de las elecciones de Gobernadora o Gobernador, Diputadas o Diputados locales y Ayuntamientos de la entidad. El Tribunal Electoral sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
+La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
@@ -435,7 +709,9 @@ La ley establecerá la sanción penal por la distracción de los recursos públi
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. De los Habitantes del Estado
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 21.
 
@@ -501,7 +777,9 @@ IV. Las demás que esta Constitución y las leyes establezcan.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO II. DE LAS FUNCIONES DE LA CIBIOGEM
+### CAPITULO SEGUNDO. De las Ciudadanas y los Ciudadanos del Estado
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
@@ -647,7 +925,9 @@ Quienes se encuentren accidental o transitoriamente en el territorio del Estado,
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
-### CAPÍTULO III. DE LA PRESIDENCIA Y VICEPRESIDENCIA DE LA CIBIOGEM
+### CAPITULO PRIMERO. De la División de Poderes
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 34.
 
@@ -673,7 +953,9 @@ La ciudad de Toluca de Lerdo es la sede de los poderes públicos del Estado y ca
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA DE LA CIBIOGEM
+### CAPITULO SEGUNDO. Del Poder Legislativo
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -781,9 +1063,9 @@ XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Esta
 
 XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020) (F. DE E., G.G. 30 DE SEPTIEMBRE DE 2020)
 
-En el caso a que se refieren las tres fracciones anteriores, podrán postularse si se separan del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
+En el caso a que se refieren las fracciones VII, VIII y IX podrán postularse si se separan del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1379,7 +1661,9 @@ VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposi
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
-### CAPÍTULO V. DE LOS ÓRGANOS TÉCNICOS Y CONSULTIVOS
+### CAPITULO TERCERO. Del Poder Ejecutivo
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
@@ -1913,11 +2197,11 @@ El Ministerio Público y las policías se coordinarán en términos de la Ley Ge
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86 Bis.
 
-La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los municipios, en sus respectivos ámbitos de competencia que comprende la prevención e investigación de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, que comprende la prevención, investigación y persecución de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
 
 > <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -4788,3 +5072,19 @@ G.G. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 86 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203.- POR EL QUE SE REFORMAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO SEGUNDO, DÉCIMO TERCERO Y DÉCIMO CUARTO; SE ADICIONAN LOS PÁRRAFOS DÉCIMO, DÉCIMO PRIMERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO Y DÉCIMO NOVENO Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
