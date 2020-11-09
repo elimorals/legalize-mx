@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2020-10-02"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -349,13 +349,17 @@ XI.- En el sistema educativo, la inclusión entre sus fines de la formación en 
 
 XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente; y
+XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
 
-XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos.
+XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos; y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+
+XV.- Promover la implementación de acciones en favor de eliminar la brecha salarial entre mujeres y hombres para cumplir con la norma constitucional de igualdad salarial por trabajo igual, así como todas aquellas condiciones laborales que acentúen desigualdades.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -890,6 +894,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22; EL 23 BIS; EL PRIMER PÁRRAFO DEL 24, Y EL 25 TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIII Y XIV, Y ADICIONA LA FRACCIÓN XV AL ARTÍCULO 10 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
