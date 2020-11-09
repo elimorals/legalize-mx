@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2020-09-29"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -59,11 +59,11 @@ IV. Desarrollar las bases mínimas a que deben sujetarse las Instituciones de Se
 
 V. Contribuir a la construcción de las bases para una plena seguridad ciudadana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-La seguridad pública es una función a cargo de la Federación, las entidades federativas, Municipios y alcaldías de la Ciudad de México que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, así como la investigación y la persecución de los delitos, la reinserción social del individuo y la sanción de las infracciones administrativas, en las competencias respectivas en términos de esta Ley y demás ordenamientos jurídicos aplicables.
+La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas, los municipios y alcaldías de la Ciudad de México que tiene como fines salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, así como la investigación y la persecución de los delitos, la reinserción social del individuo y la sanción de las infracciones administrativas, en las competencias respectivas en términos de esta Ley y demás ordenamientos jurídicos aplicables.
 
 Las acciones en el ejercicio de la función de seguridad pública tendrán como eje central a la persona humana y, por ende, contribuirán al establecimiento de la seguridad ciudadana, la cual tiene por objeto proteger a las personas; asegurar el ejercicio de su ciudadanía, sus libertades y derechos fundamentales; establecer espacios de participación social corresponsable y armónica; propiciar la solución pacífica de los conflictos interpersonales y sociales; fortalecer a las instituciones, y propiciar condiciones durables que permitan a los ciudadanos desarrollar sus capacidades, en un ambiente de paz y democracia.
 
@@ -2413,6 +2413,8 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LAS BASES DE LA CARRERA POLICIAL
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 128.
 
 (DEROGADO, G.G. 20 DE SEPTIEMBRE DE 2018)
@@ -2539,7 +2541,7 @@ LA INFORMACIÓN CONTENIDA EN LOS PROTOCOLOS DE ACTUACIÓN POLICIAL SERÁ CONSIDE
 
 ###### Artículo 140.
 
-La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, así como la separación o baja del servicio de los integrantes de las Instituciones Policiales, en el que se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género.
 
 ###### Artículo 141.
 
@@ -4662,3 +4664,11 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 204.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 Y 140 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
