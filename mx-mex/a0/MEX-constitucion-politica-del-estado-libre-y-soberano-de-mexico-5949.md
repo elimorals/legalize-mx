@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-09-30"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 30 DE SEPTIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2020.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -105,25 +103,53 @@ El derecho a la ciudad se garantizará a través de instrumentos que observen la
 
 El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria, secundaria y media superior de forma obligatoria para todos los mexiquenses.
+Toda persona tiene derecho a la educación. El Estado de México y Municipios impartirán y garantizarán la educación inicial, preescolar, primaria, secundaria, media superior y superior en todo el territorio mexiquense. La educación inicial, preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias; la educación superior lo será en términos de la fracción X del artículo 3° de la Constitución Federal. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-La educación que imparta el Estado será de calidad, gratuita, laica y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia, garantizando la libertad de creencias, el criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, será una educación para la diversidad sin discriminación, también será democrática, nacional, humanista y contribuirá a la mejor convivencia humana.
+La obligatoriedad de la educación superior corresponde al Estado. Por lo que, en conjunto con las autoridades federales, el gobierno de la entidad establecerá políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionará los medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
-> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-La educación en el Estado de México se ajustará estrictamente a las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
+Corresponde al Estado la rectoría de la educación. La impartida por éste, además de obligatoria, será universal, de excelencia, inclusiva, intercultural, pública, gratuita y laica. Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de respeto a la naturaleza y los derechos humanos. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-La Universidad Autónoma del Estado de México es un organismo público descentralizado del Estado de México, contará con personalidad jurídica y patrimonio propios; se encontrará dotada de plena autonomía en su régimen interior en todo lo concerniente a sus aspectos académico, técnico, de gobierno, administrativo y económico. Tendrá por fines impartir la educación media superior y superior; llevar a cabo la investigación humanística, científica y tecnológica; difundir y extender los avances del humanismo, la ciencia, la tecnología, el arte y otras manifestaciones de la cultura, conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+El Estado fomentará una educación basada en el respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
-Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, modalidades y niveles educativos incluyendo la educación inicial, superior e indígena considerados necesarios para el desarrollo de la nación; favorecerá políticas públicas para erradicar el analfabetismo en la Entidad. El sistema educativo del Estado contará con escuelas rurales, de artes y oficios y de agricultura, educación especial, educación indígena y educación para adultos.
+La educación en el Estado de México cumplirá las disposiciones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones en la materia.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+La Universidad Autónoma del Estado de México es un organismo público descentralizado del Estado de México, contará con personalidad jurídica y patrimonio propios; se encontrará dotada de plena autonomía en su régimen interior en todo lo concerniente a sus aspectos académico, técnico, de gobierno, administrativo y económico. Tendrá por fines impartir la educación media superior y superior; llevar a cabo la investigación humanística, científica y tecnológica; difundir y extender los avances del humanismo, la ciencia, la tecnología, el arte y otras manifestaciones de la cultura, conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos. Especial atención tendrá en el cumplimiento de la función social del servicio que ofrece.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, niveles y modalidades educativas, incluyendo la educación inicial, especial, educación física, artística, educación para adultos e indígena, considerados necesarios para el desarrollo de la nación; favorecerá políticas públicas para erradicar el analfabetismo en la Entidad. El sistema educativo del Estado contará, también, con escuelas rurales, de artes y oficios, de agricultura, educación indígena y educación para adultos. Se considerarán las diferentes modalidades para la educación básica y media superior.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado fomentará la Investigación en la Educación.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Las medidas para la equidad y la excelencia en la educación estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado deberá fomentar el uso y manejo de las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -299,9 +325,7 @@ El Estado de México podrá celebrar convenios con otras entidades federativas y
 
 El sistema integral de justicia para adolescentes del Estado de México, será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
 
-> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
-
-Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación inicial, preescolar, primaria, secundaria, media superior y superior de forma obligatoria para todos los mexiquenses.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2173,11 +2197,11 @@ El Ministerio Público y las policías se coordinarán en términos de la Ley Ge
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86 Bis.
 
-La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los municipios, en sus respectivos ámbitos de competencia que comprende la prevención e investigación de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, que comprende la prevención, investigación y persecución de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
 
 > <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -5048,3 +5072,19 @@ G.G. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 86 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203.- POR EL QUE SE REFORMAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO SEGUNDO, DÉCIMO TERCERO Y DÉCIMO CUARTO; SE ADICIONAN LOS PÁRRAFOS DÉCIMO, DÉCIMO PRIMERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO Y DÉCIMO NOVENO Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
