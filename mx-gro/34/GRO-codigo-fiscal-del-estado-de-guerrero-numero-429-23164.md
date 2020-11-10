@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2019-12-20"
+last_updated: "2020-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,51 +21,115 @@ state: "GRO"
 ---
 # CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de marzo de 2013.
 
-Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
+MIGUEL MÁRQUEZ MÁRQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
 
-RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
-Que el H. Congreso Local, se ha servido comunicarme que,
+DECRETO NÚMERO 59
 
-LA QUINCUAGESIMA SEXTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y
+LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-C O N S I D E R A N D O
+Artículo Único. Se expide la Ley para la Igualdad entre Mujeres y Hombres del Estado de Guanajuato, para quedar como sigue:
 
-PRIMERO.- Que el Plan Estatal de Desarrollo 1999-2005, señala dentro de los objetivos de la política económica del Gobierno del Estado, la modernización de la administración de las finanzas públicas, misma que requiere fundamentalmente la revisión y actualización del Marco Legal Hacendario que propicie, dentro de los principios de justicia, equidad y proporcionalidad, mejores niveles de recaudación.
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-SEGUNDO.- Que el Código Fiscal del Estado es el ordenamiento legal que regula la aplicación de las Leyes Fiscales, en la medida en que éstas no se encuentran determinadas en las propias leyes que establecen los gravámenes; de esta forma, deberá estar acorde no sólo a la dinámica económica y social de la entidad, sino también a la Ley de Ingresos, a la Ley de Hacienda del Estado y, en general, a la normatividad legal en la materia.
+## Título Primero. Aspectos generales
 
-TERCERO.- Que la adecuación del Marco Legal Hacendario en busca de la simplificación legal y administrativa que facilite al contribuyente el cumplimiento de sus obligaciones y al mismo tiempo le brinde certeza y seguridad jurídica, requiere revisar continuamente las leyes fiscales, manteniendo las disposiciones aplicables, reformando o derogando las que sean obsoletas y adicionando las que las circunstancias actuales exigen.
+### Capítulo I. Ámbito de aplicación y objeto
 
-CUARTO.- Que la estructura del Código Fiscal del Estado en vigor, cuenta con diversos artículos y fracciones bises y artículos derogados que es necesario numerar correctamente o eliminar; artículos con varios párrafos que contienen fracciones cada uno de ellos, haciendo confusa la referencia al existir dos fracciones con el mismo número en el mismo artículo, lo cual se requiere corregir, ya sea con párrafos, fracciones, incisos o numerales, según sea el caso; de igual forma existen artículos de referencia del mismo Código o de otras leyes que es necesario hacer compatibles con las nuevas reformas; así como la corrección de la denominación de dependencias y ordenamientos legales, entre otros. Lo anterior hace necesaria la revisión general de este ordenamiento e indispensable la expedición de un nuevo Código Fiscal, acorde a los tiempos que vivimos.
+Carácter y ámbito de aplicación
 
-QUINTO.- Que en el mismo contexto es necesario reformar o adicionar diversas disposiciones, destacando por su importancia las siguientes:
+###### Artículo 1.
 
-- Se cambian términos para aclarar la redacción, o se especifican conceptos; entre ellos, que los peritos valuadores se encuentren inscritos en el Registro Estatal de Peritos Valuadores y que los parámetros valuatorios corresponden a los valores unitarios de suelo y construcción.
+La presente Ley es de orden público y de observancia general en todo el territorio del estado de Guanajuato.
 
-- Se especifica que los actos de autoridad fundados o motivados, no lesionan las garantías de los contribuyentes.
+Objeto
 
-- Se señala que no se sancionará al contribuyente cuando cumpla espontáneamente fuera de los plazos legales con sus obligaciones fiscales.
+###### Artículo 2.
 
-- En el mismo sentido se precisa que el cumplimiento espontáneo no sólo se refiere al pago de contribuciones, sino también a la presentación de la solicitud de inscripción y avisos al Registro de Contribuyentes.
+Esta Ley tiene por objeto:
 
-- Se especifica que el Perito Valuador deberá contar con cédula de la especialidad de que se trate, con el fin de ser justos y obtener valuaciones reales que no afecten al contribuyente, y se señala en los artículos transitorios que esta disposición entrará en vigor en el año 2003, con el objeto de dar oportunidad de realizar o concluir sus estudios de especialización a los peritos que realizan estos trabajos.
+I. Establecer la responsabilidad del Estado y los municipios para generar el marco normativo, institucional y de políticas públicas para impulsar, regular, proteger, fomentar y hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres, impulsando el empoderamiento de las mujeres en las esferas familiar, política, civil, laboral, económica, social y cultural, de manera enunciativa y no limitativa, a fin de fortalecer y llevar a la población guanajuatense hacia una sociedad más solidaria y justa;
 
-Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 47 fracción I de la Constitución Política Local; 8o. fracción I y 127 párrafo tercero de la Ley Orgánica del Poder Legislativo en vigor, este H. Congreso del Estado, tiene a bien expedir el siguiente:
+II. Fijar los mecanismos de coordinación entre el Estado, los municipios y la sociedad civil para la integración y funcionamiento del Sistema para la Igualdad; y
 
-CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
+III. Impulsar la transversalidad de la igualdad entre mujeres y hombres de modo que se facilite el acceso a todos los recursos, en igualdad de condiciones y se planifiquen las políticas públicas teniendo en cuenta las desigualdades existentes para mujeres y hombres.
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+Sujetos
 
-### CAPITULO UNICO
+###### Artículo 3.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+Son sujetos de aplicación de esta Ley las mujeres y hombres que se encuentren domiciliados o en tránsito en el estado de Guanajuato.
+
+Principios rectores
+
+###### Artículo 4.
+
+Los principios bajo los cuales se regirá esta Ley, son los de:
+
+I. Igualdad entre mujeres y hombres en el ejercicio y respeto de sus derechos y correlativas obligaciones, en atención a las condiciones específicas de cada cuales;
+
+II. No discriminación hacia la mujer;
+
+III. Equidad de género;
+
+IV. Reducción de la pobreza con perspectiva de género;
+
+V. Reconocimiento y respeto de los derechos humanos de la mujer; y
+
+VI. Dignidad y el valor de las mujeres.
+
+Glosario
+
+###### Artículo 5.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Acciones afirmativas: conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades. Estas medidas no se considerarán discriminatorias;
+
+II. Discriminación: cualquier tipo de distinción, exclusión o restricción, basada en el sexo, que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer o el hombre, independientemente de su estado civil, sobre la base de la igualdad de la mujer y el hombre, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+III. Empoderamiento: la generación o promoción de condiciones sociales, económicas, políticas y jurídicas que propician el desarrollo pleno de las mujeres, otorgándoles derechos, capacidades y acceso a facilidades, recursos e igualdad de participación, denegados o coartados, o reforzando los derechos, capacidades y acceso que ya tenían;
+
+IV. Equidad de Género: principio a través del cual la mujer y el hombre acceden, en igualdad de condiciones, a los bienes, servicios, recursos y oportunidades de la sociedad, con el objetivo de lograr la participación plena y equitativa de la mujer en todos los ámbitos de la vida política, económica, social, cultural y familiar;
+
+V. Género: asignación en todos los ámbitos de la vida política, laboral, económica, social, cultural y familiar que se hace a mujeres y hombres de determinados valores, atributos, roles, estereotipos y características;
+
+VI. Igualdad: estado ideal de la sociedad que implica la eliminación de toda forma de discriminación en contra de la mujer en cualquiera de los ámbitos de la vida, así como potenciar el crecimiento femenino;
+
+VII. Igualdad sustantiva: la igualdad entre mujeres y hombres que se concreta a través de acciones, medidas y políticas efectivas diseñadas para eliminar la desventaja e injusticia que impiden el ejercicio de los derechos, con la finalidad de proteger el principio de autonomía personal, basada en el análisis de las diferencias entre las mujeres y los hombres, en cuanto a su reconocimiento como pares desde el paradigma de la equivalencia humana;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VIII. IMUG: El Instituto para las Mujeres Guanajuatenses;
+
+IX. Instancia Municipal de la Mujer: unidad administrativa que tiene la responsabilidad de articular las acciones del gobierno municipal en favor de las mujeres, así como promover y proponer políticas públicas desde la perspectiva de género para mejorar la condición y situación de las mujeres;
+
+X. Perspectiva de género: metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+
+XI. Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato;
+
+XII. Sistema para la Igualdad: el Sistema Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato; y
+
+XIII. Transversalidad: es el proceso que permite la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+Coordinación interinstitucional
+
+###### Artículo 6.
+
+El Ejecutivo del Estado es el encargado de coordinar el cumplimiento de la Ley por parte de las dependencias y entidades de la administración pública estatal; en los Poderes Legislativo y Judicial, la Junta de Gobierno y Coordinación Política y el Consejo del Poder Judicial, respectivamente; los organismos autónomos a través de su órgano de gobierno; los presidentes municipales coordinarán el cumplimiento en el ámbito de sus respectivos municipios.
+
+Interpretación
+
+###### Artículo 7.
+
+Respecto de cualquier interpretación o aspecto no contenido en la Ley se atenderá a lo más benéfico para las mujeres en situación de desigualdad con base en los derechos humanos de la mujer, igualdad y no discriminación, siempre y cuando no contravenga lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, o en la Constitución Política para el Estado de Guanajuato, o se afecte o altere el bien común.
 
 ###### ARTICULO 1o.
 
@@ -199,581 +263,653 @@ Se considera que la enajenación se efectúa en el Estado, entre otros casos, si
 
 Cuando de conformidad con este articulo se entienda que hay enajenación, el adquirente se considerara propietario de los bienes para efectos fiscales.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-El Estado tendrá derecho a percibir las participaciones que se le otorguen en impuestos o en otros ingresos federales, en los términos que señalan las leyes federales, estatales y los acuerdos o convenios de coordinación hacendaria que los regulen.
+La Secretaría de la Transparencia y Rendición de Cuentas será la encargada de revisar anualmente los resultados de los presupuestos en relación con los programas de las dependencias y entidades de la administración pública estatal en materia de perspectiva de género en su ámbito de competencia. Para dicha revisión se utilizarán los siguientes lineamientos enunciativos y no limitativos:
 
-Son ingresos derivados de la coordinación hacendaria los que perciba el Estado como consecuencia de la adhesión al Sistema Nacional de Coordinación Fiscal, de conformidad con las disposiciones de este Código, de los convenios, acuerdos o declaratorias que al efecto se celebren o realicen y se regularán además, por lo que en su caso disponga la Ley de Coordinación Fiscal.
+I. Identificar de forma clara los beneficios específicos para mujeres y hombres;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+II. Incorporar la perspectiva de género en sus programas y reflejarla en sus indicadores;
 
-ARTICULO 10 BIS. Cuando en las leyes fiscales se haga referencia a la Unidad de Medida y Actualización, será la que determine el Instituto Nacional de Estadística y Geografía en los términos que establece la constitución del país y las demás disposiciones jurídicas aplicables.
+III. Registrar la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IV. Contar con herramientas para su seguimiento y evaluación en atención a la perspectiva de género.
 
-###### ARTICULO 11.
+Las mismas facultades las tendrán los órganos de control interno en los poderes Legislativo y Judicial, en los organismos autónomos, y las contralorías municipales en el caso de los ayuntamientos.
 
-Son autoridades fiscales del Estado de Guerrero, las cuales tendrán competencia dentro del territorio del Estado conforme al artículo 27 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+Igualdad sustantiva y perspectiva de género en el ámbito laboral
 
-I.- El Gobernador del Estado;
+###### Artículo 11.
 
-II.- El Secretario de Finanzas y Administración;
+Los Poderes Públicos, organismos autónomos y ayuntamientos vigilarán que existan condiciones de igualdad sustantiva y con base en la perspectiva de género en el ingreso, permanencia, ascenso y capacitación de su personal.
 
-III.- El Sub Secretario de Ingresos;
+###### Artículo 12.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Todas las políticas, planes, estrategias, acciones, tanto sectoriales como geográficas, y herramientas operativas para el desarrollo del estado, incluirán los principios que señala esta Ley como elementos sustanciales en su agenda de prioridades, y recibirán un tratamiento de prioridad transversal y específica en sus contenidos, contemplando medidas concretas para el seguimiento y la evaluación de logros para la igualdad sustantiva y no discriminación.
 
-IV.- El Procurador Fiscal;
+Consideración de recursos presupuestarios en convenios
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+###### Artículo 13.
 
-V.- El Coordinador General de Catastro;
+En la celebración de convenios o acuerdos de coordinación, vinculados con el objeto de la Ley, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de ésta.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+Obligaciones de igualdad de oportunidades
 
-VI.- Los Directores Generales de Cobro Coactivo y Vigilancia, de Recaudación y de Fiscalización de la Subsecretaría de Ingresos;
+###### Artículo 14.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+Son obligaciones generales de participación en la igualdad de oportunidades entre mujeres y hombres de los poderes públicos, ayuntamientos y organismos autónomos:
 
-VII.- Los Directores de Área y Jefes de Departamento de las Direcciones Generales de Cobro Coactivo y Vigilancia, de Recaudación, de la Procuraduría Fiscal, de Fiscalización y de la Coordinación General de Catastro de la Subsecretaría de Ingresos;
+I. Hacer efectivo el derecho constitucional de igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+II. Adoptar acciones afirmativas;
 
-VIII.- Los Administradores y Agentes Fiscales Estatales;
+III. Garantizar el acceso y la impartición de justicia con igualdad de trato y oportunidades entre mujeres y hombres, en sus respectivas competencias, impulsando la modificación de concepciones, actitudes y valores discriminatorios;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Establecer y dar seguimiento a medidas que aseguren la conciliación del trabajo y de la vida familiar de las mujeres y hombres, así como el fomento de la corresponsabilidad en las labores domésticas y en la atención a la familia;
 
-IX.- Los Coordinadores y Auditores Fiscales Estatales;
+V. Impulsar el principio de igualdad entre mujeres y hombres, tanto en el ámbito público como en el privado;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+VI. Instaurar la transversalidad en la ejecución de las políticas públicas en materia de igualdad;
 
-X.- Los Titulares de las Oficinas Regionales de Cobro Coactivo y Vigilancia.
+VII. Adoptar las medidas necesarias para buscar la erradicación de la violencia de género, la violencia familiar y el acoso y hostigamiento sexual;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-ARTICULO 11 BIS.- Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 25, 26 y 27 de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08, y en el Reglamento Interior de la Secretaria de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
+VIII. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+IX. Atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de funcionarios y servidores públicos que les correspondan, no obstaculizando el acceso de las mujeres a puestos de decisión, así como en la integración del gabinete, de los consejos, comités, patronatos y sistemas estatales;
 
-Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales Estatales el presente Código, se considerará competencia territorial en donde se ejercerán las facultades de las Coordinaciones Fiscales Estatales de la Dirección General de Fiscalización dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, será la que corresponda conforme a este al Código.
+X. Impulsar el empoderamiento de las mujeres con acciones, planes, programas o estrategias claras y definidas, de las cuales se tendrán que rendir informes al Sistema para la Igualdad por conducto de la Secretaría Ejecutiva, para efectos del mecanismo de vigilancia de la Ley;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+XI. Fomentar la vinculación interinstitucional a fin de fortalecer las acciones en materia de igualdad; y
 
-Se considera también, para fines fiscales, como parte del territorio del Estado, la Zona Federal Marítimo Terrestre y Territorios Ganados al Mar, ubicados en la franja costera en la que colinde el Estado con el Océano Pacífico.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-###### ARTICULO 12.
+XII. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas; y
 
-Sólo podrá afectarse un ingreso estatal a un fin especial, que a su vez constituya una afectación al gasto público, cuando así lo dispongan expresamente las leyes fiscales.
+XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
-###### ARTICULO 13.
+###### Artículo 15.
 
-Las leyes y demás disposiciones de carácter general que se refieran a la Hacienda Pública del Estado y que no prevengan expresamente otra cosa, obligan y surten efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; o el de la fecha que señalen las mismas leyes, reglamentos y demás disposiciones legales.
+Corresponde al Poder Ejecutivo:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Garantizar la igualdad de oportunidades, mediante la adopción de políticas públicas, programas, proyectos e instrumentos compensatorios como acciones afirmativas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+II. Aplicar los instrumentos de la Política Nacional en Materia de Igualdad;
 
-###### ARTICULO 14.
+III. Conducir y elaborar la política local en materia de igualdad entre mujeres y hombres, a fin de cumplir con lo establecido en la Ley;
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el primero de diciembre de cada 6 años cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre; y el que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efecto de la jornada electoral.
+IV. Diseñar y aplicar los instrumentos de la política local en materia de igualdad garantizada en la Ley;
 
-Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
+V. Coordinar las acciones para la transversalidad de la igualdad de oportunidades entre mujeres y hombres;
 
-En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción, se computarán todos los días.
+VI. Aprobar y vigilar la aplicación del Programa para la Igualdad;
 
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquel en que se inició; y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+VII. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, política, social, cultural y civil;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+VIII. Promover la participación económica, social y cultural de las mujeres rurales e indígenas, así como su integración en los espacios de decisión de las organizaciones municipales, comunitarias, asociativas, de producción y de cualquier otra índole, a fin de que accedan a una remuneración justa, indemnizaciones, beneficios laborales y de seguridad social, en igualdad de condiciones con los hombres;
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autoricen a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las instituciones de crédito autorizadas.
+IX. Garantizar el derecho a la salud en cuanto a accesibilidad a los servicios, con especial énfasis a la prevención del embarazo adolescente y al derecho a la maternidad segura;
 
-###### ARTICULO 15.
+X. Generar las condiciones para garantizar el acceso a la educación pública y la permanencia en todas las etapas del sistema educativo, en condiciones de igualdad entre mujeres y hombres, especialmente en las zonas rurales;
 
-La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en horas inhábiles sin afectar su validez.
+XI. Celebrar acuerdos estatales y nacionales de coordinación, cooperación y concertación en materia de igualdad;
 
-Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días y horas inhábiles, una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
+XII. Incorporar en el Presupuesto de Egresos del Estado de Guanajuato la asignación de recursos para el cumplimiento de la política local en materia de igualdad; y
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+XIII. Los demás que la Ley y otros ordenamientos aplicables le confieren.
 
-ARTICULO 15 BIS.- Para los efectos de los artículos 137, 147, 148, 149 y 152 del presente Código, cuando se notifiquen resoluciones administrativas que consten en documentos impresos o digitales firmados con la Firma Electrónica Avanzada (FIEL), de los funcionarios competentes o tratándose del acuse de recibo con sello digital que se emite en la notificación electrónica, los contribuyentes podrán comprobar la integridad y autoría de acuerdo a lo siguiente:
+###### Artículo 16.
 
-I. Para realizar la verificación de la integridad y autoría de documentos impresos firmados con la FIEL del funcionario competente, se estará a lo previsto en el Código Fiscal de la Federación; y
+Corresponde al Poder Legislativo:
 
-II. Para realizar la verificación de la integridad y autoría de documentos digitales firmados con la FIEL del funcionario competente, o bien, del acuse de recibo que se emite en la notificación electrónica, se estará a lo dispuesto en el Código Fiscal de la Federación.
+I. Aprobar y difundir normas que garanticen los derechos de igualdad entre mujeres y hombres, acordes a la inclusión social y la igualdad de oportunidades;
 
-Se considera Firma Electrónica Avanzada (FIEL): el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
+II. Aprobar reformas que instauren la participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones;
 
-###### ARTICULO 16.
+III. Aprobar la aplicación de las normas y políticas que garanticen la igualdad de oportunidades entre mujeres y hombres, en el ámbito de su competencia;
 
-No surtirán efectos legales las circulares, acuerdos, convenios, contratos y demás actos jurídicos de carácter administrativo, que contravengan los preceptos de las leyes fiscales, ni podrán establecerse gravámenes y procedimientos que constituyan sistemas alcabalatorios.
+IV. Asegurar la asignación de presupuestos necesarios para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento;
 
-###### ARTICULO 17.
+V. Favorecer el trabajo legislativo con la perspectiva de género;
 
-Para la validez de los convenios, concesiones, estímulos fiscales, acuerdos y cualesquiera otros actos en los que se afecte un ingreso del Estado, deberán someterse a consideración de la Secretaría de Finanzas y Administración.
+VI. Difundir los tratados internacionales vinculantes al Estado Mexicano relacionados con esta materia; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-###### ARTICULO 18.
+###### Artículo 17.
 
-La facultad reglamentaria en materia fiscal corresponde al Gobernador del Estado. Compete al propio funcionario la interpretación de las Leyes en los casos dudosos que se sometan a su consideración, siempre que se planteen situaciones reales y concretas.
+Corresponde al Poder Judicial:
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración podrá mediante reglas de carácter general establecer disposiciones relativas a la administración, control, formas de pago y procedimientos, sin variar las relativas al objeto, sujeto, base, tasa o tarifa del gravamen, infracciones y sanciones.
+I. Garantizar el acceso e impartición de justicia en igualdad de oportunidades entre mujeres y hombres, impulsando la modificación de concepciones, actitudes y valores discriminatorios de impartidores de justicia;
 
-###### ARTICULO 19.
+II. Desarrollar programas de formación, capacitación y sensibilización del personal de impartición de justicia y quienes se desempeñen como funcionarios encargados de la aplicación de la ley, incorporando en dichos programas, contenidos sobre igualdad y derechos humanos de las mujeres y hombres y sus deberes;
 
-La administración, recaudación, fiscalización, control de los ingresos y en su caso la determinación de los impuestos, derechos, productos y aprovechamientos, será competencia de la Secretaría de Finanzas y Administración y sus dependencias, por conducto de las autoridades fiscales que establece el artículo 11 del presente Código.
+III. Implementar políticas que permitan el desarrollo de procedimientos justos, efectivos y oportunos en concordancia con los instrumentos internacionales firmados y ratificados por el Estado Mexicano, eliminando los obstáculos que existan para el acceso a la justicia, en particular de las mujeres rurales o de escasos recursos;
 
-El Estado, por conducto de la Secretaría de Finanzas y Administración, podrá celebrar convenios de colaboración administrativa en materia hacendaria con los ayuntamientos, sobre las siguientes funciones:
+IV. Vigilar que la impartición de justicia esté libre de prejuicios, parcialidad, pensamientos, actitudes y aspectos discriminatorios;
 
-I.- Registro de contribuyentes;
+V. Institucionalizar programas al personal de impartición de justicia incorporando contenidos sobre igualdad, derechos humanos de las mujeres, aplicación, conocimiento y cumplimiento de los tratados internacionales vinculantes para el Estado Mexicano;
 
-II.- Asistencia al contribuyente;
+VI. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres que no puedan acceder a estos servicios, previo estudio socioeconómico realizado por la propia institución; y
 
-III.- Apoyo en la recaudación de contribuciones estatales para determinar el cumplimiento de obligaciones fiscales de los contribuyentes;
+VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-IV.- Asesoría y apoyo técnico en informática; y
+###### Artículo 18.
 
-V.- Las demás no comprendidas en las fracciones anteriores relacionadas con la materia hacendaria.
+Corresponde a los ayuntamientos:
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con la política estatal;
 
-ARTICULO 19 BIS.- El Estado, por conducto de la Secretaría de Finanzas y Administración podrá celebrar convenios de colaboración con los H. Ayuntamientos Municipales de la Entidad, para que asuma la facultad de la administración y cobro del impuesto predial.
+II. Coadyuvar con los gobiernos federal y estatal en la consolidación de los planes, programas, proyectos y acciones en materia de igualdad de oportunidades entre mujeres y hombres;
 
-###### ARTICULO 20.
+III. Incluir en sus presupuestos de egresos sus necesidades presupuestarias para la ejecución de planes, programas, proyectos o acciones de igualdad;
 
-Para los efectos de asegurar el interés del fisco del Estado, a que se refieren las leyes de la materia de este Código, a favor de la Secretaría de Finanzas y Administración, serán admisibles las siguientes garantías:
+IV. Promover el pleno ejercicio de los derechos como finalidad del desarrollo humano igualitario;
 
-I.- Depósito de dinero ante la Secretaría de Finanzas y Administración; este podrá otorgarse mediante billetes o certificado expedido por Nacional Financiera, Sociedad Nacional de Crédito o en efectivo, mediante el recibo oficial expedido por la autoridad fiscal, cuyo original se entregará al interesado;
+V. Promover el desarrollo de la familia, con una participación distributiva de los hombres en las responsabilidades familiares y de planificación familiar;
 
-II.- Prenda o hipoteca; en este caso, se constituirá sobre los siguientes bienes:
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-a).- Bienes muebles por el 75% de su valor de avalúo;
+VI. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley les confiere.
 
-No serán admisibles como garantía, los muebles que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, se admitirán cuando se compruebe su legal estancia en el país.
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
-b).- Bienes inmuebles por el 75% del valor de avalúo catastral;
+VII. Fomentar la participación social y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
 
-En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado y contener los datos relacionados con el crédito fiscal.
+VIII. Crear y fortalecer instancias municipales de la mujer con el objeto de que sean las rectoras de la política pública a favor de las mujeres en los municipios, por lo que deberán contar con el presupuesto, facultades y recursos necesarios para dicho fin;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX. Propiciar y facilitar la participación de las mujeres hacia el interior del ayuntamiento, así como en los puestos de toma de decisiones; y
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+X. Las demás que esta Ley y otros ordenamientos aplicables les confieren.
 
-III.- Póliza de fianza ante institución autorizada por la Secretaría de Hacienda y Crédito Público, misma que no gozará de los beneficios de orden y excusión; ésta deberá quedar invariablemente en poder y guarda de la autoridad fiscal, para los efectos legales a que haya lugar;
+###### Artículo 19.
 
-IV.- Embargo en la vía administrativa;
+Corresponde a los organismos autónomos:
 
-V.- Obligación solidaria asumida por terceros, que comprueben su idoneidad y solvencia;
+I. Coadyuvar, en el ámbito de sus respectivas competencias, a implementar acciones afirmativas encaminadas a procurar el pleno ejercicio de los derechos humanos, con el fin de erradicar cualquier forma de discriminación hacia la mujer;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+II. Aplicar la política estatal en materia de igualdad a fin de disminuir la brecha de desigualdad entre mujeres y hombres;
 
-VI.- Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Fianzas (sic) y Administración.
+III. Efectuar acciones para la transversalidad de la igualdad de oportunidades entre mujeres y hombres, tanto al interior del organismo como al exterior con sus acciones;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+IV. Designar recursos específicos para el cumplimiento de la política estatal en materia de igualdad entre mujeres y hombres;
 
-La garantía deberá constituirse dentro de los treinta días siguientes al en que surta efectos la notificación efectuada por la Autoridad Fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
+V. Impulsar acciones concretas para la participación igualitaria de mujeres y hombres; y
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 675, PÁGINA 19.]</small>
+VI. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+###### Artículo 20.
 
-VII.- No se otorgará garantía respecto de los gastos de ejecución, los cuales deberán de enterarse dentro del Procedimiento Administrativo de Ejecución.
+Con el objeto de hacer efectivas las disposiciones contenidas en la Ley y que se garantice la integración de modo efectivo de oportunidades entre mujeres y hombres en su actividad ordinaria, los Poderes Públicos, organismos autónomos y ayuntamientos, en la elaboración de sus estudios y estadísticas, deberán:
 
-###### ARTICULO 21.
+I. Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y levantamiento de datos que lleven a cabo;
 
-Procede garantizar el interés fiscal cuando:
+II. Establecer e incluir en las operaciones estadísticas nuevos indicadores que posibiliten un mejor conocimiento de las diferencias en los valores, roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, su manifestación e interacción en la realidad que se vaya a analizar;
 
-I.- Se solicite la suspensión del procedimiento administrativo de ejecución;
+III. Diseñar y contemplar los indicadores y mecanismos que permitan el conocimiento de la incidencia de otras variables cuya concurrencia resulte generadora de situaciones de discriminación en los diferentes ámbitos de intervención;
 
-II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades;
+IV. Realizar muestras amplias y representativas para que las diversas variables incluidas puedan ser explotadas y analizadas en función de la variable de sexo;
 
-III.- Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+V. Explotar los datos de que disponen de modo que se puedan conocer las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres en los diferentes ámbitos de intervención;
 
-a).- Manifestará su aceptación mediante escrito, firmado ante la autoridad fiscal que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos; y
+VI. Revisar y en su caso, adecuar las definiciones estadísticas existentes con objeto de contribuir al reconocimiento y valoración del trabajo de las mujeres y evitar la estereotipación negativa de las mujeres;
 
-b).- Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía no podrá exceder del 10% del capital social mínimo fijo; y
+VII. Tener la responsabilidad y deber de mantener en resguardo y secreto los datos, no hacer uso indebido de los mismos, así como la forma en que se podrá acceder a esta información; y
 
-IV.- En los demás casos que señale este ordenamiento y demás disposiciones legales aplicables.
+VIII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-Las autoridades fiscales fijarán el monto del adeudo que deba ser garantizado y previa calificación de las garantías que se otorguen, las que deberán cubrir el adeudo insoluto incluyendo los recargos, gastos de ejecución y en su caso, los vencimientos futuros que se causen en un año, la que deberá ejecutarse llegado el término y no existiera la obligación garantizada.
+### Capítulo VIII. Educación
 
-La garantía de un crédito fiscal deberá comprender al propio crédito fiscal, la de los posibles recargos y gastos de ejecución.
+Igualdad en la educación
 
-Cuando la garantía consiste en pago bajo protesta o depósito de dinero en la Secretaría de Finanzas y Administración, no se causarán recargos, a partir de la fecha en que se haga el depósito.
+###### Artículo 21.
 
-Para formalizar el otorgamiento de la garantía, el titular de la oficina recaudadora que corresponda deberá levantar acta de la que entregará copia al interesado y solicitará su inscripción, cuando proceda en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado.
+El Estado, conforme a la Ley de Educación para el Estado de Guanajuato, garantizará un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, de la igualdad de oportunidades entre mujeres y hombres, evitando que, por comportamientos sexistas o por los estereotipos sociales asociados, se produzcan desigualdades entre mujeres y hombres.
 
-La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora que corresponda, para que en un plazo de diez días hábiles la califique, si procede o no y le dé el trámite correspondiente; el ofrecimiento deberá acompañarse de los documentos relativos al crédito fiscal por garantizar y se expresará la causa por la que se ofrece la garantía.
+Obligaciones en educación
 
-La autoridad fiscal para aceptar la garantía, deberá verificar que se cumplan los requisitos que se establecen en este Código; de no ser así, requerirá al interesado a fin de que en un plazo de diez días hábiles, contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con los requisitos omitidos; o en su caso, presentar por una sola ocasión una nueva garantía.
+###### Artículo 22.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+El Estado en materia de educación asumirá las siguientes obligaciones:
 
-La Secretaría de Finanzas y Administración vigilará y aceptará las garantías en su caso, previa calificación correspondiente, cuidando periódicamente su eficacia y en caso contrario, tomará las medidas necesarias para asegurar el interés del fisco.
+I. La eliminación y el rechazo de los comportamientos y contenidos sexistas y estereotipos que supongan discriminación entre mujeres y hombres;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Ofertar las mismas condiciones de orientación en materia de carreras y capacitación profesional, asegurándose esta igualdad en la enseñanza en todos los tipos y niveles de educación;
 
-V.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2008)
+III. Otorgar las mismas oportunidades para la obtención de becas y otros beneficios para cursar estudios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. La integración del estudio y aplicación del principio de igualdad en los cursos y programas para la formación inicial y permanente del personal docente;
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+V. La promoción de la presencia equilibrada de mujeres y hombres en los órganos de control y de gobierno de los centros docentes, atendiendo a la normativa aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. La cooperación interinstitucional de los centros educativos para el desarrollo de proyectos y programas dirigidos a fomentar el conocimiento y la difusión, entre las personas de la comunidad educativa, de la igualdad entre mujeres y hombres;
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+VII. Garantizar el acceso igualitario de niñas y niños a la educación, desarrollando políticas y programas especiales para las zonas rurales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Reducir la tasa de abandono femenino de los estudios y la organización de programas para aquellas jóvenes y mujeres que hayan dejado los estudios prematuramente;
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+IX. Promover y fomentar la educación sexual y reproductiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X. Apoyar a las adolescentes embarazadas que estén en riesgo de abandonar sus estudios;
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+XI. Establecer medidas educativas destinadas al reconocimiento y enseñanza del papel de las mujeres en la historia; y
 
-ARTICULO 21 BIS. - La cancelación de la garantía procederá en los siguientes casos:
+XII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-a) Por el pago del crédito fiscal;
+Investigación en materia de igualdad
 
-b) Cuando en definitiva quede sin efecto la resolución que dio origen al otorgamiento de la garantía; y
+###### Artículo 23.
 
-c) En cualquier otro caso que deba cancelarse de conformidad con las disposiciones de este Código.
+El gobierno del estado fomentará la enseñanza y la investigación sobre el significado y alcance de la igualdad de oportunidades entre mujeres y hombres, mediante la realización de estudios e investigaciones especializadas en materia de igualdad.
 
-El contribuyente o un tercero que tenga un interés jurídico deberán presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, acompañando los documentos necesarios para tal efecto.
+### Capítulo IX. Cultura
 
-La cancelación de las garantías en las que con motivo de su otorgamiento se hubiera efectuado la inscripción en el Registro Público de la Propiedad, del Comercio y del Crédito Agrícola del Estado, se hará mediante oficio que emita la autoridad fiscal.
+Igualdad en la cultura
 
-###### ARTICULO 22.
+###### Artículo 24.
 
-Para la aplicación del artículo 20 de este Código, se tendrá como valor del inmueble, muebles, derechos y acciones, el que resulte del avalúo que al efecto practique el perito designado por las autoridades fiscales de la Secretaría de Finanzas y Administración, del perito que designe el contribuyente y el nombramiento de un tercero en discordia induciéndose los gravámenes contenidos en el certificado que sea expedido por el Registro Público de la Propiedad, del Comercio y Crédito Agrícola.
+Los organismos del estado encargados del ámbito cultural velarán por hacer efectivo el principio de igualdad de oportunidades entre mujeres y hombres en todo lo concerniente a la creación y producción artística e intelectual y a la difusión de la misma, para ello desarrollarán las siguientes actuaciones:
 
-Si el obligado o los obligados no otorgan la garantía señalada o manifiestan la imposibilidad de hacerlo, el interés fiscal se asegurará mediante embargo de bienes de su propiedad que concluirá con el remate de los mismos.
+I. Políticas de ayuda a la creación y producción artística e intelectual de autoría femenina, traducidas en incentivos de naturaleza económica, sujetos a la disponibilidad presupuestaria, con el objeto de crear las condiciones para que se produzca una efectiva igualdad de oportunidades;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+II. Promover la presencia equilibrada de mujeres y hombres en la oferta artística y cultural pública;
 
-###### ARTICULO 23.
+III. Que se respete y se garantice la representación equilibrada en los distintos órganos consultivos y de decisión existentes en lo artístico y cultural;
 
-En ningún caso la ignorancia de las leyes exime su cumplimiento; sin embargo, a juicio de las autoridades fiscales en aquellos casos en que se trate de personas iletradas o que se encuentren en una precaria situación económica, pondrán a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
+IV. Adoptar acciones afirmativas para la creación y producción artística e intelectual de las mujeres, propiciando el intercambio cultural, intelectual y artístico, tanto nacional como internacional, y la suscripción de convenios con los organismos competentes;
 
-###### ARTICULO 24.
+V. Fomentar el apoyo a los proyectos de mujeres;
 
-Las controversias que surjan entre el fisco estatal y el municipal, sobre la preferencia en el cobro de los créditos a que este Código se refiere, serán determinadas por el Tribunal de lo Contencioso Administrativo a instancia de cualesquiera de los entes públicos mencionados, tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
+VI. Apoyar los eventos de exposición de trabajos culturales de mujeres guanajuatenses;
 
-I.- La preferencia en el pago corresponderá al primer embargante, si ninguno de los créditos tiene garantía real;
+VII. Elaborar un padrón de los trabajos y obras culturales de mujeres a efecto de generar incentivos o medios de difusión para sus obras;
 
-II.- La preferencia corresponderá al órgano público que ejerza jurisdicción territorial sobre el bien en que se haya la garantía real, en caso que el otro acreedor no ostente derechos de esa naturaleza; y
+VIII. Acciones afirmativas necesarias para corregir las situaciones de desigualdad en la producción y creación intelectual artística y cultural de las mujeres; y
 
-III.- Si ante ambos acreedores se han constituido garantías reales, la preferencia corresponderá al primer embargante.
+IX. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-###### ARTICULO 25.
+### Capítulo X. Salud
 
-Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
+Igualdad en la salud
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 25.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+Las políticas, estrategias y programas de salud integrarán, en su formulación, desarrollo y evaluación, las distintas necesidades de mujeres y hombres y las medidas necesarias para abordarlas adecuadamente, evitando que por sus diferencias biológicas o por los estereotipos sociales asociados, se produzcan discriminaciones entre unas y otros.
 
-I.- Los créditos del Gobierno del Estado provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaría, de alimentación, de salarios o sueldos devengados durante el último año, o de indemnizaciones laborales, de conformidad con lo que dispone la Ley Federal del Trabajo;
+Acciones en salud
 
-II.- Para que sea aplicable la excepción señalada en la fracción anterior, será requisito indispensable que antes que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la autoridad competente, y ésta hubiere dictado el auto que lo admite y los créditos hipotecarios con garantía prendaría se encuentren debidamente inscritos en el Registro Público de la Propiedad que corresponda; y
+###### Artículo 26.
 
-III.- La vigencia y exigibilidad en cantidad líquida del derecho de crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo correspondiente.
+El Ejecutivo del Estado, a través de sus servicios de salud y de los órganos competentes en cada caso, desarrollará las siguientes acciones:
 
-En ningún caso el fisco estatal entrará en los juicios universales. Cuando se inicie el juicio de quiebra, suspensión de pago o de concurso, el juez que conozca del asunto deberá dar aviso a las autoridades fiscales estatales, para que en su caso, hagan exigibles los créditos fiscales a su favor, a través del procedimiento administrativo de ejecución.
+I. La adopción sistemática, dentro de las acciones del servicio de salud, de iniciativas destinadas a favorecer la promoción específica de la salud de las mujeres, así como a prevenir su discriminación;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+II. Promover y fomentar la salud sexual y reproductiva;
 
-###### ARTICULO 26.
+III. El fomento de la investigación científica que atienda las diferencias entre mujeres y hombres en relación con la protección de su salud, especialmente en lo referido a la accesibilidad y el esfuerzo diagnóstico y terapéutico, tanto en sus aspectos de ensayos clínicos como asistenciales;
 
-Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácter fiscal, se considerarán como auxiliares de las Autoridades Fiscales de la Secretaría de Finanzas y Administración, todas las Autoridades Administrativas y Civiles con Jurisdicción en el Estado de Guerrero.
+IV. La integración del principio de igualdad en la formación del personal al servicio de las instituciones públicas de salud;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+V. La obtención y el tratamiento desagregados por sexo de los datos contenidos en registros, encuestas, estadísticas u otros sistemas de información médica y sanitaria;
 
-ARTICULO 26 BIS.- La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia del Estado, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+VI. Priorizar la atención en la prevención y el tratamiento de cáncer de mama y cervicouterino;
 
-I.- Tengan a su cargo créditos fiscales firmes;
+VII. Respetar las decisiones informadas de la mujer respecto de los tratamientos médicos aplicables, informándole en forma oportuna de las opciones y consecuencias de los mismos;
 
-II.- Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+VIII. Establecer programas de atención infantil y geriátrica para las mujeres así como en prevención y atención de enfermedades exclusivas del sexo femenino;
 
-III.- No se encuentren inscritos en el Registro Estatal y Federal de Contribuyentes; y
+IX. Atención adecuada y de calidad en el embarazo y alumbramiento;
 
-IV.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad (sic) pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+X. Señalar en la normatividad interna las sanciones del personal médico y de apoyo en caso de negligencia, imprudencia, o negarse a atender a una mujer por razón de género; y
 
-La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+XI. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+### Capítulo XI. Deporte
 
-Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
+Igualdad en oportunidades para el deporte
 
-Las dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
+## Título Segundo. Políticas públicas para la igualdad de oportunidades entre mujeres y hombres
 
-Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+### Capítulo II. Asignación de Recursos
 
-## TITULO SEGUNDO. DE LOS SUJETOS PASIVOS Y DEL CREDITO FISCAL
+Presupuesto
 
-### CAPITULO I. DE LOS SUJETOS Y DEL DOMICILIO
+###### Artículo 8.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Ejecutivo del Estado, los ayuntamientos, las dependencias y entidades de la administración pública estatal y organismos autónomos, asignarán y ejercerán eficazmente recursos con cargo a su presupuesto institucional orientados al cumplimiento de las disposiciones que emanan de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+Perspectiva de género en el presupuesto
 
-###### ARTICULO 27.
+###### Artículo 9.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral que de acuerdo con las leyes está obligada al pago de una prestación a favor del fisco estatal.
+Para la planeación, ejecución, seguimiento y evaluación del presupuesto de los Poderes Públicos, los ayuntamientos y los organismos autónomos se deberá incluir la perspectiva de género para impulsar la igualdad entre mujeres y hombres. Para tal efecto, las y los titulares de Poderes Públicos, los ayuntamientos y los organismos autónomos serán responsables de las acciones previstas en sus respectivos presupuestos.
 
-También es sujeto pasivo cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las leyes fiscales, se asimilan estas agrupaciones a las personas morales.
+###### Artículo 27.
 
-###### ARTICULO 28.
+Las dependencias y entidades de la administración pública estatal y municipal, conforme a la Ley de Cultura Física y Deporte del Estado de Guanajuato, promoverán y favorecerán la efectiva apertura de las disciplinas deportivas a las mujeres, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles.
 
-Son asimismo, sujetos pasivos y deudores de créditos fiscales, los establecimientos públicos o de participación estatal y en general los organismos descentralizados de la Federación o del Estado pero con personalidad jurídica y patrimonio propios.
+### Capítulo XII. Ámbitos rural y laboral
 
-La calidad del sujeto pasivo o deudor de un crédito fiscal y los demás elementos que constituyen un tributo, no podrán ser alterados por actos y convenios de los particulares. Tales actos y convenios no surtirán efecto ante las autoridades fiscales, sin perjuicio de sus consecuencias jurídicas privadas.
+Igualdad en el ámbito rural
 
-Toda estipulación privada relativa al pago de un crédito fiscal que se oponga a lo dispuesto por las leyes de la materia, se tendrá como inexistente y por lo tanto, no producirá efecto legal alguno.
+###### Artículo 28.
 
-###### ARTICULO 29.
+A fin de hacer efectiva la igualdad de oportunidades entre mujeres y hombres en el ámbito rural, el gobierno del estado promoverá actividades laborales que favorezcan el trabajo de las mujeres; en sus objetivos existentes fomentará el acceso a las tecnologías de la información y la comunicación mediante el uso de políticas y actividades dirigidas a la mujer rural, y la aplicación de soluciones tecnológicas alternativas donde no las hubiere.
 
-Serán considerados como deudores con responsabilidad directa y por adeudo propio, los herederos respecto de los créditos fiscales a cargo del autor de la sucesión. La responsabilidad fiscal se dividirá entre ellos, en proporción a sus porciones hereditarias.
+Igualdad en la tenencia de la tierra
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+###### Artículo 29.
 
-###### ARTICULO 30.
+El titular del Poder Ejecutivo del Estado, a través del Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, promoverá el acceso de las mujeres a la propiedad o tenencia de la tierra, de conformidad con la normativa aplicable.
 
-Son responsables solidarios con los contribuyentes:
+Igualdad de oportunidades en el trabajo
 
-I.- Quienes en los términos de las leyes estén obligados al pago de la misma prestación fiscal;
+###### Artículo 30.
 
-II.- Los representantes legales y mandatarios incluyendo a los albaceas por los créditos fiscales que dejen de pagar sus representados o mandantes; en relación con las operaciones en que aquellos intervengan hasta por el monto de dicho crédito;
+El gobierno del estado, los municipios, el sector privado y social en sus ámbitos de competencia desarrollarán actuaciones encaminadas a la generación de igualdad de oportunidades entre mujeres y hombres, donde se incluirán de manera enunciativa pero no limitativa, las siguientes:
 
-III.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+I. Acciones dirigidas a mejorar el nivel educativo y de formación de las mujeres, especialmente las que favorezcan su incorporación al mercado de trabajo y a los órganos de dirección de empresas y asociaciones;
 
-IV.- Los copropietarios, los coposesores o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o del derecho común, hasta por el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponde en el bien o derecho mancomunado;
+II. Impulsar el acceso a recursos productivos, financieros, científico-tecnológicos y de créditos para el desarrollo de proyectos, particularmente a las mujeres en situación de pobreza así como jefas de familia;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+III. Asegurarse de que las políticas y las prácticas de trabajo estén exentas de cualquier discriminación hacia la mujer;
 
-V.- Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de terceros, hasta por el monto de dichos créditos;
+IV. Implementar la contratación y la protección del empleo que integre la perspectiva de género, contratar y nombrar proactivamente a mujeres a puestos directivos y ejecutivos, así como en el seno de los consejos de administración o dirección;
 
-VI.- Los propietarios o adquirientes de negocios comerciales, industriales, agrícolas, ganaderos o pesqueros, de créditos o concesiones, respecto de las prestaciones fiscales que se hubieran causado en relación con dichas negociaciones, de crédito o concesiones, hasta por un período de cinco años anteriores a la fecha en que se determine la obligación, sin que la responsabilidad de liquidación exceda del valor de los bienes;
+V. Garantizar el derecho a un trabajo productivo, ejercido en condiciones de igualdad y dignidad humana, incorporando medidas dirigidas a evitar cualquier tipo de discriminación laboral, entre mujeres y hombres, en el acceso al empleo, en la formación, promoción y condiciones de trabajo, y en una idéntica remuneración por trabajo de igual valor;
 
-VII.- Los legatarios y donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos; el que corresponderá a un período de cinco años anteriores a la fecha en que se determine la obligación;
+VI. Procurar la formalización de las trabajadoras de la economía informal en las zonas urbanas y rurales;
 
-VIII.- Los terceros que para garantizar obligaciones fiscales de otros constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes hasta por el valor de los dados en garantía;
+VII. Aplicar reglas que establezcan la igualdad entre mujeres y hombres en el ingreso, en la estabilidad, en el derecho al ascenso y a la profesionalización del personal;
 
-IX.- Las personas físicas, morales o unidades económicas que adquieran bienes o negociaciones que reporten créditos a favor del Estado y que correspondan a períodos de cinco años anteriores a la adquisición;
+VIII. Fijar condiciones de trabajo que prevengan, atiendan, sancionen y erradiquen el acoso y hostigamiento sexuales contra las mujeres;
 
-X.- Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles o que teniéndose dispongan de ellos antes de que transcurra el plazo de presentación;
+IX. Vigilar que el derecho al ascenso, a la estabilidad en el empleo y a todas las prestaciones y otras condiciones de servicio sean administrados y otorgados por las áreas de recursos humanos a efecto de garantizar su aplicación eficaz, con un esquema de equidad de género e igualdad;
 
-XI.- Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso, hasta donde alcance los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen en relación con dichos bienes fideicomitidos;
+X. Garantizar que los accesos a la formación profesional y a la capacitación sean impartidos en el horario laboral de las mujeres a efecto de que estén en posibilidades de asistir; y
 
-XII.- Los funcionarios públicos o notarios que autoricen algún acto jurídico o den trámite a algún documento si no comprueban que han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones relativas que regulen el pago del o de los gravámenes que se causen;
+XI. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-XIII.- Los responsables de llevar la contabilidad de los contribuyentes, siempre que sus actos obedezcan a dolosa intención;
+### Capítulo XIII. Igualdad de trato y oportunidades
 
-XIV.- Los que ejerzan la patria potestad o la tutela, por las contribuciones a cargo de sus representados;
+Derecho a la igualdad de trato y oportunidades
 
-XV.- Las personas físicas o morales cualquiera que sea el nombre con que se les designe, que tengan conferida la administración, la dirección general, gerencia general, de las sociedades mercantiles por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizado con los bienes de la sociedad que dirigen, cuando:
+###### Artículo 31.
 
-a).- No presenten solicitud de inscripción al Registro Estatal de Contribuyentes;
+Los Poderes Públicos, los ayuntamientos y los organismos autónomos tendrán la obligación de:
 
-b).- Habiéndose iniciado una visita domiciliaria, cambien su domicilio sin presentar el aviso respectivo; y
+I. Proporcionar capacitación y sensibilización en los temas referentes a derechos humanos de las mujeres, igualdad de trato y oportunidades entre mujeres y hombres, acceso igualitario a la justicia y difusión de los derechos de las mujeres a sus trabajadoras y trabajadores;
 
-c).- No lleven contabilidad, la oculten o la destruyan, y
+II. Efectuar investigaciones y diagnósticos en temas de derechos y de la aplicación de las normas jurídicas en beneficio de las mujeres;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+III. Revisar la normativa vigente aplicable y proponer las reformas jurídicas pertinentes para propiciar la igualdad de trato y oportunidades entre mujeres y hombres;
 
-XVI.- Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en ésta Ley.
+IV. Garantizar que se cumplan, respeten y ejerzan en forma eficaz los derechos de la mujer, en un ámbito de igualdad de condiciones, equidad y justicia, implementando los mecanismos necesarios para que en caso de no ser así puedan acudir a asesoría y representación jurídica gratuita, conforme la normativa aplicable; y
 
-No serán considerados intermediarios, sino patrones, las empresas establecidas que presten servicios a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo.
+V. Impulsar la cultura de respeto a los derechos y libertades de la mujer, el trato digno a su persona, su participación equitativa en la toma de decisiones sobre los asuntos de toda índole que le impliquen y su acceso a los beneficios del desarrollo.
 
-Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en esta Ley en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando se hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido; y
+### Capítulo XIV. Igualdad entre mujeres y hombres en los ámbitos de la vida personal, familiar y laboral
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Obligaciones de las personas públicas y privadas
 
-XVII. Los Titulares y/o Encargados de las Tesorerías Municipales, por las obligaciones que tiene el Municipio, en el pago de las contribuciones a la Hacienda Pública Estatal, como sujeto directo o como retenedor.
+###### Artículo 32.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+Las personas físicas y morales, tanto públicas como privadas, con independencia de su nacionalidad y domicilio, dentro de su ámbito o competencias y facultades, tienen la obligación prioritaria de:
 
-XVIII.- Las demás personas que señalen las leyes fiscales.
+I. Fomentar y propiciar la convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar;
 
-###### ARTICULO 31.
+II. Propiciar y facilitar la capacitación y sensibilización en torno a la participación equitativa de mujeres y hombres en la vida familiar;
 
-Estarán exentos de pago de impuestos y derechos, además de quienes expresamente señalen las disposiciones fiscales:
+III. Garantizar las condiciones mínimas de protección a la salud, licencia y permisos médicos necesarios a mujeres y hombres a efecto de que atiendan situaciones familiares y personales urgentes;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2004)</small>
+IV. Respetar los horarios de trabajo y no disponer del tiempo de sus trabajadores, favoreciendo el derecho de conciliación en el ámbito personal, familiar y laboral, con las excepciones que marca la ley; dando prioridad a las mujeres que sean madres durante el primer año de vida del menor;
 
-I.- En el pago de impuestos, el Estado y Municipio, cuando su actividad corresponda a sus funciones propias como entes de derecho público.
+V. Difundir y sensibilizar de manera efectiva el derecho de los padres a la licencia de paternidad con la finalidad de que participen de manera activa en el cuidado de su menor hijo;
 
-En el pago de derechos, el Estado, cuando su actividad corresponda a sus funciones propias como entes de derecho público.
+VI. Respetar el derecho a la maternidad, garantizando que se pueda ejercer en forma saludable por las mujeres;
 
-II.- Las instituciones de asistencia sin fines de lucro, de conformidad a las limitaciones que señala la Ley de Instituciones Privadas;
+VII. Generar las condiciones laborales, académicas y de capacitación encaminadas a lograr el pleno desarrollo de mujeres y hombres;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Difundir la prohibición de la legislación laboral de solicitar prueba de no gravidez;
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+IX. Respetar y garantizar la igualdad de derechos y oportunidades entre mujeres y hombres;
 
-Las exenciones previstas en las fracciones I y II serán aplicables salvó lo que disponga las leyes que establecen los impuestos y derechos respectivos.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-La exención de pago de impuestos y derechos que se otorgan a las personas morales indicadas en las fracciones I y II de este artículo, no las libera del cumplimiento de otras obligaciones fiscales de carácter formal;
+X. Contribuir y propiciar el reparto equilibrado de las responsabilidades familiares reconociendo a las madres y a los padres biológicos y por adopción el derecho a un permiso y a una prestación por maternidad y paternidad, en términos de la Ley Federal del Trabajo y la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
 
-III.- Las exenciones se solicitarán por escrito, por lo menos con diez días de anticipación a la presentación del evento, al Secretario de Finanzas y Administración, debiéndose ofrecer y acompañar las pruebas en que se funden, con base a las que se resolverán las que procedan.
+XI. Garantizar la igualdad entre mujeres y hombres en el acceso al trabajo, en el ascenso en el mismo y en la remuneración justa; y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+XII. Respetar y difundir los derechos a una maternidad y paternidad responsable.
 
-###### ARTICULO 32.
+### Capítulo XV. Promoción de la cultura de igualdad de mujeres y hombres en medios de comunicación
 
-Para efectos fiscales se considera domicilio:
+Promoción de igualdad en medios de comunicación
 
-I. Tratándose de personas físicas:
+### Capítulo III. Revisión de los resultados
 
-a) Cuando realicen actividades empresariales, el local en que se encuentre el principal asiento de sus negocios;
+Revisión anual de los resultados de los presupuestos
 
-b) Cuando no realicen las actividades mencionadas en el inciso anterior, el local que utilicen para el desempeño de sus actividades;
+###### Artículo 33.
 
-c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción; y
+El Sistema para la Igualdad promoverá que los medios de comunicación en el estado, contribuyan al fomento de una imagen igualitaria entre mujeres y hombres.
 
-d) A falta de los anteriores, el lugar en que se haya realizado el hecho generador de la obligación fiscal.
+Promoción de objetivos de la programación
 
-Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
+###### Artículo 34.
 
-II. En el caso de las personas morales:
+El Sistema para la Igualdad promoverá que los medios de comunicación en el estado integren en sus contenidos los siguientes objetivos:
 
-a) El local en donde se encuentre la administración principal del negocio;
+I. Igualdad en los ámbitos personal, familiar y laboral, fortaleciendo la participación e integración de mujeres y hombres en los aspectos familiares;
 
-b) Si se trata de establecimientos de personas morales radicados fuera del Estado o residentes en el extranjero, el local donde se encuentre dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el Estado, o en su defecto el que designe el contribuyente; y
+II. Adopción de medidas que fomenten la transmisión del principio de igualdad entre mujeres y hombres; y
 
-c) A falta de los anteriores, el lugar en que se haya realizado el hecho generador de la obligación fiscal.
+III. Colaboración en el fomento de la igualdad entre mujeres y hombres.
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hayan designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-Cuando se realicen actividades en el mismo domicilio a través de sus representantes, se considerará como domicilio fiscal el de dicho representante.
+IV. Que los medios de comunicación difundan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
-Si no se pudiera determinar el domicilio conforme a las fracciones e incisos anteriores, lo determinará la Secretaría de Finanzas y Administración mediante reglas de carácter general.
+###### Artículo 35.
 
-### CAPITULO II. DEL NACIMIENTO Y DETERMINACION DE LOS CREDITOS FISCALES
+El Sistema para la Igualdad es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública del estado y organismos autónomos entre sí, con las organizaciones de los sectores social y privado, así como con los municipios, en el que participan además los Poderes Judicial y Legislativo, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Conformación del Sistema para la Igualdad
 
-###### ARTICULO 33.
+###### Artículo 36.
 
-Las contribuciones se causarán conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso que ocurran.
+El Sistema para la Igualdad contará con un órgano directivo integrado por:
 
-Las contribuciones y sus accesorios se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
+I. La Secretaría de Desarrollo Social y Humano, quien lo presidirá;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+II. El IMUG, quien fungirá como Secretaría Ejecutiva;
 
-Las contribuciones y sus accesorios se causarán y se pagarán en moneda nacional, tarjeta de crédito o debito del contribuyente, en especie vía dación en pago, cheque de caja o certificado a favor de la Secretaria de Finanzas y Administración en la Administración o Agencia Fiscal, Instituciones Bancarias o mediante transferencia electrónica de fondos vía Internet.
+III. La Secretaría de Finanzas, Inversión y Administración;
 
-Se entiende como transferencia electrónica de fondos el pago de las contribuciones que por instrucciones de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria, a favor de la Secretaría de Finanzas y Administración, se realiza por las instituciones de crédito, en forma electrónica.
+IV. La Secretaría de Gobierno;
 
-Así mismo las contribuciones y sus accesorios fiscales se podrán pagar mediante giro telegráfico o postal, en los casos previstos en el artículo 52 de éste Código.
+V. La Secretaría de Educación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. La Secretaría de Salud;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+VII. La Secretaría de la Transparencia y Rendición de Cuentas;
 
-###### ARTICULO 34.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DEL 2020)</small>
 
-El crédito fiscal es la cantidad líquida, determinada, a la que tiene derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, así como las que se deriven de responsabilidades de sus servidores o de particulares que el Estado tenga derecho de exigir, y todos aquellos a los que las leyes les den ese carácter.
+VIII. El Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+IX. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
-También se considerará como crédito fiscal las cuotas obrero patronales a favor del Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, a las cuales se aplicarán las disposiciones que regulan el cobro de dicho crédito fiscal.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+IX bis. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
-Así mismo tendrán la naturaleza de crédito fiscal, los montos que se deriven del incumplimiento de los contratos de obras públicas, asignados por el Estado a particulares, a fin de resarcir el perjuicio que por dicho incumplimiento se le ocasione; a tales montos para su recuperación, les serán aplicadas las disposiciones que regulan el procedimiento administrativo de ejecución.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+IX ter. El titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
-###### ARTÍCULO 35.
+X. La Universidad de Guanajuato;
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, con base al índice nacional de precios al consumidor que emita el Instituto Nacional de Estadística y Geografía (INEGI), publicado en el Diario Oficial de la Federación; además, deberá pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno, tomando como base el porcentaje que para las contribuciones federales aplique la Secretaría de Hacienda y Crédito Público. Dichos recargos, se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución de que se trate.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+XI. El Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
-Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+XII. La Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
-Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+XIII. El Poder Judicial del Estado, representado por quien designe el Pleno del Consejo del Poder Judicial;
 
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+XIV. El Poder Legislativo del Estado, representado por quien presida la comisión legislativa afín al objeto del Sistema para la Igualdad;
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
+XV. Ocho representantes de la sociedad civil con experiencia en la materia regulada por la presente Ley, designados por el Ejecutivo a propuesta de la Presidencia del Sistema para la Igualdad, a partir de la convocatoria pública abierta, por el periodo que defina el Reglamento de la Ley, a la cual se le dará difusión en los medios de amplia circulación en la Entidad; y
 
-Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que se establecen en el primer párrafo de este artículo.
+XVI. Los 46 municipios del Estado.
 
-En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere este artículo. No causarán recargos las multas no fiscales.
+Coordinación de acciones del Sistema para la Igualdad
 
-En ningún caso las autoridades fiscales podrán liberar a los contribuyentes de la actualización de las contribuciones o condonar total o parcialmente los recargos correspondientes, con excepción de lo que establece el artículo 44 de este Código.
+###### Artículo 37.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+El IMUG coordinará las acciones del Sistema para la Igualdad, la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, así como las medidas para vincularlo con otros sistemas de carácter nacional y las demás que sean necesarias para cumplir con los objetivos de la Ley.
 
-###### ARTICULO 36.
+Objetivos del Sistema para la Igualdad
 
-El factor de actualización cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que emite el Instituto Nacional de Estadística y Geografía e Informática (INEGI), del mes anterior al más reciente del período entre el Índice Nacional de Precios correspondiente al mes anterior al más antiguo de dicho período.
+###### Artículo 38.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+El Sistema para la Igualdad tiene los siguientes objetivos:
 
-Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará de las contribuciones será 1.
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de la discriminación contra las mujeres;
 
-###### ARTICULO 37.
+II. Establecer lineamientos mínimos en materia de acciones afirmativas para la igualdad sustantiva entre mujeres y hombres;
 
-Pago o entero es el cumplimiento de una obligación fiscal determinada en cantidad líquida y deberá efectuarse, en los términos siguientes:
+III. Contribuir al adelanto de las mujeres;
 
-I.- Tratándose de los créditos fiscales determinados por las autoridades fiscales en el ejercicio de sus facultades de comprobación, determinación y sancionadoras, deberán pagarse o garantizarse junto con sus accesorios dentro de los quince días hábiles siguientes a aquél en que surta efectos su notificación;
+IV. Velar por la progresividad legislativa en materia de igualdad sustantiva entre mujeres y hombres, a fin de armonizar la legislación local;
 
-II.- Tratándose de contribuciones determinadas por el contribuyente dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse a más tardar el día diecisiete del mes del calendario inmediato posterior a que corresponda el pago;
+V. Identificar y determinar la necesidad específica de asignaciones presupuestarias destinadas a ejecutar los programas y planes estratégicos de las dependencias y entidades de la administración pública estatal y municipal en materias de igualdad sustantiva entre mujeres y hombres para el desarrollo de las mujeres y gestar los mecanismos de vinculación entre ellas a efecto de incrementar su potencial;
 
-III.- El pago de derechos deberá hacerse previamente a la prestación de los servicios, salvo los casos en que expresamente se señale otro plazo;
+VI. Elaborar y proponer la implementación de un mecanismo de vigilancia para el cumplimiento de la Ley;
 
-IV.- Cuando el crédito se determine mediante un convenio, en el término que éste señale.
+VII. Establecer acciones de coordinación entre los entes públicos del Estado para formar y capacitar en materia de igualdad;
 
-###### ARTICULO 38.
+VIII. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia igualitaria, sin menoscabo del pleno desarrollo humano;
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Finanzas y Administración exigirá la presentación del documento respectivo, procediendo en forma simultánea o sucesiva, a realizar uno o varios de los actos siguientes:
+IX. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la desigualdad contra la mujer;
 
-I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión una cantidad igual a la contribución que hubiere determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no liberará a los obligados a presentar la declaración omitida;
+X. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de la administración pública estatal y municipal con sujeción a las disposiciones generales aplicables;
 
-II.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016)
+XI. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
 
-III.- Imponer las multas que correspondan en los términos de este Código.
+XII. Impulsar acciones para que en el sector privado se respete el principio de la igualdad de trato y oportunidades en el ámbito laboral y, con esta finalidad, buscar que se adopten medidas dirigidas a evitar cualquier tipo de discriminación laboral entre mujeres y hombres;
 
-###### ARTICULO 39.
+XIII. Procurar implementar en materia de acceso al empleo, promoción y formación profesional; retribuciones, medidas, acciones y reglamentación que fomenten la igualdad entre mujeres y hombres, además del respeto, garantía y difusión de los derechos a una maternidad y paternidad responsable;
 
-La determinación de los créditos fiscales y de las bases para su liquidación, su fijación en cantidad líquida, su percepción y su cobro corresponderá a la Secretaría de Finanzas y Administración, la que ejercitará dichas funciones por conducto de las dependencias y órganos que las leyes y demás disposiciones señalen.
+XIV. Coordinarse con las empresas para que se promuevan condiciones de trabajo que eviten el hostigamiento y el acoso sexuales, además de que se adopten medidas específicas para dar cauce a las denuncias o reclamaciones que puedan formular las mujeres que hayan sido objeto de los mismos; y
 
-###### ARTICULO 40.
+XV. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior, los contribuyentes al efectuar su pago, el monto se ajustará para que las que contengan cantidad que incluya de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+Reglamento del Sistema para la Igualdad
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+###### Artículo 39.
 
-###### ARTICULO 41.
+El Ejecutivo del Estado expedirá el Reglamento del Sistema para la Igualdad, en el cual se establecerán las bases mínimas de las políticas públicas, relaciones y procedimientos con los que a través de la coordinación del Sistema para la Igualdad, los Poderes Públicos, organismos autónomos y ayuntamientos, desarrollen el complimiento (sic) del objeto de la presente Ley.
 
-La Secretaría de Finanzas y Administración, sus dependencias directas y órganos fiscales, tendrán las funciones en relación con las diversas materias tributarias, que determinen la Ley Orgánica de la Administración Pública del Estado, el Reglamento Interior de la Secretaría de Finanzas y Administración, el presente Código, la Ley de Ingresos, la Ley de Hacienda del Estado, la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Decreto del Presupuesto de Egresos, la Ley del Sistema de Coordinación Hacendaria del Estado de Guerrero, así como el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás disposiciones de orden fiscal.
+### Capítulo II. Programa Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato
 
-###### ARTICULO 42.
+Base del Programa para la Igualdad
 
-En los casos en que un contribuyente demuestre que la falta de pago de un crédito fiscal obedece a causas imputables a la Secretaría de Finanzas y Administración, no habrá lugar a la causación de recargos y sanciones.
+###### Artículo 40.
 
-En estos casos el contribuyente deberá cubrir el crédito o créditos determinados dentro de los quince días siguientes al de su notificación.
+El Programa para la Igualdad deberá integrarse a partir del Programa de Gobierno del Estado.
 
-###### ARTICULO 43.
+Objetivo del Programa para la Igualdad
 
-Las autoridades fiscales rectificarán en cualquier momento, de oficio o a instancia del interesado, los errores materiales o de hecho y los aritméticos, siempre que no hubieren transcurrido cinco años desde que se practicó la determinación o liquidación, según sea el caso, cuya rectificación se pretenda.
+###### Artículo 41.
 
-###### ARTICULO 44.
+El Programa para la Igualdad, además de lo señalado en la Ley de Planeación para el Estado de Guanajuato y su reglamento, de manera enunciativa y no limitativa deberá:
 
-El Titular del Ejecutivo Estatal, mediante resoluciones de carácter general podrá:
+I. Procurar el respeto y la vigilancia de los derechos humanos de las mujeres;
 
-I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias;
+II. Impulsar el ejercicio igualitario de los derechos; la inclusión social, política, económica y cultural, así como la participación activa en los procesos de desarrollo en condiciones de igualdad para mujeres y hombres;
 
-II.- Conceder subsidios o estímulos fiscales.
+III. Establecer las condiciones necesarias para que se respete y aplique eficazmente lo contenido en la Ley;
 
-Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deben cumplirse por los beneficiados.
+IV. Promover cambios culturales que permitan compartir en condiciones de igualdad de trato el trabajo productivo y las relaciones familiares y aseguren el acceso equitativo de mujeres y hombres a los procesos de innovación, ciencia y tecnología en el Plan Estatal de Desarrollo;
 
-###### ARTICULO 45.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-En los casos de prórroga a que se refiere el artículo anterior, el contribuyente que no pueda cubrir la totalidad de sus créditos fiscales que adeude, podrá solicitar a la Secretaría de Finanzas y Administración que le conceda prórroga para poder realizar el pago de su adeudo. Dicha dependencia podrá autorizar la concesión de la prórroga para realizar el pago en parcialidades, si el solicitante cumple con los requisitos de la resolución de carácter general correspondiente.
+V. Prever los mecanismos de coordinación, los objetivos, las estrategias y líneas de acción para incorporar, de manera transversal, la perspectiva de género en su aplicación, seguimiento, monitoreo, evaluación y actualización en el estado y los municipios para impulsar, regular, proteger, fomentar y hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres; y
+
+VI. Promover campañas de concientización a mujeres y hombres en la responsabilidad de la atención equitativa de sus dependientes.
+
+Periodicidad en la revisión del Programa para la Igualdad
+
+###### Artículo 42.
+
+El Sistema para la Igualdad deberá revisar el Programa para la Igualdad cada tres años a efecto de actualizarlo y determinar su eficacia.
+
+En la revisión deberá tomar en cuenta los resultados que arrojan los indicadores que contienen el Programa para la Igualdad, y hacer del conocimiento de las dependencias y entidades los resultados.
+
+###### Artículo 43.
+
+La violación a los principios, disposiciones y Programa para la Igualdad que la Ley prevé, por parte de los servidores públicos del estado de Guanajuato y sus municipios, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y por las leyes que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito.
+
+Sanción a personas físicas particulares
+
+###### Artículo 44.
+
+La violación a los principios y al Programa para la Igualdad, por parte de personas físicas o morales particulares, será sancionada de acuerdo a lo dispuesto por las leyes aplicables.
+
+Obligación de la Procuraduría de los Derechos Humanos
+
+###### Artículo 45.
+
+La Procuraduría de los Derechos Humanos del Estado de Guanajuato, como principal ente rector en la protección, defensa, promoción, estudio y divulgación de los derechos humanos, denunciará de oficio o a instancia de parte, ante los órganos competentes los delitos o faltas que se hubiesen cometido, respecto al contenido de la Ley, por las autoridades o servidores públicos, así como por los particulares.
+
+T R A N S I T O R I O S
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia sesenta días posteriores a su publicación en el Periódico Oficial del Estado de Guanajuato.
+
+Plazo para la instalación del Sistema para la Igualdad
+
+Artículo Segundo. El Sistema para la Igualdad deberá quedar instalado dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la Ley.
+
+Una vez instalado, se emitirá la convocatoria para integrar a los representantes de la sociedad civil señalados en el artículo 36 fracción XV, la cual deberá contener:
+
+I. Requisitos de participación;
+
+II. Responsable y lugar de la recepción de la documentación requerida;
+
+III. Plazo de registro;
+
+IV. Criterios de evaluación; y
+
+V. Lugar y fecha de expedición.
+
+Plazo para la publicación del reglamento de la Ley
+
+Artículo Tercero. El IMUG, en su carácter de Secretaría Ejecutiva del Sistema para la Igualdad, propondrá al Gobernador del Estado el Reglamento de la Ley dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema para la Igualdad.
+
+Plazo para publicar el Programa para la Igualdad
+
+Artículo Cuarto. El Sistema para la Igualdad propondrá al Gobernador del Estado el Programa para la Igualdad dentro de los ciento ochenta días naturales contados a partir de que entre en vigor el Reglamento de la Ley.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 8 DE MARZO DE 2013.- FRANCISCO FLORES SOLANO.- DIPUTADO PRESIDENTE.- KARLA ALEJANDRINA LANUZA HERNÁNDEZ.- DIPUTADA SECRETARIA.- SERGIO CARLO BERNAL CÁRDENAS.- DIPUTADO SECRETARIO.- RÚBRICAS.
+
+Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 9 de marzo de 2013.
+
+MIGUEL MÁRQUEZ MÁRQUEZ
+
+EL SECRETARIO DE GOBIERNO
+
+ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2018.
 
 ###### ARTICULO 46.
 
@@ -1019,7 +1155,9 @@ Los recargos deberán considerarse, en todo caso, como indemnización a la Hacie
 
 Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si por pruebas diversas de las presentadas ante las Autoridades Administrativas o Jurisdiccionales en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuyó no es la responsable directa o solidaria.
 
-### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES FISCALES
+### Capítulo I. Acciones generales
+
+Inclusión de principios
 
 #### SECCION PRIMERA. DE LOS SUJETOS
 
@@ -2197,9 +2335,15 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal fiscal que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalan las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales municipales, a las Autoridades Judiciales en proceso de orden penal y a los tribunales competentes que conozcan de pensiones alimenticias.
 
-## TITULO TERCERO. DE LAS INFRACCIONES Y DELITOS FISCALES
+## Título Tercero. Instrumentos estatales para la igualdad entre mujeres y hombres
 
-### CAPITULO I. DE LAS INFRACCIONES
+### Capítulo I. Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Guanajuato
+
+Naturaleza
+
+### Capítulo II. Poder Ejecutivo
+
+Obligaciones del Poder Ejecutivo
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -2739,7 +2883,9 @@ f).- Tesorerías municipales.
 
 Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente Capítulo, se hará del conocimiento de la autoridad competente, independientemente de la imposición de las sanciones previstas en este Código.
 
-### CAPITULO II. DE LOS DELITOS FISCALES
+### Capítulo III. Poder Legislativo
+
+Obligaciones del Poder Legislativo
 
 ###### ARTICULO 112.
 
@@ -2911,9 +3057,15 @@ Se impondrá pena de tres meses a seis años de prisión al depositario o interv
 
 La acción administrativa del Fisco del Estado, para el castigo de los infractores a las leyes caduca en un plazo de cinco años, que se contará a partir del día siguiente a aquél en que se haya cometido la infracción. Si ésta fuera de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente, desde el día siguiente a aquél en que se hubiere cesado.
 
-## TITULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO
+## Título Cuarto. Disposiciones complementarias
 
-### CAPITULO I. DE LAS NOTIFICACIONES
+### Capítulo Único. Responsabilidades y sanciones
+
+Sanción a servidores públicos
+
+### Capítulo IV. Poder Judicial
+
+Obligaciones del Poder Judicial
 
 ###### ARTICULO 136.
 
@@ -3039,7 +3191,9 @@ Sólo cuando estén abiertas al público las oficinas fiscales se efectuarán ac
 
 Queda prohibido por habilitación que produzca o pueda producir el efecto de que se otorgue un nuevo plazo para interponer el recurso que concede este Código.
 
-### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### Capítulo V. Ayuntamientos
+
+Obligaciones de los ayuntamientos
 
 #### SECCION PRIMERA. DEL REQUERIMIENTO DE PAGO
 
@@ -3741,9 +3895,9 @@ Si el recurrente tiene su domicilio en población distinta del lugar en que resi
 
 ## TITULO QUINTO. DE LOS RECURSOS ADMINISTRATIVOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### Capítulo VI. Organismos Autónomos
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Participación de los Organismos Autónomos
 
 ###### ARTICULO 203.
 
@@ -3899,7 +4053,9 @@ El interesado podrá optar por impugnar un acto mediante el Recurso de Revocaci�
 
 ## TITULO SEXTO. DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
-### CAPITULO UNICO
+### Capítulo VII. Estadísticas
+
+Estudios y estadísticas
 
 ###### ARTICULO 213.
 
@@ -4067,30 +4223,142 @@ SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Es
 
 P.O. 27 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 421 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 295, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO".]
 
-PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+Inicio de vigencia
 
-SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
 
-TERCERO. Públiquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+P.O. 1 DE AGOSTO DE 2019.
 
-P.O. 31 DE DICIEMBRE DE 2018.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO”.]
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 181 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429".]
+Inicio de vigencia
 
-PRIMERO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. Para la aplicación de las fracciones XIV y XV del artículo 86 de este Código será supletorio en lo conducente las disposiciones contenidas en el Código Fiscal de la Federación.
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
 
-TERCERO. Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
-CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
-P.O. 20 DE DICIEMBRE DE 2019.
+Adecuaciones a reglamentos y decretos
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 281 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 429".]
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
 
-PRIMERO.- Las reformas relativas al presente Decreto, entrarán en vigor el día 01 de enero del 2020.
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
 
-SEGUNDO.- Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes, y su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 21 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 222, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO Y SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES”.]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Juventud del Estado de Guanajuato, contenida en el decreto número 205, expedida por la Sexagésima Segunda Legislatura del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 200, Tercera Parte del 16 de diciembre de 2014.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Conformación del Instituto y asignación de recursos
+
+Artículo Cuarto. El Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato se conformará a partir del organismo público descentralizado Instituto de Financiamiento e Información para la Educación, por lo que, previa la realización de las entregas-recepción respectivas, proseguirá con la atención de los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que se hayan venido usando para la atención de sus atribuciones.
+
+La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales necesarias para dotar al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato de los recursos financieros necesarios para realizar sus funciones.
+
+Extinción del Injug
+
+Artículo Quinto. Se extingue el Instituto para la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
+
+Los asuntos jurídicos, administrativos y de cualquier otra índole en trámite a la entrada en vigor del presente Decreto, así como los archivos, se pasarán, a través de la entrega-recepción, al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, para que éste prosiga con su atención.
+
+Causahabiencia y subsistencia de poderes
+
+Artículo Sexto. A la conclusión de la entrega-recepción, el Instituto asume los derechos y el cumplimiento de las obligaciones tanto del Instituto de la Juventud Guanajuatense como del Instituto de Financiamiento e Información para la Educación, por lo que le corresponderá cumplir con los contratos, convenios, obligaciones o derechos contraídos tanto por el Instituto de la Juventud Guanajuatense como por el Instituto de Financiamiento e Información para la Educación.
+
+El Instituto quedará facultado para realizar las gestiones o ejercer las acciones judiciales o extrajudiciales que sean necesarias para lograr su cumplimiento o para la defensa del patrimonio que tenían asignado dichas entidades, así como para oponer cualquier defensa o excepción judicial o extrajudicial para esos fines.
+
+Los poderes que el Instituto de la Juventud Guanajuatense o el Instituto de Financiamiento e Información para la Educación hayan conferido con anterioridad a la vigencia del presente Decreto se entenderán conferidos por el Instituto y subsistirán mientras no sean revocados por el Director General de este último.
+
+El personal del Instituto de la Juventud Guanajuatense y del Instituto de Financiamiento e Información para la Educación, conforme a su estatus laboral, conformarán el personal del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, en atención a la adscripción con que a la fecha de entrada en vigencia del presente Decreto contaban, así como a las materias que se atienden, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Entrega-recepción
+
+Artículo Séptimo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega-recepción extraordinaria, de conformidad con lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Plazo para la instalación del Instituto y de su Consejo Directivo
+
+Artículo Octavo. El Instituto deberá quedar conformado e instalado dentro de los sesenta días siguientes a la entrada en vigencia del presente Decreto, una vez concluidos los procesos de entrega recepción.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el titular del Poder Ejecutivo designará previamente, a la persona de la sociedad civil que fungirá como Presidente del Consejo Directivo del Instituto y a los representantes a que se refieren las fracciones XIII, XIV y XV del artículo 79 de la Ley que se expide mediante el presente Decreto; así como a la persona titular de su Dirección General.
+
+Una vez designadas las personas que desempeñarán dichos cargos, el Instituto quedará instalado en la fecha en que el Consejo Directivo celebre su primera sesión.
+
+Facultamiento a la persona que se designe en la Dirección General del Instituto
+
+Artículo Noveno. La persona que el titular del Poder Ejecutivo designe en la Dirección General del Instituto quedará facultada a partir de su designación para efectuar los trámites, actos y diligencias administrativas, fiscales y jurídicas necesarios para la instalación e inicio de funciones del organismo público descentralizado Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, ante las autoridades de los tres ámbitos de gobierno, especialmente, para que acuda ante el Sistema de Administración Tributaria (SAT) para realizar los trámites y notificaciones conducentes a la modificación del Instituto, así como para la realización de los actos necesarios para la conclusión de las actividades y funciones, así como los procedimientos que quedaran pendientes del Instituto de la Juventud Guanajuatense, al momento de su extinción, con posterioridad a la entrega-recepción a que se refieren los Artículos Cuarto y Quinto Transitorios del presente Decreto.
+
+Sede del nuevo organismo
+
+Artículo Décimo. Para la instalación del Instituto, y para las sesiones de su Consejo Directivo, se establece como su sede provisional, la que actualmente corresponde al Instituto de Financiamiento e Información para la Educación, en tanto se expide su Reglamento Interior en que se determinará su sede definitiva.
+
+Plazo para expedir el Reglamento Interior del Instituto
+
+Artículo Undécimo. El titular del Poder Ejecutivo del Estado expedirá el Reglamento Interior del Instituto dentro de los sesenta días siguientes a la fecha de su instalación, con base en el proyecto que apruebe el Consejo Directivo del Instituto, a propuesta de la persona titular de la Dirección General.
+
+Para este fin, en la primera sesión del Consejo Directivo, la persona titular de la Dirección General someterá el anteproyecto de Reglamento Interior a su consideración.
+
+Plazo para expedir la reglamentación complementaria
+
+Artículo Duodécimo. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+El Instituto de Financiamiento e Información para la Educación y el Instituto de la Juventud Guanajuatense continuarán ejerciendo sus atribuciones, hasta el acto formal de entrega-recepción.
+
+Referencias
+
+Artículo Décimo Tercero. Para todos los efectos legales correspondientes, el Instituto a que alude el presente Decreto, se entenderá referido al Instituto de la Juventud Guanajuatense, y el Instituto de Financiamiento e Información para la Educación, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Asignación de recursos
+
+Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada transferencia de recursos al Instituto para la correcta operación de sus atribuciones.
+
+Plazo para actualización de reglamentación municipal
+
+Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 76 EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 41 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
