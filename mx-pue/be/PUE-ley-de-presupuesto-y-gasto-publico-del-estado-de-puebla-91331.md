@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-presupuesto-y-gasto-publico-del-estado-de-puebla-91331"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2017-01-17"
+last_updated: "2020-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO RESPONSABLE DEL ESTADO DE PUEBLA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE NOVIEMBRE DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2021.]</small>
+
 LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Vigésima Primera Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -1554,3 +1556,15 @@ TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en la 
 CUARTO. Los recursos que sean otorgados a los Ejecutores de Gasto a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo dispuesto en dicho programa.
 
 QUINTO. Lo establecido en los artículos 20 Bis y 40 Bis de la presente Ley, referente a observar el artículo 18 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, comenzará a surtir sus efectos a partir del Ejercicio Fiscal 2018.
+
+P.O. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO RESPONSABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2021, salvo lo dispuesto en el Segundo Transitorio.
+
+SEGUNDO. Para la integración del Presupuesto de Egresos 2021, los Capítulos I, III, IV y V del Título Segundo, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+TERCERO. Se abroga la Ley de Presupuesto y Gasto Público del Estado de Puebla, publicada en el Periódico Oficial del Estado el 31 de diciembre de 2012 y reformada, adicionada y derogada mediante Decreto del Honorable Congreso del Estado, publicado en el Periódico Oficial del Estado el 17 de enero de 2017.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
