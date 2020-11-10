@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2017-11-10"
+last_updated: "2020-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -377,7 +377,9 @@ El Sistema contará con un Secretariado Técnico que para tales efectos proponga
 
 ARTÍCULO 22 BIS.- La Oficina Hacendaria, se establece como un órgano auxiliar de logística, consulta, análisis y desarrollo técnico en materia de hacienda pública, encargado de asesorar a las secretarias, dependencias, organismos públicos descentralizados, municipios y demás entes públicos del Estado.
 
-La Oficina Hacendaria estará representada por la persona que el titular del Poder Ejecutivo a propuesta del Secretario de Finanzas y Administración, haya designado como Director General de Estudios Hacendarios y Difusión, la cual tendrá cargo honorifico y contara con las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+La Oficina Hacendaria estará representada por la persona que el titular del Poder Ejecutivo a propuesta del Secretario de Finanzas y Administración, haya designado como Director General de Coordinación Hacendaria, la cual tendrá cargo honorífico y contara con las atribuciones siguientes:
 
 I. Realizar en forma permanente el análisis y estudio de la normatividad estatal y municipal relativa a sus respectivas haciendas;
 
@@ -391,7 +393,9 @@ V. Apoyar a los Grupos del Trabajo, cuando así se lo requieran; y
 
 VI. Realizar todas aquellas otras funciones de estudio y análisis que se desprendan de esta Ley, de los convenios de coordinación y de colaboración administrativa, así como de los acuerdos que se tomen tanto en la Reunión Estatal como de la Comisión Permanente de los Servidores Públicos Hacendarios del Estado.
 
-Las facultades de la Oficina Hacendaria deberán realizarse en congruencia con las contenidas en el artículo 20 del Reglamento Interior de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+Las facultades de la Oficina Hacendaria deberán realizarse en congruencia con las contenidas en el artículo 37 del Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 ## TÍTULO III. DE LA COORDINACIÓN DEL INGRESO
 
@@ -439,6 +443,14 @@ VII.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
 VIII.- 20% del Fondo de Compensación previsto en el artículo 4-A fracción II de la Ley de Coordinación Fiscal y de la recaudación estatal de las Cuotas a la Venta Final de Gasolinas y Diesel a que se refiere el artículo 4-A de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+IX.- El Estado transferirá el 100% de la recaudación que se obtenga del impuesto sobre la renta que efectivamente el Municipio haya enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio, así como a sus respectivas paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones u otros ingresos locales, en los términos del artículo 3-B de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+X.- 20% de la recaudación del Impuesto Sobre la Renta obtenido por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, en los términos del ACUERDO por el que se modifica el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre la Secretaría de Hacienda y Crédito Público y el Estado de Guerrero, en su Cláusula Décima Novena fracción VI apartado A.
+
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 Tratándose de la fracción II del presente artículo, el Estado, deberá informar oportunamente a los Municipios sobre los recursos recaudados por el impuesto predial, así como entregar las cantidades que les correspondan en los plazos y términos que se establezcan en los Convenios que celebren y de acuerdo a lo establecido en la Ley de Coordinación Fiscal.
@@ -451,9 +463,11 @@ I.- 20% de la recaudación del Impuesto Estatal Sobre Tenencia o Uso de Vehícul
 
 II.- Los que se establezcan en la Ley de Ingresos del Estado para un ejercicio determinado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Federal Sobre Tenencia o Uso de Vehículos, al Impuesto Especial sobre Producción y Servicios, del Impuesto Federal sobre Automóviles Nuevos, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, el Fondo de Fiscalización, según la integración establecida en la Ley de Coordinación Fiscal, se constituirá un Fondo Común, así mismo formarán parte de este Fondo los conceptos señalados en el artículo anterior.
+Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Federal Sobre Tenencia o Uso de Vehículos, al Impuesto Especial sobre Producción y Servicios, del Impuesto Federal sobre Automóviles Nuevos, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, el Fondo de Fiscalización, al Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles, según la integración establecida en la Ley de Coordinación Fiscal, se constituirá un Fondo Común, así mismo formarán parte de este Fondo los conceptos señalados en el artículo anterior.
 
 El Fondo Común de Participaciones a Municipios se distribuirá conforme a la fórmula siguiente:
 
@@ -1006,3 +1020,15 @@ PRIMERO.- El presente Decreto por el que se Reforman, Adicionan y Derogan divers
 SEGUNDO.- Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 470 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas, adiciones y derogaciones relativas al presente Decreto, entraran en vigor el día 01 de enero del 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
