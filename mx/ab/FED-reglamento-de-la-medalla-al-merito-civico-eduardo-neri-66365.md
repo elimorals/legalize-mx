@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-medalla-al-merito-civico-eduardo-neri-66365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-17"
-last_updated: "2014-04-04"
+last_updated: "2020-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66365&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-12"
 
 REGLAMENTO DE LA MEDALLA AL MÉRITO CÍVICO "EDUARDO NERI, LEGISLADORES DE 1913"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
 
@@ -251,6 +251,14 @@ Tercero.- El presente Reglamento abroga el Acuerdo de la Mesa Directiva de la Co
 
 Cuarto.- El presente Reglamento no puede ser modificado, derogado o abrogado, en ningún caso, por acuerdos parlamentarios. Cuando surja un hecho o acto no previsto por este Reglamento, la Mesa Directiva podrá acordar lo conducente para dar certeza al proceso.
 
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 2020)</small>
+
+Quinto.- De manera excepcional, la Medalla a que se refiere el presente Reglamento correspondiente al año 2020, se otorgará en reconocimiento a las y los profesionales de la salud, enfermeras, enfermeros y personal de apoyo que laboran en las instalaciones médicas del territorio nacional y que han prestado sus servicios para atender a las personas que han padecido la enfermedad COVID-19.
+
+La Comisión, en colaboración con la Junta de Coordinación Política y, con la opinión de la Comisión de Salud, propondrán al Pleno, para su aprobación, el dictamen por el que se determine a la persona o personas que recibirán la Medalla, a nombre de todas las y los galardonados.
+
+La Junta de Coordinación Política acordará la fecha y el formato de la Sesión Solemne, así como las demás previsiones necesarias para la entrega de la Medalla.
+
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 12 de febrero de 2009.- Dip. César Horacio Duarte Jáquez, Presidente.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
@@ -266,3 +274,9 @@ D.O.F. 4 DE ABRIL DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Mesa Directiva de la Cámara de Diputados solicitará, a más tardar en septiembre de 2014, a la Casa de Moneda los ejemplares de las Medallas correspondientes a los años 1969, 1972, 1975, 1981, 1984 y 2003, a fin de que el acervo histórico de este reconocimiento esté completo y se exhiba en el Museo Legislativo.
+
+D.O.F. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO QUINTO TRANSITORIO AL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA MEDALLA AL MÉRITO CÍVICO "EDUARDO NERI, LEGISLADORES DE 1913", PUBLICADO EL 17 DE FEBRERO DE 2009”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
