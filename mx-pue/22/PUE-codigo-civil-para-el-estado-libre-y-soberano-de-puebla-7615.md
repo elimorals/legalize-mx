@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2020-01-24"
+last_updated: "2020-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -477,9 +477,9 @@ I.- Del menor de edad no emancipado, el domicilio familiar de la persona o perso
 
 II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
-III.- Del hombre y de la mujer casados entre sí o que vivan en concubinato, el domicilio familiar de ambos;
+III. El domicilio familiar de los cónyuges o concubinas;
 
 IV.- De los militares en servicio activo, el lugar en que estén destinados;
 
@@ -1751,13 +1751,11 @@ Para garantizar el derecho fundamental de igualdad, los jueces deberán identifi
 
 #### Sección Primera.- Generalidades
 
-(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 294.
 
-El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para ayudarse en la lucha por la existencia.
+El matrimonio es un contrato civil por el cual dos personas se unen voluntariamente en sociedad, para llevar una vida en común, con respeto, ayuda mutua e igualdad de derechos y obligaciones.
 
 ###### Artículo 295.
 
@@ -1769,13 +1767,11 @@ La Ley no reconoce esponsales de futuro.
 
 La celebración del matrimonio es un acto solemne que debe realizarse ante el funcionario que establece la Ley y con las formalidades que la misma exige.
 
-(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 297.
 
-El concubinato es la unión de hecho ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente COMO MARIDO Y MUJER durante más de dos años continuos.
+El concubinato es la unión voluntaria y de hecho entre dos personas, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala, haciendo vida en común de manera notoria y permanente, situación que podrá demostrarse si tienen hijas o hijos en común, o si han cohabitado públicamente como cónyuges durante más de dos años continuos.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1783,7 +1779,9 @@ El concubinato es la unión de hecho ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER, que 
 
 Son aplicables al concubinato las siguientes disposiciones:
 
-I.- El concubino y la concubina se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+I.- Los concubinos se deben mutuamente alimentos, en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
 
 II.- El concubinato termina por muerte de uno de los concubinos, por voluntad de uno o de ambos, o por cualquier otra causa que implique la cesación de la vida en común;
 
@@ -1837,13 +1835,11 @@ XII.- La locura.
 
 De estos impedimentos, sólo es dispensable el parentesco por consanguinidad en línea colateral desigual.
 
-(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 300.
 
-No pueden contraer matrimonio EL HOMBRE Y LA MUJER, antes de cumplir dieciocho años de edad.
+No pueden contraer matrimonio las personas, antes de cumplir dieciocho años de edad.
 
 ###### Artículo 301.
 
@@ -1971,6 +1967,12 @@ VI.- El cónyuge que deba separarse del domicilio familiar informará al Juez, e
 
 VII.- Si los cónyuges no ejercen patria potestad sobre ningún descendiente, o los descendientes sobre quienes la ejerzan son mayores de catorce años, la autorización para separarse del domicilio conyugal al consorte que intente demandar al otro, o denunciar en su contra la comisión de un delito, se tramitará como disponga el Código de Procedimientos Civiles.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Tratándose de matrimonios entre personas del mismo sexo, y de no existir común acuerdo, el Juez podrá designar al cónyuge que le corresponderá el uso del domicilio conyugal, previa audiencia y analizando las particularidades de cada caso.
+
+Al efecto, se estará a lo dispuesto dentro del presente artículo y del similar 635, en todo lo que aplique y no contravenga las disposiciones y condiciones legales existentes.
+
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 322.
@@ -2033,9 +2035,11 @@ Si los cónyuges no llegaren a un acuerdo sobre alguno de los puntos indicados e
 
 #### Sección Primera.- Reglas generales
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 330.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de ellos la autorización del otro.
+Los cónyuges, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de ellos la autorización del otro.
 
 ###### Artículo 331.
 
@@ -2045,9 +2049,11 @@ El artículo anterior se aplicará, salvo lo dispuesto por este Código sobre so
 
 (DEROGADO, P.O. 28 DE MARZO DE 2016)
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 333.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ###### Artículo 334.
 
@@ -2483,11 +2489,11 @@ II.- Cuando se haya celebrado sin observar las formalidades establecidas en los 
 
 III.- En caso de error, cuando ésta sea esencialmente sobre la persona.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 403.
 
-La nulidad fundada en la edad menor de dieciocho años en el hombre y la mujer, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
+La nulidad fundada en la edad menor de dieciocho años de cualquiera de los contrayentes, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
 
 ###### Artículo 404.
 
@@ -2881,6 +2887,10 @@ En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Código
 
 Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos en los que exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia de la madre, el hecho de que ésta carezca de recursos económicos;
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+Con relación a lo dispuesto en el párrafo anterior y tratándose de parejas del mismo sexo, el juez considerará la fuente del parentesco con respecto al menor, además de su opinión y beneficio;
+
 III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, respecto de las modalidades del derecho de visita o convivencia con sus padres;
 
 IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
@@ -3111,11 +3121,11 @@ Consanguinidad es el parentesco entre personas que descienden de un mismo progen
 
 También existirá parentesco por consanguinidad entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hayan procurado el nacimiento, para atribuirse el carácter de progenitor o progenitores.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 478.
 
-Afinidad es el parentesco que se contrae por el matrimonio o el concubinato, entre el hombre y los parientes de la mujer, o entre ésta y los parientes del hombre.
+Afinidad es el parentesco que se contrae por el matrimonio o el concubinato, entre los cónyuges o concubinos y los parientes del otro.
 
 ###### Artículo 479.
 
@@ -20610,5 +20620,13 @@ P.O. 24 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 291 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 61, LOS ARTÍCULOS 294 Y 297, LA FRACCIÓN I DEL 298, LOS ARTÍCULOS 300, 330, 333, 403 Y 478; Y ADICIONA LA FRACCIÓN VIII AL 321, Y UN ÚLTIMO PÁRRAFO A LA FRACCIÓN II DEL APARTADO B DEL ARTÍCULO 450, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
