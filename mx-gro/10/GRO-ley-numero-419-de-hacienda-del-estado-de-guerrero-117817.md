@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2019-12-20"
+last_updated: "2020-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GRO"
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -1419,6 +1421,44 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]</small>
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 107
+
+BIS.- Por el alta o actualización de datos en el servicio de alerta inmobiliaria según condiciones y disponibilidad del servicio se cobrará por folio:
+
+Suscripción Semestral
+
+Concepto Tarifa
+
+(UMA)
+
+1 folio 2
+
+2 a 3 folios 3
+
+4 a 6 folios 5
+
+7 a 10 folios 7
+
+Más de 10 folios 8
+
+Suscripción Anual
+
+Concepto Tarifa
+
+(UMA)
+
+1 folio 3
+
+2 a 3 folios 4
+
+4 a 6 folios 6
+
+7 a 10 folios 8
+
+Más de 10 folios 9
+
 ### CAPÍTULO VII
 
 DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, DICTÁMENES Y EXPEDICIÓN DE COPIAS Y DOCUMENTOS EMITIDOS POR EL GOBIERNO DEL ESTADO, SUS SECRETARÍAS, DEPENDENCIAS Y ORGANISMOS.
@@ -2063,13 +2103,17 @@ DERECHOS DIVERSOS.
 
 Se cobrarán en Unidad de Medida y Actualización como derechos diversos, por el ejercicio notarial, los siguientes:
 
-I. Autorización de libro para protocolo cerrado 14.07
+I. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2020)
 
-II. Autorización de libros de control de instrumentos 5.54
+II. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2020)
 
-III. Autorización de 150 folios para protocolo abierto 17.64
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
-IV. Expedición de folio de protocolo abierto 9.83
+III. Autorización de 300 folios para protocolo abierto 17.64
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+IV. Expedición de 300 folios de protocolo abierto 20.72
 
 V. Autorización de libro de certificaciones fuera de protocolo 12.39
 
@@ -2083,9 +2127,19 @@ I.- Por la búsqueda de testamento. 16.28
 
 II.- Por la expedición de copias certificadas de documentos, por cada hoja. 1.86
 
-III.- Por la búsqueda de poderes. 16.22
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+III.- Por la búsqueda de instrumentos notariales. 16.22
 
 IV.- Expedición de copias certificadas y simples de los protocolos del Archivo General de Notarías. 2.96 por foja.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+V.- Por las anotaciones marginales de instrumentos notrariales 2.60.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+VI.- Constancia de existencia o inexistencia de instrumentos notariales 2.0.
 
 ###### ARTÍCULO 123.
 
@@ -2497,21 +2551,15 @@ D).- Números sueltos:
 
 2.- Atrasados 0.35
 
-VI.- Papel para los encargados del Registro Civil:
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS NÚMERO 472 PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2020, LA ANTERIOR FRACCIÓN VIII PASÓ A SER LA ACTUAL FRACCIÓN VI.]</small>
 
-a).- Por cada hoja para las copias certificadas 0.35
-
-b).- Por cada formato para el registro de defunción gratuito
-
-c).- Por cada formato para el registro de nacimiento y matrimonio 0.39
-
-VII.- Por cada juego de formas de guia de tránsito de ganado. 84
-
-VIII.- Productos diversos
+VI.- Productos diversos
 
 a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el Ejecutivo del Estado mediante disposición expresa.
 
-b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones que se suministren en las oficinas rentísticas, las que serán previstas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones o formas valoradas digitales que se suministren en las oficinas fiscales, las que serán provistas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2521,9 +2569,15 @@ La Secretaría de Finanzas y Administración proveerá y controlará los formato
 
 c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
-d).- Formato de avaló de bienes inmuebles con fines fiscales, 1.0 unidades de medida y actualización; y Otros.
+d).- Forma valorada digital de avaló de bienes inmuebles con fines fiscales, 1.0 unidades de medida y actualización; y Otros.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+e).- La forma valorada impresa que la Secretaría de Finanzas y Administración del Estado utilice para sus diversos trámites y servicios, deberá actualizarse de forma gradual en formas valoradas digitales, conforme a los lineamientos y costos que se especifiquen en cada caso.
+
+VII.- Por cada juego de formas de guia de tránsito de ganado. 84
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -4078,3 +4132,19 @@ P.O. 20 DE DICIEMBRE DE 2019.
 Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. El presente Acuerdo tendrá vigencia del primero de enero al treinta y uno de diciembre del 2020.
+
+P.O. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 472 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas, adiciones y derogaciones relativas al presente Decreto, entraran en vigor el día 01 de enero del 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+El Servicio de Alerta Inmobiliaria, establecido en el Artículo 107-Bis, entrará en vigor una vez que se publiquen los lineamientos de operatividad y condiciones de prestación del servicio, por parte del Ejecutivo del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
