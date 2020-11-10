@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2019-12-20"
+last_updated: "2020-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -319,9 +319,11 @@ La facultad reglamentaria en materia fiscal corresponde al Gobernador del Estado
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración podrá mediante reglas de carácter general establecer disposiciones relativas a la administración, control, formas de pago y procedimientos, sin variar las relativas al objeto, sujeto, base, tasa o tarifa del gravamen, infracciones y sanciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 19.
 
-La administración, recaudación, fiscalización, control de los ingresos y en su caso la determinación de los impuestos, derechos, productos y aprovechamientos, será competencia de la Secretaría de Finanzas y Administración y sus dependencias, por conducto de las autoridades fiscales que establece el artículo 11 del presente Código.
+La administración, recaudación, fiscalización, control de los ingresos y en su caso la determinación de los impuestos, derechos, productos y aprovechamientos, será competencia de la Secretaría de Finanzas y Administración y sus dependencias, por conducto de las autoridades fiscales que establece el artículo 11 del presente Código. Asimismo, corresponde a la Secretaría de Finanzas y Administración el diseño, elaboración y distribución de los esqueletos de las manifestaciones que se suministren en las Administraciones y Agencias Fiscales o de las formas valoradas digitales para el cobro de los impuestos, derechos, productos y aprovechamientos a favor del Estado.
 
 El Estado, por conducto de la Secretaría de Finanzas y Administración, podrá celebrar convenios de colaboración administrativa en materia hacendaria con los ayuntamientos, sobre las siguientes funciones:
 
@@ -455,9 +457,11 @@ Si el obligado o los obligados no otorgan la garantía señalada o manifiestan l
 
 En ningún caso la ignorancia de las leyes exime su cumplimiento; sin embargo, a juicio de las autoridades fiscales en aquellos casos en que se trate de personas iletradas o que se encuentren en una precaria situación económica, pondrán a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 24.
 
-Las controversias que surjan entre el fisco estatal y el municipal, sobre la preferencia en el cobro de los créditos a que este Código se refiere, serán determinadas por el Tribunal de lo Contencioso Administrativo a instancia de cualesquiera de los entes públicos mencionados, tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
+Las controversias que surjan entre el fisco estatal y el municipal, sobre la preferencia en el cobro de los créditos a que este Código se refiere, serán determinadas por el Tribunal de Justicia Administrativa a instancia de cualesquiera de los entes públicos mencionados, tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
 
 I.- La preferencia en el pago corresponderá al primer embargante, si ninguno de los créditos tiene garantía real;
 
@@ -487,25 +491,45 @@ En ningún caso el fisco estatal entrará en los juicios universales. Cuando se 
 
 Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácter fiscal, se considerarán como auxiliares de las Autoridades Fiscales de la Secretaría de Finanzas y Administración, todas las Autoridades Administrativas y Civiles con Jurisdicción en el Estado de Guerrero.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
-ARTICULO 26 BIS.- La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia del Estado, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+###### ARTICULO 26
+
+Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, así como la Fiscalía General del Estado, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obras públicas con los particulares que:
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 I.- Tengan a su cargo créditos fiscales firmes;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 II.- Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 III.- No se encuentren inscritos en el Registro Estatal y Federal de Contribuyentes; y
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 IV.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad (sic) pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+
 Las dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y Federal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
 
@@ -865,19 +889,17 @@ III.- Que la acción para reclamar la devolución no se haya extinguido;
 
 IV.- Que se dicte acuerdo escrito de la Secretaría de Finanzas y Administración o exista sentencia ejecutoriada de la autoridad correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 V.- Que acompañe a la solicitud de devolución o a la promoción judicial en la que solicite el reembolso de la cantidad erogada, el recibo original con el cual acredite el pago de la cantidad de la cual solicita reintegro.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 Las autoridades fiscales podrán ejercer facultades de comprobación para verificar la procedencia de las solicitudes de devolución que presenten los contribuyentes, las cuales no deberán rebasar el término de noventa días; si de los resultados de la revisión se concluye que es factible la devolución esta deberá hacérsele al contribuyente en un plazo que no excederá de 20 días a aquel en que se notifique la autorización.
 
-Contra la negativa de autoridad competente, para la devolución a que este artículo se refiere, el contribuyente podrá optar por interponer el recurso de revocación que establece este Código o interponer juicio de nulidad, ante el Tribunal de lo Contencioso Administrativo del Estado.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+Contra la negativa de autoridad competente, para la devolución a que este artículo se refiere, el contribuyente podrá optar por interponer el recurso de revocación que establece este Código o interponer juicio de nulidad, ante el Tribunal de Justicia Administrativa del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -1221,7 +1243,9 @@ Las autoridades fiscales deberán contestar las consultas que formulen los parti
 
 En las consultas o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en el término que la ley fija, a falta de término establecido, en tres meses; el silencio de las autoridades fiscales se considera como resolución negativa, cuando no den respuesta en el término que corresponde.
 
-Transcurridos los plazos establecidos para ello, el recurrente podrá decidir entre esperar la resolución expresa o promover el juicio de nulidad en contra de la negativa ficta ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+Transcurridos los plazos establecidos para ello, el recurrente podrá decidir entre esperar la resolución expresa o promover el juicio de nulidad en contra de la negativa ficta ante el Tribunal de Justicia Administrativa.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -1424,6 +1448,10 @@ a). La autoridad fiscal realizará la notificación de cualquier acto o resoluci
 b). Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
 
 c). La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de los contribuyentes, la Cedula Única de Registro Poblacional, el Registro Federal de Contribuyentes y la e.firma emitida por el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+d) El dictamen fiscal a que se refiere el artículo 91-Bis del presente Código, deberá presentarse a través del Buzón Tributario a que se refiere la presente fracción.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3847,7 +3875,9 @@ I.- Que no afecten el interés jurídico del recurrente;
 
 II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de estas o de sentencias;
 
-III.- Que hayan sido impugnadas ante el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+
+III.- Que hayan sido impugnadas ante el Tribunal de Justicia Administrativa;
 
 IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió recurso en el plazo señalado al efecto;
 
@@ -4094,3 +4124,15 @@ P.O. 20 DE DICIEMBRE DE 2019.
 PRIMERO.- Las reformas relativas al presente Decreto, entrarán en vigor el día 01 de enero del 2020.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes, y su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+
+P.O. 10 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 471 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas, adiciones y derogaciones relativas al presente Decreto, entraran en vigor el día 01 de enero del 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
