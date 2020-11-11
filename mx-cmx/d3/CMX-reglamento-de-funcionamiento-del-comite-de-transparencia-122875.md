@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-funcionamiento-del-comite-de-transparencia-122875
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2020-09-14"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -74,7 +74,9 @@ REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORA
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL COMITÉ Y SU INTEGRACIÓN
 
-### CAPITULO III. DE LAS FUNCIONES DE LAS Y LOS INTEGRANTES DEL COMITÉ
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO III. DE LAS FUNCIONES DE LAS PERSONAS INTEGRANTES DEL COMITÉ
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL COMITÉ
 
@@ -82,7 +84,11 @@ REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORA
 
 #### SECCIÓN SEGUNDA. DE LA ASISTENCIA Y EL QUÓRUM
 
-#### SECCIÓN TERCERA. DE LAS AUSENCIAS DE LA PRESIDENCIA Y DE LA SECRETARÍA
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN TERCERA
+
+DE LAS AUSENCIAS DE LA PRESIDENCIA, DE LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA, DE LAS PERSONAS INVITADAS PERMANENTES Y EVENTUALES.
 
 #### SECCIÓN CUARTA. DEL DESARROLLO DE LAS SESIONES
 
@@ -92,19 +98,21 @@ REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORA
 
 ### CAPÍTULO V. DE LAS DETERMINACIONES DEL COMITÉ
 
-### CAPÍTULO VI. DE LAS MINUTAS DE LAS SESIONES
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LAS ACTAS DE LAS SESIONES
 
-> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO VII. DEL MICROSITIO DEL COMITÉ DE TRANSPARENCIA
 
 ## TRANSITORIOS
 
 (REPUBLICADO, G.O. 20 DE MAYO DE 2019)
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DEL COMITÉ Y SU INTEGRACIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### Artículo 1.
 
@@ -128,7 +136,9 @@ d) Ley de Transparencia: Ley de Transparencia, Acceso a la Información Pública
 
 e) Ley General de Archivos.
 
-f) Ley de Archivos Local. Ley de Archivos, aplicable en la Ciudad de México.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+f) Ley de Archivos Local. Ley de Archivos del Distrito Federal.
 
 g) Reglamento de Funcionamiento: el presente Reglamento;
 
@@ -150,17 +160,19 @@ d) Instituto de Transparencia: Instituto de Transparencia, Acceso a la Informaci
 
 e) Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-f) Área Coordinadora de Archivos: Unidad Administrativa coordinadora del Sistema Institucional de Archivos del Instituto Electoral, denominada orgánicamente Subdirección de Archivos; y
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+f) Área Coordinadora de Archivos: Subdirección de Archivos adscrita a la Secretaría Ejecutiva; y
 
 g) Unidad de Transparencia: Orgánicamente denominada Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral.
 
 III. Integración del Comité: Órgano colegiado integrado por las personas servidoras públicas del Instituto Electoral, conformado de acuerdo con lo establecido en los artículos 88 de la Ley de Transparencia y 6 del presente Reglamento.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-En la aplicación y, en su caso, interpretación de las disposiciones del presente ordenamiento, se realizará conforme en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte, en la Ley General, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo aquella que proteja con mejor eficacia el Derecho de Acceso a la Información Pública.
+En la aplicación y, en su caso, interpretación de las disposiciones del presente ordenamiento, se realizará conforme lo estipulado en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte, en la Ley General de Transparencia y Acceso a la Información Pública, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo aquella que proteja con mejor eficacia el Derecho de Acceso a la Información Pública.
 
 > <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -180,7 +192,7 @@ En materia de gestión archivística: Conservación, procedencia, integridad, di
 
 (REPUBLICADO, G.O. 20 DE MAYO DE 2019)
 
-### CAPÍTULO III. DE LAS FUNCIONES DE LAS Y LOS INTEGRANTES DEL COMITÉ
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL COMITÉ Y SU INTEGRACIÓN
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -200,7 +212,9 @@ Apartado A. Atribuciones en materia de transparencia y acceso a la información 
 
 I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
-II. Confirmar, modificar o revocar la clasificación de la información o declaración de inexistencia o incompetencia que realicen los titulares de las áreas, de conformidad con los Lineamientos Generales en materia de Clasificación;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+II. Confirmar, modificar o revocar la clasificación de la información o declaración de inexistencia o incompetencia que realicen las personas titulares de las áreas, de conformidad con los Lineamientos Generales en materia de Clasificación;
 
 III. Ordenar, en su caso, a las áreas competentes que generen la información que, derivado de sus facultades, competencias y funciones deban tener en posesión, o que previa acreditación de la imposibilidad de su generación, expongan las razones por las cuales en el caso particular no ejercieron dichas facultades, competencias o funciones;
 
@@ -216,7 +230,9 @@ VIII. Revisar la clasificación de información y resguardar la información, en
 
 IX. Suscribir las declaraciones de inexistencia de la información o de acceso restringido;
 
-X. Elaborar y enviar al Instituto de Transparencia, de conformidad con los criterios que expida, la información señalada para la elaboración del informe del Instituto de transparencia;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+X. Elaborar y enviar al Instituto de Transparencia, de conformidad con los criterios que expida, la información solicitada para la elaboración de su informe anual;
 
 XI. Supervisar la aplicación de los criterios específicos del Instituto Electoral, en materia de catalogación y conservación de los documentos administrativos, así como la organización de archivos;
 
@@ -240,17 +256,25 @@ IV. Establecer y supervisar la aplicación de criterios específicos que resulte
 
 V. Supervisar, en coordinación con las áreas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad;
 
-VI. Establecer programas de capacitación y actualización para los servidores públicos en materia de protección de datos personales; y
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VII. Dar vista a la Contraloría Interna en aquellos casos en que tenga conocimiento, en el ejercicio de sus atribuciones, de una presunta irregularidad respecto de determinado tratamiento de datos personales; particularmente en casos relacionados con la declaración de inexistencia que realicen los responsables.
+VI. Establecer programas de capacitación y actualización para las personas servidoras públicos en materia de protección de datos personales; y
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VII. Dar vista a la Contraloría Interna en aquellos casos en que tenga conocimiento, en el ejercicio de sus atribuciones, de una presunta irregularidad respecto de determinado tratamiento de datos personales; particularmente en casos relacionados con la declaración de inexistencia que realicen las personas responsables.
 
 Apartado C. Atribuciones en materia de gestión de archivos.
 
-I. Designar un representante ante el COTECIAD, a fin de proponer y aprobar políticas, manuales e instrumentos archivísticos formulados por el Área Coordinadora de Archivos;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+I. Designar un representante ante el COTECIAD, con derecho a voz y voto, a fin de proponer y aprobar políticas, manuales e instrumentos archivísticos formulados por el Área Coordinadora de Archivos;
 
 II. Apoyar en los programas de valoración documental;
 
-III. Coadyuvar con el COTECIAD, en el desarrollo de medidas y acciones permanentes para el resguardo y conservación de documentos y expedientes clasificados, y de aquellos que sean parte de los sistemas de datos personales en coordinación y concertación con los responsables de las unidades de archivo;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+III. Coadyuvar con el COTECIAD, en el desarrollo de medidas y acciones permanentes para el resguardo y conservación de documentos y expedientes clasificados, y de aquellos que sean parte de los sistemas de datos personales en coordinación y concertación con las personas responsables de las unidades de archivo;
 
 IV. Dar seguimiento a la aplicación de los instrumentos de control y consulta archivísticos para la protección de la información confidencial;
 
@@ -272,23 +296,33 @@ III. Vocales:
 
 a) Titular de la Secretaría Administrativa;
 
-b) Titular de la Unidad Técnica de Comunicación Social y Difusión;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-c) Titular de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados; y
+b) Titular de la Contraloría Interna;
+
+c) Titular de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados;
 
 d) Titular de la Unidad Técnica de Asuntos Jurídicos.
 
-IV. Las y los Invitados Permanentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-a) Titular de la Contraloría Interna;
+IV. Las personas Invitadas Permanentes:
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+a) Titular de la Unidad Técnica de Comunicación Social y Difusión;
 
 b) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
 
-c) Las personas servidoras públicas que designen las y los Consejeros Electorales; y
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+c) Las personas servidoras públicas que designen las Consejeras Electorales y los Consejeros Electorales; y
 
 d) La persona servidora pública que designe la Secretaría Ejecutiva en el Área Coordinadora de Archivos.
 
-V. Las y los Invitados Eventuales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+V. Las personas Invitadas Eventuales:
 
 a) Titular de la Secretaría Ejecutiva;
 
@@ -310,39 +344,41 @@ i) Titular de la Unidad Técnica de Género y Derechos Humanos; y
 
 j) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
 
-Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Las personas integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona.
 
 ###### Artículo 7.
 
 (DEROGADO, G.O. 20 DE MAYO DE 2019)
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 8.
+
+Las personas servidoras públicas integrantes del Comité de Transparencia que ocupen la Presidencia, Secretaría Técnica y las personas Vocales firmarán las actas de las sesiones en que participen.
+
+La Presidencia y las personas Vocales, tendrán derecho a voz y voto en los asuntos que se sometan a la consideración del Comité de Transparencia.
+
+La persona Titular de la Secretaría Técnica, las personas invitadas permanentes y eventuales sólo tendrán derecho a voz.
+
+Las personas invitadas eventuales solo podrán hacer uso de la voz, pero sin voto, respecto de los asuntos para los que se haya solicitado su presencia.
+
+Las personas integrantes del Comité se conducirán en todo momento con respeto durante el desarrollo de las sesiones del Comité, a efecto de propiciar su correcta celebración, además tienen la obligación de guardar discreción y confidencialidad en los asuntos que conozcan. La contravención a esta disposición será objeto de responsabilidad administrativa.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 8.
+
+BIS. La designación de la Presidencia del Comité de Transparencia deberá realizarse por acuerdo y se informará al Instituto de Transparencia, por conducto de la Secretaría Técnica, en un plazo máximo de quince días hábiles, contados a partir de la fecha en que se realice la sesión del Comité en que se emita dicho acuerdo.
+
+Ante la falta de la Secretaría Técnica por alguna causa, el Comité designará a otra persona, dentro de las personas Vocales presentes, para el desahogo de la sesión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO III. DE LAS FUNCIONES DE LAS PERSONAS INTEGRANTES DEL COMITÉ
+
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-###### Artículo 8.
-
-Las personas servidoras públicas integrantes del Comité de Transparencia que ocupen la Presidencia, Secretaría Técnica y los Vocales firmarán las actas de las sesiones en que participen.
-
-La Presidencia y Vocales, tendrán derecho a voz y voto en los asuntos que se sometan a la consideración del Comité de Transparencia.
-
-La persona Titular de la Secretaría Técnica, las y los invitados permanentes y eventuales sólo tendrán derecho a voz.
-
-Las y los invitados eventuales solo podrán hacer uso de la voz, pero sin voto, respecto de los asuntos para los que se haya solicitado su presencia.
-
-Las y los integrantes del Comité se conducirán en todo momento con respeto durante el desarrollo de las sesiones del Comité, a efecto de propiciar su correcta celebración, además tienen la obligación de guardar discreción y confidencialidad en los asuntos que conozcan. La contravención a esta disposición será objeto de responsabilidad administrativa.
-
-> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-###### Artículo 8.
-
-BIS. La designación del Presidente o Presidenta del Comité de Transparencia deberá realizarse por acuerdo y se informará al Instituto de Transparencia, por conducto de la Secretaría Técnica, en un plazo máximo de quince días hábiles, contados a partir de la fecha en que se realice la sesión del Comité en que se emita dicho acuerdo.
-
-Ante la falta de la Secretaría Técnica por alguna causa, el Comité designará a otra persona, dentro de los vocales presentes, para el desahogo de la sesión.
-
-(REPUBLICADO, G.O. 20 DE MAYO DE 2019)
-
-### CAPÍTULO IV. DE LAS SESIONES DEL COMITÉ
-
-> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### Artículo 9.
 
@@ -350,7 +386,9 @@ La Presidencia tiene las funciones siguientes:
 
 I. Instruir a la persona Titular de la Secretaría Técnica para que convoque a las sesiones del Comité.
 
-II. Proponer el proyecto de orden del día de cada sesión incorporando, según corresponda, los asuntos de su competencia, así como las propuestas que reciba de las y los integrantes del Comité;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+II. Proponer el proyecto de orden del día de cada sesión incorporando, según corresponda, los asuntos de su competencia, así como las propuestas que reciba de las personas integrantes del Comité;
 
 III. Solicitar y tramitar ante el Instituto de Transparencia el registro del Comité, dentro de los diez días hábiles posteriores a su integración y en caso de que el Instituto de Transparencia requiera alguna información adicional se coordinará con la persona Titular de la Secretaría Técnica para atender el requerimiento en los plazos señalados por el Lineamiento.
 
@@ -358,11 +396,15 @@ IV. Asistir, presidir y conducir las sesiones del Comité;
 
 V. Declarar el inicio y conclusión de las sesiones;
 
-VI. Conceder el uso de la palabra a las y los integrantes del Comité invitados a la sesión;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VI. Conceder el uso de la palabra a las personas integrantes del Comité e invitados a la sesión;
 
 VII. Participar en las deliberaciones de las sesiones del Comité;
 
-VIII. Consultar a las y los integrantes del Comité si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Consultar a las personas integrantes del Comité si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
 
 IX. Solicitar a la persona Titular de la Secretaría Técnica someta a votación los asuntos, según corresponda;
 
@@ -380,11 +422,15 @@ XV. Presentar ante el Consejo General los informes que deba rendir el Comité de
 
 XVI. Supervisar el archivo del Comité;
 
-XVII. Enviar al Instituto de Transparencia dentro de los primeros quince días hábiles de los meses de enero y julio de cada ario, la información requerida respecto al Cuestionario de Funcionamiento del Comité con base en la información proporcionada por la Unidad de Transparencia y las áreas competentes;
+XVII. Enviar al Instituto de Transparencia dentro de los primeros quince días hábiles de los meses de enero y julio de cada año, la información requerida respecto al Cuestionario de Funcionamiento del Comité con base en la información proporcionada por la Unidad de Transparencia y las áreas competentes;
 
-XVIII. Instruir al Secretario Técnico para que, en los plazos y condiciones establecidas por el Instituto de Transparencia, proporcione información respecto al registro del Comité; personas servidoras públicas integrantes del Comité de Transparencia, de la Secretaría Técnica, de los suplentes, proporcionando los acuerdos de aprobación y el número de registro del Comité.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Instruir al Secretario Técnico para informar al Instituto de Transparencia las actualizaciones de las personas integrantes del Comité, suplentes y la persona Titular de la Secretaría Técnica, en un plazo de diez días hábiles a partir de que surja la sustitución;
+XVIII. Instruir a la Secretaría Técnica para que, en los plazos y condiciones establecidas por el Instituto de Transparencia, proporcione información respecto al registro del Comité; personas servidoras públicas integrantes del Comité de Transparencia, de la Secretaría Técnica, de las personas suplentes, proporcionando los acuerdos de aprobación y el número de registro del Comité.
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+XIX. Instruir a la Secretaría Técnica para informar al Instituto de Transparencia las actualizaciones de las personas integrantes del Comité, suplentes y la persona Titular de la Secretaría Técnica, en un plazo de diez días hábiles a partir de que surja la sustitución;
 
 XX. Proponer el Calendario Anual de Sesiones; y
 
@@ -398,7 +444,9 @@ La persona Titular de la Secretaría Técnica tiene las funciones siguientes:
 
 I. Convocar previa instrucción de la Presidencia del Comité a las sesiones ordinarias, extraordinarias y urgentes; así como a las reuniones de trabajo relacionadas con los temas de su competencia;
 
-II. Convocar previa instrucción de la Presidencia del Comité a las y los invitados eventuales para participar en las sesiones y/o reuniones de trabajo, a solicitud de cualquiera de las y los integrantes del Comité o bien cuando, en atención a sus conocimientos técnicos o administrativos en el tema a discutir, se considere que su participación es necesaria para el adecuado desahogo de los asuntos a tratar. Para tales efectos, podrá solicitar a éstos la presentación de informes o documentos relativos al asunto del orden del día para el que fueren convocados;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+II. Convocar previa instrucción de la Presidencia del Comité a las personas invitadas eventuales para participar en las sesiones y/o reuniones de trabajo, a solicitud de cualquiera de las personas integrantes del Comité o bien cuando, en atención a sus conocimientos técnicos o administrativos en el tema a discutir, se considere que su participación es necesaria para el adecuado desahogo de los asuntos a tratar. Para tales efectos, podrá solicitar a éstas la presentación de informes o documentos relativos al asunto del orden del día para el que fueren convocados;
 
 III. Elaborar el proyecto de orden del día de la sesión;
 
@@ -428,9 +476,13 @@ XV. Firmar los acuerdos, actas y resoluciones emitidos por el Comité, así como
 
 XVI. Integrar y resguardar el archivo del Comité de conformidad con la normativa aplicable;
 
-XVII. Incorporar, bajo su responsabilidad, las observaciones formuladas por las y los integrantes del Comité respecto de los documentos analizados en la sesión y darles trámite de inmediato;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. Enviar copia del acta aprobada de cada sesión a las y los integrantes del Comité;
+XVII. Incorporar, bajo su responsabilidad, las observaciones formuladas por las personas integrantes del Comité respecto de los documentos analizados en la sesión y darles trámite de inmediato;
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Enviar copia del acta aprobada de cada sesión a las personas integrantes del Comité;
 
 XIX. Solicitar a las áreas la información necesaria para elaborar los informes que deba presentar el Comité, conforme a la normativa aplicable;
 
@@ -440,63 +492,97 @@ XXI. Atender las solicitudes y requerimientos de la Presidencia;
 
 XXII. Las demás que le confiera el presente ordenamiento y la normativa aplicable.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Las y los Vocales tienen las funciones siguientes:
+Las personas Vocales tienen las funciones siguientes:
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 I. Proponer la inclusión de asuntos en el orden del día de las sesiones, de acuerdo con las formalidades previstas en este ordenamiento;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 II. Asistir a las sesiones del Comité a las que se les convoque;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 III. Solicitar a la Presidencia que convoque a sesión extraordinaria, urgente o reunión de trabajo;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 IV. Participar en las deliberaciones de las sesiones;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 V. Votar respecto de los asuntos o documentos que por su naturaleza deban ser sometidos a votación;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 VI. Contribuir al buen desarrollo de las sesiones;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 VII. Firmar los acuerdos, actas y resoluciones emitidos por el Comité; y
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 VIII. Las demás que les confiera el presente ordenamiento y la normativa aplicable.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-Las y los invitados permanentes tienen las funciones siguientes:
+Las personas invitadas permanentes tienen las funciones siguientes:
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 I. Asistir a las sesiones del Comité a las que se les convoque;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 II. Analizar los documentos anexos a la convocatoria que reciban;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 III. Participar en las deliberaciones de la sesión;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 IV. Emitir observaciones a los documentos anexos a la convocatoria;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 V. Contribuir al buen desarrollo de las sesiones;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 VI. Orientar sobre algún tema, a solicitud de alguna persona integrante del Comité o cuando se considere necesaria su participación, respecto del asunto de que se trate;
 
-VII. La o el Titular de la Unidad Técnica del Centro de Formación y Desarrollo presentará el Programa Anual de Capacitación en materia de transparencia, acceso a la información, protección de datos personales, archivos, accesibilidad y apertura gubernamental, en coordinación con la Unidad de Transparencia, en términos de la normativa aplicable;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VIII. La persona que funja como titular del Área Coordinadora de Archivos formulará la instrumentación archivística necesaria para el desarrollo de los procesos de gestión archivística y la correcta administración de archivos; y
+VII. La persona Titular de la Unidad Técnica del Centro de Formación y Desarrollo presentará el Programa Anual de Capacitación en materia de transparencia, acceso a la información, protección de datos personales, archivos, accesibilidad y apertura gubernamental, en coordinación con la Unidad de Transparencia, en términos de la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VIII. La persona que funja como como (sic) titular del Área Coordinadora de Archivos formulará la instrumentación archivística necesaria para el desarrollo de los procesos de gestión archivística y la correcta administración de archivos; y
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 IX. Las demás que les confiera el presente ordenamiento y la normativa aplicable.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-Las y los invitados eventuales tendrán las mismas funciones establecidas para las y los invitados permanentes, quienes solo podrán hacer uso de la voz, pero sin voto, respecto de los asuntos para los que se haya solicitado su presencia; asimismo, elaborarán, en su caso, los informes o documentos sobre el asunto del orden del día para el que se les convoque.
+Las personas invitadas eventuales tendrán las mismas funciones establecidas para las personas invitadas permanentes, quienes solo podrán hacer uso de la voz, pero sin voto, respecto de los asuntos para los que se haya solicitado su presencia; asimismo, elaborarán, en su caso, los informes o documentos sobre el asunto del orden del día para el que se les convoque.
 
 (REPUBLICADO, G.O. 20 DE MAYO DE 2019)
 
-### CAPÍTULO V. DE LAS DETERMINACIONES DEL COMITÉ
+### CAPÍTULO IV. DE LAS SESIONES DEL COMITÉ
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### Artículo 14.
 
@@ -514,11 +600,11 @@ El Comité sesionará mensualmente de forma ordinaria y podrá hacerlo de manera
 
 El tipo de sesión se precisará en la convocatoria que emita la Presidencia y se hará constar en las actas correspondientes.
 
-(REPUBLICADO, G.O. 20 DE MAYO DE 2019)
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-En la primera sesión de cada año, la Presidencia someterá a la consideración del Comité el Proyecto de Calendario de Sesiones Ordinarias, el cual, en su caso, será aprobado por las y los integrantes del Comité con derecho a voto.
+En la primera sesión de cada año, la Presidencia someterá a la consideración del Comité el Proyecto de Calendario de Sesiones Ordinarias, el cual, en su caso, será aprobado por las personas integrantes del Comité con derecho a voto.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -552,15 +638,15 @@ La Presidencia podrá declarar al Comité en sesión permanente, cuando así lo 
 
 #### SECCIÓN PRIMERA. DE LA CONVOCATORIA
 
-(REPUBLICADO, G.O. 20 DE MAYO DE 2019)
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-La Presidencia convocará a las y los integrantes del Comité, por escrito, por el Sistema de Control de Documentos del Instituto Electoral y, en su caso, por correo electrónico institucional, para que asistan a la celebración de la sesión el día y hora que al efecto se indique.
+La Secretaría Técnica por instrucciones de la Presidencia convocará a las personas integrantes del Comité, por escrito, por el Sistema de Control de Documentos del Instituto Electoral y, en su caso, por correo electrónico institucional, para que asistan a la celebración de la sesión el día y hora que al efecto se indique.
 
-Las y los invitados permanentes designados por las oficinas de las y los Consejeros Electorales, serán convocados a la sesión de que se trate, a través de la o el Consejero Electoral al que representen en el Comité.
+Las personas invitadas permanentes designadas por las oficinas de las Consejeras Electorales y los Consejeros Electorales, serán convocados a la sesión de que se trate, a través de la Consejera Electoral o el Consejero Electoral al que representen en el Comité.
 
-Las y los invitados eventuales serán citados por la Presidencia, cuando propongan la clasificación o declaratoria de inexistencia de la información; asimismo, cuando se considere necesaria su intervención.
+Las personas invitadas eventuales serán citadas por la Presidencia, cuando propongan la clasificación o declaratoria de inexistencia de la información; asimismo, cuando se considere necesaria su intervención.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -572,7 +658,9 @@ I. El proyecto de orden del día; y
 
 II. Los documentos necesarios para el estudio y discusión de los asuntos a tratar.
 
-En atención al volumen de la documentación que se deba adjuntar, ésta podrá ser distribuida mediante correo electrónico institucional o medio electrónico a las y los integrantes del Comité.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+En atención al volumen de la documentación que se deba adjuntar, ésta podrá ser distribuida mediante correo electrónico institucional o medio electrónico a las personas integrantes del Comité.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -584,7 +672,9 @@ I. Análisis, discusión y, en su caso, aprobación de los asuntos propuestos po
 
 II. Asuntos generales.
 
-En el punto correspondiente a asuntos generales, las y los integrantes del Comité, podrán plantear y exponer temas que consideren pertinentes. Sin que en su discusión se puedan tomar acuerdos.
+(REPUBLICADO, G.O. 11 DE NOVIEMBRE DE 2020)
+
+En el punto correspondiente a asuntos generales, las personas integrantes del Comité podrán plantear y exponer temas que consideren pertinentes. Sin que en su discusión se puedan tomar acuerdos.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -592,21 +682,33 @@ En el punto correspondiente a asuntos generales, las y los integrantes del Comit
 
 El proyecto de orden del día de las sesiones extraordinarias y urgentes, como mínimo deberá incluir, la descripción del asunto o asuntos que motivaron su convocatoria; pero en ningún caso se incluirán asuntos generales.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 25.
 
-Cuando el orden del día indique que en la sesión se tratarán asuntos que impliquen la declaratoria de inexistencia de información o su clasificación, la Unidad de Transparencia remitirá al Comité el proyecto de resolución y, en su caso, las propuestas conducentes, con la anticipación necesaria, a fin de que la respuesta sea notificada al interesado en el menor tiempo posible el cual no podrá exceder de nueve días hábiles, contados a partir del día siguiente de la presentación de la solicitud.
+Cuando el orden del día indique que en la sesión se tratarán asuntos que impliquen la declaratoria de inexistencia de información o su clasificación, la Unidad de Transparencia remitirá al Comité el proyecto de resolución y, en su caso, las propuestas conducentes, con la anticipación necesaria, a fin de que la respuesta sea notificada a la persona interesada en el menor tiempo posible el cual no podrá exceder de nueve días hábiles, contados a partir del día siguiente de la presentación de la solicitud.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 En caso de que el acuerdo adoptado por el Comité, otorgue el acceso a una versión pública de la información, por contener partes o secciones reservadas o confidenciales, se deberá fundar y motivar la clasificación, así como señalar, cuando proceda, los costos de reproducción y, en su caso, de su envío, de acuerdo a las distintas modalidades de acceso.
 
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 En dicha resolución deberá incluirse el acuerdo emitido por el Comité.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 El Instituto Electoral deberá esforzarse por reducir al máximo los costos de entrega de información y para ello podrán hacer uso de los expedientes y archivos digitalizados.
 
-Cuando la modalidad elegida no implique costos, el área correspondiente del Instituto Electoral, deberá elaborar la versión pública atinente, dentro de las 48 horas siguientes, remitiéndola a la Unidad de Transparencia para que por su conducto se haga del conocimiento al solicitante la respuesta.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-En el caso de que la modalidad de selección implique un costo, una vez que el solicitante acredite el pago de los derechos correspondientes, el área competente del Instituto Electoral procederá a elaborar la versión pública atinente, dentro de las 48 horas siguientes, remitiéndola a la Unidad de Transparencia para que por su conducto se haga del conocimiento al solicitante la respuesta.
+Cuando la modalidad elegida no implique costos, el área correspondiente del Instituto Electoral, deberá elaborar la versión pública atinente, dentro de las 48 horas siguientes, remitiéndola a la Unidad de Transparencia para que por su conducto se haga del conocimiento a la persona solicitante la respuesta.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de que la modalidad de selección implique un costo, una vez que el solicitante acredite el pago de los derechos correspondientes, el área competente del Instituto Electoral procederá a elaborar la versión pública atinente, dentro de las 48 horas siguientes, remitiéndola a la Unidad de Transparencia para que por su conducto se haga del conocimiento a la persona solicitante la respuesta.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 Después de sesenta días hábiles de haberse emitido la respuesta operará la caducidad del trámite, en cuyo caso, la Unidad de Transparencia emitirá el acuerdo respectivo, mismo que será fijado en los estrados de dicha oficina.
 
@@ -614,79 +716,89 @@ Después de sesenta días hábiles de haberse emitido la respuesta operará la c
 
 #### SECCIÓN SEGUNDA. DE LA ASISTENCIA Y EL QUÓRUM
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 26.
 
-Las y los integrantes del Comité se reunirán el día, hora y lugar fijados en la convocatoria para celebrar la sesión de que se trate.
+Las personas integrantes del Comité se reunirán el día, hora y lugar fijados en la convocatoria para celebrar la sesión de que se trate.
 
-Las y los integrantes del Comité deberán asistir personalmente a las sesiones a que sean convocados.
+Las personas integrantes del Comité deberán asistir personalmente a las sesiones a que sean convocados.
 
-Excepcionalmente, las personas que funjan como los invitados permanentes podrán designar un suplente para que asista a las sesiones del Comité, quien ejercerá las funciones que correspondan. Lo anterior, deberá comunicarse por escrito a la Presidencia o a la persona Titular de la Secretaría Técnica antes del inicio de la sesión.
+Excepcionalmente, las personas invitadas permanentes podrán designar un suplente para que asista a las sesiones del Comité, quien ejercerá las funciones que correspondan. Lo anterior, deberá comunicarse por escrito a la Presidencia o a la Secretaría Técnica antes del inicio de la sesión.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 27.
 
-La Presidencia solicitará a la persona Titular de la Secretaría Técnica verifique la asistencia de las y los integrantes del Comité y declare, en su caso, la existencia del quórum para sesionar.
+La Presidencia solicitará a la Secretaría Técnica verifique la asistencia de las personas integrantes del Comité y declare, en su caso, la existencia del quórum para sesionar.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 El Comité podrá sesionar cuando estén presentes la mayoría de sus integrantes con derecho a voz y voto, entendiéndose como la mitad más uno, con la excepción establecida en el artículo siguiente.
 
-La asistencia de las y los participantes sin derecho a voto en las sesiones del Comité, no será considerada para la integración del quórum.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+La asistencia de las personas participantes sin derecho a voto en las sesiones del Comité, no será considerada para la integración del quórum.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Si después de treinta minutos de la hora fijada en la convocatoria para el inicio de la sesión, no se ha reunido el quórum de asistencia, la sesión será pospuesta y se convocará de nueva cuenta a las y los integrantes ausentes con derecho a voz y voto para celebrar la sesión al siguiente día hábil, quedando notificadas las personas presentes. La persona Titular de la Secretaría Técnica asentará el hecho en el acta de la sesión.
+Si después de treinta minutos de la hora fijada en la convocatoria para el inicio de la sesión, no se ha reunido el quórum de asistencia, la sesión será pospuesta y se convocará de nueva cuenta a las personas integrantes ausentes con derecho a voz y voto para celebrar la sesión al siguiente día hábil, quedando notificadas las personas presentes. La Secretaría Técnica asentará el hecho en el acta de la sesión.
 
-Cuando se convoque a sesión extraordinaria o urgente para tratar los asuntos a que se refiere el artículo 25 del presente Reglamento, esta se celebrará con las y los integrantes del Comité con derecho a voz y voto que concurran a ella.
+Cuando se convoque a sesión extraordinaria o urgente para tratar los asuntos a que se refiere el artículo 25 del presente Reglamento, esta se celebrará con las personas integrantes del Comité con derecho a voz y voto que concurran a ella.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN TERCERA
 
-DE LAS AUSENCIAS DE LA PRESIDENCIA, DE LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA, DE LAS Y LOS INVITADOS PERMANENTES Y EVENTUALES.
+DE LAS AUSENCIAS DE LA PRESIDENCIA, DE LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA, DE LAS PERSONAS INVITADAS PERMANENTES Y EVENTUALES.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-En caso de ausencia temporal de la Presidencia, el Comité será presidido por el Vocal, que para tal efecto designen los integrantes por mayoría de votos y se tomará acuerdo de dicha designación.
+En caso de ausencia temporal de la Presidencia, el Comité será presidido por la persona Vocal, que para tal efecto designen las personas integrantes por mayoría de votos y se tomará acuerdo de dicha designación.
 
-Si la ausencia se produce desde el inicio de la sesión, la persona Titular de la Secretaría Técnica verificará la existencia de quórum y procederá a declarar un receso a efecto de informar al Comité la ausencia de la Presidencia.
+Si la ausencia se produce desde el inicio de la sesión, la Secretaría Técnica verificará la existencia de quórum y procederá a declarar un receso a efecto de informar al Comité la ausencia de la Presidencia.
 
-En el supuesto de ausencia definitiva de la Presidencia, el Comité será presidido por el Vocal con la jerarquía inmediata inferior, hasta que los integrantes del Comité designen la persona que ocupará la Presidencia.
+En el supuesto de ausencia definitiva de la Presidencia, el Comité será presidido por la persona Vocal con la jerarquía inmediata inferior, hasta que las personas integrantes del Consejo General designen la persona que ocupará la Presidencia.
 
-En caso de ausencia temporal o definitiva de la Secretaría Técnica, el Presidente o Presidenta del Comité designará a otra persona, dentro de los vocales presentes.
+En caso de ausencia temporal o definitiva de la Secretaría Técnica, la Presidencia del Comité designará a otra persona, dentro de las personas Vocales presentes.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Cada titular, en su calidad de Vocal, deberá nombrar un suplente, cuya designación recaerá en la persona que ocupe el cargo de la jerarquía inmediata inferior.
+Cada persona titular, en su calidad de Vocal, deberá nombrar un suplente, cuya designación recaerá en la persona que ocupe el cargo de la jerarquía inmediata inferior.
 
-En caso de ausencia temporal o definitiva de los Vocales, ocupará su lugar la o el servidor público designado como suplente que ocupe el cargo de la jerarquía inmediata inferior, quien tendrá voz y voto y firmará las actas de las sesiones a las que asistan en esa calidad.
+En caso de ausencia temporal o definitiva de las personas Vocales, ocupará su lugar la persona servidora pública designada como suplente que ocupe el cargo de la jerarquía inmediata inferior, quien tendrá voz y voto y firmará las actas de las sesiones a las que asistan en esa calidad.
 
 (REPUBLICADA, G.O. 20 DE MAYO DE 2019)
 
 #### SECCIÓN CUARTA. DEL DESARROLLO DE LAS SESIONES
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-Verificada la existencia del quórum, la Presidencia declarará el inicio de la sesión e instruirá a la persona Titular de la Secretaría Técnica dar cuenta del proyecto de orden del día, para someterlo a la consideración de los integrantes del Comité.
+Verificada la existencia del quórum, la Presidencia declarará el inicio de la sesión e instruirá a la persona Titular de la Secretaría Técnica dar cuenta del proyecto de orden del día, para someterlo a la consideración de las personas integrantes del Comité.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-Las y los integrantes del Comité con derecho a voz y voto podrán:
+Las personas integrantes del Comité con derecho a voz y voto podrán:
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 I. Aprobar el proyecto de orden del día, en sus términos; o
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 II. Formular propuestas para modificar el proyecto de orden del día.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 En caso de que el proyecto de orden del día no sea aprobado, la sesión se dará por concluida.
 
@@ -696,13 +808,17 @@ En caso de que el proyecto de orden del día no sea aprobado, la sesión se dar�
 
 Aprobado el orden del día, la Presidencia instruirá a la persona Titular de la Secretaría Técnica para que, en votación económica o nominal, consulte a los integrantes si se dispensa la lectura de los documentos que hayan sido distribuidos previamente.
 
-Las y los integrantes del Comité con derecho a voto podrán dispensar la lectura de la totalidad de documentos, o bien, reservarse los que consideren necesarios para que la persona Titular de la Secretaría Técnica dé lectura a los mismos, a fin de ilustrar la discusión.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+Las personas integrantes del Comité con derecho a voto podrán dispensar la lectura de la totalidad de documentos, o bien, reservarse los que consideren necesarios para que la persona Titular de la Secretaría Técnica dé lectura a los mismos, a fin de ilustrar la discusión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-Las y los integrantes del Comité que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los documentos que se sometan a su consideración, podrán presentarlas por escrito a la persona Titular de la Secretaría Técnica antes del inicio de la sesión convocada, o bien durante el desarrollo de ésta.
+Las personas integrantes del Comité que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los documentos que se sometan a su consideración, podrán presentarlas por escrito a la persona Titular de la Secretaría Técnica antes del inicio de la sesión convocada, o bien durante el desarrollo de ésta.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 Lo anterior, sin perjuicio de que durante el desarrollo de la sesión puedan formular nuevas observaciones, por escrito o verbalmente, al punto del orden del día que se discuta; observaciones que, en su caso, servirán para modificar los documentos sometidos a su consideración.
 
@@ -712,15 +828,19 @@ Lo anterior, sin perjuicio de que durante el desarrollo de la sesión puedan for
 
 Durante la sesión los asuntos serán discutidos y, en su caso, sometidos a votación conforme al orden del día aprobado.
 
-La Presidencia dará el uso de la palabra a las y los integrantes del Comité que lo soliciten. Para tal efecto, se elaborará una lista de personas oradoras conforme al orden en que soliciten el uso de la palabra y se abrirán tres rondas intervenciones que no podrán exceder de cinco minutos en la primera, tres minutos en la segunda y de un minuto en la tercera.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-Las y los invitados eventuales deberán estar presentes al inicio de la sesión para la que se les convocó. Sólo intervendrán en el asunto de su competencia; agotada su participación, podrán retirarse.
+La Presidencia dará el uso de la palabra a las personas integrantes del Comité que lo soliciten. Para tal efecto, se elaborará una lista de personas oradoras conforme al orden en que soliciten el uso de la palabra y se abrirán tres rondas intervenciones que no podrán exceder de cinco minutos en la primera, tres minutos en la segunda y de un minuto en la tercera.
 
-(REPUBLICADO, G.O. 20 DE MAYO DE 2019)
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Las personas invitadas eventuales deberán estar presentes al inicio de la sesión para la que se les convocó. Sólo intervendrán en el asunto de su competencia; agotada su participación, podrán retirarse.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-Las y los oradores no podrán ser interrumpidos durante sus intervenciones, salvo por la Presidencia para solicitarles se atengan al punto del orden del día o conminarlos a conducirse en términos del presente Reglamento.
+Las personas oradoras no podrán ser interrumpidos durante sus intervenciones, salvo por la Presidencia para solicitarles se atengan al punto del orden del día o conminarlos a conducirse en términos del presente Reglamento.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -728,57 +848,59 @@ Las y los oradores no podrán ser interrumpidos durante sus intervenciones, salv
 
 El Comité, a solicitud de alguno de sus integrantes, podrá posponer la discusión o votación de algún punto del orden del día. En este caso, el asunto se discutirá o, en su caso, votará cuando se supere la causa que motivó su aplazamiento.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-En el caso de sesiones ordinarias, al desahogar el punto de asuntos generales, la Presidencia consultará a las y los integrantes si desean proponer algún tema para ser analizado, a fin de que, una vez registrados, la persona Titular de la Secretaría Técnica dé cuenta de ellos al Comité. Sin que en su discusión se puedan tomar acuerdos.
+En el caso de sesiones ordinarias, al desahogar el punto de asuntos generales, la Presidencia consultará a las personas integrantes si desean proponer algún tema para ser analizado, a fin de que, una vez registrados, la persona Titular de la Secretaría Técnica dé cuenta de ellos al Comité. Sin que en su discusión se puedan tomar acuerdos.
 
 (REPUBLICADA, G.O. 20 DE MAYO DE 2019)
 
 #### SECCIÓN QUINTA. DE LAS VOTACIONES
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
 Cuando no se inscriban personas oradoras respecto de un asunto o se considere que el mismo está suficientemente discutido, la persona Titular de la Secretaría Técnica, por instrucciones de la Presidencia, procederá a recabar la votación correspondiente respecto de los temas que así lo requieran.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-Las y los integrantes con derecho a voto, lo ejercerán levantando la mano. La persona Titular de la Secretaría Técnica recabará, en primer término, los votos a favor y, posteriormente, los votos en contra.
+Las personas integrantes con derecho a voto, lo ejercerán levantando la mano. La Secretaría Técnica recabará, en primer término, los votos a favor y, posteriormente, los votos en contra.
 
-De manera excepcional, el Comité podrá acordar a solicitud de alguno de sus integrantes con derecho a voto, que la votación se recabe en forma nominal. En este supuesto, la persona Titular de la Secretaría Técnica solicitará a las y los integrantes con derecho a voto manifiesten de viva voz cuál es el sentido de su voto.
+De manera excepcional, el Comité podrá acordar a solicitud de alguno de sus integrantes con derecho a voto, que la votación se recabe en forma nominal. En este supuesto, la Secretaría Técnica solicitará a las personas integrantes con derecho a voto manifiesten de viva voz cuál es el sentido de su voto.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-Las decisiones del Comité serán adoptadas por mayoría de votos de las y los integrantes presentes en la sesión.
+Las decisiones del Comité serán adoptadas por mayoría de votos de las personas integrantes presentes en la sesión. En caso de empate, la Presidencia tendrá voto de calidad.
 
-En caso de empate, la Presidencia tendrá voto de calidad.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-En caso de que la o el Presidente o algún Vocal, con derecho a voto, del Comité de Transparencia externe una opinión disidente o particular, tendrá que entregarlo a la persona Titular de la Secretaría Técnica como máximo al día siguiente de celebrada la sesión quedando asentado en el acta respectiva.
-
-Los acuerdos adoptados por el Comité serán de cumplimiento obligatorio para las personas integrantes, así como para la Unidad de Transparencia y las áreas.
+En caso de que la Presidencia o alguna persona Vocal, con derecho a voto, del Comité de Transparencia externe una opinión disidente o particular, tendrá que entregarlo a la Secretaría Técnica como máximo al día siguiente de celebrada la sesión quedando asentado en el acta respectiva.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
+Los acuerdos adoptados por el Comité serán de cumplimiento obligatorio para las personas integrantes, así como para la Unidad de Transparencia y las áreas.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-No serán procedentes las abstenciones en las votaciones del Comité, salvo que exista algún impedimento que justifique la excusa de alguno de sus integrantes para intervenir en cualquier forma en el asunto que se analice, de acuerdo con lo previsto por la normativa en materia de responsabilidades administrativas de los servidores públicos.
+No serán procedentes las abstenciones en las votaciones del Comité, salvo que exista algún impedimento que justifique la excusa de alguno de sus integrantes para intervenir en cualquier forma en el asunto que se analice, de acuerdo con lo previsto por la normativa en materia de responsabilidades administrativas de las personas servidoras públicas.
 
-De presentarse una o más causas de impedimento, el o la integrante del Comité deberá excusarse. La excusa deberá presentarse por escrito ante la persona Titular de la Secretaría Técnica previo al inicio de la sesión, o bien, de la discusión del punto correspondiente exponiendo las consideraciones de hecho y de derecho por las que no pueda intervenir en el asunto.
+De presentarse una o más causas de impedimento, la persona integrante del Comité deberá excusarse. La excusa deberá presentarse por escrito ante la persona Titular de la Secretaría Técnica previo al inicio de la sesión, o bien, de la discusión del punto correspondiente exponiendo las consideraciones de hecho y de derecho por las que no pueda intervenir en el asunto.
 
-Recibido el documento, la persona Titular de la Secretaría Técnica dará cuenta a la Presidencia con la solicitud de excusa formulada, para que se haga del conocimiento del Comité y éste resuelva respecto a su procedencia.
+Recibido el documento, la Secretaría Técnica dará cuenta a la Presidencia con la solicitud de excusa formulada, para que se haga del conocimiento del Comité y éste resuelva respecto a su procedencia.
 
-> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
+(REPUBLICADO, G.O. 11 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 43.
 
-A petición de alguna persona integrante del Comité, la votación podrá dividirse en lo general y en lo particular, para lo cual se procederá a recabar la votación en lo general y simultáneamente los puntos que no hayan sido objeto de disenso. Posteriormente, se tomará la votación respecto de los asuntos que se hubieren reservado.
+A petición de alguna persona integrante del Comité, la votación puede dividirse en lo general y en lo particular, para lo cual se procederá a recabar la votación en lo general y simultáneamente los puntos que no hayan sido objeto de disenso. Posteriormente, se tomará la votación respecto de los asuntos que se hubieren reservado.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -812,9 +934,13 @@ I.- Por pérdida del quórum;
 
 II.- No existan las condiciones que garanticen el buen desarrollo de la sesión;
 
-III.- Exista alteración del orden; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-IV.- Cuando lo solicite alguno de los integrantes del Comité y lo apruebe la mayoría de los presentes.
+III. Exista alteración del orden; y
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. Cuando lo solicite alguna persona integrante del Comité y lo apruebe la mayoría.
 
 La sesión se reanudará dentro de las 48 horas siguientes de haberse suspendido.
 
@@ -828,7 +954,7 @@ Los acuerdos tomados con anterioridad a la suspensión de la sesión conservará
 
 (REPUBLICADO, G.O. 20 DE MAYO DE 2019)
 
-### CAPÍTULO VI. DE LAS ACTAS DE LAS SESIONES
+### CAPÍTULO V. DE LAS DETERMINACIONES DEL COMITÉ
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -848,7 +974,9 @@ I. La fecha de la sesión en que se adoptó;
 
 II. El número de acuerdo del Comité que corresponda; y
 
-III. Las firmas autógrafas de la Presidencia, los Vocales y la persona Titular de la Secretaría Técnica del Comité.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+III. Las firmas autógrafas de la Presidencia, las personas Vocales y la persona Titular de la Secretaría Técnica del Comité.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -860,15 +988,21 @@ I. Clave de identificación de la resolución;
 
 II. Lugar y fecha de emisión;
 
-III. Los datos de identificación del asunto con que se relacionen (nombre de la o el promovente, folio de la solicitud, fecha de ingreso, entre otros);
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+III. Los datos de identificación del asunto con que se relacionen (nombre de la persona promovente, folio de la solicitud, fecha de ingreso, entre otros);
 
 IV. La descripción de la respuesta que propone el área a que se haya solicitado la información;
 
 V. Los fundamentos y motivación que sustenta la resolución;
 
-VI. Los puntos resolutivos;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VII. Las firmas autógrafas de las personas integrantes que asistan y tengan derecho a voto, así como de la persona a cargo de la persona Titular de la Secretaría Técnica del Comité.
+VI. Los puntos resolutivos; y
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VII. Las firmas autógrafas de las personas integrantes que asistan y tengan derecho a voto, así como de la Secretaría Técnica del Comité.
 
 > <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -878,45 +1012,69 @@ Los acuerdos y resoluciones tomados en sesión del Comité serán de observancia
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO VII. DEL MICROSITIO DEL COMITÉ
+### CAPÍTULO VI. DE LAS ACTAS DE LAS SESIONES
 
-> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 52.
 
-De cada sesión del Comité, la persona Titular de la Secretaría Técnica elaborará un acta que contendrá, cuando menos, los elementos siguientes:
+De cada sesión del Comité, la Secretaría Técnica elaborará un acta que contendrá, cuando menos, los elementos siguientes:
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 I. Tipo de sesión;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 II. Fecha y lugar o medio en que se llevó a cabo;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 III. Hora de inicio y conclusión;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 IV. Asistencia;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 V. Declaración del quórum legal;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 VI. Los puntos del orden del día y su aprobación;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 VII. Síntesis de las intervenciones;
 
-VIII. El sentido del voto de las y los integrantes del Comité;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VIII. El sentido del voto de las personas integrantes del Comité;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 IX. Asuntos Generales si hubiere; y
 
-X. Las firmas autógrafas de las personas integrantes del Comité con voz y voto; así como de la persona representante de la Contraloría Interna y Titular de la Secretaría Técnica del Comité que participaron.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+X. Las firmas autógrafas de las personas integrantes del Comité con voz y voto; así como de la Secretaría Técnica del Comité que participaron.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 53.
 
-Las actas y resoluciones de las sesiones se entenderán aprobadas en el momento que sean firmadas por los integrantes del Comité, sin necesidad de someterlas a aprobación en la siguiente sesión del órgano colegiado.
+Las actas y resoluciones de las sesiones se entenderán aprobadas en el momento que sean firmadas por las personas integrantes del Comité, sin necesidad de someterlas a aprobación en la siguiente sesión del órgano colegiado.
 
-El acta, será rubricada al margen derecho de cada hoja y firmada al calce en la hoja final por la Presidencia, la persona Titular de la Secretaría Técnica y los Vocales del Comité que participaron en la sesión correspondiente. Las actas, también contarán con la firma del representante de la Contraloría Interna, como constancia de su participación.
+El acta, será rubricada al margen derecho de cada hoja y firmada al calce en la hoja final por la Presidencia, la Secretaría Técnica y las personas Vocales del Comité que participaron en la sesión correspondiente.
 
-Una vez firmada en su totalidad, la persona Titular de la Secretaría Técnica remitirá por correo electrónico a las y los integrantes del Comité una copia del acta.
+Una vez firmada en su totalidad, la Secretaría Técnica remitirá por correo electrónico a las personas integrantes del Comité una copia del acta.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO VII. DEL MICROSITIO DEL COMITÉ
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 54.
 
@@ -930,7 +1088,9 @@ II. Un hipervínculo al presente Reglamento, se deberá incluir la fecha de apro
 
 III. Las actas con los acuerdos del Comité, agrupadas por mes, año y tipo de sesión, fecha de las sesiones y el hipervínculo a las mismas.
 
-IV. El directorio de los integrantes del Comité y de sus suplentes con fotografía, nombre, cargo en el Comité, teléfono, correo electrónico y un hipervínculo con la información curricular.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. El directorio de las personas integrantes del Comité y de sus suplentes (sólo de las personas Vocales) con fotografía, nombre, cargo en el Comité, teléfono, correo electrónico y un hipervínculo con la información curricular.
 
 V. Un hipervínculo con los requisitos y el procedimiento para ingresar una solicitud de información pública o una solicitud de derechos ARCO, y un hipervínculo a los formatos para cada solicitud
 
@@ -942,7 +1102,9 @@ VIII. Las acciones que el Instituto Electoral realiza para fomentar la cultura d
 
 IX. Los Programas Anuales de Capacitación en materia de Transparencia, Acceso a la Información, Protección de Datos Personales y Archivo, el acta donde fue aprobado, el hipervínculo de acceso directo al documento del programa, las acciones que implementa el Comité para verificar su cumplimiento y el porcentaje de cumplimiento.
 
-La persona Titular de la Secretaría Técnica junto con las áreas del Instituto Electoral podrá coordinarse para realizar el llenado y actualización del micrositio.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría Técnica junto con las áreas del Instituto Electoral podrá coordinarse para realizar el llenado y actualización del micrositio.
 
 El Comité de Transparencia establecerá su periodo de actualización mediante Acuerdo o, en su caso, podrá considerar que la información señalada se realice al menos cada tres meses.
 
@@ -999,6 +1161,14 @@ G.O. 1 DE JULIO DE 2019.
 G.O. 14 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA LA REFORMA AL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO CON MOTIVO DE LA ENTRADA EN VIGOR DEL LINEAMIENTO TÉCNICO PARA LA INSTALACIÓN Y FUNCIONAMIENTO DE LOS COMITÉS DE TRANSPARENCIA DE LOS SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase para su publicación en la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA REFORMA AL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS Y DEL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA INTEGRACIÓN DEL COMITÉ DE TRANSPARENCIA”.]
 
 PRIMERO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
