@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-10-24"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -351,27 +351,15 @@ Si la instalación no fuere posible en términos de los párrafos anteriores, se
 
 ###### ARTICULO 19.
 
-El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a los miembros del nuevo Ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: “Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido” (los interpelados contestarán: “Sí protesto”) “Si así no lo hicieran, que el pueblo se los demande”.
+El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a los miembros del nuevo Ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido" (los interpelados contestarán: "Sí protesto") "Si así no lo hicieran, que el pueblo se los demande".
 
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Rendida la protesta de ley, el Presidente Municipal enunciará las líneas generales de trabajo que se propone realizar el Ayuntamiento durante el periodo de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones, V del artículo 70, y XXIV del inciso C) del artículo 31 de la presente Ley, a la o el Secretario; a la o el Tesorero; y, en su caso, la o el Oficial Mayor, y delegadas o delegados municipales. En la misma sesión se hará el nombramiento de la o el Contralor Interno, así como a las o los titulares de las unidades, investigadora; y substanciadora, en los términos establecidos en esta Ley. De todo lo anterior se levantará el acta de cabildo, respectiva.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
-
-RENDIDA LA PROTESTA DE LEY, EL PRESIDENTE MUNICIPAL ENUNCIARÁ LAS LÍNEAS GENERALES DE TRABAJO QUE SE PROPONE REALIZAR EL AYUNTAMIENTO DURANTE EL PERIODO DE SU GESTIÓN. ACTO SEGUIDO, EN LA MISMA SESIÓN, EL CABILDO, A PROPUESTA DEL PRESIDENTE MUNICIPAL, DESIGNARÁ CONFORME A LO DISPUESTO EN LAS FRACCIONES, V DEL ARTÍCULO 70, Y XXIV DEL INCISO C) DEL ARTÍCULO 31 DE LA PRESENTE LEY, AL SECRETARIO; AL TESORERO; Y, EN SU CASO, AL OFICIAL MAYOR, Y DELEGADOS MUNICIPALES. EN LA MISMA SESIÓN SE HARÁ EL NOMBRAMIENTO DEL CONTRALOR INTERNO EN LOS TÉRMINOS ESTABLECIDOS EN ESTA LEY. DE TODO LO ANTERIOR SE LEVANTARÁ LA ACTA DE CABILDO, RESPECTIVA.
-
-(NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
-
-EL NOMBRAMIENTO DE, SECRETARIO; TESORERO; OFICIAL MAYOR; Y DELEGADOS MUNICIPALES, SERÁ POR UN PERÍODO MÁXIMO IGUAL A LA DURACIÓN DE LA ADMINISTRACIÓN QUE LOS DESIGNÓ; PUDIENDO REMOVERLOS LIBREMENTE A PROPUESTA DEL PRESIDENTE MUNICIPAL Y POR ACUERDO DEL CABILDO, SIN RESPONSABILIDAD PARA EL AYUNTAMIENTO. EN EL CASO DEL CONTRALOR INTERNO MUNICIPAL, ÉSTE SERÁ NOMBRADO; REMOVIDO, EN SU CASO; Y PERMANECERÁ EN EL CARGO, EN LOS TÉRMINOS ESTABLECIDOS EN ESTA LEY.
+El nombramiento de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; y delgadas o delegados municipales, será por un período máximo igual a la duración de la administración que los designó; pudiendo removerlos libremente a propuesta de la o el Presidente Municipal y por acuerdo del Cabildo, sin responsabilidad para el ayuntamiento. En el caso de la o el Contralor Interno Municipal, así como las o los titulares de las unidades, investigadora; y substanciadora, que serán nombrados; removidos, en su caso; y permanecerán en el cargo, en los términos establecidos en esta Ley.
 
 ###### ARTICULO 20.
 
@@ -589,11 +577,13 @@ c) En materia Operativa:
 
 I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, y a través del Presidente Municipal, la expropiación de bienes por causa de utilidad pública;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-II. Nombrar, a propuesta del Presidente Municipal, al Secretario; al Tesorero; Contralor Interno y, en su caso, al Oficial Mayor; pudiendo removerlos libremente a propuesta del presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento. El Contralor Interno Municipal será designado de conformidad con la fracción V del artículo 70 de este Ordenamiento, por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrá ser removido por la misma mayoría
+II. Nombrar, a propuesta de la o el Presidente Municipal, a la o el Secretario; la o el Tesorero; la o el Contralor Interno y, en su caso, a la o el Oficial Mayor; pudiendo removerlos libremente a propuesta de la o el presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento. La o el Contralor Interno Municipal y las o los titulares de las unidades, investigadora; y substanciadora, serán designados de conformidad con la fracción V del artículo 70 de este Ordenamiento, por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrá ser removido por la misma mayoría.
 
-En caso de ausencia definitiva por cualquier motivo del Secretario; Tesorero; Oficial Mayor; o Contralor Interno, el Presidente deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+En caso de ausencia definitiva por cualquier motivo de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; la o el Contralor Interno, o las o los titulares de las unidades, investigadora; y substanciadora, la o el Presidente deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo, a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
 
 Los integrantes del ayuntamiento, y los funcionarios que designe el mismo, deberán abstenerse de recomendar o contratar, por sí o por conducto de terceros, a familiares por afinidad o consanguinidad, en línea directa o transversal hasta el cuarto grado, respecto de ellos, para obtener cualquier tipo de contrato o nombramiento con el municipio.
 
@@ -1003,11 +993,11 @@ III. Convocar por conducto del Secretario, y presidir las sesiones de Cabildo, t
 
 IV. CELEBRAR A NOMBRE DEL AYUNTAMIENTO Y POR ACUERDO DE ÉSTE LOS ACTOS Y CONTRATOS NECESARIOS PARA EL DESPACHO DE LOS NEGOCIOS ADMINISTRATIVOS Y LA ATENCIÓN DE LOS SERVICIOS PÚBLICOS MUNICIPALES, SALVO LOS CONVENIOS CUYA CELEBRACIÓN CORRESPONDE DIRECTAMENTE AL AYUNTAMIENTO EN LOS TÉRMINOS DE ESTA LEY. ADEMÁS, ESTABLECER LAS MEDIDAS FINANCIERAS, LEGALES Y OPERATIVAS NECESARIAS QUE APOYEN Y GARANTICEN LA INDEPENDENCIA TÉCNICA DE LA CONTRALORÍA INTERNA;
 
-V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos del Secretario, del Tesorero, del Contralor, y del Oficial Mayor y Delegados en su caso. La propuesta que presente el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos de la o el Secretario, de la o el Tesorero, de la o el Contralor, de las o los titulares de las unidades, investigadora; y substanciadora, de la o el Oficial Mayor, y las delegadas o delegados, en su caso. La propuesta que presente la o el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, la o el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo.
 
-En el nombramiento de la o el: secretario; tesorero; contralor; oficial mayor; y delegados, en su caso, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 77, 80, 83, 85 BIS, y 95, de este Ordenamiento;
+En el nombramiento de la o el secretario; la o el tesorero; la o el contralor interno; la o el oficial mayor; delegadas o delegados, en su caso, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 77, 80, 83, 85 BIS, y 95, respectivamente, de este Ordenamiento;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1690,6 +1680,12 @@ XXXIX. Recibir capacitación y certificaciones de la Auditoría Superior del Est
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
 XL. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 86 BIS. La o el contralor interno estará auxiliado por los titulares de las unidades, investigadora; y substanciadora, correspondiendo a la primera, la investigación de faltas administrativas; y a la segunda, dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa, y hasta la conclusión de la audiencia inicial, en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+Las o los titulares de las unidades, investigadora; y substanciadora, deberán reunir los mismos requisitos que para la o el contralor interno establece esta Ley.
 
 ### CAPITULO VIII. Del Departamento de Asuntos Indígenas
 
@@ -3270,3 +3266,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0804.- SE REFORMA (SIC) LOS ARTÍCULOS 19 EN SUS PÁRRAFOS SEGUNDO Y TERCERO, 31 EN SU INCISO C) LA FRACCIÓN II Y 70 EN SU FRACCIÓN V; Y ADICIONA EL ARTÍCULO 86 BIS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Para efectos de la administración municipal 2018- 2021, dentro de los noventa días posteriores a la entrada en vigor de este Decreto, deberán de elegir a los encargados de las unidades de: investigación; y substanciación, a que se refiere el presente Decreto
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
