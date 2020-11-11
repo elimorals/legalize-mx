@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-11-09"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1075,11 +1075,11 @@ Para lograr lo anterior, se suscribirán los convenios y acuerdos que correspond
 
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 47.
 
-La SEGAM considerará como prioritarias para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, el Código Fiscal del Estado, o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
+La SEGAM considerará como prioritarias, para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, el Código Fiscal del Estado, o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
@@ -1097,13 +1097,17 @@ IV. La ubicación y reubicación de instalaciones industriales, comerciales y de
 
 V. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VI. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables, y
+VI. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VII. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
+VII. Las actividades relacionadas con la protección, conservación y restauración del ambiente, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+VIII. El reciclaje de materiales residuales como actividad industrial, pudiendo, para ese efecto, actuar en coordinación con las autoridades federales.
 
 ### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
 
@@ -3614,5 +3618,13 @@ P.O. 9 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0799.- SE REFORMA EL ARTÍCULO 8° EN SUS FRACCIONES XXXV Y XXXVI; Y ADICIONA AL MISMO ARTÍCULO 8° LA FRACCIÓN XXXVII, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0802.- SE REFORMA EL ARTÍCULO 47 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES, VI Y VII Y ADICIONA AL MISMO ARTÍCULO 47 LA FRACCIÓN VIII, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
