@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2015-07-03"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -39,21 +39,29 @@ NÚMERO 143
 
 LEY DEL REGISTRO DE CENTROS DE POBLACION DEL ESTADO DE CAMPECHE
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto establecer el Registro de Centros de Población del Estado de Campeche como instrumento del Sistema Estatal de Información Estadística, Geográfica y Socioeconómica.
+La presente ley es de orden público e interés social y tiene por objeto establecer el Registro de Centros de Población del Estado de Campeche como instrumento del Sistema Estatal de Información Estadística, Geográfica y Catastral.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 2.
 
-Las disposiciones de esta ley se aplicarán sin perjuicio de las obligaciones que al Estado y a los Municipios corresponden conforme a la Ley que Crea el Sistema Estatal de Información Estadística, Geográfica y Socioeconómica.
+Las disposiciones de esta ley se aplicarán sin perjuicio de las obligaciones que al Estado y a los Municipios corresponden conforme a la Ley del Sistema de Información para el Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 3.
 
-El Registro de Centros de Población del Estado de Campeche estará a cargo de la Secretaría de Desarrollo Social, la que conforme a lo previsto en éste y los demás ordenamientos aplicables y el Reglamento de la presente ley, establecerá la normatividad administrativa y criterios que se requieran para la organización y operación del Registro.
+El Registro de Centros de Población del Estado de Campeche estará a cargo del Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche "INFOCAM", la que conforme a lo previsto en éste y los demás ordenamientos aplicables y el Reglamento de la presente ley, establecerá la normatividad administrativa y criterios que se requieran para la organización y operación del Registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 4.
 
-El Registro de Centros de Población del Estado de Campeche será público. La expedición de constancias de los datos asentados en el mismo serán expedidas por el titular de la unidad administrativa que determine el Reglamento Interior de la Secretaría de Desarrollo Social.
+El Registro de Centros de Población del Estado de Campeche será público. La expedición de constancias de los datos asentados en el mismo serán expedidas por el área que corresponda del Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche "INFOCAM".
 
 En el Registro Estatal de Centros de Población del Estado deberán asentarse los datos relativos a:
 
@@ -65,15 +73,19 @@ III. La división del territorio del Estado en Distritos Judiciales y
 
 IV. La información adicional de carácter geográfico que determine el Reglamento de la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-Conforme a lo previsto en la Ley. Orgánica de los Municipios del Estado de Campeche, los Ayuntamientos proporcionarán a la Secretaría de Desarrollo Social lo previsto en las fracciones I y II del artículo anterior, cuando se haya efectuado alguna modificación respecto a los centros de población.
+Conforme a lo previsto en la Ley Orgánica de los Municipios del Estado de Campeche, los Ayuntamientos proporcionarán al Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche "INFOCAM" lo previsto en las fracciones I y II del artículo anterior, cuando se haya efectuado alguna modificación respecto a los centros de población.
 
 Los Ayuntamientos proporcionarán al Registro la información adicional de carácter geográfico que en su caso determine el reglamento de la Ley. Podrán celebrar los convenios con el Gobierno del Estado que se requieran para tal efecto.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 6.
 
-Las dependencias y entidades de la Administración Pública Estatal están obligadas a proporcionar al Registro al que se refiere esta ley la información de carácter geográfico a su cargo, cuando así lo requiera la Secretaría de Desarrollo Social, salvo que dicha información conforme a la ley tenga el carácter de reservada.
+Las dependencias y entidades de la Administración Pública Estatal están obligadas a proporcionar al Registro al que se refiere esta ley la información de carácter geográfico a su cargo, cuando así lo requiera el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche "INFOCAM", salvo que dicha información conforme la ley tenga el carácter de reservada.
 
 ###### ARTÍCULO 7.
 
@@ -103,6 +115,8 @@ b) Los pueblos de: Xbonil, Conhuás y Concepción; y
 
 c) Los ejidos de N.C.P.E. Benito Juárez, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Santa Lucía, Pablo García, Kilómetro 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal y Plan de San Luis.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
 La división territorial del Municipio de Calkiní, así como la categoría política y toponimia de sus centros de población es la siguiente:
@@ -111,37 +125,27 @@ I. La ciudad de Calkiní, Cabecera del Municipio;
 
 II. La Sección Municipal de Bécal;
 
-III. La Sección Municipal de Dzitbalché;
+III. La Sección Municipal de Nunkiní;
 
-IV. La Sección Municipal de Nunkiní;
+IV. Isla Arena e Isla Piedras;
 
-V. Isla Arena e Isla Piedras;
+V. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales, en la forma siguiente:
 
-VI. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales, en la forma siguiente:
-
-A la ciudad de Calkiní; Cabecera del Municipio, corresponden:
+A la ciudad de Calkiní, Cabecera del Municipio, corresponden:
 
 a) Los pueblos de Concepción, San A. Sahcabchén, Santa Cruz Pueblo, Tepakán.
 
 b) El Ejido de San Agustín Chunhuás.
 
-c) Los ranchos de Altamira, Chichmuc, Chun-Chaká, Dolores, Nazarero, Pepenché, Refugio, San Antonio, San Diego, San Francisco, San José, San José Xcanchaltún, San Juan, San Rafael, San Román, Santa Bárbara, Santa Rita, Santa Rosa, Sihó, Huayamá, Xnohlán, Quinta Sihó, Chuipul, Santa María, Chunhuás.
+c) Los ranchos de Altamira, Chichmuc, Chun-Chaká, Dolores, Nazarero, Pepenché, Refugio, San Antonio, San Diego, San Francisco, San José, San José Xcanchaltún, San Juan, San Rafael, San Román, Santa Bárbara, Santa Rita, Santa Rosa, Sihó, Huayamá, Xnohlán, Quinta Sihó, Chuipul, Santa María y Chunhuás.
 
 A la Sección Municipal de Bécal corresponden:
 
-a) La villa de Bécal, Cabecera de la Sección.
+a) La ciudad de Bécal, Cabecera de la Sección.
 
 b) Los pueblos de Isla Arena y Real de Salinas.
 
-c) Los ranchos de Asunción, Dolores, San Antonio Florida, San Felipe, San Francisco, Tanchí.
-
-A la Sección Municipal de Dzitbalché, corresponden:
-
-a) La Ciudad de Dzitbalché, Cabecera de la Sección.
-
-b) El pueblo de Bacabchén.
-
-c) Los ranchos de Almuchil, Chacnichén, Chun-Ox, Miraflores, San Cristóbal, San Diego X-Mac, San Francisco, San Isidro Kakalmozón, San José, San Mateo, San Miguel, San Pedro, San Vicente Dzucsay, Telchac y Anexas, X-Pankuts, Maykekén, Macachí.
+c) Los ranchos de Asunción, Dolores, San Antonio Florida, San Felipe, San Francisco y Tanchí.
 
 A la Sección Municipal de Nunkiní, corresponden:
 
@@ -149,11 +153,9 @@ a) El pueblo de Nunkiní, Cabecera de la Sección.
 
 b) El pueblo de Pucnachén.
 
-c) Los ejidos de San Nicolás, Santa Cruz Ex-Hacienda, Hacienda Tankuché, Santa
+c) Los ejidos de San Nicolás, Santa Cruz Ex-Hacienda, Hacienda Tankuché y Santa María.
 
-María.
-
-d) Los ranchos de Ahuat-Bach, Kacab, Ceh-Aké, Dolores Esperanza, Isla de Piedra (también se le llama X-Kanchaltún), Jesús María, Kankuch, Konchán (también-se le llama Yaax-Chan), Net-Yuc, San Antonio, San Diego, San Felipe, San Isidro, San Joaquín, San Joaquín de la Boca del Caño, San José, San Juan, San Lorenzo, San Pedro, San Román, San Roque, Santa Ana, Santa María, Santo Domingo, Xoloc, Yaltón (lugar que sirve de embarcadero a pescadores).
+d) Los ranchos de Ahuat-Bach, Kacab, Ceh-Aké, Dolores Esperanza, Isla de Piedra (también se le llama X-Kanchaltún), Jesús María, Kankuch, Konchán (también se le llama Yaax-Chan), Net- Yuc, San Antonio, San Diego, San Felipe, San Isidro, San Joaquín, San Joaquín de la Boca del Caño, San José, San Juan, San Lorenzo, San Pedro, San Román, San Roque, Santa Ana, Santa María, Santo Domingo, Xoloc y Yaltón (lugar que sirve de embarcadero a pescadores).
 
 ###### ARTÍCULO 10.
 
@@ -361,6 +363,8 @@ b) Los ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Pl
 
 c) Los Ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, Tiche, Pocito, Calax, Punta de Piedra, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxín, Yacaxal, El Pavito, José Gallo, Don Mauro, E Esfuerzo, Mecina, Hermanos May, Buenavista, Martirio, Las Piedras, Ensenada, Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Piri, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, San Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos y Camaguey; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 13.
 
 La división territorial del Municipio de Champotón, así como la categoría política y toponimia de sus centros de población es la siguiente:
@@ -369,25 +373,25 @@ I. La ciudad de Champotón, Cabecera del Municipio;
 
 II. La Sección Municipal de Hool;
 
-III. La Sección Municipal de Seybaplaya;
+III. La Sección Municipal de Sihochac;
 
-IV. La Sección Municipal de Sihochac;
+IV. La Sección Municipal de Carrillo Puerto;
 
-V. La Sección Municipal de Carrillo Puerto;
+V. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción de la cabecera y secciones municipales en la forma siguiente:
 
-VI. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción de la cabecera y secciones municipales en la forma siguiente:
+A la Ciudad de Champotón, Cabecera del Municipio, corresponden:
 
-A la ciudad de Champotón, Cabecera del Municipio, corresponden:
+a) Los pueblos de: Pustunich y Maya Tecún I y las congregaciones de Maya Tecún II y Ciudad del Sol.
 
-a) Los pueblos de: Pustunich y Maya Tecún I y la congregación de Maya Tecún II.
-
-b) Ejidos de Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel Ulumal, Moquel, San Juan Carpizo, Canasayab y López PortilIo No. 2, El Cañaveral, General Ortiz Ávila, Ignacio López Rayón, San Miguel, Punta Xen, Valle de: Quetzalcoalt, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Providencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Miguel Allende, N.C.P.E. Melchor Ocampo, Kukulkán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché CasteIlot, Chilam Balam, Ah-Kim-Pech y Coronel Ortiz Ávila.
+b) Ejidos de Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos, (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel Ulumal, Moquel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Ávila, Ignacio López Rayón, San Miguel, Punta Xen, Valle de Quetzalcóatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Providencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Miguel Allende, N.C.P.E. Melchor Ocampo, Kukulkán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-Kim-Pech y Coronel Ortiz Ávila.
 
 c) Las Secciones Ejidales de: El Zapote y Vicente Guerrero.
 
-d) Las haciendas de: Chenkán, Desempeño, San Dimas, Ulumal y San Luis Carpizo.
+d) Las haciendas de: Chenkán, Desempeño, Niop, San Dimas, Ulumal y San Luis Carpizo.
 
-e) Los ranchos de: Apazote, Continente, Champox, Desempeño, Gesté, Holatún, Holail, Manca!á, Monte Bravo, Nilún, Nuevo León, Paixán, Placeres, Potrerito, Potrero Grande, Retiro, Zakakal, San Enrique, San Gerónimo, San Juan Paychacché, San Miguel, Santa Cruz, Santa Lucía, Santa Rita, Teop, Santa Cecilia, San Jorge, San Eduardo, Villa Minerva, San Manuel, San Samuel, Las Flores, San Juan, Sulvec, Los Corcitos, San Pablito, San Esteban, Playa Azul, San Arturo, El Milagro, Santa María, San José, El Oasis, Santa Rosa, La Guaira, El Madroño, La Cañada, El Charrito. Las Palmas, Monte Cristo, Hermanos Sarmiento, El Zapote, Jaimes, Ulumal, Laramie, Los Tres Hermanos, El Rosario, Santa Laura, Las Recias, La Verónica, Porfirio Díaz, Belén, Soledad, San Pedro, La Guadalupe, Las Cruces; San Martín, El Vesubio, El Tapatío, El Retorno, La Unión, La Aurora, El Sacrificio, El Nopal, Santa Lucía, El Jobo, San Moguel (sic), Santa Elena, Margarito, Obregón, Las Bugambilias, San Javier, Miraflor, Nueva Esperanza, El Divisadero, San Enrique, Santa Susana, Las Delicias, San Francisco, El Mante, La Ponderosa, Emiliano, El Valenciano, El Valencianito, San Marcos, San Fernando, Santa Enriqueta, El Puente, Peña Blanca, El Calvario, La Vigilia, San Eduardo, San Diego, La Peña, Las Gardenias, Tres Hermanos, Santa Cruz, Santa Rosalía, La Esperanza, Jobón, Flamboyán, Santa Fe y El Danubio.
+e) El Ingenio “La Joya”.
+
+f) Los ranchos de: Apazote, Continente, Champox, Desempeño, Gesté, Holatún, Holail, Mancalá, Monte Bravo, Nilún, Nuevo León, Paixán, Placeres, Potrerito, Potrero Grande, Retiro, Zakakal, San Enrique, San Gerónimo, San Juan Paychacché, San Miguel, Santa Cruz, Santa Lucía, Santa Rita, Teop, Santa Cecilia, San Jorge, San Eduardo, Villa Minerva, San Manuel, San Samuel, Las Flores, San Juan, Sulvec, Los Corcitos, San Pablito, San Esteban, Playa Azul, San Arturo, El Milagro, Santa María, San José, El Oasis, Santa Rosa, La Guaira, El Madroño, La Cañada, El Charrito, Las Palmas, Monte Cristo, Hermanos Sarmiento, El Zapote, Jaimes, Ulumal, Laramie, Los Tres Hermanos, El Rosario, Santa Laura, Las Recias, La Verónica, Porfirio Díaz, Belén, Soledad, San Pedro, La Guadalupe, Las Cruces, San Martín, El Vesubio, El Tapatío, El Retorno, La Unión, La Aurora, El Sacrificio, El Nopal, Santa Lucía, El Jobo, San Moguel (sic), Santa Elena, Margarito, Obregón, Las Bugambilias, San Javier, Miraflor, Nueva Esperanza, El Divisadero, San Enrique, Santa Susana, Las Delicias, San Francisco, El Mante, La Ponderosa, Emiliano, El Valenciano, El Valencianito, San Marcos, San Fernando, Santa Enriqueta, El Puente, Peña Blanca, El Calvario, La Vigilia, San Eduardo, San Diego, La Peña, Las Gardenias, Tres Hermanos, Santa Cruz, Santa Rosalía, La Esperanza, Jobón, Flamboyán, Santa Fe y El Danubio.
 
 A la Sección Municipal de Hool, corresponden:
 
@@ -399,27 +403,7 @@ c) Las haciendas de San Antonio Teop, San Miguel y San Nicolás.
 
 d) Los ranchos de Kesté, Esperanza, Erika, San José, Arellano y San Miguel.
 
-A la Sección Municipal de Seybaplaya, corresponden:
-
-a) La ciudad de Seybaplaya, Cabecera de la Sección.
-
-b) El pueblo de Xkeulil.
-
-c) El ejido de Villa Madero (antes de Pueblo Nuevo).
-
-d) Las haciendas de Haltunchén, Kisil, Niop, San Pedro, Santa Isabel, Sihoplaya y
-
-Yaxcucul.
-
-e) El Ingenio "La Joya".
-
-f) Las congregaciones dé Ciudad Sol, Acapulquito y Costa Blanca.
-
-g) Los ranchos de: Boxol, Chunhuás, Destino, Hunaban, Monte Frío, El Morro,
-
-Nenelá y Xculpac.
-
-A la Sección Municipal de Sihochac, corresponden;
+A la Sección Municipal de Sihochac, corresponden:
 
 a) El pueblo de Sihochac, Cabecera de la Sección.
 
@@ -436,6 +420,16 @@ a) El pueblo de Carrillo Puerto, Cabecera de la Sección.
 b) Los ejidos de Pixoyal, Cinco de Febrero, Miguel Colorado, Chac Chaito y Yohaltún.
 
 c) Las Secciones ejidales de: Nuevo Paraíso y la Provincia.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 13 BIS.- La división territorial del Municipio de Dzitbalché, así como la categoría política y toponimia de sus centros de población es la siguiente:
+
+I. La Ciudad de Dzitbalché, Cabecera del Municipio.
+
+II. El pueblo de Bacabchén.
+
+III. Los ranchos de Almuchil, Chacnichén, Chun-Ox, Miraflores, San Cristóbal, San Diego X-Mac, San Francisco, San Isidro Kakalmozón, San José, San Mateo, San Miguel, San Pedro, San Vicente Dzucsay, Telchac y Anexas, X-Pankuts, Maykekén y Macachí.
 
 ###### ARTÍCULO 14.
 
@@ -619,6 +613,22 @@ d) Las haciendas de Las Islas, Puebla, San Román y Anexas, Santa Elena, El Limo
 
 e) Los ranchos de Aguacate, Alianza, La Alianza, La Almendra, El Almendral, El Almendro, La Armonía, La Asunción, Belem, La Bellota, Boca Chica, Las Bodegas, El Borbotón, Buenavista, Buenos Aires, La Cajera, Candelaria, La Caridad, Carmen, Carmen de Alvarez, Carmen de Padilla, El Carmen, El Cocoyol, El Cometa, Concepción, La Confianza, El Corcho, Corinto y Anexas, Las Cruces, Cupules, Cuyo de los Patos, El Cuyo, Chifón, Las Delicias, El Destino, Dolores, Dos de Abril, Las Dos Palomas, El Ejido, Encanto, Encarnación, Esperanza, Esquipulas, La Estaca, La EstrelIa, La Estrella Polar, La Flavia, Flores de Corinto, Flores del Carmen, Las Flores de Uc, La Fortuna, La Gloria, Gloria de Los Delgado, La Gorra, El Guanal, El Guásimo, El Guayal, La Herradura, Ilusión, Innominado, Innominado (sic), Isla de Corcho, El Jabín, El Jesús, La JimbilIa, Juárez, Kukulkán, Libertad, Lucha de Benítez, La Lucha de Co, La Lucha, La Lucha y Anexas, Malvenido, El Manatinero, Manglar, La Mano Poderosa, La Margarita, Margarita de Benítez, Las Mercedes, Naranjal, No te Metas, Nueva Esperanza, Nuevas Margaritas, Nuevo México, Orizaba, Las Palmas, Las Palmas, Las Palomas, El Paraíso, Paraíso, Pascualillo, Paso de los Caballos, El Pato, Peor es Nada, Las Piñas, Las Piedras, Porfiria, El Porvenir de Morales, El Porvenir, La Primavera, Providencia, Puerto Arturo, Puerto México, Punta del Salto, Punta de México, Río Blanco, El Recreo, Recuerdo, Reforma y Anexas, la Rebeza, El Rosario, SaIsipuedes, El Salto, Sauzal, San Agustín, San Andrés, San Angel, San Ángel de Fernández, San Antonio, San Antonio, San Antonio de Guzmán, San Bartolo, San Esteban, San Felipe, San Felipe Tauchel, San Felipe de Tila, San Francisco, San Francisco de Cruz, San Francisco de Morales, San Guillermo, San Jacinto de Barroso, San Gerónimo, San Geronimito, San Joaquín, San Joaquín de las Flores, San Joaquín de Benítez, San José de Benítez, San José de la Montaña, San José de Quintana, San Juan, San Juan, San Juan Bautista, San Juan de Dios, San Juanito, San Julio, San Luis, San Luis, San Luis, San Miguel Segundo, San Miguel Arcángel, San Miguel de Tila, San Miguel y Anexas, San Nicolás, San Pablo de López, San Pablo de Zavala, San Pedro, San Rafael, San Román, San Román de Co, San Román de Zavala, San Salvador, Santa Cruz, Santa Cruz, Santa Cruz de Tila, Santa Irene, Santa Margarita, Santa María, Santa Rita, Santa Rosa, Santa Rosa de Gómez, Santa Rosalía, Santa Teresa, Santo Domingo, Santo Domingo, Santo Domingo del Limonal, Santo Domingo del Palmar, Santuario de Tila, El Sauzal, Sinaí, Fracción Limonal, Sinaloa, Sitio Nuevo, Sitio Nuevo, Sitio Nuevo, Sitio Nuevo y Anexas, Soledad y Anexas, Sombra del Palo Alto, Tamarindo, Tasistal, Termopilas, TransvaaI, Tres de Mayo, Las Tres Palmas, Triunfo de Hernández, El Triunfo, El Triunfo, Tulipán, Tulipán, La Unión, Venecia, Vista Alegre, Vuelta del Diablo, El Cabresto, El Joval, La Azteca, Santa Adelaida, El Líbano, San Ángel, .La Victoria, Los Coculas, San Juliancito, Hoja de Mata, Salsipuedes, Don Rico, San Vicente, San Salvador, Santo Domingo, San Joaquinito, Constitución, Bacardi Rach, Villa Rosa, Las Flores, Reforma Dos, Triunfo, El Tractor, El Bambú, San Simón, San José, San Agustín, Los Coquitos, El Pajaral, El Caño, Campo Nuevo, El Chacá, El Jovito, el Bebedero, El Cacao, El Pich, El Dorado, San ManueI, San José del Carmen, San Vicente, El Chiflón de Velueta, San Felipe de Cabrera, Traslomita, San Juanito, La Soledad, San Hipólito, Mata Larga, La Candelaria, San Francisco, Isleño, Pantoja, Cuatro de Mayo, La Aurora, El Eslabón, El Copó, San José Victoria, Balam. (sic)
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 17 BIS.- La división territorial del Municipio de Seybaplaya, así como la categoría política y toponimia de sus centros de población es la siguiente:
+
+I. La Ciudad de Seybaplaya, Cabecera del Municipio.
+
+II. El pueblo de Xkeulil.
+
+III. El ejido de Villa Madero (antes Pueblo Nuevo).
+
+IV. Las haciendas de Haltunchén, Kisil, San Pedro, Santa Isabel, Sihoplaya y Yaxcucul.
+
+V. Las congregaciones de Acapulquito y Costa Blanca.
+
+VI. Los ranchos de: Boxol, Chunhuás, Destino, Hunaban, Monte Frío, El Morro, Nenelá y Xculpac.
+
 ###### ARTÍCULO 18.
 
 La división territorial del Municipio de Tenabo, así como la categoría política y toponimia de sus centros de población es la siguiente:
@@ -645,11 +655,13 @@ c) El ejido de Nachehá.
 
 d) Los ranchos de Chilib y Xkuncheil.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
-Queda a cargo de la Secretaría de Desarrollo Social la formulación de la cartografía del Estado y de sus Municipios conforme al Sistema Estatal de Información Estadística, Geográfica y Socioeconómica y a la Ley Federal de Información Estadística y Geográfica.
+Queda a cargo del Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche "INFOCAM" la formulación de la cartografía del Estado y de sus Municipios conforme al Sistema Estatal de Información Estadística, Geográfica y Catastral y a la Ley del Sistema Nacional de Información Estadística y Geográfica.
 
-Para el efecto a que se refiere el párrafo anterior, el Gobierno del Estado podrá celebrar los convenios que se requieran con el Instituto Nacional de Geografía y Estadística.
+Para el efecto a que se refiere el párrafo anterior, el Gobierno del Estado podrá celebrar los convenios que se requieran con el Instituto Nacional de Estadística y Geografía.
 
 ###### ARTÍCULO 20.
 
@@ -702,3 +714,13 @@ TERCERO.- En su oportunidad, los HH. Ayuntamientos de los Municipios de Candelar
 CUARTO.- El organismo público electoral local deberá proceder a adoptar las medidas que sean necesarias a efecto de que en las elecciones que tendrán lugar el primer domingo de julio del año 2018 se elija a los integrantes de las HH. Juntas Municipales que, en auxilio de los HH. Ayuntamientos de los Municipios de Candelaria, Escárcega y Hopelchén administrarán las Secciones Municipales de Miguel Hidalgo y Costilla; de Monclova; de División del Norte y, de Ukum, respectivamente.
 
 QUINTO.- Entretanto quedan formalmente constituidas e integradas las Juntas Municipales de Miguel Hidalgo y Costilla; de Monclova; de División del Norte y, de Ukum, los HH. Ayuntamientos de los Municipios de Candelaria, Escárcega y Hopelchén harán las elecciones de las autoridades auxiliares que correspondan en las demarcaciones territoriales que habrán de conformar las nuevas Secciones Municipales, en términos de lo dispuesto en los artículos 3, 4, 5 y demás relativos aplicables de la Ley de Procedimientos para la Elección de Comisarios Municipales del Estado de Campeche.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 161 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 2, 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 4, EL PÁRRAFO PRIMERO DEL ARTÍCULO 5, LOS ARTÍCULOS 6, 9, 13 Y 19 Y, SE ADICIONAN LOS ARTÍCULOS 13 BIS Y 17 BIS A LA LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento de la presente ley, en un plazo de 90 días contados a partir de la entrada en vigor de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
