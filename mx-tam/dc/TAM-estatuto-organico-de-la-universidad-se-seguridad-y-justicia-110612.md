@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-universidad-se-seguridad-y-justicia-110
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-11-25"
-last_updated: "2015-11-25"
+last_updated: "2020-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD SE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de noviembre de 2015.
 
 GENERAL DE DIVISIÓN JESÚS MARTÍNEZ MARTÍNEZ, Secretario de Seguridad Pública del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que a mi cargo confieren los artículos 16, 22 párrafo 1, 23 fracción XI, 35 fracción XXXI y 38 párrafo 3 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; 36 BIS párrafo 1 fracción I y 36 TER fracción I de la Ley de Seguridad Pública para el Estado de Tamaulipas; y 12 párrafo 2 de la Ley de Entidades Paraestatales del Estado de Tamaulipas; y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -958,3 +962,33 @@ Se derogan todas las disposiciones normativas que se opongan al presente Estatut
 Dado en la sede de la Universidad de Seguridad y Justicia de Tamaulipas, en Victoria, Capital de Tamaulipas, a los 29 días del mes de mayo del dos mil quince.
 
 ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN.”.- EL SECRETARIO DE SEGURIDAD PÚBLICA.- GENERAL DE DIVISIÓN JESÚS MARTÍNEZ MARTÍNEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrara en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los reglamentos y demás disposiciones normativas de la Universidad, deberán de emitirse conforme al presente Estatuto Orgánico en un término de 90 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad al artículo 23 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+El Rector de la Universidad deberá instrumentar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento a la comunidad universitaria.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el Estatuto Orgánico de la Universidad de Seguridad y Justicia de Tamaulipas, publicado en el Periódico Oficial del Estado No. 141 de fecha 25 de noviembre de 2015 y sus subsecuentes reformas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
