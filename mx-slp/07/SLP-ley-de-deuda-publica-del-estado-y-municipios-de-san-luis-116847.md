@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2020-03-17"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -709,7 +709,9 @@ III. Las obligaciones a corto plazo deberán ser quirografarias, y
 
 IV. Ser inscritas en el Registro Estatal, y en el Registro Público Único.
 
-Para dar cumplimiento a la contratación de las obligaciones a corto plazo bajo mejores condiciones de mercado, se deberá cumplir lo dispuesto en el penúltimo párrafo del artículo 24 de la presente Ley. Las obligaciones a corto plazo que se contraten quedarán sujetas a los requisitos de información previstos en esta Ley.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Para dar cumplimiento a la contratación de las obligaciones a corto plazo bajo mejores condiciones de mercado, se deberá cumplir lo dispuesto en el párrafo décimo del artículo 24 de la presente Ley. Las obligaciones a corto plazo que se contraten, quedarán sujetas a los requisitos de información previstos en esta Ley.
 
 ###### ARTÍCULO 32.
 
@@ -1068,5 +1070,13 @@ P.O. 17 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0637.- SE REFORMA EL ARTÍCULO 21 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 21 EN SU FRACCIÓN IV EL INCISO E), DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0803.- SE REFORMA EL ARTÍCULO 31 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
