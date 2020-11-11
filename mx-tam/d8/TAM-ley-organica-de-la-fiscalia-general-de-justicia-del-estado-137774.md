@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2020-10-14"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -901,7 +901,9 @@ II. La Vicefiscalía Ministerial;
 
 III. La Vicefiscalía de Litigación, Control de Procesos y Constitucionalidad;
 
-IV. La Vicefiscalía de Delitos Complejos y de Violaciones a Derechos Humanos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. La Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos;
 
 V. La Fiscalía Especializada en Delitos Electorales;
 
@@ -2170,3 +2172,11 @@ A la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Sober
 Las y los Consejeros Honoríficos del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas, designados mediante Decreto LXIII-797, publicado en el Periódico Oficial del Estado Número 55, de fecha 7 de mayo de 2019, continuarán en su encargo hasta concluir el periodo para el cual fueron designados.
 
 El Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de las y los Consejeros Honoríficos del Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, treinta días antes de que concluya el plazo para el cual fueron designados.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-209 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33, PÁRRAFO TERCERO, FRACCIÓN IV, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
