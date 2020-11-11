@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-10-24"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2213,7 +2213,9 @@ II. Posea o utilice datos identificativos de otra persona con la intención de c
 
 III. Asuma, suplante, se apropie o utilice, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o jurídica que no le pertenezca, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
 
-Las penas previstas en el presente artículo se aumentarán hasta en la mitad, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería, o cualquier otro grado académico en el rubro de informática, computación o telemática.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Las penas previstas en el presente artículo se aumentarán hasta en la mitad, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería, o cualquier otro grado académico en el rubro de informática, computación o telemática; asimismo, cuando sea servidor público o empleado en cualquier institución bancaria, financiera o crediticia.
 
 ###### ARTÍCULO 183.
 
@@ -3471,7 +3473,7 @@ QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO
 
 ### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 278.
 
@@ -3669,7 +3671,7 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 ###### ARTÍCULO 294.
 
-Se impondrá de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite hasta tres metros cúbicos de residuos de la industria de la construcción en:
+Se impondrá de uno a ocho años de prisión y sanción pecuniaria de cien a ochocientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite hasta tres metros cúbicos de residuos de la industria de la construcción en:
 
 I. Un área natural protegida o área de valor ambiental de competencia del estado, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -3681,17 +3683,17 @@ IV. Un área verde en suelo urbano, y
 
 V. En un predio baldío.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-Se impondrá de tres a seis años de prisión y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas descritas en las fracciones anteriores.
+Se impondrá de tres a nueve años de prisión y sanción pecuniaria de cien a novecientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas descritas en las fracciones anteriores.
 
 Cuando una o más de las conductas descritas en el presente artículo se cometa a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubiere incurrido las personas físicas por el delito cometido.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 295.
 
-Se impondrái (sic) de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida de actualización, a quienes ocasiones (sic) daños o provoquen un desequilibrio a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
+Se impondrá de dos a nueve años de prisión y sanción pecuniaria de doscientos a novecientos días del valor de la unidad de medida y actualización, a quienes ocasionen daños o provoquen un desequilibrio a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -4879,7 +4881,7 @@ X. VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO: EN TÉRMINOS DE LA LEY GENERAL DE A
 
 SE ENTENDERÁ QUE LAS ACCIONES U OMISIONES SE BASAN EN ELEMENTOS DE GÉNERO, CUANDO SE DIRIJAN A UNA MUJER POR SER MUJER; LE AFECTEN DESPROPORCIONADAMENTE O TENGAN UN IMPACTO DIFERENCIADO EN ELLA.
 
-(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -5638,5 +5640,21 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0785.- SE ADICIONA A LA PARTE ESPECIAL EN SU TÍTULO PRIMERO EL CAPÍTULO III BIS “LESIONES COMETIDAS CONTRA LA MUJER EN RAZÓN DE SU GÉNERO”, Y LOS ARTÍCULOS 142 BIS Y 142 TER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0806.- SE REFORMA (SIC) LOS ARTÍCULOS 294 EN SUS PÁRRAFOS PRIMERO Y SÉPTIMO Y 295 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0807.- SE REFORMA EL ARTÍCULO 187 BIS EN SU PÁRRAFO ÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
