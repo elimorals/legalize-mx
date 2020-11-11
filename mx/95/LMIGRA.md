@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2020-04-13"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LMIGRA"
 ---
 # LEY DE MIGRACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -98,63 +100,87 @@ III. Asilado: a todo extranjero que sea reconocido como tal en los términos de 
 
 IV. Apátrida: toda persona que no sea considerada como nacional por, ningún Estado, conforme a su legislación. La ley concederá igual trato a las personas que tienen una nacionalidad pero que no es efectiva.
 
-V. Centro de Evaluación: al Centro de Evaluación y Control de Confianza del Instituto Nacional de Migración;
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-VI. Condición de estancia: a la situación regular en la que se ubica a un extranjero en atención a su intención de residencia y, en algunos casos, en atención a la actividad que desarrollarán en el país, o bien, en atención a criterios humanitarios o de solidaridad internacional.
+V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-VII. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
+VI. Centro de Evaluación: al Centro de Evaluación y Control de Confianza del Instituto Nacional de Migración;
 
-VIII. Cuota: al número máximo de extranjeros para ingresar a trabajar al país ya sea en general por actividad económica o por zona de residencia.
+VII. Condición de estancia: a la situación regular en la que se ubica a un extranjero en atención a su intención de residencia y, en algunos casos, en atención a la actividad que desarrollarán en el país, o bien, en atención a criterios humanitarios o de solidaridad internacional.
 
-IX. Defensor de derechos humanos: a toda persona u organización de la sociedad civil que individual o colectivamente promueva o procure la protección o realización de los derechos humanos, libertades fundamentales y garantías individuales en los planos nacional o internacional.
+VIII. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Estación Migratoria: a la instalación física que establece el Instituto para alojar temporalmente a los extranjeros que no acrediten su situación migratoria regular, en tanto se resuelve su situación migratoria;
+IX. Cuota: al número máximo de extranjeros para ingresar a trabajar al país ya sea en general por actividad económica o por zona de residencia.
 
-XI. Extranjero: a la persona que no pasea (sic) la calidad de mexicano, conforme a lo previsto en el artículo 30 de la Constitución;
+X. Defensor de derechos humanos: a toda persona u organización de la sociedad civil que individual o colectivamente promueva o procure la protección o realización de los derechos humanos, libertades fundamentales y garantías individuales en los planos nacional o internacional.
 
-XII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
+XI. Estación Migratoria: a la instalación física que establece el Instituto para alojar temporalmente a los extranjeros que no acrediten su situación migratoria regular, en tanto se resuelve su situación migratoria;
 
-XIII. Instituto: al Instituto Nacional de Migración;
+XII. Extranjero: a la persona que no pasea (sic) la calidad de mexicano, conforme a lo previsto en el artículo 30 de la Constitución;
 
-XIV. Ley: a la presente Ley;
+XIII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
 
-XV. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
+XIV. Instituto: al Instituto Nacional de Migración;
 
-XVI. Mexicano: a la persona que posea las calidades determinadas en el artículo 30 de la Constitución;
+XV. Ley: a la presente Ley;
 
-XVII. Migrante: al individuo que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación.
+XVI. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
 
-XVIII. Niña, niño o adolescente migrante no acompañado: a todo migrante nacional o extranjero niño, niña o adolescente menor de 18 años de edad, que se encuentre en territorio nacional y que no esté acompañado de un familiar consanguíneo o persona que tenga su representación legal;
+XVII. Mexicano: a la persona que posea las calidades determinadas en el artículo 30 de la Constitución;
 
-XIX. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
+XVIII. Migrante: al individuo que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación.
 
-XX. Presentación: a la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXI. Protección complementaria: a la protección que la Secretaría otorga al extranjero que no ha sido reconocido como refugiado, consistente en no devolverlo al territorio de otro país en donde su vida se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes;
+XIX. Niña, niño o adolescente migrante: cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
 
-XXII. Refugiado: a todo extranjero que se encuentre en territorio nacional y que sea reconocido como refugiado por parte de las autoridades competentes, conforme a los tratados y convenios internacionales de que es parte el Estado Mexicano y a la legislación vigente;
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor a doce años, se presumirá que es niña o niño;
 
-XXIII. Reglamento: al Reglamento de la presente Ley;
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXIV. Retorno asistido es el procedimiento por el que el Instituto Nacional de Migración hace abandonar el territorio nacional a un extranjero, remitiéndolo a su país de origen o de residencia habitual;
+XX. Niña, niño o adolescente migrante no acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutor o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre;
 
-XXV. Remuneración: a las percepciones que reciban las personas en el territorio de los Estados Unidos Mexicanos por la prestación de un servicio personal subordinado o por la prestación de un servicio profesional independiente;
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXVI. Secretaría: a la Secretaría de Gobernación;
+XXI. Niña, niño o adolescente migrante acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia o por su tutor;
+
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+XXII. Niña, niño o adolescente migrante separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de ley;
+
+XXIII. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
+
+XXIV. Presentación: a la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
+
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+XXV. Procuradurías de Protección: la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
+
+XXVI. Protección complementaria: a la protección que la Secretaría otorga al extranjero que no ha sido reconocido como refugiado, consistente en no devolverlo al territorio de otro país en donde su vida se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes;
+
+XXVII. Refugiado: a todo extranjero que se encuentre en territorio nacional y que sea reconocido como refugiado por parte de las autoridades competentes, conforme a los tratados y convenios internacionales de que es parte el Estado Mexicano y a la legislación vigente;
+
+XXVIII. Reglamento: al Reglamento de la presente Ley;
+
+XXIX. Retorno asistido es el procedimiento por el que el Instituto Nacional de Migración hace abandonar el territorio nacional a un extranjero, remitiéndolo a su país de origen o de residencia habitual;
+
+XXX. Remuneración: a las percepciones que reciban las personas en el territorio de los Estados Unidos Mexicanos por la prestación de un servicio personal subordinado o por la prestación de un servicio profesional independiente;
+
+XXXI. Secretaría: a la Secretaría de Gobernación;
 
 > <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2013)</small>
 
-XXVII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
+XXXII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
 
 > <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2018)</small>
 
-XXVIII. Situación migratoria: a la hipótesis jurídica en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
+XXXIII. Situación migratoria: a la hipótesis jurídica en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
 
-XXIX. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
+XXXIV. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
 
-XXX. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y
+XXXV. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y
 
-XXXI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
+XXXVI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
 
 ###### Artículo 4.
 
@@ -170,9 +196,15 @@ Los extranjeros que concluyan su encargo oficial en los Estados Unidos Mexicanos
 
 ### CAPÍTULO ÚNICO. DERECHOS Y OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 6.
 
-El Estado mexicano garantizará el ejercicio de los derechos y libertades de los extranjeros reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y en las disposiciones jurídicas aplicables, con independencia de su situación migratoria.
+El Estado mexicano garantizará a toda persona extranjera el ejercicio de los derechos y libertades reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y en las disposiciones jurídicas aplicables, con independencia de su situación migratoria.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de niñas, niños y adolescentes migrantes se garantizarán, de manera adicional a lo establecido en el párrafo anterior, los derechos y principios establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento, incluyendo el de la no privación de la libertad por motivos migratorios.
 
 ###### Artículo 7.
 
@@ -202,7 +234,9 @@ El Estado mexicano garantizará a los migrantes que pretendan ingresar de forma 
 
 En cualquier caso, independientemente de su situación migratoria, los migrantes tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución y demás leyes aplicables.
 
-En los procedimientos aplicables a niñas, niños y adolescentes migrantes, se tendrá en cuenta su edad y se privilegiará el interés superior de los mismos.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Los procedimientos aplicables a niñas, niños y adolescentes migrantes, se regirán por los derechos y principios establecidos en la Constitución, los tratados internacionales, la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables en la materia. Previo al inicio de dichos procedimientos, se dará aviso inmediato a la Procuraduría de Protección. En todo momento se observará el principio de la no privación de la libertad de niñas, niños y adolescentes por motivos migratorios.
 
 ###### Artículo 12.
 
@@ -286,19 +320,33 @@ II. Vigilar la entrada y salida de personas al territorio de los Estados Unidos 
 
 III. En los casos señalados en esta Ley, tramitar y resolver sobre la internación, estancia y salida del país de los extranjeros;
 
-IV. Conocer, resolver y ejecutar la deportación o el retorno asistido de extranjeros, en los términos y condiciones establecidos en la presente Ley y en su Reglamento;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. Conocer, resolver y ejecutar la deportación o el retorno asistido de personas extranjeras, en los términos y condiciones establecidos en la presente Ley y en su Reglamento; salvo que, en el caso de deportación o retorno asistido de niñas, niños y adolescentes migrantes, el plan de restitución de derechos que emita la Procuraduría de Protección determine lo contrario;
 
 V. Imponer las sanciones previstas por esta Ley y su Reglamento;
 
 VI. Llevar y mantener actualizado el Registro Nacional de Extranjeros;
 
-VII. Presentar en las estaciones migratorias o en los lugares habilitados para tal fin, a los extranjeros que lo ameriten conforme a las disposiciones de esta Ley, respetando en todo momento sus derechos humanos;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+VII. Presentar en las estaciones migratorias o en los lugares habilitados para tal fin, a las personas extranjeras que lo ameriten conforme a las disposiciones de esta Ley, respetando en todo momento sus derechos humanos;
 
 VIII. Coordinar la operación de los grupos de atención a migrantes que se encuentren en territorio nacional;
 
-IX. Proporcionar información contenida en las bases de datos de los distintos sistemas informáticos que administra, a las diversas instituciones de seguridad nacional que así lo soliciten, de conformidad con las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-X. Las demás que le señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+IX. Proporcionar información contenida en las bases de datos de los distintos sistemas informáticos que administra, a las diversas instituciones de seguridad nacional que así lo soliciten, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+X. Gestionar ante la autoridad correspondiente la asignación de la clave única del registro de población para niñas, niños y adolescentes a quienes se les otorgue autorización de estancia como Visitante por Razones Humanitarias o como Residente;
+
+> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente, y
+
+XII. Las demás que le señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 21.
 
@@ -398,19 +446,25 @@ V. Conocer respecto de los delitos previstos en los artículos 159 y 161 de esta
 
 VI. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
 Corresponde al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y al de la Ciudad de México:
 
-I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes no acompañados que requieran servicios para su protección;
+I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes que requieran servicios para su protección;
 
-II. Otorgar facilidades de estancia y garantizar la protección de niñas, niños y adolescentes migrantes no acompañados en tanto el Instituto resuelva su situación migratoria, conforme a lo previsto en el artículo 112 de esta Ley;
+II. Otorgar facilidades de estancia y garantizar la protección y los derechos de niñas, niños y adolescentes migrantes, independientemente de su nacionalidad y situación migratoria, garantizando el principio de unidad familiar y el cumplimiento de las medidas de protección para la restitución integral de derechos vulnerados de niñas, niños y adolescentes de conformidad con los artículos 122 y 123 de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-III. Coadyuvar con el Instituto en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad como son los niños, niñas y adolescentes migrantes, y
+III. El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial;
 
-IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+IV. Coadyuvar con el Instituto en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad;
+
+V. Coadyuvar con defensores de derechos humanos y la Comisión Nacional de los Derechos Humanos para garantizar la protección integral de los derechos de niñas, niños y adolescentes;
+
+VI. Establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios y demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas para garantizar la protección integral de los derechos de niñas, niños y adolescentes, y
+
+VII. Las demás que señale esta Ley, su Reglamento, la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 30.
 
@@ -676,7 +730,19 @@ Para efectos de esta Ley, sin perjuicio de lo establecido en otras disposiciones
 
 Al ofendido, víctima o testigo de un delito a quien se autorice la condición de estancia de Visitante por Razones Humanitarias, se le autorizará para permanecer en el país hasta que concluya el proceso, al término del cual deberán salir del país o solicitar una nueva condición de estancia, con derecho a entrar y salir del país cuantas veces lo desee y con permiso para trabajar a cambio de una remuneración en el país. Posteriormente, podrá solicitar la condición de estancia de residente permanente;
 
-b) Ser niña, niño o adolescente migrante no acompañado, en términos del artículo 74 de esta Ley.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+b) Ser niña, niño o adolescente migrante, en términos del artículo 74 de esta Ley.
+
+La autorización de la condición de estancia por razones humanitarias deberá ser inmediata y no podrá negarse o condicionarse a la presentación de documental alguna ni al pago de derechos.
+
+Esta condición de estancia se otorgará como medida de carácter temporal en tanto la Procuraduría de Protección determina el plan de restitución de derechos en los términos establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+La expedición del documento migratorio con dicha autorización deberá contener la CURP que la autoridad competente hubiera asignado y señalar expresamente la razón humanitaria de que se trata.
+
+En el caso de niñas, niños y adolescentes acompañados y separados, la autorización de esta condición de estancia beneficiará de manera solidaria a la persona adulta a cargo de su cuidado.
+
+El Instituto podrá negar el otorgamiento de la autorización a aquellas personas adultas de quien la Procuraduría de Protección hubiera determinado ser contrarios al interés superior de la niña, niño o adolescente de quien se trate.
 
 c) Ser solicitante de asilo político, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria. Si la solicitud es positiva se les otorgará la condición de estancia de residente permanente, en términos del artículo 54 de esta Ley.
 
@@ -852,7 +918,9 @@ Todos los migrantes en situación migratoria irregular tienen derecho a ser trat
 
 La presentación de los migrantes en situación migratoria irregular sólo puede realizarse por el Instituto en los casos previstos en esta Ley; deberá constar en actas y no podrá exceder del término de 36 horas contadas a partir de su puesta a disposición.
 
-Durante el procedimiento administrativo migratorio que incluye la presentación, el alojamiento en las estaciones migratorias, el retorno asistido y la deportación, los servidores públicos del Instituto deberán de respetar los derechos reconocidos a los migrantes en situación migratoria irregular establecidos en el Título Sexto de la presente Ley.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Durante el procedimiento administrativo migratorio que incluye la presentación, el alojamiento en las estaciones migratorias o en los Centros de Asistencia Social para el caso de niñas, niños y adolescentes migrantes, el retorno asistido y la deportación, los servidores públicos del Instituto deberán de respetar los derechos reconocidos a los migrantes en situación migratoria irregular establecidos en el Título Sexto de la presente Ley.
 
 ###### Artículo 69.
 
@@ -876,27 +944,41 @@ Todo migrante tiene derecho a ser asistido o representado legalmente por la pers
 
 Durante el procedimiento administrativo migratorio los migrantes tendrán derecho al debido proceso que consiste en que el procedimiento sea sustanciado por autoridad competente; el derecho a ofrecer pruebas y alegar lo que a su derecho convenga, a tener acceso a las constancias del expediente administrativo migratorio; a contar con un traductor o intérprete para facilitar la comunicación, en caso de que no hable o no entienda el español y a que las resoluciones de la autoridad estén debidamente fundadas y motivadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 71.
 
-La Secretaría creará grupos de protección a migrantes que se encuentren en territorio nacional, los que tendrán por objeto la protección y defensa de sus derechos, con independencia de su nacionalidad o situación migratoria.
+La Secretaría creará grupos de protección a migrantes que se encuentren en territorio nacional, los que tendrán por objeto la promoción, protección y defensa de sus derechos, con independencia de su nacionalidad o situación migratoria.
 
 La Secretaría celebrará convenios de colaboración y concertación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios, con las organizaciones de la sociedad civil o con los particulares, con el objeto de que participen en la instalación y funcionamiento de los grupos de protección a migrantes.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de niñas, niños y adolescentes migrantes los convenios deberán regirse por lo establecido en la presente Ley, la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones aplicables.
 
 ###### Artículo 72.
 
 La Secretaría celebrará convenios con las dependencias y entidades del Gobierno Federal, de las entidades federativas y de los municipios para implementar acciones tendientes a coadyuvar con los actos humanitarios, de asistencia o de protección a los migrantes que realizan las organizaciones de la sociedad civil legalmente constituidas.
 
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 73.
 
-La Secretaría deberá implementar acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes migrantes no acompañados, las mujeres, las víctimas de delitos, las personas con discapacidad y las adultas mayores.
+La Secretaría deberá implementar acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes, las mujeres, las víctimas de delitos, las personas con discapacidad y las adultas mayores.
 
-Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
+Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios o demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
+
+En el caso de las niñas, niños y adolescentes migrantes, la atención diferenciada se prestará con independencia de su situación migratoria, y no podrá condicionarse o restringirse al inicio, suspensión o continuidad de trámite administrativo o judicial alguno. Dicha atención deberá prestarse de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 74.
 
-Cuando así convenga al interés superior de la niña, niño o adolescente migrante extranjero no acompañado, dicho niño, niña o adolescente será documentado provisionalmente como Visitante por Razones Humanitarias en términos del artículo 52, fracción V, de esta Ley, mientras la Secretaría ofrece alternativas jurídicas o humanitarias temporales o permanentes al retorno asistido.
+En tanto la Procuraduría de Protección determina el interés superior de la niña, niño o adolescente y presenta al Instituto el Plan de Restitución de Derechos, toda niña, niño o adolescente será documentada como Visitante por Razones Humanitarias, en términos del artículo 52, fracción V, de esta Ley y recibirá protección conforme a lo establecido por la Ley General de los Derechos de Niñas, Niños y Adolescentes, su reglamento y demás disposiciones aplicables.
 
-En el Reglamento se establecerá el procedimiento que deberá seguirse para la determinación del interés superior de la niña, niño o adolescente migrante no acompañado.
+La vigencia de esta autorización se extenderá hasta que se concrete el acto administrativo migratorio que dicten las medidas de protección especial.
+
+En ningún caso la autoridad migratoria podrá devolver, expulsar, deportar, retornar, rechazar en frontera o no admitir a una niña, niño o adolescente sin que antes la autoridad competente valore si su vida, libertad o seguridad se encuentra en peligro. Para ello, la autoridad migratoria en contacto con la niña, niño o adolescente deberá notificarle a la Procuraduría de Protección de manera inmediata.
 
 ###### Artículo 75.
 
@@ -923,6 +1005,10 @@ Lo anterior sin perjuicio de lo previsto en la Ley Federal de Transparencia y Ac
 ###### Artículo 79.
 
 El Instituto podrá allegarse de los medios de prueba que considere necesarios para mejor proveer, sin más limitaciones que las establecidas en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de procedimientos en los que esté involucrada directa o indirectamente una niña, niño o adolescente, el Instituto deberá implementar las medidas migratorias que correspondan para coadyuvar en el cumplimiento e implementación del plan de restitución de derechos que emita la Procuraduría de Protección.
 
 ###### Artículo 80.
 
@@ -1018,6 +1104,18 @@ Si con motivo de la visita de verificación se detecta que algún extranjero no 
 
 Fuera de los casos a que se refiere el párrafo anterior, el acta que al efecto se levante deberá contener los datos necesarios para que se proceda a citar al extranjero para continuar el procedimiento de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En caso de detectar niñas, niños o adolescentes migrantes, la autoridad migratoria deberá, en coadyuvancia, notificar inmediatamente a la Procuraduría de Protección y hacer la canalización al Sistema DIF correspondiente. En ningún caso se llevará a cabo la presentación de una niña, niño o adolescente ni se iniciará el Procedimiento Administrativo Migratorio previo a dicha notificación. El Instituto emitirá un acta de canalización en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, niños o adolescentes presentes durante la verificación, se pospondrá hasta el momento en que se apersone la Procuraduría de Protección y se levante el correspondiente oficio de canalización del caso de las niñas, niños o adolescentes de que se trate a la Procuraduría.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Si de la visita de verificación se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
 ###### Artículo 96.
 
 Las autoridades colaborarán con el Instituto para el ejercicio de sus funciones, cuando éste así lo solicite, sin que ello implique que puedan realizar de forma independiente funciones de control, verificación y revisión migratoria.
@@ -1034,13 +1132,31 @@ La orden por la que se disponga la revisión migratoria deberá estar fundada y 
 
 Si con motivo de la revisión migratoria se detecta que algún extranjero no cuenta con documentos que acrediten su situación migratoria regular en el país, se procederá en los términos del artículo 100 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En caso de detectar niñas, niños o adolescentes migrantes, la autoridad migratoria deberá, en coadyuvancia, notificar inmediatamente a la Procuraduría de Protección y hacer la canalización al Sistema DIF correspondiente. En ningún caso se llevará a cabo la presentación de una niña, niño o adolescente ni se iniciará el Procedimiento Administrativo Migratorio previo a dicha notificación. El Instituto emitirá un acta de canalización en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, niños o adolescentes presentes durante la revisión migratoria, se pospondrá hasta el momento en que se apersone la Procuraduría de Protección y se levante el correspondiente oficio de canalización del caso de las niñas, niños o adolescentes de que se trate a la Procuraduría.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Si de la revisión migratoria se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
 ### CAPÍTULO V. DE LA PRESENTACIÓN DE EXTRANJEROS
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 99.
 
-Es de orden público la presentación de los extranjeros en estaciones migratorias o en lugares habilitados para ello, en tanto se determina su situación migratoria en territorio nacional.
+Es de orden público la presentación de los extranjeros adultos en estaciones migratorias o en lugares habilitados para ello, en tanto se determina su situación migratoria en territorio nacional.
 
-La presentación de extranjeros es la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
+La presentación de extranjeros es la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero adulto que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
+
+En ningún caso, el Instituto presentará ni alojará a niñas, niños o adolescentes migrantes en estaciones migratorias ni en lugares habilitados para ello.
+
+La presentación de las personas adultas bajo cuyo cuidado estén niñas, niños o adolescentes migrantes deberá evitarse atendiendo al principio de unidad familiar y del interés superior de niñas, niños y adolescentes.
 
 ###### Artículo 100.
 
@@ -1092,11 +1208,15 @@ Las estaciones migratorias, deberán cumplir al menos los siguientes requisitos:
 
 I. Prestar servicios de asistencia médica, psicológica y jurídica;
 
-II. Atender los requerimientos alimentarios del extranjero presentado, ofreciéndole tres alimentos al día. El Instituto deberá supervisar que la calidad de los alimentos sea adecuada. Las personas con necesidades especiales de nutrición como niñas, niños y adolescentes, personas de la tercera edad y mujeres embarazadas o lactando, recibirán una dieta adecuada, con el fin de que su salud no se vea afectada en tanto se define su situación migratoria.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+II. Atender los requerimientos alimentarios del extranjero presentado, ofreciéndole tres alimentos al día. El Instituto deberá supervisar que la calidad de los alimentos sea adecuada. Las personas con necesidades especiales de nutrición, como personas de la tercera edad y mujeres embarazadas, recibirán una dieta adecuada, con el fin de que su salud no se vea afectada en tanto se define su situación migratoria.
 
 Asimismo, cuando así lo requiera el tratamiento médico que se haya; prescrito al alojado, se autorizarán dietas especiales de alimentación. De igual manera se procederá con las personas que por cuestiones religiosas así lo soliciten;
 
-III. Mantener en lugares separados y con medidas que aseguran la integridad física del extranjero, a hombres y mujeres, manteniendo a los niños preferentemente junto con su madre, padre o acompañante, excepto en los casos en que así convenga al interés superior del niño, niña o adolescente;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+III. Mantener en lugares separados y con medidas que aseguran la integridad física de las personas extranjeras, a hombres y mujeres;
 
 IV. Promover el derecho a la preservación de la unidad familiar;
 
@@ -1117,6 +1237,8 @@ El Instituto facilitará la verificación de la Comisión Nacional de los Derech
 ###### Artículo 108.
 
 A fin de lograr una convivencia armónica y preservar la seguridad de los extranjeros alojados en las estaciones migratorias, el orden y la disciplina se mantendrán con apego a las disposiciones administrativas que emita la Secretaría y respetando en todo momento sus derechos humanos.
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO CONSTABA DE XV FRACCIONES, POR DECRETO PUBLICADO EN EL D.O.F. EL 11 DE NOVIEMBRE DE 2020 SE SUPRIME LA FRACCIÓN XIV, RECORRIÉNDOSE EN SU NUMERACIÓN]</small>
 
 ###### Artículo 109.
 
@@ -1146,13 +1268,13 @@ XI. No ser discriminado por las autoridades a causa de su origen étnico o nacio
 
 XII. Recibir un trato digno y humano durante toda su estancia en la Estación Migratoria;
 
-XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, excepto en los casos en los que la separación sea considerada en razón del interés superior de la niña, niño o adolescente;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Que las Estaciones Migratorias cuenten con áreas separadas para niñas, niños y adolescentes migrantes no acompañados para su alojamiento en tanto son canalizados a instituciones en donde se les brinde una atención adecuada, y
+XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, y
 
-> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XV. Las demás que se establezcan en esta Ley, en otras disposiciones jurídicas aplicables y en las disposiciones de carácter general que expida la Secretaría.
+XIV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
 
 ###### Artículo 110.
 
@@ -1182,37 +1304,43 @@ Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia d
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE VULNERABILIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 112.
 
-Cuando alguna niña, niño o adolescente migrante no acompañado, sea puesto a disposición del Instituto quedará bajo la responsabilidad y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
+Cuando alguna niña, niño o adolescente sea puesta a disposición del Instituto, quedará bajo su total responsabilidad en tanto procede la notificación inmediata a la Procuraduría de Protección y la canalización al Sistema DIF correspondiente, y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
+I. Por lo que respecta a la seguridad y cuidado de niñas, niños y adolescentes, el Instituto deberá ponerles de inmediato a disposición del Sistema Nacional DIF o su equivalente en las diferentes entidades federativas, municipios o demarcaciones territoriales y notificar del caso a la Procuraduría de Protección, para proceder a su gestión conforme a lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-I. El Instituto procederá a canalizar de manera inmediata a la niña, niño o adolescente migrante no acompañado al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y de la Ciudad de México, con objeto de privilegiar su estancia en lugares donde se les proporcione la atención adecuada, mientras se resuelve su situación migratoria y dará aviso al consulado de su país.
+De manera cautelar, el Instituto reconocerá a toda niña, niño y adolescente migrante la condición de Visitante por Razones Humanitarias, en los términos establecidos en la presente Ley y su Reglamento.
 
-Cuando por alguna circunstancia excepcional las niñas, niños y adolescentes migrantes extranjeros no acompañados lleguen a ser alojados en una estación migratoria, en tanto se les traslada a las instalaciones del Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y de la Ciudad de México, deberá asignárseles en dicha estación un espacio específico para su estadía distinto al del alojamiento de los adultos. La autoridad deberá respetar en todo momento los derechos de los niños, niñas y adolescentes migrantes no acompañados previstos en el presente ordenamiento y la legislación aplicables (sic), dándose aviso inmediato a la Comisión Nacional de los Derechos Humanos y a las comisiones estatales de derechos humanos, así como al Comité Estatal del Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de los Derechos del Niño en la entidad que corresponda, a efecto de que coadyuven en la garantía y protección de sus derechos.
+El Instituto emitirá un acta de canalización de la niña, niño o adolescente en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF correspondiente;
 
-II. Se le informará a la niña, niño y adolescente del motivo de su presentación, de sus derechos dentro del procedimiento migratorio, de los servicios a que tiene acceso y se le pondrá en contacto con el consulado de su país, salvo que a juicio del Instituto o a solicitud del niño, niña o adolescente pudiera acceder al asilo político o al reconocimiento de la condición de refugiado, en cuyo caso no se entablará contacto con la representación consular;
+II. Por lo que respecta a la determinación y resolución de la situación administrativa migratoria de niñas, niños y adolescentes, el Instituto deberá iniciar el procedimiento administrativo migratorio previa notificación a la Procuraduría de Protección para su oportuna intervención;
 
-III. Se notificará al consulado del país de nacionalidad o residencia del niño, niña o adolescente, la ubicación de las instalaciones del Sistema Nacional o Sistemas Estatales para el Desarrollo Integral de la Familia o estación migratoria a la cual se le canalizó y las condiciones en las que se encuentre, salvo que a juicio del Instituto o a solicitud del niño, niña o adolescente pudiera acceder al asilo político o al reconocimiento de la condición de refugiado, en cuyo caso no se entablará contacto con la representación consular;
+III. Será el Instituto quien determine y resuelva el procedimiento administrativo correspondiente, atendiendo las determinaciones que en ese sentido provea el plan de restitución de derechos emitido por la Procuraduría de Protección.
 
-IV. Personal del Instituto, especializado en la protección de la infancia, capacitado en los derechos de niñas, niños y adolescentes, entrevistará al niño, niña o adolescente con el objeto de conocer su identidad, su país de nacionalidad o residencia, su situación migratoria, el paradero de sus familiares y sus necesidades particulares de protección, de atención médica y psicológica.
+En el caso de que el plan de restitución de derechos que emita la Procuraduría de Protección recomiende la permanencia de la niña, niño o adolescente, el Instituto lo podrá regularizar bajo los supuestos establecidos en los artículos 132, 133 y 134 de esta Ley, y tendrá derecho a la preservación de la unidad familiar.
 
-Un representante de la Comisión Nacional de los Derechos Humanos podrá estar presente en estas entrevistas, sin perjuicio de las facultades que le corresponden al representante legal o persona de confianza del niño, niña o adolescente;
-
-V. En coordinación con el consulado del país de nacionalidad o residencia del niño, niña o adolescente o de la institución de asistencia del niño, niña o adolescente del país de que se trate se procederá a la búsqueda de sus familiares adultos, salvo a juicio del Instituto o a solicitud del niño, niña o adolescente pudiera acceder al asilo político o al reconocimiento de la condición de refugiado, en cuyo caso no se entablará contacto con la representación consular.
-
-En el caso de que el niño, niña o adolescente se ubique en los supuestos establecidos en los artículos 132, 133 y 134 de esta Ley, tendrá derecho a la regularización de su situación migratoria, y
-
-VI. Una vez resuelta la situación migratoria del niño, niña o adolescente y en caso de resolverse la conveniencia de su retorno asistido se notificará de esta situación al consulado correspondiente, con tiempo suficiente para la recepción del niño, niña o adolescente en su país de nacionalidad o residencia.
+En el caso de que el plan de restitución de derechos que emita la Procuraduría de Protección estipule la posibilidad de que la niña, niño o adolescente salga del país, el Instituto procederá al retorno asistido y se notificará de esta situación al Consulado correspondiente, con tiempo suficiente para la recepción del niño, niña o adolescente en su país de nacionalidad o residencia.
 
 El retorno asistido de la niña, niño o adolescente migrante a su país de nacionalidad o residencia se realizará atendiendo al interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, con pleno respeto a sus derechos humanos y con la intervención de la autoridad competente del país de nacionalidad o residencia.
 
-> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], D.O.F. 9 DE NOVIEMBRE DE 2017)</small>
+Todo traslado y retorno asistido deberá de hacerse en acompañamiento de personal especializado en el tema de infancia.
 
-Tratándose de niña, niño o adolescente migrante nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, garantizar el eficaz retorno asistido del menor con sus familiares adultos, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, en coordinación y coadyuvancia con los Sistemas Estatales DIF y de la Ciudad de México que corresponda, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras.
+Tratándose de niña, niño o adolescente nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, en coordinación y coadyuvancia con los Sistemas Estatales DIF y de la Ciudad de México que correspondan, garantizar el eficaz retorno asistido de la niña, niño o adolescente con sus familiares adultos o personas adultas bajo cuyos cuidados se encuentre habitualmente ya sea en virtud de ley o por costumbre, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras;
+
+IV. Se informará en lenguaje claro y conforme a su edad y madurez a la niña, niño o adolescente de las implicaciones de la canalización al Sistema DIF, la notificación de su caso a la Procuraduría de Protección, del proceso administrativo migratorio, de sus derechos y del proceso de retorno a su país o comunidad de origen, en el caso de las niñas, niños y adolescentes nacionales repatriados;
+
+V. Se le pondrá en contacto con el consulado de su país, salvo que a juicio del Instituto o a solicitud de la niña, niño o adolescente pudiera acceder al asilo político, al reconocimiento de la condición de refugiado, o se identifiquen indicios de necesidad de protección internacional, en cuyo caso no se entablará contacto con la representación consular.
+
+En estos casos, además de a la Procuraduría de Protección, el Instituto deberá notificar a la Comisión Mexicana de Ayuda a Refugiados de manera inmediata.
+
+En los casos en que corresponda, se notificará al consulado del país de nacionalidad o residencia del niño, niña o adolescente, sobre la canalización al Sistema DIF y la notificación a la Procuraduría de Protección, incluyendo los datos de contacto para ambos casos;
+
+VI. Personal del Instituto, especializado en la protección de la infancia, capacitado en los derechos de niñas, niños y adolescentes, podrá entrevistarles con el único objeto de conocer su identidad, su país de nacionalidad o residencia, su situación migratoria, el paradero de sus familiares y sus necesidades particulares de protección, de atención médica y psicológica. Dicha información se compartirá con los Sistemas DIF y la Procuraduría Federal en los términos que establecen la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento.
+
+Un representante de la Comisión Nacional de los Derechos Humanos podrá estar presente en estas entrevistas, sin perjuicio de las facultades que le corresponden al representante legal o persona de confianza del niño, niña o adolescente.
 
 ###### Artículo 113.
 
@@ -1274,13 +1402,21 @@ VIII. Que en el caso de que el extranjero sea rechazado por el país de destino,
 
 En el procedimiento de retorno asistido se privilegiarán los principios de preservación de la unidad familiar y de especial atención a personas en situación de vulnerabilidad, procurando que los integrantes de la misma familia viajen juntos.
 
-En el caso de niñas, niños y adolescentes no acompañados, mujeres embarazadas, víctimas o testigos de delitos cometidos en territorio nacional, personas con discapacidad y adultos mayores, se aplicará el procedimiento de retorno asistido con la intervención de los funcionarios consulares o migratorios del país receptor. Asimismo, se deberán tomar en consideración:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-I. El interés superior de estas personas para garantizar su mayor protección, y
+En el caso de niñas, niños y adolescentes, mujeres embarazadas, víctimas o testigos de delitos cometidos en territorio nacional, personas con discapacidad y adultos mayores, se aplicará el procedimiento de retorno asistido con la intervención de los funcionarios consulares o migratorios del país receptor. Asimismo, se deberán tomar en consideración:
+
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+I. El interés superior de niñas, niños y adolescentes para garantizar su mayor protección, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen.
 
-En el caso de niñas, niños y adolescentes migrantes no acompañados y el de víctimas o testigos de delitos cometidos en territorio nacional, no serán deportados y atendiendo a su voluntad o al interés superior para garantizar su mayor protección, podrán sujetarse al procedimiento de retorno asistido o de regularización de su situación migratoria.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de niñas, niños y adolescentes y el de víctimas o testigos de delitos cometidos en territorio nacional, no serán deportados y atendiendo a su voluntad o al interés superior para garantizar su mayor protección, podrán sujetarse al procedimiento de retorno asistido o de regularización de su situación migratoria.
 
 ###### Artículo 121.
 
@@ -1721,3 +1857,13 @@ D.O.F. 13 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 93 DE LA LEY DE MIGRACIÓN”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MIGRACIÓN Y DE LA LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO, EN MATERIA DE INFANCIA MIGRANTE”.]
+
+Primero. El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
+
+Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
