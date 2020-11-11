@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-refugiados-proteccion-complementaria-y-asilo-78790"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2014-10-30"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78790&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-01-26"
 
 LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de enero de 2011.
 
@@ -117,6 +117,10 @@ Ningún solicitante o refugiado podrá en modo alguno ser rechazado en frontera 
 
 El extranjero al que se le otorgue protección complementaria no podrá ser devuelto al territorio de otro país donde su vida peligre o en donde existan razones fundadas para considerar que estaría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
 
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de niñas, niños y adolescentes solicitantes, refugiados o con protección complementaria, además del principio de la no devolución se garantizará el derecho a la unidad familiar.
+
 ###### Artículo 7.
 
 No se impondrá sanción alguna por motivo de su ingreso irregular al país, al refugiado o al extranjero que se le otorgue protección complementaria.
@@ -127,9 +131,11 @@ En caso de haberse iniciado procedimiento migratorio por ingreso irregular al te
 
 La Secretaría, sin perjuicio de las obligaciones que les correspondan a otras autoridades y en coordinación con las mismas, adoptará las medidas que estén a su alcance para que los solicitantes, los refugiados y quienes reciban protección complementaria, no sean objeto de discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social o económica, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de sus derechos. Para la adopción de dichas medidas, la Secretaría analizará las propuestas que formulen organismos internacionales y organizaciones de la sociedad civil especializadas en la materia.
 
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-En el reconocimiento de la condición de refugiado deberá protegerse la organización y el desarrollo de la familia, así como el interés superior del niño.
+En el reconocimiento de la condición de refugiado deberá protegerse la organización y el desarrollo de la familia, así como el interés superior del niño, conforme a lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ###### Artículo 10.
 
@@ -281,7 +287,9 @@ El solicitante tendrá derecho a recibir información clara, oportuna y gratuita
 
 Durante el procedimiento, la Secretaría tomará las medidas necesarias para garantizar el otorgamiento de asistencia institucional a los solicitantes que requieran atención especial, así como mujeres embarazadas, niñas, niños y adolescentes, personas adultas mayores, con discapacidad, enfermos crónicos, víctimas de tortura u otros tratos o penas crueles, inhumanos o degradantes, de abuso sexual y violencia de género, de trata de personas o a cualquier otra persona que pudiese encontrarse en situación de vulnerabilidad de conformidad con las disposiciones jurídicas que resulten aplicables en cada materia.
 
-Cuando un solicitante en situación de vulnerabilidad haya sido admitido provisionalmente o se encuentre en alguna estación migratoria, la Secretaría valorará las medidas que mejor favorezcan al solicitante, de conformidad con las circunstancias del caso. En el caso de niñas, niños y adolescentes deberá determinarse su interés superior.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Cuando un solicitante en situación de vulnerabilidad haya sido admitido provisionalmente o se encuentre en alguna estación migratoria, la Secretaría valorará las medidas que mejor favorezcan al solicitante, de conformidad con las circunstancias del caso. En ningún momento las niñas, niños o adolescentes solicitantes, independientemente de que viajen o no en compañía de una persona adulta, serán privados de la libertad en estaciones migratorias o lugares habilitados. En el caso de niñas, niños y adolescentes deberá determinarse su interés superior conforme a lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
 
@@ -305,7 +313,9 @@ La Secretaría expedirá a cada solicitante y a sus dependientes una constancia 
 
 El solicitante deberá aportar sus datos de identificación completos y verídicos, los motivos en los cuales basa su solicitud, así como todos los elementos de los que disponga para sustentarla. Desde la presentación de la solicitud hasta antes de que la Secretaría emita resolución, el solicitante podrá aportar todas las pruebas que a su derecho convengan.
 
-La Secretaría, tomando en consideración el contexto social y cultural de donde provenga el solicitante, así como su edad, género y otras circunstancias particulares, realizará de manera personal las entrevistas que resulten necesarias, a fin de allegarse de elementos para el análisis de su solicitud.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría, tomando en consideración el contexto social y cultural de donde provenga el solicitante, así como su edad, género y otras circunstancias particulares, realizará de manera personal las entrevistas que resulten necesarias, a fin de allegarse de elementos para el análisis de su solicitud. En el caso de niñas, niños y adolescentes migrantes no acompañados, se estará a lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 En la substanciación del procedimiento, especialmente durante el desarrollo de las entrevistas, en caso de ser necesario se contará con el apoyo de un traductor o intérprete y de los especialistas que se requieran para facilitar la comunicación con el solicitante, mismos que en todo momento deberán de preservar la confidencialidad de la información.
 
@@ -477,7 +487,9 @@ III. Contar, en caso de ser necesario, de forma gratuita con el apoyo de un trad
 
 La Secretaría tomará las medidas necesarias para garantizar los derechos de los refugiados sujetos a un procedimiento de cesación, revocación o cancelación, que requieran atención especial por su situación de vulnerabilidad.
 
-Durante el procedimiento, el refugiado podrá promover por sí o a través de su representante legal. En todo momento las entrevistas se deberán desahogar de manera personal con el refugiado, pudiendo estar acompañado por su representante legal.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+
+Durante el procedimiento, el refugiado podrá promover por sí o a través de su representante legal. En todo momento las entrevistas se deberán desahogar de manera personal con el refugiado, pudiendo estar acompañado por su representante legal. En el caso de niñas, niños y adolescentes migrantes no acompañados, se estará a lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ###### Artículo 42.
 
@@ -778,3 +790,13 @@ Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presen
 Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
 
 Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
+
+D.O.F. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MIGRACIÓN Y DE LA LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO, EN MATERIA DE INFANCIA MIGRANTE”.]
+
+Primero. El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
+
+Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
