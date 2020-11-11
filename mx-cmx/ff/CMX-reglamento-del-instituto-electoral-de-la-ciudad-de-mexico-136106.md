@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-13610
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-13"
-last_updated: "2019-07-01"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136106&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2019-04-30"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 1 DE JULIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 13 de mayo de 2019.
 
@@ -138,95 +136,119 @@ Para efectos del presente Reglamento, se entiende por:
 
 A) Ordenamientos legales:
 
-I.- Código: Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
+I. Código: Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
 
-II.- Ley General: Ley General de Transparencia y Acceso a la Información Pública;
+II. Ley General: Ley General de Transparencia y Acceso a la Información Pública;
 
-III.- Ley de Transparencia: Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+III. Ley de Transparencia: Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
 
-IV.- Ley de Protección de Datos: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
+IV. Ley de Protección de Datos: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
 
-V.- Reglamento: El presente Reglamento, y
+V. Reglamento: El presente Reglamento, y
 
-VI.- Reglamento de Protección de Datos: Reglamento del Instituto Electoral de la Ciudad de México en materia de Protección de Datos Personales.
+VI. Reglamento de Protección de Datos: Reglamento del Instituto Electoral de la Ciudad de México en materia de Protección de Datos Personales.
 
 B) Autoridades:
 
-I.- Áreas: Instancias del Instituto Electoral de la Ciudad de México que cuentan o puedan contar con la información pública. Aquellas que estén previstas en cualquier ley, ordenamiento, reglamento, estatuto o equivalentes;
+I. Áreas: Instancias del Instituto Electoral de la Ciudad de México que cuentan o puedan contar con la información pública. Aquellas que estén previstas en cualquier ley, ordenamiento, reglamento, estatuto o equivalentes;
 
-II.- Comisión: Comisión Permanente de Normatividad y Transparencia del Instituto Electoral de la Ciudad de México;
+II. Comisión: Comisión Permanente de Normatividad y Transparencia del Instituto Electoral de la Ciudad de México;
 
-III.- Comité: Comité de Transparencia del Instituto Electoral de la Ciudad de México;
+III. Comité: Comité de Transparencia del Instituto Electoral de la Ciudad de México;
 
-IV.- Consejo General: Consejo General del Instituto Electoral de la Ciudad de México;
+IV. Consejo General: Consejo General del Instituto Electoral de la Ciudad de México;
 
-V.- Direcciones Distritales: Órganos desconcentrados del Instituto Electoral de la Ciudad de México, unos de carácter permanente y otros de carácter temporal en cada uno de los distritos electorales uninominales en que se divide la Ciudad de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-VI.- Instituto de Transparencia: Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+V. Contraloría Interna: Contraloría Interna del Instituto Electoral
 
-VII.- Instituto Electoral: Instituto Electoral de la Ciudad de México;
+(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
 
-VIII.- Unidad de Transparencia: Oficina de Acceso a la información Pública y Protección de Datos Personales del Instituto Electoral, y
+VI. Direcciones Distritales: Órganos desconcentrados del Instituto Electoral de la Ciudad de México, en cada uno de los distritos electorales uninominales en que se divide la Ciudad de México;
 
-IX.- Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
+(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
+
+VII. Instituto de Transparencia: Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+
+(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
+
+VIII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
+
+(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
+
+IX. Unidad de Transparencia: Oficina de Acceso a la información Pública y Protección de Datos Personales del Instituto Electoral, y
+
+(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
+
+X. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+XI. Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Electoral.
 
 C) Conceptos:
 
-I.- Clasificación: Acto por el cual se determina que la información es restringida en sus modalidades de reservada o confidencial;
+I. Clasificación: Acto por el cual se determina que la información es restringida en sus modalidades de reservada o confidencial;
 
-II.- Consulta Directa: Prerrogativa que tiene toda persona de allegarse de información pública sin intermediarios;
+II. Consulta Directa: Prerrogativa que tiene toda persona de allegarse de información pública sin intermediarios;
 
-III.- Datos Abiertos: Datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características: accesibles, de libre uso, en formatos abiertos, gratuitos, integrales, legibles por máquinas, no discriminatorios, oportunos, permanentes y primarios;
+III. Datos Abiertos: Datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características: accesibles, de libre uso, en formatos abiertos, gratuitos, integrales, legibles por máquinas, no discriminatorios, oportunos, permanentes y primarios;
 
-IV.- Derecho de Acceso a la Información Pública: Prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder del Instituto Electoral, en términos de la Ley de Transparencia;
+IV. Derecho de Acceso a la Información Pública: Prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder del Instituto Electoral, en términos de la Ley de Transparencia;
 
-V.- Días: Días hábiles;
+V. Días: Días hábiles;
 
-VI.- Documento: Expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, competencias y decisiones del Instituto Electoral, sus personas servidoras públicas e integrantes, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+VI. Documento: Expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, competencias y decisiones del Instituto Electoral, sus personas servidoras públicas e integrantes, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
-VII.- Documento Electrónico: Información que puede constituir un documento, archivada o almacenada en un soporte electrónico, en un formato determinado y susceptible de identificación y tratamiento;
+VII. Documento Electrónico: Información que puede constituir un documento, archivada o almacenada en un soporte electrónico, en un formato determinado y susceptible de identificación y tratamiento;
 
-VIII.- Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite del Instituto Electoral;
+VIII. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite del Instituto Electoral;
 
-IX.- Expediente Electrónico: Conjunto de documentos electrónicos cuyo contenido y estructura permiten identificarlos como documentos de archivo que aseguran la validez, autenticidad, confidencialidad, integridad y disponibilidad de la información que contienen;
+IX. Expediente Electrónico: Conjunto de documentos electrónicos cuyo contenido y estructura permiten identificarlos como documentos de archivo que aseguran la validez, autenticidad, confidencialidad, integridad y disponibilidad de la información que contienen;
 
-X.- Formatos Abiertos: Conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de las personas usuarias;
+X. Formatos Abiertos: Conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de las personas usuarias;
 
-XI.- Formatos Accesibles: Acceso a la información pública de cualquier manera o forma alternativa, disponible en forma viable o cómoda para cualquier persona, eliminando las barreras o dificultades para las personas con discapacidad para acceder a cualquier texto impreso o en cualquier otro formato convencional en el que la información pueda encontrarse;
+XI. Formatos Accesibles: Acceso a la información pública de cualquier manera o forma alternativa, disponible en forma viable o cómoda para cualquier persona, eliminando las barreras o dificultades para las personas con discapacidad para acceder a cualquier texto impreso o en cualquier otro formato convencional en el que la información pueda encontrarse;
 
-XII.- Gobierno Abierto: Mecanismos de colaboración con el Instituto de Transparencia y representantes de la sociedad civil para la promoción e implementación de políticas y de apertura gubernamental;
+XII. Gobierno Abierto: Mecanismos de colaboración con el Instituto de Transparencia y representantes de la sociedad civil para la promoción e implementación de políticas y de apertura gubernamental;
 
-XIII.- Información Confidencial: Información en poder del Instituto Electoral, protegida por el derecho fundamental a la Protección de los Datos Personales y a la privacidad;
+XIII. Información Confidencial: Información en poder del Instituto Electoral, protegida por el derecho fundamental a la Protección de los Datos Personales y a la privacidad;
 
-XVI (SIC).- Información Clasificada: Información en posesión del Instituto Electoral, bajo la modalidad de reservada o confidencial;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XV (SIC).- Información de interés público: Información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que lleva a cabo el Instituto Electoral;
+XIV. Información Clasificada: Información en posesión del Instituto Electoral, bajo la modalidad de reservada o confidencial;
 
-XVI.- Información Pública: La señalada en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XVII.- Información Reservada: La información pública que se encuentra temporalmente sujeta a alguna de las excepciones previstas en la Ley de Transparencia;
+XV. Información de interés público: Información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que lleva a cabo el Instituto Electoral;
 
-XVIII.- Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas;
+XVI. Información Pública: La señalada en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIX.- Persona solicitante: Toda persona que pide información pública al Instituto Electoral;
+XVII. Información Reservada: La información pública que se encuentra temporalmente sujeta a alguna de las excepciones previstas en la Ley de Transparencia;
 
-XX.- Plataforma Nacional: Plataforma Nacional de Transparencia;
+XVIII. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas;
 
-XXI.- Prueba de Daño: Demostración que hace el Instituto Electoral respecto a que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que pueda producirse con la publicidad de la información es mayor que el interés de conocerla;
+XIX. Persona solicitante: Toda persona que pide información pública al Instituto Electoral;
 
-XXII.- Prueba de Interés Público: Facultad del Instituto de Transparencia de fundar y motivar con base en elementos de idoneidad, necesidad y proporcionalidad, que la publicación de la información clasificada no lesiona el interés jurídicamente protegido por la Ley;
+XX. Plataforma Nacional: Plataforma Nacional de Transparencia;
 
-XXIII.- Recurso de Revisión: Medio de impugnación previsto en el Título Octavo, Capítulo I de la Ley de Transparencia;
+XXI. Prueba de Daño: Demostración que hace el Instituto Electoral respecto a que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que pueda producirse con la publicidad de la información es mayor que el interés de conocerla;
 
-XXIV.- Rendición de Cuentas: Vista desde la perspectiva de la transparencia y el acceso a la información pública, consiste en la potestad de cualquier persona para exigir que el poder público informe y ponga a disposición en medios adecuados, las acciones y decisiones emprendidas derivadas del desarrollo de su actividad, así como los indicadores que permitan el conocimiento y la forma en que las llevó a cabo, incluyendo los resultados obtenidos; así como la obligación de dicho poder público de cumplir con las obligaciones que se establecen en la legislación de la materia, y garantizar mediante la implementación de los medios que sean necesarios y dentro del marco de la ley, el disfrute del Derecho de Acceso a la Información Pública consagrado en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos;
+XXII. Prueba de Interés Público: Facultad del Instituto de Transparencia de fundar y motivar con base en elementos de idoneidad, necesidad y proporcionalidad, que la publicación de la información clasificada no lesiona el interés jurídicamente protegido por la Ley;
 
-XXV.- Sitio de Internet: Sitio www.iecm.org.mx;
+XXIII. Recurso de Revisión: Medio de impugnación previsto en el Título Octavo, Capítulo I de la Ley de Transparencia;
 
-XXVI.- Solicitud: Escrito libre o los formatos impresos o electrónicos mediante el cual la persona solicitante presenta su requerimiento de información pública;
+XXIV. Rendición de Cuentas: Vista desde la perspectiva de la transparencia y el acceso a la información pública, consiste en la potestad de cualquier persona para exigir que el poder público informe y ponga a disposición en medios adecuados, las acciones y decisiones emprendidas derivadas del desarrollo de su actividad, así como los indicadores que permitan el conocimiento y la forma en que las llevó a cabo, incluyendo los resultados obtenidos; así como la obligación de dicho poder público de cumplir con las obligaciones que se establecen en la legislación de la materia, y garantizar mediante la implementación de los medios que sean necesarios y dentro del marco de la ley, el disfrute del Derecho de Acceso a la Información Pública consagrado en el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVII.- Transparencia proactiva: Conjunto de actividades que promueven la identificación, generación, publicación y difusión de información adicional a la establecida con carácter obligatorio por la ley de la materia, que permite la generación de conocimiento público útil, con un objeto claro enfocado en las necesidades de sectores de la sociedad determinados o determinables, y
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXVIII.- Versión Pública: Información a la que se da acceso eliminando u omitiendo partes o secciones clasificadas.
+XXV. Sitio de Internet: Sitio www.iecm.mx;
+
+XXVI. Solicitud: Escrito libre o los formatos impresos o electrónicos mediante el cual la persona solicitante presenta su requerimiento de información pública;
+
+XXVII. Transparencia proactiva: Conjunto de actividades que promueven la identificación, generación, publicación y difusión de información adicional a la establecida con carácter obligatorio por la ley de la materia, que permite la generación de conocimiento público útil, con un objeto claro enfocado en las necesidades de sectores de la sociedad determinados o determinables, y
+
+XXVIII. Versión Pública: Información a la que se da acceso eliminando u omitiendo partes o secciones clasificadas.
 
 ###### Artículo 3.
 
@@ -252,35 +274,37 @@ Las personas servidoras públicas del Instituto Electoral recibirán capacitaci�
 
 El Comité es la instancia del Instituto Electoral que se encarga de instrumentar las acciones necesarias para dar cumplimiento a lo dispuesto en el artículo 90 de la Ley de Transparencia y demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
 El Comité se integra de la manera siguiente:
 
-I.- Presidencia: Persona que designe el Consejo General.
+I. Presidencia: La persona servidora pública que designe el Consejo General del Instituto Electoral.
 
-II.- Secretaría: Titular de la Oficina de Acceso a la Información Pública y Protección de Datos Personales.
+II. Secretaría Técnica: Titular de la Oficina de Acceso a la Información Pública y Protección de Datos Personales.
 
-III.- Vocales:
+III. Personas Vocales:
 
 a) Titular de la Secretaría Administrativa;
 
-b) Titular de la Unidad Técnica de Comunicación Social y Difusión;
+b) Titular de la Contraloría Interna;
 
 c) Titular de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados; y
 
 d) Titular de la Unidad Técnica de Asuntos Jurídicos.
 
-IV.- Las y los invitados Permanentes:
+IV. Las personas invitadas permanentes:
 
-a) Titular de la Contraloría Interna;
+a) Titular de la Unidad Técnica de Comunicación Social y Difusión;
 
 b) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
 
-c) Las personas que designen las y los Consejeros Electorales, y
+c) Las personas que designen las Consejeras Electorales y los Consejeros Electorales, y
 
-d) La persona que designe el Secretario Ejecutivo de la Unidad Coordinadora del Sistema Institucional de Archivos del Instituto Electoral.
+d) La persona que designe la Secretaría Ejecutiva, en el Área Coordinadora de Archivos.
 
-V.- Las y los invitados Eventuales:
+V. Las personas invitadas eventuales:
 
 a) Titular de la Secretaría Ejecutiva;
 
@@ -302,21 +326,25 @@ i) Titular de la Unidad Técnica de Género y Derechos Humanos, y
 
 j) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
 
-Las personas que sean invitadas con carácter eventual serán convocadas por la Presidencia del Comité únicamente cuando propongan la clasificación de la información como reservada, confidencial y/o se determine la declaración de inexistencia o en caso de ser necesaria su participación para brindar una opinión técnica o administrativa dentro del ámbito de sus funciones.
+Las personas que sean invitadas con carácter eventual serán convocadas únicamente cuando propongan la clasificación de la información como reservada, confidencial y/o se determine la declaración de inexistencia o en caso de ser necesaria su participación para brindar una opinión técnica o administrativa dentro del ámbito de sus funciones.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-En las sesiones del Comité, la Presidencia y las y los vocales del Comité tendrán derecho a voz y voto.
+En las sesiones del Comité, la Presidencia y las personas Vocales del Comité tendrán derecho a voz y voto.
 
-La Secretaría, las y los invitados permanentes y las y los invitados eventuales sólo tendrán derecho a voz.
+La Secretaría Técnica, las personas invitadas permanentes y las personas invitadas eventuales sólo tendrán derecho a voz.
 
 ###### Artículo 10.
 
 Las atribuciones del Comité son aquéllas que le confiere la Ley de Transparencia y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Las funciones de las y los integrantes, así como de las personas invitadas del Comité y las reglas para el desarrollo de sus sesiones y reuniones de trabajo, se establecerán en el Reglamento que para el efecto apruebe el Consejo General.
+Las funciones de las personas integrantes, así como de las personas invitadas del Comité y las reglas para el desarrollo de sus sesiones y reuniones de trabajo, se establecerán en el Reglamento que para el efecto apruebe el Consejo General.
 
 ### CAPÍTULO II. DE LA UNIDAD DE TRANSPARENCIA
 
@@ -360,9 +388,11 @@ III.- Facilitar el ejercicio del derecho de acceso a la información pública a 
 
 IV.- Procurar la accesibilidad de la información.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 18.
 
-El Instituto Electoral apoyará al Instituto de Transparencia, en la elaboración de un Programa de la Cultura de Transparencia, Acceso a la Información Pública y Rendición de Cuentas; así como la promoción y difusión de manera permanente, mediante mecanismos amables que resulten idóneos para el interés y entendimiento de las y los habitantes de la Ciudad de México, de conformidad con las Bases establecidas en la Ley de Transparencia.
+El Instituto Electoral apoyará al Instituto de Transparencia, en la elaboración de un Programa de la Cultura de Transparencia, Acceso a la Información Pública y Rendición de Cuentas; así como la promoción y difusión de manera permanente, mediante mecanismos amables que resulten idóneos para el interés y entendimiento de las personas habitantes de la Ciudad de México, de conformidad con las Bases establecidas en la Ley de Transparencia.
 
 ### CAPÍTULO II. DE LA TRANSPARENCIA PROACTIVA
 
@@ -404,23 +434,29 @@ VIII.- Promover la Transparencia Proactiva atendiendo los mecanismos de Gobierno
 
 ### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES GENERALES Y ESPECÍFICAS
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
-En cumplimiento con las obligaciones en materia de transparencia, el Instituto Electoral, deberá poner a disposición, en formato abierto, la información pública correspondiente en su sitio de Internet y en la sección de transparencia, así como en la Plataforma Nacional.
+En cumplimiento con las obligaciones en materia de transparencia, el Instituto Electoral, deberá poner a disposición, en formato abierto, la información pública correspondiente en la sección de transparencia, así como en la Plataforma Nacional.
 
 ###### Artículo 24.
 
 La información pública derivada de las obligaciones en materia de transparencia deberá ser veraz, confiable, oportuna, gratuita, congruente, integral, accesible, comprensible y verificable.
 
-Dicha información será actualizada cada tres meses y su publicación deberá indicar el área responsable de generarla, así como la fecha de su última actualización y validación.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Dicha información será actualizada cada tres meses a excepción de aquella que deba actualizarse de manera semestral o anual, y su publicación deberá indicar el área responsable de generarla, así como la fecha de su última actualización y validación. Lo anterior, de conformidad con lo establecido en el Manual de Procedimientos de la Unidad de Transparencia del Instituto Electoral de la Ciudad de México.
 
 Las áreas, serán responsables de compilar y remitir a la Unidad de Transparencia la información que les corresponde, a efecto de mantenerla actualizada y cumplir con los criterios establecidos por el Instituto de Transparencia.
 
 La inobservancia de esta obligación por parte de las áreas será causa de responsabilidad administrativa, conforme a lo dispuesto en los artículo (sic) 264 y 265 de la Ley de Transparencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-La Unidad de Transparencia, a través de la presentación de informes trimestrales, mantendrá enterado al Comité sobre la actualización de la información publicada en el sitio de Internet del Instituto Electoral y en la Plataforma Nacional.
+La Unidad de Transparencia, a través de la presentación de informes trimestrales, mantendrá enterado al Comité sobre la actualización de la información publicada en la sección de transparencia del sitio de Internet del Instituto Electoral y en la Plataforma Nacional.
 
 Asimismo, el Instituto Electoral deberá dar cumplimiento a los convenios institucionales que suscriba en materia de transparencia y acceso a la información pública, de conformidad con el Código y el Reglamento Interior del Instituto Electoral de la Ciudad de México.
 
@@ -468,7 +504,9 @@ La pérdida, destrucción, alteración u ocultamiento de la información públic
 
 La clasificación es el proceso mediante el cual el Instituto Electoral determina que la información en su poder es restringida en alguna de sus modalidades de reservada o confidencial, de conformidad con lo dispuesto en la Ley de Transparencia y el presente Reglamento.
 
-Las y los titulares de las áreas del Instituto Electoral que generen o posean la información pública serán los responsables de proponer al Comité la clasificación, ya sea en su modalidad de reservada o confidencial y definir si es de manera total o parcial.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Las personas titulares de las áreas del Instituto Electoral que generen o posean la información pública serán las responsables de proponer al Comité la clasificación, ya sea en su modalidad de reservada o confidencial y definir si es de manera total o parcial.
 
 ###### Artículo 33.
 
@@ -536,41 +574,47 @@ Podrá clasificarse como información reservada, aquella cuya publicación se en
 
 Se considera información confidencial:
 
-I.- La que contiene datos personales concernientes a una persona identificada o identificable;
+I. La que contiene datos personales concernientes a una persona identificada o identificable;
 
-II.- La relativa a los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o sujetos obligados cuando no involucren el ejercicio de recursos públicos;
+II. La relativa a los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o sujetos obligados cuando no involucren el ejercicio de recursos públicos;
 
-III.- La protegida por la legislación en materia de derechos de autor o propiedad intelectual, y
+III. La protegida por la legislación en materia de derechos de autor o propiedad intelectual, y
 
-IV.- La que presenten los particulares al Instituto Electoral, con tal carácter, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes o los tratados internacionales.
+IV. La que presenten los particulares al Instituto Electoral, con tal carácter, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes o los tratados internacionales.
 
-La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y las personas servidoras públicas facultadas para ello.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella las personas titulares de la misma, sus representantes y las personas servidoras públicas facultadas para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 44.
 
-Para que el Instituto Electoral pueda permitir el acceso a información confidencial, requiere obtener el consentimiento de los particulares titulares de la información.
+Para que el Instituto Electoral pueda permitir el acceso a información confidencial, requiere obtener el consentimiento de las personas titulares de la información.
 
-No se requerirá el consentimiento de la o el titular de la información confidencial, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
-
-I.- La información se encuentre en registros públicos o fuentes de acceso público;
+No se requerirá el consentimiento de la persona titular de la información confidencial, cuando:
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-II.- Por ley tenga el carácter de pública;
+I. La información se encuentre en registros públicos o fuentes de acceso público;
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-III.- Exista una orden judicial;
+II. Por ley tenga el carácter de pública;
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-IV.- Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+III. Exista una orden judicial;
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-V.- Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+IV. Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+V. Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y CUOTAS DE REPRODUCCIÓN
 
@@ -588,13 +632,17 @@ Los temas referidos en las solicitudes de acceso a la información pública ser�
 
 El Instituto Electoral deberá promover e implementar acciones tendientes a garantizar las condiciones de accesibilidad, prestará servicios de orientación y asesoría a cualquier persona que así lo requiera.
 
-Por su parte, la Unidad de Transparencia brindará orientación y asesoría a los particulares en la elaboración de solicitudes, cuando la persona solicitante no sepa leer ni escribir, hable una lengua indígena, o se trate de una persona que pertenezca a un grupo en situación de vulnerabilidad, o bien cuando no sean claros o precisos los detalles proporcionados para localizar la información, resulten insuficientes, erróneos o carezcan de datos.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Por su parte, la Unidad de Transparencia brindará orientación y asesoría a las personas particulares en la elaboración de solicitudes, cuando la persona solicitante no sepa leer ni escribir, hable una lengua indígena, o se trate de una persona que pertenezca a un grupo en situación de vulnerabilidad, o bien cuando no sean claros o precisos los detalles proporcionados para localizar la información, resulten insuficientes, erróneos o carezcan de datos.
 
 ###### Artículo 48.
 
 Las personas podrán presentar una solicitud de acceso a la información pública de manera verbal, ya sea presencial o vía telefónica; por escrito libre o en los formatos aprobados por el Instituto de Transparencia, a través del correo electrónico oficial de la Unidad de Transparencia, por fax, por correo postal, telégrafo; o a través del Sistema Electrónico habilitado por el Instituto de Transparencia para tal efecto.
 
-La o el encargado de la Unidad de Transparencia, registrará todas las solicitudes de información que se realicen debiendo observar que estas cumplan con los requisitos establecidos en el artículo 55 del presente Reglamento.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+La persona encargada de la Unidad de Transparencia, registrará todas las solicitudes de información que se realicen debiendo observar que estas cumplan con los requisitos establecidos en el artículo 55 del presente Reglamento.
 
 Cuando la solicitud se realice por escrito, se registrará en el sistema de solicitudes de acceso a la información pública y se entregará a la persona interesada el acuse de recibo correspondiente. En el caso de que la solicitud se realice verbalmente, se capturará en el sistema de solicitudes y de igual forma se entregará acuse de recibo a la persona interesada, mismo que contendrá la fecha de recepción, el folio que corresponda y los plazos de respuesta aplicables.
 
@@ -602,7 +650,9 @@ Cuando la solicitud se realice por escrito, se registrará en el sistema de soli
 
 Si la solicitud de acceso a la información pública es presentada ante un área del Instituto Electoral distinta a la Unidad de Transparencia, dicha área tendrá la obligación de indicar a la persona interesada la ubicación física de dicha Unidad.
 
-La Oficialía Electoral y de Partes, así como las y los encargados de la correspondencia de las áreas que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la Unidad de Transparencia a más tardar el día siguiente de su recepción.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+La Oficialía Electoral y de Partes, así como las personas encargadas de la correspondencia de las áreas que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la Unidad de Transparencia a más tardar el día siguiente de su recepción.
 
 Será responsabilidad del área que reciba la solicitud, remitir la misma dentro de los plazos establecidos.
 
@@ -610,7 +660,9 @@ Será responsabilidad del área que reciba la solicitud, remitir la misma dentro
 
 Las Direcciones Distritales destinarán un espacio físico y un equipo de cómputo con acceso a Internet, para atender a las personas que quieran presentar una solicitud de información.
 
-El personal de las Direcciones Distritales orientará a las y los peticionarios para que ingresen su solicitud mediante el Sistema Electrónico o por medio de correo electrónico dirigido a la Unidad de Transparencia.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+El personal de las Direcciones Distritales orientará a las personas peticionarias para que ingresen su solicitud mediante el Sistema Electrónico o por medio de correo electrónico dirigido a la Unidad de Transparencia.
 
 ###### Artículo 51.
 
@@ -634,9 +686,11 @@ Si el Instituto Electoral es competente para atender parcialmente una solicitud 
 
 En el caso de que algún área determine que no es la responsable de generar o resguardar dicha información, mediante oficio, lo hará del conocimiento a la Unidad de Transparencia, al día siguiente en que haya recibido la solicitud, indicando el área que pudiera poseer la información requerida, para que la Unidad de Transparencia tome las medidas conducentes y en su caso, turne la solicitud en cuestión.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 54.
 
-En caso de que la persona solicitante haya presentado una solicitud relativa al ejercicio de los derechos de acceso, rectificación, cancelación u oposición, vía una solicitud de información pública, la Unidad de Transparencia deberá prevenirlo sobre el alcance de la vía elegida y los requisitos exigidos por la Ley de Protección de Datos aplicable.
+En caso de que la persona solicitante haya presentado una solicitud relativa al ejercicio de los derechos de acceso, rectificación, cancelación u oposición, vía una solicitud de información pública, la Unidad de Transparencia deberá prevenirla sobre el alcance de la vía elegida y los requisitos exigidos por la Ley de Protección de Datos aplicable.
 
 ###### Artículo 55.
 
@@ -648,7 +702,9 @@ En el caso de requerimientos parciales no desahogados, se tendrá por presentada
 
 Cuando las áreas, a las que les sea turnada una solicitud de información, consideren que no es clara o precisa, deberán remitir a la Unidad de Transparencia, la propuesta de prevención respectiva, debidamente fundada y motivada, a más tardar el segundo día siguiente a la recepción de la misma, con la finalidad de prevenir a la persona solicitante en el plazo señalado por la Ley.
 
-Si la información solicitada no se encuentra en los archivos del área responsable de tenerla, la o el titular de dicha área lo hará del conocimiento a la Unidad de Transparencia, a más tardar el día siguiente a aquel en que haya recibido la solicitud.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Si la información solicitada no se encuentra en los archivos del área responsable de tenerla, la personal (sic) titular de dicha área lo hará del conocimiento a la Unidad de Transparencia, a más tardar el día siguiente a aquel en que haya recibido la solicitud.
 
 De igual forma cuando se trate de información que verse sobre el funcionamiento y actividades que desarrolla el Instituto y que por alguna circunstancia no obre en los archivos, el Comité conocerá del asunto y, de ser procedente, declarará la inexistencia de la información, antes del vencimiento del plazo de respuesta.
 
@@ -660,9 +716,11 @@ Tratándose de solicitudes de acceso a la información pública, formuladas medi
 
 Cuando se presente una solicitud a través del Sistema Electrónico o de la Plataforma Nacional, se entenderá que acepta que las notificaciones le sean efectuadas por dicho sistema, salvo que señale un medio distinto para efectos de las notificaciones.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 58.
 
-La Unidad de Transparencia notificará a las personas solicitantes, por conducto de las y los notificadores habilitados por la Secretaría Ejecutiva y adscritos a la Unidad Jurídica, para lo cual se proporcionará a esa Unidad los oficios de respuesta y, en su caso, la documentación anexa, en observancia con los plazos establecidos en el Manual de Operación de la Unidad de Transparencia de este Instituto Electoral.
+La Unidad de Transparencia notificará a las personas solicitantes, por conducto de las personas notificadoras habilitadas por la Secretaría Ejecutiva y adscritas a la Unidad Jurídica, para lo cual se proporcionará a esa Unidad los oficios de respuesta y, en su caso, la documentación anexa, en observancia con los plazos establecidos en el Manual de Procedimientos de la Unidad de Transparencia de este Instituto Electoral.
 
 ###### Artículo 59.
 
@@ -674,11 +732,13 @@ Los días inhábiles se declararán por Circular de la Secretaría Ejecutiva, qu
 
 Las notificaciones se podrán realizar de la forma siguiente:
 
-I.- Personal, cuando se presente directamente ante la persona solicitante o su representante y por el medio señalado en la solicitud, y
+I. Personal, cuando se presente directamente ante la persona solicitante o su representante y por el medio señalado en la solicitud, y
 
-II.- Por estrados, colocados en la Unidad de Transparencia en los siguientes casos:
+II. Por estrados, colocados en la Unidad de Transparencia en los siguientes casos:
 
-a) Cuando la o el peticionario no señale domicilio o algún otro medio, establecido por la Ley de Transparencia para recibir notificaciones;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+a) Cuando la persona peticionaria no señale domicilio o algún otro medio, establecido por la Ley de Transparencia para recibir notificaciones;
 
 b) Cuando el domicilio se ubique fuera de la Ciudad de México, y
 
@@ -850,9 +910,11 @@ I.- El fundamento del trámite se encuentre establecido en una ley o reglamento,
 
 II.- El acceso suponga el pago de una contraprestación en los términos de los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 84.
 
-La certificación de documentos conforme a la Ley de Transparencia tiene por objeto establecer que en los archivos del Instituto Electoral existe un documento en original, copia simple, digitalizada u otro medio electrónico, igual al que se entrega. En caso de que no hubiera persona facultada por el Instituto Electoral para realizar las certificaciones, se entregará la información asentando la leyenda que señale que es copia autorizada de la que obra en los archivos del Instituto Electoral, por parte del Responsable de la Unidad de Transparencia.
+La certificación de documentos conforme a la Ley de Transparencia tiene por objeto establecer que en los archivos del Instituto Electoral existe un documento en original, copia simple, digitalizada u otro medio electrónico, igual al que se entrega. En caso de que no hubiera persona facultada por el Instituto Electoral para realizar las certificaciones, se entregará la información asentando la leyenda que señale que es copia autorizada de la que obra en los archivos del Instituto Electoral, por parte de la persona Responsable de la Unidad de Transparencia.
 
 ## TÍTULO SÉPTIMO. DEL RECURSO DE REVISIÓN, MEDIDAS DE APREMIO Y SANCIONES
 
@@ -876,23 +938,29 @@ El recurso de revisión procederá en contra de los supuestos que se encuentran 
 
 La respuesta que otorgue el Instituto Electoral derivada de la resolución a un recurso de revisión que proceda por las causales específicas previstas por dicho ordenamiento, es susceptible de ser impugnada de nueva cuenta, mediante recurso de revisión, ante el Instituto de Transparencia.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 87.
 
-Se considerará que existe falta de respuesta por parte del Instituto Electoral cuando concluido el plazo legal para atender una solicitud no se haya emitido respuesta; cuando se haya señalado que se anexó una respuesta o la información solicitada, en tiempo, sin acreditarlo; cuando al dar respuesta, materialmente emita una prevención o ampliación de plazo, y cuando haya manifestado a la o el promovente del recurso que por cargas de trabajo o problemas internos no existen condiciones de dar respuesta a la solicitud de información.
+Se considerará que existe falta de respuesta por parte del Instituto Electoral cuando concluido el plazo legal para atender una solicitud no se haya emitido respuesta; cuando se haya señalado que se anexó una respuesta o la información solicitada, en tiempo, sin acreditarlo; cuando al dar respuesta, materialmente emita una prevención o ampliación de plazo, y cuando haya manifestado a la persona promovente del recurso que por cargas de trabajo o problemas internos no existen condiciones de dar respuesta a la solicitud de información.
 
 ###### Artículo 88.
 
 Toda persona podrá interponer, por sí o a través de su representante legal, el recurso de revisión, mediante escrito libre o a través de los formatos establecidos por el Instituto de Transparencia para tal efecto o por medio del sistema habilitado para tal fin, dentro de los quince días siguientes contados a partir de la notificación de la respuesta a su solicitud de información pública o del vencimiento del plazo para la entrega de la respuesta cuando ésta no hubiere sido entregada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 89.
 
-Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde a quien funja como Responsable de la Unidad de Transparencia:
+Tratándose de recursos de revisión interpuestos en contra del Instituto Electoral, corresponde a quien funja como persona Responsable de la Unidad de Transparencia:
 
-I.- Manifestar lo que en derecho corresponda respecto del acto o resolución recurrida, ofreciendo las pruebas y alegatos correspondientes, en su caso, con base en los elementos proporcionados por el área que resguarda la información, dentro de los siete días siguientes a que se haya notificado el recurso, y remitirlo al Instituto de Transparencia dentro del mismo plazo, e
+I. Manifestar lo que en derecho corresponda respecto del acto o resolución recurrida, ofreciendo las pruebas y alegatos correspondientes, en su caso, con base en los elementos proporcionados por el área que resguarda la información, dentro de los siete días siguientes a que se haya notificado el recurso, y remitirlo al Instituto de Transparencia dentro del mismo plazo, e
 
-II.- Informar al Instituto de Transparencia del cumplimiento de las resoluciones en el plazo establecido por las mismas.
+II. Informar al Instituto de Transparencia del cumplimiento de las resoluciones en el plazo establecido por las mismas.
 
-El Responsable de la Unidad de Transparencia contará con la participación del titular del área responsable de la respuesta al recurrente, así como con la asesoría de la Unidad Jurídica.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+La persona responsable de la Unidad de Transparencia contará con la participación de la persona titular del área responsable de la respuesta, así como con la asesoría de la Unidad Jurídica.
 
 ###### Artículo 90.
 
@@ -957,3 +1025,17 @@ G.O. 1 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DE LA "NOTA ACLARATORIA AL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO", PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 13 DE MAYO DE 2019".]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el “Reglamento del Instituto Electoral de la Ciudad de México en Materia de Transparencia y Acceso a la Información Pública”, aprobado por el Consejo General mediante Acuerdo IECM/ACU-CG-019/2017, de fecha 17 de agosto de 2017.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Reglamento.
+
+CUARTO. Todos los procedimientos iniciados previos a la entrada en vigor del presente Reglamento deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
+
+QUINTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
