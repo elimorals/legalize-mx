@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2020-06-18"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -225,13 +225,17 @@ c) Reconocer e incentivar a las empresas e instituciones que propicien que sus t
 
 d) Crear, en coordinación con la Secretaría de Ecología y Gestión Ambiental programas de difusión sobre la plantación, cuidado, conservación y preservación de árboles para toda la población, con el apoyo de las instituciones educativas del Estado y los municipios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-e) Promover la innovación tecnológica empresarial en torno a la prevención, mitigación y control del cambio climático, y
+e) Promover la innovación tecnológica empresarial en torno a la prevención, mitigación y control del cambio climático;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-IV. Usar datos comprobados, provenientes del Inventario Nacional de Energías Renovables, con el fin de identificar las zonas con las condiciones adecuadas para distintos proyectos de energías renovables en el Estado.
+IV. Usar datos comprobados, provenientes del Inventario Nacional de Energías Renovables, con el fin de identificar las zonas con las condiciones adecuadas para distintos proyectos de energías renovables en el Estado, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+V. La implementación de políticas para la construcción de edificaciones sustentables, incluyendo el uso de materiales ecológicos, así como la eficiencia y sustentabilidad energética.
 
 ###### ARTÍCULO 10.
 
@@ -852,5 +856,13 @@ P.O. 18 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0688.- SE REFORMA EL ARTÍCULO 9° EN SU FRACCIÓN I LOS INCISOS E) Y F); Y ADICIONA A LOS ARTÍCULOS 3° LA FRACCIÓN III BIS, 9° EN SU FRACCIÓN I EL INCISO G) Y 24 LA FRACCIÓN II BIS, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0801.- SE REFORMA EL ARTÍCULO 9° EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 9° LA FRACCIÓN V, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
