@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2020-06-29"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -505,9 +505,9 @@ XXXIII.- Rendir, a través del Presidente Municipal, un informe anual del estado
 
 XXXIV.- Ordenar las mejoras que sean necesarias para las dependencias y organismos municipales, derivado de los resultados presentados por el Presidente Municipal en las visitas que realice a aquéllas;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al Titular del Órgano Interno de Control; al Secretario de Planeación Municipal o su equivalente, al Secretario de la Juventud, Recreación y Deporte Municipal, al titular de la Consejería Pública Municipal, al Defensor de los Derechos Humanos Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la Oficialidad, la Gendarmería, y demás empleados de confianza de la policía municipal. De igual manera procederá, con los responsables de la administración municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua.
+XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Titular de Seguridad Pública, al Titular del Órgano Interno de Control; al Secretario de Planeación Municipal o su equivalente, al Secretario de la Juventud, Recreación y Deporte Municipal, al titular de la Consejería Pública Municipal, al Defensor de los Derechos Humanos Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la Oficialidad, la Gendarmería, y demás empleados de confianza de la policía municipal. De igual manera procederá, con los responsables de la administración municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua.
 
 XXXVI.- Registrar las cauciones que otorguen el Tesorero Municipal y los demás servidores públicos que manejen fondos y valores públicos municipales
 
@@ -707,9 +707,9 @@ Tratándose de los actos alusivos a las gestas heroicas que se conmemoran durant
 
 XIII.- Hacer del conocimiento de la población las leyes, decretos, órdenes y circulares que le remita el Gobierno del Estado y los reglamentos y demás disposiciones de observancia general en el Municipio, para su debido cumplimiento;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
-XIV.- Someter a la aprobación del Ayuntamiento, los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal, del Director de Obras Públicas, del Director de la Policía, del Titular del Órgano Interno de Control, de la Consejería Jurídica Municipal, del Secretario de Planeación Municipal o su equivalente, al Defensor Municipal de los Derechos Humanos, al Secretario de Juventud, Recreación y Deporte Municipal y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
+XIV.- Someter a la aprobación del Ayuntamiento, los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal, del Director de Obras Públicas, del Titular de Seguridad Publica, del Titular del Órgano Interno de Control, de la Consejería Jurídica Municipal, del Secretario de Planeación Municipal o su equivalente, al Defensor Municipal de los Derechos Humanos, al Secretario de Juventud, Recreación y Deporte Municipal y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
 
 XV.- Someter a la aprobación del Ayuntamiento, el nombramiento y remoción de los empleados de confianza del municipio, de acuerdo a la Ley que regule la relación laboral;
 
@@ -1097,7 +1097,9 @@ I.- Secretaría del Ayuntamiento;
 
 II.- Tesorería Municipal;
 
-III.- Dirección de la Policía Municipal;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+III.- Seguridad Pública;
 
 IV.- Director de Obras Públicas;
 
@@ -1207,57 +1209,83 @@ XIII.- Las demás que les señalen esta Ley, sus reglamentos y demás disposicio
 
 El Tesorero será responsable de las erogaciones que efectué que no estén comprendidas en los presupuestos o que no haya autorizado el ayuntamiento.
 
-### Capítulo XI. De la Dirección de la Policía Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo XI. De la Seguridad Pública
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 84.
 
-En cada municipio habrá una comandancia de policía o su equivalente; estará a cargo de un comandante o su equivalente, quien deberá reunir los requisitos siguientes:
+En cada municipio habrá una Dependencia de Seguridad Pública Municipal; que estará a cargo de un Titular que reúna los requisitos siguientes:
 
-I. Ser chiapaneco y contar con un año de residencia en el Estado;
+I. Ser chiapaneco y contar con un año de residencia en el municipio de que se trate.
 
-II. Grado de escolaridad no inferior a secundaria;
+II. Contar preferentemente con la licenciatura en seguridad pública, sin que el grado escolar sea inferior a la media superior.
 
-III. Tener cuando menos veintiún años cumplidos al día de la designación;
+III. Acreditar experiencia en la materia mínima de cinco años.
 
-IV. Contar con experiencia en materia de seguridad;
+IV. Acreditar la certificación en seguridad pública por parte del Instituto de Formación Policial en el Estado, o su similar en otra entidad de la República.
 
-V. Acreditar las pruebas de evaluación de control y confianza del órgano facultado para su aplicación;
+V. Tener cuando menos veinticinco años cumplidos al día de la designación.
 
-VI. Haber cumplido con el Servicio Militar Nacional;
+VI. Acreditar las pruebas de evaluación de control y confianza del Órgano facultado para su aplicación.
 
-VII. Contar con Carta de Antecedentes Laborales no Negativos, expedido por el Sistema Nacional de Seguridad Pública;
+VII. Haber cumplido con el Servicio Militar Nacional.
 
-VIII. No haber sido condenado por delito doloso, así como contar con certificación de capacitación y competencia laboral vigente en la materia expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, y;
+VIII. Contar con carta de antecedentes laborales no Negativos, expedido por el Sistema Estatal de Seguridad Pública.
 
-IX. Los demás que señalen los ordenamientos aplicables.
+IX. No haber sido condenado por delito doloso.
+
+X. Contar con certificación de capacitación y competencia laboral vigente expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, y;
+
+XI. Los demás que señalen los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 85.
 
-La Comandancia o equivalente, estará integrada además por los elementos policíacos nombrados por el Ayuntamiento a propuesta del Presidente Municipal, de acuerdo con el presupuesto de egresos y que reúnan los requisitos establecidos en los ordenamientos aplicables a la materia.
+La dependencia de seguridad pública, estará integrada además por los elementos policíacos nombrados por el ayuntamiento a propuesta del Presidente Municipal, de acuerdo con el presupuesto de egresos y que reúnan los requisitos establecidos en la presente Ley y demás ordenamientos aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-El mando directo de la Dirección de Policía o su equivalente, estará a cargo del Presidente Municipal, excepto en el Municipio en que habitualmente resida el Gobernador del Estado o en el que transitoriamente se encuentre.
+El ejercicio del mando inmediato de la dependencia de Seguridad Pública de la demarcación territorial respectiva estará a cargo del Presidente Municipal, excepto en el municipio en que habitualmente resida el Gobernador del Estado o en el que transitoriamente se encuentre.
+
+El Presidente Municipal, acatará las órdenes que el Gobernador del Estado le transmita, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público y podrá ejercerlo a través de la persona titular de la dependencia, legalmente establecido (sic) para ello.
+
+Los ayuntamientos deberán expedir los reglamentos correspondientes que normen de manera administrativa la integración y funcionamiento de la dependencia de Seguridad Pública, además de los planes y programas respectivos.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 87.
 
-Son atribuciones y obligaciones de la Dirección de Policía Municipal o su equivalente:
+Son atribuciones y obligaciones en materia de Seguridad Pública:
 
-I.- Preservar, mantener y restablecer la tranquilidad y seguridad de los ciudadanos;
+I. Garantizar el bienestar y tranquilidad de las personas y sus bienes, así como preservar y guardar el orden público en el territorio municipal.
 
-II.- Vigilar el cumplimiento de los reglamentos gubernativos y los bandos de policía;
+II. Garantizar la profesionalización de los cuerpos de seguridad pública municipal.
 
-III.- Coadyuvar cuando sea requerido, con el Ministerio Público y las autoridades judiciales y administrativas estatales o federales;
+III. Coadyuvar cuando sea requerido, con el Ministerio Público y las autoridades judiciales y administrativas estatales o federales;
 
-IV.- Coadyuvar en la prevención de los delitos y demás conductas antisociales;
+IV. Celebrar convenios o acuerdos de coordinación con la Federación, el Estado y otros Municipios, en materia de seguridad pública.
 
-V.- Coordinar sus actividades con las demás corporaciones policíacas de la Federación y del Estado, de conformidad con los ordenamientos aplicables para el adecuado ejercicio de sus atribuciones;
+V. Establecer programas de prevención del delito, y asegurar el disfrute de los bienes, posesiones y derechos de las personas.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+VI. Dictar medidas para la observancia y cumplimiento de las disposiciones legales sobre seguridad pública.
 
-VI.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
+VII. Dar seguimiento y vigilar el cumplimiento de los acuerdos tomados en el seno del Consejo Nacional de Seguridad Pública y del Consejo Estatal, relacionados con el mejoramiento del cuerpo de seguridad pública municipal.
 
-VII.- Las demás que le confieran esta ley, sus reglamentos y otras disposiciones legales aplicables.
+VIII. Concretar los acuerdos emanados en la Conferencia Nacional de Seguridad Pública Municipal; así como ejecutar las directrices señaladas por las autoridades federales y estatales en esta materia.
+
+IX. Cuidar que la organización y desempeño de los cuerpos de seguridad pública, sea eficiente y eficaz.
+
+X. Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad pública.
+
+XI. Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
+
+XII. Las demás que le confieran esta ley, sus reglamentos y otras disposiciones legales aplicables.
 
 ### Capítulo XII. Del Cronista Municipal
 
@@ -1961,7 +1989,9 @@ El gobierno municipal realizará programas y políticas públicas para la preven
 
 El gobierno municipal mantendrá en capacitación constante a las personas encargados (sic) de la seguridad pública y la policía preventiva municipal.
 
-En cada municipio habrá una comandancia de policía o su equivalente; quienes deberán contar con certificación de capacitación y competencia laboral vigente en la materia expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+En cada municipio habrá una (sic) Cuerpo de Seguridad Pública; quienes deberán contar con certificación de capacitación y competencia laboral vigente en la materia expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
 #### Sección IX. Control sanitario de bares, cantinas, y centros de prostitución
 
@@ -2604,3 +2634,11 @@ P.O. 29 DE JUNIO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 031 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
