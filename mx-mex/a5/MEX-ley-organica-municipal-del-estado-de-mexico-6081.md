@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-11-03"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1911,6 +1911,12 @@ Las dependencias y entidades de la administración pública municipal, tales com
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el presidente municipal o con quien éste determine, y deberán cumplir los requisitos señalados en esta Ley; éstos servidores públicos preferentemente serán vecinos del municipio.
 
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 90 Bis.
+
+El Órgano Superior de Fiscalización del Estado de México brindará capacitación para el manejo de la cuenta pública municipal al Síndico o Síndicos según sea el caso, Tesorero, Secretario del Ayuntamiento y a los titulares de las dependencias respectivas, dentro de un plazo que no exceda los ciento veinte días posteriores a la instalación del Ayuntamiento. La capacitación impartida será de carácter obligatorio para los servidores públicos mencionados.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 91.
@@ -2640,6 +2646,12 @@ c) Instituto Municipal de la Juventud;
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
 d) Otros que consideren convenientes.
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 123 Bis.
+
+La persona titular de los organismos públicos descentralizados en materia de cultura física y deporte, a que se refiere el artículo anterior, además de los requisitos establecidos en el artículo 32 de esta Ley, preferentemente deberá contar con título profesional en el área de educación física o disciplina afín.
 
 ###### Artículo 124.
 
@@ -5228,3 +5240,19 @@ G.G. 3 DE NOVIEMBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2020.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 207.- POR EL QUE SE ADICIONA EL ARTÍCULO 90 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2020.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 208.- POR EL QUE SE ADICIONA EL ARTÍCULO 123 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
