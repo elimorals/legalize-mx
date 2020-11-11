@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2020-07-08"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1245,7 +1245,15 @@ VII.- Construir y conservar los servicios públicos de alumbrado, mercados, pant
 
 VIII.- En general, organizar la construcción de obras y la prestación de servicios públicos que correspondan al Municipio y no estén atribuidos a otra autoridad, organismo o dependencia.
 
-IX.- Las demás previstas en las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+IX.- Elaborar un padrón anual con las especificaciones relativas a las obras de pavimentación de calles y vialidades que hayan sido objeto de una reparación total o parcial, mediante el cual se verifique la existencia y circunstancias de tales obras. Este padrón deberá estar totalmente concluido a más tardar el 30 de abril del año posterior al ejercicio fiscal que corresponda.
+
+En caso de advertir posibles irregularidades al respecto, deberán ser denunciadas ante la Auditoría Superior del Estado, en términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas del Estado de Tamaulipas.
+
+Las irregularidades derivadas de la elaboración del referido padrón se demostraran eficazmente y de ninguna manera afectarán el derecho de las personas a ser beneficiadas con obras de pavimentación o reparación de calles y vialidades.
+
+X.- Las demás previstas en las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -1289,7 +1297,7 @@ Los Centros de Mediación Municipal se regirán por lo dispuesto en la Ley de Me
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-Artículo 76 ter.- El Titular de la Unidad Operativa de Protección Civil Municipal tendrá las siguientes facultades y obligaciones:
+ARTICULO 76 ter.- El Titular de la Unidad Operativa de Protección Civil Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Elaborar, aplicar, evaluar y difundir el Programa Municipal de Protección Civil;
 
@@ -6354,3 +6362,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-207 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IX, RECORRIÉNDOSE LA ACTUAL FRACCIÓN IX PARA PASAR A SER FRACCIÓN X DEL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
