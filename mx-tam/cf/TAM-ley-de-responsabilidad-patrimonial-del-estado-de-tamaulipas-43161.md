@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidad-patrimonial-del-estado-de-tamaulipas-431
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2019-08-20"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -145,7 +145,9 @@ Los daños y perjuicios que constituyan la lesión patrimonial reclamada deberá
 
 1. A falta de disposición expresa en esta ley, se aplicarán supletoriamente las contenidas en el Código Fiscal, el Código Civil, el Código Municipal y el Código de Procedimientos Civiles vigentes en el Estado.
 
-2. Para los efectos administrativos, la interpretación de este ordenamiento corresponde a cada ente público, y para los efectos jurisdiccionales corresponde al Tribunal Fiscal del Estado, al Tribunal de Justicia Administrativa Municipal y al Poder Judicial, en su caso.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+2. Para los efectos administrativos, la interpretación de este ordenamiento corresponde a cada ente público, y para los efectos jurisdiccionales corresponde al Tribunal de Justicia Administrativa del Estado de Tamaulipas, al Tribunal de Justicia Administrativa Municipal y al Poder Judicial, en su caso.
 
 ### CAPITULO II. DE LOS DAÑOS Y PERJUICIOS
 
@@ -275,11 +277,11 @@ d) La comprobación y valoración de las lesiones patrimoniales causadas, así c
 
 e) La determinación de que no se acreditaron las lesiones patrimoniales reclamadas y la improcedencia de la indemnización planteada.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 21.
 
-Las resoluciones emitidas por el ente público que nieguen la indemnización o que no satisfagan al reclamante, podrán ser impugnadas por la vía contenciosa ante el Tribunal Fiscal del Estado o ante el Tribunal de Justicia Administrativa Municipal, en caso de haberse creado en el Municipio que corresponda.
+Las resoluciones emitidas por el ente público que nieguen la indemnización o que no satisfagan al reclamante, podrán ser impugnadas por la vía contenciosa ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas o ante el Tribunal de Justicia Administrativa Municipal, en caso de haberse creado en el Municipio que corresponda.
 
 ###### ARTICULO 22.
 
@@ -305,7 +307,9 @@ c) Cuando existan hechos que generen un daño físico a las personas, el plazo d
 
 1. En caso de concurrencia acreditada en los términos del artículo 17 de esta ley, la obligación del pago de la indemnización correspondiente deberá distribuirse proporcionalmente entre los causantes del daño patrimonial reclamado, conforme a su participación en el mismo.
 
-2. Para la distribución del pago de daños y perjuicios o la indemnización, los entes públicos o el Tribunal Fiscal del Estado, en su caso, tomarán en cuenta los siguientes criterios de imputación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+2. Para la distribución del pago de daños y perjuicios o la indemnización, los entes públicos o el Tribunal de Justicia Administrativa del Estado de Tamaulipas, en su caso, tomarán en cuenta los siguientes criterios de imputación:
 
 a) Cada ente público es responsable de los daños y perjuicios que provengan de los servidores públicos de su propia organización, así como de la actividad que hubieren desarrollado;
 
@@ -331,9 +335,11 @@ Cuando en la causa de daños y perjuicios intervengan varios entes públicos, y 
 
 2. En caso de que los daños y perjuicios sean causados por la actividad del concesionario y no se derive de una determinación impuesta por el concedente, la obligación de reparar el daño corresponderá a aquél.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 27.
 
-En caso de que en la causa de daños y perjuicios intervengan dos o más entes públicos, y éstos no lleguen a un acuerdo sobre la reparación del daño, deberá someterse el conflicto a la resolución del Tribunal Fiscal del Estado.
+En caso de que en la causa de daños y perjuicios intervengan dos o más entes públicos, y éstos no lleguen a un acuerdo sobre la reparación del daño, deberá someterse el conflicto a la resolución del Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
 ### CAPITULO V. DERECHO DEL ESTADO A SOLICITAR LA RESTITUCION DE LO PAGADO A LOS SERVIDORES PUBLICOS
 
@@ -438,6 +444,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-208 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8, NUMERAL 2; 21; 24, NUMERAL 2; Y 27, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
