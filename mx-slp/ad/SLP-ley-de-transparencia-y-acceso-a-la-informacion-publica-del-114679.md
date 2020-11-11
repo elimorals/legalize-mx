@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2020-06-18"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -445,7 +445,9 @@ d) Los diputados tendrán derecho de repreguntar.
 
 VIII. Concluida la etapa señalada en la fracción que precede, la Comisión de Transparencia y Acceso a la Información Pública, evaluará las constancias que se desprendan del procedimiento de elección, y emitirá el dictamen que proponga al Pleno, a la persona o personas, que sean elegibles al cargo de Comisionado Numerario y Supernumerario, de la Comisión Estatal de Garantía de Acceso a la Información Pública de San Luis Potosí.
 
-En la conformación de la CEGAIP el Congreso del Estado procurará la igualdad de género, así como privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+En la integración de la CEGAIP el Congreso del Estado observará los principios de igualdad y paridad de género, así como privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales.
 
 La elección de los Comisionados de la CEGAIP se deberá llevar a cabo a través del voto de las dos terceras partes de los miembros del Congreso del Estado y en los procedimientos para su selección se deberá garantizar la transparencia, independencia y participación de la sociedad.
 
@@ -3148,5 +3150,13 @@ P.O. 18 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0690.- SE REFORMA LOS ARTÍCULOS 34 EN SU FRACCIÓN XXIII, 193 Y 210; Y ADICIONA AL ARTÍCULO 197 EL PÁRRAFO DÉCIMO NOVENO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0808.- SE REFORMA EL ARTÍCULO 29 EN SU PÁRRAFO PENÚLTIMO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
