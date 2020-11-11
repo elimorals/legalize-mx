@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2020-08-20"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -303,7 +303,9 @@ X. No ostentar cargo en institución eclesiástica, ni ser ministro de algún cu
 
 El cargo de integrante del Comité de Participación Ciudadana será de carácter honorifico por lo que no recibirán retribución alguna por su ejercicio, garantizando así la objetividad e imparcialidad en su desempeño. La Secretaria Ejecutiva les proveerá los recursos humanos y materiales indispensables para el desempeño de sus funciones.
 
-Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determina el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determina el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; y el artículo 29 de este Ordenamiento.
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservada y confidencial.
 
@@ -507,7 +509,9 @@ II. Contrataciones derivadas de las leyes de Adquisiciones del Estado de San Lui
 
 III. Conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles;
 
-IV. Responsabilidades administrativas, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. Responsabilidades administrativas en las que incurra el personal de su adscripción; y los sujetos enunciados en el artículo 18 de esta Ley, y
 
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 
@@ -900,5 +904,13 @@ P.O. 20 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0727.- SE REFORMA EL ARTÍCULO 20 EN SU PÁRRAFO PRIMERO Y ADICIONA A LOS ARTÍCULOS 20 EL PÁRRAFO CUARTO Y 21 EL PÁRRAFO TERCERO, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0805.- SE REFORMA LOS ARTÍCULOS 18 EN SU PÁRRAFO SEGUNDO Y 29 EN SU FRACCIÓN IV, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
