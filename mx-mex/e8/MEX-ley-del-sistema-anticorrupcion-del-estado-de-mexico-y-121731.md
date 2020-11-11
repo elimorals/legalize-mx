@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-sistema-anticorrupcion-del-estado-de-mexico-y-121731"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2017-05-30"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 30 de mayo de 2017.
 
@@ -239,9 +239,11 @@ IX. Presentar para su aprobación las recomendaciones en materia de combate a la
 
 X. Aquéllas que establezcan las reglas de funcionamiento y organización interna del Comité Coordinador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 13.
 
-El Comité Coordinador, se reunirá en sesión ordinaria cada tres meses.
+El Comité Coordinador, se reunirá en sesión ordinaria cada dos meses.
 
 El Secretario Técnico, podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
 
@@ -435,7 +437,9 @@ La Secretaría de la Contraloría del Gobierno del Estado de México y el órgan
 
 El órgano de gobierno, estará integrado por los integrantes del Comité Coordinador y será presidido por el Presidente del Comité de Participación Ciudadana.
 
-El órgano de gobierno, celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de cuando menos cuatro integrantes de dicho órgano.
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
+El órgano de gobierno, celebrará por lo menos seis sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de cuando menos cuatro integrantes de dicho órgano.
 
 Para poder sesionar válidamente el órgano de gobierno requerirá la asistencia de la mayoría de sus integrantes. Sus acuerdos, resoluciones y determinaciones se tomarán por mayoría de votos de los integrantes presentes, en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -489,9 +493,11 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exh
 
 #### SECCIÓN TERCERA. DEL SECRETARIO TÉCNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-El Secretario técnico, será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, con el voto favorable de cinco de sus integrantes. Durará cinco años en su encargo y no podrá ser reelegido.
+El Secretario técnico, será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, con el voto favorable de cinco de sus integrantes. Durará tres años en su encargo con posibilidad de reelección por un periodo más.
 
 El Presidente del órgano de gobierno de la Secretaría Ejecutiva, previa aprobación del Comité de Participación Ciudadana, someterá a consideración de dicho órgano, una terna con las personas que cumplan con los requisitos para ser designado Secretario Técnico, de conformidad con lo establecido en la presente Ley.
 
@@ -509,11 +515,17 @@ Para ser designado Secretario Técnico, se deberá cumplir con los requisitos si
 
 I. Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos, con una residencia dentro del Estado de México efectiva de cinco años anteriores a la fecha de designación.
 
-II. Tener experiencia acreditada de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción.
+> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2020)</small>
 
-III. Tener más de treinta y cinco años de edad al día de la designación.
+II. Tener experiencia acreditada de al menos tres años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción.
 
-IV. Tener título profesional de nivel licenciatura con antigüedad mínima de diez años al día de la designación, así como contar con los conocimientos y experiencia, relacionadas con la materia que regula la presente Ley que le permitan el desempeño de sus funciones.
+> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
+III. Tener treinta años de edad al día de la designación.
+
+> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+
+IV. Tener título profesional de nivel licenciatura con antigüedad mínima de cinco años al día de la designación, así como contar con los conocimientos y experiencia, relacionadas con la materia que regula la presente Ley que le permitan el desempeño de sus funciones.
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito.
 
@@ -1118,3 +1130,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 209.- POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 13, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 28, EL PRIMER PÁRRAFO DEL ARTÍCULO 33 Y LAS FRACCIONES II, III Y IV DEL ARTÍCULO 34 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
