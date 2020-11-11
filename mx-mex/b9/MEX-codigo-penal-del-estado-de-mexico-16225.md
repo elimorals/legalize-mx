@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2020-10-23"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3403,9 +3403,11 @@ VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de s
 
 VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión, salvo lo señalado por la siguiente fracción;
 
-> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 11 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Cuando las lesiones se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, se aplicarán de diez a quince años de prisión y de doscientos a cuatrocientos días multa, además la suspensión o privación de esos derechos.
+VIII. Cuando las lesiones se infieran a menores, personas adultas mayores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, se aplicarán de diez a quince años de prisión y de doscientos a cuatrocientos días multa, además la suspensión o privación de esos derechos.
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 A quien ejerza la patria potestad, tutela o custodia del menor víctima de las lesiones que haya consentido la conducta, se le aplicará la misma pena, además de la suspensión o privación de esos derechos. Se entenderá que hubo consentimiento cuando haya omitido realizar la denuncia correspondiente;
 
@@ -7180,3 +7182,13 @@ G.G. 23 DE OCTUBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 206.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 238 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno”.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el Decreto.
