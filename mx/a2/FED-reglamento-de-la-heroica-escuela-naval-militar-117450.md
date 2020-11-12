@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-heroica-escuela-naval-militar-117450"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-12-01"
-last_updated: "2016-12-01"
+last_updated: "2020-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117450&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-11-28"
 ---
 # REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR, PUBLICADO EN EL D.O.F. DE 12 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2016.
 
@@ -1102,3 +1104,21 @@ Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del pr
 Quinto.- La Heroica Escuela Naval Militar expedirá los manuales administrativos necesarios para su organización, operación y funcionamiento, dentro del plazo de noventa días contando a partir del día siguiente al de la publicación del presente Reglamento en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. TRANSITOROS DEL "REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR".]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2020.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Heroica Escuela Naval Militar, publicado el 1 de diciembre de 2016 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las referencias que se hagan a las unidades administrativas que cambien de denominación conforme al presente Reglamento en otras disposiciones administrativas, se entenderán realizadas a las que se prevén en el presente ordenamiento.
+
+CUARTO. Los asuntos que se encuentren en trámite, en las unidades que desaparezcan conforme al presente Reglamento, deberán ser resueltos por las unidades administrativas que las sustituyan o que asuman su competencia conforme al presente ordenamiento.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+SEXTO. La Heroica Escuela Naval Militar expedirá los manuales administrativos correspondientes al presente Reglamento, dentro de un plazo de noventa días posteriores a la entrada en vigor del presente ordenamiento.
