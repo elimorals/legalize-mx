@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129377"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-10-08"
+last_updated: "2020-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -1169,7 +1169,13 @@ I.- Ceder al Municipio a título gratuito, el área necesaria de terreno para de
 
 En el caso de que conforme al diseño del Desarrollo Inmobiliario o a las características físicas del terreno a desarrollar, no sea posible ceder la superficie de terreno necesaria para área verde o equipamiento urbano, el desarrollador inmobiliario podrá permutarla por otra superficie igual de acuerdo a los requerimientos del municipio, o hacer el pago equivalente al valor comercial de la superficie a ceder. Dicho recurso deberá destinarse exclusivamente para adquisición de derechos de vía, parques conformadores de unidades territoriales y equipamientos urbanos del municipio, y deberá ser utilizado preferentemente dentro de la misma unidad territorial.
 
-El pago deberá quedar acreditado al fideicomiso de suelo que al efecto constituyan los municipios, previamente al otorgamiento de la autorización del desarrollo inmobiliario;
+> <small>(REFORMADO, B.O. 12 DE NOVIEMBRE DE 2020)</small>
+
+El pago deberá quedar acreditado al fideicomiso de suelo que al efecto constituyan los municipios, previamente al otorgamiento de la autorización del desarrollo inmobiliario.
+
+> <small>(ADICIONADO, B.O. 12 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, el desarrollador inmobiliario deberá hacer entrega de las casas habitación a los adquirentes de estas con, por lo menos un árbol plantado de naturaleza nativa que contribuya a la mejora de la calidad del medio ambiente, dentro del inmueble entregado. Lo anterior, con el fin de fomentar la cultura del cuidado y protección del medio ambiente;
 
 II.- Terminar la construcción de las obras de infraestructura y urbanización, garantizando que las mismas se hayan ejecutado sin defectos ni vicios ocultos dentro del plazo establecido en la autorización correspondiente;
 
@@ -2134,3 +2140,11 @@ B.O. 8 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 147, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 79 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
