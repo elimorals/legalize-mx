@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-15"
-last_updated: "2019-03-01"
+last_updated: "2020-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68386&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-13"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2009.
 
@@ -55,9 +55,11 @@ I. Consejería Adjunta de Consulta y Estudios Constitucionales;
 
 II. Consejería Adjunta de Legislación y Estudios Normativos;
 
-III. Consejería Adjunta de Control Constitucional y de lo Contencioso;
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
 
-IV. Coordinación de Asesores, y
+III. Consejería Adjunta de Control Constitucional y de lo Contencioso, y
+
+IV. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O.F. 1 DE MARZO DE 2019)</small>
 
@@ -79,19 +81,15 @@ El Consejero dispondrá la evaluación periódica de los avances en las metas y 
 
 El ingreso, desempeño, permanencia y evaluación de los servidores públicos y del personal profesional de la Consejería se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia, conforme a los lineamientos que para ese efecto emita el Consejero, en términos de la legislación aplicable, sin perjuicio de las demás disposiciones que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-La Consejería contará con un Órgano Interno de Control que realizará las funciones de control interno compatibles con la naturaleza especializada de la Dependencia y el carácter de los asuntos cuyo despacho tiene encomendado, de conformidad con las leyes de la materia y el respectivo manual de organización.
+El Órgano Interno de Control en la Consejería estará a cargo de una persona titular, designada en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará de las personas titulares de las áreas de responsabilidades, de quejas y auditoría, y demás personal adscrito a dicho Órgano, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
+Los servidores públicos mencionados en el párrafo anterior, ejercerán las facultades que tengan atribuidas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública, así como en los demás ordenamientos jurídicos aplicables.
 
-El titular del Órgano Interno de Control, será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal y 95 del Reglamento Interior de la Secretaría de la Función Pública, quien en el ejercicio de sus facultades se auxiliará por los servidores públicos designados en las áreas de auditoría, quejas y responsabilidades bajo su adscripción, en los términos establecidos en los ordenamientos jurídicos citados.
-
-> <small>(ADICIONADO, D.O.F. 1 DE MARZO DE 2019)</small>
-
-El titular del Órgano Interno de Control y los servidores públicos designados en sus áreas adscritas, tendrán las atribuciones establecidas en el Reglamento Interior de la Secretaría de la Función Pública.
-
-Los servidores públicos y las unidades administrativas de la Consejería están obligados a proporcionar el auxilio e información que requiera el Titular del Órgano Interno de Control para el desempeño de su función.
+La Consejería proporcionará al Órgano Interno de Control el auxilio que requiera para el desempeño de sus atribuciones.
 
 ### CAPÍTULO II. DE LAS FACULTADES DEL CONSEJERO
 
@@ -165,13 +163,11 @@ XXII. Las demás que con tal carácter, le atribuyan expresamente las disposicio
 
 El responsable de la Unidad de Transparencia en esta dependencia será designado por el Consejero, y ejercerá las atribuciones que le confiere el artículo 61 y demás aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
-> <small>(ADICIONADO, D.O.F. 1 DE MARZO DE 2019)</small>
-
-Artículo 10 bis.- La Coordinación de Asesores depende directamente del Consejero, quien establecerá los procedimientos necesarios para que la Dirección de Tecnologías de la Información y Comunicaciones, ponga a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las unidades administrativas de su adscripción, en los términos de la legislación aplicable.
+Artículo 10 bis.- (DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 11.
 
-El Consejero, por conducto de la Coordinación de Asesores, enviará a la Secretaría de Gobernación, los instrumentos jurídicos expedidos por el Presidente de la República que deban publicarse en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MARZO DE 2019)</small>
 
@@ -409,9 +405,13 @@ XXIX. Atender y dar seguimiento, con las unidades administrativas de la Presiden
 
 XXX. Establecer comunicación directa con los tribunales federales y del fuero común, el Ministerio Público y demás autoridades de la Administración Pública Federal, estatal y municipal, para el adecuado despacho de los asuntos de la Consejería;
 
-XXXI. Coordinar y supervisar las labores de control y seguimiento procesal de los juicios y demás asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
 
-XXXII. Coordinar las labores de control y seguimiento procesal con las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal que se realicen ante las autoridades a que se refiere la fracción inmediata anterior;
+XXXI. Coordinar las labores de control y seguimiento procesal con las áreas jurídicas de las dependencias y entidades de la Administración Pública Federal que se realicen ante las autoridades a que se refiere la fracción inmediata anterior;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
+
+XXXII. Coordinar y supervisar las labores de control y seguimiento procesal de los juicios y demás asuntos de su competencia;
 
 XXXIII. Opinar y emitir informes cuando así sea solicitado por la Unidad de Administración y Finanzas, con motivo de bajas laborales, en el ámbito de su respectiva competencia;
 
@@ -421,9 +421,13 @@ XXXV. Las demás que le confiera el Consejero y las que deriven de otras disposi
 
 En los casos en que las leyes exijan la ratificación de determinada actuación jurisdiccional o administrativa, se entenderán ratificadas por el Consejero todas las actuaciones que se desahoguen por los servidores públicos de esta Consejería Adjunta facultados para ello, en términos de ley y de conformidad con el presente artículo.
 
-El Consejero Adjunto de Control Constitucional y de lo Contencioso, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por los Directores Generales, Consultores Jurídicos, Consultor de Defensa Legal, Director de Defensa Legal, Subdirectores de Defensa Legal y demás personal que se le adscribe.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
 
-El Director General de Defensa Jurídica Federal, el Consultor de Defensa Legal y el Director de Defensa Legal, podrán ejercer bajo su más estricta responsabilidad, las facultades previstas en las fracciones IV, VII, IX, X, XII y XIII del presente artículo.
+El Consejero Adjunto de Control Constitucional y de lo Contencioso, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por los Directores Generales, Consultores Jurídicos, Consultor de Defensa Legal, Directores de Defensa Legal, Subdirectores de Defensa Legal y demás personal que se le adscribe.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
+
+El Director General de Defensa Jurídica Federal, el Consultor Jurídico General, el Director General de Control Constitucional, el Consultor de Defensa Legal y los Directores de Defensa Legal, podrán ejercer, bajo su más estricta responsabilidad, las facultades previstas en las fracciones I, II, IV, VII, IX, X, XI, XII, XIII, XIV, XVII, XVIII, XXI, XXIII, XXIV, XXVI, XXIX, XXX, XXXI y XXXII del presente artículo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MARZO DE 2019)</small>
 
@@ -537,7 +541,9 @@ VIII. Establecer y operar los mecanismos para la actualización y difusión del 
 
 IX. Establecer y dar seguimiento al cumplimiento de las normas y procedimientos necesarios para mantener la información y servicios vía internet e intranet, de forma confiable, segura y oportuna con la cooperación de las unidades administrativas involucradas;
 
-X. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las Unidades Administrativas de la Consejería, en los términos de la legislación aplicable, aplicando los procedimientos que para ese efecto dicte la Coordinación de Asesores;
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
+
+X. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las unidades administrativas de la Consejería, en los términos de las disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
@@ -767,13 +773,15 @@ El Consejero Adjunto de Legislación y Estudios Normativos fungirá como Secreta
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONSEJERÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 25.
 
-Las ausencias del Consejero serán suplidas por los Consejeros Adjuntos, el Coordinador de Asesores y el Titular de la Unidad de Administración y Finanzas, en el orden en que los enumera el artículo 3 de este Reglamento.
+Las ausencias del Consejero serán suplidas por los Consejeros Adjuntos y el Titular de la Unidad de Administración y Finanzas, en el orden en que los enumera el artículo 3 de este Reglamento.
 
-Los Consejeros Adjuntos y el Coordinador de Asesores, serán suplidos, durante sus ausencias temporales o por falta de designación de éstos, por los Directores Generales y los Consultores Jurídicos que de ellos dependan.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
+
+Los Consejeros Adjuntos serán suplidos, durante sus ausencias temporales o por falta de designación de éstos, por los Directores Generales y los Consultores Jurídicos que de ellos dependan.
 
 > <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
 
@@ -783,7 +791,7 @@ Las ausencias temporales o la falta de designación de los titulares de las dire
 
 El Titular de la Unidad de Administración y Finanzas será suplido, durante sus ausencias temporales o por falta de designación de éste, por el Director de Tecnologías de la Información y Comunicaciones; el Director de Presupuesto, Finanzas y Contabilidad; el Director de Desarrollo Humano y Organización; el Director de Recursos Materiales y Servicios Generales, en los asuntos de sus respectivas competencias.
 
-Las ausencias del Titular del Órgano Interno de Control serán suplidas por el servidor público que determine el Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2020)</small>
 
 ## TRANSITORIOS
 
@@ -828,3 +836,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Las referencias que se hagan en cualquier otra disposición administrativa a la Dirección General de Administración y de Finanzas, se entenderán hechas a la Unidad de Administración y Finanzas, a partir de la entrada en vigor del presente Decreto.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a la Consejería Jurídica del Ejecutivo Federal en el ejercicio fiscal que corresponda.
+
+D.O.F. 12 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Cuando se involucren recursos presupuestarios en el auxilio que la Consejería proporcione al Órgano Interno de Control de la Secretaría de la Función Pública, en los términos del párrafo último del artículo 7 de este Reglamento, ese auxilio se efectuará conforme a los criterios que determinen la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
