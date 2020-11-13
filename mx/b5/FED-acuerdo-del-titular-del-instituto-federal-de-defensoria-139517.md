@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-139517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-11"
-last_updated: "2020-03-19"
+last_updated: "2020-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-11-29"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2019.
 
@@ -163,11 +163,17 @@ b) Unidad de Administración y Apoyo Operativo;
 
 c) Unidad de Supervisión, Evaluación y Servicio Civil de Carrera;
 
-d) Unidad de Coordinación de Defensa Penal y Asesoría Jurídica:
+> <small>(REFORMADO [N. DE E. CON SU NUMERAL], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-1. Delegaciones, y
+d) Unidad de Defensa Penal:
 
-e) Secretariado Técnico.
+1. Delegaciones;
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+e) Unidad de Asesoría Jurídica, y
+
+f) Secretariado Técnico.
 
 El Instituto Federal de Defensoría Pública contará al menos con una delegación por cada entidad federativa, pudiendo crear delegaciones adicionales, cuando la carga de trabajo así lo requiera. La creación de nuevas delegaciones se someterá a aprobación de la Junta Directiva.
 
@@ -233,7 +239,9 @@ XVI. Dictar las medidas necesarias para la modernización, simplificación y mej
 
 XVII. Delegar funciones para la atención de los asuntos, organización y funcionamiento del Instituto, excepto aquéllas que, por disposición de la propia Ley, deban ser ejercidas personalmente por la o el Director General;
 
-XVIII. Ordenar la práctica de visitas de supervisión directa extraordinaria cuando existan circunstancias que lo ameriten, y resolver lo que proceda de acuerdo con sus resultados;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Ordenar la práctica de la supervisión directa extraordinaria cuando existan circunstancias que lo ameriten, y resolver lo que proceda de acuerdo con sus resultados.
 
 XIX. Determinar la creación de Delegaciones conforme lo requieran las necesidades del servicio, previa aprobación de la Junta Directiva;
 
@@ -247,19 +255,13 @@ XXIII. Certificar los documentos que obren en los archivos del Instituto, que se
 
 XXIV. Determinar los procedimientos para certificar al personal con competencia comunicativa oral bilingüe en lengua indígena y conocimiento de la cultura indígena, para efecto de las funciones que tiene encomendada el Instituto;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
 XXV. Llevar a cabo funciones de litigio, propias de la defensa pública o asesoría jurídica, cuando por necesidades del servicio así sea requerido, y
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+XXVI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2020)</small>
-
-XXVI. Levantar, presentar y, en su caso, difundir públicamente, informes sobre posibles violaciones sistemáticas a los derechos humanos relacionadas con el procedimiento administrativo migratorio y las condiciones humanitarias, sanitarias y alimenticias de las estaciones migratorias u otros centros de detención, así como proponer mecanismos de solución a las autoridades correspondientes;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2020)</small>
-
-XXVII. Ordenar de oficio o a petición de parte, la práctica de monitoreos a las condiciones de internamiento en centros de detención, tanto en materia penal como administrativa, y
+XXVII. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2020)
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
 
@@ -375,7 +377,9 @@ II. Proponer los manuales, instructivos, lineamientos y criterios para la aplica
 
 III. Organizar, dirigir, controlar y evaluar el desempeño del cuerpo del personal de evaluación y supervisión;
 
-IV. Diseñar y operar el programa anual de visitas de supervisión directa, emitiendo los acuerdos que ordenen su realización cuando menos una vez a cada adscripción;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+IV. Diseñar y operar el programa anual de supervisión directa, emitiendo los acuerdos que ordenen su realización cuando menos una vez a cada adscripción;
 
 V. Recibir los informes que se obtengan de la supervisión de cada persona que realiza funciones de defensa penal y asesoría jurídica, para proceder a la evaluación de su desempeño, emitiendo el dictamen correspondiente, con el fin de hacer las sugerencias o requerimientos que se consideren pertinentes, proponiendo a la Dirección General las sanciones que en su caso procedan;
 
@@ -383,11 +387,15 @@ VI. Recabar las actas circunstanciadas y los informes que resulten de la supervi
 
 VII. Vigilar el cumplimiento de las sugerencias, requerimientos o sanciones que resulten de la función evaluatoria;
 
-VIII. Coordinar a las Delegaciones así como a las Direcciones de Prestación de los Servicios de Defensa Penal y de Asesoría Jurídica, en la supervisión documental de los expedientes de control, a cargo del personal que realiza funciones de defensa penal y asesoría jurídica;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Coordinar a las Delegaciones, así como a las Direcciones de Prestación del Servicio de Defensa Penal, de Coordinación Nacional del Servicio de Asesoría Jurídica y de Asesoría Especializada, en la supervisión documental de los expedientes de control, a cargo del personal que realiza funciones de defensa penal y asesoría jurídica;
 
 IX. Proponer a la Dirección General la adscripción para cada defensora o defensor público y asesora o asesor jurídico, conforme a las calificaciones obtenidas en el proceso de selección y atendiendo a las necesidades del servicio;
 
-X. Proponer al personal de defensa pública y asesoría jurídica que por su eficiencia, calidad y honestidad en el desempeño de sus funciones, sea acreedor de reconocimientos y estímulos, en cada Delegación y en las Direcciones de Prestación del Servicio de Defensa Penal así como en la de Prestación del Servicio de Asesoría Jurídica;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+X. Proponer al personal de defensa pública y asesoría jurídica que, por su eficiencia, calidad y honestidad en el desempeño de sus funciones, sea acreedor de reconocimientos y estímulos, en cada Delegación y en las Direcciones de Prestación del Servicio de Defensa Penal, así como en la de Coordinación Nacional del Servicio de Asesoría Jurídica y de Asesoría Especializada;
 
 XI. Enviar las quejas, denuncias, inconformidades u otras similares que se presenten en contra del personal del Instituto al Consejo de la Judicatura Federal, con la finalidad de que se investigue su probable responsabilidad, conservando copia de éstas y del acuse de recibo correspondiente; así como atender las quejas, remisiones y orientaciones directas comunicadas por la Comisión Nacional de los Derechos Humanos que resulten competencia del Instituto;
 
@@ -395,13 +403,17 @@ XII. La o el titular de la Unidad y el personal adscrito a la misma, realizarán
 
 XIII. Las demás funciones que determine la Dirección General y la normativa aplicable.
 
-#### SECCIÓN QUINTA. De la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN QUINTA. De la Unidad de Defensa Penal
 
 ###### ARTÍCULO 13.
 
 Objetivos de la Unidad.
 
-La Unidad de Coordinación de Defensa Penal y Asesoría Jurídica tiene como objetivos lograr el desempeño óptimo de las funciones de asesoría jurídica y defensa penal, así como coordinar las labores de las Delegaciones y Direcciones que directamente prestan el servicio en todas las entidades federativas.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La Unidad de Defensa Penal tiene como objetivos lograr el desempeño óptimo de la función de defensa penal, así como coordinar las labores de las Delegaciones y Direcciones que directamente prestan el servicio en todas las entidades federativas.
 
 ###### ARTÍCULO 14.
 
@@ -409,15 +421,23 @@ Atribuciones de la Unidad.
 
 Son atribuciones de la Unidad:
 
-I. Coordinar las Delegaciones así como a la Dirección de Prestación del Servicio de Defensa Penal y la Dirección de Prestación del Servicio de Asesoría Jurídica, la Dirección de Ejecución de Sentencias y la Dirección de Coordinación con Delegaciones;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+I. Coordinar las Delegaciones, así como a la Dirección de Prestación del Servicio de Defensa Penal, la Dirección de Ejecución de Sentencias y la Dirección de Coordinación con Delegaciones;
 
 II. Supervisar el desempeño y trabajo de las o los Delegados;
 
-III. Dirigir, organizar, controlar y coordinar el servicio de defensa penal y asesoría jurídica;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-IV. Recabar la información procesal de los asuntos a cargo del personal de defensa pública y asesoría jurídica;
+III. Dirigir, organizar, controlar y coordinar el servicio de defensa penal;
 
-V. Verificar con la autoridad correspondiente, la asistencia a la solicitud de comparecencia del personal de defensa pública y asesoría jurídica o sus suplentes, designadas o designados por el Instituto;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+IV. Recabar la información procesal de los asuntos a cargo del personal de defensa pública;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+V. Verificar con la autoridad correspondiente, la asistencia a la solicitud de comparecencia del personal de defensa pública o sus suplentes, designadas o designados por el Instituto;
 
 VI. Designar defensora o defensor público sustituto o suplente en los casos de impedimento o faltas temporales, respectivamente, ante la ausencia de la o el titular de la Delegación o de la Dirección de Prestación del Servicio de Defensa Penal, según su adscripción;
 
@@ -425,23 +445,75 @@ VII. Apoyar las peticiones que formule el personal de defensa pública, la perso
 
 VIII. Atender las solicitudes de información planteadas por otras instituciones públicas, respecto del estado procesal de asuntos en materia penal federal en los que interviene el Instituto, siempre y cuando, dichas dependencias funden y motiven las mismas con base en sus atribuciones legales;
 
-IX. Dirigir la elaboración y difusión de las normas relativas al servicio de asesoría jurídica, a efecto de garantizar el acceso a la justicia mediante la orientación, asesoría y representación;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIII], D.O.F. 13 DE NOVIEMBRE DE 2020)
 
-X. Determinar la intervención de cada asesora o asesor jurídico en asuntos específicos con objeto de equilibrar las cargas de trabajo, y designar a la o el asesor jurídico sustituto o suplente en los casos de impedimento o faltas temporales, respectivamente, ante la ausencia de quien sea titular de la Delegación o de la Dirección de Prestación del Servicio de Asesoría Jurídica, según su adscripción;
+IX. Dirigir, organizar, controlar y coordinar los servicios de defensa penal, dentro del procedimiento penal, juicios de amparo y ejecución de sentencias;
 
-XI. Conocer, tramitar y resolver sobre el procedimiento de retiro del servicio de asesoría jurídica;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIV], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-XII. Vigilar que la prestación del servicio de asesoría jurídica en casos de urgencia, se encuentre justificada;
+X. La o el Titular de la Unidad y el personal adscrito a la misma, podrán realizar funciones de defensa penal en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
 
-XIII. Dirigir, organizar, controlar y coordinar los servicios de defensa penal, dentro del procedimiento penal, juicios de amparo y ejecución de sentencias;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XV], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-XIV. La o el Titular de la Unidad y el personal adscrito a la misma, podrán realizar funciones de defensa penal y asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
+XI. Resolver las consultas formuladas por el personal adscrito a la Unidad sobre las cuestiones sustantivas y procesales, que se planteen sobre el servicio de defensa penal, y
 
-XV. Resolver las consultas formuladas por el personal adscrito a la Unidad sobre las cuestiones sustantivas y procesales, que se planteen sobre el servicio de defensa penal y asesoría jurídica, y
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], D.O.F. 13 DE NOVIEMBRE DE 2020)
 
-XVI. Las demás funciones que determine la Dirección General y la normativa aplicable.
+XII. Las demás funciones que determine la Dirección General y la normativa aplicable.
 
-#### SECCIÓN PRIMERA. Disposiciones generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN SEXTA. De la Unidad de Asesoría Jurídica
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 14 BIS. Objetivos de la Unidad.
+
+La Unidad de Asesoría Jurídica tiene como objetivos lograr el desempeño óptimo de las funciones de asesoría jurídica, así como la especializada en materia de igualdad de género, de atención a grupos en situación de vulnerabilidad, así como generar y promover estrategias de colaboración con entidades públicas nacionales e internacionales y organizaciones de la sociedad civil, para fortalecer el trabajo institucional en seguimiento a los compromisos nacionales e internacionales en materia de derechos humanos de los mencionados grupos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 14 TER. Atribuciones de la Unidad.
+
+Son atribuciones de la Unidad:
+
+I. Dirigir, organizar, controlar y coordinar el servicio de asesoría jurídica;
+
+II. Recabar la información procesal de los asuntos a cargo del personal de asesoría jurídica;
+
+III. Verificar con la autoridad correspondiente, la asistencia a la solicitud de comparecencia del personal de asesoría jurídica o sus suplentes, designadas o designados por el Instituto;
+
+IV. Dirigir la elaboración y difusión de las normas relativas al servicio de asesoría jurídica, a efecto de garantizar el acceso a la justicia mediante la orientación, asesoría y representación;
+
+V. Determinar la intervención de cada asesora o asesor jurídico en asuntos específicos con objeto de equilibrar las cargas de trabajo, y designar a la o el asesor jurídico sustituto o suplente en los casos de impedimento o faltas temporales, respectivamente, ante la ausencia de quien sea titular de la Dirección correspondiente;
+
+VI. Conocer, tramitar y resolver sobre el procedimiento de retiro del servicio de asesoría jurídica;
+
+VII. Vigilar que la prestación del servicio de asesoría jurídica en casos de urgencia, se encuentre justificada;
+
+VIII. La o el Titular de la Unidad y el personal adscrito a la misma, podrán realizar funciones de asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
+
+IX. Resolver las consultas formuladas por el personal adscrito a la Unidad sobre las cuestiones sustantivas y procesales, que se planteen sobre el servicio de asesoría jurídica;
+
+X. Coordinar acciones de investigación y monitoreo respecto de temas de grupos en situación de vulnerabilidad a nivel nacional para proponer acciones que correspondan al Director General;
+
+XI. Proponer proyectos de mejora al Director General para establecer acciones en materia de igualdad de género, así como para la atención de grupos en situación de vulnerabilidad, tales como personas en movilidad y sujetas a protección internacional, niñas, niños y adolescentes, población indígena y afrodescendiente, personas con discapacidad, personas trabajadoras y sus beneficiarios, entre otros;
+
+XII. La o el titular de la Unidad y, en su caso, el personal adscrito a la misma, realizará funciones de asesoría jurídica en los casos relacionados con los temas encomendados a ésta por la Dirección General;
+
+XIII. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Unidad para proponer acciones que correspondan al Instituto;
+
+XIV. Proponer al Director General proyectos al interior del Instituto, relacionados con el tema de hostigamiento y acoso sexual;
+
+XV. Proponer al Director General ajustes razonables en las instalaciones del Instituto o donde su personal se encuentre adscrito, que permitan la adecuada y segura prestación de los servicios a personas con discapacidad;
+
+XVI. Coordinar la certificación y evaluación del personal bilingüe indígena del Instituto;
+
+XVII. Coordinar las actividades del personal que determine el Director General en los temas que le encomiende;
+
+XVIII. Coordinar, integrar y revisar el registro único de acciones colectivas a nivel nacional, y
+
+XIX. Las demás funciones que determine el Director General del Instituto y la normativa aplicable.
 
 ### CAPÍTULO VI. De las Delegaciones
 
@@ -449,35 +521,59 @@ XVI. Las demás funciones que determine la Dirección General y la normativa apl
 
 Establecimiento de las Delegaciones.
 
-Las Delegaciones se establecerán conforme a las necesidades del servicio en cada uno de los Estados de la República, identificándose con la denominación de la entidad federativa en que tengan sede, estarán adscritas orgánicamente a la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica. Contarán con una o un Delegado, así como con el personal profesional y administrativo que determine el presupuesto.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal y la Dirección de Prestación del Servicio de Asesoría Jurídica, adscritas orgánicamente a la Unidad de. Coordinación de Defensa Penal y Asesoría Jurídica. Contarán con una o un Director, así como con el personal profesional y administrativo que determine el presupuesto.
+Las Delegaciones se establecerán conforme a las necesidades del servicio en cada uno de los Estados de la República, identificándose con la denominación de la entidad federativa en que tengan sede, estarán adscritas orgánicamente a la Unidad de Defensa Penal. Contarán con una o un Delegado, así como con el personal profesional y administrativo que determine el presupuesto.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal, adscritas orgánicamente a la Unidad de Defensa Penal. Contará con una o un Director, así como con el personal profesional y administrativo que determine el presupuesto.
 
 ###### ARTÍCULO 16.
 
 Atribuciones y obligaciones.
 
-En el interior de la República las y los Delegados, y en la Ciudad de México las y los titulares de las Direcciones de Prestación del Servicio en Defensa Penal y en Asesoría Jurídica, tendrán las atribuciones y obligaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con personal de defensa pública y asesoría jurídica adscrito en cada Delegación o Dirección;
+En el interior de la República las y los Delegados, y en la Ciudad de México la o el titular de la Dirección de Prestación del Servicio en Defensa Penal, tendrá las atribuciones y obligaciones siguientes:
 
-II. Realizar, de manera permanente, la supervisión documental al personal de defensa y asesoría para constatar que la información y documentación, a que se refiere el Título Tercero de estas Bases, se haya remitido conforme lo indican tales preceptos;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-III. Mantener los expedientes de control en el sistema integral cuidando que se encuentren debidamente integrados y remitir los diagnósticos, en forma coordinada con el programa anual de visitas de supervisión directa, a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera;
+I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con personal de defensa pública adscrito en cada Delegación o en la Dirección;
 
-IV. Los expedientes de control deberán ser digitales para su consulta, y a su vez las actuaciones que vayan realizando las y los defensores públicos, y las y los asesores jurídicos, deberán ser incorporadas al sistema integral;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-V. Supervisar que las y los defensores, y las y los asesores mantengan permanentemente actualizada la información, relacionada con sus respectivas funciones, que sea necesario registrar en los sistemas electrónicos empleados por el Instituto;
+II. Realizar, de manera permanente, la supervisión documental al personal para constatar que la información y documentación, a que se refiere el Título Tercero de estas Bases, se haya remitido conforme lo indican tales preceptos;
 
-VI. Designar defensora o defensor público, o asesora o asesor jurídico sustituto o suplente en los casos de faltas temporales o tratándose de los casos previstos en el artículo 8° de la Ley de Amparo, así como para asesorar y representar a una persona adulta que tenga limitada la capacidad para representarse por sí misma, o exista impedimento a fin de evitar que se actualice la hipótesis del tipo penal prevista en la fracción I del artículo 232 del Código Penal Federal, así como a las y los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-VII. Comisionar hasta por treinta días al personal de defensa pública, asesoría jurídica u oficiales, así como a aquél con licenciatura en derecho facultado para realizar funciones de defensa penal o asesoría jurídica para que atiendan casos urgentes o cargas de trabajo extraordinarias, en la entidad federativa correspondiente, autorizando en su caso, el trámite de viáticos y reembolso de los gastos generados. En caso de que el plazo de comisión requerido sea mayor, deberán contar con autorización expresa de la Dirección General, o de la o el Titular de la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica;
+III. Mantener los expedientes de control en el sistema integral cuidando que se encuentren debidamente integrados y remitir los diagnósticos, en forma coordinada con el programa anual de supervisión directa, a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera;
 
-VIII. Designar a una o un trabajador o asesor social, a petición del personal de defensa pública o asesoría jurídica previa justificación, para que realice algún acto dentro de su expertiz que se considere necesario para una defensa pública y asesoría jurídica adecuada, oportuna y eficaz;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+IV. Los expedientes de control deberán ser digitales para su consulta, y a su vez las actuaciones que vaya realizando el personal jurídico del Instituto deberán ser incorporadas al sistema integral;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+V. Supervisar que el personal jurídico mantenga permanentemente actualizada la información, relacionada con sus respectivas funciones, que sea necesario registrar en los sistemas electrónicos empleados por el Instituto;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VI. Designar defensora o defensor público sustituto o suplente en los casos de faltas temporales o tratándose de los casos previstos en el artículo 8º de la Ley de Amparo, así como para asesorar y representar a una persona adulta que tenga limitada la capacidad para representarse por sí misma, o exista impedimento a fin de evitar que se actualice la hipótesis del tipo penal prevista en la fracción I del artículo 232 del Código Penal Federal, así como a las y los defensores públicos que atiendan, por turno, las solicitudes que se presenten en materia de ejecución de sentencias;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VII. Comisionar hasta por treinta días al personal de defensa pública u oficiales, así como a aquél con licenciatura en derecho facultado para realizar funciones de defensa penal para que atiendan casos urgentes o cargas de trabajo extraordinarias, en la entidad federativa correspondiente, autorizando en su caso, el trámite de viáticos y reembolso de los gastos generados. En caso de que el plazo de comisión requerido sea mayor, deberán contar con autorización expresa de la Dirección General, o de la o el Titular de la Unidad de Defensa Penal;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Designar a una o un trabajador o asesor social, a petición del personal jurídico previa justificación, para que realice algún acto dentro de su expertiz que se considere necesario para la prestación del servicio de manera adecuada, oportuna y eficaz;
 
 IX. Concentrar, validar y enviar a la Dirección General la información estadística requerida, así como proporcionar, oportuna y verazmente, la información que solicite la Dirección General, las Unidades Administrativas o el Secretariado Técnico;
 
-X. Informar periódicamente a la Dirección General, el número de expedientes que tiene a su cargo el personal de defensa pública y asesoría jurídica adscrito;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+X. Informar periódicamente a la Dirección General, el número de expedientes que tiene a su cargo el personal de defensa pública adscrito;
 
 XI. Estar presentes en el horario de labores en su Delegación o Dirección a efecto de resolver oportunamente los problemas que se susciten, salvo cuando la Dirección General los comisione o autorice a faltar para atender asuntos propios debidamente justificados o realicen visitas de trabajo, acudan ante autoridades o centros de reclusión;
 
@@ -491,27 +587,39 @@ XV. Realizar una visita al menos una vez cada tres meses a las áreas de adscrip
 
 XVI. Identificar y supervisar el óptimo y eficiente manejo de los recursos humanos y materiales, ejecutando las acciones necesarias para el excelente funcionamiento de la Delegación o Dirección;
 
-XVII. Efectuar labores de difusión de los servicios que proporciona el Instituto, con la participación de personal de defensa pública, asesoría jurídica, de apoyo operativo y administrativo;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Efectuar labores de difusión de los servicios que proporciona el Instituto, con la participación del personal correspondiente;
 
 XVIII. Informar al personal adscrito a la Delegación, cualquier determinación realizada por la Dirección General cuando así sea requerido;
 
-XIX. Verificar el cumplimiento a las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora, velando en todo momento por el buen funcionamiento de la Delegación o Dirección de Prestaciones correspondiente;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XIX. Verificar el cumplimiento a las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora, velando en todo momento por el buen funcionamiento de la Delegación correspondiente o de la Dirección de Prestación del Servicio en Defensa Penal;
 
 XX. Vigilar que la carga de trabajo sea repartida equitativamente en cada una de las modalidades de la prestación del servicio, estableciendo un sistema de recepción y turno aleatorio de asuntos;
 
 XXI. Proponer a la Dirección General, en forma fundada y motivada, cambios de adscripción del personal a su cargo;
 
-XXII. Levantar las actas correspondientes y remitirlas, inmediatamente, a la Dirección General junto con la documentación que respalde su actuación a fin de que se inicie el procedimiento o trámite que corresponda, cuando tenga conocimiento de que alguna o algún servidor público adscrito a una Delegación o Dirección de Prestación del Servicio incurra en omisión o incumpla sus obligaciones, deberes o atribuciones;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XXII. Levantar las actas correspondientes y remitirlas, inmediatamente, a la Dirección General junto con la documentación que respalde su actuación a fin de que se inicie el procedimiento o trámite que corresponda, cuando tenga conocimiento de que alguna o algún servidor público adscrito a una Delegación o a la Dirección de Prestación del Servicio de Defensa Penal incurra en omisión o incumpla sus obligaciones, deberes o atribuciones;
 
 XXIII. Comunicar, inmediatamente, a la Dirección General, con todos los datos, las conductas de las que tuviere conocimiento, realizadas por personal integrante del Instituto Federal de Defensoría Pública, aunque no pertenezca a su adscripción, que afecte la buena fama o la imagen del Instituto;
 
-XXIV. Llevar a cabo las gestiones institucionales y acciones de coordinación que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de defensa pública y asesoría jurídica;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-XXV. Cumplir, eficiente y oportunamente, con las intervenciones que en casos concretos acuerde la Dirección General y con los asuntos que les sean turnados por la titularidad de la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica y/o el Secretariado Técnico, así como verificar que las comisiones encargadas al personal de defensa pública o asesoría jurídica se cumplan de manera eficiente y oportuna;
+XXIV. Llevar a cabo las gestiones institucionales y acciones de coordinación que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de defensa pública;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XXV. Cumplir, eficiente y oportunamente, con las intervenciones que en casos concretos acuerde la Dirección General y con los asuntos que les sean turnados por la titularidad de las Unidades de Defensa Penal y Asesoría Jurídica y/o el Secretariado Técnico, así como verificar que las comisiones encargadas al personal de defensa pública o asesoría jurídica se cumplan de manera eficiente y oportuna;
 
 XXVI. Abstenerse de realizar actos o incurrir en omisiones que sean contrarios al buen funcionamiento de la Delegación o Dirección a su cargo o que generen conflictos entre el personal;
 
-XXVII. Ser enlace con las demás Delegaciones o Direcciones de Prestación del Servicio en la atención de asuntos que comprendan dos o más Delegaciones o Direcciones;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XXVII. Ser enlace con las demás Delegaciones o Direcciones en la atención de asuntos que comprendan dos o más Delegaciones o Direcciones;
 
 XXVIII. Informar a la Dirección General sobre las necesidades de capacitación advertidas o demandadas en la Delegación o Dirección de su adscripción;
 
@@ -521,7 +629,11 @@ XXX. Realizar funciones de defensa penal y asesoría jurídica de acuerdo a las 
 
 XXXI. Realizar actos que permitan brindar el servicio a usuarias y usuarios en acciones colectivas incluso fuera de las oficinas sede, para lo cual el personal de la Delegación o Dirección de Prestación del Servicio deberá buscar acercamientos con posibles personas usuarias;
 
-XXXII. Asignar a las y los oficiales para la obtención de datos de prueba que la defensa o asesoría estime necesarios, tales como acudir en apoyo a audiencias, entrevistas, obtención de videos de cámaras de vigilancia, búsqueda de información, entre otras, sin incurrir en actos de molestia;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+XXXII. Asignar a las y los oficiales para la obtención de datos de prueba que la defensa estime necesarios, tales como acudir en apoyo a audiencias, entrevistas, obtención de videos de cámaras de vigilancia, búsqueda de información, entre otras, sin incurrir en actos de molestia;
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
 XXXIII. Comisionar a las y los oficiales para la realización de las actividades de apoyo previstas en la fracción anterior, cuando así se requiera, y a petición del personal de defensa o asesoría, por el plazo que sea necesario, contando con el apoyo de pasajes o viáticos, y
 
@@ -589,43 +701,39 @@ VII. La o el titular de la Secretaría y el personal adscrito a la misma, realiz
 
 VIII. Las demás funciones que determine el Director General y la normatividad aplicable.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
+ARTÍCULO 18 CUARTER. Objetivo de la Secretaría Técnica de Consulta Normativa y Gestión lntrainstitucional.
 
-ARTÍCULO 18 CUARTER. Objetivo de la Secretaría Técnica de Equidad de Género y Atención a Grupos Vulnerables.
+La Secretaría Técnica tiene como objetivos coordinar y realizar las acciones al interior del Instituto para el desahogo de juicios, procedimientos administrativos y controversias en los que la titularidad de la Dirección General sea parte, así como la atención de otros trámites administrativos que sean asignados por ésta con el fin de salvaguardar los intereses institucionales.
 
-La Secretaría Técnica tiene como objetivos coordinar y realizar acciones de investigación y análisis de asuntos relevantes en materia de equidad e igualdad de género, de atención a grupos en situación de vulnerabilidad, así como generar y promover estrategias de colaboración con entidades públicas nacionales e internacionales y organizaciones de la sociedad civil, para fortalecer el trabajo institucional en seguimiento a los compromisos nacionales e internacionales en materia de derechos humanos de los mencionados grupos.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
-
-> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2020)</small>
-
-ARTÍCULO 18 QUINTUS. Atribuciones de la Secretaría Técnica de Equidad de Género y Atención a Grupos Vulnerables.
+ARTÍCULO 18 QUINTUS. Atribuciones de la Secretaría Técnica de Consulta Normativa y Gestión lntrainstitucional.
 
 Son atribuciones de la Secretaría Técnica:
 
-I. Atender los requerimientos de información y orientación formulados por las representaciones consulares respecto de sus connacionales sujetos a procesos penales en México y que estén siendo atendidos por Defensores Públicos del Instituto; así como, informar periódicamente a las referidas representaciones sobre los casos vigentes;
+I. Representar a la o el Director General ante la Unidad de Transparencia del Consejo de la Judicatura Federal, siendo el enlace con la citada Unidad, para la atención de solicitudes de acceso a la información y datos personales que sean competencia del Instituto;
 
-II. Coordinar acciones de investigación y monitoreo respecto a temas de grupos en situación de vulnerabilidad a nivel nacional para proponer acciones que correspondan al Director General;
+II. Coordinar y distribuir las solicitudes de información pública y datos personales, que se presenten al Instituto; así como supervisar y enviar las respuestas de dichas peticiones dentro de los plazos establecidos;
 
-III. Apoyar al Director General en el levantamiento de información y acciones que involucren violaciones a los derechos humanos de migrantes en las estaciones migratorias o cualquier centro de detención;
+III. Coordinar las acciones en materia de servicio social y prácticas profesionales en el Instituto, y dar seguimiento a los convenios que en esa materia se celebren;
 
-IV. Proponer proyectos de mejora al Director General para establecer acciones en materia de equidad e igualdad de género, así como para la atención de grupos en situación de vulnerabilidad, tales como personas en movilidad y sujetas a protección internacional, niñas y niños, adolescentes en conflicto con la ley penal, población indígena y afrodescendiente, personas con discapacidad, entre otros;
+IV. Coordinar y supervisar las acciones necesarias para el desahogo y seguimiento de los juicios de amparo y otros procedimientos jurisdiccionales en los que la o el titular del Instituto sea parte;
 
-V. La o el titular de la Secretaría y, en su caso, el personal adscrito a la misma, realizará funciones de defensa penal y asesoría jurídica en los casos relacionados con los temas encomendados a ésta por la Dirección General;
+V. Promover y coordinar la firma de convenios de colaboración que contribuyan a lograr las finalidades del Instituto y mejorar la prestación de los servicios;
 
-VI. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Secretaría Técnica para proponer acciones que correspondan al Instituto;
+VI. Emitir opinión sobre procedimientos contenciosos administrativos en los que la titularidad de la Dirección General sea parte;
 
-VII. Proponer al Director General proyectos al interior del Instituto, relacionados con el tema de hostigamiento y acoso sexual;
+VII. Realizar el control de los juicios, procedimientos administrativos y conflictos de trabajo en los que intervenga la Secretaría Técnica;
 
-VIII. Proponer al Director General ajustes razonables en las instalaciones del Instituto o donde su personal se encuentre adscrito, que permitan la adecuada y segura prestación de los servicios de defensa penal y de asesoría jurídica a personas con discapacidad;
+VIII. Someter a consideración de la Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal instrumentos jurídicos o cualquier otro documento que requiera su aprobación;
 
-IX. Coordinar la certificación y evaluación del personal bilingüe indígena del Instituto;
+IX. Formular las consultas sobre la aplicación e interpretación de disposiciones legales, administrativas o cualquier índole que se deba realizar a otras unidades administrativas del Consejo de la Judicatura Federal u otras instituciones, conforme a la materia de su competencia;
 
-X. Coordinar las actividades del personal que determine el Director General en los temas que le encomiende, y
+X. Fungir como enlace entre el Instituto y la Asociación Interamericana de Defensorías Públicas, y
 
-XI. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
+XI. Las demás funciones que determine el Director General del Instituto y la normativa aplicable.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
 
@@ -673,7 +781,9 @@ XII. Las demás funciones que determine el Director General y la normatividad ap
 
 ARTÍCULO 18 OCTAVUS. Objetivos de la Secretaría Técnica de Vinculación con la Sociedad.
 
-La Secretaría Técnica tiene como objetivos coordinar diversas acciones con otras instituciones relacionadas con la prestación de los servicios que brinda el Instituto, así como su difusión y coordinar la vinculación institucional con la sociedad.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría Técnica tiene como objetivos difundir las acciones institucionales y coordinar la vinculación con la sociedad.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf y www.dof.gob.mx/2020/CJF/mod_BasesGeneralesOrganizacionFuncionamientoIFDP_28012020.pdf]</small>
 
@@ -681,27 +791,31 @@ La Secretaría Técnica tiene como objetivos coordinar diversas acciones con otr
 
 ARTÍCULO 18 NOVENUS. Atribuciones de la Secretaría Técnica de Vinculación con la Sociedad.
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
 Son atribuciones de la Secretaría Técnica:
 
-I. Representar al Director General ante la Unidad de Transparencia del Consejo de la Judicatura Federal, siendo el enlace con la citada Unidad, para la atención de solicitudes de acceso a la información y datos personales que sean competencia del Instituto;
+I. Establecer estrategias y coordinar acciones de monitoreo, análisis y planteamientos para el fortalecimiento de la imagen institucional, así como establecer políticas internas que permitan unificar criterios en materia de difusión;
 
-II. Coordinar y distribuir las solicitudes de información pública y datos personales, que se presenten al Instituto; así como supervisar y enviar las respuestas de dichas peticiones dentro de los plazos establecidos;
+II. Supervisar las acciones para la cobertura de los eventos y conferencias en los que participen personal del·instituto, así como atender los requerimientos de contenidos que realicen las Unidades y Delegaciones del Instituto;
 
-III. Coordinar las acciones en materia de servicio social y prácticas profesionales en el Instituto, y dar seguimiento a los convenios que en esa materia se celebren;
+III. Establecer mecanismos de monitoreo sobre las actividades de difusión de las Delegaciones;
 
-IV. Coordinar y supervisar las acciones necesarias para el desahogo y seguimiento de los juicios de amparo y otros procedimientos jurisdiccionales en que el titular del Instituto sea parte;
+IV. Plantear las vías de difusión más idóneas en medios de comunicación para la colocación de contenidos generados por la Secretaría Técnica;
 
-V. Promover y coordinar la firma de convenios de colaboración que contribuyan a lograr las finalidades del Instituto y mejorar la prestación de los servicios;
+V. Coordinar acciones institucionales con la Dirección General de Comunicación Social y Vocería del Consejo de la Judicatura Federal para realizar difusión de los servicios del Instituto a través de redes sociales y los diversos medios de comunicación;
 
-VI. Coordinar la actualización de los contenidos de la página electrónica del Instituto;
+VI. Validar los contenidos que se publican en redes sociales y página electrónica, así como los boletines que se emitan por parte del Instituto;
 
-VII. Participar en el diseño y programación de las acciones necesarias, para difundir los servicios que brinda el Instituto, a fin de garantizar el acceso a la justicia de los usuarios;
+VII. Coordinar la actualización de los contenidos de la página electrónica del Instituto;
 
-VIII. Coordinar las acciones necesarias entre el Instituto y diversas Unidades Administrativas del Consejo de la Judicatura Federal, como la Dirección General de Comunicación Social y Vocería, respecto al personal del Instituto que acuda a programas de radio y televisión;
+VIII. Participar en el diseño y programación de las acciones necesarias, para difundir los servicios que brinda el Instituto, a fin de garantizar el acceso a la justicia de los usuarios;
 
-IX. Administrar y crear contenidos de las cuentas oficiales de redes sociales del Instituto, y
+IX. Coordinar las acciones necesarias entre el Instituto y diversas Unidades Administrativas del Consejo de la Judicatura Federal, como la Dirección General de Comunicación Social y Vocería, respecto al personal del Instituto que acuda a programas de radio y televisión;
 
-X. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
+X. Administrar y crear contenidos de las cuentas oficiales de redes sociales del Instituto, y
+
+XI. Las demás funciones que determine el Director General del Instituto y la normativa aplicable.
 
 ## TÍTULO SEGUNDO. De los servicios del Instituto Federal de Defensoría Pública
 
@@ -711,7 +825,9 @@ X. Las demás funciones que determine el Director General del Instituto y la nor
 
 Horario de funciones.
 
-Todos (sic) el personal del Instituto ejerce sus funciones en horario de tiempo completo, con las modalidades que determine la Dirección General atendiendo a la necesidad de los servicios, por lo que deberá cumplir las jornadas matutina y vespertina que se fijen, y fuera de ellas estar localizable para atender cualquier asunto urgente, con el objetivo de lograr que la atención al público se preste de manera ininterrumpida.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Todo el personal del Instituto ejerce sus funciones en horario de tiempo completo, con las modalidades que determine la Dirección General atendiendo a la necesidad de los servicios, por lo que deberá cumplir las jornadas matutina y vespertina que se fijen, y fuera de ellas estar localizable para atender cualquier asunto urgente, con el objetivo de lograr que la atención al público se preste de manera ininterrumpida.
 
 Las y los defensores estarán disponibles para atender las solicitudes del servicio, para lo cual deben proporcionar al Ministerio Público de la Federación, o a la Titularidad del Órgano Jurisdiccional y a sus superiores jerárquicos los datos que permitan su pronta localización, en cualquier día y hora, a través de cualquier medio de comunicación.
 
@@ -747,7 +863,13 @@ Solicitud de peritos de la Unidad de Litigio Estratégico en Derechos Humanos.
 
 El personal de defensa y asesoría podrá solicitar a la Unidad de Litigio Estratégico en Derechos Humanos, la designación de un especialista que forme parte del área de ciencias forenses del Instituto para que funja como perito o brinde consultoría técnica en alguno de los casos que tenga a su cargo.
 
-Para lo anterior, se deberá justificar por la o el solicitante a la titularidad de la Delegación y de las Direcciones de Prestación del Servicio, para la autorización de la Unidad, la necesidad de la prueba pericial, expresando detalladamente la congruencia, la idoneidad, la pertinencia, así como las razones basadas en la estrategia jurídica, a seguir.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Para lo anterior, se deberá justificar por la o el solicitante a la titularidad de la Delegación o Dirección correspondiente, para la autorización de la Unidad, la necesidad de la prueba pericial, expresando detalladamente la congruencia, la idoneidad, la pertinencia, así como las razones basadas en la estrategia jurídica, a seguir.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+En los casos que se sustancien ante Tribunales Federales en materia laboral, el personal de asesoría jurídica podrá solicitar el acompañamiento de una o un especialista del área de ciencias forenses del Instituto conforme a lo previsto en el artículo 824 de la Ley Federal del Trabajo.
 
 ###### ARTÍCULO 25.
 
@@ -757,15 +879,23 @@ El personal de defensa y asesoría del Instituto podrán elegir y designar perit
 
 I. La o el solicitante deberá comprobar con las constancias respectivas, haber solicitado a dos instituciones públicas, educativas o colegios de profesionistas el auxilio de un perito gratuito, dentro del procedimiento judicial en que actúe;
 
-II. La o el solicitante justificará a las titularidades de la Delegación y Direcciones de Prestación del Servicio correspondiente, la necesidad de la prueba pericial, expresando detalladamente la congruencia, la idoneidad, la pertinencia, así como las razones basadas en la estrategia jurídica a seguir;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+II. La o el solicitante justificará a la titularidad de la Delegación o Dirección correspondiente, la necesidad de la prueba pericial, expresando detalladamente la congruencia, la idoneidad, la pertinencia, así como las razones basadas en la estrategia jurídica a seguir;
 
 III. La persona solicitante informará, dentro de su petición, la o el perito a designar para el ofrecimiento, preparación y desahogo de la prueba;
 
-IV. La titularidad de la Delegación, Direcciones de Prestación de Servicio o Direcciones de Ejecución de Sentencias que reciba las peticiones por parte del personal de defensa pública o asesoría jurídica, deberá remitir electrónicamente a la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica el dictamen en el que bajo su más estricta responsabilidad, funde y motive de manera concreta la procedencia de la designación de la o el perito solicitado, de acuerdo con la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, a más tardar al día siguiente de haber recibido la solicitud, y tomando en consideración los plazos judiciales que correspondan;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-V. En cuanto la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica tenga conocimiento de la justificación presentada por parte de la Delegación, Direcciones de Prestación de Servicio o Dirección de Ejecución de Sentencias, analizará su procedencia a efecto de proponer a la Dirección General el proyecto de acuerdo correspondiente, y
+IV. La titularidad de la Delegación o Dirección que reciba las peticiones por parte del personal de defensa pública o asesoría jurídica, deberá remitir electrónicamente a las Unidades de Defensa Penal o de Asesoría Jurídica el dictamen en el que bajo su más estricta responsabilidad, funde y motive de manera concreta la procedencia de la designación de la o el perito solicitado, de acuerdo con la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, a más tardar al día siguiente de haber recibido la solicitud, y tomando en consideración los plazos judiciales que correspondan;
 
-VI. El Acuerdo será notificado a la Delegación o Dirección que corresponda por la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica, a efecto de que en su caso, proceda a autorizar la designación, para lo cual deberá agotar el procedimiento establecido (sic) Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación.
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+V. En cuanto la Unidad de Defensa Penal o la de Asesoría Jurídica tenga conocimiento de la justificación presentada por parte de la Delegación o Dirección a su cargo analizará su procedencia a efecto de proponer a la Dirección General el proyecto de acuerdo correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VI. El Acuerdo será notificado a la Delegación o Dirección por la Unidad que corresponda, a efecto de que, en su caso, proceda a autorizar la designación, para lo cual deberá agotar el procedimiento establecido (sic) Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación.
 
 ###### ARTÍCULO 26.
 
@@ -809,11 +939,13 @@ El servicio de primer contacto también podrá otorgarse a personas en retorno (
 
 Del registro del Servicio.
 
-Las atenciones derivadas del servicio de primer contacto, deberán registrarse en la Delegación o Dirección de Prestación del Servicio que corresponda a través de los medios que autorice la Dirección General, a efecto de llevar un control interno, para informarlo cuando se les solicite.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Las atenciones derivadas del servicio de primer contacto, deberán registrarse en la Delegación o Dirección que corresponda a través de los medios que autorice la Dirección General, a efecto de llevar un control interno, para informarlo cuando se les solicite.
 
 ### CAPÍTULO III. Del servicio de defensa penal
 
-#### SECCIÓN SEGUNDA. De la visita a detenidos
+#### SECCIÓN PRIMERA. Disposiciones generales
 
 ###### ARTÍCULO 32.
 
@@ -821,7 +953,9 @@ Actuación de las y los defensores públicos.
 
 El servicio de defensa penal se presta en asuntos del orden federal, en todas las etapas del procedimiento penal hasta la ejecución de sentencias, para lo cual la o el Delegado deberá procurar que sea la misma persona quien lleve la representación en todas las etapas del proceso penal, a fin de que se brinde una defensa adecuada y efectiva.
 
-En caso de que exista un impedimento, la titularidad de la Delegación o Dirección de Prestación del Servicio correspondiente, deberá comunicarlo a la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica, y enviar la justificación que sea necesaria para que, en su caso, se autorice la excepción.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que exista un impedimento, la titularidad de la Delegación o Dirección correspondiente, deberá comunicarlo a la Unidad de Defensa Penal, y enviar la justificación que sea necesaria para que, en su caso, se autorice la excepción.
 
 ###### ARTÍCULO 33.
 
@@ -841,7 +975,7 @@ Existe conflicto de intereses que impide la intervención del Instituto Federal 
 
 Existe conflicto de intereses que obliga a la sustitución de la o el defensor, cuando las personas defendidas incurren en declaraciones contradictorias o cuando se hacen imputaciones entre ellas.
 
-#### SECCIÓN PRIMERA. Disposiciones generales
+#### SECCIÓN SEGUNDA. De la visita a detenidos
 
 ###### ARTÍCULO 35.
 
@@ -865,7 +999,7 @@ Asimismo, en cada visita, las y los defensores públicos deberán hacer las preg
 
 ### CAPÍTULO IV. Del servicio de asesoría jurídica
 
-#### SECCIÓN SEGUNDA. De la prestación del servicio de asesoría jurídica
+#### SECCIÓN PRIMERA. Disposiciones generales
 
 ###### ARTÍCULO 36.
 
@@ -903,11 +1037,27 @@ c) Asuntos en los que sea procedente promover juicio de amparo directo contra se
 
 d) Juicios de amparo en los que la asesoría jurídica debe actuar como representante especial de una o un menor, por designación del juzgado de Distrito.
 
-IV. En los que sea procedente tramitar, ante los órganos investigadores o jurisdiccionales, la devolución de bienes u objetos a favor de terceros.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-V. Tratándose de asuntos en los que sea procedente promover acciones colectivas para la tutela de las pretensiones en materia de consumo de bienes o servicios, públicos o privados y medio ambiente, cuya titularidad corresponda a un grupo de al menos treinta personas.
+IV. Materia Laboral:
 
-VI. En todas las materias, excepto en materia penal, tratándose de juicios de amparo en que las titularidades de órganos jurisdiccionales requieran la designación de una representación especial para una persona menor de edad o adulta que tenga alguna limitación para representarse por sí misma o por estar privada de su libertad.
+a) Asuntos previstos en el artículo 55 de la Ley Orgánica del Poder Judicial de la Federación.
+
+b) Asuntos en los que debe brindar representación jurídica a trabajadores o sus beneficiarios, por incapacidad técnica manifiesta o sistemática del apoderado legal, a petición expresa del tribunal laboral, en términos del artículo 685 Bis de la Ley Federal del Trabajo.
+
+c) Asuntos en que la parte trabajadora solicite el auxilio en el desahogo de la prueba pericial, en términos del artículo 824 de la Ley Federal del Trabajo.
+
+d) Asuntos en los que sea procedente promover recurso de reconsideración contra las resoluciones dictadas por los tribunales laborales federales que pongan fin al juicio ordinario
+
+e) Asuntos en los que sea procedente promover juicio de amparo directo contra sentencias definitivas o resoluciones que pongan fin al juicio, dictadas por tribunales laborales federales.
+
+f) Asuntos en los que la Dirección General instruya la prestación del servicio.
+
+V. En los que sea procedente tramitar, ante los órganos investigadores o jurisdiccionales, la devolución de bienes u objetos a favor de terceros.
+
+VI. Tratándose de asuntos en los que sea procedente promover acciones colectivas para la tutela de las pretensiones en materia de consumo de bienes o servicios, públicos o privados y medio ambiente, cuya titularidad corresponda a un grupo de al menos treinta personas.
+
+VII. En todas las materias, excepto en materia penal, tratándose de juicios de amparo en que las titularidades de órganos jurisdiccionales requieran la designación de una representación especial para una persona menor de edad o adulta que tenga alguna limitación para representarse por sí misma o por estar privada de su libertad.
 
 Dado que el servicio de asesoría jurídica es gratuito, se prestará en la Delegación o adscripción que corresponda al domicilio particular de la persona usuaria, para no incidir en su patrimonio.
 
@@ -919,7 +1069,7 @@ La asesoría jurídica debe ser acuciosa en el análisis de los expedientes judi
 
 En los horarios de atención al público permanecerá en sus oficinas para ese efecto, salvo los casos en que por necesidades del propio servicio deba ausentarse.
 
-#### SECCIÓN TERCERA. Del procedimiento para la prestación del servicio de asesoría jurídica
+#### SECCIÓN SEGUNDA. De la prestación del servicio de asesoría jurídica
 
 ###### ARTÍCULO 38.
 
@@ -969,6 +1119,8 @@ XII. Trabajar en coordinación con los asesores de otras entidades federativas, 
 
 XIII. Las demás funciones que determine el Director General del Instituto y la normatividad aplicable.
 
+#### SECCIÓN TERCERA. Del procedimiento para la prestación del servicio de asesoría jurídica
+
 ###### ARTÍCULO 39.
 
 Procedimiento para prestación del servicio.
@@ -991,7 +1143,9 @@ VI. En caso de negativa del servicio de representación por razones de competenc
 
 Del uso abusivo de los servicios prestados.
 
-Para el otorgamiento del servicio de representación deberá evitarse en todo momento que se haga una práctica cotidiana, abusiva o injustificada por parte de una persona o grupo, considerando el número de los servicios ya prestados, el contenido de la petición o cualquier otra circunstancia a juicio de la titularidad de la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica. En estos casos dicha titularidad podrá negar la representación.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Para el otorgamiento del servicio de representación deberá evitarse en todo momento que se haga una práctica cotidiana, abusiva o injustificada por parte de una persona o grupo, considerando el número de los servicios ya prestados, el contenido de la petición o cualquier otra circunstancia a juicio de la titularidad de la Unidad de Defensa Penal o la de Asesoría Jurídica. En estos casos dicha titularidad podrá negar la representación.
 
 ###### ARTÍCULO 41.
 
@@ -1139,7 +1293,9 @@ V. Promociones.- Escritos en los que la asesoría jurídica promueve todo lo rel
 
 VI. Acuerdos o resoluciones judiciales.- Contiene las determinaciones emitidas por los órganos jurisdiccionales;
 
-VII. Carta compromiso.- Contiene las obligaciones que asume la o el usuario con la asesoría jurídica, cuando el servicio proporcionado es el de representación, cuyo incumplimiento podrá dar lugar a la abstención del patrocinio, siempre y cuando la asesoría justifique ante la Delegación o Dirección de Prestación del Servicio de Asesoría Jurídica, según corresponda, dicha circunstancia, quienes lo informarán mediante un dictamen a la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica, quien podrá autorizar la abstención en la prestación del servicio correspondiente;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+VII. Carta compromiso.- Contiene las obligaciones que asume la o el usuario con la asesoría jurídica, cuando el servicio proporcionado es el de representación, cuyo incumplimiento podrá dar lugar a la abstención del patrocinio, siempre y cuando la asesoría justifique ante la Delegación o Direcciones de la Unidad de Asesoría Jurídica, según corresponda dicha circunstancia, quienes lo informarán mediante un dictamen a dicha Unidad, quien a su vez podrá autorizar la abstención en la prestación del servicio correspondiente, cuyos efectos se equiparan al procedimiento a que se refiere el artículo 17 de la Ley;
 
 VIII. Constancias de entrevista.- En las que se plasma una explicación detallada de aquellas circunstancias que la asesoría considere necesario informar personalmente a la o el usuario en torno a su asunto, por lo que contendrá la firma autógrafa de ambas partes, de lo contrario, la asesoría asentará las razones por las que la o el usuario se negó a hacerlo, y
 
@@ -1157,7 +1313,9 @@ La información electrónica deberá ingresarse al sistema integral en forma inm
 
 Digitalización de expediente.
 
-Los documentos que integran los expedientes de control deben ser digitalizados al sistema integral por el personal de defensa pública o asesoría jurídico, (sic) y, deberán remitir vía electrónica el documento a la delegación o dirección de su adscripción.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Los documentos que integran los expedientes de control deben ser digitalizados al sistema integral por el personal de defensa pública o asesoría jurídica, y, deberán remitir vía electrónica el documento a la delegación o dirección de su adscripción, evitando la duplicidad de la información de manera electrónica e impresa, en cualquier caso.
 
 ###### ARTÍCULO 54.
 
@@ -1181,13 +1339,17 @@ Es obligación del personal que brinda la defensa pública y asesoría jurídica
 
 De la supervisión.
 
-La supervisión es el conjunto de acciones, tendientes a verificar el cumplimiento de las normas que rigen la función sustantiva y administrativa del personal que realiza funciones de defensa penal y asesoría jurídica, permitiendo conocer las condiciones de su desempeño. Se realiza en forma directa, imparcial, permanente y sistemática a través del cuerpo de supervisoras y supervisores, adscritos a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera, así como de manera documental por la Delegación o Dirección de Prestación del Servicio correspondiente. Asimismo, las y los supervisores deberán realizar funciones de defensa pública o asesoría jurídica en los casos en que la Dirección General así lo designe, lo anterior, en atención a las necesidades del Instituto.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La supervisión es el conjunto de acciones, tendientes a verificar el cumplimiento de las normas que rigen la función sustantiva y administrativa del personal que realiza funciones de defensa penal y asesoría jurídica, permitiendo conocer las condiciones de su desempeño. Se realiza en forma directa, imparcial, permanente y sistemática a través del cuerpo de supervisoras y supervisores, adscritos a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera, así como de manera documental por la Delegación o Dirección correspondiente. Asimismo, las y los supervisores deberán realizar funciones de defensa pública o asesoría jurídica en los casos en que la Dirección General así lo designe, lo anterior, en atención a las necesidades del Instituto.
 
 ###### ARTÍCULO 57.
 
 Criterios en los que deberá ejercerse la supervisión.
 
-La supervisión de casos se ejercerá bajo los criterios siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La supervisión se ejercerá bajo los criterios siguientes:
 
 I. Durante su desarrollo, el personal encargado de realizarla, debe conducirse con imparcialidad, objetividad y sin interés personal alguno;
 
@@ -1205,9 +1367,13 @@ La supervisión se realiza de las siguientes formas:
 
 I. Documental. En la que se verifica el cumplimiento permanente de las obligaciones administrativas impuestas por la Ley Federal de Defensoría Pública y estas Bases Generales al personal que realiza funciones de defensa penal y asesoría jurídica.
 
-La delegación o dirección correspondiente debe remitir el diagnóstico resultante a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera, a fin de que se integre al expediente de supervisión directa para efectos de evaluación, y
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-II. Directa. En la que la o el supervisor se constituye físicamente en la adscripción de defensa o asesoría, con el propósito de conocer la actuación procesal, del personal sujeto a supervisión, mediante el análisis de los expedientes judiciales o administrativos en los que tenga intervención, así como de los expedientes de control correspondientes e instrumentos de registro.
+La delegación o dirección correspondiente debe remitir el dictamen de supervisión documental resultante, a la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera, a fin de que se integre al expediente de supervisión directa para efectos de evaluación, y
+
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+II. Directa. En la que la o el supervisor, con el propósito de conocer la actuación procesal, del personal sujeto a supervisión, analiza los expedientes judiciales o administrativos en los que tenga intervención, así como los expedientes de control correspondientes e instrumentos de registro.
 
 Para el cumplimiento de los supuestos previstos en las fracciones anteriores, el personal correspondiente deberá hacer uso de la información electrónica contenida en el sistema integral de información y, en su caso, de los registros de audio y video de las actuaciones procesales.
 
@@ -1215,23 +1381,33 @@ Para el cumplimiento de los supuestos previstos en las fracciones anteriores, el
 
 Notificación de la supervisión.
 
-La visita de supervisión directa se notificará al personal que realiza funciones de defensa penal y asesoría jurídica, cuando menos con cinco días de anticipación, para que fije en lugares visibles el aviso al público de su realización. No será necesaria la notificación cuando sea ordenada por la Dirección General con el carácter de extraordinaria.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La supervisión directa se notificará al personal que realiza funciones de defensa penal y asesoría jurídica, cuando menos con dos días de anticipación. No será necesaria la notificación cuando sea ordenada por la Dirección General con el carácter de extraordinaria.
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 60.
 
-Visita ordinaria y extraordinaria de la supervisión.
+Supervisión directa.
 
-La visita de supervisión directa se realiza:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+La supervisión directa se realiza:
 
 I. En forma ordinaria, conforme al programa anual diseñado por la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera, y
 
 II. En forma extraordinaria, cuando lo ordene la Dirección General, por existir una inconformidad concreta y fundada en contra de alguna o algún servidor público o advertirse el incumplimiento a las normas establecidas en la Ley o en estas Bases Generales; o por solicitarla la delegación o dirección de la circunscripción correspondiente debido a las deficiencias en el desempeño del personal que realiza funciones de defensa penal o asesoría jurídica, observadas en la supervisión documental.
 
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 61.
 
-Contenido del acuerdo de visita.
+Contenido del acuerdo de supervisión directa.
 
-El acuerdo que ordene la visita de supervisión directa debe contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+El acuerdo que ordene la supervisión directa debe contener:
 
 I. Nombre y cargo del personal comisionado para su realización;
 
@@ -1239,7 +1415,9 @@ II. Motivo de la visita;
 
 III. Nombre del personal a supervisar;
 
-IV. Fecha y lugar en que deba practicarse, y
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+IV. Fecha en que deba practicarse, y
 
 V. Demás instrucciones que fueren necesarias.
 
@@ -1255,61 +1433,85 @@ II. Quienes otorgan la defensa y asesoría que ocupen el puesto con carácter in
 
 III. Todas aquellas personas que sean facultadas para realizar funciones de defensa penal o asesoría jurídica por necesidades del servicio.
 
-### CAPÍTULO II. De la práctica de la visita de supervisión
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. De la práctica de la supervisión directa
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 63.
 
-Actividades a realizar en el lugar de la supervisión.
+Actividades a realizar durante la supervisión directa.
 
-La o el supervisor se constituirá en el lugar donde desempeñe sus actividades el personal a visitar, realizando lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-I. Consultar expedientes judiciales o administrativos y de control, así como expedientes digitales e instrumentos de registro a cargo del personal, haciendo un análisis comparativo de los mismos;
+En la fecha programada para la práctica de la supervisión directa, la persona encargada de ésta realizará, lo siguiente:
 
-II. Verificar la organización administrativa y condiciones de trabajo que existan en la adscripción;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-III. Conceder el uso de la palabra a todas y cada una de las personas que deseen intervenir en el desarrollo de la visita de supervisión;
+I. Consultar los sistemas informáticos con que cuente el Instituto, así como de los expedientes de control e instrumentos de registro, digitales que sean aportados por la persona supervisada y, de manera excepcional, por las personas titulares de las Delegaciones, o de las Direcciones de Prestación de Servicio, según corresponda, haciendo un análisis comparativo de los mismos;
 
-IV. Presenciar diligencias judiciales en las que intervenga la o el supervisado, asentando las circunstancias generales que advierta, y en su caso, las quejas o inconformidades que llegare a presentar cualquier persona, respecto del desempeño del personal visitado;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-V. Dar instrucciones a la o el supervisado sobre aspectos de inmediata atención en su desempeño;
+II. Anotar lo relativo a la organización administrativa y condiciones de trabajo que existan en la adscripción;
 
-VI. Cuando se trate de una visita de supervisión directa a la defensa pública adscrita ante órgano jurisdiccional, la supervisión se debe trasladar hasta el centro de reclusión donde se encuentre el mayor número de defensas y defensos, para conocer de propia voz, su opinión respecto de la atención recibida, y en su caso, si existen quejas sobre el servicio;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-VII. Verificar si la defensa y asesoría han realizado acciones necesarias para la defensa de los derechos de grupos en situación de vulnerabilidad: personas indígenas, mujeres, personas con discapacidad, personas en movilidad y sujetas a protección internacional, niñas, niños y adolescentes, y las demás personas que por su condición no puedan tener pleno acceso a la justicia, y
+III. Conceder el uso de la palabra a la persona servidora pública sujeta de supervisión directamente o por medios electrónicos;
 
-VIII. Recabar las grabaciones de video o audio y cualquier elemento que permita emitir una opinión razonada y sustentada acerca de la actuación del personal supervisado.
+(REUBICADA [N. DE E. ANTES FRACCIÓN V], D.O.F. 13 DE NOVIEMBRE DE 2020)
 
-Todo lo anterior se hará constar en acta circunstanciada que al efecto se levante ante dos testigos de asistencia, precisando el desarrollo de la visita, y al finalizar se concederá el uso de la palabra al personal supervisado para que exprese lo que a sus intereses convenga, debiendo firmar las personas que intervengan.
+IV. Dar instrucciones a la o el supervisado sobre aspectos de inmediata atención en su desempeño;
 
-### CAPÍTULO III. Del informe de la visita de supervisión
+(REUBICADA [N. DE E. ANTES FRACCIÓN VII], D.O.F. 13 DE NOVIEMBRE DE 2020)
+
+V. Verificar si la defensa y asesoría han realizado acciones necesarias para la defensa de los derechos de grupos en situación de vulnerabilidad: personas indígenas, mujeres, personas con discapacidad, personas en movilidad y sujetas a protección internacional, niñas, niños y adolescentes, y las demás personas que por su condición no puedan tener pleno acceso a la justicia, y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN VIII], D.O.F. 13 DE NOVIEMBRE DE 2020)
+
+VI. Recabar las grabaciones de video o audio y cualquier elemento que permita emitir una opinión razonada y sustentada acerca de la actuación del personal supervisado.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Todo lo anterior se hará constar en acta circunstanciada que al efecto se levante, precisando el desarrollo de la visita, y al finalizar se concederá el uso de la palabra al personal supervisado para que exprese lo que a sus intereses convenga, debiendo firmar las personas que intervengan.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO III. Del informe de la supervisión directa
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 64.
 
-Estructura del informe de visita.
+Estructura del informe de la supervisión directa.
 
-Dentro de los cinco días hábiles siguientes a la realización de la visita de supervisión directa, quien la practique debe presentar el acta circunstanciada y el informe de la visita a su superior jerárquico, para su conocimiento y análisis.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Dentro de los cinco días hábiles siguientes a la realización de la supervisión directa, quien la practique debe presentar el acta circunstanciada y el informe relativo, a su superior jerárquico, para su conocimiento y análisis.
 
 La estructura del informe será la siguiente:
 
-I. Desarrollo de la visita. Describir los aspectos más relevantes que la o el supervisor haya observado;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-II. Opinión técnico-jurídica. Debe comprender los aspectos siguientes:
+I. Desarrollo de la supervisión, narrado de forma sucinta, señalando los aspectos más relevantes que haya observado;
 
-a) Cumplimiento de la teoría del caso en materia de defensa penal, o de la estrategia de actuación en materia de asesoría jurídica.
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-b) Oportunidad en las actuaciones que debe realizar la defensa o asesoría, así como la fundamentación y motivación de las promociones que presenta para el cumplimiento de sus funciones.
+II. Opinión técnico jurídica, respecto de la actuación sustantiva de la persona supervisada;
 
-c) Iniciativa y diligencia en la actuación de la defensa pública o asesoría jurídica.
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-d) Cumplimiento a lo previsto en las presentes Bases Generales.
+III. Cumplimiento a lo previsto en las presentes Bases Generales y demás disposiciones que rigen la función sustantiva en la que se desempeña la persona supervisada;
 
-e) Organización administrativa y condiciones de trabajo de la adscripción visitada;
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-I. (SIC) Cualquier otra circunstancia que considere relevante, y
+IV. Cualquier otra circunstancia que considere relevante; y
 
-II. Conclusiones, con referencia al trato a las personas usuarias y al cumplimiento de las disposiciones administrativas de la superioridad jerárquica.
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-El informe se hará del conocimiento del personal supervisado, únicamente para que en el plazo de tres días hábiles, si lo estima pertinente, haga las manifestaciones que a su interés convenga.
+V. Conclusiones, referentes a la calidad jurídica de la actuación de la persona supervisada.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1793,11 +1995,15 @@ Las actividades que realice la o el prestador de servicio social al interior del
 
 Ausencias de la o el Director General.
 
-Tratándose de ausencias de la titularidad de la Dirección General del Instituto, que no requieran licencia, la misma será suplida por la titularidad de la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica encargándose exclusivamente del despacho de los asuntos previstos en las fracciones I a VI del artículo 32 de la Ley, así como de los asuntos señalados en el artículo 5 de las presentes Bases Generales, y del despacho de aquellos asuntos de mero trámite y urgencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de ausencias de la titularidad de la Dirección General del Instituto, que no requieran licencia, la misma será suplida por la titularidad de la Unidad de Defensa Penal encargándose exclusivamente del despacho de los asuntos previstos en las fracciones I a VI del artículo 32 de la Ley, así como de los asuntos señalados en el artículo 5 de las presentes Bases Generales, y del despacho de aquellos asuntos de mero trámite y urgencia.
 
 Cuando las ausencias temporales de la o el mencionado funcionario requieran de licencia, el Consejo de la Judicatura Federal a propuesta de su Presidencia, designará a la persona que deba efectuar la suplencia interinamente, pudiendo tomar en cuenta para ello, a cualquier titularidad de las unidades administrativas del Instituto.
 
-En tanto se efectúa la designación antes descrita, la titularidad de la Unidad de Coordinación de Defensa Penal y Asesoría Jurídica actuará en términos del párrafo primero de este artículo.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
+En tanto se efectúa la designación antes descrita, la titularidad de la Unidad de Defensa Penal actuará en términos del párrafo primero de este artículo.
 
 ###### ARTÍCULO 100.
 
@@ -2022,3 +2228,15 @@ PRIMERO. El presente Acuerdo entrará en vigor a partir del día siguiente de su
 SEGUNDO. Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública vigentes, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública y sus modificaciones estarán disponibles para su consulta en la página electrónica oficial del Instituto.
+
+D.O.F. 13 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del veintidós de septiembre del año dos mil veinte, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintidós de septiembre del año dos mil veinte, estarán disponibles en los siguientes vínculos electrónicos: https://www.ifdp.cjf.gob.mx/resources/documentos/2020/acuerdoModificacionesJD_22092020.pdf y www.dof.gob.mx/2020/CJF/ModBasesGenerales_22sep20.pdf
+
+## TRANSITORIO
+
+ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintidós de septiembre del año dos mil veinte, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
