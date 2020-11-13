@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2020-01-17"
+last_updated: "2020-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -1397,15 +1399,21 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
-Artículo Tercero. La prohibición establecida en la fracción XIV, del artículo 44, entrará en vigor en un plazo de 365 días naturales, contados a partir de la publicación de la presente Ley, en tanto, tendrán que ser atendidas las disposiciones comprendidas a la gradualidad.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
 
-Artículo Cuarto. Dentro de un periodo de 365 días naturales a partir de la publicación de la presente Ley, los Municipios, atendiendo sus medidas presupuestales, instrumentarán los programas en materia de sustitución de plásticos de un solo uso; en dichos programas se señalarán la gradualidad y transición con la que todos los establecimientos o unidades económicas deberán llevarlo a cabo.
+Artículo Tercero. La prohibición establecida en la fracción XIV del artículo 44, entrará en vigor a partir del 01 de abril de 2021, en tanto, tendrán que ser atendidas las disposiciones comprendidas a la gradualidad
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+Artículo Cuarto. Dentro del periodo de la entrada en vigor de la presente Ley y hasta el 31 de marzo de 2021, los municipios, atendiendo sus medidas presupuestales, instrumentarán los programas en materia de sustitución de plásticos de un solo uso; en dichos programas se señalarán la gradualidad y transición con la que todos los establecimientos o unidades económicas deberán llevarlo a cabo.
 
 Se entiende como unidad económica a aquella entidad productora de bienes y/o servicios, sea su situación legal o fiscal de personas físicas o morales.
 
-Se exceptúan de lo anterior, únicamente en cuanto ve a la implementación de la gradualidad, a todos aquellos Municipios que ya contemplen y apliquen la prohibición de proporcionar a los consumidores cualquier tipo bolsa de plástico desechable para acarreo o cualquier otra medida similar, sin dejar de lado todas las consideraciones de la presente Ley.
+Se exceptúan de lo anterior, únicamente en cuanto ve a la implementación de la gradualidad, a todos aquellos municipios que ya contemplen y apliquen la prohibición de proporcionar a los consumidores cualquier tipo bolsa de plástico desechable para acarreo o cualquier otra medida similar, sin dejar de lado todas las consideraciones de la presente Ley
 
-Artículo Quinto. La Secretaría de Desarrollo Sustentable contará con un periodo de 365 días naturales a partir de la entrada en vigor de la presente Ley para integrar e instrumentar los Lineamientos para la sustitución y abatimiento de plásticos y unicel en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+Artículo Quinto. La Secretaría de Desarrollo Sustentable contará hasta el 31 de marzo de 2021, para integrar e instrumentar los Lineamientos para la sustitución y abatimiento de plásticos y unicel en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
 
 P.O. 17 DE ENERO DE 2020.
 
@@ -1416,3 +1424,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley, los Municipios del Estado, dentro del ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+P.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
