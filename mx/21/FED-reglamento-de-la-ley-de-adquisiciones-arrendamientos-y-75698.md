@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2010-07-28"
+last_updated: "2020-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -1563,9 +1563,11 @@ Para las cantidades o conceptos adicionales se reconocerá, en su caso, el ajust
 
 Las modificaciones en monto, plazo o vigencia a los contratos conllevarán el respectivo ajuste a la garantía de cumplimiento cuando dicho incremento no se encuentre cubierto por la garantía originalmente otorgada, para lo cual deberá estipularse en el convenio modificatorio respectivo el plazo para entregar la ampliación de garantía, el cual no deberá exceder de diez días naturales siguientes a la firma de dicho convenio, así como la fecha de entrega de los bienes o de la prestación del servicio para las cantidades adicionales. Tratándose de fianza, el ajuste correspondiente se realizará conforme a lo dispuesto por la fracción II y el último párrafo del artículo 103 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 92.
 
-Las modificaciones por ampliación de la vigencia de contratos de arrendamiento de bienes o de prestación de servicios que requieran la continuidad una vez concluido el ejercicio fiscal en el que originalmente terminó su vigencia no necesitarán la autorización de la Secretaría, siempre y cuando se trate de contratos cuya ampliación de vigencia no exceda el primer trimestre del ejercicio fiscal siguiente y resulte indispensable para no interrumpir la operación regular de las dependencias y entidades, quedando sujetos el ejercicio y pago de dichas contrataciones a la disponibilidad presupuestaria del ejercicio fiscal siguiente, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos. El precio de los arrendamientos o servicios sujetos a la ampliación será igual al pactado originalmente.
+Las modificaciones, por ampliación de vigencia, de contratos de arrendamiento de bienes, de prestación de servicios, o de adquisición de bienes de insumos para la salud, que requieran de continuidad una vez concluido el ejercicio fiscal en el que terminaría su vigencia original, no necesitarán la autorización de la Secretaría, siempre y cuando se trate de contratos cuya ampliación de vigencia no exceda el primer trimestre del ejercicio fiscal siguiente, y el arrendamiento de bienes o prestación de servicios resulten indispensables para no interrumpir la operación regular de las dependencias y entidades, o en su caso, los insumos para la salud (sic) sean necesarios para garantizar la misma. El ejercicio y pago de dichas contrataciones, quedarán sujetos a la disponibilidad presupuestaria del ejercicio fiscal siguiente, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos. El precio de los bienes, arrendamientos o servicios sujetos a la ampliación, será igual al pactado originalmente.
 
 En el caso de contratos de prestación de servicios, las dependencias y entidades, en lugar de iniciar la rescisión respectiva del contrato, podrán efectuar modificaciones al mismo, para ampliar su vigencia, aún cuando se cambien las condiciones establecidas originalmente en el contrato, observando lo previsto en el último párrafo del artículo 52 de la Ley, con el fin de que se concluya la prestación del servicio pactado, por resultar más conveniente para el Estado que la rescisión del contrato, lo cual se deberá acreditar mediante las constancias correspondientes, las cuales se integrarán al expediente respectivo. Lo anterior, sin perjuicio de la aplicación de las penas convencionales por atraso que, en su caso, resulten procedentes.
 
@@ -1986,3 +1988,11 @@ OCTAVO.- Las dependencias y entidades contarán con un plazo de treinta días na
 Los comités de adquisiciones, arrendamientos y servicios de las dependencias y entidades deberán adecuar sus manuales de integración y funcionamiento a lo dispuesto en el presente Reglamento, en un plazo que no deberá exceder de sesenta días naturales contados a partir de su entrada en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 92 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
