@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-rehabilitacion-8644
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-03-02"
-last_updated: "2016-03-23"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-03-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 2 de marzo de 2012.
 
@@ -217,9 +217,11 @@ IV.- COMITÉS Y COMISIONES:
 
 El Instituto contará con los demás comités y comisiones necesarios al desempeño de sus atribuciones y con un Organo Interno de Control; éste último se regirá conforme a lo dispuesto en el artículo 40 de este Estatuto.
 
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 5.
 
-El Instituto para su desarrollo y operación, conducirá sus actividades en forma programada y de conformidad con la Ley Federal de las Entidades Paraestatales, la Ley de Planeación, la Ley de Presupuesto, Contabilidad y Gasto Público Federal, las políticas, estrategias y prioridades del Plan Nacional del Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de coordinadora del Sector y de su respectivo programa institucional.
+El Instituto para su desarrollo y operación, conducirá sus actividades en forma programada y de conformidad con la Ley Federal de las Entidades Paraestatales, la Ley Federal de Austeridad Republicana, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Planeación, las políticas, estrategias y prioridades del Plan Nacional del Desarrollo, así como con las disposiciones que emita la Secretaría de Salud en su carácter de coordinadora del Sector y de su respectivo programa institucional.
 
 ### CAPITULO II. DE LA JUNTA DE GOBIERNO
 
@@ -768,3 +770,15 @@ El Director General del Instituto Nacional de Rehabilitación “Luis Guillermo 
 ###### ARTÍCULO TERCERO.
 
 Con fundamento en el artículo 33, fracción XI del Estatuto del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de los cambios de denominación aprobados en la presente reforma.
+
+D.O.F. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN, LUIS GUILLERMO IBARRA IBARRA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma al Estatuto Orgánico del Instituto Nacional de Rehabilitación, Luis Guillermo Ibarra Ibarra, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Director General del Instituto Nacional de Rehabilitación, Luis Guillermo Ibarra Ibarra, por conducto del titular de la Subdirección de Asuntos Jurídicos deberá inscribir la presente modificación en el Registro Público de Organismos Descentralizados en los términos de lo establecido en la Ley Federal de las Entidades Paraestatales.
