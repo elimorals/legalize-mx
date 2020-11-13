@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-09-15"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1777,9 +1777,9 @@ A quien por medio de la violencia física o moral tenga cópula con una persona,
 
 También se considera que comete el delito de violación quien, por medio de la fuerza física o moral, introduzca por vía vaginal o anal cualquier objeto o parte del cuerpo distinto al pene, sin importar el sexo de la víctima.
 
-> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2020)</small>
 
-Este delito se configura también cuando entre el activo y el pasivo de la violación existiere o haya existido un vínculo matrimonial o de concubinato.
+Este delito se configura también cuando entre el activo y el pasivo de la violación existiere o haya existido un vínculo matrimonial, de concubinato o una relación de pareja o de hecho.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -5285,15 +5285,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA LA FRACCIÓN XII DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE VIVIENDA PARA LAS PERSONAS TRABAJADORAS”.]
+G.O. 13 DE NOVIEMBRE DE 2020.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 602 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 184 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales para realizar las adecuaciones que resulten necesarias a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- Con el objeto de reivindicar la orientación social del Instituto, en un periodo no mayor a ciento ochenta días naturales deberá implementarse un programa de eficiencia operativa que permita hacer una reducción de costos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-
-D.O.F. 2 DE DICIEMBRE DE 2024.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3o., 4o. Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PROTECCIÓN Y CUIDADO ANIMAL".]
 
