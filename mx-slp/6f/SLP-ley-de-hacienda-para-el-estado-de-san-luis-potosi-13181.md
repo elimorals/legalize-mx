@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2020-07-04"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -851,29 +851,17 @@ XVIII. Por Divorcio vía administrativa se pagará 37.00.
 
 La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 39.
 
-Por los servicios de publicaciones en el Periódico Oficial, que presta el Gobierno del Estado, se pagará el derecho conforme a las siguientes cuotas, establecidas en UMA vigente:
+Por los servicios de publicaciones electrónicas en el Periódico Oficial del Estado “Plan de San Luis”, se pagará el derecho de inserción conforme a las siguientes cuotas, establecidas en UMA vigente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+I. En el caso de textos, por carácter 0.003, y
 
-I. Por línea 0.19;
+II. En el caso de Balances, por plana 6.00.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Por plana 6.00;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-III. Por media plana 3.41; y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-IV. Por cuarto de plana 2.31.
-
-No pagarán el derecho de publicaciones en el Periódico Oficial las ordenadas por las dependencias del Gobierno del Estado, los Municipios, el D.I.F. Estatal y las relativas a asuntos que se tramiten por las Defensorías de Oficio de los ramos civil, familiar y penal.
+No pagarán el derecho de inserción la publicación de, leyes, reglamentos, decretos, acuerdos, resoluciones, fe de erratas, convenios, contratos, circulares, convocatorias, y cualquier otra disposición de observancia o interés general, las relativas a asuntos que se tramiten por conducto de la Defensoría Pública, y las que por disposición legal se establezca alguna exención.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2845,25 +2833,17 @@ Tratándose de los productos provenientes de las fracciones II, IV, VI, VII y VI
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los Contratos o Concesiones respectivas o en las Escrituras Constitutivas o Decretos que den nacimiento a los establecimientos o empresas del Estado y, en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 120.
 
-El Periódico Oficial y otras publicaciones y ediciones se venderán conforme a la siguiente tarifa expresada en UMA vigente:
+La suscripción al Periódico Oficial del Estado “Plan de San Luis”, estará a la siguiente tarifa expresada en UMA vigente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+I. Suscripción electrónica al Periódico Oficial por seis meses, 11.40, y
 
-I. Cada número actual, 0.30;
+II. Suscripción electrónica al Periódico Oficial por un año, 20.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-II. Cada número atrasado, 0.60;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-III. Suscripción por seis meses, 11.40, y
-
-IV. Otras publicaciones y ediciones, con base en su costo, a criterio de la Secretaría de Finanzas.
+Los poderes, Legislativo; y Judicial del Estado; las dependencias, y entidades del Poder Ejecutivo del Estado; los organismos constitucionales autónomos estatales; los ayuntamientos, y sus entidades; y la Federación, estarán exentos del pago a que se refieren las fracciones I, y II, de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -3402,3 +3382,11 @@ P.O. 4 DE JULIO DE 2020.
 PRIMERO. Este Decreto será vigente a partir del uno de enero de 2021, previa su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0800.- SE EXPIDE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA (SIC) LOS ARTÍCULOS 39 Y 120, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
