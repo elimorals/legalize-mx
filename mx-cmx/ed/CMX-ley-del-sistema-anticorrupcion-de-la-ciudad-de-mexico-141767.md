@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-anticorrupcion-de-la-ciudad-de-mexico-141767"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-25"
-last_updated: "2020-02-25"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141767&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-24"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el No. 290 Bis de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -836,11 +836,23 @@ En caso de que el Comité Coordinador considere que las medidas de atención a l
 
 ### CAPÍTULO ÚNICO. De la designación de las personas titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 58.
 
-Las personas titulares de los Órganos de Control Interno de los Organismos Autónomos, de acuerdo al artículo 46 de la Constitución Política de la Ciudad de México, serán designadas por el Congreso de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción y, la Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México mediante convocatoria pública abierta, una persona titular por cada Organismo Autónomo.
+Las personas titulares de los Órganos de Control Interno de los Organismos Autónomos, de acuerdo al artículo 46 de la Constitución Política de la Ciudad de México, serán designadas por el Congreso de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción y, la Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México mediante convocatoria pública abierta, una persona titular por cada Organismo Autónomo, con excepción del Tribunal Electoral de la Ciudad de México.
 
-El Comité de Participación Ciudadana, mediante convocatoria pública abierta, elegirá una terna de personas para aspirar a la titularidad del Órgano de Control Interno del Tribunal Electoral de la Ciudad de México de entre las cuales, el Pleno del propio Tribunal la nombrará.
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+El Comité de Participación Ciudadana, mediante convocatoria pública abierta, elegirá a una terna de personas candidatas a la titularidad del Órgano de Control Interno del Tribunal Electoral de la Ciudad de México de entre las cuales, el Pleno del propio Tribunal, por mayoría, llevará a cabo el nombramiento del titular dentro del improrrogable plazo de 30 días naturales.
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+Si el Pleno del Tribunal no resolviere dentro del plazo establecido, ocupará el cargo de titular la persona que, dentro de dicha terna, designe el Comité de Participación Ciudadana.
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que el Pleno rechace la totalidad de la terna propuesta, el Comité de Participación Ciudadana presentará otra terna que estará sujeta a un plazo de aprobación de 30 días naturales. Si la terna fuera rechazada nuevamente, ocupará el cargo de titular la persona que dentro de dicha terna designe el Comité de Participación Ciudadana.
 
 Las Comisiones de Transparencia y Combate a la Corrupción y Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México, presentarán al Pleno del Congreso de la Ciudad de México, la propuesta de personas aspirantes a titular de cada uno de los Órganos de Control Interno por cada Organismo Autónomo, dichos nombramientos deberán ser aprobados por las dos terceras partes de las diputadas y los diputados presentes en la sesión del Pleno Congreso de la Ciudad de México.
 
@@ -899,3 +911,17 @@ DÉCIMO SEGUNDO.- Remítase el presente Decreto a la Jefatura de Gobierno de la 
 Palacio Legislativo del Congreso de la Ciudad de México, a los veinte días del mes de febrero del año dos mil veinte. POR LA MESA DIRECTIVA.- DIPUTADA LEONOR GOMEZ OTEGUI, VICEPRESIDENTA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Dado en la Residencia Oficial de la Jefa de Gobierno de la Ciudad de México, a los veinticuatro días del mes de febrero del año dos mil veinte .- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 58 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
