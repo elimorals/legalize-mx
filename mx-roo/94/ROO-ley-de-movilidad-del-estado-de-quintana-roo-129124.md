@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2019-08-09"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -252,6 +252,14 @@ LXX. Vehículo: Todo medio autopropulsado que se usa para transportar personas o
 LXXI. Vía pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano; y en general todo terreno del dominio público y de uso común que se encuentre o ubique dentro de los límites del Estado de Quintana Roo; y
 
 LXXII. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana del Estado de Quintana Roo, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+LXXIII. Operador de Taxi. Persona que conduce manualmente los vehículos automotores destinados al servicio de taxi;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+LXXIV. Registro Estatal de Operadores de Taxi. Padrón elaborado por el Instituto con los datos de los operadores de taxi en el Estado, por municipio y antigüedad.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -548,6 +556,10 @@ XXXIII. Otorgar permisos temporales para la prestación del servicio de transpor
 En ningún caso los permisos temporales se otorgarán de manera continuada a una misma persona, y
 
 XXXIV. Las demás que establezcan la presente Ley y la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+XXXV. Integrar el Registro Estatal de Operadores de Taxi.
 
 ###### Artículo 26.
 
@@ -1517,6 +1529,12 @@ V. Que la prestación de este Servicio de Transporte no genere una competencia r
 
 VI. Los establecidos por el Instituto y en el Reglamento.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 107 Bis.
+
+Ante la emisión de nuevas concesiones o las disponibles en el Instituto, los operadores registrados, en el Registro Estatal de Operadores de Taxi conforme a las reglas que al efecto emita el propio Instituto, tendrán derecho de preferencia para ser titulares de una concesión, respetando en todo momento la antigüedad de los operadores en el municipio de que se trate.
+
 ###### Artículo 108.
 
 Ninguna concesión se otorgará si con ello se establece una competencia ruinosa o ésta va en detrimento de los intereses del público usuario, o se cause perjuicio al interés público.
@@ -1573,11 +1591,17 @@ Los derechos y obligaciones derivados de la concesión para la prestación del S
 
 Las concesiones otorgadas a personas morales, solo serán susceptibles de cesión o transmisión a las personas físicas que sean integrantes de la persona moral.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 113.
 
-La persona física titular de una concesión, tendrá derecho a nombrar hasta tres beneficiarios, para que en caso de incapacidad física o mental, puedan sustituirlo en el orden de prelación señalado por el concesionario, en los derechos y obligaciones derivados de la concesión, previa solicitud por escrito, en los términos establecidos por el Reglamento.
+La persona física titular de una concesión tendrá derecho a nombrar hasta tres beneficiarios, para que, en caso de incapacidad física o mental, declarada judicialmente o clínicamente por una instancia del sector público; ausencia declarada judicialmente y/o muerte del titular de la concesión puedan sustituirlo en riguroso orden de prelación señalado por el concesionario, en el entendido de que solo en ausencia definitiva del primero se aplicará dicho orden en los derechos y obligaciones derivados de la concesión, a fin de que el Instituto proceda en cualquiera de dichos supuestos a designar al beneficiario como titular de la concesión.
+
+El titular de la concesión ante notario público designará a los beneficiarios que hace mención el párrafo anterior y notificará al Instituto para los efectos legales señalados en este artículo.
+
+Para hacer valer su derecho el beneficiario deberá presentar la solicitud correspondiente ante el Instituto, en un plazo que no deberá exceder de ciento veinte días hábiles, a partir de la fecha en que se declare la incapacidad física o mental, declarada clínicamente por una instancia del sector público o judicialmente, ausencia declarada judicialmente y/o muerte del titular de la concesión que dé origen a esta transmisión de derechos.
+
+Cuando se haya iniciado un procedimiento judicial de declaración de ausencia y/o incapacidad, el término de ciento veinte días empezará a correr después de la emisión de la sentencia que haya causado ejecutoria.
 
 ###### Artículo 114.
 
@@ -1693,9 +1717,9 @@ IV. La desaparición del objeto de la concesión;
 
 V. La quiebra, liquidación o disolución, en caso de personas morales;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
 
-VI. La muerte del titular de la concesión, salvo las excepciones previstas en la presente ley o su reglamento;
+VI. La muerte del titular de la concesión, salvo que haya nombrado a sus beneficiarios de acuerdo con el artículo 113 de la presente ley.
 
 VII. Declaratoria de rescate;
 
@@ -3448,3 +3472,13 @@ P.O. 9 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 347 POR EL QUE SE REFORMAN LA FRACCIÓN XIII DEL 117, LA FRACCIÓN VI DEL ARTÍCULO 120 Y EL PÁRRAFO SEGUNDO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 204, TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 047 POR EL QUE SE REFORMAN EL ARTÍCULO 113 Y LA FRACCIÓN VI DEL ARTÍCULO 120 Y SE ADICIONAN LAS FRACCIONES LXXIII Y LXXIV AL ARTÍCULO 5, UNA FRACCIÓN XXXV AL ARTÍCULO 25 Y UN ARTÍCULO 107 BIS, TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se otorga un plazo de seis meses al Instituto, para conformar el Registro Estatal de Operadores de Taxi.
+
+En el mismo plazo, los concesionarios deberán señalar a sus beneficiarios de acuerdo a lo establecido por el artículo 113 de la presente ley.
