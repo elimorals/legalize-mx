@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-periodico-oficial-del-estado-de-san-luis-potosi-87565"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-10"
-last_updated: "2020-08-20"
+last_updated: "2020-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 13 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de enero de 2012.
 
@@ -372,3 +374,15 @@ P.O. 20 DE AGOSTO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0800.- SE EXPIDE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 39 Y 120, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley del Periódico Oficial del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, en el Decreto Legislativo número 901, el diez de enero del dos mil doce.
+
+TERCERO. El Poder Ejecutivo del Estado deberá emitir el Reglamento de la Ley que con este Decreto se expide, dentro del término de sesenta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+CUARTO. La Unidad de Sistemas e Informática del Poder Ejecutivo del Estado de San Luis Potosí, en un término no mayor a sesenta días hábiles, en estricto apego a la normatividad en la materia, emitirá los criterios técnicos que deban ser observados por quien opte efectuar en forma digital solicitudes de publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
