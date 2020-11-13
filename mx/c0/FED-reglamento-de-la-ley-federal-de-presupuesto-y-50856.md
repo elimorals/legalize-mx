@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2020-07-31"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -2993,9 +2993,9 @@ II. La Secretaría emitirá la resolución a las solicitudes presentadas en los 
 
 Transcurrido el plazo anterior sin que la Secretaría emita comunicación alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia o entidad correspondiente dentro de un plazo de 5 días hábiles.
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
 
-Las modificaciones en monto o vigencia de contratos celebrados bajo el ámbito de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, que requieran la continuidad una vez concluido un ejercicio fiscal, no necesitarán la autorización de la Secretaría, siempre y cuando se trate de arrendamiento de bienes o servicios cuya vigencia de contratación no exceda el primer trimestre del ejercicio fiscal siguiente y resulte indispensable para no interrumpir la operación regular de la dependencia o entidad, quedando sujetos el ejercicio y pago de dichas contrataciones a la disponibilidad presupuestaria del ejercicio fiscal siguiente.
+Las modificaciones en monto o vigencia de contratos celebrados bajo el ámbito de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público por requerir de continuidad una vez concluido un ejercicio fiscal, no necesitarán la autorización de la Secretaría, siempre y cuando se trate de arrendamiento de bienes, prestación de servicios, o de adquisición de bienes de insumos para la salud; la ampliación de vigencia no exceda el primer trimestre del ejercicio fiscal siguiente, y el arrendamiento o prestación resulte indispensable para no interrumpir la operación regular de la dependencia o entidad, o en su caso, los insumos para la salud sean necesarios para garantizar la misma. El ejercicio y pago de dichas contrataciones, quedarán sujetos a la disponibilidad presupuestaria del ejercicio fiscal siguiente.
 
 > <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -5030,3 +5030,9 @@ D.O.F. 31 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Hacienda y Crédito Público contará con un plazo de treinta días hábiles contados a partir del día siguiente al de la publicación de este Decreto en el Diario Oficial de la Federación, para modificar y publicar, en términos del artículo 19, fracción IV, tercer párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las reglas de operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas de conformidad con lo establecido en el presente Decreto.
+
+D.O.F. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146 DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
