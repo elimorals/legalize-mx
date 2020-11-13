@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2020-06-25"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -603,11 +603,21 @@ VI. El desarrollo de estrategias de autoempleo, de microempresas y empresas fami
 
 VII. La coordinación con las autoridades educativas estatales, y el establecimiento de carreras técnicas adaptadas a las personas con discapacidad.
 
-Urbanismo y vivienda
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+Accesibilidad, urbanismo y vivienda
 
 ###### Artículo 31.
 
-Las políticas y acciones en materia urbanística y vivienda, serán aquéllas contenidas en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.
+Las políticas y acciones en materia urbanística y vivienda garantizarán condiciones obligatorias de accesibilidad en instalaciones públicas o de acceso al público, que permitan el libre desplazamiento de las personas con discapacidad en condiciones dignas y seguras, y serán aquéllas contenidas en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+Aspectos mínimos de accesibilidad
+
+###### Artículo 31 Bis.
+
+Para asegurar la accesibilidad en la infraestructura básica, equipamiento o entorno urbano en los espacios públicos y privados al uso público, se atenderán los principios del diseño universal y se incluirán ajustes razonables como el del escalón universal.
 
 Comunicaciones y transporte
 
@@ -617,13 +627,17 @@ Las estrategias que se deberán considerar en el Programa de Gobierno en materia
 
 I. Aquéllas que permitan el acceso, el uso y el libre desplazamiento de las personas con discapacidad a los servicios de transporte público, en las que se incluyan las medidas de adecuación a los vehículos destinados a la prestación de este servicio público;
 
-II. Las que aseguren que en las unidades destinadas a la prestación del servicio público de transporte, se reserven asientos y espacios preferenciales para personas con discapacidad;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+II. Las que aseguren que, en las instalaciones y unidades destinadas a la prestación del servicio público de transporte, se reserven asientos y espacios preferenciales para personas con discapacidad, además del escalón universal;
 
 III. Aquéllas que incorporen las disposiciones contenidas en las fracciones anteriores, como obligaciones a cargo de los concesionarios dentro de los Títulos - Concesión que se otorguen para la prestación del servicio público de transporte;
 
 IV. La realización de campañas de educación vial y cortesía urbana, encaminadas a generar hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público; y
 
-V. Las que permitan convenir con las empresas de telefonía pública para que realicen las adecuaciones necesarias a sus aparatos en la vía pública, a efecto de colocarlos a una altura que sea de fácil acceso para las personas que se desplacen en sillas con ruedas.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+
+V. Las que permitan convenir con las empresas de telefonía pública para que realicen las adecuaciones necesarias a sus aparatos en la vía pública, a efecto de colocarlos a una altura que sea de fácil acceso para las personas que se desplacen en sillas con ruedas y aquellas que requieran el uso de escalón universal.
 
 Deporte, recreación y cultura
 
@@ -826,3 +840,15 @@ P.O. 25 DE JUNIO DE 2020.
 Inicio de la vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 236 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 31 Y 32 -EN SUS FRACCIONES II Y V-; Y SE ADICIONA EL ARTÍCULO 31 BIS, TODOS DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos, programas y de acuerdo a la suficiencia presupuestal para el cumplimiento del presente decreto, en un plazo de ciento ochenta días contados a partir de que este inicie su vigencia.
