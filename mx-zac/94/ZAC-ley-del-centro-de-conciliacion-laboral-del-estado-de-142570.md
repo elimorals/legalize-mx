@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-centro-de-conciliacion-laboral-del-estado-de-142570"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-28"
-last_updated: "2020-03-28"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de marzo de 2020.
 
@@ -327,9 +327,11 @@ I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos;
 
 II. Poseer el día de su designación, título profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello;
 
-III. No haber sido sentenciado por delito doloso;
+III. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2020)
 
-IV. No haber sido inhabilitado para ejercer el servicio público por autoridad administrativa competente, y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2020)</small>
+
+IV. No encontrarse inhabilitado o suspendido para desempeñar un empleo, cargo o comisión en el servicio público al momento de su designación, y
 
 V. No encontrarse en alguno de los impedimentos previstos en el artículo 17 de la Ley de Entidades Púbicas Paraestatales.
 
@@ -389,7 +391,9 @@ III. Contar al día de su designación, con título profesional, por lo menos de
 
 IV. Contar con experiencia profesional, de cuando menos, tres años, en el control, manejo, fiscalización de recursos o responsabilidades administrativas;
 
-V. Gozar de buena reputación, no haber sido sancionado por responsabilidad administrativa mediante una resolución firme o no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2020)</small>
+
+V. Gozar de buena reputación, no encontrarse inhabilitado o suspendido para desempeñar un empleo, cargo o comisión en el servicio público al momento de su designación y no haber sido condenado por los delitos de robo, fraude, falsificación, abuso de confianza u otro que afecte su buena fama en el concepto público, cualquiera que haya sido la pena, y
 
 VI. No ser o haber sido dirigente de partido político o candidato a puesto de elección popular, ni ministro de algún culto religioso, en los cinco años anteriores a su designación.
 
@@ -455,9 +459,15 @@ Los bienes que formen parte del patrimonio del Centro, se considerarán de domin
 
 El presente Decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de justicia laboral, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 1 de octubre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 18 de noviembre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2020)</small>
+
+Las atribuciones a las que se refieren las fracciones II y IV del artículo 8, así como las dispuestas en el artículo 9 de esta Ley, relativas al servicio de conciliación en los conflictos de carácter laboral burocrático y a los procedimientos administrativos derivados de la Ley del Servicio Civil del Estado, serán aplicables hasta que entre en funciones el Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas, de conformidad con lo que señala la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
 ###### ARTÍCULO TERCERO.
 
@@ -482,3 +492,11 @@ Dado en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los veinticinco días del mes de marzo del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 440.- SE DEROGA LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22 Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS".]
+
+Articulo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
