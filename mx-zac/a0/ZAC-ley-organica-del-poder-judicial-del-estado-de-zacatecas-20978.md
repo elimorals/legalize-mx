@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2020-03-28"
+last_updated: "2020-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -2231,9 +2231,13 @@ P.O. 28 DE MARZO DE 2020.
 
 El presente Decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de justicia laboral, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 1 de octubre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 18 de noviembre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+
+Las atribuciones a las que se refieren las fracciones II y IV del artículo 8, así como las dispuestas en el artículo 9 de esta Ley, relativas al servicio de conciliación en los conflictos de carácter laboral burocrático y a los procedimientos administrativos derivados de la Ley del Servicio Civil del Estado, serán aplicables hasta que entre en funciones el Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas, de conformidad con lo que señala la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
 ###### ARTÍCULO TERCERO.
 
@@ -2250,3 +2254,9 @@ El Poder Ejecutivo Estatal y la Legislatura del Estado de Zacatecas deberán rea
 ###### ARTÍCULO SEXTO.
 
 En un término de 180 días a partir de la publicación del Presente Decreto, los Entes Públicos relacionados con su aplicación deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 440.- SE DEROGA LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22 Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
