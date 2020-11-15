@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2019-10-15"
+last_updated: "2020-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -147,13 +147,17 @@ XXIII. Seguridad Alimentaria: Acceso físico y económico a suficientes alimento
 
 XXIV. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XXV. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero, y
+XXV. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XXVI. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+XXVI. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XXVII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes.
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
@@ -335,9 +339,17 @@ V. Difundir permanentemente la aplicación de los planes o programas de desarrol
 
 VI. En el ámbito de su competencia, establecer programas y estrategias para la reducción de vehículos automotores, así como programas de verificación vehicular;
 
-VII. Realizar consultas publicas atendiendo a los pueblos indígenas, a las mujeres, a los jóvenes y a la sociedad en general, para formular, aprobar y administrar los programas municipales, y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+VII. Realizar consultas públicas atendiendo a los pueblos indígenas, a las mujeres, a los jóvenes y a la sociedad en general, para formular, aprobar y administrar los programas municipales,
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Procurar la reforestación, arborización y la promoción entre los particulares de campañas para dichos fines y Cultura Ambiental, en las áreas urbanas de su competencia entendiéndose estas como lo son banquetas, camellones o plazas que carezcan de árboles suficientes para mantener el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+IX. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 Para el caso de municipios conurbados estos deberán coordinar de manera obligatoria las estrategias de manera puntual para el correcto cumplimiento de los objetivos planteados en las mismas.
 
@@ -636,3 +648,19 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
+
+P.O. 15 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 362.- SE REFORMA Y ADICIONA LA FRACCIÓN LXVI, LXVII Y LXVIII AL ARTÍCULO 2, FRACCIÓN XLI, XLII, XLIII Y XLIV DEL ARTÍCULO 5 Y LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 6 TODOS DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, a través de las autoridades competentes, realizara las adecuaciones necesarias, a fin de ejecutar el presente decreto a partir del ciclo escolar 2020-2021.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
