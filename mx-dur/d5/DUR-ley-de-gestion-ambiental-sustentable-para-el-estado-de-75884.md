@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2019-11-17"
+last_updated: "2020-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -337,13 +337,17 @@ LXIV. Tratamiento de aguas residuales: Proceso a que se someten las aguas residu
 
 LXV. Utilidad pública: De interés o beneficio para el pueblo;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-LXVI. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
+LXVI. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-LXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+LXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+LXVIII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos arboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes.
 
 ###### ARTÍCULO 3.
 
@@ -461,11 +465,21 @@ XXXIX. Prevenir, controlar y abatir la contaminación por el uso de bolsas de pl
 
 XL. Verificar que las bolsas que se entreguen cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de éstos productos plásticos; promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables;
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XLI. Prohibir que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable; y
+XLI. Prohibir que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable;
 
-XLII. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XLII. Llevar un registro estatal de arbolado, con acceso al público y de las personas autorizadas para presentar algún servicio en materia de arbolado urbano;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XLIII. Procurar la reforestación, la creación de viveros, la arborización de los Centros de Educación y promover entre los particulares campañas para dichos fines y Cultura Ambiental, en las áreas urbanas de su competencia que carezcan de árboles suficientes para mantener el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XLIV. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
@@ -559,9 +573,17 @@ XVIII. La aplicación de los instrumentos de política ambiental previstos en la
 
 XIX. La participación en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que existan en el municipio o que se establezcan para tal efecto;
 
-XX. El diseño, la ejecución y evaluación del programa municipal de protección al ambiente; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XXI. Las demás que le señalen las Leyes Estatal y General de la materia y otras disposiciones legales aplicables.
+XX. El diseño, la ejecución y evaluación del programa municipal de protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Procurar la reforestación, arborización y la promoción entre los particulares de campañas para dicho fin, en las áreas urbanas de su competencia entendiéndose estas como lo son banquetas, camellones o plazas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XXII. Las demás que señalen las Leyes Estatal y General de la materia y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -2053,9 +2075,17 @@ IV. Generar emisiones de energía térmica, ruido, olores, radiaciones electroma
 
 V. Fabricar, almacenar, acumular, comercializar, transportar o disponer de sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
 
-VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas, sin la autorización correspondiente; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-VII. Comercializar sin la autorización correspondiente, especie de flora y fauna silvestre.
+VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas, sin la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+VII. Comercializar sin la autorización correspondiente, especie de flora y fauna silvestre; y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Ecocidio, conforme a lo dispuesto en el Código Penal vigente.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -2378,3 +2408,27 @@ TERCERO. La prohibición a la que aluden los artículos 108 Bis y 108 quater, su
 CUARTO. La tramitación y resolución de los asuntos que se encuentren en trámite en la Secretaría de Recursos Naturales y Medio Ambiente, se concluirán de conformidad con las disposiciones vigentes al momento del inicio de los procedimientos respectivos.
 
 QUINTO. Los Ayuntamientos deberán reformar sus disposiciones de carácter general, bandos y reglamentos, de conformidad con el presente Decreto en un plazo que no exceda los 60 días.
+
+P.O. 15 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 362.- SE REFORMA Y ADICIONA LA FRACCIÓN LXVI, LXVII Y LXVIII AL ARTÍCULO 2, FRACCIÓN XLI, XLII, XLIII Y XLIV DEL ARTÍCULO 5 Y LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 6 TODOS DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, a través de las autoridades competentes, realizara las adecuaciones necesarias, a fin de ejecutar el presente decreto a partir del ciclo escolar 2020-2021.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 363.- SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 146 DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
