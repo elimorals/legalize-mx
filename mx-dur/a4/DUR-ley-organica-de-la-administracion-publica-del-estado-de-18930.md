@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2020-04-05"
+last_updated: "2020-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1693,7 +1693,9 @@ III. Vigilar la observancia y aplicación dentro del ámbito estatal, de las dis
 
 IV. Diseñar, conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos en la entidad, así como ejercer facultades de coordinación de los organismos de justicia laboral;
 
-V. Atender las consultas sobre la interpretación de las normas laborales o sobre los contratos colectivos de trabajo, así como intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+V. Atender las consultas sobre la interpretación de las normas laborales o sobre los contratos colectivos de trabajo;
 
 VI. Proponer al titular del Ejecutivo los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y disposiciones de carácter general sobre asuntos de naturaleza laboral;
 
@@ -1705,15 +1707,17 @@ IX. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestr
 
 X. Diseñar y ejecutar, previa aprobación del Gobernador del Estado, el Plan Estatal de Empleo;
 
-XI. Organizar y operar el Servicio Estatal de Empleo;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XI. Organizar y operar el Servicio Nacional de Empleo Durango;
 
 XII. Promover y apoyar el incremento de la calidad y la productividad laboral;
 
 XIII. Promover y apoyar la organización social para el trabajo y el auto empleo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Coordinar y vigilar a la Juntas Locales de Conciliación y Arbitraje y a la Procuraduría Estatal de la Defensa del Trabajo.
+XIV. Integrar, coordinar y vigilar el funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
 
 XV. Participar en la integración y el funcionamiento de las comisiones y comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
 
@@ -1741,7 +1745,13 @@ XXVI. Llevar las estadísticas estatales correspondientes a la materia del traba
 
 XXVII. Promover la cultura y recreación entre los trabajadores duranguenses y sus familias; y.
 
-XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado o le delegue el titular del Poder Ejecutivo.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XXVIII. Coordinar la integración y el establecimiento del Centro de Conciliación Laboral del Estado de Durango; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+XXIX. Las demás que le señalen las leyes y reglamentos en la materia y las que le delegue el Gobernador.
 
 ###### ARTICULO 37.
 
@@ -2802,3 +2812,17 @@ SEXTO. Los asuntos que se encuentren en trámite, a la fecha de la extinción de
 SÉPTIMO. La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente decreto.
 
 OCTAVO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 397 QUE CONTIENE REFORMAS A LAS FRACCIONES V, XI, XIV, XVIII Y EL CONTENIDO DE LA ACTUAL XXVIII PASA A SER LA XXIX TODAS DEL ARTÍCULO 36 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO, EN MATERIA LABORAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Las Juntas Locales de Conciliación y Arbitraje mantendrán sus funciones hasta en tanto se termine el último expediente que se esté substanciando ante ellas, en base a lo establecido en los transitorios del decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+TERCERO. Las funciones de conciliación, registro de los contratos colectivos de trabajo y de las organizaciones sindicales, y su consecuente atención a los procesos administrativos derivados de estas materias, y que sean competencia Estatal, continuarán tramitándose ante la Junta Local de Conciliación y Arbitraje hasta en tanto entren en funciones el Centro de Conciliación Laboral.
+
+CUARTO. Las Juntas Locales de Conciliación y Arbitraje continuarán conociendo y atendiendo los conflictos en materia laboral que se encuentren en trámite hasta que se instituyan e inicien su funcionamiento el Centro de Conciliación Laboral y el Tribunal de Justicia Laboral.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente decreto.
