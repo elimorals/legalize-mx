@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2020-05-24"
+last_updated: "2020-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -61,9 +61,9 @@ III. El Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 IV. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-V. Los Juzgados de Primera Instancia y Auxiliares, los Jueces de Control, el Tribunales (sic) de Enjuiciamiento, los Juzgados de Ejecución y el Tribunal Laboral Burocrático;
+V. Los Juzgados de Primera Instancia y Auxiliares, los Jueces de Control, el Tribunal de Enjuiciamiento, los Juzgados de Ejecución, el Tribunal Laboral Burocrático y el Tribunal de Justicia Laboral;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -983,9 +983,9 @@ III. Librar excitativas de justicia a los juzgados municipales de su Distrito, y
 
 IV. De los delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-#### SECCIÓN SEXTA BIS. DEL TRIBUNAL LABORAL BUROCRÁTICO
+#### SECCIÓN SEXTA BIS. DEL TRIBUNAL LABORAL BUROCRÁTICO Y DEL TRIBUNAL DE JUSTICIA LABORAL
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -1022,6 +1022,18 @@ Artículo 55 D. El personal del Tribunal Laboral Burocrático se integrará, ade
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
 Artículo 55 E. Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 41 de la presente Ley, a excepción de la señalada en la fracción IX.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 55 F. El Tribunal de Justicia Laboral tendrá las competencias que señala el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como la Ley Federal del Trabajo, será uniinstancial y se integrará por un juez que será designado por el Consejo de la Judicatura, en términos de lo dispuesto en los artículos 121 de la Constitución Política del Estado y 35 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 55 G. El procedimiento lo sustanciará el juez con auxilio de sus secretarios de acuerdos y atendiendo los principios establecidos en la Ley Federal del Trabajo y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 55 H. El personal del Tribunal de Justicia Laboral se integrará, con el número de secretarios, actuarios, oficiales judiciales y demás personal que determine el Consejo de la Judicatura.
 
 #### SECCIÓN SÉPTIMA. DE LOS JUZGADOS MUNICIPALES
 
@@ -3650,3 +3662,15 @@ P.O. 24 DE MAYO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 421.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1; SE MODIFICA LA DENOMINACIÓN DE LA SECCIÓN SEXTA BIS DEL CAPÍTULO II DEL TÍTULO TERCERO Y SE ADICIONAN LOS ARTÍCULOS 55 F, 55 G Y 55 H, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Consejo de la Judicatura del Poder Judicial del Estado de Durango, será el responsable del proceso de selección de los funcionarios que habrán de integrar el Tribunal de Justicia Laboral, conforme a los procesos establecidos.
+
+TERCERO. El Tribunal de Justicia Laboral iniciaran (sic) sus operaciones de acuerdo a lo establecido en la Ley Federal del Trabajo, y a la par del centro de Conciliación del Estado de Durango.
+
+CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
