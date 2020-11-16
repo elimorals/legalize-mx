@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-la-policia-industrial-bancaria-del-96589"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-28"
-last_updated: "2013-10-28"
+last_updated: "2020-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE LA POLICIA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DE LA POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 28 de octubre de 2013.
 
 LOS INTEGRANTES DE LA JUNTA DE GOBIERNO, CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTÍCULOS 14 FRACCIÓN VIII DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO; Y 17 FRACCIÓN II DEL DECRETO DE CREACIÓN DEL ORGANISMO DESCENTRALIZADO POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO, Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, hemos tenido a bien expedir el siguiente:
 
@@ -706,3 +710,19 @@ COORDINADOR DE INVESTIGACIÓN DE LA AGENCIA DE SEGURIDAD E INVESTIGACIÓN DEL ES
 MTRA. YADIRA FERNÁNDEZ ORTIZ
 
 DIRECTORA GENERAL DE ADMINISTRACIÓN DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE HIDALGO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DE LA POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Policía Industrial Bancaria del Estado de Hidalgo publicado en el Periódico Oficial del Estado de fecha 28 de octubre de 2013.
+
+TERCERO. A partir de la entrada en vigor de este Estatuto, cada una de las unidades administrativas que integran el organismo deberá (sic) emitir sus manuales de organización y procedimientos en un plazo de 90 días hábiles.
+
+CUARTO. En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las unidades administrativas, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Estatuto.
+
+QUINTO. El presente Acuerdo deberá inscribirse en el Registro Público en (sic) términos que establece la Ley y su Reglamento.
