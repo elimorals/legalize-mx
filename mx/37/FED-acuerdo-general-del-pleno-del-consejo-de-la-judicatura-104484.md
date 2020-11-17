@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2019-12-10"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -73,7 +73,9 @@ II. La creación, estructura y funcionamiento de las unidades de notificadores c
 
 III. El contenido y registro de los libros de control que los juzgados de Distrito, tribunales Unitarios y Colegiados de Circuito, con excepción de los que formen parte de un Centro de Justicia Penal, están obligados a llevar oficialmente a manera de mecanismos de control de los asuntos de sus respectivas competencias, como auxiliares en su supervisión por parte de los propios titulares; para los efectos de la rendición de estadística y, finalmente, a fin de facilitar los procedimientos de las visitas de inspección que se lleven a cabo;
 
-IV. La integración y funcionamiento del Sistema Integral de Seguimiento de Expedientes, así como la integración y divulgación de la Información de Estadística Judicial y Georeferenciada que generen los órganos jurisdiccionales; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+IV. La integración y funcionamiento del Sistema Integral de Seguimiento de Expedientes y del Sistema Integral de Gestión de Expedientes, así como la integración y divulgación de la Información de Estadística Judicial y Georeferenciada que generen los órganos jurisdiccionales; y
 
 V. Los lineamientos para la atención de solicitudes para la publicación de edictos y otro tipo de publicaciones, con cargo al presupuesto de egresos del Poder Judicial de la Federación, que hagan los titulares de los órganos jurisdiccionales.
 
@@ -107,7 +109,13 @@ X. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
 
 XI. Libros de control: Los Libros de Gobierno que deberán llevar los órganos jurisdiccionales, con excepción de los que formen parte de un Centro de Justicia Penal, como mecanismo de control de los asuntos que conozcan;
 
-XII. Órganos Jurisdiccionales: Tribunales de Circuito y juzgados de Distrito;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XII. Órganos Jurisdiccionales: Tribunales de Circuito, juzgados de Distrito y Tribunales Laborales Federales;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XII. Bis. Tribunal Laboral Federal: órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
 
 XIII. Pleno: Pleno del Consejo;
 
@@ -117,7 +125,13 @@ XV. Requisitoria: Comunicación de la misma naturaleza que el despacho, pero que
 
 XVI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)
 
-XVII. SISE: Sistema Integral de Seguimiento de Expedientes; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XVII. SISE: Sistema Integral de Seguimiento de Expedientes;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XVII. BIS. SIGE: Sistema Integral de Gestión de Expedientes; y
 
 XVIII. Unidades Administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
@@ -125,9 +139,11 @@ XVIII. Unidades Administrativas: Las señaladas en el Acuerdo General del Pleno 
 
 ### CAPÍTULO PRIMERO. DE LAS JORNADAS DE TRABAJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-La jornada de trabajo de los servidores públicos adscritos a los órganos jurisdiccionales, será de lunes a viernes de las nueve a las quince horas y, de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del órgano jurisdiccional, de las quince a las dieciséis horas, con excepción de los juzgados de Distrito que se encuentren de turno, por el tiempo que dure la guardia respectiva, así como de los órganos jurisdiccionales de los Centros de Justicia Penal.
+La jornada de trabajo de los servidores públicos adscritos a los órganos jurisdiccionales, será de lunes a viernes de las nueve a las quince horas y, de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del órgano jurisdiccional, de las quince a las dieciséis horas, con excepción de los juzgados de Distrito que se encuentren de turno, por el tiempo que dure la guardia respectiva, así como de los órganos jurisdiccionales de los Centros de Justicia Penal Federal y de los tribunales laborales federales.
 
 En cuanto al tiempo de ingesta de alimentos, cada titular podrá modificarlo hasta por dos horas, respecto de servidores públicos que así lo soliciten, con la finalidad de facilitar el traslado a lugar diverso del centro de labores, con el correspondiente ajuste al horario de trabajo.
 
@@ -135,19 +151,29 @@ Cada titular de juzgado de Distrito, tribunal Unitario de Circuito, presidente d
 
 De manera excepcional, la jornada de trabajo podrá extenderse considerando en todo caso, las necesidades del servicio y las guardias, sin que ello implique exceder de un horario prudente y en ningún caso generar una práctica reiterada.
 
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de los tribunales laborales federales la jornada de trabajo será de lunes a viernes de las nueve a las diecinueve horas, con dos horas intermedias para la ingesta de alimentos, las cuales serán asignadas al personal por los titulares de dichos tribunales, procurando que en todo momento exista el personal necesario para estar presente en las salas de juicio. Dichos horarios no resultarán aplicables al personal de los tribunales laborales de asuntos colectivos, en los cuales se implementarán los esquemas de guardias que permitan el funcionamiento continuo las veinticuatro horas del día para atender los asuntos relacionados con procedimientos de huelga.
+
 > <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 4.
 
 En caso de que se registren jornadas de trabajo extraordinarias en los órganos jurisdiccionales y Centros de Justicia Penal Federal, los titulares de los primeros y los Administradores de los referidos Centros, deberán observar lo previsto en el Capítulo Octavo, del Título Primero, del Libro Segundo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-Dependiendo de las necesidades del servicio que presente cada órgano jurisdiccional y conforme a su prudente arbitrio, cada titular de juzgado de Distrito, tribunal Unitario de Circuito, presidente de tribunal Colegiado de Circuito y titular de ponencia de tribunal Colegiado de Circuito, podrá implementar por las tardes y cuando sea posible, el trabajo a distancia, en sus diversas modalidades, mediante el uso y acceso de tecnologías de la información, a través de las cuales los titulares referidos y el personal a su cargo establecerán y mantendrán la comunicación necesaria, que coadyuve en el trámite y resolución de los asuntos, de conformidad con la organización que al efecto determinen.
+Dependiendo de las necesidades del servicio que presente cada órgano jurisdiccional y conforme a su prudente arbitrio, cada titular de juzgado de Distrito, tribunal Unitario de Circuito, tribunal laboral federal, presidente de tribunal Colegiado de Circuito y titular de ponencia de tribunal Colegiado de Circuito, podrá implementar por las tardes y cuando sea posible, el trabajo a distancia, en sus diversas modalidades, mediante el uso y acceso de tecnologías de la información, a través de las cuales los titulares referidos y el personal a su cargo establecerán y mantendrán la comunicación necesaria, que coadyuve en el trámite y resolución de los asuntos, de conformidad con la organización que al efecto determinen.
 
 ###### Artículo 6.
 
 El horario de atención al público en los órganos jurisdiccionales, será de lunes a viernes de las nueve a las quince horas, conforme al cual, todos los integrantes de dichos órganos jurisdiccionales, incluidos los titulares, deberán permanecer en éstos, a efecto de realizar la debida prestación del servicio público de justicia.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de los tribunales laborales federales, el horario de atención al público será de las nueve a las diecinueve horas, con excepción de los tribunales laborales federales de asuntos colectivos que funcionarán las veinticuatro horas al día mediante el esquema de guardias para atender los procedimientos de huelga. Durante la jornada y el horario de labores del personal de ambos tribunales se establecerán esquemas escalonados que permitan mantener la atención al público y a la vez garantizar los periodos de ingesta de alimentos del personal, así como el resto de las actividades del órgano, conforme a la normativa aplicable del propio Consejo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
 
@@ -211,11 +237,15 @@ XIV. Aquellos en que los órganos jurisdiccionales competentes en materia de amp
 
 XV. Los demás que determine el Pleno.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Se exceptúa de esta disposición a los tribunales laborales federales de asuntos colectivos, que funcionarán las veinticuatro horas durante todos los días del año para atender los procedimientos de huelga.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
+En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, de los tribunales laborales federales, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
 
@@ -365,21 +395,17 @@ Con el fin de evitar poner en riesgo la integridad física de los servidores pú
 
 #### SECCIÓN SEGUNDA. AUXILIO A LOS ÓRGANOS JURISDICCIONALES EN LA RECEPCIÓN DE ESCRITOS DE TÉRMINO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
 Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los asuntos de término, relativos a todas las materias, que estén dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público esto es, de las ocho horas con treinta minutos a las nueve horas y de las quince a las veinticuatro horas del día del vencimiento del plazo para su presentación, ello, en su caso, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Tratándose de los tribunales laborales federales se aplicarán las disposiciones del horario de atención al público a que se refiere el artículo 6 del presente Acuerdo.
 
-Con el fin de facilitar la recepción de los asuntos de término señalados en dicho precepto, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
+Con el fin de facilitar la recepción de los asuntos de término, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
-
-La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Gestión Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
 
 El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
 
@@ -639,7 +665,9 @@ XIII. Los demás que determine el Pleno.
 
 La Comisión de Creación de Nuevos Órganos, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos o de los titulares de los órganos jurisdiccionales podrá determinar criterios específicos de relación.
 
-Dichos criterios deberán comunicarse a las oficinas de correspondencia común por conducto de la Dirección General de Estadística Judicial, y compilarse en un listado que se difundirá a través del portal de Intranet del Consejo.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Dichos criterios deberán comunicarse a las oficinas de correspondencia común o a las oficialías de partes, según proceda, por conducto de la Dirección General de Gestión Judicial, y compilarse en un listado que se difundirá a través del portal de Intranet del Consejo.
 
 > <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -654,6 +682,12 @@ Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro
 > <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
 
 En caso contrario, de no aceptar, devolverá el asunto al requirente, quien resolverá si insiste en no conocer del asunto por razón de turno, si no insiste, se limitará a comunicar su resolución al requerido. Si persiste en ello, sin suspender el trámite y únicamente con copia certificada de las constancias que acrediten lo argumentado; así como, la propuesta que se plantee, formulará consulta a la Comisión de Creación de Nuevos Órganos, la que resolverá de plano.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 46 Bis.
+
+En el caso de solicitudes para iniciar el procedimiento de ejecución de las sentencias emitidas por los tribunales laborales federales, así como de los convenios aprobados por el Centro Federal de Conciliación y Registro Laboral, el turno no será llevado a cabo por antecedentes y, consecuentemente, no se turnará al juez que en su caso emitió la resolución sino a cualquiera de manera aleatoria.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1029,11 +1063,25 @@ Las Comisiones de Creación de Nuevos Órganos y de Administración, en el ámbi
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN VIGÉSIMA. DISPOSICIONES ESPECÍFICAS PARA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN Y OFICIALÍAS DE PARTES DE LOS TRIBUNALES LABORALES FEDERALES
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 82 Bis.
+
+Las disposiciones contenidas en este capítulo resultan aplicables tanto para las oficinas de correspondencia común como para las oficialías de partes de los Tribunales Laborales Federales.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 82 Ter.
+
+El personal de las oficialías de partes de los tribunales laborales federales que conozcan de asuntos individuales, entregarán a la persona que presente su escrito inicial, entendido éste como la demanda, contestación o comparecencia de terceros, el cuestionario generado con la intención de conocer diversos aspectos personales de las partes para estar en posibilidad de implementar los ajustes razonables ante una eventual situación de vulnerabilidad, así como para generar los indicadores que permitirán medir el desempeño del sistema de justicia laboral.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE CAUSAS PENALES
+#### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
 
 ###### Artículo 83.
 
@@ -1083,27 +1131,31 @@ Corresponde a la Visitaduría Judicial inspeccionar, de manera integral, el func
 
 El Pleno o la Comisión de Administración podrán en cualquier momento ordenar la práctica de visitas extraordinarias a las unidades de notificadores, por parte de la Visitaduría Judicial.
 
-#### SECCIÓN TERCERA. LIBRO TRES DE ASUNTOS CIVILES Y ADMINISTRATIVOS
+#### SECCIÓN SEGUNDA. LIBRO DOS DE CAUSAS PENALES
 
 ###### Artículo 92.
 
 Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que de estimarlo conveniente podrá someter el asunto a la consideración del Pleno.
 
+#### SECCIÓN TERCERA. LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 #### SECCIÓN CUARTA. LIBRO CUATRO DE REGISTRO DE COMUNICACIONES OFICIALES ENVIADAS
 
 #### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
-
-### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y SUS CARACTERÍSTICAS
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
 Los coordinadores técnicos administrativos estarán adscritos a los órganos jurisdiccionales a que estén asignados, son personal de confianza y, por ende, de libre designación y remoción.
 
-Serán nombrados y removidos por el titular del órgano jurisdiccional al que esté adscrita la plaza.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Serán nombrados y removidos por el titular del órgano jurisdiccional al que esté adscrita la plaza. Tratándose de los tribunales laborales federales, dicha facultad se tomará por acuerdo unánime o mayoritario de las y los jueces adscritos al mismo.
 
 Las personas designadas para ocupar la plaza de Coordinador Técnico Administrativo, deberán cumplir previamente con los requisitos que establece el artículo 95 de este Acuerdo.
 
@@ -1149,9 +1201,9 @@ I. Brindará apoyo al órgano jurisdiccional en la operación y supervisión de 
 
 II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información;
+III. Atenderá las instrucciones que le encomiende el o los titulares del órgano jurisdiccional según corresponda que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -1167,7 +1219,9 @@ V. Cumplirá con las funciones establecidas en los manuales, lineamientos, direc
 
 Los titulares de los órganos jurisdiccionales serán los responsables de supervisar y evaluar que los coordinadores técnicos administrativos cumplan con las funciones encomendadas en los manuales, lineamientos, directrices e instrucciones generales y particulares y demás disposiciones aplicables.
 
-En caso de que el titular del órgano jurisdiccional detecte deficiencia en el desempeño del Coordinador Técnico Administrativo, lo conminará al cumplimiento de las funciones encomendadas, con independencia de las responsabilidades a que haya lugar.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que el o los titulares del órgano jurisdiccional detecten deficiencia en el desempeño del Coordinador Técnico Administrativo, lo conminarán al cumplimiento de las funciones encomendadas, con independencia de las responsabilidades a que haya lugar.
 
 ## TÍTULO TERCERO. LIBROS DE CONTROL
 
@@ -1181,7 +1235,9 @@ Los libros de control serán para uso exclusivo de los órganos jurisdiccionales
 
 En el manejo cotidiano de los libros de control, los titulares de los órganos jurisdiccionales deberán tener en consideración, lo siguiente:
 
-I. La apertura de los libros, la cual deberá hacerse antes de iniciar cada uno, en la foja destinada para tal efecto. El cierre de los mismos se hará al concluirse las fojas útiles, en la última de ellas. Ambos actos serán autorizados por el titular del órgano jurisdiccional de que se trate, si es unipersonal o por su presidente en el caso de tribunales colegiados, asociado de un secretario de tribunal o juzgado;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+I. La apertura de los libros, la cual deberá hacerse antes de iniciar cada uno, en la foja destinada para tal efecto. El cierre de los mismos se hará al concluirse las fojas útiles, en la última de ellas. Ambos actos serán autorizados por el titular del órgano jurisdiccional de que se trate, si es unipersonal, por su presidente en el caso de tribunales colegiados, y por cualquiera de los jueces adscritos a los tribunales laborales federales, asociado de un secretario de tribunal o juzgado;
 
 II. El secretario responsable deberá asentar certificación de la conclusión de cada año calendario, inmediatamente después del último registro del año concluido, para efectos de que a partir de dicha certificación se inicie la numeración de registros correspondiente al nuevo año;
 
@@ -1197,17 +1253,21 @@ Además de los libros previstos en este Acuerdo, los jueces y magistrados quedan
 
 El incumplimiento de lo previsto en este Título será sancionado en los términos que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS Y SUS CARACTERÍSTICAS
 
 ###### Artículo 102.
 
-Los libros de control obligatorios para los juzgados de Distrito, conforme a su competencia, son los siguientes:
+Los libros de control obligatorios para los juzgados de Distrito y tribunales laborales federales, conforme a su competencia, son los siguientes:
 
 I. Libro uno: de juicios de amparo;
 
 II. Libro dos: de causas penales;
 
-III. Libro tres: de asuntos civiles y administrativos;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+III. Libro tres: de asuntos civiles, administrativos y laborales;
 
 IV. Libro cuatro: de comunicaciones oficiales enviadas;
 
@@ -1247,7 +1307,13 @@ Los juzgados de Distrito especializados en las materias civil y administrativa, 
 
 Los juzgados de Distrito especializados en ejecución de penas, deberán llevar los libros señalados en el artículo anterior como cuatro, ocho, nueve, diez, once, doce, quince, dieciséis y diecisiete.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE PROCEDIMIENTOS DE EXTRADICIÓN
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Los tribunales laborales federales, deberán llevar únicamente los libros que en el artículo anterior se encuentran señalados como libros tres, cuatro, cinco, ocho y nueve.
+
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 104.
 
@@ -1323,7 +1389,7 @@ Finalmente, también podrán anotarse los datos relativos al supuesto en que la 
 
 Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo.
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE CERTIFICADOS DE DEPÓSITO
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE PROCEDIMIENTOS DE EXTRADICIÓN
 
 ###### Artículo 108.
 
@@ -1389,15 +1455,19 @@ Este libro se llevará conforme a la tabla número dos del anexo de este Acuerdo
 
 Cuando se trate de averiguaciones con dos o más inculpados, las columnas previstas en las fracciones I a IV del artículo anterior, es decir, las concernientes a Número de expediente, Tipo de consignación, Recepción y Autoridad remitente, se llenarán únicamente en la sección correspondiente al primero de los inculpados que se registre, considerando que esos datos serán siempre los mismos para cada inculpado.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN OCTAVA. LIBRO OCHO DE CERTIFICADOS DE DEPÓSITO
 
 ###### Artículo 111.
 
-En el libro de asuntos civiles y administrativos se anotarán sin excepción, todos los asuntos civiles, mercantiles y administrativos, así como los procedimientos no contenciosos que se promuevan en el juzgado de Distrito.
+En el libro de asuntos civiles, administrativos y/o laborales se anotarán sin excepción, todos los asuntos civiles, mercantiles, administrativos y/o laborales, así como los procedimientos no contenciosos que se promuevan en el juzgado de Distrito o tribunal laboral federal respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 112.
 
-El libro de asuntos civiles y administrativos constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia, Apelación, Archivo y Observaciones, los cuales se utilizarán de la siguiente forma:
+El libro de asuntos civiles, administrativos y/o laborales constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia, Apelación, Archivo y Observaciones, los cuales se utilizarán de la siguiente forma:
 
 I. Demanda o promoción inicial: se dividirá en seis rubros: Número de orden, Actor o promovente, Demandado, Materia, Naturaleza del procedimiento y Prestación demandada, en los cuales, se anotará:
 
@@ -1417,13 +1487,13 @@ II. Auto inicial: constará de dos rubros: Fecha y Sentido, en los cuales se ano
 
 a) Fecha: deberá anotarse el día, mes y año en que se dicte el proveído inicial del procedimiento de que se trate; y
 
-b) Sentido: se anotará de manera breve, el contenido del auto inicial, en relación con el trámite que se dará a la demanda, pudiendo utilizar, por ejemplo, las expresiones “Admitida”, “Desechada”, “Incompetencia”, etcétera;
+b) Sentido: se anotará de manera breve, el contenido del auto inicial, en relación con el trámite que se dará a la demanda, pudiendo utilizar, por ejemplo, las expresiones "Admitida", "Desechada", "Incompetencia", etcétera;
 
 III. Sentencia o resolución: contendrá dos rubros: Fecha y Sentido, en los que deberá anotarse:
 
 a) Fecha: el día, mes y año en que se dicte la sentencia definitiva o la resolución que ponga fin al procedimiento; y
 
-b) Sentido: se registrará el sentido de la sentencia o la resolución mencionadas, anotando a manera de ejemplo, las expresiones: “impedimento”, “incompetencia”, “desechamiento”, “acumulación”, “desistimiento”, “sin materia”, “caducidad”, “absolutoria”, “declaratoria”, “condenatoria”, etcétera;
+b) Sentido: se registrará el sentido de la sentencia o la resolución mencionadas, anotando a manera de ejemplo, las expresiones: "impedimento", "incompetencia", "desechamiento", "acumulación", "desistimiento", "sin materia", "caducidad", "absolutoria", "declaratoria", "condenatoria", etcétera;
 
 IV. Apelación constará de dos rubros: Fecha de remisión y Resolución, en los que se anotará:
 
@@ -1433,17 +1503,17 @@ b) Resolución, existirán dos subrubros: Fecha y Sentido, en los que se harán 
 
 1. Fecha: se anotarán el día, el mes y el año en que se dicte la sentencia que resuelva el recurso; y
 
-2. Sentido: el sentido de ésta, utilizando las expresiones “confirma”, “modifica”, “revoca”, “desierto”, “desecha”, “desistimiento”, “caducidad”, “repone procedimiento”, etcétera;
+2. Sentido: el sentido de ésta, utilizando las expresiones "confirma", "modifica", "revoca", "desierto", "desecha", "desistimiento", "caducidad", "repone procedimiento", etcétera;
 
 V. Archivo: deberá registrarse el dato relativo a la fecha en que materialmente se remita el expediente al archivo; y
 
 VI. Observaciones: deberá anotarse el supuesto en que en la sentencia que se dicte en el juicio de amparo directo se ordene la reposición del procedimiento, caso en el cual se recomienda dejar espacio suficiente para asentar las posteriores anotaciones que habrán de realizarse, tomando en cuenta que no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
 
-También podrán anotarse los datos relativos al amparo directo que se llegase a promover, así como su resultado, anotando, a manera de ejemplo las expresiones: “ampara”, “niega”, “sobresee”, “desecha”, “por no interpuesto”, etcétera y cualquier otro dato que se estime necesario para el debido control de los asuntos y que no se encuentre consignado en ninguno de los apartados anteriores.
+También podrán anotarse los datos relativos al amparo directo que se llegase a promover, así como su resultado, anotando, a manera de ejemplo las expresiones: "ampara", "niega", "sobresee", "desecha", "por no interpuesto", etcétera y cualquier otro dato que se estime necesario para el debido control de los asuntos y que no se encuentre consignado en ninguno de los apartados anteriores.
 
 Este libro se llevará conforme a la tabla número tres del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE OBJETOS QUE PUEDEN SER PRODUCTO, INSTRUMENTO U OBJETO DE DELITOS
+#### SECCIÓN NOVENA. LIBRO NUEVE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
 
 ###### Artículo 113.
 
@@ -1457,17 +1527,21 @@ I. Número de orden: se registrarán cada uno de los exhortos nacionales o inter
 
 II. Número de origen: se anotará el número de comunicación que el órgano jurisdiccional haya asignado a la comunicación oficial que envíe;
 
-III. Materia: se anotará precisamente la materia a que se refiere la comunicación oficial de que se trate, asentando según sea el caso las expresiones: “Causa penal”, “Juicio civil”, “Juicio administrativo”, o bien “Juicio de amparo” o “Incidente de suspensión”, etcétera;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-IV. Tipo de comunicación: se asentará precisamente el tipo de comunicación de que se trate, asentando las expresiones “Exhorto”, “Exhorto internacional”, “Carta rogatoria”, “Despacho” o “Requisitoria”;
+III. Materia: se anotará precisamente la materia a que se refiere la comunicación oficial de que se trate, asentando según sea el caso las expresiones: "Causa penal", "Juicio civil", "Juicio administrativo", "Juicio laboral" o bien "Juicio de amparo" o "Incidente de suspensión", etcétera;
+
+IV. Tipo de comunicación: se asentará precisamente el tipo de comunicación de que se trate, asentando las expresiones "Exhorto", "Exhorto internacional", "Carta rogatoria", "Despacho" o "Requisitoria";
 
 V. Envío: se anotará la fecha en que se envía la comunicación oficial;
 
-VI. Expediente: se anotará el número del expediente y el tipo de cuaderno en que se hubiese ordenado el envío de la comunicación oficial, utilizando, enunciativamente, las expresiones “juicio principal” o “cuaderno de pruebas”, etcétera, según sea el caso, tratándose de materia civil o administrativa, y cuando se refiera a materia penal o amparo se asentará “Causa penal”, “Incidente”, “cuaderno principal” o “incidente de suspensión”, etcétera;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+VI. Expediente: se anotará el número del expediente y el tipo de cuaderno en que se hubiese ordenado el envío de la comunicación oficial, utilizando, enunciativamente, las expresiones “juicio principal” o “cuaderno de pruebas”, etcétera, según sea el caso, tratándose de materia civil, administrativa o laboral, y cuando se refiera a materia penal o amparo se asentará “Causa penal”, “Incidente”, “cuaderno principal” o “incidente de suspensión”, etcétera;
 
 VII. Autoridad a quien se envía: se anotará la denominación de la autoridad a quien se hubiese enviado la comunicación oficial;
 
-VIII. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras “emplazamiento”, si éste fue el fin para el que se libró; “citación”, si fuere el caso o “desahogo de prueba”, en este último supuesto, etcétera;
+VIII. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras "emplazamiento", si éste fue el fin para el que se libró; "citación", si fuere el caso o "desahogo de prueba", en este último supuesto, etcétera;
 
 IX. Fecha de diligenciación: se anotará precisamente el día, mes y año en que la autoridad a quien se envió la comunicación dio cumplimiento a la encomienda solicitada;
 
@@ -1479,7 +1553,7 @@ También se podrá anotar cualquier dato que sin estar contenido en los apartado
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE ARMAS DE FUEGO
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE OBJETOS QUE PUEDEN SER PRODUCTO, INSTRUMENTO U OBJETO DE DELITOS
 
 ###### Artículo 115.
 
@@ -1489,7 +1563,7 @@ Este libro se llevará conforme a la tabla número cuatro del anexo de este Acue
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE NARCÓTICOS
+#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE ARMAS DE FUEGO
 
 ###### Artículo 116.
 
@@ -1533,7 +1607,7 @@ TABLA 5.
 
 > <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
 
-#### SECCIÓN DÉCIMA TERCERA. LIBRO TRECE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN
+#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE NARCÓTICOS
 
 ###### Artículo 117.
 
@@ -1563,7 +1637,7 @@ XI. Observaciones: podrán anotarse todos aquellos datos que sin estar comprendi
 
 Este libro se llevará conforme a la tabla número seis del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA CUARTA. LIBRO CATORCE DE AUDIENCIAS DE INFORMACIÓN A LAS PARTES SOBRE PUNTOS DEL PROCEDIMIENTO
+#### SECCIÓN DÉCIMA TERCERA. LIBRO TRECE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN
 
 ###### Artículo 118.
 
@@ -1577,7 +1651,9 @@ Este libro constará de siete columnas con los rubros: Número de orden, Expedie
 
 I. Número de orden: se registrarán con numeración progresiva y ascendente, todos los certificados de depósito que se reciban en el órgano jurisdiccional y a los que se hizo referencia en el artículo anterior;
 
-II. Expediente: se anotará la palabra "juicio de amparo", "incidente de suspensión", "causa penal", "juicio civil" o "juicio mercantil", según sea la materia de que se trate, seguidos del número que identifique el expediente en que se exhiba;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. Expediente: se anotará la palabra "juicio de amparo", "incidente de suspensión", "causa penal", "juicio civil" "juicio laboral" o "juicio mercantil", según sea la materia de que se trate, seguidos del número que identifique el expediente en que se exhiba;
 
 III. Fecha de exhibición: se anotará el día, el mes y el año en que se reciba en el órgano jurisdiccional el documento respectivo;
 
@@ -1609,7 +1685,7 @@ También podrá anotarse la fecha en que la autoridad exactora acuse el recibo d
 
 Este libro se llevará conforme a la tabla número siete del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA QUINTA. LIBRO QUINCE DE SOLICITUDES RELACIONADAS CON LA EJECUCIÓN DE LA PENA Y REPARACIÓN DEL DAÑO
+#### SECCIÓN DÉCIMA CUARTA. LIBRO CATORCE DE AUDIENCIAS DE INFORMACIÓN A LAS PARTES SOBRE PUNTOS DEL PROCEDIMIENTO
 
 ###### Artículo 120.
 
@@ -1617,9 +1693,11 @@ El libro de pólizas de fianza y garantías diversas constará de siete columnas
 
 I. Número de orden: se registrarán con numeración progresiva y ascendente, todas las pólizas de fianza y garantías otorgadas en cualquier otra forma jurídica diversa de los certificados de depósito que se reciban en el órgano jurisdiccional;
 
-II. Expediente: se anotará la palabra “juicio de amparo”, “incidente de suspensión”, “causa penal”, “juicio civil” o “juicio mercantil”, según corresponda, seguidos del número que identifique el expediente en que se exhiba;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-III. Naturaleza de la Garantía: se anotará, precisamente, la naturaleza de la garantía que se exhiba, anotando, enunciativamente las expresiones “Póliza de fianza”, “Prenda”, “Hipoteca”, “Fideicomiso”, etcétera. En caso de que la garantía sea un bien material, se describirá el tipo de éste en la forma más sintética posible;
+II. Expediente: se anotará la palabra "juicio de amparo", "incidente de suspensión", "causa penal", "juicio civil" "juicio laboral" o "juicio mercantil", según sea la materia de que se trate, seguidos del número que identifique el expediente en que se exhiba;
+
+III. Naturaleza de la Garantía: se anotará, precisamente, la naturaleza de la garantía que se exhiba, anotando, enunciativamente las expresiones "Póliza de fianza", "Prenda", "Hipoteca", "Fideicomiso", etcétera. En caso de que la garantía sea un bien material, se describirá el tipo de éste en la forma más sintética posible;
 
 IV. Número de póliza y cantidad: se utilizará cuando la garantía sea exhibida mediante póliza de fianza, se asentará, precisamente, el número de la póliza y la cantidad que ampare;
 
@@ -1627,11 +1705,11 @@ V. Fecha y sentido del acuerdo: se anotará el día, el mes y el año en que se 
 
 VI. Destino: se dividirá en tres rubros, Devolución, Cancelación y Se hace efectivo, los cuales se utilizarán de la siguiente manera:
 
-a) Devolución: se utilizará cuando sea esto lo que se haya ordenado respecto de la garantía, si por su naturaleza, debe ser entregada directamente al garante, como sería el caso de los cheques, las letras de cambio, los pagarés, etcétera, en ella se anotará la expresión “Devolución”, seguida de la fecha en que se hubiese pronunciado el acuerdo respectivo;
+a) Devolución: se utilizará cuando sea esto lo que se haya ordenado respecto de la garantía, si por su naturaleza, debe ser entregada directamente al garante, como sería el caso de los cheques, las letras de cambio, los pagarés, etcétera, en ella se anotará la expresión "Devolución", seguida de la fecha en que se hubiese pronunciado el acuerdo respectivo;
 
-b) Cancelación: se utilizará si éste fuere el sentido de la orden, en los casos en que para dejar sin efecto la garantía, resulte necesario revocar una orden de registro, como sería el caso de la hipoteca, el fideicomiso o la póliza de fianza, en ella se asentará la expresión “Cancelación”, seguida de la fecha en la que la autoridad a la que se hubiese comunicado el acuerdo respectivo haya recibido el oficio que condujo la orden, o bien la fecha en que se hubiese recibido en la afianzadora la póliza devuelta; y
+b) Cancelación: se utilizará si éste fuere el sentido de la orden, en los casos en que para dejar sin efecto la garantía, resulte necesario revocar una orden de registro, como sería el caso de la hipoteca, el fideicomiso o la póliza de fianza, en ella se asentará la expresión "Cancelación", seguida de la fecha en la que la autoridad a la que se hubiese comunicado el acuerdo respectivo haya recibido el oficio que condujo la orden, o bien la fecha en que se hubiese recibido en la afianzadora la póliza devuelta; y
 
-c) Se hace efectivo: ante el supuesto de que éste hubiere sido el destino que se haya determinado respecto de la garantía exhibida, como en el caso de una póliza de fianza; en ella deberá anotarse la expresión “Se hace efectivo”, seguida de la fecha en que la autoridad exactora haya recibido el oficio con el que se le envió para su cobro; y
+c) Se hace efectivo: ante el supuesto de que éste hubiere sido el destino que se haya determinado respecto de la garantía exhibida, como en el caso de una póliza de fianza; en ella deberá anotarse la expresión "Se hace efectivo", seguida de la fecha en que la autoridad exactora haya recibido el oficio con el que se le envió para su cobro; y
 
 VII. Observaciones: se utilizará en el caso en que el órgano jurisdiccional declare su incompetencia y por ese motivo remita la póliza de fianza o la garantía otorgada al competente.
 
@@ -1639,7 +1717,7 @@ También podrá anotarse la fecha en que la autoridad exactora acuse el recibo d
 
 Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SEXTA. LIBRO DIECISÉIS DE ASUNTOS EN REVISIÓN
+#### SECCIÓN DÉCIMA QUINTA. LIBRO QUINCE DE SOLICITUDES RELACIONADAS CON LA EJECUCIÓN DE LA PENA Y REPARACIÓN DEL DAÑO
 
 ###### Artículo 121.
 
@@ -1691,7 +1769,7 @@ VII. Observaciones: se asentarán aquellos datos que sin estar comprendidos en l
 
 Este libro se llevará conforme a la tabla número nueve del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SÉPTIMA. LIBRO DIECISIETE DE FIRMAS DE SENTENCIADOS QUE DISFRUTAN DE ALGÚN BENEFICIO O SUSTITUTIVO DE LA PENA
+#### SECCIÓN DÉCIMA SEXTA. LIBRO DIECISÉIS DE ASUNTOS EN REVISIÓN
 
 ###### Artículo 123.
 
@@ -1723,7 +1801,7 @@ VIII. Observaciones: se anotarán aquellos datos que sin estar comprendidos en l
 
 Este libro se llevará conforme a la tabla número diez del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE APELACIONES PENALES
+#### SECCIÓN DÉCIMA SÉPTIMA. LIBRO DIECISIETE DE FIRMAS DE SENTENCIADOS QUE DISFRUTAN DE ALGÚN BENEFICIO O SUSTITUTIVO DE LA PENA
 
 ###### Artículo 125.
 
@@ -1761,7 +1839,7 @@ XII. Observaciones: se podrá asentar el número de oficio y su fecha por el que
 
 Este libro se llevará conforme a la tabla número once del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE APELACIONES CIVILES Y ADMINISTRATIVAS
+#### SECCIÓN PRIMERA. LIBRO UNO DE APELACIONES PENALES
 
 ###### Artículo 127.
 
@@ -1799,7 +1877,7 @@ También se podrán anotar los datos relativos al supuesto en que se conceda alg
 
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. LIBRO TRES DE DENEGADAS APELACIONES
+#### SECCIÓN SEGUNDA. LIBRO DOS DE APELACIONES CIVILES Y ADMINISTRATIVAS
 
 ###### Artículo 129.
 
@@ -1817,7 +1895,7 @@ V. Observaciones: en su caso, se anotará algún dato que se juzgue conveniente.
 
 Este libro se llevará conforme a la tabla número trece del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. LIBRO CUATRO DE QUEJAS
+#### SECCIÓN TERCERA. LIBRO TRES DE DENEGADAS APELACIONES
 
 ###### Artículo 130.
 
@@ -1859,7 +1937,7 @@ IX. Observaciones: deberá anotarse cualquier dato que se juzgue conveniente que
 
 Este libro se llevará conforme a la tabla número catorce del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. LIBRO CINCO DE JUICIOS DE AMPARO INDIRECTO
+#### SECCIÓN CUARTA. LIBRO CUATRO DE QUEJAS
 
 ###### Artículo 131.
 
@@ -1897,7 +1975,7 @@ IV. Observaciones: se podrán anotar todos los datos que sin estar contenidos en
 
 Este libro se llevará conforme a la tabla número quince del anexo de este Acuerdo.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE COMUNICACIONES OFICIALES ENVIADAS
+#### SECCIÓN QUINTA. LIBRO CINCO DE JUICIOS DE AMPARO INDIRECTO
 
 ###### Artículo 132.
 
@@ -1963,7 +2041,7 @@ XI. Libro once: de pólizas de fianza y garantías diversas; y
 
 XII. Libro doce: de firmas de procesados en libertad provisional bajo caución, concedida en segunda instancia.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE COMUNICACIONES OFICIALES RECIBIDAS
+#### SECCIÓN SEXTA. LIBRO SEIS DE COMUNICACIONES OFICIALES ENVIADAS
 
 ###### Artículo 135.
 
@@ -2011,7 +2089,7 @@ V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en 
 
 Este libro se llevará conforme a la tabla número diecisiete del anexo de este Acuerdo.
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE EXCUSAS Y RECUSACIONES
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE COMUNICACIONES OFICIALES RECIBIDAS
 
 ###### Artículo 136.
 
@@ -2061,7 +2139,7 @@ V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en 
 
 Este libro se llevará conforme a la tabla número dieciocho del anexo de este Acuerdo.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE CONFLICTOS COMPETENCIALES
+#### SECCIÓN OCTAVA. LIBRO OCHO DE EXCUSAS Y RECUSACIONES
 
 ###### Artículo 137.
 
@@ -2103,7 +2181,7 @@ XI. Observaciones: se podrá anotar cualquier otro dato que sin estar contenido 
 
 Este libro se llevará conforme a la tabla número diecinueve del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE CERTIFICADOS DE DEPÓSITO
+#### SECCIÓN NOVENA. LIBRO NUEVE DE CONFLICTOS COMPETENCIALES
 
 ###### Artículo 138.
 
@@ -2133,7 +2211,7 @@ También podrá anotarse cualquier otro dato que, sin estar contenido en los apa
 
 Este libro se llevará conforme a la tabla número veinte del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE CERTIFICADOS DE DEPÓSITO
 
 ###### Artículo 139.
 
@@ -2141,7 +2219,7 @@ El libro de juicios de amparo indirecto constará exactamente del mismo número 
 
 Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN CONCEDIDA EN SEGUNDA INSTANCIA
+#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
 
 ###### Artículo 140.
 
@@ -2149,7 +2227,7 @@ El libro de comunicaciones oficiales enviadas se integrará del mismo número de
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE AMPARO DIRECTO
+#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN CONCEDIDA EN SEGUNDA INSTANCIA
 
 ###### Artículo 141.
 
@@ -2157,7 +2235,7 @@ El libro de comunicaciones oficiales recibidas se integrará con el mismo númer
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE ASUNTOS EN REVISIÓN
+#### SECCIÓN PRIMERA. LIBRO UNO DE AMPARO DIRECTO
 
 ###### Artículo 142.
 
@@ -2199,7 +2277,7 @@ IX. Observaciones: se anotará cualquier otro dato que, sin estar contenido en l
 
 Este libro se llevará conforme a la tabla número veintiuno del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. LIBRO TRES DE RECURSOS DE QUEJA
+#### SECCIÓN SEGUNDA. LIBRO DOS DE ASUNTOS EN REVISIÓN
 
 ###### Artículo 144.
 
@@ -2233,7 +2311,7 @@ También se podrá asentar cualquier otro dato que, sin estar contenido en los a
 
 Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. LIBRO CUATRO DE COMUNICACIONES OFICIALES ENVIADAS
+#### SECCIÓN TERCERA. LIBRO TRES DE RECURSOS DE QUEJA
 
 ###### Artículo 146.
 
@@ -2241,7 +2319,7 @@ El libro de certificados de depósito constará exactamente del mismo número de
 
 Este libro se llevará conforme a la tabla número siete del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
+#### SECCIÓN CUARTA. LIBRO CUATRO DE COMUNICACIONES OFICIALES ENVIADAS
 
 ###### Artículo 147.
 
@@ -2249,7 +2327,7 @@ El libro de pólizas de fianza y garantías diversas constará exactamente del m
 
 Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerdo.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE RECURSOS DE RECLAMACIÓN
+#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
 
 ###### Artículo 148.
 
@@ -2258,6 +2336,8 @@ En el libro de firmas de procesados en libertad provisional bajo caución conced
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 149.
 
@@ -2287,7 +2367,7 @@ X. Libro diez: de recursos de revisión contencioso-administrativa. En el supues
 
 Los tribunales Colegiados especializados en las materias penal, civil y laboral, llevarán todos los libros que se mencionan en el artículo anterior, excepto el nueve y diez; además los tribunales especializados en materia administrativa deberán llevar también los libros nueve y diez.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE EXCUSAS Y RECUSACIONES
+#### SECCIÓN SEXTA. LIBRO SEIS DE RECURSOS DE RECLAMACIÓN
 
 ###### Artículo 151.
 
@@ -2345,7 +2425,7 @@ De igual manera podrán anotarse las cuestiones relativas a la cumplimentación 
 
 Este libro se llevará conforme a la tabla número veintitrés del anexo de este Acuerdo.
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE CONFLICTOS COMPETENCIALES
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE EXCUSAS Y RECUSACIONES
 
 ###### Artículo 153.
 
@@ -2385,7 +2465,7 @@ También podrán anotarse la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veinticuatro del anexo de este Acuerdo.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE RECURSOS DE REVISIÓN FISCAL
+#### SECCIÓN OCTAVA. LIBRO OCHO DE CONFLICTOS COMPETENCIALES
 
 ###### Artículo 155.
 
@@ -2427,7 +2507,7 @@ También se podrán anotar la letra o el número con el que se identifique inter
 
 Este libro se llevará conforme a la tabla número veinticinco del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE RECURSO DE REVISIÓN CONTENCIOSO-ADMINISTRATIVA
+#### SECCIÓN NOVENA. LIBRO NUEVE DE RECURSOS DE REVISIÓN FISCAL
 
 ###### Artículo 157.
 
@@ -2435,7 +2515,7 @@ El libro de comunicaciones oficiales enviadas constará del mismo número de col
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. INDICADORES DE INFORMACIÓN ESTADÍSTICA
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE RECURSO DE REVISIÓN CONTENCIOSO-ADMINISTRATIVA
 
 ###### Artículo 158.
 
@@ -2443,7 +2523,7 @@ El libro de comunicaciones oficiales recibidas se integrará con el mismo númer
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
+#### SECCIÓN PRIMERA. INDICADORES DE INFORMACIÓN ESTADÍSTICA
 
 ###### Artículo 159.
 
@@ -2479,7 +2559,7 @@ También se podrá anotar la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veintiséis del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. PROCESAMIENTO DE INFORMACIÓN
+#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
 
 ###### Artículo 161.
 
@@ -2515,7 +2595,7 @@ También podrá anotarse cualquier otro dato que, sin estar contenido en los apa
 
 Este libro se llevará conforme a la tabla número veintisiete del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+#### SECCIÓN TERCERA. PROCESAMIENTO DE INFORMACIÓN
 
 ###### Artículo 163.
 
@@ -2527,7 +2607,7 @@ El libro de registro de conflictos competenciales constará exactamente del mism
 
 Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. DISPOSICIONES FINALES
+#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
 
 ###### Artículo 165.
 
@@ -2565,7 +2645,7 @@ También podrán anotarse la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veintiocho del anexo de este Acuerdo.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+#### SECCIÓN QUINTA. DISPOSICIONES FINALES
 
 ###### Artículo 167.
 
@@ -2637,35 +2717,49 @@ En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, 
 
 ### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+
 ## TÍTULO CUARTO. SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES
 
 ### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
 
 ###### Artículo 174.
 
-El SISE es un programa automatizado de captura y reporte de datos estadísticos sobre el movimiento de asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+El SISE es un programa automatizado de captura y reporte de datos estadísticos sobre el movimiento de asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, de los tribunales laborales federales, de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+El SIGE es un programa automatizado de gestión de los asuntos del conocimiento de los Tribunales Laborales Federales del Poder Judicial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 175.
 
-Es obligación de los titulares de los órganos jurisdiccionales el empleo del SISE, para el registro de los movimientos de los juicios de amparo, procesos y recursos que ante ellos se tramiten; de igual manera, bajo la supervisión del secretario que al efecto designen dichos titulares, deberá realizarse la captura diaria de datos que asegure la permanente actualización y veracidad de la información contenida en el SISE.
+Es obligación de las y los titulares de los órganos jurisdiccionales el empleo del SISE o SIGE, para el registro de los movimientos de los juicios de amparo, procesos y recursos que ante ellos se tramiten; de igual manera, bajo la supervisión del secretario que al efecto designen dichos titulares, deberá realizarse la captura diaria de datos que asegure la permanente actualización y veracidad de la información contenida en dichas plataformas.
 
 La información obtenida de cada uno de los órganos jurisdiccionales, podrá ser utilizada para efectos de control, gestión y administración interna, así como para responder a las consultas que de manera ordinaria o extraordinaria formulen los órganos y áreas competentes del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 176.
 
-Los datos que reporte el SISE, serán concentrados en forma automatizada en los servidores centrales ubicados en la Ciudad de México y en los servidores regionales instalados en diversas ciudades del resto de la República. La información almacenada se utilizará como apoyo en la toma de decisiones relativas al control, administración, vigilancia, disciplina y planeación del Poder Judicial de la Federación.
+Los datos que reporten el SISE y el SIGE, serán concentrados en forma automatizada en los servidores centrales ubicados en la Ciudad de México y en los servidores regionales instalados en diversas ciudades del resto de la República. La información almacenada se utilizará como apoyo en la toma de decisiones relativas al control, administración, vigilancia, disciplina y planeación del Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 177.
 
-Las características de la información requerida, así como la normatividad para registrar los datos que exige el SISE, podrán adecuarse conforme lo determine la experiencia de su operación y los avances tecnológicos que aporten nuevas herramientas para facilitar y optimizar la extracción, concentración y explotación de la información disponible, para control interno de los órganos jurisdiccionales y, en un aspecto general, por los órganos de gobierno del Consejo.
+Las características de la información requerida, así como la normatividad para registrar los datos que exigen el SISE y el SIGE, podrán adecuarse conforme lo determine la experiencia de su operación y los avances tecnológicos que aporten nuevas herramientas para facilitar y optimizar la extracción, concentración y explotación de la información disponible, para control interno de los órganos jurisdiccionales y, en un aspecto general, por los órganos de gobierno del Consejo.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 178.
 
-La Visitaduría Judicial, con motivo de las visitas de inspección que realice a los órganos jurisdiccionales, supervisará que el registro de expedientes en el SISE se realice de manera diaria y que la información almacenada corresponda fielmente con lo actuado; en caso de omisión, será materia de recomendación, de la que se anexará copia al expediente personal del titular del órgano jurisdiccional que infrinja las disposiciones contenidas en este Capítulo.
+La Visitaduría Judicial, con motivo de las visitas de inspección que realice a los órganos jurisdiccionales, supervisará que el registro de expedientes en el SISE o SIGE se realice de manera diaria y que la información almacenada corresponda fielmente con lo actuado; en caso de omisión, será materia de recomendación, de la que se anexará copia al expediente personal del titular del órgano jurisdiccional que infrinja las disposiciones contenidas en este Capítulo.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 179.
 
-Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación del SISE, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Estadística Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
+Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación del SISE y/o SIGE, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Gestión Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
 
 ### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
 
@@ -2895,9 +2989,11 @@ El Pleno resolverá cualquier cuestión que pudiera suscitarse con motivo de la 
 
 Las listas de acuerdos de los órganos jurisdiccionales, se publicarán en Internet, sin perjuicio de la publicación que corresponda en términos de ley.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 208.
 
-Los órganos jurisdiccionales, deberán ingresar las listas de acuerdos al SISE, a más tardar, a las nueve horas del día siguiente al en que se emitan.
+Los órganos jurisdiccionales, deberán ingresar las listas de acuerdos al SISE o al SIGE, según corresponda, a más tardar, a las nueve horas del día siguiente al en que se emitan.
 
 ###### Artículo 209.
 
@@ -2929,9 +3025,11 @@ Tratándose de la materia de procesos penales federales, el listado de captura c
 
 Los listados de captura a que se refieren los artículos anteriores, quedarán a disposición del público usuario para su consulta en la página de Internet del Consejo.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 215.
 
-Los órganos jurisdiccionales, deberán mantener actualizados los registros de datos de los expedientes a su cargo en el SISE.
+Los órganos jurisdiccionales, deberán mantener actualizados los registros de datos de los expedientes a su cargo en el SISE o SIGE, según corresponda.
 
 ###### Artículo 216.
 
@@ -3009,9 +3107,11 @@ La Comisión para la Transparencia, Acceso a la Información y Protección de Da
 
 Consiste en la recolección de datos judiciales, entendidos como los valores o características de los movimientos de los juicios, recursos o procedimientos jurisdiccionales que se tramitan en los órganos jurisdiccionales.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 231.
 
-La captación de la información judicial se realiza en cada uno de los órganos jurisdiccionales a través del programa automatizado de captura y reportes estadísticos denominado SISE, de conformidad con lo dispuesto en el Título Segundo de esta (sic) Acuerdo y demás disposiciones aplicables.
+La captación de la información judicial se realiza en cada uno de los órganos jurisdiccionales a través del programa automatizado de captura y reportes estadísticos denominado SISE o del SIGE, según corresponda, de conformidad con lo dispuesto en el Título Segundo de este Acuerdo y demás disposiciones aplicables.
 
 ###### Artículo 232.
 
@@ -3057,9 +3157,17 @@ Las situaciones no previstas en este Capítulo, serán resueltas por el Pleno, s
 
 Las publicaciones de edictos son procedentes:
 
-I. En aquellos juicios de amparo en que los titulares de los órganos jurisdiccionales, ordenen la publicación de edictos, en términos del artículo 27, fracción III, inciso c) de la Ley de Amparo; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-II. En las diligencias de averiguación previa y de las etapas de investigación, en aquellos supuestos en que sean acordadas por los órganos jurisdiccionales a solicitud del Ministerio Público y en las decretadas de oficio por los referidos órganos jurisdiccionales, cuando los mismos determinen que las publicaciones sean con cargo al presupuesto de egresos del Poder Judicial de la Federación.
+I. En aquellos juicios de amparo en que las y los titulares de los órganos jurisdiccionales, ordenen la publicación de edictos, en términos del artículo 27, fracción III, inciso c) de la Ley de Amparo;
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. En las diligencias de averiguación previa y de las etapas de investigación, en aquellos supuestos en que sean acordadas por los órganos jurisdiccionales a solicitud del Ministerio Público y en las decretadas de oficio por los referidos órganos jurisdiccionales, cuando los mismos determinen que las publicaciones sean con cargo al presupuesto de egresos del Poder Judicial de la Federación; y
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+III. En aquellos juicios laborales en los que las y los titulares de los órganos jurisdiccionales ordenen la publicación de edictos en términos de lo establecido en el artículo 712 de la Ley Federal del Trabajo y demás aplicables de ese ordenamiento.
 
 En caso de que el titular de un órgano jurisdiccional solicite la publicación de edictos, en procedimientos distintos a los que se refiere el párrafo anterior o de otro tipo de publicaciones, la Dirección General de Comunicación Social o la Coordinación de Administración Regional, según corresponda, someterán a la consideración de la Comisión de Administración la solicitud, para que determine la procedencia de que la publicación de que se trate se cubra con cargo al presupuesto de egresos del Poder Judicial de la Federación, salvo en casos de notoria urgencia o fuerza mayor en los que se observará lo dispuesto en el artículo 241 de este Acuerdo.
 
@@ -3071,9 +3179,11 @@ I. En la Dirección General de Comunicación Social, en el caso de que el órgan
 
 II. En la Administración Regional o Delegación Administrativa que corresponda, en el caso de que el órgano jurisdiccional esté en el resto de la República Mexicana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 241.
 
-En los casos en que por la importancia o premura del asunto, así como por tratarse de días inhábiles, no se pueda gestionar con la debida anticipación la radicación de los recursos presupuestales necesarios, el órgano jurisdiccional podrá tramitar la publicación de los edictos a que se refiere el artículo 239, fracciones I y II de este Acuerdo, y posteriormente, solicitar el reembolso del importe erogado motivando la causa, ante:
+En los casos en que por la importancia o premura del asunto, así como por tratarse de días inhábiles, no se pueda gestionar con la debida anticipación la radicación de los recursos presupuestales necesarios, el órgano jurisdiccional podrá tramitar la publicación de los edictos a que se refiere el artículo 239, fracciones I, II y III de este Acuerdo, y posteriormente, solicitar el reembolso del importe erogado motivando la causa, ante:
 
 I. La Dirección General de Comunicación Social, en el caso de que el órgano jurisdiccional esté en el Distrito Federal o en zona conurbada; y
 
@@ -3091,13 +3201,17 @@ I. Precisar el o los medios en los que el órgano jurisdiccional de que se trate
 
 II. Las ocasiones y los lapsos de publicación especificando si éstas se requieren en días naturales o hábiles; y
 
-III. En el caso de las publicaciones a que se refiere el artículo 239, fracciones I y II de este Acuerdo, contener la determinación del órgano jurisdiccional de llevar a cabo la publicación de edictos, con cargo al presupuesto de egresos del Poder Judicial de la Federación.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+III. En el caso de las publicaciones a que se refiere el artículo 239, fracciones I, II y III de este Acuerdo, contener la determinación del órgano jurisdiccional de llevar a cabo la publicación de edictos, con cargo al presupuesto de egresos del Poder Judicial de la Federación.
 
 La atención de las solicitudes se hará de conformidad con las disposiciones aplicables al caso concreto y con la suficiencia presupuestaria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 243.
 
-A los oficios respectivos de solicitud de publicación de edictos, a los que se refiere el artículo 239, fracciones I y II de este Acuerdo, se deberán anexar:
+A los oficios respectivos de solicitud de publicación de edictos, a los que se refiere el artículo 239, fracciones I, II y III de este Acuerdo, se deberán anexar:
 
 I. Dos originales del edicto firmados por el titular o por el secretario correspondiente del órgano jurisdiccional solicitante que contengan, por lo menos, lugar, fecha de elaboración, la leyenda del escudo nacional, número de expediente, y el sello íntegro y legible del citado órgano; y
 
@@ -3105,11 +3219,15 @@ II. Archivo electrónico del edicto a publicar en un dispositivo magnético por 
 
 El archivo electrónico deberá hacerse con letra arial, sin negrillas, en mayúsculas y minúsculas, tamaño nueve, espacio sencillo entre líneas y justificado. Por cada edicto, deberá generarse un archivo en configuración Word for Windows con extensión .doc, cuyo texto deberá coincidir íntegramente con el impreso firmado.
 
-En el supuesto que se soliciten publicaciones distintas a las previstas en el artículo 239, fracciones I y II de este Acuerdo, en el oficio se deberán de señalar las razones por las cuales se solicite la publicación, a fin de que sean valoradas por la Comisión de Administración. En caso, de que se estime procedente la publicación, el solicitante deberá remitir el objeto de publicación, en la forma que determine la referida Comisión.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+En el supuesto que se soliciten publicaciones distintas a las previstas en el artículo 239, fracciones I, II y III de este Acuerdo, en el oficio se deberán de señalar las razones por las cuales se solicite la publicación, a fin de que sean valoradas por la Comisión de Administración. En caso, de que se estime procedente la publicación, el solicitante deberá remitir el objeto de publicación, en la forma que determine la referida Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 244.
 
-Tratándose de los edictos que determine la autoridad jurisdiccional en los supuestos a que se refiere el artículo 239, fracciones I y II de este Acuerdo, se deberá procurar, atendiendo a los principios de austeridad y racionalidad presupuestal, que la extensión del edicto no sea mayor al siguiente tamaño, con la salvedad de que por el contenido del mismo no sea esto posible:
+Tratándose de los edictos que determine la autoridad jurisdiccional en los supuestos a que se refiere el artículo 239, fracciones I, II y III de este Acuerdo, se deberá procurar, atendiendo a los principios de austeridad y racionalidad presupuestal, que la extensión del edicto no sea mayor al siguiente tamaño, con la salvedad de que por el contenido del mismo no sea esto posible:
 
 I. De nueve centímetros de altura, y nueve punto ocho centímetros de ancho, cuando tengan que publicarse en diarios de circulación nacional o local; y
 
@@ -3614,3 +3732,25 @@ TERCERO. Los asuntos que se encuentren radicados en los Tribunales Unitarios en 
 CUARTO. Desde la fecha de aprobación del presente acuerdo hasta el inicio de su vigencia, la Oficina de Correspondencia Común que presta servicio a los Tribunales Unitarios en Materia Penal del Primer Circuito, turnará los nuevos asuntos durante dos semanas en cada uno de los reclusorios en donde están ubicados, alternando el envío entre el reclusorio norte, oriente y sur, continuando en ese orden sucesivamente, con los lineamientos y horarios vigentes.
 
 QUINTO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos entre las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y los Tribunales Unitarios en Materia Penal del Primer Circuito habilitados como tribunal de alzada, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, penúltimo párrafo y el Transitorio SEGUNDO del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
