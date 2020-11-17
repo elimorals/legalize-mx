@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2018-09-27"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -441,9 +441,17 @@ XV.- La erradicación de la pobreza es necesaria para el desarrollo sustentable;
 
 XVI.- Garantizar la completa participación de la mujer en las funciones de protección, preservación y aprovechamiento de los recursos naturales y para lograr del (sic) desarrollo sustentable;
 
-XVII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-XVIII.- La educación es un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
+XVII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+XVIII.- La educación es un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+XIX.- Los Municipios en coordinación con el Estado, garantizaran la existencia de una proporción de diez a quince metros cuadrados de área verde por cada habitante, contemplando la selección de especies nativas o de bajo consumo hídrico, acorde a las condiciones climáticas de las diferentes regiones del Estado.
 
 ### CAPÍTULO II. DE LA POLÍTICA AMBIENTAL
 
@@ -595,7 +603,9 @@ VII.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera
 
 VIII.- En la determinación de áreas para actividades altamente riesgosas hecha por la autoridad competente, se cuidará que se establezcan las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población; y
 
-IX.- La política ambiental debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida.
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+IX.- La política ambiental debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida, atendiendo siempre a la proporción de áreas verdes por habitante contemplada en la fracción XIX del artículo 11 de la presente Ley.
 
 > <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -3578,3 +3588,11 @@ B.O. 27 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 144, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
