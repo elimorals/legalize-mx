@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-142331"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-25"
-last_updated: "2020-03-25"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142331&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-03-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DEPURACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA Y RESGUARDO DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 25 de marzo de 2020.
 
@@ -445,7 +445,9 @@ I. Acta firmada por el servidor designado por el titular para llevar cabo la dil
 
 II. Listado en formato impreso y electrónico de los expedientes que se transfieren, en la (sic) que deberá señalarse la valoración de cada expediente, firmada (sic) por el servidor investido de fe pública designado y por el responsable del depósito documental.
 
-Los órganos jurisdiccionales deberán realizar las anotaciones correspondientes en los sistemas o libros de control correspondientes y en el SISE.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Los órganos jurisdiccionales deberán realizar las anotaciones correspondientes en los sistemas o libros de control correspondientes, de ser el caso, y en el SISE o en el SIGE según proceda.
 
 Los órganos jurisdiccionales, con apoyo de la Dirección General de Archivo y Documentación, de las Administraciones Regionales, las Delegaciones Administrativas, y las Administraciones de los Edificios del Consejo adoptarán las acciones administrativas que correspondan para brindar seguridad material y jurídica en las transferencias de expedientes.
 
@@ -526,3 +528,27 @@ SÉPTIMO. La Dirección General de Archivo y Documentación elaborará el Manual
 OCTAVO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas que le estén adscritas llevarán a cabo las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de valoración, depuración, destrucción, digitalización, transferencia y resguardo de los expedientes judiciales generados por los órganos jurisdiccionales, fue aprobado por el Pleno del Consejo, en sesión ordinaria de 19 de febrero de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 17 de marzo de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PAGINAS 447 Y 448.]</small>
