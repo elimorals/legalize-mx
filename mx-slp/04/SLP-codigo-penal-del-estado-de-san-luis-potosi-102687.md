@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-11-11"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2185,11 +2185,15 @@ Este delito se sancionará con una pena de uno a tres años de prisión y multa 
 
 Si la víctima de los delitos a que se refiere este capítulo es menor de dieciocho (sic), la pena de prisión será de tres a cinco años de prisión y la sanción pecuniaria de trescientos a quinientos días del valor de la unidad de medida y actualización.
 
-Si el acosador es servidor público y se vale de medios o circunstancias que el cargo le proporciona, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de dos a siete años.
+Si el acosador es servidor público o docente, y se vale de medios o circunstancias que el cargo le proporciona, además de la pena prevista en el párrafo anterior, se le destituirá del cargo, y se le inhabilitará para ejercer cualquier cargo público por un lapso igual al de la pena de prisión impuesta.
 
-Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de dieciocho años, en cuyo caso se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de dos a siete años. Este delito se perseguirá de oficio.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
 ### CAPÍTULO IV. Difusión Ilícita de Imágenes
 
@@ -3417,7 +3421,15 @@ Comete el delito de resistencia quien, empleando la fuerza, el amago o la amenaz
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO II. Asociación Delictuosa
+### CAPÍTULO I BIS. De la Comercialización de Réplica de Armas
+
+(NOTA: EL 9 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 306/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE NOVIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0812, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 287 BIS. Comete el delito a que se refiere este capítulo, quien comercializa juguetes que tengan características similares a cualquier arma real en su forma dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquéllas de las armas verdaderas.
+
+Este delito se castigará con sanción pecuniaria de treinta a cincuenta días del valor de la unidad de medida y actualización, y el decomiso.
 
 ###### ARTÍCULO 275.
 
@@ -3427,7 +3439,7 @@ Comete el delito de coacción quien presiona a la autoridad por medio de la viol
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Evasión
+### CAPÍTULO II. Asociación Delictuosa
 
 ###### ARTÍCULO 276.
 
@@ -3438,6 +3450,16 @@ Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO III. Evasión
+
+###### ARTÍCULO 277.
+
+QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO PÚBLICO, O AGENTE DE LA AUTORIDAD, EN EL ACTO DE EJERCER LÍCITAMENTE SUS FUNCIONES O CON MOTIVO DE ELLAS, SE LE APLICARÁ DE UNO A SEIS AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE CIEN A TRESCIENTAS UNIDADES DE MEDIDA DE ACTUALIZACIÓN, ADEMÁS DE LA QUE LE CORRESPONDA POR EL DELITO COMETIDO.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO. P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO IV. Quebrantamiento de Medida Cautelar, o de Sanción
 
@@ -3463,18 +3485,6 @@ ARTÍCULO 293 TER. A la persona privada de su libertad que se fugue mientras com
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 277.
-
-QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO PÚBLICO, O AGENTE DE LA AUTORIDAD, EN EL ACTO DE EJERCER LÍCITAMENTE SUS FUNCIONES O CON MOTIVO DE ELLAS, SE LE APLICARÁ DE UNO A SEIS AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE CIEN A TRESCIENTAS UNIDADES DE MEDIDA DE ACTUALIZACIÓN, ADEMÁS DE LA QUE LE CORRESPONDA POR EL DELITO COMETIDO.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO. P.O. 17 DE OCTUBRE DE 2017)</small>
-
-### CAPÍTULO I. Delitos contra el Ambiente
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
 ###### ARTÍCULO 278.
 
 Comete el delito a que se refiere este capítulo, quien a través de teléfono fijo o celular, realice falsas solicitudes de auxilio, o reportes falsos, que distraigan o movilicen a las autoridades de la seguridad, con el propósito de dificultar el ejercicio de sus funciones o causar alarma en la población.
@@ -3495,9 +3505,9 @@ En los artículos anteriores en caso de reincidencia se impondrá hasta el doble
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA ADECUADA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
 
-### CAPÍTULO II. Delitos contra la Gestión Ambiental
+### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 280.
 
@@ -3533,9 +3543,9 @@ Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmen
 
 No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
 
-### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+### CAPÍTULO II. Delitos contra la Gestión Ambiental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 284.
 
@@ -3557,9 +3567,9 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
+### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3577,15 +3587,15 @@ Cuando el delito a que se refiere este capítulo sea cometido por un servidor p�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
+### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 287.
 
@@ -3603,13 +3613,17 @@ Este delito se sancionará con una pena de uno a cinco años de prisión, sanci�
 
 En caso de indígenas, o campesinos, la acreditación como instrumento de trabajo será otorgada por la autoridad comunitaria.
 
-### CAPÍTULO II. Cohecho
+(NOTA: EL 9 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 306/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL CAPÍTULO I BIS DEL TÍTULO DÉCIMO CUARTO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE NOVIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0812, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
+### CAPÍTULO II. Cohecho
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 288.
 
@@ -3629,7 +3643,9 @@ Para los efectos de esta disposición se entiende por pandilla, la reunión habi
 
 Cuando quien cometa el delito a que se refiere el presente capítulo sea o haya sido servidor público de alguna corporación policíaca, las penas a que se refiere el artículo 288 de este Código se aumentarán en una mitad y se le impondrá, además, destitución, en su caso, del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO IV. Abandono de las Funciones Públicas
+### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3659,15 +3675,15 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2018)</small>
 
+### CAPÍTULO IV. Abandono de las Funciones Públicas
+
 ### CAPÍTULO V. Coalición
+
+## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
 
 ### CAPÍTULO VI. Abuso de Autoridad
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
-
-### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 294.
 
@@ -3813,11 +3829,7 @@ III. Una barranca, o
 
 IV. Un área verde en suelo urbano.
 
-### CAPÍTULO VIII. Tráfico de Influencia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 300.
 
@@ -3889,9 +3901,9 @@ VIII. Preste sus servicios como auditor técnico, especialista o perito o especi
 
 Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaria de Ecología y Gestión Ambiental.
 
-### CAPÍTULO IX. Concusión
+### CAPÍTULO VIII. Tráfico de Influencia
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3947,7 +3959,9 @@ VI. Expida autorización sin observar los análisis de riesgo; y los atlas, muni
 
 VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas verdes; bienes de dominio público; o lugares que tengan legal, o administrativamente reconocido su valor paisajístico, ecológico, artístico, histórico, o cultural, o que por los mismos motivos hayan sido considerados de especial protección.
 
-### CAPÍTULO X. Peculado
+### CAPÍTULO IX. Concusión
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3999,7 +4013,7 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO XI. Enriquecimiento Ilícito
+### CAPÍTULO X. Peculado
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4029,9 +4043,7 @@ Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+### CAPÍTULO XI. Enriquecimiento Ilícito
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4081,7 +4093,11 @@ Para la individualización de las sanciones previstas a los delitos de este Tít
 
 Cuando los delitos a que se refieren los artículos, 321, y 327, del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
-### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 321.
 
@@ -4121,49 +4137,7 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 BIS. Comete el delito de uso ilícito de atribuciones y facultades:
-
-I. El servidor público que ilícitamente:
-
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación.
-
-b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico.
-
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal.
-
-d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos.
-
-e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos;
-
-II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
-
-a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
-
-b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
-
-III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
-
-IV. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
-
-Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
-
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 TER. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la (sic) Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
-
-I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
-
-II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
-
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
 
 ###### ARTÍCULO 323.
 
@@ -4213,6 +4187,58 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 Al infractor de las fracciones, IV, VI, VII, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, y sanción pecuniaria de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
 
+### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 BIS. Comete el delito de uso ilícito de atribuciones y facultades:
+
+I. El servidor público que ilícitamente:
+
+a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación.
+
+b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico.
+
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal.
+
+d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos.
+
+e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos;
+
+II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+
+a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
+
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
+
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
+
+IV. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 TER. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la (sic) Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 325.
+
+Comete el delito de abandono de las funciones públicas el servidor público que sin causa justificada abandona sus funciones sin haber presentado su renuncia o sin que se le haya aceptado o al que habiéndole sido aceptada no entrega todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
+
 ### CAPÍTULO XV. Intimidación
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
@@ -4226,30 +4252,6 @@ II. El servidor público que con motivo de la querella, denuncia o información 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
-
-###### ARTÍCULO 325.
-
-Comete el delito de abandono de las funciones públicas el servidor público que sin causa justificada abandona sus funciones sin haber presentado su renuncia o sin que se le haya aceptado o al que habiéndole sido aceptada no entrega todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
-
-### CAPÍTULO XVI. Ejercicio abusivo de funciones
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 QUINQUE. Comete el delito de ejercicio abusivo de funciones:
-
-I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
-
-II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
-
-Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
-
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 326.
 
@@ -4267,7 +4269,21 @@ A los autores intelectuales, a los instigadores o a quienes encabecen el grupo c
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO I. Delitos Contra el Consumo
+### CAPÍTULO XVI. Ejercicio abusivo de funciones
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 QUINQUE. Comete el delito de ejercicio abusivo de funciones:
+
+I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+
+II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
+
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 327.
 
@@ -4315,9 +4331,7 @@ Igualmente comete el delito de abuso de autoridad con contenido patrimonial, el 
 
 El delito de abuso de autoridad se sancionará, con una pena de uno a cinco años de prisión, sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 329.
 
@@ -4361,7 +4375,9 @@ Cualquier autoridad que conozca de un hecho de tortura está obligada a denuncia
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2017)
 
-### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
+### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 336.
 
@@ -4377,9 +4393,7 @@ IV. Al particular que, sin estar autorizado legalmente para intervenir en un neg
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y sanción pecuniaria de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO I
-
-Ataques a las Vías de Comunicación y medios de Transporte.
+### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
 
 ###### ARTÍCULO 337.
 
@@ -4391,9 +4405,9 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivale
 
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y sanción pecuniaria de cien a trescientas veces al valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+### CAPÍTULO I
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+Ataques a las Vías de Comunicación y medios de Transporte.
 
 ###### ARTÍCULO 338.
 
@@ -4422,6 +4436,34 @@ II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente ex
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
+
+### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 340.
+
+Comete el delito de enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño.
+
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
+
+No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 341.
+
+El delito de enriquecimiento ilícito se castigará con las siguientes sanciones:
+
+I. Decomiso de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente de cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
 
@@ -4454,32 +4496,6 @@ ARTÍCULO 360 TER. Al concesionario, permisionario o, al operador, que altere lo
 Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo, o por el usuario que se vea afectado.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE OCTUBRE DE 2016)
-
-###### ARTÍCULO 340.
-
-Comete el delito de enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño.
-
-Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
-
-No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-###### ARTÍCULO 341.
-
-El delito de enriquecimiento ilícito se castigará con las siguientes sanciones:
-
-I. Decomiso de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente de cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos, y
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
-
-### CAPÍTULO IV. Violación de Correspondencia
 
 ###### ARTÍCULO 342.
 
@@ -4561,11 +4577,7 @@ A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, X
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
-### CAPÍTULO I. Prevenciones Generales
-
-(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO IV. Violación de Correspondencia
 
 ###### ARTÍCULO 343.
 
@@ -4585,6 +4597,12 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2017)</small>
 
+### CAPÍTULO I. Prevenciones Generales
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ### CAPÍTULO II. Dolo en la Emisión del Voto
 
 (NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
@@ -4595,15 +4613,9 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO IV. Violaciones al Proceso Electoral
-
-(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
-
 ## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+### CAPÍTULO IV. Violaciones al Proceso Electoral
 
 (NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -4637,7 +4649,11 @@ Este delito se sancionará con una pena de cuatro a siete años de prisión, y s
 
 Las penas previstas en este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
 
-### CAPÍTULO VI. Inducción Ilícita a Electores
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 346.
 
@@ -4651,11 +4667,7 @@ También comete el delito a que se refiere este capítulo quien en negocio estab
 
 En caso de reincidencia, o que además del incumplimiento a las normas de que se trata se haya incurrido en otro ilícito, con independencia de las penas o sanciones que correspondan se decretará la cancelación definitiva de la licencia o permiso y, en su caso, el decomiso de los bienes respectivos.
 
-### CAPÍTULO VII. No Desempeño del Cargo
-
-(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ###### ARTÍCULO 348.
 
@@ -4693,7 +4705,7 @@ Este delito se sancionará con una pena de tres a cinco años de prisión, y san
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; Y LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+### CAPÍTULO VII. No Desempeño del Cargo
 
 (NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -4739,11 +4751,11 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte, se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de doscientos a ochocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
 
 (NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 357.
 
@@ -4778,6 +4790,12 @@ Si se trata de un elemento de cualquier corporación policíaca se le impondrá 
 En caso de reincidencia de alguno de los delitos a que se refieren los artículos anteriores de este capítulo, la inhabilitación para manejar podrá ser definitiva y el juez lo comunicará a las autoridades competentes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 361.
 
@@ -5658,3 +5676,19 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0811.- SE REFORMA EL ARTÍCULO 182 EN SUS AHORA PÁRRAFOS SEGUNDO Y TERCERO; Y DEROGA DEL MISMO ARTÍCULO 182 SU AHORA PÁRRAFO CUARTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0812.- SE REFORMA EL ARTÍCULO 17 EN SU FRACCIÓN VIII; Y ADICIONA AL MISMO ARTÍCULO 17 UNA FRACCIÓN, ÉSTA COMO IX, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO CUARTO, EL CAPÍTULO I BIS “DE LA COMERCIALIZACIÓN DE RÉPLICA DE ARMAS”, Y EL ARTÍCULO 287 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
