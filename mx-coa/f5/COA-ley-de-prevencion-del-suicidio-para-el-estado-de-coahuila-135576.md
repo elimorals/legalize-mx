@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-del-suicidio-para-el-estado-de-coahuila-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2020-10-20"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -90,6 +90,10 @@ IV. Posvención.- Las acciones e intervenciones posteriores a un evento autodest
 ###### Artículo 6°.
 
 La aplicación de la presente ley corresponde a la Secretaría de Salud del Gobierno del Estado de Coahuila de Zaragoza, en coordinación con las diferentes instituciones del sector salud y los Ayuntamientos de la entidad, esto, en conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+Dadas las investigaciones de la Fiscalía General del Estado sobre aquellos suicidios consumados, y con el objetivo de conocer las causas que llevaron a la persona a perpetrar el acto, los dictámenes de las mismas deberán ser solicitados por las entidades señaladas en el párrafo anterior, a fin de realizar estudios con los antecedentes y llevar a cabo acciones de prevención de suicidio establecidas en la presente ley.
 
 ###### Artículo 7°.
 
@@ -304,3 +308,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 756.- SE REFORMA: EL ARTÍCULO 1°, LA FRACCIÓN III DEL ARTÍCULO 3° Y EL ARTÍCULO 16; Y SE ADICIONA: LA FRACCIÓN IV AL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 750.- SE AGREGA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
