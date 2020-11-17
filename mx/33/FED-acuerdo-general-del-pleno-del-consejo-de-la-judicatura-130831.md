@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-130831"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-10-10"
-last_updated: "2018-10-10"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130831&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2018-09-27"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 10 de octubre de 2018.
 
@@ -87,7 +87,9 @@ IX. Inventario de datos personales: Catálogo de sistemas de datos con independe
 
 X. Ley: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-XI. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Centros de Justicia Penal Federal, así como el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones;
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XI. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito, Centros de Justicia Penal Federal, el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones y los Tribunales Laborales Federales;
 
 XII. Políticas: Definición de directrices estratégicas para la gestión y tratamiento de datos personales, alineadas a las atribuciones de la Institución. Incluye la elaboración y emisión interna de programas, entre otros documentos regulatorios;
 
@@ -362,3 +364,27 @@ QUINTO. La Unidad de Transparencia, dentro de los quince días hábiles siguient
 SEXTO. De conformidad con el artículo 30, fracción I, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, las instancias solicitarán los recursos necesarios para la instrumentación de los programas y políticas de protección de datos personales, conforme a las disposiciones que regulan la programación, presupuestación, ejercicio y control de los recursos públicos.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de protección de datos personales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de agosto de dos mil dieciocho, por mayoría de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Jorge Antonio Cruz Ramos, Rosa Elena González Tirado, con salvedades, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández; con el voto en contra del señor Consejero Felipe Borrego Estrada.- Ciudad de México, a veintisiete de septiembre de dos mil dieciocho.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
