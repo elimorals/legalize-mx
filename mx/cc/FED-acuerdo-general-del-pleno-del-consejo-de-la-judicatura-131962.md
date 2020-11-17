@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2020-09-01"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -149,7 +149,9 @@ XXX. Órgano auxiliar instructor: Órgano jurisdiccional que actúa en auxilio d
 
 XXXI. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito.
 
-Las referencias que se hagan en este Acuerdo a los juzgados de Distrito o a sus titulares también se entenderán hechas a los jueces de Control, de Ejecución y tribunales de enjuiciamiento; y aquellas que se hagan a los tribunales Unitarios de Circuito o sus titulares, a los tribunales de Alzada;
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Las referencias que se hagan en este Acuerdo a los juzgados de Distrito o a sus titulares también se entenderán hechas a los jueces de Control, de Ejecución, tribunales de enjuiciamiento así como a los Tribunales Laborales Federales; y a sus titulares se entenderán hechas a los jueces tanto por lo que hace a los tribunales individuales como colectivos; y aquellas que se hagan a los tribunales Unitarios de Circuito o sus titulares, a los tribunales de Alzada;
 
 XXXII. Pleno: Pleno del Consejo;
 
@@ -1995,9 +1997,15 @@ Los visitadores, secretarios técnicos y los servidores públicos de los órgano
 
 En las visitas de inspección, el visitador y los secretarios técnicos, en su caso, se identificarán con credencial del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 225.
 
-Para el desarrollo de las visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico adecuado al visitador y a sus colaboradores, procurando se continúe el funcionamiento normal del órgano, con excepción de los Centros de Justicia Penal Federal, caso en el cual la asignación corresponderá al Juez de Despacho del Centro de Justicia Penal Federal.
+Para el desarrollo de las visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico adecuado al visitador y a sus colaboradores, procurando se continúe el funcionamiento normal del órgano, con excepción de los Centros de Justicia Penal Federal y de los Tribunales Laborales Federales, casos en los cuales la asignación corresponderá al Juez de Despacho del Centro de Justicia Penal Federal o, en su caso, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales.
+
+Las y los Jueces de Distrito de los Tribunales Laborales Federales deberán, dentro de los primeros quince días hábiles de cada año, designar de entre uno de ellos al que gestionará los procedimientos a que hace relación este Acuerdo para el tribunal de su adscripción y hacerlo del conocimiento del Visitador General y de las autoridades correspondientes dentro de las cuarenta y ocho horas siguientes a su designación.
+
+Durante dicho encargo, la o el Juez designado por sus pares asumirá la responsabilidad relativa a la conducción de los procedimientos a que hace alusión este Acuerdo. Las funciones previstas en este artículo durarán un año.
 
 ###### Artículo 226.
 
@@ -2049,13 +2057,17 @@ Las visitas ordinarias de inspección tienen por objeto recabar, en forma metód
 
 Las visitas de inspección que se realicen al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, se limitarán a los aspectos meramente administrativos entre otros, a los datos estadísticos que comprenderán lo relativo al tipo de asunto, la temporalidad de las actuaciones judiciales, movimientos de existencia anterior, ingreso, egreso y la existencia actual, conforme a los listados proporcionados por el órgano jurisdiccional visitado y la revisión del libro de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 233.
 
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos una vez por año por los Visitadores Judiciales "B" en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal.
+Las visitas ordinarias de inspección se llevarán a cabo cuando menos una vez por año por los Visitadores Judiciales "B" en la sede del órgano jurisdiccional, del Centro de Justicia Penal Federal o Tribunales Laborales Federales.
 
 La visita ordinaria constará de dos etapas:
 
-I. Informe circunstanciado que deberá rendir el titular del órgano jurisdiccional, el presidente en caso de los tribunales Colegiados de Circuito o Plenos de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, o el encargado del despacho sobre aspectos relativos al funcionamiento del órgano jurisdiccional; y
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+I. Informe circunstanciado que deberá rendir el titular del órgano jurisdiccional, el presidente en caso de los tribunales Colegiados de Circuito o Plenos de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho sobre aspectos relativos al funcionamiento del órgano jurisdiccional; y
 
 II. Visita física en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal.
 
@@ -2083,15 +2095,23 @@ El Visitador General, de conformidad con el programa que elabore para la prácti
 
 Para la rendición del informe circunstanciado se observará lo siguiente:
 
-I. El Visitador General solicitará mediante oficio al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, al Juez de Despacho del Centro de Justicia Penal Federal, o al encargado del despacho, la rendición del informe circunstanciado, en el que señalará con precisión el periodo que comprende la inspección, el plazo y horario para presentar el informe;
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-II. El titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, o el encargado del despacho, según corresponda, deberán rendir el informe circunstanciado dentro de los quince días naturales siguientes a la conclusión del periodo a inspeccionar. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
+I. El Visitador General solicitará mediante oficio al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, al Juez de Despacho del Centro de Justicia Penal Federal, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o al encargado del despacho, la rendición del informe circunstanciado, en el que señalará con precisión el periodo que comprende la inspección, el plazo y horario para presentar el informe;
+
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. El titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, deberán rendir el informe circunstanciado dentro de los quince días naturales siguientes a la conclusión del periodo a inspeccionar. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
 
 El Visitador General podrá modificar el plazo previsto en el párrafo anterior cuando exista causa justificada para ello;
 
-III. El informe circunstanciado deberá rendirse conforme a los formatos acordados por la Comisión de Vigilancia. Dicho informe y las relaciones que lo integran deberán remitirse electrónicamente a través del Sistema Integral para la práctica y procesamiento de visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe; y
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-IV. Del informe y de las constancias que lo integran se imprimirá un tanto con sus respectivas relaciones, el que permanecerá en el órgano jurisdiccional para su posible consulta, y otro sin relaciones que se remitirá, ya sea por mensajería o bien se entregará de manera personal, a la Visitaduría Judicial para los efectos legales conducentes. Los documentos impresos serán firmados por el titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe.
+III. El informe circunstanciado deberá rendirse conforme a los formatos acordados por la Comisión de Vigilancia. Dicho informe y las relaciones que lo integran deberán remitirse electrónicamente a través del Sistema Integral para la práctica y procesamiento de visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe; y
+
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+IV. Del informe y de las constancias que lo integran se imprimirá un tanto con sus respectivas relaciones, el que permanecerá en el órgano jurisdiccional para su posible consulta, y otro sin relaciones que se remitirá, ya sea por mensajería o bien se entregará de manera personal, a la Visitaduría Judicial para los efectos legales conducentes. Los documentos impresos serán firmados por el titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
@@ -2115,9 +2135,17 @@ b) El Centro Nacional de Justicia Especializado en Control de Técnicas de Inves
 
 c) Los adscritos a los Centros de Justicia Penal Federal, supuesto en que se estará a lo dispuesto en la fracción IV de este artículo;
 
-IV. En los Centros de Justica Penal Federal, dos días para la Administración del Centro, y un día más para cada uno de los órganos jurisdiccionales que lo integren; y
+> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-V. Dos días para las unidades de notificadores comunes.
+IV. En los Centros de Justicia Penal Federal, dos días para la Administración del Centro, y un día más para cada uno de los órganos jurisdiccionales que lo integren;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+V. Dos días para la revisión de aspectos administrativos y uno más por cada juez que integren los Tribunales Laborales Federales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+VI. Dos días para las unidades de notificadores comunes.
 
 El Visitador General podrá autorizar la modificación de los plazos y horario señalados, siempre que exista causa justificada.
 
@@ -2129,7 +2157,9 @@ Las visitas físicas y a distancia se efectuarán en días y horas hábiles, a m
 
 Para los efectos del párrafo anterior, se entenderán como días hábiles todos los del año, con excepción de aquellos que establece el artículo 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo. Como horas hábiles se entenderán las comprendidas entre las 9:00 a 15:00 y de 16:00 a 18:00 horas.
 
-El titular del órgano jurisdiccional, a propuesta del Visitador Judicial "B", designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano, y en el caso de los Centros de Justicia Penal Federal, la designación le corresponderá al Administrador.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+El titular del órgano jurisdiccional, a propuesta del Visitador Judicial "B", designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano, y en el caso de los Centros de Justicia Penal Federal y los Tribunales Laborales Federales, la designación le corresponderá al Administrador y, en el segundo supuesto, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
@@ -2139,11 +2169,11 @@ El Visitador General elaborará un programa y calendario de las visitas físicas
 
 Una vez notificadas a la Comisión de Vigilancia, las fechas en que se realizarán las visitas ordinarias de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la citada Comisión.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 240.
 
-Para efectos del artículo 100 de la Ley Orgánica, el titular de la Secretaria Ejecutiva de Vigilancia sorteará entre los Visitadores Judiciales "B" la práctica de visitas ordinarias de inspección a los órganos jurisdiccionales y Centros de Justicia Penal Federal, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional o Centro de Justicia Penal Federal el año siguiente.
+Para efectos del artículo 100 de la Ley Orgánica, el titular de la Secretaría Ejecutiva de Vigilancia sorteará entre los Visitadores Judiciales "B" la práctica de visitas ordinarias de inspección a los órganos jurisdiccionales, Centros de Justicia Penal Federal y Tribunales Laborales Federales, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional, Centro de Justicia Penal Federal o Tribunal Laboral Federal el año siguiente.
 
 ###### Artículo 241.
 
@@ -2153,9 +2183,11 @@ Una vez que se conozca el resultado del sorteo a que se refiere el artículo ant
 
 La asignación de los órganos jurisdiccionales o Centros de Justicia Penal Federal a los Visitadores Judiciales "B" no será susceptible de cambio entre éstos, pero si alguno tuviere impedimento legal para realizar una visita de inspección lo deberá manifestar de conformidad con lo previsto en el artículo 230 de este Acuerdo. Si el impedimento es calificado de legal, el Visitador General designará al Visitador Judicial "B" que deba practicar la visita.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 243.
 
-Para la práctica de las visitas físicas, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, y, en su caso, al Juez de Despacho del Centro de Justicia Penal Federal, la fecha en que se iniciará, para que se proceda a fijar el aviso correspondiente.
+Para la práctica de las visitas físicas, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, y, en su caso, al Juez de Despacho del Centro de Justicia Penal Federal o a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, la fecha en que se iniciará, para que se proceda a fijar el aviso correspondiente.
 
 ###### Artículo 244.
 
@@ -2165,13 +2197,17 @@ En el Centro Nacional de Justicia Especializado en Control de Técnicas de Inves
 
 El aviso también se fijará en el edificio donde se localizan los juzgados a que se refiere el párrafo anterior, para el conocimiento de los interesados en presentar quejas por escrito.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 245.
 
-El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional, del presidente del tribunal Colegiado de Circuito o Pleno de Circuito y, en su caso, del Juez de Despacho del Centro de Justicia Penal Federal visitados, no será causa de diferimiento de la visita.
+El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional, del presidente del tribunal Colegiado de Circuito o Pleno de Circuito, del Juez de Despacho del Centro de Justicia Penal Federal y en su caso de la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales visitados, no será causa de diferimiento de la visita.
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 246.
 
-Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal; su presidente tratándose de tribunal Colegiado o Pleno de Circuito, o por quien, en su caso, se encuentre encargado del despacho, así como por el Juez de Despacho del Centro de Justicia Penal Federal, respecto de la administración del mismo, sin perjuicio del auxilio que preste a los juzgadores de éste.
+Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal; su presidente tratándose de tribunal Colegiado o Pleno de Circuito, o por quien, en su caso, se encuentre encargado del despacho, así como por el Juez de Despacho del Centro de Justicia Penal Federal o la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, respecto de la administración de los mismos, sin perjuicio del auxilio que preste a los juzgadores de éste.
 
 ###### Artículo 247.
 
@@ -2189,15 +2225,19 @@ La falta de fijación del aviso de inicio de la visita ordinaria no será obstá
 
 En el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, cuando no se hubiera publicado el aviso electrónico, el Visitador Judicial "B" dispondrá que se realice dicha publicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 250.
 
-El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional visitado, con excepción de aquellos que estén adscritos a un Centro de Justicia Penal Federal, designe un secretario que dará fe de las actuaciones que se practiquen durante la visita y que proporcionará los elementos y datos que le soliciten. Si el titular del órgano jurisdiccional no designa a ningún secretario, la visita se realizará con el que indique el propio Visitador Judicial "B", el cual deberá estar adscrito al órgano jurisdiccional inspeccionado.
+El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional, o a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales visitados, con excepción de aquellos que estén adscritos a un Centro de Justicia Penal Federal, designe un secretario que dará fe de las actuaciones que se practiquen durante la visita y que proporcionará los elementos y datos que le soliciten. Si el titular del órgano jurisdiccional no designa a ningún secretario, la visita se realizará con el que indique el propio Visitador Judicial "B", el cual deberá estar adscrito al órgano jurisdiccional inspeccionado.
 
 En los Centros de Justicia Penal Federal, el Administrador, por lo que corresponde a la Administración del Centro, y los titulares de los órganos jurisdiccionales, por lo que toca a su actividad jurisdiccional, designarán dos testigos de asistencia de los adscritos al Centro de Justicia Penal Federal para los fines señalados en el párrafo anterior. Si no llevan a cabo dicha designación, la visita se realizará con quienes indique el propio Visitador Judicial "B", de entre los servidores públicos del Centro.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 251.
 
-El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional y, en su caso, de la Administración del Centro de Justicia Penal Federal, para comprobar su asistencia.
+El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional y, en su caso, de la Administración del Centro de Justicia Penal Federal o a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, para comprobar su asistencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
@@ -2223,9 +2263,11 @@ Los Visitadores Judiciales "B", al concluir la revisión de los expedientes soli
 
 Al finalizar la inspección y antes del cierre del acta, el Visitador Judicial "B" entregará un tanto de ésta al titular o titulares del órgano jurisdiccional inspeccionado; al encargado del despacho del mismo; o al Juez de Despacho del Centro de Justicia Penal Federal, según corresponda, para que se impongan de su contenido, con el objeto de que manifiesten lo que a su derecho convenga en un plazo máximo de tres horas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 255.
 
-De toda visita física se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión de Vigilancia, la cual firmarán electrónicamente el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado; el encargado del despacho; y el Juez de Despacho del Centro de Justicia Penal Federal según corresponda, así como el secretario designado para atender la visita o los testigos de asistencia en el caso de los Centros de Justicia Penal Federal.
+De toda visita física se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión de Vigilancia, la cual firmarán electrónicamente el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado; el encargado del despacho; el Juez de Despacho del Centro de Justicia Penal Federal; o cada Jueza y Juez de Distrito integrante de un Tribunal Laboral Federal según corresponda, así como el secretario designado para atender la visita o los testigos de asistencia en el caso de los Centros de Justicia Penal Federal.
 
 El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará en el órgano jurisdiccional y, en su caso, en la Administración del Centro de Justicia Penal Federal.
 
@@ -2347,11 +2389,13 @@ Las visitas extraordinarias se desarrollarán en días hábiles, dentro del hora
 
 En el supuesto de que al inicio o durante el desarrollo de la visita extraordinaria existan indicios de afectación a la integridad del personal designado para la práctica de ésta, le serán proporcionadas de manera inmediata las medidas de seguridad necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 270.
 
-El Visitador al inicio de la visita extraordinaria deberá identificarse, junto con su personal de apoyo, con credencial oficial del Poder Judicial de la Federación ante el órgano jurisdiccional visitado, y hará entrega al titular del órgano jurisdiccional; al encargado del despacho; o al Juez de Despacho del Centro de Justicia Penal Federal visitado, de un oficio en el que se le haga saber únicamente la fecha y procedencia de la orden para la práctica de la visita. La imposibilidad de entregar el oficio, no será obstáculo para que la visita extraordinaria inicie.
+El Visitador al inicio de la visita extraordinaria deberá identificarse, junto con su personal de apoyo, con credencial oficial del Poder Judicial de la Federación ante el órgano jurisdiccional visitado, y hará entrega al titular del órgano jurisdiccional; al encargado del despacho; al Juez de Despacho del Centro de Justicia Penal Federal; o a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales visitados, de un oficio en el que se le haga saber únicamente la fecha y procedencia de la orden para la práctica de la visita. La imposibilidad de entregar el oficio, no será obstáculo para que la visita extraordinaria inicie.
 
-El Visitador irá acompañado de, por lo menos, dos Secretarios Técnicos “A”.
+El Visitador irá acompañado de, por lo menos, dos Secretarios Técnicos "A".
 
 ###### Artículo 271.
 
@@ -2439,9 +2483,11 @@ III. Estar acompañado de una persona de su confianza o, en su caso, de un espec
 
 El Visitador deberá auxiliar en la ejecución de las medidas cautelares decretadas con motivo de una visita extraordinaria.
 
+> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 284.
 
-El acta de visita extraordinaria contendrá la fecha y hora de inicio y conclusión; el lugar en donde se realizó; el nombre de las personas que intervinieron; así como una relación circunstanciada de los datos recabados; las quejas presentadas, por escrito o verbalmente, en contra de los servidores públicos que integran el órgano jurisdiccional o el Centro de Justicia Penal Federal visitado; y el nombre y firmas del Visitador y de sus Secretarios Técnicos "A" quienes tendrán fe pública y fungirán como testigos de asistencia.
+El acta de visita extraordinaria contendrá la fecha y hora de inicio y conclusión; el lugar en donde se realizó; el nombre de las personas que intervinieron; así como una relación circunstanciada de los datos recabados; las quejas presentadas, por escrito o verbalmente, en contra de los servidores públicos que integran el órgano jurisdiccional, el Centro de Justicia Penal Federal o el Tribunal Laboral Federal visitado; y el nombre y firmas del Visitador y de sus Secretarios Técnicos "A" quienes tendrán fe pública y fungirán como testigos de asistencia.
 
 ###### Artículo 285.
 
@@ -3004,3 +3050,25 @@ D.O.F. 1 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
