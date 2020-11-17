@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2018-08-24"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
@@ -67,17 +67,15 @@ Artículo Primero. El Consejo de la Judicatura Federal aprueba la aplicación de
 
 Queda prohibida la ocupación de meritorios y personas que presten servicios o realicen actividades propias del servicio judicial, sin recibir remuneración o apoyo económico alguno procedente del Consejo de la Judicatura Federal. Los que deseen realizar prácticas judiciales, deberán incluirse en el Programa materia de este Acuerdo General.
 
-> <small>(REFORMADO POR EL PUNTO ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, RESPECTO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares, incluyendo los adscritos a los Centros de Justicia Penal Federal.
+Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares, incluyendo los adscritos a los Centros de Justicia Penal Federal, y a los Tribunales Laborales Federales.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 2 y hasta 3 por tribunal Unitario; 2 y hasta 4 por juzgado de Distrito, pero en el caso de los Centros de Justicia Penal Federal y de los Tribunales Laborales Federales, solo 1 por cada Juez de Distrito. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo de la Judicatura Federal.
 
-Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 2 y hasta 3 por tribunal Unitario; 2 y hasta 4 por juzgado de Distrito pero, en el caso de los Centros de Justicia Penal Federal solo 1 por cada Juez de Distrito especializado en el sistema penal acusatorio. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
+Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de "Prácticas Judiciales" en un órgano jurisdiccional, incluyendo los adscritos a los Tribunales Laborales Federales y a los Centros de Justicia Penal Federal. En este último caso, la solicitud la hará el Administrador del Centro respectivo.
 
-Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de "Prácticas Judiciales" en un órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal. En este último caso la solicitud la hará el Administrador del Centro respectivo.
-
-Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal coadyuvará en la coordinación, difusión y seguimiento de dicho Programa en los Centros de Justicia Penal Federal.
+Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales. Las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal y de Implementación de la Reforma en Materia de Justicia Laboral coadyuvarán en la coordinación, difusión y seguimiento de dicho Programa en los Centros de Justicia Penal Federal y los Tribunales Laborales Federales.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -292,3 +290,25 @@ DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judica
 DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
