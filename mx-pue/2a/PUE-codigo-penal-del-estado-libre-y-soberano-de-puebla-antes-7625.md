@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-10-23"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1121,13 +1121,15 @@ IV.- Se dé a la fuga o abandone el lugar del accidente.
 
 Quedan exceptuados de lo dispuesto por la fracción II del presente artículo, en lo que respecta al uso del carril exclusivo para la circulación del Sistema de Transporte Público Masivo, los conductores de vehículos de emergencia.
 
-Además se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. La duración de la suspensión podrá ser de uno a diez años.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Además, dependiendo de los casos previstos en el presente artículo, se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. En el caso de homicidio culposo, en que se actualice lo enunciado en la fracción I del presente artículo, procederá siempre la cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. En los demás casos la duración de la suspensión podrá ser de uno a diez años.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-Cuando se cause homicidio por actos u omisiones culposos de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación de dos a diez años para transportar pasajeros, aún si lo hiciere en forma ocasional.
+Cuando se cause homicidio por actos u omisiones culposos de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación de seis a diez años para transportar pasajeros, aun si lo hiciere en forma ocasional.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -4303,11 +4305,13 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 A quien sin consentimiento previamente informado, realice extracción de óvulos, inseminación artificial o transferencia de embriones, en una mujer mayor de dieciocho años, se le impondrá de cuatro a siete años de prisión.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 343 Ter.
 
-A quien sin consentimiento previamente informado de persona mayor de dieciocho años realice en ella un procedimiento de esterilización irreversible, se le impondrán de diez a quince años de prisión. Si el procedimiento de esterilización es reversible se reducirá una tercera parte de la pena señalada.
+Comete el delito de esterilidad provocada quien, sin el consentimiento previamente informado de quien resulte afectado, y sin que exista causa técnica que justifique la intervención, practique procedimientos quirúrgicos, químicos o de cualquier otra índole para hacer que la persona quede estéril. Al responsable de esterilidad provocada se le impondrán de diez a quince años de prisión y multa de cincuenta a doscientas cincuenta unidades de medida y actualización.
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable, la suspensión del empleo o profesión por un plazo igual al señalado en el artículo 66 del presente Código, siempre que en virtud del ejercicio de su profesión haya ocasionado un daño irreversible para la o el paciente. Si el procedimiento de esterilización es reversible se reducirá una tercera parte de la pena señalada; en ambos casos se le impondrá al responsable, además del pago de la reparación del daño que contenga los gastos de hospitalización, los gastos del procedimiento quirúrgico correspondiente para revertir la esterilidad y el tratamiento médico que requiera la víctima.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4456,6 +4460,34 @@ Si el ofendido fuere mayor de sesenta años o persona con discapacidad, la sanci
 ###### Artículo 356.
 
 Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 356 Bis.
+
+Comete el delito de violencia obstétrica quien, siendo personal médico, paramédico, de enfermería y administrativo de las instituciones de salud públicas o privadas; dañe o denigre a la mujer durante el embarazo, el parto, puerperio o en emergencias obstétricas; también se configurará el delito cuando la atención médica brindada se exprese en un trato cruel y deshumanizado, en un abuso de medicalización y patologización de los procesos naturales que traiga consigo consecuencias como la pérdida de la autonomía y capacidad de decidir libremente sobre su cuerpo y su sexualidad, la pérdida de la vida de la mujer, o en su caso, del producto de la gestación o del recién nacido. Comete este delito el personal de salud antes referido que:
+
+I. No atienda o no brinde atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II. Altere el proceso natural del parto de bajo riesgo, a través del uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+III. No obstante existir condiciones para el parto natural, practique el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+IV. Acose o presione psicológica u ofensivamente a una parturienta, con el fin de inhibir la libre decisión de su maternidad;
+
+V. Sin causa médica justificada, obstaculice el apego del niño o la niña con su madre, a través de la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer;
+
+VI. Aun cuando existan los medios necesarios para la realización del parto vertical, obligue a la mujer a parir acostada sobre su columna y con las piernas levantadas o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas;
+
+VII. Fotografié o grabe por cualquier medio el procedimiento de atención médica sin que medie el consentimiento voluntario de la paciente;
+
+VIII. Ingrese, atienda o intervenga durante la atención médica sin contar con la acreditación correspondiente, la justificación médica en el proceso, o sin que medie el consentimiento voluntario de la paciente; y
+
+IX. Violente a la mujer física, sexual o emocionalmente, incluyendo el maltrato verbal, durante el embarazo, parto o puerperio.
+
+A quien ejecute las conductas señaladas en las fracciones I, II, III y VI, del presente artículo, se le impondrán de tres a seis años de prisión y multa de cincuenta a trescientas unidades de medida y actualización.
+
+A quien ejecute las conductas señaladas en las fracciones IV, V, VII, VIII y IX, del presente artículo, se le impondrán de seis meses a tres años de prisión, y multa de cincuenta a doscientas unidades de medida y actualización.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2012)</small>
 
@@ -6984,6 +7016,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER Y EL TERCER PÁRRAFO DEL ARTÍCULO 470, Y ADICIONA UN CUARTO PÁRRAFO AL 470, Y LOS ARTÍCULOS 474 BIS Y 474 TER AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EN SU TERCER PÁRRAFO EL ARTÍCULO 85 BIS Y EL 86 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 343 TER Y ADICIONA EL ARTÍCULO 356 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
