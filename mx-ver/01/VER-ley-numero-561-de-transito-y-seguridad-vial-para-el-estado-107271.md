@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2020-03-02"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -1661,7 +1661,9 @@ Los policías viales podrán imponer, por contravención a las disposiciones con
 
 Los conductores que cometan alguna infracción a esta Ley o su Reglamento y realicen una acción u omisión que dé o pueda dar lugar a la tipificación de un delito, serán puestos a disposición de la autoridad competente por conducto de la policía vial que tuvo conocimiento del hecho, sin perjuicio de las sanciones que les corresponda por la infracción vial.
 
-En caso de que los infractores a que se refiere el párrafo anterior sean menores de edad, el policía vial que tenga conocimiento del caso deberá, además, hacerlo del conocimiento de los padres o tutores para los efectos que correspondan.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que los infractores a que se refiere el párrafo anterior sean menores de edad, el policía vial que tenga conocimiento del caso deberá, además, hacerlo del conocimiento de los padres o tutores para los efectos que correspondan, incluyendo así la responsabilidad solidaria en los términos que esta Ley señala.
 
 ###### Artículo 149.
 
@@ -2008,3 +2010,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo Estatal deberá emitir, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, las disposiciones reglamentarias que correspondan.
 
 Tercero. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 600 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 148 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. El Ejecutivo del Estado contará con un plazo de 90 días naturales contado a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
