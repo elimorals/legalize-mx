@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-116906"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-10-20"
-last_updated: "2016-10-20"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116906&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-10-11"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LOS SERVICIOS EN LINEA, RELATIVOS A LA TRAMITACION ELECTRONICA DE LAS COMUNICACIONES OFICIALES ENVIADAS POR PARTE DE LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, A LAS REPRESENTACIONES CONSULARES DEL ESTADO MEXICANO, PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES EN EL EXTRANJERO QUE NO IMPLIQUEN EJECUCION COACTIVA, DENOMINADAS COMISIONES ROGATORIAS CONSULARES]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS EN LÍNEA, RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DE LAS COMUNICACIONES OFICIALES ENVIADAS POR PARTE DE LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN, A LAS REPRESENTACIONES CONSULARES DEL ESTADO MEXICANO, PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES EN EL EXTRANJERO QUE NO IMPLIQUEN EJECUCIÓN COACTIVA, DENOMINADAS COMISIONES ROGATORIAS CONSULARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de octubre de 2016.
 
@@ -57,17 +59,23 @@ Por lo anterior se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto regular en los órganos jurisdiccionales del Poder Judicial de la Federación, la tramitación electrónica de las comunicaciones oficiales con las que se pretendan desahogar diligencias judiciales en el extranjero a través de las representaciones consulares del Estado Mexicano, en adelante comisiones rogatorias consulares, de conformidad con las materias y bajo las condiciones que les es permitido en los tratados internacionales y de acuerdo con lo establecido en la Ley del Servicio Exterior Mexicano, su Reglamento, el Código Federal de Procedimientos Civiles, en lo conducente el Código Federal de Procedimientos Penales, el Código Nacional de Procedimientos Penales y demás disposiciones aplicables, que podrán ser las siguientes:
+El presente Acuerdo tiene por objeto regular en los órganos jurisdiccionales del Poder Judicial de la Federación, la tramitación electrónica de las comunicaciones oficiales con las que se pretendan desahogar diligencias judiciales en el extranjero a través de las representaciones consulares del Estado Mexicano, en adelante comisiones rogatorias consulares, de conformidad con las materias y bajo las condiciones que les es permitido en los tratados internacionales y de acuerdo con lo establecido en la Ley del Servicio Exterior Mexicano, su Reglamento, el Código Federal de Procedimientos Civiles, en lo conducente el Código Federal de Procedimientos Penales, el Código Nacional de Procedimientos Penales, la Ley Federal del Trabajo y demás disposiciones aplicables, que podrán ser las siguientes:
 
-I. En materia civil y mercantil:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+I. En materia civil, mercantil y laboral:
 
 a) Notificación de documentos procesales;
 
 b) Recepción de pruebas, declaraciones y testimonios;
 
-c) Notificación de traslado de documentos judiciales y extrajudiciales en materia civil y mercantil; así como obtención de pruebas;
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+c) Notificación de traslado de documentos judiciales y extrajudiciales en materia civil, mercantil y laboral; así como obtención de pruebas;
 
 d) Tramitación de comisiones rogatorias consulares;
 
@@ -103,19 +111,25 @@ l) Cualquier otra forma de apoyo jurídico que sea compatible con la legislació
 
 Lo anterior, siempre y cuando no implique ejecución coactiva.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Los Juzgados de Distrito y los Tribunales de Circuito, incluyendo los adscritos a los Centros de Justicia Penal Federal, enviarán electrónicamente a través del Sistema Integral de Seguimiento de Expedientes a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, las comisiones rogatorias consulares y sus documentos digitalizados anexos.
+Los Juzgados de Distrito y los Tribunales de Circuito, incluyendo los adscritos a los Centros de Justicia Penal Federal y a los Tribunales Laborales Federales, enviarán electrónicamente a través del Sistema Integral de Seguimiento de Expedientes o, en su caso, del Sistema Integral de Gestión de Expedientes, a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, las comisiones rogatorias consulares y sus documentos digitalizados anexos.
 
 ###### Artículo 3.
 
 En el trámite electrónico de las comisiones rogatorias consulares y sus anexos, invariablemente se hará uso de la Firma Electrónica Certificada del Poder Judicial de la Federación o de otros certificados reconocidos por el Poder Judicial de la Federación, sin que se requiera para su validez, de legalización ni de “apostillamiento”, de conformidad con el artículo 552 del Código Federal de Procedimientos Civiles; asimismo todos los documentos deberán ser firmados electrónicamente por los servidores públicos que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-El resultado del trámite que hayan dado los consulados de México en el extranjero a las comisiones rogatorias consulares, se transmitirá electrónicamente a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, la que dictaminará y enviará al juzgado exhortante (Juzgados de Distrito y los Tribunales de Circuito, incluyendo los adscritos a los Centros de Justicia Penal Federal), a través del Sistema Integral de Seguimiento de Expedientes.
+El resultado del trámite que hayan dado los consulados de México en el extranjero a las comisiones rogatorias consulares, se transmitirá electrónicamente a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, la que dictaminará y enviará al juzgado exhortante (Juzgados de Distrito y los Tribunales de Circuito, incluyendo los adscritos a los Centros de Justicia Penal Federal y a los Tribunales Laborales Federales), a través del Sistema Integral de Seguimiento de Expedientes o, en su caso, del Sistema Integral de Gestión de Expedientes.
 
-De igual manera, los órganos jurisdiccionales mencionados en el párrafo anterior, recibirán a través del Sistema Integral de Seguimiento de Expedientes, las solicitudes provenientes de la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, por las que informen que no es posible presentar en su totalidad o en parte el auxilio jurídico solicitado, debido a una cuestión de forma o falta de información que se considere subsanable, y de la misma manera darán respuesta a lo solicitado, a fin de evitar la devolución o rechazo de la comisión rogatoria consular.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+De igual manera, los órganos jurisdiccionales mencionados en el párrafo anterior, recibirán a través del Sistema Integral de Seguimiento de Expedientes o, en su caso, del Sistema Integral de Gestión de Expedientes, las solicitudes provenientes de la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores, por las que informen que no es posible presentar en su totalidad o en parte el auxilio jurídico solicitado, debido a una cuestión de forma o falta de información que se considere subsanable, y de la misma manera darán respuesta a lo solicitado, a fin de evitar la devolución o rechazo de la comisión rogatoria consular.
 
 Las respuestas que se generen por parte de la Secretaría de Relaciones Exteriores a las solicitudes de auxilio jurídico, o bien, a los requerimientos judiciales que se formulen a esta, podrán transmitirse a los órganos jurisdiccionales a través de los sistemas electrónicos de comunicación con firma electrónica de las autoridades facultadas para dichos efectos.
 
@@ -155,9 +169,11 @@ Cuando en las comisiones rogatorias consulares se establezca un plazo o se haya 
 
 De la misma manera deberán motivarse las razones de que una solicitud se haya clasificado como confidencial, en términos de las disposiciones aplicables en materia de transparencia y acceso a la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-En los casos que la comisión rogatoria consular conlleve el uso del método de videoconferencia, además de cumplirse con los requisitos establecidos en el artículo 5 de este Acuerdo, se deberá especificar a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores el día, hora y ciudad en que se requiere se lleve a cabo la diligencia judicial, a efecto de que se lo comunique a la representación consular, se cite a los comparecientes y se informe electrónicamente al titular del órgano jurisdiccional, a través del Sistema Integral de Seguimiento de Expedientes, a efecto de programar el enlace.
+En los casos que la comisión rogatoria consular conlleve el uso del método de videoconferencia, además de cumplirse con los requisitos establecidos en el artículo 5 de este Acuerdo, se deberá especificar a la Dirección General de Asuntos Jurídicos de la Secretaría de Relaciones Exteriores el día, hora y ciudad en que se requiere se lleve a cabo la diligencia judicial, a efecto de que se lo comunique a la representación consular, se cite a los comparecientes y se informe electrónicamente al titular del órgano jurisdiccional, a través del Sistema Integral de Seguimiento de Expedientes o, en su caso, del Sistema Integral de Gestión de Expedientes, a efecto de programar el enlace.
 
 Igualmente, los titulares de los órganos jurisdiccionales, deberán tomar en consideración los husos horarios del país en que se vaya a desahogar la videoconferencia, con la finalidad de que está se lleve a cabo en un horario conveniente en ambos países.
 
@@ -226,3 +242,27 @@ TERCERO. En un término de 30 días posteriores a la aprobación del presente Ac
 CUARTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, en el marco del convenio de colaboración suscrito con la Secretaría de Relaciones Exteriores el día 4 de abril de 2016, deberá llevar a cabo las acciones conducentes con dicha dependencia del Poder Ejecutivo Federal para la implementación del presente Acuerdo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los servicios en línea, relativos a la tramitación electrónica de las comunicaciones oficiales enviadas por parte de los órganos jurisdiccionales del Poder Judicial de la Federación a las representaciones consulares del estado mexicano, para el desahogo de diligencias judiciales en el extranjero que no impliquen ejecución coactiva, denominadas comisiones rogatorias consulares, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiuno de septiembre de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Alfonso Pérez Daza y Manuel Ernesto Saloma Vera.- Ciudad de México, a once de octubre de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
