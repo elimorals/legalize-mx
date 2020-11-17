@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2020-10-30"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1122,6 +1122,50 @@ Serán competentes los jueces de distrito especializados en el sistema penal acu
 > <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
 QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+QUINTO QUINQUIES. Tribunales Laborales Federales:
+
+I. Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, con sede en Campeche;
+
+II. Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, con sede en Ciudad del Carmen;
+
+III. Tribunal Laboral Federal de asuntos individuales en el Estado de Chiapas, con sede en Tuxtla Gutiérrez;
+
+IV. Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, con sede en Durango;
+
+V. Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Toluca;
+
+VI. Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan;
+
+VII. Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
+
+VIII. Tribunal Laboral Federal de asuntos individuales en el Estado de San Luis Potosí, con sede en San Luis Potosí;
+
+IX. Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco, con sede en Villahermosa;
+
+X. Tribunal Laboral Federal de asuntos individuales en el Estado de Zacatecas, con sede en Zacatecas; y
+
+XI. Tribunal Laboral Federal de asuntos colectivos, con sede en la Ciudad de México.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+QUINTO SEXIES. Los Tribunales Laborales Federales de asuntos individuales serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
+
+I. El Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, con sede en Campeche, tendrá jurisdicción en los municipios de Calkiní, Hecelchakán, Tenabo, Campeche, Hopelchén, Calakmul y Champotón;
+
+II. El Tribunal Laboral Federal de asuntos individuales en el Estado de Campeche, con sede en Ciudad del Carmen, tendrá jurisdicción en los municipios de Escárcega, Carmen, Candelaria y Palizada;
+
+III. El Tribunal Laboral Federal de asuntos individuales en el Estado de Durango, tendrá jurisdicción en los municipios del Estado, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+
+IV. El Tribunal Laboral Federal de asuntos individuales en el Estado de México con residencia en Toluca tendrá jurisdicción en los municipios de Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán;
+
+V. El Tribunal Laboral Federal de asuntos individuales en el Estado de México, con residencia en Naucalpan tendrá jurisdicción en los municipios de Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón, Zumpango, Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad;
+
+VI. El Tribunal Laboral Federal de asuntos individuales en el Estado de Tabasco tendrá jurisdicción únicamente en los municipios que comprenden a dicha entidad federativa; y
+
+VII. El Tribunal Laboral Federal de asuntos colectivos con sede en la Ciudad de México tendrá jurisdicción para conocer de los conflictos colectivos federales que se susciten en los Estados de Campeche, Chiapas, Durango, México, Hidalgo, San Luis Potosí, Tabasco y Zacatecas, con excepción de aquellos que pertenezcan a los municipios del Estado de Durango a que se refiere la fracción III.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
@@ -7802,3 +7846,361 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
 
 QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Juzgado Decimosegundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, que inicia funciones.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+Denominación Jurisdicción territorial Domicilio
+
+Tribunal Municipios de Calkiní, Lote 5 y 6,
+
+Laboral Hecelchakán, Tenabo, manzana G,
+
+Federal de Campeche, Hopelchén, Zona Turística,
+
+asuntos Calakmul y Champotón sección
+
+individuales en el Estado de Fundadores,
+
+en el Estado Campeche área
+
+de Campeche, HA-KIM-PECH,
+
+con sede en Malecón
+
+Campeche Campeche,
+
+C.P. 24014
+
+Tribunal Municipios de Escárcega, Caballito de Mar
+
+Laboral Carmen, Candelaria y número 34, entre
+
+Federal de Palizada en el Estado calles 50 y 52, por
+
+asuntos de Campeche avenida de los
+
+individuales Pinos, colonia
+
+en el Estado Playa Norte,
+
+de Campeche, C.P. 24115
+
+con sede en
+
+Ciudad del
+
+Carmen
+
+Tribunal Todos los municipios Onceava calle
+
+Laboral del Estado de Chiapas Poniente Sur del
+
+Federal de Fraccionamiento
+
+asuntos Las Terrazas,
+
+individuales C.P. 29060
+
+en el Estado
+
+de Chiapas,
+
+con sede en
+
+Tuxtla
+
+Gutiérrez
+
+Tribunal Todos los municipios Boulevard
+
+Laboral del Estado de Durango, Francisco
+
+Federal de a excepción de los Villa número
+
+asuntos municipios de General 602, colonia
+
+individuales Simón Bolívar, Gómez del Maestro,
+
+en el Estado Palacio, Lerdo, Mapimí, C.P. 34240
+
+de Durango, Nazas, San Juan de
+
+con sede en Guadalupe, San Luis
+
+Durango del Cordero, San
+
+Pedro del Gallo y
+
+Tlahualilo
+
+Tribunal Municipios de Acambay, Av. Sor Juana
+
+Laboral Almoloya de Alquisiras, Inés de la
+
+Federal de Almoloya de Juárez, Cruz número
+
+asuntos Almoloya del Río, 302 Sur,
+
+individuales Amanalco, Amatepec, colonia Centro,
+
+en el Estado Atizapán, Atlacomulco, C.P.
+
+de México, Calimaya, Capulhuac, 50000
+
+con sede en Coatepec Harinas,
+
+Toluca Chapultepec, Donato
+
+Guerra, El Oro,
+
+Ixtapan de la Sal,
+
+Ixtapan del Oro,
+
+Ixtlahuaca, Jiquipilco,
+
+Jocotitlán, Joquicingo,
+
+Lerma, Luvianos,
+
+Malinalco, Metepec,
+
+Mexicaltzingo, Morelos,
+
+Ocoyoacac, Ocuilán,
+
+Otzoloapan, Otzolotepec,
+
+Rayón, San Antonio
+
+la Isla, San Felipe del
+
+Progreso, San José
+
+del Rincón, San Mateo
+
+Atenco, San Simón
+
+de Guerrero, Santo
+
+Tomás, Sultepec,
+
+Tejupilco, Temascalcingo,
+
+Temascaltepec, Temoaya,
+
+Tenancingo, Tenango
+
+del Valle, Texcaltitlán,
+
+Texcalyacac, Tianguistenco,
+
+Tlataya, Toluca, Tonatico,
+
+Valle de Bravo, Villa
+
+de Allende, Villa Guerrero,
+
+Villa Victoria, Xalatlaco,
+
+Xonacatlán, Zacazonapan,
+
+Zacualpan, Zinacantepec
+
+y Zumpahuacán del
+
+Estado de México
+
+Tribunal Municipios de Aculco, Av. 16 de
+
+Laboral Apaxco, Atizapán de septiembre
+
+Federal de Zaragoza, Coacalco de No 784
+
+asuntos Berriozábal, Coyotepec, Fraccionamiento
+
+individuales Cuautitlán, Cuautitlán Industrial Alce
+
+en el Estado Izcalli, Chapa de Mota, Blanco,
+
+de México, Ecatepec de Morelos, Naucalpan de
+
+con sede en Huehuetoca, Hueypoxtla, Juarez. Estado
+
+Naucalpan Huixquilucan, Isidro de México,
+
+Fabela, Jaltenco, C.P. 53560
+
+Jilotepec, Jilotzingo,
+
+Melchor Ocampo,
+
+Naucalpan de Juárez,
+
+Nextlalpan, Nicolás
+
+Romero, Polotitlán,
+
+Tonanitla, Soyaniquilpan
+
+de Juárez, Teoloyucan,
+
+Tepotzotlán, Tequixquiac,
+
+Timilpan, Tlalnepantla de
+
+Baz, Tultepec, Tultitlán,
+
+Villa del Carbón,
+
+Zumpango, Acolman,
+
+Amecameca, Atenco,
+
+Atlautla, Axapusco,
+
+Ayapango, Cocotitlán,
+
+Chalco, Chiautla,
+
+Chicoloapan, Chiconcuac,
+
+Chimalhuacán, Ecatzingo,
+
+Ixtapaluca, Juchitepec,
+
+La Paz, Nezahualcóyotl,
+
+Nopaltepec, Otumba,
+
+Ozumba, Papalotla, San
+
+Martín de las Pirámides,
+
+Tecámac, Temamatla,
+
+Temascalapa, Tenango
+
+del Aire, Teotihuacán,
+
+Tepetlaoxtoc, Tepetlixpa,
+
+Texcoco, Tezoyuca,
+
+Tlalmanalco y Valle de
+
+Chalco Solidaridad del
+
+Estado de México
+
+Tribunal Todos los municipios del Boulevard Luis
+
+Laboral Estado de Hidalgo Donaldo Colosio
+
+Federal de 4604,
+
+asuntos Fraccionamiento
+
+individuales del Palmar,
+
+en el Estado C.P. 42088
+
+de Hidalgo,
+
+con sede
+
+en Pachuca
+
+Tribunal Todos los municipios Calle Palmira s/n
+
+Laboral del Estado de San Fraccionamiento
+
+Federal de Luis Potosí Desarrollo del
+
+asuntos Pedregal, piso 7,
+
+individuales ala (sic) "A",
+
+en el Estado C.P. 78295
+
+de San Luis
+
+Potosí,
+
+con sede
+
+en San Luis
+
+Potosí
+
+Tribunal Todos los municipios Carlos Pellicer
+
+Laboral del Estado de Tabasco número 3302,
+
+Federal de colonia Carrizal
+
+Asuntos Tabasco 2000,
+
+Individuales C.P. 86108
+
+en el Estado
+
+de Tabasco,
+
+con sede en
+
+Villahermosa
+
+Tribunal Todos los municipios Edificio Sede,
+
+Laboral del Estado de Zacatecas ubicado en
+
+Federal de Calle Lateral
+
+asuntos número 1202,
+
+individuales pisos 1º y 3º,
+
+en el Estado colonia Ciudad
+
+de Zacatecas, Gobierno, C.P.
+
+con sede 98160
+
+en Zacatecas
+
+Tribunal Conflictos colectivos Camino Ajusco
+
+Laboral que se susciten en los 200 col. Jardines
+
+Federal de municipios de las en la montaña,
+
+asuntos entidades federativas Alcaldía Tlalpan,
+
+colectivos, mencionados en esta Ciudad de
+
+con sede tabla México, C.P. 14210
+
+en la
+
+Ciudad
+
+de México
