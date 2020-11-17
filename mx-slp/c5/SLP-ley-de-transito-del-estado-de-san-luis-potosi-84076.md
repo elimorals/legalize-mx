@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-11-05"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -603,9 +603,9 @@ I. Ser mexicano o acreditar su legal estancia en el país y domicilio en el Esta
 
 II. Haber cumplido la mayoría de edad;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-III. Presentar certificado de manejo expedido por la autoridad correspondiente o firma de carta compromiso;
+III. Presentar certificado de manejo expedido por la autoridad correspondiente, el cual se entregará una vez aprobado el examen de conducción gratuito impartido por la Secretaría Estatal de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
 
@@ -1802,5 +1802,13 @@ P.O. 5 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0797.- SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN IV, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0810.- SE REFORMA EL ARTÍCULO 36 EN SU FRACCIÓN III, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
