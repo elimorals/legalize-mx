@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129377"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-11-12"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -75,7 +75,11 @@ II.- Área Urbanizable: territorio para el crecimiento urbano contiguo a los lí
 
 III.- Área Urbanizada: territorio ocupado por los asentamientos humanos con redes de infraestructura, equipamientos y servicios;
 
-IV.- Área Verde: parques, plazas, corredores verdes o andadores peatonales, con funciones ambientales, recreativas, culturales y paisajísticas;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+IV.- Espacio Público Verde es el parque, plaza o corredor verde de acceso público, con vegetación nativa o de bajo consumo hídrico (xerófilo) y la infraestructura urbana que proporcione a la población servicios ambientales y sociales como la captura de carbono, protección de biodiversidad, mejora de la calidad de aire, control de temperatura urbana, calidad de vida, integración social y actividad física para los usuarios.
+
+Los camellones, banquetas y glorietas desprovistas de infraestructura social (bancas, andadores, juegos) deben quedar excluidos de este indicador, así como aquellas áreas no accesibles a toda la población como clubs deportivos privados, escuelas, universidades y lotes baldíos;
 
 V.- Asentamiento Humano: el establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
@@ -659,9 +663,11 @@ El programa de desarrollo urbano de centros de población es el conjunto de pol�
 
 Los programas de desarrollo urbano de centros de población serán aprobados, ejecutados, evaluados y modificados por los municipios, con las formalidades previstas en la Ley General, esta ley y los reglamentos municipales; debiendo ser congruentes con los manuales, lineamientos y normas oficiales mexicanas en la materia.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-Los programas de desarrollo urbano de centros de población señalarán en la zonificación correspondiente las acciones necesarias para su conservación, mejoramiento y crecimiento; y establecerán los instrumentos para promover la socialización de los costos y beneficios del desarrollo urbano y el uso óptimo del territorio. Asimismo deberán contemplar la aplicación de instrumentos fiscales para garantizar el suelo apto para la construcción de vivienda, infraestructura, equipamiento y áreas verdes; y asegurar una administración transparente, eficiente y pública de los recursos que se generen.
+Los programas de desarrollo urbano de centros de población señalarán en la zonificación correspondiente las acciones necesarias para su conservación, mejoramiento y crecimiento; establecerán los instrumentos para promover la socialización de los costos y beneficios del desarrollo urbano y el uso óptimo del territorio. Asimismo, deberán contemplar la aplicación de instrumentos fiscales para garantizar el suelo apto para la construcción de vivienda, infraestructura, equipamiento y espacios públicos verdes; para asegurar una administración transparente, eficiente y pública de los recursos que se generen.
 
 ###### Artículo 36.
 
@@ -847,7 +853,9 @@ II.- Las áreas de valor ambiental y de alto riesgo no urbanizables, localizadas
 
 III.- La red de vialidades primarias que estructure la conectividad, movilidad y accesibilidad universal, así como espacios públicos y equipamientos de mayor jerarquía;
 
-IV.- La ubicación de parques y equipamientos primarios conformadores de unidades territoriales;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+IV.- La ubicación de espacios públicos verdes y equipamientos primarios conformadores de unidades territoriales;
 
 V.- Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
 
@@ -863,9 +871,11 @@ IX.- La identificación y medidas para la protección de los polígonos de amort
 
 La zonificación secundaria se establecerá en los programas municipales que corresponda, de acuerdo a los criterios siguientes:
 
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 I.- Para el espacio público:
 
-Las normas y disposiciones técnicas aplicables para el diseño o adecuación de destinos específicos tales como vialidades, parques, plazas, áreas verdes o equipamientos que garanticen las condiciones materiales de la vida comunitaria y la movilidad.
+Las normas y disposiciones técnicas aplicables para el diseño o adecuación de destinos específicos tales como vialidades, parques, plazas, espacios públicos verdes y equipamientos que garanticen las condiciones materiales de la vida comunitaria, la movilidad y conservación ambiental.
 
 II.- Para el espacio edificable:
 
@@ -1095,7 +1105,9 @@ VII.- Guarniciones, banquetas y rampas de acceso para personas con discapacidad,
 
 VIII.- Pavimento;
 
-IX.- Equipamientos y áreas verdes;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+IX.- Espacios públicos verdes y equipamiento urbano;
 
 X.- Paradas de transporte público, conforme a lo que determine la autoridad municipal; y
 
@@ -1165,17 +1177,9 @@ Cuando se hayan autorizado supermanzanas, al momento de requerir ser fraccionada
 
 El desarrollador tendrá las obligaciones siguientes:
 
-I.- Ceder al Municipio a título gratuito, el área necesaria de terreno para destinarse a vialidades, equipamiento urbano y áreas verdes, la cual no podrá tener un uso distinto a lo establecido en esta Ley.
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-En el caso de que conforme al diseño del Desarrollo Inmobiliario o a las características físicas del terreno a desarrollar, no sea posible ceder la superficie de terreno necesaria para área verde o equipamiento urbano, el desarrollador inmobiliario podrá permutarla por otra superficie igual de acuerdo a los requerimientos del municipio, o hacer el pago equivalente al valor comercial de la superficie a ceder. Dicho recurso deberá destinarse exclusivamente para adquisición de derechos de vía, parques conformadores de unidades territoriales y equipamientos urbanos del municipio, y deberá ser utilizado preferentemente dentro de la misma unidad territorial.
-
-> <small>(REFORMADO, B.O. 12 DE NOVIEMBRE DE 2020)</small>
-
-El pago deberá quedar acreditado al fideicomiso de suelo que al efecto constituyan los municipios, previamente al otorgamiento de la autorización del desarrollo inmobiliario.
-
-> <small>(ADICIONADO, B.O. 12 DE NOVIEMBRE DE 2020)</small>
-
-Asimismo, el desarrollador inmobiliario deberá hacer entrega de las casas habitación a los adquirentes de estas con, por lo menos un árbol plantado de naturaleza nativa que contribuya a la mejora de la calidad del medio ambiente, dentro del inmueble entregado. Lo anterior, con el fin de fomentar la cultura del cuidado y protección del medio ambiente;
+l.- Ceder al Municipio, a título gratuito, el área necesaria de terreno para destinarse a vialidades, equipamiento urbano y espacios públicos verdes, la cual no podrá tener un uso distinto a lo establecido en esta Ley. En el caso de que conforme al diseño del Desarrollo Inmobiliario o a las características físicas del terreno a desarrollar, no sea posible ceder la superficie de terreno necesaria para espacio público verde o equipamiento urbano, el desarrollador inmobiliario podrá permutarla por otra superficie igual de acuerdo con los requerimientos del municipio, o hacer el pago equivalente al valor comercial de la superficie a ceder. Dicho recurso deberá destinarse exclusivamente para adquisición de derechos de vía, establecimiento de espacios públicos verdes, material para su mantenimiento, equipamientos urbanos del municipio, que deberá (sic) ser utilizado dentro de la misma unidad territorial. El pago deberá quedar acreditado al fideicomiso de suelo que al efecto constituyan los municipios, previamente al otorgamiento de la autorización del desarrollo inmobiliario;
 
 II.- Terminar la construcción de las obras de infraestructura y urbanización, garantizando que las mismas se hayan ejecutado sin defectos ni vicios ocultos dentro del plazo establecido en la autorización correspondiente;
 
@@ -1195,11 +1199,13 @@ IX.- Ejecutar por su cuenta los gastos de mantenimiento de las obras de urbaniza
 
 X.- Las demás que establezcan esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 80.
 
-Los desarrollos inmobiliarios deberán ceder áreas destinadas para garantizar la superficie necesaria de equipamiento urbano, áreas verdes y reservas territoriales, debiendo ser el 12% de la superficie vendible urbanizable, del cual 9% será destinado para equipamiento urbano y 3% para áreas verdes.
+Los desarrollos inmobiliarios deberán ceder áreas destinadas para garantizar la superficie necesaria de equipamiento urbano, áreas verdes y reservas territoriales, debiendo ser el 12% de la superficie vendible urbanizable, del cual 7% será destinado para equipamiento urbano y 5% para espacios públicos verdes.
 
-Con los recursos aportados al fideicomiso de suelo, el municipio deberá establecer un núcleo de reserva de suelo para equipamientos y áreas verdes que estructure comunidades integrales en las unidades territoriales definidas, en los programas de centros de población.
+Con los recursos aportados al fideicomiso de suelo, el municipio deberá establecer un núcleo de reserva de suelo para espacios públicos verdes que estructure comunidades integrales que mitiguen los problemas ambientales en las unidades territoriales definidas, en los programas de centros de población.
 
 ###### Artículo 81.
 
@@ -1423,15 +1429,19 @@ En las obras públicas a que se refiere el artículo anterior, lo municipios pod
 
 ### Capítulo Único. Del espacio público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 118.
 
-La creación, recuperación, mantenimiento y defensa del espacio público para la vida comunitaria y la movilidad, se consideran de alta prioridad para los diferentes órdenes de gobierno, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad. Para tal efecto, se estará a lo dispuesto en la Ley General.
+La creación, recuperación, mantenimiento y defensa del espacio público para la vida comunitaria, la movilidad y el medio ambiente se consideran de alta prioridad para los diferentes órdenes de gobierno, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad de manera sustentable. Para tal efecto, se estará a lo dispuesto en la Ley General.
 
 Los programas de desarrollo urbano de centros de población incluirán los siguientes aspectos:
 
 I.- Identificar y localizar parques y equipamientos conformadores de comunidades integrales en cada unidad territorial;
 
-II.- Establecer las clasificaciones y características de las áreas verdes, que deberán incluir parques, plazas, corredores verdes o andadores peatonales, así como sus requerimientos ambientales, recreativos, culturales y paisajísticos, de acuerdo a las condiciones de cada región;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+II.- Establecer las clasificaciones y características de los espacios públicos verdes, que deberán incluir parques, plazas, jardines comunitarios, corredores verdes o andadores peatonales, así como sus requerimientos ambientales, recreativos, culturales y paisajísticos, de acuerdo con las condiciones de cada región;
 
 III.- Definir características, dimensiones, vegetación y medidas de seguridad para banquetas que fomenten la convivencia comunitaria; y
 
@@ -1451,7 +1461,9 @@ III.- Se deberá asegurar la accesibilidad universal y libre circulación de tod
 
 IV.- En el caso de los bienes de dominio público, éstos son inalienables;
 
-V.- Se procurará mantener el equilibrio entre las áreas verdes y la construcción de la infraestructura, tomando como base de cálculo las normas nacionales en la materia;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+V.- Se procurará mantener el equilibrio entre los espacios públicos verdes y la construcción de la infraestructura, tomando como base de cálculo las normas nacionales en la materia y la protección de la flora endémica del terreno;
 
 VI.- Los espacios públicos originalmente destinados a la recreación, el deporte y zonas verdes destinados a parques, jardines o zonas de esparcimiento, no podrán ser destinados a otro uso;
 
@@ -1471,7 +1483,9 @@ XII.- Los municipios vigilarán y protegerán la seguridad, integridad, calidad,
 
 Los programas de desarrollo urbano de centros de población garantizarán una dotación suficiente de espacios públicos por cada unidad territorial y conectividad con base en las normas aplicables, por medio de la adquisición y habilitación de espacios públicos adicionales a los existentes dentro del polígono sujetos a densificación.
 
-Los predios que los desarrolladores estén obligados a ceder al municipio para ser destinados a áreas verdes y equipamientos, no podrán estar ubicados en zonas inundables o de riesgo, ni presentar condiciones topográficas inadecuadas.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+Los predios que los desarrolladores estén obligados a ceder al municipio para ser destinados a espacios públicos verdes y equipamientos no podrán estar ubicados en zonas inundables o de riesgo, ni presentar condiciones topográficas inadecuadas.
 
 ###### Artículo 121.
 
@@ -1625,11 +1639,13 @@ Las dependencias y entidades deberán prever en sus procesos de presupuesto, pro
 
 ### Capítulo Segundo. Fideicomisos de suelo
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 138.
 
-Los municipios deberán constituir un fideicomiso público para la administración de recursos y bienes aportados por el gobierno municipal y los desarrolladores inmobiliarios, con el fin de adquirir suelo destinado a la liberación de derechos de vía y a la creación de parques y equipamientos conformadores de unidades territoriales.
+Los municipios deberán constituir un fideicomiso público para la administración de recursos y bienes aportados por el gobierno municipal y los desarrolladores inmobiliarios, con el fin de adquirir suelo destinado a la liberación de derechos de vía y al establecimiento de espacios públicos verdes y material para su mantenimiento, y equipamientos conformadores de unidades territoriales.
 
-Lo anterior, con el fin de garantizar espacios públicos de calidad y definir la mejor localización y dimensiones de los equipamientos colectivos de interés público o social en cada unidad territorial en relación a la cultura, convivencia, recreación, deporte, y zonas verdes destinadas a parques, plazas y jardines, entre otros.
+Lo anterior, con el fin de garantizar espacios públicos de calidad y definir la mejor localización y dimensiones de los equipamientos colectivos de interés público o social en cada unidad territorial en relación al medio ambiente, cultura, convivencia, recreación, deporte, y espacios públicos verdes destinadas (sic) a parques, plazas y jardines, entre otros.
 
 ## TÍTULO DÉCIMO PRIMERO. INSTRUMENTOS DE PARTICIPACIÓN DEMOCRÁTICA Y TRANSPARENCIA
 
@@ -2148,3 +2164,11 @@ B.O. 12 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
