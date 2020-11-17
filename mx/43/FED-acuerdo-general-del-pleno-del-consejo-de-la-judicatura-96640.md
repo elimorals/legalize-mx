@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2020-09-01"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,11 @@ issue_date: "2013-11-12"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -103,7 +105,13 @@ IX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Inf
 
 IX. Bis. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
 
-X. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+X. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Tribunales Laborales Federales;
+
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+X Bis. Tribunal Laboral Federal: órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
 
 XI. Poder Judicial de la Federación: A los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -2739,7 +2747,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Tener título de licenciado en Derecho;
 
-III. Contar con experiencia mínima profesional de cinco años, como secretario de juzgado de Distrito o tribunal de Circuito;
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+III. Contar con experiencia mínima profesional de cinco años, como secretario de juzgado de Distrito, tribunal de Circuito o tribunal federal laboral;
 
 IV. Gozar de buena reputación;
 
@@ -2757,7 +2767,9 @@ Para ser secretario técnico de la Visitaduría Judicial, además de los requisi
 
 I. Tener título de licenciado en Derecho; y
 
-II. Contar con experiencia mínima profesional de tres años, como secretario de juzgado de Distrito o tribunal de Circuito.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. Contar con experiencia mínima profesional de tres años, como secretario de juzgado de Distrito, tribunal de Circuito o tribunal federal laboral.
 
 ###### Artículo 126.
 
@@ -3645,11 +3657,11 @@ Para la elaboración de los reportes, las áreas administrativas que intervengan
 
 XIII. Las demás que establezcan el Pleno y el Presidente.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 164 Bis.
 
-La Dirección General de Gestión Judicial será la encargada de administrar el Sistema Integral de Seguimiento de Expedientes (SISE) y los sistemas de gestión judicial, como herramientas de apoyo a la labor de los órganos jurisdiccionales y las oficinas de correspondencia común, siguiendo los principios de eficiencia, calidad, racionalidad y aprovechamiento de la tecnología; así como proporcionar el soporte y apoyo necesarios a sus usuarios y proveer a las distintas áreas administrativas de información sobre la gestión judicial.
+La Dirección General de Gestión Judicial será la encargada de administrar el Sistema Integral de Seguimiento de Expedientes (SISE), el Sistema Integral de Gestión de Expedientes (SIGE) y los sistemas de gestión judicial, como herramientas de apoyo a la labor de los órganos jurisdiccionales y las oficinas de correspondencia común, siguiendo los principios de eficiencia, calidad, racionalidad y aprovechamiento de la tecnología; así como proporcionar el soporte y apoyo necesarios a sus usuarios y proveer a las distintas áreas administrativas de información sobre la gestión judicial.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
@@ -3657,9 +3669,13 @@ La Dirección General de Gestión Judicial será la encargada de administrar el 
 
 El titular de la Dirección General de Gestión Judicial tendrá las siguientes atribuciones:
 
-I. Administrar el Sistema Integral de Seguimiento de Expedientes y los sistemas de gestión judicial desarrollados e implementados por el Consejo y poner a disposición la información que en ellos se registre a las áreas que lo soliciten, así como expedir copias certificadas en el caso de que lo requieran;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-II. Otorgar acceso al Sistema Integral de Seguimiento de Expedientes y a los sistemas de gestión judicial y mantener actualizados los padrones de usuarios;
+I. Administrar el Sistema Integral de Seguimiento de Expedientes, el Sistema Integral de Gestión de Expedientes y los sistemas de gestión judicial desarrollados e implementados por el Consejo y poner a disposición la información que en ellos se registre a las áreas que lo soliciten, así como expedir copias certificadas en el caso de que lo requieran;
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. Otorgar acceso al Sistema Integral de Seguimiento de Expedientes, al Sistema Integral de Gestión de Expedientes y a los sistemas de gestión judicial y mantener actualizados los padrones de usuarios;
 
 III. Participar en el diseño de sistemas de gestión judicial;
 
@@ -5201,9 +5217,11 @@ XI. Las demás que le señale la Comisión de Seguridad y Salud en el Trabajo, q
 
 ## TÍTULO OCTAVO. DEL REGISTRO ÚNICO DE PROFESIONALES DEL DERECHO
 
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 261.
 
-Es obligatorio el uso del Sistema Computarizado para el Registro Único de Profesionales del Derecho ante los órganos jurisdiccionales, en las materias penal, civil, mercantil y administrativa, en los términos de las disposiciones aplicables.
+Es obligatorio el uso del Sistema Computarizado para el Registro Único de Profesionales del Derecho ante los órganos jurisdiccionales, en las materias penal, civil, mercantil, administrativa y laboral, en los términos de las disposiciones aplicables.
 
 ###### Artículo 262.
 
@@ -6170,3 +6188,25 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobaci�
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
 
 TERCERO. Las plazas que se hubieren creado para la Unidad de Enlace Legislativo, serán adscritas a la Secretaría General de la Presidencia del Consejo de la Judicatura Federal.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PAGINAS 447 Y 448.]</small>
