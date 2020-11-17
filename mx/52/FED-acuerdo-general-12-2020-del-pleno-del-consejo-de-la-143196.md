@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2020-del-pleno-del-consejo-de-la-143196"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2020-07-24"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-06-08"
 ---
 # ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION Y TRAMITE DE EXPEDIENTE ELECTRONICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ORGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 12/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE JULIO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -151,7 +151,7 @@ XIV. Expediente electrónico: conjunto de Documentos electrónicos que coinciden
 
 XV. FIREL: Firma Electrónica Certificada del Poder Judicial de la Federación.
 
-XVI. Firma electrónica: documento electrónico expedido por alguna de las autoridades certificadoras intermedias que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un Documento Electrónico. Para efectos del presente Acuerdo General se comprenden en este concepto la FIREL, la firma electrónica o “e.firma” (antes firma electrónica avanzada o “FIEL”), y las firmas electrónicas o certificados digitales emitidos por otros órganos del Estado con los cuales el PJF haya celebrado convenios para el reconocimiento de certificados digitales homologados. Resulta aplicable a esto último lo previsto en el artículo 5, párrafo segundo, del “Acuerdo General Conjunto 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico”.
+XVI. Firma electrónica: documento electrónico expedido por alguna de las autoridades certificadoras intermedias que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un Documento Electrónico. Para efectos del presente Acuerdo General se comprenden en este concepto la FIREL, la firma electrónica o "e.firma" (antes firma electrónica avanzada o "FIEL"), y las firmas electrónicas o certificados digitales emitidos por otros órganos del Estado con los cuales el PJF haya celebrado convenios para el reconocimiento de certificados digitales homologados. Resulta aplicable a esto último lo previsto en el artículo 5, párrafo segundo, del "Acuerdo General Conjunto 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico".
 
 XVII. IFECOM: Instituto Federal de Especialistas de Concursos Mercantiles.
 
@@ -180,6 +180,10 @@ XXVIII. Sala de audiencia: espacio físico o virtual que se encuentra habilitado
 XXIX. SCJN: Suprema Corte de Justicia de la Nación.
 
 XXX. SISE: Sistema Integral de Seguimiento de Expedientes.
+
+> <small>(ADICIONADA POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XXX. Bis. SIGE: Sistema Integral de Gestión de Expedientes;
 
 XXXI. Sistema Electrónico del PJF: conjunto de sistemas informáticos de gestión, operación, información, interconexión y comunicación que se desarrollen o implementen en el PJF por el CJF, entre los que se identifican, enunciativamente: Portal de Servicios en Línea del Poder Judicial de la Federación; Sistema de recepción, registro, turno y envío de asuntos utilizado por las OCC; Sistemas de gestión, operación e información que acompañen el trámite de los asuntos órganos o unidades administrativas; SISE; Plataforma Electrónica; y Buzón electrónico.
 
@@ -933,6 +937,70 @@ XII. El desahogo de las audiencias incidentales se podrá practicar mediante el 
 
 La tramitación electrónica de pedimentos ante el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones se regirá por el Acuerdo General 3/2017. Al respecto, las solicitudes, resoluciones y, en general, el acceso al Sistema Electrónico del PJF se regirá por lo dispuesto en los artículos 17 a 22 del ordenamiento en cita.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. De los servicios en línea en los Tribunales Laborales Federales
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 106.
+
+Salvo disposición expresa en el presente apartado, resultan aplicables a la materia laboral las reglas previstas en los capítulos precedentes.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 107.
+
+En los Tribunales Laborales Federales se hará uso del Portal de Servicios en Línea para la tramitación de los asuntos de su conocimiento, lo cual incluye, enunciativamente, la presentación de demandas, recursos, incidentes y promociones, integración y consulta de expedientes digitales, así como la práctica de notificaciones electrónicas. Asimismo, se podrán celebrar audiencias mediante videoconferencia, conforme la normativa aplicable emitida por el CJF y la Ley Federal del Trabajo.
+
+En términos de lo dispuesto en los artículos 739, 739 Ter, 742 Bis, 742 Ter, 744 y demás relativos aplicables de la Ley Federal del Trabajo, para la consulta del expediente electrónico y para la práctica de notificaciones electrónicas, el usuario del Portal de Servicios en Línea servirá como buzón electrónico ante el órgano jurisdiccional. Para actuar desde dicho Portal, las partes deberán contar con Firma Electrónica.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 108.
+
+Para la presentación de demandas y promociones electrónicas ante los Tribunales Federales de Justicia Laboral, las usuarias y usuarios deberán acceder al módulo de “Ingresa al Portal”, seleccionar la opción “Tribunales Laborales Federales”, ingresar a través de la Firma Electrónica vigente que se vinculó al registrarse en el Portal, anotar la información solicitada y seleccionar el Tribunal que corresponda. Dentro del módulo, deberán ingresar el archivo electrónico que contenga la demanda o promoción, o bien, utilizarán el cuadro de texto en blanco que se encontrará a su disposición. A continuación, agregarán su firma electrónica vigente, capturarán un código de seguridad y enviarán su archivo. Asimismo, podrán enviar los archivos electrónicos que contengan documentos anexos a la solicitud.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 109.
+
+Una vez enviada la demanda o promoción, el sistema generará un acuse de recepción electrónica en el que se señalarán los datos de identificación del promovente, el nombre del archivo electrónico que contenga los documentos, la fecha y hora de envío y recepción, así como un folio electrónico. En los casos en que se proporcione una cuenta de correo electrónico al momento de enviar la solicitud, el acuse de recepción electrónica se remitirá automáticamente al correo.
+
+Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la Firma Electrónica que mostrará, entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema. La incorporación de la promoción respectiva al expediente físico deberá incluir la evidencia criptográfica de la firma.
+
+Al respecto, las demandas y promociones se registrarán en el módulo de Oficialía de Partes del Sistema Electrónico del Poder Judicial de la Federación, conjuntamente con las que se presenten de manera impresa, y se dará el trámite correspondiente.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 110.
+
+De conformidad con lo dispuesto en el artículo 745 Ter de la Ley Federal del Trabajo, las partes contarán con un plazo máximo de dos días, contados a partir de que el Tribunal envíe la notificación electrónica correspondiente, para obtener la constancia respectiva. De no hacerlo dentro de dicho plazo, se tendrá por hecha la notificación, excepto en los casos en que el Tribunal estime conveniente ordenar la notificación vía actuario.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 111.
+
+Los Tribunales, apoyados por las áreas administrativas correspondientes, deberán realizar los ajustes logísticos, de agenda, de disponibilidad de salas, de recursos humanos y materiales, que hagan compatible la realización ordinaria de audiencias presenciales con las practicadas mediante videoconferencias, optimizando los recursos institucionales y garantizando el adecuado desahogo de las mismas.
+
+Asimismo, cada Tribunal será responsable de vigilar que los registros de las audiencias se resguarden y vinculen con el expediente electrónico respectivo, y que se digitalicen oportunamente y de manera legible las constancias complementarias impresas.
+
+En caso de que exista imposibilidad material para la digitalización de determinadas constancias complementarias aportadas por las partes, se hará de su conocimiento tal situación y se informará que las mismas se encuentran físicamente para su consulta en el Tribunal que corresponda.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 112.
+
+Al integrar los expedientes electrónicos, los Tribunales determinarán sobre qué promociones o constancias deberá guardarse sigilo en relación a una o varias partes, lo que les impedirá su visualización electrónica.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 113.
+
+Cuando se presenten demandas de amparo o se interpongan recursos o incidentes cuya tramitación deba hacerla un Tribunal u órgano jurisdiccional distinto al que conoce del asunto, los Tribunales pondrán a disposición de tal órgano la consulta del expediente electrónico a través de la plataforma correspondiente, a reserva de que se remitan los registros electrónicos respectivos.
+
+Cuando el órgano jurisdiccional que conozca del recurso o procedimiento jurisdiccional estime necesario consultar las constancias que no fueron digitalizadas, requerirá dichas constancias de manera impresa.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1124,3 +1192,27 @@ Adicionalmente, la DGTI deberá generar las soluciones tecnológicas necesarias 
 El apoyo técnico y planeación de la logística operacional para el desarrollo de una videoconferencia, corresponderá al personal del área de videoconferencias de la DGTI y, de manera emergente, al Escritorio de Soporte del Consejo, por lo que se pone a su disposición el teléfono 5554499500, extensión # 318 1580, así como el ID de videoconferencia 4024 con marcación desde el códec y el buzón de correo electrónico videoconferencias@correo.cjf.gob.mx.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión extraordinaria de 8 de junio de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 8 de junio de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
