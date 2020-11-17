@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-137867"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-08-27"
-last_updated: "2019-08-27"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-08-21"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITAS O PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION] -- ANTES ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION] --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 27 de agosto de 2019.
 
@@ -85,7 +87,13 @@ IX. Lista: Relación de personas que pueden fungir como peritos ante los órgano
 
 X. Órgano administrativo: Comisión Substanciadora Única del Poder Judicial de la Federación;
 
-XI. Órganos auxiliares: La Contraloría del Poder Judicial de la Federación; el Instituto de la Judicatura; el Instituto Federal de Defensoría Pública; el Instituto Federal de Especialistas de Concursos Mercantiles; la Unidad General de Investigación de Responsabilidades Administrativas; y la Visitaduría Judicial;
+> <small>(REFORMADA POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XI. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Tribunales Laborales Federales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+XI Bis. Tribunal Laboral Federal: órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
 
 XII. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
 
@@ -127,9 +135,13 @@ La Dirección General llevará a cabo el análisis de las solicitudes y sus anex
 
 Aprobación y publicación de la Lista
 
-La Dirección General en la primera quincena de diciembre, someterá la Lista a la Comisión para su aprobación, la cual se publicará en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo en Intranet e Internet, y para su consulta se incorporará al Sistema Integral de Seguimiento de Expedientes.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-Para el acceso a los datos de localización se incorporará también al Sistema Integral de Seguimiento de Expedientes el Directorio de Peritos, al que accederá el Solicitante bajo su más estricta responsabilidad.
+La Dirección General en la primera quincena de diciembre, someterá la Lista a la Comisión para su aprobación, la cual se publicará en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo en Intranet e Internet, y para su consulta se incorporará al Sistema Integral de Seguimiento de Expedientes y al Sistema Integral de Gestión de Expedientes.
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Para el acceso a los datos de localización se incorporará también al Sistema Integral de Seguimiento de Expedientes y al Sistema Integral de Gestión de Expedientes el Directorio de Peritos, al que accederá el Solicitante bajo su más estricta responsabilidad.
 
 Al Directorio de Peritos también podrán tener acceso la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación.
 
@@ -289,7 +301,9 @@ Convenios con Instituciones Públicas y Privadas
 
 Para el cumplimiento de este Acuerdo se podrán celebrar convenios de colaboración con instituciones públicas federales; de concertación con instituciones privadas y, de coordinación con Entidades Federativas que coadyuven en la identificación de peritos en las materias de que se trate.
 
-Una vez formalizados, se harán del conocimiento del Solicitante para su consulta a través del Sistema Integral de Seguimiento de Expedientes.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Una vez formalizados, se harán del conocimiento del Solicitante para su consulta a través del Sistema Integral de Seguimiento de Expedientes y del Sistema Integral de Gestión de Expedientes.
 
 ### CAPÍTULO X. DE LAS SITUACIONES NO PREVISTAS
 
@@ -326,3 +340,27 @@ SÉPTIMO. Las unidades administrativas competentes, llevarán a cabo las accione
 OCTAVO. La Dirección General de Asuntos Jurídicos deberá realizar dentro de los 30 días siguientes a la entrada en vigor del presente Acuerdo, las adecuaciones necesarias para armonizar la normativa del Consejo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 10 de julio de 2019, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Felipe Borrego Estrada, Alejandro Sergio González Bernabé, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez y Alfonso Pérez Daza.- Ciudad de México, a 21 de agosto de 2019.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
