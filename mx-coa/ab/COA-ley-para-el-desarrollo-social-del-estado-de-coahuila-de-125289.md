@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2019-12-06"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -73,7 +73,9 @@ XI. Crear la Comisión Estatal de Desarrollo Social;
 
 XII. Regular las atribuciones del Gobierno Estatal y de los Gobiernos Municipales en materia de desarrollo social;
 
-XIII. Establecer los mecanismos del padrón de beneficiarios, monitoreo, evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Establecer los mecanismos del padrón de beneficiarios, monitoreo, evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con eficiencia, eficacia, economía, transparencia y honradez;
 
 XIV. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales;
 
@@ -120,6 +122,10 @@ IV. Participación Social: El derecho de las personas a organizarse, intervenir 
 V. Subsidiaridad: El apoyo brindado por el estado de Coahuila al municipio o población, por un tiempo determinado, cuando estos se encuentran imposibilitados para resolver sus propias necesidades, debido a su limitación o carencia de recursos o a su propia circunstancia; y
 
 VI. Autogestión: La libre organización de los beneficiarios y trabajadores, que tienen como finalidad esencial la reivindicación de la dignidad humana en los medios materiales, el trabajo, la productividad, el combate a la pobreza y el mejoramiento de sus niveles de vida.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+VII. Autosuficiencia: Condición como parte del desarrollo a largo plazo, para que las personas superen sus carencias por estar en aptitud de abastecerse por si mismas para satisfacer sus necesidades básicas y más importantes y alcanzar su desarrollo autónomo.
 
 ###### Artículo 7.
 
@@ -976,3 +982,15 @@ P.O. 6 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 395.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 13 DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Único. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 758.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 6° DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 759.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 1° DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
