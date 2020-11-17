@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2019-12-20"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -113,9 +113,13 @@ III Bis. Asistente de Constancias y Registro de Tribunal de Alzada;
 
 IV. Secretario de Juzgado de Distrito;
 
-> <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-IV Bis. Asistente de Constancias y Registro de juez de control o juez de enjuiciamiento; y
+IV Bis. Asistente de Constancias y Registro de juez de control o juez de enjuiciamiento;
+
+> <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+IV Ter. Secretaria o secretario Instructor de Tribunal Laboral Federal;
 
 V. Actuario de Tribunal de Circuito; y
 
@@ -191,9 +195,11 @@ Los ganadores de los concursos de oposición para jueces de Distrito y magistrad
 
 El ingreso y promoción a las categorías señaladas en las fracciones III a VI del artículo 3 de este Acuerdo, se realizará a través de exámenes de aptitud o de los cursos que para tal efecto imparte el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Los servidores públicos adscritos a Tribunales de Circuito y Juzgados de Distrito y los secretarios técnicos que participen en los diversos concursos de oposición o exámenes de aptitud, para acceder a alguna categoría de las mencionadas en el artículo 110 de la Ley, podrán asistir a realizar los trámites de inscripción, sustentar los exámenes respectivos y acudir, en caso de ser designados, a los cursos propedéuticos correspondientes, previa autorización de su titular, quien brindará las facilidades necesarias para su participación, a menos de que con ello se cause trastorno a las funciones sustantivas del propio órgano, aspecto que deberá razonarse suficientemente.
+Los servidores públicos adscritos a Tribunales de Circuito y Juzgados de Distrito, Tribunales Laborales Federales y los secretarios técnicos que participen en los diversos concursos de oposición o exámenes de aptitud, para acceder a alguna categoría de las mencionadas en el artículo 110 de la Ley, podrán asistir a realizar los trámites de inscripción, sustentar los exámenes respectivos y acudir, en caso de ser designados, a los cursos propedéuticos correspondientes, previa autorización de su titular, quien brindará las facilidades necesarias para su participación, a menos de que con ello se cause trastorno a las funciones sustantivas del propio órgano, aspecto que deberá razonarse suficientemente.
 
 La solicitud de autorización deberá formularse con una anticipación prudente que no será menor de tres días.
 
@@ -537,7 +543,9 @@ b) Juez de Distrito, hasta cuatro puntos, considerando un punto por cada año de
 
 c) Secretario General de Acuerdos o Subsecretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, Secretario de Estudio y Cuenta de Ministro o Secretarios de Estudio y Cuenta e Instructores de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, y Secretario y Subsecretario de Acuerdos de Sala; hasta tres puntos, considerando cero punto setenta y cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado;
 
-d) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de Juez de Control o de Juez de Enjuiciamiento; hasta dos puntos, considerando cero punto cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+d) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de Juez de Control o de Juez de Enjuiciamiento o Secretario Instructor de Tribunal Laboral Federal; hasta dos puntos, considerando cero punto cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado; y
 
 e) Actuario del Poder Judicial de la Federación; hasta un punto, considerando cero punto veinticinco puntos por cada año de servicio hasta llegar al máximo antes mencionado;
 
@@ -937,9 +945,11 @@ Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o J
 
 Para determinar la antigüedad de más de seis meses con que se debe contar para adquirir un nombramiento de base como secretario o actuario de Tribunal de Circuito o Juzgado de Distrito en un órgano jurisdiccional que cuente con las plazas vacantes en dichas categorías dentro de su plantilla autorizada, se tomará en cuenta el tiempo de servicio efectivamente laborado dentro del propio órgano jurisdiccional, sin considerar los períodos en que se haya disfrutado de licencias sin goce de sueldo, siempre que el servidor público de que se trate, se encuentre laborando en dicho órgano jurisdiccional en la categoría respecto de la cual se plantea la base, en la fecha en que se otorgue el nombramiento.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 79.
 
-La antigüedad de los secretarios y actuarios de tribunales de circuito y juzgados de distrito que hayan sido contratados en plazas de adscripción temporal, se tomará en cuenta para el otorgamiento de nombramientos de base.
+La antigüedad de los secretarios y actuarios de tribunales de circuito, juzgados de distrito y tribunales labores federales que hayan sido contratados en plazas de adscripción temporal, se tomará en cuenta para el otorgamiento de nombramientos de base.
 
 ###### Artículo 80.
 
@@ -949,15 +959,21 @@ No se considerará plaza vacante aquella en la cual exista una persona con derec
 
 Los actuarios y secretarios de tribunales de circuito y juzgados de distrito que ocupen una plaza con carácter interino, de cuya base sea titular algún servidor público que esté desempeñando otro cargo, y que hubieran ingresado antes de que fueran exigibles los exámenes de aptitud, pueden ser designados para ocupar una plaza vacante de base de igual categoría existente en el mismo o en otro órgano jurisdiccional, de conformidad con lo previsto en el artículo 77 de este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-Los derechos laborales de los actuarios, secretarios y demás servidores públicos de los tribunales de circuito y juzgados de distrito están garantizados en los términos que señala la Constitución, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y la Ley Orgánica del Poder Judicial de la Federación.
+Los derechos laborales de los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito y tribunales laborales federales están garantizados en los términos que señala la Constitución, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y la Ley Orgánica del Poder Judicial de la Federación.
 
-Los actuarios, secretarios y demás servidores públicos de los tribunales de circuito y juzgados de distrito que ocupen plazas de base con nombramiento temporal, tendrán derecho a que el titular del órgano jurisdiccional les otorgue el nombramiento de base en el cargo que estén ocupando, siempre que se cumplan las siguientes condiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito y tribunales laborales federales que ocupen plazas de base con nombramiento temporal, tendrán derecho a que el titular del órgano jurisdiccional les otorgue el nombramiento de base en el cargo que estén ocupando, siempre que se cumplan las siguientes condiciones:
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
 
 I. Que hayan sido nombrados en una o más plazas correspondientes a un puesto cuyas labores sean de base;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
 
 II. Que hayan laborado en la o las plazas respectivas de base, ininterrumpidamente, durante más de seis meses, siempre y cuando no exista un trabajador con mejores derechos, pues en ese caso será éste a quien se le deberá otorgar.
 
@@ -969,9 +985,15 @@ III. Que durante los primeros seis meses de las labores desarrolladas en la o la
 
 En caso de que no se otorgue la base transcurridos los seis meses a que se refiere esta fracción, las notas desfavorables a que se haga acreedor el servidor público después de ese término, también se tomarán en consideración;
 
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+
 IV. Que durante el tiempo que hayan laborado en la o las plazas de base, no se les hubiere impuesto sanción administrativa que esté firme; y
 
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+
 V. Que al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacantes en definitiva, es decir, sin titular al que se haya otorgado nombramiento definitivo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
 
 La resolución que niegue la base deberá emitirse por escrito, debidamente fundada y motivada y será notificada personalmente al interesado.
 
@@ -1017,9 +1039,11 @@ En los lugares donde existan dos o más tribunales unitarios de circuito o juzga
 
 En todo caso, los titulares a que alude el párrafo anterior deberán coordinarse y tomar las providencias necesarias para que cuando menos uno de ellos permanezca en la residencia del tribunal en días inhábiles, a fin de atender cualquier asunto urgente que se presente en términos de la Constitución y de la Ley. Tratándose de tribunales unitarios de circuito y juzgados de distrito especializados, la disposición anterior comprende la estancia de un titular en cada materia o especialidad. Cuando haya disenso de los titulares, la Comisión resolverá lo conducente, previa consulta que se le formule.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 92.
 
-Tampoco podrán abandonar la residencia del tribunal o juzgado en días inhábiles, los magistrados de tribunal unitario de circuito y jueces de distrito que deban seguir actuando para emitir resoluciones de término en materia penal o para atender casos urgentes conforme a la Ley de Amparo, o en los casos a que se refiere el artículo 240, punto 2, del Código Federal de Instituciones y Procedimientos Electorales.
+Tampoco podrán abandonar la residencia del tribunal o juzgado en días inhábiles, los magistrados de tribunal unitario de circuito y jueces de distrito que deban seguir actuando para emitir resoluciones de término en materia penal y laboral o para atender casos urgentes conforme a la Ley de Amparo, o en los casos a que se refiere el artículo 240, punto 2, del Código Federal de Instituciones y Procedimientos Electorales.
 
 ###### Artículo 93.
 
@@ -1054,6 +1078,12 @@ La designación del secretario que deba suplir a un Magistrado de Tribunal Coleg
 ###### Artículo 98 Bis.
 
 Tratándose del sistema penal acusatorio, para la sustitución de los juzgadores de los Centros de Justicia Penal Federal se estará a lo dispuesto en los acuerdos generales que regulan la creación, organización y funcionamiento de dichos Centros.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 98 Ter.
+
+Para el caso de la sustitución de titulares en caso de impedimento en los Tribunales Federales de Justicia Laboral, se estará a lo dispuesto en la Ley Federal del Trabajo y en los acuerdos respectivos del Pleno.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
@@ -1213,19 +1243,19 @@ Las licencias de los demás servidores públicos de los tribunales colegiados de
 
 A la solicitud de licencia deberá acompañarse el visto bueno del magistrado al que esté adscrito el servidor público de que se trate o, en caso de negativa, una exposición por escrito, debidamente fundada y motivada, a efecto de que la instancia facultada para conceder la licencia considere los argumentos de las partes para resolver sobre la procedencia de la solicitud.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 115.
 
-Las licencias de los secretarios y actuarios de los tribunales unitarios de circuito y juzgados de distrito hasta por seis meses, serán concedidas por el magistrado o juez respectivo.
+Las licencias de los secretarios y actuarios de los tribunales unitarios de circuito, juzgados de distrito y tribunales laborales federales hasta por seis meses, serán concedidas por el magistrado o juez respectivo.
 
-Las licencias de los demás servidores públicos de los tribunales unitarios de circuito y juzgados de distrito hasta por un año, serán concedidas por el magistrado o juez respectivo.
+Las licencias de los demás servidores públicos de los tribunales unitarios de circuito, juzgados de distrito y tribunales laborales federales hasta por un año, serán concedidas por el magistrado o juez respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 116.
 
-Las solicitudes de licencias de los secretarios y actuarios de los tribunales colegiados y unitarios de circuito y juzgados de distrito, mayores a seis meses, deberán tramitarse ante Recursos Humanos, quien las someterá a la consideración de la Comisión. Dichas solicitudes deberán contar con el visto bueno del titular del órgano correspondiente e indicar el término específico por el que se requieren.
+Las solicitudes de licencias de los secretarios y actuarios de los tribunales colegiados y unitarios de circuito, juzgados de distrito y tribunales laborales federales, mayores a seis meses, deberán tramitarse ante Recursos Humanos, quien las someterá a la consideración de la Comisión. Dichas solicitudes deberán contar con el visto bueno del titular del órgano correspondiente e indicar el término específico por el que se requieren.
 
 En caso de que el titular del órgano jurisdiccional no estime oportuno conceder su visto bueno, adjuntará a la solicitud una exposición por escrito, debidamente fundada y motivada de su negativa, a efecto de que Recursos Humanos califique sus argumentos y en caso de desestimarlos, someta la petición a la instancia correspondiente.
 
@@ -2212,3 +2242,25 @@ PRIMERO. El presente Acuerdo entrará en vigor el dos de enero de dos mil veinte
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
 
 TERCERO. Se deja sin efectos la Circular 10/2011 del Pleno del Consejo de la Judicatura Federal que establece los lineamientos para otorgar el día de asueto que con motivo de la celebración del día de las madres a las juzgadoras federales del Consejo de la Judicatura Federal, así como las circulares 11/2019 y 12/2019 emitidas por la Dirección General de Recursos Humanos.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
