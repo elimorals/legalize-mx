@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-09-10"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -357,11 +357,15 @@ VI. Formular y aprobar el reglamento de los cuerpos de seguridad pública munici
 
 VII. Aplicar las tecnologías, equipos y procesos para hacer eficiente la actividad de sus corporaciones, la integridad de sus elementos, las comunicaciones y la atención a la población acorde a sus capacidades presupuestales, respetando en todo momento los derechos humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Establecer programas y políticas particulares de prevención del delito, que atiendan la dinámica específica de los fenómenos criminológicos de su competencia, así como acciones en la materia, coordinadas entre el Estado y la Federación, y
+VIII. Establecer programas y políticas particulares de prevención del delito, que atiendan la dinámica específica de los fenómenos criminológicos de su competencia, así como acciones en la materia, coordinadas entre el Estado y la Federación;
 
-IX. Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+IX. En el ámbito de su competencia, emitir la reglamentación necesaria para prohibir la comercialización de juguetes que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas; así como para establecer las sanciones administrativas aplicables a la violación de la prohibición y medidas de incautación, y
+
+X. Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 18.
 
@@ -2876,3 +2880,11 @@ P.O. 10 DE SEPTIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0812.- SE REFORMA EL ARTÍCULO 17 EN SU FRACCIÓN VIII; Y ADICIONA AL MISMO ARTÍCULO 17 UNA FRACCIÓN, ÉSTA COMO IX, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO CUARTO, EL CAPÍTULO I BIS "DE LA COMERCIALIZACIÓN DE RÉPLICA DE ARMAS", Y EL ARTÍCULO 287 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
