@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2020-08-14"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -2981,7 +2981,9 @@ Sólo se permitirá la realización de establecimientos campestres, cuando los t
 
 Los fraccionamientos campestres con fines habitacionales deberán tener como mínimo las siguientes características:
 
-I. Lotificación: Sus lotes tendrán la superficie que se determine en la autorización de impacto ambiental, y en todo caso no podrán tener un frente menor de cuarenta metros, y superficie menor de mil metros cuadrados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+I. Lotificación: Sus lotes tendrán la superficie que se determine en la autorización de impacto ambiental, y en todo caso no podrán tener un frente menor de veinticinco metros, y superficie menor de mil metros cuadrados.
 
 Las construcciones deberán remeterse diez metros a partir del alineamiento, superficie que se dejará como área libre. Se permitirá la construcción como máximo en el diez por ciento de la superficie del lote y el resto se aprovechará en espacios abiertos;
 
@@ -4224,3 +4226,9 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 760.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 202 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
