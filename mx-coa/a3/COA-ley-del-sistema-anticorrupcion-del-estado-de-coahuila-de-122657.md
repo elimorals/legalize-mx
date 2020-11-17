@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2019-11-22"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -505,15 +505,17 @@ Para ser designado Secretario Técnico se deberán reunir los requisitos siguien
 
 I. Ser ciudadano mexicano, residente del estado y estar en pleno goce y ejercicio de sus derechos civiles;
 
-II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación de políticas públicas, fiscalización, rendición de cuentas o combate a la corrupción;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+II. Experiencia debidamente comprobada de al menos cinco años en materias de transparencia, evaluación de políticas públicas, fiscalización, rendición de cuentas o combate a la corrupción;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
 III. Tener más de treinta y cinco años de edad, al día de la designación;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-IV. Poseer al día de la designación, una antigüedad mínima de diez años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas (sic) con la materia de esta Ley que le permitan el desempeño de sus funciones;
+IV. Poseer al día de la designación, una antigüedad mínima de cinco años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas (sic) con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito;
 
@@ -742,3 +744,9 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 372.- SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 18 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 770.- SE REFORMAN LAS FRACCIONES II Y IV, DEL ARTÍCULO 34 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
+
+ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
