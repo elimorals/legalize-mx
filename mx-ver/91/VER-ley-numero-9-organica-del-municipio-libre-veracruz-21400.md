@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-07-28"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 9 ORGANICA DEL MUNICIPIO LIBRE, VERACRUZ
 
-[NOTA 1: DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE REFORMAN LOS ARTÍCULOS 22 Y 171, AMBOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, PUBLICADO EN LA GACETA OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIOCHO DE JULIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/].
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -389,9 +387,11 @@ II. Las comunicaciones que, con nota de reservado, que lo ameriten, le dirijan a
 
 III. Las solicitudes de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-Durante el mes de diciembre, el Presidente Municipal deberá rendir a los ciudadanos y al Ayuntamiento un informe sobre el estado que guarda la administración pública municipal. Dicho acto se realizará en Sesión pública y solemne de Cabildo.
+Durante el mes de diciembre, la Presidenta o el Presidente Municipal deberá rendir a la ciudadanía y al Ayuntamiento, un informe sobre el estado que guarda la administración pública municipal y en el que prioritariamente especifique las acciones emprendidas para dar cumplimiento a objetivos, proyectos y metas establecidos en el Plan Municipal de Desarrollo, así como a los Objetivos de Desarrollo Sostenible de la Agenda 2030. Dicho acto se realizará en Sesión pública y solemne de Cabildo y su contenido íntegro deberá publicarse, a más tardar al día siguiente de su presentación, en los medios de difusión con los que cuente el Ayuntamiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
@@ -4442,3 +4442,11 @@ TERCERO. El Organismo Público Local Electoral del Estado de Veracruz, reintegra
 CUARTO. El Organismo Público Local Electoral del Estado de Veracruz y el Tribunal Electoral de Veracruz, dentro de un plazo de noventa días naturales, en el ámbito de su competencia deberán adecuar y aprobar la normatividad correlativa al presente decreto. En el mismo plazo revisarán y, en su caso, observarán los ajustes necesarios a las estructuras orgánicas para cumplir con los principios de racionalidad y austeridad republicana.
 
 QUINTO. Las disposiciones correspondientes a la reelección de integrantes de los Ayuntamientos serán aplicables a los ediles que resulten electos a partir del proceso electoral del año 2021.
+
+G.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 597 QUE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
