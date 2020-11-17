@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2020-05-29"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -813,9 +813,25 @@ VII.- DISTRITO 7 que comprende las siguientes municipalidades: Agua Prieta, con 
 
 VIII.- DISTRITO 8 que comprende las siguientes municipalidades: Altar, con la Comisaría de El Plomo; Caborca; Átil; Oquitoa; Sáric, con la Comisaría de Sásabe; Trincheras, con la Comisaría de El Puerto de Camou; Pitiquito, con la Comisaría de La Ciénega; y Tubutama, con las Comisarías de La Reforma y La Sangre; Municipio de Puerto Peñasco y General Plutarco Elías Calles. Cabecera: Caborca.
 
-### CAPITULO SEGUNDO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTICULO 55 TER.- Para dar cabal cumplimiento al Sistema de Justicia en Materia Laboral, el territorio del Estado de Sonora se redistribuye en siete Distritos Judiciales, con independencia de la distribución original para las demás materias; tales distritos comprenden:
+
+I.- DISTRITO 1 que comprende las siguientes municipalidades: Benjamín Hill, Opodepe, Banámichi, Huépac, San Felipe de Jesús, Cumpas, Ures, Villa Hidalgo, San Pedro de la Cueva, Hermosillo, Bacadehuachi, Bacerac, Sahuaripa, Yécora, Bacanora, Suaqui Grande, Soyopa, Huásabas, Aconchi, Baviácora, Carbó, Rayón, San Miguel de Horcasitas, Moctezuma, Mazatán, Villa Pesqueira, Divisaderos, Granados, Huachinera, Nácori Chico, Arivechi, Onavas, San Javier, La Colorada y Tepache. Cabecera: Hermosillo.
+
+II.- DISTRITO 2 que comprende las siguientes municipalidades: Cajeme, Bácum, San Ignacio Río Muerto, Rosario, Benito Juárez y Quiriego. Cabecera: Ciudad Obregón.
+
+III.- DISTRITO 3 que comprende las siguientes municipalidades: Nogales, Santa Cruz Cananea, Naco, Agua Prieta, lmuris, Santa Ana, Fronteras, Bavispe, Nacozari, Bacoachi, Arizpe, Cucurpe, Magdalena, Trincheras, Atíl, Tubutama, Sáric y Oquitoa. Cabecera: Nogales.
+
+IV.- DISTRITO 4 que comprende las siguientes municipalidades: San Luis Río Colorado y Plutarco Elías Calles. Cabecera: San Luis Río Colorado.
+
+V.- DISTRITO 5 que comprende las siguientes municipalidades: Puerto Peñasco, Caborca, Pitiquito y Altar. Cabecera: Puerto Peñasco.
+
+VI.- DISTRITO 6 que comprende las siguientes municipalidades: Navojoa, Álamos, Etchojoa y Huatabampo. Cabacera (sic): Navojoa.
+
+VII.- DISTRITO 7 que comprende las siguientes municipalidades: Guaymas y Empalme. Cabecera: Guaymas.
+
+### CAPITULO SEGUNDO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
 
@@ -829,57 +845,55 @@ II. Los Juzgados de lo Familiar;
 
 III. Los Juzgados de lo Mercantil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
+
+IV. Los Juzgados Orales de lo Mercantil;
 
 > <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
-IV.- Los Juzgados Orales de lo Mercantil;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Los Juzgados de lo Penal;
 
 > <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
-V.- Los Juzgados de lo Penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
-
-VI.- Los Juzgados Orales de lo Penal;
+VI. Los Juzgados Orales de lo Penal;
 
 VII. Los Juzgados Especializados en Justicia para Adolescentes;
 
-VIII. Los Juzgados Mixtos; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Los Juzgados Mixtos;
 
-> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-IX.- Los Juzgados de Ejecución Penal.
+IX. Los Juzgados de Ejecución Penal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+X. Los Juzgados Laborales.
 
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 Los Juzgados a que se refieren las fracciones I, II, V y VIII, podrán conocer de la materia de justicia especializada para adolescentes, según lo determine el Supremo Tribunal de Justicia, atendiendo a las necesidades del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 Además, el Supremo Tribunal podrá crear juzgados de primera instancia supernumerarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 57.
 
-Los Juzgados de Primera Instancia a que se refieren las fracciones I, II, III, IV, V, VII, VIII y IX del artículo que antecede, se compondrán de un Juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
+Los Juzgados de Primera Instancia a que se refiere el artículo anterior, se compondrán de un Juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
+
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 El Tribunal de Enjuiciamiento, se integrará de manera unitaria o colegiada, dependiendo de los acuerdos que para el efecto emita el Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+
 Los Jueces de Primera Instancia deberán actuar, en todos los casos, con Secretarios de Acuerdos o, en ausencia de éstos, con testigos de asistencia.
+
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 Los actuarios adscritos a las Centrales de Actuarios, estarán autorizados para llevar a efecto diligencias en expedientes, exhortos y requisitorias provenientes de juzgados distintos al que los nombró.
 
@@ -1128,6 +1142,10 @@ ARTICULO 63 BIS.- Los Juzgados Especializados en Justicia para Adolescentes cono
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
 Los Juzgados Especializados en Justicia para Adolescentes podrán ejercer jurisdicción en uno o más distritos judiciales, según lo determine el Pleno del Supremo Tribunal de Justicia en el Acuerdo de su creación.
+
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 63 TER.- Los Juzgados Laborales conocerán de los conflictos laborales, cuando se actualice el supuesto previsto en el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 64.
 
@@ -2858,3 +2876,15 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 143, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo deberá proveer una partida presupuestal suficiente al Poder Judicial del Estado, en cumplimiento del artículo Transitorio Décimo Segundo del Decreto que reformó la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación del 1 de mayo de 2019.
