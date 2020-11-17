@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2020-10-27"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -508,6 +508,10 @@ CLVII. Siniestro: Situación crítica y dañina generada por la incidencia de un
 CLVIII. SISAC: Sistema de Seguimiento de Acuerdos de Comisiones;
 
 CLIX. SISE: El Sistema Integral de Seguimiento de Expedientes;
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+CLIX Bis. SIGE: El Sistema Integral de Gestión de Expedientes;
 
 CLX. Sistema de Administración de Viáticos SIAVI: Aplicación informática que permite a las áreas solicitantes gestionar en línea el trámite de solicitud y cancelación de recursos por concepto de viáticos y transportación para el desempeño de comisiones;
 
@@ -11377,9 +11381,11 @@ En todo caso, las garantías se podrán constituir ante los órganos jurisdiccio
 
 La institución depositaria deberá emitir documento en el que conste, cuando menos, el monto de la cantidad depositada, que el referido depósito no genera interés, rendimiento o contraprestación alguna a favor del depositante y cualquier otro dato que se convenga con la institución depositaria.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 880.
 
-La conciliación de los depósitos efectuados en la institución crediticia se llevará a cabo a través de los registros que obren en el SISE, sin perjuicio de que la secretaría técnica solicite los informes que estime necesarios para ello.
+La conciliación de los depósitos efectuados en la institución crediticia se llevará a cabo a través de los registros que obren en el SISE y/o SIGE, sin perjuicio de que la secretaría técnica solicite los informes que estime necesarios para ello.
 
 ###### Artículo 881.
 
@@ -11391,9 +11397,9 @@ Los depósitos en dinero o en valores constituidos ante los órganos jurisdiccio
 
 Los titulares de los órganos jurisdiccionales comunicarán dicha determinación y remitirán los billetes de depósito debidamente endosados al Fisco Federal o pondrán a disposición del mismo los valores a que se refiere este artículo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-Los datos relativos a dichos movimientos se registrarán en el SISE, y no se informará ni dará aviso escrito alguno a la Dirección General de Programación, Presupuesto y Tesorería o a la Secretaría Técnica del Fondo de Apoyo.
+Los datos relativos a dichos movimientos se registrarán en el SISE y/o SIGE y no se informará ni dará aviso escrito alguno a la Dirección General de Programación, Presupuesto y Tesorería o a la Secretaría Técnica del Fondo de Apoyo.
 
 ###### Artículo 883.
 
@@ -11405,11 +11411,11 @@ En el certificado de depósito se deberá incluir una leyenda que comprenda la a
 
 Los billetes, certificados o instrumentos de depósito se podrán hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 885.
 
-La secretaría técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Gestión Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
+La secretaría técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Gestión Judicial que realice las adecuaciones necesarias al SISE y/o SIGE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
 
 SUBSECCIÓN QUINTA
 
@@ -11475,19 +11481,23 @@ La operatividad del Fondo de Apoyo estará a cargo de la secretaría técnica de
 
 La secretaría técnica del Fondo de Apoyo implementará los sistemas contables y automatizados necesarios para el tratamiento de los datos relativos a la administración, control, registro y operación del Fondo de Apoyo. Para este efecto, la secretaría técnica del Fondo de Apoyo contará con la colaboración necesaria de las áreas competentes del Consejo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Gestión Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo de Apoyo.
+El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Gestión Judicial el acceso y la modificación del SISE y/o SIGE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo de Apoyo.
 
-Para el efecto anterior, los analistas jurídicos de los órganos jurisdiccionales responsables del procesamiento de la información del SISE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Para el efecto anterior, los analistas jurídicos de los órganos jurisdiccionales responsables del procesamiento de la información del SISE y/o SIGE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
 
 ###### Artículo 894.
 
 Los depósitos a que se refieren las fracciones III y IV del artículo 243 de la Ley Orgánica serán objeto de contabilidad, y se llevará un registro automatizado de los datos relativos a los ingresos, egresos e intereses.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 895.
 
-La documentación soporte para el control, conciliación y validación de los depósitos judiciales será la que se emita a través del SISE, los estados de cuenta bancarios y demás reportes que se convengan con la institución depositaria.
+La documentación soporte para el control, conciliación y validación de los depósitos judiciales será la que se emita a través del SISE y/o SIGE, los estados de cuenta bancarios y demás reportes que se convengan con la institución depositaria.
 
 ###### Artículo 896.
 
@@ -13434,3 +13444,25 @@ D.O.F. 27 DE OCTUBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
