@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2020-04-18"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -527,6 +527,18 @@ h) Se rinda el informe de actividades del Congreso del Estado.
 
 i) Se conmemore anualmente la instalación del Primer Congreso de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+j) Se entregue la Presea al Mérito "Plan de San Luis".
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+k) Se devele un epígrafe en el Muro de Honor del Salón de Sesiones "Lic. Ponciano Arriaga Leija" del Honorable Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+l) Se rindan honores a la memoria de potosinas o potosinos que hayan prestado servicios de gran importancia al Estado.
+
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
 
 ARTICULO 40 BIS. Todas las sesiones del Pleno, con excepción de las privadas, se deberán interpretar simultáneamente a lengua de señas mexicanas.
@@ -646,6 +658,10 @@ Los diputados gozarán del fuero que les reconoce la Constitución; y serán inv
 Cada Grupo Parlamentario se integrará con todos los diputados electos de un mismo partido político representado en el Congreso.
 
 En los casos en que un partido esté representado por un solo diputado, para efectos de esta Ley se entenderá que integra una Representación Parlamentaria.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+Cada Grupo, o Representación Parlamentaria, deberá entregar su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente, pudiendo actualizar la misma las veces que se considere pertinente.
 
 ###### ARTICULO 56.
 
@@ -771,7 +787,9 @@ I. Coordinar los trabajos del Pleno;
 
 II. Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
 
-III. Establecer, en coordinación con los grupos parlamentarios, la agenda legislativa, y darle seguimiento;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+III. Establecer, en coordinación con las representaciones y grupos parlamentarios, la agenda legislativa, y darle seguimiento;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -2726,3 +2744,19 @@ P.O. 18 DE ABRIL DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0813.- SE REFORMA EL ARTÍCULO 67 EN SU FRACCIÓN III; Y ADICIONA AL ARTÍCULO 55 EL PÁRRAFO TERCERO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0814.- SE ADICIONA AL ARTÍCULO 40 EN SU FRACCIÓN IV LOS INCISOS J) AL L), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
