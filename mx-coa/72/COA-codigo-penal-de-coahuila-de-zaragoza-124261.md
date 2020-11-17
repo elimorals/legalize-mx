@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-10-27"
+last_updated: "2020-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3595,21 +3595,21 @@ Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, la
 
 Artículo 226 (Abuso sexual)
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-Se aplicará de dos a seis años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+Se aplicará de seis a diez años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
 Si se hiciere uso de la violencia física, psicológica o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
 Artículo 227 (Abuso sexual de persona incapaz)
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-Se impondrá de tres a siete años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
+Se impondrá de seis a trece años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de cuatro a nueve años de prisión y multa.
+Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aumentará en una mitad más en su mínimo y máximo. Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3653,29 +3653,23 @@ Se cometa dentro de un inmueble público, centro educativo, cultural, deportivo,
 
 ### Capítulo Quinto. Delitos contra la libertad y seguridad en el desarrollo psicosexual de personas menores de edad
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
 Artículo 229 (Violación equiparada, violación impropia y abuso sexual contra persona menor de quince años)
 
 I. (Violación equiparada en persona menor de quince años)
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+Se considera violación equiparada y se impondrá de once a dieciocho años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años de edad.
 
-Se considera violación equiparada y se impondrá de diez a diecisiete años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años de edad.
+II. (Violación impropia en persona menor de quince años)
 
-(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. (VIOLACIÓN IMPROPIA EN PERSONA MENOR DE QUINCE AÑOS)
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
-
-SE CONSIDERA VIOLACIÓN IMPROPIA Y SE IMPONDRÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA MENOR DE QUINCE AÑOS DE EDAD.
+Se considera violación impropia y se impondrá de ocho a trece años de prisión y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona menor de quince años de edad.
 
 III. (Abuso sexual en persona menor de quince años)
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+Se considera abuso sexual y se impondrá de cuatro a ocho años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
 
-Se considera abuso sexual y se impondrá de tres a siete años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
-
-Si en los supuestos de las fracciones anteriores se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan
+Si en los supuestos de las fracciones anteriores se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
 Artículo 230 (Modalidades agravantes de los delitos previstos en el artículo 229 de este código).
 
@@ -3719,11 +3713,11 @@ V. (Inmueble público o centro de naturaleza social)
 
 Se cometa dentro de un inmueble público, centro educativo, cultural, deportivo, religioso o de trabajo, o dentro de cualquier otro centro de naturaleza social.
 
-Artículo 232 (Procuración sexual a menores de quince años)
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+Artículo 232 (Procuración sexual a menores de quince años).
 
-Se impondrá de tres a cinco años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
+Se impondrá de cuatro a seis años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -3829,7 +3823,9 @@ Habrá corrupción de menores o de incapaces, cuando se realice cualquiera de la
 
 I. (Exhibicionismo sexual, ingestión de bebidas alcohólicas o narcóticos, o comisión de un hecho delictuoso)
 
-Se impondrá de dos a cuatro años de prisión y de mil a dos mil quinientos días multa, a quien sin que actúe con los fines a que se refiere el artículo 16 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, determine a una persona menor de dieciocho años de edad, o a quien no tenga la capacidad de comprender el significado del hecho, a realizar con sus órganos genitales desnudos, y/o en su caso, con sus mamas desnudas si es mujer, actos de exhibicionismo de clara índole sexual, simulados o no, ante el mismo determinador o terceras personas; o en tres o más ocasiones distintas haga que el menor o incapaz ingiera bebidas alcohólicas hasta alcanzar un estado de ebriedad que lo haga trastabillar; o ilegalmente haga que consuma narcóticos, o lo determine a cometer o participar en un hecho delictuoso determinado, aunque éste no se lleve a cabo.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+
+Se impondrá de siete a doce años de prisión y de mil a dos mil quinientos días multa, a quien sin que actúe con los fines a que se refiere el artículo 16 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, determine a una persona menor de dieciocho años de edad, o a quien no tenga la capacidad de comprender el significado del hecho, a realizar con sus órganos genitales desnudos, y/o en su caso, con sus mamas desnudas si es mujer, actos de exhibicionismo de clara índole sexual, simulados o no, ante el mismo determinador o terceras personas; o en tres o más ocasiones distintas haga que el menor o incapaz ingiera bebidas alcohólicas hasta alcanzar un estado de ebriedad que lo haga trastabillar; o ilegalmente haga que consuma narcóticos, o lo determine a cometer o participar en un hecho delictuoso determinado, aunque éste no se lleve a cabo.
 
 II. (Observación de actos sexuales)
 
@@ -8016,3 +8012,15 @@ P.O. 27 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 780.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 291 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 749.- SE MODIFICA EL ARTÍCULO 229 Y 232, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- Las presentes modificaciones al Código Penal de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 765.- SE REFORMA: EL PRIMER PÁRRAFO DEL ARTÍCULO 226, EL PRIMERO Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 227 Y LA FRACCIÓN I DEL ARTÍCULO 237 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
