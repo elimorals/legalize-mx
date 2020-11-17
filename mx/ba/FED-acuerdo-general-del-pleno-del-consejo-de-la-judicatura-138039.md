@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-138039"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-06"
-last_updated: "2020-03-26"
+last_updated: "2020-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-08-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado al Número 5 de la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2019.
 
@@ -533,7 +533,9 @@ El acceso a las videograbaciones de las audiencias por personas ajenas al juicio
 
 ###### Artículo 37.
 
-De las reglas sobre las videograbaciones de audiencias públicas del Sistema Penal Acusatorio y de los Juicios Ejecutivos Mercantiles Orales
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+De las reglas sobre las videograbaciones de audiencias públicas del Sistema Penal Acusatorio, de los Juicios Ejecutivos Mercantiles Orales y de los procedimientos laborales federales
 
 El titular del órgano jurisdiccional encargado de desahogar cualquier audiencia pública deberá garantizar que en la misma no sean expuestos aquellos datos que, aún bajo la publicidad del juicio, deben ser objeto de protección en términos de lo previsto en la Ley, en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados o de la legislación aplicable en la materia respectiva.
 
@@ -541,11 +543,17 @@ Ninguna persona que asista a las audiencias podrá grabarlas a través de cualqu
 
 ###### Artículo 38.
 
-Del acceso a las videograbaciones de audiencias públicas del Sistema Penal Acusatorio y de los Juicios Ejecutivos Mercantiles Orales
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-El titular del órgano jurisdiccional, o el Juez del Centro de Justicia Penal Federal que determine el administrador propio del Centro, será el encargado de tramitar las peticiones que se generen con motivo de las solicitudes de acceso a la información, y en su caso, pronunciarse sobre la clasificación de reservada o confidencial.
+Del acceso a las videograbaciones de audiencias públicas del Sistema Penal Acusatorio, de los Juicios Ejecutivos Mercantiles Orales, de los procedimientos laborales federales y de los procedimientos de extinción de dominio
 
-El acceso a la información contenida en la videograbación de las audiencias públicas del sistema penal acusatorio se desarrollará, previa determinación de su publicidad, en el espacio destinado para tal efecto en el propio Centro, o en el que resulte más cercano, bajo la premisa de que la reproducción se hará como si el solicitante hubiera estado presente en la audiencia.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+El titular del órgano jurisdiccional, el Juez del Centro de Justicia Penal Federal que determine el administrador propio del Centro, o la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, será el encargado de tramitar las peticiones que se generen con motivo de las solicitudes de acceso a la información, y en su caso, pronunciarse sobre la clasificación de reservada o confidencial.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+El acceso a la información contenida en la videograbación de las audiencias públicas del sistema penal acusatorio, de los procedimientos laborales federales y de los procedimientos de extinción de dominio se desarrollará, previa determinación de su publicidad, en el espacio destinado para tal efecto en el propio Centro, Tribunal u órgano jurisdiccional, o en el que resulte más cercano, bajo la premisa de que la reproducción se hará como si el solicitante hubiera estado presente en la audiencia.
 
 El acceso a la información contenida en la videograbación de las audiencias públicas de los juicios ejecutivos mercantiles orales se desarrollará, previa determinación de su publicidad, en el módulo de acceso correspondiente.
 
@@ -573,7 +581,9 @@ VI. Aquellas que traten un negocio excepcional, es decir, que sean distintas a l
 
 Los órganos jurisdiccionales deberán enviar vía electrónica a la Unidad de Transparencia, a través del Sistema de Captura de Sentencias Ejecutorias y Resoluciones Públicas Relevantes, las sentencias o resoluciones que estén en algunos de los supuestos señalados, cuya versión deberá ser pública, es decir, con la supresión de la información considerada legalmente como reservada y confidencial, conforme a las disposiciones aplicables.
 
-Para efectos de este artículo, los órganos jurisdiccionales de los Centros de Justicia Penal Federal deberán remitir la sentencia en su versión pública y escrita.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Para efectos de este artículo, los órganos jurisdiccionales de los Centros de Justicia Penal Federal y de los Tribunales Laborales Federales deberán remitir la sentencia en su versión pública y escrita.
 
 La Unidad de Transparencia verificará que se actualicen los supuestos. Asimismo, tendrá bajo su responsabilidad su publicación en Internet, la que deberá actualizar en forma mensual.
 
@@ -601,7 +611,9 @@ El Director General de Comunicación Social y Vocería dará cuenta, con toda op
 
 De la publicación de las versiones públicas de la totalidad de las sentencias y, resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales
 
-El servidor público facultado tendrá la obligación de integrar al Sistema Integral de Seguimiento de Expedientes la versión pública de las sentencias o resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales, que sean emitidas en los expedientes del índice del órgano jurisdiccional de su adscripción, así como todos los datos de registro que se requieran para garantizar efectivamente el derecho de acceso a la información.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+El servidor público facultado tendrá la obligación de integrar al Sistema Integral de Seguimiento de Expedientes o, en su caso, al Sistema Integral de Gestión de Expedientes, la versión pública de las sentencias o resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales, que sean emitidas en los expedientes del índice del órgano jurisdiccional de su adscripción, así como todos los datos de registro que se requieran para garantizar efectivamente el derecho de acceso a la información.
 
 La responsabilidad de verificar que se realice dicha integración corresponderá a los jueces de Distrito y magistrados de Circuito que hayan emitido o sido ponentes en la sentencia o resolución con que culminó el procedimiento de su competencia.
 
@@ -611,7 +623,9 @@ La responsabilidad de verificar que se realice dicha integración corresponderá
 
 De la consulta a las versiones públicas de la totalidad de las sentencias y de las resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales
 
-Las sentencias podrán consultarse por cualquier persona una vez que se emitan, por lo que deberán incorporarse al Sistema Integral de Seguimiento de Expedientes en versión pública, salvo que se actualice alguna de las hipótesis legales que restrinjan la totalidad del documento, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+
+Las sentencias podrán consultarse por cualquier persona una vez que se emitan, por lo que deberán incorporarse al Sistema Integral de Seguimiento de Expedientes o, en su caso, al Sistema Integral de Gestión de Expedientes, en versión pública, salvo que se actualice alguna de las hipótesis legales que restrinjan la totalidad del documento, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 La consulta de las versiones públicas de las sentencias emitidas por los jueces de Distrito o magistrados de Circuito de los Centros de Justicia Penal Federal, se realizará a través del Buscador de sentencias especializado en el sistema de justicia penal adversarial.
 
@@ -642,3 +656,25 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
 
 TERCERO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, en coordinación con la Dirección General de Gestión Judicial en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, informarán sobre las acciones de la implementación del Buscador de sentencias especializado en el sistema de justicia penal adversarial, y en su caso, propondrán la normativa necesaria para el correcto funcionamiento de la citada herramienta.
+
+D.O.F. 17 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día en que inicien funciones los Tribunales Laborales Federales.
+
+SEGUNDO. El Sistema Integral de Gestión de Expedientes (SIGE) iniciará operaciones el día que inicien funciones los Tribunales Laborales Federales.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial, apoyada por las áreas competentes, deberá realizar todas las acciones necesarias para el inicio de operaciones del SIGE.
+
+SEXTO. En tanto se reforma la Ley Orgánica del Poder Judicial de la Federación, las y los secretarios instructores de los Tribunales Laborales del Poder Judicial de la Federación tendrán administrativamente la categoría de Secretario de Juzgado.
+
+SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
