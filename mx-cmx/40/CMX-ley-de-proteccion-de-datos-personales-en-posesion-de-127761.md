@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-de-datos-personales-en-posesion-de-127761"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-10"
-last_updated: "2019-12-24"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127761&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-22"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 10 de abril de 2018.
 
@@ -578,7 +578,13 @@ Los sistemas de datos personales tienen como finalidad cumplir con la transparen
 
 La integración, tratamiento y protección de los datos personales se realizará con base en lo siguiente:
 
-I. Cada sujeto obligado publicará en la Gaceta Oficial de la Ciudad de México la creación, modificación o supresión de sus sistemas de datos personales;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+I. Cada sujeto obligado publicará en la Gaceta Oficial de la Ciudad de México el Aviso relativo a la creación, modificación o supresión de sus sistemas de datos personales.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+Dicho Aviso deberá indicar las ligas electrónicas donde se podrán consultar los Acuerdos de creación, modificación o supresión correspondientes, los requisitos señalados en la fracción II del presente artículo, así como los lineamientos que, en su caso, determine el Instituto. Asimismo, dichos Acuerdos y los propios sistemas serán enviados en versión física con firma autógrafa en original y una versión digitalizada de los mismos al Instituto a efecto de su resguardo y su publicación en el Registro Electrónico de Sistemas de Datos Personales;
 
 II. En caso de creación o modificación de los sistemas de datos personales, se deberá indicar al menos lo siguiente:
 
@@ -1653,3 +1659,13 @@ G.O. 24 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 37 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México
+
+TERCERO.- El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, contará con un plazo de 30 días hábiles para la armonización de los lineamientos en materia de protección de datos personales con las disposiciones del presente Decreto.
