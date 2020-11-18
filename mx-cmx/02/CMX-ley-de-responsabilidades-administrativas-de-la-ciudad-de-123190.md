@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2019-03-04"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-31"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -296,6 +298,12 @@ En el diseño y supervisión de los mecanismos a que se refiere el artículo ant
 
 El Comité Coordinador del Sistema Anticorrupción de la Ciudad de México deberá establecer los mecanismos para promover y permitir la participación de la sociedad en la generación de políticas públicas dirigidas al combate a las distintas conductas que constituyen Faltas administrativas.
 
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 23 Bis.
+
+La Secretaría, a través de los Órganos Internos de Control, implementará Módulos de Atención, Orientación y Contacto Ciudadano que podrán ser de carácter temporal o permanente, según el diagnóstico que se tenga por parte de la Secretaría, en las distintas dependencias de la administración pública de la Ciudad, con la finalidad de que la ciudadanía pueda conocer con oportunidad los criterios, mecanismos y características de los servicios y/o funciones que cada dependencia brinda. Dichos Módulos de atención deberán estar indistintamente en espacios accesibles e identificables para la ciudadanía.
+
 ### Capítulo II. De la integridad de las personas morales
 
 ###### Artículo 24.
@@ -542,7 +550,13 @@ Los entes públicos o los particulares que, en términos de este artículo, haya
 
 En caso de que no se realice el reintegro de los recursos señalados en el párrafo anterior, estos serán considerados créditos fiscales, por lo que la Secretaria de Finanzas deberá ejecutar el cobro de los mismos en términos de las disposiciones jurídicas aplicables.
 
-La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 75 de esta Ley, cuando el daño o perjuicio a la Hacienda Pública no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización y el daño haya sido resarcido o recuperado. Cuando la Secretaría u órgano interno de control determine el pago de indemnización, no procederá el inicio de procedimiento de responsabilidad resarcitoria previsto en el Código Fiscal del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+La autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 75 de esta Ley, únicamente cuando el daño o perjuicio a la Hacienda Pública haya sido resarcido o recuperado y no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización. Cuando la Secretaría u órgano interno de control determine el pago de indemnización, no procederá el inicio de procedimiento de responsabilidad resarcitoria previsto en el Código Fiscal de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+En los casos en los que se actualice el supuesto previsto en el párrafo anterior, la Autoridad resolutora en su caso, deberá dar por concluido el expediente dictando la resolución correspondiente en los términos de este artículo.
 
 ### Capítulo II. De las faltas administrativas graves de las Personas Servidoras Públicas
 
@@ -1915,3 +1929,23 @@ TERCERO.- La Jefa de Gobierno de la Ciudad de México deberá remitir al Congres
 CUARTO.- Una vez que quede conformado en su totalidad el Pleno General del Tribunal, conforme a lo previsto en la Ley, se deberá elegir a nuevas personas integrantes de la Junta de Gobierno y Administración dentro de los 15 días siguientes a que hayan tomado protesta del encargo las nuevas personas Magistradas de Sala Superior y de Sala Ordinaria, los cuales podrán competir para formar la misma.
 
 QUINTO.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de este decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 23 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor 180 días hábiles posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La implementación de los Módulos de Atención, Orientación y Contacto Ciudadano que prevé el presente Decreto deberán implementarse con cargo al presupuesto asignado a la Secretaría de la Contraloría General, haciendo uso del personal con el que cuenta actualmente y ayudándose de los mecanismos institucionales necesarios para que no se generen erogaciones adicionales.
+
+TERCERO.- Durante el periodo señalado en el Artículo Primero Transitorio del presente Decreto, para la determinación de la temporalidad de los Módulos referidos, la Secretaría deberá tomar en cuenta o, en su caso, elaborar un diagnóstico de las dependencias de la administración pública local por incurrir con más frecuencia en malas prácticas, (sic) requieran con mayor prioridad de la implementación de los Módulos a que se refiere el presente Decreto.
+
+CUARTO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA EL PÁRRAFO QUINTO DEL ARTÍCULO 50, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Ciudad de México.
