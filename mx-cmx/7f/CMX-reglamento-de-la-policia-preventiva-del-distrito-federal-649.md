@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-policia-preventiva-del-distrito-federal-649"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-07-06"
-last_updated: "1984-07-06"
+last_updated: "2020-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=649&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1984-07-05"
 ---
 # REGLAMENTO DE LA POLICIA PREVENTIVA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA POLICIA PREVENTIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 6 de julio de 1984.
 
@@ -371,3 +373,25 @@ SEXTO.- El Jefe del Departamento del Distrito Federal, expedirá los manuales de
 SEPTIMO.- La Secretaría General de Protección y Vialidad, elaborará y fijará las reglas de operación de escalafón del personal que labora en la Policía del Distrito Federal, observándose las reglas vigentes en esta fecha en tanto aquellas fueren expedidas.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los cinco días del mes de julio de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abrogan las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal, publicadas en la Gaceta Oficial del Distrito Federal, el 14 de septiembre del 2012, el Reglamento de la Policía Preventiva del Distrito Federal, publicado en el Diario Oficial de la Federación el 6 de julio de 1984, así como aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Las disposiciones de otros ordenamientos legales que beneficien al Servicio Profesional de Carrera y a los integrantes de las Instituciones de Seguridad Ciudadana, conservarán su vigencia, hasta en tanto emitan las que las sustituyan.
+
+QUINTO.- Los trámites y procedimientos de la Carrera Policial iniciados con anterioridad a la entrada en vigor del presente Reglamento continuarán hasta su total conclusión conforme a la normatividad vigente durante su inicio.
+
+SEXTO.- Los asuntos y procedimientos relacionados con la aplicación de correctivos disciplinarios y sanciones derivados de faltas cometidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán hasta su total conclusión conforme a la normatividad vigente durante la comisión de la falta.
+
+SÉPTIMO.- Los grados e insignias del personal policial se actualizarán únicamente en cuanto a su denominación conforme a la escala de jerarquías establecida en la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+OCTAVO.- La Persona Titular de la Secretaría de Seguridad Ciudadana contará con un terminó no mayor a 120 días naturales para actualizar la normatividad complementaria que asegure el adecuado funcionamiento del Servicio Profesional de Carrera Policial.
