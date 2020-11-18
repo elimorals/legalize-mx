@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2020-05-18"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -993,11 +993,11 @@ El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones. E
 
 El Congreso del Estado podrá ser convocado a períodos extraordinarios de sesiones, en los términos del Artículo 25 de la Constitución y de este Reglamento.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 106.
 
-Para efectos de este Reglamento, se entenderá por sesión a la reunión plenaria de los Diputados, legalmente convocados, con la asistencia del quórum legal, celebrada en cualquiera de los Recintos del Congreso del Estado, para analizar, discutir y en su caso aprobar, los asuntos del orden del día. Las sesiones se realizarán en la forma y términos que se señalan en este Reglamento.
-
-Se entenderá por período la serie continuada de sesiones efectuadas dentro de las fechas que para tal efecto se señalen.
+Para efectos de este Reglamento, se entenderá por sesión a la reunión plenaria de los Diputados, legalmente convocados, con la asistencia del quorum legal, celebrada en cualquiera de los Recintos del Congreso del Estado, o de manera virtual para analizar, discutir y en su caso aprobar, los asuntos del orden del día. Las sesiones se realizarán en la forma y términos que se señalan en este Reglamento.
 
 ###### ARTÍCULO 107.
 
@@ -1087,9 +1087,11 @@ Lo acontecido en las sesiones del Congreso del Estado será consignado, además,
 
 No se publicarán las discusiones y documentos relacionados con las sesiones privadas, mismas que se asentarán en un libro distinto que no estará a disposición del público en general.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 118.
 
-A las sesiones de instalación, apertura y clausura de los períodos ordinarios de sesiones, se invitarán a que concurran a las mismas, a los titulares de los Poderes Ejecutivo y Judicial del Estado.
+A las sesiones de instalación, apertura y clausura de los períodos ordinarios de sesiones, se invitarán a que concurran a las mismas, a los titulares de los Poderes Ejecutivo y Judicial del Estado, debiendo hacerse de manera presencial en el recinto del Congreso del Estado.
 
 ###### ARTÍCULO 119.
 
@@ -2229,6 +2231,72 @@ X. La Comisión de Cortesía previamente designada, acompañará a abandonar el 
 
 La Mesa Directiva llevará el registro de las inscripciones y difundirá por los medios de comunicación a su alcance, el contenido y significado de éstas.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. PROCEDIMIENTOS ESPECIALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO. DE LAS SESIONES VIRTUALES
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 218.
+
+Los Órganos del Congreso podrá (sic) excepcionalmente continuar sus trabajos de manera virtual, mediante la utilización de medios de comunicación digital, en los siguientes casos:
+
+I.- Con motivo de emergencia decretada por autoridad competente que ponga en riesgo la vida, la salud, la integridad del personal que labora en el Congreso del Estado y de los integrantes de la asamblea; o
+
+II.- De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes del Pleno, Junta de Coordinación Política, Comisiones o Comités.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 219.
+
+Las Sesiones Virtuales relativas al Pleno, Diputación Permanente, Junta de Coordinación Política, Comisiones y Comités se sujetarán en todo momento a lo dispuesto por el Artículo 9° de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes y a lo dispuesto en el presente Capítulo, las situaciones no previstas, serán resueltas por el acuerdo de los integrantes de la mesa directiva, respetando en todo momento el desarrollo del proceso legislativo ordinario previsto en la Ley y éste Reglamento. Las disposiciones antes señaladas, únicamente tendrán validez, durante el tiempo y en los casos que sean autorizados por el acuerdo del Pleno.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 220.
+
+Se entiende por Sesión Virtual de los Órganos del Congreso, aquellas en que sus integrantes sin estar reunidos en el mismo espacio físico se realicen utilizando cualquier medio de comunicación digital que garantice y permita la posibilidad de identificación y comunicación inmediata y simultánea, a fin de realizar los trabajos respectivos de cada Órgano.
+
+De toda Sesión Virtual se deberá levantar la documentación en los mismos términos que las sesiones presenciales, debiendo los Diputados acudir a la Secretaría General para la suscripción correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 221.
+
+Las sesiones que realice el Congreso de manera virtual se entienden como llevadas a cabo dentro del Recinto del Poder Legislativo. La Mesa Directiva conducirá las sesiones de manera presencial desde el recinto oficial, misma que podrá funcionar con la asistencia de la Presidencia y al menos uno de los Secretarios.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 222.
+
+Para el desarrollo de las sesiones, la Presidencia podrá ser auxiliada por la Secretaría General, y el personal que se estime necesario.
+
+La Presidencia determinará los medios de comunicación digital que habrán de emplearse para las Sesiones Virtuales.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 223.
+
+Para efectos del Párrafo Cuarto del Artículo 9° de la Ley, el Presidente citará a los integrantes del Órgano Legislativo, para que sean discutidos los asuntos que así hubieren sido aprobados (sic) Mayoría Calificada de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 224.
+
+Todas las notificaciones se deberán realizar a las Diputadas y Legisladores en sus correos institucionales, adjuntando los documentos a analizarse en la sesión, cumpliendo los plazos y términos que la Ley y este Reglamento exigen para las Sesiones presenciales.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 225.
+
+El pase de lista, votaciones, intervenciones, uso de la palabra, y en general el desarrollo de las Sesiones Virtuales deberá seguir lo prescrito en este Reglamento para cada uno de los Órganos del Congreso, según corresponda.
+
+Para la determinación del quórum legal, deberán estar identificados y en comunicación inmediata y simultánea la mayoría de los integrantes del Órgano del Congreso, según corresponda.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -2286,3 +2354,11 @@ P.O. 18 DE MAYO DE 2020.
 PRIMERO.- La presente reforma iniciará su vigencia al momento que lo haga la reforma al Reglamento de la Ley Orgánica del Poder Legislativo, a que hace referencia el Artículo siguiente.
 
 SEGUNDO.- La comisión de Reglamentos y Prácticas Parlamentarias a más tardar dentro de los 15 días siguientes a la aprobación del presente Decreto, elaborará y presentará la iniciativa que modifique el Reglamento de la Ley Orgánica del Poder Legislativo, para reglamentar la materia del presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 418.- REFORMAS Y ADICIONES AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
