@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-archivos-del-distrito-federal-63498"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2014-11-28"
+last_updated: "2020-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63498&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-10-02"
 ---
 # LEY DE ARCHIVOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE ARCHIVOS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -811,3 +813,47 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE ARCHIVOS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. A partir de la entrada en vigor de la Ley se abroga la Ley de Archivos del Distrito Federal y se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+TERCERO. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+
+CUARTO. El Consejo de Archivos de la Ciudad de México, en colaboración con el Archivo General y el Consejo Técnico, emitirá lineamientos, mecanismos y criterios para la conservación y resguardo de documentos de acuerdo con las características económicas, culturales y sociales de cada Alcaldía
+
+QUINTO. Las Secretarías de Gobierno, de Administración y Finanzas y de la Contraloría, todas de la Ciudad de México, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice, conforme a las disposiciones aplicables, la estructura orgánica y ocupacional del Archivo General.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las Alcaldías deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+SÉPTIMO. El Órgano de Gobierno del Archivo General de la Ciudad, deberá expedir y publicar en la Gaceta Oficial de la Ciudad de México en un periodo no mayor a seis meses, contados a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General.
+
+OCTAVO. La Secretaría de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento.
+
+NOVENO. Los sujetos obligados deberán implementar su Sistema Institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO. El Consejo de Archivos deberá integrarse dentro de seis meses a partir de la entrada en vigor de la presente Ley, elaborar su reglamento en los tres meses subsecuentes y empezar a sesionar dentro de los seis meses posteriores a la entrada en vigor de esta Ley.
+
+DÉCIMO PRIMERO. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, se les deberá aplicar estos procesos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta accesible en el portal electrónico del sujeto obligado.
+
+DÉCIMO SEGUNDO. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, clasificados, ordenados y descritos archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, clasificar, ordenar, describir archivísticamente y difundir los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO TERCERO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Gobierno de la Ciudad en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO CUARTO. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+DÉCIMO QUINTO.- El Gobierno de la Ciudad de México, considerará en el próximo ejercicio fiscal, los recursos necesarios para la creación y funcionamiento del Archivo General de la Ciudad de México, mismo que deberá ser creado dentro de los seis meses siguientes a la publicación de la presente ley.
+
+DÉCIMO SEXTO.- Todos los sujetos obligados deberán de contar con una plataforma de gestión de archivos electrónicos de origen según lo establecido en el artículo para el 31 de diciembre de 2023.
