@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2020-09-05"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -63,7 +63,9 @@ II. La prolongación y el mejoramiento de la calidad de la vida humana, incluyen
 
 III. La protección y el fomento de los valores que coadyuven a la creación y conservación de las condiciones de salud;
 
-IV. La participación solidaria y responsable de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+IV. La participación solidaria, responsable y obligatoria de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz, oportunamente y sin discriminación las necesidades de la población;
 
@@ -101,6 +103,10 @@ II. Equidad: Garantizar un acceso igualitario para todos, y
 
 III. Gratuidad: Proporcionar, en las unidades médicas del Estado, los servicios de salud y los medicamentos asociados a éstos de manera gratuita para quienes carezcan de seguridad social y los medios económicos para sufragarlos.
 
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+IV. Educación para la Salud: impulsar en coordinación con los Ayuntamientos Municipales del Estado, campañas intensivas y permanentes a la población abierta, sobre el uso de medidas preventivas de protección personal y comunitaria.
+
 ###### ARTÍCULO 5.
 
 En los términos de la Ley General de Salud y de la presente Ley, corresponde al Estado, en coordinación con la Secretaría de Salud del Gobierno Federal, en materia de salubridad general:
@@ -113,41 +119,45 @@ III. La protección social en salud;
 
 IV. La atención materno infantil;
 
-V. La prestación de servicios de planificación familiar;
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-VI. La salud mental;
+V. Establecer restricciones a la movilidad urbana, y mediante reglas administrativas de carácter general, declarar obligatorios el uso permanente de protectores visual, bucal y facial y, en su caso, establecer sanciones equiparables a la desobediencia civil, de acuerdo a lo previsto en el artículo 215 de la presente ley.
 
-VII. La organización, coordinación, regulación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares, públicas, sociales y privadas para la salud;
+VI. La prestación de servicios de planificación familiar;
 
-VIII. La regulación de la formación, profesionalización y actualización de recursos humanos para la salud;
+VII. La salud mental;
 
-IX. La coordinación de la investigación para la salud;
+VIII. La organización, coordinación, regulación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares, públicas, sociales y privadas para la salud;
 
-X. La información relativa a las condiciones, recursos y servicios de salud, misma que deberá presentarse en formatos accesibles para personas con discapacidad;
+IX. La regulación de la formación, profesionalización y actualización de recursos humanos para la salud;
 
-XI. La educación para la salud;
+X. La coordinación de la investigación para la salud;
 
-XII. La orientación y vigilancia en materia de nutrición;
+XI. La información relativa a las condiciones, recursos y servicios de salud, misma que deberá presentarse en formatos accesibles para personas con discapacidad;
 
-XIII. La prevención, orientación, control y vigilancia en materia de sobrepeso, obesidad y otros trastornos de la conducta alimentaria;
+XII. La educación para la salud;
 
-XIV. La prevención y el control de los efectos nocivos de los factores de riesgo ambiental y sus repercusiones en la salud de las personas;
+XIII. La orientación y vigilancia en materia de nutrición;
 
-XV. La salud ocupacional y saneamiento básico;
+XIV. La prevención, orientación, control y vigilancia en materia de sobrepeso, obesidad y otros trastornos de la conducta alimentaria;
 
-XVI. La prevención y el control de enfermedades transmisibles;
+XV. La prevención y el control de los efectos nocivos de los factores de riesgo ambiental y sus repercusiones en la salud de las personas;
 
-XVII. La prevención y el control de enfermedades no transmisibles y accidentes;
+XVI. La salud ocupacional y saneamiento básico;
 
-XVIII. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
+XVII. La prevención y el control de enfermedades transmisibles;
 
-XIX. Participar con las autoridades federales en el desarrollo de los programas contra las adicciones en general, de conformidad con los acuerdos de coordinación que al efecto se celebren;
+XVIII. La prevención y el control de enfermedades no transmisibles y accidentes;
 
-XX. Ejercer el control sanitario de los establecimientos, productos y servicios;
+XIX. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
-XXI. El control y vigilancia sanitaria de la publicidad, y
+XX. Participar con las autoridades federales en el desarrollo de los programas contra las adicciones en general, de conformidad con los acuerdos de coordinación que al efecto se celebren;
 
-XXII. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XXI. Ejercer el control sanitario de los establecimientos, productos y servicios;
+
+XXII. El control y vigilancia sanitaria de la publicidad, y
+
+XXIII. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -275,7 +285,9 @@ III. Establecer en la reglamentación municipal, medidas de control sanitario, e
 
 IV. Formular y desarrollar programas municipales de salud de conformidad con los sistemas nacional y estatal;
 
-V. Vigilar y hacer cumplir en la esfera de su competencia las leyes y reglamentos sanitarios;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+V. Vigilar, supervisar y hacer cumplir en la esfera de su competencia las leyes y reglamentos sanitarios, así como los relacionados con la movilidad urbana y el uso de protector visual, bucal y facial que así se determine;
 
 VI. Organizar los comités municipales de salud, para que participen como coadyuvantes con las autoridades, en el mejoramiento y vigilancia de los servicios de salud;
 
@@ -709,9 +721,11 @@ V. El estudio de las técnicas y métodos que se recomienden o empleen para la p
 
 VI. La producción de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 58.
 
-La Secretaría de Salud apoyará la constitución y funcionamiento de centros destinados a la investigación, así como a la integración y actualización permanente, de grupos interdisciplinarios para tal fin.
+La Secretaría de Salud apoyará la constitución y funcionamiento de centros destinados a la investigación científica en general y particularmente en epidemiología, así como la integración y actualización permanente, de grupos interdisciplinarios para tal fin.
 
 ###### ARTÍCULO 59.
 
@@ -841,6 +855,8 @@ III. Instituir planes de alimentación de acuerdo con las necesidades y caracter
 
 ### CAPÍTULO VII. Enfermedades Transmisibles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 73.
 
 Corresponde a la Secretaría de Salud, en coordinación con los Servicios de Salud y otras autoridades competentes:
@@ -869,9 +885,11 @@ La Secretaría de Salud, en coordinación con los Servicios de Salud y otras aut
 
 ###### ARTÍCULO 77.
 
-Las autoridades sanitarias estatales se coordinarán con sus similares del ámbito federal, para elaborar programas y desarrollar campañas temporales o permanentes, para el control o erradicación de enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la población.
+Las autoridades sanitarias estatales se coordinarán con sus similares de los ámbitos federal y municipal, para elaborar programas y desarrollar campañas temporales o permanentes, incluyendo restricciones a la movilidad urbana y el establecimiento obligatorio de protectores visuales, bucales y faciales, para el control o erradicación de enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la población.
 
-Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles, entre ellas, la familia de los coronavirus:
 
 I. Cólera, fiebre tifoidea, paratifoidea y otras salmonelosis, shigelosis, infección intestinal por otros organismos y las mal definidas, intoxicación alimentaria bacteriana, amibiasis intestinal, absceso hepático amibiano, giardiasis, otras infecciones intestinales debidas a protozoarios, infecciones intestinales debidas a protozoarios, teniasis, ascariasis, oxiuriasis y otras helmintiasis;
 
@@ -903,7 +921,9 @@ Las medidas que se requieran para la prevención y el control de las enfermedade
 
 I. La confirmación de la enfermedad por los medios clínicos disponibles;
 
-II. La observación y vigilancia de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, por el tiempo necesario, así como la limitación de sus actividades, cuando se requiera por razones epidemiológicas;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+II. La observación y vigilancia de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, por el tiempo necesario, así como la limitación de sus actividades laborales, sociales o de esparcimiento, la restricción de movilidad y el confinamiento en casa, cuando se requiera por razones epidemiológicas;
 
 III. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
 
@@ -1661,6 +1681,10 @@ Para los efectos de esta Ley se entiende por transporte público urbano todo aqu
 
 En los medios de transporte que presten este servicio público en el Estado, se observarán las medidas de higiene necesarias a fin de proteger la salud de los operadores y de los usuarios.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+Por razones de interés público, se podrá restringir la movilidad urbana en todo el Estado, por regiones o municipios, en la totalidad o parcialmente de vehículos destinados al transporte de personas, ya sea colectivo, transporte de personal, recreativo o turístico, individual o de taxi convencional o a través del uso de plataformas digitales.
+
 ###### ARTÍCULO 172.
 
 Las medidas a las que se refiere el artículo anterior contemplan las siguientes acciones:
@@ -1984,6 +2008,10 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 ###### ARTÍCULO 217.
 
 La autoridad sanitaria podrá imponer multa de diez hasta cien veces la Unidad de Medida y Actualización vigente, por infracción a lo que establecen los artículos 139 fracción II, 140, 143, 147, 149, 150, 164, 166, 172, 173, 176 y 177, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+La infracción a lo dispuesto en la fracción V del artículo 5º de la presente ley, se sancionará hasta con el doble de la imponible a las sanciones previstas en el párrafo precedente.
 
 La aplicación de las multas será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan hasta en tanto se subsanen las irregularidades.
 
@@ -2456,3 +2484,11 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 402.- SE REFORMA EL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 415.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
