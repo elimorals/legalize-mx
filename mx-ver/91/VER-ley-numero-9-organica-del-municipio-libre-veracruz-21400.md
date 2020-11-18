@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-11-17"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -459,6 +459,10 @@ III. Recibir las participaciones federales, que serán cubiertas a los municipio
 
 IV. Elaborar, aprobar, ejecutar, evaluar, actualizar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia en los términos que la misma establezca e incorporando en el documento los principios de igualdad y no discriminación establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, así como lo previsto en los tratados internacionales en materia de derechos humanos.
 
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+Con la finalidad de que las localidades y asentamientos urbanos o rurales que forman parte del municipio, así como la administración municipal, sean inclusivos, seguros, resilientes y sostenibles, el Plan Municipal de Desarrollo también deberá alinearse con los Objetivos de Desarrollo Sostenible contenidos en la Agenda 2030 para el Desarrollo Sostenible y demás resoluciones e instrumentos adoptados en esa materia, por los organismos internacionales de los que el Estado Mexicano es miembro y signatario.
+
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
 V. Aprobar los presupuestos de egresos según los ingresos disponibles, conforme a las leyes que para tal efecto expida el Congreso del Estado. Anexo al presupuesto de egresos, se aprobará la plantilla de personal, que contendrá categoría, nombre del titular y percepciones;
@@ -497,9 +501,9 @@ XVII. Promover el desarrollo del personal estableciendo los términos y condicio
 
 XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana.
 
-> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Realizar estudios, programas de investigación, capacitación y orientación en materia de desarrollo municipal, comunitario, de participación social y perspectiva de género.
+XIX. Realizar estudios, programas de investigación, capacitación y orientación en materia de desarrollo municipal, comunitario, de participación social, perspectiva de género y desarrollo sostenible.
 
 XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta materia expida el Congreso del Estado y a los convenios que se celebren con base en dichas leyes, de conformidad con los presupuestos de egresos que apruebe el Ayuntamiento;
 
@@ -543,9 +547,9 @@ g) Construcción y mantenimiento de calles, parques y jardines y su equipamiento
 
 h) Seguridad pública, policía preventiva municipal, protección civil y tránsito;
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-i) Promoción y organización de la sociedad, para la planeación del desarrollo urbano, cultural, económico, forestal y del equilibrio ecológico;
+i) Promoción y organización de la sociedad, para la planeación del desarrollo urbano, cultural, económico, forestal y del equilibrio ecológico con un enfoque de igualdad y sostenibilidad.
 
 j) Salud pública municipal; y
 
@@ -559,9 +563,9 @@ XXVIII. Participar, en términos de las disposiciones legales aplicables, en la 
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio y al desarrollo forestal sustentable; así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas;
+XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio y al desarrollo forestal sustentable; así como para la prevención y combate a la contaminación ambiental, mismos que deberán alinearse con los Objetivos de Desarrollo Sostenible contenidos en la Agenda 2030 para el Desarrollo Sostenible y demás resoluciones e instrumentos adoptados en esa materia, por los organismos internacionales de los que el Estado Mexicano es miembro y signatario, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas;
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -4450,3 +4454,19 @@ G.O. 17 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 598 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La obligación de contar con Planes Municipales de Desarrollo alineados con los Objetivos de Desarrollo Sostenible, contenidos en la Agenda 2030 para el Desarrollo Sostenible corresponderá a todos los Ayuntamientos que entren el 1° de enero de 2022.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
