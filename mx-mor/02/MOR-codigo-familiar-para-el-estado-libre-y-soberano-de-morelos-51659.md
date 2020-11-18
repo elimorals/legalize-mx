@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2020-04-24"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -729,9 +729,9 @@ I.- Cuando el que la tiene carece de medios para cumplirla;
 
 II.- Cuando el acreedor alimentario deja de necesitar los alimentos. La obligación subsiste en caso de incapacidad o por continuación de los estudios del acreedor alimentario, en este caso hasta los veinticinco años;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-III.- En caso de delito, conducta antisocial, o daños graves, calificados por el juez inferidos intencionalmente por el acreedor alimentario contra el que deba prestarlos;
+III.- En caso de delito, conducta antisocial, o daños graves, calificados por el juez inferidos intencionalmente por el acreedor alimentario contra el que deba prestarlos, el que haya incurrido en conductas de violencia familiar como lo marca el artículo 24 de este Código, debidamente demostradas ante la autoridad correspondiente.
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
@@ -3927,17 +3927,21 @@ INCAPACIDAD PARA HEREDAR POR FALTA DE PERSONALIDAD. Son incapaces de adquirir po
 
 VALIDEZ DE DISPOSICIONES TESTAMENTARIAS. Será válida la disposición hecha en favor de los hijos que nacieren de personas ciertas y determinadas, durante la vida del testador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 506.
 
-INCAPACIDAD PARA HEREDAR POR LA COMISION DE UN DELITO O ACTO ILICITO. Por razón de delito son incapaces de adquirir por testamento:
+INCAPACIDAD PARA HEREDAR POR LA COMISIÓN DE UN DELITO O ACTO ILÍCITO. Por razón de delito son incapaces de adquirir por testamento:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge, o hermanos de ella;
 
 II.- El que haya presentado contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena de prisión aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano; a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o las de las personas antes señaladas; así como también cuando la acusación es declarada calumniosa, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge, o hermano del acusador;
 
-III.- El cónyuge que mediante juicio haya sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
+III.- El que haya incurrido en conductas de violencia familiar como lo marca el artículo 24 del presente Código, en contra del autor de la sucesión, debidamente demostradas ante la autoridad correspondiente.
+
+IV.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2020)
 
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
 
@@ -6724,3 +6728,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su s
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones jurídicas de igual o menor grado que se opongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHOCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
