@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2019-12-24"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -2036,6 +2036,10 @@ XXIV. El informe de labores presentado ante el Consejo Ciudadano Delegacional;
 
 XXV. Publicar el directorio de las personas integrantes del consejo, indicando las comisiones a las que pertenece; el calendario de las sesiones del pleno y de las comisiones, así como las actas correspondientes, adicional a sus informes;
 
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
+
+XXV Bis. La información relativa a los recursos materiales y humanos destinados a los Concejos, desagregados por cada persona concejal, así como a la relacionada con el espacio físico que les sea asignado;
+
 > <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
 
 XXVI. Los reglamentos, bandos y acuerdos aprobados por el concejo;
@@ -3829,3 +3833,11 @@ G.O. 24 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese en el Diario Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Ciudad de México.
+
+G.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXV BIS AL ARTÍCULO 124 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, EN MATERIA DE OBLIGACIONES DE TRANSPARENCIA DE LAS ALCALDÍAS”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el (sic) día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
