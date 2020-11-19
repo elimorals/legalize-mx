@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2020-10-16"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-04-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -650,7 +650,17 @@ XXXIX. Notificar las vistas ordenadas por el Pleno a los órganos internos de co
 
 XL. Habilitar días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera, de conformidad (sic) lo aprobado por el Pleno;
 
-XLI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XLI. Dar seguimiento al trabajo que realice el Pleno a través de las ponencias y unidades administrativas para la elaboración de los criterios y lineamientos de interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto, respecto de las resoluciones que emite;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
+
+(REUBICADA, G.O. 19 DE NOVIEMBRE DE 2020)
+
+XLII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
 
 #### SECCIÓN V. DE LA SECRETARÍA EJECUTIVA
 
@@ -1008,11 +1018,9 @@ XXII. Coadyuvar con la Comisionada Presidenta o el Comisionado Presidente, en co
 
 XXIII. Dar seguimiento a la imposición y/o ejecución de las medidas de apremio y sanciones aprobadas por el Pleno;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXIV. Coordinar la elaboración de los criterios y lineamientos para la interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto;
+XXIV. (DEROGADA, G.O. 19 DE NOVIEMBRE DE 2020)
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
 
@@ -1509,6 +1517,28 @@ AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CON
 Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, relativas a la facultad de las Comisionadas y los Comisionados, a través de las respectivas ponencias, para dar seguimiento al cumplimiento de las resoluciones que emita el Pleno, puede ser consultado en la siguiente dirección electrónica: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf.
 
 Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII, del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
+
+## TRANSITORIO
+
+ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el medio oficial respectivo.
+
+SEGUNDO. Publíquese para mayor difusión en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Dirección de Asuntos Jurídicos del Instituto, continuará con el trámite de los asuntos en vía de cumplimiento de las resoluciones que hasta la aprobación del presente Acuerdo se hayan resuelto los cuales deberá (sic) concluir su procedimiento hasta su archivo correspondiente, conforme a las facultades y atribuciones que le fueron conferidas en el Reglamento Interior, Ley de Transparencia, Ley de Datos y demás normatividad aplicable para la Ciudad de México.
+
+> <small>[N. DE E. SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO POR EL QUE SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
+
+Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo por el que se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf.
+
+Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
 
 ## TRANSITORIO
 
