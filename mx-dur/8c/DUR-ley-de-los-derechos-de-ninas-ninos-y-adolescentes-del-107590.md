@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2020-05-10"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -221,7 +221,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -273,11 +275,15 @@ XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar los anteriores y en general todos los derechos de las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Niñas, niños y adolescentes tienen derecho intrínseco a la vida, de conformidad con la Constitución Local, a que se les preserve la vida, a la supervivencia y al desarrollo, deberán disfrutar de una vida plena en condiciones acordes a su dignidad y que garanticen su desarrollo integral.
+Niñas, niños y adolescentes tienen derecho intrínseco a la vida y a la paz, de conformidad con la Constitución Local, a que se les preserve la vida, a la supervivencia y al desarrollo, deberán disfrutar de una vida plena en condiciones acordes a su dignidad y que garanticen su desarrollo integral.
 
 Quienes ejercen la patria potestad, tutela o guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
 
@@ -1758,5 +1764,17 @@ P.O. 10 DE MAYO DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 394.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHO A LA PAZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
