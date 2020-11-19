@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adopciones-para-el-estado-de-durango-71911"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2010-04-18"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -45,23 +45,31 @@ LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés social y de observancia general en el Estado de Durango, y tiene como objeto garantizar el respeto de los derechos fundamentales de las niñas, los niños y adolescentes en materia de adopción.
+La presente Ley es de interés social y de observancia general en el Estado de Durango, y tiene como objeto garantizar la restitución del derecho a vivir en familia de las niñas, los niños y adolescentes a través de la adopción.
 
 Además de establecer los principios y funciones de las instituciones, lineamientos y procedimientos necesarios para que las adopciones se realicen bajo el interés superior de las niñas, los niños y adolescentes.
 
-Su correcta aplicación y vigilancia corresponde a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, a la Procuraduría General de Justicia en el Estado, así como al Poder Judicial en términos de la presente Ley.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Su correcta aplicación y vigilancia corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, a la Fiscalía General del Estado, así como al Poder Judicial en términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-En el marco de la aplicación de la presente Ley se atenderá lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los Tratados Internacionales en materia de Derechos Humanos y los Tratados encaminados a proteger a la niñez firmados y ratificados por nuestro país, así como a las leyes estatales relacionadas con el tema de niñez y adopción.
+En el marco de la aplicación de la presente Ley se atenderá lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los Tratados Internacionales en materia de Derechos Humanos y los Tratados encaminados a proteger a la niñez firmados y ratificados por nuestro país, así como a la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, niños y Adolescentes del Estado de Durango y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Adolescente. A la persona desde los doce años cumplidos hasta los dieciocho años incumplidos; de acuerdo a la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes reglamentaria del Artículo 4 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Adolescente. A la persona de entre doce años cumplidos y menos de dieciocho años de edad. Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente.
 
 II. Adopción. Acto jurídico en el que se le confiere a las niñas, los niños y adolescentes, la posesión de estado de hijo del o de los adoptantes y a éstos, previa manifestación de consentimiento expreso, y la autorización judicial correspondientes, los deberes inherentes a la relación paterno-filial;
 
@@ -75,7 +83,9 @@ VI. Familia Extensa. El núcleo familiar compuesto por ascendientes o colaterale
 
 VII. Familia Sustituta. Es el grupo de individuos que va a sustituir provisional o permanentemente a la familia biológica o nuclear de la niña, el niño o adolescente;
 
-VIII. Interés Superior del Menor. Es la prioridad que ha de otorgarse a los derechos de las niñas, los niños y adolescentes, respecto de los derechos de cualquier otra persona, procurando garantizar, lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Interés Superior de la Niñez. Es la prioridad que ha de otorgarse a los derechos de las niñas, los niños y adolescentes, respecto de los derechos de cualquier otra persona, procurando garantizar, lo siguiente:
 
 a) El niño debe ser criado por su familia de origen o su familia extensa siempre que sea posible. Si esto no es posible o viable, entonces deberán ser consideradas otras formas de cuidado familiar permanente, tal como la adopción;
 
@@ -91,9 +101,13 @@ f) Garantizar los derechos que a favor de las niñas, los niños y adolescentes 
 
 IX. Ley. A la presente Ley de Adopciones para el Estado de Durango;
 
-X. Ley de Protección. A la Ley para la Protección de los Derechos de las Niñas, los Niños y los Adolescentes en el Estado de Durango;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-XI. Niña o niño. A la persona hasta los doce años de edad, de acuerdo a la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes reglamentaria del Artículo 4 de la Constitución Política de los Estados Unidos Mexicanos;
+X. Ley de Derechos. A la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XI. Niña o niño. A la persona menor de doce años de edad. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
 XII. Principio de Subsidiariedad. Es la prioridad de colocar a las niñas, los niños y adolescentes en el propio país o en un entorno cultural y lingüístico próximo a su entorno de procedencia;
 
@@ -109,7 +123,9 @@ Las autoridades encargadas de las acciones de defensa y representación jurídic
 
 Asimismo, todos los sectores administrativos, sociales, judiciales y públicos del Estado de Durango, cuidarán que la ejecución y procuración de justicia, relacionados con éste sector sean en su beneficio;
 
-II. El de igualdad y equidad sin discriminación de raza, edad, sexo, religión, idioma o lengua, opinión, origen étnico nacional o social, posición económica, impedimento físico o mental, circunstancias de nacimiento o cualquier otra condición;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+II. El de igualdad y equidad, por lo que no debe hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, edad, sexo, religión, idioma o lengua, opinión, origen étnico, nacional o social, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud o cualquier otra condición;
 
 III. Buscar su desarrollo integral dentro de su familia de origen, manteniendo la convivencia con su padre y madre, aún cuando se encuentren separados;
 
@@ -143,15 +159,25 @@ El mayor de veinticinco años y menor de sesenta años, en pleno ejercicio de su
 
 I. Que la adopción será benéfica para el infante que se pretende adoptar, y prevalece en todo momento el interés superior del mismo;
 
-II. Que el adoptante goza de buena salud física o mental, probando tal situación a través de los estudios médicos y psicológicos que sean necesarios establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-III. Que el adoptante cuente con la solvencia moral necesaria y que además tiene medios económicos suficientes para proveer a la subsistencia, la educación y el cuidado de quien se pretende adoptar, proporcionándole un ambiente familiar favorable para su normal desarrollo, lo que se acreditará con el estudio socioeconómico y las constancias de trabajo o ingresos;
+II. Que el adoptante goza de buena salud física y mental, probando tal situación a través de los estudios médicos y psicológicos que sean necesarios establecidos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. Que el adoptante cuente con la solvencia moral necesaria y que además tiene medios económicos suficientes para proveer a la subsistencia, la educación y el cuidado de quien se pretende adoptar, proporcionándole un ambiente familiar favorable para su desarrollo, lo que se acreditará con el estudio socioeconómico, las constancias de trabajo o ingresos y valoraciones de campo necesarias;
 
 IV. Que el o los adoptantes no han sido condenados por delito que merezca pena privativa de la libertad que exceda de dos años de prisión, acreditado con la carta de no antecedentes penales expedida por el Tribunal Superior de Justicia en el Estado de residencia del o los adoptantes; y
 
 Además se deberá acompañar el o las actas de nacimiento de los adoptantes y de la niña, niño o adolescente que se pretende adoptar, y en su caso acta con que se acredite el estado civil de los adoptantes.
 
-Los estudios a que se refiere la fracción II del presente artículo se deberán practicar por institución pública únicamente, la valoración psicológica y estudio socioeconómico referidos en la fracción III del presente artículo deberán practicarse por personal adscrito a la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Los estudios y valoraciones a que se refieren las fracciones II y III del presente artículo deberán practicarse de conformidad por lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de Derechos, la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango y de sus respectivos Reglamentos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Los requisitos señalados en el presente artículo, deberán anexarse a la solicitud que presenten los adoptantes ante el Juzgado Familiar Especializado en Niñas, Niños y Adolescentes, en términos de lo dispuesto por el artículo 912 del Código de Procedimientos Civiles del Estado de Durango.
 
 ###### Artículo 8.
 
@@ -161,7 +187,7 @@ Nadie puede ser adoptado por más de dos personas. Los cónyuges podrán adoptar
 
 En el Estado de Durango, podrá adoptar persona soltera siempre y cuando reúna y acredite los requisitos establecidos por la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2010)</small>
 
 ###### Artículo 10.
 
@@ -195,11 +221,13 @@ I. El o los que ejercen la patria potestad sobre las niñas, los niños o adoles
 
 II. El tutor del que se va a adoptar;
 
-III. El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia de DIF cuando el que se va a adoptar no tiene padres, tutor, o quien ejerza sobre él la patria potestad, podrá consentir en ella, tomando en consideración que en la adopción prevalezca en todo momento el interés superior de las niñas, los niños o adolescentes.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2010)</small>
+III. El Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango cuando el que se va a adoptar no tiene padres, tutor, o quien ejerza sobre él la patria potestad, podrá consentir en ella, tomando en consideración que en la adopción prevalezca en todo momento el interés superior de la niñez.
 
-Así mismo, también en aquellos casos en que el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Así mismo, también en aquellos casos en que el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción.
 
 ###### Artículo 15.
 
@@ -221,15 +249,21 @@ En las adopciones entre particulares el Juez competente, además de los requisit
 
 I. Que las personas que otorgan el consentimiento de adopción han sido debidamente informadas de las consecuencias y efectos del mismo, tanto en el ámbito jurídico como en el ámbito familiar;
 
-II. Que no medie en el acuerdo entre quien ejerce la patria potestad y el o los adoptantes, remuneración económica, dolo o coacción alguna;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-III. Que tal adopción responde al interés superior de las niñas, los niños o adolescentes; y
+II. Que no medie en el acuerdo entre quien ejerce la patria potestad y el o los adoptantes, remuneración económica, la obtención directa o indirecta de beneficios materiales por la familia de origen o extensa del adoptado, dolo o coacción alguna;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. Que tal adopción responde al interés superior de la niñez; y
 
 IV. El consentimiento de la niña, el niño o adolescente, que se pretende adoptar, siempre y cuando este sea mayor de seis años de edad.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-Si el Juez competente, encuentra que no se ha dado cumplimiento a alguno de los supuestos de la fracción II del artículo anterior, de inmediato hará ese hecho del conocimiento a la autoridad ministerial correspondiente, a fin de que se investigue la probable comisión de un delito, y además otorgará custodia provisional de la niña, niño o adolescente a la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado, hasta en tanto se resuelva acerca de la situación jurídica definitiva del mismo.
+Si el Juez competente, encuentra que no se ha dado cumplimiento a alguno de los supuestos de la fracción II del artículo anterior, de inmediato hará ese hecho del conocimiento a la autoridad ministerial correspondiente, a fin de que se investigue la probable comisión de un delito, y además otorgará custodia provisional de la niña, niño o adolescente a la Procuraduría de Protección de Niños (sic), Niños y Adolescentes del Estado de Durango, hasta en tanto se resuelva acerca de la situación jurídica definitiva del mismo.
 
 ### CAPITULO IV. DEL CONSEJO TÉCNICO DE ADOPCIONES
 
@@ -247,9 +281,13 @@ Los procedimientos administrativos previos a la adopción se llevarán a cabo de
 
 El Consejo estará integrado por:
 
-I. El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, quien lo presidirá;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-II. El Subdirector de Asistencia Jurídica de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, quien fungirá como Secretario;
+I. El Titular de la Procuraduría de Protección de Niños (sic), Niños y Adolescentes del Estado de Durango, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+II. El Subprocurador de Protección de Niñas, Niños y Adolescentes, quien fungirá como Secretario;
 
 III. El Coordinador del Departamento de Adopciones, quien fungirá como Secretario Técnico;
 
@@ -259,11 +297,15 @@ V. El Coordinador de Centro de Psicoterapia Familiar del DIF que fungirá como V
 
 VI. El Jefe del Departamento de Programas Asistenciales del DIF que fungirá como Vocal Consejero;
 
-VII. Un médico que labore para DIF designado por el Titular de la Defensa del Menor, la Mujer y la Familia, que fungirá como Vocal Consejero;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+VII. Un médico que labore para (sic) DIF designado por el Titular de la Procuraduría de Protección de Niños (sic), Niños y Adolescentes del Estado de Durango, que fungirá como Vocal Consejero;
 
 VIII. El Contralor Interno del DIF que fungirá como Testigo de Asistencia A, con derecho a voz pero sin voto; y
 
-IX. El Coordinador del Programa de Prevención al Maltrato de las Niñas y los Niños de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, como Testigo de Asistencia B, con derecho a voz pero sin voto.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IX. El Coordinador de Atención al Maltrato de Niñas, Niños y Adolescentes de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango como Testigo de Asistencia B, con derecho a voz pero sin voto.
 
 ###### Artículo 23.
 
@@ -409,9 +451,11 @@ Todas las resoluciones tomadas por el Consejo serán irrevocables, en caso de in
 
 ### CAPITULO V. DE LAS ADOPCIONES DE NIÑA, NIÑO O ADOLESCENTE EN SITUACIÓN DE DESAMPARO O ABANDONO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 32.
 
-En caso de adopciones de niñas, niños o adolescentes en situación de desamparo o abandono, el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, deberá emitir el acuerdo correspondiente fundado y motivado, por el cual deben o no reintegrarse a su seno familiar, las niñas, los niños o adolescentes, acompañando todas y cada una de las diligencias practicadas por esta Institución, así como copia certificada de las diligencias practicadas por la autoridad ministerial en caso de existir.
+En caso de adopciones de niñas, niños o adolescentes en situación de desamparo o abandono, el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, deberá emitir el acuerdo correspondiente fundado y motivado, por el cual deben o no reintegrarse a su seno familiar, las niñas, los niños o adolescentes, acompañando todas y cada una de las diligencias practicadas por esta Institución, así como copia certificada de las diligencias practicadas por la autoridad ministerial en caso de existir.
 
 Siempre y cuando con anterioridad se corrobore que no existe la posibilidad de que dicha niña, niño o adolescente sea reintegrado con su madre, padre, abuelos paternos o maternos, o familia extensa por no ser benéfica para aquellos.
 
@@ -419,13 +463,17 @@ Siempre y cuando con anterioridad se corrobore que no existe la posibilidad de q
 
 El término para la emisión del acuerdo a que se refiere el artículo anterior no podrá ser mayor de seis meses, contados a partir de la fecha en la cual las niñas, los niños y adolescentes, fueron ingresados a un centro asistencial público.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
-Posterior a la emisión del acuerdo de no reintegración de las niñas, los niños o adolescentes a su seno familiar, el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, promoverá el juicio de pérdida de patria potestad, debiendo solicitar además la custodia provisional de las niñas, los niños o adolescentes, hasta en tanto se resuelva su situación jurídica de manera definitiva; el Juez competente deberá resolver sobre la custodia provisional de acuerdo a lo establecido en el Código de Procedimientos Civiles para el Estado de Durango.
+Posterior a la emisión del acuerdo de no reintegración de las niñas, los niños o adolescentes a su seno familiar, el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, promoverá el juicio de pérdida de patria potestad, debiendo solicitar además la custodia provisional de las niñas, los niños o adolescentes, hasta en tanto se resuelva su situación jurídica de manera definitiva; el Juez competente deberá resolver sobre la custodia provisional de acuerdo a lo establecido en el Código de Procedimientos Civiles para el Estado de Durango.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, podrá integrar a la niña, niño o adolescente, a una familia sustituta con voluntad de adoptarlo, que previamente haya sido considerada como viable por el Consejo e incluida dentro de la lista de espera para padres adoptantes, por haber dado cumplimiento a todos los requisitos establecidos para tal efecto.
+El Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, podrá integrar a la niña, niño o adolescente, a una familia sustituta con voluntad de adoptarlo, que previamente haya sido considerada como viable por el Consejo e incluida dentro de la lista de espera para padres adoptantes, por haber dado cumplimiento a todos los requisitos establecidos para tal efecto.
 
 ###### Artículo 36.
 
@@ -447,15 +495,19 @@ Concluido el periodo de adaptabilidad y en caso de ser favorable el dictamen emi
 
 El Consejo una vez autorizada la adopción por parte del Juez competente, en caso de encontrar alguna irregularidad o violación a los derechos de las niñas, niños o adolescentes adoptados, en uso de las facultades conferidas por el artículo 23 fracción XIII de esta Ley, hará del conocimiento tal situación a la autoridad ministerial competente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 41.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia podrá solicitar la pérdida de patria potestad de los padres adoptivos, cuando se incurra en alguna de las causales que marca para tal efecto el Código Civil, independientemente de la denuncia penal que pueda también iniciarse por la comisión de presuntos delitos en su contra.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango podrá solicitar la pérdida de patria potestad de los padres adoptivos, cuando se incurra en alguna de las causales que marca para tal efecto el Código Civil, independientemente de la denuncia penal que pueda también iniciarse por la comisión de presuntos delitos en su contra.
 
 ### CAPITULO VI. DE LA ENTREGA VOLUNTARIA DE UNA NIÑA O NIÑO CON PROPÓSITO DE ADOPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-En los casos en que una madre o ambos padres de una niña o niño, no pudieran o no estuvieran en las condiciones necesarias para la crianza de éste, podrán hacer la entrega voluntaria del mismo al Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia con el propósito de que este sea dado en adopción, siempre y cuando concurran los siguientes supuestos:
+En los casos en que una madre o ambos padres de una niña o niño, no pudieran o no estuvieran en las condiciones necesarias para la crianza de éste, podrán hacer la entrega voluntaria del mismo al Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango con el propósito de que este sea dado en adopción, siempre y cuando concurran los siguientes supuestos:
 
 I. La niña o niño tenga menos de seis meses de nacido;
 
@@ -463,13 +515,17 @@ II. Haya sido registrado legalmente y se presentare en ese acto el acta de nacim
 
 III. Se presente identificación oficial de quien se ostenta como madre o padre, proporcionando domicilio actual.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 43.
 
-Únicamente para tal efecto el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia estará investido de fe pública y deberá levantar un acta circunstanciada ante la presencia de dos testigos, en la cual conste la entrega y el propósito con el que se hizo la misma, así como la manifestación expresa de la situación familiar y los motivos que originan tal entrega, anexando al acta la documentación a que se refiere el artículo anterior.
+Únicamente para tal efecto el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango estará investido de fe pública y deberá levantar un acta circunstanciada ante la presencia de dos testigos, en la cual conste la entrega y el propósito con el que se hizo la misma, así como la manifestación expresa de la situación familiar y los motivos que originan tal entrega, anexando al acta la documentación a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 44.
 
-No procederá la asignación de la niña o niño a una familia adoptiva hasta transcurrido un término de treinta días naturales, en el cual los padres biológicos podrán solicitar la revocación de la entrega voluntaria realizada ante el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, el cual en caso de ser procedente, levantará un acta circunstanciada asentando tal reintegración al seno familiar.
+No procederá la asignación de la niña o niño a una familia adoptiva hasta transcurrido un término de treinta días naturales, en el cual los padres biológicos podrán solicitar la revocación de la entrega voluntaria realizada ante el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, el cual en caso de ser procedente, levantará un acta circunstanciada asentando tal reintegración al seno familiar.
 
 ###### Artículo 45.
 
@@ -487,9 +543,11 @@ La adopción por extranjeros es la promovida por ciudadanos de otro país, con r
 
 En caso de adopción por parte de ciudadanos mexicanos con doble nacionalidad, estarán a lo dispuesto por lo establecido en este capítulo, en caso de residir fuera del territorio nacional.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-En las adopciones internacionales deberá contarse con la autorización del DIF en su carácter de autoridad central, de conformidad con el Decreto de Promulgación de la Convención Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, y el visto bueno de la Procuraduría de la Defensa del Menor, la Mujer y la Familia y del Consejo.
+En las adopciones internacionales deberá contarse con la autorización del DIF en su carácter de autoridad central, de conformidad con el Decreto de Promulgación de la Convención Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, y el visto bueno de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango y el Consejo.
 
 ###### Artículo 49.
 
@@ -587,10 +645,22 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 18 DE ABRIL DE 2010.
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado en el presente.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 395.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO Y A LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
