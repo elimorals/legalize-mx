@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2020-05-10"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -280,6 +280,10 @@ ART. 48.- Los Actos y Actas del estado civil del propio Oficial, de su cónyuge 
 ART. 49.- Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Las copias certificadas de las actas de nacimiento expedidas por el Registro Civil conforme a las disposiciones que anteceden tendrán vigencia permanente, para la realización de trámites y servicios ante cualquier institución pública o privada, bastará con que sean legibles y no presenten alteraciones que dañen el estado físico del documento.
 
 ART. 50.- Para establecer en el Estado de Durango el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos siempre que se registren en la Oficina del Registro Civil.
 
@@ -953,13 +957,15 @@ ART. 157.- Los cónyuges están obligados a contribuir cada uno por su parte a l
 
 Los cónyuges tienen derecho a decidir de manera libre, informada y responsable el número y espaciamiento de sus hijos, para lograr su propia descendencia. Este derecho será ejercido de común acuerdo por los cónyuges.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-ART. 158.- Los cónyuges vivirán juntos en el domicilio conyugal.
+ART. 158.- Los cónyuges vivirán juntos en el domicilio conyugal. No subsistirá esta obligación, cuando exista violencia familiar.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
 Se considera domicilio conyugal el lugar establecido de común acuerdo por los cónyuges y que sea en forma permanente, en el cual ambos disfrutan de autoridad propia y gozan de los mismos derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
 Los tribunales, con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social; o se establezca en lugar insalubre o indecoroso.
 
@@ -10882,6 +10888,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 307.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 303, 306-1 Y 315 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 357.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 158 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 358.- POR EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 49 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
