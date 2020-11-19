@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-10-26"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -2823,6 +2823,10 @@ I. Ordinarias: las que se efectúen en los días que determine la Ley; y,
 
 II. Extraordinarias: Las que se realicen cuando así lo demanden los asuntos a tratar por su urgencia o gravedad, a juicio de la Junta de Coordinación Política, la Mesa Directiva o a petición del Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Las Sesiones contarán con los intérpretes necesarios en la lengua de señas mexicanas para que, en lugar visible, traduzca en tiempo real. Dicha traducción será transmitida en la página de internet y en las diferentes plataformas oficiales electrónicas del Congreso.
+
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 El Presidente del Congreso convocará a sesión extraordinaria con al menos doce horas de anticipación, salvo que la convocatoria se haga en el Pleno antes de la conclusión de otra sesión, en cuyo caso se podrá sesionar al término de la misma.
@@ -4184,3 +4188,15 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 371 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 217 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
