@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2019-11-17"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -35,7 +35,7 @@ Con fecha 14 de diciembre de 2006, el C. Diputado Héctor Eduardo Vela Valenzuel
 
 CONSIDERANDOS:
 
-...
+[...]
 
 SÉPTIMO.- De igual manera la Comisión dio cuenta a la Honorable Asamblea, que en ejercicio de las facultades de las que se encuentra investida y para mejor proveer determinó realizar modificaciones a la iniciativa original a efecto de precisar con mejor puntualidad, los alcances de la legislación planteada a más de adecuar por razones de técnica legislativa algunos preceptos contenidos, incluyendo su denominación, proponiéndose que la ley que se dictaminó se denomine "LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO", y se admitan los cambios adicionales contenidos.
 
@@ -247,9 +247,17 @@ XXIV. Determinar los indicadores que permitan evaluar la aplicación del present
 
 XXV. Coadyuvar al cumplimiento de las Normas Oficiales Mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
 
-XXVI. Convocar a Municipios e instituciones, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten, y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-XXVII. Las demás que se establezcan en éste y otros ordenamientos jurídicos que resulten aplicables.
+XXVI. Convocar a Municipios e Instituciones, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XXVII. Fomentar el aprovechamiento de la materia orgánica de los residuos solidos urbanos en procesos de generación de energía, en coordinación con los municipios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XXVIII. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -271,7 +279,9 @@ I. Formular, por si o en coordinación con el Estado, y con la participación de
 
 II. Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley;
 
-III. Controlar los residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III.- Controlar los residuos sólidos urbanos y en coordinación con el Poder Ejecutivo del Estado, aprovechar la materia orgánica en procesos de generación de energía.
 
 IV. Prestar, por si o a través de gestores, el servicio público de manejo integral de residuos sólidos urbanos, observando lo dispuesto por esta ley y la legislación estatal en la materia;
 
@@ -1520,5 +1530,21 @@ P.O. 17 DE NOVIEMBRE DE 2019.
 La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 366.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado y los Municipios a través de las autoridades competentes, deberán observar la Norma Oficial Mexicana relativa de la materia, una vez que sea publicada, a fin de cumplir con las disposiciones de aprovechamiento de la materia orgánica en generación de energía.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
