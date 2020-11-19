@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2020-05-24"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1803,7 +1803,7 @@ Se impondrá, sin perjuicio de las penas señaladas en el artículo anterior, de
 
 ###### Artículo 142.
 
-A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado u otra relación de pareja permanente, con conocimiento de esa relación, se le aumentará en una mitad la pena que corresponda, según las lesiones inferidas.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 143.
 
@@ -3349,7 +3349,7 @@ Se impondrá de quince a treinta años de prisión y multa de mil ochenta a dos 
 
 ### CAPÍTULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 251.
 
@@ -3483,19 +3483,23 @@ DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
 ###### Artículo 261.
 
-Se impondrá de dos a diez años de prisión y multa de ciento cuarenta y cuatro a setecientas veinte treinta y dos (sic) veces la Unidad de Medida y Actualización:
+Se impondrá de dos a diez años de prisión y multa de ciento cuarenta y cuatro a setecientas veinte veces la Unidad de Medida y Actualización:
 
-I. Al que al amparo de una autorización forestal expedida legalmente, la ejecute con violación de sus términos, excediéndose en sus alcances o contrariando las disposiciones técnicas o legales del caso;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-II. Al que obtenga una autorización de explotación forestal valiéndose de actos simulados, proporcionando datos falsos a la autoridad respectiva u ocultando los verdaderos, así como el cedente o cesionario de esa autorización; y,
+I. Al que al amparo de una autorización forestal expedida legalmente, la ejecute con violación de sus términos, excediéndose en sus alcances, variando, modificando o contrariando las disposiciones técnicas o legales del caso;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+II. Al que obtenga una autorización de explotación forestal valiéndose de actos simulados, proporcionando datos falsos, alterados o modificados, a la autoridad respectiva u ocultando los verdaderos, así como el cedente o cesionario de esa autorización; y,
 
 III. Al que obtenga o traspase una autorización de explotación forestal o la ejecute contraviniendo o violando las prohibiciones consignadas en la ley de la materia y los decretos de veda del Ejecutivo Federal, causando daño a la riqueza forestal de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 262.
 
-Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro treinta y dos (sic) veces la Unidad de Medida y Actualización, al que no exhiba la documentación correspondiente de una explotación forestal o del transporte de sus productos o no justifique la legal adquisición de esos productos o presente una documentación irregular al personal oficial del Estado que la requiera.
+Se impondrá de tres meses a cinco años de prisión y multa de trescientos sesenta a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización, al que no exhiba la documentación correspondiente de una explotación forestal o del transporte de sus productos o no justifique la legal adquisición de esos productos o presente una documentación falsa, alterada o irregular al personal oficial del Estado que la requiera.
 
 Se decomisarán en beneficio del Estado los productos explotados, transportados o adquiridos ilegalmente, así como los instrumentos de explotación y medio de transporte.
 
@@ -4091,17 +4095,21 @@ Comete el delito de violencia familiar quien ejerza algún acto abusivo de poder
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-Si la víctima de violencia familiar fuera una mujer en estado de gravidez, o un menor de edad, incapaz, personas con discapacidad o mayores de sesenta años de edad; se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
+Si la víctima de violencia familiar fuese mujer y las heridas inferidas correspondan a las que tardan más de sesenta días en sanar, o estuviera en estado de gravidez o en el periodo post parto, la pena será de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis veces la Unidad de Medida y Actualización, independientemente de las penas que correspondan por cualquier otro delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+La misma pena se aplicará en el caso en que la víctima fuera un menor de edad, incapaz, o persona con discapacidad o mayor de sesenta años de edad.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
 Se considera violencia familiar la alienación parental de quienes tengan la patria potestad, tutela o custodia del menor de edad.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-Este delito se perseguirá de oficio cuando la víctima sea menor de edad o incapaz o mayor de sesenta años; o que la víctima presente lesiones físicas; o se presente agresión sexual; o cuando para causar daño psicológico, el agresor amenace a la víctima utilizando cualquier tipo de arma.
+Este delito se perseguirá de oficio.
 
 ###### Artículo 301.
 
@@ -6448,6 +6456,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 326.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 147, 174, 207, 306 EN SU PRIMER PÁRRAFO Y EN SU FRACCIÓN III, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 356.- POR EL CUAL SE REFORMAN LOS ARTÍCULOS 261, 262 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 359 POR EL CUAL SE DEROGA EL ARTÍCULO 142 Y SE REFORMA EL ARTÍCULO 300 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
