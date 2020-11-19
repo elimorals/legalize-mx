@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-03-29"
+last_updated: "2020-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -1105,7 +1105,9 @@ Además de lo señalado en el artículo 65 de la presente Ley, los sujetos oblig
 
 I. Las tesis y ejecutorias publicadas en el medio de difusión oficial respectivo o Gaceta de cada tribunal perteneciente al Poder Judicial, incluyendo, tesis jurisprudenciales y aisladas;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2336,3 +2338,11 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 381.- POR EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 68 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) conforme lo señalan los artículos primero y segundo transitorios del decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el 13 de agosto de 2020.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
