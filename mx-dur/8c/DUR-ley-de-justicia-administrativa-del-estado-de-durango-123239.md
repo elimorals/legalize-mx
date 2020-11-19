@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-administrativa-del-estado-de-durango-123239"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-06"
-last_updated: "2017-08-06"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el No. 63 del Periódico Oficial del Estado de Durango, el domingo 6 de agosto de 2017.
 
@@ -112,6 +112,14 @@ XII. Interés Fiscal.- Es la base del crédito y sus accesorios así como el aju
 XIII. Términos.- El momento en que ha de cumplirse o extinguirse una obligación; y
 
 XIV. Plazos.- Es el lapso de tiempo dentro del cual puede realizarse o dar cumplimiento al acto.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XV. Boletín Jurisdiccional.- Medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios que se tramitan ante el mismo.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Aviso electrónico.- Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional.
 
 ### CAPÍTULO III. DEL RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -653,9 +661,11 @@ Cuando el infractor impugnare los actos de la autoridad administrativa se interr
 
 Los interesados podrán hacer valer la prescripción por vía de excepción y la autoridad deberá declararla de oficio.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 80.
 
-Es causa de responsabilidad el incumplimiento de esta ley y serán aplicables las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios. En todo caso se destituirá del puesto e inhabilitará cuando menos por un año para desempeñar empleos, cargos o comisiones en el servicio público, al Titular de la Unidad Administrativa que, en un mismo empleo, cargo o comisión, incumpla por dos veces lo dispuesto en el artículo 18 de este ordenamiento.
+Es causa de responsabilidad el incumplimiento de esta ley y de la Ley General de Responsabilidades Administrativas y serán aplicables las sanciones previstas en esta última.
 
 ### CAPÍTULO X. DEL RECURSO DE REVOCACIÓN
 
@@ -681,7 +691,9 @@ El escrito de interposición del recurso de revocación deberá presentarse ante
 
 I. La autoridad administrativa a quien se dirige;
 
-II. El nombre del recurrente y del tercero perjudicado si lo hubiere, señalando su domicilio así como el lugar para efectos de notificaciones;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+II. El nombre del recurrente y del tercero si lo hubiere, señalando su domicilio, así como el lugar para efectos de notificaciones;
 
 III. El acto que se recurre y bajo protesta de decir verdad la fecha en que se le notificó o tuvo conocimiento del mismo;
 
@@ -831,9 +843,11 @@ Si resuelve que la notificación fue legalmente practicada y, como consecuencia 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-Los asuntos competencia del Tribunal de Justicia Administrativa, se promoverán, substanciarán y resolverán en los términos que dispone el presente Título. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado, siempre que se refiera a instituciones previstas en esta ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que el mismo establece.
+Los asuntos competencia del Tribunal de Justicia Administrativa, se promoverán, substanciarán y resolverán en los términos que dispone el presente Título, sin que puedan renunciarse los recursos ni alterarse, modificarse o renunciarse las normas del procedimiento. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado, siempre que se refiera a instituciones previstas en esta ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que el mismo establece.
 
 ###### Artículo 99.
 
@@ -859,9 +873,11 @@ Para acudir al Tribunal de Justicia Administrativa, el interesado deberá previa
 
 La representación de las autoridades sólo podrá recaer en la Entidad o unidad administrativa encargada de su defensa jurídica por ministerio de ley.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 103.
 
-Las partes podrán promover en juicio, ya sea directamente ante la Sala Ordinaria del conocimiento, la Sala Superior o ante el Pleno; o por correo certificado con acuse de recibo del Servicio Postal Mexicano cuando radiquen fuera de la residencia de éstas.
+Las partes promoverán el juicio, directamente ante la Sala Ordinaria en turno por conducto de la Oficialía de Partes respectiva o por correo certificado con acuse de recibo del Servicio Postal Mexicano cuando radiquen fuera de la residencia de éstas.
 
 ###### Artículo 104.
 
@@ -869,15 +885,19 @@ En materia de justicia administrativa no habrá condenación en costas.
 
 Las partes cubrirán sus gastos. En caso de desahogo de pruebas para mejor proveer y de perito tercero en discordia, los gastos serán erogados proporcionalmente por las partes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 105.
 
-El Magistrado podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que se observen en la tramitación del juicio, para efecto de regularizarlo, sin que ello implique que pueda revocar sus propias resoluciones.
+La Sala podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que se observen en la tramitación del juicio, para efecto de regularizarlo, sin que ello implique que pueda revocar sus propias resoluciones.
 
 ### CAPÍTULO II. DE LAS FORMALIDADES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 106.
 
-Las promociones y actuaciones deben ser redactadas en español, de lo contrario se acompañarán de su correspondiente traducción, en caso de no exhibirse, la Sala obtendrá de manera oficiosa a través de traductor adscrito preferentemente a las dependencias públicas, o en su caso de traductor registrado ante el Tribunal Superior de Justicia del Estado de Durango, a costa del interesado, excepto cuando se trate de promociones en dialecto, presentadas por indígenas, cuya traducción no será a su cargo.
+Las promociones y actuaciones deben ser redactadas en español, de lo contrario se acompañarán de su correspondiente traducción, en caso de no exhibirse, la Sala obtendrá de manera oficiosa a través de (sic) traductor adscrito preferentemente a las dependencias públicas, a costa del interesado, excepto cuando se trate de promociones en dialecto, presentadas por indígenas, cuya traducción no será a su cargo.
 
 ###### Artículo 107.
 
@@ -885,7 +905,9 @@ Las promociones y actuaciones se realizarán y presentarán por escrito.
 
 Toda promoción deberá contener firma autógrafa de quien la formule.
 
-Cuando el promovente no sepa o no pueda firmar estampará su huella digital ante dos testigos. Sin estos requisitos no se le dará curso, teniéndose por no presentada.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Cuando el promovente no sepa o no pueda firmar estampará su huella digital ante dos testigos que suscribirán el documento. Sin estos requisitos no se le dará curso, teniéndose por no presentada.
 
 En caso de duda sobre la autenticidad de la firma, la Sala requerirá al interesado para que en un plazo de tres días ratifique la firma y el contenido de la promoción; en caso de no hacerlo se tendrá por no presentada la promoción.
 
@@ -897,13 +919,17 @@ En las actuaciones se escribirán con letra las fechas y con número y letra las
 
 Los particulares deberán señalar domicilio para oír y recibir notificaciones en el lugar de residencia de la Sala y podrán autorizar para tales efectos a cualquier persona en el ejercicio de la abogacía, previo registro ante la Sala de su cédula profesional, quien estará facultada para interponer el recurso de revisión, ofrecer y rendir pruebas, alegar en la audiencia, recibir documentos y presentar otras promociones en el juicio. No podrá desistirse del juicio o recurso respectivo, ni delegar sus facultades a terceros ni suscribir el convenio que ponga fin al procedimiento.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 110.
 
-Únicamente las partes, sus autorizados o delegados, podrán consultar los expedientes relativos al proceso administrativo y obtener a su costa, copia certificada de los documentos y actuaciones que los integren. Igualmente podrán obtener la devolución de los documentos originales que hayan exhibido en el juicio, previa copia certificada de los mismos, que a su costa, se agregue a los autos.
+Únicamente las partes, sus autorizados o delegados, podrán consultar los expedientes respectivos, tomar registros electrónicos de los mismos y obtener a su costa, copia certificada de los documentos y actuaciones que los integren. Igualmente podrán obtener la devolución de los documentos originales que hayan exhibido en el juicio, previa copia certificada de los mismos, que, a su costa, se agregue a los autos.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 111.
 
-Las promociones y actuaciones se presentarán y realizarán en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado de Durango.
+Las promociones y actuaciones se presentarán y realizarán en los términos establecidos en esta Ley.
 
 ### CAPÍTULO III. DE LAS PARTES
 
@@ -925,11 +951,15 @@ b) La persona o institución que funja como autoridad administrativa o fiscal en
 
 c) El particular a quien favorezca la resolución cuya modificación o nulidad demande la autoridad administrativa, estatal o municipal.
 
-III. El tercero perjudicado, quien deberá tener un interés incompatible con el esgrimido por la parte actora.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. El tercero, quien deberá tener un interés incompatible con el esgrimido por la parte actora.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 113.
 
-Las autoridades que figuren como partes en el Juicio Contencioso Administrativo, podrán acreditar Delegados para recibir los oficios de notificación y que concurran a las audiencias con facultades para rendir pruebas, formular alegatos, presentar el recurso que establece esta ley y ratificar el convenio que en los términos del artículo 155 de este ordenamiento, haya suscrito la autoridad demandada. No podrán desistirse del juicio de lesividad o del recurso en su caso, ni delegar sus facultades a terceros.
+Las autoridades que figuren como partes en el Juicio, podrán acreditar delegados para recibir los oficios de notificación y que concurran a las audiencias con facultades para rendir pruebas, formular alegatos, presentar los recursos que establece esta ley y ratificar el convenio que en los términos del artículo 155 de este ordenamiento, haya suscrito la autoridad demandada. No podrán desistirse del juicio de lesividad o del recurso en su caso, ni delegar sus facultades a terceros.
 
 ### CAPÍTULO IV. DE LA LEGITIMACIÓN DE LAS PARTES
 
@@ -941,7 +971,9 @@ La representación de los particulares se otorgará en escritura pública o cart
 
 Cuando dos o más particulares ejerciten una misma acción u opongan una misma excepción y litiguen unidos, deberán designar un representante común entre ellos.
 
-Si no se hace el nombramiento, el Magistrado tendrá como representante común a la persona mencionada en primer término. Los interesados, podrán revocar en cualquier momento tal designación nombrando a otro, lo que se hará saber de inmediato a la Sala competente del Tribunal de Justicia Administrativa. El representante común tendrá los derechos, obligaciones y responsabilidades inherentes a un mandatario judicial.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Si no se hace el nombramiento, se tendrá como representante común a la persona mencionada en primer término. Los interesados, podrán revocar en cualquier momento tal designación nombrando a otro, lo que se hará saber de inmediato a la Sala competente del Tribunal de Justicia Administrativa. El representante común tendrá los derechos, obligaciones y responsabilidades inherentes a un mandatario judicial.
 
 ###### Artículo 115.
 
@@ -953,79 +985,93 @@ Los menores de edad, los incapaces y los sujetos declarados en estado de interdi
 
 ### CAPÍTULO V. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 117.
 
-Las notificaciones se efectuarán, a más tardar, el día hábil siguiente al que sea turnado al Actuario el expediente en que conste el acuerdo o resolución correspondiente, se exceptuarán de esta disposición el auto que decrete la suspensión del cual deberá notificarse el mismo día en que fue pronunciado a las autoridades demandadas, apercibiéndolos que en caso de desacato se les aplicaran las sanciones previstas en el artículo 215 en correlación con el 218 de esta ley.
+Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
+
+Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Jurisdiccional, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 118.
 
-Las notificaciones se efectuarán:
+Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente.
 
-I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de una audiencia y regularización del procedimiento y demás acuerdos o resoluciones que puedan ser impugnados y aquellas que el Magistrado estime necesario;
+El Actuario o el Secretario de Acuerdos, en todos los casos, previo levantamiento de razón entregará los traslados de ley.
 
-II. Por edictos que se publiquen dos veces en el Periódico Oficial del Gobierno del Estado de Durango o Gaceta Municipal y en uno de los periódicos de mayor circulación estatal por dos ocasiones de tres en tres días, cuando a quien deba notificarse haya desaparecido; se ignore su domicilio; se encuentre fuera del territorio estatal sin haber nombrado representante legal en el mismo; o, hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse;
-
-III. Por lista de estrados, ubicadas en las Oficinas de la Sala competente del Tribunal de Justicia Administrativa, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás acuerdos o resoluciones que puedan ser impugnados;
-
-IV. En las Oficinas de la Sala competente del Tribunal de Justicia Administrativa si se presentan los interesados, incluyendo las que deban practicarse personalmente o por oficio;
-
-V. Por telegrama, en forma adicional, cuando se trate de resoluciones que exijan cumplimiento inmediato a la parte que deba cumplirlo; y
-
-VI. Por correo certificado, con acuse de recibo del Servicio Postal Mexicano.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 119.
 
-Las notificaciones personales se harán directamente a quien deba ser notificada, a su representante legal o al autorizado en los términos de este ordenamiento, en el domicilio señalado para tal efecto. Si no se encontrare ninguno de ellos, cerciorado el Actuario que es el domicilio correcto, bajo su responsabilidad dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si se negare a recibirlo se fijara en la puerta o lugar visible del domicilio. El citatorio deberá contener: nombre y domicilio del citado, el de la Sala que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario, de todo lo anterior se levantará acta circunstanciada.
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Jurisdiccional o al día hábil siguiente a aquél en que las partes sean notificadas personalmente en las instalaciones designadas por el Tribunal, cuando así proceda, en términos de lo establecido por el artículo 122 de esta Ley.
+
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 120.
 
-El Instructivo deberá contener: la expresión de la Sala o el Pleno que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, así como nombre y firma del Actuario. Al Instructivo deberá adjuntarse copia certificada del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario que corresponda.
+La lista de autos y resoluciones dictados por las Salas, se publicará en el Boletín Jurisdiccional.
+
+En el Boletín Jurisdiccional deberá indicarse la denominación de la Sala que corresponda, el número de expediente, la identificación de las partes a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del auto, resolución o sentencia. El Boletín Jurisdiccional podrá consultarse en la página electrónica del Tribunal o en los módulos ubicados en la Sala en que estén radicados los juicios.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 121.
 
-Cuando el domicilio se encontrare cerrado la citación o notificación se entenderá con el vecino más cercano, a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio haciéndose constar lo anterior en acta circunstanciada, la que obrará en autos.
+La Junta de Gobierno y Administración, mediante lineamientos, establecerá el contenido de la síntesis del auto, resolución o sentencia, así como las áreas, dentro del Tribunal, en las cuales serán entregados los traslados de ley; y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución o sentencia correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 122.
 
-El oficio de notificaciones a las autoridades, que se encuentren en el lugar de residencia de la Sala competente del Tribunal de Justicia Administrativa deberá contener: nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia certificada del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
+Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 
-Cuando las autoridades se encuentren fuera del lugar de residencia de la Sala, el oficio de notificación se enviará por correo certificado con acuse de recibo, del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede.
+I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 6, fracción IX de esta Ley;
+
+II. La que mande citar al testigo que no pueda ser presentado por la parte oferente.
+
+III. Las que se efectúen a los peritos por primera ocasión en el juicio.
+
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 123.
 
-La lista de estrados deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto de la oficina de las Salas y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 134 último párrafo de la presente Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 124.
 
-Los particulares deberán señalar domicilio en el lugar de residencia de las Salas desde su primera comparecencia, con el fin de que en él se realicen las notificaciones personales indicadas en este ordenamiento. En caso de no hacerlo, se realizarán por lista de estrados.
+La Sala podrá, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 125.
 
-Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de estrados, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
+El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
+
+Al actuario que sin causa justificada incumpla con esta obligación, se le impondrá una multa de una a tres veces la Unidad de Medida y Actualización, sin que exceda del 30 por ciento de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 126.
 
-El Actuario asentará razón de todas y cada una de las circunstancias observadas en la diligencia de la notificación, acta que agregará al expediente, junto con las constancias que acrediten que se realizó en los términos del presente capítulo.
+El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Jurisdiccional y hará la certificación que corresponda, a través del Secretario de Acuerdos de la Junta de Gobierno y Administración.
 
-Asimismo, cuando proceda, se asentará la entrega de documentos.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 127.
 
-Las notificaciones deben hacerse en días y horas hábiles con una anticipación de cuarenta y ocho horas por lo menos, al momento en que deba efectuarse la actuación o diligencia a que se refieran.
+Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren hechas.
 
 ###### Artículo 128.
 
-Las notificaciones surtirán sus efectos:
-
-I. Las personales y las que se realicen por oficio o por lista de estrados, al día hábil siguiente al en que se efectúen;
-
-II. Las que se lleven a cabo por edictos, a los tres días hábiles siguientes al de la última publicación en el Periódico Oficial del Gobierno del Estado de Durango o en la Gaceta Municipal;
-
-III. Las que se realicen por correo certificado con acuse de recibo del Servicio Postal Mexicano o telegrama, al día hábil siguiente al de la fecha en que conste que fueron recibidas; y
-
-IV. El día hábil siguiente al que el interesado o su representante legal, se haga sabedor del contenido del acuerdo o resolución cuya notificación fue omitida o irregular.
-
-Tratándose del acuerdo en el que se conceda la suspensión, éste surtirá sus efectos desde el momento de su notificación, apercibiéndole a la autoridad que en caso de desacato se le aplicarán las sanciones a que se refiere el artículo 215 en correlación con el 218 de la presente ley.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2020)
 
 ### CAPÍTULO VI. DE LOS PLAZOS Y TÉRMINOS
 
@@ -1051,35 +1097,47 @@ Cuando no se señale término para la práctica de alguna actuación o para el e
 
 ### CAPÍTULO VII. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 #### SECCIÓN PRIMERA. DE LA ACUMULACIÓN DE AUTOS
 
 ###### Artículo 132.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la Sala ordinaria con jurisdicción territorial en el municipio en el que tenga su domicilio el demandante, dentro de los quince días siguientes al que surta efectos la notificación del acto o resolución que se impugna; o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo, cuando no exista notificación legal. Se exceptúan de dicho término los siguientes casos:
+La demanda deberá formularse por escrito y presentarse por la vía prevista en el artículo 103 de esta Ley, dentro de los quince días siguientes al que surta efectos la notificación del acto o resolución que se impugna; o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo, cuando no exista notificación legal. Se exceptúan de dicho término los siguientes casos:
 
-I. Cuando se impugne la Negativa Ficta o se demande la declarativa de configuración de la Positiva Ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se notifique la resolución expresa y siempre que haya transcurrido el término previsto en la disposición legal aplicable, para que la autoridad dicte resolución, o a falta de éste, después de treinta días naturales contados a partir de la fecha en que se hizo la petición;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Cuando se impugne la Negativa Ficta o se demande la declarativa de configuración de la Positiva Ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se notifique la resolución expresa y siempre que haya transcurrido el término previsto en la disposición legal aplicable, para que la autoridad dicte resolución, o a falta de éste, después de noventa días naturales contados a partir de la fecha en que se hizo la petición;
 
 II. En el juicio de responsabilidad patrimonial objetiva y directa reclamada al Estado, a los Municipios, o a los Órganos Constitucionales Autónomos, la demanda deberá interponerse dentro de los tres meses siguientes a la fecha en que se originó la causa de responsabilidad;
 
 III. En el juicio de lesividad, las autoridades para ejercitar su acción, gozarán del término de un año, siguiente a la fecha en que sea emitida la resolución que pretenden nulificar, salvo que haya producido efectos de tracto sucesivo, caso en que se podrá demandar la nulidad en cualquier época, sin exceder de un año a partir del último efecto;
 
-IV. Cuando el particular radique en el extranjero y no tenga representante en la (sic) México, el plazo para iniciar el juicio será de cuarenta y cinco días contados a partir del día siguiente al que surta efectos la notificación del acto o resolución impugnado o haya tenido conocimiento de este; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IV. Cuando el particular radique en el extranjero y no tenga representante en el Estado, el plazo para iniciar el juicio será de cuarenta y cinco días contados a partir del día siguiente al que surta efectos la notificación del acto o resolución impugnado o haya tenido conocimiento de este; y
 
 V. Cuando el particular falleciere dentro de los plazos a que se refiere este artículo, se suspenderá el término, hasta un año o antes si se ha designado albacea o representante de la sucesión, si se tratare de derechos transmisibles.
 
-La demanda podrá enviarse por correo certificado con acuse de recibo, si el actor tiene su domicilio fuera de la ciudad de residencia de la Sala ordinaria, en cuyo caso se tendrá por presentada en la fecha que fue depositada en la oficina del Servicio Postal Mexicano.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+La demanda podrá enviarse por correo certificado con acuse de recibo, si el actor tiene su domicilio fuera de la ciudad de residencia de la o las Oficialías de Partes que tenga establecidas el Tribunal, en cuyo caso se tendrá por presentada en la fecha que fue depositada en la oficina del Servicio Postal Mexicano.
 
 ###### Artículo 133.
 
 La demanda deberá presentarse con las siguientes formalidades:
 
-I. Nombre y firma autógrafa del actor o de quien promueva en su representación; así como su domicilio para oír y recibir todo tipo de notificaciones y documentos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Nombre y firma autógrafa del actor o de quien promueva en su representación; así como su domicilio para oír y recibir todo tipo de notificaciones y documentos y su dirección de correo electrónico, el cual, deberá estar registrado previamente a la presentación de la demanda, por los mecanismos que la Junta de Gobierno y Administración del Tribunal determine para esos efectos.
 
 II. El acto o resolución que se impugna. En el caso de que se controvierta un decreto, acuerdo, acto o resolución de carácter general, precisará la fecha de su publicación;
 
 III. Las autoridades o particulares a quienes se demande, precisando el acto que se atribuye a cada uno de ellos;
 
-IV. El nombre y domicilio del tercero perjudicado si lo hubiere;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IV. El nombre y domicilio del tercero que tenga un interés incompatible con el esgrimido por la parte actora, si lo hubiere;
 
 V. El nombre y domicilio del particular demandado y la resolución cuya modificación o nulidad se solicite, cuando se trate del juicio de lesividad;
 
@@ -1103,6 +1161,10 @@ XI. Tratándose de Negativa o Positiva Ficta, la expresión de la fecha en que s
 
 Cuando se omitan los requisitos a que se refiere la fracción I del artículo que antecede, la Sala ordinaria desechará de plano la demanda interpuesta; cuando se omitan los requisitos previstos en las fracciones II, III, IV, V, VI, VII, VIII, IX, X y XI del referido artículo la Sala ordinaria requerirá al promovente para que los subsane dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se desechará la demanda o no se tendrán por ofrecidas las pruebas, según el caso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, cuando no se señale dirección de correo electrónico, o el señalado no se encuentre previamente registrado en el Tribunal, no se enviará el aviso que corresponda.
+
 ###### Artículo 135.
 
 El actor podrá incluir en las pretensiones que se deduzcan en la demanda el pago de daños y perjuicios que afirme se le hayan causado en forma dolosa o culposa por algún servidor público, con la emisión o ejecución del acto impugnado, ofreciendo las pruebas específicas que acrediten la existencia de los mismos.
@@ -1117,7 +1179,9 @@ II. Los documentos con los que acredite su personalidad o en el que conste que l
 
 III. Constancia de la notificación del acto o resolución que se impugne, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando se hubiere realizado por correo certificado con acuse de recibo del Servicio Postal Mexicano. Si la notificación fue por edictos deberá señalar la fecha de la última publicación en el Periódico Oficial del Gobierno del Estado de Durango o Gaceta Municipal y el nombre del periódico local en que ésta se realizó.
 
-Si la autoridad demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el Magistrado Instructor procederá conforme a lo previsto en el artículo 142 fracción V, de esta Ley. Si durante el plazo previsto en el artículo citado no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de notificación de la referida resolución;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Si la autoridad demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, se procederá conforme a lo previsto en el artículo 142 fracción V, de esta Ley. Si durante el plazo previsto en el artículo citado no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de notificación de la referida resolución;
 
 IV. El documento en que conste el acto o resolución impugnado, salvo en los casos que se demande la ejecución material de un acto;
 
@@ -1155,9 +1219,11 @@ Cuando las pruebas documentales no obren en poder del actor o no haya podido obt
 
 En el mismo acuerdo de admisión, se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Asimismo, se proveerá lo conducente sobre la suspensión del acto o resolución impugnados y se señalará fecha para la audiencia del juicio, la que deberá celebrarse dentro de los cuarenta y cinco días siguientes a la admisión de la demanda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 141.
 
-El Magistrado desechará la demanda, cuando:
+La Sala desechará la demanda, cuando:
 
 I. Requerida la ratificación de contenido y firma de la demanda, esta no sea ratificada ante la Sala correspondiente en el término concedido al efecto;
 
@@ -1185,15 +1251,21 @@ En estos casos, solo serán materia de ampliación los hechos y las pruebas que 
 
 En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se requieran, aplicándose en lo conducente, lo dispuesto por los artículos 133 y 136 del presente ordenamiento, relativos a la aclaración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+De la ampliación se correrá traslado a la contraria para que la conteste en el plazo de diez días hábiles contados a partir del día siguiente al que surta sus efectos legales la notificación del auto por el que se admita a trámite el escrito de ampliación de demanda.
+
 ###### Artículo 144.
 
 Si el actor no amplía su demanda, se entenderá que consiente los actos, resoluciones y procedimientos que pudiere haber impugnado en vía de ampliación.
 
 #### SECCIÓN SEGUNDA. DE LA NULIDAD DE NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 145.
 
-Admitida la demanda, se correrá traslado de la misma a las partes para que la contesten en el término de quince días siguientes a aquel en que surta efectos el emplazamiento. Cuando los demandados fueren varios el término para contestar les correrá individualmente. El plazo para la contestación de la ampliación de la demanda, será de diez días siguientes a aquel en que surta efectos la notificación del acuerdo que admita la ampliación de la misma.
+Admitida la demanda, se correrá traslado de la misma a las partes para que la contesten en el término de quince días siguientes a aquel en que surta efectos el emplazamiento, debiendo presentar el escrito relativo ante la Oficialía de Partes. Cuando los demandados fueren varios el término para contestar les correrá individualmente.
 
 ###### Artículo 146.
 
@@ -1229,9 +1301,11 @@ VII. El documento con el que se acredite la personalidad, cuando el demandado se
 
 Cuando las partes demandadas omitan acompañar los documentos a que se refieren las fracciones V y VI que anteceden, se estará a lo dispuesto en el artículo 137 de esta ley.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 150.
 
-En el acuerdo sobre la contestación se tendrán por admitidas o desechadas las pruebas ofrecidas; y en su caso; se tendrán por desahogadas las pruebas que por su propia naturaleza se puedan desahogar, salvo aquellas que necesiten una diligencia especial para su desahogo.
+En el acuerdo sobre la contestación a la demanda y la contestación a la ampliación en su caso, se tendrán por admitidas o desechadas las pruebas ofrecidas; y en su caso; se tendrán por desahogadas las pruebas que por su propia naturaleza se puedan desahogar, salvo aquellas que necesiten una diligencia especial para su desahogo.
 
 ###### Artículo 151.
 
@@ -1253,13 +1327,17 @@ En el caso de Negativa Ficta, la autoridad únicamente podrá expresar los hecho
 
 Las partes demandadas podrán allanarse a las pretensiones del actor, en cuyo caso, se dictará la resolución favorable en el mismo proveído en que se acuerde el allanamiento.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 154.
 
-En los juicios en los que no exista tercero interesado o en el que manifieste su conformidad, las autoridades u organismos demandados podrán allanarse a las pretensiones del actor, en cuyo caso, se dictará resolución favorable en el mismo proveído en que se acuerde el allanamiento.
+En los juicios en los que no exista tercero incompatible con las pretensiones de la parte actora, o en el que manifieste su conformidad, las autoridades u organismos demandados podrán allanarse a las pretensiones del actor, en cuyo caso, se dictará resolución favorable en el mismo proveído en que se acuerde el allanamiento.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 155.
 
-Las partes podrán celebrar convenios para conciliar sus intereses en cualquier etapa del juicio hasta antes de que se dicte sentencia. En tal caso, dichos convenios deberán presentarse para su ratificación y aprobación ante la Sala respectiva para que sean elevados a la categoría de cosa juzgada.
+Las partes podrán celebrar convenios para conciliar sus intereses en cualquier etapa del juicio hasta antes de que se dicte sentencia, o incluso convenio sobre la ejecución de la sentencia. En tal caso, dichos convenios deberán presentarse para su ratificación y aprobación ante la Sala Ordinaria respectiva para que sean elevados a la categoría de cosa juzgada o se tenga por cumplida la sentencia.
 
 #### SECCIÓN TERCERA. DE LA INCOMPETENCIA POR RAZÓN DE TERRITORIO
 
@@ -1275,6 +1353,10 @@ En los demás casos, la suspensión podrá solicitarla el actor en el escrito de
 
 Cuando se otorgue la suspensión, se comunicará sin demora a la autoridad demandada para su inmediato cumplimiento, apercibiéndolas que en caso de desacato, se les aplicarán las sanciones previstas en el artículo 215 en correlación con el 218 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+En los casos de juicios de lesividad se otorgará, a solicitud de la autoridad promovente, la suspensión de las actividades del particular ejecutadas al amparo del acto de cuya lesividad se trate, siempre que de continuarse con los mismos se afecte el entorno urbano, el medio ambiente, la debida prestación de servicios públicos o la seguridad de las personas.
+
 ###### Artículo 157.
 
 La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, al momento en que se otorgue esta medida cautelar. No se otorgará la suspensión si se causa perjuicio al interés público, se contravienen disposiciones de orden público o se deja sin materia el juicio.
@@ -1287,7 +1369,9 @@ Cuando proceda el otorgamiento de la suspensión, ésta medida cautelar genéric
 
 Tratándose de multas, impuestos, derechos o cualquier otro concepto que de conformidad con las leyes sea considerado crédito fiscal, la Sala podrá conceder la suspensión del procedimiento administrativo de ejecución.
 
-Cuando a juicio del Magistrado fuere necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá, una vez que éste se encuentre debidamente garantizado, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Cuando a juicio del Juzgador fuere necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá, una vez que éste se encuentre debidamente garantizado, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada.
 
 En todo caso, el auto que exija o dispense el otorgamiento de la garantía, no será recurrible.
 
@@ -1297,7 +1381,9 @@ La garantía del interés fiscal, deberá comprender el monto de las contribucio
 
 Dicha garantía deberá presentarse ante la autoridad exactora, una vez que se hubiere concedido la suspensión por la Sala ordinaria, la que surtirá efectos desde luego, concediéndole al interesado el término de cinco días para que cumpla con las condiciones bajo las cuales fue otorgada, debiendo informar y acreditar a la Sala ordinaria dicha circunstancia en el mismo término. La Suspensión dejará de surtir efectos, si transcurrido el término que establece este artículo no se cumplen las condiciones impuestas para su otorgamiento.
 
-Si la autoridad se niega a recibir la garantía en el término concedido para tal efecto al interesado, éste deberá presentarla precautoriamente ante la Sala de conocimiento del juicio, remitiéndola el Magistrado a la autoridad correspondiente si la garantía se otorgó en los términos que prevean las leyes aplicables.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Si la autoridad se niega a recibir la garantía en el término concedido para tal efecto al interesado, éste deberá presentarla precautoriamente ante la Sala de conocimiento del juicio, remitiéndola el Juzgador a la autoridad correspondiente si la garantía se otorgó en los términos que prevean las leyes aplicables.
 
 ###### Artículo 161.
 
@@ -1307,7 +1393,9 @@ Cuando con la suspensión se afecten derechos de terceros no estimables en diner
 
 La suspensión otorgada conforme a este artículo, quedará sin efecto si el tercero da, a su vez, caución bastante para restituir las cosas al estado que guardaban antes de la violación y se obliga a pagar los daños y perjuicios que sobrevengan al actor, en el caso de que éste obtenga sentencia favorable y comprenderá el costo de la que hubiere otorgado el actor.
 
-La garantía y contragarantía a que se refiere este artículo, se presentarán ante la Sala de conocimiento del juicio. La suspensión surtirá efectos una vez que el interesado cumpla con el otorgamiento de la garantía, en cualquiera de las formas establecidas por el artículo 159 de esta ley, a excepción de la prevista por la fracción II de dicho dispositivo legal.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+La garantía y contragarantía a que se refiere este artículo, se presentarán ante la Sala de conocimiento del juicio. La suspensión surtirá efectos una vez que el interesado cumpla con el otorgamiento de la garantía, en cualquiera de las formas establecidas por el artículo 162 de esta ley, a excepción de la prevista por la fracción II de dicho dispositivo legal.
 
 ###### Artículo 162.
 
@@ -1329,7 +1417,9 @@ VI. Obligación solidaria asumida por terceros que comprueben su idoneidad y sol
 
 Tratándose de garantías de interés fiscal, si el acto reclamado se confirma, una vez que la sentencia cause ejecutoria, la autoridad ante quien se otorgó, procederá a hacerla efectiva en los términos y conforme a los procedimientos de la legislación aplicable.
 
-En los demás casos, una vez que se declare ejecutoriada la sentencia, los particulares interesados, podrán promover, en vía incidental, dentro de los treinta días siguientes, solicitud ante el Magistrado del conocimiento, a fin de que resuelva sobre la disposición de la garantía, o en su caso, sobre la cancelación de la misma.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+En los demás casos, una vez que se declare ejecutoriada la sentencia, los particulares interesados, podrán promover, en vía incidental, dentro de los treinta días siguientes, solicitud ante la Sala Ordinaria del conocimiento, a fin de que resuelva sobre la disposición de la garantía, o en su caso, sobre la cancelación de la misma.
 
 ###### Artículo 164.
 
@@ -1339,13 +1429,17 @@ La suspensión podrá ser revocada o modificada por la Sala, en cualquier moment
 
 El acuerdo en el que se conceda la suspensión del acto impugnado, surtirá sus efectos desde la fecha de su otorgamiento y tendrá vigencia incluso durante la substanciación del recurso de revisión ante la Sala Superior del Tribunal de Justicia Administrativa.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 166.
 
-El acuerdo en que se niegue la suspensión dejará expedita la facultad de la autoridad demandada para la ejecución del acto impugnado, aun cuando se interponga el recurso de revisión; pero si la Sala Superior revoca el acuerdo recurrido y concede la suspensión, esta surtirá sus efectos de manera inmediata.
+El acuerdo en que se niegue la suspensión dejará expedita la facultad de la autoridad demandada para la ejecución del acto impugnado, aun cuando se interponga el recurso de revisión.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 167.
 
-Cuando por la naturaleza del acto impugnado para otorgar la suspensión el Magistrado requiera mayores elementos de juicio para decidir, podrá de oficio dar trámite incidental a la solicitud, dando vista a las partes por tres días, ordenando la aportación de las pruebas que requiera, citando a una audiencia dentro de los tres días siguientes en la que resolverá de plano la procedencia del otorgamiento de la suspensión solicitada.
+Cuando por la naturaleza del acto impugnado para otorgar la suspensión se requieran mayores elementos de juicio para decidir, podrá de oficio darse trámite incidental a la solicitud, dando vista a las partes por tres días, ordenando la aportación de las pruebas que se requiera (sic), citando a una audiencia dentro de los tres días siguientes en la que se resolverá de plano la procedencia del otorgamiento de la suspensión solicitada.
 
 ###### Artículo 168.
 
@@ -1355,6 +1449,8 @@ La Sala ordinaria, dentro de los tres días siguientes, dará vista a las demás
 
 #### SECCIÓN CUARTA. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 169.
 
 Será improcedente el juicio ante el Tribunal de Justicia Administrativa cuando se promueva en contra de actos:
@@ -1363,7 +1459,9 @@ I. Que no sean de la competencia del Tribunal de Justicia Administrativa;
 
 II. De autoridades de otras entidades federativas o dependientes de la Administración Pública Federal;
 
-III. Legislativos del Congreso, sentencias o resoluciones del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. Legislativos del Congreso, sentencias de los órganos jurisdiccionales del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias;
 
 IV. Que hayan sido resueltos en un diverso proceso jurisdiccional, por sentencia ejecutoria, o que sean consecuencia del mismo;
 
@@ -1447,7 +1545,11 @@ III. La incompetencia en razón de territorio; y
 
 IV. La recusación por causa de impedimento.
 
-La tramitación de estos incidentes iniciará a petición de parte, excepto el de acumulación de autos que podrá hacerse de oficio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+V. Falsedad de documentos.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 174.
 
@@ -1473,13 +1575,15 @@ No procederá la acumulación cuando en alguno de los juicios ya se hubiere cele
 
 ###### Artículo 177.
 
-Procede el incidente de nulidad de notificaciones, cuando éstas no fueren practicadas conforme a lo dispuesto en este Capítulo. El perjudicado podrá pedir que se declare su nulidad dentro del término de cinco días siguientes a aquel en que manifieste haber tenido conocimiento del hecho que lo motive, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva el incidente.
+Procede el incidente de nulidad de notificaciones, cuando éstas no fueren practicadas conforme a lo dispuesto en el Capítulo V. El perjudicado podrá pedir que se declare su nulidad dentro del término de cinco días siguientes a aquel en que manifieste haber tenido conocimiento del hecho que lo motive, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva el incidente.
 
-Si se admite el incidente de nulidad de notificaciones, el Magistrado dará vista a las demás partes por el término de tres días hábiles para que expongan lo que a su derecho convenga, transcurrido dicho plazo se dictará resolución.
+Si se admite el incidente de nulidad de notificaciones, se dará vista a las demás partes por el término de tres días hábiles para que expongan lo que a su derecho convenga, y ofrezcan pruebas en su caso, señalando fecha para audiencia para el desahogo de las pruebas que se admitan y se oigan alegatos de incidente, dentro de ocho días en la que se dictará resolución.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 178.
 
-Si se declara la nulidad de la notificación, el Magistrado Instructor ordenará la reposición del procedimiento a partir de la notificación anulada. Asimismo, independientemente de la responsabilidad civil, penal o administrativa en que pueda incurrir con su conducta, se sancionará al Actuario en los términos que señale el Reglamento Interior del Tribunal de Justicia Administrativa.
+Si se declara la nulidad de la notificación, se ordenará la reposición del procedimiento a partir de la notificación anulada. Asimismo, independientemente de la responsabilidad civil, penal o administrativa en que pueda incurrir con su conducta, se sancionará al Actuario en los términos que señale la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 179.
 
@@ -1491,7 +1595,7 @@ Cuando una Sala ordinaria esté conociendo de algún juicio que sea de la compet
 
 ###### Artículo 180.
 
-Los Magistrados del Tribunal y sus respectivos Secretarios y Actuarios estarán impedidos para conocer en los siguientes casos:
+Los Titulares de las Salas del Tribunal y sus respectivos Secretarios y Actuarios estarán impedidos para conocer en los siguientes casos:
 
 I. Si tienen interés personal, o su cónyuge o sus parientes, en los grados que expresa la fracción II de este artículo, en el asunto que haya motivado el juicio;
 
@@ -1515,17 +1619,23 @@ X. Aceptar obsequios de alguno de las partes; y
 
 XI. Cualquier otra análoga a las anteriores o de mayor razón.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 181.
 
-Los Magistrados tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. No serán admitidas las excusas voluntarias sin causa justificada.
+Los Titulares de las Salas del Tribunal tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento. No serán admitidas las excusas voluntarias sin causa justificada.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 182.
 
-Hecha valer por un Magistrado la causa de impedimento, la Junta de Gobierno y Administración del Tribunal de Justicia Administrativa, calificará la excusa y cuando proceda, designará a quien deba sustituir al Magistrado impedido.
+Hecha valer una causa de impedimento, la Junta de Gobierno y Administración del Tribunal de Justicia Administrativa, calificará la excusa y cuando proceda, designará a quien deba sustituir al Magistrado impedido.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 183.
 
-En caso de que se declare improcedente la excusa planteada el Pleno, devolverá el expediente para que el Magistrado del conocimiento continúe el trámite del mismo.
+En caso de que se declare improcedente la excusa planteada, devolverá el expediente para que el titular de la Sala del conocimiento continúe el trámite del mismo.
 
 ###### Artículo 184.
 
@@ -1535,11 +1645,13 @@ El Magistrado que teniendo impedimento para conocer de un negocio, no haga la ma
 
 Cuando el Magistrado no se abstenga de intervenir en un asunto, a pesar de encontrarse en alguno de los supuestos que establece el artículo 180 esta Ley, y sin perjuicio de la responsabilidad en que haya incurrido, el interesado podrá promover la recusación en cualquier momento de la secuela del procedimiento administrativo, siempre que no se haya emitido la resolución que en derecho corresponda.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 186.
 
-La recusación deberá plantearse por escrito ante el Pleno. En este escrito se expresará la causa o causas en que se funde el impedimento, debiéndose ofrecer en el mismo los medios probatorios pertinentes.
+La recusación deberá plantearse por escrito ante el Presidente de la Junta de Gobierno y Administración. En este escrito se expresará la causa o causas en que se funde el impedimento, debiéndose ofrecer en el mismo los medios probatorios pertinentes.
 
-Al día siguiente de la presentación del ocurso en los términos del párrafo anterior, el Magistrado que se recusa será emplazado para que en el plazo de dos días haga las manifestaciones que estime pertinentes. Transcurrido este plazo, haya o no producido el Magistrado su informe, se señalará la fecha de la audiencia para desahogar pruebas, recibir alegatos y pronunciar la resolución, la que deberá emitirse en un plazo no mayor de cinco días.
+Al día siguiente de la presentación del ocurso en los términos del párrafo anterior, el servidor que se recusa será emplazado para que en el plazo de dos días haga las manifestaciones que estime pertinentes. Transcurrido este plazo, se haya o no producido el informe, se turnará el asunto a la Junta de Gobierno y Administración, la que designará instructor y ponente, quien señalará la fecha de la audiencia para desahogar pruebas, recibir alegatos y citar para pronunciar resolución, la que deberá emitirse por la Junta de Gobierno y Administración en un plazo no mayor de cinco días.
 
 ###### Artículo 187.
 
@@ -1553,15 +1665,43 @@ En los casos en que se está conociendo de algún impedimento, el procedimiento 
 
 Contra las resoluciones pronunciadas en materia de impedimentos, excusas y recusaciones no procederá recurso alguno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 190.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el Magistrado hasta antes de que se cierre la instrucción en el juicio. El incidente se substanciará conforme a lo dispuesto en el artículo 173 de esta Ley.
+Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en (sic) juicio, el incidente se podrá hacer valer hasta antes de que se cierre la instrucción en el juicio.
 
-Si alguna de las partes sostiene la falsedad de un documento firmado por otra, el Magistrado podrá citar a la parte respectiva para que estampe su firma en presencia del secretario misma que se tendrá como indubitable para el cotejo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+El incidente se substanciará conforme a lo dispuesto en el segundo párrafo del artículo 177 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Si alguna de las partes sostiene la falsedad de un documento firmado por otra, la Sala del conocimiento podrá citar a la parte respectiva para que estampe su firma en presencia del secretario misma que se tendrá como indubitable para el cotejo.
 
 En los casos distintos de los señalados en el párrafo anterior, el incidentista deberá acompañar el documento que considere como indubitado o señalar el lugar donde se encuentre, o bien ofrecer la pericial correspondiente; si no lo hace, el Magistrado Instructor desechará el incidente.
 
 La Sala resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el que se presente el incidente.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 190 Bis.
+
+Procede el incidente de incumplimiento de suspensión, cuando a la parte que se haya otorgado la medida cautelar por la Sala de conocimiento del juicio, sostenga que su contraparte es renuente a su cumplimiento.
+
+Este incidente podrá hacerse valer hasta en tanto cause ejecutoria la sentencia que resuelva el juicio.
+
+En el acuerdo admisorio, se dará vista a las partes para que aleguen lo que a su derecho convenga, y se pedirá un informe a la autoridad a quien se impute el incumplimiento del auto relativo, que deberá rendir dentro del plazo de tres días, informe en el que se justificará el acto o la omisión que provocó el incidente.
+
+Vencido dicho plazo, con informe o sin él, se dictará la resolución en el plazo de cinco días. Si se resuelve que hubo incumplimiento de la suspensión otorgada, se dejarán sin efectos las actuaciones realizadas en violación a la suspensión, y se aplicará la multa que dispone el artículo 215 de esta Ley, y se comunicará al superior jerárquico de la autoridad de que se trate, la desobediencia a fin de que lo conmine al cumplimiento.
+
+Cuando no exista superior jerárquico, el requerimiento se hará directamente a la demandada.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 190 Ter.
+
+Cualquier otro incidente se substanciará conforme a lo dispuesto en el segundo párrafo del artículo 177 de esta Ley.
 
 ### CAPÍTULO XII. DE LAS PRUEBAS
 
@@ -1597,11 +1737,13 @@ IX. Instrumental de actuaciones; y
 
 X. Los demás medios probatorios que produzcan convicción en el juzgador.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 193.
 
-El Magistrado, hasta antes de que se cierre la instrucción, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes.
+Hasta antes de que se cierre la instrucción, para un mejor conocimiento de los hechos controvertidos, se podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes.
 
-El magistrado podrá reabrir la instrucción para los efectos señalados anteriormente.
+Sé podrá reabrir la instrucción para los efectos señalados anteriormente.
 
 ###### Artículo 194.
 
@@ -1613,19 +1755,29 @@ La prueba pericial se sujetará a lo siguiente:
 
 I. En el acuerdo que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que reúnen los requisitos correspondientes, acepten el cargo y protesten su legal desempeño, apercibiéndolas de que si no lo hacen sin justa causa, o la persona propuesta no acepta el cargo o no reúne los requisitos de ley, sólo se considerará el peritaje de quien haya cumplimentado el requerimiento;
 
-II. El Magistrado, señalará lugar, día y hora para el desahogo de la prueba pericial, pudiendo pedir a los peritos todas las aclaraciones que estime conducentes, y exigirles la práctica de nuevas diligencias;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-III. En los acuerdos por los que se discierna del cargo a cada perito, el Magistrado concederá un plazo mínimo de diez días para que rinda y ratifique su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido;
+II. Se señalará lugar, día y hora para el desahogo de la prueba pericial, pudiendo pedir a los peritos todas las aclaraciones que se estimen conducentes, y exigir la práctica de nuevas diligencias;
 
-IV. Por una sola vez y por causa que lo justifique, comunicada al Magistrado antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-V. El perito tercero será designado por la Sala ordinaria de entre los que estén autorizados por el Tribunal Superior de Justicia. En el caso de que no hubiere perito autorizado en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen debiendo cubrirse sus honorarios por las partes. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de diez días para que rinda su dictamen.
+III. En los acuerdos por los que se discierna del cargo a cada perito, se concederá un plazo mínimo de diez días para que rinda y ratifique su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IV. Por una sola vez y por causa que lo justifique, comunicada por escrito antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+V. El perito tercero será designado por la Sala ordinaria de entre los que estén autorizados oficialmente. En el caso de que no hubiere perito autorizado en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen debiendo cubrirse sus honorarios por las partes. En el auto en que se designe perito tercero, se le concederá un plazo no menor de diez días ni mayor a treinta días, para que rinda su dictamen.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 196.
 
-Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste bajo protesta de decir verdad no poder presentarlos, el Magistrado los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
+Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste bajo protesta de decir verdad no poder presentarlos, serán citados por la Sala para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
 
-Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el Magistrado del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto.
+Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto.
 
 ###### Artículo 197.
 
@@ -1633,9 +1785,13 @@ A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridade
 
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
 
-En los casos en que la autoridad requerida no sea parte e incumpla, el Magistrado Instructor podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre noventa y ciento cincuenta veces la Unidad de Medida y Actualización, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para realizar las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Magistrado podrá considerar que se está en presencia de omisión por causa justificada.
+En los casos en que la autoridad requerida no sea parte e incumpla, se podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre noventa y ciento cincuenta veces la Unidad de Medida y Actualización, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para realizar las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, se podrá considerar que se está en presencia de omisión por causa justificada, cuando así se acredite.
 
 ###### Artículo 198.
 
@@ -1645,7 +1801,9 @@ I. Harán prueba plena la confesión expresa de las partes, las presunciones leg
 
 II. Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas; y
 
-III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación de la Sala.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación razonada de la Sala conforme a las reglas de la experiencia y sana crítica.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
@@ -1661,7 +1819,9 @@ II. Resolver cualquier cuestión incidental que se plantee en la audiencia;
 
 III. Oír los alegatos; y
 
-IV. Turnar el juicio para resolución.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IV. Citar el juicio para resolución.
 
 ###### Artículo 200.
 
@@ -1673,7 +1833,9 @@ La falta de asistencia de las partes no impedirá la celebración de la audienci
 
 La audiencia del juicio se sujetará para su desahogo al siguiente orden:
 
-I. Se dará cuenta con las reclamaciones incidentales suscitadas durante la tramitación del juicio. Para tal efecto, se desahogarán las pruebas y se escucharán los alegatos de las partes. Acto continuo, la Sala ordinaria pronunciará la resolución que proceda, ordenándose en su caso, que se practiquen las diligencias omitidas;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Se dará cuenta con las reclamaciones incidentales diversas a los (sic) del artículo 173 de esta Ley suscitadas durante la tramitación del juicio. Para tal efecto, se desahogarán las pruebas y se escucharán los alegatos de las partes. Acto continuo, la Sala ordinaria pronunciará la resolución que proceda, ordenándose en su caso, que se practiquen las diligencias omitidas;
 
 II. Si la resolución de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se procederá a desahogar las pruebas en el orden que fueron ofrecidas;
 
@@ -1681,17 +1843,25 @@ III. En el caso de que las partes solo ofrecieran pruebas documentales, presunci
 
 IV. Se desahogarán las pruebas que estén en condiciones, prorrogando la continuación de la audiencia y ordenando la preparación de las pendientes, desahogándose en la fecha que se señale para la continuación y culminación de la misma. El Magistrado podrá formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas;
 
-V. Se oirán los alegatos del actor, de la parte demandada, y del tercero perjudicado, los que se pronunciarán en ese orden; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-Los alegatos podrán presentarse por escrito. Cuando se formulen verbalmente, no podrán exceder de quince minutos para cada una de las partes, Se turnará el juicio para resolución.
+V. Se oirán los alegatos del actor, de la parte demandada, y del tercero, los que se pronunciarán en ese orden;
+
+Los alegatos podrán presentarse por escrito. Cuando se formulen verbalmente, no podrán exceder de quince minutos para cada una de las partes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+VI. Se citará el juicio para resolución.
 
 ###### Artículo 202.
 
 Las promociones que presenten las partes que asistan a la audiencia, se resolverán de plano en el transcurso de ésta.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 203.
 
-La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. También podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio del Magistrado que conoce del asunto.
+La audiencia no se celebrará cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. Podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio de la Sala que conoce del asunto.
 
 ### CAPÍTULO XIV. DE LA INTERRUPCIÓN DEL PROCEDIMIENTO
 
@@ -1705,9 +1875,11 @@ II. Disolución o quiebra de la persona moral que intervenga como parte en el ju
 
 III. Desaparición del Órgano de la Administración Pública que intervenga como parte en el juicio.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 205.
 
-La interrupción del procedimiento, procederá hasta antes de la audiencia, cuando se actualice cualquiera de las hipótesis contenidas en el artículo anterior.
+La interrupción del procedimiento, procederá hasta antes de la sentencia, cuando se actualice cualquiera de las hipótesis contenidas en el artículo anterior.
 
 ###### Artículo 206.
 
@@ -1715,9 +1887,11 @@ La interrupción será de hasta tres meses, mientras se apersone el representant
 
 ### CAPÍTULO XV. DE LA SENTENCIA Y SU EJECUCIÓN
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 207.
 
-La sentencia deberá dictarse dentro de los quince días siguientes a la celebración de la audiencia del juicio, y se ocupará exclusivamente de las personas, acciones, excepciones y defensas que hayan sido materia del juicio.
+La sentencia deberá dictarse dentro de los quince días siguientes a la citación para sentencia, y se ocupará exclusivamente de las personas, acciones, excepciones y defensas que hayan sido materia del juicio.
 
 ###### Artículo 208.
 
@@ -1737,6 +1911,18 @@ VI. Los fundamentos legales en que se apoya para emitir la resolución definitiv
 
 VII. Los puntos resolutivos en los que se decrete el sobreseimiento del juicio, se reconozca la validez, se declare la nulidad o se ordene la modificación o reposición del acto impugnado y en su caso, la condena que se imponga.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 208 Bis.
+
+Las sentencias dictadas con motivo de las demandas que prevé la Ley de Responsabilidad Patrimonial del Estado de Durango y sus Municipios, deberán contener como elementos mínimos los siguientes:
+
+I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida, y la valoración del daño o perjuicio causado;
+
+II. Determinar el monto de la indemnización, explicitando los criterios utilizados para su cuantificación, y
+
+III. En los casos de concurrencia previstos en el Capítulo IV de la Ley de Responsabilidad Patrimonial del Estado de Durango y sus Municipios, se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
+
 ###### Artículo 209.
 
 La sentencia tendrá por efecto:
@@ -1749,9 +1935,17 @@ III. Declarar la anulabilidad del acto o resolución impugnado, debiendo precisa
 
 IV. Decretar la modificación del acto o resolución impugnada;
 
-V. Declarar la configuración de la Positiva Ficta; o
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-VI. Absolver o condenar a la autoridad al cumplimiento de la obligación reclamada.
+V. Declarar la configuración de la Positiva Ficta;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+VI. Absolver o condenar a la autoridad al cumplimiento de la obligación reclamada; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+VII. Resolver sobre las faltas administrativas graves cometidas por personas servidoras públicas del Estado y de los Municipios, y de los órganos autónomos e Imponer sanciones en su caso; igualmente por lo que toca a los particulares que incurran en actos vinculados con dichas faltas.
 
 ###### Artículo 210.
 
@@ -1779,9 +1973,11 @@ La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún c
 
 ### CAPÍTULO XVI. DEL CUMPLIMIENTO DE SENTENCIA
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 214.
 
-La declaración de que la sentencia ha causado ejecutoria deberá comunicarse a las partes para su cumplimiento; en caso de ser favorable al actor, se prevendrá a las autoridades demandadas sin demora alguna, para que dentro de diez días rindan el informe correspondiente.
+La declaración de que la sentencia ha causado ejecutoria deberá comunicarse a las partes para su cumplimiento; en caso de ser favorable al actor, se prevendrá a las autoridades demandadas sin demora alguna, para que dentro de diez días rindan el informe correspondiente al cumplimiento dado.
 
 ###### Artículo 215.
 
@@ -1789,17 +1985,21 @@ Si dentro del término a que se refiere el artículo anterior, la autoridad no c
 
 Cuando no exista superior jerárquico, el requerimiento se hará directamente a la demandada.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 216.
 
-Si a pesar de los requerimientos y sanciones previstas en el artículo anterior, no se da cumplimiento a la sentencia o su cumplimiento es excesivo o defectuoso, el Presidente a petición de parte, podrá solicitar al superior jerárquico la destitución del servidor público responsable del incumplimiento, excepto de aquellos contemplados en los artículos 176 y 177 de la Constitución Política del Estado Libre y Soberano de Durango.
+Si a pesar de los requerimientos y sanciones previstas en el artículo anterior, no se da cumplimiento a la sentencia o su cumplimiento es excesivo o defectuoso, el Presidente del Tribunal a petición de parte, podrá solicitar al superior jerárquico la destitución del servidor público responsable del incumplimiento, excepto de aquellos contemplados en los artículos 176 y 177 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 217.
 
-Si la autoridad demandada es uno de los servidores públicos previstos en el artículo 176 de la Constitución Política del Estado Libre y Soberano de Durango, el Presidente acompañando las constancias respectivas lo hará del conocimiento del Ministerio Público para que previo el cumplimiento de los requisitos para el ejercicio de la acción penal formule el pedimento de declaración de procedencia ante el Honorable Congreso del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+Si la autoridad demandada es uno de los servidores públicos previstos en el artículo 176 de la Constitución Política del Estado Libre y Soberano de Durango, el Presidente acompañando las constancias respectivas lo hará del conocimiento del Ministerio Público para que previo el cumplimiento de los requisitos para el ejercicio de la acción penal formule el pedimento de declaración de procedencia ante el Honorable Congreso del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos en materia de Juicio Político, Declaración de Procedencia y el Ejercicio de Facultades Legislativas en Materia de Enjuiciamiento por Responsabilidades Públicas.
 
 ###### Artículo 218.
 
-Las disposiciones mencionadas en este capítulo se aplicarán cuando no se dé cumplimiento, se violente o exista exceso o defecto en la ejecución del acuerdo de suspensión que se hubiere decretado respecto del acto o resolución impugnado. En este caso, cuando la violación no esté debidamente acreditada en autos, la Sala del conocimiento requerirá a la autoridad correspondiente para que rinda un informe al respecto dentro de las veinticuatro horas siguientes. Si no lo rindiere se tendrá por acreditada la violación, procediendo a la aplicación de las sanciones previstas en este capítulo, ordenando nuevamente su cumplimiento dentro de las veinticuatro horas siguientes. Los actos o procedimientos que hubieren motivado la violación a la suspensión, se declararán sin efectos jurídicos por la Sala.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 219.
 
@@ -1815,37 +2015,51 @@ No podrá archivarse ningún Juicio Contencioso Administrativo sin que se haya c
 
 ### CAPÍTULO XVII. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ### CAPÍTULO VIII. DE LA CONTESTACIÓN
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ### CAPÍTULO IX. DE LA SUSPENSIÓN
 
 ### CAPÍTULO X. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 222.
 
-El recurso de revisión es competencia de la Sala Superior del Tribunal de Justicia Administrativa y es procedente contra los acuerdos y resoluciones dictados por los Magistrados de las Salas ordinarias del Tribunal que:
+El recurso de revisión es competencia de la Sala Superior del Tribunal de Justicia Administrativa y es procedente contra los acuerdos y resoluciones dictados por las Salas ordinarias del Tribunal que:
 
-I. Admitan o desechen la demanda;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Admitan la demanda;
 
 II. Nieguen o revoquen la suspensión, a excepción del caso contenido en el último párrafo del artículo 159 de esta ley;
 
-III. Admitan o nieguen la intervención del tercero perjudicado;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-IV. Concedan, nieguen, modifiquen o revoquen la suspensión de los actos impugnados;
+III. Admitan o nieguen la intervención del tercero que tenga un interés incompatible con el de la parte actora;
 
-V. Por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo;
+IV. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+V. Por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y puedan trascender al sentido del fallo;
 
 VI. Decidan incidentes;
 
 VII. Decreten o nieguen el sobreseimiento;
 
-VIII. Pongan fin al procedimiento de ejecución de la sentencia; y
+VIII. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2020)
 
 IX. Las sentencias que decidan la cuestión planteada por violaciones cometidas en ellas o durante el procedimiento del juicio, en este último caso, cuando hayan dejado sin defensa al recurrente y transciendan al sentido de la sentencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 223.
 
-El recurso de revisión se presentará dentro de los diez días siguientes a partir de que se admita o deseche la demanda, de conformidad con las causas establecidas en el artículo que antecede, mismo que deberá presentarse con los siguientes requisitos:
+El recurso de revisión se presentará dentro de los diez días siguientes a partir de que surta efecto la notificación del acuerdo o resolución, de conformidad con las causas establecidas en el artículo que antecede, mismo que deberá presentarse en la Oficialía de Partes con los siguientes requisitos:
 
 I. Nombre del recurrente y domicilio para oír y recibir notificaciones en el lugar de residencia del Tribunal de Justicia Administrativa;
 
@@ -1865,15 +2079,17 @@ El recurso de revisión deberá dirigirse a la Sala Superior del Tribunal de Jus
 
 Transcurrido dicho plazo, la Sala ordinaria lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días hábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, la Sala ordinaria dejará copia certificada de un duplicado debidamente sellado y cotejado.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 225.
 
-El Magistrado de la Sala ordinaria que conozca del asunto deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III y V del artículo 222 de esta ley, o cuando a su juicio sea necesario.
+La Sala ordinaria que conozca del asunto deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III, y IX del artículo 222 de esta ley, o cuando a su juicio sea necesario.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 226.
 
-La Sala Superior admitirá el recurso cuando no encontrare alguna causa indudable y manifiesta de improcedencia. En caso de encontrarla se desechará de plano aplicando en lo conducente lo dispuesto por el artículo 141 de esta ley.
-
-El Magistrado de la Sala Superior dictará la resolución, en un plazo de quince días.
+La Sala Superior admitirá el recurso cuando no encontrare alguna causa indudable y manifiesta de improcedencia. En caso de encontrarla se desechará de plano.
 
 ###### Artículo 227.
 
@@ -1887,13 +2103,25 @@ III. Modificar el auto o resolución recurrida; y
 
 IV. Sobreseer el recurso interpuesto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que la revocación obedezca a violaciones en el procedimiento o porque se considere que no se actualizó la causal de improcedencia o sobreseimiento, se reenviará el asunto a la Sala Ordinaria del conocimiento para que subsane las violaciones advertidas o bien, resuelva el fondo de la cuestión planteada por las partes según sea el caso.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 227 Bis.
+
+Emitida y notificada la resolución de segundo grado, se remitirá a la Sala Ordinaria correspondiente, devolviéndose los autos originales en caso de haberse remitido para la sustanciación de la alzada, a efecto de que esta proceda a cumplimentarla en sus términos, sin que pueda oponerse a lo fallado por la Sala Superior
+
 ### CAPÍTULO XVIII. DEL RECURSO DE QUEJA
 
 ###### Artículo 228.
 
 El recurso de queja es competencia de la Sala Superior del Tribunal de Justicia Administrativa y es procedente contra las resoluciones de Sala Ordinaria que:
 
-I. Niegue la admisión de demanda o la deseche.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+I. Nieguen la admisión de demanda o la desechen.
 
 II. Conceda o modifique la suspensión de los actos demandados.
 
@@ -1911,11 +2139,13 @@ Llegado a la Sala Superior el informe acompañado de las copias que lo justifiqu
 
 ### CAPÍTULO XIX. DE LOS MEDIOS DE APREMIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ### CAPÍTULO XI. DE LOS INCIDENTES
 
 ###### Artículo 231.
 
-Los Magistrados, para hacer cumplir sus determinaciones o para imponer el orden podrán, de acuerdo a la gravedad de la falta, hacer uso de los siguientes:
+Las Salas, para hacer cumplir sus determinaciones o para imponer el orden podrán, de acuerdo a la gravedad de la falta, hacer uso de los siguientes:
 
 I. Medios de apremio:
 
@@ -1939,9 +2169,11 @@ e) Arresto hasta por 36 horas.
 
 Agotadas las medidas disciplinarias, si se advierten hechos probablemente constitutivos de delito, se dará vista al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 232.
 
-En caso de aplicación de las multas a que se refiere el artículo anterior, los Magistrados deberán informar a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para que las haga efectivas, remitiendo al Tribunal de Justicia Administrativa la constancia respectiva.
+En caso de aplicación de las multas a que se refiere el artículo anterior, las Salas deberán informar a la Secretaría de Finanzas y de Administración del Gobierno del Estado, para que las haga efectivas, remitiendo al Tribunal de Justicia Administrativa la constancia respectiva.
 
 ## TRANSITORIOS
 
@@ -1978,3 +2210,15 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 379.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, debiendo practicarse las notificaciones electrónicas en todos los asuntos del conocimiento del Tribunal.
+
+SEGUNDO. Los recursos e incidentes que a la entrada en vigor del presente decreto se encuentren en trámite, continuarán sustanciándose hasta su conclusión, conforme a las reglas anteriores a esta reforma.
+
+TERCERO. Para efectos de las notificaciones electrónicas a que se refiere el presente decreto, el Tribunal adoptará las medidas tecnológicas y materiales que sean necesarias y la Junta de Gobierno y Administración emitirá los lineamientos a que se refiere el artículo 121 en la siguiente sesión ordinaria a la entrada en vigor de este decreto.
