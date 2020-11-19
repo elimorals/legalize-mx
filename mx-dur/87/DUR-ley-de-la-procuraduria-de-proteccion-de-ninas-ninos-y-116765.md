@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-116765"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-01"
-last_updated: "2017-11-16"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de septiembre de 2016.
 
@@ -337,7 +337,9 @@ XLIX. Colaborar con las autoridades judiciales, en la medida de lo posible, en l
 
 L. Orientar y asesorar jurídicamente en los procedimientos administrativos y judiciales, a las personas que deseen asumir el carácter de Familia de Acogida pre-adoptiva o adoptar a Niñas, Niños o Adolescentes bajo la tutela de la Procuraduría de Protección, de acuerdo a las disposiciones aplicables;
 
-LI. Asumir la Secretaría Técnica, del Consejo Técnico de Adopciones del Sistema DIF Estatal;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+LI. Asumir la Presidencia del Consejo Técnico de Adopciones del Sistema DIF Estatal;
 
 LII. Emitir el acuerdo de no reintegración, en un término que no podrá ser menor de dos ni exceder de seis meses, para iniciar el juicio de pérdida de patria potestad, custodia y adopción, en los casos en que la Familia de Origen, Extensa o Ampliada, no muestren interés alguno por mejorar la situación familiar de las niñas, niños o adolescentes;
 
@@ -638,3 +640,15 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 395.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO Y A LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
