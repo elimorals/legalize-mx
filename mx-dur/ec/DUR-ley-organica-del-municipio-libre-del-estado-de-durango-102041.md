@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2020-05-07"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -1303,6 +1303,14 @@ El Juzgado Cívico tendrá a su cargo la promoción de la educación cívica ent
 
 El Juzgado Cívico Municipal, conocerá de las conductas que presuntamente constituyan faltas o infracciones a las disposiciones normativas municipales e impondrá las sanciones correspondientes mediante un procedimiento breve y simplificado que califique la infracción, mismo que deberá estar considerado en el Bando de Policía y Gobierno.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+La sanción de trabajo en favor de la comunidad podrá imponerse como sanción autónoma o sustitutiva de la multa o el arresto, la cual deberá cumplirse en periodos distintos al horario de la labor que sea la fuente de ingresos del infractor.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Este trabajo será facilitado por el Juzgado Cívico Municipal consistente en prestación de servicios no remunerados que vayan encaminados al beneficio comunitario, tales como servicios públicos, obra pública o desarrollo social, así como en las instituciones de carácter educativo o de asistencia social, públicas o privadas, sobre la base de los convenios que podrán ser celebrados por la autoridad municipal. Bajo ningún motivo podrán realizarse durante una jornada diaria diurna mayor de ocho horas o siete de jornada nocturna. Por cada cuatro horas de trabajo saldarán un día de multa.
+
 Será función del Juzgado Cívico, conocer y resolver los recursos que interpongan los particulares respecto de las determinaciones de las autoridades municipales.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
@@ -2554,3 +2562,15 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
 
 TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 30 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 380.- POR EL CUAL SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO, PASANDO EL ACTUAL SEGUNDO PÁRRAFO AL CUARTO DEL ARTÍCULO 115 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
