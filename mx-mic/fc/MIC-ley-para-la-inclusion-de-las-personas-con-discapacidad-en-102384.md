@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2019-08-28"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -577,6 +577,10 @@ Es obligación de los tres Poderes del Estado, gobiernos municipales, sus organi
 
 Para el empleo, contratación e inserción en puestos de la administración pública de las personas con discapacidad, se emplearán profesionales cuyo perfil cubra las necesidades del puesto o los requisitos de la convocatoria respectiva, en toda convocatoria pública para contratación de personal, asignación de plazas o puestos de trabajo, se deberá de reservar como mínimo el 3% de las mismas para personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Los sujetos a que obliga el presente artículo, deberán remitir de forma anual, la información que incluya, por lo menos, las convocatorias emitidas, así como, las contrataciones que derivadas de ellas o no haya realizado, indicando el porcentaje que representan las personas con discapacidad contratadas en relación con el número total de empleados que se encuentren bajo su mando, independientemente de la modalidad laboral bajo la que se encuentren contratados, al Consejo Michoacano para la Inclusión de las Personas con Discapacidad, a efecto de que este pueda incluirlo en el informe anual que realiza.
+
 ###### Artículo 43.
 
 Los procesos de rehabilitación buscarán otorgar el máximo de funcionalidad para que las personas con discapacidad puedan incorporarse al mercado de trabajo y al desarrollo de actividades productivas.
@@ -721,11 +725,13 @@ Los municipios, al expedir la autorización a las empresas del ramo, para coloca
 
 Además, deberán destinar al menos el 10% de los espacios de estacionamiento, en lugares preferentes y de fácil acceso a sus instalaciones, para uso exclusivo de vehículos de personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 65.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración Pública, dotará de placas metálicas para vehículos automotores para personas con discapacidad.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, dotará de placas metálicas para vehículos automotores para personas con discapacidad permanente.
 
-Los gobiernos municipales establecerán en sus reglamentos la expedición de identificaciones permanentes para vehículos que transporten a personas con discapacidad y adultos mayores con movilidad restringida, y establecerán las sanciones para aquellos que incumplan dichas disposiciones.
+En el caso de las personas que tengan alguna discapacidad motora de manera temporal y adultos mayores con movilidad restringida, que por este hecho no puedan obtener las placas especiales a que refiere el párrafo anterior, serán los gobiernos municipales quienes expedirán gratuitamente permisos temporales de estacionamiento, consistentes en un gancho colgante para el retrovisor del automóvil, el cual permitirá el uso de los espacios exclusivos de los estacionamientos. Los gobiernos municipales establecerán en sus reglamentos las temporalidades de vigencia, los requisitos para la expedición de los permisos y las sanciones para aquellos que incumplan dichas disposiciones.
 
 ###### Artículo 66.
 
@@ -747,7 +753,9 @@ III. Promover la apertura de establecimientos especializados para la asistencia,
 
 IV. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
 
-### CAPÍTULO VIII. DEPORTE, REGREACIÓN (SIC), CULTURA Y TURISMO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO VIII. DEPORTE, RECREACIÓN, CULTURA Y TURISMO
 
 ###### Artículo 68.
 
@@ -901,7 +909,9 @@ VIII. Proponer programas de capacitación para el empleo y la autogestión econ�
 
 IX. Colaborar, dar seguimiento y fortalecer los programas de los centros de rehabilitación, habilitación y prestación de servicios, dirigidos a personas con discapacidad que ofrecen las asociaciones civiles, organizaciones, fundaciones, así como las dependencias y entidades de la Administración Pública Estatal;
 
-X. Impulsar, en colaboración con la (sic) dependencias competentes, programas de prevención y control de las causas de la discapacidad para promover la participación activa de la sociedad;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+X. Impulsar, en colaboración con las dependencias competentes, programas de prevención y control de las causas de la discapacidad para promover la participación activa de la sociedad;
 
 XI. Impulsar el desarrollo de las personas con discapacidad así como una mejor calidad de vida de las personas con discapacidad, a través del impulso de programas de desarrollo social, para lograr su inclusión en la sociedad;
 
@@ -918,6 +928,10 @@ XVI. Promover e impulsar propuestas para que las vialidades, transporte y edific
 XVII. Promover la realización de acuerdos o convenios de colaboración y coordinación entre los entes públicos y privados, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
 
 XVIII. Solicitar información al Poder Ejecutivo, Legislativo, Judicial, los gobiernos municipales y los órganos autónomos del Estado de Michoacán para la elaboración y evaluación del Programa Estatal de prevención y atención de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+XVIII Bis. Solicitar la información a que refiere el artículo 42 de la presente Ley, referente a las convocatorias y a la contratación de personal, en los términos de dicho numeral, el cual deberá ser remitido durante el mes de enero al Congreso del Estado para su conocimiento, dentro del Informe Anual a que está obligado;
 
 XIX. Realizar su reglamento interno para su mejor funcionamiento, y,
 
@@ -1065,7 +1079,9 @@ La evaluación de las personas con discapacidad se basarán en criterios unifica
 
 La Secretaría de Salud, con la colaboración el Instituto Nacional de Geografía y Estadística, el Consejo y el CREE elaborarán un padrón único de las personas con discapacidad del Estado de Michoacán.
 
-## TÍTULO CUARTO (SIC). SANCIONES Y RECURSOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+## TÍTULO QUINTO. SANCIONES Y RECURSOS
 
 ### CAPÍTULO I. SANCIONES
 
@@ -1180,3 +1196,9 @@ P.O. 28 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 361.- SE REFORMA EL ARTÍCULO 65, LA DENOMINACIÓN DEL CAPÍTULO VIII, LA FRACCIÓN X DEL ARTÍCULO 81 Y EL NÚMERO, AL ACTUAL TÍTULO CUARTO DENOMINADO SANCIONES Y RECURSOS, ASÍ COMO, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 42 Y UNA FRACCIÓN XVIII BIS AL ARTÍCULO 81, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
