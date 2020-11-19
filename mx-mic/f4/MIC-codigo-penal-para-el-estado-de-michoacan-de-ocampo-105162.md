@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-07-28"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1219,6 +1219,10 @@ Prescripción de la pena de prisión
 
 Salvo que la ley disponga otra cosa, la pena privativa de libertad prescribirá en un tiempo igual al fijado en la condena y una cuarta parte más, pero no podrá ser inferior a tres años; la pena de multa prescribirá en un año; las demás sanciones prescribirán en un plazo igual al que deberían durar y una cuarta parte más, sin que pueda ser inferior a dos años; las que no tengan temporalidad, prescribirán en dos años. Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+Serán imprescriptibles las penas señaladas en los artículos 165 y 167 bis de este Código.
+
 ###### Artículo 111.
 
 Prescripción en parte de la extinción de la sanción
@@ -1769,9 +1773,17 @@ Se equipara a la violación y se sancionará con la misma pena a quien:
 
 I. Realice cópula con persona menor de doce años de edad o con persona que no tenga capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirlo;
 
-II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de doce años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo; o,
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
-III. Siendo hermano o ascendiente mayor de dieciocho años tenga cópula con su hermano o descendiente menor de dieciocho años, con conocimiento de su parentesco.
+II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de doce años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+III. Siendo hermano o ascendiente mayor de dieciocho años tenga cópula con su hermano o descendiente menor de dieciocho años, con conocimiento de su parentesco; o,
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+IV. Aprovechándose de la relación de subordinación o superioridad que tenga sobre la víctima derivada de una relación de cualquier índole, realice cópula con persona mayor de doce y menor de dieciocho años de edad o le Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene.
 
 Si se ejerciera violencia física o psicológica, en los supuestos de las fracciones anteriores, la pena prevista se aumentará en una mitad.
 
@@ -1792,6 +1804,16 @@ Abuso sexual de personas menores de dieciséis años de edad
 A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciséis años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la haga observar o ejecutar dicho acto, se le impondrá de dos a cinco años de prisión y de doscientos a quinientos días multa.
 
 Si se hiciera uso de la violencia física o psicológica la pena prevista se aumentará en una mitad.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 167 Bis.
+
+Abuso sexual de personas menores de dieciocho años de edad
+
+A quien, sin llegar a la cópula y aprovechándose de la relación de subordinación o superioridad que tenga sobre la víctima derivada de una relación de cualquier índole, ejecute un acto sexual en persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la haga observar o ejecutar dicho acto, se le impondrá de nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta Unidades de Medida y Actualización.
+
+Si se hiciera uso de la violencia física y/o psicológica, la pena prevista se aumentará en una mitad.
 
 ###### Artículo 168.
 
@@ -4242,3 +4264,9 @@ P.O. 28 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 337.- SE ADICIONAN LOS ARTIÌCULOS (SIC) 178 BIS Y 178 TER AL COÌDIGO (SIC) PENAL PARA EL ESTADO DE MICHOACAÌN (SIC) DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 365.- SE REFORMA EL ARTÍCULO 110 Y LAS FRACCIONES II Y III DEL ARTÍCULO 165; SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 165 Y EL ARTÍCULO 167 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
