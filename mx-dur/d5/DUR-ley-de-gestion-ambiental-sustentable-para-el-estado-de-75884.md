@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2020-11-15"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -1489,6 +1489,28 @@ Los Municipios por conducto de sus Ayuntamientos tendrán obligación de dictar 
 
 No podrán emitirse ruidos, vibraciones, olores, energía lumínica, térmica, radiaciones electromagnéticas no ionizantes y la generación de contaminación visual que rebasen los límites máximos contenidos en los reglamentos y en las Normas Oficiales Mexicanas que al efecto se expidan, se adoptarán las medidas correspondientes con el objeto de que no se rebasen dichos límites y en su caso se podrán aplicar las sanciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 99 BIS. Los límites máximos de emisiones sonoras dentro de establecimientos comerciales o de servicios cuyo giro sea el de restaurante-bar, bar, discoteca, centro nocturno, centro de espectáculo o centros sociales, se determinarán en función de decibeles ponderados en A[dB(A)], correspondiendo a los Municipios establecer en sus reglamentos de la materia, los horarios y rangos de emisiones sonoras permisibles, ello sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento.
+
+El contenido del presente Capítulo se aplicará en lo conducente a los inmuebles con uso habitacional.
+
+En caso de existir normas oficiales mexicanas o normas ambientales estatales que establezcan los horarios y rangos de emisiones sonoras permisibles dentro de los referidos establecimientos, los reglamentos municipales de la materia se deberán apegar a los mismos.
+
+Asimismo, la autoridad municipal establecerá los casos en los cuales los titulares de dichos establecimientos tendrán la obligación de instalar sistemas electrónicos que muestren a los usuarios y personal expuesto a contaminación auditiva, los niveles de emisiones sonoras, determinando si se encuentran dentro del rango permitido o se han excedido.
+
+De la misma forma, corresponderá a los Municipios verificar que las emisiones sonoras, dentro de los establecimientos señalados, se mantengan en los decibeles autorizados, empleando para ello instrumentos de medición debidamente calibrados.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 99 TER. Toda persona física o moral que infrinja lo establecido en el artículo 99bis, podrán ser acreedores a una o más de las siguientes sanciones:
+
+I.- Servicio Comunitario;
+
+II.- Multa de cien a veinte mil UMA, en caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del mayormente permitido; y
+
+III.- Arresto administrativo hasta por 36 horas, procederá únicamente, cuando el autor reincida por una tercera ocasión en la conducta.
+
 ###### ARTÍCULO 100.
 
 En la construcción de obras, instalaciones o en la realización de actividades que generen ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y contaminación visual, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar los efectos nocivos contaminantes, en el equilibrio ecológico y el ambiente.
@@ -1498,6 +1520,10 @@ En la construcción de obras, instalaciones o en la realización de actividades 
 ###### ARTÍCULO 101.
 
 La Secretaría, la Procuraduría Ambiental y los Ayuntamientos en el ámbito de sus competencias, estarán facultados para emitir las disposiciones y medidas necesarias para evitar la contaminación por ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y visual, así como para llevar a cabo los actos necesarios de inspección, vigilancia y aplicación de medidas para exigir su cumplimiento y sancionar, en caso de transgresión, a las normas y límites permitidos.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+En los 39 municipios de la entidad queda prohibida la fabricación, depósito, distribución, comercio, uso y venta al público de fuegos pirotécnicos con fines de entretenimiento, cuyos efectos audibles o sonoros sean superiores a 85 decibeles.
 
 ### CAPÍTULO VII (SIC). DE LOS PRESTADORES DE SERVICIO
 
@@ -2043,7 +2069,9 @@ Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, to
 
 En los casos en que se imponga como sanción la clausura temporal, la Procuraduría Ambiental y los Ayuntamientos, en sus respectivos ámbitos, deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos de su realización, debiéndose mantener vigilancia para asegurar su cumplimiento en tiempo y forma.
 
-La Autoridad ambiental podrá con relación a los bienes decomisados, previo cumplimiento de las disposiciones al respecto, solicitar a las instancias correspondientes lo que resulte de la enajenación del bien decomisado o proceder a su destrucción cuando representen un peligro para el ambiente, la salud y bienestar de la población y para el desarrollo sustentable de los recursos naturales, debiéndose actuar cuando se trate de especies y subespecies de flora y fauna silvestres en donaciones a zoológicos que garanticen su existencia y desarrollo.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+La Autoridad ambiental podrá con relación a los bienes decomisados, previo cumplimiento de las disposiciones al respecto, solicitar a las instancias correspondientes lo que resulte de la enajenación del bien decomisado o proceder a su destrucción cuando representen un peligro para el ambiente, la salud y bienestar de la población y para el desarrollo sustentable de los recursos naturales. Cuando se trate del decomiso de especies de flora y fauna silvestres, y estas no se puedan reinsertar en su medioambiente, serán entregadas en donación a jardines botánicos, bioterios, bioparques, acuarios o zoológicos que aseguren su cuidado y atención.
 
 ###### ARTÍCULO 143.
 
@@ -2428,6 +2456,34 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 363.- SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 146 DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 360.- QUE CONTIENE REFORMA AL PÁRRAFO TERCERO DEL ARTÍCULO 142 DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 364.-·POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 101 DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 365.- POR EL QUE SE ADICIONA EL ARTÍCULO 99 BIS, 99 TER CON TODAS SUS FRACCIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
