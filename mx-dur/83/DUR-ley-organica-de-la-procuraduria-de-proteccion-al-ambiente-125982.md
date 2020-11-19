@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-de-proteccion-al-ambiente-12598
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-31"
-last_updated: "2019-10-15"
+last_updated: "2020-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de diciembre de 2017.
 
@@ -993,7 +993,7 @@ Cuando por infracción a las disposiciones de esta ley así como a sus disposici
 
 Las violaciones a los preceptos de esta Ley, su Reglamento y las disposiciones que de ella se deriven, serán sancionados administrativamente por la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
 
-I. Amonestación con apercibimiento;
+I. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2020)
 
 II. Multa por el equivalente de veinte a veinte mil veces la Unidad de Medida y Actualización en el momento de la realización de la infracción o ilícito;
 
@@ -1298,3 +1298,15 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. La resolución de los asuntos que se encuentren en trámite en la Secretaría se concluirá de conformidad con las disposiciones vigentes al momento de iniciarse dichos procedimientos.
 
 CUARTO.- En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
+
+P.O. 19 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 361.- POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 78 DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
