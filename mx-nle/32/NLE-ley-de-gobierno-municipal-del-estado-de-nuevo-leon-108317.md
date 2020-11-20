@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2020-10-16"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -667,13 +667,17 @@ VI. De Desarrollo Urbano y Obras Públicas;
 
 VII. De Servicios Públicos Municipales;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
-VIII. De Derechos Humanos; y
+VIII. De Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
-IX. Anticorrupción.
+IX. Anticorrupción; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+X. De Igualdad de Género.
 
 La integración de las comisiones podrá ser renovada cada año, o bien, dentro del plazo que, al efecto, señalen los ordenamientos municipales correspondientes.
 
@@ -2702,3 +2706,11 @@ P.O. 16 DE OCTUBRE DE 2020.
 Primero.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Ayuntamientos de los Municipios tendrán un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 380. SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA LA FRACCIÓN X AL PÁRRAFO PRIMERO DEL ARTÍCULO 40 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Los Ayuntamientos dispondrán de 45 días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para adecuar los reglamentos municipales correspondientes de conformidad con lo estipulado en el mismo.
