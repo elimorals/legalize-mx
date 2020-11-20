@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-10-26"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -1461,11 +1461,27 @@ Lo anterior podrán solicitarlo las asociaciones de padres de familia del plante
 
 El equipo y mobiliario que se adquiera en las escuelas públicas a través de donaciones u cuotas escolares con aportaciones de los padres y madres de familia, donaciones o mediante fondos provenientes de los ingresos propios de la escuela, pasarán a formar parte del patrimonio del Gobierno del Estado en el momento en que se reciban en el plantel y deberán registrarse formalmente en el inventario escolar en un plazo máximo de 30 días.
 
-#### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN 8. DE LA EDUCACIÓN A DISTANCIA POR EMERGENCIA SANITARIA O DESASTRE NATURAL
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 91 Bis.
+
+En caso de declaratoria de emergencia sanitaria, emitida por la autoridad correspondiente o un fenómeno natural que tenga una duración de más de 15 días, que impidan a los alumnos asistir a los planteles escolares; la Secretaría deberá realizar las acciones necesarias para que se continúe con el plan de estudios y el calendario escolar mediante el uso de tecnologías que permitan a los alumnos seguir con su educación formal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 91 Bis 1.
+
+Bajo el supuesto establecido en el artículo anterior, la Secretaría deberá implementar los mecanismos necesarios para que en base al aprovechamiento de las multiplataformas digitales, la televisión educativa y demás herramientas tecnológicas con las que cuente, se brinde una educación a distancia a los educandos.
+
+Asimismo, deberá realizar mecanismos que permita a los educandos hacer llegar sus trabajos y evaluaciones a las maestras y maestros sin que represente riesgo para su salud o integridad física.
 
 ### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-#### SECCIÓN 2. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+#### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
 
 ###### Artículo 92.
 
@@ -1561,7 +1577,7 @@ VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio edu
 
 En caso de incumplimiento de las obligaciones a que se refiere el artículo anterior, la dirección de la escuela del alumno, hará una evaluación de las causas de la no asistencia, invitando a quienes ejerzan la patria potestad o la tutela, para que participen en las pláticas de orientación y apoyo.
 
-#### SECCIÓN 3. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+#### SECCIÓN 2. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### Artículo 94.
 
@@ -1595,7 +1611,7 @@ Las incidencias que surjan respecto al funcionamiento de las asociaciones de pad
 
 La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetará a las disposiciones que la autoridad educativa señale.
 
-#### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
+#### SECCIÓN 3. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 97.
 
@@ -1687,7 +1703,7 @@ En la entidad funcionará un consejo estatal de participación social en la educ
 
 Los consejos de participación a que se refiere esta sección, se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-#### SECCIÓN 1. DE LAS INFRACCIONES Y SANCIONES
+#### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 102.
 
@@ -1853,7 +1869,7 @@ La autoridad educativa estatal, en concordancia con la autoridad educativa feder
 
 ### CAPÍTULO VIII. DE LAS INFRACCIONES, SANCIONES Y EL RECURSO ADMINISTRATIVO
 
-#### SECCIÓN 2. DEL RECURSO ADMINISTRATIVO
+#### SECCIÓN 1. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 120.
 
@@ -1956,6 +1972,8 @@ En el caso de autorizaciones, cuando la revocación se dicte durante un ejercici
 ###### Artículo 124.
 
 Las sanciones del orden económico que sean impuestas conforme a esta sección, adquirirán la naturaleza de crédito fiscal, la autoridad fiscal estatal será la encargada de hacerlas efectivas conforme a la normatividad aplicable.
+
+#### SECCIÓN 2. DEL RECURSO ADMINISTRATIVO
 
 ###### Artículo 125.
 
@@ -2292,3 +2310,9 @@ P.O. 26 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 361. SE REFORMAN LOS ARTÍCULOS 66, LA FRACCIÓN VI DEL ARTÍCULO 93, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 377. SE REFORMA POR ADICIÓN DE UNA SECCIÓN 8, DENOMINADA "DE LA EDUCACIÓN A DISTANCIA POR EMERGENCIA SANITARIA O DESASTRE NATURAL" Y LOS ARTÍCULOS 91 BIS Y 91 BIS 1, DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
