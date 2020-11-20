@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2019-12-10"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -4477,17 +4477,29 @@ Cuando una o más de las conductas descritas en el presente artículo resulte co
 
 Delito ambiental genérico
 
-Se impondrán de dos a seis años de prisión y de doscientos a seiscientos días multa, a quien ilícitamente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
-I. Emita gases, humo o partículas sólidas o líquidas a la atmósfera, provenientes de fuentes fijas ubicadas en el territorio del Estado o de fuentes móviles que circulen por su territorio;
+Se impondrán de dos a seis años de prisión y multa de doscientos a seiscientos veces el valor diario de la Unidad de Medida y Actualización a quien ilícitamente:
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+I. Emita gases, humo, o partículas sólidas o liquidas a la atmosfera, provenientes de fuentes fijas ubicadas en el territorio del estado o de fuentes móviles que circulen por su territorio;
 
 II. Descargue, deposite o infiltre aguas residuales, residuos sólidos o industriales no peligrosos, líquidos químicos o bioquímicos;
 
-III. Descargue, deposite o infiltre residuos sólidos, líquidos o industriales de manejo especial;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
-IV. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en territorio del Estado o de fuentes móviles que circulen por su territorio, y
+III. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en territorio del estado o de fuentes móviles que circulen por su territorio; y,
 
-V. Genere, maneje o disponga ilícitamente de residuos sólidos o industriales no peligrosos que causen daño a la salud de las personas, a un ecosistema o sus elementos.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+IV. Genere, maneje o disponga ilícitamente de residuos sólidos o industriales no peligrosos que causen daño a la salud de las personas, a un ecosistema o sus elementos.
+
+Así también, se impondrán de seis a doce años de prisión y multa de cuatrocientos a mil doscientos veces el valor diario de la Unidad de Medida y Actualización a quien ilícitamente:
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+V. Descargue, deposite, infiltre residuos sólidos, líquidos o industriales de manejo especial; en canales pluviales o cualquier otro, a lugares distintos que no fuera el destinado para ser tratados.
 
 ###### Artículo 363.
 
@@ -4851,10 +4863,20 @@ P.O. 10 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 260, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
 
-PRIMERO.- El presente Decreto entrará en vigor al día siquiente de su publicación.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 466, POR EL QUE SE REFORMAN LAS FRACCIONES III, IV Y V, DEL ARTÍCULO 362 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
