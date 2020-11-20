@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-la-comision-estatal-para-el-desarrollo-139
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-25"
-last_updated: "2019-11-25"
+last_updated: "2020-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDIGENAS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS AL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS PUBLICADO EN EL P.O. 20 DE NOVIEMBRE DE 2020, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en el Alcance Uno del Núm. 47 del Periódico Oficial del Estado de Hidalgo, el lunes 25 de noviembre de 2019.
 
@@ -45,29 +47,43 @@ ACUERDO
 
 QUE CONTIENE EL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS
 
-### CAPÍTULO I. DEL OBJETO
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO I. DEL OBJETO
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 1.
 
-La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas es un Organismo Descentralizado no Sectorizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, creado el 19 de Junio de 2017 por Decreto del Ejecutivo del Estado, y publicado en el Periódico Oficial del Estado de Hidalgo de fecha 31 de Julio de 2017.
+La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas es un Organismo Descentralizado no Sectorizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, creado el 19 de junio de 2017 por Decreto del Ejecutivo del Estado, y publicado en el Periódico Oficial del Estado de Hidalgo de fecha 31 de julio de 2017.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-El presente Estatuto Orgánico, tiene como objeto establecer y regular la estructura orgánica y funcional del Organismo, conforme a lo establecido en la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, así como en su Decreto de Creación, y las demás disposiciones aplicables.
+El presente Estatuto Orgánico, tiene como objeto establecer y regular la estructura orgánica y funcional del Organismo, conforme a lo establecido en la Ley de (sic)
+
+Entidades Paraestatales del Estado de Hidalgo y su Reglamento, así como en su Decreto de Creación, y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
 La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas deberá conducir sus actividades conforme a las políticas, prioridades y restricciones establecidas, para el logro de los objetivos y metas del Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Decreto de Creación de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, sujetándose a la planeación del desarrollo federal, estatal y de presupuesto, bajo criterios de racionalidad, eficiencia del gasto público y disciplina fiscal; así como a la contabilidad, evaluación, información periódica, auditoría interna, externa y control de gestión que dispongan las leyes en la materia.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
 El lenguaje en este acuerdo no busca generar ninguna distinción, ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
 Para los efectos del presente Estatuto, se entenderá por:
 
-I. Comisión Estatal: La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas.
+I. Comisión Estatal: La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas (CEDSPI).
 
 II. Comisionado: La persona Titular de la Comisión Estatal.
 
@@ -79,11 +95,15 @@ V. Junta de Gobierno: Al Órgano de Gobierno de la Comisión Estatal.
 
 VI. Ley: Ley de Entidades Paraestatales del Estado de Hidalgo.
 
-VII. PROII: Programa de Infraestructura Indígena.
+VII. Reglamento: Reglamento de la Ley de Entidades Paraestatales para el Estado de Hidalgo.
 
-VIII. Reglamento: Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo.
+VIII. Unidad Administrativa: Subdirección de Administración.
 
-### CAPÍTULO II. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO Y DE ADMINISTRACIÓN
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO II. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO Y DE ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
@@ -93,57 +113,81 @@ I. La Junta de Gobierno; y
 
 II. El Comisionado.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 #### SECCIÓN PRIMERA. DE LA JUNTA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
 La Junta de Gobierno, es el Órgano rector máximo de la Comisión Estatal y contará con las facultades y obligaciones otorgadas en la Ley de Entidades Paraestatales del Estado de Hidalgo, su reglamento vigente y el decreto de creación vigente de la Comisión.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
 Las sesiones de la Junta de Gobierno deberán llevarse a cabo, observando las disposiciones establecidas en la Ley de Entidades Paraestatales del Estado de Hidalgo, su reglamento vigente y el decreto de creación vigente de la Comisión.
 
-### CAPÍTULO III. DEL TITULAR DE LA COMISIÓN ESTATAL
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO III. DEL TITULAR DE LA COMISIÓN ESTATAL
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
 El Titular de la Comisión Estatal será el Comisionado, y aplicará las disposiciones, lineamientos y políticas adoptadas por la Junta de Gobierno para el funcionamiento de la misma, la adscripción de sus unidades administrativas y órganos técnicos, así como la modificación de las áreas y sus atribuciones, en la medida en que lo requiera la Comisión Estatal, en términos de la legislación aplicable vigente y la disponibilidad presupuestal autorizada.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-El Comisionado, contará para el estudio, planeación y despacho de los asuntos de su competencia, con las siguientes unidades administrativas:
+El Comisionado, contará para el estudio, planeación y despacho de los asuntos de su competencia, con las siguientes Direcciones:
 
-I. Dirección General de Atención a Pueblos Indígenas
+I. Dirección General de Infraestructura Indígena.
 
-II. Dirección General de Desarrollo Sostenible de Pueblos Indígenas y Zonas de Atención Prioritaria.
+II. Dirección General de Planeación y Proyectos Estratégicos.
 
-III. Dirección de Operación PROII.
+III. Dirección de Operación.
 
 IV. Dirección de Planeación, Programación y Evaluación de Programas Sociales.
 
-V. Dirección de Seguimiento.
+V. Dirección de Cultura.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Las Unidades del Organismo estarán integradas por el personal directivo, técnico y administrativo que se requiera para el ejercicio de sus atribuciones, de conformidad con la estructura orgánica aprobada y la disponibilidad presupuestal autorizada.
+Las Direcciones del Organismo estarán integradas por el personal directivo, técnico y administrativo que se requiera para el ejercicio de sus atribuciones, de conformidad con la estructura orgánica aprobada y la disponibilidad presupuestal autorizada.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-El Comisionado, o las personas titulares de las Unidades del Organismo a que se refiere el artículo anterior y los servidores públicos adscritos a éstas, ejercerán sus facultades y obligaciones dentro del territorio del Estado de Hidalgo, observando la normatividad aplicable, así como las obligaciones contraídas en acuerdos, convenios y sus anexos, circulares de carácter general y demás disposiciones que incidan en las funciones del Organismo.
+El Comisionado, o las personas titulares de las Direcciones a que se refiere el artículo anterior y los servidores públicos adscritos a éstas, ejercerán sus facultades y obligaciones dentro del territorio del Estado de Hidalgo, observando la normatividad aplicable, así como las obligaciones contraídas en acuerdos, convenios y sus anexos, circulares de carácter general y demás disposiciones que incidan en las funciones del Organismo.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DE LAS FACULTADES Y OBLIGACIONES DEL COMISIONADO
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
 El Comisionado, administrará y representará legalmente al Organismo, llevando a cabo trámites y atención oportuna de los asuntos que son de su competencia. Para tal efecto, contará con las facultades y obligaciones enmarcadas en la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, y las conferidas en su propio Decreto de Creación.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 14.
 
-El Comisionado tendrá además de lo enmarcado en el artículo 13 del presente estatuto, las siguientes facultades:
+El Comisionado contará con las siguientes facultades:
 
 I. Analizar, elaborar y coordinar la política pública estatal encaminada a atender y mejorar las condiciones de vida de los pueblos y comunidades indígenas; y
 
 II. Supervisar los actos y acciones de los servidores públicos subalternos a fin de que tales sean encaminados a lograr el cumplimiento de metas y objetivos que motivaron la creación de la Comisión.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
@@ -153,15 +197,31 @@ I. Conferir aquellas facultades que sean delegables a las personas que presten e
 
 II. Autorizar por escrito a quienes presten el servicio público, en el Organismo como subalternos, para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades delegables.
 
+III. Podrá proponer y/o modificar la estructura orgánica de la Comisión, siempre y cuando se alinee a lo establecido en la Ley de Entidades Paraestatales del Estado de Hidalgo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-Al frente de cada unidad administrativa habrá un titular que se auxiliará del personal técnico y administrativo que se determine, con base en las necesidades del servicio que se requiera y mismo que será autorizado en el presupuesto.
+Cuando por ausencia del titular de la Comisión, el gobernador podrá designar a un suplente o encargado, en quien recaerán las obligaciones y responsabilidades de los artículos anteriores.
 
-### CAPÍTULO IV. DE LAS UNIDADES ADMINISTRATIVAS DEL ORGANISMO
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO IV. DE LAS DIRECCIONES GENERALES DEL ORGANISMO
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DE LAS FUNCIONES GENÉRICAS
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
+
+Al frente de cada Dirección General habrá un titular que se auxiliará del personal técnico y administrativo que se determine, con base en las necesidades del servicio que se requiera y mismo que será autorizado en el presupuesto.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 18.
 
 Las Direcciones Generales tendrán las siguientes funciones genéricas:
 
@@ -187,7 +247,7 @@ X. Coadyuvar a un estrecho contacto y entendimiento entre los municipios con el 
 
 XI. Coordinar la integración del manual de organización correspondiente al área a su cargo;
 
-XII. Planear la elaboración del anteproyecto de presupuesto anual de la unidad administrativa a su cargo;
+XII. Planear la elaboración del anteproyecto de presupuesto anual de la Dirección a su cargo;
 
 XIII. Coordinar los recursos humanos y materiales a su cargo, asegurando el aprovechamiento eficiente y eficaz de éstos y el cumplimiento de los objetivos institucionales;
 
@@ -195,13 +255,15 @@ XIV. Gestionar ante la Oficialía Mayor la impartición de cursos de capacitaci�
 
 XV. Recibir para acuerdo a los Directores de Área, Subdirectores de Área, Encargados de Departamento y cualquier otro servidor público subalterno.
 
-###### Artículo 18.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 19.
 
 Las Direcciones de Área tendrán las siguientes funciones genéricas:
 
 I. Supervisar la integración del manual de organización correspondiente al área a su cargo;
 
-II. Coordinar la elaboración del anteproyecto de presupuesto anual de la unidad administrativa correspondiente;
+II. Coordinar la elaboración del anteproyecto de presupuesto anual de la Dirección correspondiente;
 
 III. Supervisar los recursos humanos y materiales a su cargo, asegurando el aprovechamiento eficiente y eficaz de éstos y el cumplimiento de los objetivos institucionales;
 
@@ -211,177 +273,221 @@ V. Recibir para acuerdo a los Subdirectores de Área, Encargados de Departamento
 
 VI. Desempeñar las comisiones que el Director General le encomiende y mantenerlo informado sobre el desarrollo de actividades.
 
-###### Artículo 19.
-
-Corresponde a la Dirección General de Atención a Pueblos Indígenas, el desempeño de las siguientes funciones:
-
-I. Ejecutar los programas de beneficio social de acuerdo con lo establecido en el Plan Estatal de Desarrollo y al Programa Institucional de la Comisión y a los objetivos planteados por el Gobierno del Estado;
-
-II. Atender a los grupos indígenas del Estado, respecto a sus planteamientos, necesidades y solicitudes;
-
-III. Recopilar la información relacionada con los grupos indígenas del Estado, para sustentar la toma de decisiones y el cumplimiento de los objetivos de la Comisión;
-
-IV. Elaborar diagnósticos que orienten la realización de acciones dirigidas a promover la atención de las necesidades prioritarias de los grupos indígenas;
-
-V. Proponer al Comisionado Estatal, opciones de obras y acciones a realizar en las comunidades indígenas, en función a las visitas y diagnósticos realizados dentro de las mismas;
-
-VI. Ejecutar en las comunidades indígenas el desarrollo de proyectos productivos, de desarrollo y de inversión;
-
-VII. Establecer programas de capacitación, orientados a apoyar los proyectos productivos y el desarrollo de mano de obra calificada, sustentada en las ventajas competitivas y comparativas de las comunidades indígenas;
-
-VIII. Dar seguimiento a los convenios con Instituciones Públicas o privadas que sirvan para impulsar el desarrollo de los Pueblos Indígenas del Estado;
-
-IX. Diseñar acciones que ayuden a preservar y difundir la cultura y los usos y costumbres no violatorios de los derechos humanos, que tienen nuestras comunidades indígenas;
-
-X. Diseñar acciones para fortalecer en el ámbito institucional estatal el respeto a los derechos humanos y la atención digna y de calidad, a las personas indígenas; y
-
-XI. Fortalecer la procuración de justicia en los pueblos y comunidades indígenas a través de acciones que garanticen los esquemas de seguridad y certeza jurídica.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS FUNCIONES ESPECÍFICAS
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Corresponde a la Dirección General de Desarrollo Sostenible de Pueblos Indígenas y Zonas de Atención Prioritaria, el desempeño de las siguientes funciones:
+Corresponde a la Dirección General de Infraestructura Indígena, desempeño de las siguientes funciones:
 
-I. Diseñar y operar programas tendientes a mejorar los niveles de vida e impulsar el desarrollo integral de las comunidades de las zonas de atención prioritarias del Estado, de acuerdo con lo establecido por el Plan Estatal de Desarrollo;
+I. Acordar periódicamente con el Comisionado Estatal lo relativo a las funciones a su cargo, recibiendo de él las instrucciones respectivas e informando del seguimiento correspondiente a cada uno de los asuntos que le hubiere asignado.
 
-II. Realizar de forma permanente los estudios regionales que permitan identificar a las comunidades de atención prioritaria, en razón de sus necesidades y grado de marginación;
+II. Acordar periódicamente con las Áreas a su cargo, los asuntos asignados a su competencia, dando las instrucciones respectivas y el seguimiento correspondiente a cada uno y a los que deben desempeñar respecto de las funciones que tienen encomendadas.
 
-III. Incluir a las comunidades marginadas de acuerdo con su prioridad de atención, en los diferentes programas implementados por los Gobiernos Federal y Estatal, así como en obras y proyectos viables que contribuyan a elevar sus condiciones de vida;
+III. Colaborar y trabajar en conjunto con las demás Direcciones de la CEDSPI, con relación a la información y asuntos que involucren metas, objetivos o responsabilidades.
 
-IV. Integrar, proponer, validar e implementar los proyectos productivos de infraestructura, vivienda, capacitación y salud que en cada región y municipio se requieran y cuyo impacto sea de beneficio a las comunidades en zonas de atención prioritaria;
+IV. Coadyuvar en la formulación e integración del Proyecto de Presupuesto Anual de Egresos de los diversos programas.
 
-V. Dar seguimiento a las obras y acciones que se realicen en zonas de atención prioritaria del Estado;
+V. Diseñar, proponer e instrumentar programas de beneficio social que mejoren los niveles de vida de las comunidades indígenas del Estado, de acuerdo con lo establecido en el Plan Estatal de Desarrollo, al Programa Institucional de la CEDSPI y a los objetivos planteados por el Gobierno del Estado.
 
-VI. Promover acciones que impulsen la participación social de las comunidades marginadas, en torno a su propio desarrollo;
+VI. Atender, orientar y apoyar a los grupos indígenas del Estado, respecto a sus planteamientos, necesidades y solicitudes.
 
-VII. Recibir y gestionar las peticiones de las comunidades en zonas de atención prioritarias que le sean presentadas al titular del Poder Ejecutivo y al Comisionado, así como la propia Dirección General y en su caso, canalizarlas a las dependencias correspondientes;
+VII. Promover y difundir en los municipios y regiones los programas orientados a obras y servicios, que sean dirigidos a las comunidades indígenas en el Estado.
 
-VIII. Atender los convenios y compromisos establecidos por el titular del Ejecutivo en representación del Estado o con los municipios, así como los habitantes de las comunidades incluidas en los programas, competencia de la Dirección General;
+VIII. Realizar visitas en forma permanente a las comunidades indígenas del Estado, para la elaboración de diagnósticos que orienten la realización de obras y acciones.
 
-IX. Promover y concertar la inversión y participación de entidades y sectores social y privado, en los programas de desarrollo a comunidades marginadas; y
+IX. Presentar a consideración del Comisionado la cartera de obras y acciones.
 
-X. Las demás que le confieren las disposiciones legales vigentes y su superior jerárquico inmediato, en el ámbito de su competencia.
+X. Fortalecer la relación interinstitucional para coadyuvar en la definición de obras y acciones conjuntas entre los sectores público, social y privado.
+
+XI. Proponer, presentar y dar seguimiento a los convenios con Instituciones Públicas o privadas que la comisión celebre en el ámbito de su competencia.
+
+XII. Evaluar periódicamente la operación y funcionamiento de los programas a su cargo.
+
+XIII. Desarrollar las demás funciones inherentes al área de su competencia, así como las que de manera específica que le asigne el titular de la comisión.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Dirección de Operación PROII, el desempeño de las siguientes funciones:
+Corresponde a la Dirección General de Planeación y Proyectos Estratégicos, el desempeño de las siguientes funciones:
 
-I. Generar y gestionar la celebración de los convenios de coordinación del programa con las dependencias federales, así como coadyuvar en la planeación de la ejecución de las obras;
+I. Ejecutar los programas de beneficio social de acuerdo con lo establecido en el Plan Estatal de Desarrollo y al Programa Institucional de la Comisión y a los objetivos planteados por el Gobierno del Estado.
 
-II. Coordinar la operación del programa, supervisando las diferentes actividades que permitan el mejoramiento de la infraestructura básica de los municipios con población indígena;
+II. Recopilar la información relacionada con los grupos indígenas del Estado, para sustentar la toma de decisiones y el cumplimiento de los objetivos de la Comisión.
 
-III. Generar estrategias para contribuir a la disminución de la pobreza mediante la dotación de servicios básicos en la vivienda para fomentar la identidad comunitaria, la cohesión social y la generación de igualdad en el Estado;
+III. Proponer al Comisionado Estatal, opciones de obras y acciones a realizar en las comunidades indígenas, en función a las visitas y diagnósticos realizados dentro de las mismas.
 
-IV. Determinar las medidas de control y seguimiento del programa y las obras;
+IV. Ejecutar en las comunidades indígenas el desarrollo de proyectos productivos, de desarrollo y de inversión.
 
-V. Verificar la aplicación de los procedimientos operativos, de control y seguimiento del programa;
+V. Ejecutar acciones que fomenten el uso, preservación y reconocimiento de la importancia de las lenguas indígenas del Estado.
 
-VI. Proponer solución de las problemáticas que puedan surgir de una obra o acción;
+VI. Diseñar acciones que ayuden a preservar y difundir la cultura y los usos y costumbres no violatorios de los derechos humanos, que tienen nuestras comunidades indígenas.
 
-VII. Verificar el cumplimiento de la integración, presentación y envío de la información a las entidades normativas del programa; y
+VII. Fortalecer la procuración de justicia en los pueblos y comunidades indígenas a través de acciones que garanticen los esquemas de seguridad y certeza jurídica.
 
-VIII. Coordinar la entrega de información a los organismos de evaluación al PROII.
+VIII. Dar seguimiento a las obras y acciones que se realicen en zonas indígenas y de atención prioritaria del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Corresponde a la Dirección de Planeación, Programación y Evaluación de Programas Sociales, el desempeño de las siguientes funciones:
+Corresponde a la Dirección de Operación, el desempeño de las siguientes funciones:
 
-I. Proponer lineamientos para la elaboración de estrategias, proyectos y acciones en programas de desarrollo social de los grupos prioritarios en las regiones indígenas y zonas de atención prioritaria del Estado;
+I. Apoyar a las localidades elegibles para que presenten su demanda de obras.
 
-II. Elaborar los estudios, informes y reportes de estadística social para la prospectiva y planeación de los programas sociales;
+II. Garantizar que los proyectos cuenten con las autorizaciones necesarias respecto a protocolización de predios, documentación que acredite la propiedad, derechos de vía, servidumbres de paso y permisos para su construcción, costos de operación y mantenimiento, así como las demás que sean requeridas.
 
-III. Apoyar la elaboración y proponer las modificaciones a las de (sic) reglas de operación de los programas sociales propuestos por las áreas administrativas de la Comisión;
+III. Integrar la propuesta de la cartera de obras con base en la demanda de las localidades elegibles y cumpliendo los requisitos normativos del programa y presentarla ante la Dirección General de Infraestructura Indígenas la cartera de obras atendidas por el programa.
 
-IV. Coordinar el diseño, suministro de información y seguimiento de los indicadores de resultados y de desempeño de los programas de la Comisión Estatal con la Metodología del Marco Lógico, conforme a los criterios y lineamientos aplicables;
+IV. Integrar los expedientes de obra y tramitar su validación ante la dirección general de validación técnica de estudios y proyectos.
 
-V. Construir, evaluar y dar seguimiento a la ejecución y cumplimiento de las metas de los indicadores estratégicos, tácticos y operativos implementados en el Plan Estatal de Desarrollo y en el Programa Institucional de la Comisión, en coordinación con la Unidad de Planeación y Prospectiva del Gobierno del Estado;
+V. Elaborar los convenios de colaboración necesarios para la ejecución de las obras y acciones de los programas ante las distintas dependencias estatales y/o federales.
 
-VI. Evaluar el cumplimiento de las metas de los indicadores estratégicos, tácticos y operativos implementados en el Programa Institucional de la Comisión Estatal;
+VI. Verificar y observar los procedimientos de licitación, contratación de las obras y acciones se realice con base en la legislación y disposiciones aplicables.
 
-VII. Proporcionar el apoyo técnico necesario a las áreas presupuestales que operan los programas del Sector para la formulación, instrumentación, ejecución, seguimiento, control, revisión y actualización de sus programas y proyectos;
+VII. Programar visitas de seguimiento a la supervisión de las obras y acciones.
 
-VIII. Proponer a las áreas ejecutoras las mejoras a la operación de los programas dentro del ámbito de su competencia, con base en los resultados del seguimiento y evaluación;
+VIII. Asegurar el cumplimiento de las normas técnicas oficiales mexicanas que correspondan, a la construcción de las obras y acciones.
 
-IX. Integrar el Padrón Único de Personas Beneficiarias a partir de la información proporcionada por cada una de las unidades presupuestales que ejecutan los programas sociales;
+IX. Dar seguimiento oportuno y realizar los reportes de los informes de avance físico y financiero de las obras y acciones.
 
-X. Recopilar la información correspondiente para la elaboración y actualización del Tablero de Indicadores del Estado de Hidalgo, el cual dará puntual cumplimiento al Sistema Estatal de Monitoreo y Evaluación; y
+X. Proveer la información necesaria a la unidad administrativa de la Comisión para la integración, elaboración de los informes trimestrales, cuenta pública y cierre del ejercicio de cada una de las obras ejecutadas de la Dirección General
 
-XI. Las demás que le confieren las disposiciones legales vigentes y su superior jerárquico, en el ámbito de su competencia.
+XI. Atender los distintos requerimientos de documentación, así como realizar el acompañamiento para la verificación de las obras y acciones solicitada por los diversos entes fiscalizadores.
+
+XII. Realizar la solventación de las diversas observaciones realizadas por los entes de fiscalización en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-Corresponde a la Dirección de Seguimiento, el desempeño de las siguientes funciones:
+Corresponde a la Dirección de Planeación, Programación y Evaluación de Programas Sociales, el desempeño de las siguientes funciones:
 
-I. Gestionar programas de subsidios para las comunidades indígenas y de las zonas de atención prioritaria del Estado;
+I. Proponer lineamientos para la elaboración de estrategias, proyectos y acciones en programas de desarrollo social de los grupos prioritarios en las regiones indígenas y zonas de atención prioritaria del estado.
 
-II. Activar los proyectos de los programas estatales de Desarrollo Social;
+II. Elaborar los estudios, informes y reportes de estadística social para la prospectiva y planeación de los programas sociales.
 
-III. Proponer un plan de trabajo en torno a acciones a favor de las familias de las comunidades indígenas y de las zonas de atención prioritaria;
+III. Coordinar y proponer las modificaciones a las de (sic) reglas de operación de los programas sociales propuestos por las Direcciones de la Comisión.
 
-IV. Avalar la asignación del presupuesto aprobado a los programas y acciones;
+IV. En coordinación con la Unidad de Planeación y Prospectiva del Gobierno del Estado, construir, evaluar y dar seguimiento a la ejecución y cumplimiento de las metas de los indicadores estratégicos, tácticos y operativos implementados en el Plan Estatal de Desarrollo y en el Programa Institucional de la Comisión;
 
-V. Promover el cumplimiento de los objetivos para cada Programa Social;
+V. Proporcionar el apoyo técnico necesario a las áreas presupuestales que operan los programas del Sector para la formulación, instrumentación, ejecución, seguimiento, control, revisión y actualización de sus programas y proyectos.
 
-VI. Analizar los lineamientos para la integración y actualización de los padrones de beneficiarios de los programas y acciones de desarrollo sostenible;
+VI. Coordinar e integrar los Indicadores para la evaluación del Desempeño;
 
-VII. Atender el seguimiento de planes, programas y acciones en sus regiones asignadas;
+VII. Integrar el Padrón Único de Personas Beneficiarias a partir de la información proporcionada por cada una de las Direcciones que ejecutan los programas sociales;
 
-VIII. Auxiliar en la simplificación de los trámites de la administración interna y servir de vínculo con las instancias involucradas;
+VIII. Recopilar la información correspondiente para la elaboración y actualización del Tablero de Indicadores del Estado de Hidalgo, el cual dará puntual cumplimiento al Sistema Estatal de Monitoreo y Evaluación.
 
-IX. Asesorar a personas indígenas, comunidades y organizaciones indígenas para gestionar sus peticiones y necesidades presentadas; y
-
-X. Analizar la viabilidad de las solicitudes ingresadas y clasificar las obras y acciones que han sido validadas para su apoyo.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-El Comisario Público, evaluará el desempeño general, por funciones y proyectos de la Comisión Estatal, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, así como en los referentes a los ingresos y en general, solicitará la información y efectuará los actos que requiera para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas asignadas en la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, así como el Decreto de Creación vigente.
+Corresponde a la Dirección de Cultura, el desempeño de las siguientes funciones:
 
-### CAPÍTULO V. DE LA EVALUACIÓN Y CONTROL DEL ORGANISMO
+I. Elaborar compendios de datos para la toma de decisiones sobre programas y acciones en materia cultural de los pueblos y comunidades indígenas.
+
+II. Atender a los sectores indígenas respecto a la solicitud de proyectos y programas de cultura.
+
+III. Coordinar las actividades y proyectos culturales que maneje la Comisión.
+
+IV. Generar acuerdos en materia de Cultura Indígena con las demás dependencias de los distintos niveles de Gobierno.
+
+V. Proponer al Director General, estrategias para la difusión de la cultura indígena dentro del ámbito estatal y el respeto a los pueblos indígenas.
+
+VI. Capacitar en los temas culturales indígenas a personas o dependencias interesadas.
+
+VII. Coordinar las actividades de los festejos culturales en los Pueblos ycomunidades (sic) indígenas.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO V. DE LA EVALUACIÓN Y CONTROL DEL ORGANISMO
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DEL COMISARIO PÚBLICO
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-El Comisionado y demás personal que labore en el Organismo deberán proporcionar oportunamente al Comisario Público, la información y documentación que requiera para el debido cumplimiento de sus funciones. El Comisario Público participará en la Junta de Gobierno con derecho a voz, pero sin voto.
+El Comisario Público, evaluará el desempeño general, por funciones y proyectos de la Comisión Estatal, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, así como en los referentes a los ingresos y en general, solicitará la información y efectuará los actos que requiera para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas asignadas en la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, así como el Decreto de Creación vigente.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 26.
 
-El Titular del Órgano Interno de Control de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, será nombrado y removido por la Secretaría de Contraloría. Este órgano estará adscrito jerárquica, técnica y funcionalmente a la ya mencionada Dependencia; y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Comisión Estatal, conforme a lo dispuesto por la normatividad aplicable y los lineamientos que emita la Secretaría de Contraloría.
+El Comisionado y demás personal que labore en el Organismo deberán proporcionar oportunamente al Comisario Público, la información y documentación que requiera para el debido cumplimiento de sus funciones. El Comisario Público participará en la Junta de Gobierno con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-Cuando la ausencia de la persona titular de la Comisión Estatal no exceda a 30 días hábiles, el despacho y la resolución de los asuntos del Organismo, estarán a cargo del servidor público que designe el Vínculo Institucional.
+El Titular del Órgano Interno de Control de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, será nombrado y removido por la Secretaría de Contraloría. Este órgano estará adscrito jerárquica, técnica y funcionalmente a la ya mencionada Dependencia; y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Comisión Estatal, conforme a lo dispuesto por la normatividad aplicable y los lineamientos que emita la Secretaría de Contraloría.
 
-### CAPÍTULO VI
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO VI
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DE LAS AUSENCIAS TEMPORALES
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Cuando la ausencia de la persona titular de la Comisión Estatal sea mayor a 30 días hábiles, el Titular del Poder Ejecutivo designará al servidor público que estará al frente de la misma.
+Cuando la ausencia de la persona titular de la Comisión Estatal no exceda a 30 días hábiles, el despacho y la resolución de los asuntos del Organismo, estarán a cargo del servidor público que designe el Vínculo Institucional.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-Los demás servidores públicos del Organismo serán suplidos en sus ausencias temporales por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
+Cuando la ausencia de la persona titular de la Comisión Estatal sea mayor a 30 días hábiles, el Titular del Poder Ejecutivo designará al servidor público que estará al frente de la misma.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-En los casos en que el Comisionado se ausente de su cargo por motivo de renuncia, suspensión o cualquier otra causa de ausencia definitiva, corresponde al Titular del Poder Ejecutivo o a indicación de éste, a través del Vínculo Institucional, designar a la nueva persona que esté al frente de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas.
+Los demás servidores públicos del Organismo serán suplidos en sus ausencias temporales por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS AUSENCIAS DEFINITIVAS
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 31.
 
-El nuevo titular del Organismo conocerá de todos los asuntos, procedimientos o juicios en los que el propio Organismo sea parte y deberá proveer los elementos necesarios para darles óptimo seguimiento y en su caso, participar en ellos hasta su conclusión.
+En los casos en que el Comisionado se ausente de su cargo por motivo de renuncia, suspensión o cualquier otra causa de ausencia definitiva, corresponde al Titular del Poder Ejecutivo o a indicación de éste, a través del Vínculo Institucional, designar a la nueva persona que esté al frente de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-Los demás servidores públicos del Organismo serán suplidos en sus ausencias definitivas por los funcionarios propuestos por la persona titular de la Comisión Estatal y aprobados por la Junta de Gobierno.
+El nuevo titular del Organismo conocerá de todos los asuntos, procedimientos o juicios en los que el propio Organismo sea parte y deberá proveer los elementos necesarios para darles óptimo seguimiento y en su caso, participar en ellos hasta su conclusión.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 33.
+
+Los demás servidores públicos del Organismo serán suplidos en sus ausencias definitivas por los funcionarios propuestos por el Comisionado y aprobados por la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO VII. DE LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 34.
 
 El presente Estatuto Orgánico sólo podrá ser modificado por los siguientes motivos:
 
@@ -393,9 +499,9 @@ III. Por cambios fundamentales en el objeto, estructura y facultades del Organis
 
 IV. Por modificaciones sustantivas a las legislaciones que afecten directamente al Organismo.
 
-### CAPÍTULO VII. DE LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
-###### Artículo 34.
+###### Artículo 35.
 
 La modificación, adición o abrogación, parcial o total, de este Estatuto, deberá ser aprobada por las dos terceras partes de los miembros de la Junta de Gobierno.
 
@@ -476,3 +582,17 @@ los Pueblos Indígenas. Rúbrica.
 Las presentes firmas, forman parte del acta de la Quinta sesión extraordinaria del año dos mil diecinueve, de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, celebrada el veinticuatro de julio de 2019, en las oficinas de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas.
 
 Derechos Enterados. 22-11-2019
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN ESTATAL PARA EL DESARROLLO SOSTENIBLE DE LOS PUEBLOS INDÍGENAS”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este Acuerdo, la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, deberá emitir sus manuales de organización y procedimientos en un plazo de 90 días hábiles.
+
+TERCERO.- En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las Direcciones del Organismo, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Acuerdo.
+
+CUARTO.- El presente Acuerdo deberá inscribirse en el Registro Público en términos de los que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
