@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-10-27"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1335,9 +1335,11 @@ VII. Las demás que determinen las leyes y reglamentos aplicables en materia de 
 
 ### CAPÍTULO IX. DE LAS COMISIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 107.
 
-El Ayuntamiento, a propuesta del presidente municipal o de sus regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y, para tal efecto, los analizarán y emitirán un dictamen que someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
+El Ayuntamiento, dentro de las dos primeras sesiones posteriores a la instalación, a propuesta del presidente municipal o de sus regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y, para tal efecto, los analizarán y emitirán un dictamen que someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
@@ -5196,3 +5198,9 @@ P.O. 27 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 781.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 95 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 774.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 107 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
