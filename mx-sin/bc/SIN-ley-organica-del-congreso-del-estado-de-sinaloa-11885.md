@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2020-09-11"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -244,6 +244,10 @@ III.- Responder por sus actos y omisiones en los términos de la Ley de Responsa
 IV.- Cumplir con las disposiciones que le señalen el Pleno y la Presidencia del Congreso, de conformidad con la presente Ley;
 
 V.- Asistir puntualmente a las sesiones tanto del Pleno como de las Comisiones que formare parte y permanecer en ellas hasta su conclusión;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+Las Diputadas y los Diputados deberán registrar su asistencia al inicio de las sesiones del Pleno del Congreso, a través del Sistema Electrónico de Asistencia y Votación.
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2020)</small>
 
@@ -582,6 +586,16 @@ X.- Llevar un Libro en que se asienten por orden cronológico y textualmente las
 XI.- Hacer que se coleccionen por separado las actas de las sesiones públicas y secretas, a fin de que se empasten en tomos; y
 
 XII.- Las demás que les confiera esta Ley y los Acuerdos de la Cámara.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 45 BIS.- En su calidad de auxiliares de la Presidencia de la Mesa Directiva atento a lo que dispone el artículo 43, las Secretarías realizarán la supervisión del Sistema Electrónico de Asistenta y Votación, la comprobación del quórum de las sesiones del Pleno y, asimismo, llevarán a cabo el cómputo, registro de las votaciones nominales y darán a conocer el resultado de éstas.
+
+Las Secretarías de la Mesa Directiva en coordinación con la Secretaría General del Congreso deberán abrir el Sistema Electrónico de Asistencia y Votación, cuando menos 15 minutos antes de la hora prevista para el inicio de la sesión plenaria.
+
+La asistencia de las Diputadas y Diputados a las sesiones plenarias se registrará por medio del Sistema Electrónico de Asistencia y Votación. Una vez iniciada la sesión plenaria, éste deberá estar disponible para que las Diputadas y los Diputados registren su asistencia a las sesiones del Pleno del Congreso, al menos hasta en tanto el Presidente de la Mesa Directiva no declare el cierre del periodo de registro de Asistencias. El cierre de dicho periodo se dará a los 10 minutos transcurridos después de las 11:00 a.m., hora en que inicia la Sesión Plenaria.
+
+En caso de que una Diputada o un Diputado, por cualquier causa, no registrara oportunamente su asistencia, podrá hacerlo con posterioridad al cierre ante la Secretaría de la Mesa Directiva que haya verificado el quorum en el Sistema Electrónico de Asistencia y Votación, quien le proporcionará las papeletas de registro manuales que se tendrán para tal efecto, siempre que se dé dentro de los quince minutos posteriores al cierre del Sistema Electrónico declarado por el Presidente.
 
 ###### ARTICULO 46.
 
@@ -1399,6 +1413,10 @@ XV.- Procurar la conservación y mantenimiento de las instalaciones del Congreso
 
 XVI.- Las demás acordadas por la Asamblea, o que prescriba esta Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 96 BIS.- La Secretaría General del Congreso apoyará a la Mesa Directiva en la implementación y operación del Sistema Electrónico de Asistencia y Votación, procurando por el correcto funcionamiento de este.
+
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 97.
@@ -2025,31 +2043,39 @@ Los Diputados, cuando aporten algún escrito como anexo a su intervención, pued
 
 Habrá tres clases de votaciones: nominal, económica y por cédula.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+Para la práctica de las votaciones nominal y económica en las sesiones del Pleno del Congreso, se utilizará en principio el Sistema Electrónico de Asistencia y Votación, para que cada Diputada o Diputado desde su curul, tenga la opción de votar a favor o en contra y los resultados aparezcan en un tablero.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+El tiempo con el que contarán las Diputadas y Diputados para emitir su voto mediante el Sistema de (sic) Electrónico de Asistencia y Votación será de tres minutos. La Presidencia de la Mesa Directiva le hará saber este hecho a cada legislador para tal efecto. Una vez concluido el tiempo disponible para la votación, la Secretaría hará el cómputo de los votos según como aparezcan en el tablero. Quienes no hayan emitido su voto en el tiempo oportuno, se considerará que lo hacen a favor de la propuesta de dictamen de que se trate.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 193.
 
-En las votaciones nominales, se procederá al pase de lista de los Diputados para que expresen su voto directamente, contestando aprobado o no aprobado.
+La votación nominal se llevará a cabo utilizando el Sistema Electrónico de Asistencia y Votación.
 
-Las votaciones nominales, serán en los casos siguientes:
+Las votaciones nominales se realizaran en los casos siguientes:
 
-I.- Cuando se vote un proyecto de Ley, en lo general o en lo particular;
+I.- Cuando se vote un proyecto de Ley o Decreto ya sea en lo general o en lo particular;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2020)</small>
+II.- Cuando se voten iniciativas que el Congreso del Estado dirija al Congreso de la Unión;
 
-II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión;
+III.- Cuando se vote en sesiones virtuales; y
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2020)</small>
+IV.- Cuando así lo determine la Presidencia de la Mesa Directiva o la Asamblea.
 
-II BIS.- Cuando se vote en sesiones virtuales; y
+En caso de que no sea posible contar con el Sistema Electrónico de Asistencia y Votación, la votación nominal se realizará procediéndose al pase de lista de las Diputadas y los Diputados para que expresen su voto directamente, contestando a favor o en contra.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2020)</small>
-
-III.- Cuando así lo determine la Presidencia de la Mesa Directiva o la Asamblea.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 194.
 
-La votación económica se practicará levantando la mano los Diputados que estén a favor de la proposición de que se trate, en los asuntos no comprendidos en el artículo anterior. Se considerará que votan en contra, quienes no hagan ese signo. De esta votación, cualquier Diputado puede pedir que se rectifique.
+La votación económica se llevará a cabo, fuera de los casos del artículo anterior y de las votaciones por cédula, utilizando el Sistema Electrónico de Asistencia y Votación.
+
+En caso de que no sea posible contar con el Sistema Electrónico de Asistencia y Votación, la votación económica se practicará levantando la mano de las Diputadas y Diputados que estén a favor de la proposición de que se trate. Se considerará que votan en contra, quienes no hagan ese signo. De esa votación, cualquier Diputado puede pedir que se rectifique.
 
 ###### ARTICULO 195.
 
@@ -2604,3 +2630,15 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 527 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial "El Estado de Sinaloa".
