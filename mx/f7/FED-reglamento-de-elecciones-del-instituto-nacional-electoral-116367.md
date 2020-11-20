@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2020-11-11"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 11 DE NOVIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 20 DE NOVIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -2447,7 +2447,11 @@ d) En caso de contener información confidencial elaborar la versión pública d
 
 3. La documentación y materiales electorales correspondientes a las elecciones locales, podrán contener aquellos elementos adicionales que mandaten las legislaciones estatales, siempre y cuando no se contrapongan a lo previsto en el presente Capítulo y al Anexo 4.1 de este Reglamento.
 
-4. La Deoe será la responsable de establecer las características, condiciones, mecanismos y procedimientos de los diseños, elaboración, impresión, producción, almacenamiento y distribución de la documentación y materiales electorales para las elecciones federales y locales, tomando en cuenta lo establecido en el Anexo 4.1 de este Reglamento.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+4. La DEOE será la responsable de establecer las características, condiciones, mecanismos y procedimientos de los diseños, elaboración, impresión, producción, almacenamiento y distribución de la documentación y materiales electorales, así como la recuperación y conservación de estos últimos, para las elecciones federales y locales, tomando en cuenta lo establecido en el Anexo 4.1 de este Reglamento y los formatos únicos de documentación y materiales electorales.
 
 5. De igual forma, la Deoe será la responsable de la revisión y supervisión de los diseños de la documentación y producción de los materiales electorales para las elecciones federales y locales, de lo que informará periódicamente a la comisión correspondiente.
 
@@ -2485,9 +2489,13 @@ VIII. Acta de cómputo municipal por el principio de mayoría relativa (en el ca
 
 IX. Acta de cómputo municipal por el principio de representación proporcional (en el caso exclusivo de elección local);
 
-X. Acta final de escrutinio y cómputo municipal por el principio de mayoría relativa derivada del recuento de casillas (por tipo de elección);
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
 
-XI. Acta final de escrutinio y cómputo municipal por el principio de representación proporcional derivada del recuento de casillas (por tipo de elección);
+X. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+XI. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
 
 XII. Acta de escrutinio y cómputo de casilla por el principio de mayoría relativa levantada en el consejo distrital;
 
@@ -2497,9 +2505,13 @@ XIV. Acta de cómputo distrital por el principio de mayoría relativa (por tipo 
 
 XV. Acta de cómputo distrital por el principio de representación proporcional (por tipo de elección);
 
-XVI. Acta final de escrutinio y cómputo distrital por el principio de mayoría relativa derivada del recuento de casillas (por tipo de elección);
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
 
-XVII. Acta final de escrutinio y cómputo distrital por el principio de representación proporcional derivada del recuento de casillas (por tipo de elección);
+XVI. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+XVII. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
 
 XVIII. Acta de cómputo de entidad federativa por el principio de mayoría relativa (por tipo de elección);
 
@@ -2517,15 +2529,27 @@ XXIV. Instructivo Braille;
 
 XXV. Cuadernillo para hacer las operaciones de escrutinio y cómputo para casillas básicas, contiguas y, en su caso, extraordinarias (por tipo de elección);
 
-XXVI. Cuadernillo para hacer las operaciones de escrutinio y cómputo para, en su caso, casillas especiales (de cada elección de mayoría relativa y representación proporcional);
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
 
-XXVII. Guía de apoyo para la clasificación de los votos;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+XXVI. Cuadernillo para hacer las operaciones de escrutinio y cómputo para, en su caso, casillas especiales de mayoría relativa y, en su caso, representación proporcional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+XXVII. Guía de apoyo para la clasificación de los votos o Clasificador de los votos (por tipo de elección);
 
 XXVIII. Cartel de resultados de la votación en la casilla (básica, contigua y, en su caso, extraordinaria);
 
 XXIX. Cartel de resultados de la votación, en su caso, para casilla especial;
 
-XXX. Cartel de resultados de cómputo municipal (en el caso exclusivo de elección local);
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+XXX. Cartel de resultados preliminares de las elecciones en el municipio (en el caso exclusivo de elección local);
 
 XXXI. Cartel de resultados preliminares de las elecciones en el distrito;
 
@@ -2533,11 +2557,25 @@ XXXII. Cartel de resultados de cómputo en el distrito;
 
 XXXIII. Cartel de resultados de cómputo en la entidad federativa;
 
-XXXIV. Constancia individual de recuento (por tipo de elección);
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
 
-XXXV. Cuaderno de resultados preliminares de las elecciones municipales;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
 
-XXXVI. Cuaderno de resultados preliminares de las elecciones en el distrito.
+XXXIV. Constancia individual de resultados electorales de grupos de recuento (por tipo de elección);
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+XXXV. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+XXXVI. (DEROGADA, D.O.F. 20 DE NOVIEMBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+XXXVII. Acta de cómputo de circunscripción plurinominal por el principio de representación proporcional (por tipo de elección).
 
 b) Documentos sin emblemas de partidos políticos ni candidaturas independientes, siendo entre otros, los siguientes:
 
@@ -2613,6 +2651,12 @@ XXIII. Formato para el registro de personas con discapacidad que acuden a votar;
 
 XXIV. Tarjetón vehicular.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+c) De los documentos enlistados en los incisos anteriores, se podrán integrar dos o más en una impresión, cuando contengan elementos comunes y conserven las características particulares contenidas en las especificaciones técnicas, previa aprobación de la Comisión Competente o del Órgano Superior de Dirección del OPL. Para este último caso, se deberá de contar con la validación previa de la DEOE, atendiendo a lo establecido en el artículo 160 de este Reglamento.
+
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 151.
@@ -2649,6 +2693,18 @@ n) Bolsa o sobre para actas de mesa de escrutinio y cómputo por fuera del paque
 
 ñ) Bolsa que contiene el acta de cómputo de entidad federativa levantada en el centro de escrutinio y cómputo (por tipo de elección).
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+o) De los documentos enlistados en los incisos anteriores, se podrán integrar dos o más en una impresión, cuando contengan elementos comunes y conserven las características particulares contenidas en las especificaciones técnicas, previa aprobación de la Comisión Competente o del Órgano Superior de Dirección del OPL. Para este último caso, se deberá de contar con la validación previa de la DEOE, atendiendo a lo establecido en el artículo 160 de este Reglamento.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+p) En su caso, los diseños necesarios aprobados por el órgano facultado para el para voto electrónico por internet. Para el caso de los OPL, se deberá de contar con la validación previa de la DEOE, atendiendo a lo establecido en el artículo 160 de este Reglamento.
+
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 152.
@@ -2663,13 +2719,23 @@ c) Aviso de centros de recepción y traslado;
 
 d) Cartel de identificación de personas que requieren atención preferencial para acceder a la casilla;
 
-e) Bolsa para la lista nominal de electores, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+e) Bolsa o sobre para la lista nominal de electores, y
 
 f) Tarjetón vehicular.
 
 > <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
 
 g) Formato para el registro de personas con discapacidad que acuden a votar.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2020)</small>
+
+h) Instructivo Braille.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -7691,7 +7757,7 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 4.1 DOCUMENTOS Y MATERIALES ELECTORALES, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 27 A LA 96.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4.1 EN EL D.O.F. DE 26 DE JULIO DE 2019, PÁGINA 163; 23 DE SEPTIEMBRE DE 2020, PÁGINAS DE LA 29 A LA 36; D.O.F. DE 11 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 209 A LA 211.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4.1 EN EL D.O.F. DE 26 DE JULIO DE 2019, PÁGINA 163; 23 DE SEPTIEMBRE DE 2020, PÁGINAS DE LA 29 A LA 36; D.O.F. DE 11 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 209 A LA 211; D.O.F. 20 DE NOVIEMBRE DE 2020 [N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf], PÁGINAS DE LA 64 A LA 79.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 4.2 PROCEDIMIENTO DE VERIFICACIÓN DE LAS MEDIDAS DE SEGURIDAD EN LA DOCUMENTACIÓN ELECTORAL Y EL LÍQUIDO INDELEBLE, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 97 A LA 98.]</small>
 
@@ -9038,5 +9104,35 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-28-de-octubre-de-2020/
 Página DOF
 
 www.dof.gob.mx/2020/INE/CGord202010_28_ap_18.pdf
+
+D.O.F. 20 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN EL DISEÑO Y LA IMPRESIÓN DE LA BOLETA Y DEMÁS DOCUMENTACIÓN ELECTORAL CON EMBLEMAS PARA EL PROCESO ELECTORAL FEDERAL 2020-2021, ASÍ COMO LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES Y SU ANEXO 4.1.]</small>
+
+ACUERDO
+
+(…)
+
+SEGUNDO. Se aprueban los modelos de la boleta, de las actas de casilla y de los demás diseños de la documentación electoral con emblemas, así como la Bolsa para actas de escrutinio y cómputo por fuera del paquete electoral, el Recibo de documentación y materiales electorales entregados a la presidencia de (sic) mesa directiva de casilla y de Casilla Especial, anexos a este Acuerdo, que se utilizarán durante el Proceso Electoral 2020-2021 en las elecciones para las diputaciones federales en territorio nacional.
+
+(…)
+
+OCTAVO. Las representaciones de los partidos políticos darán su aprobación por escrito sobre las pruebas finales de impresión de sus respectivos emblemas al inicio de la producción de los documentos que los contienen, y al inicio de la producción de las boletas electorales, a fin de asegurar su fiel coincidencia con los registrados ante el Instituto. La falta de firma de las representaciones que no asistan al evento de aprobación no será impedimento para iniciar con la impresión de las boletas y los documentos con emblemas.
+
+(…)
+
+DÉCIMO TERCERO. La Comisión de Capacitación y Organización Electoral, conforme a sus atribuciones, informará al Consejo General sobre la supervisión del desarrollo de los trabajos previstos en el Punto de Acuerdo anterior y recibirá los planteamientos que sobre el particular realicen los Partidos Políticos Nacionales, con el objeto de garantizar el cumplimiento de los fines y principios rectores del Instituto Nacional Electoral. Los Partidos Políticos Nacionales podrán designar representantes para vigilar la producción, almacenamiento y distribución de la documentación electoral de las elecciones donde compitan.
+
+DÉCIMO SEXTO. Se instruye a la DEOE realice las acciones necesarias para mandar realizar un Dictamen técnico de diseño relativo a la proporción visual de los emblemas de los partidos políticos, contenidos en la boleta de Diputados Federales para el Proceso Electoral Federal 2020-2021.
+
+## TRANSITORIO
+
+ÚNICO. El Consejo General aprobará en su oportunidad el modelo de la boleta electoral, una vez definida la proporción de los emblemas definitivos de los nuevos Partidos Políticos Nacionales, con base en un nuevo Dictamen sobre dicha proporción.
+
+El Acuerdo completo se encuentra disponible para su consulta en la dirección electrónica:
+
+Página INE: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-06-de-noviembre-de-2020/
+
+Página DOF: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
