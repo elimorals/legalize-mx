@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2020-10-20"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -279,21 +279,25 @@ X. Las mujeres víctimas de violencia serán asistidas en todo tiempo por intér
 
 XI. A la protección de su identidad y la de su familia;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+
+XII. Realizar la separación y alejar de manera inmediata del agresor con respecto a la víctima y víctimas indirectas, durante el confinamiento derivado de una pandemia, situación de emergencia o catástrofe, brindando la asistencia legal para denunciar la violencia, con el objeto de separar del hogar familiar al agresor o si fuera necesario canalizarla a los refugios, reintegrándola a su hogar una vez que se haya garantizado la separación del agresor con la víctima.
+
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XII. La reparación integral del daño;
+XIII. La reparación integral del daño;
 
 > <small>(REFORMADA [N. DE E.ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XIII. La garantía de no victimización secundaria;
+XIV. La garantía de no victimización secundaria;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XIV. La integración plena a la vida democrática y productiva; y
+XV. La integración plena a la vida democrática y productiva; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XV. Los demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+XVI. Los demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE VIOLENCIA
 
@@ -2398,3 +2402,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 775.- SE ADICIONA LA FRACCIÓN XII RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 7 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
