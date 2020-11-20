@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mejora-regulatoria-para-el-estado-de-puebla-137570"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-22"
-last_updated: "2019-07-22"
+last_updated: "2020-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DE LA LEY DE MEJORA REGULATORIA Y BUENA ADMINISTRACIÓN PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 20 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 22 de julio de 2019.
 
@@ -1370,3 +1372,47 @@ DÉCIMO. Lo previsto en el artículo 63 de la presente Ley, entrará en vigor ha
 EL GOBERNADOR INTERINO, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de mayo de dos mil diecinueve. Diputado Presidente. JOSÉ JUAN ESPINOSA TORRES. Rúbrica. Diputado Vicepresidente. HÉCTOR EDUARDO ALONSO GRANADOS. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputada Secretaria. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de mayo de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Finanzas y Administración. C. CHARBEL JORGE ESTEFAN CHIDIAC. Rúbrica. El Secretario de Competitividad, Trabajo y Desarrollo Económico. C. JAIME RAÚL OROPEZA CASAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MEJORA REGULATORIA Y BUENA ADMINISTRACIÓN PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. La implementación de la presente Ley se sujetará a los plazos siguientes:
+
+I. El Consejo Estatal deberá estar instalado en un plazo que no exceda de los 60 días siguientes a la entrada en vigor de esta Ley;
+
+II. La Comisión Estatal deberá quedar constituida en un plazo no mayor a los 45 días siguientes a la entrada en vigor de esta Ley;
+
+III. El Observatorio Estatal de Gobernanza Regulatoria deberá instalarse dentro de los 6 meses siguientes a la entrada en vigor de esta Ley, y;
+
+IV. El Consejo Estatal deberá aprobar la Estrategia Estatal de Mejora Regulatoria, así como los programas respectivos, en los 6 meses siguientes a su instalación.
+
+TERCERO. Los lineamientos generales y especiales, manuales, metodologías de evaluación y demás normas de carácter administrativo deberán ser expedidas por el órgano competente dentro del año siguiente a la entrada en vigor de la presente Ley.
+
+La Comisión Estatal promoverá la suscripción de los mecanismos de coordinación o colaboración con los poderes u órganos autónomos del orden local, así como con los municipios de la entidad, a efecto de la debida integración y funcionamiento del Sistema Estatal.
+
+CUARTO. Las herramientas tecnológicas a las que se refiere la Ley General y la presente Ley deberán iniciar su funcionamiento en el plazo previsto en el artículo Sexto transitorio de la Ley General, publicada el 18 de mayo de 2018 en el Diario Oficial de la Federación.
+
+QUINTO. La información y los registros que comprendan el Expediente Electrónico Empresarial se sujetarán al régimen previsto en esta Ley para el Expediente Estatal de Trámites y Servicios, con el propósito de que se integren a una sola plataforma.
+
+SEXTO. Las evaluaciones o análisis de impacto regulatorio presentadas por las Sujetos Obligados con anterioridad a la entrada en vigor de la presente Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+SÉPTIMO. Las (sic) Secretaría de Planeación y Finanzas del Estado de Puebla, de conformidad con la disponibilidad presupuestaria, asignará a los órganos y autoridades previstas en esta Ley los recursos humanos, financieros, materiales y tecnológicos para el ejercicio de sus atribuciones, sin perjuicio de que dichos recursos se determinen en el Presupuesto de Egresos de los ejercicios fiscales de los años siguientes.
+
+Asimismo, la Secretaría de Planeación y Finanzas dotará, en su caso, de los recursos necesarios para el cumplimiento operativo de los mecanismos de coordinación y de colaboración que para efectos de los fines previstos en esta Ley, suscriba la Comisión Estatal.
+
+Los recursos humanos, materiales y financieros que se encuentren asignados a la Comisión Estatal de Mejora Regulatoria, prevista en el artículo 25 de la Ley de Mejora Regulatoria para el Estado de Puebla, la cual se abroga, se entenderán transferidos automáticamente a la Comisión de Mejora Regulatoria del Estado de Puebla, en su carácter de órgano administrativo desconcentrado de la Secretaría de Administración del Gobierno del Estado, para efecto del debido cumplimiento de sus funciones, a partir de la entrada en vigor de la presente Ley.
+
+OCTAVO. Dentro del año siguiente a la entrada en vigor de la presente Ley, la Comisión Estatal deberá expedir un Manual de Ordenación Normativa que tenga por objeto desarrollar, al menos, el contenido siguiente:
+
+I. La estructura jerárquica del orden jurídico del Estado de Puebla respecto a las fuentes normativas que lo conforman;
+
+II. La tipología de normas que integran el ordenamiento jurídico administrativo del Estado de Puebla, misma que deberá incluir los instrumentos de planeación y programación correspondientes; una clasificación de tal normativa administrativa según la autoridad emisora y el alcance externo o interno de su actuación normativa; así como criterios para orientar el uso de la nomenclatura conducente, y
+
+III. Los principios, directrices y componentes temáticos a los que deberán sujetarse los Sujetos Obligados de la Administración Pública Estatal, para la elaboración de sus Propuestas Regulatorias, en el ámbito de su competencia. Ello con independencia de los requisitos mínimos que las Propuestas Regulatorias de los Sujetos Obligados deban satisfacer para efecto del Análisis de Impacto Regulatorio previsto en la Ley General y la presente Ley.
+
+NOVENO. Se abroga la Ley de Mejora Regulatoria para el Estado de Puebla, publicada en el Periódico Oficial del Estado el veintidós de julio de dos mil diecinueve.
