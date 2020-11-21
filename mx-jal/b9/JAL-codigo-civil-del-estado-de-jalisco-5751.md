@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2020-11-07"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -16079,19 +16079,29 @@ El heredero de parte de los bienes, que quiera vender a un extraño su derecho h
 
 Si dos o más coherederos quisieran hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia; y si las porciones son iguales, la suerte decidirá quien hace uso del derecho.
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 2665
 
-Bis.- En la escritura pública que formalice los contratos o actos traslativos de dominio sobre bienes inmuebles, las personas que adquieren la propiedad de los mismos pueden señalar que a su fallecimiento, la propiedad de dichos inmuebles pasará a su cónyuge, ascendientes o descendientes, al momento de elaborar la escritura pública o mediante la adición de una anotación de forma posterior.
+Bis.- En la escritura pública que formalice los contratos o actos traslativos de dominio sobre bienes inmuebles, las personas que adquieren la propiedad de los mismos pueden señalar en la cláusula de beneficiario o testamentaria, para que a su fallecimiento, la propiedad de dichos inmuebles pasará a su cónyuge, ascendientes o descendientes, al momento de elaborar la escritura pública o mediante la adición de una anotación de forma posterior.
 
-Al fallecimiento del adquiriente de la propiedad de los bienes inmuebles, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la transmisión de dominio, copia certificada de la partida de defunción y la constancia expedida por el Registro Público de la Propiedad y del Director del Archivo de Instrumentos Públicos, en la que conste que no ha sido revocada o modificada la designación, para que se hagan las anotaciones que corresponden.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+Al fallecimiento del adquirente de la propiedad de los bienes inmuebles, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la transmisión de dominio, copia certificada de la partida de defunción y la constancia expedida por el Registro Público de la Propiedad y del Director del Archivo de Instrumentos Públicos, en la que conste que no ha sido revocada o modificada la designación, para que se hagan las anotaciones que corresponden.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 La designación hecha conforme a este artículo tiene las siguientes características:
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
 I. Podrá ser libremente constituida, revocada o modificada en cualquier momento, debiendo constar la misma en escritura pública o en disposición testamentaria;
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
 II. Cuando el adquiriente del inmueble la realice por más de una ocasión se entenderá que la última es la que subsiste, y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 III. Cuando la adquisición se haga para una sociedad económico matrimonial o en copropiedad, ésta se equiparará a la adquisición de un inmueble y, desde luego, el derecho a la designación de beneficiarios comprende exclusivamente los derechos adquiridos.
 
@@ -19262,3 +19272,9 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27993/LXII/20 QUE REFORMA LOS ARTÍCULOS 61 Y 282, ADICIONA EL ARTÍCULO 352 BIS Y UN PÁRRAFO AL ARTÍCULO 569 Y DEROGA LA FRACCIÓN V DEL ARTÍCULO 784 TODAS LAS ANTERIORES DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28004/LXII/20 QUE REFORMA EL ARTÍCULO 2665-BIS, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
