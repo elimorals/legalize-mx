@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2020-09-10"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -675,9 +675,11 @@ Toda industria que pretenda instalarse o ampliar su planta productiva, deberá r
 
 Para que las industrias puedan instalarse en el Estado será necesario que no rebasen los límites máximos permisibles de emisiones de contaminantes a la atmósfera, y deberán contar con mecanismos adecuados para controlar sus emisiones de humos, gases, vapores, polvos, olores, ruidos, vibraciones, energía térmica y lumínica, a fin de no contaminar el medio ambiente, más allá de los niveles legalmente permisibles en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 56.
 
-El Ejecutivo del Estado, a través de las autoridades correspondientes, implementará la reglamentación y programas específicos para la reconversión y modernización de los procesos industriales, así como de las actividades humanas, con la finalidad de desarrollar la alta eficiencia sustentable, y se permita a la industria de la transformación ser más competitiva.
+El Ejecutivo del Estado, a través de las autoridades correspondientes, realizará la reglamentación y programas específicos para la modernización de los procesos industriales, así como de las actividades humanas, con la finalidad de desarrollar la alta eficiencia sustentable, mediante la implementación de mejores prácticas a favor del ambiente y eficiencia energética, permitido (sic) con ello a la industria de la transformación ser más competitiva.
 
 ### CAPÍTULO XII. Del Comercio Exterior
 
@@ -998,6 +1000,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0753.- SE ADICIONA EL ARTÍCULO 70 BIS, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0819- SE REFORMA EL ARTÍCULO 56, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
