@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-y-la-participacion-de-las-102023"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-16"
-last_updated: "2020-10-03"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 16 de agosto de 2014.
 
@@ -275,7 +275,9 @@ VI. Las demás que les sean asignadas por el Comité.
 
 Para ser Secretario Ejecutivo se deberán cumplir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y que no haya adquirido otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+I. Ser ciudadano mexicano y que no haya adquirido otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener treinta años de edad o más, el día de la designación;
 
@@ -460,3 +462,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27973/LXII/20 QUE REFORMAN (SIC) LOS ARTÍCULOS 3, 7 Y 8 DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28006/LXII/20 QUE REFORMA EL ARTÍCULO 18 DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
