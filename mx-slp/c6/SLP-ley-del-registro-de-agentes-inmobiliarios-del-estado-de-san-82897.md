@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2020-01-14"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -355,9 +355,11 @@ En todo caso, las infracciones y sanciones que cometan los agentes inmobiliarios
 
 ### Capítulo III. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 19.
 
-Los interesados afectados por los actos y resoluciones de la Secretaría podrán, a su elección, interponer el recurso de inconformidad previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Los interesados afectados por los actos y resoluciones de la Secretaría podrán, a su elección, interponer el recurso de inconformidad previsto en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 T R A N S I T O R I O S
 
@@ -430,3 +432,11 @@ P.O. 14 DE ENERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0820- SE REFORMA EL ARTÍCULO 19, DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
