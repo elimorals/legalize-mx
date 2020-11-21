@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2020-10-27"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -689,13 +689,25 @@ Para la consecución de lo establecido en el artículo anterior, las autoridades
 
 La Secretaría incentivará y promoverá el turismo médico; el objetivo de esta política pública es impulsar el consumo de servicios médicos por la población nacional e internacional, generando mayores inversiones y empleos para el Estado, impulsando la capacidad actual y futura de la infraestructura médica del Estado; aprovechando las ventajas competitivas, los costos de los servicios médicos más atractivos, y la capacidad de ofrecer servicios complementarios de turismo como hoteles de categoría turística, servicios personalizados anteriores y posteriores al procedimiento médico.
 
-### Capítulo I. De la Prestación de Servicios Turísticos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo II. De los Turistas
+### Capítulo VIII. Del Turismo Gastronómico
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 62 BIS. La Secretaría promoverá el turismo gastronómico, el cual comprende la visita a regiones, comunidades o centros urbanos del Estado, con el fin único o complementario de degustar los platillos y bebidas locales.
+
+La gastronomía local se incluirá en las campañas de promoción del turismo.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 62 TER. La Secretaría podrá actuar en coordinación con los prestadores de los servicios gastronómicos y turísticos, e instituciones educativas, para el rescate, preservación y promoción de las tradiciones gastronómicas de la Entidad.
+
+### Capítulo I. De la Prestación de Servicios Turísticos
 
 ## TITULO SEPTIMO. DE LA PRESTACION DE SERVICIOS TURISTICOS; Y LOS TURISTAS
 
-### Capítulo I. De la Promoción y Difusión
+### Capítulo II. De los Turistas
 
 ###### ARTICULO 63.
 
@@ -777,9 +789,7 @@ XVII. Cuando presten servicios relacionados con el turismo de aventura o cualqui
 
 XVIII. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplicables en el Estado.
 
-### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+### Capítulo I. De la Promoción y Difusión
 
 ###### ARTICULO 68.
 
@@ -819,7 +829,9 @@ VI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ## TITULO OCTAVO. DE LA PROMOCION Y DIFUSION DE LA ACTIVIDAD TURISTICA; Y DEL FIDEICOMISO PARA EL DESARROLLO DEL TURISMO
 
-### Capítulo I. De la Integración del Consejo Consultivo Estatal
+### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 70.
 
@@ -895,7 +907,7 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 La Secretaría determinará el sitio de internet oficial del Estado, para la información y promoción turística estatal. La dirección electrónica del sitio de internet deberá aparecer en todos los materiales de promoción y oficiales de la Secretaría, para garantizar la uniformidad y confiabilidad de la información.
 
-### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
+### Capítulo I. De la Integración del Consejo Consultivo Estatal
 
 ###### ARTICULO 82.
 
@@ -923,7 +935,7 @@ VIII. En general, todas aquellas que permitan la realización de sus finalidades
 
 ## TITULO NOVENO. DEL CONSEJO CONSULTIVO ESTATAL; Y LOS CONSEJOS CONSULTIVOS REGIONALES MUNICIPALES
 
-### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
+### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
 
 ###### ARTICULO 84.
 
@@ -991,7 +1003,7 @@ Los cargos de este Consejo serán honoríficos, por lo que las personas que los 
 
 Por cada integrante del Consejo Consultivo Estatal, se nombrará un suplente.
 
-### Capítulo IV. De las Funciones de los Consejos Consultivos
+### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
 
 ###### ARTICULO 86.
 
@@ -1031,7 +1043,7 @@ III. Proponer el orden del día de las sesiones, y
 
 IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
 
-### Capítulo I. De la Verificación
+### Capítulo IV. De las Funciones de los Consejos Consultivos
 
 ###### ARTICULO 88.
 
@@ -1059,7 +1071,7 @@ En caso de ausencia del Presidente del Consejo, será el secretario técnico qui
 
 Los consejos consultivos regionales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en la región o municipio que corresponda.
 
-### Capítulo II. De las Infracciones y Sanciones
+### Capítulo I. De la Verificación
 
 ###### ARTICULO 90.
 
@@ -1085,7 +1097,7 @@ IX. Las demás que procedan conforme a la normatividad vigente.
 
 ## TITULO DECIMO. DE LA VERIFICACION; LAS INFRACCIONES Y SANCIONES
 
-### Capítulo Segundo. Concurso de Oposición
+### Capítulo II. De las Infracciones y Sanciones
 
 ###### ARTICULO 91.
 
@@ -1298,3 +1310,11 @@ P.O. 27 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0818- SE ADICIONA AL TÍTULO SEXTO EL CAPÍTULO VIII “DEL TURISMO GASTRONÓMICO” Y LOS ARTÍCULOS 62 BIS Y 62 TER, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
