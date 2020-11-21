@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2018-12-05"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -81,9 +81,9 @@ IX. Crear condiciones que alienten a los artesanos a seguir produciendo dentro d
 
 X. Salvaguardar intelectual y comercialmente las técnicas y productos artesanales;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-XI. Promover y desarrollar las técnicas artesanales y productos de las regiones, comunidades y etnias, como patrimonio cultural de Jalisco;
+XI. Promover y desarrollar las técnicas artesanales y productos de las regiones, comunidades indígenas, afromexicanas y etnias, como patrimonio cultural de Jalisco;
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
@@ -784,3 +784,9 @@ NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tan
 DÉCIMO. El Titular del Poder Ejecutivo por conducto de la Secretaría de Administración deberá rendir cuentas por escrito a esta Soberanía, respecto de los pasivos existentes y el procedimiento de liquidación del Instituto de la Artesanía Jalisciense (IAJ), una vez al año y hasta la total conclusión de los actos del proceso de liquidación.
 
 DÉCIMO PRIMERO. Se abroga el decreto 26856/LXI/18 publicado en el periódico oficial "El Estado de Jalisco" el 13 de septiembre del 2018, que reformó el artículo 30 de la Ley de Promoción y Desarrollo Artesanal del Estado de Jalisco y todas las demás disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28007/LXII/20 QUE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 3 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
