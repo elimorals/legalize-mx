@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2017-02-22"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -78,6 +78,10 @@ III. Contribuir a la soberanía, la seguridad alimentaria, la bioseguridad e ino
 IV. Implementar políticas de conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable.
 
 V. Impulsar políticas para la educación, la capacitación, el desarrollo de las habilidades y la cultura en el medio rural.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+VI. Promover e impulsar programas y acciones que favorezcan a la agricultura, sobre todo la agricultura familiar y autosustentable.
 
 ###### Artículo 6.
 
@@ -1335,9 +1339,11 @@ I. Las autoridades municipales elaborarán con la periodicidad del caso, su cat�
 
 II. Para la atención de los grupos prioritarios, se impulsarán los programas enfocados a la satisfacción de sus necesidades específicas, conjuntando los instrumentos de impulso a la productividad y competitividad con los de carácter asistencialista y con la provisión de infraestructura básica. En el caso de los pueblos y comunidades indígenas, se tomará en cuenta el respeto a su autonomía de conformidad con lo establecido en la legislación de la materia.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 99.
 
-El Gobierno del Estado, en coordinación con los otros Órdenes de Gobierno, dará atención prioritaria en zonas marginadas, procurando entre otras acciones el abasto de alimentos y productos básicos y estratégicos en la zona.
+El Gobierno del Estado, en coordinación con los otros Órdenes de Gobierno, dará atención prioritaria en zonas marginadas, procurando entre otras acciones el abasto de alimentos y productos básicos y estratégicos en la zona, mediante el impulso a la agricultura familiar y autosustentable, así como la producción nacional de alimentos.
 
 ###### Artículo 100.
 
@@ -1384,6 +1390,10 @@ III. La capacitación, asistencia técnica y extensionismo, así como el impulso
 IV. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias.
 
 V. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+VI. La agricultura familiar y autosustentable, así como la producción nacional de alimentos.
 
 ###### Artículo 104.
 
@@ -1744,3 +1754,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0785/2020 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 5, 99 Y 103 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
