@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2020-08-20"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -561,13 +561,21 @@ V. El aprovechamiento del agua debe realizarse con racionalidad y eficiencia y d
 
 VI. La cultura del agua construida a partir de los anteriores principios de política hídrica, así como con las tesis derivadas de los procesos de desarrollo social y económico;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-VII. El uso doméstico tendrá preferencia en relación con cualesquier otro uso, y
+VII. El uso doméstico tendrá preferencia en relación con cualesquier otro uso,
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+VIII. El suministro de agua y saneamiento que realicen los prestadores de este servicio, se sujetará al derecho humano de acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible previsto en el párrafo sexto del artículo 4°, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+IX. La contaminación de los recursos hídricos conlleva a la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, y
 
 > <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Deberá atender los criterios de disponibilidad, calidad, seguridad, aceptabilidad, accesibilidad y asequibilidad.
+X. Deberá atender los criterios de disponibilidad, calidad, seguridad, aceptabilidad, accesibilidad y asequibilidad.
 
 ###### ARTICULO 17.
 
@@ -1204,6 +1212,26 @@ No obstante las disposiciones anteriores, el Titular del Poder Ejecutivo del Est
 Los servicios públicos serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se busque la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
 
 El municipio será responsable del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, estatal o municipal, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+Los prestadores de los servicios otorgarán el servicio de agua potable en su ámbito de competencia, considerando el siguiente orden de prioridad en los usos:
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+I. Doméstico;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+II. Comercial y de servicios;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+III. Industrial, y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+IV. Los demás que determinen las autoridades del agua.
 
 ###### ARTICULO 77.
 
@@ -3608,5 +3636,13 @@ P.O. 20 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0735.- SE REFORMA (SIC) LOS ARTÍCULOS 127 EN SU PÁRRAFO CUARTO Y 132, DE LA LEY DE AGUAS PARA EL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0817.- SE REFORMA EL ARTÍCULO 16 EN SU FRACCIÓN VII; Y ADICIONA A LOS ARTÍCULOS 16 DOS FRACCIONES, ÉSTAS COMO VIII Y IX Y 76 EL PÁRRAFO TERCERO Y LAS FRACCIONES I A IV, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
