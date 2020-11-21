@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-10-24"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1691,6 +1691,18 @@ La promoción de la salud comprende:
 
 I. Desarrollo de los programas de nutrición, orientación alimentaria y activación física, de conformidad con los lineamientos que, en la materia dicte la Secretaría de Salud del Estado;
 
+> <small>(REFORMADO CON SUS INCISOS [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+Para desarrollar los programas de medicina preventiva a que alude esta fracción, la Secretaría de Salud del Estado, implementará:
+
+a) En coordinación con el sector educativo, una currícula obligatoria con contenidos formativos en materia de vida saludable, adaptada a cada nivel de educación básica obligatoria.
+
+b) En coordinación con las diversas cámaras de industria y comercio, particularmente con las de,: (sic) alimentos procesados, restaurantes, y prestadores de servicios turísticos, elaboración de planes de capacitación en materia de higiene personal, higiene en el manejo y preparación de alimento, así como en materia de salud preventiva y nutricional.
+
+c) En coordinación con las diversas cámaras de industria, comercio, construcción y turismo, programas de capacitación en materia de salud preventiva, con el objetivo de evitar contagio de enfermedades atendiendo al entorno particular de cada centro de trabajo.
+
+d) Acciones de prevención que fomenten el lavado de manos en la entrada de cada negocio o centro de trabajo, instalando uno o más lavabos como medida preventiva para evitar contagios;
+
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 II. Control de los efectos nocivos del ambiente en la salud;
@@ -1761,7 +1773,19 @@ La Secretaría de Salud del Estado, dentro del ámbito de su competencia, y en l
 
 I. Establecer un sistema permanente de vigilancia de los trastornos de la conducta alimentaria;
 
-II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables, para ello promoverá la celebración de convenios de colaboración con:
+
+a) Instituciones del Estado.
+
+b) Municipios.
+
+c) Locatarios de centrales de abasto.
+
+d) Mercados fijos, y sobre ruedas.
+
+Lo anterior, para el adecuado manejo de alimentos perecederos en buen estado, que pudieran ver mermadas sus cualidades alimenticias por el trascurso del tiempo;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -4676,6 +4700,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0779.- SE REFORMA LOS ARTÍCULOS 14 EN SU FRACCIÓN XV, 92 EN SU FRACCIÓN III, 103 EN SU FRACCIÓN II, 104 EN SU FRACCIÓN III Y 108 EN SU FRACCIÓN VIII; Y ADICIONA A Y LOS ARTÍCULOS, 14 DOS FRACCIONES, ÉSTAS COMO XVI Y XVII, 92 UNA FRACCIÓN, ÉSTA COMO IV, 103 UNA FRACCIÓN, ÉSTA COMO XIV, 108 UNA FRACCIÓN, ÉSTA COMO IX Y 380 BIS, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0816.- SE REFORMA (SIC) LOS ARTÍCULOS 91 EN SU FRACCIÓN I Y 96 EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
