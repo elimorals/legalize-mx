@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2020-10-20"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -452,13 +452,17 @@ IV. La evaluación de los avances logrados en el cumplimiento de los objetivos y
 
 V. El programa financiero del sector público que elabore la Secretaría;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-VI. La interrelación que, en su caso, exista con los acuerdos de concertación con los sectores privado y social, y
+VI. La interrelación que, en su caso, exista con los acuerdos de concertación con los sectores privado y social;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-VII. La transversalización del gasto con perspectiva de género.
+VII. La transversalización del gasto con perspectiva de género, y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Análisis general sobre las condiciones predominantes de las finanzas públicas de la Entidad, y su impacto sobre el gasto público.
 
 El anteproyecto se elaborará por las unidades responsables de las dependencias y entidades tratándose del Poder Ejecutivo, y por las unidades de administración de los demás ejecutores del gasto, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
 
@@ -668,9 +672,17 @@ V. Las leyes de, Ingresos del Estado; y los municipios, así como la del Presupu
 
 VI. En el proceso de revisión, discusión, modificación y aprobación de las leyes de, Ingresos; y del Presupuesto de Egresos, los legisladores deberán sustentar las estimaciones de las fuentes de ingresos en análisis técnicos;
 
-VII. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos del Estado, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-VIII. En caso de que al 31 de diciembre del año anterior de su entrada en vigor, el Congreso del Estado no apruebe alguna Ley de Ingresos, o la (sic) Presupuesto de Egresos del Estado; o algún cabildo no apruebe el del (sic) Presupuesto de Egresos del Municipio, a efecto de no entorpecer la operación gubernamental, se tomará como presupuesto a ejercer el autorizado del ejercicio anterior, hasta en tanto no se lleve a cabo la aprobación correspondiente.
+VII. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Para la aprobación de las citadas leyes, los legisladores deberán considerar las condiciones predominantes de las finanzas públicas de la Entidad y, en su caso, su impacto sobre las áreas prioritarias para el Estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+IX. En caso de que al 31 de diciembre del año anterior de su entrada en vigor, el Congreso del Estado no apruebe alguna Ley de Ingresos, o el Presupuesto de Egresos del Estado; o algún cabildo no apruebe el Presupuesto de Egresos del Municipio, a efecto de no entorpecer la operación gubernamental, se tomará como presupuesto a ejercer el autorizado del ejercicio anterior, hasta en tanto no se lleve a cabo la aprobación correspondiente.
 
 ###### ARTÍCULO 39.
 
@@ -1377,6 +1389,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 20 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0771.- SE ADICIONA AL ARTÍCULO 25 EL PÁRRAFO ÚLTIMO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0815.- SE REFORMA LOS ARTÍCULOS 25 EN SUS FRACCIONES VI Y VII Y 38 EN SUS FRACCIONES VII Y VIII; Y ADICIONA A LOS ARTÍCULOS 25 LA FRACCIÓN VIII Y 38 LA FRACCIÓN IX, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
