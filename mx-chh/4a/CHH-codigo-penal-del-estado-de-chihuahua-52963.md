@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2020-10-31"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2436,6 +2436,12 @@ A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a d
 Los actos de violencia a que se refiere el presente artículo se entenderán en los términos de la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+Cuando, a sabiendas de que la mujer se encuentra embarazada, el agente ejecute la conducta descrita en el primer párrafo, la pena se incrementará en una mitad.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 Este delito se perseguirá de oficio.
 
@@ -5458,3 +5464,19 @@ P.O. 31 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFCOD/0778/2020 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 193, PÁRRAFO CUARTO; SE ADICIONA AL ARTÍCULO 193, UN QUINTO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se crea la Subcomisión de Justicia para la Atención de la Violencia Obstétrica, para que dé seguimiento y realice las medidas que considere adecuadas en atención a los exhortos Primero y Segundo del Acuerdo No. LXVI/EXHOR/0577/2020 I P.O. e informe a la Comisión de Justicia del H. Congreso del Estado de Chihuahua.
+
+Esta, será integrada por la Diputada Marisela Sáenz Moriel y los Diputados Francisco Humberto Chávez Herrera y Gustavo De la Rosa Hickerson, coordinada por la Diputada Marisela Sáenz Moriel.
+
+Sus trabajos concluirán cuando la Comisión de Justicia de la LXVI Legislatura considere atendidos los exhortos referidos en el primer párrafo del presente artículo o al concluir la presente Legislatura.
