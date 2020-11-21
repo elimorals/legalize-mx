@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2020-06-02"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -169,13 +169,15 @@ Las acciones para el cobro de aportaciones y retenciones por concepto de cuotas 
 
 La falta del entero de las aportaciones y retenciones en tiempo y forma será motivo de responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-Las entidades públicas patronales tendrán la obligación de proporcionar al Instituto, dentro de los quince días hábiles posteriores a su requerimiento formal y por escrito, la información que ésta les solicite, siempre que dicha información tenga relación directa con el cumplimiento de las disposiciones de esta Ley y, en general, con el régimen de seguridad social de afiliados y pensionados.
+Las entidades públicas patronales tendrán la obligación de proporcionar al Instituto, dentro de los quince días hábiles posteriores a su requerimiento formal y por escrito, la información que ésta le (sic) solicite, siempre que dicha información tenga relación directa con el cumplimiento de las disposiciones de esta Ley y, en general, con el régimen de seguridad social de afiliados y pensionados.
 
 La información será presentada por escrito o en el formato electrónico que el Instituto determine, con base en los sistemas que la misma desarrolle y conceda en uso a las entidades públicas patronales.
 
-La falta de cumplimiento en tiempo y forma de esta obligación dará lugar a las responsabilidades administrativas establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+La falta de cumplimiento en tiempo y forma de esta obligación dará lugar a la (sic) responsabilidades administrativas establecidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 13.
 
@@ -203,11 +205,13 @@ También podrán realizarse las notificaciones en tiempo real o en línea, siemp
 
 La información proporcionada al Instituto en cumplimiento de las obligaciones impuestas por la presente Ley, será estrictamente confidencial, por lo que el Instituto no podrá comunicarla o darla a conocer en forma nominativa e individual, salvo en los casos de juicios y procedimientos en que el Instituto sea parte y en los demás casos previstos por las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 15.
 
 Las entidades públicas patronales de los tres poderes del Estado, así como los municipios y organismos incorporados al régimen de pensiones estarán obligados a permitir las visitas de verificación que realice el Instituto para corroborar el cumplimiento de sus obligaciones de seguridad social previstas en esta Ley.
 
-La oposición en proporcionar las facilidades e informes necesarios para la visita dará lugar al fincamiento de responsabilidades, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+La oposición en proporcionar las facilidades e informes necesarios para la visita dará lugar al fincamiento de responsabilidades, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 16.
 
@@ -1687,9 +1691,11 @@ Si el adeudo ya hubiera sido cobrado al aval no procederá su retención posteri
 
 ### Capítulo I. De las Responsabilidades Administrativas
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 166.
 
-El incumplimiento de las obligaciones administrativas derivadas de esta Ley y sus reglamentos, a cargo de los consejeros, Director General y demás funcionarios y servidores públicos del Instituto, se sancionará de conformidad a las formas y términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, además de las responsabilidades civiles y penales a que hubiere lugar.
+El incumplimiento de las obligaciones administrativas derivadas de esta Ley y sus reglamentos, a cargo de los consejeros, Director General y demás funcionarios y servidores públicos del Instituto, se sancionará de conformidad a las formas y términos previstos por la Ley de Responsabilidades Politicas y Administrativas del Estado de Jalisco, además de las responsabilidades civiles y penales a que hubiere lugar.
 
 ### Capítulo II. De los delitos
 
@@ -1860,3 +1866,9 @@ SEGUNDO. Para efectos de la fracción III del artículo 151 de la Ley del Instit
 TERCERO. Las federaciones de sindicatos podrán solicitar al Consejo Directivo del Instituto de Pensiones del Estado, dentro de los 20 días hábiles contados a partir del día siguiente de la entrada en vigor de ese Decreto, se inicie con el proceso señalado en la fracción III del artículo 151 de la Ley del Instituto de Pensiones del Estado de Jalisco reformado, para efectos del artículo transitorio que antecede; por lo que en casos posteriores deberá sujetarse al término de tres años a que se refiere dicho numeral, los cuales se computarán a partir del día en que se integre al Consejo Directivo en mención el nuevo representante de los servidores públicos, en su caso.
 
 CUARTO. En caso de no existir petición de revisión de la representación sindical en términos de los dos artículos transitorios anteriores, el plazo de tres años para poder solicitar la revisión de la representación sindical a que se refiere la fracción III del artículo 151 de la Ley del Instituto de Pensiones del Estado de Jalisco reformado, se computará a partir del día siguiente a que fenezca el plazo determinado en dicho artículo tercero transitorio.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28005/LXII/20 QUE REFORMA LOS ARTÍCULOS 12, 15 Y 166 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
