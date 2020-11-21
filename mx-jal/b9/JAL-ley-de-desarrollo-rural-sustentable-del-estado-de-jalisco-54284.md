@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2020-06-16"
+last_updated: "2020-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -67,9 +67,9 @@ Son sujetos de la presente Ley:
 
 I. Las personas físicas y jurídicas que de manera individual o colectiva realicen principalmente actividades en el medio rural; y
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
-II. Los ejidos, comunidades, indígenas, las uniones de ejidos y otras entidades reguladas por las leyes agrarias, organizaciones, asociaciones, figuras asociativas o agro empresas de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, que se constituyan o estén constituidas de conformidad con las leyes vigentes y realicen preponderantemente actividades en el medio rural.
+II. Los ejidos, comunidades indígenas, afromexicanas cualquiera que sea su autodenominación, las uniones de ejidos y otras entidades reguladas por las leyes agrarias, organizaciones, asociaciones, figuras asociativas o agro empresas de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, que se constituyan o estén constituidas de conformidad con las leyes vigentes y realicen preponderantemente actividades en el medio rural.
 
 ###### Artículo 7.
 
@@ -1682,5 +1682,11 @@ P.O. 21 DE ABRIL DE 2020.
 P.O. 16 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27914/LXII/20 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 24, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28008/LXII/20 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
