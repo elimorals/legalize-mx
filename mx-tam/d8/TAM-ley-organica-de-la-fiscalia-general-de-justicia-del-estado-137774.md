@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2020-11-11"
+last_updated: "2020-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -1005,7 +1005,13 @@ XVI. Tratándose de delitos de violencia de género y también en los casos en q
 
 XVII. Ejercitar la acción penal, solicitando las órdenes de comparecencia, presentación, aprehensión o reaprehensión que sean procedentes;
 
-XVIII. Poner a disposición del juez competente a la persona o personas detenidas, retenidas o aprehendidas, dentro de los plazos que señala la Ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Poner a disposición del juez competente a la persona o personas detenidas, retenidas o aprehendidas, dentro de los plazos que señala la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose del ejercicio de la competencia extraordinaria prevista por el artículo 22 del Código Nacional de Procedimientos Penales, el deber de los Agentes del Ministerio Público, será exponer los motivos y razonamientos lógicos, concretos y claros, que evidencien las características del hecho investigado, así como, si fuera el caso, las características que ameriten el conocimiento por razones de seguridad en las prisiones o aquellas precisas cuestiones del caso que impidan garantizar el desarrollo adecuado del proceso, aportando los medios de prueba conducentes que justifiquen sus afirmaciones;
 
 XIX. Las y los Agentes del Ministerio Público en acuerdo con el Fiscal de Distrito o superior jerárquico correspondiente, propondrán el no ejercicio de la acción penal, de conformidad con lo dispuesto en el Código Nacional y en el Reglamento de esta Ley;
 
@@ -2176,6 +2182,14 @@ El Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta públ
 P.O. 11 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-209 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33, PÁRRAFO TERCERO, FRACCIÓN IV, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-212 MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 10 QUÁTER, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE REFORMA Y ADICIONA CON UN SEGUNDO PÁRRAFO, LA FRACCIÓN XVIII, DEL APARTADO A, DEL ARTÍCULO 37, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
