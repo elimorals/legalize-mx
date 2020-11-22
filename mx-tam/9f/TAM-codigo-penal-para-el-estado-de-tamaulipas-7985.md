@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2020-10-31"
+last_updated: "2020-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3397,6 +3397,16 @@ II.- Si se trata de un documento privado la sanción a imponer será de seis mes
 
 III.- Si el falsario es un servidor público, la sanción que se le imponga se aumentará hasta una mitad más de la misma, así como también, será inhabilitado de su cargo por un tiempo igual al que dure la sentencia impuesta.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTICULO 251 Bis.
+
+Se equiparará a la falsificación de documentos privados y se impondrá sanción de seis meses a cinco años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización a:
+
+El que, por cualquier medio, obligue o condicione a otro a firmar documentación en blanco, en la contratación o en cualquier momento de la relación laboral, lo que implique la renuncia a sus derechos, a una sociedad, corporación o empresa, instituciones privadas o públicas, documentos que le impongan obligaciones sin previo acuerdo, o tengan como fin menoscabar o invalidar derechos.
+
+Se impondrá la misma sanción al representante o miembro de una persona jurídica, de una sociedad, corporación o empresa de cualquiera clase, que cometa ese delito con los medios que para tal objeto las mismas entidades le proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella.
+
 ###### ARTICULO 252.
 
 También incurrirá en las sanciones señaladas en el artículo anterior:
@@ -4565,7 +4575,9 @@ Cuando se cometa en perjuicio de un menor de doce años, se impondrá al respons
 
 Si el responsable fuere ascendiente o tutor del ofendido, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
 
-> <small>(DEROGADO PÁRRAFO SEXTO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+Si la víctima se encuentra en estado de embarazo, la pena se incrementará hasta en una mitad.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -6830,6 +6842,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 31 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-157 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO IV BIS DENOMINADO "VIOLACIÓN A LA INTIMIDAD" AL TÍTULO DUODÉCIMO DEL LIBRO SEGUNDO; ASÍ COMO EL ARTÍCULO 276 SEPTIES; UN PÁRRAFO TERCERO, RECORRIENDO EL SUBSECUENTE, AL ARTÍCULO 306; EL CAPÍTULO I TER DENOMINADO "CIBERACOSO" AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO; Y EL ARTÍCULO 390 TER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-211 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 368 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV - 213 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 251 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
