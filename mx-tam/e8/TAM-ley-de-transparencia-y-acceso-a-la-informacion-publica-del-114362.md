@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2019-08-20"
+last_updated: "2020-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -85,7 +85,9 @@ II.- Áreas: Instancias comprendidas en la estructura orgánica del Sujeto Oblig
 
 III.- Clara: Atributo de la información que implica su fácil comprensión;
 
-IV.- Comisionado: Cada uno de los Integrantes del Pleno del Instituto de Transparencia y Acceso a la Información de Tamaulipas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+IV.- Comisionado: Cada uno de los Integrantes del Pleno del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas;
 
 V.- Comité de Transparencia: Cuerpo colegiado del Sujeto Obligado encargado de vigilar que se cumpla, en la esfera de su competencia, con lo establecido en esta Ley;
 
@@ -93,7 +95,9 @@ VI.- Completa: Atributo de la información que implica que la misma no se encuen
 
 VII.- Confiable: Atributo de la información que genera certeza de su contenido;
 
-VIII.- Consejo Consultivo: Consejo Consultivo del Instituto de Transparencia y Acceso a la Información de Tamaulipas que hace referencia el artículo 43 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+VIII.- Consejo Consultivo: Consejo Consultivo del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, a que hace referencia el artículo 43 de la presente Ley;
 
 IX.- Consejo Nacional: Consejo del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
@@ -151,7 +155,9 @@ XXV.- Ley General: La Ley General de Transparencia y Acceso a la Información P�
 
 XXVI.- Oportuna: Atributo de la información que significa que su entrega debe ser en un momento óptimo determinado, dentro de los plazos establecidos en esta Ley;
 
-XXVII.- Organismo garante: El Instituto de Transparencia y Acceso a la Información de Tamaulipas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+XXVII.- Organismo garante: El Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas;
 
 XXVIII.- Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 48 de la presente Ley;
 
@@ -349,13 +355,15 @@ Los sujetos obligados serán los responsables del cumplimiento de las obligacion
 
 ## TÍTULO SEGUNDO. RESPONSABLES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO I. DEL ORGANISMO GARANTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DE TAMAULIPAS
+### CAPÍTULO I. DEL ORGANISMO GARANTE INSTITUTO DE TRANSPARENCIA, DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TAMAULIPAS
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 25.
 
-El Instituto de Transparencia y Acceso a la Información de Tamaulipas es un organismo público autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información y la protección de datos personales, conforme a los principios y bases establecidos por el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y la fracción V del artículo 17 de la Constitución Política del Estado, así como por lo previsto en esta Ley y demás disposiciones aplicables.
+El Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, es un organismo público autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información y la protección de datos personales, conforme a los principios y bases establecidos por el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y la fracción V del artículo 17 de la Constitución Política del Estado, así como por lo previsto en esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 26.
 
@@ -2610,6 +2618,14 @@ Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solic
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-120 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS; ASÍ COMO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
