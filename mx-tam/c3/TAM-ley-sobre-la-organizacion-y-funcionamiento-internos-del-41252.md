@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2020-10-28"
+last_updated: "2020-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -729,9 +729,9 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 41.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia y Acceso a la Información de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
+1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
 
 2. El ente público está obligado a proporcionar la información en un plazo razonable y si la misma no fuere remitida, la comisión lo planteará al presidente de la Mesa Directiva para que éste refrende la solicitud. Si ante este requerimiento la información no fuere remitida, se procederá en términos del título de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado.
 
@@ -2239,13 +2239,17 @@ g) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comi
 
 4. Los diputados sin partido que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el párrafo 2 de este artículo y, en caso de seguirse lo dispuesto por el párrafo 3, dichos diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
-
 ###### ARTICULO 131.
 
-1. Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas, de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia y Acceso a la Información de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas, de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 2. Cuando con motivo de una comparecencia no sea posible hacer referencia integral a la información disponible en los tiempos de desahogo de la misma o la información de que se trate no se encuentre disponible, el servidor público compareciente deberá remitirla por escrito dirigido al presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión ordinaria, dentro de los siguientes 10 días hábiles.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 Este plazo podrá ampliarse por acuerdo del presidente del órgano que corresponda, siempre que se expresen razones que lo justifiquen.
 
@@ -2267,9 +2271,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas; del Fiscal General de Justicia del Estado; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas; del Fiscal General de Justicia del Estado; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
@@ -2357,19 +2361,31 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas que concluyan su periodo y que sean susceptibles a ser reelectos, podrán participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-10. La designación de los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas se sujetará al siguiente procedimiento:
+10. La designación de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas se sujetará al siguiente procedimiento:
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
 a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Coordinación Política del Congreso del Estado lanzará una convocatoria pública, a efecto de que participen los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+
 b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página de internet del Congreso.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
 c) La Comisión de Transparencia y Acceso a la Información Pública o la Diputación Permanente durante los recesos, realizará la evaluación preliminar de los documentos presentados por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+
 d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas entrevistas serán determinadas mediante acuerdo emitido por la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+
 e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
 f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realicen la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, debiendo privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales, así como procurar la igualdad de género.
 
@@ -3382,3 +3398,11 @@ P.O. 28 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-210 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS; ASÍ COMO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
