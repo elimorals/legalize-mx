@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122958"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-17"
-last_updated: "2017-12-01"
+last_updated: "2020-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 17 de agosto de 2017.
 
@@ -105,7 +105,9 @@ XIV. Evaluación de impacto a la protección de datos personales: documento medi
 
 XV. Fuentes de acceso público: aquellas bases de datos, sistemas o archivos que por disposición de ley puedan ser consultadas públicamente cuando no exista impedimento por una norma limitativa y sin más exigencia que, en su caso, el pago de una contraprestación, tarifa o contribución. No se considerará fuente de acceso público cuando los datos personales contenidos en la misma sean obtenidos o tengan una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normatividad que resulte aplicable;
 
-XVI. Instituto: El Instituto de Transparencia y Acceso a la Información de Tamaulipas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Instituto: El Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas;
 
 XVII. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
@@ -2132,6 +2134,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-298 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 112; 135; TERCERO Y QUINTO TRANSITORIOS; Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-210 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS; ASÍ COMO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
