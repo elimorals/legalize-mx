@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2020-10-28"
+last_updated: "2020-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -395,7 +393,9 @@ II.- La ratificación se hará por el voto de las dos terceras partes de los mie
 
 III.- El Comisionado Presidente y los Comisionados durarán siete años en su encargo, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
 
-Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como del Instituto de Transparencia y Acceso a la Información de Tamaulipas, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
 
 El Instituto será el responsable de la dirección, expedición, control, registro, gestión y todas las demás actividades relacionadas con la cédula estatal de identidad.
 
@@ -1219,9 +1219,9 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -3013,11 +3013,11 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -3039,11 +3039,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -5160,6 +5160,14 @@ Comuníquese a la Cámara de Senadores del Congreso de la Unión, para los efect
 ###### ARTÍCULO QUINTO.
 
 Las economías generadas durante el ejercicio fiscal 2021, en razón de la presente reforma, directa o indirectamente, se destinará a la Secretaría de Salud.
+
+P.O. 22 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-210 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS; ASÍ COMO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO NOVENO.
 
