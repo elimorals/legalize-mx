@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2020-07-08"
+last_updated: "2020-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -366,6 +366,10 @@ SEXTA REGIÓN JUDICIAL: Cabecera en Altamira, comprende el Distrito Judicial II.
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 Cada Región Judicial contará con los Jueces de Control y Tribunales de Enjuiciamiento que considere pertinente el Consejo de la Judicatura del Estado, quienes ejercerán jurisdicción dentro de la misma.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de los casos de competencia extraordinaria a que se refiere el artículo 22 del Código Nacional de Procedimientos Penales, previa petición fundada y motivada, serán competentes para conocer los jueces del sistema penal acusatorio de la Primera Región Judicial del Estado, con sede en la Capital del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -4291,13 +4295,13 @@ Todos los procesos en trámite, en los cuales se ha emitido el auto de apertura 
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 245.- REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 22 DE NOVIEMBRE DE 2020.
 
-###### ARTICULO ÚNICO.
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-212 MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 10 QUÁTER, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE REFORMA Y ADICIONA CON UN SEGUNDO PÁRRAFO, LA FRACCIÓN XVIII, DEL APARTADO A, DEL ARTÍCULO 37, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-P.O. 8 DE AGOSTO DE 2016.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 360.- SE REFORMA Y ADICIONAL EL ARTÍCULO 111, DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
