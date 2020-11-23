@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-servicios-de-salud-de-hidalgo-143723"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-08-03"
-last_updated: "2020-08-03"
+last_updated: "2020-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el lunes 3 de agosto de 2020.
 
@@ -217,13 +217,13 @@ c. Subdirección General de Prestación de Servicios:
 
 3.2 Unidades Médicas Móviles Especializadas
 
-3.3 Hospitales.
+3.3 (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2020)
 
-3.3.1 Hospital General Pachuca
+3.3.1 (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2020)
 
-3.3.2 Hospital Obstétrico Pachuca
+3.3.2 (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2020)
 
-3.3.3 Hospital Villa Ocaranza
+3.3.3 (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2020)
 
 4 Dirección de Profesionalización en Salud y Calidad en el Servicio;
 
@@ -277,9 +277,9 @@ I. Dirigir la implementación de las disposiciones administrativas relacionadas 
 
 II. Informar periódicamente a las autoridades competentes, el resultado del diagnóstico situacional de las unidades que integran el Organismo;
 
-III. Expedir los nombramientos en la contratación del personal;
+III. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2020)
 
-IV. Comunicar al trabajador la terminación de la relación laboral o conclusión del encargo asignado;
+IV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2020)
 
 V. Gestionar los recursos necesarios para la operación del Organismo ante las Dependencias, Entidades e Instituciones de la Administración Pública Federal, Estatal o Municipal;
 
@@ -921,6 +921,22 @@ XIII. Hospital Básico Comunitario Huehuetla; y
 
 XIV. Los demás que se creen en lo sucesivo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2020)</small>
+
+XIV. Hospital General Pachuca
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2020)</small>
+
+XV. Hospital Obstétrico Pachuca
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Hospital Villa Ocaranza
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Los demás que se creen en lo sucesivo.
+
 ###### Artículo 43.
 
 Corresponde a la Dirección de Unidades Médicas Especializadas:
@@ -1272,3 +1288,15 @@ DESIGNADA POR LA SECRETARÍA DE CONTRALORÍA
 RÚBRICA
 
 LAS PRESENTES FIRMAS CORRESPONDEN AL ACUERDO POR EL QUE LA JUNTA DE GOBIERNO DE SERVICIOS DE SALUD DE HIDALGO APRUEBA EL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO, EN LA TERCERA SESIÓN EXTRAORDINARIA 2020 CELEBRADA EL DIA VEINTIUNO DE MAYO DEL AÑO DOS MIL VEINTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL LA JUNTA DE GOBIERNO APRUEBA LAS REFORMAS AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO”.]
+
+PRIMERO.- Las presentes reformas y adiciones al Estatuto Orgánico de Servicios de Salud de Hidalgo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Las unidades que integran el Organismo vinculadas con estas reformas y adiciones deberán actualizar sus manuales de organización y procedimientos en un plazo de 60 días hábiles.
+
+TERCERO.- Las presentes reformas y adiciones al Estatuto Orgánico deberán hacerse llegar al Registro Público en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, en un término no mayor a 30 días hábiles.
