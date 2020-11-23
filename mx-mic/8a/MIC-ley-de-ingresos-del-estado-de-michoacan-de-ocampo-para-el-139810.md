@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13981
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-10-15"
+last_updated: "2020-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Trigésima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2019.
 
@@ -303,17 +303,65 @@ II. Los de largo plazo, de conformidad con lo dispuesto por la Ley de Deuda Púb
 
 III. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, la contratación de financiamiento con las instituciones del sistema financiero mexicano, hasta por la cantidad de $4,090’000,000.00 (Cuatro mil noventa millones de pesos 00/100 M.N.), a través de uno o varios créditos, para destinarlo a las inversiones públicas productivas y a la constitución de fondos de reserva, así como para realizar diversas operaciones y actos relacionados, bajo los siguientes términos:
+Se autoriza al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo para que, a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, lleve a cabo la contratación de financiamiento con las instituciones del sistema financiero en los siguientes términos:
+
+1. Hasta por la cantidad de $4,090’000,000.00 (Cuatro mil noventa millones de pesos 00/100 M.N.), a través de uno o varios créditos, para destinarlo a las inversiones públicas productivas y a la constitución de fondos de reserva, así como para realizar diversas operaciones y actos relacionados, bajo los siguientes términos:
 
 I. El financiamiento a que se refiere el párrafo anterior deberá destinarse a:
 
-(a) Hasta la cantidad de $4,000’000,000.00 (Cuatro mil millones de pesos 00/100 M.N.), a las inversiones públicas productivas en los siguientes rubros de inversión:
+a) Hasta la cantidad de $4,000’000,000.00 (Cuatro mil millones de pesos 00/100 M.N.), a las inversiones públicas productivas en los siguientes rubros de inversión:
 
-> <small>[N. DE E. VÉASE TABLA EN LA TRIGÉSIMA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINA 10.]</small>
+Rubro de inversión Monto
 
-Lo anterior en el entendido que si por imposibilidad jurídica o material, retrasos en la asignación de los proyectos, o bien, en el caso de economías en los procesos de adjudicación y desarrollo de las obras, el Titular del Poder Ejecutivo podrá, previo dictamen de la Comisión de Gasto Financiamiento, destinar el recurso del financiamiento previsto para determinado rubro de inversión, a otro de los rubros de inversión antes señalados, siempre y cuando no se rebase el monto total de financiamiento autorizado. El Ejecutivo del Estado informará al Congreso del Estado sobre las reasignaciones del financiamiento en los términos del presente párrafo y su aplicación en los informes financieros trimestrales que correspondan.
+Infraestructura educativa y de
+
+investigación. $ 50,998,000.00
+
+Espacios deportivos, recreativos,
+
+turísticos y culturales. $ 249,300,000.00
+
+Vialidades urbanas. $ 651,957,582.75
+
+Plazas, parques, jardines y
+
+espacios abiertos. $ 29,250,000.00
+
+Edificaciones para el acopio,
+
+intercambio y distribución de
+
+bienes y servicios. $ 3,000,000.00
+
+Edificios, sitios y monumentos
+
+históricos y artísticos. $ 801,280,059.52
+
+Centros de asistencia social. $ 3,060,000.00
+
+Carreteras, autopistas y
+
+aeropistas. $1,095,255,827.14
+
+Otras obras de urbanización. $18,340,000.00
+
+Instalaciones y equipamiento
+
+de edificaciones para la seguridad
+
+pública, policía y tránsito. $ 977,558,530.59
+
+Instalaciones y equipamiento
+
+en calles, parques y jardines. $ 120,000,000.00
+
+Total $4,000,000,000.00
+
+Lo anterior, en el entendido que si por imposibilidad jurídica o material, retrasos en la asignación de los proyectos, o bien, en el caso de economías en los procesos de adjudicación y desarrollo de las obras, el Titular del Poder Ejecutivo podrá, previo dictamen de la Comisión de Gasto Financiamiento, destinar el recurso del financiamiento previsto para determinado rubro de inversión, a otro de los rubros de inversión antes señalados, siempre y cuando no se rebase el monto total de financiamiento autorizado. El Ejecutivo del Estado informará al Congreso del Estado sobre las reasignaciones del financiamiento en los términos del presente párrafo y su aplicación en los informes financieros trimestrales que correspondan.
 
 (b) Hasta la cantidad de $90’000,000.00 (Noventa millones de pesos 00/100 M.N.) a la constitución de los fondos de reserva.
 
@@ -321,35 +369,35 @@ II. El financiamiento podrá contratarse hasta por un plazo de 20 (veinte) años
 
 III. En los créditos que documenten el financiamiento se podrá estipular un periodo de gracia para pago de capital hasta de 12 (doce) meses, contados a partir de la primera disposición del crédito.
 
-IV. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración para que suscriba, con las instituciones del sistema financiero mexicano que ofrezcan las mejores condiciones de mercado, instrumentos derivados asociados a los créditos que se celebren con base en el presente artículo y/o a los financiamientos que constituyen la deuda pública del Estado, con las características, monto, plazo, condiciones y términos que determine la Secretaría de Finanzas y Administración al momento de celebrar los instrumentos jurídicos que documenten dichas operaciones, los cuales podrán tener la misma fuente de pago que los créditos a los que se encuentren asociados, con la prelación que para tales efectos se estipule en el fideicomiso correspondiente.
+2. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración para que suscriba, con las instituciones del sistema financiero mexicano que ofrezcan las mejores condiciones de mercado, instrumentos derivados asociados a los créditos que se celebren con base en el presente artículo y/o a los financiamientos que constituyen la deuda pública del Estado, con las características, monto, plazo, condiciones y términos que determine la Secretaría de Finanzas y Administración al momento de celebrar los instrumentos jurídicos que documenten dichas operaciones, los cuales podrán tener la misma fuente de pago que los créditos a los que se encuentren asociados, con la prelación que para tales efectos se estipule en el fideicomiso correspondiente.
 
-V. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que afecte como fuente de pago de los créditos e instrumentos derivados que se contraten con base en este artículo, el derecho y los ingresos hasta del 18% (dieciocho por ciento) de las participaciones federales que le corresponden al Estado del Fondo General de Participaciones, excluyendo el porcentaje que con cargo a dicho fondo corresponde a los Municipios, así como cualquier otro derecho e ingreso que, en su caso, lo modifique, sustituya o complemente, sin afectar derechos de terceros.
+3. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que afecte como fuente de pago de los créditos e instrumentos derivados que se contraten con base en el presente artículo, el derecho y los ingresos hasta del 18% (dieciocho por ciento) de las participaciones federales que le corresponden al Estado del Fondo General de Participaciones, excluyendo el porcentaje que con cargo a dicho fondo corresponde a los Municipios, así como cualquier otro derecho e ingreso que, en su caso, lo modifique, sustituya o complemente, sin afectar derechos de terceros.
 
-VI. La afectación a que se refiere la fracción V de este artículo podrá formalizarse mediante la constitución de uno o varios fideicomisos irrevocables de administración y fuente de pago, con la institución financiera de su elección y/o a través de fideicomisos previamente constituidos para tal efecto. Asimismo, en el caso que resulte necesario y/o conveniente para la instrumentación de las operaciones a que se refiere el presente artículo, se autoriza la modificación integral o parcial de los contratos de fideicomiso y fideicomisos maestros vigentes a la fecha, previo cumplimiento de los requisitos contractuales estipulados en dichos contratos.
+4. Las afectaciones a que se refiere el numeral 3 anterior, podrá formalizarse mediante la constitución de uno o varios fideicomisos irrevocables de administración y fuente de pago, con la institución financiera de su elección y/o a través de fideicomisos previamente constituidos para tal efecto. Asimismo, en el caso que resulte necesario y/o conveniente para la instrumentación de las operaciones a que se refiere el presente artículo, se autoriza la modificación integral o parcial de los contratos de fideicomiso y fideicomisos maestros vigentes a la fecha, previo cumplimiento de los requisitos contractuales estipulados en dichos contratos.
 
 Asimismo, la Secretaría de Finanzas y Administración podrá instrumentar el o los nuevos fideicomisos como fideicomisos maestros, es decir, como mecanismos que puedan servir como fuente de pago de los financiamientos y operaciones que se celebren con base en el presente artículo, así como de otras operaciones que se celebren en el futuro, siempre y cuando se estipule en el o los fideicomisos respectivos, que se acredite la autorización del H. Congreso del Estado de la operación de que se trate, para que proceda su inscripción en el registro del fideicomiso, o bien, que se trata de un caso de excepción de la autorización del H. Congreso del Estado en términos de la normatividad aplicable, así como reglas claras para la asignación y distribución del patrimonio del fideicomiso entre los fideicomisarios respectivos.
 
 En el fideicomiso deberá estipularse que, una vez que se hayan liquidado en su totalidad los contratos y operaciones que se encuentren inscritos en el mismo, se revertirá al Estado el derecho a las participaciones que se hubiere afectado como fuente de pago de los mismos, así como cualesquiera cantidades líquidas que existieran en las cuentas del fideicomiso correspondiente.
 
-El o los fideicomisos que se constituyan en términos del presente artículo no serán considerados fideicomisos públicos paraestatales y no formarán parte de la Administración Pública Paraestatal.
+El o los fideicomisos que se constituyan en términos del presente numeral no serán considerados fideicomisos públicos paraestatales y no formarán parte de la Administración Pública Paraestatal.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, deberá notificar a la Secretaría de Hacienda y Crédito Público, la constitución del o de los fideicomisos a que se refiere esta fracción, instruyéndola irrevocablemente para que, respecto de cada ministración o entrega de participaciones, abone los flujos correspondientes de las participaciones fideicomitidas en el fideicomiso respectivo, hasta el pago total de las operaciones que se encuentren inscritas en el mismo.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, deberá notificar a la Secretaría de Hacienda y Crédito Público, la constitución del o de los fideicomisos a que se refiere el primer párrafo de este artículo instruyéndola irrevocablemente para que, respecto de cada ministración o entrega de participaciones, abone los flujos correspondientes de las participaciones fideicomitidas en el fideicomiso respectivo, hasta el pago total de las operaciones que se encuentren inscritas en el mismo.
 
-VII. El proceso de contratación del financiamiento y los instrumentos derivados se realizará en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, a efecto de obtener las mejores condiciones de mercado. Los aspectos no previstos en las disposiciones aplicables serán definidos por la Secretaría de Finanzas y Administración.
+5. El proceso de contratación del financiamiento y los instrumentos derivados se realizará en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, a efecto de obtener las mejores condiciones de mercado. Los aspectos no previstos en las disposiciones aplicables serán definidos por la Secretaría de Finanzas y Administración.
 
-VIII. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que negocie y apruebe las bases, términos, condiciones y modalidades que estime necesarias o convenientes, así como que suscriba los contratos, convenios, títulos
+6. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que negocie y apruebe las bases, términos, condiciones y modalidades que estime necesarias o convenientes, así como que suscriba los contratos, convenios, títulos y documentos para la contratación de las operaciones que se autorizan en el presente artículo, incluyendo títulos de crédito y demás instrumentos legales requeridos para tales efectos.
 
-y documentos para la contratación de las operaciones que se autorizan en el presente artículo, incluyendo títulos de crédito y demás instrumentos legales requeridos para tales efectos.
+7. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que realice todas las gestiones, negociaciones y trámites necesarios ante las entidades públicas y privadas que correspondan, tendientes a la celebración del financiamiento y, en su caso, de los instrumentos derivados, la constitución y/o modificación de los fideicomisos irrevocables de administración y pago, así como para celebrar todos los actos jurídicos necesarios o convenientes para dar cumplimiento al presente artículo y, en su momento, a los instrumentos jurídicos que con base en el mismo se hubieran suscrito, así como realizar notificaciones, dar avisos, presentar información, solicitar inscripciones en registros, entre otras.
 
-IX. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, para que realice todas las gestiones, negociaciones y trámites necesarios ante las entidades públicas y privadas que correspondan, tendientes a la celebración del financiamiento y, en su caso, de los instrumentos derivados, la constitución y/o modificación de los fideicomisos irrevocables de administración y pago, así como para celebrar todos los actos jurídicos necesarios o convenientes para dar cumplimiento al presente articulo y, en su momento, a los instrumentos jurídicos que con base en el mismo se hubieran suscrito.
+8. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, a realizar las contrataciones y erogaciones que resulten necesarias para la instrumentación de los financiamientos y los instrumentos derivados, tales como, la contratación de fiduciarios, calificadoras, asesores, notarios, entre otros servicios que, en su caso, se requieran para el diseño y la instrumentación de las operaciones que se celebren al amparo del presente artículo en el entendido que dichas contrataciones serán cubiertas con cargo a los recursos presupuestales del Estado.
 
-X. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, a realizar las contrataciones y erogaciones que resulten necesarias para la instrumentación de los financiamientos y los instrumentos derivados, tales como, la contratación de fiduciarios, calificadoras, asesores, notarios, entre otros servicios que, en su caso, se requieran para el diseño y la instrumentación de las operaciones que se celebren al amparo del presente artículo, en el entendido que dichas contrataciones serán cubiertas con cargo a los recursos presupuestales del Estado.
+9. Cuando el Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, realice las operaciones a que se refiere este artículo, se tendrá por modificado el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo para el Ejercicio Fiscal 2020, en el capítulo del gasto denominado deuda pública considerando el monto del servicio de la deuda que resulte de las operaciones contratadas y ejercidas al amparo del presente artículo.
 
-XI. Cuando el Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, realice las operaciones a que se refiere este artículo, se tendrá por modificado el presupuesto de egresos del Gobierno del Estado de Michoacán de Ocampo para el Ejercicio Fiscal 2020, en el capítulo del gasto denominado deuda publica considerando el monto del servicio de la deuda que resulte de las operaciones contratadas y ejercidas al amparo del presente artículo.
+El Ejecutivo del Estado de Michoacán, con el apoyo de la Secretaría de Finanzas y Administración, deberá prever en el proyecto de presupuesto de egresos de cada ejercicio fiscal, el pago y servicio de los créditos y, en su caso, instrumentos derivados que se contraten al amparo del presente artículo, hasta su total liquidación.
 
-XII. El Ejecutivo del Estado de Michoacán, con el apoyo de la Secretaría de Finanzas y Administración, deberá prever en el proyecto de presupuesto de egresos de cada ejercicio fiscal, el pago y servicio de los créditos y, en su caso, instrumentos derivados que se contraten al amparo del presente artículo, hasta su total liquidación.
+10. Las autorizaciones contenidas en el presente artículo se otorgaron previo análisis de la capacidad de pago del Estado, del destino del financiamiento y de los instrumentos derivados, y del otorgamiento de recursos como fuente de pago, con el voto requerido en términos del artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, 22 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 2°, párrafo quinto, de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-Las autorizaciones contenidas en el presente artículo se otorgaron previo análisis de la capacidad de pago del Estado, del destino del financiamiento y de los instrumentos derivados, y del otorgamiento de recursos como fuente de pago, con el voto requerido en términos del artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, 22 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 2°, párrafo quinto, de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+11. Si hubiese incumplimiento de los actos jurídicos a que hace referencia el numeral anterior, el Gobierno del Estado podrá rescindir los mismos, respetando las formalidades esenciales del procedimiento y en atención a lo dispuesto por el Código de Justicia Administrativa del Estado de Michoacán de Ocampo. En el supuesto que se acredite el incumplimiento de alguna de las partes, se podrá determinar la obligación del pago de daños y perjuicios. Además, se podrá celebrar un nuevo contrato de apertura de crédito, en términos de la normatividad aplicable, garantizando las mejores condiciones de mercado, previa celebración de un proceso competitivo conforme a lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y sin que el monto de financiamiento exceda lo dispuesto en el presente artículo.
 
 ###### Artículo 27.
 
@@ -486,3 +534,19 @@ P.O. 15 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 372 POR EL QUE “SE REFORMA EL ARTÍCULO 26 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2020”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autorizaciones contenidas en el presente Decreto fueron aprobadas por las dos terceras partes de los miembros presentes del H. Congreso del Estado de Michoacán y se otorgaron previo análisis del destino, de la capacidad de pago del Estado, y del establecimiento de las fuentes de pago correspondientes.
+
+TERCERO. Los actos jurídicos celebrados con anterioridad al presente Decreto al amparo del artículo 26 de la Ley de Ingresos del Estado de Michoacán de Ocampo para el Ejercicio Fiscal del Año 2020 surtirán todos sus efectos legales desde la fecha de su celebración.
+
+Los acreedores podrán ceder los contratos de crédito correspondientes en los términos de la normatividad aplicable y de las estipulaciones de los instrumentos jurídicos respectivos.
+
+CUARTO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
+
+QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
