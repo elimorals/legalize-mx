@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-tribunal-8347
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2016-02-05"
+last_updated: "2020-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83470&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -160,9 +160,9 @@ El Pleno, la Presidenta o el Presidente, la Comisión de Conciliación y Arbitra
 
 Las relaciones laborales del Tribunal con sus personas servidoras, se rigen por lo dispuesto en la fracción XIV, del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones del Código, la Ley Procesal, el Reglamento Interior y este Reglamento.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-De conformidad con lo previsto por el artículo 149 del Código, todas las personas servidoras del Tribunal son de confianza, no gozan de estabilidad en el empleo y sólo disfrutaran de las medidas de protección al salario, las atientes a sus retribuciones y compensaciones por los servicios prestados, así como de los beneficios de la seguridad social.
+De conformidad con lo previsto por el artículo 231 del Código, todas las personas servidoras del Tribunal, con independencia de su régimen, disfrutarán de las medidas de protección al salario, las atinentes a sus retribuciones y compensaciones por los servicios prestados, así como de los beneficios de la seguridad social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
 
@@ -180,11 +180,13 @@ Aquella persona propuesta para desempeñar un cargo en el Tribunal, deberá requ
 
 Los perfiles de puestos, entrevistas, y demás acciones de reclutamiento de personal que se requieran, deberán sujetarse a la normatividad que emita el Pleno, misma que atenderá al enfoque de derechos humanos y la perspectiva de género, en los programas y legislación atinente del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Las y los titulares de los órganos y áreas deberán llevar a cabo las acciones de reclutamiento de personal, con candidatos/as que cubran el perfil de los puestos vacantes que se presenten en el Tribunal, así como las entrevistas al personal propuesto a ocupar una plaza vacante, a efecto de evaluarlo. En aquellos puestos que por la naturaleza de sus actividades se requiera de habilidades específicas, aplicarán los exámenes técnicos que permitan demostrar el dominio de dichas habilidades, una vez concluidas de manera satisfactoria las evaluaciones se podrá dar inicio a la relación laboral.
+Cada Titular de los órganos y áreas deberán llevar a cabo las acciones de reclutamiento de personal, con candidaturas que cubran el perfil de los puestos vacantes que se presenten en el Tribunal, así como las entrevistas al personal propuesto a ocupar una plaza vacante, a efecto de su evaluación. En aquellos puestos que por la naturaleza de sus actividades se requiera de habilidades específicas, la persona Titular aplicará los exámenes técnicos que permitan demostrar el dominio de dichas habilidades, una vez concluidas de manera satisfactoria las evaluaciones se podrá dar inicio a la relación laboral.
 
-Lo anterior, sin menoscabo de las atribuciones de las o los Magistrados para nombrar y remover al personal jurídico y administrativo de su ponencia.
+Lo anterior, sin menoscabo de las atribuciones de las Magistraturas para nombrar y remover al personal jurídico y administrativo de su ponencia, así como de la Presidencia para remover al personal del Tribunal; en ambos casos, se deberá atender lo dispuesto en el artículo 79 del presente Reglamento.
 
 ###### Artículo 10.
 
@@ -238,6 +240,14 @@ El nombramiento otorgado a la persona servidora del Tribunal, la obliga a desemp
 
 A ninguna persona se le expedirá nombramiento que lo acredite como persona servidora del Tribunal, sin que previamente haya cumplido con los requisitos de ingreso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+Los nombramientos que se hagan de personas servidoras públicas del Tribunal, no podrán recaer en ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado por consanguinidad y segundo por afinidad, respecto de la persona servidora pública que haga la designación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+Las personas servidoras públicas del Tribunal Electoral, durante su encargo, no podrán ser Notarias, Corredoras, Comisionistas, Apoderadas judiciales, Tutoras, Curadoras, Albaceas, Depositarias, Síndicas, Administradoras, Interventoras, o tener funciones o cargos de arbitraje o peritaje, ni ejercer la abogacía, sino en causa propia.
+
 Queda prohibido utilizar los servicios meritorios, así como de personas que carezcan de nombramiento, salvo cuando se trate de la prestación del servicio social y/o prácticas profesionales en términos de lo establecido en este Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
@@ -256,9 +266,9 @@ La suspensión surtirá efectos desde el momento en que se tenga conocimiento de
 
 Durante el tiempo de la suspensión de la persona servidora no se generará retribución alguna a su favor.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-La Secretaria o el Secretario, a petición de la o del titular del órgano o área de adscripción de la persona servidora del Tribunal, podrá dar por terminados los efectos del nombramiento en caso de auto de vinculación a proceso que decrete prisión preventiva, con excepción de los delitos culposos.
+La Secretaría, a petición de la persona Titular del órgano o área del Tribunal, podrá dar por terminados los efectos del nombramiento en caso que la persona servidora adscrita a ese órgano o área sea vinculada a proceso y se le decrete prisión preventiva, con excepción de los delitos culposos.
 
 ###### Artículo 17.
 
@@ -276,6 +286,10 @@ Las personas servidoras del Tribunal prestarán sus servicios personales y subor
 
 En caso de comisión temporal o readscripción por necesidades del servicio, el/la titular de la Secretaría comunicará por escrito a la persona servidora del Tribunal al menos con veinticuatro horas de anticipación, indicándole el lugar al que se le comisiona, sus funciones y la temporalidad, o bien, el nuevo lugar de adscripción. Tratándose de readscripción se elaborará el nuevo Formato Único de Personal; para el caso de que existan asuntos pendientes que desahogar, se deberá dejar constancia de dicha circunstancia con su superior/a jerárquico/a, a efecto de que se adopten las medidas conducentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+Para el efecto anterior, cada titular de los órganos y áreas deberán solicitar la comisión o readscripción a la persona titular de la Secretaría, quien será la única facultada para emitir el oficio respectivo.
+
 #### Sección II. De la estructura orgánica
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
@@ -288,9 +302,11 @@ La estructura orgánica es la que se encuentra determinada en el Código, en el 
 
 El Pleno es el único facultado para crear los cargos y puestos de la estructura orgánica, modificar o eliminar los mismos, así como para determinar los niveles que los conforman y los tabuladores salariales, a propuesta debidamente soportada de la Secretaría.
 
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Los niveles que se integren en el tabulador de salarios del Tribunal serán aquellos que se encuentren incluidos en el catálogo de cargos y puestos aprobado por el Pleno.
+Los niveles que se integren en el tabulador de salarios del Tribunal serán aquellos que se encuentren incluidos en el Manual de Organización y Funcionamiento del Tribunal Electoral de la Ciudad de México aprobado por el Pleno; asimismo, se establecerá un esquema de flexibilidad compensatoria para la ocupación de la estructura orgánica y funcional de la Presidencia y de las Ponencias del Tribunal, el cual consiste en poder dividir las plazas, tanto de estructura como de honorarios, sin rebasar el techo presupuestal asignado. En el caso de las demás personas servidoras, dicho esquema de flexibilidad aplicará, previa autorización de la Magistratura titular de la Presidencia.
 
 ###### Artículo 21.
 
@@ -368,9 +384,13 @@ XVII. Cumplir las comisiones que se les encomienden;
 
 XVIII. Reintegrar los pagos que el Tribunal haya hecho en exceso, dentro del término de quince días naturales, a partir de la recepción del aviso de reintegro, en caso de incumplimiento, la Secretaría realizará el descuento correspondiente de la nómina siguiente. En caso de que el servidor/a haya dejado de prestar sus servicios para el Tribunal, en el mismo plazo deberá reintegrar las cantidades pagadas en exceso y en caso de no hacerlo se dará vista a la Contraloría General del Tribunal y en su caso, al Ministerio Público;
 
-XIX. Retirarse de las instalaciones del Tribunal, previo dictamen médico, en razón de haber contraído alguna enfermedad que implique un riesgo de contagio para la salud de las personas que trabajen en el mismo entorno, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-XX. Las que les impongan las disposiciones aplicables y la normatividad interna que emita el Pleno.
+XIX. Reparar o pagar cualquier desperfecto o daño que se cause a los vehículos y bienes propiedad del Tribunal, previo requerimiento por escrito por parte de la Dirección de Recursos Materiales y Servicios Generales, el cual, de no ser cubierto dentro del plazo concedido, será descontado de la nómina de la persona servidora responsable, pudiendo acordarse que dicho descuento sea en parcialidades. Con independencia de lo anterior, en caso de negativa o reticencia a realizar el pago, la referida Dirección dará vista a la Contraloría Interna para que, dentro de su ámbito de atribuciones, determine lo que corresponda;
+
+XX. Retirarse de las instalaciones del Tribunal, previo dictamen médico, en razón de haber contraído alguna enfermedad que implique un riesgo de contagio para la salud de las personas que trabajen en el mismo entorno, y
+
+XXI. Las que les impongan las disposiciones aplicables y la normatividad interna que emita el Pleno.
 
 ###### Artículo 24.
 
@@ -386,7 +406,9 @@ IV. Intervenir en asuntos electorales no vinculados con el ejercicio de las func
 
 V. Comprometer, inclusive por imprudencia o descuido inexcusable, la seguridad del centro de trabajo, de las personas o de los bienes que se encuentren dentro del Tribunal;
 
-VI. Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y por escrito de su superior/a jerárquico/a, en el caso del equipo y mobiliario dicha autorización correrá a cargo de la o el Secretario;
+> <small>(REFORMADA, G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+VI. Sustraer documentos, equipo, mobiliario o útiles de trabajo del Tribunal, sin la autorización previa y por escrito de la persona jerárquicamente superior, en el caso del equipo y mobiliario, dicha autorización correrá a cargo de la Secretaría a través de la Dirección de Recursos Materiales y Servicios Generales;
 
 VII. Incurrir en faltas injustificadas a sus labores;
 
@@ -644,13 +666,13 @@ Se entiende por vacaciones el tiempo que en términos del presente Reglamento se
 
 Para el ejercicio de este derecho, las personas servidoras del Tribunal deberán contar con seis meses de servicios ininterrumpidos en el Tribunal antes de que dé inicio el derecho a gozar de cualquiera de los períodos vacacionales, dicho período vacacional deberá concederse al servidor público como máximo dentro de los tres meses siguientes al cumplimiento de los seis meses de servicios ininterrumpidos.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-Todo lo relacionado respecto al disfrute de los períodos vacacionales será determinado por la Presidenta o el Presidente previo visto bueno del Pleno, tomando en consideración si al momento de que se fijen los períodos vacacionales, los servidores públicos cumplen en ese período con los meses ininterrumpidos de servicios, entonces, tendrán derecho a gozar del período vacacional fijado por el Pleno, en los términos establecidos en el presente Reglamento.
+Todo lo relacionado respecto al disfrute de los períodos vacacionales será determinado por el Pleno a propuesta de la persona titular de la Secretaría, tomando en consideración si al momento de que se fijen los períodos vacacionales, las personas servidoras públicas cumplen en ese período con los meses ininterrumpidos de servicios, entonces, tendrán derecho a gozar del período vacacional fijado por el Pleno, en los términos establecidos en el presente Reglamento a propuesta de la Secretaría.
 
-> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-Si la relación entre el servidor público y el Tribunal termina antes de que se cumplan los seis meses de servicios, el servidor tendrá derecho a una remuneración proporcionada al tiempo de servicios prestados.
+Si la relación entre la persona servidora pública y el Tribunal termina antes de que se cumplan los seis meses de servicios, la persona servidora tendrá derecho a una remuneración proporcional al tiempo de servicios prestados.
 
 ###### Artículo 45.
 
@@ -682,9 +704,9 @@ La Secretaría, por conducto de la Dirección de Recursos Humanos, vigilará que
 
 Cuando la persona servidora del Tribunal no pueda disfrutar del período vacacional durante el periodo autorizado y previo a la solicitud de las vacaciones, por causa de enfermedad legalmente acreditada que la incapacite, la persona servidora pública tendrá derecho a disfrutar de su período vacacional, una vez que aquella haya concluido, siempre y cuando las necesidades del servicio lo permitan, contando para tal efecto con la autorización de su superior/a jerárquico/a.
 
-> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-Asimismo, se les concederá dicho período a los servidores públicos que hayan cumplido seis meses ininterrumpidos en el Tribunal, aún después de los períodos fijados por el Pleno, previa solicitud y autorización de su superior/a jerárquico/a.
+Asimismo, se les concederá dicho período a las personas servidoras públicas que hayan cumplido seis meses ininterrumpidos en el Tribunal, aún después de los períodos fijados por el Pleno, previa solicitud y autorización de la persona jerárquicamente superior.
 
 Cuando la persona servidora del Tribunal no pueda disfrutar del período vacacional por causa de carga de trabajo derivada de la actividad del órgano o área de adscripción, gozará de esta prestación en un período distinto al autorizado por el Pleno, siempre y cuando se encuentre autorizada la solicitud de su titular.
 
@@ -1052,11 +1074,11 @@ La Secretaría podrá realizar movimientos por cambios de adscripción o comisi�
 
 #### Sección I. De la terminación de la relación laboral y su comunicación a la persona servidora
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 77.
 
-La relación de trabajo y los efectos de los nombramientos de las personas servidoras podrán darse por terminados en cualquier momento sin responsabilidad para el Tribunal, atendiendo a su calidad de servidores/as de confianza. La determinación respectiva deberá ser firmada por la Presidenta o el Presidente, y comunicada personalmente a la persona servidora.
+La relación de trabajo y los efectos de los nombramientos de las personas servidoras podrán darse por terminados en cualquier momento sin responsabilidad para el Tribunal cuando se actualice alguna de las causas previstas en el artículo 79 de este Reglamento. La determinación respectiva deberá ser firmada por la persona titular de la Presidencia, y comunicada personalmente a la persona servidora.
 
 Si la persona servidora del Tribunal se negare a recibir la comunicación respectiva, la Secretaria o el Secretario General, por conducto de la Oficina de Actuarios/as, practicará la notificación en los términos de ley.
 
@@ -1082,11 +1104,11 @@ I. La renuncia irrevocable;
 
 II. El abandono del empleo, que consistirá en que la persona servidora tenga más de tres inasistencias, sin justificación alguna, en un periodo de treinta días;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+III. (DEROGADA, G.O. 24 DE NOVIEMBRE DE 2020);
 
-III. La terminación de los efectos del nombramiento sin responsabilidad para el Tribunal, en virtud de que todas las personas servidoras del órgano jurisdiccional son consideradas de confianza, en términos de lo previsto por la Sección I de este Capítulo;
+> <small>(REFORMADA, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-IV. El cumplimiento del término del nombramiento, en caso de que éste se hubiese expedido por tiempo determinado;
+IV. El cumplimiento del término del nombramiento, en caso de que éste se hubiese expedido por tiempo determinado; o la conclusión del encargo de la persona servidora por el transcurso del tiempo para el cual fue designada en términos de la ley aplicable;
 
 V. La conclusión de la obra, en caso de que el nombramiento se hubiese expedido para obra determinada;
 
@@ -1096,9 +1118,17 @@ VII. Por sentencia ejecutoriada que imponga a la persona servidora una pena de p
 
 VIII. Convenio por mutuo consentimiento;
 
-IX. En caso de que la persona servidora quede separada del Tribunal por reestructuración o reorganización administrativa, o por modificación a la estructura ocupacional que implique la supresión de plazas, cargos o puestos, y
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
-X. La muerte de la persona servidora del Tribunal.
+IX. En caso de que la persona servidora quede separada del Tribunal por reestructuración o reorganización administrativa, o por modificación a la estructura ocupacional que implique la supresión de plazas, cargos o puestos;
+
+> <small>(REFORMADA, G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+X. La muerte de la persona servidora del Tribunal; y
+
+> <small>(ADICIONADA, G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+XI. Por resolución del Pleno en los Juicios Especiales Laborales.
 
 ###### Artículo 80.
 
@@ -1134,6 +1164,10 @@ I. Para dar por concluida la relación laboral que los vincula, por mutuo consen
 
 II. Para dar continuidad a la relación laboral que los vincula, previo consentimiento de la persona servidora del Tribunal y aceptación de su nueva condición laboral, cuando vaya a ocupar una plaza de menor nivel salarial a la que venía desempeñando, con motivo de una reestructuración o reorganización administrativa o por modificación a la estructura ocupacional.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+III. Por conclusión del encargo de la persona servidora pública por el transcurso del tiempo para el cual fue designada en términos de la Ley aplicable. En todos los casos y supuestos, el pago por única vez deberá ser aprobado mediante acuerdo del Pleno.
+
 ###### Artículo 83.
 
 El pago por única vez sólo podrá efectuarse si se cumplen los requisitos siguientes:
@@ -1156,11 +1190,11 @@ V. Mediante la celebración de un convenio que deberá ratificarse y cumplimenta
 
 Para efectos de cuantificar el pago por única vez, el salario corresponderá al bruto mensual que venía percibiendo la persona servidora del Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 85.
 
-El importe del pago por única vez, para dar por terminada la relación de trabajo por mutuo consentimiento se le otorgará al servidor público que haya prestado su servicio al Tribunal por el período de seis meses ininterrumpidos, y será por el equivalente a tres meses de salario bruto y adicionalmente veinte días por cada año de prestación de servicios, para el caso de que no se haya cumplido el año de prestación de servicios, esta última será cubierta en su parte proporcional.
+El importe del pago por única vez, para dar por terminada la relación de trabajo por mutuo consentimiento se le otorgará a la persona servidora pública que haya prestado su servicio al Tribunal por el período de seis meses ininterrumpidos, y será por el equivalente a tres meses de salario bruto y adicionalmente veinte días por cada año de prestación de servicios, para el caso de que no se haya cumplido el año de prestación de servicios, esta última será cubierta en su parte proporcional.
 
 > <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
 
@@ -1315,3 +1349,11 @@ PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su ap
 SEGUNDO. Con motivo de la reforma al artículo 43 del presente Reglamento, por única ocasión, en dos mil dieciséis el día de descanso obligatorio en conmemoración del día del trabajador del Tribunal, será el doce de febrero del mismo año.
 
 TERCERO. Publíquese esta reforma en la Gaceta Oficial de la Ciudad de México, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 24 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en los Estrados del Tribunal Electoral de la Ciudad de México y, para su mayor difusión, en la Gaceta Oficial de la Ciudad de México.
