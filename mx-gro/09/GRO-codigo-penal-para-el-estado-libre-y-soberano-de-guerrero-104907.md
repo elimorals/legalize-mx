@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2020-11-20"
+last_updated: "2020-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -3559,7 +3559,9 @@ Cuando el monto de lo distraído o de los fondos utilizados ilícitamente no exc
 
 Cuando el monto de lo distraído o de los fondos utilizados ilícitamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-Cuando los recursos materia del peculado sean aportaciones para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+Cuando los recursos materia del peculado sean aportaciones para los fines de la seguridad pública o de la salud pública, se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
 ### Capítulo IV. Ultrajes a la autoridad
 
@@ -4880,3 +4882,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 24 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 467 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 284 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
