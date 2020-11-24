@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-10-02"
+last_updated: "2020-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -1327,13 +1329,17 @@ XVII. Las asignaciones y bienes materiales entregados a Grupos Legislativos o Di
 
 Por transparencia proactiva además se deberá publicar las Agendas Legislativas de los Grupos y Representaciones Legislativas, las versiones estenográficas y los planes de trabajo de las Comisiones Generales, Especiales y Comités; así como el archivo histórico de la actividad legislativa de al menos dos legislaturas anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 80.
 
-Además de lo señalado en el Capítulo II del presente Título, el Poder Judicial deberá publicar, difundir y mantener actualizada y accesible, la información siguiente:
+Además de lo señalado en el Capítulo II del presente Título, el Poder Judicial deberá publicar, difundir, poner a disposición del público y mantener actualizada y accesible, la información siguiente:
 
 l. Los criterios de interpretación que se emitan, en su caso;
 
-II. La versión pública de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2020)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2073,9 +2079,11 @@ Las Unidades de Transparencia de los sujetos obligados deberán garantizar las m
 
 Las Unidades de Transparencia de los sujetos obligados deben orientar en forma sencilla y comprensible a toda persona sobre los trámites y procedimientos que deben efectuarse para solicitar información pública, las autoridades o instancias competentes, la forma de realizarlos, la manera de llenar los formularios que se requieran, así como sobre las instancias ante las que se puede acudir a solicitar orientación o presentar inconformidades.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 144.
 
-Toda persona, por sí o por medio de un representante, tiene derecho a presentar solicitudes de acceso, sin necesidad de acreditar interés, justificación o motivación alguna, ni podrá condicionarse el mismo por motivos de discapacidad; no obstante lo anterior los solicitantes deben seguir los procedimientos y cumplir con los requisitos establecidos en la presente Ley.
+Toda persona, por sí o por medio de un representante, tiene derecho a presentar solicitudes de acceso, sin necesidad de acreditar interés, justificación o motivación alguna, ni podrá condicionarse el mismo por motivos de origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana; no obstante lo anterior los solicitantes deben seguir los procedimientos y cumplir con los requisitos establecidos en la presente Ley.
 
 ###### ARTÍCULO 145.
 
@@ -2758,5 +2766,13 @@ P.O. 2 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIX A LA XXXIX DEL ARTÍCULO 7, LA FRACCIÓN XIX DEL 39, EL 54, Y LA FRACCIÓN XLVIII DEL 77, Y ADICIONA LA FRACCIÓN XL AL ARTÍCULO 7, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 80 Y EL ARTÍCULO 144 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, salvo lo dispuesto en el artículo 80 fracción II, el cual entrará en vigor una vez transcurridos los ciento ochenta días que establece el similar por el que se reforma la fracción II del 73 de (sic) Ley General de Transparencia y Acceso a la Información Pública, publicada el día trece de agosto de 2020.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
