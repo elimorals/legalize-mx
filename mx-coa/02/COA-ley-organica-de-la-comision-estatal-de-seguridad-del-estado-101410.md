@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2017-12-26"
+last_updated: "2020-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL NUMERAL SEGUNDO DEL DECRETO NÚMERO 1177, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL NUMERAL SEGUNDO DEL DECRETO NÚMERO 1177, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2017; Y EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017(ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -1978,3 +1978,27 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 800.- SE EXPIDE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los ciento ochenta días contados a partir de la entrada en vigor de del presente decreto, se deberá expedir el reglamento interior respectivo, así como las disposiciones reglamentarias y administrativas necesarias para instrumentar las disposiciones de la presente Ley.
+
+TERCERO. Las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de esta Ley, seguirán aplicándose en todo lo que no se opongan (sic) a lo dispuesto en la misma, hasta en tanto se realice la armonización correspondiente con el presente decreto.
+
+CUARTO. Se abroga la Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan a esta Ley.
+
+QUINTO. Las facultades y obligaciones que en otras leyes, reglamentos, acuerdos, convenios y demás ordenamientos jurídicos estatales o municipales se atribuyan la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza, se entenderán conferidas la Secretaría de Seguridad Pública.
+
+SEXTO. Las unidades administrativas que contempla la Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza, y que se conserven en funcionamiento hasta la fecha de publicación del presente decreto, continuarán ejerciendo las atribuciones establecidas en las disposiciones de la ley que conforme al artículo cuarto se abroga, las cuales continuarán vigentes hasta en tanto se expidan las disposiciones a que se refiere el segundo transitorio del presente decreto.
+
+SÉPTIMO. La Secretaría de Finanzas, en coordinación con la Secretaría de Seguridad Pública, realizará las adecuaciones y gestiones jurídico-administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece esta ley.
+
+OCTAVO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias competentes, deberán implementar las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales de la Secretaría de Gobierno que correspondan al Secretariado Ejecutivo del Sistema Estatal de Seguridad, sean reasignados a la Secretaría de Seguridad Pública, de acuerdo a este decreto y demás disposiciones legales y administrativas aplicables.
+
+Asimismo, los asuntos que se encuentren en trámite del Secretariado Ejecutivo, serán transferidos a la Secretaría de Seguridad Pública.
+
+NOVENO. Los derechos laborales del personal del Secretariado Ejecutivo que, en virtud de lo dispuesto en la presente Ley, sean transferidos de la Secretaría de Gobierno a la Secretaría de Seguridad Pública, serán respetados conforme a las disposiciones aplicables.
