@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2019-12-07"
+last_updated: "2020-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚM. 333.- POR EL QUE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -2074,3 +2076,23 @@ P.O. 7 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. El Ejecutivo Estatal contará con un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones respectivas a las disposiciones reglamentarias de estas leyes.
+
+P.O. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 333.- POR EL QUE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+Segundo. Se abroga la Ley de Educación del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 08 de febrero de 2014 y quedan sin efectos los reglamentos, los acuerdos y las disposiciones de carácter general contrarias al contenido de este Decreto.
+
+Tercero. La autoridad educativa estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días naturales siguientes contados a partir de su entrada en vigor. Hasta su emisión, para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos, seguirán aplicándose las disposiciones vigentes, en lo que no contra vengan (sic) al contenido de este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos por los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Cuarto. Hasta en tanto la autoridad educativa federal no emita los lineamientos para la operación de las Cooperativas Escolares, los Establecimientos Escolares de Consumo seguirán operando con sujeción al Reglamento que rige el funcionamiento de los Establecimientos Escolares de Consumo, y demás disposiciones aplicables.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Sexto. El sistema integral de formación, capacitación y actualización del Estado de Colima, previsto en el artículo 91 de este Decreto, deberá implementarse antes del 31 de diciembre de 2020.
+
+Séptimo. El Programa Educativo Estatal previsto en el artículo 108 de este Decreto se presentará en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en el citado artículo 108 de la presente Ley.
