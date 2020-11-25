@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2020-11-18"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2159,11 +2159,13 @@ I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese dere
 
 II.- (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
-III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2018)</small>
+III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, sin perjuicio de las sanciones penales que procedan;
 
-IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley; y
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2018)</small>
 
@@ -6732,6 +6734,16 @@ TERCERA. Se derogan las disposiciones jurídicas de igual o menor grado que se o
 P.O. 18 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHOCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHOCIENTOS TREINTA Y CUATRO.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 247 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
