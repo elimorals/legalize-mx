@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2019-10-22"
+last_updated: "2020-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -203,9 +203,9 @@ b) Dirección General Adjunta de Programación, Organización y Presupuesto;
 
 c) Dirección General Adjunta de Recursos Materiales y Servicios Generales;
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-d) Dirección General Adjunta de Administración de Riesgos y Transparencia.
+d) Dirección General Adjunta de Apoyo Normativo y Administración de Riesgos.
 
 e) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
@@ -549,9 +549,9 @@ VI. Coordinarse con los Titulares de las Unidades Administrativas del Instituto 
 
 VII. Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo, las que le hayan sido delegadas o le correspondan por suplencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Someter a consideración del Presidente, los proyectos de disposiciones administrativas elaborados por la Unidad Administrativa a su cargo, cuando así corresponda en términos de lo dispuesto por la Ley y el presente Reglamento;
+VIII. Coordinar la elaboración de proyectos de disposiciones normativas relacionados con el ámbito de competencia de la Unidad Administrativa a su cargo, y someterlos a la consideración del Presidente del Instituto y de la Junta de Gobierno, en términos de la normativa aplicable;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1651,6 +1651,18 @@ XVII. Formular opinión a petición del Titular de la Dirección General de su a
 
 XVIII. Proponer el anteproyecto de presupuesto anual requerido para la realización de las atribuciones asignadas, y
 
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XVIII Bis. Desarrollar conceptos y definiciones para mantener actualizado el Sistema de Clasificación Industrial de América del Norte México, así como las clasificaciones de productos asociadas a dicho Sistema, que contribuyan a la elaboración de nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información económica desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XVIII Ter. Proporcionar de manera periódica información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XVIII Quáter. Llevar a cabo actividades relacionadas con la vinculación y conciliación de estadísticas económicas de su competencia, considerando información nacional y extranjera, proporcionada por instituciones públicas y privadas, con el objeto de detectar y cuantificar las diferencias, así como explicar las causas de las discrepancias entre los datos, para contribuir a la medición de la actividad económica en su conjunto;
+
 XIX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 ### Capítulo X,
@@ -2499,9 +2511,9 @@ De la Dirección General de Comunicación, Servicio Público de Información y R
 
 Son atribuciones específicas de la Dirección General de Comunicación, Servicio Público de Información y Relaciones Institucionales las siguientes:
 
-> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-I. Coordinar la estrategia de vinculación acordada con el Presidente, entre el Instituto y los poderes ejecutivo y legislativo, organismos autónomos, medios de comunicación, sector privado, sector académico y organismos no gubernamentales, así como con organismos internacionales, para fomentar el desarrollo del Sistema y promover el aprovechamiento y uso de la información estadística y geográfica;
+I. Coordinar la estrategia de vinculación acordada con el Presidente, entre el Instituto y los poderes ejecutivo y legislativo, organismos autónomos, medios de comunicación, sector privado, sector académico y organismos no gubernamentales, así como con organismos internacionales, para fortalecer las relaciones institucionales con dichos sectores, promover el desarrollo del Sistema y fomentar la cultura estadística y geográfica;
 
 > <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
@@ -2535,9 +2547,9 @@ VIII. Coordinar los eventos internacionales que organiza el Instituto, que tenga
 
 IX. Dirigir y coordinar la estrategia de evaluación de la satisfacción de los usuarios con respecto a la información estadística y geográfica que genera e integra el Instituto;
 
-> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-X. Dirigir y coordinar la estrategia para promover el conocimiento y uso de la información estadística y geográfica que genera e integra el Instituto;
+X. Dirigir y coordinar la estrategia de fomento a la cultura estadística y geográfica;
 
 > <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
@@ -2563,9 +2575,9 @@ XIV. Dirigir y coordinar la prestación del Servicio Público de la Información
 
 XV. Dirigir y coordinar la estrategia de difusión de la información estadística y geográfica a través de Internet, con base a las mejores prácticas internacionales y a la estrategia de comunicación del Instituto;
 
-> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-XVI. Proponer las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información, difusión, vinculación institucional, comunicación, identidad institucional y de promoción de la información estadística y geográfica que genera e integra el Instituto y supervisar su aplicación;
+XVI. Proponer las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información, difusión, vinculación institucional, comunicación, identidad institucional y de fomento a la cultura estadística y geográfica, y supervisar su aplicación;
 
 > <small>(ADICIONADA, D.O.F. 22 DE OCTUBRE DE 2019)</small>
 
@@ -2593,15 +2605,25 @@ XX. Las facultades que expresamente le otorga el artículo 11 de este Reglamento
 
 Son atribuciones específicas de la Dirección General Adjunta de Comunicación, las siguientes:
 
-I. Diseñar y producir contenidos y materiales gráficos y audiovisuales, para promover el conocimiento y uso de la información estadística y geográfica, así como el apoyo a los operativos del Instituto;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+I. Coordinar las acciones de comunicación externa del Instituto encaminadas al desarrollo del Sistema, al posicionamiento del Instituto y al fomento a la cultura estadística y geográfica;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+I Bis. Diseñar y producir contenidos y materiales gráficos y audiovisuales, para implementar la estrategia de comunicación externa del Instituto, así como en apoyo a los operativos del Instituto y al programa de fomento a la cultura estadística y geográfica;
 
 II. Proponer las disposiciones normativas en materia de comunicación, identidad institucional y producción editorial;
 
 III. Proponer el Programa Anual de Comunicación Social al Presidente del Instituto, así como elaborar la Estrategia Anual de Comunicación Social en términos de las disposiciones aplicables en la materia;
 
-IV. Diseñar campañas de comunicación en medios tradicionales y digitales para promover el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-V. Coordinar las acciones de comunicación social del Instituto, así como promover y capacitar a los representantes de los medios de comunicación en el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
+IV. Diseñar campañas de comunicación en medios tradicionales y digitales para implementar la estrategia de comunicación externa del Instituto;
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+V. Coordinar las acciones de comunicación social del Instituto, así como capacitar a los representantes de los medios de comunicación en el uso y aprovechamiento de los productos y servicios que ofrece el Instituto, en términos de lo dispuesto en la Estrategia Anual de Comunicación Social y en la estrategia de fomento a la cultura estadística y geográfica;
 
 VII (SIC). Dirigir la estrategia de comunicación del Instituto a través de las redes sociales, así como administrar y llevar un registro de las cuentas institucionales en estos medios;
 
@@ -2609,7 +2631,7 @@ VIII. Asesorar a las Unidades Administrativas en temas de comunicación;
 
 IX. Coordinar la comunicación organizacional para fortalecer la identidad y cultura institucional;
 
-X. Coordinar las acciones de comunicación de los eventos internos del Instituto;
+X. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2020)
 
 XI. Fomentar el uso y aprovechamiento de la información estadística y geográfica que genera e integra el Instituto, a través de los productos y servicios educativos de la Secretaría de Educación Pública, y
 
@@ -2621,9 +2643,13 @@ XII. Las facultades que expresamente le otorga a su Titular el artículo 13 de e
 
 Son atribuciones específicas de la Dirección General Adjunta de Relaciones Institucionales, las siguientes:
 
-I. Coordinar las acciones de vinculación del Instituto con los Poderes Ejecutivo y Legislativo, organismos autónomos, sector privado, sector académico y organismos no gubernamentales, para fomentar el desarrollo del Sistema y promover el aprovechamiento y uso de la información estadística y geográfica;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-II. Fungir como enlace del Instituto ante los Poderes Ejecutivo y Legislativo, organismos autónomos, sector privado, sector académico y organismos no gubernamentales, a nivel federal, para promover el aprovechamiento y uso de la información estadística y geográfica;
+I. Coordinar las acciones de vinculación del Instituto con los Poderes Ejecutivo y Legislativo, organismos autónomos, sector privado, sector académico y organismos no gubernamentales, con la finalidad de desarrollar el Sistema; fomentar la cultura estadística y geográfica y fortalecer las relaciones institucionales con dichos sectores;
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+II. Fungir como enlace del Instituto ante los Poderes Ejecutivo y Legislativo, organismos autónomos, sector privado, sector académico y organismos no gubernamentales a nivel federal, para atender los temas relacionados con el ámbito de competencia de la Unidad Administrativa de su adscripción;
 
 III. Proponer las disposiciones normativas en materia de vinculación institucional;
 
@@ -2645,15 +2671,23 @@ IX. Las facultades que expresamente le otorga a su Titular el artículo 13 de es
 
 Son atribuciones específicas de la Dirección General Adjunta de Difusión y Servicio Público de Información, las siguientes:
 
-I. Coordinar el diseño de las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información y promoción de la información estadística y geográfica que genera e integra el Instituto, a través de los canales establecidos, incluido Internet;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+I. Coordinar y dirigir las acciones para la prestación del Servicio Público de Información, la difusión de la información estadística y geográfica que produce e integra el Instituto, así como para la elaboración de la estrategia y el programa de fomento a la cultura estadística y geográfica, con la finalidad de promover el Sistema y facilitar la accesibilidad de la información.
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+I Bis. Coordinar el diseño de las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información y fomento a la cultura estadística y geográfica;
 
 II. Integrar las propuestas del Calendario de difusión de información estadística y geográfica y de Interés Nacional del INEGI y del Calendario de publicación de Información de Interés Nacional del Sistema y sus revisiones, previa consulta a las Unidades Administrativas del Instituto y de las Unidades del Estado, para su aprobación y difusión;
 
-III. Coordinar la prestación del Servicio Público de Información Estadística y Geográfica;
+III. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2020)
 
-IV. Diseñar, coordinar y ejecutar las acciones para la difusión de la información estadística y geográfica que produce e integra el Instituto;
+IV. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2020)
 
-V. Coordinar las acciones de detección de necesidades; atención a usuarios; y promoción del conocimiento y uso de la información estadística y geográfica en el ámbito estatal, en colaboración con la Coordinación General de Operación Regional;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+V. Coordinar las acciones de detección de necesidades; atención a usuarios; y fomento a la cultura estadística y geográfica en el ámbito estatal, en colaboración con la Coordinación General de Operación Regional;
 
 VI. Diseñar mecanismos de evaluación de la satisfacción de los usuarios de la información estadística y geográfica que produce e integra el Instituto, en términos de su usabilidad; y efectuar las evaluaciones respectivas;
 
@@ -2674,6 +2708,10 @@ XIII. Diseñar, desarrollar y coordinar la actualización del Sitio del INEGI en
 XIV. Proponer soluciones de información para el Sitio del INEGI en Internet que conlleven a mejorar el acceso a la información estadística y geográfica;
 
 XV. Implementar y dar seguimiento al mecanismo de detección de necesidades de información estadística y geográfica del Sistema, en coordinación con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XV Bis. Fomentar la cultura estadística y geográfica, a través de los productos y servicios educativos que brinda la Secretaría de Educación Pública;
 
 XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
@@ -2715,7 +2753,13 @@ X. Coordinar la elaboración y aplicación de los programas de capacitación y d
 
 XI. Autorizar la modificación de la estructura orgánica ocupacional y salarial desde el punto de vista técnico, organizacional y operacional, conforme a los lineamientos aprobados por la Junta de Gobierno;
 
-XII. Establecer mecanismos para simplificar, desregular y mejorar las disposiciones administrativas en materia de planeación, presupuestación y administración de recursos humanos, materiales y financieros del Instituto, conforme a las políticas que al efecto determine la Junta de Gobierno en términos de la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XII. Coordinar los servicios de apoyo a la Junta de Gobierno, al Presidente y a las Unidades Administrativas del Instituto, para el análisis de los proyectos de disposiciones normativas de su competencia, la integración de diagnósticos normativos y la generación de propuestas para contribuir a la mejora, actualización y sistematización del marco normativo del Instituto, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XII Bis. Coordinar las acciones para el registro, difusión y promoción de las disposiciones normativas que expida la Junta de Gobierno, el Presidente y las Unidades Administrativas del Instituto; así como, para el cumplimiento de las disposiciones aplicables al Instituto en materia de mejora regulatoria.
 
 XIII. Proponer al Presidente del Instituto, para la aprobación de la Junta de Gobierno, las Condiciones Generales de Trabajo, de acuerdo a la periodicidad de actualización que éstas prevean;
 
@@ -2738,6 +2782,10 @@ XIX. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 > <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 XX. Fungir como Presidente del Comité de Transparencia y Titular de la Unidad de Transparencia, coordinando con las Unidades Administrativas del Instituto, el cumplimiento de las disposiciones aplicables en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XX Bis. Proponer y coordinar las acciones que permitan la implementación, desarrollo y fortalecimiento del control interno, la administración de riesgos, la continuidad de las operaciones y la documentación de los procesos del Instituto;
 
 XXI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
@@ -2805,9 +2853,13 @@ XVIII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaci
 
 XIX. Conformar y operar la ventanilla única para la recepción documental en la integración de los expedientes personales, así como su resguardo, custodia y tratamiento, para la posterior consulta por las Unidades Administrativas del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-XX. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad, y
+XX. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XX Bis. Dar atención y seguimiento a las acciones previstas en el Programa Institucional de Igualdad de Género correspondiente y promover las mismas entre las Unidades Administrativas, y
 
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2901,6 +2953,14 @@ XXIII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaci
 
 XXIV. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad, y
 
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XXIV Bis Dar seguimiento al cumplimiento de las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales y las acciones competencia de la Unidad de Transparencia del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XXIV Ter Dar seguimiento a las acciones ordenadas por el Comité de Transparencia en términos de lo establecido por las disposiciones normativas aplicables y vigilar el adecuado cumplimiento de los acuerdos adoptados por dicho órgano colegiado;
+
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 XXV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
@@ -2971,41 +3031,41 @@ XVI. Suscribir los contratos y convenios de arrendamiento, comodato o cualquiera
 
 XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTICULO 45.
+###### ARTÍCULO 45.
 
-La Dirección General Adjunta de Administración de Riesgos y Transparencia, contará con las atribuciones específicas siguientes:
+La Dirección General Adjunta de Apoyo Normativo y Administración de Riesgos, contará con las atribuciones específicas siguientes:
 
 I. Promover, coordinar y asesorar la implantación y mejora continua del control interno institucional;
 
-II. Promover la cultura de administración de riesgos y asesorar a las Unidades Administrativas del Instituto en la identificación de riesgos que afecten el logro de sus objetivos, así como en la determinación de las medidas necesarias para su mejor administración;
-
-> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2019)</small>
+II. Coordinar la implementación de estrategias y acciones para la Administración de riesgos en el Instituto, así como la implementación de las acciones y mecanismos para la continuidad de las operaciones institucionales, conforme a las disposiciones aplicables;
 
 III. Apoyar las acciones que en materia de riesgos, sean acordadas en el seno del Comité de Administración de Riesgos en términos de lo dispuesto por las disposiciones normativas aplicables;
 
-IV. Promover y realizar acciones para fortalecer una cultura de respeto a los derechos humanos, legalidad, transparencia, comportamiento ético, inclusión e igualdad entre los servidores públicos del Instituto;
+IV. Fomentar y coordinar la realización de acciones para fortalecer una cultura de respeto a la legalidad, así como el cumplimiento normativo y el comportamiento ético entre los servidores públicos del Instituto, en coordinación con las instancias competentes;
 
 V. Apoyar las acciones a realizar por el Comité de Ética en términos de lo dispuesto por las disposiciones normativas aplicables y vigilar el adecuado cumplimiento de los acuerdos adoptados por dicho Órgano Colegiado;
 
-VI. Dar seguimiento al cumplimiento de las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales y las acciones competencia de la Unidad de Transparencia del Instituto;
+VI. Dirigir los servicios de apoyo para el análisis de los proyectos de disposiciones normativas internas, de acuerdo con lo establecido en las disposiciones aplicables;
 
-VII. Dar seguimiento a las acciones ordenadas por el Comité de Transparencia en términos de lo dispuesto por las disposiciones normativas aplicables y vigilar el adecuado cumplimiento de los acuerdos adoptados por dicho órgano colegiado;
+VII. Plantear acciones para la mejora y sistematización del marco normativo institucional, incluyendo la integración de diagnósticos normativos;
 
-VIII. Dar atención y seguimiento a las acciones previstas en el Programa Institucional de Igualdad de Género correspondiente y promover las mismas entre las Unidades Administrativas;
+VIII. Coordinar la publicación de las disposiciones que conforman el marco normativo del Instituto en la herramienta institucional establecida para tal efecto, así como definir las acciones y mecanismos para su promoción y divulgación;
 
-IX. Identificar las mejores prácticas administrativas y promover y asesorar su implementación en el Instituto;
+IX. Coordinar el registro de las disposiciones normativas que sean emitidas por las Unidades Administrativas;
 
-X. Coordinar el Programa Institucional de Mejora Regulatoria;
+X. Emitir recomendaciones a las Unidades Administrativas para contribuir a la mejora, actualización y sistematización del marco normativo institucional, así como para la documentación de los procesos a su cargo;
 
-XI. Promover la mejora de los trámites y procesos del Instituto, a través de la aplicación de metodologías y técnicas de mejora continua;
+XI. Asesorar a las Unidades Administrativas en la documentación de los procesos institucionales a su cargo, conforme a las mejores prácticas en la materia;
 
-XII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaciones, que afecten el presupuesto de la Dirección General de Administración, en el ámbito de su competencia, vigilar su cumplimiento y autorizar su finiquito; en su caso dictaminar sobre la terminación anticipada o rescisión de los mismos;
+XII. Formular a las Unidades Administrativas solicitudes de información y documentación para el cumplimiento de las atribuciones a su cargo;
 
-XIII. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad, y
+XIII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaciones, que afecten el presupuesto de la Dirección General de Administración, en el ámbito de su competencia, vigilar su cumplimiento y autorizar su finiquito; en su caso dictaminar sobre la terminación anticipada o rescisión de los mismos;
 
-XIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XIV. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad, y
+
+XV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3111,9 +3171,9 @@ XXIV. Expedir copias certificadas de los documentos que obren en los archivos de
 
 XXV. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-Para el desahogo de las atribuciones que este numeral confiere a la Coordinación General de Asuntos Jurídicos, el Titular de la misma contará con el auxilio de la Dirección de Consultoría Jurídica, la Dirección de Asuntos Contenciosos y la Dirección de Análisis Normativo y Seguimiento a Junta de Gobierno, en quienes podrá delegar aquellas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Coordinación General de Asuntos Jurídicos.
+Para el desahogo de las atribuciones que este numeral confiere a la Coordinación General de Asuntos Jurídicos, el Titular de la misma contará con el auxilio de la Dirección de Consultoría Jurídica, la Dirección de Asuntos Contenciosos y la Dirección de Normatividad y Seguimiento a Junta de Gobierno, en quienes podrá delegar aquéllas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Coordinación General de Asuntos Jurídicos. Para el cumplimiento de sus atribuciones en el ámbito territorial coordinará las áreas de apoyo jurídico con que cuenten las Direcciones Regionales y Coordinaciones Estatales.
 
 > <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 2019)</small>
 
@@ -3716,3 +3776,15 @@ CUARTO.- A la entrada en vigor del presente Acuerdo de reforma, los asuntos en t
 QUINTO.- Para la Dirección General de Comunicación, Servicio Público de Información y Relaciones Institucionales referida en el artículo 38 y las Direcciones Generales Adjuntas referidas en los artículos 18 Bis, 18 Ter, 18 Quáter, 31, 40 y 40 Bis del Reglamento, que cambian de denominación, los servidores públicos que ocupaban la titularidad del cargo continuarán ocupándolo con la nueva denominación. La Dirección General de Administración emitirá los respectivos nombramientos una vez que entre en vigor el presente Acuerdo de reforma.
 
 SEXTO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas y acuerdos al Programa Anual de Viajes al Extranjero se deberán entender hechas al Programa Anual de Comisiones Oficiales al Extranjero, hasta en tanto se realice la actualización de la normatividad interna existente en la materia.
+
+D.O.F. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir de la fecha señalada en el Transitorio Primero, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hacen referencia las presentes reformas y de conformidad con las atribuciones y facultades conferidas.
+
+TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas al Reglamento se modifican, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+CUARTO.- Las referencias que en diversas disposiciones administrativas se realicen a la Dirección General Adjunta de Administración de Riesgos y Transparencia, deben entenderse hechas a la Dirección General Adjunta de Apoyo Normativo y Administración de Riesgos.
