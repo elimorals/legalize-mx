@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2020-11-17"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -171,9 +171,17 @@ XXXIX. Secretaría: Secretaría Ejecutiva de Disciplina;
 
 XL. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación;
 
-XLI. Unidades administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
-XLII. Unidad General: Unidad General de Investigación de Responsabilidades Administrativas.
+XLI. Unidades administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XLII. Unidad de Prevención y Combate al Acoso Sexual: El área administrativa dependiente de la Secretaría General de la Presidencia encargada de proporcionar atención en los casos de acoso sexual y cualquier otra forma de violencia sexual y de género a los y las trabajadoras en el Consejo, así como coadyuvar con las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género en la presentación de denuncias y en la solicitud de medidas cautelares, así como brindarles acompañamiento ante las instancias de investigación y substanciación en materia disciplinaria, sin que ello implique una representación por su parte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+XLIII. Unidad General: Unidad General de Investigación de Responsabilidades Administrativas.
 
 ### CAPÍTULO SEGUNDO. MECANISMOS GENERALES DE PREVENCIÓN Y RENDICIÓN DE CUENTAS
 
@@ -198,6 +206,10 @@ Los titulares de órganos jurisdiccionales y áreas administrativas podrán adop
 Estas medidas estarán especialmente orientadas a prevenir y evitar conductas que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño del cargo de los servidores públicos.
 
 Las medidas preventivas no tienen la naturaleza de sanciones administrativas y tampoco constituyen condición obligatoria ni prerrequisito para la imposición de éstas.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+La Unidad de Prevención y Combate al Acoso Sexual, podrá sugerir a los titulares de órganos jurisdiccionales y áreas administrativas la adopción de medidas preventivas a fin de prevenir y evitar conductas de acoso sexual y otras formas de violencia sexual y de género. Cuando ya exista una investigación o procedimiento administrativo en curso relacionado con conductas específicas de naturaleza sexual o relacionadas con violencia de género en determinado órgano jurisdiccional o área administrativa, dichas medidas deberán sugerirse en coordinación con la autoridad investigadora o substanciadora, según sea el caso.
 
 ### CAPÍTULO PRIMERO. RESPONSABILIDAD ADMINISTRATIVA
 
@@ -264,6 +276,14 @@ IV. Sanción económica;
 V. Destitución del puesto; y
 
 VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En los casos en los que se haya acreditado una conducta de naturaleza sexual o relacionada con violencia de género, con el objeto de garantizar la reparación de la víctima e incorporar un enfoque transformador que tienda a prevenir dichas conductas, adicionalmente a la sanción impuesta, se podrá ordenar al servidor público sancionado cumplir con un curso de sensibilización o formación en género y/o masculinidades en los términos recomendados por la Unidad de Prevención y Combate al Acoso Sexual.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+Dicha medida será supervisada por la Unidad de Prevención y Combate al Acoso Sexual, quien emitirá un dictamen de conclusión a la Secretaría Ejecutiva de Disciplina, o en su caso, a la Contraloría, una vez que considere se ha cumplido con el objeto de la medida.
 
 ###### Artículo 13.
 
@@ -749,6 +769,10 @@ Dentro del procedimiento de responsabilidad administrativa, la autoridad substan
 
 En la práctica o desahogo de las diligencias, podrá utilizarse, según el caso y a juicio del servidor público que las practique, cualquier medio electrónico o magnético. El medio utilizado y la reproducción deberán constar en el acta respectiva.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+Cuando las conductas denunciadas sean de naturaleza sexual o de violencia de género, se deberá convocar a la Unidad de Prevención y Combate al Acoso Sexual para dar acompañamiento a la víctima de dichas conductas durante las diligencias, conforme a sus atribuciones, sin que este acompañamiento implique una representación de su parte, con la salvedad de que la propia víctima se oponga.
+
 ###### Artículo 69.
 
 El presunto responsable, el quejoso o denunciante, y los autorizados si los hubiere, tendrán acceso a los expedientes integrados con motivo de un procedimiento de responsabilidad administrativa, una vez que se dicte el respectivo acuerdo inicial, salvo lo dispuesto en las disposiciones aplicables.
@@ -793,13 +817,13 @@ En las investigaciones, las notificaciones se harán por conducto de la Unidad G
 
 En las investigaciones a servidores públicos adscritos a la Unidad General, las notificaciones se realizarán por conducto de la Secretaría o del órgano auxiliar instructor que se comisione.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
-El presunto responsable podrá autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para ofrecer y rendir pruebas, alegar en las audiencias, solicitar la suspensión o diferimiento, pedir que se dicte resolución y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
+El presunto responsable, así como quien tenga el carácter de víctima, podrán autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para ofrecer y rendir pruebas, alegar en las audiencias, solicitar la suspensión o diferimiento, pedir que se dicte resolución y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
 
-En caso de considerarlo necesario, el presunto responsable podrá revocar la autorización a que se refiere el párrafo anterior.
+En caso de considerarlo necesario, el presunto responsable o quien tenga el carácter de víctima, podrá revocar la autorización a que se refiere el párrafo anterior.
 
 ###### Artículo 77.
 
@@ -954,6 +978,10 @@ Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 ###### Artículo 98.
 
 En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el Pleno o la Comisión, según corresponda; para preservar la materia de éstos o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados, y proteger, en su caso, la seguridad de las víctimas y testigos, podrán dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En los casos en los que se denuncien conductas de naturaleza sexual o relacionadas con violencia de género, se estudiará desde el inicio y de manera oficiosa la viabilidad de dictar medidas cautelares para proteger la seguridad e integridad de la víctima y los testigos, así como de sus derechos. En dichos casos, la Unidad de Prevención y Combate al Acoso Sexual podrá sugerir al Pleno o a la Comisión, según corresponda, la adopción de medidas orientadas a conminar al probable agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida o los derechos de la víctima o de los testigos.
 
 ###### Artículo 99.
 
@@ -1151,6 +1179,10 @@ La investigación se seguirá forzosamente por el hecho o hechos que se señalen
 
 Para conocer la verdad de los hechos la autoridad investigadora podrá solicitar información o documentación a cualquier persona física o moral ya sea que pertenezca a las partes o a terceros, sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, con pleno respeto a los derechos humanos y tengan relación inmediata con los hechos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En atención a su naturaleza preponderantemente oculta, en la investigación de conductas de naturaleza sexual o relacionadas con violencia de género, deberá hacerse uso de pruebas indirectas como la circunstancial y atenderse al papel preponderante de la declaración de la víctima, sin que posibles inconsistencias o imprecisiones en la narración de las circunstancias de modo, tiempo y lugar, desacrediten de entrada su dicho, y deberán tomarse en cuenta elementos subjetivos de la víctima, como su edad, condición social, pertenencia a un grupo vulnerable o históricamente discriminado, entre otros. Asimismo, se velará de manera particular por que, durante la realización de diligencias de investigación, no se incurra en una segunda victimización.
+
 ###### Artículo 120.
 
 La ejecución de las investigaciones estará a cargo de la Unidad General o de la Secretaría, según corresponda; de estimarse necesario, la Visitaduría Judicial o el órgano auxiliar instructor que se designe para tal efecto podrán coadyuvar en su desahogo.
@@ -1251,7 +1283,13 @@ Las quejas o denuncias podrán presentarlas cualquier persona, el servidor públ
 
 Las quejas o denuncias, incluyendo las anónimas, deberán acompañarse de elementos probatorios suficientes para determinar la existencia de la falta administrativa y la presunta responsabilidad del servidor público o del particular en la comisión de la falta; en caso contrario, se desecharán de plano, salvo lo dispuesto en el párrafo siguiente.
 
-En caso de que se adviertan indicios de conductas probablemente constitutivas de responsabilidad administrativa, se podrá ordenar la práctica de investigaciones, de conformidad con lo previsto en el artículo 118 de este Acuerdo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que, de las circunstancias de tiempo, modo y lugar señalados en la queja o denuncia, o advertidos de manera oficiosa con motivo de alguna visita, inspección o auditoría, se adviertan indicios de conductas probablemente constitutivas de responsabilidad administrativa, se podrá ordenar la práctica de investigaciones, de conformidad con lo previsto en el artículo 118 de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de denuncias anónimas por conductas de naturaleza sexual o relacionadas con violencia de género, no se requerirá de pruebas documentales, atendiendo a la naturaleza preponderantemente oculta de las mismas, sino que podrá ordenarse la investigación correspondiente, siempre y cuando la declaración de la persona denunciante se refiera a conductas específicas atribuibles a uno o varios servidores públicos susceptibles de ser investigadas por la autoridad correspondiente, y se mencionen elementos concretos adicionales que pudieran servir como medio de prueba.
 
 ###### Artículo 133.
 
@@ -1266,6 +1304,10 @@ En caso de que el escrito de queja o denuncia sea obscuro o irregular, y se advi
 ###### Artículo 135.
 
 La Contraloría y la Secretaría, en sus respectivos ámbitos de competencia, informarán al Pleno de las quejas o denuncias que deseche el Presidente.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+Cuando se trate de conductas de naturaleza sexual o de violencia de género, se dará vista del desechamiento a la Unidad de Prevención y Combate al Acoso Sexual, la cual se pondrá a disposición de la víctima o víctimas a través de la vía de contacto señalada por las mismas, para recibir el acompañamiento que corresponda.
 
 ###### Artículo 136.
 
@@ -1298,6 +1340,10 @@ II. Escrito de denuncia o queja, y de los anexos con la que hubiere sido present
 III. El informe de presunta responsabilidad administrativa.
 
 En todo caso el presunto responsable estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias, así como la ampliación del plazo a que se refiere el artículo 141 de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, se notificará a la víctima, independientemente de si fue ésta quien formuló la denuncia o queja correspondiente, del inicio del procedimiento disciplinario y se le hará saber la información necesaria para tener acceso y dar seguimiento a la misma. En dicha notificación, se le hará saber que la Unidad de Prevención y Combate al Acoso Sexual está a su disposición para brindarle el acompañamiento correspondiente en el procedimiento disciplinario, conforme a sus respectivas atribuciones. La víctima, o la persona que ésta autorice para tal efecto, también estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -1390,6 +1436,14 @@ Desahogadas las pruebas admitidas, se concederá al presunto responsable, el pla
 ###### Artículo 148.
 
 Las pruebas serán valoradas en los términos y conforme a las disposiciones establecidas en las Secciones Cuarta y Quinta del Capítulo I del Título Segundo, del Libro Segundo de la Ley de Responsabilidades.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En el caso de conductas de naturaleza sexual o relacionadas con violencia de género, se deberá incorporar la perspectiva de género para la valoración de las pruebas. En atención a la naturaleza preponderantemente oculta de dichas conductas, en el procedimiento deberá hacerse uso de pruebas indirectas, como la circunstancial, y atenderse al papel preponderante de la declaración de la víctima, sin que posibles inconsistencias o imprecisiones en la narración de las circunstancias de tiempo, modo y lugar, desacrediten de entrada su dicho, y deberán tomarse en cuenta elementos subjetivos de la víctima, como su edad, condición social, pertenencia a un grupo vulnerable o históricamente discriminado, entre otros.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, se adoptarán las medidas conducentes para que, durante la realización de diligencias probatorias, incluyendo, en caso de requerirse, las pruebas testimoniales y los dictámenes periciales a practicarse sobre las víctimas, no se incurra en una segunda victimización.
 
 ###### Artículo 149.
 
@@ -1510,6 +1564,10 @@ Las resoluciones de la Comisión serán firmadas por los Consejeros integrantes 
 Las resoluciones que pongan fin a los procedimientos de responsabilidad administrativa analizarán la existencia de la conducta infractora y la responsabilidad en su comisión y tomarán en cuenta, en su caso, las eximentes de responsabilidad.
 
 El resultado se expresará con claridad y precisión en puntos resolutivos.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+En casos relacionados con conductas de naturaleza sexual, o de violencia sexual y de género las resoluciones que pongan fin al procedimiento podrán prever medidas de reparación, a propuesta fundada y motivada de la Unidad de Prevención y Combate al Acoso Sexual.
 
 ###### Artículo 165.
 
@@ -3072,3 +3130,11 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL PUNTO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS; RELATIVO A LA INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO AL PROCEDIMIENTO DISCIPLINARIO, D.O.F. 25 DE NOVIEMBRE DE 2020".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
