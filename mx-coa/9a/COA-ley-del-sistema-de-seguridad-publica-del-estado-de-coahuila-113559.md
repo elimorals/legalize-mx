@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2019-06-25"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -63,9 +63,9 @@ I. Academias: las academias o los institutos municipales para la formación, la 
 
 II. Centro Estatal: el Centro Estatal de Evaluación y Control de Confianza;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-III. Centro de profesionalización: los Centros de Profesionalización, Certificación, Acreditación y Carrera, de la Fiscalía y Dirección General de los Institutos Superiores de Estudios de Seguridad Pública de la CES;
+III. Centro de Profesionalización: el Centro de Profesionalización, Certificación, Acreditación y Carrera, de la Fiscalía General y la Universidad de Ciencias de la Seguridad, de la Secretaría de Seguridad;
 
 IV. Centro Nacional: el Centro Nacional de Información;
 
@@ -693,9 +693,9 @@ VIII. Las demás que le confieran las disposiciones legales aplicables.
 
 Atribuciones y deberes de la persona titular de la Secretaría de Seguridad
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-Son atribuciones y deberes de la persona titular de la Secretaría de Seguridad, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría de Seguridad Pública, las siguientes:
+Son atribuciones y deberes de la persona titular de la Secretaría de Seguridad, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y la Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza, las siguientes:
 
 I. Formar parte del Sistema Nacional y de la Conferencia Nacional de Secretarios de Seguridad Pública;
 
@@ -799,13 +799,15 @@ Son autoridades municipales en materia de seguridad pública las personas titula
 
 Definición
 
-El secretariado ejecutivo es un órgano desconcentrado de la Secretaría de Gobierno, encargado de la operatividad del Sistema Estatal, al que le estarán adscritas las siguientes unidades administrativas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría de Seguridad, encargado de la operatividad del Sistema Estatal, al que le estarán adscritas las siguientes unidades administrativas:
 
 I. De Análisis y Estadística;
 
 II. De Proyectos y fondos federales para la Seguridad Pública;
 
-III. Del Registro Público Vehicular; y
+III. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2020)
 
 IV. Las demás que se requieran y que el presupuesto permita.
 
@@ -859,7 +861,9 @@ V. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal 
 
 VI. Proponer la celebración de convenios de coordinación, colaboración y concertación que sean necesarios para el cumplimiento de los fines del Sistema Estatal;
 
-VII. Celebrar convenios previo acuerdo con la Secretaría de Gobierno, de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Estatal;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VII. Celebrar convenios previo acuerdo con la Secretaría de Seguridad, de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Estatal;
 
 VIII. Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Consejo Estatal y bajo las directrices de su Presidente, sin menoscabo de otras que realicen las autoridades competentes;
 
@@ -1289,6 +1293,18 @@ V. Custodia penitenciaria y guías técnicos: que comprende la protección de lo
 
 VI. Procesal: que implica la protección de las instalaciones, el personal de los tribunales así como de los intervinientes en el proceso penal, y, de requerirse, el traslado y la vigilancia de los imputados.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VII. Cibernética: de seleccionar y actualizar permanentemente los conocimientos y herramientas electrónicas para apoyar la investigación para la prevención de los delitos. Vigilar, identificar, monitorear y rastrear en la red pública de internet con el fin de prevenir conductas delictivas;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Seguridad Complementaria: de custodia, vigilancia, guardia y seguridad de personas y bienes, valores e inmuebles a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, en los tres niveles de gobierno, órganos autónomos federales y locales, así como a personas físicas y morales, mediante el pago de la contraprestación que determine el Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+IX. Inteligencia: de analizar, investigar, diseñar, dirigir, suministrar, y operar sistemas de recopilación, clasificación, registro y explotación de información policial, a fin de conformar bancos de datos que sustenten el desarrollo de acciones contra la delincuencia.
+
 ###### Artículo 76.
 
 Clasificación de las corporaciones policiales
@@ -1297,9 +1313,9 @@ Para el debido ejercicio de las atribuciones enumeradas en el artículo anterior
 
 I. De prevención especial y general del delito y para sancionar las faltas administrativas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de Coahuila de Zaragoza a cargo de la Secretaría de Seguridad, la cual tendrá competencia en todo el Estado, para desempeñar las funciones siguientes:
+a) La Policía del Estado, que es la corporación policial del Gobierno del Estado de Coahuila de Zaragoza a cargo de la Secretaría de Seguridad, la cual tendrá competencia en todo el Estado, para desempeñar las atribuciones siguientes:
 
 1. Preventiva;
 
@@ -1313,15 +1329,25 @@ a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de C
 
 5. De Custodia penitenciaria y guías técnicos.
 
-b) El Cuerpo Especializado de Seguridad Pública de la PRONNIF; y
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+6. Cibernética; y
 
-c) Los grupos especializados de policía metropolitana que se conformarán con elementos de Fuerza Coahuila y cuando así se convenga con los ayuntamientos respectivos, con integrantes de las Policías Preventivas Municipales.
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+7. Seguridad Complementaria.
 
-La competencia, funciones, integración, mando y demás elementos necesarios para la operación de las policías metropolitanas, se establecerán en el acuerdo que emita el Ejecutivo del Estado, en esta ley, en el Reglamento Interior de la Secretaría de Seguridad Pública, en convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de esta ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+b) El Grupo Especializado de la PRONNIF, que se conformará con elementos de la Policía del Estado, Policía Investigadora y policías preventivas municipales, previo convenio de colaboración que se celebre entre las partes.
+
+La competencia, funciones, integración, mando y demás elementos necesarios para la operación del Grupo Especializado de la PRONNIF, se establecerán en los convenios de colaboración que se celebren para su integración y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+c) Los grupos especializados de policía metropolitana que se conformarán con elementos de la Policía del Estado y cuando así se convenga con los ayuntamientos respectivos, con integrantes de las Policías Preventivas Municipales.
+
+La competencia, funciones, integración, mando y demás elementos necesarios para la operación de las policías metropolitanas, se establecerán en el acuerdo que emita el Ejecutivo del Estado, en esta ley, en la Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza, en convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de esta ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -1336,6 +1362,10 @@ a) La Policía Investigadora a cargo de la Fiscalía General, la cual tendrá co
 b) Las demás corporaciones policiales en los términos de las disposiciones legales aplicables.
 
 Las Corporaciones Policiales Estatales, desconcentrarán sus funciones en delegaciones regionales, cada una con competencia territorial en los municipios que le correspondan, con sede en las cabeceras distritales o en los lugares que sus titulares determinen cuando las circunscripciones territoriales que haya definido para la delegación regional no coincidan con aquellas. Contarán con los recursos materiales y humanos que determinen sus titulares, en atención a las posibilidades presupuestales.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+Las corporaciones policiales contarán con las facultades establecidas en esta ley, y en las disposiciones normativas de las instituciones de seguridad pública, así como las demás aplicables para el ejercicio de sus atribuciones.
 
 ###### Artículo 77.
 
@@ -1413,9 +1443,9 @@ I. Mando supremo, que lo tendrá el ejecutivo del Estado sobre las fuerzas de se
 
 II. Alto mando, que estará a cargo del Secretario de Seguridad, respecto de la corporación policial de la Secretaría de Seguridad y el Fiscal General, respecto de la Policía Investigadora,
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-III. Mando superior, que lo ejercerá el Subsecretario de Operación Policial respecto de la corporación policial, denominada Fuerza Coahuila y el Director General de la Policía Investigadora, respecto de la Policía Investigadora de la Fiscalía General;
+III. Mando superior, que lo ejercerá el Subsecretario de Operación Policial respecto de la corporación policial, denominada Policía del Estado y el Director General de la Policía Investigadora, respecto de la Policía Investigadora de la Fiscalía General;
 
 IV. Mandos operativos, que los tendrán los Directores de División o unidades equivalentes en los municipios; y
 
@@ -1659,21 +1689,53 @@ Competencia del servicio profesional de carrera
 
 El personal al cual va dirigido el servicio profesional de carrera, para su ejercicio y aplicación; será:
 
-I. Policía preventiva;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-II. Policía de reacción:
+I. Policía de Acción y Reacción;
 
-III. Policía de inteligencia;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-IV. Policía de investigación;
+II. Policía Cibernética;
 
-V. Policía procesal;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-VI. Policía de protección y custodia;
+III. Policía Civil;
 
-VII. Agente del Ministerio Público; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Perito.
+IV. Policía Complementaria;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+V. Policía Especializada;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VI. Policía de Inteligencia;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VII. Policía Penitenciaria;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Policía Procesal;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+IX. Policía Preventiva;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+X. Policía de Investigación;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+XI. Agente del Ministerio Publico; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+XII. Perito.
 
 Las unidades administrativas del servicio profesional de carrera, serán los encargados de establecer las bases de organización, funcionamiento y desarrollo del servicio profesional de carrera.
 
@@ -1797,9 +1859,9 @@ El ingreso es el proceso de integración de los candidatos a la estructura insti
 
 Requisitos de ingreso al servicio profesional de carrera
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-El ingreso al servicio profesional de carrera será de carácter obligatorio para el personal de las instituciones, de acuerdo a la Ley General, Ley Estatal, Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza, Reglamento Interior de la Secretaría de Seguridad Pública, el Programa Rector y demás ordenamientos aplicables.
+El ingreso al servicio profesional de carrera será de carácter obligatorio para el personal de las instituciones, de acuerdo a la Ley General, Ley Estatal, Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza, Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza, el Programa Rector y demás ordenamientos aplicables.
 
 Los aspirantes a ingresar a las instituciones de seguridad pública, deberán cumplir, cuando menos, con los requisitos siguientes:
 
@@ -1883,7 +1945,9 @@ Previo al ingreso de los candidatos a los cursos de formación inicial, deberán
 
 Declaración de ingreso
 
-La unidad administrativa del servicio profesional de carrera respectiva, con base en la información proporcionada por el Instituto o las academias, declarará procedente el ingreso de los aspirantes que hayan aprobado el proceso relativo en términos de esta ley; asimismo, publicará el listado respectivo y lo comunicará a la institución de seguridad pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de ésta, proceda a su contratación.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+La unidad administrativa del servicio profesional de carrera respectiva, con base en la información proporcionada por el Centro de Profesionalización, las academias y la opinión de la Comisión, declarará procedente el ingreso de los aspirantes que hayan aprobado el proceso relativo en términos de esta ley; asimismo, publicará el listado respectivo y lo comunicará a la institución de seguridad pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de ésta, proceda a su contratación.
 
 La institución de seguridad pública de que se trate expedirá las constancias de terminación del curso de formación correspondiente y los nombramientos formalizándose con ello la relación administrativa de sus nuevos integrantes.
 
@@ -2707,7 +2771,9 @@ Si el policía infractor es suspendido o destituido deberá entregar su identifi
 
 Objeto
 
-Se establecen las comisiones como la instancia colegiada encargada de conocer y resolver los procedimientos relacionados con el otorgamiento de promociones, ascensos, reconocimientos y estímulos, así como por violación a las obligaciones y deberes relativos al régimen disciplinario, en los términos de esta ley.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+Se establecen las Comisiones como la instancia encargada de conocer y resolver los procedimientos relacionados con el ingreso, selección, permanencia, desempeño, otorgamiento de promociones, asensos (sic), reconocimientos y estímulos, así como por violación a las obligaciones y deberes relativos al régimen disciplinario, en los términos de esta ley.
 
 ###### Artículo 167.
 
@@ -2721,7 +2787,9 @@ II. Un secretario técnico, que será la persona titular de la unidad administra
 
 III. Un vocal, que será la persona titular de la unidad administrativa encargada de los recursos humanos;
 
-IV. Un vocal, que será la personal (sic) titular del órgano interno de control;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+IV. Un vocal, que será la personal (sic) titular de la Unidad de Asuntos Internos o su similar;
 
 V. Un vocal, que será la persona titular del Centro de Profesionalización;
 
@@ -2771,7 +2839,13 @@ III. Conocer y resolver los procedimientos de separación;
 
 IV. Conocer y resolver los procedimientos relativos al incumplimiento o la violación a las obligaciones y los deberes a que se encuentren sujetos los policías, en los que ameriten la aplicación de suspensión, degradación jerárquica y destitución; y
 
-V. Las demás que establezcan otras disposiciones legales y reglamentarias, así como las que sean acordadas por la propia comisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+V. Emitir opiniones relativas al ingreso, selección y permanencia, de los integrantes del servicio profesional de carrera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+VI. Las demás que establezcan otras disposiciones legales y reglamentarias, así como las que sean acordadas por la propia comisión.
 
 ###### Artículo 170.
 
@@ -2793,7 +2867,9 @@ Inicio
 
 El procedimiento de separación por incumplimiento a los requisitos de ingreso y permanencia y demás supuestos a que se refiere esta ley, así como el procedimiento disciplinario por violación o incumplimiento de las obligaciones y los deberes de los policías que ameriten la aplicación de suspensión, degradación jerárquica y destitución, será preponderantemente oral y deberá realizarse ante las comisiones respectivas, con estricto apego a las disposiciones de esta ley y a las formalidades esenciales.
 
-Iniciará por solicitud escrita fundamentada y motivada del superior jerárquico del infractor ante el Secretario Técnico de la Comisión, en la que expresará la causa de separación que a su parecer se ha actualizado, así como los hechos que eventualmente la configuren y expondrá el contenido de las actuaciones de la investigación que se hubieren realizado, así como los demás elementos probatorios en que se apoye.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+Iniciará por solicitud escrita fundamentada y motivada del superior jerárquico del infractor o por la unidad de asuntos internos de las instituciones de seguridad pública o su similar ante el Secretario Técnico de la Comisión, en la que expresará la causa de separación que a su parecer se ha actualizado, así como los hechos que eventualmente la configuren y expondrá el contenido de las actuaciones de la investigación que se hubieren realizado, así como los demás elementos probatorios en que se apoye.
 
 ###### Artículo 172.
 
@@ -3025,7 +3101,9 @@ Los resultados de las evaluaciones practicadas por el Centro Estatal, así como 
 
 Objeto y función general
 
-El Centro de Profesionalización es la unidad administrativa de las instituciones de seguridad pública, responsable de la profesionalización tanto de aspirantes como de miembros en activo de las instituciones de seguridad pública, mediante el reclutamiento, evaluación para selección, formación, desarrollo, capacitación, actualización, especialización y certificación de competencias, así como de la promoción para grado académico de los integrantes de las instituciones de seguridad pública de conformidad con el Programa Rector.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+El Centro de Profesionalización es responsable de la profesionalización tanto de aspirantes como de miembros en activo de las instituciones de seguridad pública, mediante el reclutamiento, evaluación para selección, formación, desarrollo, capacitación, actualización, especialización y certificación de competencias, así como de la promoción para grado académico de los integrantes de las instituciones de seguridad pública de conformidad con el Programa Rector.
 
 ###### Artículo 193.
 
@@ -3169,7 +3247,9 @@ Las instituciones de seguridad pública implementarán medidas de registro y seg
 
 Estructura del Centro de Profesionalización
 
-El Centro de Profesionalización contará con las unidades y personal administrativo que se requiera la cual estará prevista en las disposiciones reglamentarias de la institución de seguridad pública que corresponda.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+
+El Centro de Profesionalización contará con la estructura, unidades y personal administrativo que se requiera, la cual estará prevista en las disposiciones legales y reglamentarias aplicables de la institución de seguridad pública que corresponda.
 
 ### CAPÍTULO III. DE LAS ACADEMIAS
 
@@ -3607,9 +3687,9 @@ Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y l
 
 Naturaleza
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2020)</small>
 
-La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, en los casos en que se requiera y convenga al interés general, podrá autorizar o negar la prestación de servicios de seguridad privada a cargo de particulares.
+La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, en los casos en que se requiera y convenga al interés general, podrá autorizar o negar la prestación de servicios de seguridad privada a cargo de particulares, previa aprobación del Secretario.
 
 ###### Artículo 244.
 
@@ -3982,3 +4062,19 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 801.- SE MODIFICAN: LA FRACCIÓN III DEL ARTÍCULO 2; EL PRIMER PÁRRAFO DEL 42; EL PRIMER PÁRRAFO DEL ARTÍCULO 46; LA FRACCIÓN VII DEL ARTÍCULO 50; EL PRIMER PÁRRAFO DEL INCISO A), LOS INCISOS B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 76; LA FRACCIÓN III DEL ARTÍCULO 80; LAS FRACCIONES I, II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 92; EL PRIMER PÁRRAFO DEL 103; EL PRIMER PÁRRAFO DEL ARTÍCULO104; EL ARTÍCULO 166; LA FRACCIÓN IV DEL ARTÍCULO 167; LA FRACCIÓN V DEL ARTÍCULO 169; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 171; EL ARTÍCULO 192; EL ARTÍCULO 200; Y EL ARTÍCULO 243; SE ADICIONAN: LAS FRACCIONES VII, VIII Y IX DEL ARTÍCULO 75; LOS NUMERALES 6 Y 7 AL INCISO A) DE LA FRACCIÓN I Y UN TERCER PÁRRAFO AL ARTÍCULO 76; LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 92; LA FRACCIÓN VI DEL ARTÍCULO 169; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 46, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto, se deberá (sic) expedir las disposiciones legales, reglamentarias y administrativas necesarias para instrumentar las disposiciones de la presente Ley.
+
+TERCERO. Las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de este decreto, seguirán aplicándose en todo lo que no se opongan a lo dispuesto en el mismo, hasta en tanto se realice la armonización correspondiente con el presente decreto.
+
+CUARTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias competentes, deberán implementar las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales de la Secretaría de Gobierno que correspondan al Secretariado Ejecutivo del Sistema Estatal de Seguridad, sean reasignados a la Secretaría de Seguridad Pública, de acuerdo a este decreto y demás disposiciones legales y administrativas aplicables.
+
+Asimismo, los asuntos que se encuentren en trámite del Secretariado Ejecutivo, serán transferidos a la Secretaría de Seguridad Pública.
+
+QUINTO. Los derechos laborales del personal del Secretariado Ejecutivo que, en virtud de lo dispuesto en la presente Ley, sean transferidos de la Secretaría de Gobierno a la Secretaría de Seguridad Pública, serán respetados conforme a las disposiciones aplicables.
