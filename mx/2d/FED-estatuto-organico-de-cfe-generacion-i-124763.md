@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-i-124763"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-12"
-last_updated: "2018-06-04"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124763&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-27"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN I
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de diciembre de 2017.
 
@@ -61,47 +61,11 @@ ESTATUTO ORGÁNICO DE CFE GENERACIÓN I
 
 El presente Estatuto tiene por objeto establecer la estructura y organización básicas y las facultades que correspondan a las distintas áreas que integran la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación I, así como sus directivos o personal que tendrá la representación de la misma y aquéllos que podrán otorgar y revocar poderes en nombre de la empresa.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 2.
 
-CFE Generación I es una Empresa Productiva Subsidiaria de la Comisión, con personalidad jurídica y patrimonio propio, que tiene por objeto generar energía eléctrica mediante cualquier tecnología en territorio nacional, así como realizar las actividades de comercialización a que se refiere el artículo 45 de la Ley de la Industria Eléctrica, excepto la prestación del Suministro Eléctrico. Asimismo, podrá representar total o parcialmente a las Centrales Eléctricas en el Mercado Eléctrico Mayorista que le fueron asignadas por la SENER, de conformidad con lo previsto en la disposición cuarta de los Términos, incluyendo aquéllas que sean propiedad de terceros.
-
-Además de las funciones previstas en los ordenamientos a que se refiere el artículo 4o. del Acuerdo de Creación, tendrá de manera enunciativa mas no limitativa, las siguientes:
-
-I. Generar energía eléctrica mediante las Centrales Eléctricas que estén bajo su control, aun cuando éstas sean propiedad de terceros;
-
-II. Realizar las actividades de comercialización a que se refiere el artículo 45 de la LIE, excepto la prestación del Suministro Eléctrico, que tengan relación con la producción de las Centrales Eléctricas que se encuentren bajo su control;
-
-III. Representar total o parcialmente a las Centrales Eléctricas en el Mercado Eléctrico Mayorista que tenga a su cargo o aquéllas que hayan contratado su representación;
-
-IV. Celebrar contratos de Participante del Mercado con el CENACE, así como realizar todos los actos jurídicos que se requieran para ese efecto;
-
-V. Celebrar Contratos de Cobertura Eléctrica con otros Participantes del Mercado;
-
-VI. Realizar las transacciones de compra o de venta estipuladas en el artículo 96 de la LIE, así como las demás transacciones previstas en la normatividad aplicable;
-
-VII. Celebrar los contratos de interconexión respectivos, con base en los modelos emitidos por la CRE, operar sus Centrales Eléctricas cumpliendo las instrucciones del CENACE, sujetar el mantenimiento de sus Centrales Eléctricas a la coordinación y a las instrucciones del CENACE, y notificar al CENACE los retiros programados de sus Centrales Eléctricas que se encuentren interconectadas al Sistema Eléctrico Nacional;
-
-VIII. Contratar a un Generador para que represente en el Mercado Eléctrico Mayorista a las Centrales Eléctricas que tenga a su cargo; siempre y cuando dicho Generador no represente en el Mercado Eléctrico Mayorista ninguna otra Central Eléctrica a cargo de otra empresa de la Comisión;
-
-IX. Construir, instalar, mantener, operar o adquirir Centrales Eléctricas y demás instalaciones necesarias;
-
-X. Realizar la Proveeduría de Insumos Primarios cuando ésta sea esporádica y con relación a los insumos originalmente destinados a las actividades de Generación a su cargo;
-
-XI. Prestar servicios a terceros relacionados con las actividades que forman parte de su objeto y las facultades anteriormente establecidas.
-
-XII. Celebrar con cualquier ente público del Gobierno Federal, Estatal o Municipal y con personas físicas o morales toda clase de actos, convenios, contratos, suscribir títulos de crédito y otorgar todo tipo de garantías reales y personales de obligaciones contraídas por sí, la Comisión o las Empresas Productivas Subsidiarias y Empresas Filiales de la Comisión, con sujeción a las disposiciones legales aplicables;
-
-XIII. Celebrar contratos con particulares bajo esquemas que le generen una mayor productividad y rentabilidad, incluyendo modalidades que le permitan asociarse y/o compartir costos, gastos, inversiones, riesgos y demás aspectos de las actividades de los que sea titular;
-
-XIV. Crear Empresas Filiales y participar en asociaciones y alianzas, así como participar en forma minoritaria en el capital social o patrimonio de otras sociedades o asociaciones, nacionales o extranjeras, bajo cualquier figura societaria o contractual permitida por la normatividad aplicable, que se requiera para la consecución de su objeto, de conformidad con las políticas generales y lineamientos que emita el Consejo de Administración;
-
-XV. Obtener toda clase de concesiones, permisos, licencias, registros o autorizaciones gubernamentales para el cumplimiento de su objeto;
-
-XVI. Llevar a cabo las actividades y operaciones necesarias para el cabal cumplimiento de su objeto o las relacionadas directa o indirectamente con dicho objeto;
-
-XVII. Realizar los actos jurídicos necesarios para transformarse o escindirse, conforme a la normatividad aplicable; y
-
-XVIII. Las demás que establezca el Consejo de Administración o su Consejo.
+CFE Generación I es una Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, con personalidad jurídica y patrimonio propio, que tiene por objeto generar energía eléctrica mediante cualquier tecnología en territorio nacional, así como realizar las actividades de comercialización a que se refiere el artículo 45 de la Ley de la Industria Eléctrica, excepto la prestación del Suministro Eléctrico. Asimismo, podrá representar total o parcialmente a las Centrales Eléctricas en el Mercado Eléctrico Mayorista que le fueron asignadas por la SENER, de conformidad con lo previsto en los Términos para la reasignación de activos y contratos para la generación a las empresas productivas subsidiarias y empresas filiales de la Comisión Federal de Electricidad, incluyendo aquellas que sean propiedad de terceros.
 
 ###### ARTÍCULO 3.
 
@@ -149,9 +113,13 @@ Para los efectos de este Estatuto, además de las definiciones previstas en los 
 
 ### CAPÍTULO II. De la estructura
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E REPUBLICADO], D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 4.
 
 Para el despacho de los asuntos de su competencia, la Empresa Productiva Subsidiaria de la Comisión, denominada CFE Generación I, cuenta con los Órganos Superiores y con las Áreas Operativas siguientes:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS FRACCIONES], D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
 A. Órganos Superiores
 
@@ -159,13 +127,21 @@ I. Consejo
 
 II. Dirección General
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 B. Áreas Operativas
+
+> <small>(REFORMADA [N. DE E REPUBLICADA], D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
 II.1. Subgerencia de Producción Termoeléctrica Central
 
+> <small>(REFORMADA [N. DE E REPUBLICADA], D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 II.1.1. Superintendencias de Centrales Termoeléctricas
 
-II.2. Subgerencia de Producción Hidroeléctrica Noroeste
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
+II.2. Subgerencia de Producción Hidroeléctrica Ixtapantongo
 
 II.2.1. Superintendencias de Centrales Hidroeléctricas
 
@@ -301,41 +277,43 @@ XIV. Someter a la aprobación de su superior jerárquico la designación del per
 
 XV. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad interna y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-A la Subgerencia de Producción Hidroeléctrica Noroeste le corresponderá, además de las funciones genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+A la Subgerencia de Producción Hidroeléctrica Ixtapantongo le corresponderá, además de las funciones genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
-I. Supervisar el cumplimiento de los indicadores financieros y de rentabilidad de las Centrales Hidroeléctricas de su adscripción;
+I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos administrativos que surjan en el ámbito de las Centrales a su cargo;
 
-II. Participar en la elaboración y supervisar el desarrollo y cumplimiento de proyectos de mantenimiento, modernización, mejoras y construcción de Centrales Hidroeléctricas;
+II. Supervisar el cumplimiento de los indicadores operativos financieros y de rentabilidad, garantizar el cumplimiento de confiabilidad técnica y asegurar el óptimo manejo de la información;
 
-III. Supervisar el desarrollo de proyectos de ingeniería en el ámbito de su competencia;
+III. Supervisar el cumplimiento de las políticas establecidas por el Consejo de Administración y Dirección General en el ámbito de las Centrales a su cargo;
 
-IV. Elaborar, para aprobación del Director General, la planeación operativa de las Centrales Hidroeléctricas de su adscripción;
+IV. Verificar el desarrollo y cumplimiento de los programas de mantenimiento, modernización, mejoras y construcción, así como el desarrollo de proyectos de ingeniería y cumplir en tiempo y forma en el ámbito de las Centrales a su cargo;
 
-V. Participar con el Director General en el diseño de metas y objetivos de las Centrales Hidroeléctricas de su adscripción;
+V. Colaborar en la formulación de la planeación operativa, para diseñar los objetivos, planes operativos y financieros, ejecutándolos a través de las Superintendencia Generales de las Centrales a su cargo;
 
-VI. Coadyuvar en la elaboración e implementación de las políticas de operación en las Centrales Hidroeléctricas de su adscripción;
+VI. Coordinar la aplicación de las políticas para la operación de Centrales Hidroeléctricas de CFE Generación I;
 
-VII. Coordinar la realización de estudios de comportamiento de las Centrales Hidroeléctricas de su adscripción y proponer al Director General las acciones para la optimización de su funcionamiento;
+VII. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de Generación Hidroeléctrica;
 
-VIII. Coordinar, previa anuencia del Director General, las acciones para la optimización del funcionamiento de las Centrales Hidroeléctricas de su adscripción;
+VIII. Coordinar la realización de estudios de comportamiento de Centrales Hidroeléctricas y proponer al Director General las acciones tendientes a optimizar su funcionamiento;
 
-IX. Verificar el comportamiento de las unidades generadoras de energía eléctrica que estén bajo su control, en las pruebas que se realicen periódicamente con el objeto de establecer su eficiencia;
+IX. Coordinar los estudios para mejorar los sistemas de procesos de generación Hidroeléctrica;
 
-X. Integrar los informes de comportamiento de las unidades generadoras de energía eléctrica que estén bajo su control, para la supervisión y vigilancia del desempeño de las mismas;
+X. Verificar el comportamiento de las Unidades generadoras en las pruebas que se realizan periódicamente para determinar su eficiencia;
 
-XI. Garantizar el cumplimiento de los aspectos de confiabilidad técnica de las unidades generadoras de energía eléctrica que estén bajo su control;
+XI. Integrar los informes de comportamiento de las Unidades Generadoras para la supervisión y control del desempeño de las mismas;
 
-XII. Administrar los programas de mantenimiento programado, preventivo y predictivo de las unidades generadoras de energía eléctrica que estén bajo su control;
+XII. Participar con el Director General y Subgerente de Producción en el Diseño de metas y objetivos de las Centrales Hidroeléctricas de su adscripción;
 
-XIII. Coordinar las actividades relacionadas con los diagnósticos de fallas de las unidades generadoras de energía eléctrica que estén bajo su control, participando activamente como experto técnico en la identificación de la causa raíz, así como su posterior reparación;
+XIII. Garantizar que los aspectos de confiabilidad técnica de las unidades generadoras de energía eléctrica que estén bajo su control se cumplan;
 
-XIV. Coordinar las actividades relacionadas con el mantenimiento y conservación de las instalaciones que estén a su cargo;
+XIV. Coordinar las actividades relacionadas con los diagnósticos de fallas de las unidades generadoras de energía eléctrica que estén bajo su control, participando como experto técnico en la identificación de la causa raíz, así como su posterior reparación;
 
 XV. Coadyuvar como experto técnico en los procesos de elaboración de requisiciones de bienes, servicios y obras con destino a las Centrales Hidroeléctricas de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas; y
 
-XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten.
+XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso detecten.
 
 ###### ARTÍCULO 17.
 
@@ -725,67 +703,55 @@ XX. Las demás que le resulten necesarias para el cumplimiento de las funciones 
 
 Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las Subgerencias de Producción a las cuales se encuentren adscritas, y con las funciones genéricas y específicas previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-La Subgerencia de Producción Hidroeléctrica Noroeste cuenta con las siguientes Superintendencias de Central:
+La Subgerencia de Producción Hidroeléctrica Ixtapantongo cuenta con las siguientes Superintendencias de Central:
 
-I. Superintendencia de Central Hidroeléctrica Malpaso;
+I. Superintendencia de Central Hidroeléctrica Ing. Carlos Ramírez Ulloa (El Caracol);
 
-II. Superintendencia de Central Hidroeléctrica Luis Donaldo Colosio Murrieta (Huites);
+II. Superintendencia de Central Hidroeléctrica Gral. Ambrosio Figueroa (La Venta);
 
-III. Superintendencia de Central Hidroeléctrica Ángel Albino Corzo (Peñitas);
+III. Superintendencia de Central Hidroeléctrica Colotlipa;
 
-IV. Superintendencia de Central Hidroeléctrica Fernando Hiriart Balderrama (Zimapán);
+IV. Superintendencia de Central Hidroeléctrica Portezuelos I;
 
-V. Superintendencia de Central Hidroeléctrica Plutarco Elías Calles (El Novillo);
+V. Superintendencia de Central Hidroeléctrica Portezuelos II;
 
-VI. Superintendencia de Central Hidroeléctrica Profesor Raúl J. Marsall (Comedero);
+VI. Superintendencia del Sistema Hidroeléctrico Miguel Alemán (Incluye: C.H. Santa Bárbara y C.H. Tingambato);
 
-VII. Superintendencia de Central Hidroeléctrica Bacurato;
+VII. Superintendencia de Central Hidroeléctrica Fernando Hiriart Balderrama (Zimapán);
 
-VIII. Superintendencia de Central Hidroeléctrica Humaya;
+VIII. Superintendencia de Central Hidroeléctrica Infiernillo;
 
-IX. Superintendencia de Central Hidroeléctrica 27 de Septiembre (El Fuerte);
+IX. Superintendencia de Central Hidroeléctrica Villita;
 
-X. Superintendencia del Sistema Hidroeléctrico Miguel Alemán (Incluye: C.H. Santa Bárbara y C.H. Tingambato);
-
-XI. Superintendencia de Central Hidroeléctrica Boquilla (Incluye: C.H. Colina);
-
-XII. Superintendencia de Central Hidroeléctrica Oviachic;
-
-XIII. Superintendencia de Central Hidroeléctrica Camilo Arriaga (Incluye: C.H. Electroquímica y C.H. Micos);
-
-XIV. Superintendencia de Central Hidroeléctrica Salvador Alvarado (Sanalona); y
-
-XV. Superintendencia de Central Hidroeléctrica Mocuzari.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 30.
 
 La Subgerencia de Producción Termoeléctrica Central cuenta con las siguientes Superintendencias de Central:
 
-I. Superintendencia de Central Termoeléctrica Francisco Pérez Ríos;
+I. Superintendencia de Central Termoeléctrica Francisco Pérez Ríos (Tula);
 
-II. Superintendencia de Central Termoeléctrica Villa de Reyes;
+II.; Superintendencia de Central Termoeléctrica Salamanca;
 
-III. Superintendencia de Central Termoeléctrica Salamanca;
+III. Superintendencia de Central Termoeléctrica Valle de México
 
-IV. Superintendencia de Central Ciclo Combinado Centro;
+IV. Superintendencia de Central Ciclo Combinado Tula;
 
-V. Superintendencia de Central Ciclo Combinado El Sauz;
+V. Superintendencia de Central Ciclo Combinado San Lorenzo Potencia;
 
-VI. Superintendencia de Central de Combustión Interna Baja California Sur (Baja California);
+VI. Superintendencia de Central Ciclo Combinado Valle de México II (Proyecto-2017)
 
-VII. Superintendencia de Central de Combustión Interna Baja California Sur V (Coromuel);
+VII. Superintendencia de Central Ciclo Combinado Centro I;
 
-VIII. Superintendencia de Centrales de Generación Distribuida (Incluye: C.T.G. Nonoalco, C.T.G. Aragón, C.T.G. Atenco, C.T.G. Coapa, C.T.G. Coyotepec I, C.T.G. Coyotepec II, C.T.G. Cuautitlán, C.T.G. Ecatepec, C.T.G. Iztapalapa, C.T.G. Magdalena, C.T.G. Remedios, C.T.G. Santa Cruz, C.T.G. Vallejo, C.T.G. Victoria y C.T.G. Villa de Reyes);
+VIII. Superintendencia de Central Ciclo Cogeneración Salamanca (TG)
 
-IX. U.M.E.- 01;
+IX. Superintendencia de Central Ciclo Combinado El Sauz;
 
-X. U.M.E.- 09;
-
-XI. U.M.E.- 10; y
-
-XII. U.M.E.- 11.
+X. Superintendencia de Centrales de Generación Distribuida (Incluye: C.T.G. Nonoalco, C.T.G. Aragón, C.T.G. Atenco, C.T.G. Coapa, C.T.G. Coyotepec I, C.T.G. Coyotepec II, C.T.G. Cuautitlán, C.T.G. Ecatepec, C.T.G. Iztapalapa, C.T.G. Magdalena, C.T.G. Remedios, C.T.G. Santa Cruz, C.T.G. Vallejo, C.T.G. Victoria y C.T.G. Villa de las Flores);
 
 ### CAPÍTULO VI. Del Personal de CFE Generación I
 
@@ -886,3 +852,11 @@ D.O.F. 4 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN I, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 12 DE DICIEMBRE DE 2017".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN I, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 12 DE DICIEMBRE DE 2017".]
+
+PRIMERO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente modificación al Estatuto fue aprobada y expedido por el Consejo de Administración de CFE Generación I, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación I, en sesión ordinaria celebrada el 02 de abril de 2020.
