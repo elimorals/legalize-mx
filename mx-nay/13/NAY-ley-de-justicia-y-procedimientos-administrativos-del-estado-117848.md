@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2016-12-21"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda Número: 121 del Periódico Oficial Órgano del Gobierno del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -79,19 +79,41 @@ VIII. Las autoridades administrativas, el Tribunal y las partes interesadas se c
 
 Para los efectos de esta ley se entenderá por:
 
-l. Correo electrónico: Sistema de comunicación a través de redes informáticas que provee un espacio para la recepción y envío de documentos digitales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-II. Documento digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
+I. Autoridad Administrativa: Las autoridades del Poder Ejecutivo del Estado, de los municipios y de la administración pública paraestatal y paramunicipal;
 
-III. Magistrado instructor: Al magistrado que en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción del asunto y la comunicación de sus resultados e ilustración sobre el estado de la causa al pleno del Tribunal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-IV. Tribunal: Al Tribunal de Justicia Administrativa del Estado de Nayarit; el cual, para los efectos de la ley, también se le denominará como la Sala, refiriéndose a la actuación de los tres magistrados de forma colegiada, y
+II. Correo electrónico: Sistema de comunicación a través de redes informáticas que provee un espacio para la recepción y envío de documentos digitales;
 
-V. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 5.
+III. Documento digital: Todo mensaje de datos que contiene, imágenes, texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
 
-Las promociones y actuaciones deben escribirse en lengua española. Cuando las promociones no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la autoridad administrativa o el Tribunal la obtendrán, de manera oficiosa, de traductor adscrito preferentemente a las dependencias públicas.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IV. Magistrado instructor: Al Magistrado que en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción del asunto y la comunicación de sus resultados e ilustración sobre el estado de la causa al órgano Colegiado correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+V. Sala Administrativa: Al órgano Colegiado integrado por tres Magistrados numerarios con competencia en asuntos jurisdiccionales administrativos y fiscales del Tribunal de Justicia Administrativa de Nayarit;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VI. Sala Unitaria: Sala Unitaria Especializada en materia de responsabilidades administrativas Tribunal de Justicia Administrativa de Nayarit;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VII. Tribunal: Al Tribunal de Justicia Administrativa de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VIII. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTICULO 5.
+
+Las promociones y actuaciones deben escribirse en idioma español. Cuando las promociones no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la autoridad administrativa o el Tribunal la obtendrán, de manera oficiosa, de traductor adscrito preferentemente a las dependencias públicas.
 
 ###### ARTÍCULO 6.
 
@@ -127,6 +149,8 @@ Cuando los particulares remitan un documento digital, recibirán el Acuse de Rec
 
 ### CAPÍTULO PRIMERO. DE LAS FORMALIDADES PROCEDIMENTALES Y PROCESALES
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 10.
 
 Los menores de edad, los sujetos a interdicción, sucesiones o quiebras y las personas morales, actuarán por conducto de sus representantes, en términos de la legislación aplicable.
@@ -135,9 +159,11 @@ En los asuntos en los que intervengan menores de edad y sujetos de interdicción
 
 Cuando una solicitud o promoción se formule por dos o más personas, deberán designar a un representante común de entre ellas. Si no se hace el nombramiento, la autoridad administrativa o el Tribunal por conducto del magistrado instructor, considerarán como representante común a la persona mencionada en primer término. Los interesados podrán revocar, en cualquier momento, la designación del representante común, nombrando a otro, lo que se hará saber a la propia autoridad o al magistrado instructor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
-Las promociones y actuaciones se efectuarán en días y horas hábiles. Son horas hábiles las comprendidas entre las 08:00 y las 20:00. Son días hábiles todos los del año, con exclusión de los sábados, domingos y aquellos que se señalen en el calendario oficial correspondiente, que deberá publicarse, en el mes de diciembre del ejercicio anterior, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit o en la Gaceta Municipal cuando se trate del calendario municipal, así como los que extraordinariamente determine la Sala por acuerdo expreso que se hará público.
+Las promociones y actuaciones se efectuarán en días y horas hábiles. Son horas hábiles las comprendidas entre las 08:00 y las 20:00. Son días hábiles todos los del año, con exclusión de los sábados, domingos y aquellos que se señalen en el calendario oficial correspondiente, que deberá publicarse, en el mes de diciembre del ejercicio anterior, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit o en la Gaceta Municipal cuando se trate del calendario municipal, así como los que extraordinariamente determine el Tribunal por acuerdo expreso que se hará público.
 
 La existencia de personal de guardia no habilita los días ya señalados como inhábiles.
 
@@ -161,9 +187,11 @@ Las autoridades administrativas y el Tribunal, podrán ordenar de oficio o a pet
 
 En el procedimiento y proceso administrativo no se producirá la caducidad por inactividad de particulares, autoridades administrativas o el Tribunal, sea por falta de promociones o de actuaciones en un determinado tiempo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-Los servidores públicos no son recusables, pero deberán manifestar que están impedidos para conocer de los asuntos de su competencia, en los casos siguientes:
+Los servidores públicos de la autoridad administrativa deberán manifestar que están impedidos para conocer de los asuntos de su competencia, en los casos siguientes:
 
 I. Si son cónyuges o parientes consanguíneos o afines de alguno de los interesados o de sus abogados o representantes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad o dentro del segundo en la colateral por afinidad;
 
@@ -179,11 +207,29 @@ VI. Si son partes en un asunto similar, pendiente de solución, y
 
 VII. Por alguna otra causa prevista en la ley.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Cuando el servidor público de la autoridad administrativa no se inhibiere a pesar de existir alguno de los impedimentos expresados, en cualquier momento de la tramitación del procedimiento, el interesado podrá promover la recusación.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+La recusación se planteará por escrito ante el superior jerárquico del recusado, expresando la causa o causas en que se funda, acompañando al mismo las pruebas pertinentes.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Al día siguiente de integrado el expediente con la documentación a que se refiere el párrafo anterior, el recusado manifestará lo que considere pertinente. El superior resolverá en el plazo de tres días, lo procedente. A falta de informe rendido por el recusado, se tendrá por cierto el impedimento interpuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaciones no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra la resolución que dé por concluido el procedimiento.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 17.
 
-El servidor público que se encuentre en alguna de las circunstancias señaladas en el artículo anterior, tan pronto tenga conocimiento de la misma, se excusará de intervenir en el procedimiento y lo comunicará a su superior inmediato, quien resolverá lo conducente dentro de los tres días siguientes.
+El servidor público de la autoridad administrativa que se encuentre en alguna de las circunstancias señaladas en el artículo anterior, tan pronto tenga conocimiento de la misma, se excusará de intervenir en el procedimiento y lo comunicará a su superior inmediato, quien resolverá lo conducente dentro de los tres días siguientes.
 
-Cuando hubiere otro servidor público con competencia, el superior jerárquico turnará el asunto a éste; en su defecto, dispondrá que el servidor público que se hubiere excusado resuelva bajo la supervisión de su superior jerárquico.
+Cuando hubiere otro servidor público de la autoridad administrativa con competencia, el superior jerárquico turnará el asunto a éste; en su defecto, dispondrá que el servidor público que se hubiere excusado resuelva bajo la supervisión de su superior jerárquico.
 
 ###### ARTÍCULO 18.
 
@@ -193,11 +239,13 @@ La intervención del servidor público en el que concurra cualquiera de los impe
 
 La autoridad administrativa o el Tribunal, acordarán la acumulación de los expedientes del procedimiento y proceso administrativo que ante ellos se sigan, de oficio o a petición de parte, cuando las partes o los actos administrativos sean iguales, se trate de actos conexos o resulte conveniente el trámite unificado de los asuntos, para evitar la emisión de resoluciones contradictorias. La misma regla se aplicará, en lo conducente, para la separación de los expedientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 20.
 
-La autoridad administrativa y el Tribunal, para hacer cumplir sus determinaciones, resoluciones o para imponer el orden, podrán, según la gravedad de la falta, hacer uso de alguno de los siguientes medios de apremio y medidas disciplinarias:
+La autoridad administrativa para hacer cumplir sus determinaciones, resoluciones o para imponer el orden, podrán (sic), según la gravedad de la falta, hacer uso de alguno de los siguientes medios de apremio y medidas disciplinarias:
 
-l. Amonestación;
+I. Amonestación;
 
 II. Multa de 10 a 200 veces la UMA, en caso de reincidencia se podrá aplicar hasta el doble de la sanción señalada; si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
@@ -249,7 +297,7 @@ En caso de no señalarse domicilio, dato o medio para ser notificados, o los man
 
 Las notificaciones se harán:
 
-l. Personalmente o por correo certificado con acuse de recibo cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos y por oficio a las autoridades, en los siguientes supuestos:
+I. Personalmente o por correo certificado con acuse de recibo cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos y por oficio a las autoridades, en los siguientes supuestos:
 
 a) El acuerdo que recaiga a la demanda, contestación, ampliación y contestación a la ampliación;
 
@@ -267,7 +315,9 @@ III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias 
 
 IV. Por instructivo, conforme a lo establecido en el segundo párrafo del artículo 27 de esta ley;
 
-V. Por otros medios, si los interesados así lo solicitan y siempre que se refieran a un medio inusual y a su costa, para lo cual deberán proporcionar los elementos necesarios y practicados que sean, el notificador asentará la fecha, hora y medio empleado, circunstanciando esto con la mayor precisión posible, de tal manera que permita su identificación y localización, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+V. Por otros medios, si los interesados así lo solicitan, siempre que se refieran a un medio inusual y a su costa, para lo cual deberán proporcionar los datos y elementos necesarios; una vez practicados, el notificador asentará la fecha, hora y medio empleado, circunstanciando esto con la mayor precisión posible, de tal manera que permita su identificación y localización, y
 
 VI. En las oficinas de las dependencias públicas o del Tribunal, si se presentan los particulares o autoridades administrativas a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio.
 
@@ -284,6 +334,8 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 El notificador asentará razón de todas y cada una de las circunstancias observadas en la diligencia de notificación. Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de hasta diez veces la UMA.
 
 ### CAPÍTULO TERCERO. DEL RECURSO ADMINISTRATIVO DE INCONFORMIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 28.
 
@@ -314,6 +366,8 @@ Cuando la ley no señale plazo para la práctica de alguna actuación o para el 
 Transcurridos los plazos fijados a las partes interesadas, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de declaratoria en ese sentido.
 
 ### CAPÍTULO PRIMERO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -392,6 +446,8 @@ El magistrado a quien se le turne el recurso, al admitirlo, mandará correr tras
 Las partes podrán formular excitativa de justicia ante el presidente del Tribunal, si no se resuelve el recurso de reconsideración dentro del plazo legal respectivo.
 
 Si el presidente del Tribunal encuentra fundada la excitativa, otorgará un plazo que no excederá de tres días para que el magistrado presente el proyecto de resolución o, en su caso, para que la Sala resuelva el recurso.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 38.
 
@@ -523,25 +579,23 @@ X. El visitado, su representante o la persona con la que se haya entendido la ve
 
 ###### ARTÍCULO 246.
 
-Las sentencias de la Sala constituirán jurisprudencia, siempre y cuando lo resuelto se sustente en tres ejecutorias no interrumpidas por otra en contrario. La jurisprudencia será obligatoria para el Tribunal. Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas para su formación.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 247.
 
-Cuando se sustenten tesis contradictorias, cualquiera de los magistrados podrá denunciar la contradicción ante la Sala. El presidente del Tribunal formulará la ponencia respectiva, a fin de decidir si efectivamente existe contradicción y, en su caso, cuál será el criterio que, como jurisprudencia, adopte el Tribunal.
-
-La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en los juicios en que fueron pronunciadas.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 248.
 
-Al aprobarse el texto de alguna jurisprudencia, en la que se sostenga la invalidez de reglamentos, decretos, circulares y demás disposiciones generales, el presidente del Tribunal la hará del conocimiento de las autoridades del Poder Ejecutivo del Estado, de los municipios o de los organismos descentralizados de carácter estatal o municipal que los hayan expedido, recomendándoles la reforma o derogación de los mismos.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 249.
 
-Las jurisprudencias se publicarán en el Periódico Oficial, Órgano del Gobierno del Estado y en el órgano de difusión del Tribunal. En esta última publicación también se divulgarán las tesis importantes que constituyan precedente.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 250.
 
-Cuando las partes invoquen la jurisprudencia del Tribunal, lo harán por escrito, expresando el número, el texto y las tesis que la integran.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ## Artículos transitorios
 
@@ -584,6 +638,26 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" de este Honorable C
 DIP. JORGE HUMBERTO SEGURA LÓPEZ, PRESIDENTE.- RÚBRICA.- DIP. JOSÉ ÁNGEL MARTÍNEZ INURRIAGA, SECRETARIO.- RÚBRICA.- DIP. FRANCISCO JAVIER JACOBO CAMBERO, SECRETARIO.- RÚBRICA.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los Veinte días del mes de Diciembre del año dos mil dieciséis.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Armando Gómez Arias.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA, Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+TERCERO. La Sala Administrativa del Tribunal de Justicia Administrativa continuará conociendo y resolviendo respecto de los procesos y recursos administrativos que se encuentren en trámite; incluyendo aquellos que se consideren reservados, por su competencia, a las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas hasta en tanto no se emita el acuerdo de inicio formal de funciones de dichas Salas Unitarias Especializadas, por parte del pleno del Tribunal, siempre que no se exceda del término establecido en el Artículo Cuarto Transitorio del Decreto legislativo publicado el 28 de julio de 2020 en el Periódico Oficial, órgano de difusión del Gobierno del Estado, en materia de adecuación y armonización del marco jurídico correspondiente.
+
+Emitido el acuerdo de referencia, la Sala Administrativa deberá remitir a las Salas Unitarias Especializadas, por conducto de la Secretaría General de Acuerdos del Pleno, los expedientes de su competencia para su trámite y resolución.
+
+CUARTO. Los procedimientos y recursos pendientes de remisión al Tribunal de Justicia Administrativa, que sean competencia de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, serán turnados a la Sala Administrativa, en los términos y para los efectos señalados en el artículo anterior.
+
+QUINTO. De conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit, el día 28 de julio de 2020, el Magistrado y Magistrada numerarios que fueron nombrados por el Congreso del Estado se encontrarán adscritos a las correspondientes Salas Unitarias Especializadas en materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del Ejercicio de su encargo, sin perjuicio de las atribuciones del Pleno, previstas en la presente Ley.
+
+SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberán realizarse las adecuaciones normativas y reglamentarias pertinentes para proveer al eficaz cumplimiento del presente Decreto.
 
 ###### ARTÍCULO 55.
 
@@ -717,9 +791,11 @@ Los actos administrativos legalmente emitidos tienen fuerza ejecutiva de acuerdo
 
 ###### ARTÍCULO 71.
 
-Contra los actos y resoluciones de las autoridades administrativas y fiscales, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o iniciar juicio ante el Tribunal de Justicia Administrativa del Estado de Nayarit. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante el Tribunal, dentro de los quince días siguientes a la presentación del desistimiento.
+Contra los actos y resoluciones de las autoridades administrativas y fiscales, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o iniciar juicio ante la Sala Administrativa del Tribunal. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante la Sala Administrativa del Tribunal, dentro de los quince días siguientes a la presentación del desistimiento.
 
-La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante el Tribunal.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante la Sala Administrativa del Tribunal.
 
 Para los efectos del párrafo anterior, tienen el carácter de particulares las personas afectadas en sus intereses jurídicos o legítimos por los actos y resoluciones reclamados, incluyendo a los servidores públicos a quienes se les atribuya alguna causal de responsabilidad administrativa y a los integrantes de los cuerpos de seguridad pública que sean molestados en sus derechos e intereses, en términos de las leyes aplicables.
 
@@ -861,7 +937,9 @@ La tramitación de la declaración a que se refiere el párrafo anterior no cons
 
 La autoridad competente dictará resolución y la notificará en un término que no exceda de treinta días siguientes a la fecha de interposición del recurso. Para efectos de impugnación, el silencio de la autoridad significará que se ha confirmado el acto impugnado.
 
-El recurrente podrá decidir entre esperar la resolución expresa o promover juicio ante el Tribunal, en contra de la presunta confirmación del acto reclamado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+El recurrente podrá decidir entre esperar la resolución expresa o promover juicio ante la Sala Administrativa del Tribunal, en contra de la presunta confirmación del acto reclamado.
 
 ###### ARTÍCULO 85.
 
@@ -875,245 +953,125 @@ III. La motivación y fundamentación legal que la sustenten, y
 
 IV. La expresión en los puntos resolutivos de la reposición del procedimiento que se ordene; los actos cuya validez se reconozca o cuya invalidez se declare; los términos de la modificación del acto impugnado; la condena que en su caso se decrete y, de ser posible, los efectos de la resolución.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 86.
 
-La jurisdicción administrativa en el Estado de Nayarit se ejerce por conducto del Tribunal de Justicia Administrativa, órgano autónomo e independiente de cualquier autoridad, dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir, así como de independencia presupuestal para garantizar la imparcialidad de su actuación.
-
-Formará parte del sistema local anticorrupción y estará sujeto a las bases establecidas tanto en la ley general como en la estatal correspondiente.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 87.
 
-El Tribunal tiene jurisdicción y competencia en el Estado de Nayarit para:
-
-l. Dirimir las controversias administrativas que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado, municipios y de la administración paraestatal y municipal, o cualquier persona u órgano que funja como autoridad administrativa;
-
-II. Resolver respecto de las faltas administrativas graves, investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes, e
-
-III. Imponer las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública o al patrimonio estatal o municipal.
-
-Así como dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 88.
 
-El Tribunal se integra por una sala colegiada con sede en la capital del Estado, compuesta de tres magistrados numerarios y hasta dos magistrados supernumerarios, que resolverán los juicios contenciosos administrativos, recursos, procedimientos de responsabilidades administrativas de los servidores públicos y particulares, así como las demás cuestiones que por su trascendencia lo requiera en pleno; en tanto que los acuerdos de mero trámite serán resueltos de manera unitaria por el magistrado instructor en turno.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. INTEGRACIÓN DEL TRIBUNAL
 
 ###### ARTÍCULO 89.
 
-La Presidencia del Tribunal recaerá en uno de los magistrados, que será elegido por la Sala, y durará en su encargo tres años, con la posibilidad de ser reelecto, sin perjuicio de que una vez que deje el cargo de Presidente, continúe como magistrado por el periodo respectivo. El Presidente del Tribunal ejercerá también las funciones de magistrado del mismo.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 90.
 
-Para ser magistrado del Tribunal se deberán cubrir los requisitos establecidos por el artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit. En los mismos términos, se observará el procedimiento contenido en tal artículo para la designación de magistrados numerarios y supernumerarios.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 91.
 
-Los magistrados numerarios durarán en su encargo diez años, pudiendo ser ratificados por una sola vez y por el mismo periodo. Durante el desempeño de sus funciones, sólo podrán ser removidos de su cargo por el Congreso, en los casos y de acuerdo al procedimiento que establece la Constitución Política del Estado Libre y Soberano de Nayarit y las leyes aplicables.
-
-Los magistrados supernumerarios durarán en su cargo diez años.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 92.
 
-Las faltas emergentes de los magistrados y aquellas no mayores a tres meses, serán suplidas por el secretario general de acuerdos, previo acuerdo del Pleno que lo habilite. Las ausencias que excedan dicho plazo serán cubiertas por el magistrado supernumerario que corresponda, según el orden de prelación que se haya establecido en el decreto de designación.
-
-Las ausencias definitivas se comunicarán al Gobernador para que en un plazo que no exceda de 15 días, proceda a proponer al Congreso una terna de la cual se elegirá al magistrado que supla la vacante por el tiempo que falte para concluir el periodo. El Congreso, o en sus recesos la Diputación Permanente, emitirá su resolución dentro de los 15 días siguientes a la recepción de la propuesta del Gobernador.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 93.
 
-Las licencias de los Magistrados, cuando no excedan de ciento ochenta días, serán concedidas por el Pleno del Tribunal; las que excedan de este término, el Pleno las someterá para su resolución ante el Congreso del Estado, o en sus recesos, a la Diputación Permanente.
-
-Los magistrados que gocen de licencia no podrán desempeñar ninguno de los cargos a que aluden las fracciones VII y VIII del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 94.
 
-Los magistrados tendrán una remuneración igual a la establecida para los Magistrados del Poder Judicial del Estado de Nayarit; la cual no podrá ser disminuida durante su encargo.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 95.
 
-El Tribunal, para su adecuado funcionamiento, contará de manera enunciativa más no limitativa, con Secretario General de Acuerdos, Secretarios Proyectistas, Secretarios de Acuerdos, Departamento de Administración, Área de Amparos, Área de Transparencia y Acceso a la Información Pública, Área de Sistemas Informáticos y Estadística, Órgano de Control Interno, Actuarios, y demás servidores públicos necesarios para su funcionamiento.
-
-El ingreso, permanencia y desarrollo de los servidores públicos del Tribunal, se hará en función a los recursos disponibles y programas para tal fin, tomando en cuenta los factores de honestidad, preparación, eficiencia y antigüedad, de acuerdo con lo dispuesto en esta Ley, el Reglamento Interior del Tribunal de Justicia Administrativa del Estado y el Reglamento de Carrera Jurisdiccional Administrativa.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 96.
 
-Las atribuciones específicas de los magistrados, secretario general de acuerdos, secretarios proyectistas, secretarios de acuerdos, actuarios, jefes de área o unidad, titular del órgano de control interno y demás servidores públicos, se precisarán en el Reglamento Interior del Tribunal de Justicia Administrativa del Estado.
-
-A dichos servidores públicos les corresponden, de manera genérica, las siguientes atribuciones:
-
-l. A los Magistrados, dar trámite a los asuntos de su competencia, dictando los acuerdos, las sentencias y las resoluciones que procedan, de conformidad con lo que establezca el Reglamento Interior del Tribunal de Justicia Administrativa del Estado;
-
-II. Al Secretario General de Acuerdos, autorizar y dar fe de las actuaciones de la Sala;
-
-III. A los Secretarios Proyectistas, elaborar los proyectos de resolución de los juicios contenciosos administrativos y de recursos de reconsideración, así como realizar los estudios en materia administrativa y fiscal que se les encomienden;
-
-IV. A los Secretarios de Acuerdos, redactar y autorizar las actas y acuerdos que recaigan en relación a las promociones presentadas en los expedientes y el seguimiento en el cumplimiento de las resoluciones;
-
-V. A los Actuarios, notificar y hacer las diligencias que correspondan en la forma y tiempo prescritos por la ley, a las resoluciones que se les turnen, teniendo fe pública en la práctica de las notificaciones y diligencias que realicen;
-
-VI. Al Jefe del Departamento de Administración, tramitar los asuntos de su competencia, en los aspectos administrativos, contables, presupuestares, de documentación y difusión, de estudios y proyectos, o de informática;
-
-VII. Al Jefe del Área de Amparo, tramitar los asuntos de su competencia, en cuanto a los juicios de amparo que se hagan valer en contra de las resoluciones del Tribunal;
-
-VIII. Al jefe del Área de Transparencia y Acceso a la Información Pública, recibir, tramitar y en general atender las solicitudes que con fundamento en la Ley de la materia presenten los ciudadanos; asimismo dar respuesta a los requerimientos que el órgano competente realice al Tribunal, y
-
-IX. Al titular del Órgano de Control Interno le corresponde la vigilancia y fiscalización de los recursos públicos asignados al Tribunal, la instauración de procedimientos de responsabilidades en contra del personal del Tribunal.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 97.
 
-Los magistrados, secretario general de acuerdos, secretarios proyectistas, secretarios de acuerdos, actuarios y jefes de unidad, estarán impedidos para desempeñar cualquier otro empleo en la federación, Estado, municipios, otras entidades federativas, o de algún particular, excepto los de carácter académico, siempre que su desempeño no afecte las funciones propias de estos servidores públicos.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
-También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser ministros de algún culto religioso.
+## TÍTULO CUARTO. DEL PROCESO ADMINISTRATIVO
 
-## TÍTULO CUARTO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT Y DEL PROCESO ADMINISTRATIVO
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 98.
 
-Los magistrados, secretario general de acuerdos, secretarios de acuerdos, secretarios proyectistas, actuarios y jefes de unidad, que cumplan 70 años de edad o les sobrevenga incapacidad física o mental para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal; percibirán las prestaciones que establezca la legislación aplicable.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN TERCERA. DE LA SALA DEL TRIBUNAL
 
 ###### ARTÍCULO 99.
 
-Las resoluciones se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 100.
 
-La Sala del Tribunal funcionará con el total de sus integrantes. Cuando no asista alguno de los magistrados a la sesión, éste será suplido por el secretario general de acuerdos.
-
-Cuando sea el secretario general de acuerdos quien supla a uno de los magistrados, el Presidente designará de entre los secretarios proyectistas quien suplirá a su vez al secretario general de acuerdos.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 101.
 
-Son atribuciones de la Sala:
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
-I. Designar al presidente del Tribunal;
-
-II. Aprobar la integración de la jurisprudencia del Tribunal;
-
-III. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal;
-
-IV. Conceder licencias a los magistrados del Tribunal, en términos del artículo 93 de esta ley;
-
-V. Nombrar y remover al secretario general de acuerdos, secretarios proyectistas, secretarios de acuerdos, actuarios, y jefes de unidad del Tribunal;
-
-VI. Formular anualmente el presupuesto de egresos del Tribunal;
-
-VII. Expedir y reformar el Reglamento Interior del Tribunal de Justicia Administrativa del Estado, así como las demás disposiciones necesarias para su buen funcionamiento;
-
-VIII. Presentar, por conducto del presidente del Tribunal, propuestas de reformas a la legislación administrativa del Estado y municipios ante las autoridades competentes;
-
-IX. Calificar las excusas por impedimento de los magistrados del Tribunal y, en su caso, designar al magistrado que deba sustituirlos;
-
-X. Expedir el calendario laboral del Tribunal para el año siguiente, el cual incluirá dos periodos vacacionales de diez días hábiles cada uno, y el señalamiento de los días inhábiles, debiendo ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en el mes de diciembre;
-
-XI. Requerir su integración al Pleno, al Magistrado Supernumerario en términos de esta Ley, y
-
-XII. Las demás que establezca esta ley.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN CUARTA. DEL PRESIDENTE DEL TRIBUNAL
 
 ###### ARTÍCULO 102.
 
-El presidente será designado en la primera sesión de la Sala del año que corresponda.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 103.
 
-El presidente será suplido en sus faltas temporales por el magistrado que designe la Sala. Si la falta es definitiva, se designará por la Sala de entre los magistrados al nuevo Presidente para concluir el período del anterior.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 104.
 
-Son atribuciones del presidente del Tribunal:
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
-l. Representar al Tribunal ante toda clase de autoridades y particulares, pudiendo delegar esta atribución, bajo su responsabilidad, al integrante del Tribunal que decida;
-
-II. Despachar la correspondencia del Tribunal;
-
-III. Convocar a sesiones de la Sala, dirigir los debates y conservar el orden en ellas;
-
-IV. Proponer a la Sala la designación del secretario general de acuerdos;
-
-V. Nombrar y remover al personal, en los casos en que su nombramiento y remoción no corresponda a la Sala;
-
-VI. Conceder o negar licencias al personal jurídico y administrativo del Tribunal cuyo otorgamiento no corresponda a la Sala;
-
-VII. Evaluar la actuación de los servidores públicos del Tribunal;
-
-VIII. Imponer las sanciones administrativas que procedan a los servidores públicos del Tribunal, conforme a las disposiciones legales aplicables;
-
-IX. Administrar el presupuesto del Tribunal;
-
-X. Autorizar, en unión del secretario general de acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos de éste;
-
-XI. Rendir a la Sala, en el último mes de cada año, un informe de las actividades;
-
-XII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que considere que deban darse a conocer por ser de interés general, y
-
-XIII. Las demás que establezca esta ley.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 #### SECCIÓN QUINTA. DE LA CARRERA JURISDICCIONAL ADMINISTRATIVA
 
 ###### ARTÍCULO 105.
 
-El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en la igualdad de oportunidades, reglas y procedimientos claros, justos y equitativos, a través de los cuales se determine el ingreso, permanencia y desarrollo de sus servidores públicos, evaluando su capacidad, desempeño y méritos, en cuyo caso los principios que deberá observar el personal de carrera en su desempeño público profesional, son los siguientes:
-
-l. Legalidad;
-
-II. Honradez;
-
-III. Eficiencia;
-
-IV. Imparcialidad;
-
-V. Lealtad;
-
-VI. Profesionalismo;
-
-VII. Eficacia;
-
-VIII. Excelencia;
-
-IX. Honestidad, e
-
-X. Independencia.
-
-Para el desarrollo del personal de carrera, se tendrán en cuenta la profesionalización y la evaluación del desempeño. Ésta se sustentará en el establecimiento de parámetros de rendimiento, mérito, cumplimiento de objetivos y funciones en el puesto, productividad, disciplina institucional, responsabilidad y aportaciones al trabajo institucional, que permitan una valoración constante del personal.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 106.
 
-El sistema que para tal efecto establezca el Tribunal, abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, de acuerdo con los procedimientos y criterios establecidos en el Reglamento de Carrera Jurisdiccional Administrativa.
-
-Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones generales, el sistema de carrera de los servidores públicos previstos en el artículo 108 de esta Ley.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 107.
 
-El desarrollo del personal de carrera se hará en función a los recursos disponibles y programas para tal fin, por lo que el Tribunal tomará en consideración:
-
-l. La ocupación de plazas vacantes;
-
-II. Las promociones salariales;
-
-III. El desempeño de comisiones y cargos dentro de las áreas de las entidades;
-
-IV. La profesionalización adquirida;
-
-V. El reconocimiento y otorgamiento de estímulos e incentivos por desempeño sobresaliente;
-
-VI. El financiamiento a la formación profesional, y
-
-VII. Las garantías de permanencia en el empleo.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 108.
 
-Se entenderán por vacantes las plazas en los puestos de la carrera jurisdiccional que se encuentren desocupadas de manera temporal o definitiva.
-
-Las vacantes se ocuparán mediante incorporación temporal, adquisición de titularidad o reincorporación de personal de carrera. La Sala podrá designar, de entre el personal de carrera jurisdiccional, de manera interina y hasta por seis meses, al sustituto que ocupará una vacante en algún puesto que no admita ausencia de su titular. El interinato no podrá renovarse y una vez transcurridos los seis meses señalados, la plaza vacante tendrá que ser sometida a concurso.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 109.
 
 Procede el juicio contencioso administrativo en contra de:
 
-l. Las resoluciones administrativas y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados de carácter estatal o municipal, por violaciones cometidas en las mismas o durante el procedimiento administrativo; en• este último caso, cuando trasciendan al sentido de las resoluciones;
+I. Las resoluciones administrativas y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados de carácter estatal o municipal, por violaciones cometidas en las mismas o durante el procedimiento administrativo; en este último caso, cuando trasciendan al sentido de las resoluciones;
 
 II. Los actos administrativos y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades señaladas en la fracción anterior, así como sus omisiones que afecten derechos de particulares;
 
@@ -1129,7 +1087,9 @@ VII. Los reglamentos, decretos, circulares y demás disposiciones generales de n
 
 VIII. Las resoluciones que, al ser favorables a los particulares, causen una lesión a la hacienda pública del Estado o de los municipios, cuya invalidez se demande por las autoridades fiscales del Poder Ejecutivo del Estado, de los municipios o de los organismos descentralizados de carácter estatal o municipal;
 
-IX. Los actos que dicten, ordenen, ejecuten o traten de ejecutar las personas que se ostenten como autoridades administrativas o fiscales de carácter estatal o municipal, sin serlo;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IX. Los actos que dicten, ordenen, ejecuten o traten de ejecutar, en exceso o en defecto de sus atribuciones las personas que se ostenten como autoridades administrativas o fiscales de carácter estatal o municipal;
 
 X. Las resoluciones definitivas que se dicten en aplicación de las Leyes de responsabilidades aplicables en la materia, con excepción de las relativas al juicio político y a la declaración de procedencia;
 
@@ -1139,11 +1099,21 @@ XII. Las resoluciones que recaigan al recurso de inconformidad a que se refiere 
 
 XIII. Las resoluciones que recaigan a los recursos de revocación y de oposición al procedimiento administrativo de ejecución, previstos en el Código Fiscal del Estado;
 
-XIV. Las resoluciones que pongan fin al procedimiento que instauren los Consejos Técnicos de carrera policial en aplicación de la Ley del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-XV. Los resultados de las evaluaciones que a los elementos de seguridad pública que practique el Centro Estatal de Control de Confianza y Evaluación del Desempeño y de la Certificación, y
+XIV. Las resoluciones que pongan fin al procedimiento que instauren los Consejos Técnicos de carrera policial en aplicación de la Ley del Sistema Estatal de Seguridad Pública; así como la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio de los elementos de seguridad pública;
 
-XVI. Los demás actos y resoluciones que señalen las disposiciones legales.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+XV. Los resultados de las evaluaciones que a los elementos de seguridad pública que practique el Centro Estatal de Control de Confianza y Evaluación del Desempeño y de la Certificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Conocer y resolver en torno de la interpretación y el cumplimiento de contratos de obra pública o relacionados con ésta, adquisiciones, arrendamientos y servicios, celebrados por autoridades estatales o municipales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Los demás actos y resoluciones que señalen las disposiciones legales.
 
 ###### ARTÍCULO 110.
 
@@ -1197,7 +1167,9 @@ Quien así lo solicite, tendrá la obligación en el plazo de diez días hábile
 
 A quien incumpla con el párrafo que antecede, se le impondrá una multa de hasta de treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. La multa se hará efectiva a través del procedimiento administrativo de ejecución y por conducto de la autoridad exhortante correspondiente.
 
-El Pleno del Tribunal podrá acordar que en el trámite de exhortos, oficios comisarios y requisitorios que deban diligenciarse en el territorio del Estado o fuera de este, se realicen por medios electrónicos.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+El Pleno de la Sala Administrativa del Tribunal podrá acordar que en el trámite de exhortos, oficios comisorios y requisitorios que deban diligenciarse en el territorio del Estado o fuera de este, se realicen por medios electrónicos.
 
 ###### ARTÍCULO 117.
 
@@ -1223,11 +1195,19 @@ Las resoluciones del Tribunal tendrán el carácter de acuerdos, sentencias inte
 
 La demanda deberá formularse por escrito y presentarse, directamente o por correo certificado; con acuse de recibo, ante la Sala, dentro de los quince días siguientes a aquel en que surta efectos la notificación del acto que se impugna o aquel en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
 
-l. Tratándose de la resolución negativa ficta, así como de omisiones para dar respuesta a peticiones de los particulares, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
+I. Tratándose de la resolución negativa ficta, así como de omisiones para dar respuesta a peticiones de los particulares, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
 
-II. En los casos de expedición de reglamentos, decretos, circulares y demás disposiciones de carácter general de naturaleza administrativa o fiscal, podrá presentarse la demanda, dentro del plazo de treinta días posteriores a la fecha en que entren en vigor. También podrán impugnarse estas disposiciones generales, conjuntamente con su primer acto de aplicación, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-III. Cuando se pida la invalidez de una resolución fiscal favorable a un particular, la demanda deberá presentarse dentro del año siguiente a la fecha de emisión de la resolución.
+II. En los casos de expedición de reglamentos, decretos, circulares y demás disposiciones de carácter general de naturaleza administrativa o fiscal, podrá presentarse la demanda, dentro del plazo de treinta días posteriores a la fecha en que entren en vigor. También podrán impugnarse estas disposiciones generales, conjuntamente con su primer acto de aplicación;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+III. Cuando se pida la invalidez de una resolución fiscal favorable a un particular, la demanda deberá presentarse dentro del año siguiente a la fecha de emisión de la resolución, y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IV. Cuando se impugne un acto de autoridad que afecte un derecho de propiedad o posesión sobre bienes determinados, salvo disposición legal en contrario, la demanda podrá presentarse en cualquier tiempo mientras no se extinga el derecho que corresponda.
 
 ###### ARTÍCULO 121.
 
@@ -1485,9 +1465,11 @@ Si se admite la promoción de nulidad, el magistrado instructor resolverá en un
 
 Contestada la demanda, el magistrado instructor examinará el expediente, y si encontrare acreditada claramente alguna causa evidente de improcedencia o sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no resultare clara, ésta se decidirá en la sentencia que resuelva la cuestión planteada.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 149.
 
-Cuando los magistrados del Tribunal tengan impedimento para conocer de algún asunto, harán la manifestación ante la Sala para que lo califique de plano; cuando proceda, ésta designará a quien deba sustituir al magistrado impedido.
+Cuando los Magistrados tengan impedimento para conocer de algún asunto, harán la manifestación ante el Pleno del Tribunal para que lo califique de plano; cuando proceda, ésta designará a quien deba sustituir al Magistrado impedido.
 
 ###### ARTÍCULO 150.
 
@@ -1517,15 +1499,21 @@ Sólo los hechos estarán sujetos a prueba; el derecho lo estará únicamente cu
 
 Los hechos notorios no necesitarán ser probados y el magistrado instructor del Tribunal deberá invocarlos, aunque no hubieren sido alegados por las partes.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Se consideran hechos notorios, entre otros, aquéllos que son del conocimiento público por haber sido publicitados por las autoridades en sitios web oficiales o plataformas tecnológicas, en cumplimiento de disposiciones legales aplicables, o bien en los diarios, periódicos o gacetas oficiales, correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 156.
 
-Los servidores públicos y terceros estarán obligados, en todo tiempo, a prestar auxilio al Tribunal en la averiguación de la verdad; en consecuencia, deberán, sin demora, exhibir los documentos y los objetos que tuvieren en su poder, así como declarar, cuando para ello fueren requeridos. El Tribunal tiene la facultad de compeler a los servidores públicos y a terceros por los medios de apremio para que cumplan con esta obligación; en caso de oposición, oirá las razones en que la funden y resolverá lo conducente.
+Los servidores públicos y terceros estarán obligados, en todo tiempo, a prestar auxilio al Tribunal en la averiguación de la verdad; en consecuencia, deberán, sin demora, exhibir los documentos y los objetos que tuvieren en su poder, así como declarar, cuando para ello fueren requeridos. El Tribunal tiene la facultad de compeler a los servidores públicos y a terceros por los medios de apremio que estime más eficaces, sin sujetarse a un orden determinado siempre que su decisión se encuentre justificada, para que cumplan con esta obligación; en caso de oposición, oirá las razones en que la funden y resolverá lo conducente.
 
 ###### ARTÍCULO 157.
 
 Son medios de prueba:
 
-l. La confesional;
+I. La confesional;
 
 II. Los documentos públicos y privados;
 
@@ -1555,9 +1543,11 @@ Durante el proceso o procedimiento administrativo no se admitirá la confesional
 
 Pueden articularse posiciones al mandatario, siempre que tenga poder bastante para absolverlas o se refieran a hechos ejecutados por él en el ejercicio del mandato.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 161.
 
-El particular que haya de absolver posiciones será citado personalmente, a más tardar, 48 horas antes de la señalada para la diligencia, bajo el apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso.
+El particular que haya de absolver posiciones será citado personalmente, a más tardar, 48 horas antes de la señalada para la diligencia, bajo el apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso de las posiciones que se declaren legales.
 
 ###### ARTÍCULO 162.
 
@@ -1573,7 +1563,9 @@ II. Se refieran a hechos o circunstancias que ya consten fehacientemente en el e
 
 III. Sean contradictorias;
 
-IV. No estén formuladas de manera clara y precisa o traten de confundir al absolvente
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IV. No estén formuladas en forma de afirmación, de manera clara y precisa o traten de confundir al absolvente;
 
 V. Contengan términos técnicos, y
 
@@ -1583,13 +1575,17 @@ VI. No contengan hechos propios del declarante o se refieran a opiniones, creenc
 
 Si fueren varios los que han de absolver posiciones al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo día, siempre que sea posible, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 165.
 
-En ningún caso se permitirá que la persona que ha de absolver un pliego de posiciones esté asistida por su defensor, ni se le dará traslado de las posiciones, ni término para que sea aconsejada; pero si el absolvente no habla español, será asistido por un intérprete nombrado por el magistrado instructor.
+En ningún caso se permitirá que la persona que ha de absolver un pliego de posiciones esté asistida por persona alguna, ni se le dará traslado de las posiciones, ni término para que sea aconsejada; pero si el absolvente no habla español, será asistido por un intérprete nombrado por el Magistrado instructor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 166.
 
-Hecha por el absolvente la protesta de decir verdad, el magistrado instructor procederá al interrogatorio. El interrogatorio será aclarado y explicado al absolvente al formulársele cada pregunta, a fin de que conteste a cada una de ellas con pleno conocimiento de causa.
+Hecha por el absolvente la protesta de decir verdad, el Magistrado instructor procederá al interrogatorio. El interrogatorio será aclarado y explicado al absolvente al formulársele cada posición, a fin de que conteste a cada una de ellas con pleno conocimiento de causa.
 
 Las respuestas serán categóricas en sentido afirmativo o negativo, pero quienes respondan podrán agregar las explicaciones que consideren necesarias y, en todo caso, darán las que el magistrado instructor les pida.
 
@@ -1679,9 +1675,11 @@ III. Los que no hubiere sido posible adquirir con anterioridad, por causas que n
 
 Los servidores públicos tienen la obligación de expedir con toda oportunidad las copias certificadas de los documentos que les soliciten las partes. Si los servidores públicos no cumplieren con esa obligación, las partes podrán solicitar, en cualquier momento, al Tribunal, que requiera a los omisos.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 182.
 
-Los documentos que no se presentaren en lengua española, deberán acompañarse de su traducción, de la que se mandará dar vista a las demás partes para que dentro del término de tres días, manifiesten lo que a su derecho convenga. Si estuvieren conformes o no contestaren la vista, se estará a la traducción aportada; en caso contrario, la parte que no estuviere conforme presentará su traducción y el Tribunal, con éstas, nombrará traductor, preferentemente de entre los adscritos a las dependencias públicas, para que haga la traducción que tome en cuenta el Tribunal, remitiéndole copia de las traducciones presentadas por las partes y del escrito a traducir.
+Los documentos que no se presentaren en idioma español, deberán acompañarse de su traducción, de la que se mandará dar vista a las demás partes para que dentro del término de tres días, manifiesten lo que a su derecho convenga. Si estuvieren conformes o no contestaren la vista, se estará a la traducción aportada; en caso contrario, la parte que no estuviere conforme presentará su traducción y el Tribunal, con éstas, nombrará traductor, preferentemente de entre los adscritos a las dependencias públicas, para que haga la traducción que tome en cuenta el Tribunal, remitiéndole copia de las traducciones presentadas por las partes y del escrito a traducir.
 
 ###### ARTÍCULO 183.
 
@@ -1785,9 +1783,11 @@ El Tribunal, de oficio o a petición de parte, ordenará se levanten planos o se
 
 #### SECCIÓN DÉCIMA SEGUNDA. DE LA PERICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 201.
 
-La prueba pericial procede cuando sean necesarios conocimientos especiales en alguna ciencia, técnica o arte, y se ofrecerá expresando los puntos sobre los que versará.
+La prueba pericial procede cuando sean necesarios conocimientos especiales propios de alguna ciencia, técnica o arte, y se ofrecerá expresando los puntos sobre los que versará.
 
 Los peritos deben tener título en la especialidad a que pertenezca la cuestión sobre la que ha de oírse su parecer, si estuviere legalmente reglamentada. Si no la estuviere, podrá ser nombrada cualquier persona entendida, a criterio del Tribunal.
 
@@ -1854,6 +1854,12 @@ Para acreditar hechos o circunstancias que tengan relación con el asunto que se
 ###### ARTÍCULO 212.
 
 Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás descubrimientos de la ciencia, la técnica o arte que produzcan convicción en el ánimo del Tribunal.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+ARTÍCULO 212 BIS.- Las partes podrán objetar la fidelidad o autenticidad de las pruebas a que se refiere la presente sección, debiendo ofrecer las pruebas, pericial o de otra naturaleza en que se sustente la objeción.
+
+El resultado del debate será prudencialmente valorado por el juzgador al momento de dictar la Sentencia que corresponda.
 
 #### SECCIÓN DÉCIMA SEXTA. DE LA VALORACIÓN DE LA PRUEBA
 
