@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-control-constitucional-del-estado-de-nayarit-75309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2017-09-20"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 2 de junio de 2010.
 
@@ -41,11 +43,17 @@ LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de observancia general y tiene por objeto reglamentar las fracciones I a V del artículo 91 de la Constitución local.
+La presente ley es de orden público y de observancia general y tiene por objeto reglamentar los procedimientos a que se refiere el artículo 91 de la Constitución local.
 
 La Sala Constitucional conocerá y resolverá con base en las disposiciones de la presente ley, las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de inconstitucionalidad por omisión, de las cuestiones de inconstitucionalidad y del juicio de protección de derechos fundamentales.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Asimismo, en términos de la fracción VIII del artículo 91 de la Constitución local, la Sala Constitucional conocerá y resolverá el recurso de apelación previsto en la Ley General de Responsabilidades Administrativas. Su substanciación será de conformidad con el Capítulo VI del Título Segundo de la presente Ley.
 
 ###### Artículo 2.
 
@@ -55,31 +63,49 @@ A falta de disposición expresa, se estará a las prevenciones del Código de Pr
 
 Para los efectos de esta ley se entenderá por:
 
-I. Constitución federal: Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-II. Constitución local: Constitución Política del Estado Libre y Soberano de Nayarit;
+I. Autoridad: Dependencia, entidad, poder u órgano;
 
-III. Gobernador: Gobernador Constitucional del Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-IV. Ley orgánica: Ley Orgánica del Poder Judicial del Estado;
+II. Constitución federal: Constitución Política de los Estados Unidos Mexicanos;
 
-V. Autoridad: Dependencia, entidad, poder u órgano;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-VI. Periódico oficial: Periódico Oficial, Órgano de Gobierno del Estado de Nayarit;
+III. Constitución local: Constitución Política del Estado Libre y Soberano de Nayarit;
 
-VII. Procurador: Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+IV. Fiscal General: Fiscal General del Estado;
 
-VIII. Sala Constitucional: Sala Constitucional del Tribunal Superior de Justicia del Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+V. Gobernador: Gobernador Constitucional del Estado de Nayarit;
 
-IX. Presidente de la sala: Presidente de la Sala Constitucional, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+VI. Ley orgánica: Ley Orgánica del Poder Judicial del Estado;
 
-X. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VII. Periódico oficial: Periódico Oficial, Órgano del Gobierno del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Presidente de la sala: Presidente de la Sala Constitucional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IX. Procesos constitucionales: las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de inconstitucionalidad por omisión, de las cuestiones de inconstitucionalidad, del juicio de protección de derechos fundamentales y recursos en materia de responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+X. Sala Constitucional: Sala Constitucional del Tribunal Superior de Justicia del Estado de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+XI. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
@@ -173,7 +199,9 @@ II. Como demandado: la autoridad que hubiere emitido y promulgado la norma gener
 
 III. Como tercero o terceros interesados: las personas o autoridades, que sin tener el carácter de actores o demandados, pudieran resultar afectados por la sentencia que pudiera dictarse, y
 
-IV. El Procurador.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IV. El Fiscal General.
 
 ###### Artículo 12.
 
@@ -311,13 +339,41 @@ VII. La manifestación de los hechos o abstenciones que le consten al actor y qu
 
 VIII. Los conceptos de invalidez.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 25 bis.- El escrito en que se interponga el recurso de apelación en materia de responsabilidad administrativa, deberá precisar:
+
+I. La autoridad o persona actor, domicilio para recibir notificaciones en el lugar de residencia de la Sala Constitucional, así como el nombre, firma y cargo del funcionario que los represente;
+
+II. La autoridad que emitió la Sentencia que se impugna y su domicilio;
+
+III. Las autoridades o terceros interesados, si los hubiere, y sus domicilios;
+
+IV. La resolución definitiva cuya invalidez se demande, y fecha en que le fue notificada;
+
+V. Precisar la pretensión del actor;
+
+VI. Los preceptos constitucionales y legales que, en su caso, se estimen violados;
+
+VII. La manifestación de los hechos o abstenciones que le consten al actor y que constituyan los antecedentes de la resolución definitiva impugnada, y
+
+VIII. Los conceptos de invalidez en vía de agravio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-El escrito de contestación de demanda o el informe de la autoridad responsable deberán contener, cuando menos:
+El escrito de contestación de demanda, del recurso o el informe de la autoridad responsable deberán contener, cuando menos:
 
 I. La relación precisa de cada uno de los hechos narrados por la parte actora, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, y
 
-II. Las razones o fundamentos jurídicos que se estimen pertinentes para sostener la validez de la norma general o acto de que se trate.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+II. Las razones o fundamentos jurídicos que se estimen pertinentes para sostener la validez, constitucionalidad y legalidad de la resolución definitiva de que se trate.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose del recurso de apelación en materia de responsabilidades administrativas, la Sala Especializada en la materia del Tribunal de Justicia Administrativa, remitirá a la Sala Constitucional copia certificada de las constancias que obren en autos del expediente junto con el Informe Justificado en el que manifieste en su caso, los motivos de improcedencia del recurso.
 
 ###### Artículo 27.
 
@@ -331,13 +387,17 @@ Las demandas o promociones sujetas a término podrán presentarse fuera del hora
 
 ### Capítulo IX. De las reglas comunes en la instrucción
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 29.
 
-Recibida la demanda, el Presidente de la sala designará, según el turno que corresponda, al magistrado instructor a fin de que ponga el proceso en estado de resolución.
+Recibida la demanda o el recurso de apelación en materia de responsabilidades administrativas, el Presidente de la Sala Constitucional designará, según el turno que corresponda, al Magistrado instructor a fin de que ponga el proceso en estado de resolución.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-El magistrado instructor examinará el escrito de demanda y si encontrare motivo manifiesto e indudable de improcedencia, la desechará de plano.
+El Magistrado instructor examinará el escrito de demanda o el recurso y si encontrare motivo manifiesto e indudable de improcedencia, la desechará de plano.
 
 ###### Artículo 31.
 
@@ -351,7 +411,9 @@ El actor podrá ampliar su demanda dentro de los quince días siguientes al de l
 
 Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros o irregulares, el magistrado instructor prevendrá a los promoventes para que las subsanen dentro del término de cinco días.
 
-De no subsanarse las prevenciones requeridas y si a juicio del magistrado instructor la importancia y trascendencia del asunto lo amerita, correrá traslado al Procurador para que en el término de cinco días manifieste lo que conforme a derecho considere, y con vista en su pedimento si lo hiciere, admitirá o desechará la demanda dentro de las cuarenta y ocho horas siguientes.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+De no subsanarse las prevenciones requeridas y si a juicio del Magistrado instructor la importancia y trascendencia del asunto lo amerita, correrá traslado al Fiscal General para que en el término de cinco días manifieste lo que conforme a derecho considere, y con vista en su pedimento si lo hiciere, admitirá o desechará la demanda dentro de las cuarenta y ocho horas siguientes.
 
 ###### Artículo 34.
 
@@ -409,15 +471,21 @@ En todos los casos la Sala Constitucional deberá suplir la deficiencia de la de
 
 Las sentencias deberán contener:
 
-I. La fijación breve y precisa de las normas generales o actos objeto del medio de control constitucional y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+I. La fijación breve y precisa de las normas generales, de los actos objeto del medio de control constitucional o de la resolución de responsabilidad administrativa recurrida y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
 
 II. Los preceptos que la fundamenten;
 
 III. Las consideraciones que sustenten su sentido, así como los preceptos que en su caso se estimaren violados;
 
-IV. Los alcances y efectos de la sentencia, fijando con precisión, en su caso, los organismos obligados a cumplirla, las normas generales o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Cuando la sentencia declare la invalidez de una norma general, sus efectos deberán extenderse a todas aquellas normas cuya validez dependa de la propia norma invalidada;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales o actos impugnados, y en su caso la absolución o condena respectivas, fijando el término para el cumplimiento de las actuaciones que se señalen, y
+IV. Los alcances y efectos de la sentencia, fijando con precisión, en su caso, los organismos obligados a cumplirla, las normas generales, los actos o la resolución respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Cuando la sentencia declare la invalidez de una norma general, sus efectos deberán extenderse a todas aquellas normas cuya validez dependa de la propia norma invalidada;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales, actos impugnados o resoluciones de responsabilidad administrativa, y en su caso la absolución o condena respectivas, fijando el término para el cumplimiento de las actuaciones que se señalen, y
 
 VI. En su caso, el término en el que la parte condenada deba realizar una actuación.
 
@@ -479,7 +547,9 @@ No podrá archivarse ningún expediente sin que quede cumplida la sentencia o se
 
 El recurso de reclamación procederá contra:
 
-I. Los autos o resoluciones que admitan o desechen una demanda, su contestación o sus respectivas ampliaciones;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+I. Los autos o resoluciones que admitan o desechen una demanda o un recurso de apelación en materia de responsabilidad administrativa, su contestación o sus respectivas ampliaciones;
 
 II. Los autos o resoluciones que pongan fin a la controversia o que por su naturaleza trascendental y grave puedan causar un agravio material a alguna de las partes no reparable en la sentencia definitiva;
 
@@ -591,7 +661,9 @@ La declaración de invalidez no tendrá efectos retroactivos, salvo en materia p
 
 Las acciones de inconstitucionalidad tienen por objeto plantear la posible contradicción entre una norma de carácter general y la Constitución local, podrán ejercitarse por:
 
-I. El Procurador;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+I. El Fiscal General;
 
 II. Cuando menos una tercera parte de los miembros integrantes del Congreso, en contra de leyes o decretos expedidos por la propia legislatura;
 
@@ -619,9 +691,11 @@ La admisión de una acción de inconstitucionalidad no dará lugar a la suspensi
 
 Las causales previstas en las fracciones III y IV del artículo 22 sólo podrán aplicarse cuando los supuestos contemplados en éstas se presenten respecto de otra acción de inconstitucionalidad.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 71.
 
-Salvo en los casos en que el Procurador hubiere ejercitado la acción, el magistrado instructor le dará vista con el escrito y con los informes a que se refiere el artículo 69, a efecto de que hasta antes de la citación para sentencia, formule el pedimento que corresponda.
+Salvo en los casos en que el Fiscal General hubiere ejercitado la acción, el Magistrado instructor le dará vista con el escrito y con los informes a que se refiere el artículo 69, a efecto de que hasta antes de la citación para sentencia, formule el pedimento que corresponda.
 
 ###### Artículo 72.
 
@@ -831,9 +905,49 @@ Si la autoridad que ha incurrido o coadyuvado en el incumplimiento de la sentenc
 
 Ningún juicio para la protección de derechos fundamentales podrá archivarse si la sentencia que lo resolvió no está cumplida, salvo que ya no hubiera materia para su ejecución.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo VI. Del Recurso de Apelación en Materia de Responsabilidades Administrativas
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 107 bis.- La Sala Constitucional conocerá y resolverá de los recursos de apelación que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas en Materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa del Estado de Nayarit.
+
+Los responsables o los terceros, la Secretaría de la Contraloría General, los Órganos Internos de control de los entes públicos del Estado o la Auditoría Superior del Estado de Nayarit, promoverán el recurso de apelación mediante escrito ante la Sala Especializada del Tribunal de Justicia Administrativa que emitió la resolución, dentro del término de quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+
+El escrito de interposición deberá satisfacer los requisitos previstos por el artículo 25 bis de la presente Ley.
+
+El recurso será substanciado atendiendo a las siguientes disposiciones:
+
+I. La Sala Constitucional deberá resolver en el plazo de tres días hábiles si admite el recurso de apelación, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
+
+Si hubiera irregularidades en el escrito del recurso por no haberse satisfecho los requisitos establecidos en el artículo 25 bis de esta Ley, y en su caso, del 215 de la Ley General de Responsabilidad (sic) Administrativas, se señalará al promovente un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa;
+
+II. La Sala Constitucional dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido este término se procederá a resolver con los elementos que obren en autos;
+
+III. La Sala Constitucional procederá al estudio de los conceptos de agravio, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de agravio que atañan al fondo de la litis, por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la inocencia del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la autoridad investigadora, las violaciones de forma hayan impedido conocer con certeza la inocencia de los involucrados.
+
+En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la inocencia del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio, y
+
+IV. En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
+
+Se exceptúan del párrafo anterior, los agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General del Estado y las instituciones policiales estatales y municipales sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 107 ter.- Procederá el recurso de apelación contra las resoluciones siguientes:
+
+I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares, y
+
+II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 107 quater.- En contra de la resolución dictada por la Sala Constitucional al resolver el recurso a que se refiere el presente Capítulo, no procederá juicio ni recurso alguno.
 
 ## TÍTULO TERCERO. DE LA JURISPRUDENCIA EN MATERIA CONSTITUCIONAL
+
+### Capítulo Único
 
 ###### Artículo 108.
 
@@ -898,3 +1012,21 @@ P.O. 20 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES AL ARTÍCULO 22 DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit
+
+P.O. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo dispuesto en los artículos siguientes.
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+TERCERO. La Sala Administrativa del Tribunal de Justicia Administrativa continuará conociendo y resolviendo respecto de los procesos y recursos administrativos que se encuentren en trámite; incluyendo aquellos que se consideren reservados, por su competencia, a las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas hasta en tanto no se emita el acuerdo de inicio formal de funciones de dichas Salas Unitarias Especializadas, por parte del pleno del Tribunal, siempre que no se exceda del término establecido en el Artículo Cuarto Transitorio del Decreto legislativo publicado el 28 de julio de 2020 en el Periódico Oficial, órgano de difusión del Gobierno del Estado, en materia de adecuación y armonización del marco jurídico correspondiente.
+
+Emitido el acuerdo de referencia, la Sala Administrativa deberá remitir a las Salas Unitarias Especializadas, por conducto de la Secretaría General de Acuerdos del Pleno, los expedientes de su competencia para su trámite y resolución.
+
+CUARTO. Los procedimientos y recursos pendientes de remisión al Tribunal de Justicia Administrativa, que sean competencia de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, serán turnados a la Sala Administrativa, en los términos y para los efectos señalados en el artículo anterior.
+
+QUINTO. De conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit, el día 28 de julio de 2020, el Magistrado y Magistrada numerarios que fueron nombrados por el Congreso del Estado se encontrarán adscritos a las correspondientes Salas Unitarias Especializadas en materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del Ejercicio de su encargo, sin perjuicio de las atribuciones del Pleno, previstas en la presente Ley.
+
+SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberán realizarse las adecuaciones normativas y reglamentarias pertinentes para proveer al eficaz cumplimiento del presente Decreto.
