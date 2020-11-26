@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-11826
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-06-22"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Especial al 4 del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -75,65 +75,49 @@ II.- Los bienes y derechos que el Estado les asigne y los que adquieran por cual
 
 Cada una de las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana, Tecate y Ensenada, será administrada por un Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 5.
 
-Los Consejos de Administración de las Comisiones de Mexicali, Tijuana, Tecate y Ensenada, se integran con ocho consejeros, los que serán:
+Los Consejos de Administración de las Comisiones de Mexicali, Tijuana, Tecate y Ensenada, se integran con cinco consejeros, los que serán:
 
-I.- El Gobernador del Estado;
+I.- La Secretaria o el Secretario para el Manejo, Saneamiento y Protección del Agua;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2020)</small>
+II.- La Secretaria o el Secretario de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-II.- El Secretario para el Manejo, Saneamiento y Protección del Agua;
+III.- La Secretaria o el Secretario de Hacienda;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+IV.- La Secretaria o el Secretario de Economía Sustentable y Turismo, y
 
-III.- El Secretario de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
+V.- La Presidenta o Presidente Municipal respectivo.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+VI.- Un representante de la sociedad civil invitado por la Presidenta o Presidente del Consejo, con derecho a voz pero sin voto.
 
-IV.- El Secretario de Hacienda;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
-
-V.- Un representante ciudadano, que será seleccionado por el Gobernador del Estado de la terna que proponga el Cabildo del Municipio correspondiente;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
-
-VI.- Dos representantes de la Iniciativa Privada, que serán seleccionados por el Gobernador del Estado de las ternas que proponga la Cámara de Comercio y la Delegación de la Cámara Nacional de la Industria de Transformación del Municipio correspondiente, y
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
-
-VII.- El Presidente Municipal respectivo.
+VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 6.
 
-En caso de que las agrupaciones a que se refiere el artículo 5 fracción V, omitan hacer las proposiciones de los representantes de la iniciativa privada, el Gobernador del Estado hará libremente las designaciones de dichos representantes.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 7.
 
-El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temporales será sustituido por el titular de la Secretaría para el Manejo, Saneamiento y Protección del Agua. Por cada uno de los Consejeros restantes, el Gobernador del Estado designará un suplente.
+La Secretaria o el Secretario para el Manejo, Saneamiento y Protección del Agua será quién presida el Consejo y en sus ausencias temporales será sustituido por la o el funcionario que éste designe; asimismo cada uno de las y los Consejeros, deberá designar un suplente, quien no podrá ocupar cargo inferior al del Director.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 8.
 
-Los Consejeros a que se refieren las facciones (sic) I, II, III y IV del artículo 5 de esta Ley, durarán en su cargo mientras sean titulares de la Dependencia, y serán sustituidos automáticamente por el nuevo titular. Los consejeros representantes de la Iniciativa Privada, durarán en su cargo dos años, debiendo ser nuevamente propuestos y designados.
+Las y los Consejeros a que se refieren las facciones (sic) I, II, III y IV del artículo 5 de esta Ley, durarán en su cargo mientras sean titulares de la Dependencia, y serán sustituidos automáticamente por el nuevo titular.
 
 ###### ARTÍCULO 9.
 
-Son causas de remoción de los Consejeros representantes de la Iniciativa Privada, las siguientes:
-
-I.- La falta manifiesta de interés en asistir a las sesiones del Consejo;
-
-II.- Haber celebrado contrato vigente con la Comisión o desempeñar puestos administrativos dentro de la misma, y
-
-III.- Ser socio o tener comunidad de intereses con personas que contraten con la Comisión o realicen gestiones ante la misma. A los suplentes se les aplicará lo dispuesto en este Artículo.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 10.
 
-Para la renovación de los miembros del Consejo, representantes de la Iniciativa Privada, los organismos y funcionarios señalados en el artículo 5 remitirán al Gobernador del Estado, en el mes de diciembre de los años impares, listas de tres personas de reconocida solvencia moral para efectos de las mencionadas disposiciones. Dichos representantes entrarán en funciones en día primero de enero del año siguiente.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
 
 ###### ARTÍCULO 11.
 
@@ -165,9 +149,11 @@ X.- Autorizar de acuerdo con el Director General, que éste delegue en empleados
 
 XI.- En general, tomar las medidas y realizar las operaciones necesarias relacionadas con los objetivos a que se refiere el Artículo 2 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 13.
 
-El Consejo de Administración de cada una de las Comisiones, para el ejercicio de las atribuciones que le señalan esta Ley y su Reglamento, actuará válidamente con la concurrencia de tres de sus miembros, dos de los cuáles serán los funcionarios a que se refieren las fracciones I, II y III del Artículo 5 y cuando menos uno de la Iniciativa Privada. Sus resoluciones se tomarán por mayoría de votos de los Consejeros presentes.
+El Consejo de Administración de cada una de las Comisiones, para el ejercicio de las atribuciones que le señalan esta Ley y su Reglamento, actuará válidamente con la concurrencia de tres de sus miembros. Sus resoluciones se tomarán por mayoría de votos de las y los Consejeros presentes.
 
 El Presidente tendrá voto de calidad.
 
@@ -322,3 +308,11 @@ P.O. 22 DE JUNIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. A más tardar dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, las Comisiones Estatales de Servicios Públicos realizarán una revisión a sus respectivas estructuras administrativas, con el objetivo de analizar y eficientar su forma de organización, que les permita cumplir de la mejor manera con el objeto social para lo que fueron creadas, sometiendo a consideración de sus respectivos órganos de gobierno las mejoras detectadas.
+
+P.O. 26 DE NOVIEMBRE DE 2020.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NO. 166 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 7, 8, Y 13, ASÍ COMO SE DEROGAN LOS ARTÍCULOS 6, 9 Y 10 TODOS DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las Comisiones tendrán un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente decreto, para realizar la reforma y la armonización normativa de sus reglamentos internos acorde con la presente reforma.
