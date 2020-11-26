@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-declaracion-de-ausencia-por-desaparicion-de-123313"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-05"
-last_updated: "2017-09-05"
+last_updated: "2020-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA DECLARACION DE AUSENCIA POR DESAPARICION DE PERSONAS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 26 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA DECLARACIÓN DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 5 de septiembre de 2017.
 
@@ -442,3 +444,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210.- POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga la Ley para la Declaración de Ausencia por Desaparición de Personas del Estado de México, publicada en el Periódico Oficial "Gaceta de Gobierno" el 5 de septiembre de 2017.
+
+TERCERO. Las autoridades de los Poderes Ejecutivo y Judicial, así como la Legislatura del Estado de México, en el ámbito de sus respectivas competencias, realizarán las acciones y deberán emitir los ordenamientos necesarios para el adecuado cumplimiento de la presente Ley, a más tardar, el 15 de agosto del año 2021.
