@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2016-11-16"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -137,7 +137,9 @@ d) Abandono, ausencia o irresponsabilidad de progenitores, de tutores, de quiene
 
 e) Ser víctimas de cualquier tipo de explotación;
 
-f) Vivir en la calle;
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2020)</small>
+
+f) Vivir en situación de calle;
 
 g) Ser víctimas de la trata de personas, la pornografía y el comercio sexual;
 
@@ -836,3 +838,17 @@ G.G. 16 DE NOVIEMBRE DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 211.- POR EL QUE SE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 5, LA FRACCIÓN XIV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 86 Y LA FRACCIÓN XVIII RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 90 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, Y SE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Legislatura Estatal deberá contemplar en el presupuesto de egresos, los recursos necesarios para la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, para el cumplimiento de las obligaciones estipuladas en el presente Decreto, a fin de crear un programa específico para la atención de niñas, niños y adolescentes en situación de calle.
+
+CUARTO.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México capacitará y determinará los protocolos de actuación necesarios para la atención de la niñez en situación de calle.
+
+QUINTO.- Los Municipios del Estado de México contarán con un periodo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, para la instalación del Comité Municipal de Erradicación del Trabajo Infantil.
