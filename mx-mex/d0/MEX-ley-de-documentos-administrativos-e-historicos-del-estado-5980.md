@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-documentos-administrativos-e-historicos-del-estado-5980"
 country: "mx"
 rank: "ley"
 publication_date: "1986-03-24"
-last_updated: "2016-12-20"
+last_updated: "2020-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE ARCHIVOS Y ADMINISTRACIÓN DE DOCUMENTOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 26 DE NOVIEMBRE DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TRESCIENTOS SESENTA Y CINCO DÍAS SIGUIENTES CONTADOS A PARTIR DE SU PUBLICACIÓN.]</small>
+
 LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020 ABROGADA.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 24 de marzo de 1986.
 
@@ -582,3 +584,43 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 214.- POR EL QUE SE EXPIDE LA LEY DE ARCHIVOS Y ADMINISTRACIÓN DE DOCUMENTOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. A partir de la entrada en vigor de la Ley, se abroga la Ley de Documentos Administrativos e Históricos del Estado de México.
+
+TERCERO. En tanto se expidan las normas archivísticas correspondientes, continuará aplicándose lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en todo lo que no se oponga a la presente Ley.
+
+CUARTO. La Secretaría de Finanzas proveerá de la estructura orgánica y de los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General del Estado para el cumplimiento de las obligaciones establecidas en la presente Ley.
+
+QUINTO. La Legislatura deberá prever el presupuesto suficiente para la aplicación de la presente Ley. Las erogaciones que se generen con motivo de la entrada en vigor de la misma para los Sujetos Obligados se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, los municipios deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+SEXTO. Las Secretarías de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para la instalación y el funcionamiento del Archivo General del Estado.
+
+SÉPTIMO. El Consejo Estatal deberá integrarse dentro de los siguientes tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su Reglamento en los seis meses subsecuentes. Asimismo, comenzará a sesionar dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los Sujetos Obligados deberán implementar su Sistema Institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+NOVENO. El Archivo General del Estado pondrá en operación la plataforma del Registro Estatal de Archivos dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO. Los Sujetos Obligados deberán organizar y describir los Fondos Documentales acumulados en sus Archivos de Trámite en un período no mayor a un año a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO PRIMERO. A aquellos documentos que se encuentren en los Archivos de Concentración, y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, se les deberán aplicar los procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su Disposición Documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico, informativo u homólogo del Sujeto Obligado.
+
+DÉCIMO SEGUNDO. Los documentos transferidos a un Archivo Histórico o al Archivo General, antes de la entrada en vigor de esta Ley, permanecerán en dichos Archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos Sujetos Obligados que cuenten con Archivos Históricos, deberán prever en el Programa Anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de esta Ley
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico, informativo u homólogo del Sujeto Obligado.
+
+DÉCIMO TERCERO. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los Sujetos Obligados deberán establecer programas de capacitación en materia de Gestión Documental y Administración de Archivos.
+
+DÉCIMO CUARTO. En tanto las Dependencias y Organismos Auxiliares del Ejecutivo Estatal designan un Área Coordinadora de Archivos, y conforman sus distintas Áreas Operativas, podrán auxiliarse de las unidades administrativas de la Secretaría de Finanzas para realizar las atribuciones previstas en la presente Ley.
