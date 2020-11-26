@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2020-09-29"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -187,15 +187,19 @@ XXXIII. Representación Originaria: A la representación de niñas, niños y ado
 
 XXXIV. Representación en Suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-XXXV. Sistema Estatal DIF: Al Sistema para el Desarrollo Integral de la Familia del Estado de México.
+> <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2020)</small>
 
-XXXVI. Sistema Estatal de Protección Integral: Al Sistema de Protección de Niñas, Niños y Adolescentes del Estado de México.
+XXXV. Situación de Calle: Estado donde la persona se ha desvinculado total o parcialmente de sus familias adoptando la calle como espacio de habitad, convivencia y pernoctación, así como área de socialización, des-socialización y sobrevivencia.
 
-XXXVII. Sistema Municipal de Protección Integral: Al Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de México.
+XXXVI. Sistema Estatal DIF: Al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-XXXVIII. Sistemas Municipales DIF: A los sistemas municipales para el desarrollo integral de la familia del Estado de México.
+XXXVII. Sistema Estatal de Protección Integral: Al Sistema de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
-XXXIX. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+XXXVIII. Sistema Municipal de Protección Integral: Al Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de México.
+
+XXXIX. Sistemas Municipales DIF: A los sistemas municipales para el desarrollo integral de la familia del Estado de México.
+
+XL. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
 ###### Artículo 6.
 
@@ -1399,7 +1403,11 @@ XII. Coadyuvar en la integración del sistema de información a nivel nacional d
 
 XIII. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la protección, promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez.
 
-XIV. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General y de los convenios de coordinación.
+> <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2020)</small>
+
+XIV. Instalar el Comité Municipal de Erradicación de Trabajo Infantil, a fin de que se determinen las políticas públicas, programas y acciones que coadyuven a comprender el fenómeno laboral y de las condiciones permitidas para ello en cada Municipio.
+
+XV. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General y de los convenios de coordinación.
 
 #### Sección Segunda. Del Sistema Estatal DIF
 
@@ -1509,15 +1517,19 @@ XVI. Coadyuvar con el Sistema Nacional y el Sistema Estatal DIF y sus municipios
 
 XVII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-XVIII. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, en la medida que favorezca la salvaguarda del interés superior de la niñez.
+> <small>(ADICIONADA, G.G. 26 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Atender y prevenir la violencia familiar en coordinación con las instituciones y autoridades públicas y privadas, organismos de la sociedad civil y no gubernamentales, de acuerdo con sus posibilidades y recursos, conforme a las atribuciones que le confiere la ley de la materia en el Estado de México.
+XVIII. Detectar y valorar la condición de niñas, niños y adolescentes en situación de calle, de manera interdisciplinaria y a través de acciones que permitan el acceso y garantía de sus derechos y, en su caso, determinar los protocolos de actuación necesarios para las acciones de asistencia y protección respectivas.
 
-XX. Orientar a las autoridades correspondientes del Estado para que den debido cumplimiento al derecho a la identidad.
+XIX. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, en la medida que favorezca la salvaguarda del interés superior de la niñez.
 
-XXI. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes.
+XX. Atender y prevenir la violencia familiar en coordinación con las instituciones y autoridades públicas y privadas, organismos de la sociedad civil y no gubernamentales, de acuerdo con sus posibilidades y recursos, conforme a las atribuciones que le confiere la ley de la materia en el Estado de México.
 
-XXII. Las demás que les confieran otras disposiciones jurídicas aplicables.
+XXI. Orientar a las autoridades correspondientes del Estado para que den debido cumplimiento al derecho a la identidad.
+
+XXII. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes.
+
+XXIII. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 91.
 
@@ -2070,3 +2082,17 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 211.- POR EL QUE SE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 5, LA FRACCIÓN XIV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 86 Y LA FRACCIÓN XVIII RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 90 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, Y SE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Legislatura Estatal deberá contemplar en el presupuesto de egresos, los recursos necesarios para la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, para el cumplimiento de las obligaciones estipuladas en el presente Decreto, a fin de crear un programa específico para la atención de niñas, niños y adolescentes en situación de calle.
+
+CUARTO.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México capacitará y determinará los protocolos de actuación necesarios para la atención de la niñez en situación de calle.
+
+QUINTO.- Los Municipios del Estado de México contarán con un periodo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, para la instalación del Comité Municipal de Erradicación del Trabajo Infantil.
