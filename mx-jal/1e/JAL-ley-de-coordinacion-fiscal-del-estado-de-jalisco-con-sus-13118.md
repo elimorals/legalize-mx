@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2019-10-19"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -46,11 +46,13 @@ LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
 Se establece el Sistema de Coordinación Fiscal del Estado de Jalisco con sus Municipios, regulado por esta Ley el cual tiene por objeto:
 
-I. Coordinar el Sistema Fiscal del Estado de Jalisco con sus Municipios y fijar las reglas de colaboración administrativa entre ambas autoridades fiscales;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+I. Coordinar el Sistema Fiscal del Estado de Jalisco con sus Municipios y fijar las reglas de colaboración administrativa e intercambio de información fiscal entre ambas autoridades fiscales;
 
-II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución de las Participaciones derivadas de gravámenes Federales y Estatales que correspondan a los Municipios del Estado, así como su distribución y vigilancia en el cálculo y liquidación;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución de las Participaciones o incentivos derivados de gravámenes Federales y Estatales que correspondan a los Municipios del Estado, como su distribución y vigilancia en el cálculo y liquidación;
 
 III. Constituir los organismos en materia de coordinación fiscal y definir su organización, funcionamiento y facultades, y
 
@@ -58,13 +60,17 @@ IV. Establecer las bases de coordinación entre el Estado y los municipios para 
 
 ### CAPÍTULO II. De los montos, bases y plazos para la distribución de participaciones Federales y Estatales a los municipios
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 2°.
 
-Para los efectos de esta Ley, son participaciones Federales, las asignaciones que correspondan a los municipios en los ingresos federales, de conformidad con lo que establece la Ley Federal de Coordinación Fiscal.
+Para los efectos de esta Ley, son participaciones e incentivos federales, las asignaciones que correspondan a los Municipios en los ingresos federales, de conformidad con lo que establece la Ley Federal de Coordinación Fiscal y la legislación fiscal federal.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 3°.
 
-Las participaciones Federales y Estatales que correspondan a los municipios en los porcentajes que establece esta ley, se calcularán por cada ejercicio fiscal, y su determinación y aprobación quedará a cargo del Congreso del Estado.
+Las participaciones e incentivos federales y estatales que correspondan a los municipios en los porcentajes que establece esta Ley, se calcularán por cada ejercicio fiscal, y su determinación y aprobación quedará a cargo del Congreso del Estado.
 
 ### CAPÍTULO III. De las participaciones Federales y Estatales a los municipios
 
@@ -74,11 +80,11 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la recaudación del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos y del Fondo de Compensación del Impuesto sobre Automóviles Nuevos; así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 5°.
 
-De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos Estatales derivados de los Impuestos sobre Nóminas y Hospedaje los Municipios recibirán:
+De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos Estatales derivados de los Impuestos sobre Nóminas y Hospedaje e incentivos, los Municipios recibirán:
 
 I. El 22% del total de las percepciones que obtenga el Estado correspondientes al fondo general de participaciones;
 
@@ -94,7 +100,11 @@ V. El 22% del importe que perciba por concepto de participaciones del Impuesto s
 
 VI. El 40% del importe que perciba por concepto del impuesto estatal sobre nóminas;
 
-VII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VII. El 20% de la recaudación que se obtenga del Impuesto Sobre la Renta relativo a ingresos por enajenación de bienes inmuebles, esto en términos del artículo 126 de la Ley del Impuesto Sobre la Renta, y de conformidad con lo señalado por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Poder Ejecutivo del Estado y la Secretaría de Hacienda y Crédito Público.
+
+Además, respecto de este incentivo se podrá participar de manera proporcional un 2% adicional a los municipios que celebren convenio de colaboración administrativa en materia de intercambio de información fiscal con la Secretaría de la Hacienda Pública del Estado de Jalisco;
 
 VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y
 
@@ -110,9 +120,9 @@ X. El 22% del importe que perciba el estado por concepto de participaciones del 
 
 XI. El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que efectivamente enteren los Municipios y sus entidades paramunicipales a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio, así como en sus respectivas entidades paramunicipales, siempre y cuando se cumpla con los requisitos especificados en el artículo 3-B de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-La distribución se realizará de conformidad con los montos por Municipio que informe la Secretaría de Hacienda y Crédito Público a la Secretaría de Planeación, Administración y Finanzas.
+La distribución se realizará de conformidad con los montos por Municipio que informe la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Hacienda Pública del Estado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -176,19 +186,19 @@ Por los porcentajes descritos en el artículo 5° fracción VI, que se generen e
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 8°.
 
-Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal Federal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; y/o en su caso, como lo establezcan las disposiciones federales aplicables. El Fondo de Fiscalización y Recaudación a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma mensual a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; adicionalmente, de forma trimestral, se distribuirán los recursos resultantes de la diferencia entre el Fondo de Fiscalización del año 2013 y el Fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, según lo establecido en el artículo 10 de esta Ley.
+Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9° de la Ley de Coordinación Fiscal federal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de la Hacienda Pública del Estado directamente o a través de los mecanismos generales de distribución que la misma determine, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; y/o en su caso, como lo establezcan las disposiciones federales aplicables. El Fondo de Fiscalización y Recaudación a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma mensual a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba; adicionalmente, de forma trimestral, se distribuirán los recursos resultantes de la diferencia entre el Fondo de Fiscalización del año 2013 y el Fondo de Fiscalización y Recaudación para el año en que se realiza el cálculo, según lo establecido en el artículo 10 de esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-Sin perjuicio de lo anterior, los Municipios podrán celebrar convenio con la Secretaría de Planeación, Administración y Finanzas, para que reserve con la periodicidad, que los propios Municipios determinen, una parte de sus participaciones, que serán restituidas con los productos financieros que se hubiesen generado, para solventar de acuerdo a su interés los compromisos a su cargo.
+Sin perjuicio de lo anterior, los Municipios podrán celebrar convenio con la Secretaría de la Hacienda Pública, para que reserve con la periodicidad, que los propios Municipios determinen, una parte de sus participaciones, que serán restituidas con los productos financieros que se hubiesen generado, para solventar de acuerdo a su interés los compromisos a su cargo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-La Secretaría de Planeación, Administración y Finanzas, una vez identificada la asignación en el periodo mensual o trimestral que le corresponda a la entidad de los fondos previstos en la Ley Federal de Coordinación Fiscal, y de la presente Ley, afectará mensual o trimestralmente la participación que le corresponda a cada Municipio.
+La Secretaría de la Hacienda Pública, una vez identificada la asignación en el periodo mensual o trimestral que le corresponda a la entidad de los fondos previstos en la Ley de Coordinación Fiscal federal, y de la presente Ley, afectará mensual o trimestralmente la participación que le corresponda a cada Municipio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -198,9 +208,9 @@ Los municipios podrán afectar los recursos provenientes del Fondo de Aportacion
 
 El retraso en la entrega de las participaciones dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6o. de la Ley de Coordinación Fiscal de la Federación.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-###### Artículo 9°.
+###### Artículo 9.
 
 El Fondo de Fomento Municipal, se distribuirá entre los municipios de la siguiente manera:
 
@@ -210,25 +220,37 @@ II. Adicionalmente percibirán la cantidad que resulte del excedente con respect
 
 El coeficiente se determinará conforme a las siguientes reglas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a) El 70% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, se distribuirá entra (sic) la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo (sic) conceptos, aplicando la siguiente fórmula:
 
-a) El 70% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A fracción III de la Ley de Coordinación Fiscal, se distribuirá entra (sic) la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo (sic) conceptos, aplicando la siguiente fórmula:
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DE 26 DE NOVIEMBRE DE 2020, PÁGINA 5.]</small>
 
-> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VII DEL P.O. DEL 23 DE DICIEMBRE DE 2014, PÁGINA 4.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, el cual se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco, que esté publicado en el periódico oficial El Estado de Jalisco y hubiesen sido aceptados por la Secretaría de Hacienda y Crédito Público e informados a la Secretaría de Planeación, Administración y Finanzas.
+b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, el cual se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco, que esté publicado en el periódico oficial El Estado de Jalisco y hubiesen sido aceptados por la Secretaría de Hacienda y Crédito Público e informados a la Secretaría de la Hacienda Pública del Estado.
 
 La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VII DEL P.O. DEL 23 DE DICIEMBRE DE 2014, DE LA PÁGINA 4 A LA 5.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DE 26 DE NOVIEMBRE DE 2020, PÁGINA 6.]</small>
 
-El Poder Ejecutivo actualizará el coeficiente, cuando fuere necesario, en función de la incorporación o desincorporación de los Municipios al Convenio de coordinación y colaboración administrativa en materia del impuesto predial, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público.
+Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del Fondo de Fomento Municipal entre los Municipios del Estado serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
 
-La actualización deberá ser notificada al Congreso del Estado y publicada en el Periódico Oficial “El Estado de Jalisco” dentro de los cinco días hábiles del mes inmediato posterior a que se realizó la incorporación o desincorporación. Dicha publicación contendrá la actualización de los coeficientes y el listado de Municipios incorporados o desincorporados.
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del Fondo de Fomento Municipal entre los Municipios del Estado, serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
+###### Artículo 9° Bis.
+
+Los recursos a favor de los municipios a que se refiere la fracción VII del artículo 5 de esta ley, correspondiente a la recaudación del Impuesto Sobre la Renta relativo a ingresos por enajenación de inmuebles, en términos del artículo 126 de la Ley del Impuesto Sobre la Renta, se distribuirán entre los municipios del Estado, de la siguiente forma:
+
+El coeficiente se determinará conforme a las siguientes reglas:
+
+a) El 20% de la recaudación neta que perciba el Estado del gravamen federal referido en el artículo 126 de la Ley del Impuesto sobre la Renta, informada y determinada por la Secretaría de Hacienda y Crédito Público, se distribuirá entre la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo conceptos, aplicando la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VI DEL P.O. DEL 26 DE NOVIEMBRE DE 2020, DE LA PÁGINA 6 A LA 7.]</small>
+
+El 2% adicional a que refiere el párrafo segundo, de la fracción VII del Artículo 5 de esta legislación, se distribuirá atendiendo a la formula antes detallada, entre la totalidad de los municipios que celebren convenio de colaboración administrativa en materia de intercambio de información fiscal.
+
+Los municipios deberán tener vigente el convenio referido en el parrafo anterior a más tardar el 1° de Febrero del año en que se lleve a cabo el calculo para poder participar de ese excedente.
+
+El incumplimiento del convenio de mérito conlleva a la suspensión del pago del ingreso adicional, sin que haya obligación por parte de la Secretaría de la Hacienda Pública del Estado de efectuar posteriormente los pagos suspendidos por el supuesto antes señalado.
+
+Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del incentivo que se trata, serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -270,13 +292,13 @@ A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente
 
 Las participaciones que correspondan a los Municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen o se afecten como fuente de pago de obligaciones contraídas por los mismos, con autorización del Ayuntamiento y cuando rebasen el término de su administración, con el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-Las participaciones que correspondan a los Municipios otorgadas en garantía de obligaciones a su cargo, deberán ser inscritas en la Secretaría de Planeación, Administración y Finanzas, en el Registro Estatal de Deuda Pública.
+Las participaciones que correspondan a los Municipios otorgadas en garantía de obligaciones a su cargo, deberán ser inscritas en la Secretaría de la Hacienda Pública del Estado, en el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal, la Ley de Deuda Pública del Estado de Jalisco y sus Municipios, u otros ordenamientos de la materia aplicables o bien, tenga por objeto resarcir al Estado la ejecución del aval o cualquier garantía otorgada a favor del Municipio o algún organismo público municipal del mismo o resarcir apoyos presupuestales específicos.
+La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas o cuando así lo autorice la Ley de Coordinación Fiscal federal, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, u otros ordenamientos de la materia aplicables o bien, tenga por objeto resarcir al Estado la ejecución del aval o cualquier garantía otorgada a favor del Municipio o algún organismo público municipal del mismo o resarcir apoyos presupuestales específicos.
 
 El régimen de participaciones para los municipios en ingresos federales podrá ser modificado, ajustado o adaptado por el Congreso de Estado, en consonancia con las modificaciones que en su caso se establezcan para la fórmula de distribución de participaciones dentro del sistema nacional de coordinación fiscal.
 
@@ -286,25 +308,25 @@ El régimen de participaciones para los municipios en ingresos federales podrá 
 
 El Gobierno del Estado, deberá publicar en el Periódico Oficial "El Estado de Jalisco", y en dos diarios de mayor circulación en la entidad, los coeficientes de participación aprobados en los términos de los artículos 5º y 7º de esta Ley, así como la fórmula y los datos utilizados para determinarlos, dentro del tercer trimestre del año precedente al que van a regir; así mismo deberá publicar, dentro del mes de enero de cada año en los periódicos mencionados, el monto de las participaciones que hubieren correspondido a cada uno de los municipios durante el ejercicio fiscal del año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-El Gobierno del Estado por conducto de la Secretaría de Planeación, Administración y Finanzas enviará por escrito a los Ayuntamientos la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, dentro del tercer trimestre del año precedente al que van a regir.
+El Gobierno del Estado por conducto de la Secretaría de la Hacienda Pública del Estado enviará por escrito a los Ayuntamientos la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, dentro del tercer trimestre del año precedente al que van a regir.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Gobierno del Estado, a través de la Secretaría de Planeación, Administración y Finanzas, independientemente de la publicación a que se refiere el artículo 12, deberá proporcionar por escrito a cada uno de los Municipios del Estado el monto anual estimado de sus participaciones dentro de los quince días siguientes a aquél en que haya recibido de la Federación la estimación de las participaciones que recibirá el Estado, así como un informe, dentro del mes de enero de cada año, sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
+El Gobierno del Estado, a través de la Secretaría de la Hacienda Pública del Estado, independientemente de la publicación a que se refiere el artículo 12, deberá proporcionar por escrito a cada uno de los Municipios del Estado el monto anual estimado de sus participaciones dentro de los quince días siguientes a aquél en que haya recibido de la Federación la estimación de las participaciones que recibirá el Estado, así como un informe, dentro del mes de enero de cada año, sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
 
 ### CAPÍTULO V. De la coordinación fiscal y colaboración administrativa entre estado y municipios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas y los Municipios por conducto de sus Ayuntamientos, podrán celebrar Convenios de Coordinación Fiscal y Colaboración Administrativa respecto de gravámenes estatales y municipales, en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
+El Gobierno del Estado, por conducto de la Secretaría de la Hacienda Pública y los Municipios por conducto de sus Ayuntamientos, podrán celebrar Convenios de Coordinación Fiscal y Colaboración Administrativa respecto de gravámenes estatales y municipales, en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para efecto del intercambio de información fiscal y en su caso ejercer las siguientes funciones operativas:
 
 I. Registro Federal de Contribuyentes;
 
@@ -342,11 +364,11 @@ Las autoridades fiscales municipales, en el ejercicio de las facultades y funcio
 
 ### CAPÍTULO VI. De los organismos en materia de coordinación fiscal
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
+El Gobierno del Estado, por conducto de la Secretaría de la Hacienda Pública, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 19 DE OCTUBRE DE 2019)</small>
 
@@ -386,9 +408,9 @@ Son facultades del Consejo Estatal Hacendario, opinar sobre lo siguiente:
 
 I. Proponer al Gobierno del Estado las medidas que estime convenientes para mejorar el Sistema de Coordinación Fiscal del Estado de Jalisco y el Sistema Nacional de Coordinación Fiscal;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-II. La distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes que formule la Secretaría de Planeación, Administración y Finanzas.
+II. La distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes que formule la Secretaría de la Hacienda Pública.
 
 III. Sobre el cumplimiento de los convenios de colaboración administrativa que celebren los municipios con el estado y en caso de violación a los mismos emitir propuestas al respecto;
 
@@ -412,15 +434,23 @@ El Consejo Estatal Hacendario, tendrá a su vez un reglamento donde especificar�
 
 El Comité Directivo estará integrado por:
 
-I. El Titular del Poder Ejecutivo del Estado, representado por el Secretario de Planeación, Administración y Finanzas, con las siguientes representaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-a) El Secretario de Planeación, Administración y Finanzas, quien contará con su suplente;
+I. El Titular del Poder Ejecutivo del Estado, representado por el Secretario de (sic) Hacienda Pública, con las siguientes representaciones:
 
-b) El Secretario de Finanzas, quien contará con su suplente;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+a) El Secretario de la Hacienda Pública, quien contará con su suplente;
+
+b) (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 c) El Director General de Ingresos, quien contará con su suplente; y
 
-d) El Director de Planeación Fiscal e Ingresos Coordinados, quien contará con su suplente;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+d) El Director de Planeación y Coordinación Fiscal, quien contará con su suplente;
 
 II. El Poder Legislativo, representado por el Presidente de la Comisión de Hacienda y Presupuestos, quien contará con su suplente;
 
@@ -605,3 +635,9 @@ P.O. 19 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 27379/LXII MEDIANTE EL CUAL REFORMA EL ARTÍCULO 19 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28247/LXII/20 QUE MODIFICA LOS ARTÍCULOS 1°, 2°, 3°, 5°, 8°, 9°, 11, 13, 14, 15, 18, 20 Y 21; Y SE ADICIONA UN ARTÍCULO 9° BIS TODOS CORRESPONDIENTES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
