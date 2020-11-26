@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2020-09-29"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -6619,7 +6619,9 @@ Se considerará reincidente al infractor que habiendo sido declarado responsable
 
 Las multas deberán ser pagadas en la Dirección Ejecutiva de Administración del Instituto; si el infractor no cumple con su obligación, el Instituto dará vista a la Secretaría de Finanzas a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
-Los recursos obtenidos con motivo de la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro, serán destinados al Consejo Mexiquense de Ciencia y Tecnología en los términos de las disposiciones aplicables, los mimos serán utilizados para incrementar rubros del Presupuesto de Egresos del Estado para el fortalecimiento de la infraestructura y proyectos estratégicos en materia de ciencia, tecnología e innovación y no podrán ejercerse en servicios personales ni conceptos distintos a los proyectos mencionados. Para tal efecto, deberán ser entregados a la Secretaría de Finanzas dentro de los treinta días naturales siguientes a la fecha en que se realice el pago o se haga efectivo el descuento, y ésta a su vez deberá canalizarlos al Consejo Mexiquense de Ciencia y Tecnología en un plazo igual a los fines establecidos en este párrafo.
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2020)</small>
+
+Los recursos obtenidos con motivo de la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro, serán destinados al Consejo Mexiquense de Ciencia y Tecnología y a la Secretaría de Cultura y Turismo del Estado de México en los términos de las disposiciones aplicables, los mismos serán utilizados para incrementar rubros del Presupuesto de Egresos del Estado para el fortalecimiento de la infraestructura, proyectos y programas estratégicos en materia de ciencia, tecnología, innovación, cultura y deporte, y no podrán ejercerse en servicios personales ni conceptos distintos a los proyectos mencionados. Para tal efecto, deberán ser entregados a la Secretaría de Finanzas dentro de los treinta días naturales siguientes a la fecha en que se realice el pago o se haga efectivo el descuento, y ésta a su vez deberá canalizarlos al Consejo Mexiquense de Ciencia y Tecnología y a la Secretaría de Cultura y Turismo del Estado de México en un plazo igual a los fines establecidos en este párrafo.
 
 > <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -7714,3 +7716,11 @@ G.G. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 213.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 473 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
