@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2019-12-10"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -587,27 +587,23 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo estab
 
 Las horas de trabajo extraordinarias se retribuirán con un cien por ciento más del sueldo que corresponda a las ordinarias, cuando no excedan de nueve. Las excedentes de nueve horas, se pagarán al doscientos por ciento más del sueldo que corresponda a las horas normales de su jornada.
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 65.
 
-Las servidoras públicas embarazadas disfrutarán para el parto, de licencia con goce de sueldo íntegro por un período de 90 días naturales y de un período de lactancia, que no excederá de nueve meses, en el cual tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o el tiempo equivalente que la servidora pública convenga con el titular de la institución pública o dependencia o su representante.
+Las servidoras públicas embarazadas disfrutarán para el parto, de una licencia con goce de sueldo íntegro por un periodo de noventa días naturales y de un período de lactancia, que no excederá de nueve meses, en el cual, tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, o el tiempo equivalente que la servidora pública convenga con la persona titular de la institución pública o dependencia o su representante.
 
-En caso de adopción las servidoras públicas gozarán de una licencia con goce de sueldo íntegro, por un período de 45 días naturales, contados a partir de que se otorgue legalmente la adopción.
+En caso de adopción las personas servidoras públicas gozarán de una licencia con goce de sueldo íntegro por un periodo de cuarenta y cinco días naturales, contados a partir de que se otorgue legalmente la adopción.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+Los servidores públicos tendrán una licencia de paternidad, con goce de sueldo íntegro de cuarenta y cinco días naturales, de los cuales por lo menos, treinta deberán ser posteriores al parto.
 
-Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de diez días hábiles con motivo del nacimiento de su hijo o de adopción.
+Las personas servidoras públicas tendrán derecho a solicitar una ampliación de la licencia de maternidad o paternidad, con goce de sueldo íntegro por cuarenta y cinco días naturales adicionales, en caso de parto múltiple, sustentado con la constancia médica que lo acredite.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+Podrá otorgarse una licencia de cuidados parentales con goce de sueldo íntegro hasta de cuarenta y cinco días naturales, a la persona servidora pública que tenga decretada únicamente en su favor, por juez competente, la guarda y custodia de la hija o hijo menor de 12 años, con discapacidad o enfermedad crónica, debidamente acreditada mediante constancia médica y adjuntando la resolución judicial correspondiente.
 
-A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidentes graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos. En los casos en que se presenten complicaciones de salud de la madre durante el parto y/o post parto o en la del recién nacido, que pongan en riesgo la vida de ambos o de cualquiera de ellos, o sufran alguna discapacidad parcial o total dentro de los noventa días inmediatos siguientes al nacimiento, en referidas circunstancias, el servidor dispondrá de una licencia de paternidad para cuidado y atenciones médicas por un periodo de treinta días con goce de sueldo, previa expedición del certificado médico correspondiente.
+A las personas servidoras públicas se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente grave de alguno de sus hijos, hijas, cónyuge o concubina o concubinario, previa expedición del certificado médico correspondiente por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará expresamente los días hábiles de licencia. En los casos de que ambos padres sean personas servidoras públicas, sólo se concederá la licencia a una de ellas. En los casos en que se presenten complicaciones de salud de la madre durante el parto y/o post parto o en la de la hija o hijo recién nacido, que pongan en riesgo la vida de ambos o de cualquiera de ellos, o sufran alguna discapacidad parcial o total dentro de los noventa días naturales inmediatos siguientes al nacimiento, en referidas circunstancias, el servidor público dispondrá de una licencia de paternidad para cuidado y atenciones médicas por un periodo de treinta días hábiles con goce de sueldo, previa expedición del certificado médico correspondiente.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
-
-Asimismo, se otorgará a las y a los servidores públicos una licencia de tres días hábiles laborales con goce de sueldo íntegro, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primero o segundo grado o por afinidad en primer grado. Si el fallecimiento de la cónyuge o concubina tuviere lugar dentro de los noventa días naturales siguientes al parto y la o el menor sobreviviere, el servidor público contara con una licencia de cuarenta y cinco días hábiles con goce de sueldo para brindar la atención inmediata y necesaria al recién nacido, si durante el lapso citado, fallece el menor, la licencia será de diez días, hábiles a partir del deceso.
-
-> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+Asimismo, se otorgará a las personas servidoras públicas una licencia de tres días hábiles laborales con goce de sueldo íntegro, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primero o segundo grado o por afinidad en primer grado. Si el fallecimiento de la cónyuge o concubina tuviere lugar dentro de los noventa días naturales siguientes al parto y la o el menor sobreviviere, el servidor público contará con una licencia de cuarenta y cinco días hábiles con goce de sueldo íntegro para brindar la atención inmediata y necesaria a la hija o hijo recién nacido, si durante el lapso citado, fallece la o el menor, la licencia será de diez días, hábiles a partir del deceso.
 
 Para efectos de lo anterior, el servidor público deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
@@ -3554,3 +3550,11 @@ G.G. 10 DE DICIEMBRE DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 212.- POR EL QUE SE REFORMA EL ARTÍCULO 65 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
