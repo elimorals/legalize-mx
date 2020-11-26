@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-y-justicia-civica-para-el-estado-de-nayarit-1375
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2020-03-03"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE MARZO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta al Número 109 del Periódico Oficial del Estado de Nayarit, el miércoles 5 de junio de 2019.
 
@@ -51,9 +49,13 @@ Las disposiciones de esta Ley son de orden público y de interés social, regir�
 
 I. Fomentar una cultura cívica;
 
-II. Establecer reglas mínimas de comportamiento cívico y garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Estado y los Municipios en su preservación;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-III. Adoptar protocolos para garantizar el uso de la vía pública, respetando el interés general y el bien común, y
+II. Establecer reglas mínimas de comportamiento cívico y garantizar el respeto a las personas, la salud, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Estado y los Municipios en su preservación;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+III. Adoptar protocolos para garantizar la preservación de la salud y el combate a epidemias, el uso de la vía pública, respetando el interés general y el bien común, y
 
 IV. Establecer las conductas que constituyen infracciones de competencia municipal, las sanciones correspondientes y los procedimientos para su imposición, así como las bases para la actuación de servidores públicos responsables de la aplicación de la presente Ley y la impartición de la justicia cívica municipal.
 
@@ -61,15 +63,25 @@ IV. Establecer las conductas que constituyen infracciones de competencia municip
 
 Son valores fundamentales para la cultura cívica en el Estado, los que favorecen la convivencia respetuosa y armónica de sus habitantes, los siguientes:
 
-I. La corresponsabilidad entre habitantes y autoridades en la conservación del medio ambiente, el entorno urbano, las vías, espacios y servicios públicos y la seguridad ciudadana;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+I. La corresponsabilidad entre habitantes y autoridades en la conservación del medio ambiente, el entorno urbano, las vías, espacios y servicios públicos, la seguridad ciudadana y la salud pública;
 
 II. La autorregulación, sustentada en la capacidad de quienes habitan en la entidad, para asumir una actitud de respeto a la normatividad y exigir a las demás personas y a las autoridades su observancia y cumplimiento;
 
 III. La prevalencia del diálogo y la conciliación como medios de solución de conflictos;
 
-IV. El sentido de pertenencia a la comunidad y al Estado, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-V. La solidaridad y colaboración entre ciudadanía y autoridades, como una vertiente del mejoramiento del entorno y de la calidad de vida.
+IV. El sentido de pertenencia a la comunidad y al Estado;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+V. La solidaridad y colaboración entre ciudadanía y autoridades, como una vertiente del mejoramiento del entorno y de la calidad de vida, y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VI. La prevención y autoprotección como acciones positivas para el cuidado de la salud propia y colectiva.
 
 ###### Artículo 3.
 
@@ -189,7 +201,9 @@ I. Fomentar la participación activa de quienes habiten en el Estado y sus Munic
 
 II. Promover el derecho que toda persona tiene a ser sujeta activa en el mejoramiento de su entorno social, procurando:
 
-a) El respeto y preservación de su integridad física y psicológica, cualquiera que sea su condición socioeconómica, edad o sexo;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+a) El respeto y preservación de su salud, integridad física y psicológica, cualquiera que sea su condición socioeconómica, edad o sexo;
 
 b) El respeto al ejercicio de los derechos y libertades de todas las personas consagradas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nayarit;
 
@@ -211,7 +225,9 @@ II. Ejercer los derechos y libertades protegidos en esta Ley y respetar los de l
 
 III. Brindar trato digno a todas las personas, respetando la diversidad de la comunidad;
 
-IV. Prevenir riesgos contra la integridad física de las personas;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IV. Prevenir riesgos en materia de salud pública e integridad física de las personas;
 
 V. Solicitar servicios de urgencias médicas, rescate y policiales, en situaciones de emergencia;
 
@@ -221,9 +237,17 @@ VII. Conservar limpias las vías y espacios públicos;
 
 VIII. Proteger, conservar y cuidar los recursos culturales y naturales del Estado y sus Municipios;
 
-IX. Contribuir a generar un ambiente libre de contaminación auditiva que altere la tranquilidad o represente un posible riesgo a la salud de terceros, trátese de vivienda de interés social, popular o residencial, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-X. Participar en los asuntos de interés de su colonia, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios.
+IX. Contribuir a generar un ambiente libre de contaminación auditiva que altere la tranquilidad o represente un posible riesgo a la salud de terceros, trátese de vivienda de interés social, popular o residencial;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+X. Participar en los asuntos de interés de su colonia, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios, y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+XI. Acatar y observar las medidas que las autoridades señaladas en el artículo 7 de la presente Ley implementen o ejecuten en cumplimiento de las disposiciones sanitarias y de protección civil que emitan las autoridades competentes.
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -269,15 +293,19 @@ Las infracciones establecidas en las fracciones I y II se sancionarán con multa
 
 Las infracciones establecidas en las fracciones III a V se sancionarán con multa de 10 a 40 veces la UMA o con arresto de 13 a 24 horas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 14.
 
-Son infracciones contra la seguridad ciudadana:
+Son infracciones contra la seguridad ciudadana y la salud pública.
+
+A. En materia de seguridad ciudadana:
 
 I. Que la persona propietaria o poseedora de un animal permita que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo;
 
 II. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
 
-III. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra por la posesión de los estupefacientes, psicotrópicos, enervantes o sustancias toxicas;
+III. Ingerir bebidas alcohólicas en lugares públicos no autorizados, o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra por la posesión de los estupefacientes, psicotrópicos, enervantes o sustancias toxicas;
 
 IV. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos y sin observar, en su caso, las disposiciones aplicables;
 
@@ -311,7 +339,7 @@ La infracción establecida en la fracción VIII se sancionará con arresto de 25
 
 Las infracciones establecidas en las fracciones XII y XIII se sancionarán con arresto de 20 a 36 horas.
 
-Sin perjuicio de la obligación de reparar el daño causado que determine la autoridad competente, quien resulte responsable de la conducta prevista en la fracción XIV será sancionado o sancionada por el equivalente de 10 a 15 veces la UMA o arresto de 13 a 20 horas.
+Sin perjuicio de la obligación de reparar el daño causado que determine la autoridad competente, quien resulte responsable de la conducta prevista en la fracción XIV será sancionado o sancionada con el equivalente de 10 a 15 veces la UMA o arresto de 13 a 20 horas.
 
 Si el infractor o infractora fuese jornalera, obrera o trabajadora, no podrá ser sancionada con multa mayor del importe de su jornal o salario de un día.
 
@@ -320,6 +348,38 @@ Tratándose de personas trabajadoras no asalariadas, la multa no excederá del e
 Sólo se conmutará el arresto si, además de los requisitos que señala esta Ley, la persona responsable acredita su domicilio, señala domicilio en algún Municipio del Estado de Nayarit para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario o propietaria del vehículo.
 
 En el supuesto de la fracción XIV de este artículo, si con los elementos de prueba ofrecidos por las partes o personas allegadas al Juez o Jueza no es posible determinar quién es la persona responsable del daño causado, no se aplicará multa alguna y se devolverán los vehículos, quedando a salvo los derechos de las partes para hacerlos valer por la vía procedente.
+
+B. En materia de salud pública:
+
+I. Transgredir el aislamiento ordenado por la autoridad sanitaria unidad médica o por persona que legalmente ejerza la medicina, cuando con motivo del resultado de un diagnóstico, se determine el padecimiento de alguna de las enfermedades a que se refiere el artículo 107 de la Ley de Salud para el Estado de Nayarit;
+
+II. Interferir con pleno conocimiento, en las actividades que lleven a cabo las autoridades competentes en materia de vigilancia epidemiológica, de prevención, mitigación y control de enfermedades transmisibles en los términos de la Ley de Salud para el Estado de Nayarit y las demás disposiciones aplicables;
+
+III. Infringir las disposiciones que las autoridades competentes emitan para la clausura temporal de locales o de centros de reunión en los casos de epidemias, o cuando se implementen para el combate y prevención de contagio y propagación de enfermedades;
+
+IV. Desobedecer las disposiciones que las autoridades competentes emitan para limitar el contacto entre humanos y de estos con animales, así como las medidas que las autoridades competentes ejecuten en cumplimiento de las disposiciones establecidas por las autoridades sanitarias en materia de regulación del tránsito terrestre, marítimo y aéreo en los casos de emergencia sanitaria;
+
+V. Incumplir, cuando se trate de prevenir la transmisión de enfermedades, las medidas de distanciamiento social y los hábitos de higiene y uso de instrumentos para la autoprotección y prevención de contagios, entre otros:
+
+a) Uso de cubre bocas o mascarilla y de gel sanitizante para manos;
+
+b) Mantener una distancia segura entre otras personas;
+
+c) Cubrirse la boca y el rostro al toser o estornudar;
+
+d) Evitar escupir en vía pública, y
+
+e) Las demás medidas que las autoridades sanitarias y las competentes emitan.
+
+VI. Ignorar o desobedecer las indicaciones que las autoridades competentes apliquen para la movilización provisional de la población en caso de desastres naturales, así como transgredir el aislamiento temporal, parcial o total de un área afectada en los términos de la Ley de Protección Civil para el Estado de Nayarit y las demás disposiciones aplicables;
+
+Las infracciones correspondientes en materia de salud pública, se sancionarán con multa de 11 a 20 veces la UMA o con arresto de hasta 36 horas.
+
+Si el infractor o infractora fuese jornalera, obrera o trabajadora, no podrá ser sancionada con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de personas trabajadoras no asalariadas, la multa no excederá del equivalente a un día de su ingreso.
+
+Si con motivo del incumplimiento de las disposiciones contenidas en el presente apartado, se actualizara la posible comisión de un hecho ilícito, con independencia de las sanciones administrativas, se dará vista al Ministerio Público para que proceda de conformidad con las disposiciones y normas penales correspondientes.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2020, PÁGINA 2.]</small>
 
@@ -839,13 +899,23 @@ III. Promover en el ámbito de su competencia la difusión de los principios y v
 
 IV. Implementar campañas de información sobre los objetivos y alcances del fomento de la cultura cívica en los términos de esta Ley y el Reglamento que al efecto expida el Cabildo;
 
-V. Llevar a cabo de forma periódica cursos formativos de cultura cívica a su personal y a la sociedad en general;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+V. Llevar a cabo de forma periódica cursos formativos de cultura cívica a su personal y a la sociedad en general, así como promover programas dirigidos a la población en general que le permita conocer de forma clara los mecanismos de prevención y autoprotección sanitarias;
 
 VI. Registrar a través de la Unidad de Seguridad Pública y Tránsito Municipal, las detenciones y remisiones de probables infractores o infractoras realizadas por la policía;
 
-VII. Observar el buen funcionamiento y cumplimiento de los juzgados que marca esta Ley, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Las que determine esta Ley y demás ordenamientos aplicables.
+VII. Observar el buen funcionamiento y cumplimiento de los juzgados que marca esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Elaborar e implementar campañas de difusión sobre temas de su competencia relacionados con la protección civil, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+
+IX. Las que determine esta Ley y demás ordenamientos aplicables.
 
 ### CAPÍTULO SEGUNDO. JUZGADOS CÍVICOS
 
@@ -1090,3 +1160,13 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congr
 Dip. Ana Yusara Ramírez Salazar, Presidenta.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.- Dip. Erika Leticia Jiménez Aldaco, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los cinco días del mes de junio del año dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica. El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y JUSTICIA CÍVICA PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos de la Entidad, en el ámbito de sus respectivas competencias, expedirán las disposiciones pertinentes para el cumplimiento del presente Decreto.
