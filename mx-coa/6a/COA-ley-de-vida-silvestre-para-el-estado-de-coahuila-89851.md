@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vida-silvestre-para-el-estado-de-coahuila-89851"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2017-12-26"
+last_updated: "2020-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 16 de octubre de 2012.
 
@@ -1360,3 +1362,23 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 789.- SE CREA LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Vida Silvestre para el Estado de Coahuila, contenida en el decreto 429, publicada en el Periódico Oficial del Gobierno del Estado, el 16 de octubre de 2012.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo emitirá su reglamento interior en un plazo de 180 días hábiles, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan a lo previsto en la presente ley.
