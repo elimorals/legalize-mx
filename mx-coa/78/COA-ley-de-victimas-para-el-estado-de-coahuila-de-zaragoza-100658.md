@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2019-12-13"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -127,7 +127,9 @@ Tanto las reparaciones individuales, administrativas o judiciales, como las repa
 
 Debida diligencia.- Las autoridades realizarán todas las actuaciones necesarias dentro de un tiempo razonable para lograr el objeto de esta Ley, en especial la atención, ayuda, asistencia, la garantía del derecho a la verdad, el acceso a la justicia y la reparación integral, a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
 
-Enfoque diferencial y especializado.- Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, atención, garantías y medidas de protección especiales, a los grupos expuestos a un mayor riesgo de violación de sus derechos, como lo son niñas y niños, jóvenes, mujeres, adultos mayores, personas con discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas, personas en situación de desplazamiento interno, entre otros. En todo momento se reconocerá el interés superior de la niñez.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Enfoque diferencial y especializado.- Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, atención, garantías y medidas de protección especiales, a los grupos expuestos a un mayor riesgo de violación de sus derechos, como lo son niñas y niños, jóvenes, mujeres, adultos mayores, personas con discapacidad, migrantes, miembros de pueblos indígenas o comunidades afromexicanas, personas defensoras de derechos humanos, periodistas, personas en situación de desplazamiento interno, entre otros. En todo momento se reconocerá el interés superior de la niñez.
 
 Este principio incluye la adopción de medidas que respondan a la atención de las circunstancias particularidades y grado de vulnerabilidad de la víctima, reconociendo igualmente que ciertos daños sufridos, por su gravedad, requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
 
@@ -433,7 +435,9 @@ La atención inmediata es aquella brindada a una persona con la finalidad de pre
 
 La gravedad del daño sufrido por las víctimas determinará la necesidad de asistir a la víctima en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, niñas, niños, adultos mayores y población indígena.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, niñas, niños, adultos mayores y población indígena y comunidades afromexicanas.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
@@ -1209,11 +1213,11 @@ En los casos de graves violaciones a los derechos humanos o delitos cometidos co
 
 Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta de alguno de sus integrantes cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-Los diagnósticos que elabore la Comisión Ejecutiva deberán focalizarse en situaciones específicas de determinado territorio del estado o de ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad. Igualmente, podrán focalizarse a delitos como violencia familiar, sexual, secuestro, homicidios, así como a determinadas violaciones a derechos humanos, tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
+Los diagnósticos que elabore la Comisión Ejecutiva deberán focalizarse en situaciones específicas de determinado territorio del estado o de ciertos grupos de víctimas tales como niños y niñas, miembros de pueblos indígenas o comunidades afromexicanas, migrantes, mujeres, personas con discapacidad. Igualmente, podrán focalizarse a delitos como violencia familiar, sexual, secuestro, homicidios, así como a determinadas violaciones a derechos humanos, tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
 
 Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema, así como para canalizar o distribuir los recursos necesarios.
 
@@ -1297,7 +1301,9 @@ VIII. Comité interdisciplinario evaluador, y
 
 IX. Comité de derechos económicos, sociales, culturales y ambientales.
 
-Se podrán establecer también comités por grupo de víctimas tales como niños y niñas, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Se podrán establecer también comités por grupo de víctimas tales como niños y niñas, adultos mayores, mujeres, miembros de pueblos indígenas o comunidades afromexicanas, migrantes, personas con discapacidad, entre otros.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
@@ -2083,7 +2089,9 @@ II. Los trabajadores jubilados o pensionados, así como sus cónyuges;
 
 III. Los trabajadores eventuales o subempleados;
 
-IV. Los indígenas, y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. Los miembros de pueblos indígenas o comunidades afromexicanas, y
 
 V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
@@ -2484,3 +2492,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
