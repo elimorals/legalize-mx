@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2020-10-20"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -1016,6 +1016,10 @@ f) Mecanismos eficientes y eficaces de investigación de las conductas a que hac
 g) Sanciones.
 
 h) Recursos procesales efectivos.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIX.- Capacitar a las y los trabajadores de las dependencias, en materia de igualdad y no discriminación, violencia de género, masculinidad no violenta y responsable, violencia laboral, acoso y hostigamiento sexual y derechos humanos en general.
 
 ###### ARTICULO 87.
 
@@ -2364,6 +2368,14 @@ P.O. 26 DE JUNIO DE 2020.
 P.O. 20 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 761.- SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 86 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 803.- SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 86 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
