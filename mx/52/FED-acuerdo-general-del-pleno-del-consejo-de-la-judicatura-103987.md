@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2020-11-17"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -401,6 +401,10 @@ CIV Bis. Organismo u Organización Internacional: Persona jurídica creada con e
 
 CV. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito;
 
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+CV Bis. Padrón electrónico de relaciones familiares: Sistema electrónico al que se incorpora la declaración que rindan las y los servidores públicos obligados, de las relaciones de pareja incluyendo matrimonio, concubinato, sociedad de convivencia y otras que conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia resulten de naturaleza análoga, y de las relaciones familiares por afinidad y consanguinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral, en ambos casos, respecto de personas que laboren en el Poder Judicial de la Federación, ya sea en áreas administrativas del Consejo o en los órganos jurisdiccionales a su cargo;
+
 CVI. Pasajes locales: Traslados realizados por el servidor público dentro de la zona metropolitana de la ciudad en la que se efectué la comisión, a través del servicio del transporte urbano de los que se disponga, siendo entre otros: taxi, autobús y transporte colectivo;
 
 CVII. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias y los rendimientos devengados por éstas y por los préstamos;
@@ -569,6 +573,10 @@ CLXXXVI. Viáticos: Recursos otorgados a los servidores públicos para cubrir lo
 
 CLXXXVII. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tecnología y otras;
 
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+CLXXXVII Bis. Vínculo o relación familiar: La que tienen las y los servidores públicos con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, o con parientes consanguíneos o por afinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral;
+
 CLXXXVIII. Visitantes: Las personas físicas distintas de los servidores públicos que ingresen a las instalaciones;
 
 CLXXXIX. Volante de Autorización Presupuestal: Documento por el cual se autoriza el ejercicio del Presupuesto para cubrir el pago de servicios personales, adquisición de bienes, prestación de servicios, y obra pública, a través de la presentación de facturas, recibos, resumen general de nóminas, o cualquier otro documento que pueda comprobar el pago; y
@@ -653,17 +661,33 @@ El nombramiento inicial del personal de confianza de las áreas administrativas,
 
 Corresponde a la instancia que propone el nombramiento inicial determinar la temporalidad de éste, dentro del rango señalado en el artículo anterior, a efecto de evaluar el desempeño laboral del servidor público.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-Artículo 18 bis. Los titulares de las áreas administrativas se abstendrán de proponer como candidato a ocupar la vacante respectiva o, en su caso, de otorgar nombramiento, a personas que fuesen cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular de un órgano jurisdiccional o área administrativa del Consejo donde se encuentre adscrita alguna persona que sea cónyuge o pariente por consanguinidad o afinidad hasta el cuarto grado del titular del área administrativa a la que se pretende adscribir al candidato correspondiente, o del titular del área administrativa de la que dependa el área que realiza la propuesta.
+###### Artículo 18 Bis.
 
-El incumplimiento de lo dispuesto en el párrafo anterior será sancionado administrativamente en términos de las disposiciones aplicables, quedando además sin efectos el nombramiento o nombramientos que en su caso se hubiesen otorgado.
+Las y los titulares de las áreas administrativas, o cualquier persona que tenga facultad para hacerlo, con base en la información proporcionada por las personas a contratar, se abstendrán de proponer, votar o realizar nombramientos, en los siguientes supuestos:
 
-El servidor público que suscriba la propuesta de nombramiento lo hará bajo protesta de decir verdad de que no se actualiza la prohibición a que se refiere el primer párrafo de este artículo.
+I. Persona con la que tenga vínculo o relación familiar, conflicto de interés o relación de pareja en cualquier modalidad o forma;
 
-El titular del área administrativa que designe o que proponga que se designe en cualquier cargo a personas que sean cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de un titular de órgano jurisdiccional o de área administrativa, deberá dar aviso a la Dirección General de Recursos Humanos una vez que se haya otorgado el nombramiento correspondiente.
+II. Persona que tenga vínculo o relación familiar o de pareja con cualquier servidor público del área administrativa en la que es titular; y
 
-Para efectos de este artículo, por titular de área administrativa se entiende a los titulares de los Órganos Auxiliares, Visitador Judicial A, Vocales, Secretarios Ejecutivos, Contralor del Poder Judicial de la Federación, Directores Generales, Titulares de Unidades Administrativas, Coordinador de Seguridad, Coordinadores Generales y aquellos servidores públicos de nivel inferior a los referidos que cuenten entre sus atribuciones otorgar o proponer a una instancia superior que se otorgue nombramiento a una persona.
+III. Persona que tenga vínculo o relación familiar o de pareja con el titular de un órgano jurisdiccional o área administrativa que previamente haya contratado a una persona con la que el impedido tuvo o tiene relación familiar o de pareja.
+
+Con independencia de lo anterior, los titulares de áreas administrativas deberán abstenerse de cualquier tipo de práctica tendiente a construir esquemas de contratación que de manera recurrente genere beneficio a una o más personas con la que aquéllos u otros titulares de órganos jurisdiccionales o áreas administrativas tengan vínculo o relación familiar o de pareja, o conflicto de interés.
+
+La contravención a cualquiera de los supuestos anteriores constituye responsabilidad administrativa grave, cuya actualización deberá hacerse del conocimiento inmediato de la Comisión de Administración para que declare sin efectos el nombramiento o nombramientos que se hubiesen otorgado.
+
+Para efectos de este artículo, por titular de área administrativa se entiende a las y los consejeros, titular de la Secretaría General de la Presidencia, titulares de secretarías ejecutivas, de coordinaciones, de unidades, de Direcciones Generales, o órganos auxiliares, administradoras o administradores de los Centros de Justicia Penal Federal, jefas o jefes de las unidades de notificadores, administradoras o administradores regionales, delegadas o delegados administrativos, así como administradores de edificios, y demás servidores públicos que cuenten con facultades o atribuciones para realizar o proponer nombramientos o promociones.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 18 Ter.
+
+La contratación de las personas que tengan vínculo familiar con titulares de otras áreas administrativas u órganos jurisdiccionales, requerirá previamente la opinión no vinculante del Comité de Integridad, la cual formará parte del trámite en que se involucren a estos parientes.
+
+El Consejo evitará concentrar relaciones familiares cuando se trate de la transferencia de personal por extinción o transformación de cualquier área administrativa u órgano jurisdiccional.
+
+La o el titular del órgano jurisdiccional o área administrativa que designe en cualquier cargo a personas que tengan relación familiar con otro titular de área administrativa o de órgano jurisdiccional, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos. La omisión genera responsabilidad administrativa en términos de la normatividad aplicable.
 
 ###### Artículo 19.
 
@@ -705,7 +729,9 @@ El hecho de que un servidor público ostente el cargo por más de seis meses, y 
 
 En los supuestos anteriores no será necesario que el servidor público haya ocupado la plaza vacante definitiva, esto es, que se le haya otorgado el nombramiento en la clave que corresponda a dicha plaza, pues basta que haya ostentado el cargo relativo ininterrumpidamente durante más de seis meses y no exista nota desfavorable, para que inmediatamente exista la obligación laboral de otorgarle la base respectiva.
 
-En todo momento, los titulares de los órganos jurisdiccionales deberán observar las disposiciones establecidas en el Capítulo IV “De los Nombramientos”, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+En todo momento, los titulares de los órganos jurisdiccionales y áreas administrativas deberán observar las disposiciones establecidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
 
 La Dirección General de Recursos Humanos a través de cualquier medio que deje constancia, hará del conocimiento de los titulares de los órganos jurisdiccionales y de las áreas administrativas la fecha en que el servidor público adscrito estará por cumplir más de seis meses en el cargo correspondiente.
 
@@ -725,13 +751,13 @@ Para tal efecto, podrá solicitar a la Dirección General de Recursos Humanos la
 
 Artículo 22 quater. Una vez notificado a un titular su cambio de adscripción o reubicación no podrá otorgar nombramientos de base, a menos que el trabajador reúna los requisitos para su basificación.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-Artículo 22 quinquies. En los tribunales colegiados de Circuito corresponde a cada magistrado la designación de los servidores públicos y demás personal adscrito a su ponencia, por lo que la expedición de los nombramientos relativos sólo es imputable al magistrado que solicite su expedición.
+Artículo 22 quinquies. En los tribunales colegiados de Circuito corresponde a cada magistrado la designación de los servidores públicos y demás personal adscrito a su ponencia, conforme a lo previsto en el artículo 72 Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, por lo que la expedición de los nombramientos es imputable al magistrado o magistrada que propongan su expedición, y en su caso, a quienes voten por ellos.
 
-Los magistrados distribuirán equitativamente las plazas asignadas a la Secretaría de Acuerdos, con excepción del Secretario de Acuerdos, el oficial de partes y el analista jurídico encargado del Sistema Integral del Seguimiento de Expedientes. Los dos primeros serán designados de conformidad con lo que previamente haya acordado el Tribunal Pleno, y la designación del analista jurídico encargado del SISE deberá hacerse en términos del artículo 184 del Acuerdo General del Pleno que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+La designación del analista jurídico encargado del SISE deberá hacerse en términos del artículo 184 del Acuerdo General del Pleno que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
-Las plazas de actuarios y de oficial de servicios y mantenimiento podrán incluirse en la citada distribución siempre que fuesen suficientes para asignar una a cada magistrado, por lo que en caso contrario, su designación se realizará de conformidad con lo que previamente haya acordado el Tribunal en Pleno.
+Las plazas de actuarios, oficiales judiciales y técnicos de servicios podrán incluirse en la citada distribución siempre que fuesen suficientes para asignar una a cada magistrado, por lo que en caso contrario, su designación se realizará de conformidad con lo que previamente haya acordado el Pleno del Tribunal.
 
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
 
@@ -793,13 +819,17 @@ k) Copia certificada de la cartilla liberada del Servicio Militar Nacional, en s
 
 l) Formato original de la Hoja de Registro de Datos del Servidor Público de Nuevo Ingreso, debidamente llenada y firmada por el interesado;
 
-> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-m) Constancia emitida por la Secretaría de la Función Pública, de no encontrarse inhabilitado para desempeñar cargo público, con una antigüedad no mayor a treinta días naturales contados a partir de su fecha de expedición; y
+m) Constancia emitida por la Secretaría de la Función Pública, de no encontrarse inhabilitado para desempeñar cargo público, con una antigüedad no mayor a treinta días naturales contados a partir de su fecha de expedición;
 
-> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-n) Cédula de Identificación Fiscal o Constancia de Registro Fiscal, expedida por el Servicio de Administración Tributaria.
+n) Cédula de Identificación Fiscal o Constancia de Registro Fiscal, expedida por el Servicio de Administración Tributaria; y
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+o) Declaración electrónica de sus relaciones familiares y de pareja, siempre que dichas personas trabajen en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, la cual, en beneficio de las y los servidores públicos, deberá ser corroborada por la persona que haya sido señalada por encontrarse en dicho supuesto, con la finalidad de que se mantenga exacta, completa, correcta y actualizada.
 
 II. Documentación institucional:
 
@@ -13466,3 +13496,41 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las plazas de secretarios se regirán por lo siguiente:
+
+- Cada que quede vacante una plaza de secretario de juzgado o tribunal, ésta se transformará en una de secretario proyectista. Dicho ejercicio se repetirá hasta que las plazas de proyectista alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+- Tratándose de plazas de nueva creación, ya sea en órganos jurisdiccionales existentes o en los que eventualmente inicien funciones, se asignarán plazas de secretario proyectista de modo que alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+El esquema planteado en los párrafos anteriores no aplicará para los Tribunales Laborales Federales, ya que durante su implementación y hasta un año después, todos los secretarios serán nombrados por concurso. Una vez terminado ese periodo, el Instituto organizará exámenes de aptitud específicos sobre la materia laboral, de conformidad con la necesidad de servicio.
+
+CUARTO. Considerando que el pasado 21 de octubre de 2020 se aprobó la transformación de distintas plazas en las nuevas categorías de oficial judicial, la contratación en dichas categorías se realizará conforme a las reglas vigentes con anterioridad a la entrada en vigor del presente Acuerdo, hasta en tanto el Instituto de la Judicatura Federal expida e implemente los lineamientos respectivos.
+
+QUINTO. Respecto al requisito de un año como oficial judicial para ocupar el puesto de secretario de tribunal, secretario de juzgado y actuario judicial, las y los servidores públicos que ocupan u ocuparon estos últimos puestos y que a la entrada en vigor de este Acuerdo no se desempeñaron como oficiales administrativos o cargos análogos en el Poder Judicial de la Federación, podrán complementar o sustituir dicho requisito con la antigüedad que hayan logrado en la carrera judicial, siempre y cuando se presente una carta firmada por el titular del órgano, en la que certifique que la persona correspondiente realizó funciones de oficial dentro del Juzgado o Tribunal.
+
+SEXTO. Las personas que actualmente tienen vigente la acreditación del curso o examen de aptitud a nivel secretarial y actuarial, la conservarán, de modo que su selección y eventual contratación se realice en la forma y términos del presente Acuerdo. La fecha a partir de la cual empezarán a correr los cinco años tras los cuales se deberá tramitar el certificado de actualización comenzará a partir de la entrada en vigor del presente Acuerdo.
+
+En pleno respeto a los derechos laborales del personal jurisdiccional, la consecuencia de la falta de acreditación a los cinco años será aplicable únicamente respecto de las personas que sean contratadas a partir de que el Instituto integre las listas para la selección de oficiales judiciales, actuarias y actuarios, y secretarias y secretarios.
+
+SÉPTIMO. Las prohibiciones a que se refiere el artículo 72 y los nuevos esquemas de selección y contratación del personal sólo aplican para nuevos nombramientos, de modo que la presente reforma no afecta los derechos laborales adquiridos por las personas contratadas con anterioridad a su entrada en vigor y que se ubiquen en dichos supuestos. Consecuentemente, las y los titulares deberán respetar dichos derechos.
+
+OCTAVO. El Instituto de la Judicatura definirá los procesos necesarios para la integración de las Listas dentro de un plazo de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, y tendrá hasta 6 meses después para que éstas queden integradas, de conformidad con lo expuesto en este instrumento.
+
+La caducidad de 3 años a que se refiere el tercer párrafo del artículo 65 comenzará a correr a partir de la entrada en vigor del presente Acuerdo.
+
+NOVENO. Las reformas relativas a los cursos y la aplicación de exámenes de aptitud en modalidad a distancia y las referentes a la normativa interna del Instituto de la Judicatura, producirán efectos hasta 6 meses después de la entrada en vigor del presente Acuerdo, para que el Instituto de la Judicatura lleve a cabo las adecuaciones pertinentes.
+
+DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en vigor cuando se prevean en la Ley Orgánica del Poder Judicial de la Federación. No obstante, las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
+
+DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
+
+DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
