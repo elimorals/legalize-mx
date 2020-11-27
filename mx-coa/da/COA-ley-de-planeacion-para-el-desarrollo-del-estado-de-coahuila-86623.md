@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-para-el-desarrollo-del-estado-de-coahuila-866
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-09"
-last_updated: "2020-08-14"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2012.
 
@@ -297,7 +297,9 @@ IV. Establecer acciones para la atención integral a mujeres víctimas de violen
 
 V. Promover la participación de las mujeres en la construcción de las acciones afirmativas y políticas;
 
-VI. Atender las necesidades de mujeres embarazadas, madres solteras, indígenas, con discapacidad, víctimas de violencia y/o del delito, niñas, y otra condición que limite el desarrollo; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VI. Atender las necesidades de mujeres embarazadas, madres solteras, miembros de pueblos o comunidades indígenas o afromexicanas, con discapacidad, víctimas de violencia y/o del delito, niñas, y otra condición que limite el desarrollo; y
 
 VII. Las demás contenidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza y en la Ley para la Igualdad entre Mujeres y Hombres en el Estado de Coahuila de Zaragoza.
 
@@ -816,3 +818,11 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los planes de desarrollo estatal y municipales, a partir de la entrada en vigor del presente decreto deberán incluir la perspectiva de familia.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
