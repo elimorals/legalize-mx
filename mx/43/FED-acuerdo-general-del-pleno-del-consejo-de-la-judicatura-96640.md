@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2020-11-17"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,11 +23,9 @@ issue_date: "2013-11-12"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1041,7 +1039,7 @@ VIII. Legalizar la firma de los servidores públicos del Poder Judicial de la Fe
 
 IX. Las demás que establezcan el Pleno, y la Comisión de Receso.
 
-#### SECCIÓN ÚNICA. COMITÉ TÉCNICO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
+#### SECCIÓN PRIMERA. COMITÉ TÉCNICO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
 ### CAPÍTULO QUINTO. DE LOS COMITÉS
 
@@ -1053,9 +1051,15 @@ I. Técnico del Fondo de Apoyo a la Administración de Justicia; y
 
 II. Los demás que determine el Pleno.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+Existirán Comités integrados por las y los titulares que la normatividad interna del Consejo determine.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN] POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL ARTÍCULO SEGUNDO DEL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. COMITÉ DE INTEGRIDAD
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 60.
 
@@ -1155,11 +1159,77 @@ La falta temporal del titular de la Dirección de Normatividad y Enlace Instituc
 
 Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Institucional y al titular de la Dirección de Administración Financiera, para determinar el número de servidores públicos necesarios para el óptimo ejercicio de las atribuciones antes descritas.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+###### Artículo 65 Bis.
+
+El Comité de Integridad, será el encargado de emitir la opinión, no vinculante, respecto de los nombramientos y licencias superiores a diez días de personas que tengan parentesco por consanguinidad o afinidad dentro del quinto grado con otros titulares de áreas administrativas u órganos jurisdiccionales.
+
+El Comité deberá verificar que la contratación no trasgreda el derecho de las personas a acceder a cargos públicos en condiciones de igualdad, no repare en un conflicto de interés que ponga en riesgo la percepción de legitimidad del Poder Judicial de la Federación, y que no exista impedimento, para que se lleve a cabo la contratación correspondiente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 65 Ter.
+
+El Comité de Integridad estará conformado por las y los Titulares de:
+
+I. Contraloría del Poder Judicial de la Federación;
+
+II. Secretaría Ejecutiva de Carrera Judicial; y
+
+III. Dirección General de Recursos Humanos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 65 Quater.
+
+El Comité de Integridad tendrá las siguientes atribuciones:
+
+I. Verificar que se haya efectuado un proceso de selección transparente de acuerdo al cargo, empleo o comisión que ocupará la persona propuesta en el Poder Judicial de la Federación, a fin de determinar si se produce o no un potencial o real conflicto de interés, o si pone en riesgo el derecho de acceder a cargos públicos en condiciones de igualdad;
+
+II. Emitir dentro de los diez días hábiles siguientes la opinión, no vinculante, respecto de la contratación y licencias superiores a diez días de personas que tengan relaciones familiares o de pareja con otros titulares. Las licencias urgentes podrán otorgarse sin la necesidad de obtener previamente la opinión del Comité, lo cual deberá hacerse de su conocimiento;
+
+III. Emitir una guía para identificar y prevenir actos de nepotismo y conflictos de interés de las y los servidores públicos del Poder Judicial de la Federación, la cual deberá ser revisada y actualizada anualmente, y someterse a consideración del Pleno;
+
+IV. Nombrar y remover al Secretario Técnico del Comité de Integridad, para lo cual deberán elegir a una persona que tenga el nivel de secretaria o secretario técnico dentro de las áreas cuyos titulares forman parte del Comité; y
+
+V. Las demás que determine el Pleno del Consejo.
+
+Para el desarrollo y validez de las sesiones del Comité de Integridad, se estará a lo dispuesto por la Ley y los acuerdos generales del Pleno.
+
+Las sesiones serán presididas por la persona titular de la Contraloría del Poder Judicial de la Federación.
+
+Las opiniones que emita el Comité se acordarán por mayoría.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 65 Quinquies.
+
+El Secretario Técnico del Comité de Integridad tendrá las siguientes funciones:
+
+I. Convocar a las sesiones virtuales del Comité de Integridad;
+
+II. Preparar el orden del día de la sesión, así como los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual se remitirá copia a cada integrante del Comité de Integridad;
+
+III. Elaborar y suscribir las actas de las sesiones para la aprobación del Comité de Integridad e integrarlas en el expediente respectivo;
+
+IV. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
+
+V. Vigilar que el archivo de los documentos analizados por el Comité de Integridad esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+
+VI. Notificar y dar seguimiento al cumplimiento de los acuerdos emitidos por el Comité de Integridad;
+
+VII. Llevar un registro de las opiniones emitidas por el Comité;
+
+VIII. Informar al titular consultante respecto de la opinión emitida por el Comité; y
+
+IX. Las demás que le señale la normativa y el Comité de Integridad.
+
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
-
-#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 ### CAPÍTULO SEXTO
 
@@ -1173,9 +1243,9 @@ Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Instit
 
 DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
+#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 ###### Artículo 67.
 
@@ -1261,7 +1331,9 @@ Los servidores públicos que suplan por ausencia, incorporarán una leyenda en s
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
-#### SECCIÓN CUARTA. DE LAS SECRETARÍAS EJECUTIVAS EN LO PARTICULAR
+#### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 71.
 
@@ -1311,7 +1383,7 @@ XI. Las demás que le confieran las disposiciones legales y acuerdos generales d
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN QUINTA. DE LAS COORDINACIONES EN PARTICULAR
+#### SECCIÓN CUARTA. DE LAS SECRETARÍAS EJECUTIVAS EN LO PARTICULAR
 
 ###### Artículo 74.
 
@@ -1361,11 +1433,7 @@ XIII. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN SEXTA
-
-DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+#### SECCIÓN QUINTA. DE LAS COORDINACIONES EN PARTICULAR
 
 ###### Artículo 77.
 
@@ -2033,7 +2101,11 @@ XX. Proponer al Secretario Técnico de la Comisión de Vigilancia;
 
 XXI. Las demás que establezcan el Pleno y las Comisiones.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SEXTA
+
+DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 89.
 
@@ -2163,7 +2235,7 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 97.
 
@@ -2325,9 +2397,7 @@ XV. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+#### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
 ###### Artículo 99.
 
@@ -2393,7 +2463,9 @@ Los titulares de los órganos auxiliares deberán definir, revisar y ser respons
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
-#### SECCIÓN SEGUNDA. DIRECCIONES GENERALES EN LO PARTICULAR
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 104.
 
@@ -3031,9 +3103,7 @@ Las ausencias temporales de los secretarios técnicos serán cubiertas por otro 
 
 ### CAPÍTULO NOVENO. DE LAS DIRECCIONES GENERALES
 
-#### SECCIÓN PRIMERA. DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+#### SECCIÓN SEGUNDA. DIRECCIONES GENERALES EN LO PARTICULAR
 
 ###### Artículo 140.
 
@@ -3157,7 +3227,9 @@ XX. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN PRIMERA. DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 147.
 
@@ -4423,7 +4495,7 @@ Las ausencias de los secretarios técnicos de las Comisiones podrán ser suplida
 
 ### CAPITULO DÉCIMO PRIMERO. DE LAS ÁREAS ADSCRITAS A DIVERSAS UNIDADES ADMINISTRATIVAS
 
-#### SECCIÓN SEGUNDA BIS
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 188.
 
@@ -4497,7 +4569,7 @@ Toda la correspondencia y trámites relacionados con los asuntos de la competenc
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-#### SECCIÓN TERCERA
+#### SECCIÓN SEGUNDA BIS
 
 ###### Artículo 193.
 
@@ -4509,7 +4581,7 @@ Toda la correspondencia y trámites relacionados con los asuntos de la competenc
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA
 
 ###### Artículo 194 Bis.
 
@@ -4525,7 +4597,7 @@ Toda la correspondencia y trámites relacionados con los asuntos de la competenc
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS POR ESCRITO
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 195.
 
@@ -5383,9 +5455,7 @@ El Secretario Ejecutivo del Pleno, así como el Coordinador de Administración R
 
 ### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN EN EL REGISTRO, SU MODIFICACIÓN Y CANCELACIÓN
 
-#### SECCIÓN TERCERA
-
-DE LA SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS EN LÍNEA, A TRAVÉS DE LA PÁGINA ELECTRÓNICA DEL CONSEJO
+#### SECCIÓN SEGUNDA. DE LAS SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS POR ESCRITO
 
 ###### Artículo 274.
 
@@ -5419,7 +5489,9 @@ Presentada la solicitud en los lugares a que se refiere el primer párrafo de es
 
 En el supuesto de que la solicitud sea presentada a través de la página electrónica del Consejo, la asociación civil deberá remitir, mediante correo certificado la solicitud a que se refiere la fracción I del primer párrafo de este artículo, así como copias certificadas ante notario público del resto de la documentación a que aluden las fracciones II a VI del citado párrafo de este artículo, indicando el número de trámite, o presentarla en original y copia para cotejo en el Edificio Sede del Consejo, en la Administración Regional o en la Delegación Administrativa que corresponda, dentro de los tres días hábiles siguientes al de la presentación de la solicitud. En este último caso se observará lo previsto en el párrafo anterior.
 
-#### SECCIÓN CUARTA. DEL RESULTADO DE LA SOLICITUD DE INSCRIPCIÓN, MODIFICACIÓN O CANCELACIÓN
+#### SECCIÓN TERCERA
+
+DE LA SOLICITUDES DE INSCRIPCIÓN EN EL REGISTRO, ASÍ COMO DE MODIFICACIÓN Y CANCELACIÓN DEL MISMO, PRESENTADAS EN LÍNEA, A TRAVÉS DE LA PÁGINA ELECTRÓNICA DEL CONSEJO
 
 ###### Artículo 276.
 
@@ -5432,6 +5504,8 @@ Las solicitudes de inscripción en el Registro, así como de modificación y can
 ###### Artículo 278.
 
 Recibidos los escritos de solicitud de inscripción en el Registro, así como de modificación o cancelación del mismo, el personal administrativo autorizado, adscrito a la Oficialía de Partes y Certificación del Edificio Sede del Consejo, a las Administraciones Regionales o Delegaciones Administrativas, según sea el caso, procederá al cotejo y, en caso, certificación de los documentos anexos y los enviará digitalizados a la Dirección General de Asuntos Jurídicos.
+
+#### SECCIÓN CUARTA. DEL RESULTADO DE LA SOLICITUD DE INSCRIPCIÓN, MODIFICACIÓN O CANCELACIÓN
 
 ###### Artículo 279.
 
@@ -6210,3 +6284,41 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PAGINAS 447 Y 448.]</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las plazas de secretarios se regirán por lo siguiente:
+
+- Cada que quede vacante una plaza de secretario de juzgado o tribunal, ésta se transformará en una de secretario proyectista. Dicho ejercicio se repetirá hasta que las plazas de proyectista alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+- Tratándose de plazas de nueva creación, ya sea en órganos jurisdiccionales existentes o en los que eventualmente inicien funciones, se asignarán plazas de secretario proyectista de modo que alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+El esquema planteado en los párrafos anteriores no aplicará para los Tribunales Laborales Federales, ya que durante su implementación y hasta un año después, todos los secretarios serán nombrados por concurso. Una vez terminado ese periodo, el Instituto organizará exámenes de aptitud específicos sobre la materia laboral, de conformidad con la necesidad de servicio.
+
+CUARTO. Considerando que el pasado 21 de octubre de 2020 se aprobó la transformación de distintas plazas en las nuevas categorías de oficial judicial, la contratación en dichas categorías se realizará conforme a las reglas vigentes con anterioridad a la entrada en vigor del presente Acuerdo, hasta en tanto el Instituto de la Judicatura Federal expida e implemente los lineamientos respectivos.
+
+QUINTO. Respecto al requisito de un año como oficial judicial para ocupar el puesto de secretario de tribunal, secretario de juzgado y actuario judicial, las y los servidores públicos que ocupan u ocuparon estos últimos puestos y que a la entrada en vigor de este Acuerdo no se desempeñaron como oficiales administrativos o cargos análogos en el Poder Judicial de la Federación, podrán complementar o sustituir dicho requisito con la antigüedad que hayan logrado en la carrera judicial, siempre y cuando se presente una carta firmada por el titular del órgano, en la que certifique que la persona correspondiente realizó funciones de oficial dentro del Juzgado o Tribunal.
+
+SEXTO. Las personas que actualmente tienen vigente la acreditación del curso o examen de aptitud a nivel secretarial y actuarial, la conservarán, de modo que su selección y eventual contratación se realice en la forma y términos del presente Acuerdo. La fecha a partir de la cual empezarán a correr los cinco años tras los cuales se deberá tramitar el certificado de actualización comenzará a partir de la entrada en vigor del presente Acuerdo.
+
+En pleno respeto a los derechos laborales del personal jurisdiccional, la consecuencia de la falta de acreditación a los cinco años será aplicable únicamente respecto de las personas que sean contratadas a partir de que el Instituto integre las listas para la selección de oficiales judiciales, actuarias y actuarios, y secretarias y secretarios.
+
+SÉPTIMO. Las prohibiciones a que se refiere el artículo 72 y los nuevos esquemas de selección y contratación del personal sólo aplican para nuevos nombramientos, de modo que la presente reforma no afecta los derechos laborales adquiridos por las personas contratadas con anterioridad a su entrada en vigor y que se ubiquen en dichos supuestos. Consecuentemente, las y los titulares deberán respetar dichos derechos.
+
+OCTAVO. El Instituto de la Judicatura definirá los procesos necesarios para la integración de las Listas dentro de un plazo de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, y tendrá hasta 6 meses después para que éstas queden integradas, de conformidad con lo expuesto en este instrumento.
+
+La caducidad de 3 años a que se refiere el tercer párrafo del artículo 65 comenzará a correr a partir de la entrada en vigor del presente Acuerdo.
+
+NOVENO. Las reformas relativas a los cursos y la aplicación de exámenes de aptitud en modalidad a distancia y las referentes a la normativa interna del Instituto de la Judicatura, producirán efectos hasta 6 meses después de la entrada en vigor del presente Acuerdo, para que el Instituto de la Judicatura lleve a cabo las adecuaciones pertinentes.
+
+DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en vigor cuando se prevean en la Ley Orgánica del Poder Judicial de la Federación. No obstante, las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
+
+DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
+
+DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
