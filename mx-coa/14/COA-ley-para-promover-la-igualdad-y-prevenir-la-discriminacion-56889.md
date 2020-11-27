@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2020-01-31"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -105,13 +105,15 @@ XIV. Niña o niño: Personas menores de 12 años de edad.
 
 XV. Persona con discapacidad: Todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, psíquicas o sensoriales que le impide realizar una actividad normal;
 
-XVI. Población indígena: Aquéllos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Pueblos indígenas y comunidades afromexicanas: Aquellos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás leyes aplicables.
 
 XVII. Poderes Públicos: Los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. Sectores Vulnerables: Los integrados por: niñas y niños, personas adultas mayores, personas indígenas, mujeres, personas con discapacidad, en pobreza extrema, sin empleo, presidiarios y expresidiarios, y en general cualquier sector de la población que directa o indirectamente se enfrente a tratos o acciones discriminatorias;
+XVIII. Sectores Vulnerables: Los integrados por: niñas y niños, personas adultas mayores, personas indígenas o afromexicanas, mujeres, personas con discapacidad, en pobreza extrema, sin empleo, presidiarios y ex presidiarios, y en general cualquier sector de la población que directa o indirectamente se enfrente a tratos o acciones discriminatorias;
 
 XIX. Servidores públicos: Los descritos como tales en la Constitución Política del Estado de Coahuila, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila y demás disposiciones aplicables;
 
@@ -531,9 +533,9 @@ I. Incentivar la educación mixta, fomentando la permanencia en el sistema educa
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos que difundan la condición de igualdad entre géneros;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-III. Establecer programas educativos de enseñanza especial y programas de enseñanza bilingüe que promuevan el ingreso de personas indígenas al sector educativo y el intercambio pluricultural;
+III. Establecer programas educativos de enseñanza especial y programas de enseñanza bilingüe que promuevan el ingreso de personas indígenas y afromexicanas al sector educativo y el intercambio pluricultural;
 
 IV. Instalar los mecanismos que sean necesarios para que las personas miembros de los sectores vulnerables puedan acceder plenamente a todos los niveles de educación incorporados a la Secretaría, promoviendo estas acciones en las universidades e instituciones de educación superior;
 
@@ -577,11 +579,11 @@ IV. Promover la instalación de centros de desarrollo infantil y guarderías en 
 
 V. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 17.
 
-Para el cumplimiento del objeto de esta ley, la Secretaría de Medio Ambiente llevará a cabo las siguientes acciones:
+Para el cumplimiento del objeto de esta ley, la Secretaria de Medio Ambiente y Desarrollo Urbano llevara a cabo las siguientes acciones:
 
 I. Promover en colaboración con otras entidades públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación;
 
@@ -593,9 +595,9 @@ IV. Garantizar, en coordinación con los municipios, la eliminación de obstácu
 
 V. Promover la participación de los sectores vulnerables de la población en las acciones y programas de educación y cultura ambiental así como de protección y preservación al medio ambiente que lleve a cabo, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-VI. Promover la participación de los grupos étnicos e indígenas para la inclusión de programas de transformación de recursos naturales para autosustentabilidad de sus comunidades.
+VI. Promover la participación de los grupos étnicos e indígenas y comunidades afromexicanas para la inclusión de programas de transformación de recursos naturales para auto sustentabilidad de sus comunidades.
 
 VII. Las demás que señale esta ley y otras disposiciones aplicables.
 
@@ -1392,3 +1394,11 @@ P.O. 31 DE ENERO DE 2020.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTICULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
