@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2020-11-25"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -211,11 +211,19 @@ Las medidas preventivas no tienen la naturaleza de sanciones administrativas y t
 
 La Unidad de Prevención y Combate al Acoso Sexual, podrá sugerir a los titulares de órganos jurisdiccionales y áreas administrativas la adopción de medidas preventivas a fin de prevenir y evitar conductas de acoso sexual y otras formas de violencia sexual y de género. Cuando ya exista una investigación o procedimiento administrativo en curso relacionado con conductas específicas de naturaleza sexual o relacionadas con violencia de género en determinado órgano jurisdiccional o área administrativa, dichas medidas deberán sugerirse en coordinación con la autoridad investigadora o substanciadora, según sea el caso.
 
-### CAPÍTULO PRIMERO. RESPONSABILIDAD ADMINISTRATIVA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO TERCERO. BUZÓN ELECTRÓNICO PARA QUEJAS Y DENUNCIAS
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+La Secretaría y la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones, tendrán a su cargo el buzón electrónico de quejas y denuncias del Consejo de la Judicatura Federal, el cual permitirá denunciar conductas potencialmente constitutivas de casos de corrupción, abuso y otras formas de violencia sexual y sexista, así como casos de nepotismo. El buzón, cuando así se solicite y siempre que en derecho proceda, salvaguardará la identidad de la persona denunciante, además de que podrá actuarse de forma anónima, quien podrá solicitar en ese acto la intervención de la Unidad de Prevención y Combate al Acoso Sexual, cuando los hechos denunciados estén relacionados con el ámbito de competencia de ésta.
 
 ## TÍTULO SEGUNDO. DE LA RESPONSABILIDAD ADMINISTRATIVA, LA DECLARACIÓN PATRIMONIAL Y DE INTERESES, Y LA ENTREGA-RECEPCIÓN
 
-### CAPÍTULO SEGUNDO. DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES
+### CAPÍTULO PRIMERO. RESPONSABILIDAD ADMINISTRATIVA
 
 #### SECCIÓN PRIMERA. CAUSAS DE RESPONSABILIDAD ADMINISTRATIVA
 
@@ -455,9 +463,7 @@ La Contraloría someterá a consideración del Pleno las normas para la operaci�
 
 El interesado podrá obtener dichas constancias a través del sistema electrónico que al efecto establezca la Contraloría.
 
-### CAPÍTULO TERCERO. ENTREGA-RECEPCIÓN DE RECURSOS, DOCUMENTOS Y ARCHIVOS
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+### CAPÍTULO SEGUNDO. DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES
 
 #### SECCIÓN PRIMERA. PRESENTACIÓN DE LA DECLARACIÓN
 
@@ -629,7 +635,9 @@ La Contraloría expedirá las normas para la operación del registro y las const
 
 Dichas constancias podrán obtenerse del sistema electrónico que establezca la Contraloría.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO TERCERO. ENTREGA-RECEPCIÓN DE RECURSOS, DOCUMENTOS Y ARCHIVOS
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 49.
 
@@ -733,7 +741,7 @@ La Contraloría vigilará, en el ámbito de sus atribuciones, el cumplimiento de
 
 ## TÍTULO TERCERO. DISPOSICIONES PROCEDIMENTALES
 
-### CAPÍTULO SEGUNDO. COMPETENCIA
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. FORMALIDADES
 
@@ -1029,9 +1037,7 @@ En los casos en que la sanción impuesta sea apercibimiento privado o público, 
 
 En ningún caso podrá exigirse el reintegro del monto de la percepción otorgada durante la suspensión.
 
-### CAPÍTULO TERCERO. INVESTIGACIÓN
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+### CAPÍTULO SEGUNDO. COMPETENCIA
 
 ###### Artículo 108.
 
@@ -1167,7 +1173,9 @@ Con el informe de presunta responsabilidad administrativa se iniciará el proced
 
 En el supuesto de que, el Pleno, la Comisión o, en su caso, la Contraloría, en el ámbito de sus respectivas competencias, estimen que existen elementos para considerar la presunta responsabilidad de algún servidor público en materia de seguimiento de su situación patrimonial, iniciarán el procedimiento de responsabilidad administrativa y, en su caso, presentarán denuncia ante el Ministerio Público de la Federación cuando existan elementos que acreditan un incremento sustancial no justificado del patrimonio de dicho servidor, y que éste pudo haber incurrido en la comisión de algún delito.
 
-### CAPÍTULO CUARTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO TERCERO. INVESTIGACIÓN
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 118.
 
@@ -1267,7 +1275,7 @@ En caso de que la Autoridad substanciadora advierta que el Informe de Presunta R
 
 La Autoridad Substanciadora, en caso de observar que el informe de Presunta Responsabilidad Administrativa omite algún o algunos de los requisitos a que se refiere el párrafo anterior, devolverá a la Autoridad Investigadora el citado informe, señalando con precisión las razones de la devolución. La autoridad investigadora, dentro de los plazos establecidos por el artículo 126 del presente Acuerdo, podrá presentar un nuevo informe.
 
-### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA
+### CAPÍTULO CUARTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 #### SECCIÓN PRIMERA. INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -1747,7 +1755,7 @@ También procederá la acumulación cuando a juicio del órgano competente sea n
 
 El Pleno o la Comisión, en sus respectivos ámbitos de competencia, podrán ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente original respectivo.
 
-### CAPÍTULO SEXTO. SUPLETORIEDAD
+### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA
 
 ###### Artículo 184.
 
@@ -1835,13 +1843,13 @@ Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el f
 
 El reporte que determine que existió interrupción en el Sistema de Justicia en Línea deberá señalar la causa, fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, por el lapso de la interrupción del Sistema de Justicia en Línea. Para tal efecto, la Contraloría o la Secretaría, según corresponda, hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos establecidos en este Acuerdo.
 
-### CAPÍTULO SÉPTIMO. CRITERIOS EN MATERIA DE DISCIPLINA
+### CAPÍTULO SEXTO. SUPLETORIEDAD
 
 ###### Artículo 194.
 
 Para el trámite y resolución de los procedimientos de responsabilidad administrativa es aplicable la Ley Orgánica; en lo no previsto por ésta, la Ley de Responsabilidades; el presente Acuerdo; y, supletoriamente, en lo no previsto por éstos, el Código Federal de Procedimientos Civiles. Ante el vacío normativo, se acudirá a los principios generales del derecho, en términos de lo dispuesto en el artículo 14, párrafo cuarto, de la Constitución.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SÉPTIMO. CRITERIOS EN MATERIA DE DISCIPLINA
 
 ###### Artículo 195.
 
@@ -1881,7 +1889,7 @@ Los criterios se compondrán de rubro, texto y datos de identificación, en los 
 
 ## TÍTULO CUARTO. REVISIÓN DE LA SITUACIÓN PATRIMONIAL
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 202.
 
@@ -2023,7 +2031,7 @@ La persona Titular de la Contraloría informará al Pleno sobre los resultados d
 
 ## TÍTULO QUINTO. DEL FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL
 
-### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 219.
 
@@ -2039,7 +2047,7 @@ El Visitador General tendrá un registro en el que se acopien y guarden los resu
 
 El registro será de fácil y rápida consulta y deberá proporcionar información objetiva y útil a las áreas administrativas competentes, para los casos de designaciones, adscripciones, capacitación, promociones, reconocimientos, ratificaciones, disciplina, estímulos, premiaciones, remociones, inspecciones, creación de nuevos órganos y otros relativos a los servidores públicos, órganos jurisdiccionales y Centros de Justicia Penal Federal.
 
-### CAPÍTULO TERCERO. DE LA EVALUACION
+### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2566,6 +2574,8 @@ El informe ejecutivo deberá contener toda la información y los medios de prueb
 ###### Artículo 288.
 
 El Visitador General, dentro del plazo de veinticuatro horas, deberá remitir el acta con el informe final a la Unidad General, dejando copia certificada en los archivos de la Visitaduría Judicial, bajo resguardo y responsabilidad del Director General.
+
+### CAPÍTULO TERCERO. DE LA EVALUACION
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3138,3 +3148,41 @@ D.O.F. 25 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+D.O.F. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las plazas de secretarios se regirán por lo siguiente:
+
+- Cada que quede vacante una plaza de secretario de juzgado o tribunal, ésta se transformará en una de secretario proyectista. Dicho ejercicio se repetirá hasta que las plazas de proyectista alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+- Tratándose de plazas de nueva creación, ya sea en órganos jurisdiccionales existentes o en los que eventualmente inicien funciones, se asignarán plazas de secretario proyectista de modo que alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+El esquema planteado en los párrafos anteriores no aplicará para los Tribunales Laborales Federales, ya que durante su implementación y hasta un año después, todos los secretarios serán nombrados por concurso. Una vez terminado ese periodo, el Instituto organizará exámenes de aptitud específicos sobre la materia laboral, de conformidad con la necesidad de servicio.
+
+CUARTO. Considerando que el pasado 21 de octubre de 2020 se aprobó la transformación de distintas plazas en las nuevas categorías de oficial judicial, la contratación en dichas categorías se realizará conforme a las reglas vigentes con anterioridad a la entrada en vigor del presente Acuerdo, hasta en tanto el Instituto de la Judicatura Federal expida e implemente los lineamientos respectivos.
+
+QUINTO. Respecto al requisito de un año como oficial judicial para ocupar el puesto de secretario de tribunal, secretario de juzgado y actuario judicial, las y los servidores públicos que ocupan u ocuparon estos últimos puestos y que a la entrada en vigor de este Acuerdo no se desempeñaron como oficiales administrativos o cargos análogos en el Poder Judicial de la Federación, podrán complementar o sustituir dicho requisito con la antigüedad que hayan logrado en la carrera judicial, siempre y cuando se presente una carta firmada por el titular del órgano, en la que certifique que la persona correspondiente realizó funciones de oficial dentro del Juzgado o Tribunal.
+
+SEXTO. Las personas que actualmente tienen vigente la acreditación del curso o examen de aptitud a nivel secretarial y actuarial, la conservarán, de modo que su selección y eventual contratación se realice en la forma y términos del presente Acuerdo. La fecha a partir de la cual empezarán a correr los cinco años tras los cuales se deberá tramitar el certificado de actualización comenzará a partir de la entrada en vigor del presente Acuerdo.
+
+En pleno respeto a los derechos laborales del personal jurisdiccional, la consecuencia de la falta de acreditación a los cinco años será aplicable únicamente respecto de las personas que sean contratadas a partir de que el Instituto integre las listas para la selección de oficiales judiciales, actuarias y actuarios, y secretarias y secretarios.
+
+SÉPTIMO. Las prohibiciones a que se refiere el artículo 72 y los nuevos esquemas de selección y contratación del personal sólo aplican para nuevos nombramientos, de modo que la presente reforma no afecta los derechos laborales adquiridos por las personas contratadas con anterioridad a su entrada en vigor y que se ubiquen en dichos supuestos. Consecuentemente, las y los titulares deberán respetar dichos derechos.
+
+OCTAVO. El Instituto de la Judicatura definirá los procesos necesarios para la integración de las Listas dentro de un plazo de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, y tendrá hasta 6 meses después para que éstas queden integradas, de conformidad con lo expuesto en este instrumento.
+
+La caducidad de 3 años a que se refiere el tercer párrafo del artículo 65 comenzará a correr a partir de la entrada en vigor del presente Acuerdo.
+
+NOVENO. Las reformas relativas a los cursos y la aplicación de exámenes de aptitud en modalidad a distancia y las referentes a la normativa interna del Instituto de la Judicatura, producirán efectos hasta 6 meses después de la entrada en vigor del presente Acuerdo, para que el Instituto de la Judicatura lleve a cabo las adecuaciones pertinentes.
+
+DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en vigor cuando se prevean en la Ley Orgánica del Poder Judicial de la Federación. No obstante, las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
+
+DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
+
+DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
