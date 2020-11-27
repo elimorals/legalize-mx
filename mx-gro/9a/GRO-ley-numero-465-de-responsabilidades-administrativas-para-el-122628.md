@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-465-de-responsabilidades-administrativas-para-el-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -600,6 +600,12 @@ II. No inicien el procedimiento correspondiente ante la autoridad competente, de
 III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en esta Ley.
 
 Para efectos de la fracción anterior, los servidores públicos que denuncien una falta administrativa grave o faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el ente público donde presta sus servicios el denunciante.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 64 Bis.
+
+Serán responsables el, la o los servidores públicos que obstruyan, impidan o se nieguen a realizar el proceso de entrega recepción, así como ocultar o no proporcionar la información correspondiente señalada en la Ley número 213 de Entrega Recepción de las Administraciones Públicas del Estado y Municipios de Guerrero.
 
 ### Capítulo III. Actos de particulares vinculados con faltas administrativas graves
 
@@ -1848,3 +1854,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 473, POR EL QUE SE ADICIONA EL ARTÍCULO 64 BIS A LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese en la página oficial y en la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
