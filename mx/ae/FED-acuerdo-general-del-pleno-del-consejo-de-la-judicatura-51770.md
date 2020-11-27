@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2020-11-17"
+last_updated: "2020-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2006-08-09"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2021 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -73,9 +75,9 @@ VII. Presidente: Presidente del Consejo de la Judicatura Federal;
 
 VIII. Comisión: Comisión de Carrera Judicial del Consejo de la Judicatura Federal;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-IX. Titulares: Las y los magistrados de Circuito y las y los jueces de Distrito;
+IX. Titulares de órganos jurisdiccionales: Las y los magistrados de Circuito, y las y los jueces de Distrito;
 
 X. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
@@ -85,13 +87,29 @@ XII. Director General: Director General del Instituto de la Judicatura Federal;
 
 XIII. Recursos Humanos: Dirección General de Recursos Humanos;
 
-XIV. Especialidad: Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito;
+XIV. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)
 
 XV. Curso para secretarios: Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación;
 
-XVI. Curso para actuarios: Curso Básico de Formación y Preparación para Actuarios del Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-XVII. Eventos académicos: cursos, conferencias, mesas redondas, congresos y demás actividades análogas.
+XVI. Curso para actuarios: Curso Básico de Formación y Preparación para Actuarios del Poder Judicial de la Federación;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Eventos académicos: Cursos, conferencias, mesas redondas, congresos y demás actividades análogas;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. Vínculo o relación familiar: La que tienen las y los servidores públicos con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, o con parientes consanguíneos o por afinidad hasta el quinto grado, tanto en línea recta ascendente o descendente, como colateral;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIX. Nombramientos: Aquellos de base, interinos, de confianza y todos los que tengan cualquier otra denominación; y
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+XX. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito, Centros de Justicia Penal Federal y Tribunales Laborales Federales.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
@@ -107,11 +125,19 @@ II. Juez de Distrito;
 
 III. Secretario de Tribunal de Circuito;
 
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+III. Ter. Secretario proyectista de tribunal de Circuito;
+
 > <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
 
 III Bis. Asistente de Constancias y Registro de Tribunal de Alzada;
 
 IV. Secretario de Juzgado de Distrito;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. Quater. Secretario proyectista de juzgado de Distrito;
 
 > <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -121,9 +147,91 @@ IV Bis. Asistente de Constancias y Registro de juez de control o juez de enjuici
 
 IV Ter. Secretaria o secretario Instructor de Tribunal Laboral Federal;
 
-V. Actuario de Tribunal de Circuito; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-VI. Actuario de Juzgado de Distrito.
+V. Actuario de Tribunal de Circuito;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+VI. Actuario de Juzgado de Distrito; y
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+VII. Oficial Judicial.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 3 Bis.
+
+La carrera judicial tiene como finalidad:
+
+I. Garantizar la independencia, imparcialidad, idoneidad, estabilidad, profesionalización y especialización de los servidores públicos que forman parte de ella;
+
+II. Propiciar la permanencia y superación de sus integrantes, con base en expectativas de desarrollo personal mediante una carrera como servidor público en el Poder Judicial de la Federación;
+
+III. Desarrollar un sentido de identidad y pertenencia hacia el Poder Judicial de la Federación;
+
+IV. Contribuir a la excelencia y eficacia de la impartición de justicia;
+
+V. Garantizar la legitimidad de los órganos jurisdiccionales que integran el Poder Judicial de la Federación; y
+
+VI. Vincular el cumplimiento de los objetivos institucionales con el desempeño de las responsabilidades y el desarrollo profesional de los servidores públicos que forman parte de ella.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 3 Ter.
+
+Toda persona puede aspirar a desempeñar cargos dentro de la carrera judicial, siempre que reúna los requisitos establecidos en la Ley y los acuerdos correspondientes.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 3 Quater.
+
+El desarrollo de la carrera judicial deberá garantizar en todas sus etapas, la observancia de los siguientes principios:
+
+I. Excelencia: Fomentar una calidad superior en el ejercicio de la actividad jurisdiccional con un sentido de pertenencia hacia la institución, una vocación de servicio y sentido social, humanismo, honestidad, responsabilidad y justicia en la prestación del servicio;
+
+II. Profesionalismo: Disposición para ejercer de manera responsable, seria y eficiente la función jurisdiccional, con capacidad y dedicación;
+
+III. Objetividad: Desempeñar la actividad jurisdiccional de manera clara, precisa y apegada a la realidad, frente a influencias extrañas al derecho;
+
+IV. Imparcialidad: Condición esencial que debe revestir la función jurisdiccional para ser ajenos o extraños a los intereses personales y a los intereses de las partes en controversia, sin favorecer indebidamente a ninguna de ellas;
+
+V. Independencia: Condición esencial que debe revestir la función jurisdiccional para que su ejercicio no pueda verse afectado por decisiones o presiones extra- jurisdiccionales ajenas a los fines del proceso;
+
+VI. Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la carrera judicial; y
+
+VII. Paridad de género: Generación de condiciones orientadas a consolidar, de manera progresiva y gradual, una composición igualitaria entre hombres y mujeres en las distintas etapas y procesos que comprende la carrera judicial.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 3 Quinquies.
+
+El Poder Judicial de la Federación incorporará la perspectiva de género, de forma transversal, progresiva, y equitativa en el desarrollo de la carrera judicial, a fin de garantizar a mujeres y hombres el ejercicio y goce de sus derechos humanos, con un enfoque de igualdad sustantiva y velará que los órganos a su cargo así lo hagan.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 3 Sexies.
+
+El perfil de las servidoras o servidores públicos está constituido por el conjunto de capacidades y cualidades personales que permiten asegurar que, en el ejercicio de sus funciones, responderá de manera idónea a las demandas de justicia.
+
+Entre las principales características que deberán reunir las servidoras o servidores públicos, se encuentran las siguientes:
+
+I. Formación jurídica sólida e integral;
+
+II. Independencia y autonomía en el ejercicio de su función y defensa del estado de derecho;
+
+III. El respeto absoluto y el compromiso con la defensa y protección de los derechos humanos;
+
+IV. Capacidad de interpretar y razonar jurídicamente a partir de casos concretos y con perspectiva interseccional;
+
+V. Aptitud para identificar los contextos sociales en que se presentan los casos sujetos a su conocimiento;
+
+VI. Conocimiento del Poder Judicial de la Federación y del órgano jurisdiccional de su adscripción y, en su caso, manejo del despacho judicial;
+
+VII. Aptitud de servicio y compromiso social; y
+
+VIII. Trayectoria personal íntegra.
 
 ###### Artículo 4.
 
@@ -277,15 +385,19 @@ En toda protesta constitucional se levantará el acta correspondiente de la cual
 
 ## TITULO CUARTO. De la Adscripción y Readscripción de Magistrados de Circuito y Jueces de Distrito
 
-### Capítulo I. Disposiciones Generales
+### Capítulo I. Requisitos
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
 Corresponde al Pleno asignar el órgano jurisdiccional en que deberán ejercer sus funciones los magistrados de circuito y jueces de distrito.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
-Los dictámenes que emita el Pleno respecto de adscripción o readscripción, contendrán la valoración de todos los criterios a que se refiere este Acuerdo.
+Los dictámenes que emita el Pleno respecto de adscripción o readscripción, contendrán la valoración de todos los criterios establecidos en la Ley, así como aquéllos que resulten aplicables de los acuerdos generales que regulen la política de adscripciones respecto de titulares de órganos jurisdiccionales.
 
 ###### Artículo 24.
 
@@ -327,7 +439,9 @@ En los casos de adscripción y readscripción en órganos especializados, ademá
 
 Cualquier situación no prevista en este Título será resuelta por el Pleno, a propuesta de la Comisión de Adscripción.
 
-### Capítulo II. De los Cursos del Instituto
+### Capítulo II. Puntos de acceso a la función jurisdiccional
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
@@ -339,9 +453,17 @@ II. Los cursos que hayan recibido o impartido en el Instituto;
 
 III. La antigüedad en el Poder Judicial de la Federación o la experiencia profesional;
 
-IV. El desempeño en el Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-V. El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización, acreditados de manera fehaciente.
+IV. El desempeño en el Poder Judicial de la Federación;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+V. El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización, acreditados de manera fehaciente; y
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+VI. Los vínculos y relaciones familiares dentro del Poder Judicial de la Federación, en caso de existir.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
@@ -389,7 +511,9 @@ I. El candidato que haya obtenido la mayor calificación en el concurso de oposi
 
 II. Los cursos del Instituto serán valorados de la siguiente manera:
 
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, o los cursos equivalentes que imparta el Instituto: dos puntos;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+a) Cursos equivalentes que imparta el Instituto: dos puntos;
 
 b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: dos puntos; y
 
@@ -419,7 +543,9 @@ a) Doctorado: dos puntos;
 
 b) Maestría: uno punto cinco puntos;
 
-c) Especialidad y diplomado: un punto;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+c) Diplomado: un punto;
 
 d) Otros cursos: cero punto cinco puntos;
 
@@ -449,11 +575,21 @@ En caso de reincidencia, los puntos se multiplicarán por dos.
 
 Siempre que no se hayan impuesto nuevas medidas disciplinarias, los puntos a descontar irán disminuyendo con el paso del tiempo, de conformidad con lo siguiente: a los cinco años de que la medida disciplinaria se haya impuesto, los puntos se multiplicarán por un factor de 0.7; a los siete años por un factor 0.5; y después de diez años, por un factor de 0.3. Transcurridos quince años sin otra sanción disciplinaria, dejarán de considerarse los puntos desfavorables.
 
-### Capítulo III. De los Exámenes de Aptitud
+### Capítulo III. Listas de acceso a la carrera judicial
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
 Corresponde al Consejo asignar los cambios de adscripción de los magistrados de Circuito y jueces de Distrito, tomando en consideración los elementos previstos en el artículo 120 de la Ley, de conformidad con las necesidades del servicio y a las solicitudes de los titulares.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+En ningún caso se adscribirá o readscribirá a un titular al órgano jurisdiccional en el que se encuentre adscrito un servidor público con el que tenga relación familiar; o de pareja o; al que le preste servicio una oficina de correspondencia común o unidad de notificadores común, en la que se encuentre adscrito un servidor público en la misma situación, ni al Circuito donde trabajen tres o más personas con quienes tenga un vínculo familiar, ya sea en órganos jurisdiccionales o en áreas administrativas del Consejo. En el Primer Circuito la prohibición de adscripción o readscripción se actualiza, cuando existan cuatro o más familiares, en atención a la concentración de oficinas administrativas en la Ciudad de México.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+Cuando el motivo de la adscripción o readscripción tenga en su núcleo el componente de género, o cuando se estime que existen razones humanitarias de consideración preferente, el Pleno del Consejo, de manera excepcional, podrá exceptuar la regla establecida en el párrafo anterior.
 
 ###### Artículo 37.
 
@@ -523,17 +659,17 @@ V. Hasta cuarenta puntos al desempeño jurisdiccional, de acuerdo con la product
 
 Para obtener una ponderación detallada de los elementos mencionados en el artículo anterior, su valoración se hará como se establece a continuación:
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 I. Los cursos del Instituto serán valorados de la siguiente manera:
 
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: dos puntos;
+a) Especialidad en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: dos puntos;
 
 b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: dos puntos; y
 
 c) Diplomados, cursos de preparación y capacitación para las distintas categorías judiciales, en la modalidad presencial, así como otros cursos especiales, seminarios y paneles: un punto.
 
 Los cursos enumerados en cada uno de los incisos anteriores, aunque se hayan recibido o impartido más de una ocasión, sólo se contabilizarán una vez, es decir, sólo se podrán obtener, en total, los puntos que en cada inciso se señalan.
-
-El curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efecto de ser valorado.
 
 II. La antigüedad será valorada por el desempeño en cada una de las categorías de la carrera judicial, en los siguientes términos:
 
@@ -685,169 +821,167 @@ Cuando la decisión de la ratificación dependa de un procedimiento disciplinari
 
 El Secretario Ejecutivo de Carrera Judicial comunicará a los magistrados de Circuito y jueces de Distrito, el sentido de la resolución que se dicte en el procedimiento de su ratificación.
 
-## TITULO SEXTO. De los Secretarios y Actuarios
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo IV. De los Nombramientos
+## TITULO SEXTO. Del personal secretarial, actuarial y oficiales judiciales
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo IV. Nombramientos
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 50.
 
-Para poder ser designado Actuario de Tribunal de Circuito o Juzgado de Distrito se requiere lo siguiente:
+Para poder ser designado secretaria o secretario de tribunal o de juzgado, secretaria o secretario instructor de Tribunal Laboral Federal, así como asistente de constancias y registro de tribunal de alzada, de juez de control o de juez de enjuiciamiento, debe cumplirse con los requisitos siguientes:
 
-I. Ser de nacionalidad mexicana;
+I. Ser ciudadanos mexicanos, en pleno ejercicio de sus derechos;
 
-II. Encontrarse en pleno ejercicio de sus derechos;
+II. Contar con título y cédula profesional de licenciatura en Derecho expedido legalmente;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA LOS ARTÍCULOS 50 Y 51 DEL ACUERDO GENERAL DEL PROPIO PLENO, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 14 DE JULIO DE 2016)</small>
+III. Gozar de buena reputación y, no haber sido condenado mediante sentencia ejecutoriada por delito doloso con sanción privativa de libertad mayor de un año; y
 
-III. Tener título y cédula profesional de licenciado en derecho, expedidos por autoridad competente;
+IV. Experiencia profesional mínima de tres años y haber laborado un año como actuario u oficial judicial o haber realizado funciones similares con un cargo análogo en el Poder Judicial de la Federación.
 
-IV. Haber aprobado el examen de aptitud o de categoría superior;
-
-V. Gozar de buena reputación;
-
-VI. No haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año; y
-
-VII. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-Para poder ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se requiere lo siguiente:
+Para poder ser designado secretario proyectista deberá cumplirse con los requisitos del artículo anterior, y contar con la experiencia profesional mínima de tres años, sin que sea exigible la experiencia previa en la carrera judicial.
 
-I. Ser de nacionalidad mexicana;
-
-II. Encontrarse en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA LOS ARTÍCULOS 50 Y 51 DEL ACUERDO GENERAL DEL PROPIO PLENO, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 14 DE JULIO DE 2016)</small>
-
-III. Tener título y cédula profesional de licenciado en derecho, expedidos por autoridad competente;
-
-IV. Tener experiencia profesional mínima de tres años;
-
-V. Haber aprobado el examen de aptitud, la especialidad o el curso correspondiente;
-
-VI. Gozar de buena reputación;
-
-VII. No haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año; y
-
-VIII. Manifestar bajo protesta de decir verdad no estar inhabilitado para el ejercicio de un empleo, cargo o comisión en el servicio público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 52.
 
-La experiencia profesional de tres años requerida para ser designado Secretario de Tribunal de Circuito o de Juzgado de Distrito, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento, se computará a partir de la fecha en que el aspirante haya aprobado su examen profesional para obtener título de licenciado en derecho, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
+La experiencia de tres años mencionada en el artículo 50, fracción IV, se computará a partir de la fecha en que la persona aspirante haya aprobado su examen profesional para obtener el título de la licenciatura en Derecho o bien, a partir de su experiencia laboral afín a dicha carrera, debidamente comprobada.
 
-I. Que antes de titularse el aspirante haya laborado en órganos jurisdiccionales del Poder Judicial de la Federación o en el Consejo, independientemente de la categoría que tenga o del cargo que desempeñe; debiendo tener, en cualquier caso, una antigüedad de cuando menos tres años; y
-
-II. Que el Magistrado de Circuito o Juez de Distrito solicitante manifieste que el aspirante a ocupar la plaza posee práctica profesional de más de tres años.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 53.
 
-Los cursos serán impartidos por el Instituto, de conformidad con las disposiciones de su propio reglamento.
+Para poder ser designado actuario, es necesario cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II. Contar con título y cédula de licenciatura en Derecho expedido legalmente;
+
+III. Gozar de buena reputación y no haber sido condenado mediante sentencia ejecutoriada por delito doloso con sanción privativa de libertad mayor de un año; y
+
+IV. Haber laborado un año como oficial judicial o haber realizado funciones similares con un cargo análogo en el Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 54.
 
-Tendrán el carácter de cursos regulares del Instituto, los de Especialidad, Curso para Secretarios y Curso para Actuarios.
+Para ser designado oficial judicial, es necesario cumplir con los requisitos siguientes:
 
-Tendrán el carácter de cursos especiales, cualesquiera otros distintos a los cursos regulares. El Instituto, sólo podrá impartir cursos especiales, previa aprobación de la Comisión.
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II. Contar con título y cédula de licenciatura en Derecho expedido legalmente; y
+
+III. Gozar de buena reputación y no haber sido condenado mediante sentencia ejecutoriada por delito doloso con sanción privativa de libertad mayor de un año.
+
+Excepcionalmente, podrán ingresar aquellas personas que aún no cuenten con título, siempre y cuando formen o hayan formado parte durante el año inmediato anterior a su designación, de los programas de servicio social, prácticas profesionales o prácticas judiciales que impulsa el Consejo, en cuyo caso serán aplicables las especificaciones que contengan los manuales generales de puestos aplicables. Las personas que hubiesen realizado servicio social o prácticas en las áreas administrativas del Consejo deberán acreditar el curso de inducción, en la forma y términos que indique el Instituto.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 55.
 
-La Especialidad será de tiempo completo y tendrá una duración de seis meses. Se impartirá exclusivamente en la sede central del Instituto.
+Para el acceso a las categorías de secretarios de tribunales y juzgados, actuarios y oficiales judiciales es necesario aprobar los exámenes de aptitud que determine el Instituto, con excepción de los nombramientos que correspondan a las personas que realizaron servicio social, prácticas judiciales o profesionales, dentro del año inmediato anterior a su designación como oficial judicial, conforme a lo establecido en el artículo 69 de este Acuerdo. Para estos efectos, se entenderá que han aprobado el examen de aptitud las personas que resulten vencedoras en los concursos de oposición a alguno de esos cargos o hayan aprobado con una calificación mínima de 8.5 los cursos que para tal efecto organice el Instituto.
 
-El Curso para Secretarios tendrá una duración de un año, debiendo los alumnos asistir dos horas diarias. Este curso se impartirá tanto en la sede central, como en las extensiones del Instituto.
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-Los alumnos del Curso para Secretarios y de la Especialidad deberán cumplir con los requisitos previstos en los artículos 51 y 52 de este Acuerdo y, además, presentar un examen de admisión en la fecha que para tal efecto determine el Instituto.
+#### Sección primera. Cursos
 
-El Curso para Actuarios se impartirá exclusivamente en la modalidad virtual. Los alumnos de este curso deberán cumplir con los requisitos previstos en el artículo 50 de este Acuerdo.
-
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 56.
 
-El Plan de Estudios de la Especialidad, será elaborado por el Comité Académico del Instituto, en coordinación con el Director General. En dicho documento deberán especificarse las habilidades, conocimientos y aptitudes básicas de los alumnos, indispensables para desempeñar el cargo de secretario de órgano jurisdiccional, así como Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control o de juez de enjuiciamiento.
+Los cursos serán impartidos por el Instituto de conformidad con las disposiciones que éste expida. La formación del personal de la carrera judicial deberá plantearse desde un enfoque transversal teniendo el objetivo de desarrollar y consolidar las competencias de las servidoras públicas o los servidores públicos de la carrera judicial con independencia de su función. Por lo tanto, el método pedagógico priorizará los conocimientos comunes a todas las funciones.
+
+Tendrán el carácter de cursos regulares en el Instituto, los cursos para secretarios de tribunal, secretarios de juzgado y actuarios, y el curso básico de género.
+
+Tendrán el carácter de cursos especiales, cualesquiera distintos a los cursos regulares, en cuyo caso es necesaria la aprobación del Director del Instituto.
+
+El Comité Académico deberá aprobar el Plan Anual de Capacitación Administrativa y Jurisdiccional, que contendrá las líneas generales de trabajo en materia administrativa y jurisdiccional que servirán como marco de actuación para que el Director del Instituto autorice los cursos y programas académicos específicos que considere pertinentes.
+
+Los Programas o Planes Anuales de Capacitación deberán contar con el visto bueno, respectivamente, de la Comisión de Carrera Judicial tratándose del de Capacitación Jurisdiccional, y de la Comisión de Administración tratándose del de Capacitación Administrativa.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 57.
 
-El Plan de Estudios del Curso para Secretarios, deberán tener como objetivo el desarrollo de las habilidades, conocimientos y aptitudes básicas especificadas en el Plan de Estudios de la Especialidad.
+Los cursos para secretarios de tribunal, secretarios de juzgado, actuarios y oficiales judiciales se realizarán conforme a lo establecido en los instrumentos normativos del Instituto y en los lineamientos que para tal efecto apruebe el Comité Académico. Los cursos podrán llevarse a cabo en la modalidad presencial, a distancia o mixta, según se considere pertinente.
 
-El Plan de Estudios del Curso para Secretarios, que se imparta tanto en la sede central como en las extensiones, será elaborado por el Comité Académico del Instituto, en coordinación con el Director General.
+Las y los alumnos del curso para secretarios de tribunal y secretarios de juzgado deberán cumplir con los requisitos previstos en los artículos 50 y 52 de este Acuerdo y, además, presentar un examen de admisión en la fecha que para tal efecto determine el Instituto.
+
+Las y los alumnos del curso para actuarios deberán cumplir con los requisitos previstos en el artículo 53 de este Acuerdo, así como con los requisitos de acceso que el Instituto determine.
+
+El Instituto remitirá a la Dirección General de Recursos Humanos la constancia de los cursos que hayan impartido o recibido las y los servidores públicos del Poder Judicial de la Federación, a efecto de que sean agregados al expediente personal respectivo, de manera sucesiva y cronológica, según la presentación que conste en el sello respectivo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 58.
 
-El Instituto remitirá a Recursos Humanos constancia de los cursos que hayan impartido o recibido los servidores públicos del Poder Judicial de la Federación, a efecto de que sean agregados al expediente personal respectivo, de manera sucesiva y cronológica según la presentación que conste en el sello respectivo.
+Los planes de Estudios de los cursos para secretarios, actuarios y cualquier otra categoría de carrera judicial serán aprobados por el Comité Académico del Instituto, a propuesta del Director General. En dichos documentos deberán especificarse las habilidades, conocimientos y aptitudes básicas de los alumnos, indispensables para desempeñar las categorías a que se refiere este capítulo, así como la de asistente de constancias y registro de tribunal de alzada, de juez de control o de juez de enjuiciamiento.
+
+El Instituto emitirá los instrumentos normativos en los que se señalarán las reglas específicas que servirán de base para la planeación, aprobación y operación de los programas de capacitación que desarrolle.
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+#### Sección segunda. Exámenes de aptitud
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 59.
 
-Los exámenes de aptitud serán aplicados por el Instituto, de conformidad con las disposiciones de su propio reglamento.
+Los exámenes de aptitud serán aplicados por el Instituto, de conformidad con la normativa que éste emita. La documentación respectiva quedará bajo su resguardo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 60.
 
-Los exámenes de aptitud para secretario se practicarán, previa convocatoria, a las personas que propongan los titulares o que demuestren haber acreditado el Curso para Actuario y que reúnan los requisitos previstos en los artículos 51 y 52 de este Acuerdo.
+Los exámenes deberán ser autorizados por el Director del Instituto, conforme a los lineamientos que para tal efecto establezca el Comité Académico. Dichos lineamientos deberán garantizar que el diseño esté orientado a evaluar las habilidades, conocimientos y aptitudes básicas, de forma tal que los aspirantes demuestren su capacidad para realizar las funciones inherentes a las categorías respectivas.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
-
-La documentación que se genere al respecto, quedará en resguardo del Instituto.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 61.
 
-Los exámenes de aptitud para actuario se practicarán, previa convocatoria, a las personas que reúnan los requisitos previstos en el artículo 50 de este Acuerdo.
+Los exámenes para secretarias y secretarios de tribunal de circuito y de juzgado de distrito se practicarán a las personas que reúnan los requisitos previstos en los artículos 50 y 52 de este Acuerdo, previa convocatoria que emita el Instituto.
+
+Los exámenes para actuaria o actuario se practicarán a las personas que reúnan los requisitos previstos en el artículo 53 de este Acuerdo, previa convocatoria que emita el Instituto y aprobación del curso virtual.
+
+Los exámenes para oficial judicial se practicarán a las personas que reúnan los requisitos previstos en el primer párrafo del artículo 54 de este Acuerdo, previa convocatoria que emita el Instituto.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 62.
 
-La propuesta de examen para el cargo de secretario o actuario deberá acompañarse de los documentos que acrediten que el aspirante cumple con los requisitos que establecen la Ley y este Acuerdo para ser designado en el cargo.
-
-De no acreditar el examen, los aspirantes para secretario y actuario, podrán inscribirse para sustentar subsecuentes exámenes.
-
-En el caso de que una persona reprobara el examen tres veces, no podrá presentar otro, sino un año después de sustentado el último.
-
-###### Artículo 63.
-
-El acreditamiento de la Especialidad y del Curso para Secretarios, recibidos en la modalidad presencial, se homologan a la aprobación del examen de aptitud para secretario.
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
-
-La documentación que se genere al respecto, quedará en resguardo del Instituto.
-
-### Capítulo II. De las Licencias a Magistrados de Circuito y Jueces de Distrito Para que Asistan a Eventos Académicos Nacionales o Extranjeros
-
-###### Artículo 64.
-
-Los exámenes de aptitud deberán ser aprobados por el Comité Académico y se practicarán regularmente, cada tres meses, en la sede central y en las extensiones del Instituto que determine el Director General. En casos urgentes, cuando se justifique la evaluación, a criterio del Director General, los exámenes podrán practicarse de manera extraordinaria en la sede del Instituto.
-
-###### Artículo 65.
-
-Los exámenes de aptitud, en todo caso, deberán evaluar las habilidades, conocimientos y aptitudes básicas, especificados en el Plan de Estudios de la Especialidad, debiéndose elaborar de forma tal que los aspirantes demuestren su capacidad para elaborar proyectos de resoluciones judiciales.
-
-###### Artículo 66.
-
 En la práctica de los exámenes de aptitud se seguirán las siguientes formalidades:
 
-A más tardar cinco días hábiles antes de la fecha del examen, el Instituto recibirá la propuesta correspondiente junto con la documentación que acredite los requisitos para participar.
+I. Los exámenes podrán llevarse a cabo de forma presencial o bajo la modalidad a distancia.
 
-El día del examen se proporcionará a todos los participantes que hayan cumplido los requisitos, un sobre y una papeleta compuesta de dos partes con un código impreso. Cada sustentante escribirá en esta papeleta los datos que se le soliciten y la firmará; posteriormente, introducirá una de las partes en el sobre, lo cerrará y lo depositará en la urna que se destine para tal efecto. El sustentante conservará la otra parte de la papeleta.
+En el caso del examen bajo la modalidad a distancia, se hará de conocimiento de las personas que hayan cumplido los requisitos, las características del examen, la plataforma tecnológica y las contraseñas para el ingreso a la misma;
 
-El código impreso será la única clave de identificación durante el desarrollo del examen y de la evaluación y deberá constar en cada una de las hojas que se empleen, quedando bajo la responsabilidad del sustentante verificarlo. La omisión de este requisito anulará la hoja respectiva.
+II. Los exámenes tendrán verificativo cuando así lo determine el Instituto;
+
+III. Para los exámenes presenciales, el día del examen se proporcionará a quienes hayan cumplido los requisitos, un sobre y una papeleta compuesta de dos partes con un código impreso. Cada sustentante escribirá en esta papeleta los datos que se le soliciten y la firmará; posteriormente, introducirá una de las partes en el sobre, lo cerrará y lo depositará en la urna que se destine para tal efecto. El sustentante conservará la otra parte de la papeleta.
+
+El código impreso o digital será la única clave de identificación durante el desarrollo del examen y de la evaluación y deberá constar en cada una de las hojas que se empleen, quedando bajo la responsabilidad del sustentante verificarlo. La omisión de este requisito anulará la hoja respectiva.
 
 Una vez depositadas las papeletas, el funcionario designado por el Instituto cerrará la urna, la clausurará con papel sellado y la firmará en presencia de los examinados. La urna se abrirá ante el Director General o, en su caso, por el funcionario que se designe, a efecto de extraer los talones con los códigos de barras y poder así proceder a la calificación del examen. La apertura se realizará en presencia de dos funcionarios del Instituto que fungirán como testigos, levantándose el acta correspondiente.
 
-El uso del nombre, la firma o cualquier otro elemento que pueda servir para revelar la identidad del sustentante anulará el examen.
+El uso del nombre, la firma o cualquier otro elemento que pueda servir para revelar la identidad del sustentante anulará el examen;
 
-### Capítulo I. De la Medalla al Mérito
+IV. El Instituto publicará en su página web el resultado de los exámenes dentro de los cinco días hábiles siguientes a su celebración, previa notificación a las y los titulares que hubiesen realizado propuestas; y
 
-###### Artículo 67.
+V. La falta de acreditación impide la presentación de otro examen hasta que hayan transcurrido seis meses.
 
-El Instituto publicará en los estrados de la sede central y en su página Web el resultado de los exámenes, dentro de los cinco días hábiles siguientes a su celebración.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-El Instituto, en el mes de febrero de cada año, publicará en los estrados de la sede central y en su página Web, una lista en la que se informe el número y nombre de alumnos aprobados y reprobados durante el año, en el examen de aptitud presentado por quienes acrediten el Curso para Secretarios impartido en las propias extensiones. En esta lista se anotará por porcentajes el lugar ocupado por cada una de las extensiones.
-
-La lista a que se refiere el párrafo anterior, será enviada a la Comisión para su registro y conocimiento.
-
-###### Artículo 68.
+###### Artículo 63.
 
 La calificación de los exámenes de aptitud para secretario y actuario serán impugnables a través del recurso de inconformidad.
 
@@ -857,169 +991,253 @@ En caso de que se solicite revisión de examen, ésta se deberá formular dentro
 
 El término para resolver los recursos de inconformidad será de diez días hábiles siguientes a la fecha de su presentación. La resolución será emitida por el Director General y los dos miembros del Comité Académico que por turno correspondan, tomando en consideración el orden alfabético de su primer apellido.
 
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo II. De las Licencias a Magistrados de Circuito y Jueces de Distrito Para que Asistan a Eventos Académicos Nacionales o Extranjeros
+
+###### Artículo 64.
+
+Las personas que aprueben los cursos o exámenes establecidos para acceder a las categorías de secretario, actuario u oficiales judiciales, serán integradas a las Listas que para cada circuito elabore y mantenga actualizada el Instituto, sin perjuicio de que una persona pueda figurar en una o más Listas, según su selección.
+
+Cuando se concursen plazas, se elaborará una lista con los nombres de las personas que hayan resultado vencedoras del concurso.
+
+Las Listas deberán difundirse en la página Web del Instituto y contener a todas las personas que cuenten con la acreditación respectiva, en orden decreciente a partir de la máxima calificación, divididas por circuitos y tipo de vacante, ya sea definitiva o temporal, con base en las cuales se hará la selección y nombramiento respectivo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 65.
+
+El otorgamiento de un nombramiento definitivo tendrá como consecuencia la eliminación del nombre de dicha persona de la Lista. En el supuesto de perder la categoría, cuando la persona tenga la intención de reincorporarse a la Lista, será necesario presentar el examen que proponga el Instituto y conseguir una calificación mínima de 8.5, para que el resultado sirva de referencia en el lugar que deba ocupar la misma.
+
+En relación con las designaciones por motivos de licencias, se habilitará una Lista conformada por las personas que deseen cubrir vacantes temporales, sin perjuicio de que una vez concluido su nombramiento, regresen a ocupar el lugar que les corresponda en las Listas que elija. En el supuesto de que la plaza temporal se vuelva definitiva y no exista otra persona con derecho a basificación o mejor derecho a obtener la base, quien ocupe el cargo podrá obtenerla, siempre que exista el visto bueno de la o el titular.
+
+Las personas que integren las Listas a las que se refiere el artículo anterior y en un periodo de tres años no se hayan desempeñado en alguna de dichas categorías serán dadas de baja de la lista y su certificado caducará, salvo que la Comisión considere que, por razones extraordinarias, no debe aplicar la caducidad referida.
+
+Las personas que hubiesen acreditado el examen para oficial judicial y en un periodo de dos años no se hayan desempeñado como tal, deberán presentar nuevamente el examen de aptitud para reingresar a las Listas.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 66.
+
+El incumplimiento injustificado de los requisitos de algún aspirante durante el procedimiento de selección tendrá como consecuencia la salida de la Lista, sin que ello impida su reincorporación aplicando los criterios del artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+### Capítulo I. De la Medalla al Mérito
+
+#### Sección primera. Designación
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 67.
+
+Para efectos de la atribución prevista en el párrafo tercero, del artículo 97 de la Constitución, las y los titulares cubrirán las plazas de actuario, oficial judicial y de las plazas de secretario de juzgado o tribunal, entre aquellas personas que figuren en el diez por ciento más alto de las listas que publique el Instituto. Para ello, tendrán la posibilidad de solicitar al Instituto la documentación profesional y académica con la que se cuente y entrevistar a las y los posibles candidatos, ya sea de manera presencial o por videoconferencia.
+
+Cuando dos o más titulares seleccionen a un mismo integrante de la lista, deberá atenderse a la opinión de la persona interesada como factor preponderante para su adscripción.
+
+La o el titular sólo podrán seleccionar integrantes de listas de otros circuitos, cuando en la de ese circuito no hubieren personas acreditadas para desempeñarse en la categoría requerida.
+
+El o la titular del órgano jurisdiccional deberá nombrar a la persona que cubrirá la vacante dentro de un plazo de treinta días naturales a partir de que esta se genere, notificando de ello al Instituto en un periodo no mayor a tres días hábiles, a partir de que se genere la vacante. En caso de no hacerlo, el Instituto comunicará a las Secretarías Técnicas de las Comisiones de Administración; Carrera Judicial; y Adscripción, para que éstas tomen nota sobre la organización y administración de los recursos a cargo del titular, para los efectos a que haya lugar.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 68.
+
+La designación de las y los secretarios proyectistas será directa, pero el nombramiento respectivo quedará sujeto a la condición de que la persona contratada apruebe el examen de aptitud dentro de los tres meses siguientes. La remoción de las secretarias y secretarios proyectistas también será directa y sin necesidad de iniciar un procedimiento de cese.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 69.
 
-Los nombres de las personas que hayan acreditado los cursos regulares impartidos por el Instituto, así como el de las personas que hayan aprobado el examen de aptitud, serán integrados a una lista que elaborará y mantendrá actualizada el Instituto, en cumplimiento a lo dispuesto por el segundo párrafo del artículo 115 de la Ley.
+Los nombramientos que correspondan a las personas que realizaron servicio social, prácticas judiciales o profesionales dentro del año inmediato anterior a su designación como oficial judicial, son directos, su contratación se hará por tres meses, dentro de los cuales deberá acreditar el examen de aptitud.
 
-La lista se difundirá en la página Web del Instituto y en los estrados de la sede central, a fin de que los titulares puedan seleccionar y nombrar a las personas que consideren conveniente.
-
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
-
-Las personas que hayan causado baja del Poder Judicial de la Federación por más de tres años, para poder reingresar a los cargos de secretario de tribunal de Circuito o de juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; y de actuario judicial deberán aprobar nuevamente el examen de aptitud a que hace referencia el párrafo segundo del artículo 112 de la Ley o el curso para secretarios.
-
-Los egresados de la Especialidad estarán disponibles para cualquier plaza de la República; y su negativa de trasladarse al lugar donde se les requiera por primera ocasión, tendrá como consecuencia el que sean dados de baja por el Instituto de la referida lista, previa comunicación del titular que los hubiera requerido.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 70.
 
-En el supuesto de que un integrante de la lista que haya sido nombrado secretario o actuario, concluya sus funciones, volverá a formar parte de la misma, siempre y cuando la conclusión de funciones no haya ocurrido por causa grave, debidamente acreditada, a él imputable, en cuyo caso, el titular tendrá la obligación de notificar al Instituto tal circunstancia, para que éste proceda a darlo de baja.
+En cualquier supuesto, la plantilla deberá integrarse observando el principio de paridad de género en cada uno de los cargos o escalafones de los órganos jurisdiccionales, de modo que exista el mismo porcentaje de hombres y de mujeres. En caso de tratarse de un número impar, la diferencia entre género y el otro no podrá ser superior a una persona.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 71.
 
-En términos de lo dispuesto en el artículo 97, párrafo cuarto, de la Constitución, la facultad de selección y nombramiento de secretarios y actuarios de los tribunales de circuito y juzgados de distrito, corresponde a los titulares, conforme a lo que establece la Ley respecto de la carrera judicial.
+Las y los titulares deberán dar aviso a la Dirección General de Recursos Humanos de todos los nombramientos expedidos, dentro de un plazo de quince días naturales, para efectos de control administrativo.
 
-Los titulares extenderán los nombramientos de base o interinos, como secretarios o actuarios, siendo de su exclusiva responsabilidad verificar que los candidatos reúnan los requisitos establecidos en la Ley y en los acuerdos generales del Consejo, debiendo dar el aviso correspondiente a Recursos Humanos sólo para efectos administrativos.
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-Acorde a lo previsto en el artículo 115 de la propia Ley, la aprobación del examen de aptitud o, en su caso, el acreditamiento del curso respectivo, es requisito indispensable para ocupar cualquiera de las categorías mencionadas.
+#### Sección segunda. Otorgamiento de nombramientos y prevención del nepotismo
 
-De aprobar el examen de aptitud, los aspirantes a los cargos de actuario y secretario, propuestos por los titulares, podrán ser nombrados por ellos para cubrir una vacante, y de no existir ésta, serán incluidos en la lista a que se hace referencia en el artículo 69 de este Acuerdo, quedando a disposición de quien los requiera para su nombramiento.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 72.
 
-La circunstancia de que un Magistrado de Circuito o Juez de Distrito adquiera alguno de los parentescos por afinidad o civil, a que se refiere la fracción XI del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos con alguno de los servidores públicos adscritos al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento respectivo, previamente expedido, ni impide que los funcionarios involucrados continúen en el disfrute de sus derechos laborales; con excepción del caso de que se trate del matrimonio celebrado por el titular con uno de esos servidores públicos.
+Considerando la información disponible en el padrón electrónico de relaciones familiares o a partir del conocimiento que adquieran por otras vías, las y los titulares de órganos jurisdiccionales están impedidos para otorgar nombramiento a cualquier persona en los supuestos siguientes:
 
-En el caso de que en algún órgano jurisdiccional o área administrativa del Consejo se hubiese extendido un nombramiento de base, interino o de confianza a persona o personas que fuesen cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos de ningún tipo, respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano jurisdiccional o área administrativa del Consejo, donde se encuentren adscritos sus allegados.
+I. Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;
 
-La contravención a lo dispuesto en el párrafo anterior constituirá causa de responsabilidad administrativa en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, quedando además sin efectos el nombramiento o nombramientos que en su caso se hubiesen otorgado.
+II. Con la que tenga vínculo o relación familiar o de pareja con cualquier servidora o servidor público del órgano jurisdiccional en el que es titular, lo que incluye al resto de titulares en el caso de órganos jurisdiccionales colegiados y al personal de la secretaría de acuerdos;
 
-El titular del órgano jurisdiccional que designe en cualquier cargo a personas que sean cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de otro titular de órgano jurisdiccional o de área administrativa, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos.
+III. Con la que tenga vinculo o relación familiar o de pareja con el titular de un órgano jurisdiccional o área administrativa que previamente haya contratado a una persona con la que el impedido tuvo o tiene relación familiar o de pareja, bajo el mismo concepto previamente aludido. La prohibición prevista en este supuesto será aplicable inclusive cuando pretenda vincularse el movimiento con otro u otros órganos jurisdiccionales o áreas administrativas, siempre que se acredite el vínculo entre los esquemas de contratación y la temporalidad en los nombramientos.
 
-Para efectos de este artículo, por titulares de áreas administrativas se entienden aquellos referidos en el artículo 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+Bajo el criterio adoptado en esta fracción, tampoco podrá otorgarse nombramiento al personal adscrito a un órgano jurisdiccional cuyo titular haya contratado a una persona que tenga un vínculo o relación familiar o de pareja con quien ahora pretende otorgar el nombramiento; y
+
+IV. Persona que tenga vínculo o relación familiar o de pareja con algún titular que haya estado adscrito en los dos años inmediatos anteriores al órgano jurisdiccional donde se pretenda dar el nombramiento.
+
+Con independencia de lo anterior, los titulares de órganos jurisdiccionales deberán abstenerse de construir esquemas de contratación en los que se genere beneficio a una o más personas con las que aquellos u otros titulares tengan vínculo o relación familiar o de pareja, o algún otro conflicto de interés.
+
+La contravención a cualquiera de los supuestos anteriores constituye una causal de responsabilidad administrativa grave para las o los titulares que intervengan en la contratación, incluso mediante la votación del nombramiento en un órgano colegiado. Adicionalmente, cuando se actualice alguno de los supuestos antes mencionados, la situación se hará del conocimiento de la Comisión de Administración para que deje sin efectos el nombramiento respectivo y en su caso, podrá determinarse la readscripción del titular en términos de la normatividad aplicable.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 73.
 
-En los tribunales colegiados de circuito corresponde a cada magistrado la designación de los servidores públicos y demás personal adscrito a su ponencia.
+La circunstancia de que algún titular adquiera vínculo familiar o de pareja con alguna o alguno de los servidores públicos adscritos al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento respectivo, previamente expedido. En el supuesto anterior, deberá actualizarse la declaración electrónica de familiares y, se comunicará a la Secretaría Ejecutiva de Adscripción dentro del plazo de tres días, con la finalidad de valorar la situación del titular.
 
-Para efectos de control administrativo todos los nombramientos serán firmados por el Magistrado Presidente del Tribunal, de conformidad con lo solicitado por el magistrado a cuya ponencia esté adscrita la persona de que se trate. La designación hecha por un magistrado de un tribunal colegiado sólo acarrea responsabilidad a quien la haga, por lo que el presidente no podrá negarse a firmar el nombramiento respectivo.
+Cuando el vínculo familiar o de pareja se adquiera entre personas adscritas a un mismo órgano jurisdiccional, y ninguna de ellas sea titular del mismo, el personal deberá hacerlo del conocimiento de dicho titular, para que éste, a su vez, dé el aviso correspondiente a la Dirección General de Recursos Humanos y se actualice la información en el padrón de relaciones familiares.
 
-Los nombramientos correspondientes al Secretario de Acuerdos, al Secretario de Tesis, al encargado del Sistema Integral del Seguimiento de Expedientes, al oficial de partes, a los oficiales de servicios y mantenimiento y demás personal que integre la Secretaría de Acuerdos de un Tribunal Colegiado de Circuito, así como a los servidores públicos de la actuaría, serán firmados por el presidente de éste, de conformidad con lo que previamente acuerde el Tribunal Pleno.
+La contravención a este artículo genera responsabilidad administrativa en términos de la normatividad aplicable.
 
-Los magistrados distribuirán equitativamente las plazas asignadas a la Secretaría de Acuerdos, con excepción del Secretario de Acuerdos, el oficial de partes y el encargado del Sistema Integral del Seguimiento de Expedientes. Las plazas de actuarios y del personal de intendencia podrán incluirse en esta distribución siempre que sean suficientes para asignar una a cada magistrado.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 74.
 
-La Comisión queda facultada para, en los casos no previstos en este Acuerdo, resolver las consultas relativas a nombramientos de actuarios y de secretarios de tribunales de circuito y juzgados de distrito, a propuesta del Magistrado de Circuito o Juez de Distrito respectivo, previa acreditación del examen de aptitud correspondiente.
+La contratación de las personas que tengan vínculo familiar o de pareja con otros titulares, requerirá previamente la opinión no vinculante del Comité de Integridad, la cual formará parte del trámite correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+El Consejo evitará concentrar relaciones familiares cuando se trate de la transferencia de personal por conclusión de funciones de órganos jurisdiccionales, ante casos de readscripción o en supuestos análogos.
+
+El titular del órgano jurisdiccional que, tras conocer la opinión del Comité de Integridad, designe en cualquier cargo a personas que tengan relación familiar o de pareja con otro titular de órgano jurisdiccional o de área administrativa, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos. La omisión genera responsabilidad administrativa en términos de la normatividad aplicable.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 75.
 
-Para expedir un nombramiento de Secretario de Tribunal de Circuito; o de Juzgado de Distrito; así como de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control; o de juez de enjuiciamiento; y de Actuario del Poder Judicial de la Federación, los titulares podrán solicitar al Instituto la información profesional y, en su caso, académica del integrante de la lista que pretendan designar.
+Una vez notificado a un titular de órgano jurisdiccional su cambio de adscripción o reubicación no podrá otorgar ningún nombramiento, salvo aquéllos en los que las personas reúnan los requisitos de basificación.
 
-En caso de que dos o más titulares soliciten informe respecto de un mismo integrante, aquél se remitirá a todos y tendrá preferencia para otorgar el nombramiento el primero que lo solicite, tomando como base la fecha en que se haya recibido la petición correspondiente en el Instituto.
-
-Los titulares tendrán en todo momento la facultad de entrevista o evaluar mediante cualquier otro método de conocimiento al aspirante, previo a su nombramiento.
-
-Si el titular, una vez analizada la información profesional y académica del integrante de la lista que solicitó, decide no otorgarle el nombramiento, deberá informar de las razones para ello al Instituto, para efectos de control administrativo.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
-Los titulares de los tribunales de circuito y juzgados de distrito están facultados para renovar los nombramientos de los secretarios y actuarios de su adscripción, sin necesidad de que éstos presenten el correspondiente examen de aptitud.
+En los tribunales colegiados corresponde a cada magistrado la designación de los servidores públicos y demás personal adscrito a su ponencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+Para efectos de control administrativo, todos los nombramientos serán firmados por el magistrado presidente, de conformidad con lo solicitado por el magistrado a cuya ponencia esté adscrita la persona de que se trate. La designación hecha por un magistrado de un tribunal colegiado sólo acarrea responsabilidad a quien la solicite, por lo que el presidente no podrá negarse a firmar el nombramiento respectivo.
+
+No obstante, si la presidenta o presidente del tribunal tiene conocimiento de la posible actualización de alguno de los supuestos previstos en el artículo 72, deberá dar el aviso respectivo a la Dirección General de Recursos Humanos.
+
+Los nombramientos correspondientes al secretario de acuerdos, al secretario de tesis, al encargado del Sistema Integral del Seguimiento de Expedientes, al oficial de partes, a los técnicos de servicios, y demás personal que integre la Secretaría de Acuerdos de un tribunal colegiado, así como a los servidores públicos de la actuaría, serán firmados por el presidente de éste, de conformidad con lo que previamente acuerde el Tribunal funcionando en Pleno.
+
+Los magistrados distribuirán equitativamente las plazas asignadas a la Secretaría de Acuerdos, con excepción del secretario de acuerdos, el oficial de partes y el encargado del Sistema Integral del Seguimiento de Expedientes. Las plazas de actuarios y del personal de servicios técnicos podrán incluirse en esta distribución, siempre que sean suficientes para asignar una a cada magistrado.
+
+La Comisión queda facultada para, en los casos no previstos en este Acuerdo, resolver las consultas relativas a nombramientos de oficiales judiciales, actuarios y de secretarios de tribunales de circuito y juzgados de distrito, a propuesta del magistrado de Circuito o juez de Distrito respectivo, previa acreditación del curso o examen de aptitud correspondiente siempre y cuando se cumplan con los requisitos previstos en la Ley y en este Acuerdo General.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 77.
+
+Las y los titulares de órganos jurisdiccionales tendrán la obligación de informar los vínculos familiares y de pareja del personal que hubieran contratado, en razón de que es responsabilidad de cada persona informar sus relaciones.
+
+En el caso de los tribunales colegiados, el presidente será el encargado de informar los vínculos familiares del personal que no esté asignado a una ponencia.
+
+Para efectos de lo previsto en los dos párrafos precedentes, cada persona deberá registrar sus propias relaciones en el padrón respectivo, así como informarlas a las y los titulares respectivos. Asimismo, cada persona tendrá la obligación de refrendar y actualizar electrónicamente sus relaciones familiares cada seis meses.
+
+Los periodos para informar y refrendar serán los primeros quince días de los meses de mayo y noviembre de cada anualidad, en términos de la plantilla autorizada hasta el día inmediato anterior. La actualización deberá hacerse dentro de los primeros quince días a partir de la notificación electrónica que se haga en el correo institucional o cuando se tenga conocimiento del vínculo familiar, con excepción del trámite que para titulares y relaciones familiares en el propio órgano prevé el artículo 73 de este Acuerdo.
+
+Las personas que reciban un nombramiento provisional o definitivo, tanto en órgano jurisdiccional como en área administrativa, contarán con 15 días hábiles para registrar la información respectiva en el padrón de relaciones familiares.
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+#### Sección tercera. Actualización y permanencia
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 78.
+
+Todo el personal actuarial y secretarial deberá obtener un certificado de actualización cada cinco años, que expedirá el Instituto, quien llevará el control de su vigencia, el cual les permitirá conservar esas categorías o seguir siendo elegibles para acceder a ellas, en los términos que establezca el Instituto. La falta de certificación deja sin efectos el nombramiento respectivo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 79.
 
 Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de Secretario de Tribunal de Circuito; de Juzgado de Distrito; Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; o Actuario del Poder Judicial de la Federación, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
 En esos casos el nombramiento de base en el cargo procederá si, además, la persona de que se trate reúne los requisitos señalados en los artículos 107 y 109 de la Ley y se cumplen las condiciones establecidas en este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
-
-Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal. Lo mismo se observará en caso de nombramientos de Asistente de Constancias y Registro que extiendan los jueces de Control o juzgadores de tribunales de Enjuiciamiento y de Alzada Interinos.
-
-###### Artículo 78.
-
-Para determinar la antigüedad de más de seis meses con que se debe contar para adquirir un nombramiento de base como secretario o actuario de Tribunal de Circuito o Juzgado de Distrito en un órgano jurisdiccional que cuente con las plazas vacantes en dichas categorías dentro de su plantilla autorizada, se tomará en cuenta el tiempo de servicio efectivamente laborado dentro del propio órgano jurisdiccional, sin considerar los períodos en que se haya disfrutado de licencias sin goce de sueldo, siempre que el servidor público de que se trate, se encuentre laborando en dicho órgano jurisdiccional en la categoría respecto de la cual se plantea la base, en la fecha en que se otorgue el nombramiento.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 79.
-
-La antigüedad de los secretarios y actuarios de tribunales de circuito, juzgados de distrito y tribunales labores federales que hayan sido contratados en plazas de adscripción temporal, se tomará en cuenta para el otorgamiento de nombramientos de base.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 80.
 
-No se considerará plaza vacante aquella en la cual exista una persona con derechos sobre la misma, en razón de licencia o comisión que se encuentre vigente, ni tampoco las autorizadas al órgano jurisdiccional por tiempo determinado para la atención de sobrecargas de trabajo o abatimiento de rezagos.
+Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal. Lo mismo se observará en caso de nombramientos de Asistente de Constancias y Registro que extiendan los jueces de Control o juzgadores de tribunales de Enjuiciamiento y de Alzada Interinos.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 81.
 
-Los actuarios y secretarios de tribunales de circuito y juzgados de distrito que ocupen una plaza con carácter interino, de cuya base sea titular algún servidor público que esté desempeñando otro cargo, y que hubieran ingresado antes de que fueran exigibles los exámenes de aptitud, pueden ser designados para ocupar una plaza vacante de base de igual categoría existente en el mismo o en otro órgano jurisdiccional, de conformidad con lo previsto en el artículo 77 de este Acuerdo.
+Para determinar la antigüedad de más de seis meses con que se debe contar para adquirir un nombramiento de base como secretario de tribunal, secretario de juzgado, actuario u oficial judicial de órganos jurisdiccionales que cuenten con las plazas vacantes en dichas categorías dentro de su plantilla autorizada, se tomará en cuenta el tiempo de servicio efectivamente laborado dentro del propio órgano, sin considerar los períodos en que se haya disfrutado de licencias sin goce de sueldo, siempre que el servidor público de que se trate, se encuentre laborando en dicho órgano jurisdiccional en la categoría respecto de la cual se plantea la base, en la fecha en que se otorgue el nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+Tratándose de tribunales colegiados, Centros de Justicia Penal Federal y Tribunales Laborales Federales, se computará como tiempo de servicio el que una persona sume en distintas ponencias o juzgados, siempre que labore en puestos de la misma clave, conforme a lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-Los derechos laborales de los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito y tribunales laborales federales están garantizados en los términos que señala la Constitución, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y la Ley Orgánica del Poder Judicial de la Federación.
+La antigüedad de los secretarios y actuarios de tribunales de circuito, juzgados de distrito y Tribunales Laborales Federales que hayan sido contratados en plazas de adscripción temporal, se tomará en cuenta para el otorgamiento de nombramientos de base.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-Los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito y tribunales laborales federales que ocupen plazas de base con nombramiento temporal, tendrán derecho a que el titular del órgano jurisdiccional les otorgue el nombramiento de base en el cargo que estén ocupando, siempre que se cumplan las siguientes condiciones:
+###### Artículo 83.
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+No se considerará plaza vacante aquélla en la cual exista una persona con derechos sobre la misma, en razón de licencia o comisión que se encuentre vigente, ni tampoco las autorizadas al órgano jurisdiccional por tiempo determinado para la atención de sobrecargas de trabajo o abatimiento de rezagos.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 84.
+
+Los oficiales judiciales, actuarios y secretarios de tribunales de Circuito y juzgados de Distrito que ocupen una plaza con carácter interino, de cuya base sea titular algún servidor público que esté desempeñando otro cargo, y que hubieran ingresado antes de que fueran exigibles los exámenes de aptitud, pueden ser designados para ocupar una plaza vacante de base de igual categoría existente en el mismo o en otro órgano jurisdiccional, de conformidad con lo previsto en el artículo 79 de este Acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 85.
+
+Los derechos laborales de los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito, Centros de Justicia Penal Federal y Tribunales Laborales Federales están garantizados en los términos que señala la Constitución, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y la Ley Orgánica del Poder Judicial de la Federación.
+
+Los actuarios, secretarios y demás servidores públicos de los tribunales de circuito, juzgados de distrito y Tribunales Laborales Federales que ocupen plazas de base con nombramiento temporal, tendrán derecho a que el titular del órgano jurisdiccional les otorgue el nombramiento de base en el cargo que estén ocupando, siempre que se cumplan las siguientes condiciones:
 
 I. Que hayan sido nombrados en una o más plazas correspondientes a un puesto cuyas labores sean de base;
-
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
 
 II. Que hayan laborado en la o las plazas respectivas de base, ininterrumpidamente, durante más de seis meses, siempre y cuando no exista un trabajador con mejores derechos, pues en ese caso será éste a quien se le deberá otorgar.
 
 No se considerará interrupción el tiempo en que un servidor público se desempeñe en funciones en una plaza de confianza, siempre que al momento del otorgamiento de la base esté ocupando la plaza correspondiente; ni tampoco será menester que se le haya otorgado el nombramiento en la clave que corresponda a la plaza definitiva que se encuentre vacante, sino sólo es requisito que haya ocupado el mismo cargo durante seis meses.
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+Cuando para el otorgamiento de una base existan dos o más personas con derecho a la misma, se estimará que tiene "mejor derecho" quien acumule una antigüedad total mayor, aun cuando se haya generado en distintos nombramientos no consecutivos. En igualdad de circunstancias, deberá integrarse de manera paritaria el órgano jurisdiccional;
 
-III. Que durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra. Se entenderá por nota desfavorable, únicamente, aquella que se imponga con fundamento en los artículos 67 y 68 de las Condiciones Generales de Trabajo de los Servidores Públicos a Cargo del Consejo de la Judicatura Federal, en virtud de haberse afectado el servicio que deba desempeñar el actuario, secretario o servidor público de que se trate.
+III. Que durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra. Se entenderá por nota desfavorable, únicamente, aquélla que se imponga con fundamento en los artículos 67 y 68 de las Condiciones Generales de Trabajo de los Servidores Públicos a Cargo del Consejo de la Judicatura Federal, en virtud de haberse afectado el servicio que deba desempeñar el actuario, secretario o servidor público de que se trate.
 
 En caso de que no se otorgue la base transcurridos los seis meses a que se refiere esta fracción, las notas desfavorables a que se haga acreedor el servidor público después de ese término, también se tomarán en consideración;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+IV. Que durante el tiempo que hayan laborado en la o las plazas de base, no se les hubiere impuesto sanción administrativa que esté firme;
 
-IV. Que durante el tiempo que hayan laborado en la o las plazas de base, no se les hubiere impuesto sanción administrativa que esté firme; y
+V. Que al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacantes en definitiva, es decir, sin titular al que se haya otorgado nombramiento definitivo; y
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
-
-V. Que al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacantes en definitiva, es decir, sin titular al que se haya otorgado nombramiento definitivo.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 19 DE ABRIL DE 2013)</small>
+VI. Sólo pueden tener derecho a acceder a un nombramiento de base quienes, habiendo cumplido los requisitos respectivos, se encuentren trabajando en el órgano jurisdiccional al momento en que se genera la vacante definitiva. No obstante, las y los titulares deberán considerar a aquéllas personas que hayan cumplido todos los requisitos respectivos y cuya adscripción o nombramiento temporal haya concluido antes de que se generase una vacante definitiva, siempre que hayan tenido conocimiento de que su generación antes de la conclusión de la adscripción o nombramiento temporal.
 
 La resolución que niegue la base deberá emitirse por escrito, debidamente fundada y motivada y será notificada personalmente al interesado.
 
-###### Artículo 83.
-
-Los nombramientos para ocupar una plaza vacante de base de secretario o actuario de tribunales de circuito y juzgados de distrito, por servidores públicos que laboren en un órgano jurisdiccional distinto al en que se encuentre dicha vacante, se otorgarán cuando el aspirante tenga la misma categoría y una antigüedad mayor a seis meses ocupando la plaza, de conformidad con lo previsto en la parte final del artículo 77 de este Acuerdo.
-
-###### Artículo 84.
-
-(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
-
-###### Artículo 85.
-
-Los titulares de los tribunales de circuito y de los juzgados de distrito en donde existan vacantes, podrán otorgar nombramientos de actuarios y de secretarios, sin necesidad de someter a los aspirantes a exámenes de aptitud o curso, cuando éstos hayan sido designados para desempeñar el mismo cargo u otro de mayor jerarquía por virtud de un examen anterior.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de oficial administrativo y oficial de servicios y mantenimiento, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B del Artículo 123 Constitucional.
+Los nombramientos para ocupar una plaza vacante de base de actuario o secretario de tribunales de Circuito, juzgados de Distrito, Centros de Justicia Penal Federal y Tribunales Laborales Federales, por servidores públicos que laboren en un órgano jurisdiccional distinto al en que se encuentre dicha vacante, se otorgarán cuando el aspirante tenga la misma categoría en un órgano jurisdiccional de naturaleza análoga y cuente con una antigüedad mayor a seis meses ocupando la plaza, de conformidad con lo previsto en la parte final del artículo 79 de este Acuerdo. De no actualizarse alguno de los requisitos antes mencionados, los nombramientos tienen que hacerse a partir de las Listas que confeccione el Instituto.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 87.
 
-(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)
+Las y los titulares de los tribunales de Circuito, juzgados de Distrito, Centros de Justicia Penal Federal y Tribunales Laborales Federales, en donde existan vacantes, también podrán otorgar nombramientos de actuarios y de oficial judicial, sin necesidad de someter a los aspirantes a exámenes de aptitud o curso, cuando éstos hayan sido designados para desempeñar un cargo u otro de mayor jerarquía por virtud de un examen anterior.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 88.
 
-Cuando haya sido sancionado con cese un servidor público de algún órgano jurisdiccional, podrá otorgársele nuevo nombramiento cuando a criterio del titular, y bajo su responsabilidad, considere que no haya impedimento para hacerlo.
+Cuando haya sido sancionado con cese un servidor público de algún órgano jurisdiccional, podrá otorgársele nuevo nombramiento cuando a criterio del titular, y bajo su responsabilidad, considere que no haya impedimento legal para hacerlo, y siempre que dicha persona se haya reincorporado a las listas que, para tal efecto, integre el Instituto.
 
 ## TITULO SEPTIMO. De las Actuaciones
 
@@ -1186,6 +1404,10 @@ Todo servidor público del Poder Judicial de la Federación para poder faltar te
 ###### Artículo 106.
 
 Toda solicitud de licencia deberá formularse por escrito ante la instancia correspondiente conforme a los términos del presente Acuerdo, expresando las razones que la motiven. El resultado de las solicitudes de licencia deberá extenderse por escrito en el que se hará constar la calificación de las razones aducidas en la solicitud respectiva. En caso de que el órgano competente determine otorgar la licencia solicitada, lo deberá informar a Recursos Humanos.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de solicitudes de licencias personales superiores a diez días de servidores públicos que tengan relaciones de pareja o parentesco por consanguinidad o afinidad dentro del quinto grado con otros titulares de áreas administrativas u órganos jurisdiccionales, deberán contar con la opinión del Comité de Integridad.
 
 ###### Artículo 107.
 
@@ -2264,3 +2486,41 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las plazas de secretarios se regirán por lo siguiente:
+
+- Cada que quede vacante una plaza de secretario de juzgado o tribunal, ésta se transformará en una de secretario proyectista. Dicho ejercicio se repetirá hasta que las plazas de proyectista alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+- Tratándose de plazas de nueva creación, ya sea en órganos jurisdiccionales existentes o en los que eventualmente inicien funciones, se asignarán plazas de secretario proyectista de modo que alcancen el cincuenta por ciento o menos del personal secretarial (en caso de número impar).
+
+El esquema planteado en los párrafos anteriores no aplicará para los Tribunales Laborales Federales, ya que durante su implementación y hasta un año después, todos los secretarios serán nombrados por concurso. Una vez terminado ese periodo, el Instituto organizará exámenes de aptitud específicos sobre la materia laboral, de conformidad con la necesidad de servicio.
+
+CUARTO. Considerando que el pasado 21 de octubre de 2020 se aprobó la transformación de distintas plazas en las nuevas categorías de oficial judicial, la contratación en dichas categorías se realizará conforme a las reglas vigentes con anterioridad a la entrada en vigor del presente Acuerdo, hasta en tanto el Instituto de la Judicatura Federal expida e implemente los lineamientos respectivos.
+
+QUINTO. Respecto al requisito de un año como oficial judicial para ocupar el puesto de secretario de tribunal, secretario de juzgado y actuario judicial, las y los servidores públicos que ocupan u ocuparon estos últimos puestos y que a la entrada en vigor de este Acuerdo no se desempeñaron como oficiales administrativos o cargos análogos en el Poder Judicial de la Federación, podrán complementar o sustituir dicho requisito con la antigüedad que hayan logrado en la carrera judicial, siempre y cuando se presente una carta firmada por el titular del órgano, en la que certifique que la persona correspondiente realizó funciones de oficial dentro del Juzgado o Tribunal.
+
+SEXTO. Las personas que actualmente tienen vigente la acreditación del curso o examen de aptitud a nivel secretarial y actuarial, la conservarán, de modo que su selección y eventual contratación se realice en la forma y términos del presente Acuerdo. La fecha a partir de la cual empezarán a correr los cinco años tras los cuales se deberá tramitar el certificado de actualización comenzará a partir de la entrada en vigor del presente Acuerdo.
+
+En pleno respeto a los derechos laborales del personal jurisdiccional, la consecuencia de la falta de acreditación a los cinco años será aplicable únicamente respecto de las personas que sean contratadas a partir de que el Instituto integre las listas para la selección de oficiales judiciales, actuarias y actuarios, y secretarias y secretarios.
+
+SÉPTIMO. Las prohibiciones a que se refiere el artículo 72 y los nuevos esquemas de selección y contratación del personal sólo aplican para nuevos nombramientos, de modo que la presente reforma no afecta los derechos laborales adquiridos por las personas contratadas con anterioridad a su entrada en vigor y que se ubiquen en dichos supuestos. Consecuentemente, las y los titulares deberán respetar dichos derechos.
+
+OCTAVO. El Instituto de la Judicatura definirá los procesos necesarios para la integración de las Listas dentro de un plazo de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, y tendrá hasta 6 meses después para que éstas queden integradas, de conformidad con lo expuesto en este instrumento.
+
+La caducidad de 3 años a que se refiere el tercer párrafo del artículo 65 comenzará a correr a partir de la entrada en vigor del presente Acuerdo.
+
+NOVENO. Las reformas relativas a los cursos y la aplicación de exámenes de aptitud en modalidad a distancia y las referentes a la normativa interna del Instituto de la Judicatura, producirán efectos hasta 6 meses después de la entrada en vigor del presente Acuerdo, para que el Instituto de la Judicatura lleve a cabo las adecuaciones pertinentes.
+
+DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en vigor cuando se prevean en la Ley Orgánica del Poder Judicial de la Federación. No obstante, las plazas de oficial judicial que ya se crearon administrativamente, operaran conforme a lo aprobado en el Acuerdo con independencia de que su incorporación formal a la Carrera también esté sujeta a lo que diga la Ley.
+
+DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
+
+DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
