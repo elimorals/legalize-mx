@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2020-10-27"
+last_updated: "2020-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -377,7 +377,9 @@ La información publicada por los sujetos obligados en términos del presente or
 
 El sujeto obligado deberá difundir, dentro del primer mes de cada año, un calendario de actualización de la información, por cada contenido y área responsable.
 
-Para la publicación de la información pública de oficio, los sujetos obligados utilizarán formatos de fácil comprensión. Se procurará, en la medida de lo posible, la traducción a lenguas indígenas.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Para la publicación de la información pública de oficio, los sujetos obligados utilizarán formatos de fácil comprensión. Se procurará, en la medida de lo posible, la traducción a lenguas indígenas y afromexicanas.
 
 #### SECCIÓN SEGUNDA. LA INFORMACIÓN PÚBLICA DE OFICIO SUJETA A PUBLICACIÓN
 
@@ -2489,7 +2491,9 @@ III. En materia de relaciones intergubernamentales:
 
 6. Promover la colaboración interinstitucional en la materia bajo los principios de fidelidad estatal y municipal;
 
-7. Coordinarse con las autoridades competentes para que en los procedimientos de acceso a la información, así como los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua, y en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad; y
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+7. Coordinarse con las autoridades competentes para que en los procedimientos de acceso a la información, así como los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y afromexicanas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua, y en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad; y
 
 8. Remitir al órgano garante nacional los recursos de revisión que a juicio del Consejo General, puedan ser del conocimiento de dicho órgano, para que éste, en su caso, ejerza la facultad de atracción.
 
@@ -2964,3 +2968,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente decreto entrará en vigor a los 120 días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las autoridades competentes deberán durante el plazo previsto en el artículo transitorio anterior realizar las adecuaciones técnicas correspondientes para dar cumplimiento a lo previsto en el presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
