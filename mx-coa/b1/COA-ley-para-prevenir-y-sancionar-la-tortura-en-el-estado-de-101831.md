@@ -4,7 +4,7 @@ identifier: "COA-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-101831
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2017-12-26"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -77,7 +77,9 @@ II. Cuando en la tortura intervengan dos o más personas, la pena se aumentará 
 
 III. Cuando el autor intelectual del delito de tortura sea el superior jerárquico del autor o partícipe, la pena se aumentará dos terceras partes; y
 
-IV. Si la tortura es cometida en contra de niños, niñas, adolescentes, mujeres, personas mayores de setenta años, indígenas, personas que no tengan la capacidad para comprender el significado del hecho, o que por sus circunstancias especiales se encuentren en estado de vulnerabilidad, se aumentará la pena en una mitad.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. Si la tortura es cometida en contra de niños, niñas, adolescentes, mujeres, personas mayores de setenta años, miembros de pueblos indígenas o comunidades afromexicanas, personas que no tengan la capacidad para comprender el significado del hecho, o que por sus circunstancias especiales se encuentren en estado de vulnerabilidad, se aumentará la pena en una mitad.
 
 Cuando con motivo de la comisión del delito de tortura concurra cualquier otro delito, se aplicarán las reglas del concurso en términos del Código Penal del Estado de Coahuila de Zaragoza.
 
@@ -328,3 +330,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
