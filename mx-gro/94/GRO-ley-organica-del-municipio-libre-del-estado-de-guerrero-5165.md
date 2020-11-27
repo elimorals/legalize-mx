@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2020-02-18"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -387,9 +387,29 @@ IX.- A solicitud del Comité Gestor, las dependencias de gobierno, de acuerdo a 
 
 Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un muevo (sic) Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento durará 3 años, por lo menos, y será sustituido por aquél que sea elegido en los siguientes comicios ordinarios al término de ese plazo.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+El Congreso del Estado y las autoridades Municipales nombradas, atenderán en el ámbito de sus respectivas competencias, las cuestiones relativas a las Leyes de ingresos y Presupuestos de Egresos, así como a cualquier otra que sea necesaria para que el nuevo Municipio esté debidamente organizado y funcionando
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+En el proceso de entrega recepción entre un Municipio de nueva creación y el Municipio o los Municipios a partir del cual se erige, se distribuirán proporcionalmente los derechos, obligaciones y cargas. Se deberá contar con un estudio financiero-presupuestal, para que el Congreso con el apoyo del Gobierno del Estado determine los criterios de la distribución proporcional de los derechos, obligaciones y en su caso de las deudas.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 13-A.
+
+El Congreso del Estado, cuando así lo resuelvan, por lo menos, el total de las dos terceras partes de sus integrantes, podrá crear municipios, aun cuando no se cuente con la población mínima requerida que establecen las fracciones III y IV del artículo 13 de esta Ley, si reúnen los requisitos siguientes:
+
+I. Si existen solicitudes de creación del municipio presentadas en anteriores legislaturas o en la actual;
+
+II. Si se trata de una zona con densidad socio-económica, cultural, demográfica, geoeconómica y con infraestructura; y con tradiciones, usos, costumbres y trayectoria histórica que la dote de identidad y potencial de desarrollo, que permita que actúe como base para la división territorial y la organización política y administrativa del Estado, y
+
+III. Si para promover la formación del Municipio no se cometieron ilícitos ni se ejecutaron sistemáticamente actos de violencia física o moral contra las autoridades o la ciudadanía.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTICULO 13-B.
 
 El Congreso del Estado será el facultado para decretar la segregación y anexión de localidades dentro del territorio estatal, tomando en consideración lo señalado en el artículo 23 de la Ley número 59, Orgánica de División Territorial del Estado de Guerrero.
 
@@ -407,9 +427,9 @@ e) Acta de Anuencia de segregación política, administrativa y electoral expedi
 
 Si dicha solicitud fuera acreditada de manera favorable, esta deberá ser votada ante el Pleno de esta Soberanía por lo menos con las dos terceras partes de sus miembros.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTICULO 13-B.
+###### ARTICULO 13-C.
 
 El Congreso del Estado podrá suprimir o fusionar municipios cuando exista incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes, comprobándose para tal efecto la falta de su ingreso fiscal y la prestación de los servicios públicos indispensables; ésta se llevará a cabo a solicitud del Ejecutivo del Estado y tomando en consideración las dos terceras partes de los núcleos poblacionales afectados.
 
@@ -4246,3 +4266,15 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 474, POR EL QUE SE REFORMAN LOS ARTÍCULOS 13-A Y 13-B Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 13 Y EL ARTÍCULO 13-C DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
