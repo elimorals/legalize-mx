@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129650
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-10"
-last_updated: "2018-07-10"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2020.
 
 Estatuto publicado en la Sección Cuarta al Número 7 de la Gaceta del Gobierno del Estado de México, el martes 10 de julio de 2018.
 
@@ -159,23 +159,33 @@ El Órgano de Gobierno emitirá los Lineamientos de Sesiones del Órgano de Gobi
 
 El Secretario Técnico es el servidor público que tiene a su cargo las funciones de dirección de la Secretaría Ejecutiva, quien ejercerá las atribuciones previstas en la Ley y en el presente Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Secretario Técnico se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Secretario Técnico se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Dirección General de Vinculación Interinstitucional,
 
-II. Dirección General de Política Anticorrupción,
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+II. Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción,
 
 III. Dirección General de Servicios Tecnológicos y Plataforma Digital,
 
-IV. Unidad de Asuntos Jurídicos,
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-V. Coordinación de Administración y Finanzas, y
+IV. Unidad de Asuntos Jurídicos e Igualdad de Género, y
 
-VI. Órgano Interno de Control.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-La Secretaría Ejecutiva contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+V. Coordinación de Administración y Finanzas.
+
+VI. (DEROGADA, G.G. 27 DE NOVIEMBRE DE 2020)
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría Ejecutiva contará con un Órgano Interno de Control, así como con las demás unidades administrativas que le sean autorizada (sic), cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos, órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normativa aplicable, estructura orgánica y presupuesto autorizados.
 
 ###### Artículo 18.
 
@@ -205,9 +215,17 @@ XI. Implementar políticas de imagen y comunicación institucional de la Secreta
 
 XII. Presidir el Comité Interno de Obra Pública de la Secretaría Ejecutiva;
 
-XIII. Resolver en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables; y aquellas que le encomiende el Órgano de Gobierno.
+XIII. Resolver en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIV. Promover que los planes y programas de la Secretaría Ejecutiva sean realizados con perspectiva de género y respeto a los derechos humanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables; y aquellas que le encomiende el Órgano de Gobierno.
 
 ### CAPÍTULO III. ATRIBUCIONES GENÉRICAS DE LAS Y LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -255,21 +273,35 @@ XVII. Habilitar a los servidores públicos adscritos a la unidad administrativa 
 
 XVIII. Participar en los procedimientos adquisitivos y de enajenaciones a los que sean convocados, de acuerdo con la normatividad aplicable;
 
-XIX. Proponer al Secretario Técnico, la suscripción de acuerdos, convenios y demás actos consensuales tendentes al cumplimiento de los objetivos institucionales que se relacionen con su ámbito de competencia; y
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-XX. Las demás que les confieran la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que les encomiende el Secretario Técnico.
+XIX. Proponer al Secretario Técnico, la suscripción de acuerdos, convenios y demás actos consensuales tendentes al cumplimiento de los objetivos institucionales que se relacionen con su ámbito de competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XX. Implementar en el ámbito de su competencia las medidas tendientes a institucionalizar la perspectiva de género, la igualdad sustantiva, la eliminación de toda forma de discriminación y el respeto a los derechos humanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Las demás que les confieran la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que les encomiende el Secretario Técnico.
 
 ### CAPÍTULO IV. ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, UNIDAD Y COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Dirección General de Política Anticorrupción, el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción, el ejercicio de las atribuciones siguientes:
 
-I. Proponer al Secretario Técnico políticas públicas encaminadas a la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+I. Proponer al Secretario Técnico políticas públicas encaminadas a la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas; así como de fiscalización y control de los recursos públicos;
 
 II. Elaborar y someter a consideración del Secretario Técnico, los anteproyectos de metodologías, indicadores y políticas integrales, a que hace referencia el artículo 36 fracción IV de la Ley;
 
-III. Diseñar y someter a consideración del Secretario Técnico, las propuestas de las evaluaciones de las políticas integrales que se llevarán a cabo;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+III. Diseñar y someter a consideración del Secretario Técnico, las propuestas de las evaluaciones de programas y políticas integrales que se lleven a cabo;
 
 IV. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos que le solicite el Secretario Técnico;
 
@@ -277,11 +309,21 @@ V. Proveer, por conducto del Secretario Técnico, a la Comisión Ejecutiva de lo
 
 VI. Elaborar, impulsar y participar en la ejecución de programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de la agenda del Sistema Estatal Anticorrupción;
 
-VII. Elaborar el anteproyecto de informe anual a cargo del Comité Coordinador, que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas estatales y municipales en la materia, y presentarlo ante el Secretario Técnico;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Diseñar políticas de ética e integridad en el servicio público y coordinar las acciones institucionales de la Secretaría Ejecutiva para tal efecto; y
+VII. Integrar y elaborar el anteproyecto del informe anual a cargo del Comité Coordinador, que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas estatales y municipales en la materia, y presentarlo ante el Secretario Técnico;
 
-IX. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Diseñar políticas y programas para la promoción, fomento y difusión de la ética y cultura de integridad en el servicio público para identificar, evaluar y controlar los riesgos de corrupción, así como coordinar las acciones institucionales de la Secretaría Ejecutiva para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+IX. Diseñar instrumentos de análisis de riesgos cuyos resultados sean el insumo para la elaboración de planes de acción de control con enfoque en la prevención, detección y disuasión de hechos de corrupción y faltas administrativas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+X. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 22.
 
@@ -359,9 +401,11 @@ XIII. Coordinar la implementación de foros, seminarios, pláticas y eventos que
 
 XIV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Unidad de Asuntos Jurídicos, el ejercicio de las atribuciones siguientes:
+Corresponde a la Unidad de Asuntos Jurídicos e Igualdad de Género, el ejercicio de las atribuciones siguientes:
 
 I. Representar legalmente a la Secretaría Ejecutiva en asuntos jurídicos y jurisdiccionales, ante toda clase de autoridades administrativas, judiciales y laborales, que requieran su intervención; así como realizar el oportuno seguimiento de los procedimientos hasta su conclusión, previo mandato que al efecto le otorgue el Secretario Técnico;
 
@@ -375,9 +419,17 @@ V. Dictaminar los aspectos jurídicos de los convenios, contratos, bases de cola
 
 VI. Dictaminar los proyectos de contratos y convenios específicos que le remita la Coordinación de Administración y Finanzas, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones y Servicios; el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable;
 
-VII. Substanciar y emitir proyecto de resolución en cualquier procedimiento administrativo común, especial o innominado que se promueva ante la Secretaría Ejecutiva y que no cuente con un procedimiento específico de tramitación, así como solicitar la suspensión provisional de los actos y resoluciones de la Secretaría Ejecutiva, cuando exista notificación legal de la misma y una causa urgente que así lo justifique, dando cuenta a la brevedad ante el Secretario Técnico; y
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
+VII. Substanciar y emitir proyecto de resolución en cualquier procedimiento administrativo común, especial o innominado que se promueva ante la Secretaría Ejecutiva y que no cuente con un procedimiento específico de tramitación, así como solicitar la suspensión provisional de los actos y resoluciones de la Secretaría Ejecutiva, cuando exista notificación legal de la misma y una causa urgente que así lo justifique, dando cuenta a la brevedad ante el Secretario Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Instrumentar las acciones necesarias para dar cumplimiento a lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres, ambas del Estado de México y demás disposiciones administrativas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+IX. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 25.
 
@@ -473,9 +525,11 @@ Los acuerdos y determinaciones de la Comisión Ejecutiva se tomarán siempre por
 
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LAS Y LOS TITULARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 31.
 
-En los casos de ausencia de hasta quince días por parte del Secretario Técnico, será suplido por la o el titular de la Dirección General de Política Anticorrupción, Unidad de Asuntos Jurídicos, Dirección General de Servicios Tecnológicos y Plataforma Digital, o la Coordinación de Administración y Finanzas, en ese orden.
+En los casos de ausencia de hasta quince días por parte del Secretario Técnico, será suplido por la o el titular de la Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción, Dirección General de Servicios Tecnológicos y Plataforma Digital, Unidad de Asuntos Jurídicos e Igualdad de Género y la Coordinación de Administración y Finanzas, en ese orden.
 
 Tratándose de ausencias temporales o definitivas superiores a quince días por parte del Secretario Técnico, el Órgano de Gobierno determinará la suplencia correspondiente. Tratándose de ausencia definitiva, deberá notificarse al Comité de Participación Ciudadana para los efectos conducentes.
 
@@ -502,3 +556,19 @@ Josefina Román Vergara
 Secretaria Técnica de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción y Secretaria del Órgano de Gobierno
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL, ANTICORRUPCIÓN".]
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, publicado en el Periódico Oficial "Gaceta del Gobierno" el 10 de julio de 2018.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
+
+QUINTO.- La Secretaría Ejecutiva deberá presentar la propuesta de Manual General de Organización dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Acuerdo.
