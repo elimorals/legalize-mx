@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-09-11"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -719,9 +719,11 @@ VIII. Las demás que coadyuven a la protección de la salud.
 
 La Secretaría de Salud del Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, discapacidad y de rehabilitación de personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 53.
 
-Para los efectos del artículo anterior, en los centros de población, se constituirán comités de salud que podrán ser integrados por núcleos de población urbana, rural o indígena los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
+Para los efectos del artículo anterior, en los centros de población, se constituirán comités de salud que serán presididos preferentemente por personas que ejerzan la profesión de médico, cuanto más si acreditan una experiencia mínima de 5 años, e integrados por núcleos de población urbana, rural o indígena los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
 
 ###### Artículo 54.
 
@@ -4126,3 +4128,17 @@ P.O. 11 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 706.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SÉ REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 797.- SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
