@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2020-10-06"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -601,7 +601,9 @@ VI. Programar y ordenar los trabajos del Pleno en los términos de la presente L
 
 VII. Dirigir y encauzar los debates concediendo el uso de la palabra alternadamente en el orden que lo soliciten, en contra o a favor, de conformidad a lo dispuesto en esta ley;
 
-VIII. Exhortar a las y los oradores cuando reiteradamente se aparten del tema a discusión, para que se sujeten a éste y al término máximo para hacer uso de la palabra, que no podrá exceder de diez minutos para la primera intervención y de cinco minutos para las subsecuentes;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Exhortar a las y los oradores cuando reiteradamente se aparten del tema a discusión, para que se sujeten a éste y al término máximo para hacer uso de la palabra, conforme a lo dispuesto en el artículo 190 de la presente ley;
 
 IX. Participar en las discusiones, conforme a las reglas establecidas para las y los demás diputados;
 
@@ -2211,11 +2213,13 @@ La dispensa anterior no se concederá en ningún caso en que la urgencia necesar
 
 Las iniciativas de los Diputados se presentarán al Pleno del Congreso o a la, o el Presidente de la Mesa Directiva, por lo menos veinticuatro horas antes de la sesión, por escrito o vía electrónica y firmadas por su autor o autores.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 168.
 
-Las iniciativas de las y los diputados se publicarán en la Gaceta Parlamentaria a efecto de darles publicidad, y su promovente podrá hacer uso de la tribuna hasta por diez minutos para dar a conocer y explicar de manera general a las y los integrantes de la Legislatura, los motivos, el sentido y los principales aspectos de la iniciativa.
+Las iniciativas de las y los diputados se publicarán en la Gaceta Parlamentaria a efecto de darles publicidad, y su promovente podrá hacer uso de la tribuna hasta por diez minutos para dar a conocer y explicar de manera general y concreta a las y los integrantes de la Legislatura, los motivos, el sentido y los principales aspectos de la iniciativa.
 
-Sólo a petición de la o el promovente y si la mayoría de las y los diputados presentes en la sesión lo aprueban, se dará lectura íntegra a la iniciativa, disponiendo entonces el tiempo que sea necesario.
+Sólo a petición de la o el promovente y si la mayoría de las y los diputados presentes en la sesión lo aprueban, se dará lectura íntegra a la iniciativa, disponiendo entonces el tiempo que ocupe su lectura.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
@@ -2297,19 +2301,51 @@ Las proposiciones con puntos de acuerdo y los pronunciamientos de la agenda legi
 
 Para que las proposiciones con puntos de acuerdo y los pronunciamientos de la agenda legislativa de las y los Diputados puedan ser incluidos en el orden del día de una Sesión del Pleno o la Diputación Permanente, se requiere que los ponentes los presenten por escrito o vía electrónica debidamente suscrito ante la Oficialía Mayor del Congreso, cuando menos veinticuatro horas antes de la sesión correspondiente y se les dará publicidad mediante su publicación en la Gaceta Parlamentaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 182.
 
-En la sesión que corresponda, las proposiciones con puntos de acuerdo se sujetarán al siguiente trámite:
+En la sesión que corresponda, las proposiciones con puntos de acuerdo se sujetarán estrictamente al siguiente trámite:
 
-En los casos de proposiciones con punto de acuerdo que no se presenten como de urgente u obvia resolución, la o el presidente informará de la materia motivo de la proposición, ordenara su inscripción íntegra en el Diario de los Debates y dictará el turno a la comisión que corresponda, sin que proceda intervención o discusión alguna.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-Para fundamentar y explicar las proposiciones presentadas con el carácter de urgente u obvia resolución, la o el autor podrán hacer uso de la tribuna hasta por cinco minutos y de inmediato se procederá a calificarlas de conformidad a lo dispuesto en esta ley.
+En los casos de proposiciones con punto de acuerdo que no se presenten como de urgente u obvia resolución, quien presida la mesa directiva informará de la materia motivo de la proposición, ordenará su inscripción íntegra en el Diario de los Debates y dictará el turno a la comisión o comisiones que corresponda, sin que proceda intervención o discusión alguna.
 
-En caso de no obtener la votación requerida para ser considerada de urgente u obvia resolución, el Presidente dictará el turno a la comisión que corresponda.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-Si la proposición es calificada de urgente u obvia resolución se procederá de inmediato a su discusión y votación y podrá ser aprobada, desechada o turnada a comisión.
+Para fundamentar y explicar las proposiciones presentadas con el carácter de urgente u obvia resolución, la o el autor podrán hacer uso de la tribuna hasta por diez minutos y de inmediato quien presida la mesa directiva ordenará se procederá (sic) a votación para calificarlas de conformidad a lo dispuesto en esta ley.
 
-Una vez sometida a discusión la proposición, podrá ser modificada, parcial o totalmente, a propuesta de una o un diputado, distinto al o los autores, previa autorización del autor o autores del mismo.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+En caso de no obtener la votación requerida para ser considerada de urgente u obvia resolución, quien presida la mesa directiva dictará el turno a la comisión que corresponda según la materia de que se trate.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Si la proposición es calificada de urgente u obvia resolución se procederá de inmediato a su discusión y votación y podrá ser aprobada o desechada.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Una vez sometida a discusión y previo a la votación, la proposición podrá ser modificada, parcial o totalmente, a propuesta de una o un diputado, distinto al o los autores, previa autorización del autor o autores del mismo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Toda propuesta de modificación, adición o eliminación de uno o varios puntos del acuerdo, deberá presentarse por escrito o enviarse a quien presida la mesa directiva, durante la discusión del mismo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Para efectos de lo señalado en el presente artículo, las proposiciones con punto de acuerdo que sean planteadas como de urgente u obvia resolución preferentemente deberán ser aquellas que contengan cualquiera de las siguientes características:
+
+I.- Que impliquen un beneficio de interés general para la población y la resolución de la propuesta permita o abone a la solución de un problema jurídico, político, económico, educativo o social;
+
+II.- Que se relacionen con incumplimientos de las autoridades que causen de manera evidente un daño presente a la población o a un determinado sector o grupo humano;
+
+III.- Que se encuentren relacionados con actos de corrupción, siempre que se aporten elementos de convicción mínimos, o que por hechos notorios se pueda suponer la existencia del acto ilegal;
+
+IV.- Se refieran a asuntos que pongan en riesgo a las personas de sufrir un daño inminente o que ya lo estén resintiendo;
+
+V.- Todos los casos de violaciones evidentes a derechos humanos;
+
+VI.- Que exista el riesgo de que prescriba algún delito, falta administrativa o ilícito; exista el riesgo de caducidad en los términos de la legislación aplicable o un determinado proceso o trámite legal se encuentre suspendido sin causa justificada.
 
 ###### ARTÍCULO 183.
 
@@ -2343,11 +2379,19 @@ Todo proyecto de ley o reforma se discutirá primero en lo general, y después e
 
 Para ordenar el debate la o el Presidente formulará una lista de los diputados que pidan la palabra en contra y otra de los que la pidan en pro, las cuales leerá íntegras antes de comenzar la discusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 190.
 
-Los miembros del Congreso hablarán alternativamente en contra o en pro, llamándolos el Presidente por el orden de las listas, comenzando por el inscrito en contra. Estas intervenciones no podrán exceder de diez minutos. Cuando hayan hablado cuatro oradores en contra y cuatro en pro, el Presidente consultará a la Asamblea si considera suficientemente discutido el tema, en caso afirmativo suspenderá la discusión y ordenará se proceda de inmediato a la votación; en caso negativo abrirá un nuevo turno de dos oradores en pro y dos en contra, al término del cual volverá a consultar a la Asamblea. Así procederá sucesivamente hasta que ésta, considere suficientemente discutido el tema para proceder a la votación.
+Los miembros del Congreso hablarán alternativamente en contra o en pro, llamándolos quien presida la mesa directiva por el orden de las listas, comenzando por el inscrito en contra. Estas intervenciones no podrán exceder de diez minutos. Cuando un orador se registre de nueva cuenta su siguiente intervención no podrá exceder de cinco minutos. Cuando hayan hablado cuatro oradores en contra y cuatro en pro, la o el Presidente consultará a la Asamblea si considera suficientemente discutido el tema, en caso afirmativo se procederá de inmediato a la votación; en caso negativo abrirá un nuevo turno de dos oradores en pro y dos en contra, quienes podrán intervenir hasta por cinco minutos cada uno, al término del cual volverá a consultar a la Asamblea. Así procederá sucesivamente hasta que esta, considere suficientemente discutido el tema para proceder a la votación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 Siempre que algún legislador de los que hayan solicitado la palabra no estuviere presente en el salón cuando le corresponda hablar, se le colocará al final de su respectiva lista.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+En los demás casos en que se verifique una discusión las intervenciones no podrán exceder de cinco minutos.
 
 ###### ARTÍCULO 191.
 
@@ -2421,23 +2465,27 @@ Declarado un proyecto suficientemente discutido en lo general, se procederá a v
 
 En caso de que el proyecto se vote en lo general en sentido negativo se preguntará al Pleno, en votación económica, si vuelve o no todo el proyecto a la Comisión. Si la resolución fuere afirmativa, volverá, en efecto, para que lo reforme, mas si fuere negativa, se tendrá por desechado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 204.
 
-La discusión de los dictámenes con proyectos de ley o decreto en lo particular, implica la reserva de artículos determinados para su análisis.
+La discusión de los dictámenes con proyectos de ley o decreto en lo particular, implica que se podrá llevar a cabo la reserva de artículos determinados para su análisis.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos y tendrán que presentarse por escrito durante la discusión del dictamen.
+Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos y tendrán que presentarse por escrito o enviarse a quien presida la mesa directiva, durante la discusión del dictamen.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-Las reservas se discutirán de la siguiente forma:
+Las reservas se desarrollarán y discutirán de la siguiente forma:
 
-I. La o el legislador que hubiere presentado la reserva intervendrá en principio para exponer las razones que la sustenten;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-II. La o el Presidente formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
+I. La o el legislador que hubiere presentado la reserva intervendrá en principio para exponer las razones que la sustenten y presentará o enviará por escrito su propuesta a quien presida la mesa directiva;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+II. La o el Presidente formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno en la primera ronda y para las subsecuentes, si hubiere más rondas;
 
 III. Después de que hubiesen intervenido hasta tres oradores de la lista, la o el Presidente preguntará al pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, solo si hubieran oradores inscritos, pero la o el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
 
@@ -3586,3 +3634,17 @@ P.O. 6 DE OCTUBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 787.- SE ADICIONA UN OCTAVO PÁRRAFO CON 6 FRACCIONES AL ARTÍCULO 182, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 788.- SE REFORMAN: LA FRACCIÓN VIII DEL ARTÍCULO 48, EL ARTÍCULO 168, LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y SEXTO DEL ARTÍCULO 182, EL ARTÍCULO 190, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, Y LAS FRACCIONES I Y II DEL ARTÍCULO 204; SE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 182 Y UN TERCER PÁRRAFO AL ARTÍCULO 190, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 133; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 133, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
