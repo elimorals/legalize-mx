@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2020-10-07"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 7 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 27 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2519,7 +2519,9 @@ Dirección de lo Jurídico Contencioso
 
 La Dirección de lo Jurídico Contencioso, tiene a su cargo el trámite de los asuntos de carácter litigioso en que el Municipio sea parte. Cuenta con las siguientes atribuciones:
 
-I. Llevar a cabo la defensa jurídica de los intereses del Ayuntamiento y dependencias municipales ante los órganos administrativos, judiciales o jurisdiccionales de cualquier índole y formular ante ellos todo tipo de contestación, recurso, incidentes, ya sean de previo o especial pronunciamiento o de otra índole y, demás actos en los que sea necesario hacer prevalecer y defender los intereses del Municipio en los que sea parte demandante, demandada, tercero interesado o tercero perjudicado, inclusive rendir los informes previos y justificados requeridos, cuando se les señale como autoridades responsables así como designar a los abogados, delegados o autorizados para que funjan como tal ante los referidos órganos administrativos, judiciales o jurisdiccionales;
+> <small>(REFORMADA, G.M. 27 DE NOVIEMBRE DE 2020)</small>
+
+I. Representar legalmente al Ayuntamiento y a las dependencias municipales en cualquier tipo de controversias o litigios y llevar a cabo la defensa jurídica de los intereses del Ayuntamiento y dependencias municipales ante los órganos administrativos, judiciales o jurisdiccionales de cualquier índole y formular ante ellos todo tipo de contestación, recurso, incidentes, ya sean de previo o especial pronunciamiento o de otra índole y, demás actos en los que sea necesario hacer prevalecer y defender los intereses del municipio en los que sea parte demandante, demandada, tercero interesado o tercero perjudicado, inclusive rendir los informes previos y justificados requeridos, cuando se les señale como autoridades responsables así como designar a los abogados, delegados o autorizados para que funjan como tal ante los referidos órganos administrativos, judiciales o jurisdiccionales;
 
 II. Ejercitar, ante las autoridades jurisdiccionales competentes, las acciones judiciales que le indique la Síndica o el Síndico, o la Dirección General Jurídica para la protección y recuperación de los bienes del patrimonio municipal;
 
@@ -6266,3 +6268,11 @@ Segundo. El presente ordenamiento municipal entrará en vigor al día siguiente 
 Tercero. Las consejerías ciudadanas seguirán en funciones hasta en tanto no corresponda su renovación conforme fueron electos, las consejerías ciudadanas tipo A se renovarán en el mes de julio del año siguiente a aquel en que haya iniciado el periodo del Gobierno Municipal y las consejerías ciudadanas B se renovarán en el mes de julio del tercer año siguiente a aquel en que haya iniciado el periodo del Gobierno Municipal.
 
 Cuarto. Una vez publicadas las presentes disposiciones, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
