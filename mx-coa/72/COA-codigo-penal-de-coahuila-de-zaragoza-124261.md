@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-11-17"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO PENAL DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1653,9 +1655,11 @@ IV. (Tiempo, lugar, ocasión y otras circunstancias relevantes a la mayor o meno
 
 Además, otras circunstancias de tiempo, lugar, ocasión o de cualquier otra clase que concurrieron al hecho, y sean relevantes para apreciar la mayor o menor exigibilidad de que la persona sentenciada ajustara su conducta a la norma, dentro del ámbito concreto de su autodeterminación en el delito que cometió o participó.
 
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 V. (Origen o pertenencia de la persona sentenciada)
 
-Cuando la persona sentenciada pertenezca a un grupo étnico o pueblo indígena, también se tomarán en cuenta, sus usos y costumbres que, en su caso, hayan influido en la realización de su conducta injusta, y las posibilidades concretas de que, conforme a su condición, ajustara su conducta a la norma prohibitiva del tipo penal concretado.
+Cuando la persona sentenciada pertenezca a un grupo étnico, pueblo indígena o comunidad afromexicana, también se tomarán en cuenta, sus usos y costumbres que, en su caso, hayan influido en la realización de su conducta injusta, y las posibilidades concretas de que, conforme a su condición, ajustara su conducta a la norma prohibitiva del tipo penal concretado.
 
 Artículo 94 (Individualización de la pena respecto a un delito culposo)
 
@@ -1731,9 +1735,11 @@ VI. (Complicaciones no imputables)
 
 Las circunstancias no imputables a la persona sentenciada, con inclusión de la conducta de una o más personas, que hayan complicado la realización de las maniobras adecuadas para evitar el resultado, o para realizar las indicadas a la disminución del peligro a límites de riesgo permitidos.
 
-VII. (Pertenencia étnica o indígena de la persona sentenciada)
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-Cuando la persona sentenciada pertenezca a un grupo étnico o pueblo indígena, también se tomarán en cuenta, sus usos y costumbres, según hayan influido en su conducta culposa.
+VII. (Pertenencia étnica, indígena o afromexicana de la persona sentenciada)
+
+Cuando la persona sentenciada pertenezca a un grupo étnico, pueblo indígena o comunidad afromexicana, también se tomarán en cuenta, sus usos y costumbres, según hayan influido en su conducta culposa.
 
 Artículo 95 (Grado de punibilidad y principio de congruencia)
 
@@ -7081,13 +7087,33 @@ III. (Regreso de materiales a su lugar de origen, o tratamiento de los mismos)
 
 El regreso de los materiales o residuos a su lugar de origen, o al lugar en que se les dé el debido tratamiento para hacerlos inocuos o de peligrosidad controlada.
 
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. La reparación del daño y/o compensación en los términos de la Ley de Responsabilidad Ambiental del Estado de Coahuila de Zaragoza.
+
 Artículo 431 (Prelación de la reparación del daño en el caso de concurso de delitos)
 
 En el caso de concurso de delitos, en lo referente a la reparación del daño tendrá preferencia la reparación del daño ambiental, con excepción de la reparación del daño a la vida, salud o patrimonio de las personas.
 
 Artículo 432 (Responsabilidad de personas morales)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Las personas morales serán penalmente responsables por los delitos contra el ambiente y el equilibrio ecológico previstos en este Código, de conformidad con lo dispuesto en este Título, el Capítulo Décimo del Título Quinto del Libro Primero de este ordenamiento, del artículo 421 del Código Nacional de Procedimientos Penales y de la Ley de Responsabilidad Ambiental del Estado de Coahuila de Zaragoza. Lo anterior con independencia de la responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Tratándose de responsabilidad de personas morales, se cuadruplicarán los mínimos y máximos de las multas, fijados en este código para una persona física, respecto de los delitos previstos en este Título.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Las cantidades que se obtengan por concepto de las multas por la comisión de los delitos contenidos en este Título, se destinarán al Fondo Estatal de Responsabilidad Ambiental previsto en la Ley de Responsabilidad Ambiental del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 Cuando uno o más de los delitos previstos en este Título sean cometidos a nombre, bajo el amparo o en beneficio de una persona moral y mediante alguna forma de intervención típica de uno o más de sus fundadores, administradores, representantes legales o miembros del consejo de administración, como consecuencia jurídica, a la persona moral se le suspenderá de seis meses a dos años del derecho para realizar la clase de actividad que motivó el delito, así como se le prohibirá obtener o celebrar de dos a cinco años, contratos, convenios, concesiones, permisos o licencias ambientales, de o con cualquier entidad oficial, estatal o municipal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 En su caso, será nula de pleno derecho la obtención o celebración de contratos, convenios, concesiones, permisos o licencias ambientales, realizadas en contravención de la sanción impuesta. Sin perjuicio de imponer las penas de quebrantamiento de sanciones previstas en el último párrafo del artículo 382 de este código, a quien, con alguna de las calidades previstas en el párrafo precedente, haya cometido o participado en el delito que dio pie a la responsabilidad de la persona moral.
 
@@ -8024,3 +8050,35 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 765.- SE REFORMA: EL PRIMER PÁRRAFO DEL ARTÍCULO 226, EL PRIMERO Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 227 Y LA FRACCIÓN I DEL ARTÍCULO 237 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 802.- SE CREA LA LEY DE RESPONSABILIDAD AMBIENTAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días hábiles, contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones realizadas al Código Penal de Coahuila de Zaragoza, entrarán en vigor a los ciento ochenta días hábiles, contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo que no exceda de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado de Coahuila de Zaragoza deberá realizar las adecuaciones necesarias a la legislación estatal.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría deberá expedir las bases y reglas de operación del Fondo Estatal de Responsabilidad Ambiental.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
