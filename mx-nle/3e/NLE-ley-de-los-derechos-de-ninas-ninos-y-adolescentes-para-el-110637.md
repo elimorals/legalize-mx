@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2020-10-26"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -169,9 +169,17 @@ XXXV. Sistema Estatal DIF: el Sistema para el Desarrollo Integral de la Familia 
 
 XXXVI. Sistema Municipal DIF: el Sistema Municipal para el Desarrollo Integral de la Familia;
 
-XXXVII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XXXVIII. Tratados Internacionales: los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXVII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXXVIII. Tratados Internacionales: los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXXIX.- Violencia contra las niñas, niños y adolescentes: Toda forma de maltrato físico o psicológico, de negligencia en su cuidado o de explotación, incluido el abuso, acoso sexual y toda forma de maltrato establecido en el Artículo 150 de esta Ley.
 
 ###### Artículo 5.
 
@@ -1519,9 +1527,17 @@ X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan 
 
 XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su vida privada y datos personales.
+XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su vida privada y datos personales; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIV. Realizar de forma oficiosa y asequible las pruebas psicológicas y de entorno social para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas de violencia.
 
 ###### Artículo 105.
 
@@ -1551,9 +1567,17 @@ III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potesta
 
 IV. Que se preserve su derecho a la vida privada que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables;
 
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VII. Que se admitan las medidas de protección urgentes o cautelares correspondientes, para evitar posibles daños a su integridad personal y cualquier tipo de violencia en su contra.
 
 ###### Artículo 108.
 
@@ -3060,3 +3084,9 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 372. SE REFORMAN LAS FRACCIONES XXXVII Y XXXVIII DEL ARTÍCULO 4; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 104; Y LAS FRACCIONES V Y VI DEL ARTÍCULO 107; Y SE ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 4; LA FRACCIÓN XIV AL ARTÍCULO 104; Y LA FRACCIÓN VII AL ARTÍCULO 107; TODAS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
