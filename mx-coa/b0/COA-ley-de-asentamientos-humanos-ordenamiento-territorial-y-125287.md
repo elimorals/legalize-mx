@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2020-11-17"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -273,7 +273,9 @@ VI. El desarrollo sustentable del Estado;
 
 VII. El desarrollo planificado, participativo y congruente de los procesos de conurbación y de las zonas metropolitanas;
 
-VIII. El mejoramiento de las condiciones de habitabilidad en los asentamientos humanos rurales y comunidades indígenas, respetando sus valores y tradiciones;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. El mejoramiento de las condiciones de habitabilidad en los asentamientos humanos rurales, comunidades indígenas y afromexicanas, respetando sus valores y tradiciones;
 
 IX. La eficiente interacción entre los habitantes y el equipamiento, los servicios y la infraestructura que integran los sistemas de convivencia en los centros de población;
 
@@ -607,7 +609,9 @@ II. La supervisión del financiamiento, construcción y operación de proyectos 
 
 III. El financiamiento y operación de proyectos estratégicos urbanos, habitacionales, industriales, comerciales, recreativos y turísticos;
 
-IV. La ejecución de acciones y obras urbanas para el mejoramiento y conservación de zonas populares de los centros de población y de las comunidades rurales e indígenas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. La ejecución de acciones y obras urbanas para el mejoramiento y conservación de zonas populares de los centros de población y de las comunidades rurales e indígenas y afromexicanas;
 
 V. La protección del patrimonio natural y cultural de los centros de población;
 
@@ -855,7 +859,9 @@ VIII. Las políticas generales para los asentamientos humanos, el ordenamiento t
 
 IX. Los lineamientos y estrategias que orienten la inversión pública y privada a proyectos prioritarios para el desarrollo urbano y de las zonas metropolitanas y áreas conurbadas;
 
-X. Las metas generales en cuanto a la calidad de vida en las zonas metropolitanas y áreas conurbadas, en los centros de población urbanos y rurales, así como en las comunidades indígenas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+X. Las metas generales en cuanto a la calidad de vida en las zonas metropolitanas y áreas conurbadas, en los centros de población urbanos y rurales, así como en las comunidades indígenas y afromexicanas;
 
 XI. Las medidas para el desarrollo sustentable de las regiones del Estado, en función de sus recursos naturales, de sus actividades productivas y del equilibrio entre los asentamientos humanos y sus condiciones ambientales;
 
@@ -4232,3 +4238,11 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 760.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 202 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
