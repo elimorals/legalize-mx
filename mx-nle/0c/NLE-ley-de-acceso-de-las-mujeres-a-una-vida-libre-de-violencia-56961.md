@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2020-07-20"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -81,7 +81,9 @@ IV. Agresor: la persona que inflige cualquier tipo de violencia contra las mujer
 
 V. Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-VI. Perspectiva de género: es una visión científica, analítica y política sobre las mujeres y los hombres, propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas y promueve la igualdad entre los géneros a través de la equidad y bienestar de las mujeres;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 VII. Desarrollo Integral de las Mujeres: proceso mediante el cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía que les permite alcanzar el goce pleno de sus derechos y libertades;
 
@@ -113,13 +115,17 @@ XIII. Transversalidad: acción de gobierno para el ejercicio e implementación d
 
 XIV. Banco Estatal de Datos e información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección,
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
+XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente, y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XVII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -411,7 +417,9 @@ Las personas mayores de doce años de edad, podrán solicitar, a las autoridades
 
 El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-Todas las medidas que lleven a cabo las autoridades estatales y municipales deberán ser realizadas sin discriminación alguna, para que todas las personas puedan acceder a las políticas públicas en la materia.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2018)</small>
 
@@ -753,13 +761,21 @@ VIII. Proporcionar a las mujeres información objetiva que les permita tener ple
 
 IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente Ley,
+XI. Crear un registro sistemático de delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que se tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 37.
 
@@ -1047,11 +1063,15 @@ VI. Contar con un refugio, mientras lo necesite;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o discriminación;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-VIII. En los casos de violencia familiar, acudir a los refugios con sus familiares, niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; y
+VIII. En los casos de violencia familiar, acudir a los refugios con sus hijas e hijos, o bien, con las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio;
 
-IX. Los demás señalados en esta Ley y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
+
+X. Los demás señalados en esta Ley y otras disposiciones legales.
 
 ###### Artículo 46.
 
@@ -1637,28 +1657,16 @@ P.O. 20 DE JULIO DE 2020.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 378. SE REFORMAN LAS FRACCIONES VI, XV Y XVI DEL ARTÍCULO 5; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 25 Y LA FRACCIÓN VIII DEL ARTÍCULO 45; SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 5 Y LA FRACCIÓN IX; RECORRIÉNDOSE LA ACTUAL FRACCIÓN IX PARA SER LA NUEVA FRACCIÓN X DEL ARTÍCULO 45 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 379. SE REFORMA LA FRACCIÓN X Y SE ADICIONAN LAS FRACCIONES XI Y XII RECORRIÉNDOSE LA ACTUAL FRACCIÓN XI PARA SER LA NUEVA FRACCIÓN XIII DEL ARTÍCULO 36 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
 ###### ARTÍCULO ÚNICO.
 
-La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE FEBRERO DE 2017.
-
-> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR LOS QUE “SE REFORMA AL ARTÍCULO 83 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES”.]</small>
-
-Segundo.- En virtud a la presente reforma, cuando en el presente Código u otro ordenamiento jurídico se refieran a alguna participación con la Comisión de Desarrollo Urbano, la misma, se entenderá a la de Desarrollo Urbano y Territorial; las correspondientes a la Comisión de Ecología y Protección Ambiental, se entenderán a la de Ecología y Sustentabilidad; cuando en este Código se señale alguna Comisión con alguna denominación distinta a las contenidas en el artículo 83 que se reforma, se le tendrán asignadas a la Comisión según la materia y el ámbito de su competencia, ello hasta en tanto se reformen las disposiciones legales correspondientes.
-
-Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 13 DE FEBRERO DE 2017.
-
-> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR LO QUE SE "REFORMA AL ARTÍCULO 96 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-Segundo.- En virtud a la presente reforma, cuando en el presente Código u otro ordenamiento jurídico se refieran a las funciones o atribuciones para la Dirección de Planeación, así como las relativas al Desarrollo Urbano, las mismas se entenderán conferidas a la Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal; las correspondientes a la Dirección de Obras Públicas, se entenderán conferidas a la Secretaría de Obras Públicas; las correspondientes a las Direcciones de Seguridad Pública y de Tránsito y Vialidad, se entenderán conferidas a la Secretaría de Seguridad Pública y Vialidad; las correspondientes a la Subdirección de Protección Ambiental y Departamento de Medio Ambiente, se entenderán conferidas a la Secretaría de Medio Ambiente y Sustentabilidad; las correspondientes a la Contraloría Municipal, se entenderán conferidas a la Secretaria de Auditoría Financiera y Fiscalización; las correspondientes a Comunicación Social, se entenderán conferidas a la Dirección de Comunicación y Difusión; las correspondientes a la Dirección de Salud, se entenderán conferidas a la Instancia de Salud Pública; las correspondientes al Comité municipal para el Desarrollo Integral de la Familia y Voluntariado, se entenderán conferidas al Sistema para el Desarrollo Integral de la Familia; cuando en este Código se denomine alguna área como Dirección, las atribuciones o funciones se entenderán conferidas a la Secretaria o Instancia que corresponda, según el ámbito de su competencia, ello hasta en tanto se reformen las disposiciones legales correspondientes.
-
-Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 19 DE MARZO DE 2018.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DE ACUERDO DE LAS “REFORMAS A LOS ARTÍCULOS 9 Y 96 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES, PARA LA CREACIÓN DE LA INSTANCIA DE LA FERIA DE LOS CHICAHUALES Y EVENTOS ESPECIALES”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-Quinto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
