@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-integral-de-justicia-para-adolescentes-del-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2020-03-27"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -343,9 +343,9 @@ Corresponde al juez velar sin preferencias ni desigualdades por la defensa adecu
 
 DEFENSA TÉCNICA. Desde el momento de su detención y a lo largo de todo el proceso, el adolescente deberá ser asistido por un defensor especializado; si así lo desea designará a su costa, por sí o por sus padres, tutores o representantes legales a un defensor privado, con cédula profesional que lo acredite como Licenciado en Derecho para que lo asista jurídicamente; deberá estar asistido en todos los actos del proceso, aún los de carácter ministerial y de ejecución de las medidas que le impongan.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-En caso de ser indígenas, extranjeros, personas sordas, personas mudas, o no sepan leer ni escribir, deberán ser asistidos de oficio y en todos los actos procesales, por un defensor que comprenda plenamente su idioma, lengua, dialecto, así como su cultura o bien, de ser necesario, que su defensor sea auxiliado por un perito traductor o intérprete, asignado por la autoridad correspondiente o designado por el adolescente. Cuando el adolescente alegue ser indígena, se acreditará sólo con su manifestación.
+En caso de ser miembros de pueblos indígenas o comunidades afromexicanas, extranjeros, personas sordas, personas mudas, o no sepan leer ni escribir, deberán ser asistidos de oficio y en todos los actos procesales, por un defensor que comprenda plenamente su idioma, lengua, dialecto, así como su cultura o bien, de ser necesario, que su defensor sea auxiliado por un perito traductor o intérprete, asignado por la autoridad correspondiente o designado por el adolescente. Cuando el adolescente alegue ser indígena, se acreditará sólo con su manifestación.
 
 En todo caso el defensor deberá poseer conocimientos en materia penal, procesal penal y de justicia para adolescentes suficientes para brindarle al adolescente una defensa adecuada. A la persona que designe el adolescente o representantes legales será interrogado durante la instancia, bajo protesta de decir verdad, si cumple con las condiciones anteriores. Igualmente, protestará cumplir el cargo con fidelidad y que le brindará al adolescente una defensa adecuada. Se dejará constancia de todo lo anterior. En caso de que no elija su propio defensor, se le nombrará un defensor público.
 
@@ -377,7 +377,9 @@ La autoridad tiene el deber de localizar e informar de manera inmediata a los pa
 
 DERECHO A SER ESCUCHADO. Todo adolescente tendrá derecho a ser escuchado en cualquier etapa del proceso, desde el inicio de la investigación hasta que cumpla con la medida que en su caso le sea impuesta.
 
-El adolescente que no comprenda ni pueda darse a entender en español deberá ser provisto gratuitamente de un traductor o interprete a fin de que pueda expresarse en su propia lengua. Incluso si habla o comprende el español, si se trata de un adolescente indígena, se le nombrará un intérprete en caso de que así lo solicite.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+El adolescente que no comprenda ni pueda darse a entender en español deberá ser provisto gratuitamente de un traductor o interprete a fin de que pueda expresarse en su propia lengua. Incluso si habla o comprende el español, si se trata de un adolescente miembro de un pueblo indígena o comunidad afromexicana, se le nombrará un intérprete en caso de que así lo solicite.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -469,7 +471,9 @@ XI. A contar con un asesor jurídico gratuito en cualquier etapa del proceso, en
 
 XII. A promover y participar en los mecanismos alternos de solución de controversias;
 
-XIII. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del proceso, cuando la víctima u ofendido pertenezcan a un grupo étnico o pueblo indígena o no conozca o no comprenda el idioma español;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del proceso, cuando la víctima u ofendido pertenezcan a un grupo étnico o pueblo indígena o comunidad afromexicana o no conozca o no comprenda el idioma español;
 
 XIV. En caso de tener discapacidad, a que se realicen los ajustes al proceso que sean necesarios para salvaguardar sus derechos;
 
@@ -2873,7 +2877,9 @@ Se deberá alentar que se continúen con estudios no obligatorios y que se apren
 
 El adolescente que presente problemas cognitivos o de aprendizaje tendrá derecho de recibir enseñanza especial. El fomento a la lectura deberá ser incentivado y asegurado por las autoridades competentes.
 
-En la educación que se imparta al adolescente indígena, así como en las demás actividades que realice, deberán tomarse en cuenta los usos y costumbres propios de su pueblo o comunidad.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+En la educación que se imparta al adolescente miembro de un pueblo indígena o comunidad afromexicana, así como en las demás actividades que realice, deberán tomarse en cuenta los usos y costumbres propios de su pueblo o comunidad.
 
 ###### ARTÍCULO 259.
 
@@ -3574,3 +3580,11 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 784.- SE REFORMA LA FRACCIÓN XVI Y XVIII DEL ARTÍCULO 3 Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN III Y 17 FRACCIÓN VI DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 93 PÁRRAFO SEGUNDO APARTADO B FRACCIÓN V Y 94 APARTADO B FRACCIÓN VII DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULO (SIC) 20 PÁRRAFO SEGUNDO Y 169 FRACCIÓN III NUMERAL 7 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN V Y 48 FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN VIII, 18 FRACCIÓN IV Y 35 FRACCIÓN X DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 6 FRACCIÓN IV DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 15 BIS PÁRRAFO PRIMERO FRACCIÓN VI DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 144 PÁRRAFO TERCERO Y 147 FRACCIÓN V DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 7 PÁRRAFO SEXTO, 12 PÁRRAFO TERCERO, 82 PÁRRAFO PRIMERO, 85 PÁRRAFO SEGUNDO Y 145 PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 82 BIS PÁRRAFO TERCERO FRACCIÓN IV DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41 PÁRRAFO PRIMERO, 45 PÁRRAFO SEGUNDO, 53 FRACCIÓN XIII Y 258 PÁRRAFO CUARTO DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 19 PÁRRAFO SEGUNDO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 5 PÁRRAFO PRIMERO FRACCIÓN IV DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 68 PÁRRAFO SEGUNDO DE LA LEY ESTATAL DE EDUCACIÓN; SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
