@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-informacion-estadistica-y-geografica-del-714
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-22"
-last_updated: "2009-12-22"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 22 de diciembre de 2009.
 
@@ -83,7 +83,9 @@ XIV. Subsistemas Estatales de Información: los componentes del Sistema enfocado
 
 XV. Servicio Público Estatal de Información Estadística y Geográfica: se refiere a las actividades mediante las cuales se pone a disposición de los usuarios, la Información generada por el Sistema;
 
-XVI. Unidades: las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, de la Administración Pública Federal, del INEGI, de los poderes Legislativo y Judicial del Estado, que cuenten con atribuciones para desarrollar Actividades Estadísticas y Geográficas, o que cuenten con registros administrativos que permitan obtener Información Estatal.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XVI. Unidades: las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, de la Administración Pública Federal, del INEGI, de los poderes Legislativo y Judicial del Estado, y de los organismos constitucionales autónomos que cuenten con atribuciones para desarrollar Actividades Estadísticas y Geográficas, o que cuenten con registros administrativos que permitan obtener Información Estatal;
 
 #### SECCIÓN SEGUNDA. Autoridades en materia de Información Estadística y Geográfica
 
@@ -97,7 +99,9 @@ Para el cumplimiento del objeto previsto en esta Ley, el Gobernador tendrá las 
 
 I. Dictar las políticas, estrategias, prioridades y restricciones para la captación, generación, integración y organización de la información estadística y geográfica en congruencia con las disposiciones del INEGI y la legislación federal en la materia;
 
-II. Suscribir acuerdos y convenios de coordinación y colaboración, con el gobierno federal, el INEGI, con otras entidades federativas y con los Poderes Legislativo y Judicial del Estado, para impulsar el desarrollo del Sistema Estatal de Información Estadística y Geográfica;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+II. Suscribir acuerdos y convenios de coordinación y colaboración, con el gobierno federal, el INEGI, con otras entidades federativas, con los Poderes Legislativo y Judicial del Estado, y con los organismos constitucionales autónomos para impulsar el desarrollo del Sistema Estatal de Información Estadística y Geográfica;
 
 III. Suscribir acuerdos y convenios con los municipios del Estado, para el establecimiento, operación y desarrollo de los sistemas de información municipales, en términos de esta Ley y que se apliquen normas técnicas y principios homogéneos;
 
@@ -269,9 +273,11 @@ La Coordinación, en acuerdo con el Comité, podrá crear otros Subsistemas que 
 
 #### SECCIÓN TERCERA. Unidades que integran el Sistema Estatal de Información
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-Las Unidades que cuenten con atribuciones para desarrollar actividades estadísticas y geográficas de la Administración Pública Estatal, las de los Poderes Legislativo y Judicial del Estado, de los municipios y las del gobierno Federal y el INEGI, en los términos convenidos, así como otras instituciones académicas o particulares invitadas, se integrarán al Sistema bajo la coordinación, principios y normas que para tales fines establece esta ley y su reglamento, los cuales serán ejecutados por la Secretaría a través de la Coordinación.
+Las Unidades que cuenten con atribuciones para desarrollar actividades estadísticas y geográficas de la Administración Pública Estatal, las de los Poderes Legislativo y Judicial del Estado, de los organismos constitucionales autónomos, de los municipios y las del gobierno Federal y el INEGI, en los términos convenidos, así como otras instituciones académicas o particulares invitadas, se integraran al Sistema bajo la coordinación, principios y normas que para tales fines establece esta ley y su reglamento, los cuales serán ejecutados por la Secretaría a través de la Coordinación.
 
 ###### Artículo 20.
 
@@ -498,3 +504,11 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 791.- SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 2°, LA FRACCIÓN II DEL ARTÍCULO 4° Y EL ARTÍCULO 19 DE LA LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
