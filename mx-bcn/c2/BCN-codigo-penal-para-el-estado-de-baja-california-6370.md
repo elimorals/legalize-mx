@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2020-07-10"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2801,7 +2801,7 @@ Se impondrá prisión de dos a diez años y multa de hasta el equivalente a ocho
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 226.
 
@@ -3013,7 +3013,7 @@ b) Metales fundidos o que hayan sido alterados de su forma comercial, sin que la
 
 ###### Artículo 235.
 
-Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años y de veinte a sesenta días multa, así como suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años, la suspensión o privación de la patria potestad en relación con la víctima o el ofendido y de veinte a sesenta días multa. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
 
@@ -3030,6 +3030,10 @@ No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el oblig
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
 
 Se tendrá por consumado el delito previsto en este artículo, con independencia de si el o los acreedores alimentarios con motivo del incumplimiento del deudor alimentista, obtiene por cualquier medio sus alimentos, los reciben de un tercero o se ven obligados a allegarse de recursos para satisfacer sus requerimientos indispensables, independientemente de que exista o no una determinación o sanción judicial de un juez civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Cuando se trate de casos de reincidencia, la pena señalada en el presente artículo se incrementará hasta en una mitad.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6107,15 +6111,11 @@ P.O. 10 DE JULIO DE 2020.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 574 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+P.O. 27 DE NOVIEMBRE DE 2020.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 114 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 235 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
-
-TERCERO. Las personas candidatas electas en el proceso electoral 2023-2024, en el que se celebre la elección de Ayuntamientos, podrán ejercer el derecho a participar en la elección consecutiva al mismo cargo, en el proceso electoral 2026-2027, cuya elección se celebre el primer domingo de junio del año 2027.
-
-P.O. 17 DE ENERO DE 2024.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 589 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
 
