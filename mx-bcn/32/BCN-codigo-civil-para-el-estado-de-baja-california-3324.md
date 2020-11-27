@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2020-05-29"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -479,27 +479,25 @@ En el registro de nacimiento a que se refiere el párrafo anterior, el Director 
 
 El acta de nacimiento contendrá el año, mes, día, hora, lugar de nacimiento, el sexo, nombre y apellidos que le correspondan, sin que por motivo alguno puedan omitirse; la expresión de si nació vivo o muerto; y el nombre, edad, domicilio y nacionalidad de los padres. Si la solicitud la realizó una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2015)</small>
 
 ###### ARTICULO 59.
 
 Cuando el nacido fuere hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; y los de las personas que hubieren hecho la solicitud, en su caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+Salvo en los casos previstos por este Código, los padres y adoptantes acordarán por mutuo consentimiento el orden en que se registrarán los apellidos que llevará su hijo o hija.
 
-Si el menor ha nacido fuera del matrimonio, en el acta de nacimiento se asentarán los datos del padre, siempre que hubiere suscrito el formato relativo a la declaración de nacimiento referido (sic) el artículo 55 TER de este Código; en caso contrario, será necesario que aquel lo solicite a la Oficialía del Registro Civil, por sí o por apoderado especial constituido en la forma establecida en el artículo 47 de este ordenamiento, haciéndose constar la petición.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+Si el menor ha nacido fuera del matrimonio, en el acta de nacimiento se asentarán los datos del padre, siempre que hubiere suscrito el formato relativo a la declaración de nacimiento referido en el artículo 55 TER de este Código; en caso contrario, será necesario que aquel lo solicite a la Oficialía del Registro Civil, por sí o por apoderado especial constituido en la forma establecida en el artículo 47 de este ordenamiento, haciéndose constar la petición.
 
-El padre y la madre tienen obligación de que su nombre y apellidos figuren en el acta de nacimiento del hijo. Cuando sólo uno de los padres haga la presentación del hijo habido fuera de matrimonio, se pondrán siguiendo al nombre de éste, los dos apellidos del padre o la madre compareciente. Esto será sin perjuicio de la investigación de la paternidad o de la maternidad ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El padre y la madre tienen obligación de que su nombre y apellidos figuren en el acta de nacimiento del hijo. Cuando sólo uno de los padres haga la presentación del hijo habido fuera de matrimonio, se pondrán siguiendo al nombre de éste, los dos apellidos del padre o la madre compareciente. Esto será sin perjuicio de la investigación de la paternidad o la maternidad ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 Cuando los adoptantes opten por sujetarse a la adopción se asentarán en todo lo posible los datos a que hace referencia el artículo 58 del presente Código sin hacer mención de aquella circunstancia.
 
@@ -2291,13 +2289,15 @@ En caso de que no estuviere presente o estándolo se haya rehusado a cumplir con
 
 El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-ARTICULO 320 BIS.- Toda persona a quien, por su cargo, le corresponda atender la orden de descuento de los alimentos o proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a dar trámite a dichas órdenes de descuento y/o a suministrar los datos exactos que le solicite el juez de lo Familiar, dando respuesta dentro del término de tres días; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
+ARTICULO 320 BIS.- Toda aquella persona a quien, por la naturaleza de su responsabilidad laboral corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a proporcionar datos fidedignos que les sean solicitados por el Juez de lo Familiar, de no hacerlo incurrirá en las faltas o sanciones que prevea la ley, además, responderá por los daños y perjuicios que cause.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+Las personas que se resistan injustificadamente a acatar las órdenes judiciales de descuento o auxilien al deudor a ocultar o simular sus bienes o a eludir el cumplimiento de las obligaciones alimentarias, serán responsables en los términos que fijen las leyes aplicables.
 
-El deudor alimentario deberá de informar al juez de lo familiar y al acreedor alimentista cualquier cambio de condiciones a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo o fuente de ingreso, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta, así como el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia establecida y no incurrir en responsabilidad alguna.
+
+En caso de rescisión o de terminación de la relación laboral con el obligado alimentario, la fuente patronal deberá retenerle de su liquidación o del finiquito respectivo, el importe o porcentaje que fije el Juez Familiar, debiendo consignarlo al Juez de lo Familiar dentro del término de tres días posteriores a la conclusión de la relación laboral, para que el Juez lo entregue al acreedor alimentista en la forma y términos que se venía realizando.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -16714,3 +16714,15 @@ P.O. 29 DE MAYO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 113 MEDIANTE EL CUAL APRUEBA LA REFORMA EL (SIC) ARTÍCULO 320 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 115 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
