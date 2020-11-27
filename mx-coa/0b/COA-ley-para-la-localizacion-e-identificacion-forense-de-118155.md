@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-localizacion-e-identificacion-forense-de-118155"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-20"
-last_updated: "2019-06-25"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda, al Número 102 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de diciembre de 2016.
 
@@ -136,6 +136,10 @@ XXX. Unidad de Búsqueda: Unidad de Búsqueda de Personas Desaparecidas de la Fi
 XXXI. Versión Pública: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o la confidencial;
 
 XXXII. Víctima: Aquellas personas físicas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXXIII. Comisión de Búsqueda: Comisión de Búsqueda del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 4.
 
@@ -681,15 +685,23 @@ I. El Fiscal. En caso de no poder asistir, el Fiscal designará a una persona co
 
 II. Titular de la Unidad de Búsqueda de Personas Desaparecidas. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
 
-III. Titular de la Subprocuraduría de Personas Desaparecidas. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-IV. Titular de la Subprocuraduría Ministerial. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
+III. Titular de la Fiscalía de Personas Desaparecidas. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. Titular de la Fiscalía Ministerial. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
 
 V. Titular y un representante de la Dirección General de Servicios Periciales. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
 
 VI. Titular de la CEAV Coahuila. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
 
 VII. Una persona representante de cada uno de los grupos de familias de personas desaparecidas en el Estado de Coahuila de Zaragoza que así lo soliciten.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Titular de la Comisión de Búsqueda del Estado de Coahuila de Zaragoza. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación.
 
 La Mesa Forense, por acuerdo de la mayoría de sus integrantes o por unanimidad de las personas representantes de los grupos de familias, podrá invitar en calidad de observadores o asesores a las instituciones nacionales o internacionales, personas expertas u organizaciones de la sociedad civil relevantes en la materia, cuando así lo solicite alguno de los grupos de familias o las autoridades participantes. Para la participación en la Mesa de Coordinación Forense, cada grupo de familias propondrá una persona de entre sus integrantes para participar en la misma. Asimismo, cada grupo de familias podrá nombrar más personas de entre sus integrantes para que asistan como observadoras a las reuniones de la Mesa Forense.
 
@@ -1620,3 +1632,15 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 790.- SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 42; SE ADICIONAN LA FRACCIÓN XXXIII AL ARTÍCULO 3 Y LA FRACCIÓN VIII AL ARTÍCULO 42, DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a este decreto.
