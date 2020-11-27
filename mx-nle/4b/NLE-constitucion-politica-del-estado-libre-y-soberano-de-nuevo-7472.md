@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-10-26"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -103,7 +103,9 @@ I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas 
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
-III.- Alistarse y servir en la Guardia Nacional conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria y del Estado, así como la tranquilidad y el orden interiores.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+III.- Alistarse y servir en los cuerpos de reserva conforme a la Ley Orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria y del Estado, así como la tranquilidad y el orden interiores.
 
 IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes, inscribiéndose en las Oficinas recaudadoras respectivas, manifestando el valor real de sus propiedades o la importancia de la profesión o giro de que subsistan.
 
@@ -811,11 +813,11 @@ En el año de la elección del Titular del Poder Ejecutivo, el Congreso celebrar
 
 Tanto para la instalación como para la apertura de sesiones del Congreso se requiere la presencia de la mayoría de los diputados, de no reunirse por cualquier causa el quórum necesario, una vez que éste haya sido completado, el Congreso decidirá sobre la manera de compensar las faltas del inicio del período y tomará las providencias necesarias para que la Legislatura se integre en los términos previstos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 57.
 
-Durante la primera quincena del mes de octubre concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en Sesión Solemne, a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guardan el Estado y la Administración Pública. El Presidente del Congreso del Estado dará respuesta en términos generales al informe que rinda el Gobernador. En el año de la elección del Titular del Poder Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
+Durante la primera quincena del mes de octubre asistirá invariablemente al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, y en Sesión Solemne, a la que convocará el propio Congreso, el Ejecutivo rendirá por escrito un informe sobre la situación y perspectivas generales que guardan el Estado y la Administración Pública, y en uso de la palabra expresará los aspectos relevantes del mismo. El Presidente del Congreso del Estado dará respuesta en términos generales al informe que rinda el Gobernador. En el año de la elección del Titular del Poder Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
 
 ###### Art. 58.
 
@@ -2065,7 +2067,9 @@ XI.- Hacer observaciones a cualesquiera ley o disposición del Congreso dentro d
 
 XII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
-XIII.- Como Jefe nato de la Guardia Nacional y de las demás fuerzas del Estado, cuidar de su instrucción con arreglo a las leyes y de que se use de ellas conforme al objeto de su institución.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII.- Como Jefe nato de los cuerpos de reserva y demás fuerzas del Estado, cuidar de su instrucción con arreglo a las leyes y de que se use de ellas conforme al objeto de su institución;
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -2153,7 +2157,9 @@ III.- Hacer observaciones a las leyes constitucionales ni a los actos electorale
 
 IV.- Imponer contribución alguna que no esté prevista por ley o decreto.
 
-V.- Mandar inmediata y personalmente, en campaña, la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+V.- Mandar inmediatamente y personalmente, en campaña, a los cuerpos de reserva y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -3895,11 +3901,11 @@ A nadie se le puede coartar el derecho de asociarse o reunirse pacíficamente co
 
 No se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer peticiones o presentar protestas por actos de alguna Autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 10.
 
-Los habitantes mayores de edad del Estado de Nuevo León, tienen el derecho de poseer armas para su legítima defensa, con excepción de las prohibidas por la Ley y las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. Las leyes determinarán los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas y las penas a las que incurran los que las porten violando dichas disposiciones.
+Los habitantes mayores de edad del Estado de Nuevo León, tienen el derecho de poseer armas para su legítima defensa, con excepción de las prohibidas por la Ley y las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y cuerpos de reserva. Las leyes determinarán los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas y las penas a las que incurran los que las porten violando dichas disposiciones.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2020)</small>
 
@@ -5474,5 +5480,17 @@ P.O. 23 DE OCTUBRE DE 2020.
 P.O. 26 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 365. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3O (SIC) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 383. SE REFORMAN LOS ARTÍCULOS 10, 34 FRACCIÓN III, 85 FRACCIÓN XIII Y 86 FRACCIÓN V, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 384. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
