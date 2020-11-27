@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13981
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-11-23"
+last_updated: "2020-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Trigésima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2019.
 
@@ -513,6 +513,14 @@ Artículo Octavo. Durante los meses de agosto a diciembre del Ejercicio Fiscal 2
 
 En ningún caso el descuento a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Artículo Noveno. Durante los meses de noviembre y diciembre del Ejercicio Fiscal 2020, se otorgará un descuento del 100% en los adeudos de ejercicios fiscales anteriores a que se refieren el artículo 103, fracción II, incisos A y B, por los Derechos por Servicios de Transporte Público, por la renovación o refrendo anual de concesiones de servicio público de autotransporte urbano y foráneo, para las diferentes modalidades, incluyendo sus accesorios, de la Ley de Hacienda del Estado de Michoacán de Ocampo. Dicho descuento se aplicará siempre y cuando se cubran los derechos correspondientes al Ejercicio Fiscal del año 2020. En ningún caso el descuento a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno. Este beneficio fiscal aplicará solamente para una concesión por contribuyente.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+Artículo Décimo. Durante los meses de noviembre y diciembre del Ejercicio Fiscal 2020, se otorgará un descuento del 100% en los adeudos de ejercicios fiscales anteriores a que se refiere el artículo 104 fracción II, incisos A, B, C y D, por los Derechos por Servicios de Registro y Control Vehicular de Transporte Particular, incluyendo sus accesorios, de la Ley de Hacienda del Estado de Michoacán de Ocampo. Dicho descuento se aplicará siempre y cuando se cubran los derechos correspondientes al Ejercicio Fiscal del año 2020. En ningún caso el descuento a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
 El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno, de conformidad con lo dispuesto por la primera parte del artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
@@ -550,3 +558,15 @@ Los acreedores podrán ceder los contratos de crédito correspondientes en los t
 CUARTO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
 
 QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 373 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS NOVENO Y DÉCIMO TRANSITORIOS A LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2020”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese a la Dirección de Recaudación de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado para que se prevean los recursos presupuestales y materiales necesarios para dar cumplimiento al presente decreto.
