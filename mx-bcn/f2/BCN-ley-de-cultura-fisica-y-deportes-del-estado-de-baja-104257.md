@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2018-06-22"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -75,7 +75,7 @@ VIII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas y 
 
 IX.- Diseñar, aplicar y difundir políticas públicas para reconocer, incentivar y premiar a deportistas Bajacalifornianos que hayan destacado en el ámbito local, nacional e internacional, así como a entrenadores, jueces, árbitros, profesionistas de las ciencias aplicadas y demás especialistas que contribuyen al desarrollo de la cultura física y el deporte del Estado;
 
-X.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+X.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos (sic) en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
 XI.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
@@ -269,15 +269,21 @@ XVIII.- Procurar entre instituciones públicas, privadas, organismos deportivos 
 
 XIX.- Procurar aportaciones estatales, federales, o privadas para la adquisición o distribución de material y apoyo para el fomento del deporte;
 
-XX.- Promover programas tendientes a fomentar el deporte para discapacitados en el Estado;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-XXI.- Fomentar la adecuación de infraestructura, para la práctica del deporte para discapacitados.
+XX.- Promover programas tendientes a fomentar el deporte para personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXI.- Fomentar la adecuación de infraestructura, para la práctica del deporte para personas con discapacidad.
 
 XXII.- Otorgar estímulos y reconocimientos a deportistas de alta calidad y mérito que se hayan distinguido por sus resultados en el desarrollo de alguna actividad deportiva;
 
 XXIII.- Operar, administrar y aplicar los recursos federales a su cargo conforme a los lineamientos establecidos en la Ley General y en su Reglamentación;
 
-XXIV.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general, incluyendo políticas dirigidas a la niñez, juventud, discapacitados, personas adultas mayores y actividades físicas autóctonas y tradicionales;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXIV.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general, incluyendo políticas dirigidas a niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores y actividades físicas autóctonas y tradicionales;
 
 XXV.- Vigilar y asegurar a través del COEVED que los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales y Organismos Afines, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal les son delegadas, se realicen con estricto cumplimiento de las disposiciones legales y estatutarias vigentes;
 
@@ -311,17 +317,25 @@ V.- Las estructuras administrativas que se establezcan en el Reglamento Interno 
 
 La Junta de Gobierno será la autoridad administrativa superior del INDE, y quedará integrada por las siguientes dependencias y entidades:
 
-I.- Secretaría de Educación y Bienestar Social del Estado;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+I.- Secretaría de Educación del Estado;
 
 II.- Secretaría General de Gobierno;
 
 III.- Oficialía Mayor de Gobierno;
 
-IV.- Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-V.- Secretaría de Desarrollo Social;
+IV.- Secretaría de Hacienda;
 
-La Junta de Gobierno será presidida por el titular de la Secretaría de Educación y Bienestar Social del Estado.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+V.- Secretaría de Integración y Bienestar Social;
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+La Junta de Gobierno será presidida por el titular de la Secretaría de Educación del Estado.
 
 ###### ARTÍCULO 17.
 
@@ -383,7 +397,7 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos, con residencia m�
 
 II.- Acreditar conocimientos y experiencia en materia de cultura física y deporte para el buen desempeño de su función;
 
-III.- Contar con título y cedula profesional de nivel licenciatura en cualquiera de las áreas que comprendan el estudio de la cultura física y el deporte;
+III.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2020)
 
 IV.- No encontrarse inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
@@ -461,9 +475,11 @@ El INDE no será sujeto del pago de impuestos, derechos, aprovechamientos estata
 
 #### SECCIÓN V. DE SU EXTINCIÓN O FUSIÓN
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 28.
 
-Cuando el INDE deje de cumplir con el objeto para el que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo la opinión de la dependencia Coordinadora de Sector a la cual se adscribe el mismo, propondrá al Ejecutivo Estatal la extinción o fusión de este organismo, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California.
+Cuando el INDE deje de cumplir con el objeto para el que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Hacienda de Baja California, atendiendo la opinión de la dependencia Coordinadora de (sic) Sector a la cual se adscribe el mismo, propondrá al Ejecutivo Estatal la extinción o fusión de este organismo, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES MUNICIPALES EN MATERIA DE CULTURA FÍSICA Y DEPORTE
 
@@ -547,7 +563,9 @@ X.- Promover, organizar y coordinar actividades deportivas en colonias, barrios,
 
 XI.- Promover y organizar permanentemente competencias, juegos y demás eventos deportivos en el municipio, así como identificar, seleccionar y apoyar a talentos deportivos;
 
-XII.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general, incluyendo políticas dirigidas a la niñez, juventud, discapacitados, personas adultas mayores y actividades físicas autóctonas y tradicionales;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XII.- Impulsar y promover la cultura física y la práctica del deporte entre la población en general, incluyendo políticas dirigidas a niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores y actividades físicas autóctonas y tradicionales;
 
 XIII.- Impulsar la constitución y operación de Salones Municipales de la Fama deportiva con el objeto de reconocer a los deportistas que se hayan distinguido por su trayectoria o aportación, siendo un ejemplo a seguir, sin distinción de disciplinas o épocas; y
 
@@ -741,7 +759,9 @@ XI.- Comunicar por escrito al INDE cuando formen parte de organizaciones o clube
 
 XII.- Entrenar y practicar periódicamente su deporte, procurando en todo momento mejorar su desempeño y rendimiento;
 
-XIII.- Conducir su actividad deportiva con honorabilidad y educación dentro y fuera de las instalaciones deportivas, a fin de poder ser un ejemplo para la niñez, juventud y la sociedad bajacalifornianos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII.- Conducir su actividad deportiva con honorabilidad y educación dentro y fuera de las instalaciones deportivas, a fin de poder ser un ejemplo para las niñas, niños y adolescentes, así como la sociedad bajacaliforniana;
 
 XIV.- Respetar dentro y fuera de las instalaciones deportivas, a sus compañeros, adversarios, público, árbitros, comité organizador y cuerpo técnico;
 
@@ -829,7 +849,9 @@ Son facultades del Consejo Estatal:
 
 I. Servir como órgano asesor en materia de la cultura física y el deporte;
 
-II. Evaluar permanentemente la práctica de la cultura física y el deporte en el Estado proponiendo las recomendaciones que considere adecuadas a la SEBS a través del INDE emanada de foros de consulta ciudadana, con el objeto de que se oriente y retroalimente el programa estatal de cultura física y deporte, para el mejor cumplimiento de los fines de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+II.- Evaluar permanentemente la práctica de la cultura física y el deporte en el Estado proponiendo las recomendaciones que considere adecuadas a la Secretaría de Educación a través del INDE emanada de foros de consulta ciudadana, con el objeto de que se oriente y retroalimente el programa estatal de cultura física y deporte, para el mejor cumplimiento de los fines de esta Ley;
 
 III. Será un foro permanente que garantice la participación ciudadana en la toma de decisiones;
 
@@ -875,9 +897,11 @@ Los miembros del Consejo Estatal serán electos por el pleno del SECUDE, para un
 
 Para la elección de los representantes previstos en las fracciones III, IV, V, VI y VII del artículo 58, el INDE deberá expedir, con debida anticipación y difusión, una convocatoria pública abierta en la cual puedan participar todos aquellos aspirantes a integrar el Consejo Estatal de Cultura Física y Deporte.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 60.
 
-Los miembros del Consejo Estatal deberán ser propuestos en el pleno del SECUDE y estar presente para aceptar el cargo, excepto el Presidente en quien recae la responsabilidad al titular del INDE.
+Los miembros del Consejo Estatal, tienen el carácter de honorarios y deberán ser propuestos en el pleno del SECUDE y estar presente para aceptar el cargo, excepto el presidente en quien recae la responsabilidad al titular del INDE.
 
 ###### ARTÍCULO 61.
 
@@ -1033,9 +1057,11 @@ VI.- Contar con registro federal de causantes, expedido por la Secretaría de Ha
 
 Quedarán exentas del cumplimiento de lo dispuesto por la fracción V de este artículo, las asociaciones estatales de Charrería y Juegos y Deportes Autóctonos.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 84.
 
-Para su debida inclusión y seguimiento en el PROCUDE, las Asociaciones Deportivas Estatales deberán entregar al momento de incorporarse al RECUDE la programación de sus actividades, en la que se incluyan la de las ligas deportivas que tengan afiliadas, de conformidad con el reglamento respectivo.
+Para su debida inclusión y seguimiento en el PROCUDE, las Asociaciones Deportivas Estatales deberán entregar dentro de los treinta días siguientes a su registro, al RECUDE, la programación de sus actividades, proyecto social y programa deportivo, en los que se incluyan la de las ligas deportivas que tengan afiliadas, de conformidad con el reglamento respectivo.
 
 #### SECCIÓN III. DEL CONSEJO ESTATAL DE VIGILANCIA ELECTORAL DEPORTIVA
 
@@ -1049,11 +1075,15 @@ El COEVED como órgano técnico del INDE, velará por el ajuste a Derecho de los
 
 El COEVED se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos suplentes designados por el INDE.
 
-La designación deberá recaer en personas con profesión de Licenciado en Derecho con conocimiento en el ámbito deportivo y/o profesionales de nivel licenciatura en cualquiera de las áreas que comprendan el estudio de la cultura física y el deporte, así como reconocido prestigio y calidad moral.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su encargo pudiendo ser ratificados por periodos similares.
+La designación deberá recaer en personas con conocimiento en el ámbito deportivo y cultura física, así como reconocido prestigio y calidad moral.
 
-El funcionamiento, integración y la operación del COEVED “estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.”
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su encargo pudiendo ser ratificados por un periodo más.
+
+El funcionamiento, integración y la operación del COEVED "estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables."
 
 ###### ARTÍCULO 87.
 
@@ -1119,7 +1149,9 @@ VIII.- Formación de especialistas en medicina y ciencias aplicadas al deporte;
 
 IX.- Acciones para prevenir y combatir el uso de sustancias prohibidas y métodos no reglamentarios en el deporte;
 
-X.- Acciones específicas para promover el deporte popular y la activación física entre la niñez, los jóvenes, los adultos mayores, personas con discapacidad, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+X.- Acciones específicas para promover el deporte popular y la activación física entre las niñas, niños y adolescentes, los adultos mayores, personas con discapacidad, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
 
 XI.- Directrices para el fomento, organización y ejecución del deporte en los niveles educativos básico, medio superior y superior;
 
@@ -1255,9 +1287,11 @@ V.- La prevención de acciones nocivas en detrimento de la salud física y menta
 
 VI.- Las demás estrategias que se establezcan en el PROCUDE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 110.
 
-El INDE en coordinación con la Secretaría de Educación y Bienestar Social a través de la Coordinación Estatal de Educación Física, la Federación y los Municipios, diseñará políticas públicas transversales que incorporen la atención y desarrollo de los componentes de la cultura física en el Estado, las cuales serán analizadas y validadas ante el SECUDE para efectos de su aplicación y evaluación.
+El INDE en coordinación con la Secretaría de Educación a través de la Coordinación Estatal de Educación Física, la Federación y los Municipios, diseñará políticas públicas transversales que incorporen la atención y desarrollo de los componentes de la cultura física en el Estado, las cuales serán analizadas y validadas ante el SECUDE para efectos de su aplicación y evaluación.
 
 Asimismo planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
 
@@ -1277,13 +1311,17 @@ Esta Ley considera a la actividad física sistematizada y constante, como medio 
 
 Los miembros del Pleno del SECUDE, planearán las directrices que fomenten la participación de la población en acciones que promuevan la actividad física regular y que coadyuven a incrementar la cultura física.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 115.
 
-El INDE apoyará las actividades que la Secretaría de Educación y Bienestar Social a través de la Coordinación Estatal de Educación Física, promueva para la difusión de los programa de educación física en la entidad.
+El INDE apoyará las actividades que la Secretaría de Educación a través de la Coordinación Estatal de Educación Física, promueva para la difusión de los programas de educación física en la entidad.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 116.
 
-La Secretaria de Educación y Bienestar Social, por conducto de la Coordinación Estatal de Educación Física, diseñará las políticas públicas que tengan como finalidad el hacer más asequible la educación física a la población estudiantil, en los términos de la legislación federal y estatal en materia educativa.
+La Secretaria de Educación, por conducto de la Coordinación Estatal de Educación Física, diseñará las políticas públicas que tengan como finalidad el hacer más asequible la educación física a la población estudiantil, en los términos de la legislación federal y estatal en materia educativa.
 
 ###### ARTÍCULO 117.
 
@@ -1299,13 +1337,19 @@ IV.- Promover una educación física incluyente, sin importar raza, sexo, edad, 
 
 V.- Las demás que dispongan las leyes federales y estatales aplicables en materia educativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 118.
 
-El INDE, en coordinación con la Secretaría de Educación y Bienestar Social y los demás integrantes del SECUDE, promoverá que los planes, programas y políticas en materia de cultura y activación física dirigidas a la población en general, contemplen acciones específicas para los siguientes sectores:
+El INDE, en coordinación con la Secretaría de Educación y los demás integrantes del SECUDE, promoverá que los planes, programas y políticas en materia de cultura y activación física dirigidas a la población en general, contemplen acciones específicas para los siguientes sectores:
 
-I.- Niñez;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
-II.- Personas discapacitadas;
+I.- Niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+II.- Personas con discapacidad;
 
 III.- Personas adultas mayores; y
 
@@ -1373,9 +1417,11 @@ Las autoridades deportivas vigilarán que la infraestructura e instalaciones dep
 
 ### CAPÍTULO III. DE LA ENSEÑANZA, INVESTIGACIÓN Y DIFUSIÓN
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 131.
 
-El INDE promoverá, coordinará e impulsará en coordinación con la Secretaría de Educación y Bienestar Social, las autoridades federales respectivas y los Municipios, la enseñanza, investigación, difusión del desarrollo tecnológico y la aplicación de los conocimientos científicos en materia de activación física, cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+El INDE promoverá, coordinará e impulsará en coordinación con la Secretaría de Educación, las autoridades federales respectivas y los Municipios, la enseñanza, investigación, difusión del desarrollo tecnológico y la aplicación de los conocimientos científicos en materia de activación física, cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 ###### ARTÍCULO 132.
 
@@ -1401,9 +1447,11 @@ Para tal efecto, se apegarán a los lineamientos de la CONADE y la SEP que deter
 
 #### SECCIÓN I. DE LAS CIENCIAS APLICADAS EN GENERAL
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 136.
 
-El INDE en coordinación la Secretaría de Educación y Bienestar Social y las instituciones de educación superior del Estado, promoverá el desarrollo e investigación en las áreas de las ciencias aplicadas al deporte y la cultura física.
+El INDE en coordinación (sic) la Secretaría de Educación y las instituciones de educación superior del Estado, promoverá el desarrollo e investigación en las áreas de las ciencias aplicadas al deporte y la cultura física.
 
 ###### ARTÍCULO 137.
 
@@ -1801,13 +1849,17 @@ IV.- Solicitar la imposición de correcciones disciplinarias y medidas de apremi
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 201.
 
-La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al INDE, así como a los organismos municipales en sus respectivos ámbitos competenciales y de conformidad con su reglamentación municipal.
+La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al Instituto del Deporte y la Cultura Física de Baja California (INDE) y en su caso a la Comisión de Apelación y Arbitraje Deportivo en el Estado (CAADE) así como a los organismos municipales en sus respectivos ámbitos competenciales y de conformidad con su reglamentación municipal.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 202.
 
-Las sanciones administrativas se aplicarán de acuerdo a lo establecido en la Ley de Procedimiento para los Actos de la Administración Pública del Estado, tratándose de sanciones administrativas en el ámbito municipal, se aplicará lo que establece la Ley de Régimen Municipal para el Estado de Baja California y además para los servidores públicos, en su caso, a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las sanciones administrativas se aplicarán de acuerdo con lo establecido en la Ley de Procedimiento para los actos de las (sic) Administración Pública del Estado, tratándose de sanciones administrativas en el ámbito municipal, se aplicará lo que establece la Ley de (sic) Régimen Municipal para el Estado de Baja California y además para los servidores públicos, en su caso, a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### ARTÍCULO 203.
 
@@ -1913,6 +1965,82 @@ b) Suspensión temporal o definitiva de su inscripción al SECUDE.
 
 Contra las resoluciones dictadas con fundamento en las disposiciones de la presente ley y demás derivadas de ésta, podrá interponerse el recurso de revocación que establece la Ley de Procedimiento para los Actos de la Administración Pública del Estado de Baja California y en el caso del ámbito municipal el recurso previsto en la Ley del Régimen Municipal para el Estado de Baja California.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+## TÍTULO NOVENO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO. DE LA COMISIÓN DE APELACIÓN Y ARBITRAJE DEPORTIVO EN EL ESTADO
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 209.
+
+La Comisión de Apelación y Arbitraje Deportivo en el Estado, CAADE, es un organismo desconcentrado de la Secretaria de Educación de Baja California, cuyo objeto es mediar, resolver y fungir como árbitro en las controversias que pudieran suscitarse entre los sujetos a que se refiere el artículo quinto de la Ley de Cultura Física y Deportes del Estado de Baja California.» (sic)
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 210.
+
+El INDE promoverá dentro del seno del RECUDE que los organismos deportivos que se encuentren registrados o pretendan registrarse ante el INDE inserten en sus estatutos y reglamentos, como condición previa a su registro y/o actualización, que se sujetan a las resoluciones de la CAADE.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 211.
+
+Contra las resoluciones del INDE y de los organismos deportivos que impongan sanciones y/o resuelvan los recursos de inconformidad y revocación, procede el recurso de apelación que conocerá y resolverá la CAADE en los términos previstos por las leyes y reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 212.
+
+La CAADE, tendrá las siguientes atribuciones:
+
+I. Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualquiera de los sujetos previstos en el artículo quinto de la Ley de Cultura Física y Deportes del Estado de Baja California, en contra de actos, omisiones, decisiones, acuerdos, procedimientos o resoluciones emitidas por las autoridades y organismos deportivos que afecten los derechos, la dignidad, prerrogativas o estímulos establecidos a favor del recurrente en la presente ley o en los reglamentos que de ella emanen.
+
+El impugnante podrá optar en agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación.
+
+II. Intervenir mediante amigable composición o como árbitro para dirimir las controversias que surjan o puedan suscitarse como consecuencia de la promoción, fomento, organización y desarrollo de actividades deportivas entre los sujetos previstos en el artículo quinto de la Ley de Cultura Física y Deporte del Estado y demás participantes en estos, independientemente de que las partes pertenezcan o no al SECUDE y estén o no registrados en el RECUDE ante el INDE.
+
+III. Solicitar y ordenar en su caso a las autoridades, organismos administrativos y deportivos competentes, le impongan al infractor cualesquiera de las sanciones, correcciones disciplinarias y medidas de apremio que señala la presente Ley, su reglamento y demás disposiciones reglamentarias y estatutarias.
+
+IV. Conceder la suspensión provisional y en su caso la definitiva del acto impugnado siempre y cuando no exista riesgo grave al orden público o disciplina deportiva de que se trate. Cuando el impugnante no sea autoridad u organismo deportivo la CAADE podrá efectuar la suplencia en la deficiencia de la queja.
+
+V. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos deportivos y demás, por conducto de sus titulares que se nieguen a acatar o que no acaten en sus términos, los acuerdos, decisiones, laudos y resoluciones emitidas por la propia comisión, y
+
+VI. Las demás que establezca la presente Ley y otras disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 213.
+
+Para el cabal desempeño de sus funciones, la CAADE se integrará por un Pleno y por las Unidades Administrativas que sean necesarias.
+
+El Pleno se conformará por un presidente, y dos miembros titulares con sus respectivos suplentes; siendo todos designados por el Ejecutivo del Estado.
+
+Tales designaciones, deberán recaer en personas con profesión de Licenciados en Derecho, con conocimiento en el ámbito deportivo, calidad moral y reconocido prestigio.
+
+El presidente y los miembros titulares de la CAADE duraran tres años en su encargo pudiendo ser ratificados para otro periodo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 214.
+
+Para la celebración de sus sesiones, el Pleno de la CAADE requerirá de la mayoría de sus miembros integrantes. Las resoluciones definitivas emitidas por la CAADE no admitirán recurso alguno en el ámbito deportivo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 215.
+
+En ausencia del presidente en cualesquiera de las sesiones, asumirá sus funciones alguno de los miembros titulares del Pleno. Cuando la ausencia del presidente sea definitiva el titular del Ejecutivo Estatal designara a quien deba sustituirlo, para que concluya el periodo respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 216.
+
+El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la debida integración y funcionamiento de la CAADE. Asimismo, proporcionara anualmente el presupuesto para su funcionamiento.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
@@ -1988,3 +2116,17 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Poder Ejecutivo del Estado y los Ayuntamientos deberán expedir las convocatorias correspondientes para la integración del Consejo Estatal y Consejos Municipales de Cultura Física y Deporte respectivamente dentro de los 60 días contados a partir de la publicación del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 165 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 14, 16, 28 32, 46, 57,60 (SIC), 84, 86, 96, 110, 115, 116, 118, 131, 136 Y 202 TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El INDE dentro de los noventa días naturales contados a partir de la fecha de entrada en vigor de la presente Ley, deberá instalar y poner en funcionamiento las unidades administrativas Consejo Estatal de Vigilancia Electoral Deportiva (COEVED) y Comisión de Apelación y Arbitraje Deportivo en el Estado (CAADE), para lo cual el Ejecutivo de (sic) Estado hará las previsiones presupuestales para el ejercicio fiscal 2021, a efecto de incorporar al presupuesto de egresos del INDE lo conducente para la operatividad de las unidades administrativas antes citadas.
+
+SEGUNDO.- La Secretaria de Educación del Gobierno de Baja California dentro de los noventa días naturales contados a partir del día hábil siguiente a la publicación de las presente (sic) reformas y adiciones a la Ley, en el Periódico Oficial del Estado, deberá desincorporar e instalar en coordinación con el INDE, a la CAADE establecida en la presente Ley, realizando las previsiones presupuestales para el ejercicio fiscal 2021, para su operatividad de manera autónoma con plena jurisdicción y competencia en el ámbito deportivo para el Estado de Baja California.
+
+TERCERO.- El Ejecutivo del Estado de Baja California expedirá el Reglamento para la Integración y Funcionamiento de la CAADE dentro de un plazo no mayor de noventa días naturales siguientes a la fecha de entrada a (sic) vigor de las presentes reformas y adiciones a la Ley.
+
+CUARTO.- El Pleno deberá expedir las reglas de operación y funcionamiento de la CAADE dentro de los noventa días naturales siguientes a la entrada en vigor de su Reglamento.
+
+QUINTO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
