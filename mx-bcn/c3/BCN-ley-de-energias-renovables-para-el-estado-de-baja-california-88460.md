@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-energias-renovables-para-el-estado-de-baja-california-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-22"
-last_updated: "2015-03-27"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ENERGÍAS RENOVABLES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de Junio de 2012.
 
@@ -49,7 +49,9 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Comisión. La Comisión Estatal de Energía de Baja California.
 
-II. Fuentes Renovables de Energía. Aquellas reguladas por la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, en términos del artículo 3.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+II. Fuentes Renovables de Energía. Aquellas reguladas por la fracción XVI del artículo 3 de la Ley de Transición Energética.
 
 III. Programa. El Programa Estatal de Energías Renovables y Sustentabilidad Energética; y
 
@@ -273,6 +275,14 @@ III. Aprovechamiento de la energía térmica para el desarrollo de sus procesos.
 
 El Estado y los municipios podrán constituir empresas con la participación de los particulares bajo las modalidades previstas por la legislación aplicable, con el propósito de realizar las aplicaciones previstas en el presente artículo.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 15 Bis.
+
+Las dependencias y entidades de la Administración Pública Estatal, los Poderes Legislativo y Judicial, los Órganos Constitucionalmente Autónomos y los Gobiernos Municipales, procurarán implementar y adaptar en sus instalaciones un análisis de riesgo y un plan de manejo para el uso y aprovechamiento de fuentes de energías renovables.
+
+Para ello, los proyectos de infraestructura deberán sujetarse a un manifiesto de impacto ambiental, un análisis de riesgo y un plan de manejo para subsanar el impacto ambiental, en términos de la legislación aplicable.
+
 ###### Artículo 16.
 
 En la construcción de fraccionamientos y desarrollos en condominio, las autoridades estatales y municipales en la materia promoverán la realización de proyectos que contemplen la aplicación de las fuentes renovables de energía o el uso sustentable de la misma, en los términos de las normas conducentes.
@@ -348,3 +358,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 27 DE MARZO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 118 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA FRACCIÓN II DEL ARTÍCULO 2, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 15 BIS, DE LA LEY (SIC) ENERGÍAS RENOVABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
