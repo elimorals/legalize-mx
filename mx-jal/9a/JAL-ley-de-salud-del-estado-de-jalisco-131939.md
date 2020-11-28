@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2020-04-07"
+last_updated: "2020-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -729,33 +729,43 @@ Cuidados Paliativos. Glosario.
 
 I. Cuidados Paliativos. Es el control del dolor, y de otros síntomas así como la atención de las necesidades psicológicas, sociales y espirituales del enfermo, así como el cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo;
 
-II. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-III. Directrices anticipadas: El documento que cualquier persona mayor de edad en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad. Dicho documento podrá ser revocado en cualquier momento.
+II. Cuidados Paliativos Pediátricos. Cuidados activos totales del cuerpo, la mente y el espíritu de la niña y el niño, incluyendo también el apoyo a la familia.
+
+III. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+IV. Directrices anticipadas. El documento que cualquier persona mayor de edad en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad. Dicho documento podrá ser revocado en cualquier momento.
 
 Para que sea válida la disposición de voluntad referida en el párrafo anterior, deberá apegarse a lo dispuesto en la presente Ley y demás disposiciones aplicables;
 
-IV. Dolor: Es la experiencia sensorial de sufrimiento físico y emocional, de intensidad variable, que puede presentarse acompañada de daño real o potencial de tejido del paciente;
+V. Dolor: Es la experiencia sensorial de sufrimiento físico y emocional, de intensidad variable, que puede presentarse acompañada de daño real o potencial de tejido del paciente;
 
-V. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+VI. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
 
-VI. Equipo multidisciplinario: Personal profesional, técnico y auxiliar de diversas disciplinas del área de la salud, que intervienen en la atención médica integral del enfermo en situación terminal;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-VII. Médico tratante: El profesional de la salud responsable de la atención y seguimiento del plan de cuidados paliativos;
+VII. Equipo multidisciplinario. Personal profesional, técnico y auxiliar de diversas disciplinas del área de la salud, que intervienen en la atención médica integral del enfermo en situación terminal;
 
-VIII. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo o su familia y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-IX. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+VIII. Médico tratante. El profesional de la salud responsable de la atención y seguimiento del plan de cuidados paliativos;
 
-X. Muerte natural. El proceso de fallecimiento de un enfermo sin la aplicación de medios extraordinarios para evitarlo, contando o no con asistencia física, psicológica y en su caso, espiritual;
+IX. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo o su familia y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
 
-XI. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+X. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
 
-XII. Plan de cuidados paliativos: El conjunto de acciones indicadas, programadas y organizadas por el médico tratante, complementadas y supervisadas por el equipo multidisciplinario, las cuales deben proporcionarse en función del padecimiento específico del enfermo, otorgando de manera completa y permanente la posibilidad del control de los síntomas asociados a su padecimiento. Puede incluir la participación de familiares y personal voluntario;
+XI. Muerte natural. El proceso de fallecimiento de un enfermo sin la aplicación de medios extraordinarios para evitarlo, contando o no con asistencia física, psicológica y en su caso, espiritual;
 
-XIII. Tratamiento Curativo: Todas las medidas sustentadas en la evidencia científica y principios éticos encaminadas a ofrecer posibilidades de curación de una enfermedad; y
+XII. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
 
-XIV. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físico y emocional del paciente.
+XIII. Plan de cuidados paliativos: El conjunto de acciones indicadas, programadas y organizadas por el médico tratante, complementadas y supervisadas por el equipo multidisciplinario, las cuales deben proporcionarse en función del padecimiento específico del enfermo, otorgando de manera completa y permanente la posibilidad del control de los síntomas asociados a su padecimiento. Puede incluir la participación de familiares y personal voluntario;
+
+XIV. Tratamiento Curativo: Todas las medidas sustentadas en la evidencia científica y principios éticos encaminadas a ofrecer posibilidades de curación de una enfermedad; y
+
+XV. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físico y emocional del paciente.
 
 ###### Artículo 55.
 
@@ -865,7 +875,9 @@ Atención del Dolor. Prevención y Control del Dolor.
 
 1. La prevención y control del dolor tiene como objeto establecer las condiciones para evitar, suprimir o paliar el sufrimiento innecesario de los pacientes y propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento.
 
-2. El control integral del dolor deberá considerar el apoyo psicológico, social, físico y espiritual al enfermo y a sus familiares.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+2. El control integral del dolor deberá considerar el apoyo psicológico, social, físico y espiritual al enfermo y a sus familiares, así como la edad del paciente, garantizando el interés superior de la niñez.
 
 ###### Artículo 61.
 
@@ -960,6 +972,10 @@ Cuidados Paliativos. Menores de edad e incapaces.
 1. Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en esta sección, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, el personal médico de acuerdo con el manual de la materia o juez de conformidad con las disposiciones aplicables.
 
 2. Sin menoscabo de lo anterior, a los menores de edad se les proporcionará la información completa y veraz que por su edad, madurez y circunstancias especiales, requieran acerca de su enfermedad en situación terminal y los cuidados paliativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+3. Las unidades medicas que proporcionen la atención en cuidados paliativos a menores de edad, deberán procurar mejorar la calidad de vida en el paciente, la atención que brinden será apropiada a su condición y permitirán un ejercicio igualitario de sus derechos; lo anterior de conformidad a (sic) normatividad aplicable en la materia.
 
 ###### Artículo 68.
 
@@ -4614,3 +4630,9 @@ Noveno. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secr
 Décimo. La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco, y en caso de encontrar alguna responsabilidad, procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 Décimo Primero. El Poder Ejecutivo del Estado, por conducto de las dependencias involucradas en el proceso de liquidación, deberán de rendir informes trimestrales al Congreso del Estado sobre los avances del procedimiento de liquidación, así como, al terminar el proceso de liquidación deberán de rendir un informe final.
+
+P.O. 28 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28001/LXII/20 QUE ADICIONA LA FRACCIÓN II AL ARTÍCULO 54 Y RECORRE LAS SUBSECUENTES, SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60; Y SE AGREGA UN TERCER PÁRRAFO AL ARTÍCULO 67 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
