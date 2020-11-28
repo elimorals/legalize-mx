@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2020-08-27"
+last_updated: "2020-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -3157,9 +3157,17 @@ Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 1. En la elección o en su caso ratificación de los servidores públicos, que conforme a la Constitución Política del Estado y la legislación aplicable, corresponde al Congreso del Estado, se observa lo siguiente:
 
-I. La comisión competente, con base en el análisis de los expedientes o dictámenes técnicos recibidos, elabora el dictamen de acuerdo legislativo, en el que propone la lista de candidatos elegibles para el cargo o a la persona sujeta a ratificación, en su caso; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables deben desahogar la agenda del proceso legislativo a los tiempos establecidos por la Constitución Política del Estado y la legislación aplicable para la elección o ratificación.
+I. La comisión competente, con base en el análisis de los expedientes o dictámenes técnicos recibidos, elabora el dictamen de acuerdo legislativo, en el que propone la lista de candidatos elegibles para el cargo o a la persona sujeta a ratificación, en su caso;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables deben desahogar la agenda del proceso legislativo a los tiempos establecidos por la Constitución Política del Estado y la legislación aplicable para la elección o ratificación; y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+III. Todas las convocatorias emitidas por el Congreso deberán ser publicadas en el periódico oficial "El Estado de Jalisco", así como en el sitio web del Congreso del estado de Jalisco, y difundidas por el Sistema de Radio y Televisión.
 
 2. Si no se alcanza la votación requerida para la elección o ratificación, la comisión competente actúa conforme a la Constitución Política del Estado y las leyes aplicables.
 
@@ -3824,3 +3832,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 28 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28002/LXII/20 QUE REFORMA EL ARTÍCULO 200, NUMERAL 1, FRACCIONES I Y II, Y ADICIONA LA FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
