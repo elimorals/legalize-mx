@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2020-11-07"
+last_updated: "2020-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE NOVIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚM. 268 PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -531,11 +529,11 @@ La Comisión de Gobierno se integrará por los coordinadores de los grupos parla
 
 La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-La Comisión de Gobierno Interno será presidida en los términos previstos por los artículos 39, 47 y 47 bis de la Ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría. Cuando existan tres o más grupos parlamentarios se elegirán dos secretarías y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios restantes que ocupen el primer y segundo lugar por el número de Diputados que representen; los demás coordinadores y Diputados Únicos tendrán el carácter de vocales.
+La Comisión de Gobierno interno será presidida en los términos previstos por los artículos 39, y 47 de la Ley Orgánica del Poder Legislativo. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría. Cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios restantes que ocupen el primer y segundo lugar por el número de Diputados que representen los demás coordinadores, los Diputados o Diputadas Independientes, Diputados o Diputadas únicas tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
@@ -545,9 +543,9 @@ En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, l
 
 En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión de Gobierno, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-Tendrán derecho a voz y voto los Coordinadores de los Grupos Parlamentarios o sus Suplentes acreditados y los Diputados Únicos; los Diputados que sin ser parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, asistan a las sesiones de ésta, tendrán exclusivamente derecho a voz.
+Tendrán derecho a voz y voto los integrantes de la Comisión de Gobierno Interno o sus Suplentes acreditados, aquellos Diputados que sin ser parte de dicha Comisión y asistan a las sesiones de ésta, tendrán exclusivamente el derecho a voz.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2020)</small>
 
@@ -3642,3 +3640,11 @@ P.O. 17 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 PRIMERO (SIC).- El presente decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO “NÚM. 342.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DE SU REGLAMENTO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
