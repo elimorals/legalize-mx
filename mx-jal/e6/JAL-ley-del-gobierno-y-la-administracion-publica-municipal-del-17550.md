@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-11-07"
+last_updated: "2020-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2389,27 +2389,43 @@ II. Si ya han venido operando bajo precio o tarifa, éstos se prorrogarán por e
 
 ### CAPITULO UNICO. Prevenciones Generales
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 120.
 
-Es de orden e interés público, el funcionamiento de personas jurídicas que organicen y representen a los vecinos de las colonias, barrios, zonas, centros de población y comunidades indígenas mediante los reglamentos que aprueben los Ayuntamientos con el fin de asegurar la participación ciudadana y vecinal en la vida y actividades del Municipio.
+Es de orden e interés público, el funcionamiento de personas jurídicas que organicen y representen a los vecinos de las colonias, barrios, zonas, centros de población y comunidades indígenas y afromexicanas cualquiera que sea su autodenominación, mediante los reglamentos que aprueben los Ayuntamientos con el fin de asegurar la participación ciudadana y vecinal en la vida y actividades del Municipio.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 121.
 
 Las asociaciones de vecinos cualesquiera que sea su denominación, deben adoptar la figura de asociación civil prevista en la legislación civil sustantiva estatal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 Los reglamentos municipales deben regular el funcionamiento y las prevenciones mínimas que contendrán los estatutos de las asociaciones de vecinos y otras formas de organización ciudadana y vecinal a que se refiere el presente título, en lo que respecta a su papel como personas jurídicas auxiliares de la participación social, conforme a las siguientes bases:
 
-I. Solamente pueden formar parte los habitantes y los propietarios de predios y fincas de la colonia, barrio, zona, centro de población o comunidad indígena, que libremente lo soliciten y sean admitidos, por cumplir con los requisitos que establezcan los estatutos de la persona jurídica respectiva;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
+I. Solamente pueden formar parte los habitantes y los propietarios de predios y fincas de la colonia, barrio, zona, centro de población o comunidad indígena y afromexicanas cualquiera que sea su autodenominación, que libremente lo soliciten y sean admitidos, por cumplir con los requisitos que establezcan los estatutos de la persona jurídica respectiva;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 II. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben respetar el derecho individual de sus miembros de pertenecer a cualquier partido político o asociación religiosa y por tanto, los miembros deben participar en las actividades de su asociación, sin distinción de raza, nacionalidad, ideas sociales, políticas, ideológicas, culturales o religiosas;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 III. Corresponde al Ayuntamiento establecer los límites de la colonia, barrio, zona o centro de población que constituyan el ámbito territorial donde las formas de organización ciudadana y vecinal ejercen sus atribuciones, escuchando la opinión de los vecinos en los términos de la reglamentación de la materia;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 V. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben promover la conservación y mejoramiento del medio ambiente, con el fin de propiciar una mejor calidad de vida de los habitantes de su zona, barrio o colonia; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 VI. Los conflictos que se presenten entre los vecinos y las personas jurídicas que los representen, entre los integrantes de estas y las directivas, así como entre las diversas personas jurídicas con funciones de representación ciudadana y vecinal, serán resueltos mediante arbitraje de la dependencia municipal designada para coordinar las relaciones del Municipio con las personas jurídicas que señala este título.
 
@@ -2427,9 +2443,9 @@ I. Definir, precisar y revisar los límites de las colonias, barrios y zonas de 
 
 II. Determinar la dependencia municipal responsable para coordinar las relaciones con las personas jurídicas con funciones de representación ciudadana y vecinal, establecer su registro y en general, ejercer las atribuciones específicas que se establecen en esta ley para apoyar sus actividades;
 
-III. Promover en los habitantes y propietarios de las colonias, barrios, centros de población y comunidades indígenas, la constitución e integración a las personas jurídicas con funciones de representación ciudadana y vecinal.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-Cuando los vecinos no tengan la capacidad económica para pagar los gastos para constituir personas jurídicas, el Ayuntamiento que corresponda promoverá por conducto del Colegio de Notarios, la presentación de los servicios de constitución y formalización de las personas jurídicas, sin costo para los interesados;
+III. Promover en los habitantes y propietarios de las colonias, barrios, centros de población y comunidades indígenas y afromexicanas cualquiera que sea su autodenominación, la constitución e integración a las personas jurídicas con funciones de representación ciudadana y vecinal.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
@@ -3296,3 +3312,9 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27988/LXII/20 QUE REFORMA LOS ARTÍCULOS 20, 37, 70, 142 Y 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 28 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28003/LXII/20 QUE REFORMA EL ARTÍCULO 120, EL PÁRRAFO PRIMERO, LA FRACCIÓN I DEL ARTÍCULO 121, Y LA FRACCIÓN III DEL ARTÍCULO 123 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
