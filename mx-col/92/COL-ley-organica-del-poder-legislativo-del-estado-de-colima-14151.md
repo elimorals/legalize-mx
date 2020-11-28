@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2020-11-07"
+last_updated: "2020-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE NOVIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 268 PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -577,25 +575,11 @@ La Directiva tendrá a su cargo la conducción de las sesiones.
 
 Corresponde a la Directiva, bajo la autoridad de su Presidente, presidir las sesiones, calificar las faltas de los Diputados, preservar la libertad de las deliberaciones, aplicando con imparcialidad las disposiciones de esta Ley, su Reglamento y los acuerdos que apruebe el Congreso.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 39.
 
-En la última sesión de cada mes, el Congreso elegirá para el siguiente, nuevo Presidente y Vicepresidente, quienes asumirán sus cargos en la sesión inmediata a aquella en que hubiesen sido electos.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2000)</small>
-
-El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reelectos para ese cargo, en el mismo Período Ordinario de Sesiones.
-
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
-
-El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
-
-En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
-De igual manera en ausencia justificada del Presidente, tendrá la representación legal del Congreso en los términos de la fracción II del artículo 42 de esta Ley.
+La Comisión de Gobierno Interno será presidida por el Diputado o Diputada que integre dicha Comisión, electo por el voto mayoritario de los integrantes que conforman esta misma Comisión de Gobierno Interno, en caso de que ningún coordinador de grupo parlamentario por si solo obtenga la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de Diputados, conforme lo prevé el artículo 47 de esta Ley. Cuando según la conformación de la legislatura existan dos grupos parlamentarios solo se elegirá una Secretaria, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -759,29 +743,29 @@ Los Secretarios gozan de fe pública en todo lo relativo al ejercicio de sus fun
 
 DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
+[N. DE E, VÉASE LITERALIDAD DEL DECRETO DE REFORMAS NÚMERO 342, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2020.]
+
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 47.
 
 La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión de Gobierno Interno se integrará por los Coordinadores de los Grupos Parlamentarios o sus suplentes acreditados y Diputadas o Diputados Únicos; se formará con un Presidente, uno o dos Secretarios y vocales, en su caso.
+La Comisión de Gobierno Interno se integrará por los Coordinadores de los Grupos Parlamentarios o sus suplentes acreditados, por los Diputados o Diputadas Independientes y los Diputados o Diputadas únicas, se formará con un Presidente, uno o dos Secretarios y vocales, teniendo derecho a voz y voto,
 
-Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
-
-La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios y Diputados Únicos, en función del número de Diputados que representen cada uno de ellos, en relación con el total que integren el Congreso, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+La Presidencia de la Comisión de Gobierno Interno, será electa por el voto mayoritario de los integrantes que conforman esta misma Comisión. En el caso de que ningún integrante de la Comisión de Gobierno Interno por si solo represente la mayoría absoluta, la Presidencia recaerá en aquel que tenga el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
 ARTICULO 47 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 48.
 
-Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
+Las resoluciones de la Comisión de Gobierno Interno y Acuerdos Parlamentarios serán tomadas por la mayoría de sus integrantes.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
@@ -1962,3 +1946,11 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 73 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 28 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 342.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DE SU REGLAMENTO”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrara en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
