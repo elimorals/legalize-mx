@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-instituto-de-evaluacion-de-politicas-147
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-27"
-last_updated: "2020-09-27"
+last_updated: "2020-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ CÓDIGO DE CONDUCTA DEL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL EST
 
 TEXTO ORIGINAL.
 
-Código publicado en el Número 90 del Periódico Oficial del Estado de Durango, el domingo 27 de septiembre de 2020.
+Código publicado en el Número 90 del Periódico Oficial del Estado de Durango, el domingo 27 de septiembre de 2020. (REPUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2020).
 
 Código de Conducta del Instituto de Evaluación de Políticas Públicas del Estado de Durango
 
