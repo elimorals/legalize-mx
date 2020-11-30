@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2020-10-29"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -9277,9 +9277,11 @@ En este caso, el intérprete podrá intervenir además, como testigo de conocimi
 
 Las formalidades expresadas en este Capítulo, se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquellas.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DEL 2020)</small>
+
 ###### Art. 1596.
 
-Faltando alguna de las referidas formalidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pérdida de oficio.
+Faltando alguna de las referidas formalidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios.
 
 ### CAPITULO III.
 
@@ -13953,7 +13955,7 @@ Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no f
 
 ###### Art. 2507.
 
-Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en el artículo anterior.
+(DEROGADO, B.O. 30 DE NOVIEMBRE DEL 2020)
 
 ###### Art. 2508.
 
@@ -19538,3 +19540,27 @@ B.O. 29 DE OCTUBRE DEL 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE NOVIEMBRE DEL 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 148, QUE REFORMA, DEROGA Y ADICIONA DISPOSICIONES DE LA LEY DEL NOTARIADO Y DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los jueces locales que, a la fecha, hubieren sido autorizados para ejercer la función notarial, deberán entregar a la Dirección General de Notarias, dentro de los quince días siguientes a la entrada en vigor del presente Decreto, el protocolo y los libros, apéndices y archivo notarial, así como sellos, levantándose por la Dirección un acta circunstanciada, en la que se hará un inventario que incluya todos los libros, los testamentos cerrados que estuvieren en su guarda, los títulos, y cualquier otro documento.
+
+###### ARTÍCULO TERCERO.
+
+Los Estatutos que se hubieren creado en asamblea del Colegio de Notarios antes de entrar en vigor el presente Decreto, seguirán siendo vigentes en lo que no se contrapongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En el caso de la reelección prevista en el artículo 129 de la presente ley, solamente será aplicable para los Consejos Directivos que asuman sus cargos con posterioridad a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
