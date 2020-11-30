@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-11-11"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -281,6 +281,10 @@ LVIII. Secretaría de Ecología y Gestión Ambiental: la autoridad administrativ
 
 LIX. Sitios de Disposición Final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+LIX Bis. UMA: la Unidad de Medida y Actualización vigente al momento de su aplicación;
+
 LX. Unidad de Gestión Ambiental: la entidad natural representada por una microcuenca hidrográfica, en la que todos los aspectos y elementos naturales se encuentren relacionados entre sí y en donde pueden existir diversos ecosistemas, cuyo objetivo sea garantizar la salud y preservación de los mismos a través de la ejecución de obras, servicios y acciones concertadas entre las autoridades y los habitantes de la propia unidad. Estas microcuencas se establecerán en los términos del ordenamiento ecológico del territorio, emitido por la autoridad competente;
 
 LXI. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
@@ -479,9 +483,7 @@ II. La aplicación de los principios e instrumentos de política ambiental previ
 
 III. La participación en la formulación, aprobación y expedición de los planes de ordenamiento ecológico del territorio a que se refiere el artículo 20 Bis 4 de la LGEEPA, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos planes;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-III BIS. Expedir los reglamentos para el cumplimiento de las atribuciones que le otorga esta Ley;
+III BIS. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2020)
 
 IV. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que provengan de establecimientos mercantiles o de servicios, así como de las emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que corresponda al Gobierno del Estado en los términos previstos en esta Ley, así como para el otorgamiento de permisos para combustiones a cielo abierto, cuyo propósito sea adiestrar y capacitar al personal encargado del combate de incendios;
 
@@ -3624,6 +3626,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0802.- SE REFORMA EL ARTÍCULO 47 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES, VI Y VII Y ADICIONA AL MISMO ARTÍCULO 47 LA FRACCIÓN VIII, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0826- SE ADICIONA AL ARTÍCULO 3º LA FRACCIÓN LIX BIS; Y DEROGA DEL ARTÍCULO 8º LA FRACCIÓN III BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
