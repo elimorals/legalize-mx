@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2020-07-16"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -341,13 +341,17 @@ X. Integrar y actualizar los padrones de beneficiarios de los diversos programas
 
 XI. Elaborar el proyecto de informe anual de actividades del Sistema Estatal, y presentarlo al mismo para su aprobación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-XII. Generar y difundir proyectos de investigación en materia de desarrollo social, y
+XII. Generar y difundir proyectos de investigación en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Hacer de (sic) conocimiento de las autoridades correspondientes, cuando se detecte el uso de programas sociales o de los padrones de personas beneficiarias correspondientes con fines electorales, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2011)</small>
 
-XIII. Las demás que le asigne el Sistema para el cumplimiento de sus atribuciones.
+XIV. Las demás que le asigne el Sistema para el cumplimiento de sus atribuciones.
 
 ###### ARTICULO 13.
 
@@ -942,6 +946,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 16 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0720.- SE REFORMA (SIC) LOS ARTÍCULOS 8 EN SU FRACCIÓN III EL INCISO O) Y 15 EN SU FRACCIÓN III, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0827- SE REFORMA EL ARTÍCULO 12 EN SU FRACCIÓN XII; Y ADICIONA AL MISMO ARTÍCULO 12 UNA FRACCIÓN, ESTÁ COMO XIII, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
