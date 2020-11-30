@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2020-07-16"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -4147,6 +4147,10 @@ IX. Cuando ejerza un puesto o función de cualquier nivel dentro de la administr
 
 X. Las demás que contravengan las leyes y reglamentos aplicables, causando perjuicios graves a la obra.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+No será causa de negativa de registro o refrendo, la falta de conclusión del trámite para obtener el acta de terminación de obra por parte del propietario de la obra o proyecto.
+
 ###### ARTÍCULO 257.
 
 Los aspirantes a Directores Responsables de Obra y Corresponsables, que con anterioridad se hayan desempeñado como servidores públicos municipales, deberán cumplir como mínimo con un año fuera de su cargo para ingresar su solicitud de registro o refrendo ante la CADROC.
@@ -4195,7 +4199,9 @@ IV. Adoptar las precauciones y medidas que fueren necesarias para proteger la vi
 
 V. Cumplir en las obras a su cargo todas las exigencias, observar las prohibiciones y respetar las limitaciones contempladas en esta Ley y demás disposiciones jurídicas aplicables;
 
-VI. Obtener de la Dirección Municipal correspondiente el acta de terminación de obra o proyecto respectivo, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+VI. Presentar ante la Dirección Municipal correspondiente, el aviso de terminación de obra, a fin de que, el propietario de la misma, pueda concluir el trámite y obtener el acta de terminación de obra o proyecto respectivo, y
 
 VII. Actualizar anualmente sus conocimientos periciales, acreditando la certificación y participación en cursos o seminarios de capacitación y adiestramiento en las especialidades correspondientes, a través de los respectivos Colegios de Profesionistas a que pertenezcan; el incumplimiento de esta obligación impedirá el refrendo de su registro ante la autoridad municipal respectiva.
 
@@ -4852,6 +4858,10 @@ d. Cuando el tipo de suelo lo permita, se procurará la utilización pavimentos 
 e. Se utilizarán sistemas constructivos con materiales de la región que consideren el clima de la zona en la que se ubiquen para favorecer el confort interior.
 
 f. Siempre que sea posible, se construirán con los requerimientos necesarios para que los techos puedan implementarse como azoteas verdes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+g. Se sembrará cuando menos un árbol en cada nueva construcción, de preferencia se hará en la acera frontal respetando que no interfiera con el libre paso de peatones, para tal efecto deberá seleccionar especies preferentemente nativas de la región natural y de raíz vertical que no causen un daño o desperfecto a la infraestructura de la vía pública, atendiendo en todo momento las disposiciones de la Dirección o área de Ecología del Municipio respectivo.
 
 Los ayuntamientos darán prioridad a la autorización de edificaciones que voluntariamente incorporen los elementos que establece la presente fracción.
 
@@ -6880,3 +6890,19 @@ P.O. 16 DE JULIO DE 2020.
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0824- SE ADICIONA AL ARTÍCULO 315 EN SU FRACCIÓN IV EL INCISO G), DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO 0825- SE REFORMA EL ARTÍCULO 261 EN SU FRACCIÓN VI; Y ADICIONA AL ARTÍCULO 256 EL PÁRRAFO ÚLTIMO, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
