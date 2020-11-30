@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2018-04-26"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -232,6 +232,10 @@ En caso de negativa o demora injustificada para proporcionar dichos expedientes 
 ###### Artículo 14.
 
 Las controversias judiciales que surjan sobre la aplicación de esta ley, así como todas aquellas en que el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los Tribunales del Estado.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 14 BIS.- Las modificaciones o reformas integrales a la presente Ley deberán ser sujetas a un proceso de socialización universal dentro de la derechohabiencia, previo a su aprobación por parte del Congreso del Estado.
 
 ### CAPITULO SEGUNDO. DE LOS SUELDOS, CUOTAS Y APORTACIONES
 
@@ -1621,7 +1625,13 @@ El Director del Instituto tendrá las obligaciones y facultades siguientes:
 
 I.- Representar al Instituto y a la Junta Directiva y ejecutar los acuerdos de la Junta;
 
-II.- Presentar cada año a la Junta un informe pormenorizado del estado del Instituto;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+II.- Presentar cada seis meses a la Junta un informe pormenorizado del estado del Instituto; así como un informe de las observaciones realizadas a los órganos públicos incorporados y a las diversas dependencias del Estado, por parte del Instituto Superior de Auditoría y Fiscalización, en relación a los recursos que le corresponden al Instituto;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+II BIS.- Solicitar cada seis meses al Instituto Superior de Auditoría y Fiscalización, el informe de las observaciones realizadas a los órganos públicos incorporados y a las diversas dependencias del Estado, señalado en la fracción anterior, así como, las actualizaciones del estado de dichas observaciones. El Instituto Superior de Auditoría y Fiscalización deberá entregar los informes que le solicite el Director General, dentro de un plazo de diez días hábiles contados a partir de la fecha de la solicitud;
 
 III.- Someter a la decisión de la Junta todas aquellas cuestiones que sean de la competencia de la misma;
 
@@ -1853,9 +1863,13 @@ Las acciones del órgano de control interno tendrán por objeto apoyar la funci�
 
 DE LAS RESPONSABILIDADES Y SANCIONES.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 122.
 
-Los funcionarios y trabajadores del Estado y organismos públicos incorporados que dejen de cumplir con alguna de las obligaciones que les impone esta ley, serán sancionados con multa de cincuenta a cinco mil pesos, según la gravedad del caso.
+Los funcionarios y trabajadores del Estado y organismos públicos incorporados que dejen de cumplir con alguna de las obligaciones que les impone esta Ley, serán sancionados con multa de setenta a siete mil Unidades de Medida y Actualización por la Junta Directiva del Instituto, de acuerdo a la gravedad del daño ocasionado al Instituto o a algún derechohabiente, sin perjuicio de las sanciones penales que les correspondan.
+
+Para efectos de lo dispuesto en este artículo, se considera que existe daño contra un derechohabiente cuando sea afectada la atención médica que debe de recibir por parte del Instituto, así como por causa del desabasto de medicamentos y falta de atención hospitalaria.
 
 ###### Artículo 123.
 
@@ -2288,3 +2302,11 @@ B.O. 26 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a los seis meses contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
