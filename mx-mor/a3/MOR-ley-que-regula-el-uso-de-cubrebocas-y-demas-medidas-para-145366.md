@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-regula-el-uso-de-cubrebocas-y-demas-medidas-para-145366
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-27"
-last_updated: "2020-11-27"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMAS MEDIDAS PARA PREVENIR LA TRANSMISION DE LA ENFERMEDAD POR COVID-19 EN EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD POR COVID-19 EN EL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE NOVIEMBRE DE 2020.]
 
 Ley publicada en número 5884 del Periódico Oficial del Estado de Morelos, el martes 27 de noviembre de 2020.
 
@@ -251,7 +251,7 @@ DISPOSICIONES TRANSITORIAS
 
 PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, y concluirá una vez que cese el estado de emergencia sanitaria ocasionado por la enfermedad COVID-19, mediante declaratoria de la autoridad sanitaria competente.
+SEGUNDA. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, y concluirá una vez que cese el estado de emergencia sanitaria ocasionado por la enfermedad COVID-19, mediante declaratoria de la autoridad sanitaria competente.
 
 TERCERA. A partir de la entrada en vigor de la presente Ley, las autoridades sanitarias y todas las unidades administrativas de los tres Poderes del Estado deberán realizar las medidas de difusión necesarias, a fin de dar a conocer a la población los alcances de la misma.
 
@@ -263,9 +263,11 @@ Recinto Legislativo, en sesión ordinaria de Pleno del día veintiséis de novie
 
 Diputados Integrantes de la Mesa Directiva del Congreso del Estado de Morelos. Dip. Alfonso de Jesús Sotelo Martínez, Presidente. Dip. Cristina Xochiquetzal Sánchez Ayala, Secretaria. Dip. Erika García Zaragoza, Secretaria. Rúbricas.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Residencia del Poder Ejecutivo, Palacio de Gobierno, en la ciudad de Cuernavaca, capital del estado de Morelos a los veintinueve días del mes de octubre del dos mil veinte.
+> <small>(F. DE E., P.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Residencia del Poder Ejecutivo, Palacio de Gobierno, en la ciudad de Cuernavaca, capital del estado de Morelos a los veintiséis días del mes de noviembre del dos mil veinte.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
