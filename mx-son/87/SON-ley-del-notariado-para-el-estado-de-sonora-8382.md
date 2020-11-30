@@ -4,7 +4,7 @@ identifier: "SON-ley-del-notariado-para-el-estado-de-sonora-8382"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-04"
-last_updated: "2018-09-06"
+last_updated: "2020-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el jueves 4 de enero de 1996.
 
@@ -149,11 +149,19 @@ VII.- Determinar, con observancia en las disposiciones de esta ley, la necesidad
 
 VIII.- Celebrar convenios con el Consejo para adecuar el arancel, cuando se trate de programas para beneficio colectivo y de interés social;
 
-IX.- Autorizar a los jueces de primera instancia y a los jueces locales, el ejercicio de la función notarial, en los términos de la presente ley;
+IX. (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2020)
 
-X.- Autorizar, temporalmente y para casos concretos, la ampliación de la demarcación notarial que tengan señalada para el desempeño de sus funciones, los notarios públicos de la Entidad; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-XI.- Instrumentar, a través de la Dirección, los sistemas informáticos que permitan una comunicación ágil y oportuna para la transmisión de la información de todos los actos notariales en el Estado, su procesamiento y archivo.
+X. Autorizar, temporalmente y para casos concretos, la ampliación de la demarcación notarial que tengan señalada para el desempeño de sus funciones, los notarios públicos de la Entidad;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+XI. Instrumentar, a través de la Dirección, los sistemas informáticos que permitan una comunicación ágil y oportuna para la transmisión de la información de todos los actos notariales en el Estado, su procesamiento y archivo; y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+XII. Celebrar convenios con el Consejo para adecuar el arancel, en beneficio de las empresas sociales de los sectores pesquero y acuícola.
 
 Las atribuciones anteriores podrá ejercerlas directamente o bien delegarlas en la Secretaría de Gobierno.
 
@@ -297,15 +305,29 @@ Igualmente podrá conocer de los demás procedimientos que le autorice el Códig
 
 El notario tendrá derecho a obtener previamente de los interesados, los gastos, contribuciones, impuestos, derechos y los honorarios que se devenguen en cada caso, conforme al arancel correspondiente.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 21 BIS.- El solicitante del servicio notarial, en relación al trámite solicitado, tendrá derecho a:
+
+I. Ser atendido personalmente y con profesionalismo;
+
+II. Ser informado de las exenciones, beneficios fiscales, facilidades administrativas, y aranceles aplicables;
+
+III. Ser informado acerca del estado que guarda, en cualquier etapa del procedimiento, y en su caso, de ser necesario para algún trámite del solicitante recibir constancia de dicho estado; y
+
+IV. Recibir el original o copia certificada, del documento con que se acredite el entero o pago, de los impuestos o derechos, realizado ante las autoridades municipales, estatales o federales, así como el comprobante fiscal del pago de honorarios.
+
 ###### ARTICULO 22.
 
 El notario y sus dependientes, en el ejercicio de la función del primero, deberán guardar reserva sobre lo pasado ante su fe y estarán sujetos a las disposiciones del Código Penal para el Estado de Sonora sobre el secreto profesional, salvo los informes obligatorios que deben rendir con sujeción a las leyes respectivas.
 
 ### CAPITULO III. DEL SELLO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 23.
 
-Para ejercer la función notarial, la Dirección proveerá al notario, a costa de éste, de uno o varios sellos oficiales, iguales entre sí, debiendo conservarlos y utilizarlos bajo su responsabilidad.
+Para ejercer la función notarial, la Dirección proveerá al notario, a costa de éste, de hasta cinco sellos oficiales, iguales entre sí, debiendo conservarlos y utilizarlos bajo su responsabilidad.
 
 Si se pierde o altera uno o más sellos, el notario se proveerá de otro u otros que solicitará a la Dirección General, y ésta lo o los mandará hacer con un signo especial que lo o los diferencie del anterior o anteriores. Si posteriormente aparece el sello o sellos extraviados, el notario no lo o los usará, sino que lo o los entregará junto con los demás de la serie a la Dirección a fin de que sea o sean destruido o destruidos, levantándose acta por duplicado. Lo mismo se hará con el sello o sellos del notario que fallezca.
 
@@ -503,7 +525,9 @@ a).- Que se aseguró de la identidad de los otorgantes.
 
 b).- Que a su juicio, tienen plena capacidad legal para contratar y obligarse.
 
-c).- El nombre y apellidos, nacionalidad, lugar y fecha de nacimiento o edad, estado civil; ocupación y domicilio de los otorgantes y comparecientes, de los testigos cuando alguna ley los prevenga y de los intérpretes cuando sea necesaria su intervención. Al expresar el domicilio, se deberá mencionar el nombre de la calle, el número de la casa, colonia o cualquier otro dato que precise dicho domicilio, hasta donde sea posible, y la población.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+c).- Que le manifestaron el nombre y apellidos, nacionalidad, lugar y fecha de nacimiento o edad, estado civil, ocupación y domicilio de los otorgantes y comparecientes, de los testigos cuando alguna ley los prevenga y de los intérpretes cuando sea necesaria su intervención. Al expresar el domicilio, se deberá mencionar el nombre de la calle, el número de la casa, colonia o cualquier otro dato que precise dicho domicilio, hasta donde sea posible, y la población.
 
 d).- Que le fue leída la escritura a los otorgantes o que la leyeron por ellos mismos.
 
@@ -567,13 +591,13 @@ XVII.- Si mediante el testamento se cancela o revoca otra disposición testament
 
 Si el testamento fuere cerrado indicará además la persona en cuyo poder se depositó o el lugar en que se haya hecho el depósito.
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2005)</small>
-
-En todos los casos, el notario, al dar el aviso a la Dirección, deberá anexar, en sobre cerrado, el duplicado a que se refiere el artículo 74 de esta ley.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
 La Dirección llevará un registro especialmente destinado a asentar las inscripciones relativas a la existencia de testamentos, con los datos que se mencionan en este artículo.
 
-Cuando en un testamento público abierto o simplificado se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario, sin revelar el contenido de dichas cláusulas, hará mención de ello en el aviso a que se refiere el primer párrafo de este artículo, el cual asentará la Dirección en el Registro a que se refiere el párrafo cuarto de este artículo. La Dirección y el Registro Público, al contestar los informes que se soliciten, deberán indicar el testamento o testamentos respecto de los cuales tengan asentado que existen dichas cláusulas irrevocables.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+Cuando en un testamento público abierto o simplificado se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario, sin revelar el contenido de dichas cláusulas, hará mención de ello en el aviso a que se refiere el primer párrafo de este artículo, el cual asentará la Dirección en el Registro a que se refiere el párrafo anterior. La Dirección y el Registro Público, al contestar los informes que se soliciten, deberán indicar el testamento o testamentos respecto de los cuales tengan asentado que existen dichas cláusulas irrevocables.
 
 ###### ARTICULO 47.
 
@@ -583,9 +607,11 @@ El aviso a que se refiere el artículo que antecede, se dará por duplicado, par
 
 El acto jurídico otorgado ante notario, que modifique, en cualquier forma, un testamento asentado ante otro notario determinado que resida en la Entidad, deberá ser notificado a éste por oficio, por la Dirección, para que se anote en su protocolo la modificación sufrida por el acto ante él pasado.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 49.
 
-Los instrumentos notariales que contengan disposiciones testamentarias, sólo podrán verse y, en su caso, obtener copia de los mismos, por el propio testador y por las personas autorizadas por mandamiento Judicial.
+Los instrumentos notariales que contengan disposiciones testamentarias, sólo podrán verse y, en su caso, obtener copia de los mismos, por el propio testador, por las personas autorizadas por mandamiento Judicial o por el notario que acredite haber iniciado la sucesión en su notaría.
 
 ###### ARTICULO 50.
 
@@ -593,9 +619,11 @@ El notario podrá acreditar la identidad de los otorgantes por cualesquiera de l
 
 I.- Con la mención del número o características de un documento de identidad oficial en el que aparezca el nombre y fotografía de la persona de quien se trate;
 
-II.- Con la declaración de un testigo de identidad que sea del personal conocimiento del notario o que se identifique con documento oficial con fotografía; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-III.- Por declaración del notario de conocerlos personalmente. Para que el notario haga constar que conoce personalmente a los comparecientes y que tienen capacidad, bastará con que sepa su nombre y apellidos, que no observe en ellos manifestaciones evidentes de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
+II.- Con la declaración de un testigo de identidad que se identifique con documento oficial con fotografía; y
+
+III.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2020)
 
 ###### ARTICULO 51.
 
@@ -753,7 +781,9 @@ Testimonio, es la copia auténtica en la que el notario reproduce de su protocol
 
 El notario a través de cualquier medio de reproducción o impresión indeleble, podrá expedir testimonios de conformidad con lo siguiente:
 
-I.- No será necesario insertar en el testimonio los documentos mencionados en la escritura que han servido solamente para la satisfacción de requisitos fiscales;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+I.- Será obligatorio insertar en el testimonio los comprobantes que acrediten el entero o pago, de los impuestos, realizados ante las autoridades municipales, estatales o federales.
 
 II.- Las hojas que integren un testimonio irán numeradas progresivamente. En la parte superior del margen derecho llevarán el sello del notario, quien estampará su rúbrica al margen;
 
@@ -785,13 +815,13 @@ El notario puede expedir certificaciones relativas a las escrituras, actas o doc
 
 ###### ARTICULO 74.
 
-Al firmar los otorgantes y las personas que conforme a la ley, deban intervenir en una escritura pública, suscribirán también un duplicado de la misma, que será autorizada por el notario.
+(DEROGADO, B.O. 30 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 75.
 
-Un ejemplar de cada escritura, debidamente escaneado, será remitido a la Dirección General de Notarias, por vía electrónica dentro de los treinta días siguientes a la fecha de su autorización. Tratándose de testamentos públicos abiertos, el notario deberá remitir un ejemplar de la escritura, debidamente escaneado a la misma Dirección, dentro de los cinco días siguientes a la fecha de su firma, acompañando la preforma necesaria para su inscripción en el Registro Nacional de Testamentos.
+Un ejemplar de cada escritura o acta, entendiéndose por estas el folio y en su caso el documento a que se refiere el artículo cuarenta y tres de esta Ley, debidamente escaneado, será remitido a la Dirección General de Notarias, por vía electrónica dentro de los noventa días siguientes a la fecha en que deba hacerse la razón de cierre a que se refiere el artículo treinta y cuatro de esta Ley. Tratándose de testamentos públicos abiertos, el notario deberá remitir un ejemplar de la escritura, debidamente escaneado a la misma Dirección, dentro de los cinco días siguientes a la fecha de su firma, acompañando la preforma necesaria para su inscripción en el Registro Nacional de Testamentos.
 
 ###### ARTICULO 76.
 
@@ -965,13 +995,7 @@ Las demarcaciones notariales comprenderán el ámbito territorial que correspond
 
 ###### ARTICULO 105.
 
-El Ejecutivo, por conducto de la Dirección, podrá autorizar a los jueces de primera instancia y a los jueces locales la función notarial, si en una demarcación no hay dos notarios de número, si éstos tuvieren impedimento o por otra causa faltaren, para que la ejerzan dentro de los límites de su jurisdicción, excluyendo los municipios en donde opere el supuesto del artículo 15. Las autorizaciones se publicarán en los estrados de los respectivos juzgados y en los tableros de avisos municipales.
-
-Los secretarios de los juzgados de primera instancia comprendidos en la disposición del párrafo anterior, cuando se encuentren en funciones de jueces por ministerio de ley, sólo podrán ejercer la función notarial si fueren licenciados en derecho con título debidamente expedido.
-
-La actuación notarial de los jueces, se levantará en folios por duplicado, autorizados por la Dirección y que previamente obtengan del Colegio; deberán observar los lineamientos que para los notarios establece esta ley y remitir un ejemplar, inmediatamente después de autorizar en definitiva la escritura, a la Dirección y el otro deberá guardarse en el archivo del propio juzgado dentro de un legajo especial, debidamente encuadernado y sellado por el término señalado en el artículo 39 de esta ley.
-
-Los honorarios que se cobren deberán distribuirse en la siguiente proporción: en un 50% para el Fondo para la Administración de Justicia del Estado y el otro 50% a favor del Juez que autorice la escritura.
+(DEROGADO, B.O. 30 DE NOVIEMBRE DE 2020)
 
 ###### ARTICULO 106.
 
@@ -985,9 +1009,11 @@ Pueden autorizarse, permutas del cargo notarial, entre los notarios titulares de
 
 ### CAPITULO IV. DE LAS LICENCIAS Y DE LA SUSPENSION DE LOS NOTARIOS
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 108.
 
-Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia hasta por quince días consecutivos o alternados, en cada trimestre, o hasta por un mes en cada semestre, dando aviso a la Dirección, siempre y cuando tengan suplentes, estuvieren asociados o haya más de un notario en ejercicio en la demarcación notarial. En caso contrario, se requerirá de licencia de la Dirección.
+Los notarios podrán separarse del ejercicio de sus funciones hasta por noventa días consecutivos o alternados, dentro del lapso que comprende del primero de enero al treinta y uno de diciembre de cada año, dando aviso a la Dirección, siempre y cuando tengan suplentes o haya más de un notario en ejercicio en la demarcación notarial. En caso contrario, se requerirá de licencia de la Dirección.
 
 ###### ARTICULO 109.
 
@@ -1155,15 +1181,19 @@ IX.- El visitador, entregará una copia del acta levantada al notario visitado.
 
 En el Estado de Sonora habrá un Colegio, con sede en su capital, que tendrá personalidad jurídica propia y al que pertenecerán todos los notarios.
 
-No pertenecerán al Colegio los jueces de primera instancia o locales que desempeñen funciones notariales.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+Los integrantes del Colegio de Notarios en asamblea podrán elaborar, reformar, adicionar o derogar sus propios estatutos.
 
 ###### ARTICULO 128.
 
 El Colegio estará dirigido por un Consejo, compuesto por los siguientes miembros: un Presidente, un Vicepresidente, un Secretario, un Tesorero, un Prosecretario y un Protesorero, cargos que serán honoríficos e irrenunciables.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 129.
 
-Los Consejeros serán electos por mayoría de votos, de entre los notarios del Estado; durarán en sus funciones dos años y no podrán ser reelectos para el mismo cargo para el período siguiente.
+Los Consejeros serán electos por mayoría de votos, de entre los notarios del Estado, durarán en sus funciones dos años y podrán ser reelectos para el mismo cargo solamente por el período siguiente, es decir, por un sólo período. Los Consejeros electos entrarán en funciones el primero de enero del año impar.
 
 ###### ARTICULO 130.
 
@@ -1209,9 +1239,17 @@ El Colegio para garantizar que todos los notarios del Estado presten servicio so
 
 El Consejo, como órgano de administración del Colegio tendrá la representación del mismo con Poder General para Pleitos y Cobranzas y Actos de Administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley, sin limitación alguna y con la amplitud a que se refieren los dos primeros párrafos del artículo 2831 del Código Civil para el Estado de Sonora.
 
-Tendrá además facultades para otorgar poderes y revocarlos, en su caso, así como suscribir y librar títulos de crédito en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-Para ejercer actos de dominio y otorgar garantías reales se requerirá la previa autorización de la Asamblea.
+Tendrá además facultades para otorgar poderes y revocarlos, en su caso.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+Para ejercer actos de dominio y otorgar garantías reales, así como suscribir y librar títulos de crédito en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito, se requerirá la previa autorización de la Asamblea.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+El Presidente del Consejo Directivo del Colegio de Notarios tendrá las mismas facultades y atribuciones previstas por este artículo, y conferidas de manera colegiada al propio consejo.
 
 ## TITULO QUINTO. DE LAS SANCIONES Y RECURSOS
 
@@ -1522,3 +1560,27 @@ La Dirección General de Notarías instrumentará las acciones para operar el si
 ###### ARTÍCULO TERCERO.
 
 Las cartas poder que se hubieren otorgado con anterioridad a la entrada en vigor de este Decreto, seguirán en vigor hasta su terminación; sin embargo, la revocación o renuncia deberá hacerse constar en escritura pública en los términos de este Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 148, QUE REFORMA, DEROGA Y ADICIONA DISPOSICIONES DE LA LEY DEL NOTARIADO Y DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los jueces locales que, a la fecha, hubieren sido autorizados para ejercer la función notarial, deberán entregar a la Dirección General de Notarias, dentro de los quince días siguientes a la entrada en vigor del presente Decreto, el protocolo y los libros, apéndices y archivo notarial, así como sellos, levantándose por la Dirección un acta circunstanciada, en la que se hará un inventario que incluya todos los libros, los testamentos cerrados que estuvieren en su guarda, los títulos, y cualquier otro documento.
+
+###### ARTÍCULO TERCERO.
+
+Los Estatutos que se hubieren creado en asamblea del Colegio de Notarios antes de entrar en vigor el presente Decreto, seguirán siendo vigentes en lo que no se contrapongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En el caso de la reelección prevista en el artículo 129 de la presente ley, solamente será aplicable para los Consejos Directivos que asuman sus cargos con posterioridad a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
