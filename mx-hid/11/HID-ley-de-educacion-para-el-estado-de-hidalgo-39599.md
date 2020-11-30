@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-39599"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-10"
-last_updated: "2011-03-28"
+last_updated: "2020-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE FECHA 28 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; REPUBLICADA SU ABROGACIÓN POR EL SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2020.]</small>
+
 LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE FECHA 28 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -1510,3 +1510,35 @@ SÉPTlMO.- La educación preescolar será obligatoria en los términos y plazos 
 OCTAVO.- En cuanto a lo que dispone la fracción X del Artículo 14 de la presente ley, los recursos para implementar y operar el sistema al que hace referencia serán los dispuestos en el Presupuesto de Egresos del Estado para el año correspondiente; dicho sistema se operará a partir de que exista la disposición de infraestructura, recurso humano y financiero que le de funcionalidad, como lo dispone la reforma a la Ley General de Educación, Publicada en el Diario Oficial de la Federación, el día 28 de enero de 2011 en su Artículo Tercero transitorio.
 
 NOVENO.- El ejecutivo del Estado dentro de un plazo de 180 días naturales, contados a partir de la entrada en vigor de la presente ley, expedirá los reglamentos que sean necesarios.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 534 QUE CREA LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Educación para el Estado (sic) Hidalgo publicada el 10 de mayo del año 2004 y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado emitirá el reglamento de la presente ley, dentro de los ciento ochenta días siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose los ordenamientos internos emitidos por la Autoridad Educativa para la operación y funcionamiento de los servicios que se presten, y que no contravengan a este Decreto.
+
+CUARTO. Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+SEXTO. La Comisión Estatal para la Planeación y Programación de la Educación Media Superior y la Comisión Estatal para la Planeación y Evaluación de la Educación Superior, previstas en el presente Decreto, deberán crearse y quedar instaladas en un plazo de sesenta días hábiles contados a partir de la entrada en vigor del mismo, para lo cual la Secretaría emitirá previamente los lineamientos respectivos.
+
+Los actos y las acciones efectuadas con anterioridad a la entrada en vigor del presente Decreto, por las Comisiones análogas a que se refiere el presente artículo, tendrán plena validez.
+
+SÉPTIMO. La Secretaría emitirá los lineamientos de integración y funcionamiento del Espacio Común y los Consejos Técnicos de Educación Media Superior y Superior, en un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. El Sistema Integral de Formación, Capacitación y Actualización del Estado de Hidalgo, previsto en el artículo 98 del presente Decreto deberá instalarse antes de finalizar el año 2020.
+
+NOVENO. El Programa Educativo Estatal contenido en el presente Decreto, se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en el presente Decreto.
+
+DÉCIMO. La Secretaría, implementará de manera gradual y de acuerdo a la suficiencia presupuestal, lo estipulado en los artículos 13, fracción II d); 24, 25, 35, 116 fracción XV y 119 del presente Decreto.
+
+DÉCIMO PRIMERO. En términos de lo dispuesto en el artículo Décimo Segundo Transitorio de la Ley General de Educación, las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia.
+
+DÉCIMO SEGUNDO. Las autoridades competentes respetarán íntegramente los derechos económicos y laborales que han obtenido los trabajadores de la educación; y reconocerán la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
+
+DÉCIMO TERCERO. El Congreso del Estado de Hidalgo, debe adecuar y armonizar la legislación estatal relacionada con el presente Decreto, dentro de los ciento ochenta días posteriores a la entrada en vigor del mismo.
