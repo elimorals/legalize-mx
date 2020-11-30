@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-y-conducta-de-los-servidores-publicos-de-la-868
 country: "mx"
 rank: "codigo"
 publication_date: "2012-03-26"
-last_updated: "2012-03-26"
+last_updated: "2020-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA "ASE"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA ASE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 2012.
 
@@ -360,3 +362,15 @@ Dado en la ciudad de Culiacán, Sinaloa, México a los veintiún días del mes d
 C.P. Marco Antonio Fox Cruz
 
 Auditor Superior del Estado de Sinaloa
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente documento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Código de Ética y Conducta de los servidores públicos de la Auditoría Superior del Estado, publicado en el periódico oficial "El Estado de Sinaloa" número 038, el día veintiséis de marzo de dos mil doce.
+
+TERCERO. La Auditoría Superior del Estado de Sinaloa deberá difundir el presente documento en su portal de internet y entre las personas vinculadas con el desarrollo de las actividades de esta Institución.
