@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2020-01-16"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3487,9 +3487,61 @@ V.- Las demás que le confiera este Código y el Reglamento respectivo.
 
 La sentencia ejecutoriada dictada en cualquiera de los juicios a que se refiere este capítulo, se anotará marginalmente en el acta de que se trate, y la anotación se hará cualquiera que sea el sentido de la sentencia.
 
-#### SECCION PRIMERA. Disposiciones generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+#### SECCION SEPTIMA. Del levantamiento de acta por reconocimiento de identidad de género
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 665 Bis.
+
+Cualquier persona podrá solicitar el levantamiento de una nueva acta de nacimiento, para el reconocimiento de su identidad de género.
+
+Se entenderá por identidad de género, la convicción personal con que cada persona se asume así misma, la cual puede corresponder o no, al sexo asignado en el acta originalmente expedida.
+
+Los efectos jurídicos de la nueva acta de nacimiento por identidad de género, serán oponibles a terceros desde su levantamiento.
+
+Los derechos y obligaciones que con anterioridad a la expedición de la nueva acta se hubiesen adquirido, permanecerán con los mismos efectos jurídicos con que se hubiese celebrado cualquier acto.
+
+El reconocimiento se llevará ante el Oficial del Registro Civil del Estado de Quintana Roo que corresponda, procediéndose en su oportunidad a efectuar las anotaciones respectivas en el acta original, la cual, quedará debidamente resguardada y reservada, y únicamente podrá expedirse constancia del acta original, cuando exista mandamiento de autoridad judicial o ministerial.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 665 Ter.
+
+Para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Solicitud en la que se haga constar:
+
+a) Ser de nacionalidad mexicana;
+
+b) Tener 18 años de edad cumplidos;
+
+c) Señalar el nombre completo y los datos registrales asentados en el acta original, y
+
+d) Señalar el género solicitado y, en su caso, el nombre sin apellidos.
+
+II. Copia certificada del acta de nacimiento original para efecto de que se haga la reserva correspondiente;
+
+III. Copia fotostática de su identificación oficial con fotografía, y la original para cotejo;
+
+IV. Comprobante de domicilio, y
+
+V. La Cave Única de Registro de Población.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 665 Quáter.
+
+El procedimiento para expedir la nueva acta por identidad de género se realizará conforme a lo estalecido en el Reglamento del Registro Civil para el Estado Libre y Soberano de Quitana Roo.
+
+El Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo, deberá garantizar que:
+
+I. El procedimiento para el reconocimiento de la identidad de género, se base únicamente en el consentimiento libre e informado de la persona solicitante, sin que se exijan requisitos como las certificaciones médicas o psicológicas, acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento, o cualquier modificación corporal, u otros que puedan resultar irrazonables o patologizantes;
+
+II. El cambio de nombre y género, no libera ni exime de las obligaciones o responsabilidades contraídas con la identidad anterior; por lo que tal protección se debe garantizar por medio de distintos mecanismos legales que no impliquen, permitan o tengan como consecuencia el menoscabo, la lesión o el sacrificio de los derechos fundamentales de las personas que solicitan la adecuación de la identidad de género, y
+
+III. Los trámites relacionados con el proceso registral deben tender a ser lo menos gravosos posible, sobre todo si la persona que lo solicita se encuentra en situación de pobreza y/o vulnerabilidad.
 
 ### CAPITULO DECIMO. Derechos de la personalidad
 
@@ -3843,7 +3895,9 @@ Si el Juez consigue el avenimiento no se procederá al levantamiento del acta.
 
 ### CAPÍTULO IV. De los efectos del matrimonio con relación a los bienes de quienes lo contraen
 
-#### SECCION SEGUNDA. De la comunidad de bienes
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 719.
 
@@ -3885,7 +3939,7 @@ Los actos y negocios jurídicos a que se refiere el artículo anterior sólo est
 
 La casa en que se constituya el hogar conyugal y los muebles de éste son inembargables, salvo que el crédito que se cobre se origine en el precio de los muebles o en la hipoteca mencionada en el artículo 723.
 
-#### SECCION TERCERA. De la separación de bienes
+#### SECCION SEGUNDA. De la comunidad de bienes
 
 ###### Artículo 728.
 
@@ -3993,7 +4047,7 @@ En caso de que hubiere pérdidas el importe de éstas se deducirá del haber de 
 
 Muerto uno de los cónyuges, continuará el que sobrevive en la posesión y administración de la comunidad conyugal, con intervención del representante de la sucesión, mientras no se verifique la partición.
 
-#### SECCION CUARTA. De las donaciones antenupciales
+#### SECCION TERCERA. De la separación de bienes
 
 ###### Artículo 752.
 
@@ -4017,7 +4071,7 @@ En ninguno de los regímenes patrimoniales del matrimonio, los cónyuges podrán
 
 El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-#### SECCION QUINTA. De las donaciones entre consortes
+#### SECCION CUARTA. De las donaciones antenupciales
 
 ###### Artículo 757.
 
@@ -4063,7 +4117,7 @@ II.- Porque el matrimonio dejase de efectuarse.
 
 Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes en todo lo que no fueren contrarias a esta sección.
 
-#### SECCION PRIMERA. Adopción plena
+#### SECCION QUINTA. De las donaciones entre consortes
 
 ###### Artículo 767.
 
@@ -5187,7 +5241,7 @@ Si el que está en posesión de los derechos de ascendiente o de descendiente en
 
 (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
-#### SECCION SEGUNDA. De la adopción simple
+#### SECCION PRIMERA. Adopción plena
 
 ###### Artículo 929.
 
@@ -5229,7 +5283,7 @@ Si el que está en posesión de los derechos de ascendiente o de descendiente en
 
 (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ADOPCIÓN DEL ESTADO DE QUINTANA ROO, P.O. 30 DE JUNIO DE 2009)
 
-#### SECCION PRIMERA. Disposiciones Generales
+#### SECCION SEGUNDA. De la adopción simple
 
 ###### Artículo 939.
 
@@ -7373,7 +7427,7 @@ Será nula toda disposición en favor de persona incierta o sobre bien que no pu
 
 ### CAPITULO SEPTIMO. De los legados
 
-#### SECCION SEGUNDA. Legados alternativos
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### Artículo 1329.
 
@@ -7501,7 +7555,7 @@ Si la carga consiste en la ejecución de un hecho, el heredero o legatario que a
 
 Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, y si sufre evicción, podrá repetir lo que haya pagado.
 
-#### SECCION TERCERA. Legado de bien propio
+#### SECCION SEGUNDA. Legados alternativos
 
 ###### Artículo 1355.
 
@@ -7527,7 +7581,7 @@ El juez, a petición de parte legítima, hará la elección, si en el plazo que 
 
 La elección hecha legalmente es irrevocable.
 
-#### SECCION CUARTA. Legado de bien ajeno
+#### SECCION TERCERA. Legado de bien propio
 
 ###### Artículo 1361.
 
@@ -7545,7 +7599,7 @@ En cuanto a la pérdida, aumento o deterioro posteriores del bien legado se obse
 
 Cuando el testador, no obstante saber que el bien no le pertenece por entero, lo lega sin declarar de un modo expreso que sabía que era parcialmente de otro, el legado sólo será válido en la parte que corresponda al testador.
 
-#### SECCION QUINTA. Legado de una garantía
+#### SECCION CUARTA. Legado de bien ajeno
 
 ###### Artículo 1365.
 
@@ -7587,7 +7641,7 @@ Es válido el legado hecho a un tercero de bien propio del heredero o de un lega
 
 Si el testador ignoraba que el bien fuese propio del heredero o legatario, será nulo el legado.
 
-#### SECCION SEXTA. Del legado de bien hipotecado o dado en prenda
+#### SECCION QUINTA. Legado de una garantía
 
 ###### Artículo 1375.
 
@@ -7597,7 +7651,7 @@ El legado que consiste en la devolución del bien recibido en prenda, sólo exti
 
 Lo dispuesto en el artículo que precede es también aplicable al legado de una hipoteca y al legado de una fianza, ya sea hecho al deudor hipotecario o al fiador, ya al deudor principal.
 
-#### SECCION SEPTIMA. Legado de deuda
+#### SECCION SEXTA. Del legado de bien hipotecado o dado en prenda
 
 ###### Artículo 1377.
 
@@ -7611,7 +7665,7 @@ Si por no pagar el obligado conforme al artículo anterior, lo hiciere el legata
 
 Cualquiera otra carga a que se halle afecto el bien legado, pasa con éste al legatario; pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son carga de la herencia.
 
-#### SECCION OCTAVA. Legado en favor del acreedor
+#### SECCION SEPTIMA. Legado de deuda
 
 ###### Artículo 1380.
 
@@ -7621,7 +7675,7 @@ El legado de deuda hecho al mismo deudor extingue la obligación, y el que debe 
 
 Legado el título, sea público o privado, de una deuda, se entiende legada ésta.
 
-#### SECCION NOVENA. Legado de crédito
+#### SECCION OCTAVA. Legado en favor del acreedor
 
 ###### Artículo 1382.
 
@@ -7635,7 +7689,7 @@ En caso de compensación, si los valores fueren diferentes, el acreedor tendrá 
 
 Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
 
-#### SECCION DECIMA. Legado genérico de liberación de deudas
+#### SECCION NOVENA. Legado de crédito
 
 ###### Artículo 1385.
 
@@ -7653,13 +7707,13 @@ Cumplido lo dispuesto en el artículo que antecede, el que debe pagar el legado 
 
 Los legados a que se refieren los artículos 1380 y 1385, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
 
-#### SECCION UNDECIMA. Legado de bien indeterminado
+#### SECCION DECIMA. Legado genérico de liberación de deudas
 
 ###### Artículo 1389.
 
 El legado genérico de liberación o perdón de deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores.
 
-#### SECCION DUODECIMA. Legado de especie
+#### SECCION UNDECIMA. Legado de bien indeterminado
 
 ###### Artículo 1390.
 
@@ -7677,7 +7731,7 @@ Cuando el testador conceda expresamente la elección al legatario, éste podrá,
 
 Si el bien indeterminado fuere inmueble, sólo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores.
 
-#### SECCION PRIMERA. De la nulidad
+#### SECCION DUODECIMA. Legado de especie
 
 ###### Artículo 1394.
 
@@ -7791,7 +7845,7 @@ Quedan prohibidas las substituciones no reglamentadas en este Capítulo.
 
 ### CAPITULO NOVENO. De la nulidad, revocación y caducidad en materia testamentaria
 
-#### SECCION SEGUNDA. De la revocación
+#### SECCION PRIMERA. De la nulidad
 
 ###### Artículo 1416.
 
@@ -7843,7 +7897,7 @@ III.- La prohibición hecha por el testador de no impugnar el testamento en los 
 
 El Juez que tuviere noticias de que alguien impide a otro testar, se constituirá en la casa del segundo para asegurar el ejercicio de su derecho, y levantará acta en que hará constar los hechos y si la persona cuya libertad protegió testó o no.
 
-#### SECCION TERCERA. De la caducidad
+#### SECCION SEGUNDA. De la revocación
 
 ###### Artículo 1424.
 
@@ -7857,7 +7911,7 @@ La revocación producirá su efecto aunque el segundo testamento caduque.
 
 El testamento anterior recobrará, no obstante, su fuerza, si el testador, revocando el posterior, declara ser su voluntad que el primero subsista.
 
-#### SECCION PRIMERA. De los albaceas
+#### SECCION TERCERA. De la caducidad
 
 ###### Artículo 1427.
 
@@ -8749,7 +8803,7 @@ La herencia se tiene por aceptada a beneficio de inventario aunque no se exprese
 
 ### CAPITULO SEXTO. De los albaceas y los interventores
 
-#### SECCION SEGUNDA. De los interventores
+#### SECCION PRIMERA. De los albaceas
 
 ###### Artículo 1606.
 
@@ -9077,7 +9131,7 @@ Si la revocación se hace sin causa justificada, el albacea removido tiene derec
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente promovido por parte legítima.
 
-#### SECCION PRIMERA. Generalidades
+#### SECCION SEGUNDA. De los interventores
 
 ###### Artículo 1672.
 
@@ -10101,7 +10155,7 @@ El propietario de un edificio está obligado a construir sus tejados y azoteas d
 
 ### CAPITULO SEGUNDO. De los medios de adquirir la propiedad
 
-#### SECCION SEGUNDA. De la apropiación de los animales por la caza o por la pesca
+#### SECCION PRIMERA. Generalidades
 
 ###### Artículo 1878.
 
@@ -10129,7 +10183,7 @@ Ocupación es la toma de posesión permanente de los bienes sin dueño o cuya le
 
 Hay ocupación en la caza y pesca, en el descubrimiento de tesoros y en la captación de aguas.
 
-#### SECCION TERCERA. De la adquisición de los tesoros
+#### SECCION SEGUNDA. De la apropiación de los animales por la caza o por la pesca
 
 ###### Artículo 1881.
 
@@ -10219,7 +10273,7 @@ La pesca y el buceo de perlas en aguas del dominio del poder público que sean d
 
 El derecho de pesca en aguas particulares pertenece, con sujeción a las leyes y reglamentos de la materia, a los dueños de los predios en que aquéllas se encuentren.
 
-#### SECCION CUARTA. Del dominio de las aguas
+#### SECCION TERCERA. De la adquisición de los tesoros
 
 ###### Artículo 1903.
 
@@ -10261,7 +10315,7 @@ Si el descubridor no es el dueño ni el usufructuario, el tesoro se repartirá e
 
 Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro; pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo en la parte ocupada o demolida para buscar el tesoro y la indemnización se pagará aun cuando no se encuentre el tesoro.
 
-#### SECCION QUINTA. Del derecho de accesión y del de percepción de frutos
+#### SECCION CUARTA. Del dominio de las aguas
 
 ###### Artículo 1913.
 
@@ -10287,7 +10341,7 @@ El uso y aprovechamiento de las aguas de dominio público se regirá por la legi
 
 El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION QUINTA. Del derecho de accesión y del de percepción de frutos
 
 ###### Artículo 1919.
 
@@ -10957,7 +11011,7 @@ La división de bienes inmuebles es nula si no se hace con las formalidades que 
 
 ### CAPITULO PRIMERO. Del usufructo
 
-#### SECCION SEGUNDA. De los derechos del usufructuario
+#### SECCION PRIMERA. Disposiciones generales
 
 ###### Artículo 2066.
 
@@ -10991,7 +11045,7 @@ Sólo pueden dar en usufructo quienes puedan enajenar, y sólo se pueden dar en 
 
 Las personas jurídicas que no puedan adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
 
-#### SECCION TERCERA. De las obligaciones del usufructuario
+#### SECCION SEGUNDA. De los derechos del usufructuario
 
 ###### Artículo 2073.
 
@@ -11047,11 +11101,7 @@ El propietario de bienes en que otro tenga el usufructo puede enajenarlos, pero 
 
 El usufructuario goza del derecho del tanto, tanto para la constitución de un nuevo usufructo, cuanto para la adquisición de la propiedad del bien usufructuado. Es aplicable lo dispuesto en el artículo 1999 en lo que se refiere a la forma para dar el aviso del nuevo usufructo concertado o de enajenación en su caso, así como en lo referente al tiempo para hacer uso de tal derecho del tanto.
 
-#### SECCION CUARTA. De los usufructos especiales
-
-SUBSECCION PRIMERA
-
-Usufructos sobre capitales y acciones
+#### SECCION TERCERA. De las obligaciones del usufructuario
 
 ###### Artículo 2086.
 
@@ -11133,7 +11183,11 @@ Al concluir el usufructo, el usufructuario tendrá la obligación de restituir e
 
 Las garantías que al respecto se hubieren otorgado no se cancelarán sino hasta que tal responsabilidad haya sido satisfecha, la que pasa a los herederos en caso de muerte del usufructuario.
 
-#### SECCION QUINTA. De los modos de extinguirse el usufructo
+#### SECCION CUARTA. De los usufructos especiales
+
+SUBSECCION PRIMERA
+
+Usufructos sobre capitales y acciones
 
 ###### Artículo 2104.
 
@@ -11211,7 +11265,7 @@ En cuanto a las deudas de la herencia, los usufructuarios universales están obl
 
 Si el usufructuario se negare a hacer la anticipación, el nudo propietario podrá hacer que se venda la parte de bienes que baste para el pago de la cantidad que aquél debía satisfacer en los términos del artículo anterior; pero si el nudo propietario opta por hacer la anticipación por su cuenta, el usufructuario deberá pagarle intereses por todo el tiempo que continúe gozando de la cosa.
 
-#### SECCION PRIMERA. La prestación de bienes
+#### SECCION QUINTA. De los modos de extinguirse el usufructo
 
 ###### Artículo 2119.
 
@@ -11735,7 +11789,7 @@ La ley, por su simple ministerio, tampoco podrá producir consecuencias de derec
 
 ### CAPITULO PRIMERO. De las obligaciones de dar
 
-#### SECCION SEGUNDA. Cómo se traslada la propiedad de los bienes
+#### SECCION PRIMERA. La prestación de bienes
 
 ###### Artículo 2225.
 
@@ -11757,7 +11811,7 @@ El acreedor de bien cierto no puede ser obligado a recibir otro aun cuando sea d
 
 La obligación de dar bien cierto comprende también la de entregar sus accesorios, salvo que lo contrario resulte del título de la obligación o de las circunstancias del caso.
 
-#### SECCION TERCERA. Responsabilidad culposa por pérdida o deterioro del bien
+#### SECCION SEGUNDA. Cómo se traslada la propiedad de los bienes
 
 ###### Artículo 2228.
 
@@ -11767,7 +11821,7 @@ Salvo convenio en contrario, en las enajenaciones de bienes ciertos y determinad
 
 En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá sino hasta el momento en que el bien se hace cierto y determinado con conocimiento del acreedor, bajo el concepto de que si no se designa la calidad del bien, el deudor cumple entregando uno de mediana calidad.
 
-#### SECCION CUARTA. De la imputación del riesgo
+#### SECCION TERCERA. Responsabilidad culposa por pérdida o deterioro del bien
 
 ###### Artículo 2230.
 
@@ -11845,7 +11899,7 @@ III.- Cuando la obligación sea indivisible; y
 
 IV.- Cuando por contrato se haya establecido otra regla.
 
-#### SECCION QUINTA. De las obligaciones de hacer o de no hacer
+#### SECCION CUARTA. De la imputación del riesgo
 
 ###### Artículo 2242.
 
@@ -11891,7 +11945,7 @@ Cuando la obligación se contraiga bajo condición suspensiva y, pendiente ésta
 
 En el supuesto de que el caso fortuito o la fuerza mayor no produzcan la pérdida o perecimiento del bien sino sólo su deterioro, el acreedor está obligado a recibir el bien en el estado en que se encuentre al realizarse la condición, en el precio que se fije mediante juicio de peritos.
 
-#### SECCION PRIMERA. Del pago
+#### SECCION QUINTA. De las obligaciones de hacer o de no hacer
 
 ###### Artículo 2253.
 
@@ -11911,7 +11965,7 @@ Si de dos obligaciones recíprocas nacidas de un mismo negocio jurídico, la de 
 
 ### CAPITULO PRIMERO. Del cumplimiento de las obligaciones
 
-#### SECCION SEGUNDA. De la imputación del pago
+#### SECCION PRIMERA. Del pago
 
 ###### Artículo 2256.
 
@@ -12021,7 +12075,7 @@ La entrega del título hecha al deudor hace presumir el pago de la deuda constan
 
 Ninguna de las presunciones establecidas en los tres artículos opera si hay prueba en contrario.
 
-#### SECCION TERCERA. De la dación en pago
+#### SECCION SEGUNDA. De la imputación del pago
 
 ###### Artículo 2280.
 
@@ -12035,7 +12089,7 @@ Si el deudor no hiciere la referida declaración, se entenderá hecho el pago po
 
 Las cantidades pagadas a cuenta de deudas con intereses, no se imputarán al capital mientras hubiere intereses vencidos y no pagados, salvo convenio en contrario.
 
-#### SECCION CUARTA. Del ofrecimiento del pago y de la consignación
+#### SECCION TERCERA. De la dación en pago
 
 ###### Artículo 2283.
 
@@ -12049,7 +12103,7 @@ Si el acreedor sufre la evicción del bien que recibe en pago, la dación será 
 
 La nulidad operará de pleno derecho, esto es, sin necesidad de declaración judicial. Las cosas volverán, por tanto, como estaban antes de la dación anulada, debiéndose tener, por lo mismo, como no pagada la obligación primitiva.
 
-#### SECCION PRIMERA. Consecuencias del incumplimiento de las obligaciones
+#### SECCION CUARTA. Del ofrecimiento del pago y de la consignación
 
 ###### Artículo 2286.
 
@@ -12081,11 +12135,7 @@ Cuando se siga un juicio de rescisión de contrato por falta de pago de pensione
 
 ### CAPITULO SEGUNDO. Del incumplimiento de las obligaciones
 
-#### SECCION SEGUNDA. Del saneamiento por evicción y por vicios ocultos
-
-SUBSECCION PRIMERA
-
-Disposiciones generales
+#### SECCION PRIMERA. Consecuencias del incumplimiento de las obligaciones
 
 ###### Artículo 2293.
 
@@ -12191,7 +12241,11 @@ Si la prestación consistiera en el pago de cierta cantidad de dinero, los daño
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación y se hará en los términos que establezca el Código de Procedimientos Civiles.
 
-#### SECCION PRIMERA. De la cesión ordinaria
+#### SECCION SEGUNDA. Del saneamiento por evicción y por vicios ocultos
+
+SUBSECCION PRIMERA
+
+Disposiciones generales
 
 ###### Artículo 2311.
 
@@ -12527,7 +12581,7 @@ La regla establecida en el artículo anterior se observará también si el bien 
 
 ### CAPITULO SEGUNDO. De la cesión de derechos
 
-#### SECCION SEGUNDA. De las cesiones especiales
+#### SECCION PRIMERA. De la cesión ordinaria
 
 ###### Artículo 2375.
 
@@ -12619,7 +12673,7 @@ Si el crédito cedido consiste en una renta perpetua, la responsabilidad por la 
 
 El que cede alzadamente o en globo la totalidad de ciertos derechos, cumple con responder de la legitimidad del todo en general; pero no está obligado al saneamiento de cada una de las partes, salvo en el caso de evicción del todo o de la mayor parte.
 
-#### SECCION PRIMERA. De las obligaciones conjuntivas
+#### SECCION SEGUNDA. De las cesiones especiales
 
 ###### Artículo 2394.
 
@@ -13079,13 +13133,13 @@ Al primer grupo corresponden las obligaciones conjuntivas y las alternativas, qu
 
 ### CAPITULO SEGUNDO. De la pluralidad de objetos
 
-#### SECCION SEGUNDA. De las obligaciones alternativas
+#### SECCION PRIMERA. De las obligaciones conjuntivas
 
 ###### Artículo 2478.
 
 Quien se ha obligado a diversos bienes o a diversos hechos, o a unos y otros, conjuntamente, debe dar todos los bienes y prestar todos los hechos que comprenda la obligación que contrajo.
 
-#### SECCION TERCERA. De las obligaciones facultativas
+#### SECCION SEGUNDA. De las obligaciones alternativas
 
 ###### Artículo 2479.
 
@@ -13115,7 +13169,7 @@ Si una de las prestaciones llega a ser imposible, no por culpa del deudor, como 
 
 Las reglas establecidas en esta sección se observarán también cuando la alternatividad se establezca entre más de dos prestaciones, bajo el concepto de que cuando éstas sean de hacer o de no hacer se tendrá en cuenta, al respecto y en su caso, lo dispuesto en los artículos 2253 a 2255.
 
-#### SECCION PRIMERA. De las obligaciones mancomunadas
+#### SECCION TERCERA. De las obligaciones facultativas
 
 ###### Artículo 2486.
 
@@ -13137,7 +13191,7 @@ En caso de duda sobre si la obligación es alternativa o facultativa, se tendrá
 
 ### CAPITULO TERCERO. De la pluralidad de sujetos
 
-#### SECCION SEGUNDA. De las obligaciones solidarias y de las disjuntas
+#### SECCION PRIMERA. De las obligaciones mancomunadas
 
 ###### Artículo 2490.
 
@@ -13145,7 +13199,7 @@ Son obligaciones mancomunadas aquéllas en las que habiendo varios acreedores o 
 
 Las partes de referencia se presumen iguales, salvo pacto de los interesados o disposición expresa de la ley en contrario.
 
-#### SECCION TERCERA. De las obligaciones divisibles y de las indivisibles
+#### SECCION SEGUNDA. De las obligaciones solidarias y de las disjuntas
 
 ###### Artículo 2491.
 
@@ -13246,6 +13300,8 @@ La renuncia expresa o tácita de la solidaridad de una pensión periódica se li
 Son obligaciones disjuntas las que se contraen expresándose en el documento respectivo que si no paga uno de los deudores pagará el otro o cualquiera de los otros, o que cualquiera de los acreedores podrá recibir o exigir el pago, sin perjuicio de que todos los primeros puedan conjuntamente pagar, o todos los segundos puedan, también conjuntamente, cobrar.
 
 Se expresan generalmente estas obligaciones empleándose en la redacción del documento respectivo la fórmula y/o, y les son aplicables las normas contenidas en esta sección, relativas a la solidaridad activa o pasiva, según sea el caso.
+
+#### SECCION TERCERA. De las obligaciones divisibles y de las indivisibles
 
 ###### Artículo 2510.
 
@@ -17586,3 +17642,13 @@ P.O. 16 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 199 POR EL QUE SE REFORMA EL ARTÍCULO 538 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 548. TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 Único. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 061 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado, contará con noventa días hábiles para efectuar las modificaciones necesarias al Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente decreto.
