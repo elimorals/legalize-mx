@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-comedores-sociales-de-la-ciudad-de-mexico-122183"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-26"
-last_updated: "2017-06-26"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-03-31"
 
 LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en el No. 97 Bis la Gaceta Oficial de la Ciudad de México, el lunes 26 de junio de 2017.
 
@@ -256,9 +256,11 @@ IV. En su caso acreditar la calidad que esta ley establece.
 
 Los datos personales de las personas beneficiarios o derechohabientes de los Comedores Sociales. La información adicional generada y administrada, se regirá por lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal, de conformidad con los lineamientos del padrón unificado establecido en la Ley de Desarrollo Social del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
-En correspondencia social, los usuarios podrán recibir capacitación y/o pláticas sobre nutrición, cultura cívica, derechos humanos, proyectos productivos, culturales, u otras que sean establecidas por la Autoridad.
+En correspondencia social, las personas usuarias podrán recibir capacitación y/o pláticas sobre nutrición, cultura cívica, prevención de violencia contra las mujeres, derechos humanos, proyectos productivos, culturales, u otras que sean establecidas por la Autoridad.
 
 ## TÍTULO TERCERO. DEL MANEJO RESPONSABLE DE RESIDUOS
 
@@ -315,3 +317,13 @@ QUINTO.- La Asamblea Legislativa del Distrito Federal armonizará la Ley del Sis
 Recinto de la Asamblea Legislativa del Distrito Federal, a los ocho días del mes de diciembre del año dos mil dieciséis.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- DIP. NURY DELIA RUIZ OVANDO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de marzo del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23 DE LA LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
