@@ -4,7 +4,7 @@ identifier: "LGAHOTDU"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-11-28"
-last_updated: "2020-01-06"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117395&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGAHOTDU"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 28 de noviembre de 2016.
 
@@ -1238,6 +1238,10 @@ La Federación, las entidades federativas, los municipios y las Demarcaciones Te
 
 La creación, recuperación, mantenimiento y defensa del Espacio Público para todo tipo de usos y para la Movilidad, es principio de esta Ley y una alta prioridad para los diferentes órdenes de gobierno, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los Centros de Población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad.
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2020)</small>
+
+Las autoridades de los tres órdenes de gobierno, procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en los edificios que ocupan.
+
 Los planes o programas municipales de Desarrollo Urbano, de conurbaciones y de zonas metropolitanas definirán la dotación de Espacio Público en cantidades no menores a lo establecido por las normas oficiales mexicanas aplicables. Privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la Movilidad; igualmente, los espacios abiertos para el deporte, los parques y las plazas de manera que cada colonia, Barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
 
 Los planes o programas municipales de Desarrollo Urbano incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del Espacio Público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones, para determinar las prioridades y los proyectos sobre Espacio Público y para dar seguimiento a la ejecución de obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios y entre otras acciones, las siguientes:
@@ -1757,3 +1761,11 @@ D.O.F. 6 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIX BIS AL ARTÍCULO 3 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 74 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que realicen las dependencias y entidades de la Administración Pública para dar cumplimiento al presente Decreto se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
