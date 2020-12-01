@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2018-06-25"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -488,9 +488,9 @@ Los permisionarios están obligados a vigilar y constatar que los conductores de
 
 La Secretaría llevará un registro de las licencias que otorgue.
 
-> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2020)</small>
 
-Los conductores de vehículos que transitan en los caminos y puentes, deberán portar la licencia vigente que exijan las disposiciones jurídicas aplicables. Asimismo se abstendrán de conducir en estado de ebriedad o bajo los efectos de drogas de abuso o rebasar los máximos de velocidad, establecidos por la Secretaría.
+Los conductores de vehículos que transitan en los caminos y puentes, deberán portar la licencia vigente que exijan las disposiciones jurídicas aplicables. Asimismo, se abstendrán de conducir en estado de ebriedad o bajo los efectos de drogas de abuso, hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, salvo que lo haga con tecnología de manos libres, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, o rebasar los máximos de velocidad, establecidos por la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
@@ -1151,3 +1151,9 @@ D.O.F. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 6o. DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 36 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
