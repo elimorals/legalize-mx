@@ -4,7 +4,7 @@ identifier: "LNSIJPA"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-16"
-last_updated: "2016-06-16"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115164&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNSIJPA"
 
 LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el jueves 16 de junio de 2016.
 
@@ -1298,7 +1298,9 @@ III. Tener un trabajo o empleo, o adquirir, en el plazo que el Juez determine, u
 
 IV. En caso de hechos tipificados como delitos sexuales, la obligación de integrarse a programas de educación sexual que incorporen la perspectiva de género,
 
-V. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2020)</small>
+
+V. Abstenerse de consumir drogas, estupefacientes y bebidas alcohólicas;
 
 VI. Participar en programas especiales para la prevención y el tratamiento de adicciones, y
 
@@ -3341,3 +3343,11 @@ Las autoridades de la federación, de las entidades federativas, de los municipi
 Ciudad de México, a 14 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 102 DE LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
