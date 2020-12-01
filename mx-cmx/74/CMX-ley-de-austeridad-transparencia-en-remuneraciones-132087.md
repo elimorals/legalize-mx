@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-10-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -142,91 +142,185 @@ XXXVI. Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciu
 
 XXXVII. Largo Plazo: Periodo que comprende más de 6 años;
 
-XXXVIII. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XXXIX. Ley de Planeación: Ley de Planeación del Desarrollo aplicable en la Ciudad de México;
+XXXVIII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
 
-XL. Ley General: Ley General de Contabilidad Gubernamental;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XLI. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+XXXIX. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso;
 
-XLII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XLIII. Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la persona titular de la Jefatura de Gobierno;
+XL. Ley de Planeación: Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
 
-XLIV. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XLV. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+XLI. Ley General: Ley General de Contabilidad Gubernamental;
 
-XLVI. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XLVII. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas.
+XLII. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
-XLVIII. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XLIX. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México.
+XLIII. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLIV. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLV. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLVI. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLVII. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLVIII. Plan General de Desarrollo: Plan General de Desarrollo de la Ciudad de México: Es el instrumento al que se sujetarán los programas, políticas y proyectos públicos; la programación y ejecución presupuestal deberá incorporar sus objetivos, estrategias y metas;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XLIX. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 L. Poder Judicial: El Tribunal Superior de Justicia;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 LI. Poder Legislativo: El Congreso de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 LII. Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por el Congreso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 LIII. Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 LIV. Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 LV. Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 LVI. Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 LVII. Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 LVIII. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
 
-LIX. Programa General: Programa General de Desarrollo de la Ciudad de México. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LX. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
+LIX. Programa de Gobierno: Programa de Gobierno de la Ciudad de México: Es el instrumento que establecerá las metas y objetivos de la acción pública en el ámbito del Poder Ejecutivo de la Ciudad. Será obligatorio para la Administración Pública Local. Se sujetará al Plan General y al Programa General y tendrá una vigencia de seis años;
 
-LXI. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
+LX. Programa General: Programa General de Ordenamiento Territorial de la Ciudad de México. Es el instrumento cuyo propósito es crear y preservar un hábitat adecuado para todas las personas y seres vivos que habitan o transitan la Ciudad. Está dirigido a regular la ocupación y utilización sustentable y racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental en la Ciudad;
 
-LXIII. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXIV. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
+LXI. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
 
-LXV. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la persona titular de la Jefatura de Gobierno presenta al Congreso Local para su aprobación.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXVI. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
+LXII. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
 
-LXVII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXVIII. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
+LXIII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
 
-LXIX. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXX. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a la persona servidora pública por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+LXIV. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-LXXI. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXXII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
+LXV. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
 
-LXXIII. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXXIV. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
+LXVI. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la persona titular de la Jefatura de Gobierno presenta al Congreso Local para su aprobación;
 
-LXXV. Servidores Públicos: Las personas miembros de los Poderes Ejecutivo, Legislativo y Judicial, los integrantes de las Alcaldías, los miembros de los Organismos Autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXXVI. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+LXVII. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
 
-LXXVII. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXXVIII. Tesorería: Tesorería de la Ciudad de México;
+LXVIII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
 
-LXXIX. Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres y los hombres cualquier acción que se programe; y
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-LXXX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
+LXIX. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXX. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXI. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a la persona servidora pública por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXII. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXIII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXIV. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXV. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXVI. Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la persona titular de la Jefatura de Gobierno;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXVII. Servidores Públicos: Las personas miembros de los Poderes Ejecutivo, Legislativo y Judicial, los integrantes de las Alcaldías, los miembros de los Organismos Autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXVIII. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXIX. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXX. Tesorería: Tesorería de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXXI. Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+LXXXII. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -277,6 +371,10 @@ III. Autorizar las adecuaciones a sus presupuestos para el mejor cumplimiento de
 IV. Coadyuvar con la disciplina presupuestaria, determinando los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, observando en lo conducente lo establecido en esta Ley y en la normatividad aplicable, y
 
 V. Llevar contabilidad y elaborar los informes correspondientes, en términos del Libro Segundo de la presente Ley.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+VI. Emitir, de conformidad con la Ley en la materia vigente en la Ciudad de México, las políticas, bases y lineamientos en materia de adquisiciones, arrendamiento de bienes muebles y prestación de servicios, sujetándose a sus propios órganos de control para la verificación de los procedimientos y destino y uso de estos.
 
 Los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno de la Ciudad de México, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
 
@@ -468,9 +566,11 @@ Las Unidades Responsables del Gasto enviarán de manera trimestral al Congreso p
 
 ### CAPÍTULO III. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Financiera
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal se elaborarán con base en los resultados que se pretendan alcanzar conforme al avance y cumplimiento del Programa General, al análisis del desempeño económico de la Ciudad de México y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable.
+Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal estarán orientados por el Plan General de Desarrollo, el Programa General, el Programa de Gobierno, por el análisis del desempeño económico de la Ciudad de México y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -568,13 +668,21 @@ La Secretaría publicará en la Gaceta, a más tardar el 31 de enero del ejercic
 
 Las reglas de carácter general para la integración de los Anteproyectos de Presupuesto, serán emitidas por la Secretaría, de conformidad con lo dispuesto en esta Ley, el Reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+Dichas reglas deberán contener disposiciones específicas para la implementación del Presupuesto basado en Resultados y utilización de indicadores de desempeño.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades garantizarán que los objetivos, fines y propósitos de sus anteproyectos sean congruentes con el Plan General de Desarrollo y demás instrumentos de planeación de la Ciudad, en los términos de la Ley de Planeación.
+
 ###### Artículo 27.
 
 La programación y presupuestación del gasto público comprende:
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que la persona titular de la Jefatura de Gobierno expida en tanto se elabore dicho Programa;
+I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los instrumentos de planeación que se derivan del Plan General de Desarrollo.
 
 > <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -586,13 +694,19 @@ III. Las actividades y sus respectivas previsiones de gasto público correspondi
 
 IV. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para la operación y el cumplimiento de los Programas Presupuestarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para cada ejercicio fiscal y con base en:
+La programación y presupuestación anual del gasto público deberá elaborarse considerando la información estadística y los resultados de las evaluaciones de que se dispongan, estableciendo con claridad y precisión los resultados esperados, los objetivos, estrategias, indicadores, metas y plazos.
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación;
+Se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para cada ejercicio fiscal, debiendo garantizar que sea congruente con:
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+I. Los objetivos, estrategias y metas establecidos en el Plan General de Desarrollo, el Programa General, el Programa de Gobierno y demás instrumentos de planeación de la Ciudad, en los términos de la Ley de Planeación;
 
 > <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -708,7 +822,9 @@ También, podrá participar el Congreso, mediante los acuerdos que sobre esta ma
 
 En materia de Proyectos de Inversión, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades tendrán la responsabilidad de llevar a cabo:
 
-I. La vinculación de estos proyectos con lo establecido en el Programa General;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+I. La vinculación de estos proyectos con lo establecido en el Plan General de Desarrollo;
 
 II. Los estudios de la demanda social, el grado de cobertura o avance de las acciones institucionales respecto del total de las necesidades sociales correspondientes, diagnóstico sobre los beneficios que se esperan obtener con la ejecución del programa de inversión física y la generación de empleos directos e indirectos;
 
@@ -718,9 +834,11 @@ III. Informar a la Secretaría, el periodo total de ejecución del proyecto, los
 
 IV. Para el caso de los proyectos en proceso, el total de la inversión realizada, las metas y resultados obtenidos al término del ejercicio inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 40.
 
-Las Dependencias, Órganos Desconcentrados y Entidades elaborarán Programas Operativos Anuales para la ejecución del Programa General de Desarrollo de la Ciudad de México y de los programas de mediano plazo, desagregando su contenido atendiendo al destino y alcance de los mismos, a la fecha en que se ejecutarán, debiendo presentar los indicadores que serán utilizados para la evaluación de cada programa.
+Las Dependencias, Órganos Desconcentrados y Entidades elaborarán Programas Operativos Anuales para la ejecución del Plan General de Desarrollo y demás instrumentos de planeación aplicables, desagregando su contenido atendiendo al destino y alcance de los mismos, a la fecha en que se ejecutarán, debiendo presentar los indicadores que serán utilizados para la evaluación de cada programa.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1140,7 +1258,7 @@ Las unidades responsables del gasto que por cualquier motivo al término del eje
 
 De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
 
 Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
@@ -1326,11 +1444,15 @@ Por lo que hace a televisión radio y prensa, que lleve a cabo la Administració
 
 Cada mes deberá publicarse en los sitios de Internet de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades el número de contratos y convenios que se hayan generado, debiendo mencionar el tipo de servicio de medios de difusión contratado, la temporalidad del mismo y su costo.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 93.
 
-Los Sujetos obligados adquirirán únicamente vehículos destinados a actividades prioritarias y a la prestación de servicios directos a la población. Queda prohibido la adquisición y uso de vehículos para fines distintos a los establecidos en este artículo.
+Los sujetos obligados adquirirán únicamente vehículos destinados a actividades prioritarias y a la prestación de servicios públicos y sociales que requiera la población. Queda prohibido la adquisición y uso de vehículos para fines distintos a los establecidos en este artículo.
 
-Los vehículos oficiales al servicio de la Administración Pública de la Ciudad de México, sólo podrán sustituirse en cualquiera de los siguientes casos:
+Todo vehículo oficial propiedad o en posesión de cualquier Unidad Responsable del Gasto, deberá ser rotulado con base en los diseños y características oficiales de identidad vigente de cada ente.
+
+Los vehículos oficiales, propiedad o en posesión de cualquier Unidad Responsable del Gasto, sólo podrán sustituirse en cualquiera de los siguientes casos:
 
 a) Si tienen, al menos, seis años de uso;
 
@@ -1338,31 +1460,31 @@ b) En caso de robo o pérdida total, una vez que sea reintegrado su valor por el
 
 c) Cuando el costo de mantenimiento acumulado sea igual o mayor a su valor de enajenación presente.
 
-Las unidades nuevas que se adquieran no podrán costar más de 3300 veces la Unidad de Cuenta de la Ciudad de México vigente, y por sus características técnicas y mecánicas deberán estar en condiciones de obtener el holograma doble cero o mejor en su primer verificación de emisiones contaminantes.
+Las unidades nuevas que se adquieran no podrán costar más de 3300 veces la Unidad de Medida y Actualización diaria vigente, y por sus características técnicas y mecánicas deberán estar en condiciones de obtener el holograma doble cero, o mejor, en su primer verificación de emisiones contaminantes.
 
 Solo podrán exceder el costo señalado en el párrafo anterior, los vehículos blindados que se adquieran, de acuerdo con lo establecido en la presente Ley.
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
-
-Los vehículos oficiales al servicio de las personas servidoras públicas de la Administración Pública de la Ciudad de México deberán darse de baja cuando:
+Asimismo, todo vehículo oficial propiedad o en posesión de cualquier Unidad Responsable del Gasto, deberá darse de baja cuando:
 
 a) Tengan doce años de uso, o
 
 b) Cuando el costo de mantenimiento acumulado sea igual o mayor al doble de su valor de adquisición, actualizado por inflación.
 
-Los vehículos oficiales deberán de permanecer resguardados después de la jornada de trabajo, los fines de semana, días festivos con excepción de los destinados a las áreas con actividades prioritarias y a la prestación de servicios directos a la población.
+Los vehículos oficiales propiedad o en posesión de cualquier Unidad Responsable del Gasto, deberán de permanecer resguardados después de la jornada de trabajo, los fines de semana y días festivos, con excepción de los destinados a las áreas con actividades prioritarias y a la prestación de servicios directos a la población.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 94.
 
-El uso del vehículo oficial automotor se sujetará a lo siguiente:
+Toda persona servidora pública que tenga asignado un vehículo oficial propiedad o en posesión de cualquier Unidad Responsable del Gasto, será directamente responsable del uso que haga del mismo y estará obligado a:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2020)</small>
+a) No utilizar el vehículo fuera de los límites de la Ciudad de México, salvo causa plenamente justificada;
 
-La persona servidora pública que utilice el vehículo oficial será directamente responsable del uso que haga del mismo y estará obligado a:
+b) Cubrir los daños que pudiera ocasionar al vehículo a consecuencia de algún percance por negligencia, conducción irresponsable o en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, sin que medie prescripción médica.
 
-Cubrir los daños que pudiera ocasionar al vehículo a consecuencia de algún percance por negligencia, conducción irresponsable o en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, sin que medie prescripción médica.
+Para tal efecto deberá realizar el pago de infracciones o multas viales que pudieran generarse, hasta la liberación del vehículo oficial; y
 
-Para tal efecto deberá realizar el pago de infracciones o multas viales que pudieran generarse, hasta la liberación del vehículo oficial.
+c) Las demás que señalen las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2499,3 +2621,25 @@ G.O. 1 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 7, 19, 26, 27, 28, 39 Y 40 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, no obstante, lo referente a la programación y presupuestación del gasto público relacionado con el Plan General de Desarrollo, será aplicable para el proceso respectivo del ejercicio fiscal 2022.
+
+TERCERO. La Jefatura de Gobierno deberá armonizar el Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México en un plazo no mayor a 180 días naturales.
+
+CUARTO. En tanto se elabore y apruebe el Plan General de Desarrollo de la Ciudad de México, para la programación y presupuestación del gasto público, en lo relativo a las actividades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, deberán atender las directrices que la persona titular de la Jefatura de Gobierno expida para tales efectos.
+
+G.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 93 Y 94 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. Las Unidades Responsables del Gasto tendrán un plazo de sesenta días hábiles a partir de la entrada en vigor de la presente reforma, para rotular todos y cada uno de sus vehículos oficiales.
