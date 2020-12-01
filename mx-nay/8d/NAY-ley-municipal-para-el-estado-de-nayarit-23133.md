@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2020-08-03"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1097,9 +1097,17 @@ III.- Informar al Ayuntamiento sobre cualquier deficiencia que notare en los dif
 
 IV.- Suplir al Presidente Municipal en los términos de la presente ley;
 
-V.- Sujetarse a los acuerdos que dicte el Ayuntamiento y vigilar que se cumplan con base a la ley; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-VI.- Las demás que les impongan la Constitución Federal, la particular del estado y las demás leyes y los reglamentos competentes.
+V.- Sujetarse a los acuerdos que dicte el Ayuntamiento y vigilar que se cumplan con base a la ley;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+VI.- Presentar por escrito al Ayuntamiento, un informe anual correspondiente al desempeño de las actividades relativas a su encargo, podrán hacerlo de manera pública ante los habitantes de su demarcación territorial y deberá publicarse en la Gaceta Municipal. EI informe deberá ser presentado dentro de los quince días, posterior al del Presidente Municipal; salvo en el último año de ejercicio constitucional, en el que el informe deberá presentarse dentro de los cinco días posteriores, y
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+VII.- Las demás que les impongan la Constitución Federal, la particular del Estado y las demás leyes y los reglamentos competentes.
 
 ### CAPÍTULO IV. Facultades y deberes del Síndico
 
@@ -1153,9 +1161,17 @@ VII.- Inscribir los bienes municipales en el Registro Público de la Propiedad;
 
 VIII.- Intervenir en los procedimientos de expropiación que solicite el Ayuntamiento;
 
-IX.- Vigilar que se formule y actualice el registro de todas las enajenaciones que realice el Ayuntamiento; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-X.- Las demás que le imponga la Constitución Federal, la particular del estado y las leyes y reglamentos competentes.
+IX.- Vigilar que se formule y actualice el registro de todas las enajenaciones que realice el Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+X.- Presentar por escrito al Ayuntamiento, un informe anual correspondiente al desempeño de las actividades relativas a su encargo, podrá hacerlo de manera pública ante la ciudadanía y deberá publicarse en la Gaceta Municipal. El informe deberá ser presentado dentro de los quince días, posterior al del Presidente Municipal; salvo en el último año de ejercicio constitucional, en el que el informe deberá presentarse dentro de los cinco días posteriores, y
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XI.- Las demás que le imponga la Constitución Federal, la particular del Estado y las leyes y reglamentos competentes.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -4408,3 +4424,13 @@ SEGUNDO.- Cada Ayuntamiento deberá asignar el presupuesto indispensable para el
 TERCERO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de sesenta días naturales, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
 
 CUARTO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE INFORME DE ACTIVIDADES DEL SÍNDICO Y REGIDORES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de sesenta días naturales, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
