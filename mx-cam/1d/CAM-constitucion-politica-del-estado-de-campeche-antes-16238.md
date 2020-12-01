@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2020-10-05"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -877,19 +877,21 @@ III. Aprobar en forma anual:
 
 a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-b). La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior. Asimismo, deberá autorizar en dicha ley las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de empréstitos, proyectos de infraestructura y contratos de colaboración público privada que se celebren con la previa autorización del H. Congreso del Estado, durante la vigencia de los mismos; las erogaciones y partidas correspondientes deberán incluirse en las subsecuentes leyes de presupuesto de egresos del Estado y tendrán éstas preferencia, conjuntamente con las prestaciones sociales, respecto de otras previsiones de gasto, siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado;
+b) La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior. Asimismo, deberá incluir en dicha ley las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de financiamientos, proyectos de infraestructura y contratos de asociación público privada que se tenga previsto celebrar en el ejercicio o que se hubieren celebrado en ejercicios anteriores; las erogaciones y partidas correspondientes para el pago de financiamientos, proyectos de infraestructura y contratos de asociación público privada deberán incluirse en las subsecuentes leyes de presupuesto de egresos del Estado y éstas tendrán preferencia, conjuntamente con las prestaciones sociales, respecto de otras previsiones de gasto.
 
 c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-III. bis. Establecer, mediante la expedición de una ley, las bases conforme a las cuales el Ejecutivo Estatal y los HH. Ayuntamientos podrán celebrar contratos de colaboración público privada que, en términos de la legislación aplicable, implique obligaciones que constituyan deuda pública.
+III. bis.- Establecer, mediante la expedición de una ley, las bases conforme a las cuales los entes públicos estatales y municipales podrán celebrar contratos de asociación público privada.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-III. ter. Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al Ejecutivo estatal y a los HH. Ayuntamientos, la celebración de contratos de colaboración público privada; la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
+III. ter.- Autorizar a los entes públicos, por el voto de las dos terceras partes de los miembros presentes del Congreso, la contratación de empréstitos o asociaciones público privadas, previo análisis del destino, la capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de su fuente de pago.
+
+Asimismo, corresponde al Congreso autorizar a los entes públicos la afectación de las participaciones federales, aportaciones federales y/o de los ingresos propios que les correspondan como fuente de pago, fuente alterna de pago y/o garantía de pago, de los empréstitos y obligaciones a cargo.
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1067,7 +1069,9 @@ XLII.- Las demás que le confiera esta Constitución, la Constitución Política
 
 El H. Congreso del Estado recibirá para su examen, discusión y aprobación a más tardar el 19 de noviembre de cada año, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente y, a más tardar el 30 de noviembre de cada año, las iniciativas de Ley de Ingresos de los Municipios. Cuando el Gobernador del Estado inicie su encargo en la fecha prevista en el Artículo 63 de esta Constitución, deberá entregar las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado a más tardar el día 30 de noviembre de ese año, aunque podrá solicitar una prórroga de hasta cinco días naturales para su entrega al H. Congreso. El H. Congreso del Estado deberá aprobar la Ley de Ingresos y la Ley de Presupuesto de Egresos del Estado y las leyes de ingresos municipales a más tardar el 20 de diciembre de cada año. Los HH. Ayuntamientos deberán aprobar anualmente sus presupuestos de egresos para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal a más tardar el día 31 de diciembre de cada año, considerando los ingresos autorizados por el H. Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
 
-Al aprobar el H. Congreso la Ley de Presupuesto de Egresos del Estado, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, de las dependencias estatales y de las entidades de la administración pública paraestatal derivadas de empréstitos y de contratos de colaboración público privada, celebrados o por celebrarse con autorización del H. Congreso del Estado, durante la vigencia de los mismos. Las leyes estatales proveerán lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+Al aprobar el H. Congreso la Ley de Presupuesto de Egresos del Estado deberá verificar que se incluyan y, en caso contrario deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, de las dependencias estatales y de las entidades de la administración pública paraestatal derivadas de empréstitos y de contratos de asociación público privada, celebrados o por celebrarse. Las leyes estatales proveerán lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
 
 Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Estado o de los municipios, así como la Ley de Presupuesto de Egresos del Estado correspondientes a un determinado ejercicio fiscal, se tendrán por prorrogadas las leyes respectivas vigentes al finalizar el año anterior, hasta en tanto se aprueben las nuevas y entren en vigor. En este caso, si la Ley de Presupuesto de Egresos del Estado que se prorrogue corresponde a un año electoral, no serán aplicables las partidas que se hubieren autorizado por tal motivo, sino, únicamente, las que se hubieren incluido para el normal funcionamiento de los partidos políticos y las instituciones electorales. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales se hubiesen previsto montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
@@ -1365,23 +1369,25 @@ XXXI. Previa autorización del H. Congreso del Estado, contratar obligaciones o 
 
 XXXII. Constituir al Estado, previa autorización del H. Congreso, en garante, avalista, deudor solidario, subsidiario o sustituto en los casos previstos en las leyes respectivas;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XXXIII. Previa autorización del H. Congreso, celebrar contratos de colaboración público privada conforme a las bases que establezca el Congreso del Estado en la ley aplicable;
+XXXIII. Previa autorización del H. Congreso, celebrar contratos de asociación público privada conforme a las bases que establezca el Congreso del Estado en la ley aplicable;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XXXIV. Previa autorización del H. Congreso del Estado, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
+XXXIV. Previa autorización del H. Congreso del Estado, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de asociación público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
 
 XXXV. Presentar anualmente al H. Congreso del Estado, dentro del plazo previsto en el primer párrafo del Artículo 57 bis de esta Constitución, para su examen, discusión y aprobación, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente.
 
-El Ejecutivo Estatal deberá incluir anualmente, dentro de la iniciativa de Ley de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, las dependencias estatales y las entidades de la administración pública paraestatal, derivadas de empréstitos y de contratos de colaboración público privada;
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+El Ejecutivo Estatal deberá incluir anualmente, dentro de la iniciativa de Ley de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, las dependencias estatales y las entidades de la administración pública paraestatal, derivadas de empréstitos y de contratos de asociación público privada, las cuales tendrán la calidad de preferentes;
 
-XXXVI. Informar anualmente al H. Congreso del Estado sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y la situación de la deuda pública estatal, al rendir la cuenta pública, e incluir información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de ingresos como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XXXVI. Informar anualmente al H. Congreso del Estado sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y la situación de la deuda pública estatal, al rendir la cuenta pública, e incluir información detallada sobre los contratos de asociación público privada en vigor y, en su caso, sobre la afectación de ingresos como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables;
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -2083,17 +2089,17 @@ c) Imponer contribuciones que no estén especificadas en las leyes fiscales del 
 
 Los municipios tendrán derecho para adquirir, poseer y administrar bienes inmuebles. Los actos traslativos de dominio y las concesiones que respecto de ellos se otorguen se sujetarán a los requisitos y formalidades que establece esta Constitución, los que determine la ley y los que establezcan los reglamentos municipales.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-Los HH. Ayuntamientos estarán facultados para, previa autorización del H. Congreso del Estado, contratar empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que, en términos de lo dispuesto por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, establezca el H. Congreso del Estado en la ley respectiva.
+Los HH. Ayuntamientos estarán facultados para, previa autorización del H. Congreso del Estado, contratar empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas o al refinanciamiento o reestructura, conforme a las bases que, en términos de lo dispuesto por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, establezca el H. Congreso del Estado en la ley respectiva.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-De la misma forma, estarán facultados para, previa autorización del H. Congreso del Estado, celebrar contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, y otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, o de cualesquier otros actos jurídicos relacionados con los mismos.
+De la misma forma, estarán facultados para, previa autorización del H. Congreso del Estado, celebrar contratos de asociación público privada y a otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración asociación público privada en términos de la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-Asimismo, podrán celebrar, conforme a sus reglamentos y previa autorización del H. Ayuntamiento y del H. Congreso del Estado, respectivamente, contratos de colaboración público privada que, en términos de la legislación aplicable, no impliquen obligaciones que constituyan deuda pública.
+Asimismo, podrán celebrar, conforme a sus reglamentos y previa autorización del H. Ayuntamiento y del H. Congreso del Estado, respectivamente, contratos de asociación público privada que, en términos de la legislación aplicable, no impliquen obligaciones que constituyan deuda pública.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -2103,13 +2109,21 @@ Los HH. Ayuntamientos, en el ámbito de sus competencias, propondrán al H. Cong
 
 A más tardar el 30 de noviembre de cada año, los HH. Ayuntamientos deberán presentar al H. Congreso del Estado las iniciativas de Leyes de Ingresos Municipales correspondientes, para que, aprobadas que sean por éste, entren en vigor para el siguiente año.
 
-Los HH. Ayuntamientos deberán informar anualmente al H. Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y sobre la situación de la deuda pública municipal, al rendir la cuenta pública e incluirán información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-Los HH. Ayuntamientos aprobarán los presupuestos de egresos con base en sus ingresos disponibles. Asimismo, deberán autorizar en sus presupuestos de egresos las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de empréstitos y de contratos de colaboración público privada que celebren con la previa autorización del H. Congreso del Estado; las erogaciones y partidas correspondientes deberán incluirse en los subsecuentes presupuestos de egresos, teniendo preferencia junto con las previsiones sociales y respecto de otras previsiones de gasto, siempre y cuando no se cause perjuicio a la viabilidad financiera de los Municipios y se respeten los procedimientos establecidos en los diversos ordenamientos legales que guarden relación con la autonomía municipal
+Los HH. Ayuntamientos deberán informar anualmente al H. Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y sobre la situación de la deuda pública municipal, al rendir la cuenta pública e incluirán información detallada sobre los contratos de asociación público privada en vigor y, en su caso, sobre la afectación de ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables.
 
-En todo caso, al aprobar los HH. Ayuntamientos los presupuestos de egresos de los municipios, deberán incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los municipios, las dependencias municipales y las entidades de la administración pública paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada que, en términos de la legislación aplicable, constituyan deuda pública, celebrados con autorización del H. Congreso del Estado, durante la vigencia de los mismos. La Ley Orgánica de los Municipios del Estado de Campeche proveerá lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
-Cuando existiendo deuda pública a su cargo, por cualquier circunstancia, algún H. Ayuntamiento no apruebe el presupuesto de egresos del Municipio, se tendrá por prorrogado el presupuesto respectivo vigente al finalizar el año anterior, hasta en tanto se apruebe el nuevo y entre en vigor.
+Los HH. Ayuntamientos aprobarán sus Presupuestos de Egresos con base en sus ingresos disponibles. Asimismo, deberán autorizar en sus Presupuestos de Egresos las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de empréstitos y de contratos de asociación público privada que celebren con la previa autorización del H. Congreso del Estado. Las erogaciones y partidas correspondientes deberán incluirse en los subsecuentes presupuestos de egresos, teniendo preferencia junto con las previsiones sociales y respecto de otras previsiones de gasto, siempre y cuando no se cause perjuicio a la viabilidad financiera de los Municipios y se respeten los procedimientos establecidos en los diversos ordenamientos legales que guarden relación con la autonomía municipal.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+En todo caso, al aprobar los HH. Ayuntamientos los presupuestos de egresos de los municipios, deberán incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los municipios, las dependencias municipales y las entidades de la administración pública paramunicipal, derivadas de empréstitos y de contratos de asociación público privada celebrados con autorización del H. Congreso del Estado, durante la vigencia de los mismos. La Ley Orgánica de los Municipios del Estado de Campeche proveerá lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
+
+Cuando existiendo deuda pública y/u obligaciones derivadas de contratos de asociación público privada a su cargo, y por cualquier circunstancia, algún H. Ayuntamiento no apruebe el presupuesto de egresos del Municipio, se tendrá por prorrogado el presupuesto respectivo vigente al finalizar el año anterior, hasta en tanto se apruebe el nuevo y entre en vigor.
 
 Los HH. Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo con las normas que determine la ley y con observancia a lo previsto en el artículo 121 de esta Constitución.
 
@@ -2287,11 +2301,13 @@ IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especifica
 
 V. El H. Congreso del Estado, en el ámbito de su competencia, expedirá las leyes para hacer efectivo el contenido del presente artículo y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en el mismo.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 121 Bis.
 
-Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servicios de cualquier naturaleza, incluidos los derivados de contratos de colaboración público privada, y la contratación de obra que realicen el Estado, los municipios, la administración pública paraestatal y paramunicipal y los demás entes públicos, se realizarán ajustándose a la modalidad que señale al respecto la ley en la materia, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes. Las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el interés público.
+Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servicios de cualquier naturaleza, incluidos los derivados de contratos de asociación público privada, y la contratación de obra que realicen el Estado, los municipios, la administración pública paraestatal y paramunicipal y los demás entes públicos, se realizarán ajustándose a la modalidad que señale al respecto la ley en la materia, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes. Las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el interés público.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 Tratándose de contratos de naturaleza administrativa, podrá convenirse compromiso arbitral respecto de aquellas controversias que puedan ser objeto del mismo, en términos de lo que se establezca en las leyes respectivas.
 
@@ -3166,3 +3182,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La designación de la primera Directora o primer Director General del Centro de Conciliación Laboral deberá realizarse dentro del improrrogable plazo de treinta días anteriores a la emisión de la declaratoria a que se refiere el artículo transitorio Vigésimo Cuarto del Decreto publicado el 1 de mayo de 2019 en el Diario Oficial de la Federación, por el que se derogan, adicionan y reforman diversas disposiciones de la Ley Federal del Trabajo. Las y los subsecuentes titulares serán designados una vez que concluya el periodo de seis años o, en su caso, de doce años, cuando haya habido reelección.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 166 POR EL QUE “SE REFORMA EL INCISO B) DE LA FRACCIÓN III, LA FRACCIÓN III BIS Y LA FRACCIÓN III TER DEL ARTÍCULO 54; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54 BIS; LAS FRACCIONES XXXIII, XXXIV, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXXV Y XXXVI DEL ARTÍCULO 71; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 106; LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO DEL ARTÍCULO 107; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 121 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo máximo de 180 días contados a partir de la entrada en vigor del presente decreto se expedirá la Ley de las Asociaciones Público-Privadas del Estado de Campeche.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al presente decreto.
