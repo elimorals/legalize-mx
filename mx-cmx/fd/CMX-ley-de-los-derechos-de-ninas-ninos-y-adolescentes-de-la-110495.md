@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2020-10-12"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -332,13 +332,17 @@ XIX. Derecho a recibir protección especial cuando se encuentre en situación de
 
 XX. Derecho de acceso a la información y a las tecnologías de la información.
 
-> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XXI. Derecho a la protección y seguridad sexual, y
+XXI. Derecho a la protección y seguridad sexual;
 
-> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
-XXII. Derecho a conocer los datos de los sentenciados con ejecutoria por delitos vinculados con violencia sexual contra niñas, niños y adolescentes.
+XXII. Derecho a conocer los datos de los sentenciados con ejecutoria por delitos vinculados con violencia sexual contra niñas, niños y adolescentes; y,
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Derechos de niñas, niños y adolescentes migrantes.
 
 ###### Artículo 14.
 
@@ -661,6 +665,10 @@ VII. La desaparición forzada de personas;
 VIII. El trabajo antes de la edad mínima de quince años;
 
 IX. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso;
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+Se entiende por las peores formas de trabajo infantil a las relativas a: la esclavitud, trata infantil, servidumbre por deudas, la condición de siervo, trabajo forzoso, explotación sexual y la participación en actividades ilícitas;
 
 X. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
 
@@ -1396,7 +1404,11 @@ VI. Coordinarse con las instancias de los sectores público, social y privado qu
 
 VII. Realizar las actividades de asistencia social así como fomentar y promover la estabilidad y el bienestar familiar;
 
-VIII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+
+VIII. Habilitar albergues o espacios de alojamiento para recibir a niñas, niños y adolescentes migrantes; observando en todo momento lo dispuesto por esta Ley, la Ley General, la Ley de Migración y demás disposiciones jurídicas aplicables; y,
+
+IX. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### Capítulo Tercero. De los Sistemas de Protección de los órganos político administrativos
 
@@ -2017,3 +2029,17 @@ G.O. 12 DE OCTUBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El Gobierno de la Ciudad de México emitirá los protocolos de actuación a que hace referencia el último párrafo del artículo 15, en un término no mayor de 90 días naturales a partir de la entrada en vigor del presente decreto.
+
+G.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX DEL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIII AL ARTÍCULO 13; Y, UNA FRACCIÓN VIII AL ARTÍCULO 102, RECORRIENDO LA ACTUAL FRACCIÓN VIII PARA CONVERTIRSE EN IX; AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, contará con un término de 180 días naturales a partir de la entrada en vigor del presente decreto, para el cumplimiento de las obligaciones previstas en virtud del mismo.
