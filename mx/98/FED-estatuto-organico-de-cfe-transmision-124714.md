@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-transmision-124714"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-07"
-last_updated: "2020-07-22"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124714&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-13"
 
 ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en la Primera Sección al Número 6 del Diario Oficial de la Federación, el jueves 7 de diciembre de 2017.
 
@@ -141,9 +141,17 @@ XVII. RNT: Red Nacional de Transmisión;
 
 XVIII. SEN: Sistema Eléctrico Nacional;
 
-XIX. Transmisión: El transporte de energía eléctrica a través de la Red Nacional de Transmisión, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XX. Plan de Negocios: Documento que contiene las principales estrategias comerciales, financieras y de inversiones, y que hace referencia el artículo 13 de la Ley.
+XIX. RNC: Red Nacional de Comunicaciones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XX. Transmisión: El transporte de energía eléctrica a través de la Red Nacional de Transmisión, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XXI. Plan de Negocios: Documento que contiene las principales estrategias comerciales, financieras y de inversiones, y que hace referencia el artículo 13 de la Ley.
 
 ###### Artículo 5.
 
@@ -491,9 +499,11 @@ Para el ejercicio de sus funciones, el Director General se auxiliará de las ár
 
 ### CAPITULO II. De las Funciones Genéricas de las Coordinaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-Los Coordinadores tendrán, en el ámbito de su competencia, las funciones siguientes:
+Los Coordinadores tendrán, en el ámbito de su competencia, las funciones genéricas siguientes:
 
 I. Representar legalmente a CFE Transmisión en toda clase de procedimientos administrativos y judiciales y presentar promociones en su nombre;
 
@@ -521,7 +531,7 @@ XII. Participar en órganos colegiados o grupos de trabajo y designar en su caso
 
 XIII. Coordinar la revisión y elaboración de las propuestas de disposiciones y directrices generales en aspectos técnicos que se requieran para las contrataciones de servicios relacionados con el objeto de CFE Transmisión;
 
-XIV. Suscribir convenios y contratos y en su caso, determinar la procedencia de la rescisión, suspensión o terminación de los mismos, salvo aquellos contratos que deban celebrarse conforme a las “Disposiciones Generales en Materia de Adquisiciones, Arrendamientos, Contratación de Servicios y Ejecución de Obras de la Comisión Federal de Electricidad y sus Empresas Productivas Subsidiarias aprobadas por el Consejo de Administración”;
+XIV. Suscribir convenios y contratos y en su caso, determinar la procedencia de la rescisión, suspensión o terminación de los mismos, salvo aquellos contratos que deban celebrarse conforme a las "Disposiciones Generales en Materia de Adquisiciones, Arrendamientos, Contratación de Servicios y Ejecución de Obras de la Comisión Federal de Electricidad y sus Empresas Productivas Subsidiarias aprobadas por el Consejo de Administración";
 
 XV. Coordinar la propuesta de los objetivos, definición y evaluación de las estrategias, metas, indicadores, confiabilidad y mejora en el ámbito de su competencia;
 
@@ -539,9 +549,25 @@ XXI. Coadyuvar a la implementación del Sistema de Control Interno y promover el
 
 XXII. Delegar funciones y asignar responsabilidades al personal de las áreas de su adscripción, salvo aquellas que sean indelegables;
 
-XXIII. Coadyuvar en el ámbito de su competencia con el cumplimiento de las obligaciones regulatorias aplicables a CFE Transmisión de acuerdo a la legislación vigente, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XXIV. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración o por el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
+XXIII. Supervisar que la planeación de adquisición de bienes, contratación de servicios, obras y servicios relacionados esté vinculado con el plan de negocios y el programa operativo anual de CFE Transmisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Coadyuvar de manera conjunta con la Gerencia de Ampliación y Modernización en la elaboración de los proyectos y programas de inversión, a fin de dar cumplimiento a los requerimientos de la RNT y dentro el ámbito de su competencia respecto de la RNC;
+
+> <small>(ADICIONADA, D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XXV. Definir y distribuir los recursos presupuestales del gasto e inversión a las Gerencias Nacionales y Regionales de Transmisión en el ámbito de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Coadyuvar en el ámbito de su competencia con el cumplimiento de las obligaciones regulatorias aplicables a CFE Transmisión de acuerdo con la legislación vigente, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración o por el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
 ### CAPITULO III. De las Funciones Específicas de las Coordinaciones
 
@@ -579,9 +605,17 @@ IV. Coordinar a las Gerencias en la realización de estudios para mejorar los si
 
 V. Evaluar los resultados de las Gerencias de Subestaciones y Protecciones y de Automatización y Comunicaciones;
 
-VI. Someter a la autorización del Director General proyectos de la Gerencia de Subestaciones y Protecciones, y de la Gerencia de Automatización y Comunicaciones, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-VII. Acordar con el Director General el despacho de los asuntos relevantes de la Coordinación.
+VI. Validar de manera conjunta con la Gerencia de Ampliación y Modernización el cumplimiento del Plan de Ejecución de los Proyectos de las Especialidades de Equipo de Subestación.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+VII. Someter a la autorización del Director General proyectos de la Gerencia de Subestaciones y Protecciones, y de la Gerencia de Automatización y Comunicaciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+VIII. Acordar con el Director General el despacho de los asuntos relevantes de la Coordinación.
 
 ###### Artículo 19.
 
@@ -597,7 +631,9 @@ IV. Revisar los procedimientos de restablecimiento de la RNT, para su actualizac
 
 V. Asegurar la disponibilidad de la RNT a través del monitoreo de redes de comunicación y del Sistema de Medición para liquidaciones, envío de mediciones de energía al CENACE y Suministradores que lo soliciten;
 
-VI. Evaluar los índices de desempeño en la RNT, así como de los sistemas de comunicación y medición para liquidaciones;
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+VI. Evaluar y calcular los índices de desempeño en la RNT: SAIDI (Índice de Duración Promedio de Interrupción del Sistema), SAIFI (Índice de la Frecuencia de Interrupción Promedio del Sistema) y ENS (Energía No Suministrada), así como de los sistemas de comunicación y medición para liquidaciones.
 
 VII. Asegurar la modernización de equipamiento y sistemas para la operación de la RNT, operación de redes de comunicación y de los sistemas de medición para liquidaciones del MEM, y
 
@@ -629,13 +665,33 @@ IX. Asegurar el buen uso y preservar los bienes asignados a la Gerencia y Unidad
 
 X. Proporcionar la información solicitada por autoridad competente o por otras áreas de CFE Transmisión o la Comisión, y cotejar y expedir constancias de los documentos que obren en los archivos de su área. Asimismo, expedir a petición del interesado, copias certificadas de los documentos que obren en sus archivos, en términos de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Transparencia y Acceso a la Información Pública;
 
-XI. Coadyuvar a la implementación del Sistema de Control Interno y promover el fortalecimiento de la cultura de control;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XII. Delegar funciones y asignar responsabilidades al personal de las áreas de su adscripción, salvo aquellas que sean indelegables;
+XI. Coadyuvar de manera conjunta con las Coordinaciones la elaboración de los proyectos y programas de inversión, a fin de dar cumplimiento a los requerimientos de la RNT y dentro el ámbito de su competencia respecto de la RNC;
 
-XIII. Vigilar en el ámbito de su competencia con el cumplimiento de las obligaciones regulatorias aplicables a CFE Transmisión de acuerdo a la legislación vigente, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XIV. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, o el Consejo, o por el Director General, o por su Coordinador, según corresponda, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
+XII. Definir y distribuir los recursos presupuestales del gasto e inversión en el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XIII. Supervisar que la planeación de adquisición de bienes, contratación de servicios, obras y servicios relacionados esté vinculado con el plan de negocios y el programa operativo anual de CFE Transmisión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XIV. Coadyuvar a la implementación del Sistema de Control Interno y promover el fortalecimiento de la cultura de control;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XV. Delegar funciones y asignar responsabilidades al personal de las áreas de su adscripción, salvo aquellas que sean indelegables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XVI. Vigilar en el ámbito de su competencia con el cumplimiento de las obligaciones regulatorias aplicables a CFE Transmisión de acuerdo con la legislación vigente, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XVII. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, o el Consejo, o por el Director General, o por su Coordinador, según corresponda, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
 ### CAPITULO V. De las Funciones Específicas de las Gerencias Nacionales y Unidades
 
@@ -663,9 +719,17 @@ IX. Coordinar con las Gerencias Regionales de Transmisión, el seguimiento y con
 
 X. Establecer, políticas, metodologías y lineamientos en la planeación del mantenimiento a la infraestructura, desarrollo de proyectos, interconexión de centrales de generación, conexión de centros de carga y puesta en servicio de obras;
 
-XI. Participar con el Grupo de Especialistas de Ampliación y Modernización, Ingeniería Civil y Especialidades afines, con el objeto de llevar a cabo la difusión e intercambio de experiencias; promover la implementación de documentos normativos y estándares técnicos ante la CRE, con el fin de atender la mejora regulatoria en la Gerencia de Ampliación y Modernización de la RNT, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XII. Desempeñar las funciones y comisiones que el Director General le delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades.
+XI. Someter a consideración del Director General los proyectos y programas de inversión para aprobación del Consejo, en términos de la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XII. Participar con el Grupo de Especialistas de Ampliación y Modernización, Ingeniería Civil y Especialidades afines, con el objeto de llevar a cabo la difusión e intercambio de experiencias; promover la implementación de documentos normativos y estándares técnicos ante la CRE, con el fin de atender la mejora regulatoria en la Gerencia de Ampliación y Modernización de la RNT, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XIII. Desempeñar las funciones y comisiones que el Director General le delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades.
 
 ###### Artículo 22.
 
@@ -733,9 +797,21 @@ XIV. Proporcionar Información relativa a riesgos estratégicos y operativos par
 
 XV. Coordinar la actualización del Plan de Negocios de CFE Transmisión alineado al Plan de Negocios de la Comisión y su difusión a sus áreas;
 
-XVI. Informar al corporativo los requerimientos de coberturas, excesos de límites, posiciones de riesgos asumidas y consumos de límites fijados, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XVII. Someter a consideración al Director General, el Plan de Inversión de instrumentos financieros.
+XVI. Coadyuvar con los entes reguladores en la revisión de modelos de contratos de conexión e interconexión de acceso abierto a la RNT; así como, contratos de conexión e interconexión legados
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XVII. Coadyuvar en la revisión de modelos de Convenios con el CENACE y Convenios con Suministradores.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Informar al corporativo los requerimientos de coberturas, excesos de límites, posiciones de riesgos asumidas y consumos de límites fijados, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XIX. Someter a consideración al Director General, el Plan de Inversión de instrumentos financieros.
 
 ###### Artículo 24.
 
@@ -795,15 +871,27 @@ IV. Elaborar, analizar y presentar al Director General los estados financieros.
 
 V. Suscribir los contratos y convenios que se celebren entre Instituciones financieras y CFE Transmisión;
 
-VI. Determinar las políticas fiscales – operativas de CFE Transmisión;
+VI. Determinar las políticas fiscales - operativas de CFE Transmisión;
 
 VII. Validar las proyecciones financieras y tarifarias a corto, mediano y largo plazo para la elaboración del Plan de Negocios de CFE Transmisión, que se presenten al Consejo para su conocimiento;
 
 VIII. Proponer al Corporativo nuevos proyectos para su financiamiento;
 
-IX. Presentar ante las diversas autoridades tributarias, declaraciones de pago, informativas, mensuales y anuales, así como dictámenes por contribuciones federales y locales, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-X. Informar al Director General, la deuda documentada y de los Proyectos de Infraestructura Productiva de largo plazo con Registro Diferido en el Gasto Público "PIDIREGAS".
+IX. Asignar los recursos presupuestales del gasto programable acordado con las Coordinaciones y la Gerencia de Ampliación y Modernización en el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+X. Participar en el diseño, viabilidad, estructuración e implementación de aquellos fideicomisos en los que CFE Transmisión se vea involucrado, constituidos por la Comisión.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XI. Presentar ante las diversas autoridades tributarias, declaraciones de pago, informativas, mensuales y anuales, así como dictámenes por contribuciones federales y locales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XII. Informar al Director General, la deuda documentada y de los Proyectos de Infraestructura Productiva de largo plazo con Registro Diferido en el Gasto Público "PIDIREGAS".
 
 ### CAPITULO VI. De las Gerencias Regionales y de su Competencia Territorial
 
@@ -1313,13 +1401,17 @@ XI. Coadyuvar a la implementación del Sistema de Control Interno y promover el 
 
 XII. Proporcionar la información solicitada por autoridad competente o por otras áreas de la CFE Transmisión o de la Comisión, y cotejar y expedir constancias de los documentos que obren en los archivos de su área, asimismo expedir, a petición del interesado, copias certificadas de los documentos que obren en sus archivos, en términos de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Transparencia y Acceso a la Información Pública.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XIII. Acordar con el Director General el despacho de los asuntos a su cargo, y
+XIII. Ejecutar el control físico de la RNT y, dentro el ámbito de su competencia, respecto de la RNC.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
 
-XIV. Las demás que emita el Consejo o el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
+XIV. Acordar con el Director General el despacho de los asuntos a su cargo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE DICIEMBRE DE 2020)</small>
+
+XV. Las demás que emita el Consejo o el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
 Las funciones señaladas en las fracciones I, II, III, IV, V y IX a que este precepto se refiere también podrán ser ejercidas por los Titulares de las Subgerencias Regionales de Administración.
 
@@ -1472,3 +1564,9 @@ D.O.F. 28 DE JUNIO DE 2018.
 D.O.F. 22 DE JULIO DE 2020.
 
 > <small>[N. DE E. LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN".]
+
+ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
