@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2019-06-28"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -101,7 +101,9 @@ Son autoridades competentes para aplicar la presente Ley:
 
 I.- El Congreso del Estado;
 
-II.- La Secretaría de la Contraloría General del Estado;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+II.- La Secretaría de la Función Pública del Estado;
 
 III.- Las dependencias del Ejecutivo Estatal;
 
@@ -722,3 +724,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, prevendrá las erogaciones presupuestales que deriven de la aplicación de este Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
