@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2020-08-17"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -272,6 +272,10 @@ En caso de concurso de delitos se estará a lo dispuesto en el artículo 105 de 
 ###### ARTICULO 23.
 
 Para los efectos de este Código, hay reincidencia cuando quien ha sido condenado por delito doloso en sentencia ejecutoria dictada por cualquier tribunal de la República o del extranjero, es condenado nuevamente por delito de realización dolosa.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+Si el reincidente en el mismo género de infracciones comete un nuevo delito procedente de la misma naturaleza delictiva, será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un periodo que no exceda de diez años.
 
 ###### ARTICULO 24.
 
@@ -1095,9 +1099,11 @@ ARTICULO 107 BIS.- Cuando se cometa un delito doloso en contra de algún periodi
 
 ### CAPITULO VII. REINCIDENCIA
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 108.
 
-La reincidencia sólo será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios que la ley prevea. Si el autor revelare grave perturbación de personalidad se le aplicará además el tratamiento en libertad o en internamiento que proceda para su readaptación social, según la situación jurídica respecto de su libertad personal.
+La reincidencia o delincuencia habitual sólo será tomada en cuenta para la individualización de la pena y para el otorgamiento de los beneficios que la Ley prevea. Si el autor revelare grave perturbación de personalidad se le aplicará además el tratamiento en libertad o en internamiento que proceda para su readaptación social, según la situación jurídica respecto de su libertad personal.
 
 ## TITULO CUARTO
 
@@ -2051,7 +2057,7 @@ Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad 
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ### CAPITULO III. ABUSO DE CONFIANZA
 
@@ -2281,51 +2287,63 @@ Para la comprobación del robo de vehículos o autopartes a que hacen referencia
 
 ###### ARTICULO 208.
 
-Al que se apodere de ganado ajeno, cualquiera que sea su especie y el lugar en que se encuentre, sin consentimiento de quien legalmente pueda disponer del mismo, se le impondrá:
+Comete el delito de abigeato quien se apodere de una o más cabezas de ganado, cualquiera que sea su especie y el lugar en el que se encuentre, sin consentimiento de quien legalmente pueda disponer de ellas.
 
-I.- Cuando el apoderamiento haya sido de hasta dos cabezas de ganado mayor o hasta cinco cabezas de ganado menor, la punibilidad del artículo 203 de este Código que corresponda, en relación a la cuantía de lo robado o
+A. El delito de abigeato de ganado mayor se sancionará conforme a lo siguiente:
 
-II.- Cuando el apoderamiento exceda de dos cabezas de ganado mayor o de cinco cabezas de ganado menor, la punibilidad del artículo 203 de este Código que corresponda más una mitad, en relación a la cuantía de lo robado.
+I.- Si el apoderamiento fuere de una cabeza, se impondrá de seis meses a dos años de prisión y multa de 50 a 100 días.
 
-Para los efectos del presente artículo, se entiende por ganado mayor el bovino, equino, mular o asnal y por ganado menor el porcino, ovino o caprino.
+II.- Si el apoderamiento fuere de dos a diez cabezas, se impondrá de dos a cuatro años de prisión y multa de 100 a 150 días.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+III.- Si el apoderamiento fuere de once a veinte cabezas, se impondrá de cuatro a seis años de prisión y multa de 150 a 200 días.
 
-Si el abigeato se realiza concurriendo alguna de las calificativas previstas por las fracciones I, II, IV, XI y XII del Artículo 206 de este Código, se impondrá el doble de la punibilidad que corresponda, cuando concurran dos o más calificativas, se aplicará el triple de la punibilidad.
+IV.- Si el apoderamiento fuere mayor a veinte cabezas, se impondrá de seis a diez años de prisión y multa de 200 a 300 días.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+B.- El delito de abigeato de ganado menor se sancionará conforme a lo siguiente:
+
+I.- Si el apoderamiento fuere de uno a cinco cabezas se impondrá de seis meses a dos años de prisión y multa de 50 a 100 días.
+
+II.- Si el apoderamiento fuere de seis a quince cabezas, se impondrá de tres a cinco años de prisión y multa de 100 a 150 días.
+
+III.- Si el apoderamiento excediere de quince cabezas, se impondrá de cinco a siete años de prisión y multa de 150 a 200 días.
+
+Para los efectos del presente artículo, se entenderá por ganado mayor el bovino, equino, mular o asnal y por ganado menor el porcino, ovino o caprino.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 208 bis.- Se impondrá el doble de la punibilidad que corresponda, cuando en la comisión del delito de abigeato concurra alguna de las siguientes circunstancias:
+
+I.- Se ejerza violencia para proporcionarse a la fuga o defender lo robado;
+
+II.- Se realice por la noche o con la autoría o participación de dos o más individuos
+
+III.- El agente cometa el delito aprovechándose de la confianza en él depositada por el pasivo
+
+IV.- Aprovechándose de la consternación que una desgracia privada cause al ofendido o a un familiar; o en caso de emergencia, catástrofe o desorden público.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 209.
 
-Se impondrá de dos a siete años de prisión y multa de 100 a 300 días:
+Se impondrá de dos a siete años de prisión y multa de 100 a 300 días a quien:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+I.- A sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, adquiera o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
 
-I.- Al que a sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, adquiera o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
+II.- A sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, transporte ganado, carne, pieles u otros derivados obtenidos del abigeato.
 
-II.- A las autoridades que intervengan en esas operaciones, conociendo la procedencia ilegítima del ganado;
+III.- Altere o elimine las marcas de animales vivos o pieles ajenos;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+IV.- Marque, contramarque, señale o contraseñale animales ajenos, en cualquier parte, sin derecho; o
 
-III.- Al que a sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, transporte ganado, carne, pieles u otros derivados obtenidos del abigeato.
+V.- Expida certificados falsos para obtener guías, simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificado o guía falsificados para cualquier negociación sobre ganados o cueros.
 
-IV.- (DEROGADA, P.O. 22 DE MARZO DE 1999)
+VI.- Se apodere de ganado propio que se halle en poder de otro, en virtud de cualquier título legítimo.
 
-V.- (DEROGADA, P.O. 22 DE MARZO DE 1999)
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
-
-Al que se apodere de ganado propio que se halle en poder de otro, en virtud de cualquier título legítimo, se le impondrá la punibilidad que corresponda conforme a lo previsto en el artículo precedente.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 210.
 
-Se impondrá prisión de tres meses a cuatro años y multa de 10 a 100 días, al que:
-
-I.- Altere o elimine las marcas de animales vivos o pieles ajenos;
-
-II.- Marque, contramarque, señale o contraseñale animales ajenos, en cualquier parte, sin derecho; o
-
-III.- Expida certificados falsos para obtener guías, simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificado o guía falsificados para cualquier negociación sobre ganados o cueros.
+Se impondrá de dos a siete años de prisión y multa de 100 a 300 días al servidor público, que en ejercicio de sus funciones o aprovechándose de su cargo participe, encubra, permita, tolere o intervenga en cualquiera de las conductas constitutivas del delito de abigeato, conociendo la procedencia ilegítima del ganado.
 
 ### CAPITULO IX BIS. ALTERACION DE LA IMAGEN URBANA
 
@@ -2501,9 +2519,9 @@ Para los efectos del párrafo anterior, previamente a la adquisición de vehícu
 
 Los delitos previstos por este título sólo se perseguirán por querella, con excepción de los delitos de robo, abigeato, extorsión y receptación que se perseguirán de oficio. Estos delitos, salvo el de extorsión, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad hasta el segundo grado y por los terceros que hubieren intervenido en su ejecución con aquéllos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
-Los tipos penales de robo y abigeato cuya cuantía de lo apoderado no exceda de quinientas veces la Unidad de Medida y Actualización vigente y no concurra alguna de las calificativas previstas por el artículo 206 de este Código en lo correspondiente, también serán perseguibles por querella, siempre y cuando el inculpado no se dedique en forma reiterada a su comisión. En estos casos, el perdón del ofendido o del legitimado para otorgarlo sólo surtirá efectos cuando el inculpado pague a satisfacción de aquél, el monto de la reparación de los daños y perjuicios, dejándose constancia en autos de dicho pago.
+El tipo penal de robo cuya cuantía de lo apoderado no exceda de quinientas veces la Unidad de Medida y Actualización vigente y no concurra alguna de las calificativas previstas por el artículo 206 de este Código en lo correspondiente, también será perseguible por querella, siempre y cuando el inculpado no se dedique en forma reiterada a su comisión. En estos casos, el perdón del ofendido o del legitimado para otorgarlo sólo surtirá efectos cuando el inculpado pague a satisfacción de aquel, el monto de la reparación de los daños y perjuicios, dejándose constancia en autos de dicho pago.
 
 Se perseguirá por querella el delito de receptación, cuando el objeto o producto receptado provengan de la comisión de un delito también perseguible a instancia de parte ofendida.
 
@@ -2892,6 +2910,10 @@ Si los objetos falsificados o alterados son propiedad de un particular, la pena 
 ###### ARTICULO 264.
 
 Se impondrá prisión de seis meses a cinco años y de 15 a 60 días multa, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+La misma pena se impondrá a quien en un documento público o privado, ponga una firma o rúbrica falsa, aunque sea imaginaria, o altere una verdadera.
 
 ###### ARTICULO 265.
 
@@ -3777,9 +3799,9 @@ ARTICULO 322 TER. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
 ### CAPITULO III BIS. DELITOS CONTRA EL AMBIENTE
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientas veces la Unidad de Medida y Actualización vigente.
+ARTICULO 349 ter.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, corte, derribe o tale uno o más árboles, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientas a quinientas veces la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4291,7 +4313,21 @@ Comete el delito de usurpación de identidad quien por sí o por interpósita pe
 
 Al responsable del delito de usurpación de identidad, se impondrá de uno a seis años de prisión y de 50 a 200 veces el valor diario de la Unidad de Medida y Actualización, así como el pago de la reparación de los daños y perjuicios ocasionados, con independencia de la pena que resulte por la comisión de otros delitos.
 
-La punibilidad que corresponda se incrementara hasta en una mitad cuando el usurpador se valga de la homonimia, parecido físico o similitud de la voz para cometer el ilícito o cuando el delito sea cometido por un servidor público aprovechándose de la información a la que tenga acceso con motivo de sus funciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+Se aumentará hasta en una mitad la punibilidad que corresponda, cuando en la comisión del delito concurra alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+I. El activo del delito se valga de la homonimia, parecido físico o similitud de la voz para cometerlo.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+II. Sea cometido por una persona servidora pública aprovechándose de la información a la que tenga acceso con motivo de sus funciones.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+III. El sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico en el rubro de informática, computación o telemática.
 
 ## TRANSITORIOS
 
@@ -4574,3 +4610,11 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 414 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 531 QUE REFORMA EL ARTÍCULO 108, 208, 209, 210, 226 PÁRRAFO SEGUNDO, 349 TER, EL PÁRRAFO TERCERO DEL 370; Y SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 23, EL ARTÍCULO 208 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 264, Y LAS FRACCIONES I, II Y III AL PÁRRAFO TERCERO DEL ARTÍCULO 370 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de abigeato, se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
