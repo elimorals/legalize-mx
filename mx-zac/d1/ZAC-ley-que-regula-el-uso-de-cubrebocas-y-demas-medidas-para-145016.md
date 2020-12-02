@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-regula-el-uso-de-cubrebocas-y-demas-medidas-para-145016
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-21"
-last_updated: "2020-11-21"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMAS MEDIDAS PARA PREVENIR LA TRASMISION DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRASMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2020.]</small>
 
 Ley publicada en el Suplemento 2 al Número 94 del Periódico Oficial del Estado de Zacatecas, el sábado 21 de noviembre de 2020.
 
@@ -329,7 +329,9 @@ Imposición del arresto
 
 Artículo 24
 
-1. Se sancionará con arresto de doce hasta por treinta y seis horas:
+> <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+1. Se sancionará con arresto de hasta doce horas:
 
 I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
 
