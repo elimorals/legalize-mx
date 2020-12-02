@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2020-07-20"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2020.]</small>
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -263,7 +265,9 @@ III. Presidentes Municipales, regidores y síndicos de los Ayuntamientos, los ci
 
 Los miembros de los Ayuntamientos que aspiren ser candidato a Gobernador o Diputado, deberán separarse de su cargo noventa días antes de la fecha de la elección.
 
-Los Diputados que aspiren ser candidato a Gobernador o miembro del Ayuntamiento, deberán separarse de su cargo noventa días antes de la fecha de la elección.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+Los Diputados que aspiren ser candidato a Gobernador deberán separarse de su cargo noventa días antes de la fecha de la elección, mientras que los Diputados que aspiren a ser candidatos a miembro de Ayuntamiento deberán separarse de su cargo sesenta días antes de la fecha de la elección.
 
 Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral.
 
@@ -5711,9 +5715,7 @@ Durante los procesos electorales, el Tribunal Electoral y el Consejo General del
 
 Todos los promoventes, en el primer escrito, podrán designar domicilio para oír y recibir notificaciones en el lugar de residencia del Tribunal Electoral del Estado de Hidalgo o del Consejo General del Instituto Estatal Electoral, según quien conozca del asunto o bien, solicitar que las notificaciones sean mediante correo electrónico, en términos del artículo 352. Si no lo hicieren, la notificación se hará por cédula que se fijará en los estrados de la oficina correspondiente, que deberá ser visible y de fácil acceso al público.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 375.
 
@@ -6386,3 +6388,11 @@ P.O. 20 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Lo dispuesto en el ARTÍCULO SEGUNDO del presente Decreto, aplicará a partir del siguiente proceso electoral local.
+
+P.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 428 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+> <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+ÚNICO. El presente decreto entrará en vigor, concluido el proceso de renovación de Ayuntamientos 2020, previa publicación en el Periódico Oficial del Estado de Hidalgo.
