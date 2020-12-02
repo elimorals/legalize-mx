@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2020-11-02"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -47,6 +47,10 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRU
 
 El presente Reglamento norma la organización y funcionamiento interno del Poder Legislativo del Estado y es de observancia obligatoria para los diputados locales y los servidores públicos del Congreso, así como para los ciudadanos en general, cuando asistan al palacio legislativo.
 
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2020)</small>
+
+La trasferencia de información institucional, entre las y los diputados, y de éstos con los órganos y unidades administrativas a que se refiere el artículo 5 de este Reglamento, podrá llevarse a cabo en forma digital a través de sus respectivas cuentas de correo electrónico oficial o del sistema de transferencia de datos respectivo, que forman parte de la red institucional del Congreso, en los términos de los Lineamientos emitidos por la Junta de Trabajos Legislativos.
+
 ###### Artículo 2.
 
 Para los efectos del presente Reglamento, se entenderá por:
@@ -55,29 +59,33 @@ I. Congreso, el Congreso del Estado;
 
 II. Constitución, la Constitución Política del Estado;
 
-III. Directiva, la Mesa Directiva del Congreso;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-IV. Ley, la Ley Orgánica del Poder Legislativo del Estado;
+III. Correo electrónico oficial, el servicio de mensajería digital que forma parte de la red institucional del Congreso, de uso exclusivo y limitado para las actividades oficiales relacionadas con las atribuciones y competencias de las y los diputados y órganos y unidades administrativas del Poder Legislativo, facilitando y agilizando el envío de información oficial de manera inmediata, de forma segura y con acuse de recibo electrónico válido;
 
-V. Permanente, la Diputación Permanente;
+IV. Directiva, la Mesa Directiva del Congreso;
 
-VI. Pleno, el Pleno de la Asamblea;
+V. Ley, la Ley Orgánica del Poder Legislativo del Estado;
 
-VII. Presidente de la Permanente, el Presidente de la Diputación Permanente;
+VI. Permanente, la Diputación Permanente;
 
-VIII. Presidente, el Presidente del Congreso y de la Directiva;
+VII. Pleno, el Pleno de la Asamblea;
+
+VIII. Presidente de la Permanente, el Presidente de la Diputación Permanente;
+
+IX. Presidente, el Presidente del Congreso y de la Directiva;
 
 > <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-IX. Reglamento Administrativo, el Reglamento de los Servicios Administrativos del Congreso del Estado;
+X. Reglamento Administrativo, el Reglamento de los Servicios Administrativos del Congreso del Estado;
 
 > <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-X. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo; y
+XI. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo; y
 
 > <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-XI. Sistema Electrónico, el Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video.
+XII. Sistema Electrónico, el Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video.
 
 La interpretación de este Reglamento se hará por el Pleno durante los periodos de sesiones ordinarias o extraordinarias, o por la Permanente en los recesos del Congreso.
 
@@ -645,11 +653,11 @@ La Comisión Permanente de Vigilancia se integrará mediante el sistema de repre
 
 Los diputados sólo podrán formar parte de tres comisiones permanentes.
 
-> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 45.
 
-Las comisiones se reunirán a convocatoria de su presidente en el lugar y hora que al efecto fije, mediante notificación indubitable, ya sea de manera digital o por escrito, a los integrantes de la misma, con cuarenta y ocho horas de anticipación. De no convocar, el secretario y el vocal lo conminarán por escrito a hacerlo y, de persistir en la negativa, sesionarán el día y la hora que determinen, sin perjuicio de informar de ello al Pleno. El quórum será de simple mayoría. Sólo habrá dictamen cuando lo firme la mayoría de sus miembros.
+Las comisiones se reunirán a convocatoria de su presidente en el lugar y hora que al efecto fije, mediante notificación indubitable a los integrantes de la misma, ya sea por escrito o por comunicación digital a través de sus cuentas de correo electrónico oficial, con cuarenta y ocho horas de anticipación. De no convocar, el secretario y el vocal lo conminarán por escrito o por comunicación digital y, de persistir en la negativa, sesionarán el día y la hora que determinen, sin perjuicio de informar de ello al Pleno. El quórum será de simple mayoría. Sólo habrá dictamen cuando lo firme la mayoría de sus miembros.
 
 Los presidentes de las comisiones informarán al Presidente el nombre de los diputados faltistas y el número de sus inasistencias en el mes a los trabajos de aquéllas.
 
@@ -1908,3 +1916,13 @@ G.O. 2 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 607 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS, AMBOS, DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. En un plazo máximo de ciento veinte días naturales contado a partir de la entrada en vigor del presente Decreto, La Junta de Trabajos Legislativos deberá emitir los Lineamientos para dar cumplimiento a lo dispuesto en la presente reforma, en los que se especificarán las disposiciones que los servidores públicos del Congreso deberán observar para el uso correcto y adecuado del correo electrónico oficial o del sistema de transferencia de datos respectivo, así como las especificaciones técnicas y administrativas necesarias para su funcionalidad, mantenimiento y seguridad.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
