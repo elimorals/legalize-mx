@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entrega-recepcion-de-los-recursos-publicos-del-110172"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-12"
-last_updated: "2015-10-12"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de octubre de 2015.
 
@@ -51,11 +51,13 @@ QUE CONTIENE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO D
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social y tiene por objeto establecer las bases generales conforme a las cuales, los servidores públicos de los Poderes, Organismos Públicos Autónomos, Ayuntamientos del Estado, así como de las Entidades Paraestatales y Paramunicipales, darán cumplimiento a su obligación de entregar a quienes los sustituyan, al término de su empleo, cargo o comisión, los recursos humanos, materiales, financieros e información que les hayan sido asignados, de conformidad con las disposiciones normativas aplicables.
+La presente ley es de orden público e interés social y tiene por objeto establecer las bases generales conforme a las cuales los servidores públicos de los Poderes, Organismos Públicos Autónomos, Ayuntamientos del Estado, así como de las Entidades Paraestatales y Paramunicipales, darán cumplimiento a su obligación de entregar a quienes los sustituyan, al término de su empleo, cargo o comisión, los recursos humanos, materiales, financieros, informáticos e información que les hayan sido asignados, de conformidad con las disposiciones normativas aplicables.
 
-En todo lo no previsto en la presente ley, se aplicará de manera supletoria la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+En todo lo no previsto en la presente ley, se aplicará de manera supletoria la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo y la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica Avanzada para el Estado de Hidalgo.
 
 ###### Artículo 2.
 
@@ -67,23 +69,37 @@ II. Ayuntamiento. Órgano de Gobierno municipal a través del cual, el pueblo, e
 
 III. Comité. El Comité de Transición;
 
-IV. Contraloría. La Secretaría de Contraloría y Transparencia Gubernamental, dependiente del Poder Ejecutivo, que es la facultada para emitir reglas, instrucciones y formatos para el cumplimiento del proceso de Entrega Recepción;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
-V. Entrega Recepción. El acto administrativo mediante el cual un servidor público que concluye su empleo, cargo o comisión hace entrega, a quien lo sustituye, de los recursos humanos, materiales, financieros e información que le hayan sido asignados;
+IV. Contraloría. La Secretaría de Contraloría del Poder Ejecutivo, que es la facultada para emitir reglas, instrucciones y formatos para el cumplimiento del proceso de Entrega Recepción de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+V. Entrega Recepción. El acto administrativo mediante el cual un servidor público que concluye su empleo, cargo o comisión hace entrega, a quien lo sustituye, de los recursos humanos, materiales, financieros, informáticos e información que le hayan sido asignados;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+V bis. Recursos informáticos: Equipo de cómputo de escritorio o portátil, tabletas, teléfonos IP, impresoras, digitalizadores, programas de cómputo, sistemas de información, aplicaciones, cuentas de redes sociales institucionales, bases de datos y servicios de red;
 
 VI. Ley. Ley de Entrega Recepción de los Recursos Públicos del Estado de Hidalgo;
 
 VII. Lineamientos. Las reglas, instrucciones y formatos que con base en las disposiciones reglamentarias emitan los Poderes del Estado y organismos públicos autónomos, según corresponda, en el ámbito de sus respectivas competencias, que tienen por objeto ordenar, orientar, dar transparencia y uniformidad al acto administrativo de entrega recepción de los servidores públicos del Estado y de los Ayuntamientos;
 
-VIII. Órgano Interno de Control. La Secretaría de Contraloría y Transparencia Gubernamental, las Contralorías Internas o sus equivalentes de los Poderes del Estado, Organismos Públicos Autónomos, Ayuntamientos y las Entidades Paraestatales y Paramunicipales;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
-IX. Servidores Públicos. Los representantes de elección popular, los miembros del Poder Judicial, y en general toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en los Poderes del Estado, Entidades Paraestatales, Organismos Públicos Autónomos, Ayuntamientos y Entidades Paramunicipales; y
+VIII. Órgano Interno de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos y que, conforme a la legislación y normatividad serán competentes para aplicar las leyes en materia de responsabilidades de servidores públicos;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+IX. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito local, conforme a lo dispuesto en el artículo 149 de la Constitución Política del Estado de Hidalgo; y
 
 X. Unidad Administrativa. Aquella que está integrada por los servidores públicos de una o varias áreas, que forman una Dirección o equivalente, con propósitos y objetivos propios dentro de la estructura orgánica de un Poder, una Dependencia, Entidad, Organismo Público Autónomo o un Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Los entes y servidores públicos sujetos a la presente Ley son:
+Son sujetos obligados de la presente ley, los entes y servidores públicos siguientes:
 
 I. Los integrantes del poder Ejecutivo del Estado, desde nivel de jefe de departamento, o su equivalente;
 
@@ -97,23 +113,33 @@ V. Los titulares de las entidades de la Administración Pública Estatal y Munic
 
 VI. Los titulares de los entes autónomos, desde el nivel de jefe de departamento o su equivalente; y
 
-VII. Los demás servidores públicos que por la naturaleza e importancia de sus funciones deban realizar el acto de entrega recepción y que de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo, estén obligados a presentar manifestación de bienes ante la autoridad competente.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+VII. Los demás servidores públicos que por la naturaleza o importancia de sus funciones deban realizar la entrega recepción en virtud de que administran, aplican, manejan, custodian y realizan la comprobación de recursos públicos.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-Tienen la obligación de entregar, al término de su empleo, cargo o comisión, los recursos humanos, materiales y financieros, así como la información a su cargo en los términos que establece la presente ley, los titulares de los Poderes del Estado, de las Entidades Paraestatales, de los Organismos Públicos Autónomos, de los Ayuntamientos y sus Entidades Paramunicipales y demás servidores públicos hasta el nivel de Jefe de Departamento o su equivalente en todos los casos y aquellos que tengan dentro de sus funciones la obligación de administrar, aplicar, manejar, custodiar y comprobar recursos públicos del Estado, Organismos Públicos Autónomos, de los Ayuntamientos o de las entidades de éstos.
+Tienen la obligación de entregar, al término de su empleo, cargo o comisión, los recursos humanos, materiales financieros e informáticos, así como la información a su cargo en los términos que establece la presente ley, los titulares de los Poderes del Estado, de las Entidades Paraestatales, de los Organismos Públicos Autónomos, de los Ayuntamientos y sus Entidades Paramunicipales y demás servidores públicos hasta el nivel de Jefe de Departamento o su equivalente en todos los casos y aquellos que tengan dentro de sus funciones la obligación de administrar, aplicar, manejar, custodiar y comprobar recursos públicos del Estado, Organismos Públicos Autónomos, de los Ayuntamientos o de las entidades de éstos.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-El proceso de entrega recepción será sancionado por la Contraloría o por el órgano interno de control, según corresponda, en el ámbito de sus competencias. La Contraloría queda facultada para interpretar esta Ley respecto de sus fines administrativos, en su respectivo ámbito de competencia, debiendo dictar las medidas complementarias necesarias para su observancia, así mismo podrán solicitar desde seis meses antes, la documentación que consideren necesaria para preparar la entrega definitiva.
+El proceso de entrega recepción será sancionado por la Contraloría o por el órgano interno de control, según corresponda, quedando facultados para interpretar esta Ley respecto de sus fines administrativos, en su respectivo ámbito de competencia, debiendo dictar las medidas complementarias necesarias para su observancia, así mismo podrán solicitar desde doce meses antes, la documentación que consideren necesaria para preparar la entrega final.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
-Los servidores públicos señalados en el artículo 3 de esta ley, al dejar su empleo, cargo o comisión, deberán realizar formal y materialmente el acto de entrega recepción de los recursos humanos, materiales, financieros e información asignados para el desempeño de sus funciones.
+Los servidores públicos señalados en el artículo 3 de esta ley, al dejar su empleo, cargo o comisión, deberán realizar formal y materialmente el acto de entrega recepción de la información, recursos humanos, materiales, financieros e informáticos, asignados para el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-Los servidores públicos obligados a realizar la entrega recepción, deberán atender los principios de legalidad, honradez, lealtad, imparcialidad y eficacia, en el ejercicio de sus funciones.
+Quienes participen en la entrega recepción, deberán atender los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia.
 
 ###### Artículo 8.
 
@@ -121,25 +147,33 @@ La entrega recepción puede ser:
 
 I. Final. La que se origine al término e inicio de un ejercicio constitucional o legal de los servidores públicos; y
 
-II. Intermedia. Cuando por causas distintas al cambio de administración, se separe el servidor público de su cargo, empleo o comisión.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
-El superior jerárquico deberá notificar a la Contraloría o al Órgano Interno de Control, según corresponda, del cambio de un titular, a más tardar dentro de los tres días siguientes a aquél en que se lleve a cabo el nombramiento. Si el cambio fuere a realizarse en una fecha determinada, también se realizará la notificación correspondiente.
+II. Intermedia. Cuando por causas distintas al cambio de administración, se separe el servidor público de su cargo, empleo o comisión; en este caso el superior jerárquico deberá notificar a la Contraloría o al Órgano Interno de Control, según corresponda, del cambio de un servidor público, a más tardar dentro de los cinco días hábiles siguientes a aquél en que se lleve a cabo el nombramiento o designación de cualquier servidor púbico. Si el cambio fuere a realizarse en una fecha determinada, también se realizará la notificación correspondiente.
 
-El servidor público saliente no quedará eximido de las obligaciones establecidas por la presente ley, ni por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, en que pudiese haber incurrido con motivo del desempeño de su empleo, cargo o comisión.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+El servidor público saliente no quedará eximido de las obligaciones establecidas por la presente ley, ni por la Ley General de Responsabilidades Administrativas, en que pudiese haber incurrido con motivo del desempeño de su empleo, cargo o comisión.
 
 ## TÍTULO SEGUNDO. DEL PROCESO DE ENTREGA RECEPCIÓN
 
 ### CAPÍTULO PRIMERO. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-La entrega recepción de los recursos públicos es un proceso obligatorio y formal, que deberá efectuarse por escrito mediante acta administrativa que contenga la descripción del estado que guarda la administración de la Dependencia, Organismo, Ayuntamiento o Entidad de que se trate, con los requisitos establecidos por la presente ley y por las disposiciones reglamentarias que al efecto se emitan.
+La entrega recepción de los recursos públicos es un proceso obligatorio y formal, que deberá efectuarse por escrito mediante acta que contenga la descripción del estado que guarda el empleo, cargo o comisión desempeñado, con los requisitos establecidos por la presente ley y por las disposiciones reglamentarias que al efecto se emitan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-El proceso de entrega recepción inicia con la notificación que deberá realizar el titular del área administrativa al Órgano Interno de Control que corresponda, del cambio de un servidor público y concluye con la firma del acta respectiva, la cual deberá ser suscrita a más tardar en treinta días hábiles tratándose de entrega recepción intermedia y tratándose de entrega final el plazo será de cuarenta y cinco días hábiles. Para el caso de los municipios, los plazos serán establecidos por la Auditoría Superior del Estado.
+El proceso de entrega recepción inicia con la notificación que deberá realizar el titular del área administrativa al Órgano Interno de Control que corresponda, así como a los servidores públicos involucrados, la cual concluye mediante la firma autógrafa y/o la firma electrónica avanzada de quienes en ella intervienen, a más tardar en treinta días hábiles tratándose de entrega recepción intermedia y tratándose de entrega final el plazo será de cuarenta y cinco días hábiles. Para el caso de los municipios, los plazos serán establecidos por la Auditoría Superior del Estado.
 
-El Órgano Interno de Control podrá racionalmente, en términos de las disposiciones reglamentarias, establecer una prórroga que en ningún caso deberá exceder del plazo de la entrega respectiva, cuando el servidor público entrante no esté conforme con el contenido del acta correspondiente.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+El Órgano Interno de Control podrá racionalmente, en términos de las disposiciones reglamentarias, establecer una prórroga que en ningún caso deberá exceder de treinta días hábiles tratándose de entrega recepción intermedia y de cuarenta y cinco días hábiles tratándose de entrega final, cuando el servidor público entrante no esté conforme con el contenido del acta correspondiente o la cantidad de información a recibir sea excesiva.
 
 Los plazos anteriores se computarán a partir del día hábil siguiente al de la notificación que haga el titular del área administrativa.
 
@@ -153,13 +187,17 @@ II. Especificación del área y periodo que comprende la entrega; y
 
 III. Nombres de los servidores públicos entrante y saliente, o del servidor público responsable de la recepción.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-En caso de que la entrega recepción se refiera al titular del área administrativa, será obligación del servidor público inmediato inferior realizar la notificación prevista en el artículo 8 de esta ley.
+En caso de que la entrega recepción se refiera al titular del área administrativa, será obligación del servidor público inmediato inferior realizar la notificación prevista en los artículos 8 y 10 de esta ley.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-Cuando no se hiciere la notificación correspondiente, el Órgano Interno de Control, de oficio requerirá a quien corresponda para que en el término de veinticuatro horas, le informe sobre el relevo de algún servidor público, a efecto de instaurar el proceso de entrega recepción, haciendo constar dicha situación en el acta respectiva, sin perjuicio de que se proceda de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+Cuando no se hiciere la notificación correspondiente, el Órgano Interno de Control, requerirá de oficio a quien corresponda para que en el término de veinticuatro horas, le informe sobre el relevo de algún servidor público, a efecto de instaurar el proceso de entrega recepción, haciendo constar dicha situación en el acta respectiva, sin perjuicio de que se proceda de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 14.
 
@@ -177,7 +215,17 @@ V. Recursos materiales;
 
 VI. Recursos financieros; y
 
-VII. Expedientes de asuntos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+VII. Recursos informáticos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+VIII. Expedientes de asuntos legales.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+Además, deberán entregar los instrumentos de control y consulta archivísticos actualizados y señalar los documentos con posible valor histórico, en los términos previstos en la Ley de Archivos del Estado de Hidalgo.
 
 ###### Artículo 15.
 
@@ -189,9 +237,11 @@ El Ejecutivo del Estado, por conducto de la Contraloría, podrá celebrar acuerd
 
 ### CAPÍTULO SEGUNDO. DE LAS ACTIVIDADES PREVIAS A LA ENTREGA RECEPCIÓN
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Los servidores públicos señalados en el artículo 3 de esta ley deberán mantener permanentemente actualizados sus registros, controles, inventarios y demás documentación relativa a su despacho; cumplir, además, con las medidas y disposiciones que dicte el Órgano Interno de Control competente, para la mejor observancia de este ordenamiento y la oportuna realización del acto administrativo de entrega recepción.
+Los servidores públicos señalados en el artículo 3 de esta ley deberán mantener permanentemente actualizados sus registros, controles, inventarios y demás documentación relativa a su despacho; cumplir, además, con las medidas y disposiciones que dicte la Contraloría o el Órgano Interno de Control competente, para la mejor observancia de este ordenamiento y la oportuna realización del acto administrativo de entrega recepción.
 
 ###### Artículo 18.
 
@@ -213,9 +263,11 @@ Las actividades que desarrollen los integrantes del Comité, tendrán únicament
 
 Quienes integren el Comité, durante su actuación bajo esta designación no percibirán retribución alguna con cargo al erario público del Estado, de los Organismos Públicos Autónomos, del Ayuntamiento, ni de sus entidades.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-El acto de entrega recepción final será coordinado por el Órgano Interno de Control de las Dependencias y Entidades del Poder Ejecutivo, del Poder Legislativo, del Poder Judicial, de los Organismos Públicos Autónomos, del Ayuntamiento o la Entidad Municipal que corresponda. A efecto de iniciar la preparación de la misma, dicho Órgano podrá requerir la información necesaria en un plazo que fluctúe entre seis y doce meses, en términos de lo establecido en las disposiciones reglamentarias que se emitan para tal efecto.
+El acto de entrega recepción final será coordinado por el Órgano Interno de Control de las Dependencias y Entidades del Poder Ejecutivo, del Poder Legislativo, del Poder Judicial, de los Organismos Públicos Autónomos, del Ayuntamiento o la Entidad Municipal que corresponda. A efecto de iniciar la preparación de la misma, dicho Órgano podrá requerir la información necesaria en un plazo de doce meses, en términos de lo establecido en las disposiciones reglamentarias que se emitan para tal efecto.
 
 ###### Artículo 23.
 
@@ -225,17 +277,25 @@ Los servidores públicos que habrán de concluir su empleo, cargo o comisión, d
 
 Tratándose de la entrega recepción intermedia, la preparación de la información referida en esta ley, será obligación del servidor público que entrega, quien actuará con el apoyo de un representante de la Dirección Administrativa o su equivalente y con la intervención del Órgano Interno de Control respectivo, correspondiendo a este último la obligación de proporcionar los formatos autorizados para tal efecto.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-La información relativa a los recursos humanos, materiales, financieros e informáticos que se entreguen, se registrará en los formatos autorizados por el Órgano Interno de Control correspondiente, los cuales deberán generarse por quintuplicado y contener la firma autógrafa de quienes intervengan en el acto de entrega recepción
+La información relativa a los recursos humanos, materiales, financieros e informáticos que se entreguen, se registrará en los formatos autorizados por la Contraloría o en su caso por el Órgano Interno de Control correspondiente, los cuales deberán generarse por quintuplicado y contener la firma autógrafa y/o la firma electrónica avanzada de quienes intervengan en el acto de entrega recepción.
+
+La intervención de la Contraloría o en su caso del Órgano Interno de Control no implica la autenticidad y legalidad de los documentos e información que se integren en el acta.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 26.
 
-En el caso de la entrega recepción final, la información contendrá la firma autógrafa de los titulares de las Dependencias o Entidades del Poder Ejecutivo; del Presidente de la Junta de Gobierno del Congreso del Estado; del Presidente del Tribunal Superior de Justicia y Presidente del Consejo de la Judicatura del Poder Judicial; de los Titulares de los Organismos Públicos Autónomos; y del Presidente Municipal o del titular de la Entidad Municipal, según corresponda; en los formatos especialmente aprobados para este objeto.
+En el caso de la entrega recepción final, la información contendrá la firma autógrafa y/o la firma electrónica avanzada de los titulares de las Dependencias o Entidades del Poder Ejecutivo; del Presidente de la Junta de Gobierno del Congreso del Estado; del Presidente del Tribunal Superior de Justicia y Presidente del Consejo de la Judicatura del Poder Judicial; de los Titulares de los Organismos Públicos Autónomos; y del Presidente Municipal o del titular de la Entidad Municipal, según corresponda; en los formatos especialmente aprobados para este objeto.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 27.
 
-Cuando se trate de la entrega recepción intermedia que deba realizarse por el titular de una Dependencia o Entidad del Poder Ejecutivo; del Presidente de la Junta de Gobierno del Congreso del Estado; del Presidente del Tribunal Superior de Justicia y Presidente del Consejo de la Judicatura del Poder Judicial; de los Titulares de los Organismos Públicos Autónomos; y del Presidente Municipal o del titular de la Dependencia o Entidad Municipal, según corresponda, la información relativa a los recursos humanos, materiales y financieros que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
+Cuando se trate de la entrega recepción a que deba realizarse por el titular de una Dependencia o Entidad del Poder Ejecutivo; del Presidente de la Junta de Gobierno del Congreso del Estado; del Presidente del Tribunal Superior de Justicia y Presidente del Consejo de la Judicatura del Poder Judicial; de los Titulares de los Organismos Públicos Autónomos; y del Presidente Municipal o del titular de la Dependencia o Entidad Municipal, según corresponda, la información relativa a los recursos humanos, materiales, financieros e informáticos que se entreguen, deberá ser la correspondiente a las oficinas asignadas para su despacho.
 
 ###### Artículo 28.
 
@@ -243,17 +303,23 @@ Tratándose de información de carácter técnico o financiero que pudiera ser m
 
 La información solicitada por el servidor público saliente deberá ser entregada en un plazo no mayor a diez días hábiles, contados a partir del día siguiente a la petición.
 
-En caso de que el interesado en obtener copia de la información sea el titular del Órgano Interno de Control, será obligación del servidor público designado para tal efecto atender la solicitud.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el interesado en obtener copia de la información sea el Órgano Interno de Control, será obligación del servidor público designado para tal efecto atender la solicitud.
 
 ### CAPÍTULO TERCERO. DEL ACTO DE ENTREGA RECEPCIÓN
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 29.
 
-La entrega recepción se formalizará mediante acta administrativa que se elaborará con base en lo dispuesto por el artículo 14 de esta ley, cuya información y documentación constará en forma individual, en cada uno de los formatos en que se registren los recursos humanos, materiales, financieros e informáticos motivo de la misma.
+La entrega recepción se formalizará mediante acta que se elaborará con base en lo dispuesto por el artículo 14 de esta ley, cuya información y documentación constará en forma individual, en cada uno de los formatos en que se registren los recursos humanos, materiales, financieros e informáticos motivo de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-El acta administrativa se elaborará en cinco tantos, quedándose un original bajo la custodia del servidor público que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará al Órgano Interno de Control, y una copia se integrará a los archivos del área que se entrega, y para la Auditoría Superior del Estado tratándose de los Ayuntamientos o Entidades Municipales y servidores públicos que administren recursos, que se remitirá por conducto del servidor público que se designe para tal efecto.
+El acta se elaborará en cinco tantos, quedándose un original bajo la custodia del servidor público que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará al Órgano Interno de Control, y una copia se integrará a los archivos del área que se entrega, y para la Auditoría Superior del Estado tratándose de los Ayuntamientos o Entidades Municipales y servidores públicos que administren recursos, que se remitirá por conducto del servidor público que se designe para tal efecto.
 
 Con excepción de los documentos que corresponden a los servidores públicos que concluyen sus funciones, los documentos que se entreguen a las demás personas que intervienen en el acto de entrega recepción, formarán parte de los archivos de la Unidad Administrativa que cada servidor público representa. Será obligación del servidor público que recibe, custodiar la información y documentación señalada en este precepto.
 
@@ -275,13 +341,23 @@ No podrá designarse encargado en los casos en que esté expresamente determinad
 
 Tratándose del acto de entrega recepción final será obligación del servidor público saliente la integración de la información en tiempo y forma, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y de este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 34 Bis.
+
+La Contraloría o el Órgano Interno de Control en su caso, instrumentará y operará el Sistema de Información Digital para la Entrega y Recepción, que tiene por objeto la integración e información actualizada referente al estado que guardan los recursos humanos, materiales, financieros e informáticos; el cual deberá ser en uso de la Firma Electrónica Avanzada misma que permitirá que los documentos e información enviados por medios electrónicos tengan, en términos de las disposiciones legales aplicables, los mismos efectos jurídicos que los documentos firmados de manera autógrafa.
+
+La información que alimente al sistema será emitida por los Sujetos Obligados auxiliándose para este efecto de las disposiciones y herramientas tecnológicas que establezca la Contraloría o el Órgano Interno de Control competente.
+
 ## TÍTULO TERCERO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-El incumplimiento a las disposiciones de la presente ley, será sancionado en los términos que establece la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, sin perjuicio de lo que señalen otros ordenamientos legales.
+El incumplimiento a las disposiciones de la presente ley, será sancionado en los términos que establece la Ley General de Responsabilidades Administrativas, sin perjuicio de lo que señalen otros ordenamientos legales.
 
 Se considerará infracción a la presente ley, cuando un servidor público no realice la entrega en tiempo y forma.
 
@@ -306,3 +382,15 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 529 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Contraloría deberá expedir o actualizar los lineamientos generales para el cumplimiento de las disposiciones de esta ley, dentro de los 30 días naturales siguientes a su entrada en vigor.
+
+TERCERO. Los procesos de entrega recepción que se iniciaron con antelación a la entrada en vigor del presente Decreto, continuarán con los plazos y términos establecidos por la Ley vigente al momento de iniciar el proceso.
