@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2019-06-28"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,75 +21,31 @@ state: "PUE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY ORGANICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice Estados Unidos Mexicanos.-Gobierno del Estado de Puebla.
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente:
 
-Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+DECRETO
 
-C.C. SECRETARIOS DE LA XLIX LEGISLATURA DEL H. CONGRESO DEL ESTADO.
+"El Congreso de los Estados Unidos Mexicanos, decreta:
 
-C I U D A D .
-
-C O N S I D E R A N D O :
-
-QUE en consecuencia con el propósito fundamental del Ejecutivo a mi cargo, de apoyar la política del Gobierno de la República en el renglón relativo a la renovación moral de la Sociedad, resulta impostergable la creación de los dispositivos legales necesarios para regular la conducta de los Servidores Públicos.
-
-QUE para los efectos anteriores es importante buscar uniformar el régimen de responsabilidades de los servidores públicos federales, estatales y municipales.
-
-QUE en la presente Ley se definen y proponen quienes son sujetos de responsabilidades en el ámbito local y municipal, considerando como tales a quienes ostenten un empleo, cargo o comisión en la Administración Pública Estatal o Municipal, en el Poder Legislativo y Judicial, así como toda persona que maneje o aplique fondos y recursos públicos.
-
-QUE la presente Iniciativa coadyuvará a hacer posible la eficiente aplicación del gasto público, un transparente manejo de los presupuestos de egresos, así como la administración y custodia de los bienes, fondos y valores del Estado y del Municipio.
-
-QUE es necesario dotar a la recientemente creada Secretaría de la Contraloría de los instrumentos legales indispensables para hacer posible su operatividad. Esta Ley otorga a dicha Secretaría facultades por cuanto a la substanciación de procedimientos disciplinarios y aplicación de determinadas sanciones.
-
-QUE también se hace indispensable delimitar los sujetos de responsabilidad política en razón de sus funciones, además de consignar los supuestos o causales de dicha responsabilidad.
-
-QUE asimismo se determina el órgano político que debe investigar y conocer de las conductas que configuran la responsabilidad oficial, otorgando al Congreso del Estado y al H. Tribunal Superior de Justicia competencia para substanciar y resolver el Juicio Político, concediendo desde luego a los encausados las garantías de audiencia y legalidad.
-
-QUE también se contempla la responsabilidad penal de los servidores públicos, previendo un procedimiento para privarlos del fuero constitucional de que gozan, facultando al Congreso del Estado para su substanciación y resolución.
-
-QUE hay imperativo por definir a los sujetos de responsabilidad administrativa, estableciendo las obligaciones genéricas de los servidores públicos estatales y municipales, determinando que del incumplimiento de las mismas se incurre en responsabilidad administrativa originando en consecuencia los procedimientos disciplinarios y las sanciones correspondientes.
-
-QUE la presente Ley, aplicable también a los Ayuntamientos, queda a salvo la libertad del Municipio por cuanto a su organización política y administrativa, ya que tratándose de responsabilidades en que incurran los Presidentes Municipales, Regidores y Síndicos, atendiendo a sus cargos de elección popular, se establece que corresponde al Congreso del Estado la instrucción y aplicación de las sanciones respectivas.
-
-QUE por último, es indispensable legislar sobre la declaración patrimonial de los servidores públicos, que están obligados a presentar al protestar el cargo, concluirlo y anualmente durante su gestión por lo que hace a las modificaciones que haya sufrido su patrimonio.
-
-En mérito de lo expuesto y en uso de las facultades que me confieren los artículos 63 fracción I y 79 fracción VI de la Constitución Política Local, me permito someter a la consideración de ese H. Congreso, para su estudio y aprobación, en su caso, la siguiente iniciativa de:
-
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
+LEY ORGANICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO. De la Sociedad, Denominación, Objeto y Domicilio
 
-###### Artículo 1º.
+###### ARTICULO 1o.
 
-Esta Ley es reglamentaria del título Noveno de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de:
-
-I.- Responsabilidad de los servidores públicos del Estado y de los Municipios;
-
-II.- Obligaciones en el servicio público estatal y municipal;
-
-III.- Responsabilidades y sanciones administrativas en el servicio público;
-
-IV.- Responsabilidades de los servidores públicos sometidos a juicio político;
-
-V.- Competencia y procedimientos para aplicar sanciones a los servidores públicos;
-
-VI.- Competencia y procedimientos para declarar la procedencia del enjuiciamiento penal de los servidores públicos estatales y municipales, que gozan de protección constitucional; y
-
-VII.- Registro patrimonial de los servidores públicos del Estado y los Municipios.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+La presente Ley rige al Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, con personalidad jurídica y patrimonio propios.
 
 ###### Artículo 1.
 
@@ -101,31 +57,17 @@ II. Instituir las medidas de control para limitar la circulación de los vehícu
 
 III. Formular las bases para el otorgamiento, vigilancia y cumplimiento de las autorizaciones de los Centros de Verificación Vehicular otorgadas a los particulares, así como para la aplicación de las sanciones.
 
-###### Artículo 2º.
+###### ARTICULO 2o.
 
-Son Servidores Públicos las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en las Entidades de la Administración Pública Paraestatal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos económicos Federales, Estatales o Municipales, sea cual fuere la naturaleza de su nombramiento o elección.
+La Sociedad, en su carácter de banca de desarrollo, prestará el servicio público de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo, y en especial del Programa Nacional de Financiamiento del Desarrollo, de acuerdo a los programas sectoriales y regionales y a los planes estatales y municipales, para promover y financiar las actividades y sectores que le son encomendados en la presente Ley.
 
-###### Artículo 3º.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Son autoridades competentes para aplicar la presente Ley:
+###### ARTICULO 3o.
 
-I.- El Congreso del Estado;
+El Banco Nacional de Obras y Servicios Públicos, como institución de banca de desarrollo, tendrá por objeto financiar o refinanciar proyectos de inversión pública o privada en infraestructura y servicios públicos, así como coadyuvar al fortalecimiento institucional de los gobiernos Federal, estatales y municipales, con el propósito de contribuir al desarrollo sustentable del país.
 
-II.- La Secretaría de la Contraloría General del Estado;
-
-III.- Las dependencias del Ejecutivo Estatal;
-
-IV.- Los Tribunales del Trabajo en los términos de la legislación respectiva;
-
-V.- Los Ayuntamientos; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
-
-VI.- El Tribunal Superior de Justicia; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
-
-VII.- Los demás Organos que determinen las Leyes.
+La operación y funcionamiento de la Institución, se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios, buscando alcanzar dentro de los sectores encomendados al prestar el servicio público de banca y crédito, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 
 ###### Artículo 3.
 
@@ -209,21 +151,43 @@ XXXII. Vehículos Híbridos: Aquellos que utilizan para su funcionamiento, compl
 
 XXXIII. Verificación Vehicular: Medición de las emisiones de gases, partículas sólidas o líquidas a la atmósfera, provenientes de fuentes móviles.
 
-###### Artículo 4º.
+###### ARTICULO 4o.
 
-No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+El domicilio del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, será el que se fije en su Reglamento Orgánico, podrá establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales, en el país o en el extranjero, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-###### Artículo 5º.
+###### ARTICULO 5o.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley, y las responsabilidades penales o de carácter civil que dispongan otros Ordenamientos, se desarrollarán autónomamente según su naturaleza, y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a la que deba conocer de ellas.
+La duración de la Sociedad será indefinida.
 
 ## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
-### CAPITULO I. SUJETOS, CAUSAS, PROCEDIMIENTOS Y SANCIONES DEL JUICIO POLITICO
+### CAPITULO SEGUNDO. Objetivos y Operaciones
 
-###### Artículo 6º.
+###### ARTICULO 6o.
 
-Son sujetos de juicio político los servidores públicos enumerados en la fracción II del artículo 125 de la Constitución Política del Estado.
+La Sociedad, con el fin de procurar la eficiencia y competitividad de los sectores encomendados en el ejercicio de su objeto, estará facultada para:
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. Coadyuvar en el ámbito de su competencia, al fortalecimiento del pacto federal y del municipio libre en los términos del artículo 115 constitucional para lograr el desarrollo equilibrado del país y la descentralización de la vida nacional con la atención eficiente y oportuna de las actividades regional o sectorialmente prioritarias; así como impulsar la inversión y el financiamiento privado en infraestructura y servicios públicos;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+II. Promover y financiar la dotación de infraestructura, servicios públicos, equipamiento urbano, así como la modernización y fortalecimiento institucional en Estados y Municipios;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Financiar y proporcionar asistencia técnica a los municipios para la formulación, administración y ejecución de sus planes de desarrollo urbano y para la creación y administración de reservas territoriales y ecológicas, así como estructurar y coordinar proyectos de inversión;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IV. Otorgar asistencia técnica y financiera para la mejor utilización de los recursos crediticios y el desarrollo de las administraciones locales, financiar proyectos de infraestructura y servicios públicos. La Sociedad no podrá administrar obras y servicios públicos realizados con sus financiamientos;
+
+V. Apoyar los programas de vivienda y el aprovechamiento racional del suelo urbano;
+
+VI. Financiar el desarrollo de los sectores de comunicaciones y transportes; y
+
+VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado.
 
 ###### Artículo 6.
 
@@ -239,219 +203,385 @@ III. Otorgar, suspender, revocar o cancelar, las autorizaciones de establecimien
 
 > <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 7º.
+###### ARTICULO 7o.
 
-El Gobernador del Estado, durante el ejercicio a su cargo, sólo es responsable por delitos graves del orden común, sin perjuicio de la responsabilidad política que se establece en el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+Para el cumplimiento de los objetivos a que se refieren los artículos 3o. y 6o. anteriores, la Sociedad podrá:
 
-###### Artículo 8º.
+I. Realizar las operaciones y prestar los servicios a que se refiere el artículo 30 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 
-Procede el juicio político por:
+Las operaciones señaladas en las fracciones I y II del citado artículo, las realizará con vistas a facilitar a los beneficiarios de sus actividades el acceso al servicio público de banca y crédito y propiciar en ellos el hábito del ahorro y uso de los servicios que presta el sistema bancario nacional, de manera que no produzca desajustes en el sistema de captación de recursos del público en los términos del artículo 31 de la citada Ley;
 
-a).- Violaciones graves a la Constitución del Estado.
+II. Emitir bonos bancarios de desarrollo. Dichos títulos procurarán fomentar el desarrollo del mercado de capitales y la inversión institucional, serán susceptibles de colocarse entre el gran público inversionista, caso en el cual le serán aplicables las disposiciones legales respectivas;
 
-b).- Manejo indebido de fondos y recursos del Estado.
+III. Otorgar créditos a los sujetos comprendidos en los ámbitos señalados en el artículo 3o. de la presente Ley;
 
-c).- Actos u omisiones en el ejercicio de sus funciones, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+IV. Tomar a su cargo o garantizar las emisiones de valores y de títulos de crédito en serie, emitidos o garantizados por las dependencias y entidades de la Administración Pública Federal, del Distrito Federal, de los estados y municipios y los que emita la propia Sociedad en el ejercicio de sus atribuciones fiduciarias, previa autorización de la Secretaría de Hacienda y Crédito Público;
 
-###### Artículo 9º.
+V. Otorgar garantías y, en su caso, conceder financiamiento a empresas mexicanas para la elaboración de proyectos o la ejecución de obras públicas en el extranjero;
 
-Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho:
+VI. Otorgar avales y garantías con autorización previa, en cada caso, de la Secretaría de Hacienda y Crédito Público;
 
-I.- El ataque a las Instituciones Democráticas;
+VII. Promover y dar asistencia técnica para la identificación, formulación y ejecución de proyectos de los sujetos de crédito que operen en los sectores encomendados a la Institución;
 
-II.- El ataque a la forma de Gobierno Republicano, Representativo y Popular del Estado, así como a la organización política y administrativa de los Municipios;
+VIII. Contratar créditos cuyos recursos se canalicen hacia los sectores, conforme a las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-III.- Las violaciones graves a los derechos humanos y sus garantías;
+IX. Podrá actuar a solicitud de los gobiernos del Distrito Federal, de los Estados y Municipios, así como de sus respectivas entidades paraestatales y paramunicipales, como agente financiero o como consejero técnico en la planeación, financiamiento y ejecución de programas, proyectos y obras de servicios públicos o de interés social, relacionados con el objeto de la Sociedad;
 
-IV.- El ataque a la libertad de sufragio;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-V.- La usurpación de atribuciones;
+X. Participar temporalmente en el capital social de empresas vinculadas con el objeto a que se refiere el artículo 3o. de esta Ley, de acuerdo con los parámetros establecidos en el reglamento orgánico de la Sociedad;
 
-VI.- Cualquier infracción a la Constitución Local o a las leyes estatales o cualquier omisión cuando aquélla o ésta causen perjuicios graves al Estado, a uno o varios Municipios del mismo o a la sociedad, o motive trastorno en el funcionamiento normal de las Instituciones;
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-VII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Estatal o Municipal y a las leyes que determinen el manejo de sus recursos económicos.
+XI. Garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito, y
 
-###### Artículo 10.
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-En caso de juicio político son aplicables las disposiciones siguientes:
+XII. Las demás actividades análogas y conexas a sus objetivos en los términos que al efecto le señale la Secretaría de Hacienda y Crédito Público, incluyendo las de agente financiero del Gobierno Federal, en los términos de las disposiciones legales aplicables.
 
-I.- Sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, o dentro de un año después de la conclusión de sus funciones; y
+###### ARTICULO 8o.
 
-II.- Las sanciones se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+Los créditos que se otorguen a las entidades federativas y a los municipios y a sus respectivas entidades paraestatales y paramunicipales, así como a las organizaciones y sujetos de crédito de los sectores que corresponden a su objeto social, deberán satisfacer los requisitos que se señalen, para cada caso, en el Reglamento Orgánico de la Sociedad o en los acuerdos de Consejo Directivo.
 
-III.- El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones, a que se refiere el artículo anterior.
+###### ARTICULO 9o.
 
-IV.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, de uno a diez años.
+Como excepción a lo dispuesto en el último párrafo del artículo 348 de la Ley General de Títulos y Operaciones de Crédito en los contratos de fideicomiso que se constituyan para garantizar los derechos del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, éste podrá actuar en el mismo negocio como fiduciario y fideicomisario.
 
-V.- Cuando los actos que se imputen al encausado tengan carácter delictuoso, el Congreso hará la declaración a que alude la presente Ley.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 11.
+###### ARTICULO 10.
 
-No procede el juicio político por la mera expresión de ideas.
+La Secretaría de Hacienda y Crédito Público, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Sociedad para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2005)</small>
+Corresponde al Banco de México, en los términos de su Ley, regular mediante disposiciones de carácter general, las características de las operaciones pasivas que impliquen captación de recursos del público, los fideicomisos, mandatos y comisiones, las operaciones en el mercado de dinero, así como las operaciones financieras conocidas como derivadas que celebre la Sociedad.
 
-###### Artículo 12.
+###### ARTICULO 11.
 
-En el Congreso del Estado se constituirá una Comisión Instructora que se encargará de sustanciar el procedimiento de los juicios políticos, hasta ponerlos en estado de que el Congreso pueda dictar la resolución definitiva.
+El Gobierno Federal responderá en todo tiempo, de las operaciones pasivas concertadas por el Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de banca de desarrollo:
 
-###### Artículo 13.
+I. Con personas físicas o morales nacionales; y
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado.
+II. Con instituciones del extranjero privadas, gubernamentales e intergubernamentales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2005)</small>
+###### ARTICULO 12.
 
-###### Artículo 14.
+El capital social del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará representado por certificados de aportación patrimonial, en un 66% de la serie "A" y en un 34% de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
 
-Presentada la denuncia ante la Secretaría General del Congreso y ratificada dentro de tres días naturales, se turnará a la Comisión de Gobernación, Justicia y Puntos Constitucionales, la que determinará:
+La serie "A" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal.
 
-a).- Si la conducta atribuida corresponde a las enumeradas por el artículo 9º;
+La serie "B" podrá ser suscrita por el Gobierno Federal, por los gobiernos de las entidades Federativas y de los municipios y por personas físicas y morales mexicanas.
 
-b).- Si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º; y
+La Secretaría de Hacienda y Crédito Público podrá autorizar que entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas y municipios, puedan adquirir certificados de la citada serie "B" en una proporción mayor de la establecida en el artículo 15 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 
-c).- Si la denuncia es procedente y amerita la incoación del procedimiento.
+###### ARTICULO 13.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+El capital neto a que se refiere el artículo 34 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, será el que fije la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Seguros.
 
-En caso contrario la comisión desechará de plano la denuncia presentada.
+###### ARTICULO 14.
 
-###### Artículo 15.
+En ningún momento podrán participar en forma alguna en el capital de la Sociedad, personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa e indirecta de extranjeros.
 
-Las denuncias anónimas no producirán ningún efecto.
+Las personas que contravengan lo dispuesto por este artículo, perderán en favor del Gobierno Federal la participación de que se trate.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2005)</small>
+###### ARTICULO 15.
 
-###### Artículo 16.
+La Secretaría de Hacienda y Crédito Público establecerá la forma, proporciones y demás condiciones aplicables a la suscripción, tenencia y circulación de los certificados de la serie "B".
 
-Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación, Justicia y Puntos Constitucionales, turnará la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado.
+###### ARTICULO 16.
 
-###### Artículo 17.
+La administración del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia.
 
-Dentro de los tres días naturales siguientes a la recepción de la denuncia por la Comisión Instructora, ésta emplazará al servidor público de que se trate, haciéndole saber su garantía de audiencia y la materia de la denuncia, para que informe sobre ésta, lo que podrá hacer personalmente, a través de su defensor o por escrito, dentro de los siete días naturales siguientes al emplazamiento.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 18.
+###### ARTICULO 17.
 
-La Comisión Instructora, transcurridos los plazos a que se refiere el artículo anterior, abrirá un período de pruebas de treinta días naturales, dentro del cual recibirá las que ofrezcan el denunciante, el servidor público, y su defensor, así como las que la propia Comisión estime necesarias.
+El Consejo Directivo estará integrado por trece consejeros designados de la siguiente forma:
 
-###### Artículo 19.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Si al concluir el término probatorio no hubiere sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Comisión Instructora podrá ampliarlo discrecionalmente hasta por otros treinta días naturales.
+I. Siete consejeros representarán a la serie "A" de certificados de aportación patrimonial que serán:
 
-###### Artículo 20.
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo.
 
-La Comisión Instructora calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 21.
+b) Los titulares de las Secretarías de Desarrollo Social; de Turismo; de Comunicaciones y Transportes; el Subsecretario de Hacienda y Crédito Público; el Subsecretario de Egresos, y el Gobernador del Banco de México.
 
-Concluido el término probatorio y la prórroga de éste en su caso, se pondrá el expediente a la vista del denunciante, por un plazo de tres días hábiles, y otros tantos a la vista del encausado y su defensor, para tomar apuntes y formular alegatos, los que deberán presentar por escrito dentro de los seis días hábiles siguientes.
+Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inferior inmediato siguiente.
 
-###### Artículo 22.
+En las ausencias del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público, tendrá el carácter de presidente del Consejo Directivo.
 
-Transcurrido el plazo para alegar, la Comisión Instructora formulará sus conclusiones en vista de las constancias del procedimiento, analizando la conducta o los hechos imputados y haciendo las consideraciones jurídicas que procedan.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 23.
+II. Cinco consejeros de serie "B" de certificados de aportación patrimonial, representados por tres Gobernadores y dos Presidentes Municipales, que serán designados de entre los Gobiernos de los Estados, Municipios y del Distrito Federal.
 
-La Comisión Instructora, con bases en las constancias del procedimiento, formulará sus conclusiones, que contendrán un proyecto de resolución, en el que se determine:
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-I.- Si está legalmente comprobada o no la conducta o el hecho materia de la denuncia;
+La designación de estos consejeros se hará con base en los criterios establecidos en el Reglamento Orgánico de la Sociedad.
 
-II.- Si existe o no responsabilidad del encausado; y
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-III.- En su caso la sanción que a su juicio deba imponerse.
+Por cada consejero propietario se nombrará un suplente, en la forma y términos en que lo sean los propietarios.
 
-###### Artículo 24.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Una vez emitidas las conclusiones de la Comisión Instructora se citará, dentro de los tres días siguientes, a una sesión plenaria del Congreso, para resolver sobre la denuncia presentada.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 25.
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-En la sesión plenaria a que se refiere el artículo anterior, el Congreso se erigirá en Gran Jurado, la Secretaría del mismo dará lectura a las constancias procesales que se estimen procedentes y a las conclusiones de la Comisión Instructora y acto continuo dictará la resolución que corresponda.
+III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente deberá recaer en una persona de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sea ampliamente reconocido.
 
-###### Artículo 26.
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Si el Congreso resolviese que no procede la acusación, el servidor público continuará en el ejercicio de su cargo y no podrá ser sujeto nuevamente a juicio político por los mismos hechos.
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
 
-###### Artículo 27.
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-El Decreto que contenga la sentencia, independientemente de su publicación en el Periódico Oficial del Estado, se notificará al encausado, a su defensor y al poder que corresponda.
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
 
-### CAPITULO II. PROCEDIMIENTOS PARA LA DECLARACION DE PROCEDENCIA
+###### ARTICULO 18.
 
-###### Artículo 28.
+El Consejo Directivo se reunirá por lo menos una vez al mes y sesionará válidamente con la asistencia de cinco consejeros, siempre y cuando, entre ellos se encuentren por lo menos tres de los nombrados por la serie "A".
 
-Para proceder penalmente en contra de los servidores públicos a que se refiere el artículo 126 de la Constitución Política del Estado y el 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior, en materia de juicio político ante el Congreso del Estado; y se aplicarán las siguientes disposiciones:
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-I.- Si a juicio de la Comisión de Gobernación, Justicia y Puntos Constitucionales, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
+El consejero independiente no tendrá suplente y deberá asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrá ser designado otro con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
 
-II.- La Comisión Instructora, en su caso practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya privación se solicita.
+###### ARTICULO 19.
 
-III.- Concluida la averiguación a que se refiere la fracción anterior, la Comisión Instructora dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+No podrán ser consejeros:
 
-IV.- La Comisión Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma y en este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-V.- Dada cuenta con el dictamen correspondiente, el Congreso se erigirá en Jurado de Procedencia y conocerá en Asamblea Plenaria del dictamen que la Comisión le presente y, actuando en los mismos términos previstos por el artículo 25 en materia de juicio político y en lo conducente, se resolverá lo que corresponda.
+I. Las personas que se encuentren en los casos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
 
-###### Artículo 29.
+II. Dos o más personas que tengan, entre sí, parentesco hasta el tercer grado por consanguinidad o por afinidad.
 
-Si el Congreso resuelve, por el voto aprobatorio de las dos terceras partes de sus integrantes, que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes.
+Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario.
 
-###### Artículo 30.
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Si el Congreso resuelve que no ha lugar a proceder contra el inculpado, no podrá seguirse, por los mismos hechos, ningún procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+III. Adicionalmente, el consejero independiente no deberá tener:
 
-###### Artículo 31.
+a) Nexo o vínculo laboral con la Sociedad;
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 126 de la Constitución del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, de esta Ley de Responsabilidades, la Secretaría del Congreso del Estado o la Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+b) Nexo patrimonial importante y/o vínculo laboral con persona física o moral que sea acreedor, deudor, cliente o proveedor de la Sociedad;
 
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS I Y II DEL TITULO SEGUNDO
+c) Conflicto de intereses con la Sociedad, por ser clientes, proveedores, deudores, acreedores, importantes o de cualquier otra naturaleza, y
 
-###### Artículo 32.
+d) La representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o sectores de atención que se relacionen con el objeto de la Sociedad o sean miembros de sus órganos directivos.
 
-Las declaraciones y resoluciones definitivas del Congreso del Estado no admiten recurso alguno.
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-###### Artículo 33.
+Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
 
-Cuando alguna de las Comisiones o el Congreso estimen necesario examinar al inculpado, se le citará para que comparezca personalmente, apercibiéndolo que de no comparecer se entenderá que contesta en sentido negativo.
+###### ARTICULO 20.
 
-###### Artículo 34.
+El Consejo dirigirá a la Sociedad en los términos de lo previsto por el artículo 20 y demás relativos de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 
-Se entenderá que el acusado ha contestado en sentido negativo cuando habiéndolo requerido alguna de las Comisiones o el Congreso, para que informe por escrito sobre uno o varios hechos, no lo hiciere dentro del plazo que se le fije.
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los acuerdos que en su caso dicte respecto a las operaciones previstas en las fracciones VI y XI del artículo 30 de la Ley Reglamentaria del Servicio Público de Banca y Crédito deberán considerar la propuesta del Director General.
+
+###### ARTICULO 21.
+
+También serán facultades del Consejo Directivo las siguientes:
+
+I. Aprobar el informe Anual de Actividades que le presente el Director General; y
+
+II. Aprobar los demás programas específicos y reglamentos internos de la Sociedad, que le presente el Director General, a efecto de someterlos a la autorización de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IV. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional.
+
+###### ARTICULO 22.
+
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley Reglamentaria del Servicio de Banca y Crédito.
+
+###### ARTICULO 23.
+
+El Director General tendrá a su cargo la administración y la representación legal del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo, al efecto tendrá las siguientes facultades y funciones:
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+
+II. Ejecutar las resoluciones del Consejo Directivo;
+
+III. Llevar la firma social;
+
+IV. Actuar como Delegado Fiduciario General;
+
+V. Las que le señale el Reglamento Orgánico; y
+
+VI. Las que le delegue el Consejo Directivo.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VII. Decidir la designación y contratación de los servidores públicos de la Sociedad, distintos de los señalados en el artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la institución;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VIII. Autorizar la publicación de los balances mensuales de la institución, conforme a las bases acordadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IX. Participar en las sesiones del Consejo Directivo con voz, pero sin voto.
+
+###### ARTICULO 24.
+
+La vigilancia de la Sociedad estará encomendada a dos comisarios designados, uno por la Secretaría de la Contraloría General de la Federación y el otro por los consejeros de la serie "B". Por cada Comisario se nombrará el respectivo suplente.
+
+Los comisarios tendrán, en los términos de la Ley Reglamentaria del Servicio Público de Banca y Crédito y del Reglamento Orgánico de la Sociedad, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+ARTICULO 24 bis.- Son causas de remoción de los consejeros de la serie "B" y de los consejeros independientes:
+
+I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
+
+II. No cumplir los acuerdos del Consejo Directivo o actuar deliberadamente en exceso o defecto de sus atribuciones;
+
+III. Utilizar, en beneficio propio o de terceros la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización del Consejo Directivo, y
+
+IV. Someter a sabiendas a la consideración del Consejo Directivo, información falsa.
+
+Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+###### ARTICULO 25.
+
+(DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
+
+###### ARTICULO 26.
+
+Los consejeros, el Director General, directores, subdirectores, gerentes y los delegados fiduciarios de la Sociedad, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
+
+###### ARTICULO 27.
+
+La Secretaría de Hacienda y Crédito Público interpretará a efectos administrativos la presente Ley y podrá expedir las disposiciones complementarias que se requieran en la aplicación de la misma.
+
+### CAPITULO TERCERO. Capital Social
+
+###### ARTICULO 28.
+
+Las operaciones y servicios de la Sociedad, se regirán por lo dispuesto en la presente Ley y supletoriamente por la Ley Reglamentaria del Servicio Público de Banca y Crédito, por la Ley Orgánica del Banco de México y por las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 29.
+
+La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos de acuerdo a los lineamientos, medidas y mecanismos que establezca la Secretaría de Hacienda y Crédito Público.
+
+Las modalidades en la asignación de recursos serán autorizadas por la Secretaría de Hacienda y Crédito Público, en los términos del artículo 31 de la Ley de Instituciones de Crédito; la que procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la institución en el marco de la autonomía de gestión requerida para su eficaz funcionamiento de conformidad con las disposiciones legales aplicables.
+
+###### ARTICULO 30.
+
+Previa autorización de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos, no se considerarán remanentes de operación.
+
+Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 31.
+
+La Sociedad otorgará sus financiamientos a través de las instituciones financieras privadas que asuman parcial o totalmente el riesgo de recuperación de estos apoyos.
+
+Lo dispuesto en el párrafo anterior no será aplicable a las operaciones siguientes:
+
+I. La inversión accionaria y las inversiones en el mercado de dinero;
+
+II. Los financiamientos por un monto total igual al que determine el Consejo Directivo, con la previa autorización de la Secretaría de Hacienda y Crédito Público;
+
+III. Las operaciones que correspondan a prestaciones de carácter laboral otorgadas de manera general;
+
+IV. Las operaciones realizadas con el Gobierno Federal, las entidades del sector paraestatal, entidades federativas y los municipios;
+
+V. Los financiamientos a proyectos de infraestructura y servicios públicos que se deriven de concesiones, contratos de prestación de servicios, de obra pública, de vivienda y de parques industriales, permisos y autorizaciones de las autoridades federales, entidades federativas y municipios así como de sus entidades paraestatales y paramunicipales.
+
+Los financiamientos a que se refiere esta fracción, se podrán otorgar siempre y cuando se trate de proyectos relacionados con su objeto en forma mayoritaria.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+### CAPITULO CUARTO. Administración y Vigilancia
+
+###### ARTICULO 32.
+
+La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:
+
+Dos representantes de la Secretaría de Hacienda y Crédito Público; el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público;
+
+Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
+
+Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+
+El consejero independiente;
+
+El Director General de la Sociedad, y
+
+Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero sin voto.
+
+El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
+
+Este Comité opinará y propondrá en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+
+Este Comité sesionará a petición del director general de la Sociedad, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 33.
+
+La Sociedad constituirá Consejos Consultivos Estatales, que se integrarán cuando menos por las personas siguientes: dos servidores públicos de la Sociedad, designados por el director general de ésta, de entre los cuales el de mayor jerarquía o antigüedad tendrá el carácter de presidente del consejo consultivo respectivo; un servidor público que represente a la entidad federativa de que se trate, designado por el Titular del Ejecutivo del Estado que corresponda; una persona que represente a los municipios que conforman dicha entidad designada por el Titular del Ejecutivo Estatal; así como tres representantes de los sectores a los que se dirige la Sociedad, quienes serán designados por el gremio, asociación u organismo cúpula dentro de la entidad, del sector al que cada uno de ellos represente.
+
+Los Consejos Consultivos Estatales contarán con las siguientes facultades:
+
+I. Coadyuvar en el desarrollo de programas de promoción de los sectores a los que se dirige la Sociedad, así como a los intermediarios financieros que participen en la consecución de estos programas;
+
+II. Realizar propuestas que permitan mejorar la calidad de los productos y servicios ofrecidos por la Sociedad;
+
+III. Detectar las áreas de negocios dentro de la entidad federativa de que se trate, susceptibles de apoyo y financiamiento por parte de la Sociedad;
+
+IV. Coadyuvar dentro del ámbito de su competencia en la difusión y promoción de los productos y servicios que ofrece la Sociedad, dentro de los sectores a los que ésta se dirige;
+
+V. Recibir información sobre cifras de colocación de créditos, a nivel estatal y municipal;
+
+VI. Opinar sobre proyectos de financiamiento, planes de desarrollo regional y estatal, y respecto del panorama económico de la Sociedad;
+
+VII. Opinar sobre los principales proyectos de la Sociedad;
+
+VIII. Crear, cuando lo consideren necesario, Comités Consultivos Regionales dentro de la entidad federativa de que se trate, con el objeto de atender las necesidades específicas de las regiones y municipios que la conforman, y
+
+IX. Las demás que le sean conferidas por el Consejo Directivo de la Sociedad.
+
+Los Consejos Consultivos Estatales contarán con un secretario que deberá ser elegido de entre los propios consejeros, quienes realizarán la designación correspondiente mediante el proceso de votación. El secretario se encargará de levantar las actas de las sesiones, las cuales se firmarán por los asistentes a las mismas.
+
+Los cargos de presidente y secretario, tendrán duración de un año contado a partir de la fecha en que cada uno sea designado.
+
+Los Consejos Consultivos Estatales sesionarán en forma ordinaria cuando menos de manera bimestral o en forma extraordinaria si así se requiere.
+
+Las convocatorias y sesiones de los Consejos Consultivos Estatales, así como los demás asuntos de carácter corporativo de éstos, se ajustarán a lo establecido para el Consejo Directivo de la Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 34.
+
+La Sociedad contará con un Consejo Consultivo Nacional que estará integrado por los 31 gobernadores de los Estados de la República Mexicana y por el Jefe de Gobierno del Distrito Federal que tendrá por objeto proponer al Consejo Directivo, a través del Director General de la Sociedad proyectos de financiamiento y planes de desarrollo regionales y estatales, así como conocer los resultados y cumplimiento del programa financiero que llevó a cabo la Sociedad en el ejercicio inmediato anterior. Para tales efectos el Director General de la Sociedad presentará al Consejo Consultivo Nacional, en sesión, la información de referencia, dentro de los ciento veinte días siguientes al cierre de cada ejercicio.
+
+El Consejo Consultivo Nacional contará con un presidente y un secretario quienes serán elegidos de entre sus miembros, mediante el proceso de votación. El secretario se encargará de levantar las actas de las sesiones, las cuales se firmarán por los asistentes a las mismas.
+
+Los cargos de presidente y secretario, tendrán duración de un año contado a partir de la fecha en que cada uno sea designado.
+
+Las convocatorias y sesiones del Consejo Consultivo Nacional, así como los demás asuntos de carácter corporativo de éste, se ajustarán a lo establecido para el Consejo Directivo de la Sociedad.
 
 ## TRANSITORIOS
-
-PRIMERO.- El presente Reglamento entrará en vigor el día de su Publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Reglamento.
-
-TERCERO.- La matriculación de los vehículos a que se refiere este ordenamiento, iniciará a partir del primero de diciembre del año dos mil once. En el periodo comprendido del primero al treinta y uno de diciembre del año dos mil once, el costo del trámite de la matriculación será de $1,000.00. Sin embargo, los propietarios o poseedores de vehículos que realicen dicho trámite en el periodo referido, pagarán la cantidad de $300.00, siempre y cuando acrediten contar con un Seguro de Responsabilidad Civil, Daños a Terceros, Bienes y Personas, respecto del vehículo que se pretenda matricular. Los propietarios o poseedores de vehículos que realicen el trámite de matriculación en el periodo del primero de enero al treinta y uno de marzo del año dos mil doce, recibirán un descuento del 50% del costo total de matriculación establecido en el artículo 64 de este Reglamento, siempre y cuando acrediten contar con un Seguro de Responsabilidad Civil, Daños a Terceros, Bienes y Personas, respecto del vehículo que se pretenda matricular. Después de los periodos referidos, el cobro del trámite de matriculación será conforme lo establecido en el presente reglamento.
-
-En cumplimiento de lo dispuesto en el artículo 85 de la Constitución Política del Estado y para su debida publicación y observancia, expido el presente Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, en Materia de Verificación Vehicular. Dado en el Despacho del Poder Ejecutivo del Estado, en la Ciudad de Zacatecas, Zacatecas, a los veintisiete días del mes de noviembre del año dos mil once.
-
-MIGUEL ALEJANDRO ALONSO REYES
-
-GOBERNADOR DEL ESTADO DE ZACATECAS
-
-ESAÚ HERNÁNDEZ HERRERA
-
-SECRETARIO GENERAL DE GOBIERNO
-
-JULIO CESAR NAVA DE LA RIVA
-
-DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 31 DE DICIEMBRE DE 2014.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
-
-Segundo. Se deroga el Reglamento de la Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas publicado en el Periódico Oficial Órgano del Gobierno del Estado, Número 91, en fecha 12 de noviembre del 2011 y se derogan todas las disposiciones que contravengan el presente Decreto.
-
-Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 26 de marzo del año 2011.
 
 ###### Artículo 35.
 
@@ -531,7 +661,7 @@ En todo lo no previsto en los procedimientos que se contemplan en los Títulos S
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO I. SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
+### CAPITULO QUINTO. Disposiciones Generales
 
 ###### Artículo 49.
 
@@ -737,41 +867,43 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+La presente Ley abroga la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos, S. A. de fecha 27 de diciembre de 1980, publicada en el Diario Oficial de la Federación el 31 de diciembre del mismo año.
 
 ###### ARTICULO TERCERO.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas administrativas, otorgados, dictados o celebrados con fundamento en la Ley que se abroga, continuarán en vigor hasta que no sean revocados o modificados por los órganos y autoridades competentes.
 
 ###### ARTICULO CUARTO.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.
 
 ###### ARTICULO QUINTO.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+El domicilio social del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, será la Ciudad de México, Distrito Federal, hasta en tanto no se expida el Reglamento Orgánico a que se refiere el artículo anterior.
 
-El Gobernador hará publicar y cumplir la presente disposición.- Dado en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- Diputado Presidente.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.- Diputada Secretaria.- Lic. Enoé González Cabrera.- Rúbrica.- Diputado Secretario.- Gabino Bonifacio Delegado Morales.- Rúbrica.
+###### ARTICULO SEXTO.
 
-Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Melquiades Morales Flores.- Rúbrica.
+Los títulos de crédito que la institución retire del mercado para su amortización normal o anticipada, serán desde luego, cancelados en forma indubitable e incinerados.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+México, D. F., a 21 de diciembre de 1985.- Fernando Ortíz Arana, Dip. Presidente.- Socorro Díaz Palacios, Sen. Presidenta.- Rebeca Arenas Martínez, Dip. Secretario.- Guillermo Mercado Romero.- Sen. Secretario.- Rúbricas."
 
-P.O. 16 DE JULIO DE 1986.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- P.A. del Secretario de Hacienda y Crédito Público, el Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Guillermo Carrillo Arena.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savigñac.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JUNIO DE 2002.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
-Se Derogan todas las disposiciones que se opongan al presente Ordenamiento.
-
-P.O. 27 DE DICIEMBRE DE 1994.
+La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
@@ -783,45 +915,31 @@ El Congreso del Estado y el Tribunal Superior de Justicia establecerán los Orga
 
 ###### ARTICULO TERCERO.
 
-Para los fines de la presentación de las Declaraciones de Situación Patrimonial, el Congreso del Estado y el Tribunal Superior de Justicia determinarán las oficinas que de manera provisional habrán de recibirlas respecto de los Servidores Públicos que le están adscritos, así como de custodiarlas, en tanto se establece el Organo señalado en el artículo anterior, para la continuidad en la presentación de las Declaraciones, se podrán utilizar los formatos expedidos por la propia Secretaría.
+Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor.
 
 ###### ARTICULO CUARTO.
 
-Conforme a lo que establece el Artículo 86 de la presente Ley, una vez que sean entregados los formatos a los actuales Servidores Públicos de el Poder Legislativo y Judicial obligados a presentar Declaración de Situación Patrimonial, éstos tendrán 60 días para su entregar su Declaración Inicial.
+Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto.
 
 ###### ARTICULO QUINTO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
 
-P.O. 27 DE JULIO DE 1995.
+###### ARTICULO SEXTO.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto.
 
-P.O. 4 DE JULIO DE 2005.
+###### ARTICULO SEPTIMO.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTICULO OCTAVO.
 
-P.O. 5 DE AGOSTO DE 2005.
+Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación o por o ante las autoridades administrativas del Distrito Federal, así como las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal, se constituyan en Nacional Financiera, Sociedad Nacional de Crédito, deberá entenderse que los mismos podrán constituirse en las sociedades nacionales de crédito, instituciones de banca de desarrollo que estén autorizadas por ley para tal efecto.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+###### ARTICULO NOVENO.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 2 DE ENERO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 11 DE FEBRERO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 31 DE DICIEMBRE DE 2015.
+Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
 
