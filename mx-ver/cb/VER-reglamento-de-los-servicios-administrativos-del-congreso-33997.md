@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2018-02-09"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -53,41 +53,49 @@ I. Congreso, el Congreso del Estado de Veracruz de Ignacio de la Llave;
 
 II. Contraloría, El Órgano Interno de Control del Poder Legislativo;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-III. Directiva, La Mesa Directiva del Congreso;
+III. Correo electrónico oficial, el servicio de mensajería digital que forma parte de la red institucional del Congreso, de uso exclusivo y limitado para las actividades oficiales relacionadas con las atribuciones y competencias de las y los diputados y órganos y unidades administrativas del Poder Legislativo, facilitando y agilizando el envío de información oficial de manera inmediata, de forma segura y con acuse de recibo electrónico válido;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-IV. Estado, El Estado de Veracruz de Ignacio de la Llave;
+IV. Directiva, la Mesa Directiva del Congreso;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-V. Ley, La Ley Orgánica del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
+V. Estado, el Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-VI. Permanente, La Diputación Permanente;
+VI. Ley, la Ley Orgánica del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-VII. Pleno, El Pleno de la Asamblea;
+VII. Permanente, la Diputación Permanente;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-VIII. Presidente, El presidente del Congreso;
+VIII. Pleno, el Pleno de la Asamblea;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-IX. Reglamento, El Reglamento para el Gobierno Interior del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
+IX. Presidente, el Presidente del Congreso;
 
-X. Secretaría General, La Secretaría General del Congreso;
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-XI. Secretarías de Servicios, Las de Servicios Legislativos, de Servicios Administrativos y Financieros y de Fiscalización; y
+X. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
-XII. Unidades Administrativas, Las secretarías, direcciones, subdirecciones, coordinaciones, departamentos y oficinas que tienen a su cargo la prestación de los servicios previstos en los artículos 58, 60 y 61 de la Ley.
+XI. Secretaría General: La Secretaría General del Congreso;
+
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
+
+XII. Secretarías de Servicios: Las de Servicios Legislativos, de Servicios Administrativos y Financieros y de Fiscalización; y
+
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2020)</small>
+
+XIII. Unidades administrativas: Las secretarías, direcciones, subdirecciones, coordinaciones, departamentos y oficinas que tienen a su cargo la prestación de los servicios previstos en los artículos 58, 60 y 61 de la Ley.
 
 ## TÍTULO SEGUNDO. De la Organización Administrativa del Congreso
 
@@ -132,6 +140,10 @@ La Secretaría General es la unidad administrativa de mando superior en la estru
 ###### Artículo 6.
 
 La Secretaría General informará del desarrollo de las actividades de las unidades administrativas a que se refiere el artículo 7 de este Reglamento, a la Junta de Coordinación Política, a la Junta de Trabajos Legislativos y a la Comisión Permanente de Administración y Presupuesto. Las demás unidades administrativas, en el ejercicio de sus atribuciones, reportarán el resultado de sus actividades al mando jerárquico superior.
+
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2020)</small>
+
+La trasferencia de información institucional, entre los órganos y unidades administrativas a que se refiere el artículo 7 de este Reglamento, podrá llevarse a cabo en forma digital a través de sus respectivas cuentas de correo electrónico oficial o del sistema de transferencia de datos respectivo, que formen parte de la red institucional del Congreso, en los términos de los Lineamientos emitidos por la Junta de Trabajos Legislativos.
 
 ###### Artículo 7.
 
@@ -1532,3 +1544,13 @@ G.O. 9 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 623 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 26 RECORRIENDO LA SUBSECUENTE DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 607 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS, AMBOS, DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. En un plazo máximo de ciento veinte días naturales contado a partir de la entrada en vigor del presente Decreto, La Junta de Trabajos Legislativos deberá emitir los Lineamientos para dar cumplimiento a lo dispuesto en la presente reforma, en los que se especificarán las disposiciones que los servidores públicos del Congreso deberán observar para el uso correcto y adecuado del correo electrónico oficial o del sistema de transferencia de datos respectivo, así corno las especificaciones técnicas y administrativas necesarias para su funcionalidad, mantenimiento y seguridad.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
