@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-05-26"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -875,13 +875,13 @@ Es obligación de las Comisiones permanentes y especiales, publicar la lista de 
 
 Las obligaciones establecidas en los dos párrafos anteriores, deberán ser publicadas en el Portal Oficial del Congreso del Estado dentro de las cuarenta y ocho horas siguientes a la celebración de las sesiones.
 
-> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-Serán permanentes las Comisiones siguientes:
+Serán Permanentes las Comisiones siguientes:
 
-l. Administración y Presupuesto;
+I. Administración y Presupuesto;
 
 II. Agua Potable y Saneamiento;
 
@@ -889,23 +889,23 @@ III. Asuntos Indígenas;
 
 IV. Atención y Protección de Periodistas;
 
-V. Ciencia y Tecnología;
+V. Bienestar y Desarrollo Social;
 
-VI. Comunicaciones;
+VI. Ciencia y Tecnología;
 
-VII. Corredor Interoceánico, Zonas Libres y Desarrollo Económico;
+VII. Comunicaciones;
 
-VIII. Derechos de la Niñez y la Familia;
+VIII. Corredor Interoceánico, Zonas Libres y Desarrollo Económico;
 
-IX. Derechos Humanos y Atención a Grupos Vulnerables;
+IX. Derechos de la Niñez y la Familia;
 
-X. Desarrollo Agropecuario, Rural y Forestal;
+X. Derechos Humanos y Atención A Grupos Vulnerables;
 
-XI. Desarrollo Artesanal;
+XI. Desarrollo Agropecuario, Rural y Forestal;
 
-XII. Desarrollo Metropolitano;
+XII. Desarrollo Artesanal;
 
-XIII. Desarrollo Social, Humano y Regional;
+XIII. Desarrollo Metropolitano;
 
 XIV. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
 
@@ -925,7 +925,7 @@ XXI. Justicia y Puntos Constitucionales;
 
 XXII. Juventud, Deporte y Atletas con Discapacidad;
 
-XXIII. Límites Territoriales lntermunicipales;
+XXIII. Límites Territoriales Intermunicipales;
 
 XXIV. Medio Ambiente, Recursos Naturales y Cambio Climático;
 
@@ -953,7 +953,7 @@ XXXV. Seguridad Social;
 
 XXXVI. Trabajo y Previsión Social;
 
-XXXVII. Transparencia, Acceso a la Información y Parlamento Abierto;
+XXXVII. De Transparencia, Acceso a la Información y Parlamento Abierto;
 
 XXXVIII. Transporte, Tránsito y Vialidad;
 
@@ -2016,3 +2016,15 @@ G.O. 26 DE MAYO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 606 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Todos los asuntos turnados a la actual Comisión Permanente de Desarrollo Social, Humano y Regional del Congreso del Estado de Veracruz, se entenderán remitidos a la Comisión Permanente de Bienestar y Desarrollo Social.
+
+TERCERO.- Las competencias de la actual Comisión Permanente de Desarrollo Social, Humano y Regional del Congreso de Estado de Veracruz, recaerán a la Comisión Permanente de Bienestar y Desarrollo Social.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
