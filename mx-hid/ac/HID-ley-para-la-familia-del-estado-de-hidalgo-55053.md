@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2019-12-23"
+last_updated: "2020-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -2823,15 +2823,39 @@ Recibido el aviso, el Oficial del Registro del Estado Familiar tomará las medid
 
 En las poblaciones donde no hay Oficial del Registro del Estado Familiar, el menor será presentado ante la autoridad correspondiente, quien expedirá la constancia respectiva a los interesados para que la presenten ante el Oficial del Registro del Estado Familiar, en los términos del Artículo 164 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 416.
 
-El acta de nacimiento se inscribirá con la asistencia de dos testigos que puedan ser designados por las partes interesadas; contendrá el año, mes, día, hora y lugar de nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan al inscrito sin que por motivo alguno pueda omitirse la razón de si es presentado vivo o muerto, asignándole la Clave Única del Registro de Población. Se tomará asimismo la impresión digital del presentado.
+El acta de nacimiento se inscribirá con la asistencia de dos testigos que puedan ser designados por las partes interesadas; contendrá: nombre, año, mes, día, hora y lugar de nacimiento, el sexo de quien se presenta, sin que por motivo alguno pueda omitirse la razón de si es presentado vivo o muerto. Se tomará, asimismo, la impresión digital de quien se presenta.
+
+Tratándose del nombre de quien se registra, este se formará con el o los nombres propios y los apellidos en el orden en que las o los presentantes determinen, inscribiéndose en el acta de nacimiento el método utilizado, en los siguientes términos:
+
+I.- Pueden escoger de común acuerdo y mediante escrito el orden en que se colocarán los apellidos:
+
+a) Ambos progenitores, madres o padres; y
+
+b) Ambos Adoptantes.
+
+II.- Cuando solo acuda la o el progenitor que tenga la voluntad parental, será quien determine el orden de los apellidos.
+
+III.- Cuando solo sea una de las partes señaladas en las fracciones anteriores quien se presente ante el Oficial del Registro del Estado Familiar y solicite que en el acta de nacimiento se incluya la voluntad parental de otra persona, la solicitud deberá acompañarse con carta poder firmada por ambas partes, en la que exprese el consentimiento del orden de los apellidos, y presentar identificación oficial. De no cumplirse con este requisito, deberán acudir ante Registro del Estado Familiar para que se realice el registro correspondiente.
+
+En el caso de que no exista acuerdo, entre las personas señaladas en la fracción I de este artículo, el Oficial del Registro del Estado Familiar determinará el orden.
+
+En caso de reconocimiento judicial, la Jueza o el Juez serán los que decidirán el orden que deban llevar los apellidos, debiendo escuchar a las partes.
+
+El orden de los apellidos del primer hijo o hija, será el mismo para los demás descendientes del mismo vínculo, aun cuando las personas mencionadas en la fracción I de este artículo, se encuentren en proceso de divorcio o separación.
+
+Una vez registrada la niña o el niño, se le deberá asignar la Clave Única de Registro de Población.
 
 ###### Artículo 417.
 
 Las actas de nacimiento se levantarán conforme a las siguientes bases:
 
-I.- Cuando se trate de hijos nacidos dentro del matrimonio, se asentará en ellas el nombre del padre, de la madre, de los abuelos paternos y maternos, y su nacionalidad;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+
+I.- Cuando se trate de hijos nacidos dentro del matrimonio, se asentará en ellas el nombre de quien o quienes tengan el vínculo biológico o jurídico, de los abuelos paternos y maternos, y su nacionalidad.
 
 II.- Cuando el hijo sea presentado por el padre y la madre conjuntamente, aunque no estén casados se extenderá el acta conforme a la fracción anterior;
 
@@ -3306,3 +3330,9 @@ P.O. 23 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 227 QUE REFORMA EL ARTÍCULO 109 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 528 DECRETO QUE REFORMA LOS ARTÍCULO 416 Y 417 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
