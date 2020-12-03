@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2019-10-08"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -923,11 +923,11 @@ Los datos asentados en el registro serán considerados como personales y serán 
 
 La aplicación de sanciones administrativas por infracciones a este capítulo corresponde a los órganos directivos del deporte y a las autoridades estatales y municipales, según corresponda, de conformidad a lo señalado en el artículo 70 de la presente ley.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-Las sanciones administrativas a que se refiere este capítulo se aplicarán de acuerdo a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+Las sanciones administrativas a que se refiere este capítulo se aplicarán de acuerdo a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
 
@@ -973,7 +973,9 @@ Las infracciones al artículo 83 serán sancionadas por la autoridad municipal c
 
 Si los organizadores de los eventos deportivos fueron omisos en el cumplimiento de las obligaciones establecidas en los artículos 87, 88 y 89 de la Ley, previo derecho de audiencia y defensa ante la autoridad competente y dicho incumplimiento es debidamente demostrado, serán sancionados con la reparación de los daños solidariamente con los infractores directos, independientemente de las sanciones administrativas que resulten de la omisión.
 
-En contra de las resoluciones que impongan sanciones a los particulares procederá el recurso de revisión contemplado por la Ley del Procedimiento Administrativo.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+En contra de las resoluciones que impongan sanciones a los particulares procederá el recurso de revisión contemplado por (sic) Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 T R A N S I T O R I O S
 
@@ -1086,5 +1088,11 @@ P.O. 27 DE JULIO DE 2019.
 P.O. 8 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27350/LXII/19 QUE REFORMA EL ARTÍCULO 20 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28114/LXII/20 QUE REFORMAN LOS ARTÍCULOS 93 Y 95 EN SU PÁRRAFO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
