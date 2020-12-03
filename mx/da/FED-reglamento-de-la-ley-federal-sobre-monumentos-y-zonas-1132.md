@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-sobre-monumentos-y-zonas-1132"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-12-08"
-last_updated: "2015-07-08"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-09-20"
 
 REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICAS, ARTÍSTICOS E HISTÓRICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 8 de diciembre de 1975.
 
@@ -365,6 +365,10 @@ II.- La Secretaría de Relaciones Exteriores adoptará las medidas necesarias pa
 
 III.- El Instituto Nacional de Antropología e Historia realizará el embalaje de los monumentos para su transportación, así como el avalúo de los mismos para efectos de los seguros que se contraten, los que deberán cubrir todo tipo de riesgos.
 
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 37 TER.- La Secretaría de Cultura, previo acuerdo con el Presidente de la República y con la opinión favorable de la Secretaría de Relaciones Exteriores, podrá celebrar Acuerdos Interinstitucionales con órganos gubernamentales extranjeros u organizaciones o instituciones internacionales que tengan por objeto el traslado temporal, al territorio nacional, de bienes muebles que, de conformidad con la Ley y el presente Reglamento, se consideren o pudieran declararse como monumentos arqueológicos, artísticos o históricos, con fines de estudio o exhibición pública en el país. Dicho traslado temporal deberá llevarse a cabo de conformidad con los instrumentos y disposiciones jurídicas aplicables en la materia.
+
 ###### ARTICULO 38.
 
 Para los efectos de la Ley y de este Reglamento, se entiende por reproducción de monumentos arqueológicos, artísticos o históricos con fin comercial, la réplica obtenida por cualquier procedimiento o medio, en dimensiones semejantes al original o en diferente escala.
@@ -488,3 +492,9 @@ D.O.F. 8 DE JULIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado a las dependencias y entidades de la Administración Pública Federal para el ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales.
+
+D.O.F. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 37 TER AL REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
