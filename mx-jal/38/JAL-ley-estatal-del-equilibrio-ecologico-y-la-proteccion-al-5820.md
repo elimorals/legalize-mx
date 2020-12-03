@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2020-09-19"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -129,7 +129,7 @@ XIV. Desequilibrio ambiental: La alteración de las relaciones de interdependenc
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad , propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
+XV. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad, propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -211,17 +211,29 @@ XXXIV. Residuos de Manejo Especial: Son aquellos generados en los procesos produ
 
 XXXV. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XXXVI. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas;
+XXXVI. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XXXVII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial; y
+XXXVII. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XXXVIII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales.
+XXXVIII. Ordenamiento Ecológico del Territorio del Estado: Instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+XXXIX. Ordenamiento Ecológico Regional: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado, que regula o induce el uso del suelo y el manejo de los recursos naturales del estado en un determinado espacio del territorio del estado en donde interviene más de un municipio;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+XXXX (SIC). Ordenamiento Ecológico Local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+XXXXI (SIC). Resilencia (sic): la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -725,9 +737,37 @@ Del ordenamiento ecológico.
 
 El ordenamiento ecológico regional del estado será formulado por la Secretaría considerando las diferentes regiones del territorio estatal, en escalas que permitan a los gobiernos municipales, la elaboración y expedición de los ordenamientos locales, así como de sus planes de desarrollo, atendiendo las condiciones ambientales actualizadas y exactas de su superficie.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 15 Bis.
+
+El Ordenamiento Ecológico Regional y los Ordenamientos Locales deberán llevarse a cabo como un proceso de planeación que promueva:
+
+I. La creación e instrumentación de mecanismos de coordinación entre las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales;
+
+II. La participación social corresponsable de los grupos y sectores interesados;
+
+III. La transparencia del proceso mediante el acceso, publicación y difusión constante de la información generada, los métodos utilizados y resultados obtenidos;
+
+IV. El rigor metodológico de los procesos de obtención de información, análisis y generación de resultados;
+
+V. La instrumentación de procesos sistemáticos que permitan verificar los resultados generados en cada etapa del proceso de ordenamiento ecológico;
+
+VI. La generación de indicadores ambientales que permitan la evaluación continua de los procesos de Ordenamiento Ecológico Regionales y locales, para determinar la permanencia de los programas, su ajuste o la corrección de desviaciones en su ejecución;
+
+VII. La asignación de lineamientos y estrategias ecológicas con base en la información disponible;
+
+VIII. El establecimiento de un sistema de monitoreo del programa del ordenamiento ecológico regional y local; y
+
+IX. La permanencia o modificación de lineamientos y estrategias ecológicas a partir del análisis de los resultados del monitoreo.
+
+El proceso de ordenamiento ecológico regional y local deberá prever mecanismos para determinar el cumplimiento de las metas con una periodicidad bienal, previstas en los programas, así como la evaluación de los resultados respecto de las expectativas de ordenación del territorio planteadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-La elaboración de los ordenamientos ecológicos regional y locales, se sustentará en los siguientes criterios:
+La elaboración de los ordenamientos ecológicos regionales y locales, se sustentará en los siguientes criterios:
 
 I. La naturaleza y características de cada ecosistema, dentro de la regionalización ambiental del estado;
 
@@ -739,13 +779,29 @@ IV. El equilibrio que debe existir entre los asentamientos humanos y sus condici
 
 V. El impacto ambiental de nuevos asentamientos humanos, obras o actividades agropecuarias, industriales, comerciales o de servicios;
 
-VI. La capacidad de amortiguamiento de los ecosistemas; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-VII. La fragilidad ambiental de los ecosistemas.
+VI. La capacidad de amortiguamiento de los ecosistemas;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+VII. La fragilidad ambiental de los ecosistemas; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+VIII. Las medidas de mitigación necesarias ante los efectos producidos por el Cambio Climático.
 
 ###### Artículo 17.
 
 La formulación, expedición, ejecución, evaluación y actualización, en su caso, del ordenamiento ecológico regional del estado, así como de los ordenamientos locales, se realizará de conformidad con las disposiciones reglamentarias que al efecto se expidan y las demás aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+El ordenamiento ecológico regional del estado deberá ser revisado cada seis años, durante el primer año del ejercicio constitucional de la administración estatal. Para ello la Secretaría deberá realizar un estudio técnico y legal que evalúe el programa vigente y justifique la necesidad o no de actualizar el programa.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+Los ordenamientos ecológicos locales se revisarán y actualizarán en los mismos plazos que se establecen en el Código Urbano para la revisión y actualización del Programa Municipal de Desarrollo Urbano.
 
 ###### Artículo 18.
 
@@ -3292,3 +3348,13 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27944/LXII/20 QUE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y SE REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO ".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28111/LXII/20 SE ADICIONAN LAS FRACCIONES XXXVI, XXXVII, XXXVIII Y XXXXIX (SIC) AL ARTÍCULO 3; ADICIONA EL ARTÍCULO 15-BIS Y LA FRACCIÓN VIII AL ARTÍCULO 16; Y MODIFICA EL ARTÍCULO 17 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE. Y SE MODIFICA LA FRACCIÓN LVI Y ADICIONA LA FRACCIÓN LVI-BIS Y LVI-TER; MODIFICA LA FRACCIÓN LXXXV Y RECORRE LA LXXXV A LA LXXXVI DEL ARTÍCULO 5; MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 9-TER; SE AGREGA EL INCISO H) A LA FRACCIÓN II DEL PÁRRAFO A Y SE AGREGA LA FRACCIÓN IX AL PÁRRAFO B DEL ARTÍCULO 78; MODIFICA EL ARTÍCULO 81; MODIFICA LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 83; SE AGREGA UNA FRACCIÓN XIII AL ARTÍCULO 89; SE AGREGA UNA FRACCIÓN XIII AL ARTÍCULO 90; SE AGREGA UNA FRACCIÓN III AL ARTÍCULO 95; Y SE AGREGA UNA FRACCIÓN XII AL ARTÍCULO 97 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Medio Ambiente y Desarrollo Territorial deberá de emitir, en un plazo de noventa días hábiles contados a partir de la publicación del presente, un dictamen técnico en el que establezca la necesidad o no de revisar el Ordenamiento Ecológico Regional del Territorio del Estado actualmente en vigor y en todo caso, dar inicio con el procedimiento para la revisión del mismo. Una vez concluida (sic) el proceso de revisión del Ordenamiento Ecológico Regional del Territorio del Estado de Jalisco, la Secretaría del Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, deberá de iniciar con el proceso establecido en el Código Urbano para la revisión del Plan Estatal en apoyo de las autoridades necesarias e involucradas en la materia.
+
+TERCERO. La Secretaría del Medio Ambiente y Desarrollo Territorial deberá de emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco, en materia de Ordenamiento Ecológico Regional y Local del Territorio, dentro de los ciento ochenta días naturales siguientes a la publicación del presente decreto en el periódico oficial "El Estado de Jalisco".
