@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2020-08-15"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2821,9 +2821,9 @@ XXVII. Presentarse a sus labores en estado de ebriedad o bajo la influencia de e
 
 XXVIII. Asignar a los servidores públicos judiciales labores ajenas a sus funciones; y
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XXIX. Las demás que determinen el presente ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+XXIX. Las demás que determinen el presente ordenamiento y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 Artículo. 199.- Sin perjuicio de lo dispuesto al inicio del presente capítulo, incurrirán en faltas los secretarios de acuerdos, relatores y secretarios en general o quienes hagan sus veces, por las acciones u omisiones siguientes:
 
@@ -3858,3 +3858,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Judicial tendrá un plazo de 180 días naturales para la migración del Boletín Judicial al sitio web oficial y un plazo de 90 días naturales para hacer las adecuaciones al mismo, así como las adecuaciones a su reglamento interno, en consideración al presupuesto que tenga asignado para dichos fines.
 
 TERCERO. El Poder Judicial deberá publicitar los Boletines Judiciales de por lo menos los últimos cinco años a la entrada en vigor del presente decreto.
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28109/LXII/20 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 198 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
