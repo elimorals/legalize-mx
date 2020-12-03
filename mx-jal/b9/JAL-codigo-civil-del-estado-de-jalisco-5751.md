@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2020-11-21"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2413,11 +2413,9 @@ Produce ilicitud en el matrimonio:
 
 I. El matrimonio celebrado en contravención a lo dispuesto en los artículos relativos a las actas de matrimonio de la Ley del Registro Civil del Estado;
 
-(NOTA: EL 18 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA “Y 420” DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 Y 420; y
+II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 y 420; y
 
 III. Cuando se contrajo, estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
@@ -2509,7 +2507,7 @@ Art. 405 bis.- El divorcio administrativo procede cuando:
 
 I. Ambos cónyuges convengan en divorciarse;
 
-II. Se trate de mayores de edad;
+II. (DEROGADA, P.O. 3 DE DICIEMBRE DE 2020)
 
 III. Los cónyuges no tengan hijos vivos o concebidos dentro de matrimonio, o teniéndolos, sean mayores de edad, capaces y no requieran alimentos;
 
@@ -2517,17 +2515,17 @@ IV. Hubieren liquidado la sociedad conyugal o legal; y
 
 V. (DEROGADA, P.O. 11 DE MAYO DE 2019)
 
-(ADICIONADO, P.O. 2 DE ENERO DE 2007) (REPUBLICADO, P.O. 16 DE FEBRERO DE 2016)
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados, mayores de edad, que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
+Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados y que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio y citará a los cónyuges transcurridos treinta días naturales para que la ratifiquen personalmente. Durante ese lapso, los solicitantes deberán acudir al Sistema para el Desarrollo Integral de la Familia, estatal o municipal, con personal de trabajo social con capacitación en terapia de pareja o a cualquier otra institución acreditada, quienes procurarán avenirlos y se les extenderá una constancia que deberá entregar al Oficial del Registro Civil en la audiencia de ratificación. Ratificada la solicitud, el Oficial del Registro Civil los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
+El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio y citará a los cónyuges transcurridos treinta días naturales para que la ratifiquen personalmente. Ratificada la solicitud, el Oficial del Registro Civil los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-Los cónyuges podrán acudir ante Notario Público de la región notarial correspondiente al lugar donde se celebró el matrimonio a tramitar su divorcio bajo el mismo procedimiento al que se sujetarían ante el Oficial del Registro Civil. El Notario Público hará constar en escritura pública la solicitud de divorcio, que medió ante los cónyuges procurando avenirlos y, si estos ratifican dicha solicitud, así se expresará en el instrumento público y declarará la disolución del vínculo matrimonial. Satisfechos los requisitos de ley, el Notario expedirá testimonios que remitirá tanto al Oficial del Registro Civil ante quien se celebró el matrimonio y al Director del Archivo de Registro Civil del Estado, para que el primero levante el acta de divorcio correspondiente y ambos realicen las anotaciones a que hubiere lugar.
+Los cónyuges podrán acudir ante Notario Público de la región notarial correspondiente al lugar donde se celebró el matrimonio a tramitar su divorcio bajo el mismo procedimiento al que se sujetarían ante el Oficial del Registro Civil. El Notario Público hará constar en escritura pública la solicitud de divorcio, y si estos ratifican dicha solicitud, así se expresará en el instrumento público y declarará la disolución del vínculo matrimonial. Satisfechos os (sic) requisitos de ley, el Notario expedirá testimonios que remitirá tanto al Oficial del Registro Civil ante quien se celebró el matrimonio y al Director del Archivo de Registro Civil del Estado, para que el primero levante el acta de divorcio correspondiente y ambos realicen las anotaciones a que hubiere lugar.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
 
@@ -2723,13 +2721,11 @@ En los casos de divorcio, el cónyuge que se crea con derechos a reclamar alimen
 
 En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia.
 
-(NOTA: EL 18 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 420.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio, SIENDO INDISPENSABLE QUE HAYA TRANSCURRIDO UN AÑO DESDE QUE OBTUVIERON EL DIVORCIO.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio inmediatamente después de que se haya levantado el acta de divorcio.
 
 ###### Art. 421.
 
@@ -19278,3 +19274,9 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28004/LXII/20 QUE REFORMA EL ARTÍCULO 2665-BIS, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28107/LXII/20 QUE REFORMAN LOS ARTÍCULOS 405 BIS Y 420 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
