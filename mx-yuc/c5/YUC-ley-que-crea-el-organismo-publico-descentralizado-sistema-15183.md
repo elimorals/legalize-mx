@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-descentralizado-sistema-15183
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-20"
-last_updated: "1999-08-20"
+last_updated: "2020-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE DZEMUL YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 301/2020, PUBLICADO EN EL D.O. DE 3 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE DZEMUL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 20 de agosto de 1999.
 
@@ -178,3 +180,29 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. DE 3 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL DECRETO 301/2020 POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE DZEMUL, YUCATÁN QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+Artículo Primero.- Se abroga la Ley que crea el Organismo Público Descentralizado Sistema de Agua Potable y Alcantarillado del Municipio de Dzemul, Yucatán, aprobado el día 19 de agosto de 1999, y publicado en el Diario Oficial del Gobierno del Estado el 20 de agosto de 1999 mediante el decreto número 218, en consecuencia se extingue el organismo público descentralizado denominado Sistema de Agua Potable y Alcantarillado del municipio de Dzemul, Yucatán, la cual conservará su personalidad jurídica exclusivamente para efectos del proceso de extinción, liquidación.
+
+Artículo Segundo.- El Consejo de Administración del Sistema de Agua Potable y Alcantarillado del municipio de Dzemul, Yucatán, deberá designar, mediante acuerdo a la persona responsable de realizar las acciones del proceso de extinción y liquidación.
+
+Artículo Tercero.- La Contraloría Interna Municipal, en ejercicio de las atribuciones que la ley le confiere, vigilará el desarrollo del proceso de extinción y liquidación, así como el respeto a las disposiciones legales y normativas aplicables en la materia.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 301/2020 POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE DZEMUL, YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del Gobierno de Estado de Yucatán.
+
+Segundo. Trámite de asuntos
+
+Los acuerdos, convenios, así como los asuntos expedientes y demás actos jurídicos, pendientes y en trámite que se encuentren bajo cualquier concepto del Sistema de Agua Potable y Alcantarillado del Municipio de Dzemul, Yucatán, se transferirán y quedarán a cargo de la Dirección Municipal de Agua Potable, a partir de la entrada en vigor de este decreto.
+
+Tercero. Transferencia de recursos.
+
+El patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Sistema de Agua Potable y Alcantarillado del Municipio de Dzemul pasan al dominio y uso del Ayuntamiento de Dzemul, Yucatán.
