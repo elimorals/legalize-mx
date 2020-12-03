@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2020-07-07"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -3147,71 +3147,59 @@ El Sistema Michoacano de Radio y Televisión estará obligado a la transmisión 
 
 Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional que determine, con fundamento en sus atribuciones de geografía electoral, el Instituto Nacional.
 
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 174.
 
-La elección de diputados por el principio de representación proporcional se hará en una circunscripción plurinominal constituida por todo el Estado. La asignación de diputados por este principio, se realizará conforme a las disposiciones siguientes:
+La elección de diputaciones por el principio de representación proporcional se hará en una circunscripción plurinominal constituida por todo el Estado. La asignación de diputaciones por este principio, se realizará conforme a las disposiciones siguientes:
 
-I. Para participar en la asignación de diputados por el principio de representación proporcional, los partidos políticos deberán acreditar que:
+I. Para participar en la asignación de diputaciones por el principio de representación proporcional, los partidos políticos deberán acreditar que:
 
-a) Participaron con candidatos a diputados de mayoría relativa en por lo menos dieciséis distritos; y,
+a) Participaron con candidaturas a diputaciones de mayoría relativa en por lo menos dieciséis distritos; y,
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+b) Obtuvieron cuando menos el tres por ciento de la votación estatal válida emitida en la elección de la circunscripción plurinominal.
 
-b) Obtuvieron cuando menos el tres por ciento de la votación válida emitida en la elección de la circunscripción plurinominal.
+II. Ningún partido político podrá tener más de veinticuatro diputaciones por ambos principios;
 
-II. Ningún partido político podrá tener más de veinticuatro diputados por ambos principios;
+III. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación estatal efectiva;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+IV. Esta base prevista en la fracción anterior no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento;
 
-III. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación válida emitida;
+V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal efectiva que hubiere recibido menos ocho puntos porcentuales; y,
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+VI. Para determinar los límites de la sub y sobre representación del porcentaje de representación de los partidos políticos por ambos principios en la integración de la legislatura, se utilizará el porcentaje obtenido de la votación estatal efectiva.
 
-IV. Esta base prevista en la fracción anterior no se aplicará al partido político que por sus triunfos en elecciones de diputados de mayoría relativa obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación válida emitida más el ocho por ciento;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
-
-V. En la integración de la legislatura, el porcentaje de representación de un partido político por ambos principios no podrá ser menor al porcentaje de votación válida emitida que hubiere recibido menos ocho puntos porcentuales; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2020)</small>
-
-VI. Para determinar los límites de la sub y sobre representación del porcentaje de representación de los partidos políticos por ambos principios en la integración de la legislatura, se utilizará el porcentaje obtenido de la votación valida emitida.
-
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 175.
 
-Para la asignación de diputados de representación proporcional se aplicarán los siguientes conceptos:
+Para la asignación de diputaciones de representación proporcional se aplicarán los siguientes conceptos:
 
 a) Votación Total Emitida, es la suma de todos los votos depositados en las urnas en la elección correspondiente.
 
-b) Votación Válida Emitida, es la que resulte de deducir de la votación total emitida, los votos nulos y los votos correspondientes a los candidatos no registrados.
+b) Votación Estatal Válida Emitida, es la que resulte de deducir de la votación total emitida, los votos nulos y los votos correspondientes a los candidatos no registrados.
 
-c) Votación Estatal Efectiva, se entiende la que resulte de deducir de la votación válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación y candidaturas independientes. Dicha votación estatal efectiva será utilizada únicamente para calcular el cociente electoral.
+c) Votación Estatal Efectiva, se entiende la que resulte de deducir de la votación estatal válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación y de las candidaturas independientes.
 
-d) Cociente Electoral, que es el resultado de dividir la votación estatal efectiva entre los dieciséis diputados de representación proporcional.
+d) Cociente Electoral, que es el resultado de dividir la votación estatal efectiva entre las dieciséis diputaciones de representación proporcional.
 
-e) Resto mayor, que es el remanente más alto de votación de cada partido político, una vez hecha la distribución de curules mediante el cociente electoral. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
+e) Resto Mayor, que es el remanente más alto de votación de cada partido político, una vez hecha la distribución de curules mediante el cociente electoral. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
 
-I. Para la asignación de diputados por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad, de acuerdo a lo siguiente:
+I. Para la asignación de diputaciones por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad, de acuerdo a lo siguiente:
 
-a) Se determinará el porcentaje de votación valida emitida que obtuvo cada partido político en la elección correspondiente. Dicho porcentaje será utilizado en el desarrollo de la fórmula de asignación de diputaciones de representación proporcional en concordancia con la fracción VI del artículo 174 de este Código.
+a) Se determinará el porcentaje de votación estatal efectiva que obtuvo cada partido político en la elección correspondiente. Dicho porcentaje será utilizado en el desarrollo de la fórmula de asignación de diputaciones de representación proporcional en concordancia con la fracción VI del artículo 174 de este Código.
 
-b) Posteriormente, se determinará la votación estatal efectiva y el Cociente electoral.
+b) Posteriormente, se determinará el cálculo del cociente electoral.
 
-c) Una vez realizado el cálculo del inciso anterior, se asignarán los diputados que le correspondan a cada partido político, dividiendo su votación obtenida entre el cociente electoral.
+c) Una vez realizado el cálculo del inciso anterior, se asignarán las diputaciones que le correspondan a cada partido político, dividiendo su votación estatal efectiva obtenida entre el cociente electoral.
 
-d) Se verificarán los límites de sub y sobre representación legislativa por ambos principios, con el fin de que ningún partido político este fuera de ellos. En el caso de que algún partido alcanzara su límite de sobre representación no podrá continuar en la asignación de diputados de representación proporcional por resto mayor.
+d) Se verificarán los límites de sub y sobre representación legislativa por ambos principios, con el fin de que ningún partido político esté fuera de ellos. En el caso de que algún partido alcanzara su límite de sobre representación no podrá continuar en la asignación de diputaciones por el principio de representación proporcional por resto mayor.
 
 e) Después de haber realizado lo establecido en el inciso anterior, en caso de que existiesen curules por asignar después de aplicar el cociente electoral, se procederá a distribuirlas por resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules.
 
 f) Una vez hecha la asignación por resto mayor del inciso anterior, se verificarán nuevamente los límites de sub y sobre representación legislativa por ambos principios, con el fin de que ningún partido político esté fuera de ellos.
 
-g) Aplicado el inciso anterior, si existiera algún partido político que tuviera una sub representación que excediera en menos ocho puntos a su porcentaje de votación válida emitida, se procederá a quitar tantos escaños sean necesarios al partido o los partidos que tenga un porcentaje de sobre representación más cercano a ocho puntos de su porcentaje de votación válida emitida y se otorgarán al partido sub representado hasta alcanzar una sub representación que no exceda de menos ocho puntos a su porcentaje de votación válida emitida.
+g) Aplicado el inciso anterior, si existiera algún partido político que tuviera una sub representación que excediera en menos ocho puntos a su porcentaje de votación estatal efectiva, se procederá a quitar tantos escaños sean necesarios al partido o los partidos que tengan un porcentaje de sobre representación más cercano a ocho puntos de su porcentaje de votación estatal efectiva y se otorgaran al partido sub representado hasta alcanzar una sub representación que no exceda de menos ocho puntos a su porcentaje de votación estatal efectiva.
 
 ###### ARTÍCULO 176.
 
@@ -6382,3 +6370,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Una vez publicado el presente Decreto y por única ocasión, la Fiscalía General del Estado de Michoacán, contará con treinta días naturales para presentar ante el Congreso del Estado, la adecuación a su Plan de Persecución de Delitos 2019-2028, en la que se incorpore la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en Razón de Género.
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 367 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 174 Y 175, DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese a la Suprema Corte de Justicia de la Nación, para efectos de dar cumplimiento, así como a lo establecido en el Quinto Punto Resolutivo de la Sentencia dictada dentro de la Acción de Inconstitucionalidad número 133/21020.
+
+CUARTO. Notifíquese el presente Decreto al presidente del Supremo Tribunal de Justicia del Estado, al presidente del Instituto Electoral de Michoacán y a la presidenta del Tribunal Electoral de Michoacán, para su conocimiento y efectos conducentes.
