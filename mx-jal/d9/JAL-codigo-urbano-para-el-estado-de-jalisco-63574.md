@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2020-09-19"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -285,7 +285,17 @@ LIV. Obras de urbanización: Todas aquellas acciones técnicas realizadas con la
 
 LV. Ordenamiento territorial: Proceso de distribución equilibrada y sustentable de la población y de sus actividades económicas;
 
-LVI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+LVI. Ordenamiento Ecológico del Territorio del Estado: Instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+LVI. Bis. Ordenamiento Ecológico Regional: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado, que regula o induce el uso del suelo y el manejo de los recursos naturales del estado en un determinado espacio del territorio del estado en donde interviene más de un municipio;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+LVI. Ter. Ordenamiento Ecológico local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio;
 
 LVII. Organismos de Participación Social, Ciudadana y Vecinal: Personas jurídicas con actividades orientadas a mejorar la calidad de vida de la ciudadanía, la participación y el acceso a bienes y servicios públicos y en su caso la promoción e investigación del desarrollo urbano;
 
@@ -347,13 +357,17 @@ LXXXII. Utilización del suelo: Conjunción de Usos y Destinos del suelo;
 
 LXXXIII. Zona: Predio o conjunto de predios que se tipifica, clasifica y delimita en función de la similitud o compatibilidad de las actividades a desempeñar, con una utilización del suelo predominante; y
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-LXXXIV. Zonificación: Determinación de las áreas que integran y delimitan un centro de población; las zonas que identifiquen sus aprovechamientos predominantes, las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo; y
+LXXXIV. Zonificación: Determinación de las áreas que integran y delimitan un centro de población; las zonas que identifiquen sus aprovechamientos predominantes, las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+LXXXV. Resilencia (sic): la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos; y
 
 > <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
 
-LXXXV. Las demás a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano aplicables al presente código y que no se encuentran contenidas en el mismo.
+LXXXVI. Las demás a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano aplicables al presente código y que no se encuentran contenidas en el mismo.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -571,7 +585,9 @@ VII. Participar, en forma conjunta con la Secretaría de Infraestructura y Obra 
 
 VIII. Proponer mecanismos de coordinación con la autoridad catastral, para integrar en sus registros la información derivada de los diversos programas y planes de desarrollo urbano y la zonificación de los centros de población, que resulte relevante para sus fines, y, por otra parte, facilitar la información catastral para elaborar, aplicar y revisar los mismos programas y planes y la zonificación que se establezca en los mismos;
 
-IX. Difundir los programas estatales y municipales de desarrollo urbano y facilitar su consulta pública;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+IX. Integrar, mantener actualizado, difundir y facilitar la consulta pública de los Planes y Programas de Desarrollo Urbano;
 
 X. Promover acciones de información y capacitación, dirigidos al personal de la Administración Pública Estatal y de los ayuntamientos, relacionados con la ejecución y supervisión de acciones en materia de desarrollo urbano y vivienda;
 
@@ -1869,9 +1885,17 @@ d) Programas de Ordenamiento Ecológico Local;
 
 e) Atlas Estatal de Riesgo;
 
-f) Atlas Metropolitano de Riesgo; y
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-g) Atlas Municipal de Riesgo;
+f) Atlas Metropolitano de Riesgo;
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+g) Atlas Municipal de Riesgo; y
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+h) El Programa Estatal para la Acción ante el Cambio Climático;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1913,13 +1937,17 @@ V. Los indicadores para su evaluación y su metodología;
 
 VI. En caso de que el instrumento de jerarquía mayor cuente ya con el estudio con la especificidad necesaria al ámbito de aplicación que se requiere, en uno o más de los elementos señalados, bastará la remisión a dicho documento y estudio específico, siempre que resulte actual en atención a la modificación que se pretende;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-VII. La consideración de los ordenamientos ecológicos y los criterios generales de regulación ecológica de los asentamientos humanos establecidos en el artículo 23 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las normas oficiales mexicanas en materia ecológica; y
+VII. La consideración de los ordenamientos ecológicos y los criterios generales de regulación ecológica de los asentamientos humanos establecidos en el artículo 23 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las normas oficiales mexicanas en materia ecológica;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-VIII. La consideración de las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos.
+VIII. La consideración de las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+IX. Los criterios, planes, programas y medidas de adaptación al cambio climático y mitigación de sus efectos.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1945,11 +1973,11 @@ Los programas de desarrollo urbano tendrán como propósito central establecer l
 
 Los planes de desarrollo urbano tendrán como propósito central desarrollar el componente estratégico del sistema de planeación urbana estatal; esto es, definir la estrategia de acción y de intervención gubernamental para cumplir con lo establecido por la política urbana en los programas de desarrollo urbano.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 81.
 
-Los instrumentos de referencia serán documentos de consulta obligada por los municipios y el estado en el proceso de formulación, aprobación, aplicación y cumplimiento de los programas y planes de desarrollo urbano. Respetando la autonomía municipal, estos documentos definirán lineamientos generales de ordenamiento territorial en la materia que corresponde a cada uno de los tres planes, para garantizar la congruencia, la integralidad, la sustentabilidad, la visión de largo plazo y la racionalidad de la política urbana estatal y municipal.
+Los instrumentos de referencia serán documentos de aplicación obligatoria y de consulta obligada por los municipios y el estado en el proceso de formulación, aprobación, aplicación y cumplimiento de los programas y planes de desarrollo urbano. Respetando la autonomía municipal, estos documentos definirán lineamientos generales de ordenamiento territorial en la materia que corresponde a cada uno de los tres planes, para garantizar la congruencia, la integralidad, la sustentabilidad, la visión de largo plazo y la racionalidad de la política urbana estatal y municipal.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1995,9 +2023,13 @@ El Gobernador del Estado y los presidentes municipales, en sus respectivos ámbi
 
 El ayuntamiento, una vez que apruebe el plan o programa de Desarrollo Urbano, y como requisito previo a su inscripción en el Registro Público de la Propiedad, deberá consultar a la Secretaría de Medio Ambiente y Desarrollo Territorial, sobre la apropiada congruencia, coordinación y ajuste de dicho instrumento con la planeación estatal y federal. La autoridad estatal tiene un plazo de noventa días hábiles para dar respuesta, contados a partir de que sea presentada la solicitud y señalará con precisión si existe o no la congruencia y ajuste.
 
-No podrá ser materia del dictamen de congruencia, supuestos o temas que no sean materia de los instrumentos de planeación respectivos conforme a lo establecido en este Código. Ante la omisión de respuesta una vez transcurrido el plazo para su emisión, opera la afirmativa ficta.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-En caso de no ser favorable, el dictamen deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes para que el ayuntamiento efectúe las modificaciones correspondientes, respetando su autonomía y atribuciones legales conforme a su ámbito de competencia.
+En caso de no ser favorable, el dictamen, la autoridad estatal deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes para que el ayuntamiento efectúe las modificaciones correspondientes, respetando su autonomía y atribuciones legales conforme a su ámbito de competencia.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+No podrá ser materia del dictamen de congruencia, supuestos o temas que no sean materia de los instrumentos de planeación respectivos conforme a lo establecido en este Código.
 
 ###### Artículo 84.
 
@@ -2079,13 +2111,17 @@ IX. La promoción de la participación solidaria de los distintos grupos que int
 
 X. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XI. La inversión en programas coordinados con la federación y los municipios, con recursos federales, municipales o mixtos; y
+XI. La inversión en programas coordinados con la federación y los municipios, con recursos federales, municipales o mixtos;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XII. El apego a los Indicadores de Sustentabilidad.
+XII. El apego a los Indicadores de Sustentabilidad;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+XIII. La protección ambiental, la prevención y mitigación de los efectos del cambio climático y la protección civil.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
@@ -2093,9 +2129,9 @@ XII. El apego a los Indicadores de Sustentabilidad.
 
 El Programa Estatal, en términos generales deberá contener:
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-I. El análisis y congruencia territorial con el programa nacional de ordenamiento territorial y desarrollo urbano, los programas de ordenamiento ecológico, de prevención de riesgos y de otros programas sectoriales que incidan en su ámbito territorial estatal en especial, y en especial con la región occidente del país;
+I. El análisis y congruencia territorial con el programa nacional de ordenamiento territorial y desarrollo urbano, los programas de ordenamiento ecológico, de prevención de riesgos, el programa estatal para la acción ante el cambio climático; y de otros programas sectoriales que incidan en su ámbito territorial estatal en especial, y en especial con la región occidente del país;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -2127,9 +2163,9 @@ XI. La implementación de infraestructura para espacios destinados a ciclovías,
 
 XII. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XIII. Los objetivos específicos para lograr el desarrollo sustentable del Estado; y
+XIII. Los objetivos específicos para lograr la conservación de los recursos naturales, la biodiversidad, el desarrollo sustentable del Estado y la resiliencia ante los desastres naturales; y
 
 > <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -2185,9 +2221,17 @@ Para el caso de los ayuntamientos que no cuenten con áreas rústicas dentro de 
 
 El programa municipal de desarrollo urbano, cuando así lo disponga el ayuntamiento, conforme a la extensión de su territorio y las necesidades de ordenamiento y planeación para su desarrollo sustentable, deberá integrar los objetivos, y elementos de:
 
-I. Los planes de desarrollo urbano de los centros de población y;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-II. Los planes parciales de desarrollo urbano.
+I. Los planes de desarrollo urbano de los centros de población;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+II. Los planes parciales de desarrollo urbano; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+III. El ordenamiento ecológico regional y local.
 
 ###### Artículo 96.
 
@@ -2273,13 +2317,17 @@ VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la ap
 
 IX. La implementación de infraestructura para espacios destinados a ciclovías y ciclopuertos.
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-X. Las bases para desarrollar zonas urbanas organizadas y compactas, que atiendan las distintas necesidades del desarrollo urbano, de acuerdo a lo establecido en este código; y
+X. Las bases para desarrollar zonas urbanas organizadas y compactas, que atiendan las distintas necesidades del desarrollo urbano, de acuerdo a lo establecido en este código;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-XI. Las estrategias para estimular la redensificación en áreas consolidadas con problemas de despoblamiento.
+XI. Las estrategias para estimular la redensificación en áreas consolidadas con problemas de despoblamiento; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+XII. La capacidad de resiliencia ante los desastres naturales y las medidas de prevención y mitigación del cambio climático.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -6470,3 +6518,13 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27944/LXII/20 QUE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y SE REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28111/LXII/20 SE ADICIONAN LAS FRACCIONES XXXVI, XXXVII, XXXVIII Y XXXXIX AL ARTÍCULO 3; ADICIONA EL ARTÍCULO 15-BIS Y LA FRACCIÓN VIII AL ARTÍCULO 16; Y MODIFICA EL ARTÍCULO 17 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE. Y SE MODIFICA LA FRACCIÓN LVI Y ADICIONA LA FRACCIÓN LVI-BIS Y LVI-TER; MODIFICA LA FRACCIÓN LXXXV Y RECORRE LA LXXXV A LA LXXXVI DEL ARTÍCULO 5; MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 9-TER; SE AGREGA EL INCISO H) A LA FRACCIÓN II DEL PÁRRAFO A Y SE AGREGA LA FRACCIÓN IX AL PÁRRAFO B DEL ARTÍCULO 78; MODIFICA EL ARTÍCULO 81; MODIFICA LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 83; SE AGREGA UNA FRACCIÓN XIII AL ARTÍCULO 89; SE AGREGA UNA FRACCIÓN XIII AL ARTÍCULO 90; SE AGREGA UNA FRACCIÓN III AL ARTÍCULO 95; Y SE AGREGA UNA FRACCIÓN XII AL ARTÍCULO 97 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Medio Ambiente y Desarrollo Territorial deberá de emitir, en un plazo de noventa días hábiles contados a partir de la publicación del presente, un dictamen técnico en el que establezca la necesidad o no de revisar el Ordenamiento Ecológico Regional del Territorio del Estado actualmente en vigor y en todo caso, dar inicio con el procedimiento para la revisión del mismo. Una vez concluida (sic) el proceso de revisión del Ordenamiento Ecológico Regional del Territorio del Estado de Jalisco, la Secretaría del Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, deberá de iniciar con el proceso establecido en el Código Urbano para la revisión del Plan Estatal en apoyo de las autoridades necesarias e involucradas en la materia.
+
+TERCERO. La Secretaría del Medio Ambiente y Desarrollo Territorial deberá de emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco, en materia de Ordenamiento Ecológico Regional y Local del Territorio, dentro de los ciento ochenta días naturales siguientes a la publicación del presente decreto en el periódico oficial "El Estado de Jalisco".
