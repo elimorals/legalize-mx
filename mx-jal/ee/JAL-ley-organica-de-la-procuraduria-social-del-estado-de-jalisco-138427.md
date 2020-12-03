@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-del-estado-de-jalisco-13
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-01"
-last_updated: "2019-10-01"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección VI al Número 3 del Periódico Oficial del Estado de Jalisco, el martes 1 de octubre de 2019.
 
@@ -327,6 +327,8 @@ X. Las demás que le confieran las leyes.
 
 1. La Subprocuraduría de Representación Social es la competente para intervenir en los asuntos del orden civil, familiar y mercantil cuando las leyes le confieran esa atribución a la Procuraduría Social en su carácter de representante social, y representar a la sociedad en general en los casos y términos que dispongan las leyes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 2. La Subprocuraduría de Representación Social tiene las siguientes atribuciones:
 
 I. Auxiliar al Procurador Social en el desempeño de las funciones de representación social y del respeto a los intereses sociales, en procedimientos jurisdiccionales;
@@ -335,7 +337,9 @@ II. Representar a la sociedad en los procedimientos de orden e interés público
 
 III. Procurar la legalidad en la impartición de justicia en los asuntos en que intervenga en su carácter de representante social;
 
-IV. Vigilar y procurar el respeto y pleno ejercicio de los derechos e intereses de las personas incapaces, ausentes, desaparecidas e ignoradas en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tales efectos;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+IV. Vigilar y procurar el respeto y pleno ejercicio de los derechos e intereses de adultos mayores, de las personas incapaces, ausentes, desaparecidas e ignoradas en los procedimientos jurisdiccionales en que sean parte, levando (sic) un registro para tales efectos;
 
 V. Recibir los avisos que presenten los notarios públicos en relación con el otorgamiento de testamentos y rendir informes de los mismos cuando les sean solicitados por autoridad competente;
 
@@ -679,6 +683,10 @@ TERCERO. A partir de la entrada en vigor del presente decreto, en las leyes y or
 
 CUARTO. Se autoriza al Titular del Poder Ejecutivo del Estado, a través de las Secretarías de Administración y de la Hacienda Pública, a realizar las adecuaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+QUINTO. Se dejan a salvo los derechos laborales de los trabajadores de la Procuraduría Social, adquiridos antes de la entrada en vigor del presente decreto.
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
 GUADALAJARA, JALISCO, 9 DE SEPTIEMBRE DE 2019
@@ -718,3 +726,11 @@ Secretario General de Gobierno
 MTRO. JUAN ENRIQUE IBARRA PEDROZA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28108/LXII/20 QUE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO, Y SE ADICIONA UN ARTÍCULO QUINTO TRANSITORIO AL DECRETO 27357/LXII/19”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
