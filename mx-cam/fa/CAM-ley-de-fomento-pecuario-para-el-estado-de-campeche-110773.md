@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-pecuario-para-el-estado-de-campeche-110773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2015-12-01"
+last_updated: "2020-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CAM"
 ---
 # LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1° DE ENERO DE 2016, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 1 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 18 de noviembre de 2015.
 
@@ -167,6 +165,10 @@ Para los efectos de esta ley, se considera:
 
 47.- Guía de tránsito y control estadístico para la movilización pecuaria: Documento oficial, físico o electrónico que expide la Secretaría para la movilización y trazabilidad del ganado dentro del Estado de Campeche;
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+47 bis.- Ganado en tránsito o de paso por el territorio estatal.- El, o los semovientes que, teniendo origen o procediendo de otras entidades federativas, sean movilizados o transiten por el territorio estatal para su entrega o destino en esta o en otras entidades federativas, o, teniendo origen o habiendo sido embarcados en territorio estatal, tengan como destino otras entidades federativas.
+
 48.- Granjas avícolas: Son unidades especializadas de producción dedicada a la crianza intensiva de aves, que cuentan con un mínimo de cien metros cuadrados en área de galpón o corral de crianza para engorde, postura o reproducción, de cualquier especie que esté destinada para el consumo humano;
 
 49.- Granjas avícolas de engorde: Son granjas avícolas dedicadas a la crianza intensiva de pollos o pavos para la producción de carne;
@@ -221,7 +223,9 @@ Para los efectos de esta ley, se considera:
 
 74.- Productos: Resultados de la producción primaria de las especies pecuarias, tales como: ganado en pie, leche, entre otros;
 
-75.- Punto de verificación e inspección estatal: Sitio aprobado por la Secretaría para constatar el cumplimiento de esta Ley y las disposiciones derivadas de la misma, así como para prestar auxilio y colaboración a los programas establecidos por la SAGARPA mediante los respectivos convenios;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+75.- Punto de verificación e inspección estatal: Sitio aprobado por la Secretaría para constatar el cumplimiento de esta Ley y las disposiciones derivadas de la misma, así como para prestar auxilio y colaboración a los programas establecidos por la SADER mediante los respectivos convenios;
 
 76.- Rastro: Establecimiento en que se presta el servicio para sacrificio de animales destinados a la alimentación humana;
 
@@ -231,7 +235,9 @@ Para los efectos de esta ley, se considera:
 
 79.- Reseña: Conjunto de características físicas o mecanismo de Identificación física que se pone al ganado, distinto al fierro quemador;
 
-80.- SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, del Gobierno Federal;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+80.- SADER: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, del Gobierno Federal;
 
 81.- SECRETARÍA: Secretaría de Desarrollo Rural del Estado de Campeche;
 
@@ -291,7 +297,9 @@ III.- Las instituciones de Educación Superior e Investigación en la materia;
 
 IV.- La Secretaría Estatal de Seguridad Pública;
 
-V.- La Fiscalía General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+V.- La Fiscalía General del Estado;
 
 VI.- EL Instituto de Fomento y Protección Pecuaria del Estado de Campeche (IFOPECAM);
 
@@ -409,9 +417,13 @@ Todos los dueños de ganado mayor tienen la obligación de herrar o marcar exclu
 
 Se prohíbe el uso de fierros, marcas y señales no registradas. Los animales que se marquen contraviniendo esta disposición, serán recogidos a sus poseedores y puestos a disposición de la autoridad competente para que el interesado justifique su propiedad, sin perjuicio de exigir el registro correspondiente y de la aplicación de las sanciones que esta ley impone.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
-Los aretes de identificación oficial, se cancelarán cuando ocurra la muerte del animal. El propietario deberá informar de la muerte del semoviente al momento de actualizar la información de su UPP al organismo correspondiente.
+Los dispositivos de identificación oficial, se cancelarán cuando ocurra la muerte del animal o la pérdida o destrucción de colmenas de abejas. El propietario deberá comunicar al organismo correspondiente dicha situación a la brevedad posible, para la actualización de la información de su Unidad de Producción Pecuaria.
+
+Dicho organismo podrá designar personal competente para la verificación y recolección de dichos aretes o dispositivos de identificación oficial, a efectos de proceder a la correspondiente baja definitiva.
 
 ###### ARTÍCULO 20.
 
@@ -763,6 +775,10 @@ IV.- En las exposiciones ganaderas, subastas y otros eventos; y
 
 V.- En los puntos de verificación e inspección.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+VI. En los predios ganaderos o de pastoreo o producción pecuaria.
+
 ###### ARTÍCULO 67.
 
 Se prohíbe a los inspectores de ganadería:
@@ -815,9 +831,13 @@ I.- Guía de tránsito y control estadístico para la movilización pecuaria; y,
 
 II.- Factura o documento que acredite la propiedad legal.
 
-La Secretaría, con fines de trazabilidad y control estadístico de origen y destino del ganado, así como de sus productos y subproductos no regulados por la SAGARPA, se encargará del registro y control de las guías de tránsito y control estadístico para la movilización pecuaria.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
-Las guías de tránsito y control estadístico para la movilización pecuaria, serán expedidas por la Secretaría a través de los Centros de Servicios Electrónicos Ganaderos o bien de las instancias destinadas a estos efectos por la Secretaría.
+La Secretaría, con fines de trazabilidad y control estadístico de origen y destino del ganado, así como de sus productos y subproductos no regulados por la SADER, se encargará del registro y control de las guías de tránsito y control estadístico para la movilización pecuaria.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+Las guías de tránsito y control estadístico para la movilización pecuaria, serán expedidas por la Secretaría a través de los Centros de Servicios Electrónicos Ganaderos o bien de las instancias designadas y destinadas a estos efectos por la Secretaría, que podrá cancelar su funcionamiento cuando así lo considere necesario o conveniente para el correcto control de la movilización pecuaria.
 
 ###### ARTÍCULO 76.
 
@@ -841,9 +861,13 @@ Los Centros de Servicios Electrónicos Ganaderos o bien de las instancias destin
 
 Los pases de ganado estarán foliados progresivamente y se expedirán por parte de la Secretaría con las respectivas especificaciones que para el caso se señalen en el correspondiente Acuerdo del Ejecutivo Estatal y tendrán como vigencia hasta diez días naturales posteriores a la conclusión de la contingencia que los motive.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 81.
 
-No se requerirá guía de tránsito y control estadístico para la movilización pecuaria cuando el traslado del ganado se realice por arreo entre predios, por razones de manejo, alimentación, o producción, sin tener como objeto la venta o traslado de dominio de animales.
+Únicamente se dispensará la guía de tránsito y control estadístico para la movilización pecuaria, cuando el traslado de ganado se realice por arreo entre predios contiguos o colindantes por razones de emergencia climatológica o pastoreo, sin tener como objeto la venta o el traslado de dominio de los animales.
+
+El propietario o poseedor legítimo deberá informar inmediata y directamente a la secretaría de estas circunstancias, de no hacerlo en la forma que se establece, se impondrá multa de tres mil a cinco mil Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 82.
 
@@ -859,17 +883,35 @@ En caso de exportación se realizará conforme a las disposiciones federales vig
 
 Toda movilización de ganado al interior del Estado cuyo destino sea otra entidad federativa deberá sustentarse con el certificado zoosanitario.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 85.
 
-Para la introducción o internación de ganado, cuyo destino sea el Estado, la movilización deberá sustentarse con el certificado zoosanitario y la correspondiente guía de tránsito y control estadístico para la movilización pecuaria.
+Para la introducción o internación de semovientes cuyo destino sea el territorio estatal, la correspondiente movilización deberá ampararse con la siguiente documentación:
+
+a) Certificado Zoosanitario;
+
+b) Constancia vigente de hato libre para tuberculosis bovina y brucelosis, así como las demás que para la movilización de semovientes se requieran por disposiciones federales o estatales en materia de sanidad animal.
+
+c) Guía de Tránsito y Control Estadístico para la Movilización Pecuaria.
+
+d) Permiso de Introducción, previamente autorizado por la Secretaría.
+
+Para el caso de que se introduzcan semovientes a territorio estatal, faltando uno o más de los documentos señalados en el presente artículo, con independencia de los delitos que resulten, se impondrá multa de ocho mil a diez mil Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 86.
 
 La Secretaría, previo convenio con la SAGARPA, podrá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la movilización del ganado, en materia de sanidad pecuaria.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 87.
 
-Queda prohibido durante la noche arrear ganado, así como movilizar animales orejanos (animal que carece de marca de propiedad)
+A excepción del ganado en tránsito o de paso por el territorio estatal, queda prohibido arrear o movilizar semovientes en el territorio estatal fuera del horario comprendido de 06:00 a 18 horas.
+
+Cuando el, o los semovientes tengan origen o hayan sido embarcados en territorio estatal, y su destino de entrega sea en otras entidades federativas. El productor, engordador o acopiador con registro en el Estado de Campeche, propietario o poseedor legítimo, deberá dar aviso a la unidad encargada del control de la movilización animal del Estado de Campeche, en forma previa a su traslado.
+
+Si por alguna circunstancia cambiare dicho horario de movilización, el productor, engordador o acopiador con registro en el Estado de Campeche, propietario o poseedor legítimo, deberá dar aviso directo a la Secretaría. Si no lo hiciere, se le impondrá multa de cinco mil a ocho mil Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 88.
 
@@ -1611,9 +1653,11 @@ Las denuncias serán presentadas ante la Secretaría, la Secretaría de la Contr
 
 Las violaciones a lo dispuesto por esta Ley, su reglamento y demás disposiciones, serán sancionadas administrativamente por la Secretaría de la Contraloría de la Administración Pública del Estado de Campeche, ante las Contralorías Internas de los Municipios o las autoridades administrativas competentes en materia administrativa, sin perjuicio de las penas o sanciones que respectivamente correspondan en las materias penal y civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 213.
 
-Se considera multa, el pago de una cantidad de dinero que se fijará en salarios mínimos vigentes, de uno a doce mil. Asimismo para la fijación de las multas deberán considerarse los siguientes aspectos:
+Se considera multa, el pago de una cantidad de dinero que se fijará en Unidades de Medida y Actualización, de una a doce mil. Asimismo para la fijación de las multas deberán considerarse los siguientes aspectos:
 
 I.- Los daños producidos o que pudieran producirse;
 
@@ -1627,9 +1671,11 @@ V.- Las condiciones socioeconómicas del infractor.
 
 El monto de las multas es independiente al monto de la reparación del daño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 214.
 
-Se impondrá multa de cien a doscientos días de salario mínimo vigente, independientemente de las penas en que incurran quienes:
+Se impondrá multa de cien a doscientas Unidades de Medida y Actualización, independientemente de las penas en que incurran quienes:
 
 I.- Incumplan las disposiciones de los artículos 15, 16 y 17.
 
@@ -1647,9 +1693,11 @@ VII.- Impidan a los inspectores de ganadería el acceso a los lugares que han de
 
 VIII.- No den aviso del sacrificio de animales realizado en las Unidad de Producción Pecuaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 215.
 
-Se impondrá multa de doscientos a quinientos días de salario, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa de doscientas a quinientas Unidades de Medida y Actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I.- Comercialicen animales sin la factura correspondiente;
 
@@ -1663,13 +1711,15 @@ V.- A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el 
 
 VI.- Vendan clandestinamente carne y demás productos y subproductos del ganado; y,
 
-VII.- Incumplan lo dispuesto por el artículo 85 de esta Ley;
+VII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2020)
 
 En el caso de la fracción II del presente artículo, cuando la alteración se trate de Identificador Oficial, además de la multa señalada, la Secretaría dará vista en forma inmediata al Ministerio Público Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 216.
 
-Se impondrá multa de cinco mil a diez mil salarios mínimos vigentes a quienes:
+Se impondrá multa de cinco mil a diez mil Unidades de Medida y Actualización a quienes:
 
 I.- Realicen la introducción de ganado al Estado sin cumplir con las disposiciones sanitarias;
 
@@ -1685,15 +1735,23 @@ V.- A quien reutilice los dispositivos de identificación oficial o aretes SINII
 
 En los demás casos de incumplimiento de obligaciones a cargo de particulares, la Secretaría o las autoridades Municipales, en su caso, podrán imponer las siguientes sanciones:
 
-I.- Multa de cien a mil salarios mínimos vigentes;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+I.- Multa de cien a mil Unidades de Medida y Actualización;
 
 II.- Aseguramiento de ganado, productos, subproductos, implementos, documentación, vehículos o cualquier otro objeto, aparato o maquinaria que sean utilizados en su cuidado, control, movilización o introducción al Estado.
 
 Tratándose de aseguramiento de ganado bovino, productos y subproductos, se procederá en los términos del Capítulo II del Título II de esta Ley.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 217 bis.- Si el encargado o titular de un centro de acopio ganadero incumpliera con las obligaciones que mandata esta ley o resultare responsable del delito de abigeato o del delito contra la ganadería, la Secretaría procederá a la cancelación del correspondiente registro de acopiador, así como a la inhabilitación del lugar registrado para dicha actividad, por cinco años ininterrumpidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 218.
 
-Se impondrá multa de cien a doscientos días de salario, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa de cien a doscientas Unidades de Medida y actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. No cumplan con el plazo de inscripción en el Padrón Estatal de Productores Avícolas;
 
@@ -1709,9 +1767,11 @@ VI. Impidan a los inspectores el acceso a los lugares que han de ser inspecciona
 
 Para el caso supuesto en la fracción I del presente artículo, además de la multa se ordenará la suspensión inmediata de las actividades por parte del productor avícola en un plazo no mayor a quince días hábiles, a menos que su situación sea regularizada por lo que sólo se harán acreedores a la multa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 219.
 
-Se impondrá multa de doscientos a quinientos días de salario, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa de doscientas a quinientas Unidades de Medida y Actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Construya de forma irregular granjas avícolas;
 
@@ -1719,17 +1779,21 @@ II. Incumplan con las Buenas Prácticas que establecen la presente Ley y su Regl
 
 III. Vendan clandestinamente carne, productos y subproductos de aves para consumo humano;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 220.
 
-Se impondrá multa por el equivalente de quinientos a seiscientos días de salario, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa de quinientas a seiscientas Unidades de Medida y Actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Evadan los puntos o casetas de verificación; y,
 
 II. Introduzcan aves para producción de huevos o consumo humano al Estado por vías de comunicación en las cuales no existan puntos o casetas de verificación o estaciones cuarentenarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 221.
 
-Se impondrá multa por el equivalente de cinco mil a diez mil días de salario a quienes:
+Se impondrá multa de cinco mil a diez mil Unidades de Medida y Actualización, a quienes:
 
 I. Realicen la introducción de aves para producción de huevos o consumo humano al Estado sin cumplir con las disposiciones sanitarias;
 
@@ -1790,3 +1854,15 @@ Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de C
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 170 POR EL QUE “SE REFORMAN LOS NUMERALES 75 Y 80 DEL ARTÍCULO 5; LA FRACCIÓN V DEL ARTÍCULO 8; EL ARTÍCULO 19; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 75; LOS ARTÍCULOS 81, 85, 87, EL PÁRRAFO PRIMERO DEL ARTÍCULO 213, EL PÁRRAFO PRIMERO DEL ARTÍCULO 214, EL PÁRRAFO PRIMERO DEL ARTÍCULO 215, EL PÁRRAFO PRIMERO DEL ARTÍCULO 216, LA FRACCIÓN I DEL ARTÍCULO 217, EL PÁRRAFO PRIMERO DEL ARTÍCULO 218; EL PÁRRAFO PRIMERO DEL ARTÍCULO 219, EL PÁRRAFO PRIMERO DEL ARTÍCULO 220; EL PÁRRAFO PRIMERO DEL ARTÍCULO 221; SE ADICIONAN EL NUMERAL 47 BIS AL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 66 Y UN ARTÍCULO 217 BIS; Y, SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 215 TODOS DE LA LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
