@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2016-04-25"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -101,7 +101,9 @@ XXI. Políticas Públicas: Conjunto de acciones de las instituciones de Gobierno
 
 XXII. Plan: Al Plan integral de desarrollo para el Estado de Michoacán; y,
 
-XXIII. Secretaría: Secretaría de Política Social.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Secretaría: Secretaría de Desarrollo Social y Humano.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -223,7 +225,9 @@ IX. Promover que las instituciones gubernamentales y legislativas fomenten la pa
 
 Son autoridades en materia de juventud, en el ámbito de sus respectivas competencias:
 
-I. El Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Política Social;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+I. El Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Humano;
 
 II. El Instituto de la Juventud Michoacana; y,
 
@@ -309,11 +313,11 @@ V. Haber destacado por su labor con los jóvenes o tener experiencia en activida
 
 ### CAPÍTULO QUINTO. DEL PROGRAMA DE TRABAJO DEL INSTITUTO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 11.
 
-El Instituto a través de la Secretaría de Política Social elaborará anualmente su Programa de trabajo, tomando en cuenta las propuestas de la Comisión Interinstitucional y de los Consejos
+El Instituto a través de la Secretaría de Desarrollo Social y Humano elaborará anualmente su Programa de trabajo, tomando en cuenta las propuestas de la Comisión Interinstitucional y de los Consejos.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -561,11 +565,11 @@ IX. Las demás disposiciones aplicables.
 
 ### CAPÍTULO OCTAVO. DE LAS POLÍTICAS TRANSVERSALES EN MATERIA DE JUVENTUD
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 35.
 
-Las políticas transversales se planificarán de acuerdo a las necesidades y demandas que la sociedad plantee al Estado, y la Secretaría de Política Social actuará para resolverlas orientada con lo especificado en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo.
+Las políticas transversales se planificarán de acuerdo con las necesidades y demandas que la sociedad plantee al Estado, y la Secretaría de Desarrollo Social y Humano actuará para resolverlas orientada con lo especificado en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 36.
 
@@ -650,3 +654,11 @@ P.O. 25 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 366.- "TERCERO.- SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XXIII; 7, FRACCIÓN I; 11; Y, 35 DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
