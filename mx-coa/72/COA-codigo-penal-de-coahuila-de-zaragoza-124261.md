@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-11-27"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3435,6 +3435,8 @@ Se impondrá de tres días a seis meses de prisión y de trescientos a quiniento
 
 ### Capítulo Segundo. Peligro de contagio
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 Artículo 216 (Peligro de contagio)
 
 Se impondrá de tres meses a un año de prisión y de cincuenta a cien días multa, a quien sabiendo que padece una enfermedad grave o incurable, en período infectante, ponga a otra persona en peligro de contagiársela, por relaciones sexuales u otro medio transmisible, siempre y cuando la víctima no tenga conocimiento de aquella circunstancia, o teniéndolo, ignore su transmisibilidad por relaciones sexuales o por el medio empleado.
@@ -3445,7 +3447,15 @@ Cuando la enfermedad padecida por el sujeto activo fuera incurable, de tal modo 
 
 Si la enfermedad incurable padecida por el sujeto activo, de haber sido contraída por el pasivo, le habría puesto en peligro su vida, se impondrá al agente de uno a tres años de prisión y de quinientos a mil días multa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Se impondrá de tres meses a tres años de prisión y de cien a cuatrocientas unidades de medida como multa, a quien con conocimiento de que padece algún mal grave y transmisible, ponga a otro en peligro de contagio. Si el sujeto pasivo es menor de dieciocho años o mayor de 60 años o se encuentra en alguna situación de vulnerabilidad, se incrementará en un tanto el mínimo y el máximo de la pena respectiva.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 Este delito se perseguirá por querella de la víctima.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2020)</small>
 
 No será punible poner a una persona en peligro de contagio de un herpes.
 
@@ -4097,7 +4107,9 @@ Los animales objeto de violencia o crueldad a que se refiere este artículo sól
 
 B. (Delitos de crueldad contra animales)
 
-Se impondrá de seis meses a dos años de prisión y de cien a quinientos días multa, así como el decomiso de todos los animales que pudiera tener bajo su cuidado o resguardo, a quien realice contra un animal cualquiera de las conductas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Se impondrá de uno a tres años de prisión y de cien a quinientos días multa, así como el decomiso de todos los animales que pudiera tener bajo su cuidado o resguardo, a quien realice contra un animal cualquiera de las conductas siguientes:
 
 I. (Azuzamiento que provoque dolor extremo)
 
@@ -4119,11 +4131,15 @@ Golpee a un animal, por venganza, odio o diversión.
 
 V. (Modalidad agravante para los delitos de crueldad a animales)
 
-Se aumentará en una mitad los mínimos y máximos de las penas señaladas en las fracciones del apartado A de este artículo, cuando cualquier animal de los señalados en las fracciones precedentes, muera como consecuencia de los actos de crueldad de que fue objeto, referidos en las citadas fracciones
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Se impondrá de dos a seis años de prisión y de doscientos a setecientos días multa, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera practicado la zoofilia o causado al animal la pérdida o la inutilidad de un sentido, órgano o miembro principal, o muera como consecuencia de los actos de crueldad de que fue objeto. Las mismas penas se impondrán cuando además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo les toma fotografía o videograba para hacerlos públicos o éstas sean realizadas en presencia de un menor de edad.
 
 C. (Delito de violencia contra los animales)
 
-Se impondrá de uno a tres años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, actos de maltrato animal que deriven en zoofilia, pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
 
 Los animales que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de la asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
 
@@ -4697,9 +4713,11 @@ Artículo 291 (Fraude)
 
 A quien, por medio del engaño, o aprovechándose del error en que una persona se halla, se haga de alguna cosa ajena, mueble o inmueble, u obtenga un lucro, en beneficio propio o de una tercera persona, física o moral, se le impondrá:
 
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 I. (Fraude de cuantía mínima)
 
-De cincuenta a cien días multa, cuando el valor de lo defraudado no exceda de cincuenta veces el importe del valor diario de la unidad de medida y actualización, al momento en que se cometió el delito, o no sea posible determinar su valor.
+De tres días a seis meses de prisión y de cincuenta a cien días multa, cuando el valor de lo defraudado no exceda de cincuenta veces el importe del valor diario de la unidad de medida y actualización, al momento en que se cometió el delito, o no sea posible determinar su valor.
 
 II. (Fraude de cuantía menor)
 
@@ -5312,6 +5330,10 @@ Se aumentará un tanto al mínimo y al máximo de las penas de prisión y de mul
 Además, según sea el caso, se destituirá e inhabilitará de quince a veinte años al servidor o ex-servidor público, o al miembro o ex-miembro de institución de seguridad pública o de empresa de seguridad privada, para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a celebrar con aquellas entidades, contratos o convenios de prestación de servicios profesionales, así como del derecho a realizar cualquier clase de actividad de seguridad privada.
 
 Por miembro o ex-miembro de instituciones de seguridad pública se entenderá a las personas señaladas en el artículo 341 de este código.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Se impondrán las mismas penas a que se refiere el primer párrafo de esta fracción, si el sujeto activo es trabajador de instituciones públicas o privadas que por razón de su empleo tengan acceso a bancos de datos personales y que los utilice o los sustraiga para sí o para terceros, con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades.
 
 IV. (Otras modalidades agravantes)
 
@@ -8082,3 +8104,27 @@ La Secretaría deberá expedir las bases y reglas de operación del Fondo Estata
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 766.- SE REFORMA EL ARTÍCULO 216 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 767.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 291 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 768.- SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 333 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 769.- SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL INCISO B, Y EL PRIMER PÁRRAFO DEL INCISO C DEL ARTÍCULO 261 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
