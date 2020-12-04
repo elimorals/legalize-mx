@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2020-11-19"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -741,9 +741,11 @@ En los canales de televisión estatal se deberán transmitir los programas con m
 
 ### CAPÍTULO VII. DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 67.
 
-La Secretaría de Política Social promoverá el derecho de las personas con discapacidad que permitan aumentar el índice de desarrollo humano así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
+La Secretaría de Desarrollo Social y Humano promoverá el derecho de las personas con discapacidad que permitan aumentar el índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza;
 
@@ -1202,3 +1204,11 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 361.- SE REFORMA EL ARTÍCULO 65, LA DENOMINACIÓN DEL CAPÍTULO VIII, LA FRACCIÓN X DEL ARTÍCULO 81 Y EL NÚMERO, AL ACTUAL TÍTULO CUARTO DENOMINADO SANCIONES Y RECURSOS, ASÍ COMO, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 42 Y UNA FRACCIÓN XVIII BIS AL ARTÍCULO 81, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 366 POR EL QUE “SE REFORMA EL ARTÍCULO 67 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
