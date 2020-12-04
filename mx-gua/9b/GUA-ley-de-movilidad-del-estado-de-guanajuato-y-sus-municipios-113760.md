@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2020-08-26"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -1134,6 +1134,10 @@ III. Utilizar el cinturón de seguridad y asegurar que los pasajeros lo porten;
 IV. No hacer uso de teléfonos o dispositivos móviles que distraigan durante la conducción;
 
 V. En caso de menores, deberá transportarlos en los asientos traseros en un sistema de retención infantil o asiento especial, ajustándose a las normas técnicas de la materia;
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DEL 2020)</small>
+
+En el caso de motocicletas, los menores de edad sólo podrán viajar como pasajeros cuando puedan sujetarse por sus propios medios y deberán utilizar debidamente colocado y ajustado, casco protector para motociclista.
 
 VI. Tratándose de vehículos de carga, hacer uso de la vía pública de las zonas urbanas en las vialidades y horarios señalados para tal efecto en los reglamentos respectivos;
 
@@ -3596,3 +3600,11 @@ SEGUNDO. La reforma al artículo 78 de esta Ley entrará en vigor a partir del 1
 Procedimientos y mecanismos necesarios para el adecuado cuidado y resguardo de la salud
 
 TERCERO. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para el adecuado cuidado y resguardo de la salud de las personas en la implementación de lo dispuesto en la fracción I del artículo 70 del presente decreto.
+
+P.O. 4 DE DICIEMBRE DEL 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 64 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El titular del Poder Ejecutivo y los ayuntamientos, deberán adecuar sus reglamentos en un plazo de 90 días, contados a partir de la publicación del presente decreto.
