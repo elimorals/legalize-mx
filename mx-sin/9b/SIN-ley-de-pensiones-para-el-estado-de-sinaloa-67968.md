@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pensiones-para-el-estado-de-sinaloa-67968"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-30"
-last_updated: "2017-02-03"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PENSIONES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de marzo de 2009.
 
@@ -233,9 +233,13 @@ La pensiones se actualizarán en el mes de enero de cada año de acuerdo al índ
 
 Las pensiones que se concedan por muerte o invalidez, en ningún caso serán inferiores al salario mínimo general vigente en el Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Los trabajadores, solo tendrán derecho a disfrutar de una de las pensiones previstas en este Título, por lo que si se colocaran en la hipótesis de dos o más, recibirán la que resulte mayor en su cuantía. El derecho a recibir las pensiones previstas en esta Ley, es imprescriptible.
+Los trabajadores, solo tendrán derecho a disfrutar de una pensión. El derecho a recibir una pensión de las referidas en esta Ley, es imprescriptible.
+
+En el caso de que existan trabajadores que sean cónyuges o concubinos y laboren en una de las instituciones empleadoras a que se refiere esta ley, al fallecer una de ellas el que sobrevive tendrá derecho a recibir la pensión de aquél y, asimismo, deberá recibir la que le corresponde por sí mismo cuando cumpla los requisitos establecidos en esta Ley.
 
 ### CAPÍTULO II. PENSIÓN POR JUBILACIÓN
 
@@ -243,11 +247,21 @@ Los trabajadores, solo tendrán derecho a disfrutar de una de las pensiones prev
 
 El trabajador tendrá derecho a la pensión por jubilación cuando haya cumplido sesenta y cinco años o más de edad y veinticinco o más años de cotización al Instituto.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+El monto de esta pensión será el máximo entre la renta vitalicia resultante de la cuenta individual y la pensión mínima garantizada.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+En caso de que la renta vitalicia resulte menor a la pensión mínima garantizada el fondo de la cuenta individual pasará a formar parte del fondo de pensiones del Instituto.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-El monto de la pensión por jubilación será el máximo entre la renta vitalicia resultante de la cuenta individual y la pensión mínima garantizada.
+El trabajador que habiendo cotizado 25 años o más y que haya cumplido 60 años de edad, tendrá derecho a una pensión por vejez o edad avanzada.
 
-En caso de que la renta vitalicia resulte menor a la pensión mínima garantizada, el fondo de la cuenta individual pasará a formar parte del patrimonio del Instituto.
+El monto de esta pensión será su renta vitalicia resultante de su cuenta individual.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -757,11 +771,11 @@ IV. La Dirección General.
 
 #### SECCIÓN I. DE LA JUNTA DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 75.
 
-La Junta de Gobierno del Instituto será la autoridad suprema y estará integrada por ocho miembros que serán los representantes de las instituciones siguientes:
+La Junta de Gobierno del Instituto será la autoridad suprema y estará integrada por diez miembros que serán los representantes de las instituciones siguientes:
 
 I. El Gobernador del Estado, o el Secretario de Despacho que él designe, quien fungirá como Presidente del Instituto;
 
@@ -773,13 +787,25 @@ II. Un representante del Gobierno designado por la Secretaría de Administració
 
 III. Un representante del Poder Legislativo, que será un Diputado designado por la Junta de Coordinación Política del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-IV. Un representante del Poder Judicial, que será una (sic) Magistrado designado por el Pleno del Supremo Tribunal de Justicia del Estado; y
+IV. Un representante del Poder Judicial, que será un Magistrado o una Magistrada designado por el Pleno del Supremo Tribunal de Justicia del Estado;
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-V. Cuatro representantes del Sindicato de Trabajadores al Servicio del Estado, siendo uno de ellos su Secretario General.
+V. El titular de la Rectoría de la Universidad Autónoma de Occidente o la persona que este designe.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VI. Cuatro representantes del Sindicato de Trabajadores al Servicio del Estado, siendo uno de ellos su Secretario General, y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VII. Un representante del Sindicato Único de Trabajadores Académicos y Administrativos de la Universidad Autónoma de Occidente, pudiendo ser el Secretario General o un miembro del Comité que éste designe y,
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Cada integrante designará un suplente.
 
 (F. DE. E., P.O. 17 DE ABRIL DE 2009)
 
@@ -847,9 +873,11 @@ VIII. Las demás que le señale la presente Ley y otras disposiciones aplicables
 
 #### SECCIÓN II. DEL CONSEJO DE ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 82.
 
-El Consejo de Administración es el órgano administrador del Instituto y estará integrado por siete miembros, que serán:
+El Consejo de Administración es el órgano administrador del Instituto y estará integrado por nueve miembros, que serán:
 
 I. El Subsecretario de Administración de la Secretaría de Administración y Finanzas, quién fungirá como Presidente;
 
@@ -857,9 +885,21 @@ II. El Secretario General del Congreso del Estado;
 
 III. El Oficial Mayor del Supremo Tribunal de Justicia del Estado;
 
-IV. El Director del Instituto quien fungirá como Secretario; y,
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-V. Tres representantes del Sindicato de Trabajadores al Servicio del Estado, designado por éste, de entre los integrantes de su Comité Ejecutivo.
+IV. El titular de la Rectoría de la Universidad Autónoma de Occidente o la persona que este designe.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+V. El Director del Instituto quien fungirá como Secretario;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VI. Tres representantes del Sindicato de Trabajadores al Servicio del Estado, designados de entre los integrantes de su Comité Ejecutivo, por quien lo represente legalmente, y,
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VII. Un representante del Sindicato Único de Trabajadores Académicos y Administrativos de la Universidad Autónoma de Occidente, siendo éste el Secretario de Pensiones y Escalafón.
 
 ###### Artículo 83.
 
@@ -903,15 +943,31 @@ El Consejo de Administración sesionará cuando menos cuatro veces al año, esta
 
 #### SECCIÓN III. DE LA COMISIÓN DE VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 87.
 
-La Comisión de Vigilancia se integrará por tres miembros, designados de la siguiente manera:
+La Comisión de Vigilancia se integrará por cinco miembros, designados de la siguiente manera:
 
-I. El Secretario de la Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-II. Un miembro designado por el Órgano de Fiscalización del H. Congreso del Estado; y,
+I. El Titular de la Secretaría de Transparencia y Rendición de Cuentas;
 
-III. Un miembro designado por parte del Sindicato de los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+II. El Titular del Órgano Interno de Control del H. Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+III. Un miembro designado por parte del Sindicato de los Trabajadores al Servicio del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+IV. Un miembro designado por parte del Sindicato Único de Trabajadores Académicos y Administrativos de la Universidad Autónoma de Occidente, de entre los integrantes de Comité Ejecutivo, y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+V. El titular de la Rectoría de la Universidad Autónoma de Occidente o la persona que este designe.
 
 ###### Artículo 88.
 
@@ -1151,6 +1207,14 @@ jubilen jubilación jubilación
 
 El monto de la pensión por jubilación será el equivalente al 100% del salario regulador.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+En el caso de que los trabajadores al momento de que obtengan la antigüedad laboral requerida y no hayan cumplido edad biológica establecida en la tabla conforme al año que corresponda, estos tendrán derecho a hacer su solicitud de jubilación una vez cumplida la edad referida; y las instituciones empleadoras deberán recibir la documentación del expediente y dar trámite a la misma para los efectos de hacer entrega de la pensión a que tengan derecho. De no hacerse lo conducente, el servidor público de que se trate estará sujeto a las responsabilidades administrativas por omisión establecidas en la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Los trabajadores que ya hayan cumplido los requisitos de años cotizados y la edad mínima de jubilación al momento de entrar en vigor este decreto, tendrán derecho a que se les entregue la pensión correspondiente.
+
 Artículo Décimo Segundo.- En el caso de los trabajadores en transición que no migren al nuevo sistema de pensiones de cuentas individuales, la antigüedad mínima para obtener una pensión por vejez será de 20 años al servicio del patrón y la edad mínima para los mismos fines será de 60 años, y su importe se fijará de conformidad con la tabla de porcentajes sobre el salario regulador prevista en el artículo transitorio Décimo Cuarto, en lo aplicable.
 
 Artículo Décimo Tercero.- En el caso de los trabajadores en transición que no migren al nuevo sistema de pensiones de cuentas individuales, y que se inhabiliten física o mentalmente para desempeñar su trabajo, por causas ajenas al mismo, tendrán derecho a una pensión por invalidez siempre que tengan cuando menos cinco años de servicio y para determinar su monto, se aplicará la tabla contenida en el artículo siguiente. El derecho al pago de esta pensión, nace a partir de la fecha en que la institución de salud o seguridad social que preste la atención médica, extienda el certificado de incapacidad respectivo.
@@ -1199,7 +1263,9 @@ HOMBRES MUJERES
 
 30 ó más 100 100
 
-En el caso de muerte de un jubilado o pensionado, su importe consistirá en el salario mínimo general vigente al ocurrir el deceso.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+En el caso de muerte de un jubilado o pensionado, su importe consistirá en el 100% de la pensión que venía devengando al ocurrir el deceso.
 
 Artículo Décimo Quinto.- La pensión por muerte, se asignará conforme al orden siguiente:
 
@@ -1257,9 +1323,9 @@ Para los efectos del párrafo anterior, los trabajadores y empleadores, conjunta
 
 El estímulo que se otorgue no será considerado para los efectos de la determinación del monto de la pensión jubilatoria cuando se solicite y se retire.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-Artículo Vigésimo Tercero.- A los trabajadores o sus beneficiarios que adquieran cualquiera de las pensiones contenidas en la presente Ley, el Instituto les otorgará una gratificación anual que deberá ser cubierta, a más tardar, el día veinte de diciembre de cada año, equivalente al importe de treinta y cinco días, calculados sobre el monto mensual de su pensión.
+Artículo Vigésimo Tercero.- A los trabajadores o sus beneficiarios que adquieran cualquiera de las pensiones contenidas en la presente Ley, el Instituto les otorgará un haber de retiro que deberá ser cubierto a más tardar el día veinte de diciembre de cada año, equivalente al importe de cincuenta días calculados sobre el monto mensual de su pensión.
 
 Artículo Vigésimo Cuarto.- Las solicitudes de pensión o jubilación presentadas y en trámite con anterioridad al inicio de la vigencia del presente Decreto, se resolverán conforme al momento y a las condiciones en que se haya generado el derecho correspondiente, por lo que no serán afectadas por las modificaciones establecidas en esta Ley. Igual suerte correrán las que presenten los trabajadores con el derecho adquirido antes del inicio de la vigencia de este Decreto.
 
@@ -1362,3 +1428,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las cuotas adicionales de tres puntos porcentuales, a que se refiere el inciso b) del artículo 10 de la Ley de Pensiones para el Estado de Sinaloa, sólo serán aplicables a los trabajadores que ingresen al servicio público a partir del día de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 529 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día primero de enero del año 2021, previa publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
