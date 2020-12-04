@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-las-y-los-periodistas-para-el-101913"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-18"
-last_updated: "2019-07-05"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 18 de julio de 2014.
 
@@ -71,6 +71,10 @@ Medidas de Protección: conjunto de acciones y medios para resguardar, de manera
 
 Comisión: Comisión de Prevención y Protección de los Periodistas en el Estado de Coahuila.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Libre expresión: Es el derecho humano que tiene toda persona para investigar, solicitar, recibir o recabar información de interés público, expresar, difundir y publicar ideas u opiniones, ya sea de forma personal o colectiva y por cualquier medio de expresión.
+
 ###### Artículo 3.
 
 Corresponde a (sic) Gobierno del Estado, vigilar la aplicación y el cumplimiento de la presente ley, así como coordinar las Medidas de Prevención y de Protección que contribuyan a garantizar la vida, la integridad y la seguridad de los periodistas.
@@ -115,11 +119,21 @@ Por cada integrante de la Comisión habrá un suplente. La suplencia procederá 
 
 En las sesiones de la Comisión se tratarán:
 
-a) Los asuntos relacionados con la investigación y aplicación de medidas que garanticen el ejercicio de la profesión de los periodistas.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+a) Los asuntos relacionados con la investigación y aplicación de medidas que garanticen el ejercicio de la profesión de los periodistas, con el objeto de proteger, respetar y garantizar los derechos humanos de las personas que se encuentren en situación de riesgo como consecuencia de la libertad de expresión y del ejercicio de periodismo;
 
 b) Le corresponde a la Comisión elaborar los manuales y protocolos de seguridad de las Medidas Preventivas y las Medidas de Protección para los beneficiarios, para lo cual deberán auxiliarse de personal con experiencia y conocimiento en la defensa de los derechos humanos, en el ejercicio del periodismo y en evaluación de riesgos y protección de personas.
 
 c) Le corresponde a la Comisión administrar los recursos presupuestales asignados para el cumplimiento de esta Ley, en el presupuesto de egresos que expide el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+d) Establecer las bases de coordinación entre las instituciones públicas y la sociedad en general para una efectiva protección de los derechos de los periodistas;
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+e) Diseñar y ejecutar políticas públicas encaminadas a prevenir y reducir los factores de riesgos contra periodistas, así como para combatir las causas que las producen y generar garantías.
 
 De la Unidad Auxiliar
 
@@ -316,3 +330,9 @@ P.O. 5 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 771.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2 Y SE REFORMA EL INCISO A) Y SE ADICIONAN LOS INCISOS D) Y E) AL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
