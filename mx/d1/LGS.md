@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2020-01-24"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2020.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -1702,7 +1702,9 @@ II. La atención de necesidades de infraestructura preferentemente en las entida
 
 III. Complementar los recursos destinados al abasto y distribución de medicamentos y demás insumos, así como del acceso a exámenes clínicos, asociados a personas sin seguridad social.
 
-Los recursos que integran el patrimonio del Fideicomiso deberán permanecer afectos al mismo hasta el cumplimiento de sus fines.
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2020)</small>
+
+Sin perjuicio de lo establecido en el segundo párrafo del artículo 77 bis 17, los recursos que integran el patrimonio del Fideicomiso deberán permanecer afectos al mismo hasta el cumplimiento de sus fines.
 
 Para efectos de lo anterior y mayor transparencia de los recursos, el Fideicomiso contará con una subcuenta para cada uno de los fines señalados.
 
@@ -1795,6 +1797,10 @@ En caso de incumplimiento respecto de la aportación a que se refiere la fracci�
 ###### ARTICULO 77 Bis 17.
 
 El Instituto de Salud para el Bienestar, con cargo a los recursos a que se refiere el artículo 77 bis 12 de esta Ley, canalizará anualmente al Fondo a que hace referencia el Capítulo VI de este Título, el equivalente al 11% de la suma de los recursos señalados en los artículos 77 bis 12 y 77 bis 13 de esta Ley, el Instituto de Salud para el Bienestar asignará de estos recursos el 8% a la fracción I del artículo 77 bis 29, el 2% a la fracción II del artículo 77 bis 29, y el 1% a la fracción III del artículo 77 bis 29.
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2020)</small>
+
+Cuando el Fondo acumule recursos en un monto superior a dos veces la suma aprobada en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2020 como aportaciones al Fideicomiso del Fondo de Salud para el Bienestar, el remanente podrá destinarse a fortalecer acciones en materia de salud a través del reintegro de recursos correspondiente a la Tesorería de la Federación o mediante el Fondo de Salud para el Bienestar. Los recursos acumulados en el Fondo seguirán garantizando la atención de enfermedades que provocan gastos catastróficos, la atención de necesidades de infraestructura, el abasto y distribución de medicamentos y otros insumos y el acceso a exámenes clínicos, conforme lo establece el artículo 77 bis 29 de esta Ley.
 
 ###### ARTICULO 77 Bis 18.
 
@@ -9307,3 +9313,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Los prestadores de servicios funerarios contarán con ciento ochenta días contados a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo establecido en el artículo 348 Bis de la Ley General de Salud.
 
 Tercero. En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud y las autoridades sanitarias locales, en el ámbito de su respectiva competencia, emitirán las disposiciones reglamentarias para dar cumplimiento a lo establecido en los artículos 348 Bis, 348 Bis 1 y 348 Bis 2 de la Ley General de Salud.
+
+D.O.F. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 77 BIS 17 Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 77 BIS 29 DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto de Salud para el Bienestar instruirá a la institución fiduciaria del Fondo de Salud para el Bienestar para que, a más tardar el 1 de abril de 2021, concentre en la Tesorería de la Federación la cantidad de hasta treinta y tres mil millones de pesos del patrimonio de ese Fideicomiso, de conformidad con las disposiciones jurídicas aplicables.
