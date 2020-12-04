@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2020-08-20"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -45,9 +45,11 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE 
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de observancia general y obligatoria en el Estado de San Luis Potosí y rige las relaciones de trabajo de los poderes Legislativo, Ejecutivo y Judicial y de los municipios, así como de los organismos públicos descentralizados y empresas de participación estatal o municipal con sus trabajadores.
+La presente Ley es de observancia general y obligatoria en el Estado de San Luis Potosí, y rige las relaciones de trabajo de los poderes, Legislativo; Ejecutivo; y Judicial y de los municipios, así como de los organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos y empresas de participación estatal o municipal con sus trabajadores.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -67,9 +69,15 @@ Los derechos que otorga esta ley son irrenunciables y por lo tanto de orden púb
 
 En lo no previsto en este ordenamiento, se aplicarán supletoriamente y, en su orden, la Ley Federal del Trabajo, la Ley Federal de los Trabajadores al Servicio del Estado, los principios generales del Derecho y de la justicia social, la jurisprudencia, la costumbre y la equidad. Si aún persiste la duda se resolverá con la interpretación más favorable al trabajador.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+Al aplicarse supletoriamente la Ley Federal del Trabajo, tanto las funciones correspondientes al secretario instructor, como las destinadas al juez, serán de la competencia del Pleno del Tribunal, salvo lo expresamente dispuesto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 5o.
 
-Para efectos de la presente ley, se entenderán por instituciones públicas de gobierno, a los Poderes Legislativo, Ejecutivo y Judicial, a los municipios, organismos públicos descentralizados y empresas de participación estatal y municipal.
+Para efectos de la presente ley, se entenderán por instituciones públicas de gobierno, a los Poderes Legislativo, Ejecutivo y Judicial, a los municipios, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, y empresas de participación estatal y municipal.
 
 ###### ARTICULO 6o.
 
@@ -403,9 +411,11 @@ Se entiende por escalafón, el sistema organizado en cada institución pública 
 
 Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores de base con un mínimo de seis meses en la plaza inmediata inferior.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 48.
 
-En cada institución pública de gobierno se expedirá un reglamento de escalafón, el cual se formulará, de común acuerdo por los representantes legales de los poderes del Estado, de los municipios, organismos públicos descentralizados, empresas de participación estatal o municipal y con el sindicato correspondiente.
+En cada institución pública de gobierno se expedirá un reglamento de escalafón, el cual se formulará, de común acuerdo por los representantes legales de los poderes del Estado, de los municipios, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, empresas de participación estatal o municipal y con el sindicato correspondiente.
 
 ###### ARTICULO 49.
 
@@ -923,9 +933,11 @@ DE LAS AUTORIDADES.
 
 DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 102.
 
-El Tribunal Estatal de Conciliación y Arbitraje es un órgano con personalidad jurídica y patrimonio propios, autónomo en el dictado de sus fallos y con facultad jurisdiccional para resolver las controversias entre las instituciones públicas del Gobierno del Estado, ayuntamientos, organismos públicos descentralizados y empresas de participación estatal constituidas conforme a la ley, con sus trabajadores, derivados de las relaciones de trabajo y, en su caso, de los conflictos colectivos. Tendrá su residencia en la capital del Estado.
+El Tribunal Estatal de Conciliación y Arbitraje es un órgano con personalidad jurídica y patrimonio propios, autónomo en el dictado de sus fallos y con facultad jurisdiccional para resolver las controversias entre las instituciones públicas del Gobierno del Estado, ayuntamientos, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, y empresas de participación estatal constituidas conforme a la ley, con sus trabajadores, derivados de las relaciones de trabajo y, en su caso, de los conflictos colectivos. Tendrá su residencia en la capital del Estado.
 
 ###### ARTICULO 103.
 
@@ -1241,9 +1253,11 @@ Todas las instituciones públicas, aún ajenas al procedimiento, que tengan cono
 
 Tanto las autoridades administrativas como las judiciales, dentro de la esfera de su jurisdicción, están obligadas a auxiliar al Tribunal Estatal de Conciliación y Arbitraje para hacer respetar y cumplir sus determinaciones, cuando fueren requeridas para tal fin.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 129.
 
-(DEROGADO, P.O. 22 DE JUNIO DE 2019)
+Las audiencias se celebrarán en el local del Tribunal, salvo los casos establecidos en esta Ley y sus supletorias, de las cuales se levantará acta circunstanciada que deberán firmar los integrantes del Pleno, ante la fe del secretario general de acuerdos, y por quienes hayan intervenido en ella si quieren y pueden hacerlo.
 
 ###### ARTICULO 130.
 
@@ -2052,3 +2066,19 @@ P.O. 20 DE AGOSTO DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0828- SE REFORMA (SIC) LOS ARTÍCULOS 1°, 5°, 48 Y 102, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0829 - SE ADICIONA AL ARTÍCULO 4° EL PÁRRAFO SEGUNDO Y EL ARTÍCULO 129, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
