@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2019-08-28"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -125,7 +125,9 @@ c) Secretaría de Desarrollo Económico;
 
 d) Secretaría de Educación del Estado;
 
-e) Secretaría de Política Social;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+e) Secretaría de Desarrollo Social y Humano;
 
 f) Secretaría de Salud;
 
@@ -457,11 +459,15 @@ XXI. Fomentar en la población estudiantil y el profesorado una cultura de respe
 
 XXII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
-#### SECCIÓN V. DE LA SECRETARÍA DE POLÍTICA SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN V. DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde a la Secretaría de Política Social en el Estado en materia de adultos mayores las siguientes atribuciones:
+Corresponde a la Secretaría de Desarrollo Social y Humano en el Estado en materia de adultos mayores las siguientes atribuciones:
 
 I. Diseñar y promover proyectos productivos;
 
@@ -843,7 +849,9 @@ I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
 II. Conformarán el cuerpo colegiado los titulares de las siguientes dependencias estatales:
 
-a) Secretaría de Política Social;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+a) Secretaría de Desarrollo Social y Humano;
 
 b) Sistema DIF Estatal;
 
@@ -1258,3 +1266,11 @@ P.O. 28 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 366 POR EL QUE “SE REFORMAN EL ARTÍCULO 4, FRACCIÓN I, INCISO E), LA DENOMINACIÓN DE LA SECCIÓN V; Y, LOS ARTÍCULOS 15 Y 28 FRACCIÓN II, INCISO A) DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
