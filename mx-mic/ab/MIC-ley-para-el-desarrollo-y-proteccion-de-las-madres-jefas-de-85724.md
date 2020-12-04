@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-y-proteccion-de-las-madres-jefas-de-8572
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-01"
-last_updated: "2016-12-29"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 1 de febrero de 2012.
 
@@ -81,7 +81,9 @@ I. La Secretaría de la Mujer;
 
 II. La Secretaría de Salud;
 
-III. La Secretaría de Política Social;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+III. La Secretaría de Desarrollo Social y Humano;
 
 IV. La Secretaría de Desarrollo Económico;
 
@@ -207,7 +209,9 @@ I. La Secretaría de la Mujer;
 
 II. La Secretaría de Salud;
 
-III. La Secretaría de Política Social;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+III. La Secretaría de Desarrollo Social y Humano;
 
 IV. La Secretaría de Desarrollo Económico; y,
 
@@ -302,3 +306,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 366.- PRIMERO.- SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XVII; 5; Y, 46 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN.- SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 2, INCISO B); 11; 13; 19; Y, 28 FRACCIÓN V DE LA LEY DE FOMENTO Y FORTALECIMIENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XXIII; 7, FRACCIÓN I; 11; Y, 35 DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN EL ARTÍCULO 4, FRACCIÓN I, INCISO E), LA DENOMINACIÓN DE LA SECCIÓN V; Y, LOS ARTÍCULOS 15 Y 28 FRACCIÓN II, INCISO A) DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO.- SE REFORMA EL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y TRATAMIENTO INTEGRAL DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO.- SE REFORMA EL ARTÍCULO 30 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO.- SE REFORMAN LOS ARTÍCULOS 5°, FRACCIÓN III; Y, 19, FRACCIÓN III DE LA LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO.- SE REFORMA EL ARTÍCULO 67 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO.- SE REFORMA EL ARTÍCULO 24, FRACCIÓN V DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN.- DÉCIMO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY DE LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
