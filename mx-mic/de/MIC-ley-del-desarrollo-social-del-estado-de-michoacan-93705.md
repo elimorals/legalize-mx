@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-desarrollo-social-del-estado-de-michoacan-93705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-11"
-last_updated: "2015-09-29"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de abril de 2013.
 
@@ -105,7 +105,9 @@ XV. POLÍTICA SOCIAL: Se define como la forma que por medio de estrategias y pol
 
 XVI. PROGRAMAS: Los programas de desarrollo social que ejecutan el Gobernador y los ayuntamientos;
 
-XVII. SECRETARÍA: La Secretaría de Política Social del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+XVII. SECRETARÍA: La Secretaría de Desarrollo Social y Humano;
 
 XVIII. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social; y,
 
@@ -147,9 +149,11 @@ VII. Velar por la expedita entrega de recursos por parte del Estado para program
 
 VIII. Las demás que señale esta Ley y demás disposiciones normativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-Son facultades del Titular de la Secretaría de Política Social, además de las dispuestas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, las siguientes:
+Son facultades del Titular de la Secretaría de Desarrollo Social y Humano, además de las dispuestas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, las siguientes:
 
 I. Aplicar, normar, coordinar y ejecutar las políticas sociales contenidas en el Plan de Desarrollo Integral del Estado de Michoacán;
 
@@ -553,9 +557,11 @@ Los resultados de la evaluación de cada uno de los programas se publicarán en 
 
 En consonancia con lo dispuesto por la Ley General de Desarrollo Social, los estudios, lineamientos y criterios que establezca el CONEVAL para la definición, identificación y medición de la pobreza, deberán ser referencia obligatoria para la medición y evaluación de la política social en el Estado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 46.
 
-El Titular de la Secretaría de Política Social, a través del Gobernador del Estado, propondrá anualmente los programas específicos, obras y acciones que puedan canalizarse a las zonas de atención prioritaria, cuya población registre menores índices de desarrollo relativo, a efecto de reorientar los programas y la asignación presupuestaria necesaria.
+El Titular de la Secretaría de Desarrollo Social y Humano, a través del Gobernador del Estado, propondrá anualmente los programas específicos, obras y acciones que puedan canalizarse a las zonas de atención prioritaria, cuya población registre menores índices de desarrollo relativo, a efecto de reorientar los programas y la asignación presupuestaria necesaria.
 
 ### CAPÍTULO IX. PROGRAMAS DE DESARROLLO SOCIAL
 
@@ -814,3 +820,11 @@ SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan 
 TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
 
 CUARTO. Remítase el presente Decreto al Titular de la Secretaría de Política Social del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 366 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XVII; 5; Y, 46 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
