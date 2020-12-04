@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-11-20"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -820,6 +820,14 @@ Cuando un Presidente Municipal electo no se presente a ocupar el cargo y en los 
 ###### ARTÍCULO 101.
 
 El secretario del ayuntamiento desempeñará, aparte de las funciones que le encomienda este código y el reglamento interior, las funciones inherentes a las del síndico cuando éste se encuentre ausente o impedido para cumplir sus responsabilidades, siempre que no sea declarado vacante el cargo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 101 BIS. El Ayuntamiento deberá desarrollar anualmente las jornadas del Cabildo infantil y juvenil, como espacios de participación ciudadana, deliberación y debate, que permita a niñas, niños y jóvenes de sus municipios desarrollar el análisis, la exposición y discusión social y política de asuntos de interés en su municipio, así como fomentar la integración y gestión de proyectos y propuestas en beneficio de la niñez y juventud.
+
+Estará integrado por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente.
+
+Su integración se realizará mediante convocatoria aprobada por el Ayuntamiento, en la que se establecerán los requisitos y procedimientos para su instalación y desarrollo de conformidad con el reglamento municipal respectivo.
 
 ### CAPÍTULO VI. FACULTADES Y COMPETENCIAS DEL AYUNTAMIENTO
 
@@ -5204,3 +5212,9 @@ P.O. 20 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 774.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 107 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 773.- SE ADICIONA EL ARTÍCULO 101 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
