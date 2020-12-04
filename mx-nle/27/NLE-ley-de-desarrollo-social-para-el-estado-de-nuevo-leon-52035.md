@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2018-01-17"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -197,9 +197,15 @@ El objetivo de la Política de Desarrollo Social del Estado y de los Municipios 
 
 La Política de Desarrollo Social debe encaminarse a concentrar y orientar los recursos físicos, humanos y financieros de las instituciones públicas y sociales para evitar la transmisión generacional de las condiciones de pobreza entre las personas, grupos sociales y comunidades mediante líneas de acción y programas particularmente orientados a desarrollar y aprovechar sus capacidades, a ampliar el acceso a un patrimonio físico, a la atención y seguridad de las instituciones del Estado, al acceso a redes sociales y comunitarias, y particularmente a la creación de mayores oportunidades de empleo y financiamiento para actividades productivas.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-La Política de Desarrollo Social tendrá como prioridad proporcionar de manera oportuna y subsidiaria ayuda económica o en bienes y servicios básicos a las personas, familias, grupos, etnias y comunidades en situación de pobreza.
+La Política de Desarrollo Social tendrá como prioridad proporcionar de manera oportuna y subsidiaria ayuda económica o en bienes y servicios básicos a:
+
+I. Las personas, familias, grupos, etnias y comunidades que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano; y
+
+II. Las mujeres, niñas, niños, adolescentes, adultos mayores, personas con discapacidad o que se encuentren en situación de vulnerabilidad social.
 
 ###### Artículo 12.
 
@@ -582,3 +588,9 @@ Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en 
 Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
 
 Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 390 SE REFORMA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial del Estado de Nuevo León.
