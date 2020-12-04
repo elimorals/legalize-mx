@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2014-10-29"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -64,6 +64,24 @@ VI. Bebida alterada: Bebida alcohólica cuyo contenido o materia prima por la ac
 VII. Bebida contaminada: Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud;
 
 VIII. Bebida preparada: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VIII Bis. Cerveza: Bebida alcohólica fermentada elaborada con malta, lúpulo, levadura y agua potable, puede adicionarse con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o materia prima vegetal feculenta y/o carbohidratos de origen vegetal susceptibles de ser hidrolizados o, en su caso, azúcares que son adjuntos de la malta, con adición de lúpulos o sucedáneos en éstos. Su contenido alcohólico es de 2% a 20% Alc. Vol.
+
+La cerveza puede adicionarse de ingredientes y otros aditivos permitidos en el Acuerdo correspondiente de la Secretaría de Salud
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VIII Bis 1. Cerveza Artesanal: Bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen;
+
+Además, para ser considerada una Cervecería como artesanal deberá de cumplir con las siguientes características:
+
+A) Tienen una producción anual menor a 1 millón de hectolitros.
+
+B) En caso de que algún productor rebase el 25% del capital social en el presente rubro, no podrá ser acreedor de los beneficios que se contemplan en la presente ley.
+
+C) Que el producto cuente en todos los casos con Malta, Agua, Lúpulo y Levadura, pudiendo estar adicionada con insumos extras con la finalidad de enaltecer sabores y fomentar la innovación, más nunca para abaratar costos.
 
 IX. Control sanitario: Conjunto de acciones de orientación, educación, muestreo, verificación, inspección, vigilancia y en su caso, la aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud con el propósito de vigilar y garantizar el cumplimiento de esta y otras leyes por parte de las personas físicas o morales que realicen las actividades a que se refiere la misma;
 
@@ -301,9 +319,17 @@ III. ABARROTES.- Establecimientos mercantiles que predominantemente venden comes
 
 IV. TIENDAS DE CONVENIENCIA.- Establecimientos que expenden bebidas alcohólicas, cuyo giro comercial sea la venta de artículos diversos de abarrotes, bebidas, dulces, cigarros, enlatados, congelados, conservas, comida rápida que se prepara en el mismo lugar, farmacéuticos básicos y de venta libre, periódicos, revistas, productos de uso doméstico y para la higiene personal, entre otros, teniendo una variedad menor de productos que las tiendas de supermercados, pudiendo ser proveedor de algunos servicios, tales como cajeros automáticos de bancos o instituciones financieras o pagos diversos a favor de empresas públicas o privadas;
 
-V. TIENDAS DE SUPERMERCADOS.- Establecimiento que tiene una superficie mínima de 600 metros cuadrados de construcción, los cuales deberán contar con cajones de estacionamiento suficientes para los clientes, y cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos artículos de consumo básicos de uso doméstico y otra clase de mercancías. Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-VI. TIENDAS DEPARTAMENTALES.- Establecimientos que cuentan con instalaciones e infraestructura con características de división de departamentos en los que preponderantemente se vende al público artículos variados, tales como ropa, cosméticos, muebles, domésticos y otros; en donde complementariamente se podrán vender productos alimenticios finos y bebidas con contenido alcohólico en envase cerrado, las cuales se deberán tener para su exhibición y venta en el departamento correspondiente, quedando prohibido su consumo en éste o cualquier otra área departamental.
+V. TIENDAS DE SUPERMERCADOS: Establecimiento que tiene una superficie mínima de 600 metros cuadrados de construcción, los cuales deberán contar con cajones de estacionamiento suficientes para los clientes, y cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos artículos de consumo básicos de uso doméstico y otra clase de mercancías. Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VI. TIENDAS DEPARTAMENTALES: Establecimientos que cuentan con instalaciones e infraestructura con características de división de departamentos en los que preponderantemente se vende al público artículos variados, tales como ropa, cosméticos, muebles, domésticos y otros; en donde complementariamente se podrán vender productos alimenticios finos y bebidas con contenido alcohólico en envase cerrado, las cuales se deberán tener para su exhibición y venta en el departamento correspondiente, quedando prohibido su consumo en éste o cualquier otra área departamental; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+VII. BOUTIQUE DE CERVEZA ARTESANAL: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo.
 
 ###### ARTÍCULO 19.
 
@@ -323,9 +349,33 @@ VI. CENTRO NOCTURNO.- Son establecimientos que constituyen un centro de reunión
 
 VII. CANTINAS.- Establecimientos que expenden todo tipo de bebidas alcohólicas al copeo en envase abierto y cuentan con barra y contrabarra, pudiendo de manera accesoria expender alimentos y ofrecer de manera gratuita juegos de mesa y de salón. En estos establecimientos no se autorizará variedad ni habrá pista de baile;
 
-VIII. HOTELES Y MOTELES.- Son establecimientos que ofrecen al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales venden bebidas alcohólicas en envase abierto o al copeo. En sus habitaciones pueden tener servicio de servi-bar; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
 
-IX. CERVECERÍAS.- Establecimiento mercantil en el cual se vende y consume sólo cerveza en envase abierto, pudiendo de manera accesoria expender alimentos y otras bebidas no alcohólicas.
+VIII. HOTELES Y MOTELES: Son establecimientos que ofrecen al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales venden bebidas alcohólicas en envase abierto o al copeo. En sus habitaciones pueden tener servicio de servi-bar;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+IX. CERVECERÍAS: Establecimiento mercantil en el cual se vende y consume sólo cerveza en envase abierto, pudiendo de manera accesoria expender alimentos y otras bebidas no alcohólicas;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+X. MICROCERVECERÍA: Establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia, así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+XI. SALA DE DEGUSTACIÓN PARA LA VENTA EXCLUSIVA DE CERVEZA ARTESANAL: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que contar (sic) con música grabada o en vivo;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+XII. HIDROMIELERIA ARTESANAL: Establecimiento mercantil dedicado a la venta exclusiva de Hidromiel o cerveza artesanal, local y nacional, en envase abierto para su consumo inmediato, con o sin servicios de alimentos, y que puede contar con música grabada o en vivo; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+XIII. MICROHIDROMIELERIA: Establecimientos para la producción, envasado, degustación, venta, distribución, almacenaje, difusión y comercialización por diversos medios, de hidromiel artesanal de fabricación propia, así como productos relacionados; cumpliendo las características de ser de pequeña escala, independiente y de producción tradicional. Puede contar con sala de degustación, y con productos de la misma gama de diverso fabricante estatal o nacional.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, P.O. 4 DE DICIEMBRE DE 2020]</small>
+
+La sala de degustación es el área de la microhidromielería, delimitada para la recepción de público en general, venta y consumo exclusivo de hidromiel o cerveza artesanal cerrada y abierta, con o sin servicios de alimentos, sean provistos por el establecimiento o por terceros, y que puede contar con música grabada o en vivo.
 
 Los lugares con instalaciones que operen dos o más giros deberán contar con las licencias que correspondan a cada uno de ellos.
 
@@ -489,6 +539,10 @@ XI. Los demás requisitos establecidos en esta Ley y en cualquier otro ordenamie
 
 Además de los requisitos antes mencionados los solicitantes deberán cumplir con los Criterios Técnicos emitidos y publicados en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 33 BIS.- La Licencias para microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, se otorgarán a tarifa preferencial a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
+
 ###### ARTÍCULO 34.
 
 No se asignará folio ni se dará trámite a aquellas solicitudes que no reúnan los requisitos y la documentación exigida por el artículo anterior.
@@ -624,6 +678,10 @@ Las licencias deberán refrendarse en forma anual a más tardar el 31 de marzo d
 ###### Artículo 47.
 
 Como requisito previo para la expedición de las licencias o los permisos especiales, cambio de domicilio o giro, se requiere la obtención de la correspondiente anuencia municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 47 BIS.- Las Anuencias Municipales para microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, se otorgarán a tarifa preferencial a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
 
 ###### Artículo 48.
 
@@ -1670,3 +1728,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 266. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO NÚMERO 266 DE FECHA 22 DE ENERO DE 2020, MEDIANTE EL CUAL SE REFORMA LA LEY DE PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Municipios dispondrán de un plazo de 90 días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos en la materia.
