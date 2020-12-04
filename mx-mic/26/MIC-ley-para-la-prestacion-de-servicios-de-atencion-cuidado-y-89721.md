@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prestacion-de-servicios-de-atencion-cuidado-y-89721
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-04"
-last_updated: "2016-12-29"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 4 de octubre de 2012.
 
@@ -317,7 +317,9 @@ III. La Secretaría de Salud;
 
 IV. La Secretaría de Gobierno; y,
 
-V. La Secretaría de Política Social.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
+V. La Secretaría de Desarrollo Social y Humano.
 
 Cuando el Titular del Poder Ejecutivo asista a sesiones del Consejo, lo presidirá.
 
@@ -926,3 +928,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 366.- "NOVENO.- SE REFORMA EL ARTÍCULO 24, FRACCIÓN V DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
