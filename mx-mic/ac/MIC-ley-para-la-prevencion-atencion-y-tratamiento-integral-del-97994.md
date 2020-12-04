@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-atencion-y-tratamiento-integral-del-9799
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2014-01-21"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y TRATAMIENTO INTEGRAL DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -135,9 +135,11 @@ Corresponde a la Secretaría de los Jóvenes:
 
 l. Llevar a cabo programas de prevención de la obesidad y de los trastornos de la conducta alimentaria, a través de campañas de información permanentes, líneas de orientación y asesoría y mediante la realización de festivales de salud y autocuidado personal dirigido a los jóvenes del Estado de Michoacán en coordinación con la Secretaría de Salud, la Secretaría de Educación y los gobiernos municipales sobre todo en aquellos municipios con alta incidencia de obesidad y trastornos alimentarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde a la Secretaría de Política Social y el DIF Estatal:
+Corresponde a la Secretaría de Desarrollo Social y Humano y el DIF Estatal:
 
 l. Implementar, ejecutar e instrumentar acciones de políticas públicas destinadas a garantizar la seguridad alimentaria y el combate a la desnutrición que garantice el acceso y disponibilidad de alimentos sanos y nutritivos a la población en general y de forma especial a aquellos municipios de alta y muy alta marginación; y,
 
@@ -200,3 +202,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 13 trece días del mes de diciembre del año 2013 dos mil trece.
 
 SUFRAGIO .EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO, LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 366.- PRIMERO.- SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XVII; 5; Y, 46 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN.- SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 2, INCISO B); 11; 13; 19; Y, 28 FRACCIÓN V DE LA LEY DE FOMENTO Y FORTALECIMIENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XXIII; 7, FRACCIÓN I; 11; Y, 35 DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN EL ARTÍCULO 4, FRACCIÓN I, INCISO E), LA DENOMINACIÓN DE LA SECCIÓN V; Y, LOS ARTÍCULOS 15 Y 28 FRACCIÓN II, INCISO A) DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO.- SE REFORMA EL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y TRATAMIENTO INTEGRAL DEL SOBREPESO, OBESIDAD Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO.- SE REFORMA EL ARTÍCULO 30 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO.- SE REFORMAN LOS ARTÍCULOS 5°, FRACCIÓN III; Y, 19, FRACCIÓN III DE LA LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO.- SE REFORMA EL ARTÍCULO 67 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO.- SE REFORMA EL ARTÍCULO 24, FRACCIÓN V DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN.- DÉCIMO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY DE LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
