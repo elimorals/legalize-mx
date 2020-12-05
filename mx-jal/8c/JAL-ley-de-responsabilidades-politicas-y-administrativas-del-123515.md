@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2020-11-07"
+last_updated: "2020-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -101,9 +101,11 @@ X. Los demás órganos y entes públicos que determinen las leyes.
 
 ### Capítulo I. Sujetos y causas de Juicio Político
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-1. Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los magistrados del Tribunal Electoral del Estado y del Tribunal de Justicia Administrativa; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Fiscal General, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+1. Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los magistrados del Tribunal Electoral del Estado y del Tribunal de Justicia Administrativa; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Fiscal General, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6.
 
@@ -557,13 +559,17 @@ XVIII. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las n
 
 XIX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XX. Observar el código de ética que emitan los respectivos órganos internos de control; y
+XX. Observar el código de ética que emitan los respectivos órganos internos de control;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXI. Cometer actos u omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables.
+XXI. Cometer actos y omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
+
+XXII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, independientemente del nivel jerárquico en que se encuentre la persona responsable, como quien lo resienta.
 
 ###### Artículo 49.
 
@@ -575,7 +581,9 @@ XXI. Cometer actos u omisiones en el ejercicio de su encargo, considerados como 
 
 ###### Artículo 50.
 
-1. Los Poderes Legislativo y Judicial y los organismos constitucionales autónomos así como los municipios, sus dependencias y entidades de la Administración Pública Centralizada y Paramunicipal, deberán crear órganos internos de control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2020)</small>
+
+1. Los poderes Legislativo y Judicial y los organismos constitucionales autónomos así como los municipios, sus dependencias y entidades de la Administración Pública Centralizada y Paramunicipal, deberán contar con órganos internos de control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos.
 
 2. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado que de manera directa, o a través de los órganos internos de control de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, ejercerá sus atribuciones de conformidad a la legislación orgánica del Poder Ejecutivo.
 
@@ -593,7 +601,9 @@ Para el desempeño de sus funciones, los Órganos Internos de Control gozarán d
 
 1. Los órganos internos de control tendrán, respecto al ente público correspondiente y de conformidad con las normas y procedimientos legales aplicables, las siguientes atribuciones:
 
-I. Implementar mecanismos para prevenir las faltas administrativas y los hechos de corrupción, así como evaluar anualmente estos mecanismos y sus resultados;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
+
+I. Implementar mecanismos para prevenir las faltas administrativas y los hechos de corrupción, en coordinación con las dependencias o instituciones que considere pertinentes, así como evaluar anualmente estos mecanismos y sus resultados;
 
 II. Investigar, substanciar y calificar las faltas administrativas;
 
@@ -844,3 +854,15 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27987/LXII/20 QUE REFORMA LA NOMENCLATURA DEL CAPÍTULO III DEL TÍTULO TERCERO Y LOS ARTÍCULOS 51, SE ADICIONA LA SECCIÓN SEGUNDA Y EL ARTÍCULO 53 BIS Y 53 TER A LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28106/LXII/20 QUE REFORMA LOS ARTÍCULOS 48, AL CUAL SE LE ADICIONA LA FRACCIÓN XXII, 50, PRIMER PÁRRAFO Y 52, FRACCIÓN I, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28110/LXII/20 QUE REFORMA EL ARTÍCULO 5 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
