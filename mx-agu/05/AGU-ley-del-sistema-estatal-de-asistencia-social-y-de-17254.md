@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2019-11-11"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -889,9 +889,11 @@ Corresponde al Organismo la defensa de los bienes destinados a la beneficencia, 
 
 ### CAPITULO II. De las Instituciones de Beneficencia Privada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 64.
 
-Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad pública, no lucrativa y el Estado las reconoce como auxiliares de la asistencia social con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin humanitario.
+Las instituciones de beneficencia privada son creadas por particulares, su finalidad se considera de utilidad pública, no lucrativa y el Estado las reconoce como entidades subsidiarias de la asistencia social con personalidad jurídica propia y capacidad para poseer un patrimonio propio destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación y con un fin social y humanitario.
 
 Las instituciones de beneficencia privada pueden ser Fundaciones o Asociaciones.
 
@@ -1684,3 +1686,11 @@ El Ejecutivo Estatal, en un plazo no mayor a un año calendario contado a partir
 ###### ARTÍCULO TERCERO.
 
 Para dar cumplimiento al Artículo Segundo Transitorio del presente Decreto, el Ejecutivo Estatal, en un plazo de 30 días a partir de su entrada en vigor, deberá llevar a cabo la conformación de un Órgano Colegiado Estratégico, cuyos miembros tendrán un encargo honorifico, no debiendo generar gasto operativo alguno, y que tenga por objeto realizar el estudio, análisis, definición y demás acciones necesarias para su implementación, mismo que deberá desaparecer una vez cumplidos sus fines, sin mayor necesidad de declaración administrativa o legislativa.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
