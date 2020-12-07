@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-promocion-a-la-lectura-el-libro-y-las-bibliotecas-92473"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-18"
-last_updated: "2018-10-15"
+last_updated: "2020-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
@@ -47,7 +47,9 @@ LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGU
 
 La presente Ley es de orden público e interés social y tiene por objeto la promoción de la lectura, el libro y las bibliotecas en el Estado de Aguascalientes, a través de las siguientes acciones:
 
-I. Contribuir a erradicar los distintos grados de analfabetismo y fomentar la lectura como medio de igualación social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+I. Contribuir a erradicar los distintos grados de analfabetismo, a través de políticas públicas relacionadas con programas y acciones que fomenten la lectura como medio de igualación social;
 
 II. Impulsar la producción, edición, publicación y difusión de libros y facilitar su acceso a la población;
 
@@ -65,9 +67,25 @@ VIII. Determinar la integración, facultades y ámbito de competencias de las in
 
 IX. Fomentar campañas de difusión y divulgación de los autores aguascalentenses al promover su trabajo intelectual y la vocación de escribir;
 
-X. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-XI. Proponer normatividades y reglamentos para la promoción de la lectura, el libro y a las bibliotecas públicas.
+X. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XI. Proponer normatividades y reglamentos para la promoción de la lectura, el libro y a las bibliotecas públicas;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XII. Fomentar la escritura creativa como medio de expresión personal, en especial entre niñas, niños, adolescentes y jóvenes;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XIII. Promover la lectura infantil y juvenil, fuera del ámbito escolar, con énfasis en contenidos que promuevan la inclusión; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV. Fomentar y apoyar el establecimiento y desarrollo de Ferias del Libro, incluyendo sus vertientes infantiles y juveniles, así como, exposiciones y eventos literarios, librerías, bibliotecas, círculos de lecturas, el acceso a las plataformas digitales de lectura y otros espacios públicos y privados para la lectura y difusión del libro.
 
 ###### ARTÍCULO 2o.
 
@@ -384,3 +402,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo Estatal materia del presente Decreto deberá instalarse a más tardar a los 180 días naturales, contados a partir de la publicación a que hace referencia el Artículo Primer (sic) Transitorio.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 427.- REFORMAS Y ADICIONES A LA LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
