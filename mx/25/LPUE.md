@@ -4,7 +4,7 @@ identifier: "LPUE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "2016-12-19"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LPUE"
 ---
 # LEY DE PUERTOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -52,17 +54,17 @@ Los puertos, terminales e instalaciones portuarias de carácter militar, destina
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Secretaría: La Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+I. Secretaría: La Secretaría de Marina;
 
-> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-I Bis. SEMAR: La Secretaría de Marina.
+I Bis. (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 II. Puerto: El lugar de la costa o ribera habilitado como tal por el Ejecutivo Federal para la recepción, abrigo y atención de embarcaciones, compuesto por el recinto portuario y, en su caso, por la zona de desarrollo, así como por accesos y áreas de uso común para la navegación interna y afectas a su funcionamiento; con servicios, terminales e instalaciones, públicos y particulares, para la transferencia de bienes y transbordo de personas entre los modos de transporte que enlaza.
 
-III. Recinto portuario: La zona federal delimitada y determinada por la Secretaría y por la de Desarrollo Social en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+III. Recinto portuario: La zona federal delimitada y determinada por la Secretaría y por la Secretaría de Bienestar en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.
 
 IV. Terminal: La unidad establecida en un puerto o fuera de él, formada por obras, instalaciones y superficies, incluida su zona de agua, que permite la realización integra de la operación portuaria a la que se destina.
 
@@ -82,9 +84,9 @@ IX. Administrador portuario: El titular de una concesión para la administració
 
 X. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria.
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-XI. Protección Marítima y Portuaria: Las medidas, mecanismos, acciones o instrumentos que permitan un nivel de riesgo aceptable en los puertos y en la administración, operación y servicios portuarios, así como en las actividades marítimas, en los términos que establezcan los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria.
+XI. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones, abordo de las mismas.
 
 ###### ARTICULO 3o.
 
@@ -114,13 +116,17 @@ Los puertos y terminales de uso público cuyas obras se construyan en virtud de 
 
 La Secretaría autorizará para navegación de altura a las terminales de uso particular y a las marinas que no formen parte de algún puerto, cuando cuenten con las instalaciones necesarias.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 7o.
 
-Las secretarías de Desarrollo Social y de Comunicaciones y Transportes, a propuesta de esta última, delimitarán y determinarán, mediante acuerdo conjunto, aquellos bienes del dominio público de la federación que constituirán los recintos portuarios de los puertos, terminales y marinas. Dicho acuerdo deberá publicarse en el Diario Oficial de la Federación, dentro de los treinta días siguientes a la propuesta de la Secretaría debidamente requisitada en los términos del reglamento aplicable.
+La Secretaría de Bienestar y la Secretaría, a propuesta de esta última, delimitarán y determinarán, mediante acuerdo conjunto, aquellos bienes del dominio público de la federación que constituirán los recintos portuarios de los puertos, terminales y marinas. Dicho acuerdo deberá publicarse en el Diario Oficial de la Federación, dentro de los treinta días siguientes a la propuesta de la Secretaría debidamente requisitada en los términos del reglamento aplicable.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 8o.
 
-La Secretaría, conjuntamente con la Secretaría de Desarrollo Social, se coordinará con los gobiernos de las entidades federativas y de los municipios, a efecto de delimitar la zona de desarrollo portuario y que la zonificación que establezcan las autoridades competentes al respecto sea acorde con la actividad portuaria.
+La Secretaría, conjuntamente con la Secretaría de Bienestar, se coordinará con los gobiernos de las entidades federativas y de los municipios, a efecto de delimitar la zona de desarrollo portuario y que la zonificación que establezcan las autoridades competentes al respecto sea acorde con la actividad portuaria.
 
 ###### ARTICULO 9o.
 
@@ -162,13 +168,11 @@ Los reglamentos de esta ley establecerán las condiciones de construcción, oper
 
 Los puertos mexicanos, en tiempo de paz, estarán abiertos a la navegación y tráfico de las embarcaciones de todos los países, pero podrá negarse la entrada cuando no exista reciprocidad con el país de la matrícula de la embarcación o cuando lo exija el interés público.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 13.
 
-La SEMAR, por caso fortuito o fuerza mayor, o bien cuando existan razones de seguridad nacional o interés público, podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
+La Secretaría, por caso fortuito o fuerza mayor, o bien cuando existan razones de seguridad nacional o interés público, podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
 
 ###### ARTICULO 14.
 
@@ -182,11 +186,9 @@ II. Las obras e instalaciones adquiridas o construidas por el gobierno federal c
 
 Son de utilidad pública la construcción y explotación de puertos y terminales de uso público. El Ejecutivo Federal podrá expropiar los terrenos y obras que se requieran para tales fines.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-### CAPITULO III. La SEMAR y la Secretaría
+### CAPITULO III. La Secretaría
 
 ###### ARTICULO 16.
 
@@ -254,33 +256,13 @@ La Armada de México, así como las corporaciones federales, estatales y municip
 
 Las capitanías de puerto, así como las autoridades aduanales, sanitarias, migratorias o cualquier otra que ejerza sus funciones dentro de los puertos, se coordinarán en los términos que establezca el reglamento que para tal efecto se expida.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+ARTICULO 19 BIS.- La Secretaría es la autoridad en materia de protección marítima y portuaria y fungirá como la autoridad designada para efectos del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, así como para otorgar certificados de competencia en materia de protección marítima y portuaria, vigilar su cumplimiento y revocarlos o suspenderlos, en su caso.
 
-ARTICULO 19 BIS.- El CUMAR es un grupo de coordinación interinstitucional entre la SEMAR y la Secretaría, para la aplicación de las medidas de Protección Marítima y Portuaria y la atención eficaz de incidentes marítimos y portuarios, que determinen dichas dependencias en el ámbito de sus competencias.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
-
-La organización y funcionamiento del CUMAR se regulará en el reglamento que al efecto se expida.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 19 TER.- EL CUMAR tendrá las funciones siguientes:
-
-I. Coadyuvar en el cumplimiento de los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria;
-
-II. Aplicar las disposiciones y medidas de reacción que se dispongan dentro del marco del capítulo XI-2 del Convenio Internacional para la Seguridad de la Vida Humana en el Mar, 1974 y el Código de Protección a Buques e Instalaciones Portuarias para que se cumplan los niveles de protección marítima y portuaria conforme a lo siguiente:
-
-a) Nivel de protección 1: Establecer en todo momento medidas mínimas de Protección Marítima y Portuaria;
-
-b) Nivel de protección 2: Establecer medidas adicionales de Protección Marítima y Portuaria a las establecidas en el inciso anterior por aumentar el riesgo de que ocurra un suceso que afecte la Protección Marítima y Portuaria, durante un determinado periodo, y
-
-c) Nivel de protección 3: Establecer medidas específicas adicionales de Protección Marítima y Portuaria a las establecidas en los incisos anteriores por un tiempo limitado, cuando sea probable o inminente un suceso que afecte la Protección Marítima y Portuaria, aún en el caso de que no pudiera localizarse el objetivo específico que dicho suceso afecte;
-
-III. Fungir como instancia coordinadora de las acciones que realicen las autoridades de los tres órdenes de gobierno en materia de Protección Marítima y Portuaria, y
-
-IV. Las demás que le confieran otras disposiciones jurídicas.
+ARTICULO 19 TER.- El Cumar tendrá las funciones y organización establecidas en el reglamento que al efecto se expida.
 
 ### CAPITULO IV. Concesiones y permisos
 
@@ -600,37 +582,25 @@ I. Los usos, destinos y modos de operación previstos para las diferentes zonas 
 
 II. Las medidas y previsiones necesarias para garantizar una eficiente explotación de los espacios portuarios, su desarrollo futuro, las instalaciones para recibir las embarcaciones en navegación de altura y cabotaje, los espacios necesarios para los bienes, y los servicios portuarios necesarios para la atención de las embarcaciones y la prestación de los servicios de cabotaje.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 El programa maestro de desarrollo portuario y las modificaciones substanciales a éste que se determinen en el Reglamento de esta Ley, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo de la infraestructura portuaria nacional, con una visión de veinte años, revisable cada cinco años.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de sesenta días hábiles. En dicho plazo la Secretaría deberá solicitar las opiniones de la SEMAR en lo que afecta a la seguridad nacional; de la Secretaría de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental y de la Secretaría de Desarrollo Agrario, Territorial y Urbano en cuanto a los aspectos de desarrollo urbano.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de sesenta días hábiles. En dicho plazo la Secretaría deberá solicitar las opiniones de la Secretaría de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental y de la Secretaría de Desarrollo Agrario, Territorial y Urbano en cuanto a los aspectos de desarrollo urbano.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 Estas opiniones deberán emitirse en un lapso no mayor de quince días hábiles a partir de que la Secretaría las solicite. Si transcurrido dicho plazo no se ha emitido la opinión respectiva, se entenderá como favorable.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 En el caso de modificaciones menores al programa maestro de desarrollo portuario, éstas sólo deberán registrarse ante la Secretaría.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría, con vista en el interés público, podrá modificar los usos, destinos y modos de operación previstos en el programa maestro de desarrollo portuario respecto de las diferentes zonas del puerto o grupo de ellos o terminales aún no utilizadas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -979,3 +949,29 @@ Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se 
 Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
 
 Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS".]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Cuarto. Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+
+La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
+
+Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+
+Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
