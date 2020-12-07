@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2019-12-23"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -241,9 +243,19 @@ II.- Un Vicepresidente, que será el Presidente de la Comisión de la Juventud d
 
 III.- Un Secretario Técnico, que será el Director de Vinculación y Enlace Municipal;
 
-IV.- 11 Vocales, que serán los Titulares de las Dependencias Municipales en materia de juventud de cada uno de los once municipios del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+IV.- 11 Vocales, que serán los Titulares de las Dependencias Municipales en materia de juventud de cada uno de los once municipios del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+V.- Dos jóvenes, uno de ellos mujer y otro hombre, con reconocida trayectoria en el ámbito académico o social, quienes serán elegidos por la Comisión Legislativa de la Juventud mediante convocatoria pública abierta.
 
 Los cargos del Consejo descritos anteriormente son honoríficos, por lo que no gozarán de ninguna remuneración, pudiendo cada uno de estos designar un suplente.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Los integrantes referidos en la fracción V del presente artículo durarán en su encargo dos años o hasta en tanto rebasen el rango de edad establecido en la presente ley para ser considerados como jóvenes, con posibilidad de reelegirse por una sola ocasión.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -490,3 +502,15 @@ P.O. 23 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 426.- SE ADICIONA LA FRACCIÓN V Y UN PÁRRAFO TERCERO AL ARTÍCULO 9° B Y (SIC) DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de la Juventud deberá emitir la convocatoria pública abierta a que se refiere la fracción V del artículo 9° B dentro de los noventa días naturales siguientes a la publicación del presente decreto.
