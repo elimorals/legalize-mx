@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-146-de-ingresos-y-presupuesto-de-ingresos-del-142553
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL AYUNTAMIENTO DEL MUNICIPIO DE SAN MIGUEL DE HORCASITAS, SONORA, PARA EL EJERCICIO FISCAL DE 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 27 de diciembre de 2019.
 
