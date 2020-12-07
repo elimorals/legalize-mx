@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-11-28"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -233,9 +235,9 @@ i) Retener a la mujer o al producto de la concepción en los centros de salud o 
 
 VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-VIII. Violencia Política de Género: Cualquier acción u omisión contra la mujer, que basada en su sexo, tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos políticos; o bien afectar la equidad en los procesos electorales locales donde participen;
+VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo, en los términos precisados en el Código Electoral para el Estado de Aguascalientes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -309,9 +311,9 @@ II. El diseño de un sistema de monitoreo del comportamiento violento de los ind
 
 III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-Artículo 16 bis.- La violencia política de género, es la definida como tal en el Código Electoral del Estado de Aguascalientes, ordenamiento que además establece las acciones y omisiones que la constituyen.
+Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, así como el Código Penal para el Estado de Aguascalientes y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
 
 ### CAPÍTULO III. De la Prevención, Atención y Sanción
 
@@ -1299,15 +1301,27 @@ V. Los demás asuntos que en materia de violencia de género contra las mujeres 
 
 Corresponde al Instituto Estatal Electoral, en el ámbito de su competencia:
 
-I. Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
+I.- Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
 
-II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+II.- Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
 
-III. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+III.- Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
 
-IV. Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-V. Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
+IV.- Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+V.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VI.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VII.- Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
 
 TRANSITORIOS:
 
@@ -1506,3 +1520,11 @@ P.O. 28 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 428.- REFORMAS Y ADICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
