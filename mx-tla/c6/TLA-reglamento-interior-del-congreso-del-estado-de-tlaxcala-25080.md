@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2019-05-27"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -147,6 +147,10 @@ Los diputados electos que no hubiesen asistido a la sesión a que se refiere el 
 
 Constituyen Pleno del Congreso los diputados reunidos, que formen quórum legal en el recinto oficial, para celebrar sesión del Congreso, en los términos previstos en la Ley Orgánica y este Reglamento.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Las diputadas y diputados, podrán formar quórum legal y reunirse en Pleno, en un lugar distinto al Recinto Oficial dentro del Estado declarado con tal carácter, para sesionar de forma presencial, o en su caso, de forma electrónica, vía internet a través de videoconferencia, las cuales deberán ser transmitidas en tiempo real a través de la página web del Congreso del Estado de Tlaxcala, se atenderá a lo dispuesto por el artículo 11 de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala.
+
 ###### Artículo 13.
 
 El Pleno constituye la máxima autoridad del Congreso, que puede revocar o modificar las resoluciones que haya dictado.
@@ -229,9 +233,11 @@ La Comisión Permanente comunicará por escrito a los poderes Ejecutivo y Judici
 
 Son atribuciones de la Comisión Permanente, las previstas en la Constitución y la Ley Orgánica.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-Para cumplir las atribuciones que le competen, la Comisión Permanente sesionará públicamente de manera ordinaria los días viernes de cada semana a las 10:00 horas y podrá convocar a sesiones extraordinarias o privadas, cuando así lo acuerden los miembros de la misma.
+Para cumplir las atribuciones que le competen, la Comisión Permanente sesionará públicamente de manera ordinaria los días viernes de cada semana a las 10:00 horas y podrá convocar a sesiones extraordinarias o privadas, presenciales o electrónicas, cuando así lo acuerden los miembros de la misma.
 
 ###### Artículo 23.
 
@@ -345,7 +351,9 @@ Para la elaboración de los anteproyectos y proyectos de dictamen según su natu
 
 El Secretario Técnico deberá contar con los conocimientos profesionales técnicos y la experiencia necesaria en la materia competencia de la Comisión de que se trate y realizará entre otras, las funciones siguientes:
 
-I. Convocar a nombre del presidente a los integrantes de la Comisión a sesiones y reuniones de trabajo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+I. Convocar a nombre del presidente a los integrantes de la Comisión a sesiones presenciales o electrónicas y reuniones de trabajo;
 
 II. Entregar los citatorios con la debida anticipación en los términos previstos en este Reglamento;
 
@@ -999,11 +1007,11 @@ VI. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne
 
 #### Sección Tercera. Procedimiento
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 63.
 
-Al recibir las comisiones los asuntos que les turnen, su presidente acusará el recibo correspondiente con copia para los demás integrantes de la comisión, citándolos a una sesión privada en la que se dará a conocer el contenido del asunto recibido, se designará por turno al diputado que actuará como ponente y se acordará el procedimiento a seguir para obtener la información necesaria que permita la elaboración del dictamen correspondiente. En caso de falta de ponente, se nombrará a quien lo sustituya.
+Al recibir las comisiones los asuntos que les turnen, su presidente acusará el recibo correspondiente con copia para los demás integrantes de la comisión, citándolos a una sesión privada, presencial o electrónica, en la que se dará a conocer el contenido del asunto recibido, se designará por turno al diputado que actuará como ponente y se acordará el procedimiento a seguir para obtener la información necesaria que permita la elaboración del dictamen correspondiente. En caso de falta de ponente, se nombrará a quien lo sustituya.
 
 Si el caso lo permite, podrán realizarse consultas y foros de participación social, así como comparecencias de los particulares y de los Servidores Públicos relacionados con el asunto.
 
@@ -1011,11 +1019,11 @@ Si el caso lo permite, podrán realizarse consultas y foros de participación so
 
 Las demás sesiones de las comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo unánime de los integrantes de la comisión.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 64.
 
-Las comisiones sesionarán mediante convocatoria de su presidente, dada a conocer con una anticipación de veinticuatro horas, durante los períodos ordinarios de sesiones, y de cuarenta y ocho horas durante los recesos, salvo casos de urgencia.
+Las comisiones sesionarán de forma presencial o electrónica, mediante convocatoria por escrito de su presidente, dada a conocer con una anticipación de veinticuatro horas, durante los períodos ordinarios de sesiones, y de cuarenta y ocho horas durante los recesos, salvo casos de urgencia. Cuando se trate de sesiones electrónicas, la convocatoria podrá ser remitida a través del correo institucional de los diputados integrantes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MAYO DE 2018)</small>
 
@@ -1219,6 +1227,14 @@ I. Ordinarias, las que se celebren en los días señalados en la Ley Orgánica, 
 
 II. Extraordinarias, las que se celebren fuera de los días y hora establecidos en la Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Cuando por caso fortuito, emergencia sanitaria, situación de emergencia o fuerza mayor, resulte imposible llevar a cabo la sesión ordinaria, extraordinaria o solemne, de forma presencial, en el Recinto Oficial, se podrán celebrar sesiones de forma electrónica, vía internet a través de videoconferencia, las cuales deberán ser transmitidas en tiempo real a través de la página web del Congreso del Estado de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Para la celebración de sesiones del Pleno o de la Comisión Permanente, de forma electrónica, las Diputadas y Diputados integrantes de la Mesa Directiva o de la Comisión Permanente, según sea el caso, deberán estar presentes en el Recinto Oficial o en otro lugar dentro del Estado que sea declarado con tal carácter, con el propósito de conducir la sesión correspondiente.
+
 ###### Artículo 93.
 
 Las sesiones serán por regla general públicas e invariablemente en forma privada cuando se traten de:
@@ -1241,6 +1257,10 @@ En las sesiones que se celebren de manera privada, el acta respectiva, será le�
 
 Durante las sesiones públicas que se realicen en el recinto oficial, estarán abiertas las puertas del salón de sesiones a fin de dar acceso al público. En las sesiones privadas sólo permanecerán los diputados y el secretario parlamentario quien se encargará de tomar los apuntes necesarios para levantar el acta.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Solamente serán transmitidas en tiempo real a través de la página web del Congreso del Estado de Tlaxcala las sesiones que tengan el carácter de públicas de conformidad con la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala y el presente Reglamento.
+
 ###### Artículo 95.
 
 El Pleno celebrará sesión permanente cuando funcione como colegio electoral, en caso de juicio político, desafuero, suspensión o revocación del mandato de munícipes, así como aquellos asuntos en los que el Pleno determine.
@@ -1259,9 +1279,11 @@ En estas sesiones no se tratará ningún otro asunto diferente al que las hubier
 
 En la (sic) sesiones solemnes se observará el ceremonial correspondiente para cada caso según lo dispuesto en este Reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-Las sesiones ordinarias o extraordinarias se desarrollarán bajo el orden del día que se señale en la convocatoria emitida por el presidente de la Mesa Directiva.
+Las sesiones ordinarias, extraordinarias o solemnes que se lleven a cabo bajo la modalidad presencial o electrónica se desarrollarán bajo el orden del día o la convocatoria emitida por la o el presidente de la Mesa Directiva o de la Comisión Permanente.
 
 ###### Artículo 99.
 
@@ -1579,9 +1601,11 @@ El presidente de la Mesa Directiva es el único facultado para interrumpir al or
 
 En los casos de discusión de dictámenes de mayoría o de minoría, votos particulares, proyectos de Leyes o Acuerdos, los diputados harán uso de la palabra hasta por cinco minutos y para el caso de hacerlo más tiempo, el cual no podrá exceder de diez minutos, el presidente de la Mesa Directiva decidirá sobre la ampliación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 140.
 
-Los oradores en la tribuna del recinto oficial, observarán las reglas siguientes:
+Los oradores en sesión presencial o electrónica, observarán las reglas siguientes:
 
 I. Se dirigirán al Pleno sin otro tratamiento que el impersonal;
 
@@ -1653,6 +1677,10 @@ V. Toda moción interpuesta estará debidamente fundada y motivada.
 
 Las votaciones serán: electrónicas, económicas, por cédula y nominales.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+En las sesiones electrónicas, el voto será económico, es decir, la diputada o diputado secretario de la Mesa Directiva pasará lista, y la diputada o el diputado nombrado, expresará el sentido de su voto.
+
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
 
 ###### Artículo 146 Bis.
@@ -1707,11 +1735,11 @@ Los empates en las votaciones que no sean para elegir personas, se decidirán co
 
 Para la elección de candidatos a ocupar un cargo o comisión, será necesaria la mayoría de votos que señale la Ley respectiva. En caso de que no se obtuviere la mayoría necesaria, salvo disposición expresa en contrario, se repetirá la discusión en la misma sesión, votándose nuevamente y si en esta segunda votación tampoco se obtuviere el número de votos requerido, se tendrá por no aceptada la propuesta, requiriéndose, en consecuencia, nueva proposición.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 158.
 
-Ningún diputado podrá retirarse del salón cuando se esté votando, ni excusarse de votar, con la sola excepción de lo preceptuado en el Artículo siguiente. Si alguno se negare a dar su voto, el presidente lo exhortará para que lo haga, estando obligado aquél a exponer los motivos que tenga para abstenerse y si a juicio del Pleno fueren de tomarse en consideración, quedará exceptuado de votar; pero en caso contrario deberá hacerlo y si se negare, la Presidencia ordenará que su voto se compute entre los de la mayoría sin perjuicio de aplicarle la pena señalada para los que desintegren el quórum.
-
-En caso de que algún diputado se ausentare de la sesión se asentara en el acta respectiva para los efectos legales correspondientes.
+Ningún diputado podrá retirarse del salón o de la sesión electrónica, según corresponda, cuando se esté votando, ni excusarse de votar, con la sola excepción de lo preceptuado en el artículo siguiente. Si alguno se negare a dar su voto, el presidente lo exhortará para que lo haga, estando obligado aquél a exponer los motivos que tenga para abstenerse y si a juicio del Pleno fueren de tomarse en consideración, quedará exceptuado de votar; pero en caso contrario deberá hacerlo y si se negare, la Presidencia ordenará que su voto se compute entre los de la mayoría sin perjuicio de aplicarle la pena señalada para los que desintegren el quórum.
 
 ###### Artículo 159.
 
@@ -2082,3 +2110,11 @@ El presente Decreto entrará en vigor al momento de su aprobación, debiéndose 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 268.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TLAXCALA Y DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+PRIMERO. Con fundamento en el artículo 53 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, el presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado de Tlaxcala.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
