@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2020-10-12"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -853,9 +853,13 @@ A.- Por nacimiento de un hijo o hija;
 
 B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente;
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus hijos, de su cónyuge, concubina o concubinario y de sus ascendientes, padre o madre; y
+C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus hijos, de su cónyuge, concubina o concubinario y de sus ascendientes, padre o madre.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+En el caso de trabajadores cuyo hijo padezca de cáncer, en cualquiera de sus tipos, la licencia señalada en este artículo se extenderá al tiempo señalado en el Articulo 57 Ter de esta Ley; y
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
 
@@ -884,6 +888,28 @@ I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres
 II.- Negar la admisión al empleo y/o impedir su permanencia, así como impedir y/u obstaculizar su posible ascenso en términos del presente Estatuto, por razón de sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, estar embarazada, estar al cuidado de hijos menores y/o cualquier otra que atente contra la dignidad humana; y
 
 III.- Obligar a las trabajadoras por coacción o por cualquier otro medio, a renunciar a su trabajo, cuando contraigan matrimonio, se embaracen o tengan al cuidado hijos menores.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 57 TER.- Para los casos de madres o padres trabajadores, o quien ostente la guarda o custodia temporal o definitiva, cuyos hijos de hasta dieciséis años hayan sido diagnosticados por el Instituto de Servicios de Salud del Estado de Aguascalientes con cáncer de cualquier tipo, podrán gozar de una licencia para ausentarse de sus labores por cuidados médicos de los hijos en caso de que la niña, niño o adolescente diagnosticado requiera de descanso médico u hospitalización en los periodos críticos del tratamiento, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+El Instituto de Servicios de Salud del Estado de Aguascalientes podrá expedir a alguno de los padres trabajadores, o a quien ostente la guarda o custodia temporal o definitiva que se situé en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones respectivos tengan conocimiento de tal licencia.
+
+La licencia expedida al padre o madre trabajador, o a quien ostente la guarda o custodia temporal o definitiva tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+Los padres o madres trabajadores, o quien ostente la guarda o custodia temporal o definitiva ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, deberán tener al menos registradas cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por el patrón.
+
+La licencia a que se refiere el presente artículo únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor. En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores del menor diagnosticado.
+
+Las licencias otorgadas a padres o madres trabajadores, o a quien ostente la guarda o custodia temporal o definitiva previstas en el presente artículo, cesarán:
+
+I.- Cuando el menor no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II.- Por ocurrir el fallecimiento del menor;
+
+III.- Cuando el menor cumpla dieciséis años;
+
+IV.- Cuando el ascendiente que goza de la licencia sea contratado por un nuevo patrón.
 
 ### CAPITULO SEGUNDO. Obligaciones de los Trabajadores
 
@@ -946,6 +972,14 @@ V.- A regresar al puesto que desempeñaban, siempre y cuando no haya transcurrid
 VI.- A que se computen en su antigüedad los períodos de descanso para efectos del nacimiento.
 
 Las trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de doce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la trabajadora por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 58 TER.- La mujer trabajadora gozará de un día de licencia con goce de sueldo al año, para realizarse los exámenes médicos necesarios para la prevención y/o detección del cáncer, para lo cual deberá dar aviso con una semana de anticipación sobre la cita al médico.
+
+Una vez que se hayan realizado los exámenes médicos correspondientes, deberá presentar el comprobante clínico que lo acredite.
+
+Derivado de la cita mencionada en el párrafo primero, se podrá aumentar un día más de licencia al año, en caso de que el médico lo considere necesario, para lo cual deberá exhibir la carta médica con la justificación correspondiente y el comprobante médico que lo acredite.
 
 ## TITULO QUINTO. DEL ESCALAFON
 
@@ -2180,3 +2214,15 @@ P.O. 12 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 429.- REFORMAS Y ADICIONES AL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia a los ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades de los tres poderes del Estado, los Órganos Constitucionalmente Autónomos y los Ayuntamientos que cuenten con normatividad propia sobre condiciones generales de trabajo, tendrán un plazo de ciento veinte días naturales siguientes a la publicación del presente decreto para reformar sus reglamentos internos a fin de adecuarlos a la presente reforma y regular el procedimiento operativo de estas licencias.
