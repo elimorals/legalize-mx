@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-instituciones-asistenciales-para-ninas-ninos-y-117091"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2020-10-12"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -137,9 +137,17 @@ VI. Promover la capacitación continua y preponderantemente gratuita a los respo
 
 VII. Apoyar a las Instituciones Asistenciales, cuando éstas así lo soliciten y en el ámbito de sus atribuciones facilitar que las mismas garanticen el adecuado acceso de las niñas, niños y adolescentes a la educación, cultura, deporte y salud;
 
-VIII. Promover acciones tendientes a incentivar el buen funcionamiento de las Instituciones Asistenciales; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-IX. Las demás necesarias para el cumplimiento de su objeto.
+VIII. Promover acciones tendientes a incentivar el buen funcionamiento de las Instituciones Asistenciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+IX. Proponer a la Procuraduría y a los titulares de las Instituciones Asistenciales privadas, la celebración de convenios con las universidades públicas o privadas, con instituciones de salud, así como con organizaciones de la sociedad civil, a fin de que les brinden apoyo en salud, psicología, trabajo social, derecho, pedagogía, fisioterapia y otras disciplinas para el cuidado y desarrollo integral de las niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+X. Las demás necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 9º.
 
@@ -151,9 +159,9 @@ II. Un Secretario Ejecutivo, que será un representante de la Secretaría Genera
 
 III. Un Secretario Técnico, que será el Titular de la Procuraduría, quien se encargará de dar seguimiento a los acuerdos tomados al interior del Comité, contando con derecho a voz, pero no a voto en las sesiones; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-IV. Nueve Vocales, que serán:
+IV. Diez Vocales, que serán:
 
 a) Un representante de la Secretaría de Salud;
 
@@ -175,9 +183,9 @@ f) Un representante de la Fiscalía General del Estado;
 
 g) Un representante de la Comisión de Derechos Humanos del Estado;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-h) Un representante de Casas Asistenciales privadas o de Beneficencia Privada que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos; y
+h) Dos representantes de Casas Asistenciales privadas o de Beneficencia Privada de niñas, niños y adolescentes, que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos; y
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -193,7 +201,9 @@ Existirá quórum y sus acuerdos válidos con la asistencia de la mitad más uno
 
 Las convocatorias deberán ser realizadas por escrito o correo electrónico con cuando menos tres días de anticipación para el caso de las sesiones ordinarias y de veinticuatro horas cuando se trate de sesiones extraordinarias. En ambos casos las convocatorias deberán establecer la fecha, hora, lugar y el orden del día al que se sujetará la sesión a la que se convoca y podrán ser acompañadas de la información documental que se requiera para el desahogo de los asuntos a tratar.
 
-Los nombramientos de los vocales a que refiere el inciso h), fracción IV de esta disposición, tendrán una vigencia de dos años, e imperará un principio rotativo.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Los nombramientos de los vocales a que refiere el inciso h) de la fracción IV de esta disposición, tendrán una vigencia de tres años, e imperará un principio rotativo.
 
 ###### Artículo 10.
 
@@ -662,3 +672,11 @@ P.O. 12 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
