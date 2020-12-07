@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2016-12-19"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LNCM"
 ---
 # LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -58,11 +60,11 @@ Quedan exceptuadas de las disposiciones de esta Ley las embarcaciones y artefact
 
 Para efectos de esta Ley se entenderá por:
 
-I. Secretaría: La Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+I. Secretaría: La Secretaría de Marina;
 
-I Bis. SEMAR: La Secretaría de Marina;
+I Bis. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 II. Navegación: La actividad que realiza una embarcación, para trasladarse por vías navegables de un punto a otro, con dirección y fines determinados.
 
@@ -76,9 +78,9 @@ VI. Marina Mercante: El conjunto formado por las personas físicas o morales, em
 
 VII. Contaminación Marina: La introducción por el hombre, directa o indirectamente de substancias o de energía en el medio marino que produzcan o puedan producir efectos nocivos a la vida y recursos marinos, a la salud humana, o la utilización legítima de las vías generales de comunicación por agua en cualquier tipo de actividad, de conformidad con los Tratados Internacionales.
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-VII Bis. Protección Marítima y Portuaria: Las medidas, mecanismos, acciones o instrumentos que permitan un nivel de riesgo aceptable en los puertos y en la administración, operación y servicios portuarios, así como en las actividades marítimas, en los términos que establezcan los tratados o convenios internacionales en los que México sea parte en materia de Protección Marítima y Portuaria;
+VII Bis. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones a bordo de las mismas;
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -150,25 +152,31 @@ IX. La Ley Federal del Trabajo; y
 
 X. Los usos y las costumbres marítimas internacionales.
 
-### CAPÍTULO II. AUTORIDAD MARÍTIMA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+### CAPÍTULO II. AUTORIDAD MARÍTIMA NACIONAL
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-La Autoridad Marítima Nacional la ejerce el Ejecutivo Federal a través de la SEMAR, para el ejercicio de la soberanía, protección y seguridad marítima, así como el mantenimiento del estado de derecho en las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+La Autoridad Marítima Nacional la ejerce el Ejecutivo Federal a través de la Secretaría, para el ejercicio de la soberanía, protección y seguridad marítima y portuaria, así como el mantenimiento del estado de derecho en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 En materia de marina mercante serán autoridades conforme a lo previsto en esta Ley:
 
-I. La Secretaría y la SEMAR, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+I. La Secretaría, por sí o por conducto de las capitanías de puerto;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 II. Los capitanes de las embarcaciones mercantes mexicanas, y
 
-III. El cónsul mexicano en el extranjero, acreditado en el puerto o lugar en el que se halle la embarcación que requiera la intervención de la autoridad, para los casos y efectos que esta Ley determine.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+III. El cónsul mexicano en el extranjero, acreditado en el puerto o lugar en el que se halle la embarcación que requiera la intervención de la autoridad, para los casos y efectos que esta Ley determine.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -178,23 +186,33 @@ Son atribuciones de la Secretaría, sin perjuicio de las que correspondan a otra
 
 I. Planear, formular y conducir las políticas y programas para el desarrollo del transporte por agua; de la Marina Mercante, y de los puertos nacionales, con apego a las disposiciones establecidas en esta Ley y demás disposiciones jurídicas aplicables;
 
-II. Representar al país en las negociaciones de los Tratados Internacionales en materia marítima respecto de las atribuciones que conforme a esta Ley le corresponden; ser la ejecutora de los mismos, y ser su intérprete en la esfera administrativa;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+II. Representar al país en las negociaciones de los Tratados Internacionales en materia marítima en el ámbito de su competencia; ser la ejecutora de los mismos, y ser su intérprete en la esfera administrativa;
 
 III. Llevar el Registro Público Marítimo Nacional;
 
 IV. Integrar la información estadística del transporte marítimo mercante;
 
-V. Otorgar permisos y autorizaciones de navegación para prestar servicios en vías generales de comunicación por agua, así como verificar su cumplimiento y revocarlos o suspenderlos en su caso, tratándose de embarcaciones mayores;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-VI. Organizar, regular y, en su caso, prestar servicios de control de la navegación en los recintos portuarios y zonas de fondeo;
+V. Otorgar permisos y autorizaciones de navegación para prestar servicios en vías generales de comunicación por agua, en los términos de esta Ley, así como verificar su cumplimiento y revocarlos o suspenderlos en su caso;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+VI. Organizar, regular y, en su caso, prestar servicios de control de tráfico marítimo;
 
 VII. Regular y vigilar que el servicio de pilotaje se preste en forma segura y eficiente, de acuerdo con esta Ley y su Reglamento;
 
 VIII. Organizar, promover y regular la formación y capacitación del personal de la Marina Mercante, así como otorgar certificados de competencia en los términos de esta Ley y su Reglamento; vigilar su cumplimiento y revocarlos o suspenderlos en su caso;
 
-IX. Participar con la SEMAR en la seguridad de la navegación y salvaguarda de la vida humana en el mar;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-X. Establecer en coordinación con la SEMAR, las medidas de Protección Portuaria que aplicará el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
+IX. Regular y vigilar la seguridad en la navegación y la salvaguarda de la vida humana en el mar;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+X. Establecer las Medidas de Protección Marítima y Portuaria, conforme a lo dispuesto en la Ley de Puertos;
 
 XI. Establecer las bases de regulación de tarifas en la prestación de los servicios marítimos en el territorio nacional, incluidos los de navegación costera y de aguas interiores, cuando en opinión de la Comisión Federal de Competencia Económica no existan condiciones de competencia efectiva;
 
@@ -202,109 +220,153 @@ XII. Solicitar la intervención de la Secretaría de Economía, cuando presuma l
 
 XIII. Solicitar la intervención de la Comisión Federal de Competencia Económica, cuando presuma la existencia de prácticas violatorias a la Ley Federal de Competencia Económica, así como coadyuvar en la investigación correspondiente;
 
-XIV. Imponer sanciones por infracciones a esta Ley, a sus reglamentos, y a los Tratados Internacionales vigentes en las materias que le correspondan conforme a este ordenamiento, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-XV. Las demás que señalen otras disposiciones jurídicas aplicables.
+XIV. Imponer sanciones por infracciones a esta Ley, a sus reglamentos, y a los Tratados Internacionales vigentes en las materias que le correspondan conforme a este ordenamiento;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+XV. Abanderar y matricular las embarcaciones y los artefactos navales como mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XVI. Certificar las singladuras, expedir las libretas de mar e identidad marítima del personal embarcado de la Marina Mercante mexicana;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XVII. Vigilar que las vías generales de comunicación por agua y la navegación, cumplan con las condiciones de seguridad y señalamiento marítimo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Vigilar la seguridad de la navegación y la salvaguarda de la vida humana en el mar;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIX. Organizar, regular y, en su caso, prestar servicios de ayuda a la navegación y radiocomunicación marítima;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XX. Inspeccionar y certificar en las embarcaciones y artefactos navales mexicanos, así como en instalaciones de servicios y de recepción de desechos, el cumplimiento de los Tratados Internacionales, la legislación nacional, los reglamentos y las normas oficiales mexicanas en materia de seguridad en la navegación y la vida humana en el mar, así como de prevención de la contaminación marina por embarcaciones;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXI. Inspeccionar a las embarcaciones y artefactos navales extranjeros, de conformidad con los tratados internacionales que resulten aplicables en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXII. Otorgar autorización de inspectores a terceros, para que realicen la verificación y certificación del cumplimiento de las normas que establezcan los Tratados Internacionales y la legislación nacional aplicable, manteniendo la supervisión sobre dichas personas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Establecer y organizar un servicio de vigilancia, seguridad y auxilio para la navegación en zonas marinas mexicanas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Realizar las investigaciones y actuaciones, así como designar peritos facultados profesionalmente en la materia en los términos del reglamento respectivo y emitir dictámenes de los accidentes e incidentes marítimos en cualquier vía navegable;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXV. Coadyuvar en el ámbito de su competencia con la autoridad laboral, para el cumplimiento de la resolución de los conflictos marítimos de naturaleza laboral;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Nombrar y remover a los capitanes de puerto;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Dirigir, organizar y llevar a cabo la búsqueda y rescate para la salvaguarda de la vida humana en el mar en las zonas marinas mexicanas, así como coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones y en los recintos portuarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXVIII. Integrar la información estadística de los accidentes en las zonas marinas mexicanas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXIX. Administrar los registros nacionales de la gente de mar y de embarcaciones, conforme a lo dispuesto en el reglamento respectivo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XXX. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 8 Bis.
 
-Son atribuciones de la SEMAR, sin perjuicio de las que correspondan a otras dependencias de la Administración Pública Federal:
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-I. Abanderar y matricular las embarcaciones y los artefactos navales mexicanos;
-
-II. Certificar las singladuras, expedir las libretas de mar e identidad marítima del personal embarcado de la Marina Mercante mexicana;
-
-III. Vigilar que las vías generales de comunicación por agua y la navegación, cumplan con las condiciones de seguridad y señalamiento marítimo;
-
-IV. Vigilar la seguridad de la navegación y la salvaguarda de la vida humana en el mar;
-
-V. Organizar, regular y, en su caso, prestar servicios de ayudas a la navegación y radiocomunicación marítima;
-
-VI. Inspeccionar y certificar en las embarcaciones mexicanas, el cumplimiento de los Tratados Internacionales, la legislación nacional, los reglamentos y las normas oficiales mexicanas en materia de seguridad en la navegación y la vida humana en el mar, así como de prevención de la contaminación marina por embarcaciones;
-
-VII. Inspeccionar a las embarcaciones extranjeras, de conformidad con los Tratados Internacionales;
-
-VIII. Otorgar autorización de inspectores a personas físicas, para que realicen la verificación y certificación del cumplimiento de lo que establezcan los Tratados Internacionales, y la legislación nacional aplicable, manteniendo la supervisión sobre dichas personas;
-
-IX. Establecer y organizar un servicio de vigilancia, seguridad y auxilio para la navegación en zonas marinas mexicanas;
-
-X. Realizar las investigaciones y actuaciones, así como designar peritos facultados profesionalmente en la materia en los términos del reglamento respectivo y emitir dictámenes de los accidentes e incidentes marítimos, fluviales y lacustres;
-
-XI. Coadyuvar en el ámbito de su competencia con la autoridad laboral, para el cumplimiento de la resolución de los conflictos marítimos de naturaleza laboral;
-
-XII. Imponer sanciones por infracciones a esta Ley, a sus reglamentos, y a los Tratados Internacionales vigentes en las materias que le correspondan en términos del presente artículo;
-
-XIII. Nombrar y remover a los capitanes de puerto;
-
-XIV. Establecer en coordinación con la Secretaría, la Protección Marítima que aplicará el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
-
-XV. Dirigir, organizar y llevar a cabo la búsqueda y rescate para la salvaguarda de la vida humana en el mar en las zonas marinas mexicanas, así como coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones y en los recintos portuarios;
-
-XVI. Integrar la información estadística de los accidentes en las zonas marinas mexicanas;
-
-XVII. Administrar los registros nacionales de la gente de mar y de embarcaciones, conforme a lo dispuesto en el reglamento respectivo;
-
-XVIII. Representar al país en las negociaciones de los Tratados Internacionales en materia marítima respecto de las atribuciones que conforme a esta Ley le corresponden; ser la ejecutora de los mismos, y ser su intérprete en la esfera administrativa, y
-
-XIX. Las demás que señalen otras disposiciones jurídicas aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-Cada puerto habilitado tendrá una capitanía de puerto, que dependerá de la SEMAR, con una jurisdicción territorial y marítima delimitada, y tendrá las atribuciones siguientes:
+Cada puerto o espacio adyacente a las aguas nacionales donde se realicen actividades sujetas a la competencia de la Autoridad Marítima Nacional, podrá tener una capitanía de puerto, que dependerá de la Secretaría, con una jurisdicción territorial y marítima delimitada y tendrán las atribuciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 I. Autorizar arribos y despachos de las embarcaciones y artefactos navales;
 
-II. Abanderar y matricular las embarcaciones y los artefactos navales mexicanos;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-III. Otorgar permisos para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico dentro de las aguas de su jurisdicción, con embarcaciones menores, de acuerdo al reglamento respectivo;
+II. Abanderar y matricular las embarcaciones y los artefactos navales mexicanos, así como realizar la inscripción de actos en el Registro Público Marítimo Nacional;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+III. Otorgar permisos para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico, dentro de las aguas de su jurisdicción, de acuerdo al reglamento respectivo;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 IV. Regular y vigilar que las vías navegables reúnan las condiciones de seguridad, profundidad y señalamiento marítimo, control de tráfico marítimo y de ayudas a la navegación;
 
-V. Requerir los certificados e inspeccionar a cualquier embarcación, de conformidad con lo establecido en las fracciones VI y VII del artículo 8 Bis de esta Ley;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+V. Requerir los certificados e inspeccionar a cualquier embarcación, de conformidad con lo establecido en las fracciones XX y XXI del artículo 8 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 VI. Certificar las singladuras, expedir las libretas de mar e identidad marítima del personal embarcado de la Marina Mercante mexicana;
 
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 VII. Ordenar las medidas que le sean requeridas por el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
 
-VIII. Recibir y tramitar ante las autoridades correspondientes las reclamaciones laborales de los tripulantes y los trabajadores de las embarcaciones, en el término establecido en la fracción II del artículo 35 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-IX. Actuar como auxiliar del Ministerio Público, así como imponer las sanciones en los términos de esta Ley.
+VIII. Recibir y tramitar ante las autoridades correspondientes las reclamaciones laborales de los tripulantes y los trabajadores de las embarcaciones, en el término establecido en la fracción II del artículo 34 de esta Ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+IX. Actuar como auxiliar del Ministerio Público, así como imponer las sanciones en los términos de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+X. Vigilar que la navegación, las maniobras y los servicios establecidos en esta Ley se realicen en condiciones de seguridad, economía y eficiencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XI. Ordenar las maniobras que se requieran de las embarcaciones cuando se afecte la seguridad marítima y portuaria;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII. Imponer las sanciones en los términos de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIII. Coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones en las aguas de su jurisdicción;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV. Dirigir el cuerpo de vigilancia, seguridad y auxilio para la navegación interior, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XV. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 9 Bis.
 
-La Secretaría, ejercerá sus funciones en los puertos por conducto de las oficinas de servicios a la Marina Mercante, las que tendrán a su cargo:
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-I. Vigilar que las maniobras y los servicios portuarios a las embarcaciones se realicen en condiciones de seguridad, economía y eficiencia;
-
-II. Ordenar las maniobras que se requieran de las embarcaciones cuando se afecte la eficiencia del puerto;
-
-III. Turnar a la Secretaría las quejas que presenten los navieros en relación con la asignación de posiciones de atraque y fondeo, para que ésta resuelva lo conducente;
-
-IV. Ordenar las medidas que le sean requeridas por el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
-
-V. Imponer las sanciones en los términos de esta Ley, y
-
-VI. Las demás que le confieran otras disposiciones jurídicas aplicables.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 9 Ter.
 
-Las policías federales, estatales y municipales, auxiliarán a las capitanías de puerto y a las oficinas de servicios a la Marina Mercante, cuando así lo requieran, dentro de sus respectivos ámbitos de competencia.
+Las instituciones de seguridad pública, federales, estatales y municipales, auxiliarán a las capitanías de puerto cuando así lo requieran, dentro de sus respectivos ámbitos de competencia.
 
 ## TÍTULO SEGUNDO. DE LA MARINA MERCANTE
 
@@ -313,8 +375,6 @@ Las policías federales, estatales y municipales, auxiliarán a las capitanías 
 ###### Artículo 10.
 
 Son embarcaciones y artefactos navales mexicanos, los abanderados y matriculados en alguna capitanía de puerto, a solicitud de su propietario o naviero, previa verificación de las condiciones de seguridad del mismo y presentación de la dimisión de bandera del país de origen, de acuerdo con el reglamento respectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -354,21 +414,17 @@ I. Cuando sean de su propiedad; y
 
 II. Cuando se encuentren bajo su posesión mediante contrato de arrendamiento financiero celebrado con una institución de crédito mexicana, o bien con una extranjera autorizada para actuar como tal conforme a las leyes nacionales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Autorizado el abanderamiento, la SEMAR hará del conocimiento de la autoridad fiscal competente, el negocio jurídico que tenga como consecuencia la propiedad o posesión de la embarcación.
+Autorizado el abanderamiento, la Secretaría hará del conocimiento de la autoridad fiscal competente, el negocio jurídico que tenga como consecuencia la propiedad o posesión de la embarcación.
 
 En el abanderamiento y matriculación, las embarcaciones y los artefactos navales deberán cumplir con los Tratados Internacionales y con los requisitos establecidos en el reglamento respectivo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-La SEMAR, a solicitud del propietario o naviero, abanderará embarcaciones como mexicanas, previo cumplimiento de las normas de inspección y certificación correspondientes. La SEMAR deberá además expedir un pasavante de navegación mientras se tramita la matrícula mexicana, de conformidad con los requisitos que establezca el reglamento respectivo.
+La Secretaría, a solicitud del propietario o naviero, abanderará embarcaciones como mexicanas, previo cumplimiento de las normas de inspección y certificación correspondientes. La Secretaría deberá además expedir un pasavante de navegación mientras se tramita la matrícula mexicana, de conformidad con los requisitos que establezca el reglamento respectivo.
 
 En el extranjero, la autoridad consular mexicana, a solicitud del propietario o naviero, abanderará provisionalmente embarcaciones como mexicanas y, mediante la expedición de un pasavante autorizará la navegación para un solo viaje con destino a puerto mexicano, donde tramitará la matrícula.
 
@@ -388,13 +444,11 @@ V.- Las que sean propiedad del Estado mexicano.
 
 Las embarcaciones comprendidas en las fracciones II a V de este artículo, serán matriculadas de oficio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El certificado de matrícula de una embarcación mexicana tendrá vigencia indefinida y será cancelado por la SEMAR en los casos siguientes:
+El certificado de matrícula de una embarcación mexicana tendrá vigencia indefinida y será cancelado por la Secretaría en los casos siguientes:
 
 I.- Por no reunir las condiciones de seguridad para la navegación y prevención de la contaminación del medio marino;
 
@@ -408,15 +462,21 @@ V.- Por su venta, adquisición o cesión en favor de gobiernos o personas extran
 
 VI.- Por captura hecha por el enemigo, si la embarcación fue declarada buena presa;
 
-VII.- Por resolución judicial; y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Por dimisión de bandera, hecha por el propietario o titular del certificado de matrícula.
+VII.- Por resolución judicial;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+VIII.- Por dimisión de bandera, hecha por el propietario o titular del certificado de matrícula, y
 
-La SEMAR, a petición del propietario o naviero, sólo autorizará la dimisión de bandera y la cancelación de matrícula y registro de una embarcación, cuando esté cubierto o garantizado el pago de los créditos laborales y fiscales y exista constancia de libertad de gravámenes expedida por el Registro Público Marítimo Nacional, salvo pacto en contrario entre las partes.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+IX.- Por no acreditar su legal estancia en territorio nacional, tratándose de embarcaciones o artefactos navales bajo el régimen de importación temporal, conforme a lo establecido en la legislación de la materia.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría a petición del propietario o naviero, sólo autorizará la dimisión de bandera y la cancelación de matrícula y registro de una embarcación, cuando esté cubierto o garantizado el pago de los créditos laborales y fiscales y exista constancia de libertad de gravámenes expedida por el Registro Público Marítimo Nacional, salvo pacto en contrario entre las partes, con excepción de la causal contenida en la fracción VII del presente artículo.
 
 ### CAPÍTULO II. REGISTRO PÚBLICO MARÍTIMO NACIONAL
 
@@ -480,11 +540,9 @@ El requisito señalado en la fracción IV, no será exigible a quienes manifiest
 
 Se presume que el propietario o los copropietarios de la embarcación son sus armadores o navieros, salvo prueba en contrario.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-El naviero que asuma la operación o explotación de una embarcación que no sea de su propiedad, deberá hacer declaración de armador ante la Oficina de Servicios a la Marina Mercante, del puerto de su matrícula, de conformidad con las disposiciones reglamentarias al respecto.
+El naviero que asuma la operación o explotación de una embarcación que no sea de su propiedad, deberá hacer declaración de armador ante la capitanía de puerto, del puerto de su matrícula, de conformidad con las disposiciones reglamentarias al respecto.
 
 Dicha declaración se anotará al margen de su inscripción en el Registro Público Marítimo Nacional y cuando cese esa calidad, deberá solicitarse la cancelación de la anotación. Esta declaración la podrá hacer también el propietario de la embarcación.
 
@@ -505,8 +563,6 @@ III.- Agente naviero protector, quien será contratado por el naviero o por el f
 El agente naviero protector, antes de ser admitido, deberá garantizar que el interesado pasará por lo que él haga y pagará lo juzgado y sentenciado. La garantía será calificada por la autoridad bajo su responsabilidad y se otorgará por el agente naviero protector, comprometiéndose con el dueño del negocio a pagar los daños, perjuicios y gastos que se le irroguen a éste por su culpa o negligencia.
 
 Todo agente naviero estará legitimado para recibir notificaciones, aún de emplazamiento, en representación del naviero u operador para cuyo caso el Juez otorgará un término de sesenta días hábiles para contestar la demanda.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -542,11 +598,9 @@ VII.- En general, realizar todos los actos o gestiones concernientes para su nav
 
 Para operar en puertos mexicanos todo naviero extranjero requerirá designar un agente naviero consignatario de buques en el puerto que opere.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Los navieros mexicanos no están obligados a designar agentes navieros consignatarios de buques en los puertos mexicanos para atender a sus propias embarcaciones, siempre y cuando cuenten con oficinas en dicho puerto, con un representante y se haya dado aviso a la capitanía de puerto y a la Oficina de Servicios a la Marina Mercante correspondientes.
+Los navieros mexicanos no están obligados a designar agentes navieros consignatarios de buques en los puertos mexicanos para atender a sus propias embarcaciones, siempre y cuando cuenten con oficinas en dicho puerto, con un representante y se haya dado aviso a la capitanía de puerto correspondiente.
 
 ### CAPÍTULO V. TRIPULACIÓN
 
@@ -594,13 +648,11 @@ El primer oficial, en ausencia del capitán será responsable de la operación y
 
 Toda embarcación mayor deberá tener un oficial de guardia que actuará en representación del capitán y será responsable ante éste para mantener la seguridad de la embarcación, el orden y la disciplina a bordo, y cumplir las ordenes recibidas; quedando facultado para requerir cooperación de todo el personal de la embarcación o artefacto naval, cuando este en puerto, para que no se suspendan las operaciones y maniobras necesarias.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Los patrones de las embarcaciones, o quien dirija la operación en los artefactos navales, ejercerán el mando vigilando que se mantengan el orden y la disciplina a bordo, pero no estarán investidos de la representación de las autoridades mexicanas. Cuando tengan conocimiento de la comisión de actos que supongan el incumplimiento de las disposiciones jurídicas aplicables, darán aviso oportuno a las autoridades correspondientes y estarán obligados a poner en conocimiento de la SEMAR cualquier circunstancia que no esté de acuerdo con lo establecido en los certificados de la embarcación o artefacto naval.
+Los patrones de las embarcaciones, o quien dirija la operación en los artefactos navales, ejercerán el mando vigilando que se mantengan el orden y la disciplina a bordo, pero no estarán investidos de la representación de las autoridades mexicanas. Cuando tengan conocimiento de la comisión de actos que supongan el incumplimiento de las disposiciones jurídicas aplicables, darán aviso oportuno a las autoridades correspondientes y estarán obligados a poner en conocimiento de la Secretaría cualquier circunstancia que no esté de acuerdo con lo establecido en los certificados de la embarcación o artefacto naval.
 
 ### CAPÍTULO VI. EDUCACIÓN MARÍTIMA MERCANTE
 
@@ -609,8 +661,6 @@ Los patrones de las embarcaciones, o quien dirija la operación en los artefacto
 La Educación Náutica, es de interés público, por lo que la Secretaría organizará e impartirá directamente la formación y capacitación del personal de la Marina Mercante, con planes y programas de estudios registrados ante la Secretaría de Educación Pública, deberá contar con un buque escuela con la tecnología didáctica necesaria y actualizada para el cumplimiento de sus objetivos.
 
 Las instituciones educativas de estudios superiores que autorice la Secretaría y la de Educación Pública, podrán ofrecer estudios de posgrado a los oficiales de la Marina Mercante Nacional, de conformidad con lo establecido en la Ley General de Educación, para lo cual deberán contar con los bienes muebles, equipos y sistemas adecuados para la enseñanza práctica y con planes y programas de estudios que ambas Secretarías determinen.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -622,81 +672,67 @@ Los planes y programas de estudio para la formación y capacitación de los dive
 
 La Secretaría, coadyuvará con la autoridad en materia de pesca, al desarrollo de planes y programas de capacitación acordes con la actividad del sector; en la integración de estos, deberán valorar las opiniones de las asociaciones sectoriales, los centros de investigación pesquera y, demás entidades vinculadas, todo ello con apego a las disposiciones aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 Los documentos que establece el Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar y los demás Tratados Internacionales, serán expedidos por la Secretaría de conformidad con el reglamento respectivo.
 
 A quienes obtengan los títulos de Piloto Naval y de Maquinista Naval, en los términos del reglamento correspondiente, la Secretaría les expedirá conjuntamente los títulos de Ingeniero Geógrafo e Hidrógrafo, y de Ingeniero Mecánico Naval, respectivamente.
 
-### CAPÍTULO VII. DE LA COORDINACIÓN ADMINISTRATIVA EN MATERIA DE DESATENCIÓN DE TRIPULACIONES EXTRANJERAS EN EMBARCACIONES EXTRANJERAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+### CAPÍTULO VII. DE LA COORDINACIÓN ADMINISTRATIVA EN MATERIA DE DESATENCIÓN DE TRIPULACIONES
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 33.
 
-Este Capítulo será aplicable en caso de que una embarcación con bandera extranjera se encuentre en vías navegables mexicanas y cualquier autoridad presuma que la tripulación ha sido abandonada o corra el peligro de perder la vida o se ponga en riesgo su integridad corporal.
+Corresponde a la Secretaría del Trabajo y Previsión Social por sí, o en colaboración con la Secretaría, supervisar por medio de inspecciones, el cumplimiento de las disposiciones nacionales e internacionales respecto a las condiciones mínimas de trabajo de los tripulantes mexicanos a bordo de embarcaciones y artefactos navales mexicanos o, tratándose de embarcaciones y artefactos navales extranjeros, cuando se encuentren en puertos mexicanos o en el mar territorial y aguas interiores.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-El procedimiento de coordinación de competencias entre autoridades administrativas regulado en este capítulo, no restringirá de forma alguna las facultades de cada una de dichas autoridades. Todas ellas estarán obligadas a facilitar de modo expedito la solución efectiva de las contingencias referidas en el artículo anterior.
+En el supuesto de que en el desarrollo de las inspecciones a que se refiere el artículo anterior se desprenda que la tripulación ha sido abandonada o corra el peligro de perder la vida o se ponga en riesgo su integridad física, se llevará a cabo el siguiente procedimiento:
+
+I. En caso de que la tripulación corra el peligro de perder la vida o se ponga en riesgo su integridad física al permanecer en la embarcación, se les desembarcará inmediatamente para que se les brinde atención médica. En caso de que algún tripulante se niegue a desembarcar, se asentará en el acta circunstanciada correspondiente;
+
+II. Los capitanes y patrones de embarcaciones y artefactos navales o, en su ausencia, el oficial que le siga en mando, o bien la persona que acredite la representación legal de los tripulantes, estarán legitimados para solicitar que se levante un acta de protesta ante la capitanía de puerto, dentro de las veinticuatro horas siguientes a su arribo o, en su caso, al momento en que se hubiere producido el suceso denunciado;
+
+III. En un plazo de tres días hábiles siguientes a la presentación de la protesta, la capitanía de puerto que haya conocido de la misma deberá notificar sobre el conflicto existente al cónsul del pabellón de la embarcación y a aquéllos de la nacionalidad de los tripulantes, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Salud, al Instituto Nacional de Migración, a la Comisión Nacional de los Derechos Humanos y a la Administración Portuaria, para que actúen en el ámbito de su competencia y sus funciones;
+
+IV. En el mismo plazo establecido en la fracción anterior, la capitanía de puerto deberá citar al agente naviero consignatario de la embarcación o artefacto naval y, en su caso, al propietario de la misma para que en un plazo de diez días hábiles desahogue una audiencia en las oficinas de la capitanía de puerto. En la audiencia, se plantearán a dicha autoridad los mecanismos para resolver la situación, los cuales deberán incluir, como mínimo, la sustitución y repatriación de los tripulantes, así como la gestión segura de la embarcación o artefacto naval. Una vez escuchados los planteamientos del agente naviero consignatario de la embarcación o artefacto naval o del propietario de la misma, la capitanía de puerto establecerá un plazo que no podrá exceder de quince días hábiles para el cumplimiento de las obligaciones adquiridas. La capitanía de puerto levantará un acta de dicha audiencia, misma que será firmada por los que en ella intervengan;
+
+V. Durante el plazo de ejecución de las obligaciones adquiridas de acuerdo con la fracción anterior, la capitanía de puerto estará facultada para solicitar las reuniones de verificación que considere necesarias;
+
+VI. En caso de incumplimiento de las obligaciones adquiridas de conformidad con la fracción IV de este artículo, la Secretaría será la autoridad competente para coordinar las acciones tendientes a dar solución a la contingencia;
+
+VII. Una vez que la tripulación extranjera haya sido desembarcada y esté comprobado que se encuentra en buen estado de salud, el Instituto Nacional de Migración tramitará la repatriación a costa del naviero o del propietario de la embarcación de modo solidario. Entre tanto, el agente naviero consignatario y, en su caso, el propietario de la misma embarcación de modo solidario, sufragarán la manutención integral de los tripulantes a ser repatriados. La Secretaría verificará el cumplimiento de esta obligación, y
+
+VIII. En caso de que los tripulantes decidan implementar acciones legales por falta de pago de salarios, la capitanía de puerto turnará las actuaciones a la Secretaría del Trabajo y Previsión Social, para la resolución de los conflictos marítimos de naturaleza laboral.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-Cuando surja una situación regulada según se dispone en este capítulo, las autoridades y partes del mismo deberán desahogar el siguiente procedimiento:
-
-I. Dentro de las veinticuatro horas siguientes al arribo de la embarcación, o en su caso, al momento en que se hubiere producido el suceso denunciado, el capitán de toda embarcación o, en su ausencia, el oficial que le siga en mando, o bien la persona que acredite la representación legal de los tripulantes, estarán legitimados para solicitar se levante un acta de protesta ante la capitanía de puerto, de conformidad con lo establecido en el capítulo precedente;
-
-II. En un plazo de tres días hábiles luego de la presentación de la protesta, la capitanía de puerto que haya conocido de la misma deberá notificar sobre el conflicto existente al cónsul del pabellón de la embarcación y a aquellos de la nacionalidad de los tripulantes, a la Secretaría del Trabajo y Previsión Social, a la Secretaría de Salud, al Instituto Nacional de Migración, a la Comisión Nacional de los Derechos Humanos, y a la Administración Portuaria, para que actúen en el ámbito de su competencia y sus funciones;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-III. En el mismo plazo establecido en la fracción anterior, la capitanía de puerto deberá citar al agente naviero consignatario de la embarcación y, en su caso, al propietario de la misma para que en un plazo de diez días hábiles desahoguen una audiencia en las oficinas de la capitanía de puerto, en donde plantearán a dicha autoridad los mecanismos para resolver la situación, los cuales deberán incluir como mínimo la sustitución y repatriación de los tripulantes, así como la gestión segura de la embarcación. Tomando en consideración los planteamientos expuestos, la capitanía de puerto establecerá un plazo que no podrá exceder de quince días hábiles para el cumplimiento de las obligaciones adquiridas. La capitanía de puerto levantará un acta de dicha audiencia y los que en ella intervengan deberán firmarla;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-IV. Durante el plazo de ejecución de las obligaciones adquiridas de acuerdo con la fracción anterior, la capitanía de puerto estará facultada para solicitar las reuniones de verificación que considere necesarias;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-V. En caso de incumplimiento de las obligaciones adquiridas de conformidad con la fracción III de este artículo, la SEMAR será la competente para coordinar las acciones tendientes a dar solución a la contingencia, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-VI. Una vez que la tripulación haya sido desembarcada y esté comprobado su buen estado de salud, el Instituto Nacional de Migración tramitará la repatriación a costa del naviero o del propietario de la embarcación de modo solidario. Entre tanto, el agente naviero consignatario y, en su caso, el propietario de la misma embarcación de modo solidario, sufragarán la manutención integral de los tripulantes a ser repatriados. La SEMAR verificará el cumplimiento de esta obligación.
+Cualquier autoridad que tenga conocimiento del abandono de tripulantes nacionales o extranjeros en embarcaciones o artefactos navales, tanto nacionales como extranjeros, que se encuentren en vías navegables mexicanas, deberá informarlo a la Secretaría para que se lleve a cabo el procedimiento establecido en el artículo anterior.
 
 ## TÍTULO TERCERO. DE LA NAVEGACIÓN
 
 ### CAPÍTULO I. RÉGIMEN DE NAVEGACIÓN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-La navegación en zonas marinas mexicanas y el arribo a puertos mexicanos estarán abiertos, en tiempos de paz a las embarcaciones de todos los Estados, conforme al principio de reciprocidad internacional. Cuando existan razones de seguridad nacional o interés público, la SEMAR podrá negar la navegación en zonas marinas mexicanas y el arribo a puertos mexicanos.
+La navegación en zonas marinas mexicanas y el arribo a puertos mexicanos estarán abiertos, en tiempos de paz a las embarcaciones de todos los Estados, conforme al principio de reciprocidad internacional. Cuando existan razones de seguridad nacional o interés público, la Secretaría podrá negar la navegación en zonas marinas mexicanas y el arribo a puertos mexicanos.
 
-Asimismo, cualquier embarcación que navegue en zonas marinas mexicanas deberá observar la obligatoriedad de obedecer los señalamientos para detenerse o proporcionar la información que le sea solicitada por alguna unidad de la Armada de México. Lo anterior, con el fin de garantizar el cumplimiento de las normas aplicables por sí misma o en coadyuvancia con las autoridades competentes en el combate al terrorismo, contrabando, piratería en el mar, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos, en los términos de la legislación de la materia. En caso de desobediencia, se impondrán las sanciones establecidas por esta Ley y por las demás disposiciones aplicables.
+Asimismo, cualquier embarcación que navegue en zonas marinas mexicanas deberá observar la obligatoriedad de obedecer los señalamientos para detenerse o proporcionar la información que le sea solicitada por alguna unidad de la Armada de México. Lo anterior, con el fin de garantizar el cumplimiento de las normas aplicables, por sí misma o en colaboración con las autoridades competentes, en el combate al terrorismo, contrabando, piratería en el mar, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos, entre otros, en los términos de la legislación de la materia. En caso de desobediencia, se impondrán las sanciones establecidas por esta Ley y por las demás disposiciones aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-La SEMAR, por caso fortuito o fuerza mayor, o bien cuando existan razones de seguridad nacional o interés público, podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
+Cuando exista caso fortuito o fuerza mayor, o bien, cuando existan razones de seguridad nacional o interés público, la Secretaría podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
 
 ###### Artículo 38.
 
@@ -708,11 +744,9 @@ II. De cabotaje.- Por mar entre puertos o puntos situados en zonas marinas mexic
 
 III. De altura.- Por mar entre puertos o puntos localizados en territorio mexicano o en las zonas marinas mexicanas y puertos o puntos situados en el extranjero, así como entre puertos o puntos extranjeros.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-La SEMAR, en coordinación con las demás dependencias de la Administración Pública Federal en sus respectivos ámbitos de competencia, deberá vigilar que la realización de las actividades económicas, deportivas, recreativas y científicas a desarrollarse mediante los distintos tipos de navegación, cumplan con las disposiciones internacionales, legales y reglamentarias aplicables.
+La Secretaría, en coordinación con las demás dependencias de la Administración Pública Federal en sus respectivos ámbitos de competencia, deberá vigilar que la realización de las actividades económicas, deportivas, recreativas y científicas a desarrollarse mediante los distintos tipos de navegación, cumplan con las disposiciones internacionales, legales y reglamentarias aplicables.
 
 ###### Artículo 39.
 
@@ -720,19 +754,13 @@ La libertad en la utilización de embarcaciones en navegación de altura, cabota
 
 A. La utilización de embarcaciones en navegación de altura de conformidad con lo dispuesto en el artículo precedente, misma que incluye el transporte y el remolque internacional estará abierta para los navieros y las embarcaciones de todos los Estados, cuando haya reciprocidad en los términos de los Tratados Internacionales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría, previa opinión de la Comisión Federal de Competencia Económica, que declare la ausencia de condiciones de competencia efectiva en un mercado relevante en términos de la Ley Federal de Competencia Económica estará facultada para reservar, total o parcialmente determinado transporte internacional de carga de altura o cabotaje, para que sólo esté permitido realizarse a propietarios o navieros mexicanos con embarcaciones mexicanas cuando no se cumplan con las disposiciones sobre competencia y libre concurrencia de conformidad con la legislación de la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La reserva total o parcial señalada en el párrafo anterior se mantendrá únicamente mientras subsista la falta de condiciones de concurrencia y competencia efectiva. Para ello, deberá mediar la opinión de la Comisión Federal de Competencia Económica sobre la subsistencia de tales condiciones, procedimiento que dará inicio a solicitud de la Secretaría, de parte interesada o de oficio.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -746,7 +774,9 @@ Sin perjuicio de lo previsto en los Tratados Internacionales, la operación y ex
 
 Salvo lo previsto en el artículo 42 de esta Ley, la operación y explotación de embarcaciones mexicanas por navieros mexicanos no requerirá permiso de navegación de la Secretaría.
 
-La operación y explotación de embarcaciones en navegación interior y de cabotaje, destinadas a servicios turísticos, deportivos y recreativos, así como la operación y explotación de aquellas destinadas a la construcción y mantenimiento portuario, y el dragado podría realizarse por navieros mexicanos o extranjeros con embarcaciones mexicanas o extranjeras, siempre y cuando exista reciprocidad con el país de que se trate, procurando dar prioridad a las empresas nacionales y cumpliendo con las disposiciones legales aplicables.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+La operación y explotación de embarcaciones en navegación interior y de cabotaje, destinadas a servicios turísticos, deportivos y recreativos, así como la operación y explotación de aquellas destinadas a la construcción y mantenimiento portuario, y el dragado podría realizarse por navieros mexicanos o extranjeros con embarcaciones mexicanas o extranjeras, previa autorización de la Secretaría, y siempre y cuando exista reciprocidad con el país de que se trate, procurando dar prioridad a las empresas nacionales y cumpliendo con las disposiciones legales aplicables.
 
 Salvo lo previsto en el artículo siguiente, en los supuestos señalados en el párrafo anterior, no se requerirá permiso de navegación de la Secretaría.
 
@@ -770,8 +800,6 @@ Salvo el caso del contrato de arrendamiento o fletamento a casco desnudo, mismo 
 
 Habiendo agotado el procedimiento de licitación con la prelación dispuesta en las fracciones I y II, del artículo anterior, se podrá otorgar el permiso para un nuevo procedimiento que incluya a navieras extranjeras con embarcaciones extranjeras.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
@@ -784,13 +812,17 @@ a) Transporte de pasajeros y cruceros turísticos;
 
 b) Remolque, maniobra y lanchaje en puerto, excepto cuando tengan celebrado contrato con la administración portuaria, conforme lo establezca la Ley de Puertos;
 
-c) Dragado, en los casos de embarcaciones extranjeras, y
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+c) Dragado, y
 
 d) Las embarcaciones extranjeras para prestar el servicio de cabotaje, siempre y cuando no exista una nacional que lo haga en igualdad de condiciones;
 
 II. Requerirán permiso de la capitanía de puerto para prestar los servicios de:
 
-a) Turismo náutico, con embarcaciones menores de recreo y deportivas mexicanas o extranjeras, y
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+a) Transporte de pasajeros y turismo náutico, con embarcaciones de recreo y deportivas mexicanas o extranjeras, y
 
 b) Seguridad, salvamento y auxilio a la navegación, y
 
@@ -800,7 +832,7 @@ a) Transporte de carga y remolque;
 
 b) Pesca, excepto en los casos de embarcaciones extranjeras, de conformidad con lo previsto en la ley que rige la materia y sus disposiciones reglamentarias, así como los Tratados Internacionales;
 
-c) Dragado, en los casos de embarcaciones mexicanas, y
+c) (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 d) Utilización de embarcaciones especializadas en obra civil, construcción de infraestructura naval y portuaria, así como las dedicadas al auxilio en las tareas de prospección, extracción y explotación de hidrocarburos, condicionado al cumplimiento de lo establecido por la legislación en materia ambiental y de contratación administrativa.
 
@@ -812,8 +844,6 @@ El requisito de obtención de un permiso para la prestación de servicios, de co
 
 El otorgamiento de permisos a que se refiere esta Ley, se ajustará a las disposiciones en materia de competencia económica, así como a las demás especificaciones técnicas y normas oficiales mexicanas aplicables.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 En la terminación, revocación y demás actos administrativos relacionados con los permisos regulados por esta Ley, se aplicará lo dispuesto en la Ley de Puertos.
@@ -822,23 +852,15 @@ En la terminación, revocación y demás actos administrativos relacionados con 
 
 Los permisos materia de esta Ley, se otorgarán a todas aquellas personas que cumplan con los requisitos aplicables según lo señalado en el artículo precedente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La resolución correspondiente en materia de permisos, deberá emitirse en un plazo que no exceda de diez días hábiles, contado a partir del día en que se hubiere presentado la solicitud debidamente requisitada.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+Cuando a criterio justificado de la Secretaría, las características de lo solicitado lo ameriten, o bien cuando la información se considere insatisfactoria, ésta requerirá al solicitante información complementaria. De no acreditarse la misma en un plazo de cinco días hábiles, la solicitud se tendrá por no formulada.
 
-Cuando a criterio justificado de la Secretaría o la SEMAR, las características de lo solicitado lo ameriten, o bien cuando la información se considere insatisfactoria, éstas requerirán al solicitante de información complementaria. De no acreditarse la misma en un plazo de cinco días hábiles, la solicitud se tendrá por no formulada.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Transcurridos cinco días hábiles luego de la presentación de la información adicional, la Secretaría o la SEMAR estarán obligadas, según corresponda, a emitir una resolución. De no hacerlo en el plazo señalado, se entenderá por otorgado el permiso correspondiente y el permisionario estará legitimado para pedir a la autoridad correspondiente una constancia que así lo acredite, la cual estará obligada a ponerla a disposición del permisionario en un plazo de cinco días hábiles contado desde el día de presentación de dicha petición de constancia.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 El incumplimiento de lo dispuesto en este artículo, dará lugar a la aplicación de las sanciones y responsabilidades que establece la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
@@ -856,13 +878,9 @@ II. Imprevista: la que ocurra en lugares distintos al previsto en el despacho de
 
 III. Forzosa: la que se efectúe por mandato de ley, caso fortuito o fuerza mayor en lugares distintos al previsto en el despacho de salida.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 Se deberán justificar ante la capitanía de puerto las arribadas forzosas e imprevistas de las embarcaciones.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -882,27 +900,19 @@ Se entiende por recalada la aproximación de las embarcaciones a las costas o ri
 
 Con respeto a las disposiciones internacionales señaladas en el artículo 46 de esta Ley, para hacerse a la mar, toda embarcación requerirá de un despacho de salida del puerto, de conformidad con las siguientes normas:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 I. Será expedido por la capitanía de puerto, previo requerimiento de la documentación que establezca el reglamento respectivo, sin que los requisitos en él señalados sean superiores a los que dispongan los Tratados Internacionales. Dicho reglamento establecerá un régimen simplificado para las embarcaciones menores;
 
 II. Se expedirán antes de la hora de zarpe, una vez que haya finalizado la carga y las operaciones complementarias realizadas en puerto; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 III. Quedarán sin efecto si no se hiciese uso de ellos, dentro de las cuarenta y ocho horas siguientes a su expedición, salvo autorización justificada que expresamente emita la capitanía de puerto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 No se considerará despacho de salida, la autorización otorgada por la capitanía de puerto cuando por razones de fuerza mayor, las embarcaciones deban salir del puerto por razón de seguridad.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -920,15 +930,11 @@ IV. Por la existencia justificada de un riesgo inminente en materia de seguridad
 
 V. Por falta del número, calificación o certificación de los tripulantes según el certificado de dotación mínima;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 VI. Por tener conocimiento de algún accidente, incidente o situación de riesgo de importancia para la seguridad de los tripulantes, sucedida a la embarcación y de conformidad con las disposiciones de esta Ley en materia de investigación de accidentes marítimos, a menos que se haya acreditado fehacientemente la compostura correspondiente a la embarcación, de acuerdo con el criterio de la capitanía de puerto, cuando la reparación no sea de importancia y mediante la certificación de la casa clasificadora cuando la reparación sea mayor, y
 
 VII. En el caso de las embarcaciones extranjeras, por lo dispuesto en el artículo 264 de esta Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -940,11 +946,9 @@ La capitanía de puerto por sí o a requerimiento del CUMAR podrá negar o dejar
 
 Las embarcaciones de recreo y deportivas de uso particular extranjeras registrarán su arribo únicamente ante la capitanía del primer puerto que toquen en territorio mexicano. Estas embarcaciones, mexicanas o extranjeras, sólo requerirán despacho cuando pretendan realizar navegación de altura, sin embargo, deberán registrar cada entrada y salida en alguna marina autorizada. Toda marina turística, deportiva o de recreo deberá llevar una bitácora de arribo y despacho de las embarcaciones que pertenezcan a la misma, así como de las que arriben de visita.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-La SEMAR estará facultada para habilitar a un delegado honorario de la capitanía de puerto, como responsable de controlar el arribo y despacho de las embarcaciones turísticas o de recreo. El delegado honorario estará facultado para negar el despacho de salida a las embarcaciones de las citadas categorías que, por causas de seguridad en la navegación y de la vida humana en el mar de conformidad con las disposiciones internacionales, legales y reglamentarias, se consideren faltas de aptitud para hacerse a la mar.
+La Secretaría estará facultada para habilitar a un delegado honorario de la capitanía de puerto, como responsable de controlar el arribo y despacho de las embarcaciones turísticas o de recreo. El delegado honorario estará facultado para negar el despacho de salida a las embarcaciones de las citadas categorías que, por causas de seguridad en la navegación y de la vida humana en el mar de conformidad con las disposiciones internacionales, legales y reglamentarias, se consideren faltas de aptitud para hacerse a la mar.
 
 En todo caso, el despacho de embarcaciones para navegación de altura, deberá ser expedido por la capitanía de puerto respectiva.
 
@@ -952,15 +956,11 @@ En todo caso, el despacho de embarcaciones para navegación de altura, deberá s
 
 Se entiende por despacho vía la pesca, la autorización a una embarcación para que se haga a la mar con el objeto de realizar actividades pesqueras.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La capitanía de puerto estará obligada a expedir un despacho por cada embarcación pesquera. El plazo de vigencia del despacho será el mismo que se establezca para la vigencia de las concesiones o permisos que emita la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la actividad pesquera que se haya solicitado en dicho despacho.
 
 La capitanía de puerto deberá suspender el despacho vía la pesca cuando:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -970,13 +970,9 @@ II. Exista orden de un órgano jurisdiccional o administrativo competente.
 
 La cancelación de la autorización, permiso o concesión de pesca, extinguirá la vigencia del despacho vía la pesca respectivo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 El naviero estará obligado a dar aviso de entrada y salida, cada vez que entre o salga al puerto. Para ello, deberá presentar por escrito a la capitanía de puerto la documentación que establezca el reglamento respectivo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -989,8 +985,6 @@ Los movimientos de entrada y salida de las embarcaciones en los puertos, así co
 ###### Artículo 53.
 
 El capitán de puerto estará obligado a que no se prolongue la permanencia de embarcaciones en el puerto sin causa justificada, cuando esto ponga en riesgo la vida o la integridad corporal de los tripulantes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1010,9 +1004,9 @@ Las embarcaciones cargadas con substancias explosivas o inflamables, ejecutarán
 
 El servicio de pilotaje o practicaje es de interés público. La Secretaría determinará la asignación de pilotos de puerto, con base en el reglamento correspondiente, las reglas de pilotaje, las reglas de operación de cada puerto y de acuerdo con las necesidades del tráfico.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-El servicio de practicaje o de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto o zona de pilotaje y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten.
+El servicio de practicaje o de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto o zona de pilotaje y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten y cuando a juicio de la Secretaría se ponga en riesgo la seguridad en la navegación y la salvaguarda de la vida humana en la mar.
 
 El pago por la prestación del servicio de pilotaje será el que se indique en la tarifa respectiva autorizada por la Secretaría.
 
@@ -1023,8 +1017,6 @@ La Secretaría determinará, con base en criterios de seguridad, economía y efi
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2014)</small>
 
 En el ámbito de sus atribuciones y responsabilidad, corresponderá sólo a los pilotos de puerto tomar decisiones técnicas tendientes a la seguridad de la navegación y la vida humana en el mar, así como la protección del ambiente marino.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1052,8 +1044,6 @@ III. Contar con el certificado de competencia y la autorización para prestar el
 
 IV. Realizar prácticas obligatorias en el puerto y zona de pilotaje donde se aspire a prestar el servicio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría estará facultada para implementar programas de certificación continua de pilotos de puerto, quienes estarán obligados a cumplirlos durante el tiempo que se mantengan activos, sujetos únicamente a mantener aprobada su capacidad física y técnica como pilotos de puerto, sin restricción de edad.
@@ -1066,13 +1056,9 @@ Además de las estipulaciones de carácter contractual existentes entre los pilo
 
 I. La presencia de un piloto de puerto a bordo de una embarcación, no exime al capitán de su responsabilidad. Para efectos de esta Ley, éste conserva la autoridad de mando, sin perjuicio de los derechos de repetición del capitán o el naviero frente al piloto;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 II. El capitán tendrá la obligación de atender las indicaciones del piloto de puerto si a su criterio no expone la seguridad de la embarcación o de las instalaciones portuarias. En caso contrario, deberá relevar de su cometido al piloto de puerto, quien quedará autorizado para dejar el puente de mando de la embarcación, debiendo dar ambos cuenta de lo sucedido a la capitanía de puerto para los efectos que proceda. Deberá sustituirse el piloto de puerto, si las condiciones de la maniobra lo permiten;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1088,8 +1074,6 @@ Además de las estipulaciones de carácter contractual existentes entre los pres
 
 I. El servicio portuario de remolque maniobra es aquél que se presta para auxiliar a una embarcación en las maniobras de fondeo, entrada, salida, atraque, desatraque y enmienda, dentro de los límites del puerto, para garantizar la seguridad de la navegación interior del puerto y sus instalaciones;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 II. Con base en las reglas de operación de cada puerto, y en los criterios de seguridad, economía y eficiencia, la Secretaría determinará las embarcaciones que requerirán del uso obligatorio de este servicio, así como el número y tipo de remolcadores a utilizar;
@@ -1104,17 +1088,13 @@ VI. Para la prestación de este servicio se estará a lo dispuesto en la Ley de 
 
 ### CAPÍTULO V. SEÑALAMIENTO MARÍTIMO, Y AYUDAS A LA NAVEGACIÓN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 60.
 
-La SEMAR estará obligada a disponer de los recursos humanos y materiales necesarios para garantizar el funcionamiento y conocimiento público adecuados sobre el señalamiento marítimo y las ayudas a la navegación en las vías navegables.
+La Secretaría estará obligada a disponer de los recursos humanos y materiales necesarios para garantizar el funcionamiento y conocimiento público adecuados sobre el señalamiento marítimo y las ayudas a la navegación en las vías navegables.
 
-La SEMAR realizará las labores de señalamiento marítimo y ayudas a la navegación con el propósito de prevenir o solucionar problemas de seguridad en la misma.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+La Secretaría realizará las labores de señalamiento marítimo y ayudas a la navegación con el propósito de prevenir o solucionar problemas de seguridad en la misma.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1122,19 +1102,23 @@ La SEMAR realizará las labores de señalamiento marítimo y ayudas a la navegac
 
 La Secretaría determinará los puertos o vías navegables donde deban establecerse los servicios de control de la navegación de conformidad con el reglamento respectivo.
 
-La SEMAR estará facultada para realizar directamente las labores de dragado de mantenimiento en los puertos donde tenga instalaciones y facilidades, o lo considere de interés para la seguridad nacional; así como para solucionar problemas de contaminación marina.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría realizará directamente las labores de dragado de mantenimiento en los puertos donde lo considere de interés para la seguridad nacional o para solucionar problemas de contaminación marina; así como las obras marítimas y de dragado que requiera el país y, en su caso, las autorizará cuando sobrepasen sus capacidades técnicas y operativas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+En caso de ser necesario, la Secretaría autorizará las obras marítimas y las operaciones de dragado en los puertos, debiendo observar las normas aplicables en materia ambiental, el Reglamento de esta Ley, así como las reglas de operación de cada puerto.
 
 ###### Artículo 62.
 
 Con apego al reglamento respectivo y a las reglas de operación de cada puerto, la Secretaría determinará las áreas marítimas para los fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes en los puertos, y en las instalaciones y áreas de exploración y explotación de recursos naturales en las zonas marinas mexicanas, con el fin de preservar la seguridad en la navegación, recalada y salida de las embarcaciones que operen en las mismas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 63.
 
-Los concesionarios de las administraciones portuarias integrales, terminales, marinas, instalaciones portuarias y vías navegables serán responsables de: construir, instalar, operar y conservar en las áreas concesionadas las señales marítimas y llevar a cabo las ayudas a la navegación, con apego a lo que establezca el reglamento respectivo, las reglas de operación de cada puerto y el título de concesión. No obstante lo anterior, la SEMAR mantendrá su responsabilidad de conformidad con este Capítulo, sin perjuicio de la responsabilidad de los concesionarios.
+Los concesionarios de las administraciones portuarias integrales, terminales, marinas, instalaciones portuarias y vías navegables serán responsables de: construir, instalar, operar y conservar en las áreas concesionadas las señales marítimas y llevar a cabo las ayudas a la navegación, con apego a lo que establezca el reglamento respectivo, las reglas de operación de cada puerto y el título de concesión. No obstante, lo anterior, la Secretaría mantendrá su responsabilidad de conformidad con este Capítulo, sin perjuicio de la responsabilidad de los concesionarios.
 
 ###### Artículo 64.
 
@@ -1142,49 +1126,37 @@ Los capitanes de las embarcaciones y quienes dirijan las operaciones en los arte
 
 ### CAPÍTULO VI. DE LAS INSPECCIONES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 65.
 
-El servicio de inspección es de interés público. La SEMAR inspeccionará y certificará que las embarcaciones y artefactos navales mexicanos cumplan con la legislación nacional y con los Tratados Internacionales en materia de seguridad en la navegación y de la vida humana en el mar, así como de prevención de la contaminación marina por embarcaciones.
+El servicio de inspección es de interés público. La Secretaría inspeccionará y certificará que las embarcaciones y artefactos navales mexicanos, así como las instalaciones de servicios y receptoras de desechos, cumplan con la legislación nacional y con los Tratados Internacionales en materia de seguridad en la navegación y de la vida humana en el mar, así como de prevención de la contaminación marina por embarcaciones.
 
 ###### Artículo 66.
 
 El servicio de inspecciones, se ejercerá de conformidad con las siguientes disposiciones y las que en el reglamento respectivo se detallen:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+I. El servicio de inspección de embarcaciones podrá ser efectuado por terceros autorizados como inspectores por la Secretaría;
 
-I. El servicio de inspección de embarcaciones podrá ser efectuado por personas físicas autorizadas como inspectores por la SEMAR;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-II. La SEMAR mantendrá la obligación intransferible de supervisión del servicio de inspección de embarcaciones;
+II. La Secretaría mantendrá la obligación intransferible de supervisión del servicio de inspección de embarcaciones;
 
 III. Los inspectores podrán formar parte de sociedades nacionales o extranjeras especializadas en la clasificación de embarcaciones. Su responsabilidad será personal, con independencia de la responsabilidad en que incurran las sociedades de clasificación a las que aquellos pertenezcan;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+IV. La Secretaría fomentará la constitución de sociedades mexicanas de clasificación, las cuales serán integradas por inspectores de nacionalidad mexicana;
 
-IV. La SEMAR fomentará la constitución de sociedades mexicanas de clasificación, las cuales serán integradas por inspectores de nacionalidad mexicana;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+V. Para ser autorizado por la Secretaría para prestar el servicio de inspección deberán cumplirse los requisitos señalados en el reglamento respectivo;
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-V. Para ser autorizado por la SEMAR para prestar el servicio de inspección deberán cumplirse los requisitos señalados en el reglamento respectivo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-VI. La SEMAR estará facultada para implementar programas de certificación continua de inspectores, de conformidad con el reglamento respectivo, y
+VI. La Secretaría estará facultada para implementar programas de certificación continua de inspectores, de conformidad con el reglamento respectivo, y
 
 VII. El cargo de inspector será incompatible con cualquier empleo, comisión o figura similar directa o indirectamente en empresas navieras, agentes navieros, así como en cualquier entidad relacionada con éstas en la prestación de servicios marítimos o portuarios.
 
@@ -1196,17 +1168,17 @@ Las capitanías de puerto estarán obligadas a responder por escrito las solicit
 
 Las capitanías de puerto a través de los inspectores a ellas adscritos darán prioridad al cumplimiento de las obligaciones derivadas de los Tratados Internacionales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 69.
 
-Las capitanías de puerto llevarán una bitácora de certificaciones e inspecciones según establezca el reglamento respectivo. Asimismo, cuando lo determine la SEMAR, la bitácora tendrá un soporte electrónico que podrá ser compartida a las demás capitanías de puerto.
+Las capitanías de puerto llevarán una bitácora de certificaciones e inspecciones según establezca el reglamento respectivo. Asimismo, cuando lo determine la Secretaría, la bitácora tendrá un soporte electrónico que podrá ser compartida a las demás capitanías de puerto.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 70.
 
-Cada capitanía de puerto, a través de los inspectores a ellas adscritos, deberán inspeccionar al menos a un quince por ciento de las embarcaciones extranjeras que se encuentren en sus respectivos puertos, de conformidad con el Acuerdo Latinoamericano sobre Control de Buques por el Estado Rector del Puerto.
+Cada capitanía de puerto, a través de los inspectores a ellas adscritos, deberán inspeccionar al menos a un veinte por ciento de las embarcaciones extranjeras que se encuentren en sus respectivos puertos, de conformidad con el Acuerdo Latinoamericano sobre Control de Buques por el Estado Rector del Puerto.
 
 ###### Artículo 71.
 
@@ -1220,15 +1192,13 @@ El servicio de inspección y verificación a botes, balsas, chalecos, aros salva
 
 Los dispositivos y medios de salvamento e instalaciones que se dediquen a su mantenimiento deberán cumplir con las normas oficiales mexicanas y las que establezcan los Tratados Internacionales en la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 73.
 
-Los artefactos navales requerirán de un certificado técnico de operación y navegabilidad expedido por la SEMAR cuando requieran ser desplazados a su lugar de desmantelamiento o desguazamiento definitivo.
+Los artefactos navales requerirán de un certificado técnico de operación y navegabilidad expedido por la Secretaría cuando requieran ser desplazados a su lugar de desmantelamiento o donde serán desguazados definitivamente.
 
-La SEMAR determinará las medidas de prevención, control de tráfico y señalamiento marítimos durante el traslado o remolque de los artefactos navales cuando lo exijan las condiciones del mismo.
+La Secretaría determinará las medidas de prevención, control de tráfico y señalamiento marítimos durante el traslado o remolque de los artefactos navales cuando lo exijan las condiciones del mismo.
 
 ###### Artículo 74.
 
@@ -1236,19 +1206,15 @@ La construcción, así como la reparación o modificación significativas de emb
 
 I. Los astilleros, diques, varaderos, talleres e instalaciones al servicio de la Marina Mercante deberán sujetarse a las normas oficiales mexicanas respectivas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-II. El proyecto deberá previamente ser aprobado por la SEMAR y elaborado por personas físicas profesionalmente reconocidas o sociedades legalmente constituidas, con capacidad técnica demostrada;
+II. El proyecto deberá previamente ser aprobado por la Secretaría y elaborado por personas físicas profesionalmente reconocidas o sociedades legalmente constituidas, con capacidad técnica demostrada;
 
 III. Durante los trabajos, la embarcación en construcción o reparación estará sujeta a las pruebas, inspecciones y verificaciones correspondientes; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-IV. Al término de los trabajos, la embarcación requerirá de los certificados de seguridad marítima y de arqueo que expida la SEMAR directamente o bien un inspector autorizado por ésta.
+IV. Al término de los trabajos, la embarcación requerirá de los certificados de seguridad marítima y de arqueo que expida la Secretaría directamente o bien un inspector autorizado por ésta.
 
 Se entenderá por reparación o modificación significativa de embarcaciones, aquéllas que conlleven la alteración de sus dimensiones o su capacidad de transporte, o que provoquen que cambie el tipo de la embarcación, así como las que se efectúen con la intención de prolongar la vida útil de la embarcación.
 
@@ -1270,25 +1236,17 @@ A las sanciones administrativas derivadas de las infracciones a lo señalado en 
 
 La distribución de competencias de las dependencias de la Administración Pública Federal en materia de prevención y control de la contaminación marina, se basará en las siguientes normas, para lo cual dichas dependencias estarán obligadas a celebrar los convenios de coordinación necesarios que garanticen la efectiva prevención y control bajo la responsabilidad de sus titulares, quienes deberán además dar seguimiento estricto de su aplicación:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+A. La Secretaría certificará e inspeccionará en el ámbito portuario que las embarcaciones cumplan con lo establecido en el presente Capítulo y reportará inmediatamente a las demás dependencias competentes cualquier contingencia en materia de contaminación marina. Deberá asimismo sancionar a los infractores en el ámbito de su competencia;
 
-A. La SEMAR certificará e inspeccionará en el ámbito portuario que las embarcaciones cumplan con lo establecido en el presente Capítulo y reportará inmediatamente a las demás dependencias competentes cualquier contingencia en materia de contaminación marina. Deberá asimismo sancionar a los infractores en el ámbito de su competencia;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+B. La Secretaría, en las zonas marinas mexicanas establecidas en la Ley Federal del Mar, vigilará el cumplimiento de lo establecido en el presente Capítulo. De igual manera, verificará las posibles afectaciones por contaminación en dichas zonas y sancionará a los infractores responsables cuando sean identificados de conformidad con el reglamento respectivo. Además, aplicará de acuerdo con sus ordenamientos el Plan Nacional de Contingencias para combatir y controlar derrames de hidrocarburos y otras sustancias nocivas en el mar, en coordinación con otras dependencias de la Administración Pública Federal involucradas, y
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-B. La SEMAR, en las zonas marinas mexicanas establecidas en la Ley Federal del Mar, vigilará el cumplimiento de lo establecido en el presente Capítulo. De igual manera, verificará las posibles afectaciones por contaminación en dichas zonas y sancionará a los infractores responsables cuando sean identificados de conformidad con el reglamento respectivo. Además, aplicará de acuerdo con sus ordenamientos el Plan Nacional de Contingencias para combatir y controlar derrames de hidrocarburos y otras sustancias nocivas en el mar, en coordinación con otras dependencias de la Administración Pública Federal involucradas, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-C. La Secretaría de Medio Ambiente y Recursos Naturales, coordinará con la SEMAR, los programas de prevención y control de la contaminación marina, así como el Plan Nacional de Contingencias en el ámbito marítimo. Deberá asimismo sancionar a los infractores en el ámbito de su competencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+C. La Secretaría de Medio Ambiente y Recursos Naturales, coordinará con la Secretaría, los programas de prevención y control de la contaminación marina, así como el Plan Nacional de Contingencias en el ámbito marítimo. Deberá asimismo sancionar a los infractores en el ámbito de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
@@ -1366,27 +1324,21 @@ Cuando las decisiones a que se refiere este capítulo no puedan ser tomadas porq
 
 ### CAPÍTULO IV. AMARRE, ABANDONO Y DESGUACE DE EMBARCACIONES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 87.
 
 Se entiende por amarre temporal de embarcaciones el acto por el cual la capitanía de puerto autoriza o declara la estadía de una embarcación en puerto, fuera de operación comercial. Las autorizaciones y declaraciones referidas, se regularán conforme a las reglas siguientes:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-I. La capitanía de puerto autorizará el amarre temporal, designando el lugar y tiempo de permanencia, si no perjudica los servicios portuarios, previa opinión favorable del administrador portuario, cuando la embarcación no cuente con tripulación de servicio a bordo y previa garantía otorgada por el propietario o naviero que solicite el amarre temporal, suficiente a criterio de la SEMAR para cubrir los daños o perjuicios que pudieren ocasionarse durante el tiempo del amarre y el que siga al vencimiento de éste si no se pusiese en servicio la embarcación, así como la documentación laboral que acredite que están cubiertas las indemnizaciones y demás prestaciones que legalmente deba pagar el propietario o naviero a la tripulación, y
+I. La capitanía de puerto autorizará el amarre temporal, designando el lugar y tiempo de permanencia, si no perjudica los servicios portuarios, previa opinión favorable del administrador portuario, cuando la embarcación no cuente con tripulación de servicio a bordo y previa garantía otorgada por el propietario o naviero que solicite el amarre temporal, suficiente a criterio de la Secretaría para cubrir los daños o perjuicios que pudieren ocasionarse durante el tiempo del amarre y el que siga al vencimiento de éste si no se pusiese en servicio la embarcación, así como la documentación laboral que acredite que están cubiertas las indemnizaciones y demás prestaciones que legalmente deba pagar el propietario o naviero a la tripulación, y
 
 II. La capitanía de puerto declarará el amarre temporal, designando el lugar y tiempo de permanencia, en el supuesto de que una embarcación que no sea de turismo náutico, recreo o deportiva permanezca en puerto durante un lapso superior a diez días hábiles desde su atraque, cuando se ponga en riesgo la seguridad de los tripulantes, de la embarcación o del puerto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-En los casos de embarcaciones de pabellón extranjero, la SEMAR notificará al cónsul del país de la bandera de la embarcación para su conocimiento, así como a la autoridad migratoria para que garanticen las condiciones de la tripulación de conformidad con el Convenio sobre Repatriación de Gente de Mar, así como los demás Tratados Internacionales en la materia. En su caso, será aplicable el Capítulo VII del Título Segundo de esta Ley.
+En los casos de embarcaciones de pabellón extranjero, la Secretaría notificará al cónsul del país de la bandera de la embarcación para su conocimiento, así como a la autoridad migratoria para que garanticen las condiciones de la tripulación de conformidad con el Convenio sobre Repatriación de Gente de Mar, así como los demás Tratados Internacionales en la materia. En su caso, será aplicable el Capítulo VII del Título Segundo de esta Ley.
 
 En caso de que el amarre ocurriere en un área de operación concesionada del puerto, el propietario o el naviero otorgará la garantía por daños y perjuicios a favor del administrador portuario.
 
@@ -1708,19 +1660,13 @@ Las tarifas de fletes para los servicios regulares en navegación de altura y lo
 
 Los fletes correspondientes a otros servicios de transporte marítimo de mercancías, serán pactados libremente por los transportistas y los usuarios del servicio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría estará facultada para establecer la base de regulación de tarifas en la prestación de los servicios de transporte marítimo de mercancías cuando en opinión de la Comisión Federal de Competencia Económica no existan condiciones de competencia efectiva.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La regulación tarifaria se suprimirá cuando la Comisión Federal de Competencia Económica, a solicitud de la Secretaría, de parte interesada o de oficio, opine que las condiciones que le dieron origen han dejado de existir.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1797,8 +1743,6 @@ Salvo las normas de naturaleza dispositiva que se establezcan en este capítulo,
 ###### Artículo 139.
 
 En virtud del contrato de transporte marítimo de pasajeros, el naviero o el operador se obliga a transportar en un trayecto previamente definido, a un pasajero, previo pago de un pasaje. Este contrato debe constar en un boleto, mismo que será al portador o nominativo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -1892,8 +1836,6 @@ En el contrato de remolque transporte, tanto la embarcación remolcadora como la
 
 Las acciones derivadas de los contratos de remolque transporte prescribirán en el término de seis meses, contado a partir de la fecha pactada para su entrega en el lugar de destino.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 151.
@@ -1954,11 +1896,9 @@ Los sacrificios y gastos extraordinarios para la seguridad común de la embarcac
 
 I. Cuando se haya producido un acto de avería común, el capitán deberá asentarlo en el libro oficial de navegación, indicando la fecha, hora y lugar del suceso, las razones y motivos de sus decisiones, así como las medidas tomadas sobre estos hechos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-II. Corresponde al capitán, al propietario o al naviero de la embarcación afectada, declarar la avería común ante la SEMAR inmediatamente después de producidos los actos o hechos causantes de ésta y, en caso de controversia, la demanda se presentará ante el Juez competente. En caso de ocurrir la avería en un puerto, éste se considerará el primer puerto de arribo;
+II. Corresponde al capitán, al propietario o al naviero de la embarcación afectada, declarar la avería común ante la Secretaría inmediatamente después de producidos los actos o hechos causantes de ésta y, en caso de controversia, la demanda se presentará ante el Juez competente. En caso de ocurrir la avería en un puerto, éste se considerará el primer puerto de arribo;
 
 III. Si el capitán, el propietario o el naviero no declaran la avería común, cualquier interesado en ella podrá solicitar al Juez competente que ésta se declare, petición que sólo podrá formularse dentro del plazo de seis meses, contados desde el día de la llegada al primer puerto de arribo, después del suceso que dio lugar a la avería común. Estando de acuerdo las partes en la declaración de avería común, procederán a nombrar de común acuerdo un ajustador para que realice la liquidación correspondiente;
 
@@ -1978,11 +1918,9 @@ Por operación de salvamento se entenderá toda actividad realizada con el prop�
 
 Por operación de búsqueda y rescate se entenderá toda actividad realizada con el propósito de rastrear y liberar a las personas que se encuentren en cualquier situación de peligro en el mar o en otras aguas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Cuando se lleven a cabo operaciones de búsqueda, rescate o salvamento, deberá hacerse del conocimiento de la SEMAR de inmediato mediante los medios electrónicos disponibles y por escrito en el primer puerto de arribo dentro de las veinticuatro horas siguientes de la llegada de éste.
+Cuando se lleven a cabo operaciones de búsqueda, rescate o salvamento, deberá hacerse del conocimiento de la Secretaría de inmediato mediante los medios electrónicos disponibles y por escrito en el primer puerto de arribo dentro de las veinticuatro horas siguientes de la llegada de éste.
 
 ###### Artículo 162.
 
@@ -1990,13 +1928,15 @@ Los capitanes o cualquier tripulante de las embarcaciones que se encuentren pró
 
 Las consecuencias por el incumplimiento de esta obligación se regirán de acuerdo a lo dispuesto por el Código Penal Federal. Los propietarios y navieros no serán responsables del incumplimiento de la misma.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+Cuando una embarcación se haga a la mar sin autorización de la capitanía de puerto y como resultado de ello sea necesario emplear medios de la Federación para el rescate de personas, la Secretaría establecerá el cobro respectivo, conforme al tiempo y los recursos que fueron empleados para tal fin.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 163.
 
-La organización y dirección del Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en las zonas marinas mexicanas corresponderá a la SEMAR, conforme a lo dispuesto en el artículo 8 Bis, fracción XV de esta Ley. La SEMAR determinará las estaciones de búsqueda y rescate que deban establecerse en los litorales, de conformidad con lo dispuesto en el reglamento respectivo.
+La organización y dirección del Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en las zonas marinas mexicanas corresponderá a la Secretaría, quien determinará las estaciones de búsqueda y rescate que deban establecerse en los litorales, de conformidad con lo dispuesto en el reglamento respectivo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -2016,21 +1956,19 @@ Las partes de una operación de salvamento estarán legitimadas para celebrar co
 
 ### CAPÍTULO IV. REMOCIONES Y DERELICTOS O RESTOS DE NAUFRAGIO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 167.
 
-Cuando una embarcación, aeronave, artefacto naval, carga o cualquier otro objeto se encuentre a la deriva, en peligro de hundimiento, hundido o varado y a juicio de la SEMAR, pueda constituir un peligro o un obstáculo para la navegación, la operación portuaria, la pesca u otras actividades marítimas relacionadas con las vías navegables, o bien para la preservación del ambiente, conforme al Convenio de Limitación de Responsabilidad de 1976, deberá llevarse a cabo lo siguiente:
+Cuando una embarcación, aeronave, artefacto naval, carga o cualquier otro objeto se encuentre a la deriva, en peligro de hundimiento, hundido o varado y a juicio de la Secretaría, pueda constituir un peligro o un obstáculo para la navegación, la operación portuaria, la pesca u otras actividades marítimas relacionadas con las vías navegables, o bien para la preservación del ambiente, conforme al Convenio de Limitación de Responsabilidad de 1976, deberá llevarse a cabo lo siguiente:
 
-I. La SEMAR notificará al propietario o naviero la orden para que tome las medidas apropiadas a su costa para iniciar de inmediato su señalización, remoción, reparación, hundimiento, limpieza o la actividad que resulte necesaria, en donde no represente peligro u obstáculo alguno en los términos de este artículo;
+I. La Secretaría notificará al propietario o naviero la orden para que tome las medidas apropiadas a su costa para iniciar de inmediato su señalización, remoción, reparación, hundimiento, limpieza o la actividad que resulte necesaria, en donde no represente peligro u obstáculo alguno en los términos de este artículo;
 
-II. Previa notificación de la orden al propietario o naviero, en los supuestos en que exista una posible afectación al ambiente marino, la SEMAR estará obligada a obtener una opinión de la autoridad ambiental competente;
+II. Previa notificación de la orden al propietario o naviero, en los supuestos en que exista una posible afectación al ambiente marino, la Secretaría estará obligada a obtener una opinión de la autoridad ambiental competente;
 
-III. El plazo para cumplir con la orden será de tres meses contados a partir de la fecha de la notificación. De no cumplirse con tal requerimiento, la SEMAR estará facultada para removerlo o hundirlo, a costa del propietario o naviero, sin perjuicio de la aplicación de las sanciones administrativas conducentes, y
+III. El plazo para cumplir con la orden será de tres meses contados a partir de la fecha de la notificación. De no cumplirse con tal requerimiento, la Secretaría estará facultada para removerlo o hundirlo, a costa del propietario o naviero, sin perjuicio de la aplicación de las sanciones administrativas conducentes, y
 
-IV. Durante el transcurso de las actividades que den cumplimiento a la orden, el naviero o el propietario deberá informar a la SEMAR sobre cualquier contingencia o posible afectación al medio marino. Esta obligación no suspenderá el plazo para el cumplimiento de la orden.
+IV. Durante el transcurso de las actividades que den cumplimiento a la orden, el naviero o el propietario deberá informar a la Secretaría sobre cualquier contingencia o posible afectación al medio marino. Esta obligación no suspenderá el plazo para el cumplimiento de la orden.
 
 ###### Artículo 168.
 
@@ -2040,15 +1978,13 @@ Cuando la embarcación, aeronave, artefacto naval, carga o cualquier otro objeto
 
 Toda persona que a consecuencia de una orden administrativa o de cualquier otro acto deba realizar las actividades de extracción, remoción, reflote o la actividad que sea pertinente, deberá efectuar los trabajos en los términos que señale el capitán de puerto. En los casos que establezca el reglamento deberá además otorgar garantía suficiente cuyo monto y tiempo de exhibición será fijado por dicha autoridad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 170.
 
-En caso de que el propietario, naviero o persona que haya adquirido el derecho para extraer, remover, reflotar o la actividad que sea pertinente, en virtud de una orden administrativa o de cualquier otro acto no concluyera la maniobra en el plazo prescrito, la SEMAR estará facultada para declarar abandonada la embarcación u objeto en cuestión, por lo que constituirán a partir de la publicación de dicha declaración, bienes del dominio de la Nación.
+En caso de que el propietario, naviero o persona que haya adquirido el derecho para extraer, remover, reflotar o la actividad que sea pertinente, en virtud de una orden administrativa o de cualquier otro acto no concluyera la maniobra en el plazo prescrito, la Secretaría estará facultada para declarar abandonada la embarcación u objeto en cuestión, por lo que constituirán a partir de la publicación de dicha declaración, bienes del dominio de la Nación.
 
-En los casos del párrafo precedente, la SEMAR estará facultada para proceder a la operación de remoción, rescate y venta de los bienes de conformidad con la legislación administrativa en la materia. Si el producto de la venta no fuere suficiente para cubrir todos los gastos de la operación, el propietario tendrá la obligación de pagar a la SEMAR la diferencia, mediante el procedimiento administrativo de ejecución.
+En los casos del párrafo precedente, la Secretaría estará facultada para proceder a la operación de remoción, rescate y venta de los bienes de conformidad con la legislación administrativa en la materia. Si el producto de la venta no fuere suficiente para cubrir todos los gastos de la operación, el propietario tendrá la obligación de pagar a la Secretaría la diferencia, mediante el procedimiento administrativo de ejecución.
 
 ###### Artículo 171.
 
@@ -2092,21 +2028,17 @@ El reglamento respectivo establecerá un sistema de coordinación entre las auto
 
 ### CAPÍTULO VI. INVESTIGACIÓN DE ACCIDENTES O INCIDENTES MARÍTIMOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 180.
 
-La SEMAR estará facultada para investigar todo accidente o incidente marítimo que tenga lugar en cualquier vía navegable.
+La Secretaría estará facultada para investigar todo accidente o incidente marítimo que tenga lugar en cualquier vía navegable.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 181.
 
-El capitán o patrón de toda embarcación o en su ausencia el oficial que le siga en mando, estará obligado a levantar el acta de protesta de todo accidente o incidente marítimo; así como de cualquier otro hecho de carácter extraordinario relacionado con la navegación o con el comercio marítimo. Se entenderá por acta protesta la descripción circunstanciada de hechos, levantada ante la SEMAR, que refiera alguno de los accidentes o incidentes marítimos señalados en el artículo siguiente.
+El capitán o patrón de toda embarcación o en su ausencia el oficial que le siga en mando, estará obligado a levantar el acta de protesta de todo accidente o incidente marítimo; así como de cualquier otro hecho de carácter extraordinario relacionado con la navegación o con el comercio marítimo. Se entenderá por acta protesta la descripción circunstanciada de hechos, levantada ante la Secretaría, que refiera alguno de los accidentes o incidentes marítimos señalados en el artículo siguiente.
 
 ###### Artículo 182.
 
@@ -2124,15 +2056,13 @@ V. El acto o la omisión que genere contaminación marina; y
 
 VI. El cambio obligado de ruta o puerto de destino, ocasionado por caso fortuito o fuerza mayor.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 183.
 
-En materia de abordaje, estarán legitimados para solicitar ante la SEMAR el levantamiento de las actas de protesta correspondientes, los capitanes, los patrones y los miembros de las tripulaciones de las embarcaciones involucradas en el mismo.
+En materia de abordaje, estarán legitimados para solicitar ante la Secretaría el levantamiento de las actas de protesta correspondientes, los capitanes, los patrones y los miembros de las tripulaciones de las embarcaciones involucradas en el mismo.
 
-Cuando la embarcación sea de pabellón extranjero, el denunciante podrá solicitar que el cónsul del país de la bandera de la embarcación, esté presente durante las diligencias que se practiquen. En caso de que el denunciante sea un tripulante y no domine el idioma español, la SEMAR deberá proveer gratuitamente el traductor oficial.
+Cuando la embarcación sea de pabellón extranjero, el denunciante podrá solicitar que el cónsul del país de la bandera de la embarcación, esté presente durante las diligencias que se practiquen. En caso de que el denunciante sea un tripulante y no domine el idioma español, la Secretaría deberá proveer gratuitamente el traductor oficial.
 
 ###### Artículo 184.
 
@@ -2148,29 +2078,23 @@ IV. Todas las actuaciones se harán constar en un acta administrativa, la cual s
 
 Las actuaciones que se lleven a cabo en la investigación de los accidentes marítimos deberán respetar en general las disposiciones internacionales en la materia, y de modo especial, aquéllas contenidas en los tratados internacionales de la Organización Marítima Internacional, (OMI).
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 185.
 
-Realizadas las actuaciones a que se refiere el artículo anterior, el expediente será remitido a la SEMAR, la cual deberá:
+Realizadas las actuaciones a que se refiere el artículo anterior, el expediente será remitido a la Secretaría, la cual deberá:
 
 I. Revisar el expediente con el fin de determinar si está debidamente integrado y en su caso, disponer que se practique cualquier otra diligencia que se estime necesaria;
 
 II. Emitir dictamen, fundado y motivado en el que se establezca si se incurrió en infracción administrativa.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+Cuando se trate de operaciones de salvamento, el dictamen emitido por la Secretaría determinará también el monto probable o estimado de la remuneración, la cual deberá calcularse en los términos del Convenio Internacional sobre Salvamento Marítimo. Lo dispuesto en este artículo no obsta para que en cualquier momento las partes involucradas en las operaciones de salvamento hagan valer sus derechos ante los tribunales competentes y en la vía en que proceda.
 
-Cuando se trate de operaciones de salvamento, el dictamen emitido por la SEMAR determinará también el monto probable o estimado de la remuneración, la cual deberá calcularse en los términos del Convenio Internacional sobre Salvamento Marítimo. Lo dispuesto en este artículo no obsta para que en cualquier momento las partes involucradas en las operaciones de salvamento hagan valer sus derechos ante los tribunales competentes y en la vía en que proceda.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-El valor del dictamen emitido por la SEMAR quedará a la prudente apreciación de la autoridad jurisdiccional, y
+El valor del dictamen emitido por la Secretaría quedará a la prudente apreciación de la autoridad jurisdiccional, y
 
 III. Imponer en su caso, las sanciones administrativas que correspondan y de considerarlo procedente, turnar las actuaciones al Ministerio Público de la Federación, para el ejercicio de las funciones que le competan.
 
@@ -2612,11 +2536,9 @@ La relación jurídica existente entre vendedor y comprador será independiente 
 
 Salvo lo dispuesto expresamente en esta Ley, a los procesos y procedimientos de naturaleza marítima regulados en este título se les aplicarán de modo supletorio, las normas del Código de Comercio, y, en su defecto, las del Código Federal de Procedimientos Civiles.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Los tribunales federales, la Secretaría y la SEMAR en sus respectivos ámbitos de competencia, serán los facultados para conocer de los procesos y procedimientos regulados por esta Ley, y por lo dispuesto en los Tratados Internacionales, sin perjuicio de que, en los términos de las normas aplicables, las partes sometan sus diferencias a decisión arbitral. La elección de la ley aplicable será reconocida de acuerdo a lo previsto por esta Ley y en su defecto por el Código de Comercio y el Código Civil Federal, en ese orden.
+Los tribunales federales y la Secretaría, en sus respectivos ámbitos de competencia, serán los facultados para conocer de los procesos y procedimientos regulados por esta Ley, y por lo dispuesto en los Tratados Internacionales, sin perjuicio de que, en los términos de las normas aplicables, las partes sometan sus diferencias a decisión arbitral. La elección de la ley aplicable será reconocida de acuerdo a lo previsto por esta Ley y en su defecto por el Código de Comercio y el Código Civil Federal, en ese orden.
 
 En la interpretación de los tratados internacionales y de las reglas internacionales referidas por esta Ley, las autoridades judiciales y administrativas deberán fundar sus resoluciones y actos administrativos tomando en consideración el carácter uniforme del derecho marítimo. De igual manera lo harán, en la interpretación de contratos o cláusulas tipo internacionalmente aceptados, las resoluciones y actos administrativos tomarán en consideración que el contrato o cláusula pactados, correspondan al contenido obligacional, tal y como se acepten en el ámbito internacional.
 
@@ -2624,15 +2546,11 @@ Para la interpretación de cualquier fuente de derecho marítimo, tanto las auto
 
 Salvo lo previsto expresamente en esta Ley, los plazos en ella señalados serán computados en días hábiles.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 265.
 
 Para el emplazamiento a un juicio en materia marítima, cuando el demandado tenga su domicilio en el extranjero, el mismo se efectuará mediante carta rogatoria, o bien, a través de su agente naviero en el domicilio registrado por éste ante la Secretaría. Sólo podrá practicarse el emplazamiento por conducto de agentes navieros que hayan reunido los requisitos establecidos en el artículo 23 de esta Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -2702,9 +2620,11 @@ XXI. Créditos garantizados con hipoteca o prenda; y
 
 XXII. Toda controversia resultante de un contrato de compraventa de embarcaciones.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 270.
 
-Decretada la medida de embargo, el Juez de Distrito la comunicará por vía telefónica y la confirmará por cualquier medio de transmisión de textos a la Secretaría de Marina, a la Secretaría, y a la capitanía de puerto para los efectos correspondientes.
+Decretada la medida de embargo, el Juez de Distrito la comunicará por vía telefónica y la confirmará por cualquier medio de transmisión de textos a la Secretaría y a la capitanía de puerto para los efectos correspondientes.
 
 ###### Artículo 271.
 
@@ -2736,7 +2656,9 @@ Será competente para conocer del embargo precautorio el Juez de Distrito del lu
 
 Es competente para conocer del proceso hipotecario marítimo, el Juez de Distrito con jurisdicción en el domicilio del deudor o en el del puerto de matrícula de la embarcación, a elección del actor, y para su tramitación, se observarán las reglas del Capítulo III del Título Séptimo "Del Juicio Hipotecario" del Código de Procedimientos Civiles para el Distrito Federal, en lo no previsto en las fracciones siguientes:
 
-I. Al admitir el Juez de Distrito la demanda, ordenará el embargo de la embarcación y mandará hacer las anotaciones respectivas en el folio correspondiente del Registro Público Marítimo Nacional. Asimismo, admitida la demanda, el Juez de Distrito lo comunicará por vía telefónica y la confirmará por cualquier medio de transmisión de textos a la Secretaría de Marina, a la Secretaría y a la capitanía de puerto a efecto de que no se otorgue despacho ni se permita la salida del puerto a la embarcación;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+I. Al admitir el Juez de Distrito la demanda, ordenará el embargo de la embarcación y mandará hacer las anotaciones respectivas en el folio correspondiente del Registro Público Marítimo Nacional. Asimismo, admitida la demanda, el Juez de Distrito lo comunicará por vía telefónica y la confirmará por cualquier medio de transmisión de textos a la Secretaría y a la capitanía de puerto a efecto de que no se otorgue despacho ni se permita la salida del puerto a la embarcación;
 
 II. La diligencia de embargo se iniciará con el requerimiento de pago al deudor, su representante o la persona con la que se entienda aquella, y de no hacerse el pago, se requerirá al deudor, a su representante o a la persona con la que se entienda la diligencia, para que entregue al depositario designado por el actor, la embarcación embargada; y acto seguido se emplazará al demandado;
 
@@ -2770,13 +2692,11 @@ La apertura de una indagatoria de carácter penal o la tramitación de cualquier
 
 Cuando se haya producido un acto de avería común, el capitán deberá asentarlo en los libros oficiales de navegación, indicando la fecha, hora y lugar del suceso; las razones y motivos de sus decisiones, así como las medidas tomadas sobre tales hechos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 281.
 
-Corresponderá al capitán, al propietario o al naviero de la embarcación afectada declarar la avería común ante la SEMAR y, en caso de controversia, la demanda se presentará ante el Juez de Distrito con competencia en el primer puerto de arribo de la embarcación, después de producidos los actos o hechos causantes de la avería. En caso de ocurrir la avería en un puerto, éste se considerará el primer puerto de arribo.
+Corresponderá al capitán, al propietario o al naviero de la embarcación afectada declarar la avería común ante la Secretaría y, en caso de controversia, la demanda se presentará ante el Juez de Distrito con competencia en el primer puerto de arribo de la embarcación, después de producidos los actos o hechos causantes de la avería. En caso de ocurrir la avería en un puerto, éste se considerará el primer puerto de arribo.
 
 ###### Artículo 282.
 
@@ -2864,13 +2784,11 @@ Si el Juez de Distrito encontrare fundadas las objeciones formuladas, concederá
 
 Formulada en definitiva la liquidación, el Juez citará a las partes para oír sentencia la cual deberá ser pronunciada dentro de los ocho días hábiles siguientes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 298.
 
-Cualquier interesado podrá solicitar ante el Juez de Distrito competente, la inexistencia de la declaración de avería común declarada ante la SEMAR. Dicha pretensión se ventilará de conformidad con el procedimiento establecido en los artículos 287 a 291 de la presente Ley.
+Cualquier interesado podrá solicitar ante el Juez de Distrito competente, la inexistencia de la declaración de avería común declarada ante la Secretaría. Dicha pretensión se ventilará de conformidad con el procedimiento establecido en los artículos 287 a 291 de la presente Ley.
 
 El auto que admita a trámite la demanda deberá notificarse personalmente al propietario o naviero.
 
@@ -3018,15 +2936,11 @@ Concluida la audiencia final el Juez citará a las partes para oír sentencia de
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 323.
 
-Para la imposición de las sanciones previstas en esta Ley, así como la interposición del recurso administrativo procedente, la SEMAR y la Secretaría observarán lo previsto en la Ley Federal de Procedimiento Administrativo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Para la imposición de las sanciones previstas en esta Ley, así como la interposición del recurso administrativo procedente, la Secretaría observará lo previsto en la Ley Federal de Procedimiento Administrativo.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -3037,8 +2951,6 @@ En caso de reincidencia se aplicará una multa por el doble de la cantidad que r
 ###### Artículo 325.
 
 Las sanciones señaladas en este título no prejuzgarán sobre aquéllas que se deriven de la aplicación de los Tratados Internacionales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -3054,19 +2966,15 @@ III. Los navieros por no cumplir con lo establecido en el artículo 51;
 
 IV. Las personas que cometan infracciones no previstas expresamente en este título, a los Tratados Internacionales, a los reglamentos administrativos, o a las normas oficiales mexicanas aplicables; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+V. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones leves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma o bien, en coordinación con otras dependencias.
 
-V. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones leves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la SEMAR por sí misma o bien, en coordinación con otras dependencias.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 327.
 
-La SEMAR impondrá en el ámbito de su competencia, una multa equivalente a la cantidad de un mil a diez mil veces el valor de la Unidad de Medida y Actualización al momento de determinarse la sanción, tomando en consideración el riesgo o daño causado, la reincidencia y el posterior cumplimiento de la obligación, a:
+La Secretaría impondrá una multa equivalente a la cantidad de un mil a diez mil veces el valor de la Unidad de Medida y Actualización al momento de determinarse la sanción, tomando en consideración el riesgo o daño causado, la reincidencia y el posterior cumplimiento de la obligación, a:
 
 I. Los capitanes de embarcaciones por no cumplir con lo dispuesto por el artículo 159;
 
@@ -3074,13 +2982,9 @@ II. Los patrones de embarcaciones o quien dirija la operación en los artefactos
 
 III. Los capitanes o patrones de embarcaciones por:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 a) Hacerse a la mar, cuando por mal tiempo o previsión de éste, la capitanía de puerto prohíba salir, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -3094,23 +2998,15 @@ a. No enarbolar la bandera en aguas mexicanas, y
 
 b. Falta del despacho de salida de puerto de origen, de embarcaciones que arriben a puerto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 VI. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2016)
 
 VII. Los pilotos de puerto, por infracción al artículo 58 y cuando debiendo estar en la embarcación no lo hagan;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-VIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones graves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la SEMAR por sí misma o bien, en coordinación con otras dependencias, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+VIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones graves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma o bien, en coordinación con otras dependencias, y
 
 IX. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -3130,35 +3026,45 @@ V. Los capitanes y patrones de embarcaciones por no utilizar el servicio de pilo
 
 VI. Los propietarios de las embarcaciones o los navieros por no contar con el seguro a que se refiere el artículo 176 de esta Ley;
 
-VII. Los concesionarios de marinas que, sin sujetarse a los requisitos establecidos en el reglamento, autoricen el arribo o despacho de embarcaciones de recreo; y los demás concesionarios por infringir lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-VIII. Los agentes navieros, por infringir las disposiciones de esta Ley.
+VII. Los concesionarios de marinas que, sin sujetarse a los requisitos establecidos en el reglamento, autoricen el arribo o despacho de embarcaciones de recreo; y los demás concesionarios por infringir lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+VIII. Los agentes navieros, por infringir las disposiciones de esta Ley;
 
-###### Artículo 328 Bis.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-La SEMAR impondrá una multa equivalente a la cantidad de diez mil a cincuenta mil veces el valor de la Unidad de Medida y Actualización al momento de determinarse la sanción, tomando en consideración el riesgo o daño causado, la reincidencia y el posterior cumplimiento de la obligación, a:
-
-I. Los propietarios de las embarcaciones o los navieros por:
+IX. Los propietarios de las embarcaciones o los navieros por:
 
 a) Proceder al desguace en contravención con lo establecido en el artículo 90 de la presente Ley;
 
-b) No efectuar en el plazo que fije la SEMAR, la señalización, remoción o extracción de embarcaciones, aeronaves o artefactos navales a la deriva, hundidos o varados;
+b) No efectuar en el plazo que fije la Secretaría, la señalización, remoción o extracción de embarcaciones, aeronaves o artefactos navales a la deriva, hundidos o varados;
 
-c) Por prestar los servicios a que se refiere el artículo 42 de esta Ley, sin permiso de la SEMAR, y
+c) Prestar los servicios a que se refiere el artículo 42 de esta Ley, sin permiso de la Secretaría;
 
-d) Por no cumplir con lo dispuesto en el artículo 177 de esta Ley;
+d) Incumplir con lo dispuesto en el artículo 177 de esta Ley;
 
-II. Los capitanes o patrones de embarcaciones por no cumplir con la obligación establecida en el artículo 161 de esta Ley;
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-III. Los concesionarios, por incumplimiento de lo establecido en el artículo 63 de esta Ley;
+X. Los capitanes o patrones de embarcaciones por no cumplir con la obligación establecida en el artículo 161 de esta Ley;
 
-IV. Los agentes navieros y, en su caso, a los propietarios de la embarcación que incumplan con lo dispuesto en la fracción III del artículo 269 de esta Ley, y
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-V. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones gravísimas a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la propia SEMAR o la Secretaría por sí mismas o bien, en coordinación con otras dependencias.
+XI. Los concesionarios, por incumplimiento de lo establecido en el artículo 63 de esta Ley;
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII. Los agentes navieros y, en su caso, los propietarios de la embarcación que incumplan con lo dispuesto en la fracción III del artículo 269 de esta Ley, y
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones gravísimas a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma, o bien, en coordinación con otras dependencias.
+
+###### Artículo 328 Bis.
+
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 ## TRANSITORIOS
 
@@ -3241,3 +3147,29 @@ Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se 
 Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
 
 Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Cuarto. Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+
+La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
+
+Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+
+Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
