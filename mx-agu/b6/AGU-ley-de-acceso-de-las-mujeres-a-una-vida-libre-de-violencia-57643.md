@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-11-28"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,15 @@ state: "AGU"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
+LEY DE INGRESOS DEL MUNICIPIO DE CRUILLAS, TAMAULIPAS, PARA EL EJERCICIO FISCAL 2025.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2000.
+Ley publicada en el Número 45 Extraordinario del Periódico Oficial del Estado de Tamaulipas, el sábado 28 de diciembre de 2024.
 
-EL CIUDADANO LIC. FERNANDO DE JESUS CANALES CLARIOND, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMAS DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO “VER IMAGEN PDF”; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
-
-DECRETO Núm. 337
+POR LOS SERVICIOS DE PLANIFICACIÓN, URBANIZACIÓN Y PAVIMENTACIÓN
 
 ###### ARTÍCULO ÚNICO.
 
@@ -70,90 +68,6 @@ V. Establecer la regulación sobre la utilización de animales para labores de t
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria, las disposiciones contenidas en la Ley Ambiental del Estado de Nuevo León, la Ley Estatal de Salud, otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con ésta materia en lo que no se opongan a la misma.
-
-###### Artículo 2o.
-
-Para los efectos de esta Ley se entiende por:
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-I. Animal(es): Seres vivos no humanos que sienten y se mueven voluntariamente o por instinto;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-II. Animal Abandonado: Los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, así como aquellos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-III. Animal Doméstico: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida de éste sin constituir peligro;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Animal Feral: Los Animales domésticos que, por abandono, se tornan silvestres y vivan en el entorno natural;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-V. Animal peligroso: Cualquier tipo de animal susceptible de causar un daño o perjuicio, físico, psicológico o material en el ser humano;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VI. Azuzar: Acción que considera a incitar por cualquier mecanismo del ser humano a un animal o un grupo de animales para que se acometan o peleen entre si;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VII. Fauna Silvestre: Todas aquéllas especies que viven libremente y fuera del control del ser humano, así como los animales que por abandono se tornen salvajes y por ello sean susceptibles de captura o apropiación y cuya competencia de regulación es de las autoridades federales;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-VIII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-IX. Autoridad Municipal: La dependencia de la administración municipal encargada de la preservación del equilibrio ecológico y la protección del ambiente;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-X. Trato adecuado: Conjunto de medidas realizadas por las personas para evitar dolor a los animales durante su traslado, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XI. Insensibilización: Acción con la que se induce rápidamente a un animal a un estado en el que no sienta dolor;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XII. Guía Informativa: Documento elaborado por el proveedor de animales en el que se describen las características del animal que se comercialice o enajene, así como su garantía, alimentación, hábitos, alojamiento, cuidados, y espacios que deben proporcionarles los compradores, u otros aspectos importantes relacionados con el adecuado desarrollo del animal;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XIII. Cuidados Apropiados: Trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las Normas Oficiales Mexicanas y otras normas aplicables;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XIV. Ley Ambiental: Ley Ambiental del Estado de Nuevo León;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XV. Zoonosis: Transmisión de enfermedades de los animales al ser humano; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XVI: Reservorio: Lugar o cuerpo donde se hospeden y desarrollen en cualquier ciclo de su vida parásitos u otros organismos.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-###### Artículo 3o.
-
-Son objeto de tutela y protección de esta Ley, los animales domésticos y la fauna silvestre que se encuentre en cautiverio, con o sin la supervisión, control o cuidado del ser humano, así como los animales ferales.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
-
-Corresponde la aplicación de esta Ley al Ejecutivo del Estado, a través de la Secretaria y de la Secretaria de Salud, en el ámbito de sus respectivas competencias, o a las autoridades municipales que hayan concertado convenio de colaboración o coordinación con el Ejecutivo del Estado, en relación a la protección y conservación de los animales, a fin de que estas puedan asumir dichas funciones. Para la celebración de dichos convenios se seguirá el procedimiento que al efecto establece la Ley Ambiental.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
-
-###### Artículo 4o.
-
-La Secretaría, en coordinación con las autoridades de educación y salud pública, en el ámbito de sus respectivas competencias y dentro de sus programas, difundirán por los medios apropiados el sentido y el texto de esta ley, buscando implementar programas educativos en bioconservación, tendientes a fomentar el respeto hacia la forma de vida de los animales.
 
 ###### Artículo 2°.
 
@@ -276,46 +190,6 @@ Todas las medidas que se deriven de la presente Ley, garantizarán la prevenció
 El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentradas y paraestatales, y en general todas las entidades públicas, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
 ### CAPITULO II. DE LA PROTECCIÓN A LOS ANIMALES
-
-###### Artículo 5o.
-
-Todo propietario, poseedor o encargado de un animal que lo abandone y cause un daño a terceros, será responsable del animal y de los daños y perjuicios que ocasione. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las Leyes aplicables, sin perjuicio de la sanción administrativa que determine este ordenamiento.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-Los municipios podrán reglamentar los supuestos en los que los propietarios, poseedores o encargados de un animal deberán recolectar y depositar en los colectores de basura las heces fecales depositadas por el animal en lugar público.
-
-###### Artículo 6o.
-
-Quedan sujetos al control de las autoridades estatales, los dueños, poseedores o encargados de animales peligrosos.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
-
-Quien posea un animal peligroso deberá solicitar autorización de la Secretaría y colocar avisos que alerten del riesgo. Será sujeto de sanción administrativa conforme lo establece esta Ley o los reglamentos correspondientes quien no cumpla con esta disposición.
-
-###### Artículo 7o.
-
-Queda prohibido el uso de animales vivos para prácticas de entrenamiento de animales de guardia o ataque, o para verificar su agresividad.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
-
-Queda prohibido el uso de animales vivos para prácticas y competencias de tiro al blanco.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
-
-###### Artículo 8o.
-
-Queda prohibido azuzar animales para que se acometan entre ellos y el hacer de las peleas así provocadas, un espectáculo público o privado, así como facilitar inmuebles aún a título gratuito, para que tengan lugar dichas peleas.
-
-Quedan exceptuadas las peleas de gallos, la lidia de toros, becerros o novilladas y las charreadas cuando se sujeten a los reglamentos que expida la autoridad municipal, y el entrenamiento de los animales de guardia.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-###### Artículo 9o.
-
-En todos los lugares de recreación, exhibición y cautiverio de animales, tales como circos, ferias, zoológicos públicos, parques de diversiones, bioparques y colecciones privadas de animales vivos, se deberá proporcionar a los animales, áreas adecuadas, así como las condiciones de hábitat según su especie.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 8°.
 
@@ -567,11 +441,15 @@ El sacrificio de los animales destinados al consumo, se realizará de acuerdo a 
 
 ###### Artículo 27.
 
-Queda prohibida la presencia de personas menores de 10 años en las salas de sacrificio, antes, durante y después del sacrificio de cualquier animal.
+Los derechos por los servicios de planificación, urbanización y pavimentación, se causarán y liquidarán conforme a lo siguiente:
 
-Los propietarios, administradores o encargados de los rastros o salas de sacrificio serán responsables del cumplimiento de esta disposición.
+CONCEPTO TARIFA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+I. a IX. […]
+
+X. (DEROGADA, P.O. 10 DE ABRIL DE 2025)
+
+XI. a XX. [...]
 
 ###### Artículo 28.
 
@@ -604,8 +482,6 @@ Un animal capturado podrá ser reclamado por su dueño dentro de los cinco días
 La Secretaria podrá celebrar acuerdos con las sociedades protectoras de animales legalmente constituidas para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados, así como a los que sean asegurados por alguno de los supuestos establecidos en esta Ley.
 
 La Secretaria deberá llevar un registro de las asociaciones legalmente constituidas dedicadas a la protección, la conservación y eliminación del maltrato de animales, y promoverá su participación en las acciones gubernamentales que implementen, relacionadas con la defensa y protección de los mismos.
-
-### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 32.
 
@@ -749,8 +625,6 @@ La violación de las disposiciones de esta Ley por parte de quien ejerza la prof
 
 La reincidencia en cualquiera de las infracciones a esta Ley, ameritará aumento de la multa hasta por el doble de la sanción pecuniaria correspondiente, sin menoscabo de la aplicación de un arresto administrativo hasta por 36 horas.
 
-### CAPITULO XI. DEL RECURSO DE INCONFORMIDAD
-
 ###### Artículo 37.
 
 Contra las resoluciones que impongan una sanción procederá el recurso de inconformidad ante la Secretaría, mismo que deberá interponerse dentro de los cinco días hábiles siguientes a la fecha de su notificación.
@@ -770,56 +644,6 @@ La autoridad radicará el recurso en un plazo de cinco días hábiles y fijará 
 ###### Artículo 40.
 
 Transcurrida la fecha para el desahogo de las pruebas, la autoridad deberá resolver el recurso en un plazo de 15 días hábiles.
-
-## TRANSITORIOS
-
-Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- A partir de la fecha en que entre en vigor esta ley, quedará abrogada la ley Estatal de Protección a los Animales, publicada en el Periódico Oficial del Estado el 14 de Enero de 1983 y sus reformas.
-
-Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Estado.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veintiocho días del mes de junio del año dos mil.- PRESIDENTE: DIP. CRISTIÁN CASTAÑO CONTRERAS; DIP. SECRETARIA: RAQUEL RAMÍREZ VILLARREAL; DIP. SECRETARIO: RAMIRO ORTEGA GUERRERO.- Rúbricas.-
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los cuatro días del mes de julio del año dos mil.
-
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. FERNANDO DE JESUS CANALES CLARIOND
-
-EL C. SECRETARIO GENERAL DE GOBIERNO
-
-LIC. JOSE LUIS COINDREAU GARCIA
-
-EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS
-
-ARQ. OSCAR BULNES VALERO
-
-EL C. SECRETARIO DE SALUD
-
-DR. JESUS ZACARIAS VILLAREAL PEREZ
-
-EL C. SECRETARIO DE EDUCACION
-
-LIC. JOSE MARTINEZ GONZALEZ
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 11 DE ENERO DE 2002.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE SEPTIEMBRE DE 2006.
-
-Artículo Único.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE MAYO DE 2007.
-
-Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-P.O. 26 DE MAYO DE 2010.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ###### Artículo 41.
 
