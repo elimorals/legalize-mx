@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2019-08-01"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -124,6 +124,10 @@ I bis 2. Administración sustentable del territorio: proceso de organización, e
 II. Alineamiento: delimitación gráfica de cualquier inmueble con respecto a la línea divisoria en el terreno que lo limita con la vialidad urbana existente o futura, o cualquier otra restricción;
 
 III. Anuncio: cualquier expresión gráfica, escrita o electrónica que se coloca o difunde en cualquier vialidad urbana o bien de uso común, o que sea visible desde los mismos, para mostrar o informar al público cualquier mensaje, publicidad o propaganda, relacionado con la producción o venta de bienes, con la prestación de servicios y, en general, con el ejercicio lícito de cualquier actividad, así como la estructura física que la contenga o soporte;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+III bis. Arbolado urbano: especímenes de especies arbóreas ubicados en los centros de población;
 
 IV. Área de donación: superficie de terreno que el desarrollador transmite al Municipio, destinada a la dotación de equipamiento urbano y a áreas verdes de los fraccionamientos y desarrollos en condominio, en extensión proporcional a la superficie total del proyecto autorizado;
 
@@ -750,6 +754,14 @@ VII. Elaborar y proponer al Ejecutivo del Estado el inventario de especies veget
 VIII. Emitir opiniones en el ámbito de su competencia, que le soliciten las autoridades federales, estatales y municipales;
 
 IX. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+IX bis. Asesorar a las autoridades municipales en la planeación, elaboración, capacitación, operación, ejecución y evaluación de los programas municipales de arbolado urbano;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+IX bis 1. Apoyar técnicamente a las autoridades municipales en la planeación, elaboración, capacitación y evaluación de los programas municipales de arbolado urbano;
 
 X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
@@ -5221,7 +5233,9 @@ II bis. Priorizarán la forestación y reforestación de conformidad con la pale
 
 II bis 1. Promoverán acciones y estrategias encaminadas al cuidado y conservación del arbolado urbano;
 
-III. Procurarán que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+III. Se asegurarán de que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio; y
 
 IV. Tomarán las medidas y acciones para evitar el uso de agua potable en el riego de parques urbanos, jardines públicos y áreas verdes.
 
@@ -5249,6 +5263,146 @@ Convenios para la protección y ornato de zonas federales de causes y cuerpos de
 
 Los ayuntamientos podrán celebrar, con la participación que corresponda al Ejecutivo del Estado, los convenios y acuerdos necesarios para la protección y ornato de las zonas federales de cauces y cuerpos de aguas nacionales que se ubiquen dentro de los centros de población.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Quinta Bis. Arbolado urbano
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Manejo sustentable del arbolado urbano
+
+Artículo 282 bis. Corresponde a los municipios planificar, coordinar y fomentar el manejo sustentable del arbolado urbano, mediante la conservación, mantenimiento, protección, restitución, saneamiento y reproducción.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Atribuciones de la unidad administrativa en materia de arbolado urbano
+
+Artículo 282 bis 1. Corresponden a la unidad administrativa en materia de arbolado urbano las atribuciones siguientes:
+
+I. Elaborar, operar y mantener actualizado un registro municipal de arbolado urbano;
+
+II. Promover la participación social en acciones de mantenimiento, restauración, conservación, protección y restitución para el cuidado del arbolado urbano;
+
+III. Establecer acciones para arborizar las áreas urbanizadas, en términos de la paleta vegetal;
+
+IV. Llevar a cabo el manejo integral del arbolado en espacios públicos;
+
+V. Establecer y operar el registro municipal de prestadores de servicios en materia de arbolado urbano; así como expedir, modificar, suspender y revocar la inscripción al registro;
+
+VI. Promover y coordinar la capacitación técnica de los prestadores de servicios en materia de arbolado urbano;
+
+VII. Evaluar los estudios técnicos que presenten las personas físicas o morales para realizar podas, talas o trasplante del arbolado;
+
+VIII. Suspender, revocar o modificar las resoluciones otorgadas para realizar podas, talas o trasplantes del arbolado urbano, en los términos del reglamento municipal correspondiente;
+
+IX. Expedir las resoluciones en materia de manejo sustentable del arbolado urbano; y
+
+X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Programa municipal de arbolado urbano
+
+Artículo 282 bis 2. Los ayuntamientos planearán, elaborarán, operarán, ejecutarán y evaluarán su programa municipal de arbolado urbano, el cual será acorde a los instrumentos de planeación territorial.
+
+El Ayuntamiento deberá regular que las obras que se desarrollen en su territorio prioricen la incorporación de arbolado urbano en sus proyectos.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Registro municipal de arbolado urbano
+
+Artículo 282 bis 3. El registro municipal de arbolado urbano permitirá recopilar, sistematizar, analizar y monitorear la información relacionada con el arbolado urbano del Municipio.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Incentivos fiscales
+
+Artículo 282 bis 4. Los ayuntamientos establecerán incentivos fiscales para las personas físicas o morales que cumplan con las disposiciones de esta Sección.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Contenido mínimo del registro municipal de arbolado urbano
+
+Artículo 282 bis 5. El registro municipal de arbolado urbano contendrá al menos lo siguiente:
+
+I. Delimitación de los centros de población objeto del registro, en congruencia con los programas estatales y municipales;
+
+II. Ubicación de cada árbol, incluyendo las coordenadas geográficas;
+
+III. La identificación del árbol registrado, con sus nombres común y científico, de conformidad con el inventario de especies vegetales nativas y la paleta vegetal;
+
+IV. El cálculo de los servicios ambientales y al paisaje e imagen urbana prestados por los árboles; y
+
+V. Cualquier otra información que el Ayuntamiento considere para la protección, conservación o su mantenimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Resolución para la poda, tala o trasplante
+
+Artículo 282 bis 6. La poda, tala o trasplante de cualquier espécimen del arbolado urbano solo puede realizarse cuando se haya autorizado por la unidad administrativa municipal en materia de arbolado urbano y realizado el pago de los derechos correspondientes para su debida compensación.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Supuestos para la poda, tala o trasplante del arbolado urbano
+
+Artículo 282 bis 7. La unidad administrativa municipal que corresponda solo podrá autorizar la tala del arbolado urbano a manera de excepción, previo estudio técnico cuando:
+
+I. Ha concluido su periodo de vida o presente algún daño irreversible y degenerativo que impida su sobrevivencia;
+
+II. Interfiera con la ejecución de alguna obra de utilidad pública, y no sea posible técnica o físicamente su trasplante;
+
+III. Represente un riesgo fitosanitario a cualquier otro espécimen de arbolado urbano;
+
+IV. Se requiera realizar el aclareo para inducir el adecuado desarrollo del arbolado urbano, priorizando el de los especímenes de especies nativas;
+
+V. El espécimen pertenece a alguna especie exótica invasora o a alguna otra prevista en los programas de sustitución de especies exóticas previamente aprobados por la autoridad competente;
+
+VI. Se acredite mediante estudio técnico que causa daño a la propiedad o a la integridad física de las personas por riesgo inminente; y
+
+VII. Para prevenir riesgos, daños, contingencias ambientales o urbanas.
+
+En los supuestos referidos en las fracciones anteriores deberán considerarse las medidas de sustitución o compensación que se deberán llevar a cabo.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Árboles patrimoniales o protegidos
+
+Artículo 282 bis 8. La unidad administrativa municipal que corresponda emitirá estudio técnico para que el Ayuntamiento apruebe la inclusión de los árboles patrimoniales o protegidos en el registro municipal de arbolado urbano que se distinga por su valor histórico, cultural, escénico, paisajístico, tradicional, etnológico o como monumento natural para la sociedad.
+
+En la declaratoria que emita el Ayuntamiento, deben determinarse, al menos, las medidas y acciones para la conservación de los especímenes materia de la misma.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Prohibición de realizar acciones que dañen o afecten el arbolado urbano
+
+Artículo 282 bis 9. Queda prohibida cualquier acción que cause daños o afectaciones al arbolado urbano, y a las áreas verdes urbanas, como son:
+
+I. Aplicar, rociar, inyectar o verter pintura o cualquier material o sustancia corrosiva, reactiva, explosiva, tóxica, inflamable o biológica infecciosa a los especímenes del arbolado urbano;
+
+II. Colocar, fijar o mantener cualquier objeto en algún espécimen del arbolado urbano;
+
+III. Talar, trasplantar o podar sin el permiso o la autorización correspondiente;
+
+IV. Derribar algún espécimen del arbolado urbano;
+
+V. Podar cualquier espécimen del arbolado urbano de forma que se afecte su estructura o sus funciones;
+
+VI. Efectuar el desmoche del arbolado o podas que comprometan la supervivencia del mismo;
+
+VII. Dañar algún elemento natural o del equipamiento o infraestructura de los parques, jardines y áreas verdes o del espacio público en que esté arraigado algún espécimen del arbolado urbano; y
+
+VIII. Plantar con especies no incluidas en la paleta vegetal o en el inventario de especies vegetales nativas.
+
+Cualquier persona que plante un árbol dentro de los centros de población del Municipio deberá prever que su crecimiento no llegue a obstruir, interferir o afectar otros árboles, bienes inmuebles, infraestructura pública y el libre tránsito de las personas.
+
+Además, deberán tomar las medidas y acciones pertinentes para prevenir y controlar las plagas y enfermedades que afecten o puedan afectar a los especímenes vegetales, así como de colaborar con las autoridades municipales competentes en la atención a las condiciones fitosanitarias del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Obligaciones en materia de arbolado urbano
+
+Artículo 282 bis 10. Quien incumpla con las obligaciones en materia de arbolado urbano establecidas en la presente Sección está obligado a contribuir en la conservación y mantenimiento del arbolado urbano.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 #### Sección Sexta. Resiliencia urbana, prevención y reducción de riesgos, contingencias y desastres urbanos
@@ -5256,10 +5410,6 @@ Los ayuntamientos podrán celebrar, con la participación que corresponda al Eje
 Acciones para la prevención de riesgos y contingencias
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-#### Sección Primera. Prestación de los servicios públicos
-
-Usos
 
 ###### Artículo 283.
 
@@ -5615,9 +5765,9 @@ III. Negar la ejecución de la construcción, obra, instalación o proyecto, cua
 
 ### Capítulo III. Servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales
 
-#### Sección Segunda. Tarifas
+#### Sección Primera. Prestación de los servicios públicos
 
-Pago de los servicios
+Usos
 
 ###### Artículo 312.
 
@@ -5779,11 +5929,9 @@ VI. Conocer con debida anticipación el régimen tarifario y recibir oportunamen
 
 VII. Formar comités para promover la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas destinados a la prestación de los servicios públicos.
 
-#### Sección Tercera. Prevención y control de la contaminación del agua
+#### Sección Segunda. Tarifas
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Acciones para prevenir y controlar la contaminación
+Pago de los servicios
 
 ###### Artículo 328.
 
@@ -5909,9 +6057,11 @@ En caso de incumplimiento del pago por la prestación de los servicios públicos
 
 Tratándose de uso doméstico, sólo se otorgará la dotación de agua suficiente para las necesidades básicas.
 
-#### Sección Cuarta. Cultura del Agua
+#### Sección Tercera. Prevención y control de la contaminación del agua
 
-Cultura del Agua
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Acciones para prevenir y controlar la contaminación
 
 ###### Artículo 342.
 
@@ -5991,21 +6141,9 @@ Notificación de la resolución de revocación
 
 Cuando se decrete la revocación, la Procuraduría previa audiencia con el interesado, decretará y notificará la resolución respectiva.
 
-#### Sección Primera. Mecanismos de participación
+#### Sección Cuarta. Cultura del Agua
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-Consejos estatal y municipales
-
-Artículo 520 bis. Para asegurar la consulta, opinión y deliberación de las políticas de ordenamiento ecológico territorial y planeación del desarrollo urbano y desarrollo metropolitano, conforme al sistema de planeación democrática del desarrollo nacional previsto en el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, en el ámbito de sus respectivas competencias, constituirán los siguientes órganos de participación social y conformación plural:
-
-I. Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano; y
-
-II. Consejos Municipales de Desarrollo Urbano y Vivienda.
-
-Corresponde al Ejecutivo del Estado y a los ayuntamientos, la creación y apoyo en la organización y funcionamiento de los consejos referidos en el presente artículo.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+Cultura del Agua
 
 ###### Artículo 350.
 
@@ -6635,9 +6773,15 @@ Para obtener la aprobación de traza, el desarrollador deberá presentar a la un
 
 I. Escritura de propiedad del área o predio a urbanizar;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-II. El proyecto de diseño urbano del fraccionamiento o desarrollo en condominio de que se trate, que incluirá la propuesta de lotificación y de las obras de urbanización, así como la de la ubicación, características y destino de las áreas de donación;
+II. El proyecto de diseño urbano del fraccionamiento o desarrollo en condominio de que se trate, que incluirá las propuestas de:
+
+a) Lotificación y de las obras de urbanización;
+
+b) Ubicación, características y destino de las áreas de donación; y
+
+c) Forestación del fraccionamiento o desarrollo en condominio, en el que se prevea la plantación de, al menos, un árbol por cada lote o unidad privativa, según sea el caso, de alguna de las especies listadas en la paleta vegetal o, a falta de ésta, en el inventario de especies vegetales nativas;
 
 III. La certificación de clave catastral respectiva;
 
@@ -6785,7 +6929,9 @@ Entrega de las áreas verdes y equipamiento urbano
 
 Las áreas verdes que el desarrollador entregue al Municipio deberán estar forestadas, conforme a la paleta vegetal.
 
-Las áreas destinadas para la dotación de equipamiento urbano, serán urbanizadas por el desarrollador de acuerdo a las características del proyecto. La unidad administrativa municipal, determinará el tipo de equipamiento urbano a que se destinarán estas áreas, previo análisis de la propuesta presentada por el desarrollador.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Las áreas destinadas para la dotación de equipamiento urbano serán urbanizadas por el desarrollador de acuerdo a las características del proyecto. La unidad administrativa municipal, determinará el tipo de equipamiento urbano a que se destinarán estas áreas, previo análisis de la propuesta presentada por el desarrollador. El equipamiento urbano que se instale deberá ser el adecuado para realizar actividades culturales, educativas, de recreación, deportivas o de servicios asistenciales.
 
 Ubicación de las áreas de donación
 
@@ -6795,7 +6941,17 @@ Ubicación de las áreas de donación
 
 Las áreas de donación del fraccionamiento o desarrollo en condominio no podrán ser residuales ni estar ubicadas en zonas inundables o de riesgo, o presentar condiciones topográficas que dificulten su aprovechamiento.
 
-Cuando el fraccionamiento o desarrollo en condominio se construya en una superficie de hasta una hectárea, las áreas de donación se entregarán en una sola porción; en caso de que la superficie en la que se lleve a cabo sea mayor a la referida, la unidad administrativa municipal en materia de administración sustentable del territorio determinará, por medio del dictamen técnico correspondiente, las porciones en que el desarrollador entregará tales áreas de donación, procurando que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Cuando el fraccionamiento o desarrollo en condominio se construya en una superficie de hasta una hectárea, las áreas de donación se entregarán en una sola porción; en caso de que la superficie en la que se lleve a cabo sea mayor a la referida, la unidad administrativa municipal en materia de administración sustentable del territorio determinará, por medio del dictamen técnico correspondiente, las porciones en que el desarrollador entregará tales áreas de donación.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Las áreas verdes deberán estar consolidadas en una sola porción. De no ser viable, estas deberán distribuirse de manera equitativa y equilibrada, considerando los niveles de servicio, su compatibilidad, las características mínimas para su forestación y equipamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+En el proyecto de diseño urbano se deberán establecer las áreas verdes atendiendo a la distribución de cada lote previsto en el fraccionamiento o desarrollo en condominio, previo a la aprobación de traza.
 
 Áreas de equipamiento fuera del área a urbanizar
 
@@ -7809,6 +7965,22 @@ La Secretaría, y las dependencias y entidades de la administración pública es
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
+#### Sección Primera. Mecanismos de participación
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Consejos estatal y municipales
+
+Artículo 520 bis. Para asegurar la consulta, opinión y deliberación de las políticas de ordenamiento ecológico territorial y planeación del desarrollo urbano y desarrollo metropolitano, conforme al sistema de planeación democrática del desarrollo nacional previsto en el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, en el ámbito de sus respectivas competencias, constituirán los siguientes órganos de participación social y conformación plural:
+
+I. Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano; y
+
+II. Consejos Municipales de Desarrollo Urbano y Vivienda.
+
+Corresponde al Ejecutivo del Estado y a los ayuntamientos, la creación y apoyo en la organización y funcionamiento de los consejos referidos en el presente artículo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 #### Sección Segunda. Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
@@ -7879,21 +8051,15 @@ Artículo 520 quinquies 2. Los miembros de los consejos estatal y municipales ac
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
+### Capítulo II. Órganos auxiliares
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 #### Sección Primera. Consejo Estatal Hidráulico
 
 Consejo Estatal Hidráulico
 
 REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)
-
-### Capítulo II. Órganos auxiliares
-
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
-
-#### Sección Segunda. Consejo Estatal de Vivienda
-
-Consejo Estatal de Vivienda
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 521.
 
@@ -7960,6 +8126,12 @@ Para los efectos del artículo anterior, el Ejecutivo del Estado y los ayuntamie
 Las instituciones de asesoría y consulta técnica podrán establecerse a nivel municipal, regional o estatal.
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Segunda. Consejo Estatal de Vivienda
+
+Consejo Estatal de Vivienda
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 525.
 
@@ -8852,3 +9024,27 @@ Artículo Segundo. Los ayuntamientos deberán actualizar los reglamentos y demá
 Programa de actualización de micro medición
 
 Artículo Tercero. Los organismos operadores contarán con un periodo de ciento ochenta días posteriores a la entrada en vigor del presente decreto para crear, impulsar e implementar un programa de actualización de micro medición para los usuarios que no cuenten con este servicio, generando acciones que faciliten la incorporación a este nuevo sistema.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para adecuar los reglamentos municipales
+
+Artículo Segundo. Los ayuntamientos deberán emitir o actualizar los reglamentos municipales para hacer efectiva la protección, cuidado y conservación del arbolado urbano, en un plazo que no exceda de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+Plazo para emitir el programa municipal de arbolado urbano
+
+Artículo Tercero. Los ayuntamientos deberán emitir su programa municipal de arbolado urbano, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+Plazo para emitir o actualizar el registro municipal de arbolado urbano
+
+Artículo Cuarto. Los ayuntamientos deberán emitir o actualizar su registro municipal de arbolado urbano, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+Previsión presupuestal
+
+Artículo Quinto. Los ayuntamientos deberán considerar las previsiones presupuestales para el cumplimiento del presente Decreto.
