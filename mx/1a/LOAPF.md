@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2020-01-22"
+last_updated: "2020-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -618,19 +618,37 @@ Cuando en ejercicio de estas funciones, se presente la posible comisión de un h
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-V.- Ejercer la autoridad en las zonas marinas mexicanas, en las materias siguientes:
+V.- Ejercer la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales; así como, en su caso, aguas nacionales donde se realicen actividades de su competencia, en las materias siguientes:
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
 
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
 
-c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales y las leyes de la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+c) Prevención de la contaminación marina originada por embarcaciones o artefactos navales, así como el vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
 
-VI.- Dirigir la educación pública naval;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales de los que el Estado mexicano es parte y la normatividad nacional en la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+V Bis.- Regular las comunicaciones y transportes por agua, así como formular y conducir las políticas y programas para su desarrollo, de acuerdo a las necesidades del país;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+VI.- Dirigir la educación naval militar y la educación náutica mercante;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+VI Bis.- Regular, promover y organizar a la marina mercante, así como establecer los requisitos que deba satisfacer el personal técnico de la marina mercante y conceder las licencias y autorizaciones respectivas;
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
 
@@ -650,7 +668,9 @@ VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporc
 
 VIII.- Inspeccionar los servicios de la Armada;
 
-IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina, así como las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas;
 
 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 
@@ -660,11 +680,31 @@ XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías 
 
 XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en aguas nacionales;
 
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII Bis. Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones y transportes por agua con embarcaciones o artefactos navales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII Ter. Coordinar la implementación de las acciones necesarias con las demás dependencias de la Administración Pública Federal, para el cumplimiento de las disposiciones nacionales e internacionales en materia marítima, en el ámbito de su competencia;
+
 XIII.- Intervenir en la administración de la justicia militar;
 
 > <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
 XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Bis.- Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Ter.- Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Quáter.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes por agua y las tarifas para el cobro de los mismos; otorgar concesiones y permisos, y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con las comunicaciones y transportes por agua; así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes por agua;
 
 > <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
@@ -1568,9 +1608,9 @@ XXIV.- Los demás que expresamente le atribuyan las leyes y reglamentos.
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-I.- Formular y conducir las políticas y programas para el desarrollo del transporte, con la intervención que las leyes otorgan a la Secretaría de Marina respecto al transporte por agua, así como de las comunicaciones, de acuerdo a las necesidades del país;
+I.- Formular y conducir las políticas y programas para el desarrollo de las comunicaciones y transporte terrestre y aéreo, de acuerdo a las necesidades del país;
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2014)</small>
 
@@ -1598,29 +1638,27 @@ X.- (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
-XII.- Fijar normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes y las tarifas para el cobro de los mismos, así como otorgar concesiones y permisos y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con los transportes o las comunicaciones; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres;
 
 XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
-XIV.- Regular, promover y organizar la marina mercante;
+XIV.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, marina mercante, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
+XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
 
-XVI.- Regular las comunicaciones y transportes por agua;
+XVI.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+XVII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-XVII.- Participar con la Secretaría de Marina en la aplicación de las medidas en materia de seguridad y protección marítima;
+XVIII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+XIX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado;
-
-XIX.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
-
-XX.- Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+XX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
 XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
 
@@ -3569,3 +3607,29 @@ D.O.F. 22 DE ENERO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+D.O.F. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Cuarto. Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+
+La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
+
+Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+
+Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
