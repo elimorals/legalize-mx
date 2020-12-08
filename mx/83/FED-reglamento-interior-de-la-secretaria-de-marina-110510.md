@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-110510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-11-17"
-last_updated: "2017-12-11"
+last_updated: "2020-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "2015-11-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL LA FEDERACIÓN DEL 11 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de noviembre de 2015.
 
@@ -99,17 +97,27 @@ B. Unidad Jurídica;
 
 C. Universidad Naval;
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-C Bis. Unidad de Capitanías de Puerto y Asuntos Marítimos, y
+C Bis. Unidad de Capitanías de Puerto y Asuntos Marítimos;
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+C Ter. Unidad de Policía Naval, y
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+C Quáter. Unidad de Investigación y Desarrollo Tecnológico;
 
 D. Direcciones Generales:
 
 1. De Construcciones Navales;
 
-2. De Servicios;
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-3. De Investigación y Desarrollo;
+2. De Servicios Generales e Hidrográficos;
+
+3. (DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 3 Bis. (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2017)
 
@@ -217,9 +225,13 @@ h) Operación del señalamiento marítimo, y
 
 i) Regulación y vigilancia de la seguridad en la navegación;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-XIX Bis. Establecer la jurisdicción territorial y marítima de las Capitanías de Puerto, y
+XIX Bis. Establecer la jurisdicción territorial y marítima de las capitanías de Puerto;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XIX Ter. Definir la investigación científica y el desarrollo tecnológico e innovación que requiera la Secretaría, y
 
 XX. Las demás facultades que con carácter de indelegables le otorguen las disposiciones jurídicas aplicables o le asigne el Presidente.
 
@@ -557,11 +569,11 @@ XIII Bis. Certificar la documentación que obra en su archivo y aquéllos que se
 
 XIV. Las demás que le confieran las disposiciones jurídicas aplicables o que le sean encomendadas por el Secretario.
 
-(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2017) (F. DE E., D.O.F. 11 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ### CAPÍTULO VIII
 
-De las Atribuciones Específicas de la Universidad Naval, Unidad de Promoción y Protección de los Derechos Humanos, Unidad Jurídica y Unidad de Capitanías de Puerto y Asuntos Marítimos
+De las Atribuciones Específicas de la Universidad Naval, Unidad de Promoción y Protección de los Derechos Humanos, Unidad Jurídica, Unidad de Capitanías de Puerto y Asuntos Marítimos, Unidad de Policía Naval y Unidad de Investigación y Desarrollo Tecnológico
 
 ###### Artículo 14.
 
@@ -743,7 +755,9 @@ f) Regulación de la seguridad de la navegación y de la protección marítima e
 
 II. Dirigir, coordinar y supervisar a las Capitanías de Puerto, en el ejercicio que éstas hagan de las atribuciones que les confieren las leyes, tratados internacionales, acuerdos interinstitucionales, reglamentos, normas oficiales mexicanas y demás ordenamientos jurídicos aplicables;
 
-III. Ejercer las atribuciones previstas en el artículo 8 Bis, fracciones IV, V, XV, XVI y XVIII de la Ley de Navegación y Comercio Marítimos, para lo cual, cuando lo estime necesario, podrá auxiliarse de las Capitanías de Puerto;
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+III. Ejercer las atribuciones previstas en el artículo 8 Bis, fracciones IV, V, VI, XV, XVI y XVIII de la Ley de Navegación y Comercio Marítimos, para lo cual, cuando lo estime necesario, podrá auxiliarse de las Capitanías de Puerto;
 
 IV. Proponer al Secretario el establecimiento de la jurisdicción territorial y marítima de las Capitanías de Puerto;
 
@@ -827,6 +841,44 @@ V. Turnar para la resolución del superior jerárquico, los recursos administrat
 
 VI. Las demás que le confieran las leyes y reglamentos, así como aquellas que expresamente se autoricen para su ejercicio en términos de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 16 Quinquies.
+
+Corresponde a la Unidad de Policía Naval:
+
+I. Administrar y controlar los recursos humanos, materiales y financieros asignados a las Brigadas de Policía Naval y a los Centros de Adiestramiento de Policía Naval;
+
+II. Proponer los recursos humanos, materiales y financieros que la Secretaría de Marina asignará a la Guardia Nacional;
+
+III. Establecer, en coordinación con la Universidad Naval, los requerimientos de capacitación, adiestramiento y entrenamiento, para el personal naval que integre las Brigadas de Policía Naval;
+
+IV. Coordinar con la Guardia Nacional, la evaluación del personal naval comisionado en ese órgano, en el desempeño de su comisión, así como en su comportamiento disciplinario, y
+
+V. Coordinar con la Secretaría de Seguridad y Protección Ciudadana, a través de la Guardia Nacional, las prestaciones que se otorgarán al personal naval derivadas de su comisión en ese órgano.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 16 Sexies.
+
+Corresponde a la Unidad de Investigación y Desarrollo Tecnológico:
+
+I. Planear, coordinar y supervisar la ejecución de los proyectos de investigación científica y desarrollo tecnológico e innovación de la Secretaría;
+
+II. Promover la implementación de los proyectos y productos de innovación generados de la investigación y desarrollo tecnológico de la Secretaría;
+
+III. Proponer los proyectos de ciencia y tecnología con el fin de solucionar problemáticas y necesidades de la Secretaría, que sean viables de desarrollar a través de instituciones o centros de investigación de dicha Secretaría, nacionales o internacionales, con recursos propios o de fondos instituidos para tal fin;
+
+IV. Establecer y mantener vínculos con instituciones nacionales y extranjeras en el ámbito de investigación científica y desarrollo tecnológico e innovación;
+
+V. Participar en la supervisión y evaluación de las actividades de investigación y desarrollo de tecnologías que realicen otras instituciones y empresas públicas y privadas a la Secretaría;
+
+VI. Emitir opinión, en el ámbito de competencia de la Secretaría, sobre solicitudes efectuadas por instituciones u organismos nacionales e internacionales en materia de tecnologías relacionadas con el desarrollo marítimo nacional, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
+
+VII. Representar a la Secretaría por acuerdo del Secretario, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en materia de investigación científica y desarrollo tecnológico e innovación que sean de interés para la Secretaría, y
+
+VIII. Las demás que le confieran otras disposiciones jurídicas o que le sean ordenadas por el Secretario.
+
 ### CAPÍTULO IX. De las Direcciones Generales
 
 ###### Artículo 17.
@@ -849,9 +901,11 @@ VI. Las demás atribuciones que le confieran las disposiciones jurídicas aplica
 
 El Director General de Construcciones Navales para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Construcción Naval, el Director General Adjunto de Reparación Naval, el Director General Adjunto de Ingeniería y Mantenimiento, y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Construcciones Navales, cuando se encuentren autorizados presupuestalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Dirección General de Servicios:
+Corresponde a la Dirección General de Servicios Generales e Hidrográficos:
 
 > <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
 
@@ -899,79 +953,71 @@ XIX. Supervisar la operación, mantenimiento y administración de las tecnologí
 
 XX. Integrar las necesidades de material y equipo de comunicaciones e informática de las Unidades Administrativas y Operativas, proponiendo su adquisición;
 
-XXI. Aprobar las actividades de las Unidades Administrativas que dependen de las Direcciones Generales Adjuntas bajo su adscripción, y
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-XXII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables o que le sean ordenadas por el Secretario.
+XXI. Aprobar las actividades de las Unidades Administrativas que dependen de las Direcciones Generales Adjuntas bajo su adscripción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXII. Supervisar la ejecución de estudios relativos a la protección y conservación del medio ambiente marino, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Emitir opinión, en el ámbito de competencia de la Secretaría, sobre solicitudes efectuadas por instituciones u organismos nacionales e internacionales en materia de permisos para expediciones o exploraciones de carácter científico en las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Supervisar los trabajos hidrográficos, oceanográficos, meteorológicos y operación del Centro de Alerta de Tsunamis, así como la integración del archivo de información oceanográfica nacional y el archivo de cartas marítimas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXV. Emitir lineamientos para hacer cumplir y coadyuvar en el cumplimiento de las disposiciones en materia de equilibrio ecológico y protección al medio ambiente marino, con base en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Coadyuvar con otras dependencias de la Administración Pública Federal en las actividades de protección al medio ambiente marino, sin perjuicio de las atribuciones de estas, así como supervisar los programas que implementa la Secretaría en materia de preservación y restauración del medio ambiente marino;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Proporcionar el apoyo técnico y humano que requiera el Estado Mayor, para la aplicación del Plan Nacional de Contingencias para Combatir y Controlar Derrames de Hidrocarburos y otras Sustancias Nocivas en el Mar, así como celebrar convenios de coordinación necesarios que garanticen la efectiva prevención y control de la contaminación marina;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXVIII. Emitir opinión científica sobre estudios de afectación al medio ambiente en proyectos de construcción de todo tipo de vías generales de comunicación marítima, fluvial y lacustre, así como los espacios integrantes de estas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXIX. Participar en el desarrollo de la infraestructura, administración y seguridad portuaria, así como el señalamiento marítimo en los recintos portuarios y zonas de fondeo;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXX. Promover el desarrollo y operación de las redes mareográfica y meteorológica de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXXI. Representar a la Secretaría por acuerdo del Secretario, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en las materias a que se refiere el presente artículo;
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Proponer al Subsecretario el otorgamiento de los permisos de vertimientos en las Zonas Marinas Mexicanas, de conformidad con las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+XXXIII. Las demás que le confieran otras disposiciones jurídicas o que le sean ordenadas por el Secretario.
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 20.
 
-El Director General de Servicios para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Comunicaciones e Informática, el Director General Adjunto de Armamento, el Director General Adjunto de Obras y Dragado, y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Servicios, cuando se encuentren autorizados presupuestalmente.
+El Director General de Servicios Generales e Hidrográficos para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Comunicaciones e Informática, el Director General Adjunto de Armamento, el Director General Adjunto de Obras y Dragado, el Director General Adjunto de Oceanografía, Hidrografía y Meteorología, y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Servicios Generales e Hidrográficos, cuando se encuentren autorizados presupuestalmente.
 
 ###### Artículo 21.
 
-Corresponde a la Dirección General de Investigación y Desarrollo:
-
-I. Planear, coordinar y supervisar la ejecución de los proyectos de desarrollo e investigación científica y tecnológica de la Secretaría;
-
-II. Supervisar la ejecución de estudios relativos a la protección y conservación del medio ambiente marino, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
-
-III. Promover la implementación de los proyectos y productos de innovación generados de la investigación y desarrollo tecnológico de la Secretaría;
-
-IV. Proponer los proyectos de ciencia y tecnología con el fin de solucionar problemáticas y necesidades puntuales de la Secretaría, que sean viables de desarrollar a través de instituciones o centros de investigación de la misma, nacionales o internacionales, con recursos propios o de fondos instituidos para tal fin;
-
-V. Emitir opinión sobre solicitudes efectuadas por instituciones u organismos nacionales e internacionales en materia de permisos para expediciones o exploraciones de carácter científico en las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
-
-VI. Supervisar los trabajos hidrográficos, oceanográficos, meteorológicos, así como la integración del archivo de información oceanográfico nacional y el archivo de cartas marítimas;
-
-VII. Establecer y mantener vínculos con instituciones nacionales y extranjeras en el ámbito de investigación y desarrollo de ciencia y tecnología;
-
-VIII. Emitir lineamientos para hacer cumplir y coadyuvar en el cumplimiento de las disposiciones en materia de equilibrio ecológico y protección al medio ambiente marino, con base en la legislación aplicable;
-
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-IX. Coadyuvar con otras dependencias de la Administración Pública Federal en las actividades de protección al medio ambiente marino, sin perjuicio de las atribuciones de estas; así como supervisar los programas que implementa la Secretaría en materia de preservación y restauración del medio ambiente marino;
-
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-X. Proporcionar el apoyo técnico y humano que requiera el Estado Mayor, para la aplicación del Plan Nacional de Contingencias para Combatir y Controlar Derrames de Hidrocarburos y otras Sustancias Nocivas en el Mar; así como celebrar convenios de coordinación necesarios que garanticen la efectiva prevención y control de la contaminación marina;
-
-XI. Emitir opinión científica sobre estudios de afectación al medio ambiente en proyectos de construcción de todo tipo de vías generales de comunicación marítima, fluvial y lacustre, así como los espacios integrantes de éstas;
-
-XII. Coordinar, con la Dirección General de Servicios, la determinación y mantenimiento de los sistemas de armas para las Unidades Operativas;
-
-XIII. Desarrollar sistemas para la optimización de las operaciones que desarrollan las Unidades Administrativas y Operativas;
-
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XIV. Participar en el desarrollo de la infraestructura, administración y seguridad portuaria, así como el señalamiento marítimo en los recintos portuarios y zonas de fondeo;
-
-XV. Promover el desarrollo y operación de las redes mareográfica, acelerométrica y meteorológica de la Secretaría;
-
-XVI. Representar a la Secretaría por acuerdo del Secretario, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en las materias a que se refiere el presente artículo;
-
-XVII. Participar en la supervisión y evaluación de las actividades de investigación y desarrollo de tecnologías que realicen otras instituciones y empresas públicas y privadas a la Secretaría, y
-
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XVIII. Implementar las políticas y programas de la Secretaría, para la prevención de la contaminación marina por embarcaciones;
-
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XIX. Ejercer la atribución que se confiere a la Secretaría en el artículo 8 Bis, fracción VI de la Ley de Navegación y Comercio Marítimos;
-
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XX. Proveer el servicio de señalamiento marítimo y ayudas a la navegación, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XXI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables o que le sean ordenadas por el Secretario.
-
-> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2017)</small>
+(DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 ###### Artículo 22.
 
-El Director General de Investigación y Desarrollo para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Oceanografía, Hidrografía y Meteorología, Director del Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, el Coordinador de Proyectos Externos y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Investigación y Desarrollo, conforme a los manuales de organización de cada una de las áreas, cuando se encuentren autorizados presupuestalmente.
+(DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 ###### Artículo 22 Bis.
 
@@ -1254,3 +1300,19 @@ Segundo.- Las erogaciones que deriven de la aplicación del presente Decreto se 
 Tercero.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, lineamientos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Marina que cambian de denominación o modifican sus atribuciones, por virtud de la entrada en vigor del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento.
 
 Cuarto.- Los asuntos que se encuentran en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
+
+D.O.F. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan y las atribuciones que se otorguen en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de Marina que cambien de denominación o desaparezcan a la entrada en vigor del presente ordenamiento, se entenderán hechas y conferidas, respectivamente, a las unidades administrativas que resulten competentes conforme a este Decreto.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Decreto que deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella unidad administrativa a la que se haya atribuido la competencia correspondiente en este Decreto.
+
+CUARTO.- Las unidades administrativas de la Secretaría de Marina, que en virtud de este Decreto cambien de denominación o se transformen en otra unidad administrativa, conservarán los recursos humanos, financieros y materiales con los que cuenten a la fecha de publicación en el Diario Oficial de la Federación, de este Decreto.
+
+QUINTO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
