@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2019-10-11"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1391,17 +1391,29 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a cinco meses o trabajo en favor de la comunidad hasta por el mismo tiempo.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+
 ### CAPITULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTICULO 144.
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+
 ### CAPITULO II. SECUESTRO
 
 ###### ARTICULO 145.
 
 Al que habiendo atropellado culposamente o por caso fortuito a una persona, no le preste auxilio o solicite la asistencia que requiera, pudiendo hacerlo, se le aplicará prisión de tres meses a dos años.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
 
 ## TITULO TERCERO. EXPOSICIÓN DE INCAPACES
 
@@ -4512,3 +4524,11 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 143, 144 Y 145 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
