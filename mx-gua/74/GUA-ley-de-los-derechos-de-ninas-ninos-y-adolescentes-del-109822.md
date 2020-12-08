@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2020-10-21"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -1039,6 +1037,14 @@ Niñas, niños y adolescentes tienen derecho a vivir en un ambiente de paz y arm
 
 Quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, deberán ejercer su derecho de educación, formación y enmienda atendiendo siempre al interés superior de éstos, quedando prohibidos los castigos corporales así como los tratos humillantes o degradantes como formas de corrección disciplinaria.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Derecho a una vida libre de violencia digital
+
+###### Artículo 48
+
+1. Niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
+
 Coordinación entre autoridades por traslado o retención ilegal de niñas, niños y adolescentes
 
 Artículo 40 (SIC). Cuando las autoridades estatales o municipales tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales, conforme a las disposiciones aplicables, para su localización y restitución.
@@ -1207,9 +1213,11 @@ No se considerará injerencia ilegal aquella que emane de quienes ejercen la pat
 
 Violación a la intimidad
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 69.
 
-Se considerará violación a la intimidad de niñas, niños y adolescentes, cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, sin que obre autorización por escrito, o por cualquier otro medio que permita constatarla, de quienes ejerzan la patria potestad, tutela, guarda o custodia, o que aun existiendo dicho consentimiento, pueda implicar menoscabo de su honra o reputación, que sea contraria a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Se considerará violación a la intimidad de niñas, niños y adolescentes, cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación o en redes sociales y, en general, en medios digitales sin que obre autorización por escrito, o por cualquier otro medio que permita constatarla, de quienes ejerzan la patria potestad, tutela, guarda o custodia, o que aun existiendo dicho consentimiento, pueda implicar menoscabo de su honra o reputación, que sea contraria a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
 
 Formalidades en las entrevistas
 
@@ -1966,3 +1974,11 @@ Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administraci�
 Plazo para actualización de reglamentación municipal
 
 Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 237, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS NUMERALES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
