@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2020-11-05"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -1095,7 +1095,9 @@ XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios
 
 XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
 
-XV. Someterse a evaluaciones de control de confianza cada tres años para acreditar el cumplimiento de sus requisitos de permanencia, ésta vigencia no aplica para el personal que desempeña funciones de mando, puestos sensibles por función, acceso a información o contexto de la entidad, ni el supuesto de promoción de personal activo con las mismas características, en cuyo caso la vigencia máxima de la evaluación será de dos años;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+XV. Someterse a evaluaciones de control de confianza que tendrá una vigencia de tres años para acreditar el cumplimiento de sus requisitos de permanencia, excepto para el personal que desempeña funciones de mando, cuyo caso la vigencia de la evaluación será de un año.
 
 XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
 
@@ -1145,11 +1147,27 @@ VII. Responder sobre la ejecución de las órdenes directas que reciban a un sol
 
 VIII. Participar en operativos de coordinación con otras corporaciones policiales, y brindarles el apoyo que conforme a derecho y posibilidades proceda;
 
-IX. Mantener en buen estado el armamento, material, municiones y equipo que se les asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-X. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia.
+IX. Mantener en buen estado el armamento, material, municiones y equipo que se les asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+X. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+XI. Portar o utilizar, cuando participen en operativos, únicamente los equipos de radiofrecuencia, de telefonía, o cualquier otro dispositivo de comunicación que les hayan sido proporcionados por la Institución a la que pertenecen, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo.
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Faltas graves
+
+###### Artículo 45
+
+1. Se considerarán faltas graves las contenidas en las fracciones I, II, VIII, XIX, XX, XXII, XXIII y XXIV del artículo 44 y las fracciones IV, VI, VIII, IX X (sic) y XI del artículo 45 de la presente Ley.
 
 Organización y funcionamiento de las Instituciones Policiales de los municipios
 
@@ -3268,5 +3286,11 @@ Artículo Séptimo. Se derogan todas las disposiciones que se opongan a lo prece
 P.O. 5 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 154, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 238, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS NUMERALES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
