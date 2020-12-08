@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2020-12-03"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1959,13 +1959,17 @@ I. Cuando se realice aprovechando alguna relación de trabajo, servicio u hospit
 
 II. Cuando se cometa por un servidor público que actúe en ejercicio y con motivo de sus funciones;
 
-III. Cuando se aproveche la consternación que una desgracia privada cause a la víctima o a su familia o las condiciones de confusión que se produzcan por catástrofe o desorden público;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+III. Cuando se aproveche la confusión o la consternación causada por un siniestro, catástrofe, disturbio social ó una desgracia privada;
 
 IV. Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales o en contra de las personas que los custodien o transporten;
 
 V. Cuando lo robado sean partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación, así como de objetos guardados en su interior;
 
-VI. Cuando se cometa sobre equipaje o valores de viajeros en cualquier lugar durante el transcurso del viaje;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+VI. Cuando el delito recaiga sobre equipaje, valores de viajeros o mercancías, en cualquier lugar durante el transcurso del viaje y se cometa en contra de quienes presten o utilicen por sí o por terceros, servicios de transporte de carga, de pasajeros, o transporte particular.
 
 VII. Cuando lo robado se trate de algún expediente o documento de protocolo notarial, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además la destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por un término de seis meses a tres años;
 
@@ -4509,7 +4513,7 @@ TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del 
 
 P.O. 29 DE MAYO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 50 POR EL QUE "SE ADICIONA UNA FRACCIÓN VII; SE REFORMA EL PÁRRAFO SEGUNDO; SE ADICIONAN TRES SUBSECUENTES PÁRRAFOS TODOS AL ARTÍCULO 160 Y, SE REPONE CON NUEVO TEXTO EL ARTÍCULO 315 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE"."]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 50 POR EL QUE “SE ADICIONA UNA FRACCIÓN VII; SE REFORMA EL PÁRRAFO SEGUNDO; SE ADICIONAN TRES SUBSECUENTES PÁRRAFOS TODOS AL ARTÍCULO 160 Y, SE REPONE CON NUEVO TEXTO EL ARTÍCULO 315 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.”]
 
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
@@ -4534,5 +4538,15 @@ P.O. 3 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 173 POR EL QUE “SE REFORMAN LAS FRACCIONES III Y VI DEL ARTÍCULO 193 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1º de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
