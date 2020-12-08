@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2019-12-22"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -1085,7 +1085,9 @@ En el Presupuesto de Egresos del Estado, correspondiente al último año del per
 
 En el caso del Poder Legislativo y para los mismos fines establecidos en el párrafo anterior, se destinará una partida que será del cinco por ciento del promedio mensual de su gasto administrativo.
 
-Tratándose de los municipios, establecerán la partida destinada a gastos de transición, considerando al menos el uno por ciento del gasto corriente previsto en el Presupuesto de Egresos correspondiente al último ejercicio del periodo constitucional de que se trate, sin incluir las partidas de servicios personales.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de los municipios, establecerán una partida destinada a gastos de transición, equivalente al uno por ciento del presupuesto del gasto corriente mensual promedio del periodo correspondiente a los primeros seis meses del último año del periodo constitucional de la administración, sin incluir las partidas de servicios personales.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -2012,3 +2014,11 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 84 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN X DEL ARTÍCULO 112 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
