@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2020-11-06"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,33 +19,93 @@ issue_date: "1981-12-30"
 ---
 # LEY FEDERAL DE DERECHOS -ANTES LEY FEDERAL DE DERECHOS PARA EL EJERCICIO FISCAL DE 1982-
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-LEY FEDERAL DE DERECHOS
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2019.
+HELADIO RAMIREZ LOPEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
+QUE LA H. QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Presidencia de la República.
+DECRETO 185.
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
+LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+D E C R E T A :
 
-DECRETO:
+CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-"El Congreso de los Estados Unidos Mexicanos, Decreta:
+DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+###### ARTICULO 1.
 
-LEY FEDERAL DE DERECHOS
+Este Código es de orden público y de observancia general en el Estado de Oaxaca. Reglamenta las Normas Constitucionales Locales relativas a:
 
-DISPOSICIONES GENERALES
+a).- Los derechos y obligaciones político-electorales del (sic) los ciudadanos del Estado de Oaxaca;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+b).- La organización, función, derechos y obligaciones de los partidos políticos;
+
+c).- La función estatal de organizar y vigilar las elecciones de los integrantes de los poderes, Legislativo y Ejecutivo del Estado de Oaxaca y de los Ayuntamientos de los Municipios que lo integran;
+
+d).- La integración y funcionamiento del Tribunal Estatal Electoral para garantizar que sus actuaciones se ajusten estrictamente a Derecho; y
+
+e).- El sistema de medios de impugnación, que permitan a los ciudadanos y partidos políticos, la mejor defensa de sus derechos.
+
+###### ARTICULO 2.
+
+Para los efectos de éste Código se adopta la siguiente terminología, que se aplicará indistintamente:
+
+a).- Constitución Federal; para referirse a la Constitución Política de los Estados Unidos Mexicanos.
+
+b).- Estado; para referirse al Estado Libre y Soberano de Oaxaca ó Estado de Oaxaca.
+
+c).- Constitución Particular; para referirse a la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+d).- Cámara Local; para referirse al Congreso del Estado ó Cámara Local de Diputados.
+
+e).- Diputado; para referirse al Diputado al Congreso del Estado.
+
+f).- Gobernador; para referirse al Gobernador del Estado de Oaxaca.
+
+g).- Instituto; para referirse al Instituto Estatal Electoral de Oaxaca.
+
+h).- Tribunal; para referirse al Tribunal Estatal Electoral de Oaxaca.
+
+i).- Consejo; para referirse al Consejo General del Instituto Estatal Electoral.
+
+j).- Código; para referirse al Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+k).- Partidos Nacionales; para referirse a los Partidos Políticos Nacionales.
+
+l).- Partidos Locales; para referirse a los Partidos Políticos Estatales.
+
+m).- Registro; para referirse al Registro Federal de Electores.
+
+n).- Periódico Oficial; para referirse al Periódico Oficial del gobierno del Estado de Oaxaca.
+
+o).- Ciudadanos; para referirse a los ciudadanos del Estado de Oaxaca.
+
+###### ARTICULO 3.
+
+El Estado libre y soberano de oaxaca adopta para su régimen interno la forma de Gobierno Republicano, Democrático, Representativo y Popular, teniendo como base, de su división territorial y de su organización política y administrativa, el Municipio Libre. Todo poder público dimana del pueblo, quien designa sus representantes mediante las elecciones populares directas que se verifiquen conforme a las normas y procedimientos establecidos por la ley.
+
+###### ARTICULO 4.
+
+Para el desempeño de sus funciones las autoridades electorales establecidas por la Constitución Particular y éste Código, contarán con el apoyo y colaboración de las autoridades estatales y municipales. Podrán también celebrar convenios o acuerdos con Autoridades u Organismos Federales para el mejor cumplimiento de su cometido.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+###### ARTICULO 5.
+
+1.- La aplicación de este Código corresponde al Instituto Estatal Electoral, al Tribunal Estatal Electoral y al Congreso del Estado erigido en Colegio Electoral para la calificación de las elecciones de gobernador y concejales de los ayuntamientos en sus respectivos ámbitos de competencia, de acuerdo a lo establecido en la Constitución particular y en este Código.
+
+2.- La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
+
+# LIBRO PRIMERO. DE LA INTEGRACION DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS
 
 ###### ARTICULO 1o.
 
@@ -337,41 +397,117 @@ Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, de
 
 Lo dispuesto en el presente artículo, también será aplicable a cualquier órgano del Estado que preste servicios públicos u otorgue el uso, goce, aprovechamiento o explotación de bienes de dominio público que den lugar al pago de derechos.
 
-## TITULO I. De los Derechos por la Prestación de Servicios
+## TITULO PRIMERO. DE LA PARTICIPACION DE LOS CIUDADANOS EN LAS ELECCIONES
 
-### CAPITULO I. De la Secretaría de Gobernación
+### CAPITULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 6.
+
+1.- Votar en las elecciones locales constituye un derecho y una obligación de los ciudadanos que se ejerce para integrar los órganos estatales de elección popular.
+
+2.- Es una prerrogativa del ciudadano ser votado para los cargos de elección popular.
+
+3.- El voto es universal, libre, secreto, directo, personal e intransferible.
+
+###### ARTICULO 7.
+
+1.- Es derecho de los ciudadanos constituir partidos políticos y pertenecer a ellos.
+
+2.- Es obligación de los ciudadanos integrar las mesas directivas de casillas en los términos de éste Código.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Es derecho de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral en la forma y términos que determine el Consejo General del Instituto, de acuerdo a las bases siguientes:
+
+a).- Podrán participar solo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
+
+b).- Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal, anexando fotocopia de su credencial para votar con fotografía y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
+
+c).- La acreditación podrá solicitarse en forma personal, o a través de la agrupación a la que pertenezca, ante la Junta General Ejecutiva dentro del plazo que para tal efecto establezca el Consejo General del Instituto; la Junta dará cuenta de las solicitudes al Consejo General para su aprobación, misma que deberá resolverse en la siguiente sesión que celebre el Consejo.
+
+d).- Sólo se otorgará la acreditación a quien cumpla, además de los requisitos que señale la Autoridad Electoral, los siguientes:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II.- No ser, ni haber sido miembro de dirigencias nacionales, estatales o municipales, de organización o partido político alguno en los últimos tres años anteriores a la fecha de la elección;
+
+III.- No ser, ni haber sido candidato a puesto de elección popular en los últimos tres años anteriores a la fecha de la elección;
+
+IV.- Asistir a los cursos de preparación e información que imparta el Instituto aq (sic) las Organizaciones de observadores electorales, bajo los lineamientos y contenidos que se establezcan;
+
+e).- Los observadores se abstendrán de:
+
+I.- Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
+
+II.- Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
+
+III.- Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos;
+
+IV.- Declarar el triunfo de partido político o candidato alguno;
+
+f).- La observación podrá realizarse en cualquier ámbito territorial del Estado;
+
+g).- Los ciudadanos acreditados como observadores electorales, podrán solicitar ante el Consejo General, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que no sea confidencial en los términos fijados por la Ley y que existan las posibilidades materiales y técnicas para su entrega;
+
+h).- En los contenidos de la capacitación que los Consejos Distritales impartan a los funcionarios de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
+
+i).- Los observadores electorales podrán presentarse el día de la jornada electoral con su acreditación en una o varias casillas, así como en el local del Consejo Distrital correspondiente, pudiendo observar los siguientes actos:
+
+I.- Instalación de la casilla;
+
+II.- Desarrollo de la votación;
+
+III.- Escrutinio y cómputo de la votación en la casilla;
+
+IV.- Fijación de resultados de la votación en el exterior de la casilla;
+
+V.- Clausura de la casilla;
+
+VI.- Lectura en voz alta de los resultados en el Consejo Distrital;
+
+VII.- Recepción de escritos de insidencias y protesta;
+
+j).- Los observadores podrán presentar ante la autoridad electoral informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo General. En ningún caso los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
 ###### ARTICULO 8.
 
-Por la expedición de autorización en la que se otorga calidad migratoria de no inmigrantes a extranjeros que la soliciten y por las prórrogas que en las diferentes características comprenda esta calidad se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
+1.- Para el ejercicio del voto, los ciudadanos del Estado deberán satisfacer, además de los que fija el artículo 23 de la Constitución Particular, los siguientes requisitos:
 
-I.- Transmigrante............ $ 3,000.00
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-II.- Visitante, con entradas y salidas múltiples:
+a).- Estar inscritos en el Registro Federal de Electores en los términos que disponga la ley respectiva y,
 
-a).- Sin dedicarse a actividades lucrativas................ 198,000.00
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-b).- Sin dedicarse a actividades lucrativas por cada prórroga................. 198,000.00
+b).- Contar con la credencial para votar correspondiente.
 
-c).- Para dedicarse a actividades lucrativas............. 15,000.00
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-d).- Para dedicarse a actividades lucrativas, por cada prórroga............. 15,000.00
+2.- Previo acuerdo o convenio que se celebre entre el Registro Federal de Electores y el Instituto, las credenciales con fotografía para votar que expida aquel organismo, serán utilizadas en las elecciones locales.
 
-III.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+> <small>(ADICIONADO [N. DE E, REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+3.- En cada municipio o distrito local el sufragio se emitirá en la casilla electoral que comprenda al domicilio del ciudadano, la que deberá corresponder a su sección electoral, salvo en los casos de excepción expresamente señalados por este Código.
 
-IV.- Asilado político, por la revalidación anual o ratificación de estancia en el país...... 198,000.00
+###### ARTICULO 9.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+Son impedimentos para ser elector:
 
-V.- Estudiante, por cada revalidación anual................ 322,000.00
+I.- Estar sujeto a proceso criminal por delito que merezca pena corporal, desde que se dicte auto de formal prisión;
 
-VI.- Visitante provisional.............. 3,000.00
+II.- Estar extinguiendo pena corporal;
 
-Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
+III.- Estar sujeto a interdicción judicial, o internado en establecimiento público o privado para toxicómanos o enfermos mentales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+IV.- Ser declarado vago en términos de la Ley, en tanto no haya rehabilitación.
+
+V.- Estar condenado por sentencia ejecutoria, a la suspensión o perdida de los derechos políticos, en tanto no haya rehabilitación;
+
+VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que judicialmente sea declarada prescrita la acción penal;
+
+VII.- Los demás que señale la ley.
 
 #### SECCION PRIMERA. Servicios Migratorios
 
@@ -471,87 +607,57 @@ El pago a que se refiere este artículo será sin perjuicio del derecho que corr
 
 ###### ARTICULO 10.
 
-Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,364.59 $1,365
+1.- Para ser diputado propietario o suplente se requiere reunir los requisitos establecidos por los artículos 34 y 35 de la Constitución Particular.
 
-No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo 133 de la Ley de Migración.
+Los diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
 
-El pago del derecho a que se refiere este artículo será sin perjuicio del derecho que corresponda al otorgamiento de la condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
+2.- Para ser Gobernador del Estado se requiere satisfacer los requisitos señalados en el artículo 68 de la Constitución Particular.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+3.- Para ser concejal de los Ayuntamientos se requiere satisfacer los requisitos establecidos en los artículos 101 y 102 de la Constitución Particular.
+
+4.- Además de los requisitos que señala la Constitución Particular, los candidatos a Diputados, Gobernador y Concejales de los Ayuntamientos deberán satisfacer los siguientes:
+
+a).- Estar inscritos en el Registro Federal de Electores
+
+b).- Contar con la credencial para votar.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- No ser magistrado, juez instructor o secretario del Tribunal Federal Electoral o del Tribunal Estatal Electoral, a no ser que se separe del cargo 2 años antes de la fecha de la elección;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- No pertenecer al personal profesional de organismos electorales, federales o estatales, salvo que se separe del cargo un año antes de la fecha de la elección;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- No ser consejero ante organismos electorales, federales o estatales, salvo que se separe del cargo dos años antes de la fecha de la elección;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- No ser funcionario federal o estatal con poder ejecutivo, salvo que se separe del cargo 120 días antes de la fecha de la elección.
 
 ###### ARTICULO 11.
 
-No se pagarán los derechos señalados en el artículo 8o. de esta Ley cuando los extranjeros permanezcan en territorio nacional en las condiciones de estancia siguientes:
+1.- A ninguna persona deberá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-I. Residente Temporal Estudiante, y Residente Temporal cuando sea autorizado bajo los convenios de cooperación o intercambio educativo, cultural y científico.
-
-II. Visitantes sin permiso para realizar actividades remuneradas que se ubiquen en alguno de los siguientes supuestos:
-
-a). Ingresen a territorio nacional por vía terrestre, siempre que su estancia en el país no exceda de siete días. En caso de que se exceda dicho periodo el derecho se pagará al momento de la salida del territorio nacional.
-
-b). Pasajeros o miembros de la tripulación a bordo de buques de crucero en travesía internacional, que desembarquen para visitar el país en los puertos mexicanos que formen parte de su travesía turística y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de veintiún días, contados a partir del primer arribo a territorio nacional.
-
-c). Miembros de la tripulación que ingresen al país a bordo de cualquier tipo de buque distinto al previsto en el inciso anterior y desembarquen en puertos mexicanos y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de quince días, contados a partir del primer arribo a territorio nacional.
-
-d). Miembros de la tripulación en activo que ingresen al país a bordo de aeronaves de servicio de transporte aéreo internacional regular de pasajeros, siempre y cuando su estancia en el país no exceda de siete días.
-
-e). Cuando sean autorizados bajo los convenios de cooperación o intercambio educativo, cultural y científico.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+2.- Los partidos políticos podrán registrar simultáneamente candidatos a diputados por mayoría relativa y por representación proporcional, de acuerdo a las bases establecidas en el artículo 136 de este Código.
 
 ###### ARTICULO 12.
 
-Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $149.02 $149
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de pasajeros que abandonen el país vía aérea, el derecho previsto en este artículo, deberá ser recaudado y enterado por las empresas de transporte aéreo internacional de pasajeros.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+El Poder Legislativo se ejerce por el Congreso del Estado y estará integrado por Diputados que serán electos cada tres años. Por cada Diputado propietario habrá un suplente.
 
 ###### ARTICULO 13.
 
-Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota sin
-
-ajuste Con ajuste
-
-I. Certificados en los que se haga
-
-constar la situación migratoria $436.66 $437
-
-II. Permiso de salida y regreso al país $436.66 $437
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $3,206.81 $3,207
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-IV. Autorización o reposición de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $1,011.51 $1,012
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-No pagarán la cuota señalada en la fracción III del presente artículo, los extranjeros cuando sean autorizados al amparo de un instrumento jurídico de movilidad de personas o convenios de cooperación internacional en consideración a aspectos de reciprocidad internacional.
+La Cámara estará integrada por el número de Diputados que señale la Constitución Particular, los que serán electos en la forma que la misma señale.
 
 ###### ARTICULO 14.
 
-(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
+Para la asignación de fórmulas de Diputados de Representación Proporcional se observará lo dispuesto en el artículo 234 del presente Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 14-A.
 
@@ -625,35 +731,49 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 ###### ARTICULO 15.
 
-Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste $1,412.29 $1,412
-
-Por la reposición de la tarjeta, se pagará la misma cuota.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denominará Gobernador del Estado Libre y Soberano de Oaxaca, el cual será electo cada seis años por votación mayoritaria relativa en toda la Entidad, en los términos de los artículos 66 y 67 de la Constitución Particular y los establecidos en este Código.
 
 ###### ARTICULO 16.
 
-No pagarán los derechos por los servicios contenidos en esta Sección los extranjeros, cuando el tipo de trabajo o servicio a realizar tenga por remuneración el equivalente al valor de la Unidad de Medida y Actualización, o si se trata de Visitantes por razones humanitarias.
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-Los extranjeros a los que se les autorice la condición de estancia bajo los supuestos previstos en la fracción I del artículo 54 de la Ley de Migración, no pagarán los derechos por internación al país ni por el otorgamiento o la reposición de documentos, establecidos en esta Sección.
+La administración interior de los municipios se hará por los Ayuntamientos, el Presidente Municipal dirigirá las deliberaciones y será el ejecutor de los acuerdos.
 
 ###### ARTICULO 17.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+1.- Los Ayuntamientos serán asambleas electas por el voto popular y directo de los ciudadanos de cada Municipio, los que se integrarán de la siguiente forma:
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+I.- Un Presidente Municipal, que será el candidato que ocupe el primer lugar de la lista de Concejales registrada ante el Instituto, quien representará al Ayuntamiento en el orden político y lo dirigirá en lo administrativo.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+II.- Un Síndico, si el municipio tiene menos de 20 mil habitantes y dos si se tiene más de este número. El o los Síndicos tendrán la representación legal del Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+III.- En los municipios que tengan de 100 mil a 300 mil habitantes, el Ayuntamiento se integrará con once Concejales electos por el principio de mayoría relativa y hasta cinco regidores electos por el principio de representación proporcional. Si los Municipios se exceden de esa última cantidad, los Ayuntamientos se integrarán con quince Concejales electos por el principio de mayoría relativa y hasta siete Regidores elegidos por el principio de representación proporcional.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+IV.- En los Municipios que tengan de 50 mil a 100 mil habitantes, el Ayuntamiento se integrará con nueve Concejales electos por el principio de mayoría relativa, y hasta 4 Regidores electos por el principio de representación proporcional.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+V.- En los Municipios que tengan de 15 mil a 50 mil habitantes, el Ayuntamiento se integrará con siete Concejales electos por el principio de mayoría relativa, y hasta tres Regidores electos por el principio de representación proporcional.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+VI.- En los Municipios que tengan menos de 15 mil habitantes, el Ayuntamiento se integrará con cinco Concejales electos por el principio de mayoría relativa y hasta dos Regidores electos por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Los Concejales que integren los Ayuntamientos a que se refieren las fracciones anteriores, tomarán posesión el día primero de enero del año siguiente al de su elección y durarán en su encargo tres años.
+
+3.- En ningún caso, los Concejales Propietarios de los Ayuntamientos, podrán ser reelectos para el período inmediato.
 
 ###### ARTICULO 18.
 
-No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+El Instituto, teniendo en cuenta la fecha señalada para elecciones ordinarias ó extraordinarias según el caso, con sujeción a las convocatorias respectivas y a éste Código, señalará o modificará términos y plazos de las diferentes etapas, así como para la designación de funcionarios e instalación de los organismos electorales que deben encargarse de la preparación, desarrollo, vigilancia y calificación de la elección que corresponda.
 
 ###### ARTICULO 18-A.
 
@@ -677,31 +797,9 @@ No pagarán los derechos a los que se refiere esta Sección los extranjeros que 
 
 ###### ARTICULO 19.
 
-Por la expedición de certificados de licitud de título y contenido de publicaciones y revistas y el duplicado de los mismos, se pagarán derechos conforme a las siguientes cuotas:
+1.- Las elecciones ordinarias para la renovación de la Cámara, se celebrarán cada tres años el primer domingo del mes de agosto del año de la elección, la que será directa en los términos de la Constitución Particular y de éste Código.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Certificado de licitud de título $3,331.53 $3,332
-
-II.- Certificado de licitud de
-
-contenido $4,164.56 $4,165
-
-III.- Duplicado de certificado de
-
-licitud de título $1,665.54 $1,666
-
-IV.- Duplicado de licitud de
-
-contenido $2,081.93 $2,082
-
-V.- Registro de cambio de
-
-editor responsable $2,967.09 $2,967
-
-VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+2.- Las elecciones ordinarias para la renovación del Poder Ejecutivo se celebrarán cada seis años el primer domingo del mes agosto del año de la elección.
 
 ###### ARTICULO 19
 
@@ -1041,7 +1139,7 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-### CAPITULO II. De la Secretaría de Relaciones Exteriores
+### CAPITULO SEGUNDO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
 #### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
@@ -1051,77 +1149,17 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 20.
 
-Por la expedición de cada pasaporte o documento de identidad y viaje, se pagarán derechos conforme a las siguientes cuotas:
+Las elecciones ordinarias para concejales de los ayuntamientos, se celebrarán cada tres años el segundo domingo del mes de noviembre del año de la elección. Por cada miembro propietario se elegirá un suplente.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-I. Pasaportes ordinarios y
-
-documentos de identidad y
-
-viaje con validez hasta por un
-
-año $625.69 $625
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-II. Pasaportes ordinarios y
-
-documentos de identidad y
-
-viaje con validez mayor a un
-
-año y hasta por tres años $1,300.14 $1,300
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-III. Pasaportes ordinarios y
-
-documentos de identidad y
-
-viaje con validez mayor a
-
-tres años y hasta por seis años $1,787.67 $1,790
-
-IV.- Pasaportes ordinarios
-
-con validez hasta por diez
-
-años $2,749.08 $2,750
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-V.- Pasaportes oficiales $517.87 $520
-
-VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
-
-VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Los derechos que se obtengan por concepto de las fracciones anteriores únicamente se destinarán al gasto de los consulados en los términos del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los servicios que sean prestados en el territorio nacional.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Para los efectos de este artículo, las personas mayores de sesenta años, así como los que padezcan cualquier tipo de discapacidad comprobada, pagarán el 50% de las cuotas establecidas en las fracciones I a IV a que se refiere el mismo.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Tratándose de la expedición de pasaportes ordinarios con validez hasta por seis años para trabajadores agrícolas que, con base en memorandums de entendimiento firmados por el Gobierno Mexicano con otros países, presten servicios en el exterior, se pagará el 50% de las cuotas establecidas en las fracciones I a III de este artículo, según corresponda.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Los derechos que se obtengan por concepto de las fracciones anteriores en los servicios que sean prestados en el territorio nacional, se destinarán en un 15% a la Secretaría de Relaciones Exteriores para mejorar los servicios y operación de las delegaciones de dicha dependencia.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 21.
 
-Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio Exterior Mexicano no pagarán los derechos a que se refiere esta Sección, respecto a la expedición y refrendo de pasaportes oficiales.
+1.- En el caso de vacantes de miembros de la Cámara electos por el principio de mayoría relativa, la propia Legislatura convocará a elecciones extraordinarias, con base en las disposiciones de la Constitución Particular y de este Código, que se sujetarán, en todo caso, a la división territorial que haya servido para las ordinarias inmediatamente anteriores, en los términos y fechas señaladas en la convocatoria respectiva.
+
+2.- Las vacantes de los miembros de la Cámara, electos según el principio de representación proporcional y en las que hubiese sido llamado el suplente, se cubrirán con aquellos candidatos del mismo partido que hubiesen quedado en lugar preferente de la lista propuesta para elegir Diputados de representación proporcional, una vez asignados en cada partido los Diputados que le correspondan.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION SEGUNDA. ServiciosConsulares (sic)
 
@@ -1129,169 +1167,11 @@ Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio 
 
 ###### ARTICULO 22.
 
-Los derechos por la prestación de servicios consulares se pagarán como sigue:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Actuaciones matrimoniales $862.10 $860
-
-II.- Legalización de firmas o
-
-Sellos $731.97 $730
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III.- Visas de:
-
-a).- Certificados de análisis, de
-
-libre venta, de origen y médicos,
-
-por cada uno $878.35 $880
-
-b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-d). Por la recepción,
-
-estudio de la solicitud y,
-
-en su caso, la autorización
-
-de las visas ordinarias en
-
-pasaportes extranjeros $731.97 $730
-
-e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los derechos por la expedición de las visas ordinarias en pasaportes extranjeros a que se refiere el inciso d) de esta fracción, podrán exentarse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IV.- Expedición de certificados de:
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-a). Constitución de sociedades
-
-extranjeras y de pasavantes o
-
-patentes provisionales de
-
-navegación, por cada uno $3,676.34 $3,675
-
-b).- Matrícula consular a
-
-mexicanos, por cada una $553.12 $555
-
-c).- Importación de psicotrópicos
-
-y estupefacientes $1,253.20 $1,255
-
-d).- Copia certificada de actas del
-
-registro civil, por cada una $260.18 $260
-
-e).- De los que se expiden a
-
-petición de parte, por cada uno $1,252.46 $1,250
-
-f).- Lista de menaje de casa
-
-a mexicanos $1,916.51 $1,915
-
-g).- Lista de menaje de casa a
-
-extranjeros $2,567.43 $2,565
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Los derechos por la expedición de menajes de casa a extranjeros, podrán exentarse o reducirse por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional.
-
-V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-Cuando los servicios a que se refiere este artículo, sean prestados en territorio nacional, se pagará el 50% de los derechos correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
-
-Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+Cuando se declare nula una elección, según los principios de mayoría relativa o de representación proporcional, la elección extraordinaria que se celebre se sujetará a las disposiciones de este Código y a las que contenga la convocatoria que expida la Cámara, dentro de los treinta días siguientes a la declaración de nulidad.
 
 ###### ARTICULO 23.
 
-Los derechos por la prestación de servicios notariales en las oficinas consulares mexicanas, se pagarán conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por la renuncia de derechos
-
-Hereditarios $2,326.17 $2,325
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-II.- Por los mandatos o poderes, así como la revocación de los mismos:
-
-a).- Generales o especiales
-
-otorgados por personas físicas $2,326.17 $2,325
-
-b).- Generales o especiales
-
-otorgados por personas morales $3,497.40 $3,495
-
-III.- Por cada testamento
-
-público abierto $5,953.80 $5,955
-
-IV.- Por la expedición de
-
-subsecuentes testimonios,
-
-por hoja $146.32 $145
-
-V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
-
-VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
-
-VII.- Por las autorizaciones
-
-que otorguen las personas
-
-que ejerzan la patria potestad
-
-o la tutela sobre menores o
-
-incapaces $894.63 $895
-
-VIII.- Por otras certificaciones
-
-distintas a las señaladas en el
-
-artículo 22 de esta Ley $230.40 $230
-
-Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-En los casos en que de conformidad con la Ley del Notariado para el Distrito Federal, el Cónsul tenga que poner en las escrituras la anotación de "No pasó", se pagará íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo Cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
-
-Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano.
+Las convocatorias que expida la Cámara para la celebración de elecciones extraordinarias, no deberán restringir los derechos que este Código reconoce a los ciudadanos y a los partidos políticos, ni alterar los procedimientos y formalidades que el mismo establece.
 
 ###### ARTICULO 23-A.
 
@@ -1299,81 +1179,11 @@ Los derechos que se obtengan por concepto de las fracciones anteriores se destin
 
 ###### ARTICULO 24.
 
-No se pagarán derechos por los siguientes servicios consulares:
+1.- El Instituto podrá ajustar, conforme a la fecha señalada en la convocatoria para la celebración de elecciones extraordinarias, los plazos fijados en este Código a las diferentes etapas del proceso electoral.
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+2.- Cuando se trate de elecciones ordinarias, se podrán ampliar dichos plazos a juicio del propio Instituto si hubiese imposibilidad material para realizar, dentro de esos plazos, los actos para los cuales se establecen y publicará oportunamente el acuerdo que tome al respecto, en el Periódico Oficial.
 
-I.- La legalización de firmas de documentos:
-
-a).- Cuando sean relacionados con asuntos penales.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- A solicitud de dependencias del Ejecutivo Federal, siempre que lo requieran para algún procedimiento que recaiga en el ámbito de su competencia.
-
-c).- Las que soliciten estudiantes extranjeros para realizar sus estudios en territorio nacional, en caso de reciprocidad del país del que son nacionales.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Los que soliciten indigentes de nacionalidad mexicana, para su repatriación, la de su familia y sus bienes.
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-III.- Los que soliciten los pensionados para justificar su situación legal en el país en que residan o para comprobar su existencia física ante las autoridades mexicanas que así lo requieran.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-IV.- El registro de nacimientos y la expedición de la primera copia certificada del acta, así como el registro de defunciones y las copias certificadas de este último, en casos de protección consular.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- El visado a los permisos de tránsito y certificado de embalsamamiento de cadáveres.
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VI.- Por la expedición del certificado de lista de menaje de casa para miembros del servicio exterior mexicano.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-VII.- Por la expedición del certificado de lista de menaje de casa, a los nacionales repatriados por no haber reunido los requisitos solicitados por las autoridades para su legal estancia en los Estados Unidos de América.
-
-Para efectos de la presente exención, será necesario que el repatriado presente el documento con el que se acrediten las circunstancias antes citadas, emitido por la autoridad estadounidense correspondiente y avalado por la representación consular mexicana.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-VIII. La compulsa de documentos, para la tramitación de:
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-a).- Pasaportes
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-b).- Matrículas Consulares
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-c).- Cartillas del Servicio Militar Nacional
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-d).- Trámites de Nacionalidad
-
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-e). Actuaciones del Registro Civil
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-f). Credenciales para Votar en el Extranjero.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-IX.- Por la expedición de los certificados de presunción de nacionalidad mexicana.
+# LIBRO SEGUNDO. DE LOS PARTIDOS POLITICOS
 
 ###### ARTICULO 24-A.
 
@@ -1389,593 +1199,51 @@ IX.- Por la expedición de los certificados de presunción de nacionalidad mexic
 
 ###### ARTICULO 25.
 
-Por la realización de trámites relacionados con las fracciones I y IV del artículo 27 Constitucional, se pagarán derechos conforme a las siguientes cuotas:
+1.- Los partidos políticos son entidades de interés público que tienen como fin promover la participación ciudadana en la vida democrática del Estado, contribuir a la integración de los órganos públicos de elección popular y, como organizaciones de ciudadanos; hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo a sus principios, ideas y programas, mediante el sufragio universal, libre, secreto y directo.
 
-Cuota
+2.- De acuerdo a la Constitución Federal y a la Constitución Particular, este Código determina los derechos y las prerrogativas de que gozan los partidos políticos, así como las obligaciones a que quedan sujetos.
 
-Sin ajuste Con ajuste
-
-I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
-
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Por el examen de cada solicitud
-
-de permiso a que se refieren las
-
-fracciones IV, V, y VII $440.52 $440
-
-IV.- Para la celebración de contratos u obtención de concesiones:
-
-a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-b).- Obtención de concesiones
-
-del Gobierno Federal o de los
-
-gobiernos de las Entidades
-
-Federativas o de los Municipios $7,763.30 $7,765
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-V.- Por la expedición de permisos para la constitución de fideicomisos:
-
-a).- Por los permisos para
-
-constituir fideicomisos a que
-
-se refiere el artículo 11 de la
-
-Ley de Inversión Extranjera $15,993.41 $15,995
-
-b).- Para la modificación de
-
-los permisos para la constitución
-
-de los fideicomisos a que se
-
-refiere el inciso anterior $7,195.80 $7,195
-
-c).- Por la solicitud extemporánea
-
-del permiso para la ampliación
-
-de la vigencia de los contratos
-
-de fideicomiso, de conformidad
-
-con lo dispuesto en la Ley de
-
-Inversión Extranjera $7,841.09 $7,840
-
-d).- Para los demás casos no
-
-señalados en los incisos
-
-anteriores $528.41 $530
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
-
-VI.- Por la recepción y estudio
-
-del escrito de convenio de
-
-renuncia, para la obtención
-
-de concesiones para la
-
-exploración y explotación
-
-de minas o aguas en el
-
-territorio nacional $7,763.30 $7,765
-
-VII.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
-
-VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
-
-X.- Por la presentación de
-
-cada aviso de adquisición
-
-de bienes inmuebles por
-
-sociedades mexicanas con
-
-cláusula de admisión de
-
-extranjeros en zona
-
-restringida, destinados a
-
-fines no residenciales $1,088.68 $1,090
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XI.- Por la presentación extemporánea de los siguientes avisos:
-
-a).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
-
-b).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
-
-c).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
-
-d).- De aviso de adquisición de
-
-bienes inmuebles por sociedades
-
-mexicanas con cláusula de
-
-admisión de extranjeros en zona
-
-restringida, destinados a fines no
-
-residenciales. $8,369.50 $8,370
-
-XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-XIV.- Los no especificados
-
-en las fracciones anteriores $528.41 $530
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 26.
 
-Por los servicios que se presten en materia de nacionalidad y naturalización, a que se refiere el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable, se pagará el derecho de trámite de nacionalidad y naturalización, conforme a las siguientes cuotas:
+1.- Para los efectos de este Código, se consideran partidos políticos nacionales aquellos que cuentan con registro ante el Instituto Federal Electoral y partidos políticos locales aquellos que cuentan con el registro correspondiente ante el Instituto Estatal Electoral.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
-
-a).- Por expedición $306.95 $305
-
-b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
-
-a). Por la recepción, estudio y, en
-
-su caso, expedición de la carta de
-
-naturalización $5,413.07 $5,415
-
-b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
-
-a). Por la recepción, estudio y,
-
-en su caso, expedición de cada
-
-carta de naturalización $1,908.51 $1,910
-
-b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-V.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+2.- Los partidos políticos comparten con los organismos electorales, la responsabilidad en el cumplimiento de los preceptos constitucionales en materia electoral y disposiciones de este Código.
 
 ###### ARTICULO 26-A.
 
 Las cuotas de los derechos señaladas en el presente Capítulo, se ajustarán para su pago a múltiplos de $ 5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
-### CAPITULO III. De la Secretaría de Hacienda y Crédito Público
+### CAPITULO I. DISPOSICIONES GENERALES
 
 #### SECCION PRIMERA. Inspección y Vigilancia
 
 ###### ARTICULO 27.
 
-(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
+Los partidos políticos, para el logro de los fines establecidos en las Constituciones, Federal y Particular, ajustarán sus actos a las disposiciones establecidas en el presente Código.
 
 ###### ARTICULO 28.
 
-(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
+1.- La organización o agrupación política estatal que pretenda participar como partido político en las elecciones locales, deberá obtener el registro correspondiente ante el Instituto.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+2.- Para participar en las elecciones locales, los partidos políticos nacionales deberán acreditar ante el Instituto que cuentan con el registro correspondiente ante el Instituto Federal Electoral.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 29.
 
-Por los siguientes servicios que presta la Comisión Nacional Bancaria y de Valores, se pagarán derechos conforme a las siguientes cuotas:
+1.- Para que una organización pueda constituirse como partido político local, deberá cumplir los siguientes requisitos:
 
-Cuota
+a).- Formular una declaración de principios y, en congruencia con ellos, un programa de acción y los estatutos que como partido normen sus actividades, los cuales se deben ajustar a las bases constitucionales y a las disposiciones legales aplicables;
 
-Sin ajuste Con ajuste
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-I. Por el estudio y trámite de la
+b).- Contar con un número de afiliados por distrito que represente como mínimo el 3% sobre el total de los ciudadanos que estén inscritos en la lista nominal de electores y que acrediten tener su domicilio dentro de la circunscripción uninominal de que se trate, en por lo menos la mitad de los distritos en que se divida el Estado; en ningún caso, el número total de afiliados deberá ser inferior al 1.5% de la lista nominal de electores a nivel estatal.
 
-solicitud de autorización para la
+c).- Haber realizado permanentemente actividades políticas propias y en forma independiente de cualquier otra organización o partido político, por lo menos durante los dos años anteriores a la fecha en que presente la solicitud de registro ante el Instituto.
 
-constitución y funcionamiento de
-
-sociedades operadoras de
-
-sociedades de inversión,
-
-sociedades distribuidoras de
-
-acciones de sociedades de
-
-inversión y sociedades
-
-valuadoras de acciones de
-
-sociedades de inversión: $32,882.44 $32,882
-
-II. Por la autorización para la
-
-constitución y funcionamiento de
-
-sociedades operadoras de
-
-sociedades de inversión,
-
-sociedades distribuidoras de
-
-acciones de sociedades de
-
-inversión y sociedades
-
-valuadoras de acciones de
-
-sociedades de inversión: $338,176.99 $338,177
-
-III. Por la autorización para la
-
-constitución y funcionamiento
-
-de sociedades operadoras
-
-exclusivamente de sociedades
-
-de inversión de capitales o de
-
-sociedades de inversión de
-
-objeto limitado: $296,050.49 $296,050
-
-IV. Por el estudio y trámite de
-
-la solicitud para la inversión en
-
-sociedades inmobiliarias y
-
-empresas de servicios auxiliares
-
-o complementarios: $32,882.44 $32,882
-
-V. Por el estudio y trámite de
-
-la solicitud de autorización para
-
-la constitución y operación de
-
-una institución calificadora de
-
-valores: $29,117.53 $29,118
-
-VI. Por la autorización de una
-
-institución calificadora de
-
-valores: $338,176.99 $338,177
-
-VII. Por el estudio y trámite de
-
-la solicitud de autorización para
-
-la constitución y funcionamiento
-
-de sociedades de inversión de
-
-renta variable, en instrumentos
-
-de deuda, de capitales y de objeto
-
-limitado: $27,137.82 $27,138
-
-VIII. Por el estudio y trámite de
-
-la solicitud de autorización para
-
-la constitución y operación de
-
-uniones de crédito: $29,117.51 $29,118
-
-IX. Por la autorización para la
-
-constitución y operación de
-
-uniones de crédito: $299,455.92 $299,456
-
-X. Por cualquier certificación que
-
-se expida relativa al Registro
-
-Nacional de Valores: $566.38 $566
-
-XI. Por el estudio y trámite de
-
-la solicitud y, en su caso,
-
-autorización para la
-
-constitución y operación de
-
-las Federaciones a que se
-
-refiere la Ley de Ahorro y
-
-Crédito Popular $45,230.09 $45,230
-
-XII. Por el estudio y trámite
-
-de la solicitud y, en su caso,
-
-autorización para la constitución
-
-y operación de sociedades
-
-financieras populares,
-
-sociedades financieras
-
-comunitarias con niveles de
-
-operación I a IV y Organismos
-
-de Integración Financiera Rural
-
-a que se refiere la Ley de
-
-Ahorro y Crédito Popular $27,138.04 $27,138
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-El derecho a que se refiere esta fracción se pagará también por el estudio y trámite de la solicitud y, en su caso, autorización para realizar operaciones de ahorro y préstamo, de sociedades cooperativas de ahorro y préstamo a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
-
-XIII. Por el estudio y trámite de
-
-la solicitud de autorización para
-
-la constitución y operación de
-
-casas de bolsa: $29,117.51 $29,118
-
-XIV. Por la autorización para
-
-la constitución y operación de
-
-casas de bolsa: $422,237.53 $422,238
-
-XV. Por el estudio y trámite de la
-
-solicitud de autorización para la
-
-constitución y operación de
-
-sociedades que administran
-
-sistemas para facilitar operaciones
-
-con valores: $29,117.51 $29,118
-
-XVI. Por la autorización para la
-
-constitución y operación de
-
-sociedades que administran
-
-sistemas para facilitar operaciones
-
-con valores: $299,455.92 $299,456
-
-XVII. Por el estudio y trámite de la
-
-solicitud de autorización para la
-
-constitución y operación de
-
-proveedores de precios: $29,117.51 $29,118
-
-XVIII. Por la autorización para la
-
-constitución y operación de
-
-proveedores de precios: $299,455.92 $299,456
-
-XIX. Por el estudio y trámite de la
-
-solicitud para obtener el
-
-reconocimiento como organismo
-
-autorregulatorio: $42,223.75 $42,224
-
-XX. Por el estudio y trámite de
-
-la solicitud de autorización para
-
-el establecimiento de oficinas de
-
-representación de entidades
-
-financieras del exterior: $25,334.25 $25,334
-
-XXI. Por la autorización para la
-
-constitución y funcionamiento de
-
-sociedades de inversión de renta
-
-variable, en instrumentos de deuda,
-
-de capitales y de objeto limitado: $52,225.99 $52,226
-
-XXII. Por la autorización para el
-
-inicio de operaciones de casas de
-
-bolsa: $1,300,124.45 $1,300,124
-
-XXIII. Por el estudio y trámite
-
-de la solicitud de autorización
-
-para la constitución y operación
-
-de instituciones de banca múltiple: $52,014.76 $52,015
-
-XXIV. Por la autorización
-
-para la constitución y operación
-
-de instituciones de banca múltiple: $764,923.08 $764,923
-
-XXV. Por la autorización
-
-para el inicio de operaciones
-
-de instituciones de banca
-
-múltiple: $2,447,753.84 $2,447,754
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $25,287.33 $25,287
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-XXVII. Por la solicitud, análisis
-
-y, en su caso, aprobación para
-
-que una sociedad financiera de
-
-objeto múltiple sea considerada
-
-como entidad regulada, en
-
-términos de la Ley General de
-
-Organizaciones y Actividades
-
-Auxiliares del Crédito: $29,342.14 $29,342
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-XXVIII. Por la solicitud, análisis
-
-y, en su caso, inscripción en el
-
-registro para actuar como
-
-asesor en inversiones en
-
-términos de la Ley del Mercado
-
-de Valores: $33,136.67 $33,137
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-XXIX. Por la solicitud, análisis y, en su
-
-caso, inscripción o renovación en el
-
-registro para actuar como centro cambiario
-
-o transmisor de dinero, en términos de
-
-la Ley General de Organizaciones y
-
-Actividades Auxiliares del Crédito: $2,446.51 $2,447
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-XXX. Por la solicitud, análisis y, en su
-
-caso, la certificación o renovación de los
-
-auditores externos independientes y demás
-
-profesionales, así como a los oficiales de
-
-cumplimiento, que presten sus servicios
-
-a las entidades y personas sujetas a la
-
-supervisión de la Comisión Nacional
-
-Bancaria y de Valores para la verificación
-
-del cumplimiento de las leyes financieras
-
-y de las disposiciones que emanen de ellas
-
-en materia de prevención, detección y
-
-reporte de actos, omisiones u operaciones
-
-que pudiesen ubicarse en los supuestos de
-
-los artículos 139 Quáter o 400 Bis del
-
-Código Penal Federal: $13,272.29 $13,272
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-XXXI. Por la solicitud, análisis y, en su
-
-caso, la certificación o renovación de
-
-los auditores y demás profesionales,
-
-que coadyuven con la Comisión Nacional
-
-Bancaria y de Valores, cuando ésta
-
-los contrate, para la verificación del
-
-cumplimiento de las leyes financieras y de
-
-las disposiciones que emanen de ellas
-
-en materia de prevención, detección y
-
-reporte de actos, omisiones u operaciones
-
-que pudiesen ubicarse en los supuestos de
-
-los artículos 139 Quáter o 400 Bis del
-
-Código Penal Federal: $13,272.29 $13,272
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 29-A.
 
@@ -3249,63 +2517,35 @@ Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emis
 
 ###### ARTICULO 30.
 
-Las instituciones y sociedades mutualistas de seguros, así como los establecimientos que de acuerdo a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, deban estar sujetas a la inspección y vigilancia que realice la Comisión Nacional de Seguros y Fianzas, deberán pagar derechos conforme a lo siguiente:
+1.- Satisfechos los requisitos anteriores, la organización o agrupación interesada notificará al Instituto ese propósito y realizará los siguientes actos previos a la solicitud de registro, con el objeto de demostrar que se cumple con dichos requisitos y que ha adoptado la resolución en la que se expresa su voluntad de constituirse como partido político local:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Celebrar una asamblea en cada uno de los distritos a que se refiere el inciso b del artículo anterior, en presencia de un funcionario del Instituto que al efecto sea comisionado; o a falta de éste, de un notario del Estado o de un juez receptor, quien certificará:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- El número de afiliados que concurrieron a la asamblea distrital; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; que suscribieron el documento de manifestación formal de afiliación; que eligieron delegados a la asamblea estatal constitutiva, y quiénes fueron los electos.
 
-I.- El 80% del presupuesto de gastos de inspección y vigilancia se prorrateará en relación con las primas emitidas de seguro directo y de reaseguro tomado por las instituciones durante los últimos doce meses anteriores a la fecha de determinación del cálculo.
+II.- Que con las personas mencionadas en la fracción anterior, quedaron formadas las listas de afiliados, con nombres, residencia, y clave de la credencial de elector.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+b).- Celebrar una asamblea estatal constitutiva ante la presencia del funcionario que al efecto designe el Instituto, quien certificará:
 
-Para tal efecto, se computarán las primas de seguro directo al 100%, y las primas de reaseguro tomado al 25%, ya sea por instituciones especializadas en reaseguro o de seguro directo que tomen reaseguro.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- Que asistieron los delegados propietarios o suplentes electos en las asambleas distritales.
 
-II.- El 20% restante se dividirá por partes iguales entre todas las instituciones y sociedades mutualistas de seguros.
+II.- Que acreditaron por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso a) de este artículo.
 
-En caso de que la cuota de inspección que se fije a cualquier institución de seguros, exceda del 3% de la base que se utilice para su determinación de acuerdo con la fracción I de este artículo, el excedente se prorrateará por partes iguales entre las demás instituciones.
+III.- Que se comprobó la identidad y residencia de los delegados a la asamblea estatal, preferentemente por medio de su credencial para votar o por otro documento fehaciente que tenga impresa su fotografía respectiva.
 
-Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calculadas en relación con las primas emitidas, sin exceder del 1% de sus gastos de administración.
+IV.- Que fueron aprobados su declaración de principios, programa de acción y estatutos; y
 
-Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
+V.- Que se formaron listas de afiliados con los demás militantes con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito mínimo de afiliados a que se refiere el inciso b del artículo 29 anterior; estas listas contendrán los datos requeridos en la fracción II del inciso anterior.
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+2.- El costo de las certificaciones requeridas en este artículo, será con cargo al presupuesto del Instituto. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
 
-III. Las sociedades controladoras de
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-grupos financieros $750,526.61 $750,527 anuales.
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Cada empresa de servicios complementarios
-
-que forme parte de grupos financieros
-
-cuyas sociedades controladoras se encuentren
-
-bajo supervisión de la Comisión Nacional de
-
-Seguros y Fianzas $40,937.81 $40,938 anuales.
-
-V.- Por los servicios de inspección y vigilancia
-
-Que se prestan a los intermediarios de reaseguro
-
-cuota mensual $9,404.37 $9,404
-
-VI.- Por los servicios de Inspección y vigilancia
-
-que se prestan a las oficinas de representación
-
-de reaseguradoras extranjeras cuota mensual $5,642.61 $5,643
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+3.- En todo caso, la organización interesada, tendrá un plazo improrrogable de un año para concluir el procedimiento de constitución y presentar la solicitud de registro a que se refiere el artículo 32; de lo contrario, dejará de tener efecto la notificación formulada.
 
 ###### ARTICULO 30-A.
 
@@ -3499,33 +2739,11 @@ seguros o instituciones de fianzas $138,287.43 $138,287
 
 ###### ARTICULO 31.
 
-Las instituciones que emitan fianzas conforme a la Ley de Instituciones de Seguros y de Fianzas sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, deberán pagar por tal concepto un derecho, de acuerdo con lo siguiente:
+1.- El Instituto, por conducto de su Consejo General, deberá convocar durante el primer trimestre del año anterior a cualquiera de las elecciones locales ordinarias a las organizaciones o agrupaciones políticas que tengan interés en participar en los procesos electorales locales, a fin de que puedan obtener el registro como partido político local.
 
-Cuota
+2.- En la convocatoria se señalará el plazo para que las organizaciones interesadas presenten la solicitud correspondiente, el cual, para los efectos del párrafo tercero del artículo 33, no podrá exceder 90 días contados a partir de su expedición, para lo cual deberán haber cumplido los requisitos establecidos en los artículos 29 y 30 de este Código.
 
-Sin ajuste Con ajuste
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-I. Las instituciones que emitan fianzas pagarán el equivalente al 3.5% de las primas que perciban.
-
-Tratándose de primas por concepto de reafianzamiento recibido de empresas extranjeras, el derecho se causará sobre la prima, deducido el importe de la comisión pagada a la empresa extranjera; y
-
-II. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III. Las sociedades controladoras
-
-de grupos financieros $750,526.61 $750,527 anuales.
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $40,937.81 $40,938
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 31-A.
 
@@ -3649,33 +2867,51 @@ El pago de derechos a que se refiere la presente fracción deberá enterarse a m
 
 ###### ARTICULO 32.
 
-Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose como tales a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará anualmente el derecho de inspección y vigilancia conforme a la cuota de
+La organización interesada presentará al Consejo General del Instituto la solicitud de registro, acompañándola con los siguientes documentos:
 
-Cuota
+a).- La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros, en los términos del artículo 30;
 
-Sin ajuste Con ajuste
+b).- Las listas nominales de afiliados por distritos electorales a que se refieren las fracciones II del inciso a) y V del inciso b) del artículo 30; y
 
-$409,378.16 $409,378
+c).- Las actas de las asambleas celebradas en los distritos electorales y las de su asamblea estatal constitutiva.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 33.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+1.- El Consejo General del Instituto resolverá si procede o no el registro, dentro del plazo de 30 días contados a partir de la fecha de presentación de la solicitud. Su resolución, que deberá ser fundada y motivada, se notificará en forma personal a la organización interesada dentro de los 3 días de pronunciada. El Consejo ordenará y verificará que dicha resolución sea publicada en el Periódico Oficial del Estado dentro del mes siguiente.
+
+2.- La resolución que al efecto emita el Consejo General del Instituto podrá ser impugnada ante el Tribunal Estatal Electoral mediante el recurso de apelación.
+
+3.- Para poder participar en las elecciones, los partidos políticos, tanto locales como nacionales, deben haber obtenido su registro correspondiente por lo menos con un año de anticipación al día de la jornada electoral.
+
+4.- Los partidos políticos locales que pierdan su registro por cualquiera de las causas previstas en este Código, para participar nuevamente en un proceso electoral, deberán cumplir con todos los requisitos establecidos en este Título para el procedimiento de constitución y obtención de registro.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 33-A.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+1.- Los partidos políticos locales que hayan obtenido su registro por primera vez, así como aquellos que lo hayan obtenido después de haberlo perdido, sólo podrán recibir el 50% del financiamiento público que prevé el artículo 42 inciso c) de este Código;
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+2.- Los partidos políticos a los que se refiere la fracción anterior no podrán coaligarse ni fusionarse entre sí o con algún partido político con registro nacional.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 34.
 
-Por el estudio de la solicitud y, en su caso, autorización para organizarse y operar como Administradora de Fondos para el Retiro o Sociedad de Inversión Especializada de Fondos para el Retiro, cada Administradora de Fondos para el Retiro o Sociedad de Inversión Especializada de Fondos para el Retiro, pagará derechos conforme a la cuota de:
+Son causa de perdida del registro de un Partido Local las siguientes:
 
-Cuota
+a).- No obtener el 1.5% de la votación total emitida, en la elección inmediata anterior para diputados de mayoría relativa al Congreso del Estado;
 
-Sin ajuste Con ajuste
+b).- Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
-$135,690.25 $135,690
+c).- Incumplir de manera grave y sistemática, a juicio del Consejo General, las obligaciones que le señala este Código;
+
+d).- Haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan los estatutos; y
+
+e).- Haberse fusionado con otro Partido.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 34-A.
 
@@ -3685,457 +2921,283 @@ $135,690.25 $135,690
 
 ###### ARTICULO 35.
 
-Los ingresos que se obtengan por la recaudación de los derechos por los servicios a que se refiere esta Sección, se destinarán a la Comisión Nacional del Sistema de Ahorro para el Retiro.
+1.- Para la pérdida del registro por la causa a que se refiere el inciso a) del artículo anterior, el Consejo emitirá la declaración correspondiente, misma que deberá fundarse en los resultados definitivos de la votación y solicitará su publicación en el periódico oficial del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Los partidos políticos que hubieran perdido el registro por la causa a la que se refiere el inciso a) del artículo anterior en dos procesos electorales consecutivos, no podrán, bajo ninguna circunstancia, obtener nuevamente su registro para participar en la siguiente elección.
+
+3.- El hecho de que un partido político no obtenga tal porcentaje, no tendrá efectos en relación con los triunfos que sus candidatos hayan obtenido, según el principio de mayoría relativa.
+
+(REUBICADO, REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)
+
+## TITULO TERCERO. DE LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 36.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Son derechos de los partidos políticos con registro definitivo:
+
+a).- Participar, conforme a lo dispuesto en la Constitución Particular y en este Código, en la preparación, desarrollo y vigilancia de lo (sic) procesos electorales.
+
+b).- Gozar de las garantías que éste propio Código les otorga para realizar libremente sus actividades;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Disfrutar de las prerrogativas que les correspondan.
+
+d).- Postular candidatos en las elecciones de Diputados, Gobernador y Concejales de los Ayuntamientos;
+
+e).- Formar frentes y coaliciones, así como fusionarse, en los términos de éste Código;
+
+f).- Nombrar representantes ante los órganos del Instituto en los términos de éste Código;
+
+g).- Ser propietarios, poseedores o administradores de los bienes inmuebles y muebles que sean indispensables para el cumplimiento directo e inmediato de sus fines;
+
+h).- Los demás que les otorgue este Código.
 
 ###### ARTICULO 37.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+Todo partido político legalmente registrado, aportando elementos de prueba podrá acudir ante el Instituto, para que se investiguen las actividades de cualquier otro, con el fin de que actúen dentro de la Ley.
 
 #### SECCION TERCERA.. Servicios Aduaneros
 
 ###### ARTICULO 38.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+No deberán actuar como representantes de los partidos políticos ante los órganos del Instituto, quienes se encuentren en los siguientes supuestos:
+
+a).- Ser Magistrado, Juez Instructor o Secretario del Tribunal Federal Electoral;
+
+b).- Ser Magistrado ó funcionario con facultades jurisdiccionales del Tribunal Estatal Electoral;
+
+c).- Ser Consejero o Comisionado Ciudadano ante cualquier Organismo Electoral;
+
+d).- Ser miembro del servicio activo de cualquier fuerza armada o policiaca.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 39.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Son obligaciones de los partidos políticos:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+a).- Conducir sus actividades dentro de los cauces legales y ajustar sus actos y los de sus militantes a los principios del Estado democrático, respetando la libre participación política de los demás partidos y los derechos de los ciudadanos;
+
+b).- Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías individuales o impedir el funcionamiento regular de los órganos de gobierno.
+
+c).- Mantener el mínimo de afiliados en los distritos electorales, requeridos para su constitución y registro;
+
+d).- Ostentarse con la denominación, emblema y color o colores que tengan registrados;
+
+e).- Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
+
+f).- Mantener en funcionamiento efectivo a sus órganos estatutarios;
+
+g).- Contar con domicilio social para sus órganos directivos;
+
+h).- Editar, publicar y difundir, por los (sic) menos, una publicación mensual de divulgación y otra trimestral de carácter teórico, dentro del espacio territorial en que participen;
+
+i).- Sostener por lo menos un centro de formación política;
+
+j).- Publicar y difundir, dentro del espacio territorial en que participen, la plataforma electoral que el partido y sus candidatos sostendrán en la elección de que se trate.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+k).- Registrar la lista de candidatos a diputados de representación proporcional de acuerdo a lo establecido en el artículo 136 de este Código.
+
+l).- Comunicar al Instituto cualquier modificación a su denominación, declaración de principios, programa de acción, estatutos, emblema, color o colores, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido. Las modificaciones no deberán hacerse después de iniciado el proceso electoral y no surtirán efectos hasta que el Instituto declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de treinta días contados a partir de la presentación de la documentación correspondiente;
+
+m).- Comunicar oportunamente al Instituto de los cambios de su domicilio social o de los integrantes de sus órganos directivos;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+n).- Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y ministros de culto de cualquier religión o secta, así como abstenerse de utilizar símbolos religiosos, expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
+
+o).- Abstenerse de cualquier expresión que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos y sus candidatos; y
+
+p).- Las demás que establezca éste código.
 
 ###### ARTICULO 40.
 
-Por el trámite y, en su caso, por el otorgamiento de las inscripciones, concesiones o autorizaciones que a continuación se señalan, se pagará el derecho aduanero de inscripciones, concesiones y autorizaciones, conforme a las siguientes cuotas:
+1.- El incumplimiento de las obligaciones señaladas por el artículo anterior se sancionará en los términos del capítulo relativo a faltas administrativas y sanciones de éste Código.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-a).- Por la inscripción en el registro del
-
-despacho de mercancías $6,478.57 $6,479
-
-b).- Por la autorización de depósito fiscal
-
-para someterse al proceso de ensamble
-
-y fabricación de vehículos a empresas de
-
-la industria automotriz terminal o manufacturera
-
-de vehículos de autotransporte $13,166.17 $13,166
-
-c).- Por la autorización para la entrada o
-
-salida de mercancías del territorio nacional
-
-por lugar distinto al autorizado $12,748.16 $12,748
-
-d).- Por la concesión o autorización para
-
-prestar los servicios de manejo, almacenaje
-
-y custodia de mercancías de comercio
-
-exterior $68,965.72 $68,966
-
-e).- Por la autorización para prestar los
-
-servicios de carga, descarga, estiba, acarreo
-
-y trasbordo de mercancías en el recinto fiscal $13,166.17 $13,166
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-f).- Por la autorización de representante legal $10,449.32 $10,449
-
-g).- Por la autorización de dictaminador
-
-aduanero $10,449.32 $10,449
-
-h).- Por la autorización para la entrada y
-
-salida de mercancías por tuberías, ductos,
-
-cables u otros medios de conducción $11,494.28 $11,494
-
-i).- Por la autorización de depósito fiscal
-
-temporal para locales destinados a
-
-exposiciones internacionales de mercancías $6,269.60 $6,270
-
-j).- Por la inscripción en el Registro de
-
-empresas transportistas $6,896.55 $6,897
-
-k).- Por la autorización para el establecimiento
-
-de depósito fiscal para la exposición y ventas
-
-de mercancías extranjeras y nacionales $57,408.72 $57,409
-
-l).- Por la habilitación de un inmueble en
-
-forma exclusiva para la introducción de
-
-mercancías bajo el régimen de recinto
-
-fiscalizado estratégico y la autorización
-
-o prórroga para su administración: $79,327.76 $79,328
-
-m).- Por la inscripción en el registro de
-
-empresas certificadas $29,747.90 $29,748
-
-n).- Por la autorización de mandatario
-
-de agente aduanal $10,049.73 $10,050
-
-ñ).- Por la autorización para destinar
-
-mercancías al régimen de recinto
-
-fiscalizado estratégico $27,353.65 $27,354
-
-o).- Por la autorización para prevalidar
-
-electrónicamente los datos contenidos
-
-en los pedimentos $9,240.27 $9,240
-
-p).- Por la autorización para el procesamiento
-
-electrónico de datos necesarios para llevar a
-
-cabo el control de la importación temporal de
-
-remolques, semirremolques y portacontenedores $9,240.27 $9,240
-
-q).- Por la autorización para que dentro
-
-de los recintos fiscalizados, las mercancías
-
-en ellos almacenadas puedan ser objeto de
-
-elaboración, transformación o reparación $9,240.27 $9,240
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-r).- Por la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $9,163.79 $9,164
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-s).- Por la adición de cada bodega, sucursal o instalación a la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $3,785.98 $3,786
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-t).- Por la autorización para la fabricación o importación de candados a que se refiere la Ley Aduanera $1,730.82 $1,731
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p), q), s) y t) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i), j) y r) de este artículo se pagarán por única vez.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Por la prórroga de las autorizaciones a que se refieren los incisos b), c), g), h), i), k), n), ñ), o), p) y t) de este artículo, así como por la renovación de las autorizaciones a que se refieren los incisos a) y m) de este artículo, se pagarán las mismas cuotas que se establecen para cada inciso.
-
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria, para el mejoramiento de la Administración Aduanera.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+2.- Las sanciones administrativas se aplicarán por el Instituto con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse en los términos de la ley a los partidos políticos, dirigentes y candidatos.
 
 ###### ARTICULO 41.
 
-Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduana en recintos fiscales, después de vencidos los plazos que a continuación se indican:
+Los dirigentes y los representantes de los partidos políticos, son responsables civil y penalmente por los actos que ejecuten en ejercicio de sus funciones.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-I.- En mercancías de importación, dos días naturales, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días naturales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-II.- En mercancías de exportación o retorno al extranjero, quince días naturales, excepto minerales en cuyo caso el plazo será de treinta días naturales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Las mercancías por las que hubiere desistimiento del régimen de exportación, o en las que ésta no se concrete por cualquier otra causa, pagarán el derecho de almacenaje correspondiente, desde el primer día en que hayan quedado en depósito en cada aduana.
-
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-III.- A partir del día siguiente a aquel en que se notifique que están a disposición de los interesados las mercancías que hubieran sido embargadas o secuestradas.
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, en los demás casos.
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-Los plazos a que se refieren las fracciones I y II de este artículo se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 42.
 
-Las cuotas diarias de los derechos por el almacenaje, en recintos fiscales, de mercancías en depósito ante la aduana, son las siguientes:
+Los partidos políticos gozarán de las siguientes prerrogativas:
 
-Cuota
+a).- Colocar su propaganda en los bastidores y mamparas de los espacios públicos que el Instituto reservará para ellos.
 
-Sin ajuste Con ajuste
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Por cada quinientos kilogramos o fracción y durante:
+b).- Hacer uso de los locales oficiales que requieran y que al efecto ponga a su disposición el Instituto, tendientes a obtener la adhesión popular.
 
-a).- Los primeros quince días naturales $13.18 $13
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-b).- Los siguientes treinta días naturales $25.68 $26
+c).- Participar del financiamiento público correspondiente a sus actividades electorales, generales y específicas como entidades de interés público en la forma y términos que se establecen en el artículo 42-A.
 
-c).- El tiempo que transcurra después de
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-vencido el plazo señalado en el inciso anterior $41.62 $42
+d).- Cada partido político nacional o estatal disfrutará de cuatro espacios mensuales de quince minutos cada uno en todas y cada una de las estaciones de radio y televisión del Gobierno del Estado durante el período de campaña. El orden o presentación de los programas se hará mediante sorteos semestrales. Los partidos políticos deberán presentar al Instituto los guiones técnicos para la producción de sus programas.
 
-II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+###### ARTICULO 42-A.
 
-a).- Las contenidas en cajas, contenedores, cartones, rejas y otros empaques y envases, cuyo volumen sea de más de 5 metros cúbicos.
+1.- El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
 
-b) Las que deban guardarse en cajas fuertes o bajo custodia especial.
+a).- Financiamiento público;
 
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
+b).- Financiamiento por la militancia;
 
-c) Las explosivas, inflamables, contaminantes, radioactivas y corrosivas.
+c).- Financiamiento de simpatizantes;
 
-d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos estériles o en condiciones especiales dentro de los recintos fiscales.
+d).- Auto financiamiento; y
 
-e) Los animales vivos.
+e).- Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
-III.- Los equipajes o efectos personales de
+2.- No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
 
-pasajeros, por cada cien kilogramos o fracción,
+a).- Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de los Estados y los Ayuntamientos salvo los establecidos en la ley;
 
-diariamente $21.38 $21
+d) (sic).- Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizados o paraestatales;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+c).- Los partidos políticos, personas físicas o morales extranjeras;
 
-Por el almacenaje a que se refiere el último párrafo de los artículos 185 y 195 del Código Fiscal de la Federación, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
+d).- Los organismos internacionales de cualquier naturaleza;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+e).- Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o sectas;
 
-Para los efectos del presente artículo, los contenedores vacíos se considerarán mercancías.
+f).- Las personas que vivan o trabajen en el extranjero; y
+
+g).- Las empresas mexicanas de carácter mercantil.
+
+3.- Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
+
+4.- Las aportaciones que se realicen a los partidos políticos, no serán deducibles de impuestos.
+
+5.- Los partidos políticos deberán de tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes correspondientes.
+
+6.- El financiamiento público, aprobado en el Presupuesto de Egresos del Estado, se otorgará en la forma y términos siguientes:
+
+a).- El monto total a distribuir en forma trianual entre los partidos políticos será el que resulte de multiplicar el 0.35% de un salario mínimo diario vigente en la zona económica correspondiente al Estado por el número total de ciudadanos inscritos en el padrón en la elección local inmediata anterior.
+
+b).- El Instituto asignará, del monto total determinado, un 20% el primer año, un 30% el segundo año y el 50% del total de dicha base, el año de la elección.
+
+c).- De la cantidad total destinada anualmente para el financiamiento de los partidos, se asignará el 30% en forma paritaria a todos los partidos con registro; el 20% de manera proporcional a su representación en el Congreso del Estado; y el 50% restante de manera proporcional a la votación obtenida en la elección anterior para diputados.
+
+7.- No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro.
+
+8.- Los partidos políticos deberán presentar ante el Instituto Estatal Electoral los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO CUARTO. DE LAS COALICIONES Y FUSIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 43.
 
-(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
+1.- Los partidos políticos con registro y para fines electorales, salvo aquellos a lo que se refiere el artículo 33-A, tendrán derecho de formar coaliciones a fin de presentar plataforma común y postular al mismo candidato o fórmulas de candidatos en las elecciones locales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Dos o más partidos locales, salvo aquellos a los que se refiere el artículo 33-A tendrán derecho de fusionarse para constituir un nuevo partido quedando fusionados en cualquiera de ellos.
+
+3.- Dos o más partidos locales tendrán derecho de fusionarse para constituir un nuevo partido quedando fusionados en cualquiera de ellos.
 
 ###### ARTICULO 44.
 
-La cuota del derecho de almacenaje a que se refiere esta sección, se aplicará en cada una de las operaciones en que debe ser pagado, conforme a las siguientes reglas:
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-I.- Íntegramente, si están depositadas en almacenes, cobertizos, carros o camiones que se encuentren en el recinto fiscal.
-
-II.- En un 50% cuando se encuentren en la intemperie.
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 45.
 
-No se pagarán derechos de almacenaje por las siguientes mercancías:
+1.- Los partidos políticos tendrán derecho de formar coaliciones para las elecciones de gobernador del Estado, de diputados por el principio de representación proporcional y de diputados por el principio de mayoría relativa, así como para las elecciones de concejales de los ayuntamientos, siempre y cuando estas coaliciones se registren para la totalidad de los distritos o municipio, según la elección de que se trate.
 
-I.- Las destinadas a la Administración Pública Federal Centralizada, y a los Poderes Legislativo y Judicial Federales.
+2.- Los partidos políticos no deberán postular candidatos propios donde ya hubiese candidatos de la coalición de la que ellos formen parte.
 
-II.- Las que pertenezcan a embajadas y consulados extranjeros, o a sus funcionarios acreditados en el país, siempre que exista reciprocidad, así como las pertenecientes a organismos internacionales de los que México sea miembro y a sus funcionarios.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
+3.- Ningún partido político podrá postular como candidato propio a quien ya haya sido registrado como candidato por alguna coalición. Ninguna coalición podrá postular como candidato de la coalición a quien ya haya sido registrado como candidato por algún partido político.
 
-III.- Los menajes y efectos personales pertenecientes a funcionarios de las misiones diplomática y consular nacionales, acreditados en el extranjero; así como, a los de organismos internacionales de nacionalidad mexicana de los que el país forme parte.
+4.- Los partidos políticos que se coaliguen, para participar en las elecciones, deberán celebrar y registrar el convenio correspondiente en los términos del presente capítulo.
 
-IV.- Los restos de medios de transporte, provenientes de accidente, mientras la autoridad competente emite resolución.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+5.- Concluida la etapa de resultado y de declaraciones de validez, los candidatos de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de coalición. Terminado el proceso electoral, se entenderá, asimismo, terminada la coalición.
 
-V.- Las secuestradas dentro de los lugares o zonas de inspección y vigilancia permanente o fuera de los mismos, durante la verificación de mercancías en su transporte, cuando la resolución que se dicte no determine obligaciones o créditos fiscales a cargo del particular.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-VI.- Aquéllas que no sean retiradas por caso fortuito o por fuerza mayor, o por causas imputables a la autoridad aduanera, así como por orden de autoridad por causa no imputable al dueño o responsable de la carga.
-
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
-
-La exención que establece este precepto se aplicará únicamente durante el plazo de tres meses en los casos de las fracciones I, II y III. En los otros casos, se pagarán los derechos de almacenaje a partir del decimosexto día siguiente al en que sean puestos a disposición del particular o al en que cesen las causas de fuerza mayor o imputables a la autoridad, que hubieran impedido retirarlas.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+6.- Los partidos políticos que se hubieren coaligado podrán conservar su registro al termino de la elección, si la suma de la votación de la coalición es equivalente a la suma de los porcentajes del 1.5% de la votación emitida que requiere cada uno de los partidos políticos coligados.
 
 ###### ARTICULO 46.
 
-Ninguna mercancía en depósito ante la aduana en un recinto fiscal será entregada, a menos que se hayan pagado los derechos de almacenaje.
+La coalición por la que se postule candidato a Gobernador tendrá efectos en todos los distritos electorales uninominales en que se divide el territorio del Estado y se sujetará a lo siguiente:
+
+a).- Deberá acreditar ante el Consejo tantos representantes como corresponda a cada uno de los partidos coaligados en los términos de este Código. La coalición actuará como un solo partido y, por lo tanto, la representación de la misma sustituye a la de los coaligados;
+
+b).- Deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla y generales en el distrito. Lo dispuesto en este y el anterior inciso se aplicará para todos los efectos, aún cuando los partidos políticos no se hubiesen coaligado para otras elecciones en el mismo proceso electoral;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Disfrutará de las prerrogativas que otorga este Código conforme a lo siguiente:
+
+I.- En materia de financiamiento público, disfrutará de los montos asignados para cada uno de los partidos coligados,
+
+II.- En materia de acceso a Radio y Televisión del gobierno del Estado, disfrutará de las prerrogativas correspondientes como si se tratara de un solo partido.
 
 ###### ARTICULO 47.
 
-En los casos de reexpedición de mercancías para despacho en una aduana interior, corresponde a ésta ajustar y cobrar todos los derechos de almacenaje.
+Para el registro de la coalición y, en su caso, de la candidatura a Gobernador, los partidos políticos que pretendan hacerlo, deberán:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+a).- Acreditar que la coalición fue aprobada por la asamblea general u órgano equivalente, de cada uno de los partidos políticos coaligados; y
+
+b).- Comprobar que los órganos partidistas respectivos de cada partido político, aprobaron la plataforma electoral de la coalición y la candidatura para la elección de gobernador.
 
 ###### ARTICULO 48.
 
-Los interesados dispondrán de tres días hábiles para el retiro de sus mercancías, contados a partir de la fecha en que hubieran pagado los derechos de almacenaje. Transcurrido dicho término sin haber retirado las mercancías, se cubrirán estos derechos por todo el tiempo que continúe el almacenaje, a partir del día siguiente a aquél en que se efectuó el pago, hasta el momento en que se retiren.
+1.- La coalición por la que se postulen formulas de candidatos a Diputados por el principio de representación proporcional, tendrán efectos en todos los distritos electorales en que se divide el territorio del Estado y se sujetará a lo señalado en los incisos a) al c) del artículo 46.
 
-Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
+2.- Para el registro de la coalición y, en su caso, de las candidaturas, los partidos políticos que pretendan coaligarse deberán cumplir con los requisitos señalados en el artículo anterior y, además, presentar las candidaturas de la coalición por el principio de mayoría relativa, de propietario y suplente, en todos los distritos electorales uninominales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+3.- Si la coalición no registra, en los términos de este código, las candidaturas a que se refiere el párrafo anterior, quedará automáticamente sin efectos.
 
 ###### ARTICULO 49.
 
-Se pagará el derecho de trámite aduanero, por las operaciones aduaneras que se efectúen utilizando un pedimento o el documento aduanero correspondiente en los términos de la Ley Aduanera, conforme a las siguientes tasas o cuotas:
+La coalición por la que se postulen fórmulas de candidatos a Diputados por el principio de mayoría relativa, se sujetará a lo siguiente:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Deberá acreditar ante el órgano del Instituto, un representante común de los partidos políticos coligados.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del impuesto general de importación, en los casos distintos a los señalados en las siguientes fracciones o cuando se trate de mercancías exentas conforme a la Ley de los Impuestos Generales de Importación y de Exportación o a los Tratados Internacionales.
+b).- Deberá acreditar un representante común ante las mesas directivas de casilla, y generales en el distrito electoral;
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
-
-III.- Tratándose de importaciones temporales
-
-de bienes distintos de los señalados en la
-
-fracción anterior siempre que sea para elaboración,
-
-transformación o reparación en las empresas
-
-con programas autorizados por la Secretaría de
-
-Economía (Industria Manufacturera, Maquiladora
-
-y de Servicios de Exportación IMMEX): $341.02 $341
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Asimismo, se pagará la cuota señalada en el párrafo anterior, por la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos.
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-a).- Tratándose de la introducción al territorio
-
-nacional de bienes distintos a los señalados en
-
-la fracción II de este artículo, bajo el régimen de
-
-elaboración, transformación o reparación en
-
-recintos fiscalizados, así como en los retornos
-
-respectivos $222.90 $223.00
-
-IV.- En el caso de operaciones de importación
-
-y exportación de mercancías exentas de los
-
-impuestos al comercio exterior conforme a la
-
-Ley Aduanera; de retorno de mercancías
-
-importadas o exportadas definitivamente; de
-
-importaciones o exportaciones temporales para
-
-retornar en el mismo estado, así como en el de
-
-las operaciones aduaneras que amparen
-
-mercancías que de conformidad con las
-
-disposiciones aplicables no tengan valor en
-
-aduana, por cada operación. $341.02 $341
-
-V.- En las operaciones de exportación $341.94 $342
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Cuando la exportación de mercancías se efectúe mediante pedimento consolidado a que se refiere la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-También se pagará este derecho por cada operación en que se utilice el pedimento complementario del pedimento de exportación o retorno de mercancías.
-
-VI.- Tratándose de las efectuadas por los
-
-Estados extranjeros $334.40 $334
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
-
-a).- De tránsito interno $341.02 $341
-
-b).- De tránsito internacional $323.85 $324
-
-c).- De extracción del régimen de
-
-depósito fiscal para retorno $341.02 $341
-
-d).- La parte II de los pedimentos
-
-de importación; exportación o tránsito $341.02 $341
-
-e).- Por cada rectificación de pedimento $328.32 $328
-
-VIII.- Del 8 al millar, sobre el valor que
-
-tenga el oro para los efectos del impuesto
-
-general de importación, sin exceder de la
-
-cuota de $3,613.56 $3,614
-
-> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
-
-Cuando la cantidad que resulte de aplicar lo dispuesto en las fracciones I y II de este artículo sea inferior a la señalada en la fracción III, se aplicará esta última.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Cuando la importación de las mercancías a que se refieren las fracciones II y III, primer párrafo, de este artículo, se efectúe mediante pedimento o pedimento consolidado, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará por el retorno de dichas mercancías.
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-En las operaciones de depósito fiscal y en el tránsito de mercancías, el derecho se pagará al presentarse el pedimento definitivo y en su caso, al momento de pagarse el impuesto general de importación.
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-Cuando por la operación aduanera de que se trate, no se tenga que pagar el impuesto general de importación, el derecho se determinará sobre el valor en aduana de las mercancías.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-El pago del derecho, se efectuará conjuntamente con el impuesto general de importación o exportación, según se trate. Cuando no se esté obligado al pago de los impuestos citados, el derecho a que se refiere este artículo deberá pagarse antes de retirar las mercancías del recinto fiscal.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-La recaudación de los derechos de trámite aduanero, incluyendo el adicional a que se refiere el artículo 50 de esta Ley, se destinará a la Secretaría de Hacienda y Crédito Público.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nuevo León, los mismos se destinarán al pago de la inversión que el Gobierno del Estado de Nuevo León hubiere hecho en la construcción de la garita y hasta por el monto de la misma.
+c).- La coalición comprenderá siempre fórmulas de propietario y suplente.
 
 ###### ARTICULO 50.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+1.- Para que una coalición pueda postular fórmula de candidatos a Diputados de mayoría relativa, deberá acreditar que los órganos partidistas correspondientes:
+
+a).- Aprobaron la coalición;
+
+b).- Aprobaron las candidaturas de las fórmulas de la coalición, de conformidad con sus estatutos y métodos de selección de candidatos;
+
+c).- Que aprobaron la plataforma electoral de la coalición;
+
+2.- En el convenio de coalición para esta elección, deberá especificarse la forma para distribuir entre los partidos políticos coaligados, los votos para efectos de la elección por el principio de representación proporcional.
 
 ###### ARTICULO 50-A.
 
@@ -4155,69 +3217,63 @@ Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nu
 
 ###### ARTICULO 51.
 
-Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de representante legal, de dictaminador aduanero o de mandatario de agente aduanal y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
+1.- La coalición por la que se postulen candidatos a concejales de los Ayuntamientos, tendrá efectos en todos los municipios en que se constituya y se sujetará a los (sic) siguiente:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Deberá acreditar ante el Consejo municipal, tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Por el examen para aspirante a agente aduanal,
+b).- Disfrutará de las prerrogativas que otorga este Código conforme al inciso c) del artículo 46.
 
-representante legal o dictaminador aduanero $10,631.10 $10,631
+2.- Para el registro de la coalición y en su caso de la planilla de candidatos a concejales, los partidos políticos que pretendan hacerlo deberán:
 
-II.- Por la expedición de la patente de
+a).- Acreditar que la coalición fue aprobada por la asamblea municipal u órgano equivalente de cada uno de los partidos políticos coaligados;
 
-agente aduanal $21,259.07 $21,259
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+b).- Comprobar que los órganos respectivos de cada partido político, aprobaron la plataforma electoral de la coalición para la elección municipal;
 
-III.- Por el examen para aspirante a mandatario de agente aduanal:
+c).- La coalición presentará siempre formulas de propietarios y suplentes de la planilla de candidatos.
 
-a). Correspondiente a la etapa de
-
-conocimientos $5,193.66 $5,194
-
-b). Correspondiente a la etapa psicotécnica $5,193.66 $5,194
-
-IV.- Por el estudio y aprobación de las escrituras
-
-constitutivas de las sociedades o asociaciones
-
-que exploten la patente de agente aduanal $16,880.39 $16,880
-
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- Por la expedición de autorización de
-
-aduana adicional $1,895.67 $1,896
-
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VI.- Por la expedición de autorización de
-
-cambio de aduana de adscripción $2,016.54 $2,017
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+3.- En el convenio de coalición para esta elección deberá reunir en lo conducente, los requisitos establecidos en el artículo 52 de este Código y para su registro se estará a lo dispuesto en el artículo 53 de este mismo ordenamiento.
 
 ###### ARTICULO 52.
 
-Por los servicios de análisis de laboratorios derivados del cumplimiento de las obligaciones aduaneras, relativas a mercancías estériles, radioactivas o peligrosas, o bien, a consultas sobre clasificación arancelaria, establecidas en la Ley Aduanera, se pagarán por cada muestra analizada, la cuota de:
+El convenio de coalición, contendrá en todos los casos:
 
-Cuota
+a).- Los partidos políticos que la forman;
 
-Sin ajuste Con ajuste
+b).- La elección que lo motiva;
 
-$4,689.09 $4,689
+c).- Nombre, edad, lugar de nacimiento y domicilio del o de los candidatos;
+
+d).- El cargo para el que se le o les postula;
+
+e).- El emblema y el color o colores de uno de los partidos o el formado con los de los partidos políticos coaligados con el que se participará; en este supuesto, no deberán aparecer ligados lo dispuesto en este artículo se aplicará a las coaliciones que se formen para cualquier tipo de elección, aún cuando no hubiese existido coalición para otras elecciones en el mismo proceso.
+
+f).- En su caso, la forma de distribución del financiamiento público que les corresponda como coalición;
+
+g).- La relación para conservación del registro de los partidos políticos, en el caso de que el porcentaje de la votación obtenida por la coalición no sea equivalente al porcentaje mínimo que cada uno de los partidos políticos coligados necesite para conservar su registro.
+
+h).- El señalamiento, por cada distrito electoral uninominal, o por la circunscripción plurinominal, del partido político al que pertenece cada uno de los candidatos registrados por la coalición.
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
 ###### ARTICULO 53.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+1.- El convenio de coalición deberá presentarse para su registro ante el Consejo General del Instituto, a más tardar diez días antes de que se inicie el registro de candidatos de la elección de que se trate.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- El Consejo resolverá sobre la procedencia del registro dentro de los tres días siguientes a su presentación, en forma debidamente fundada y motivada. En caso de controversia, la solución de la misma corresponderá al Tribunal Estatal Electoral mediante resolución que deberá dictar en el plazo de diez días hábiles.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
+
+3.- Una vez registrado un convenio de coalición, el Consejo dispondrá su publicación en el Periódico Oficial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION QUINTA. Acuñación de Moneda Metálica y Desmonetización de Billetes
 
@@ -4309,25 +3365,33 @@ Por la obtención de marbetes que se adhieran a los envases que contengan bebida
 
 Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.74 por cada uno.
 
-### CAPITULO IV. De la Secretaría de Programación y Presupuesto
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+### CAPITULO II. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
 #### SECCION UNICA. Padrón de Contratistas y de Proveedores del Gobierno Federal
 
 ###### ARTICULO 54.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+1.- Los partidos políticos locales que decidan fusionarse, deberán celebrar un convenio en el que invariablemente se establecerán las características del nuevo partido; o cual de los partidos políticos es el fusionante y conserva su personalidad jurídica y la vigencia de su registro; y que partido o partidos quedaran fusionados.
+
+2.- Para todos los efectos legales, la vigencia del registro del nuevo partido será la que corresponda al registro del partido más antiguo entre los que se fusionen.
+
+3.- El convenio de fusión deberá presentarse ante el Consejo General del Instituto para los efectos de la revisión a que se refiere el artículo 44 de este código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+4.- Para que el partido político que resulte de la fusión pueda participar en un proceso electoral, el convenio correspondiente deberá comunicarse al Instituto a más tardar un año antes al día de la elección.
+
+5.- Para fines electorales, el convenio de fusión deberá comunicarse al Instituto a más tardar un año antes al día de la elección.
+
+## TITULO QUINTO. DE LA PERDIDA DEL REGISTRO
 
 ###### ARTICULO 55.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
+(DEROGADO, P.O. 24 DE MAYO DE 1995)
 
-> <small>(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+### CAPITULO PRIMERO. DE LA CONSTITUCION
 
-### CAPITULO V. Secretaría de Energía
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION UNICA (SIC). Actividades Reguladas en Materia Energética
 
@@ -4337,155 +3401,17 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 ###### ARTICULO 56.
 
-Se pagarán derechos en materia de energía eléctrica por los servicios que presta la Comisión Reguladora de Energía, conforme a lo siguiente:
+(DEROGADO, P.O. 24 DE MAYO DE 1995)
 
-I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso, con base en la capacidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente, exportación e importación de energía eléctrica solicitada, de conformidad con las siguientes cuotas:
+# LIBRO TERCERO. DEL INSTITUTO ESTATAL ELECTORAL
 
-Cuota
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-Sin ajuste Con ajuste
-
-a). Hasta 10 MW: $117,584.71 $117,585
-
-b). Mayor a 10 y hasta 50 MW: $153,446.19 $153,446
-
-c). Mayor a 50 y hasta 200 MW: $226,898.63 $226,899
-
-d). Mayor a 200 MW: $959,710.48 $959,710
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
-
-a). Hasta 3 MW $20,621.19 $20,621
-
-b). Mayor a 3 y hasta 10 MW $113,033.63 $113,034
-
-c). Mayor a 10 y hasta 50 MW $278,792.68 $278,793
-
-d). Mayor a 50 y hasta 200 MW $460,695.19 $460,695
-
-e). Mayor a 200 MW $1,401,158.72 $1,401,159
-
-III. Por la modificación de los títulos de permiso de energía eléctrica, se pagarán derechos conforme a las siguientes cuotas:
-
-a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando la modificación implique un análisis técnico, jurídico, financiero o la opinión del suministrador en términos del Reglamento de la Ley del Servicio Público de Energía Eléctrica.
-
-b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
-
-IV. Por el análisis, evaluación y, en su caso,
-
-aprobación, modificación y publicación del
-
-catálogo de precios en materia de aportaciones
-
-aplicables a los organismos a cargo de la
-
-prestación del servicio público de energía
-
-eléctrica anualmente: $844,681.13 $844,681
-
-V. Aprobación o modificación de los Modelos
-
-de Convenios y Contratos para la realización
-
-de actividades reguladas en términos de la
-
-Ley de la Comisión Reguladora de Energía: $16,892.90 $16,893
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-ARTICULO 56 BIS.- En ningún caso se pagará el derecho de permiso de generación de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, exclusivamente, cuando sea bajo las modalidades de fuentes de energía renovables.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 57.
 
-Se pagarán derechos en materia de gas natural por los servicios que presta la Comisión Reguladora de Energía, conforme a lo siguiente:
-
-I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, almacenamiento o transporte de gas natural, de conformidad con las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-a). Permisos de distribución de gas natural $754,659.18 $754,659
-
-b). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-c). Permisos de transporte de gas natural de
-
-acceso abierto $754,659.18 $754,659
-
-d). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-e). Tratándose de permisos para el
-
-almacenamiento de gas natural: $5,067,973.58 $5,067,974
-
-f). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-a). Permisos de distribución de gas natural $596,949.74 $596,950
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-b). Permisos de transporte de
-
-gas natural de acceso abierto $541,612.78 $541,613
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-c). Permisos de almacenamiento
-
-de gas natural $726,430.23 $726,430
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-d). Permisos de transporte de
-
-gas natural para usos propios $212,797.50 $212,797
-
-e). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-f). Permisos de transporte de gas natural para
-
-usos propios en su modalidad de sociedades
-
-de autoabastecimiento $275,487.39 $275,487
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-III. Por la modificación del permiso de distribución,
-
-transporte o almacenamiento de gas natural que
-
-por concepto de la revisión periódica al término de
-
-cada periodo de cinco años realice la Comisión
-
-Reguladora de Energía, de conformidad a las
-
-disposiciones legales aplicables $505,824.69 $505,825
-
-IV. Por la modificación de los títulos de permiso de gas natural, se pagarán derechos conforme a las siguientes cuotas:
-
-a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
-
-b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
-
-V. Por el análisis, evaluación y, en su caso, renovación de los permisos de distribución, transporte y almacenamiento de gas natural, se pagará el 50 por ciento de los derechos establecidos en la fracción I de este artículo.
+El Instituto, depositario de la autoridad electoral, es responsable de la función estatal de organizar y desarrollar las elecciones.
 
 #### SECCION PRIMERA. Minería
 
@@ -4495,57 +3421,23 @@ V. Por el análisis, evaluación y, en su caso, renovación de los permisos de d
 
 ###### ARTICULO 58.
 
-Se pagarán derechos en materia de gas licuado de petróleo por los servicios que presta la Comisión Reguladora de Energía, conforme a lo siguiente:
+1.- Son fines del Instituto:
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+a).- Contribuir al desarrollo de la vida democrática;
 
-I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el almacenamiento y el transporte de gas licuado de petróleo por medio de ductos, conforme a las siguientes cuotas:
+b).- Preservar el fortalecimiento del régimen de partidos políticos;
 
-Cuota
+c).- Integrar el Registro de Electores;
 
-Sin ajuste Con ajuste
+d).- Asegurar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
-a). Permisos para la distribución de gas licuado
+e).- Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos;
 
-de petróleo por medio de ductos $742,133.28 $742,133
+f).- Velar por la autenticidad y efectividad del sufragio; y
 
-b). Permisos para el transporte de gas licuado
+g).- Coadyuvar en la promoción y difusión de la cultura política.
 
-de petróleo por medio de ductos $742,133.28 $742,133
-
-c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d). Permisos para el almacenamiento de gas licuado
-
-de petróleo $742,133.28 $742,133
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho de supervisión conforme a las siguientes cuotas:
-
-a). Permisos para la distribución de gas
-
-licuado de petróleo por medio de ductos $596,949.74 $596,950
-
-b). Permisos para el transporte de gas
-
-licuado de petróleo por medio de ductos $541,612.78 $541,613
-
-c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d). Permisos para el almacenamiento de gas
-
-licuado de petróleo $726,405.20 $726,405
-
-III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
-
-a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
-
-b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
+2.- Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, imparcialidad y objetividad.
 
 ###### ARTICULO 58-A.
 
@@ -4557,39 +3449,39 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 ###### ARTICULO 59.
 
-(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
+1.- El Instituto es un organismo público, autónomo en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+2.- El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+3.- El Instituto se regirá para su organización, funcionamiento y control por las disposiciones constitucionales relativas y las de éste Código.
 
 ###### ARTICULO 60.
 
-Por el análisis de la solicitud y, en su caso, por el otorgamiento de aprobaciones que emita la Secretaría de Energía, como Unidades de Verificación, Laboratorios de Pruebas u Organismos de Certificación, para el cumplimiento de las normas oficiales mexicanas, se pagarán derechos por cada solicitud, independientemente del número de aprobaciones emitidas, con la siguiente cuota:
+El Instituto tiene su domicilio en la ciudad de Oaxaca, y ejercerá sus funciones en todo el territorio del Estado conforme a la siguiente estructura:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Un Consejo Distrital Electoral en cada Distrito Electoral Uninominal, que funcionará durante el proceso electoral.
 
-$4,829.72 $4,830
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+b).- Un Consejo Municipal Electoral en cada Municipio de la Entidad.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+c).- Mesas Directivas de Casillas electorales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO SEGUNDO. DE LOS ORGANOS ELECTORALES
 
 ###### ARTICULO 61.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos en las normas oficiales mexicanas a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización se pagarán derechos con la siguiente cuota:
+Los órganos centrales del Instituto Estatal Electoral son:
 
-Cuota
+a).- El Consejo General Estatal;
 
-Sin ajuste Con ajuste
+b).- La Junta General Ejecutiva;
 
-$2,983.21 $2,983
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+c).- La Dirección General.
 
 ###### ARTICULO 61-A.
 
@@ -4643,17 +3535,17 @@ Los ingresos que se obtengan por el pago de derechos por los servicios que sean 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO VI. De la Secretaría de Comercio y Fomento Industrial
+### CAPITULO SEGUNDO. DEL REGISTRO
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION PRIMERA. Correduría Pública
 
 ###### ARTICULO 62.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+1.- El Consejo General del Instituto es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 #### SECCION SEGUNDA. Minería
 
@@ -4663,39 +3555,25 @@ Los ingresos que se obtengan por el pago de derechos por los servicios que sean 
 
 ###### ARTICULO 63.
 
-Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
+El Consejo General del Instituto se integrará de la siguiente manera:
 
-Rango de Superficie
+a).- Un Consejero Presidente con derecho a voz y voto, que será electo por el voto de las dos terceras partes del Congreso del Estado, a propuesta de las fracciones parlamentarias de los partidos representados en la Cámara de Diputados, quien deberá satisfacer los mismos requisitos establecidos para los consejeros ciudadanos del consejo general del instituto estatal electoral en el artículo 65 de este Código;
 
-(Hectáreas)
+b).- Un Secretario General con derecho a voz, pero sin voto, elegido por el Consejo General de acuerdo al procedimiento establecido en el articulo 71 fracción II.
 
-Límites
+c).- Seis Consejeros Ciudadanos, con derecho a voz y voto, que serán seleccionados y acreditados por el Congreso del Estado, conforme a las reglas establecidas en el artículo 64 de este Código.
 
-Inferior Superior Cuota Cuota Adicional
+d).- Dos representantes, con derecho a voz y voto, del Congreso local, uno de la fracción parlamentaria mayoritaria y uno de la fracción parlamentaria que constituya la primera minoría.
 
-Fija por Hectárea
+En caso de vacante de los representantes del Congreso local, el Presidente del Consejo General se dirigirá a la Cámara de Diputados a fin de que haga las designaciones correspondientes;
 
-Excedente del
+e).- Un representante, con derecho a voz y voto, de cada uno de los partidos políticos nacionales con registro y de cada uno de los partidos políticos locales que en la elección inmediata anterior para diputados de mayoría relativa hayan obtenido por lo menos el 1.5% de la votación estatal. Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General, por cada representante propietario habrá un suplente;
 
-Límite Inferior
+f).- El vocal estatal del Registro Federal Electoral, con derecho a voz pero sin voto;
 
-1 30 $678.36 $11.03
+g).- El Director General del Instituto, con derecho a voz pero sin voto.
 
-31 100 $1,027.21 $20.50
-
-101 500 $2,518.61 $49.87
-
-501 1000 $23,516.76 $64.98
-
-1,001 5,000 $65,505.43 $3.9351
-
-5,001 50,000 $83,145.07 $2.8207
-
-50,001 en adelante $210,797.89 $2.6011
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Por el estudio, trámite y resolución de cada solicitud de prórroga de concesión minera, se pagará por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 63-A.
 
@@ -4707,89 +3585,43 @@ Por el estudio, trámite y resolución de cada solicitud de prórroga de concesi
 
 ###### ARTICULO 64.
 
-Por el estudio y trámite de las solicitudes relativas al ejercicio de los derechos que prevé la Ley Minera, se pagarán derechos conforme a las siguientes cuotas:
+Los Consejeros Ciudadanos serán electos conforme a las bases siguientes:
 
-Cuota
+1.- Cada grupo parlamentario tendrá derecho a presentar hasta tres candidatos. La comisión correspondiente del Congreso del Estado integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios; anexando carta de aceptación.
 
-Sin ajuste Con ajuste
+2.- De esta lista, la comisión correspondiente examinará si cumplen los requisitos de elegibilidad y elaborará dictamen individual en el que se contenga la fórmula de los consejeros ciudadanos propietario y suplente. El Congreso del Estado elegirá a los consejeros ciudadanos, de manera individual y sucesiva, por el voto de las dos terceras partes de sus miembros presentes.
 
-I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
+3.- Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. Los que serán electos por mayoría simple.
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-II. Reducción, división, identificación o unificación
-
-de superficie $2,729.19 $2,729
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III. Agrupamiento de concesiones mineras,
-
-la incorporación o separación de éstas a
-
-uno o más de ellos $1,364.59 $1,365
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Expedición de duplicado del título de
-
-concesión o asignación minera $682.30 $682
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-V. Inscripción en el registro de
-
-peritos mineros $682.30 $682
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 65.
 
-Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
+1.- Los Consejeros, así como el Presidente del Consejo General, deberán reunir los siguientes requisitos:
 
-Cuota
+a).- Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos y civiles, de conformidad con el artículo 23 de la Constitución Particular.
 
-Sin ajuste Con ajuste
+b).- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-I. Inscripción de actos, contratos o convenios
+c).- Tener, al menos, treinta años cumplidos el día de la designación;
 
-relativos a la transmisión de la titularidad de
+d).- Tener modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
 
-concesiones mineras o de los derechos que
+e).- Contar con los conocimientos necesarios para el desempeño adecuado de sus funciones;
 
-de ellas deriven $1,364.59 $1,365
+f).- No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo nacional, estatal, municipal o equivalente de un partido político;
 
-II. Cancelación de las inscripciones relativas
+g).- No tener ni haber tenido cargo alguno de elección ni haber sido postulado como candidato, en los últimos cinco años anteriores a la designación;
 
-a los actos, contratos o convenios a que alude
+h).- No haber desempeñado cargo de servidor público del Poder Ejecutivo Federal, del Estado o de los Municipios en cargo de confianza, conforme a la Legislación correspondiente, durante los cinco años anteriores a la fecha de su designación;
 
-la fracción anterior $682.30 $682
+i).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún a partido político, o de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los tres años anteriores a la fecha de su designación.
 
-III. Inscripción de Sociedades mineras $2,729.19 $2,729
+2.- Los Consejeros Ciudadanos, propietarios y suplentes, así como el Presidente del Consejo General, será (sic) electos antes de cada proceso electoral ordinario, y durarán en su encargo tres años, pudiendo ser reelectos hasta en dos ocasiones.
 
-IV. Inscripción de las modificaciones
+3.- La retribución que reciban los Consejeros Ciudadanos y el Presidente del Consejo General será la prevista en el Presupuesto del Instituto Estatal Electoral. Esta retribución se fijará únicamente para los períodos que comprendan los procesos electorales, así como en forma específica para las sesiones ordinarias y extraordinarias del Consejo General que celebre fuera de dichos periodos, salvo en el caso del Presidente del Consejo, cuya retribución será por todo el tiempo de su encargo.
 
-estatutarias de dichas sociedades $1,364.59 $1,365
-
-V. Avisos notariales preventivos $682.30 $682
-
-VI. Anotaciones preventivas para interrumpir
-
-la cancelación de las inscripciones de
-
-contratos o convenios sujetos a temporalidad $682.30 $682
-
-VII. Revisión de la documentación que
-
-consigne las correcciones o aclaraciones
-
-requeridas para la inscripción o cancelación
-
-de los actos, contratos o convenios
-
-mencionados en las fracciones anteriores $682.30 $682
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 65-A.
 
@@ -4805,49 +3637,49 @@ mencionados en las fracciones anteriores $682.30 $682
 
 ###### ARTICULO 66.
 
-Por la expedición de planos de la cartografía minera, se pagarán derechos conforme a las siguientes cuotas:
+1.- Durante el tiempo de su nombramiento los Consejeros Ciudadanos y el Presidente del Consejo General no podrán, en ningún caso, aceptar o desempeñar empleo o encargo de la Federación, del Estado o Municipios o los partidos políticos, así como aceptar cargo o empleo remunerado de particulares que implique dependencia o subordinación.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-I. Por cada plano a escala 1:50,000 que corresponda
-
-a las hojas topográficasdel Instituto Nacional de
-
-Estadística y Geografía $4,093.78 $4,094
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-II. Por cada porción de las hojas anteriores de
-
-5 minutos de latitud y de longitud $682.30 $682
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III. Por cada porción a que se refiere la
-
-fracción anterior a escala 1:25,000 $2,592.72 $2,593
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+2.- Los consejeros ciudadanos podrán recibir percepciones derivadas de la práctica libre de su profesión, de regalías, derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
 ###### ARTICULO 67.
 
-Por la prestación de servicios relativos a las visitas para dictaminar sobre la procedencia de solicitudes a petición del interesado, de identificación de superficie amparada por concesiones mineras o cuando se modifique el punto de partida o punto de origen del lote o lotes que se sustituyan, así como de solicitudes de expropiación, ocupación temporal o constitución de servidumbre o para resolver sobre la nulidad, suspensión o insubsistencia de derechos, se cubrirán los derechos conforme a lo dispuesto por el artículo 5o. fracción VII, de esta Ley.
+1.- El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le formule la mayoría de los representantes de los partidos políticos.
+
+2.- Para la preparación del Proceso Electoral el Consejo General se reunirá dentro de la primera semana del mes de enero del año en que se celebren las elecciones ordinarias.
+
+3.- A partir de esa fecha y hasta la conclusión del proceso, el Consejo Estatal sesionará por lo menos una vez al mes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 68.
 
-(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+1.- Para que el Consejo General pueda sesionar, es necesario que esté presente la mayoría de sus integrantes con derecho a voto, entre los que deberá estar el Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan entre los que deberá estar el Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Las resoluciones serán tomadas por mayoría de votos.
+
+4.- El Director General y el Secretario General de (sic) Instituto concurrirán a las sesiones con voz pero sin voto. La Secretaría del Consejo estará a cargo del Secretario General del Instituto.
+
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 13 DE MAYO DE 1995)</small>
+
+5.- La Secretaría del Consejo estará a cargo del Secretario General del Instituto.
 
 ###### ARTICULO 69.
 
-(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+1.- El Consejo General integrará las comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que para cada caso acuerde.
+
+2.- En todos los asuntos que les encomienden, las comisiones deberán presentar un proyecto de resolución o de dictamen.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 70.
 
-(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+El Consejo General del Instituto ordenará la publicación en el Periódico Oficial del Estado de los acuerdos y resoluciones de carácter general que pronuncie, y de aquéllos que así lo determine, así como los nombres de los miembros de los Consejos Distritales y Consejos Municipales Electorales designados en los términos de este Código.
 
 ###### ARTICULO 70-A.
 
@@ -4871,113 +3703,147 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 ###### ARTICULO 71.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+El Consejo General tendrá las siguientes atribuciones:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+I.- Reglamentar su propio funcionamiento, el de los Consejos Distritales y el de los Consejos Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+II.- Designar al Director y Secretario General del Instituto por el voto de las dos terceras partes de sus miembros conforme a la propuesta que para tales efectos, presente el Presidente del propio consejo. En caso de no obtenerse dicha mayoría, se presentará una propuesta en terna para el mismo efecto y si en este segundo caso tampoco se alcanzara la mayoría requerirá, la designación se hará por insaculación de entre los integrantes de dicha terna.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+III.- Designar, por mayoría absoluta de entre la (sic) propuestas que al efecto haga el Director General, a los Directores Ejecutivos de la Junta General Ejecutiva.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+IV.- Designar, por mayoría absoluta, de entre las propuestas que al efecto haga el Director General, a los Presidentes y Secretarios de los Consejos Distritales y Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+V.- Designar en enero del año de la elección, por el voto de las dos terceras partes de sus miembros a los consejeros ciudadanos de los Consejos Distritales y Municipales Electorales, de entre las propuestas que al efecto realice la Junta General Ejecutiva. Por cada consejero ciudadano propietario habrá un suplente.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
+
+VI.- Resolver en los términos de este Código el otorgamiento del registro, así como la pérdida del mismo, de los partidos políticos, en los casos previstos en los artículos 33 y 34, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+VII.- Requerir a los partidos políticos debidamente registrados en el propio Instituto, para que dentro del plazo de quince días propongan representantes propietarios y suplentes para integrar los Consejos Distritales y los Consejos Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+VIII.- Expedir los nombramientos a los integrantes de los Consejos Distritales y a los de los Consejos Municipales Electorales.
+
+IX.- Revocar esos nombramientos cuando se compruebe que los designados no reúnen los requisitos que éste Código señala y hacer la sustitución correspondiente, así como en caso de fallecimiento o ausencia absoluta del designado.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+X.- Hacer la división del territorio del Estado en Distritos Electorales Uninominales en lo que se refiere a la elección de Diputados, la que mandará publicar en el Periódico Oficial y en los periódicos locales que señale el propio Consejo.
+
+Por lo que respecta a la elección de concejales de los Ayuntamientos se estará a la división territorial municipal en la fecha de la elección.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XI.- Cuidar que los Consejos Distritales y Municipales Electorales se instalen oportunamente y ajusten su funcionamiento a las disposiciones de este Código.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XII.- Vigilar que en lo relativo a las prerrogativas de los partidos políticos se actúe con apego a este Código.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XIII.- Resolver las cuestiones que surjan con motivo del funcionamiento de los Consejos Distritales y de los Consejos Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XIV.- Determinar el tope máximo de los gastos de campaña que puedan erogar los partidos políticos en la elección de Gobernador del Estado y Ayuntamientos, de conformidad con lo establecido en este Código.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XV.- Solicitar de los Consejos Distritales y Municipales electorales y, en general, de cualquier autoridad las informaciones que estime necesarias para el esclarecimiento de hechos relacionados con el proceso electoral, o para la resolución de reclamaciones presentadas por ciudadanos o partidos políticos debidamente registrados.
+
+XVI.- Llevar a cabo la preparación, desarrollo y vigilancia de los procesos electorales y cuidar del adecuado funcionamiento de los organismos respectivos.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XVII.- Publicar la integración de los Consejos Distritales y de los Consejos Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XVIII.- Registrar los nombramientos de los representantes de los partidos políticos que integren los Consejos Distritales y los Consejos Municipales Electorales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XIX.- Publicar por los medios de difusión locales las fechas de apertura y cierre de los registros de candidatos para las elecciones de que se trate.
+
+XX.- (DEROGADA, P.O. 13 DE MAYO DE 1995)
+
+XXI.- Comunicar a los organismos electorales correspondientes dentro del término de quince días posteriores al cierre del registro, las candidaturas que hayan sido registradas.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXII.- Registrar las listas de candidatos a diputados que serán electos según el principio de representación proporcional en los términos de la fracción 3 del artículo 136 de este Código.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXIII.- Resolver sobre los convenios de coaliciones y fusiones que presenten, en su caso, ordenar la publicación en el periódico Oficial.
+
+XXIV.- Aprobar las formas de las boletas y formatos electorales para cada elección.
+
+XXV.- Disponer de la fuerza pública necesaria para garantizar el desarrollo de los procesos electorales, conforme a éste Código.
+
+XXVI.- (DEROGADA, P.O. 13 DE MAYO DE 1995)
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXVII.- Certificar las constancias expedidas por los Consejos distritales Electorales a los candidatos que hayan obtenido mayoría de votos en los distritos electorales uninominales para la elección de diputados locales.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXVIII.- Efectuar el cómputo total de la elección de diputados de representación proporcional, hacer la declaración de validez de la elección de diputados por este principio, determinar la asignación de diputados para cada partido político y otorgar las constancias respectivas, en los términos de este Código.
+
+XXIX.- Aprobar anualmente el anteproyecto de presupuesto del Instituto que proponga el Presidente del propio Consejo;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXX.- Conocer y en su caso, aprobar los convenios que el Director General del Instituto celebre con el Instituto Federal Electoral para utilizar en los procesos locales el Padrón Federal Electoral, la credencial para votar con fotografía y los demás documentos relativos al registro federal de electores. Aprobar las formas de las boletas y formatos electorales para cada elección.
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+XXXI.- Resolver los recursos de revisión que se le planteen en los términos de este Código.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 1995)</small>
+
+XXXII.- Las demás que establezca esta Ley y que por razón de competencia puedan corresponderle.
 
 ###### ARTICULO 72.
 
-Por recepción y estudio de solicitudes y expedición de resoluciones específicas de la Comisión Nacional de Inversiones Extranjeras y de autorizaciones que emita la Secretaría de Economía, se pagará el derecho de inversiones extranjeras, conforme a las siguientes cuotas:
+Son atribuciones del Presidente del Consejo General las siguientes:
 
-Cuota
+a).- Velar por la unidad y cohesión de las actividades de los órganos del Instituto Estatal Electoral.
 
-Sin ajuste Con ajuste
+b).- Establecer los vínculos entre el Instituto y las autoridades estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del Instituto.
 
-I.- Suscripción o adquisición de acciones o
+c).- Convocar y conducir las sesiones del Consejo.
 
-partes sociales de sociedades por constituir
+d).- Vigilar el cumplimiento de los acuerdos del propio Consejo.
 
-o ya constituidas y establecimiento de
+e).- Proponer al Consejo General el nombramiento del Director General del Instituto en los términos del artículo 71 de éste Código.
 
-sucursales para realizar actividades o
+f).- Proponer al Consejo General el nombramiento del Secretario General del Instituto.
 
-adquisiciones con regulación específica y
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-en las que la inversión extranjera participe
+g) Someter oportunamente a la consideración del Poder Ejecutivo el proyecto de presupuesto del Instituto, una vez aprobado por el Consejo General.
 
-en más del 49% $7,718.87 $7,719
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-II.- Constitución de fideicomisos de acciones
+h) Vigilar la instalación de los Consejos Distritales y Municipales;
 
-o partes sociales, por virtud de los cuales se
-
-deriven derechos en favor de la inversión
-
-extranjera $7,718.87 $7,719
-
-III.- Por afectación de acciones para que
-
-instituciones fiduciarias emitan instrumentos
-
-de inversión neutra, o la emisión de series
-
-especiales de acciones neutras por parte
-
-de sociedades mexicanas $7,487.63 $7,488
-
-IV.- Entrada a nuevos campos de actividad
-
-económica, en donde se requiera resolución
-
-favorable de la Comisión Nacional de Inversiones
-
-Extranjeras $1,481.38 $1,481
-
-V.- Autorización para la inscripción de personas
-
-morales extranjeras en el Registro Público
-
-de la Propiedad y el Comercio, o para su
-
-establecimiento en la República Mexicana $2,167.98 $2,168
-
-VI.- Replanteamiento a resoluciones específicas
-
-o autorizaciones y exención de cumplimiento de
-
-programas y compromisos $7,415.34 $7,415
-
-VII.- Reconsideraciones o revisiones de
-
-resoluciones específicas $888.71 $889
-
-VIII.- Por recepción, estudio o resolución
-
-de consultas o confirmaciones de criterio
-
-que se presenten sobre la legislación
-
-aplicable en materia de inversión extranjera $744.18 $744
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
-
-a).- Por la primera prórroga $744.18 $744
-
-b).- Por la segunda y ulteriores prórrogas $1,488.58 $1,489
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-X.- Por la recepción, estudio de la solicitud
-
-y, en su caso, el otorgamiento de la opinión
-
-de la Comisión Nacional de Inversiones
-
-Extranjeras a que se refiere el artículo 77
-
-de la Ley Federal de Telecomunicaciones
-
-y Radiodifusión $21,923.20 $21,923
-
-XI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-XII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+i).- Las demás que le confieran éste Código y las disposiciones relativas.
 
 ###### ARTICULO 72-A.
 
@@ -4985,9 +3851,29 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 73.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+Corresponde al Secretario del Consejo General:
 
-(REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN TERCERA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
+a).- Auxiliar al propio Consejo y a su Presidente en el ejercicio de sus atribuciones.
+
+b).- Preparar la orden del día de las sesiones del Consejo, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los consejeros y representantes asistentes.
+
+c).- Informar sobre el cumplimiento de los acuerdos del Consejo.
+
+d).- Dar cuenta de los proyectos de dictamen de las comisiones.
+
+e).- Recibir y substanciar los recursos que se interpongan en contra de los acuerdos del Consejo y demás órganos del Instituto y remitirlos dentro de las 24 horas siguientes al Tribunal Electoral.
+
+f).- Informar al Consejo General de las resoluciones dictadas por el Tribunal Estatal Electoral.
+
+g).- Llevar el archivo del Consejo.
+
+h).- Expedir los documentos que acrediten la personalidad de los consejeros y de los representantes de los partidos políticos.
+
+i).- Llevar el libro de registro de partidos, así como el de convenios de fusión, frentes y coaliciones y expedir las copias certificadas de estos registros.
+
+j).- Firmar, junto con el Presidente del Consejo, todos los acuerdos y resoluciones que emita; y
+
+k).- Las demás que le sean conferidas por éste Código, el Consejo General y su Presidente.
 
 #### SECCION CUARTA. Normas Oficiales
 
@@ -5053,7 +3939,7 @@ $11,601.02 $11,601
 
 ###### ARTICULO 74.
 
-(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
+La Junta General Ejecutiva del Instituto, será presidida por el Director General y se integrará con el Secretario General del Instituto y los directores ejecutivos de organización electoral, de capacitación y servicio profesional electoral, y de prerrogativas y partidos políticos.
 
 ###### ARTICULO 74-A.
 
@@ -5069,13 +3955,37 @@ $11,601.02 $11,601
 
 ###### ARTICULO 75.
 
-(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
+La Junta General Ejecutiva se reunirá por lo menos una vez al mes y sus atribuciones son las siguientes:
+
+a).- Fijar las políticas generales, los programas y los procedimientos administrativos del Instituto.
+
+b).- Supervisar el cumplimiento de los programas relativos al Registro Federal de Electores.
+
+c).- Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas.
+
+d).- Supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- Seleccionar, a los candidatos Presidentes y Secretarios de los Consejos Distritales y Municipales Electorales y someterlos a la consideración del Consejo General para que proceda a su designación en los términos señalados en la fracción IV del artículo 71 de este Código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- Elaborar las listas de candidatos a Consejeros Ciudadanos de los Consejos Distritales y Consejos Municipales Electorales, y someterla a la consideración del Consejo General para que éste proceda a su designación en los términos señalados en la fracción V del artículo 71 de este Código.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+g).- Sustanciar el procedimiento de pérdida de registro del partido político que se encuentre en los supuestos del artículo 34 de este Código, hasta dejarlo en estado de resolución, la cual será dictada por el Consejo General del Instituto en los términos del artículo 71 fracción VI de este Código;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+h).- Las demás que le encomienden este Código, el Consejo General o su Presidente.
 
 ###### ARTICULO 76.
 
-(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
+1.- El Director General preside y coordina la Junta General, conduce la administración y supervisa el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+2.- El Director durará en su encargo tres años, pudiendo ser reelecto.
 
 #### SECCION SEXTA. Competencia Económica
 
@@ -5085,15 +3995,35 @@ $11,601.02 $11,601
 
 ###### ARTICULO 77.
 
-Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea la resolución que emita la Comisión Federal de Competencia Económica, se pagarán derechos conforme a la cuota de
+Para ser Director del Instituto se requiere:
 
-Cuota
+a).- Ser ciudadano mexicano por nacimiento.
 
-Sin ajuste Con ajuste
+b).- Estar en pleno ejercicio de sus derechos políticos y civiles.
 
-$190,019.67 $190,020
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+c).- Tener al menos treinta años cumplidos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- Contar con grado académico de nivel profesional, con título profesional legalmente expedido y registrado y los conocimientos que le permitan el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional o Estatal, o equivalente de un partido político.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+g).- No tener ni haber tenido cargo alguno de elección popular en los tres años anteriores a la designación; y
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los tres años anteriores a la designación.
 
 ###### ARTICULO 77-A.
 
@@ -5109,67 +4039,75 @@ Los ingresos que se obtengan por la recaudación del derecho a que se refiere el
 
 ###### ARTICULO 78.
 
-Por los servicios en materia de acreditación de prestador de servicio de certificación para la emisión de certificados digitales, se pagarán derechos conforme a las siguientes cuotas:
+Son atribuciones del Director General:
 
-Cuota
+a).- Representar legalmente al Instituto.
 
-Sin ajuste Con ajuste
+b).- Concurrir a las sesiones del Consejo General del Instituto, con voz pero sin (sic).
 
-I. Por el trámite y estudio de la solicitud para
+c).- Cumplir los acuerdos del Consejo General.
 
-acreditación como prestador del servicio de
+d).- Someter al conocimiento y, en su caso, a la aprobación del Consejo General los asuntos de su competencia.
 
-certificación para la emisión de certificados
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-digitales $55,446.13 $55,446
+e).- Orientar y coordinar las acciones de los Consejos Distritales y Municipales del Instituto;
 
-II. Por la acreditación como prestador del
+f).- Presentar el proyecto de convenio que el Presidente del Consejo celebrará con las autoridades competentes, sobre la información y documentos que habrá de aportar el Registro Federal de Electores, para los procesos electorales locales.
 
-servicio de certificación para la emisión de
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-certificados digitales $265,691.27 $265,691
+g).- Integrar los expedientes con las actas de escrutinio de la elección de Gobernador y turnarlas oportunamente al Consejo General.
 
-III. Por el cese voluntario como prestador
+h).- Integrar los expedientes con las actas de cómputo de la elección plurinominal y presentarlas oportunamente al Consejo General.
 
-del servicio de certificación para la emisión
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-de certificados digitales $194,757.60 $194,758
+i). Aprobar las estructuras de las direcciones ejecutivas y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
-IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+j).- Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones.
 
-V. Por el trámite y estudio de la solicitud
+k).- Dar a conocer la estadística electoral seccional, municipal y estatal, una vez calificadas las elecciones.
 
-para la acreditación de un prestador de
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-servicios de certificación para la emisión
+l).- Dar cuenta al Consejo General de los informes que sobre las elecciones reciba de los Consejos Distritales y Municipales Electorales del Instituto.
 
-de certificados digitales, para el servicio de
+m).- Dar cuenta al Consejo General con los informes que sobre las elecciones reciba de los Comités Distritales y Municipales.
 
-conservación de mensajes de datos u otros
+n).- Elaborar anualmente el anteproyecto de presupuesto del Instituto para someterlo a la consideración del Presidente del Consejo General.
 
-servicios adicionales relativos a la firma
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-electrónica $27,871.40 $27,871
+o).- Celebrar con el Instituto Federal Electoral, los convenios a que se refiere la fracción XXX del artículo 71 de este Código.
 
-VI. Por la acreditación de un prestador de
-
-servicios de certificación para la emisión
-
-de certificados digitales, para el servicio de
-
-conservación de mensajes de datos u otros
-
-servicios adicionales relativos a la firma
-
-electrónica $171,128.88 $171,129
-
-(REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN SÉPTIMA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
+p).- Las demás que disponga éste Código.
 
 #### SECCION OCTAVA. Verificación de Instrumentos de Medir
 
 ###### ARTICULO 79.
 
-(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
+1.- El Secretario General del Instituto, tiene las siguientes atribuciones:
+
+a).- Suplir en sus ausencias temporales al Director General del Instituto;
+
+b).- Actuar como Secretario del Consejo General del Instituto. En las sesiones participará con voz pero sin voto;
+
+c).- Actuar como Secretario de la Junta General ejecutiva y preparar el orden del día de sus sesiones;
+
+d).- Cumplir las instrucciones del Director General y auxiliarlo en sus tareas;
+
+e).- Recibir los informes de los vocales de la Junta General Ejecutiva y de los presidentes de los Comités Distritales y Municipales y dar cuenta al Director General;
+
+f).- Expedir las certificaciones que se requieran;
+
+g).- Substanciar los recursos que deban ser resueltos por la Junta durante los dos años anteriores al del proceso electoral; y
+
+h).- Las demás que le encomienden la Junta y el Director General.
+
+2.- El Secretario General durará en su encargo tres años, pudiendo ser ratificado por un periodo más.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 79-A.
 
@@ -5181,25 +4119,85 @@ electrónica $171,128.88 $171,129
 
 ###### ARTICULO 80.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+1.- Al frente de cada una de las Direcciones Ejecutivas, habrá un Director que será nombrado por el Consejo General a propuesta del Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Los directores ejecutivos deberán satisfacer los siguientes requisitos:
+
+a).- Ser mexicanos por nacimiento.
+
+b).- Estar en pleno ejercicio de sus Derechos Políticos y Civiles.
+
+c).- Tener veinticinco años cumplidos.
+
+d).- Tener título profesional o equivalente en áreas o disciplinas vinculadas con la función que habrá de desempeñar
+
+e).- Contar con experiencia en el área correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- El Director General someterá al Consejo General las propuestas para la creación de nuevas direcciones o unidades técnicas para el mejor funcionamiento del Instituto, de acuerdo a las necesidades del servicio y a la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 81.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+La Dirección Ejecutiva de Organización Electoral tiene las siguientes atribuciones:
+
+a).- Apoyar la integración, instalación y funcionamiento de las Juntas Distritales y Municipales Ejecutivas.
+
+b).- Elaborar los Formatos de la Documentación Electoral para someterlos por conducto de la Dirección General a la aprobación del Consejo General.
+
+c).- Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada.
+
+d).- Recabar de los Consejos Distritales y Municipales Electorales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral.
+
+e).- Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo General efectúe los cómputos que conforme a este código debe realizar.
+
+f).- Llevar la estadística de las elecciones estatales.
+
+g).- Acordar con el Director General los asuntos de su competencia; y
+
+h).- Las demás que le confiera este código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 81-A.
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-### CAPITULO VII. De la Secretaría de Agricultura y Recursos Hidráulicos
+### CAPITULO TERCERO. DE LA PERDIDA DEL REGISTRO
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION PRIMERA. Servicios de Agua
 
 ###### ARTICULO 82.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+La Dirección Ejecutiva de Capacitación y Servicio Profesional Electoral tiene las siguientes atribuciones:
+
+a).- Formular el anteproyecto de Estatuto que regirá a los integrantes del Servicio Profesional Electoral.
+
+b).- Cumplir y hacer cumplir las normas y procedimientos del Servicio Profesional Electoral.
+
+c).- Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional.
+
+d).- Elaborar y proponer los programas de educación cívica y capacitación electoral que desarrollen los órganos del Instituto.
+
+e).- Coordinar y vigilar el cumplimiento de los programas a que se refiere el inciso anterior.
+
+f).- Preparar el material didáctico y los instructivos electorales.
+
+g).- Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales.
+
+h).- Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que no hubiesen cumplido con las obligaciones establecidas en el presente código, en particular las relativas a inscribirse en el Registro Federal de Electores y las de voto, a que lo hagan.
+
+i).- Acordar con el Director General los asuntos de su competencia.
+
+j).- Los demás que le confiera este código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 82-A.
 
@@ -5215,7 +4213,29 @@ electrónica $171,128.88 $171,129
 
 ###### ARTICULO 83.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+La Dirección Ejecutiva de Prerrogativas y Partidos Políticos tiene las siguientes atribuciones:
+
+a).- Conocer de las notificaciones que formulen las organizaciones que pretendan constituirse como partidos políticos locales y realizar las actividades pertinentes.
+
+b).- Recibir las solicitudes de registro de las organizaciones que hayan cumplido los requisitos establecidos en este Código e integrar el expediente respectivo para que el Director General la someta a la consideración del Consejo General.
+
+c).- Inscribir en el libro respectivo el registro de partidos, así como los convenios de fusión, frentes y coaliciones.
+
+d).- Suministrar a los partidos políticos nacionales o locales con registro el financiamiento público al que tienen derecho conforme a lo señalado en este Código;
+
+e).- Llevar a cabo los tramites necesarios para que los partidos políticos nacionales o locales con registro puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
+
+f).- Presidir la Comisión de Radio-Difusión.
+
+g).- Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los Consejos General, Distritales y Municipales Electorales.
+
+h).- Llevar los libros de registro de los candidatos a los puestos de elección popular.
+
+i).- Acordar con el Director General los asuntos de su competencia; y
+
+j).- Las demás que le confiera este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 83-A.
 
@@ -5239,27 +4259,11 @@ electrónica $171,128.88 $171,129
 
 ###### ARTICULO 84.
 
-Por los servicios de inspección, control y vigilancia en la entrada y salida del territorio nacional de vegetales, animales, productos derivados de los mismos, así como los de uso o aplicación en animales o vegetales y medios en los que se transporten que traigan por consecuencia la aplicación de medidas de seguridad en materia de sanidad fitopecuaria, en días, horas o lugares diferentes de las oficinas en que se preste el servicio, se pagarán derechos conforme a lo siguiente:
-
-I.- Un día de sueldo y sobresueldo por cada cuatro horas o fracción.
-
-II.- Un día de sueldo y sobresueldo por cada tres horas o fracción, en caso de ampliación al horario señalado en la fracción I.
-
-III.- Dos días de sueldo y sobresueldo por cada día que se invierta en el viaje, desde la salida hasta el regreso, cuando estos servicios se prestan en lugares inhábiles, fuera del lugar de adscripción de los empleados. Además, por el trabajo que desempeñan en días u horas inhábiles, se pagará en la forma que señalan las fracciones I y II de este artículo. Los gastos de pasaje por el viaje redondo serán a cargo de los solicitantes del servicio.
+1.- En cada uno de los distritos electorales el Instituto contará con un Consejo Distrital el cual residirá en la cabecera del distrito.
 
 ###### ARTICULO 85.
 
-Los servicios a que se refiere esta sección se prestarán previa solicitud por escrito, la cual deberá hacerse en días y horas hábiles, indicando el día, lugar y hora en que se deberá prestar el servicio.
-
-En el caso de solicitud de cancelación de los servicios, cuando ésta se solicite en horas hábiles, no se pagarán los derechos correspondientes. Si la solicitud se efectúa en horas inhábiles se pagará el 50% de los derechos que correspondan a los servicios solicitados.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Cuando por causas no imputables a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no sea posible prestar los servicios, se pagará la totalidad de los derechos que correspondan a los servicios solicitados.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Para los efectos del artículo anterior, la prestación de los servicios estará sujeta a las condiciones de operación y disponibilidad con las que cuente la dependencia prestadora del servicio.
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 85-A.
 
@@ -5269,19 +4273,9 @@ Para los efectos del artículo anterior, la prestación de los servicios estará
 
 ###### ARTICULO 86.
 
-No se pagarán los derechos por los servicios a que se refieren los artículos 84 y 85 de esta Ley:
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-I.- Casos de emergencia nacional.
-
-II.- Causas de interés público.
-
-III.- Lugares en donde exista personal adscrito las 24 horas del día.
-
-IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la sanidad fitopecuaria del país.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 86-A.
 
@@ -5541,73 +4535,51 @@ Los ingresos que se obtengan por la recaudación de derechos a que se refiere es
 
 ###### ARTICULO 87.
 
-Por los servicios que se presten al obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas:
+1.- Los Consejos Distritales Electorales funcionarán durante el proceso para la elección de diputados locales y de Gobernador del Estado y se integrarán con los siguientes miembros:
 
-Cuota
+I.- Un Consejero presidente, con derecho a voz y voto; un consejero secretario del Consejo, con voz, pero sin voto, electos por el Consejo General de acuerdo al procedimiento establecido en la fracción IV del artículo 71.
 
-Sin ajuste Con ajuste
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
 
-I.- Por el estudio y trámite de la solicitud de
+II.- Tres consejeros ciudadanos electos en los términos señalados en la fracción V del artículo 71 de este Código, con derecho a voz y voto. Por cada consejero ciudadano propietario habrá un suplente.
 
-protección de derechos del obtentor $18,019.10 $18,019
+III.- Un representante de cada uno de los partidos políticos con registro, quienes tendrán derecho a voz pero sin voto.
 
-II.- Por la expedición de la constancia
+IV.- Podrá asistir a las sesiones un representante de la vocalía del Registro Federal de Electores del Instituto Federal Electoral, quien sólo tendrá voz.
 
-de presentación $958.26 $958
-
-III.- Por la expedición del título del obtentor $8,817.67 $8,818
-
-IV.- Por el reconocimiento del derecho
-
-de prioridad $958.26 $958
-
-V.- Por cambio de denominación $2,434.35 $2,434
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 88.
 
-Por los servicios de registro de actos jurídicos relacionados con el obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme las siguientes cuotas:
+Los consejeros ciudadanos deberán satisfacer los siguientes requisitos:
 
-Cuota
+1.- Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos políticos y civiles y estar inscrito en el Registro Federal de Electores;
 
-Sin ajuste Con ajuste
+2.- Ser nativo del Estado con seis meses de residencia o un año de residencia si no lo es;
 
-I.- Por el registro de sucesión de los
+3.- Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-derechos de protección $1,703.78 $1,704
+4.- No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato, en los tres años anteriores a la designación;
 
-II.- Por cada copia certificada del Título $486.60 $487
+5.- No desempeñar o haber desempeñado cargo o empleo público de confianza en el municipio o distrito de que se trate en los tres años anteriores a la designación;
 
-REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
+6.- No ser o haber sido dirigente estatal o municipal de algún partido político en los tres años inmediatos anteriores a la designación;
 
-III.- Por el registro de la transmisión total o
+7.- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
-parcial del derecho $861.67 $862
-
-IV.- Copia de la caracterización de la
-
-variedad protegida $486.65 $487
-
-V.- Por la presentación de correcciones e
-
-Información adicional por causa imputable
-
-al usuario. $316.22 $316
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 89.
 
-Por el refrendo anual del título de protección de los derechos del obtentor de variedades vegetales de cualquier especie, se pagará el derecho del obtentor, conforme a la cuota de:
+1.- Los Consejos Distritales iniciarán sus sesiones durante los diez primeros días del mes de febrero del año de la elección.
 
-Cuota
+2.- A partir de su instalación y hasta la conclusión del proceso, los Consejos distritales sesionarán por lo menos una vez al mes.
 
-Sin ajuste Con ajuste
+3.- Para que los Consejos Distritales puedan sesionar, es necesario que estén presentes la mayoría de sus miembros, entre los que deberá estar el presidente. Sus acuerdos o resoluciones se tomarán por mayoría de votos.
 
-$3,760.42 $3,760
+4.- En caso de que no se reúna el quórum a que se refiere el párrafo anterior se citará a una nueva sesión, la que se efectuará dentro de las siguientes veinticuatro horas con los integrantes que asistan, dentro de los cuales deberá estar el Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 89-A.
 
@@ -5625,55 +4597,37 @@ Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Se
 
 ###### ARTICULO 90.
 
-Por los servicios de certificación sobre producción de semillas, se pagará el derecho de certificación de semilla conforme a lo siguiente:
+Los Consejos Distritales Electorales tienen las siguientes atribuciones:
 
-Cuota
+1.- Vigilar la observancia de este código y de los acuerdos que emita el Consejo General.
 
-Sin ajuste Con ajuste
+2.- Intervenir en la preparación, desarrollo y vigilancia para la elección de gobernador, diputados locales y ayuntamientos, en sus respectivos ámbitos.
 
-I.- Por la expedición de certificado de origen
+3.- Determinar el número y la ubicación de las casillas en los términos de este Código;
 
-para exportación, por cada uno $423.73 $424
+4.- Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa.
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+5.- Registrar los nombramientos de los representantes que los partidos políticos acrediten para la jornada electoral y expedir la identificación en un plazo máximo de cuarenta y ocho horas a partir de su registro y, en todo caso, diez días antes de la jornada electoral;
 
-II.- Por la expedición de certificados de
+6.- Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezcan, para participar como observadores durante el proceso electoral respectivo;
 
-calidad, por etiqueta $2.38 $2
+7.- Efectuar los cómputos distritales, la declaración de validez de las elecciones y calificar la elegibilidad de los candidatos a diputados por el principio de mayoría relativa y extender la constancia de mayoría a la fórmula que mayor número de votos haya obtenido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+8.- Efectuar el cómputo distrital de la elección de diputados de representación proporcional y de Gobernador del Estado.
 
-III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
+9.- Remitir los paquetes electorales correspondientes a la elección de diputados y de Gobernador al Consejo General del Instituto.
 
-a).- Autorización $11,501.40 $11,501
+10.- Resolver sobre las peticiones y consultas que sometan los ciudadanos, candidatos y partidos políticos, relativas a la integración y funcionamiento de las mesas directivas de casilla, al desarrollo del proceso electoral y demás asuntos de su competencia.
 
-b).- Por refrendo anual $5,750.60 $5,751
+11.- Informar al Instituto Estatal Electoral sobre el desarrollo de sus funciones.
 
-c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+12.- Substanciar y resolver aquellos recursos que le competen en los términos de este código;
 
-IV.- Por el estudio de la solicitud y, en su caso,
+13.- Aprobar el tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de diputados de mayoría relativa en el distrito electoral uninominal, de conformidad con lo dispuesto en el artículo 143-A de este código.
 
-la inscripción en el catálogo de variedades
+14.- Los demás que le confiere este código.
 
-factibles de certificación $353.37 $353
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-V.- Por la expedición del certificado
-
-internacional de calidad de semilla,
-
-por etiqueta $4.43 $4
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-VI.- Por la expedición de certificado
-
-Internacional de calidad, para semilla
-
-finalmente no certificada $441.89 $442
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION CUARTA. Sanidad Acuícola
 
@@ -5839,19 +4793,43 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-### CAPITULO VIII. De la Secretaría de Comunicaciones y Transportes
+### CAPITULO PRIMERO
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+DE LOS DERECHOS.
 
 #### SECCION PRIMERA
 
 ###### ARTICULO 91.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Corresponde a los Presidentes de los Consejos Distritales:
+
+1.- Convocar y conducir las sesiones del Consejo;
+
+2.- Recibir las solicitudes de registro de candidaturas de diputados por el principio de mayoría relativa;
+
+3.- Dar cuenta al Director General del Instituto, del desarrollo de las elecciones y de los recursos interpuestos dentro de los plazos establecidos en el artículo 262 de este Código.
+
+4.- Entregar a los Presidentes de los Consejos Municipales, en presencia del resto de los integrantes del Consejo Distrital respectivo, la documentación y útiles necesarios, para el debido cumplimiento de las funciones de las Mesas Directivas de Casilla;
+
+5.- Expedir la Constancia de Mayoría a la fórmula a diputados que haya obtenido mayoría de votos conforme al cómputo y declaración de validez del Consejo Distrital;
+
+6.- Dar a conocer mediante avisos colocados en el exterior del local del Consejo Distrital respectivo, los resultados de los cómputos distritales;
+
+7.- Recibir y turnar los recursos que se interpongan en contra de los propios actos o resoluciones del Consejo Distrital, en los términos que señala este Código;
+
+8.- Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo distrital o el Consejo General del Instituto;
+
+9.- Las demás que les confiera este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 92.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
+1.- En cada uno de los municipios de la entidad, el Instituto contará con:
+
+a).- Un Consejo Municipal con residencia en la cabecera municipal.
+
+b).- Mesas directivas de casillas electorales.
 
 ###### ARTICULO 92-A.
 
@@ -5859,11 +4837,13 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 93.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 94.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 94-A.
 
@@ -5871,27 +4851,133 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 95.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Los Consejos Municipales Electorales funcionarán durante el proceso para la elección de los Ayuntamientos y se integrarán con los siguientes miembros:
+
+1.- Un consejero presidente, con derecho a voz y voto; y un consejero secretario del Consejo, con voz, pero sin voto, electos por el Consejo General de acuerdo al procedimiento establecido en la fracción IV del artículo 71;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+2.- Tres consejeros ciudadanos, con derecho a voz y voto, electos conforme a lo dispuesto en la fracción V del artículo 71 de este Código. Por cada consejero propietario habrá un suplente;
+
+3.- Un representante por cada uno de los partidos políticos nacionales o locales con registro, con voz pero sin voto.
+
+4.- Podrá asistir a las sesiones un representante de la vocalía del Registro Federal de Electores del Instituto Federal Electoral, quien solo tendrá voz.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 95-A.
+
+Los consejeros ciudadanos deberán satisfacer los siguientes requisitos:
+
+1.- Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos políticos y civiles y estar inscrito en el Registro Federal de Electores;
+
+2.- Ser nativo o residente del Municipio respectivo;
+
+3.- Contar con conocimientos para el desempeño adecuado de sus funciones;
+
+4.- No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato, en los tres años anteriores a la designación;
+
+5.- No desempeñar o haber desempeñado cargo o empleo público de confianza en el municipio de que se trate en los tres años anteriores a la designación;
+
+6.- No ser o haber sido dirigente estatal o municipal de algún partido político en los tres años inmediatos anteriores a la designación;
+
+7.- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 95-B.
+
+1.- Los Consejos Municipales Electorales iniciarán sus sesiones durante los diez primeros días del mes de marzo del año de la elección.
+
+2.- A partir de su instalación y hasta la conclusión del proceso, los Consejos Municipales Electorales sesionarán por lo menos una vez al mes.
+
+3.- Para que los Consejos Municipales Electorales puedan sesionar, es necesario que estén presentes la mayoría de sus miembros, entre los que deberán estar el presidente. Sus acuerdos o resoluciones se tomarán por mayoría de votos.
+
+4.- En caso de que no se reúna el quórum a que se refiere el párrafo anterior se citará a una nueva sesión, la que se efectuará dentro de las siguientes veinticuatro horas con los integrantes que asistan, dentro de los cuales deberá el Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 95-C.
+
+Los Consejos Municipales Electorales tienen las siguientes atribuciones:
+
+1.- Vigilar la observancia de este código y de los acuerdos que emita el Consejo General.
+
+2.- Intervenir en la preparación, desarrollo y vigilancia para la elección de los Ayuntamientos, en sus respectivos ámbitos.
+
+3.- Insacular a los funcionarios de la casilla conforme al procedimiento señalado en el artículo 154 y vigilar que las mesas directivas se instalen en los términos de este Código.
+
+4.- Recibir y resolver las solicitudes de registro de candidatos a presidente municipal, síndico y regidores.
+
+5.- Registrar los nombramientos de los representantes que los partidos políticos acrediten para la jornada electoral y expedir la identificación en un plazo máximo de setenta y dos horas a partir de su registro y en todo caso, diez días antes de la jornada electoral;
+
+6.- Acreditar a los ciudadanos mexicanos, o a la agrupación a la que (sic) respectivo;
+
+7.- Realizar el cómputo municipal de la elección de concejales.
+
+8.- Expedir la declaratoria de validez y la constancia de mayoría a la planilla que obtenga el mayor número de votos, y las constancias de asignación de regidores por el principio de representación proporcional;
+
+9.- Resolver sobre las peticiones y consultas que sometan los ciudadanos, candidatos y partidos políticos, relativas a la integración y funcionamiento de las mesas directivas de casilla, al desarrollo del proceso electoral y demás asuntos de su competencia.
+
+10.- Publicar avisos en sus respectivos municipios del número de casillas electorales que se instalen su ubicación precisa y el número progresivo de las mismas, así como fijar los padrones y listas por el Registro Federal de Electores en los lugares más visibles de las localidades correspondientes;
+
+11.- Recibir los recursos que este Código establece en contra de sus resoluciones y remitirlos a la autoridad competente para su resolución; y
+
+12.- Las demás que le confiere este código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 96.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Corresponde al Presidente del Consejo Municipal Electoral:
+
+1.- Convocar y conducir las sesiones del Consejo;
+
+2.- Recibir las solicitudes de registro de planillas de candidaturas para el Ayuntamiento respectivo;
+
+3.- Dar cuenta al Director General del Instituto, del desarrollo de las elecciones y de los recursos interpuestos dentro de los plazos establecidos en el artículo 262 de este Código;
+
+4.- Entregar a los Presidentes de las Mesas Directivas de Casilla, en presencia del resto de los integrantes del Consejo Distrital respectivo, la documentación y útiles necesarios, para el debido cumplimiento de sus funciones;
+
+5.- Expedir la Constancia de Mayoría a la planilla de candidatos para el Ayuntamiento que haya obtenido mayoría de votos conforme al cómputo y declaración de validez del Consejo Municipal;
+
+6.- Dar a conocer mediante avisos colocados en el exterior del local del Consejo Municipal respectivo, los resultados de los cómputos municipales;
+
+7.- Recibir y turnar los recursos que se interpongan en contra de los propios actos o resoluciones del Consejo Municipal, en los términos que señala este Código;
+
+8.- Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo Municipal o el Consejo General del Instituto;
+
+9.- Las demás que les confiera este Código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 97.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+1.- Los presidentes de los Consejos Distritales y Municipales Electorales convocarán por escrito en los primeros diez días posteriores a su designación, a la sesión de instalación del organismo que presiden.
+
+2.- Los Consejos Distritales y Municipales Electorales se instalarán válidamente con la mayoría de sus integrantes y los representantes que para esa fecha, hubieren acreditado los partidos políticos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 98.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Los Presidentes de los Consejos Distritales electorales se coordinarán con los Consejos Municipales y con las mesas directivas de las casillas de su demarcación territorial, los auxiliarán y proporcionarán la documentación y útiles necesarios para el desempeño que les atribuye este Código.
 
 ###### ARTICULO 99.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 100.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Los Presidentes de los Consejos Municipales Electorales se coordinarán con las mesas directivas de las casillas de su demarcación territorial, los auxiliarán y proporcionarán la documentación y útiles necesarios para el desempeño de las funciones que les atribuye este Código.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO TERCERO. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 100-A.
 
@@ -5899,15 +4985,91 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 101.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+Las Mesas Directivas de Casilla por mandato constitucional, son los organismos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las secciones de los distritos electorales y los municipios del Estado.
 
 ###### ARTICULO 102.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+1.- Las Mesas Directivas de Casilla estarán integradas por ciudadanos residentes en la sección respectiva, en ejercicio de sus derechos políticos y civiles, de reconocida probidad, que tengan modo honesto de vivir y los conocimientos suficientes para el desempeño de sus funciones.
+
+2.- Se integran con un presidente, un secretario, dos escrutadores y los suplentes respectivos, electos conforme al procedimiento señalado en el artículo 154 de este Código.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Los Consejos Distritales o Municipales Electorales, tomarán las medidas necesarias a fin que los ciudadanos designados para integrar las mesas directivas de casilla, reciban con la anticipación debida al día de la elección, la capacitación necesaria para el desempeño de sus tareas.
 
 ###### ARTICULO 103.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Los funcionarios de las Mesas Directivas de Casilla y los representantes de los partidos políticos tienen las atribuciones siguientes:
+
+I.- De la Mesa Directiva de la Casilla:
+
+a).- Instalar y clausurar la casilla en los términos de éste Código;
+
+b).- Recibir la votación;
+
+c).- Efectuar el escrutinio y cómputo de la votación;
+
+d).- Permanecer en la casilla electoral desde su instalación hasta su clausura;
+
+e).- Formular durante la jornada electoral las actas que ordena éste Código;
+
+f).- Las demás que le confiere éste Código y las disposiciones relativas.
+
+II.- De los Presidentes:
+
+a).- Vigilar el cumplimiento de éste Código sobre los aspectos relativos al funcionamiento de las casillas;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Recibir de los Consejos Distritales y Municipales Electorales, la documentación, formas aprobadas, útiles y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
+
+c).- Identificar a los electores;
+
+d).- Mantener el orden en el interior de la casilla y en el exterior, con el auxilio de la fuerza pública si fuese necesario;
+
+e).- Suspender la votación en caso de alteración del orden y restablecido este, reanudar la votación;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- Retirar de la casilla a cualquier persona que incurra en alteración grave del orden o realice actos que lleven la intención manifiesta de retardar el resultado de la votación. En los supuestos establecidos en esta fracción y en la anterior y tratándose de representantes de Partido, los presidentes deberán de observar lo dispuesto por el artículo 163 y respetar en todo tiempo las garantías que este Código les otorga; y
+
+g).- Practicar, con auxilio del Secretario y de los escrutadores y ante los representantes de los partidos políticos presentes, el escrutinio y computo;
+
+h).- Fijar en un lugar visible al exterior de la casilla los resultados del computo de cada una de las elecciones;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+i).- Concluidas las labores de la casilla, turnar oportunamente al Consejo Distrital o Municipal Electoral respectivo, los paquetes electorales que correspondan y las copias de la documentación respectiva en los términos del artículo 207. En el caso de los incisos d, e y f de esta fracción, los hechos deberán hacerse constar en el acta de cierre de votación, con mención del nombre de las personas que hubiesen intervenido y con la firma de los funcionarios integrantes de la mesa directiva de casilla.
+
+III.- De los Secretarios:
+
+a).- Levantar las actas durante la jornada electoral que le ordena éste Código y distribuirlas en los términos que el mismo establece;
+
+b).- Comprobar que el nombre del elector figure en la lista nominal correspondiente, salvo los casos que menciona el artículo 187;
+
+c).- Contar el número de boletas electorales recibidas antes de iniciar la votación;
+
+d).- Recibir los escritos de protesta que presenten los representantes de los partidos políticos;
+
+e).- Inutilizar las boletas sobrantes de conformidad con lo dispuesto por el artículo 200 de este Código; y
+
+f).- Las demás que les confiere éste Código y las disposiciones relativas.
+
+IV.- De los Escrutadores:
+
+a).- Contar la cantidad de boletas depositadas en cada urna y el número de electores anotados en las listas nominales y adicional;
+
+b).- Contar el número de votos emitidos en favor de cada candidato o formula; y
+
+c).- Las demás que le confiere éste Código y las disposiciones relativas.
+
+V.- De los representantes de partidos: ejercer los derechos y garantías que les confiere el artículo 166 de éste Código.
+
+(REUBICADO, REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)
+
+## TITULO CUARTO. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+(REUBICADO, REFORMADA SU NUMERACION, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 103-A.
 
@@ -5915,39 +5077,61 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 104.
 
-(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
+1.- Los partidos políticos que no hubieran acreditado a sus representantes ante los organismos electorales estatales dentro de los plazos y términos establecidos en el presente ordenamiento, no formarán parte del organismo electoral respectivo durante el proceso electoral.
+
+2.- Los partidos políticos podrán sustituir en cualquier tiempo a sus representantes en los organismos electorales.
 
 ###### ARTICULO 105.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+1.- Cuando el representante propietario de un partido político y en su caso, el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del organismo electoral ante el cual se encuentran acreditados, el partido político dejara de formar parte del mismo organismo durante el proceso electoral de que se trate.
+
+2.- La resolución del organismo electoral se comunicará al partido político respectivo.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Los Consejos Distritales y Municipales Electorales notificarán al Instituto de cada ausencia con el propósito de que éste entere a los representantes de los partidos políticos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 106.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+El secretario del Instituto comunicará a los presidentes de los Consejos Distritales y Municipales Electorales, la votación que los partidos políticos registrados obtuvieron en la última elección de diputados.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 107.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los Consejos Distritales y Municipales, dentro de las 24 horas siguientes a su instalación, remitirán copia del acta respectiva al Instituto; en idéntica forma procederán respecto de las subsecuentes sesiones.
 
 ###### ARTICULO 108.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Las autoridades estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los presidentes respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
+
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+
+# LIBRO CUARTO. DEL REGISTRO DE ELECTORES
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO PRIMERO. DE LA INSCRIPCION DE LOS CIUDADANOS EN EL REGISTRO FEDERAL DE ELECTORES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 109.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 110.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 111.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 112.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 112-A.
 
@@ -5959,15 +5143,17 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 113.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 114.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 115.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 115-A.
 
@@ -6031,27 +5217,29 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 116.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 117.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 118.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 119.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 #### SECCION TERCERA
 
 ###### ARTICULO 120.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 120-A.
 
@@ -6059,11 +5247,11 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 121.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 122.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 122-A.
 
@@ -6071,7 +5259,9 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 123.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 123-A.
 
@@ -6103,7 +5293,7 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 124.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 124-A.
 
@@ -6111,7 +5301,7 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 125.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 125-A.
 
@@ -6119,15 +5309,15 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 126.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 127.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 128.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 128-A.
 
@@ -6155,7 +5345,7 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 129.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 129-A.
 
@@ -6163,19 +5353,31 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 130.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 131.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO SEGUNDO. DE LOS CONVENIOS CON EL REGISTRO FEDERAL DE ELECTORES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 132.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
 ###### ARTICULO 133.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+# LIBRO QUINTO. DEL PROCESO ELECTORAL
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 133-A.
 
@@ -6199,35 +5401,139 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 134.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y este Código, realizados por las autoridades locales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los Poderes Legislativo, Ejecutivo, y municipales del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 135.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+1.- El proceso electoral ordinario para la elección de diputados, de Gobernador del Estado y de los ayuntamientos se inicia en enero del año en que deban realizarse las elecciones y concluye en diciembre del mismo año.
+
+2.- (DEROGADO, P.O. 24 DE MAYO DE 1995)
+
+3.- Para los efectos de éste Código, el proceso electoral ordinario comprende las etapas siguientes:
+
+a).- Preparación de la elección;
+
+b).- Jornada electoral;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Resultados y declaraciones de validez de las elecciones.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- Calificación de las elecciones de Gobernador y Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+4.- La etapa de la preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre durante la primera semana del mes de enero del año en que deban realizarse las elecciones estatales ordinarias y concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+5.- La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de agosto, para la elección del Gobernador y Diputados, y del segundo domingo de noviembre para la elección de concejales, y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y remisión de la documentación y los expedientes electorales a los respectivos comités distritales y municipales.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+6.- La etapa de resultado y declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los consejos distritales y municipales y concluye con los cómputos y declaraciones que realicen los Concejos del Instituto Estatal Electoral, o las resoluciones que en su caso emita en última instancia el Tribunal Estatal Electoral.
+
+7.- (DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+## TITULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCION
 
 ###### ARTICULO 136.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+1.- Corresponde exclusivamente a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular.
+
+2.- Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente, para los ayuntamientos las candidaturas se registrarán por planillas integradas por propietarios y suplentes. Ninguna persona podrá ser registrada como candidato a distintos cargos en el mismo proceso electoral.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+3.- El registro de los candidatos a diputados por presentación proporcional se realizará de acuerdo a las bases siguientes:
+
+a) Las listas de 17 candidatos a diputados por el principio de representación proporcional;
+
+b) Por relaciones de hasta 25 candidatos a diputados por el principio de representación proporcional conformadas con los mismos candidatos de mayoría relativa.
+
+Al momento del registro de las listas de candidatos a diputados por el principio de representación proporcional, los partidos políticos precisaran por cual de las dos opciones registran dichas listas. En caso de no precisar cualquiera de las dos opciones se entenderá que eligió la opción contenida en el inciso a) de esta fracción.
 
 ###### ARTICULO 137.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+1.- Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán en las campañas políticas.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- La plataforma electoral deberá presentarse para su registro ante el Consejo General durante los últimos diez días del mes de febrero del año de la elección. Del registro se expedirá constancia.
 
 ###### ARTICULO 138.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+1.- Los plazos y órganos competentes para el registro de candidaturas en el año de la elección son los siguientes:
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+a).- Para candidatos a diputados a elegir por el principio de mayoría relativa, del 15 al 31 de mayo del año de la elección ante los Consejos Distritales Electorales correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Para candidatos a diputados a elegir por el principio de representación proporcional, del 1º al 15 de junio del año de la elección ante por el Consejo General del Instituto.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Para candidatos a los Ayuntamientos, del 15 al 30 de septiembre del año de la elección ante los Consejos Municipales Electorales.
+
+d).- Para gobernador del 1 al 15 de abril inclusive, por el Consejo General.
+
+2.- El Instituto dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente capítulo.
 
 ###### ARTICULO 139.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+1.- La solicitud de registro de candidaturas deberá señalar el partido político o coalición que las postulen y los siguientes datos de los candidatos:
+
+a).- Apellido paterno, apellido materno y nombre completo;
+
+b).- Lugar y fecha de nacimiento;
+
+c).- Domicilio y tiempo de residencia en el mismo;
+
+d).- Ocupación;
+
+e).- Clave de la credencial para votar; y
+
+f).- Cargo para el que se les postule.
+
+2.- La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar, así como, en su caso, la constancia de residencia de propietarios y suplentes.
+
+3.- De igual manera el partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+4.- La solicitud del registro de la lista de candidatos a diputados por el principio de representación proporcional, deberá acompañarse, además de los documentos anteriores, de la constancia de registro de (sic) lo menos 13 candidatos para diputados por el principio de mayoría relativa.
 
 ###### ARTICULO 140.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+1.- Recibida la solicitud de registro de candidaturas por el Presidente o el Secretario del órgano que corresponda, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en el artículo anterior.
+
+2.- Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 138 de éste Código.
+
+3.- Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 138, será desechada de plano y en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+4.- Dentro de los tres días siguientes al vencimiento de los plazos referidos, los Consejos General, Distritales y Municipales Electorales celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+5.- Los Consejos Distritales y Municipales Electorales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+6.- De igual manera, el Consejo General comunicará de inmediato a los Consejos Distritales y Municipales Electorales, la determinación que haya tomado sobre el registro de la lista de candidatos a elegirse por el principio de representación proporcional. Asimismo informará de los registros que haya efectuado en forma supletoria.
 
 ###### ARTICULO 141.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+1.- El Consejo General solicitará oportunamente la publicación en el Periódico Oficial de la relación de nombres de los candidatos y los partidos o coaliciones que los postulen.
+
+2.- En la misma forma se publicarán y difundirán las cancelaciones del registro o sustituciones de candidatos.
 
 ###### ARTICULO 141-A.
 
@@ -6243,19 +5549,77 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 142.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+Para la sustitución de candidatos, los partidos políticos lo solicitarán por escrito al Consejo General, observando las siguientes disposiciones:
+
+a).- Dentro del plazo establecido para el registro de candidatos, podrán sustituirse libremente.
+
+b).- Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en el artículo 175 de éste Código; y
+
+c).- En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido que lo registró para que proceda, en su caso, a su sustitución.
 
 ###### ARTICULO 143.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- La campaña electoral, para los efectos de éste Código, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y los candidatos; registrados para la obtención del voto.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Se entiende por actos de campaña las reuniones públicas, asambleas, marchas y en general los eventos en que los candidatos o voceros de los partidos se dirigen al electorado para promover sus candidaturas.
+
+3.- Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones, y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+
+4.- Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubiese registrado.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 143-A.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección apruebe el Consejo General, y aprueben los consejos distritales correspondientes en los términos de los articulos 71 y 90 de este código.
+
+Para los efectos de este artículo quedarán comprendidos dentro de los topes de gastos los siguientes conceptos:
+
+a).- Gastos de propaganda:
+
+Comprenden os realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
+
+b).- Gastos operativos de campaña:
+
+Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
+
+c).- Gastos de propaganda en prensa, radio y televisión:
+
+Comprenden los realizados en cualquiera de estos medios tales como mensajes, anuncios publicitarios y sus similares, tendientes a la obtención del voto.
+
+No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para el sostenimiento de sus órganos directivos y sus organizaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 143-B.
+
+Para la determinación de los topes de gastos de campaña, el Consejo General tomará en cuenta los siguientes criterios:
+
+a).- El monto del financiamiento público otorgado a los partidos políticos en contienda;
+
+b).- El número de ciudadanos inscritos en el padrón electoral de que se trate;
+
+c).- La duración de la campaña; y
+
+d).- La extensión territorial del ámbito electoral de que se trate.
+
+El Consejo General aprobará los topes de gastos de campaña para las elecciones de Gobernador del Estado, y concejales y los consejos distritales aprobarán los topes de gastos de campaña para las elecciones de diputados de mayoría relativa, antes de que inicien los respectivos plazos para el registro de candidaturas.
 
 ###### ARTICULO 144.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- Las reuniones públicas realizadas por los partidos políticos y los candidatos registrados se regirán por lo dispuesto en el artículo 9° de la Constitución Federal y no tendrán más límite que el respeto a los derechos de terceros, en particular los de otros partidos y candidatos, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público dicte la autoridad administrativa competente.
+
+2.- En aquellos casos en los que las autoridades concedan gratuitamente a los partidos políticos o candidatos el uso de locales cerrados de propiedad pública, deberá estarse a los siguiente:
+
+a).- Solicitarlo por escrito, señalando la naturaleza del acto a realizar, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre de ciudadano autorizado por el partido político o el candidato en cuestión que se responsabiliza del buen uso de local y sus instalaciones; y
+
+b).- En número de ciudadanos que se estima habrán de concurrir.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- El presidente del Consejo podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran.
 
 ###### ARTICULO 144-A.
 
@@ -6263,7 +5627,7 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 145.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+Los partidos políticos o candidatos que decidan dentro de la campaña electoral realizar, marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán hacer conocer a la autoridad competente su itinerario a fin de que esta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
 ###### ARTICULO 145-A.
 
@@ -6271,11 +5635,15 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 146.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato.
+
+2.- La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrá más límite, en los términos del artículo 7° de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
 
 ###### ARTICULO 147.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- La propaganda que en el curso de una campaña difundan los partidos políticos, se ajustará a lo dispuesto por el artículo 6° de la Constitución Federal.
+
+2.- Los partidos políticos, las coaliciones y los candidatos al realizar la propaganda electoral deberán evitar en ella cualquier ofensa, difamación o calumnia que denigre a candidatos, partidos políticos, instituciones y terceros.
 
 ###### ARTICULO 147-A.
 
@@ -6291,429 +5659,33 @@ se refiere este artículo, se pagar la cuota de $19,133.53 $19,134
 
 ###### ARTICULO 148.
 
-Por los servicios que se presten por la operación del autotransporte federal y sus servicios auxiliares, en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-A. Por los servicios relacionados con la expedición de:
-
-I.- Permisos:
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-a). Para la operación y explotación de los servicios de autotransporte federal y sus servicios auxiliares en sus distintas modalidades, por cada permiso para:
-
-1. Vehículos motrices. Incluye permiso, alta
-
-vehicular, dos placas, calcomanía de identificación
-
-vehicular y tarjeta de circulación $3,894.25 $3,894
-
-Cuando los servicios a que se refiere el
-
-presente numeral sean solicitados a través
-
-de medios electrónicos $2,969.99 $2,970
-
-2. Unidades de Arrastre.
-
-Incluye permiso, alta vehicular, una placa,
-
-calcomanía de identificación vehicular y
-
-tarjeta de circulación $2,972.53 $2,973
-
-Cuando los servicios a que se refiere el
-
-presente numeral sean solicitados a través
-
-de medios electrónicos $2,048.27 $2,048
-
-3. Especial para grúas industriales del servicio
-
-de autotransporte federal; especial por un viaje
-
-para el autotransporte de objetos voluminosos
-
-o de gran peso; para complementar la ruta
-
-autorizada por concesiones o permisos estatales;
-
-depósitos de vehículos; para el autotransporte
-
-internacional de pasajeros, turismo y carga;
-
-para operar servicios transfronterizos
-
-de turismo $727.32 $727
-
-Cuando los servicios a que se refiere el
-
-presente numeral sean solicitados a través
-
-de medios electrónicos $236.08 $236
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-4. Especiales en rutas específicas para
-
-vehículos que transportan pasajeros y
-
-cargas de hasta 4.50 metros de altura,
-
-por permiso especial $711.61 $712
-
-Si los permisos que se otorgan conforme a los numerales 1 y 2 de este inciso amparan más de un vehículo motriz o unidad de arrastre, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
-
-b).- Para la construcción, operación
-
-y explotación de terminales de
-
-pasajeros del autotransporte federal,
-
-por permiso. $2,310.34 $2,310
-
-II.- Autorizaciones:
-
-a).- Para la cesión de derechos y
-
-obligaciones establecidos en los
-
-permisos, por trámite. $2,433.38 $2,433
-
-b).- Para el traslado de mancuernas,
-
-tricuernas, cuatricuernas y
-
-pentacuernas, por permiso. $2,145.71 $2,146
-
-c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
-
-1.- Central. $13,965.23 $13,965
-
-2.- Individual. $2,489.45 $2,489
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-d) Especiales de conectividad a usuarios o transportistas de carga consolidada, permisionarios de pasaje o turismo, para utilizar un camino de menor clasificación, por autorización $711.61 $712
-
-III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-a). Reposición de placas para automotor,
-
-remolque y semirremolque, para los servicios
-
-de autotransporte federal en sus diversas
-
-modalidades, servicios auxiliares y de
-
-arrendamiento, por placa $995.06 $995
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-b). Reposición de calcomanía de identificación
-
-vehicular, por calcomanía $161.02 $161
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-c). Revalidación de la tarjeta de circulación
-
-para automotor, remolque y semirremolque,
-
-para los servicios de autotransporte federal
-
-en sus diversas modalidades, servicios
-
-auxiliares y de arrendamiento, por tarjeta $577.14 $577
-
-1.- Por la modificación o reposición
-
-de la tarjeta de circulación, por tarjeta. $231.60 $232
-
-B. Canje de placas metálicas y calcomanías de identificación:
-
-I.- Canje de placas metálicas y calcomanías
-
-de identificación para automotores del
-
-servicio de carga, pasajeros, turismo,
-
-servicios auxiliares, arrendamiento y
-
-traslado, por vehículo. $2,029.95 $2,030
-
-II.- Canje de placa metálica y calcomanía de
-
-identificación para remolque y semirremolque,
-
-por vehículo. $1,011.35 $1,011
-
-C. Licencias para conducir:
-
-a).- Expedición. $512.02 $512
-
-b). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-c).- Expedición de categoría
-
-adicional de licencia. $162.83 $163
-
-d).- Renovación. $309.37 $309
-
-e).- Duplicado. $309.37 $309
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Cuando las licencias para conducir sean solicitadas a través de medios electrónicos, se pagarán derechos conforme a las siguientes cuotas:
-
-a). Expedición $143.83 $144
-
-b). Expedición de categoría
-
-adicional de licencia $139.06 $139
-
-c). Renovación $134.15 $134
-
-d). Duplicado $129.36 $129
-
-Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
-
-D. Servicios diversos:
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-I.- Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares. En el supuesto de arrendamiento: alta de vehículo automotor, remolque o semirremolque o automóvil para uso particular en el registro de arrendamiento; vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares. Alta de vehículo automotor, remolque o semirremolque por cambio de modalidad:
-
-a). Por cada vehículo motriz.
-
-Incluye alta de vehículo, dos placas,
-
-calcomanía de identificación vehicular
-
-y tarjeta de circulación $3,220.35 $3,220
-
-Cuando los servicios a que se refiere
-
-el presente inciso sean solicitados a
-
-través de medios electrónicos, por
-
-cada vehículo motriz $2,751.27 $2,751
-
-b). Por cada unidad de arrastre.
-
-Incluye alta de vehículo, una placa,
-
-calcomanía de identificación
-
-vehicular y tarjeta de circulación $2,298.62 $2,299
-
-Cuando los servicios a que se refiere
-
-el presente inciso sean solicitados a
-
-través de medios electrónicos, por
-
-cada unidad de arrastre $1,829.55 $1,830
-
-c). Por cada vehículo automotor, remolque
-
-o semirremolque en arrendamiento, en el
-
-permiso de los servicios de autotransporte
-
-federal y servicios auxiliares; o cambio de
-
-modalidad. Incluye alta de vehículo y
-
-modificación de la tarjeta de circulación $907.82 $908
-
-Cuando los servicios a que se refiere el
-
-presente inciso sean solicitados a través
-
-de medios electrónicos, por cada vehículo
-
-automotor, remolque o semirremolque $438.74 $439
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-II.- Por la emisión del dictamen sobre
-
-condiciones de seguridad para utilizar un
-
-camino de menor clasificación para
-
-autotransporte federal de pasajeros o
-
-de turismo, por dictamen $711.61 $712
-
-III.- Suscripción de convenio anual celebrado
-
-por la Secretaría de Comunicaciones y
-
-Transportes con las empresas fabricantes y
-
-distribuidoras de vehículos nuevos y empresas
-
-trasladistas, por convenio. $162.83 $163
-
-IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
-
-a).- Por el pago de la renta mensual
-
-de placas de traslado, por vehículo. $810.53 $811
-
-b).- Expedición o reposición de placa
-
-metálica de identificación de traslado,
-
-por vehículo. $984.21 $984
-
-V.- Por el otorgamiento de cada juego
-
-de calcomanías y certificado de baja
-
-emisión de contaminantes, que se
-
-entregue a los centros de verificación
-
-de emisiones contaminantes de los
-
-vehículos de pasaje y carga. $18.08 $18
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-VI.- Por el estudio y, en su caso, aprobación
-
-para la autorregulación y verificación en
-
-materia de peso y dimensiones máximos, a
-
-usuarios y transportistas que cuenten dentro
-
-de su proceso de embarque con básculas de
-
-plataforma y equipo de medición de dimensiones
-
-de su propiedad donde se garantice el cumplimiento
-
-del peso y dimensiones máximos que establece la
-
-Norma Oficial Mexicana correspondiente, en cada
-
-embarque transportado, por aprobación $1,354.11 $1,354
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-VII.- Por el estudio y, en su caso, aprobación
-
-para la autorregulación y verificación en materia
-
-de peso y dimensiones máximos, a usuarios y
-
-transportistas que cuenten con un mismo proceso
-
-de embarque donde se garantice el cumplimiento
-
-de peso y dimensiones máximos que establece
-
-la Norma Oficial Mexicana correspondiente, en
-
-cada embarque transportado, por aprobación $1,354.11 $1,354
-
-VIII.- Por el estudio y, en su caso, aprobación
-
-de la instalación de unidades de verificación o
-
-laboratorios de prueba, por unidad. $1,384.03 $1,384
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-IX.- Por el estudio y, en su caso, aprobación
-
-de terceros para que lleven a cabo verificaciones
-
-de la Norma Oficial Mexicana correspondiente,
-
-de acuerdo con lo que establece la Ley Federal
-
-sobre Metrología y Normalización, por aprobación $1,354.11 $1,354
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+La propaganda que los partidos políticos, las coaliciones y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de prevención de la contaminación por ruido.
 
 ###### ARTICULO 149.
 
-Por los servicios que se presten para la operación del transporte privado en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Expedición de permiso para transporte
-
-privado, por permiso. $2,071.52 $2,072
-
-II.- Expedición de la tarjeta de circulación
-
-para el transporte privado, por tarjeta. $1,213.99 $1,214
-
-III.- Reposición o modificación de la tarjeta
-
-de circulación para el transporte privado,
-
-por tarjeta. $370.90 $371
-
-IV.- Revalidación de la tarjeta de circulación
-
-para el transporte privado, por tarjeta. $995.06 $995
-
-V.- Alta de vehículo automotor, remolque o
-
-semirremolque en el permiso de transporte
-
-privado de personas o carga, por vehículo. $747.20 $747
-
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-Cuando los permisos a que se refiere la
-
-presente fracción sean solicitados a través de
-
-medios electrónicos, por vehículo $241.54 $242
-
-VI.- Permiso para el transporte de materiales
-
-peligrosos y sus residuos, por permiso. $2,259.69 $2,260
-
-VII.- Permiso especial por un año para el
-
-tránsito de grúas industriales del servicio
-
-privado, por vehículo, por permiso. $727.29 $727
-
-VIII.- Permiso por un solo viaje para vehículos
-
-privados de autotransporte de objetos
-
-voluminosos o de gran peso, con exceso de
-
-peso o dimensión, por permiso. $692.93 $693
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+Al interior de las oficinas, edificios y locales ocupados por la administración y los poderes públicos no podrá fijarse ni distribuirse propaganda electoral de ningún tipo.
 
 #### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
 ###### ARTICULO 150.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+En la colocación de propaganda electoral los partidos y candidatos observarán las reglas siguientes:
+
+a).- Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas siempre que no se dañe el equipamiento, se impida la visibilidad de conductores de vehículos o se impida la circulación de peatones;
+
+b).- Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Podrá colgarse o fijarse en lugares de uso común que determinen los Consejos Distritales o Municipales previo acuerdo con las autoridades correspondientes y conforme a las bases que los propios Consejos fijen durante el mes de marzo;
+
+d).- No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico; y
+
+e).- No podrá colgarse, fijarse o pintarse en monumentos ni en el exterior de edificios públicos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+Los Consejos Distritales y Municipales, dentro del ámbito de su competencia velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiese lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos en la materia.
 
 ###### ARTICULO 150-A.
 
@@ -6753,7 +5725,9 @@ Para los efectos del párrafo anterior, así como de la fracción I del artícul
 
 ###### ARTICULO 151.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+1.- Las campañas electorales de los partidos políticos se iniciarán a partir de la fecha de registro de candidaturas para la elección respectiva y concluirán tres días antes de la elección.
+
+2.- Durante los tres días anteriores al de la jornada electoral no se permitirá la celebración de reuniones o actos públicos de campaña o de propaganda electoral.
 
 ###### ARTICULO 151-A.
 
@@ -6763,29 +5737,7 @@ Para los efectos del párrafo anterior, así como de la fracción I del artícul
 
 ###### ARTICULO 152.
 
-No se pagarán los derechos a que se refiere el artículo 150-C de esta Ley, por los vuelos que realicen las aeronaves nacionales o extranjeras con alguna de las finalidades siguientes:
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-I.- Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o plagas, así como los vuelos de grupos de ayuda médica con fines no lucrativos, los de asistencia social, los de fumigación y los que atienden situaciones de emergencia, tanto nacionales como internacionales.
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-II.- Destinadas a la salvaguarda de las instituciones, seguridad nacional y combate al narcotráfico.
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-III.- Aeronaves en misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
-
-IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-V.- Destinadas a la verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-VI.- Que participen en festivales aéreos organizados por la autoridad aeronáutica.
+Cualquier infracción a las disposiciones contenidas en el presente capítulo será sancionada en los términos de éste Código.
 
 ###### ARTICULO 152-A.
 
@@ -6793,7 +5745,21 @@ VI.- Que participen en festivales aéreos organizados por la autoridad aeronáut
 
 ###### ARTICULO 153.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+1.- En los términos del artículo 125 del presente Código, las secciones en que se dividen los municipios tendrán como máximo 1500 electores.
+
+2.- En toda sección electoral por cada 750 electores o fracción se instalará una casilla para recibir la votación de los ciudadanos residentes en la misma; de ser dos o más se colocarán en forma contigua y se dividirá la lista nominal de electores en orden alfabético.
+
+3.- Cuando el crecimiento demográfico de las secciones lo exija, se estará a lo siguiente:
+
+a).- En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a 1500 electores, se instalará en un mismo sitio o local tantas casillas como resulte de dividir alfabéticamente el número de ciudadanos inscritos en la lista entre 750; y
+
+b).- No existiendo un local que permita la instalación en un mismo sitio de las casillas necesarias, se ubicarán éstas en lugares diversos atendiendo a la concentración y distribución de los electores en la sección, a una distancia no mayor de cien metros.
+
+4.- Cuando las condiciones geográficas de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores, aún cuando el número de ciudadanos en dichos lugares sea inferior a 750.
+
+5.- Igualmente podrán instalarse en las secciones que acuerde el Comité Distrital correspondiente las casillas especiales a que se refiere el artículo 187 de éste Código.
+
+6.- En cada casilla se procurará la instalación de mamparas donde los votantes puedan decidir el sentido de su voto. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garanticen plenamente el secreto del voto.
 
 ###### ARTICULO 153-A.
 
@@ -6805,345 +5771,121 @@ VI.- Que participen en festivales aéreos organizados por la autoridad aeronáut
 
 ###### ARTICULO 154.
 
-Por el otorgamiento de las concesiones y permisos señalados en la Ley de Aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
+El procedimiento para designar a los integrantes de las mesas directivas de casillas, será el siguiente:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Una vez que se reciba la información del número de empadronados de las secciones comprendidas en el municipio o distrito electoral, el Consejo distrital o municipal electoral sesionará para determinar el número de casillas que se instalarán.
 
-I.- Por cada concesión de Aeropuertos $38,338.57 $38,339
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-a).- Por su modificación $4,792.19 $4,792
+b).- En el mes de abril del año en que deban celebrarse las elecciones, los consejos Distritales o Municipales procederán a insacular de las listas nominales de electores a un 10% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para ello, las Juntas podrán apoyarse en la información de los listados nominales del centros (sic) de cómputo del Instituto Federal Electoral.
 
-II.- Por cada permiso de:
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-a).- Construcción de aeródromos de servicio
+c).- Los Consejos Distritales y Municipales verificarán que los ciudadanos que resultaron sorteados cumplan con los requisitos que les exige el presente Código..
 
-particular; aeródromos de servicio particular
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-con contrato con terceros; aeródromos de
+d).- A los ciudadanos que satisfagan los requisitos se les impartirá un curso de capacitación durante el mes de mayo y agosto, del año de la elección respectivamente;
 
-servicios generales; helipuertos de servicio
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-privado; helipuertos de servicio privado con
+e).- Los Consejos Distritales y Municipales Electorales harán durante junio y octubre una relación de aquellos ciudadanos que hubieren acreditado el curso de capacitación correspondiente.
 
-contrato con terceros o hidroaeródromos $9,584.50 $9,584
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-b).- Explotación de aeródromos de servicio
+f).- Los Consejos Distritales o Municipales Electorales integrarán las mesas directivas con los ciudadanos seleccionados, conforme al procedimiento descrito, y determinarán según su grado de escolaridad y con el criterio de que a mayor nivel de escolaridad corresponde mayor responsabilidad, a desempeñar en las casillas, a más tardar en las últimas semanas de junio y septiembre respectivamente;
 
-particular; aeródromos de servicio particular
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-con contrato con terceros; aeródromos de
+g).- Realizada la integración de las mesas directivas, los Consejos Distritales y Municipales ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada distrito o municipio, a más tardar 30 días antes de la elección;
 
-servicios generales; helipuertos de servicio
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-privado; helipuertos de servicio privado con
+h).- Los Consejos Distritales o Municipales Electorales notificarán personalmente a los integrantes de la casilla su respectivo nombramiento y los citarán a rendir la protesta correspondiente ante los órganos electorales.
 
-contrato con terceros o hidroaeródromos $9,584.50 $9,584
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-c).- Ampliación o remodelación de la infraestructura
+i).- Los Consejos Distritales y Municipales podrán designar directamente a los integrantes de las mesas directivas de casilla, cuando así lo apruebe la mayoría de sus miembros por exigirlo las condiciones o costumbres de los municipios.
 
-de aeropuertos; aeródromos de servicio
-
-particular; aeródromos de servicio particular con
-
-contrato con terceros; aeródromos de servicios
-
-generales; helipuertos de servicio privado;
-
-helipuertos de servicio privado con contrato
-
-con terceros o hidroaeródromos $9,584.50 $9,584
-
-d).- Por la modificación de los permisos a que
-
-se refiere esta fracción $4,792.19 $4,792
-
-III.- Por cada permiso de:
-
-a).- Construcción y explotación de aeródromos
-
-de servicio comunitario $958.26 $958
-
-b).- Modificación a los aeródromos de servicio
-
-comunitario $383.21 $383
-
-IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
-
-a).- De uso privado $4,792.19 $4,792
-
-b).- De uso público $19,169.20 $19,169
-
-c).- Para aviones agrícolas $1,916.76 $1,917
-
-d).- Para aerostatos, aviones ultraligeros
-
-u otros análogos $1,916.76 $1,917
-
-V.- Por la autorización de extensión de horario
-
-en los aeródromos civiles, por cada media hora
-
-o fracción con tolerancia de cinco minutos
-
-posteriores a la media hora $574.88 $575
-
-Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-No se pagarán los derechos a que se refiere esta fracción, por los vuelos que realicen las aeronaves nacionales o extranjeras con alguna de las finalidades siguientes:
-
-a). Prestar servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o plagas, así como los vuelos de grupos de ayuda médica con fines no lucrativos, los de asistencia social, los de fumigación y los que atienden situaciones de emergencia, tanto nacionales como internacionales.
-
-b). La salvaguarda de las instituciones públicas, seguridad nacional y al combate al narcotráfico.
-
-c). Ser utilizadas en misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
-
-d). La verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
-
-e). Participar en festivales aéreos organizados por la autoridad aeronáutica.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 155.
 
-Por los servicios de verificación establecidos en la Ley de Aviación Civil y en la Ley de Aeropuertos los concesionarios, permisionarios, autorizados u operadores pagarán derechos por hora de verificación, conforme a las siguientes cuotas:
+1.- Los Consejos Distritales, a propuesta de su presidente, determinarán la instalación de casillas especiales para la recepción de votos de los electores que se encuentran transitoriamente fuera del municipio correspondiente a su domicilio.
 
-Cuota
+2.- Para la integración de la mesa directiva y ubicación de las casilla (sic) especiales, se aplicarán las reglas establecidas en el presente capítulo.
 
-Sin ajuste Con ajuste
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Por verificación mayor o verificación a las
-
-condiciones de concesiones y permisos $7,686.39 $7,686
-
-II.- Por verificación menor $1,533.36 $1,533
-
-III.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
-
-IV.- Por verificación menor a los Centros de
-
-Formación, Capacitación y Adiestramiento, a
-
-los servicios aéreos especializados bajo la
-
-modalidad de fumigador aéreo, a los operadores
-
-aéreos y sobre aspectos específicos a
-
-concesionarios y permisionarios en especial a
-
-las aeronaves, sus partes y refacciones $486.70 $487
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-No se pagará el derecho a que se refiere esta fracción cuando se verifique a los Centros de Formación, Capacitación y Adiestramiento operados por la Secretaría de Comunicaciones y Transportes.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+3.- En cada distrito electoral se instalará por lo menos una casilla especial sin que puedan ser más de cinco en el mismo distrito.
 
 ###### ARTICULO 156.
 
-Por los servicios de certificación mediante vuelos de inspección de ayudas a la navegación aérea, por cada hora de vuelo, en aeronave verificadora para determinación de sitio y certificación periódica o especial se pagarán derechos conforme a la cuota de
+1.- Los lugares para la ubicación de las casillas deberán reunir los requisitos siguientes:
 
-Cuota
+a).- Hacer posible el fácil y libre acceso de los electores;
 
-Sin ajuste Con ajuste
+b).- Permitir la emisión secreta del sufragio;
 
-$107,731.78 $107,732
+c).- No ser casas habitadas por servidores públicos de confianza, federales, estatales o municipales, o por dirigentes de partidos políticos; y
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+d).- No ser establecimientos fabriles, sindicatos, templos o locales de partidos o asociaciones políticas.
 
-No se pagará el derecho a que se refiere este artículo por los servicios de certificación mediante vuelos de inspección a las instalaciones de ayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes operadas por la misma.
+2.- Para la ubicación de las casillas se dará preferencia a los edificios y escuelas públicas, cuando reúnan los requisitos indicados. Ninguna casilla se situará en la misma cuadra o manzana en la que este ubicado el domicilio de algún local de cualquiera de los partidos u organizaciones políticas.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+###### ARTICULO 157.
 
-###### Artículo 157.
+1.- El procedimiento para determinar la ubicación de las casillas será el siguiente:
 
-Por los servicios relacionados con la expedición de cada certificado de capacidad, licencia al personal técnico aeronáutico o, en su caso, permiso se pagarán derechos conforme a las siguientes cuotas:
+a).- En los meses de febrero y agosto del año de la elección correspondiente, los miembros de las Juntas Distritales o municipales Ejecutivas recorrerán las secciones de los distritos o municipios respectivos con el propósito de localizar lugares que cumplan con los requisitos señalados en el artículo anterior;
 
-Cuota
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+b).- En marzo y septiembre del año de la elección correspondiente, los Presidentes de los Consejos Distritales o los Presidentes de los Consejos Municipales presentarán a los Consejos Distritales o Municipales Electorales respectivos, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-I. Por la expedición de cada certificado de capacidad, licencia o permiso para:
+c). Recibidas las listas, los consejeros examinarán que los lugares propuestos cumplan con los requisitos señalados; en la sesión a que se refiere el artículo 158 de este Código, y
 
-a).- Personal de vuelo $1,533.36 $1,533
+d).- Dentro de los cinco días siguientes a partir de la sesión a que se refiere la fracción anterior, los miembros de los Consejos Distritales o Municipales correspondientes podrán presentar las objeciones respecto de los lugares propuestos.
 
-b).- Personal de tierra $1,149.96 $1,150
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Por la recuperación de licencia se pagará la misma cuota establecida en los incisos de esta fracción, según corresponda.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-II.- Por la revalidación de licencia al:
-
-a).- Personal de vuelo $766.52 $767
-
-b).- Personal de tierra $574.88 $575
-
-III.- Por reposición de la licencia $574.88 $575
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-No se pagarán los derechos a que se refieren las fracciones I y II de este artículo cuando los servicios correspondientes sean solicitados por el personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 158.
 
-Por los servicios de expedición de los siguientes certificados, se pagarán derechos conforme a las siguientes cuotas:
+Vencido el término de los cinco días a que se refiere el Artículo 157 inciso d) de este Código, los Consejos Distritales o Municipales Electorales sesionarán para:
 
-Cuota
+a).- Resolver las objeciones presentadas y hacer en su caso los cambios y las nuevas designaciones que procedan;
 
-Sin ajuste Con ajuste
+b).- Aprobar el proyecto de listas de ciudadanos que integrarán las mesas directivas de las casillas y de los lugares de ubicación; y
 
-I.- Por la expedición de los siguientes certificados:
+c).- Ordenar la publicación de la lista de integración de las mesas directivas y de los lugares de ubicación en orden numérico de las secciones del distrito electoral o municipio.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-a) De aeronavegabilidad $3,607.22 $3,607
-
-b).- De matrícula $1,916.76 $ 1,917
-
-c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-d).- De aeronavegabilidad o matrículas de
-
-aeronaves agrícolas $ 1,149.96 $ 1,150
-
-e).- De aeronavegabilidad o matrícula de
-
-aerostatos, aeronaves ultraligeras u otros
-
-análogos, cuando operen fuera de las áreas
-
-geográficas autorizadas a sus clubes $ 1,149.96 $ 1,150
-
-II.- Por la expedición de certificados de
-
-homologación por emisión de ruido $ 1,149.96 $ 1,150
-
-III.- Por la renovación o reposición del certificado
-
-de aeronavegabilidad o matrícula $ 1,916.76 $ 1,917
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-IV. Por la expedición del certificado
-
-de aeródromo $ 11,636.75 $11,637
-
-V.- Por la asignación de marcas de nacionalidad
-
-y matrícula con siglas especiales $ 25,087.40 $ 25,087
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VI. Por la expedición del certificado de
-
-especificaciones del sistema de gestión
-
-de seguridad operacional $ 41,566.34 $41,566
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VII. Por la expedición del certificado de producción
-
-de aeronaves y sus componentes $ 21,698.38 $21,698
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 158 BIS.- Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I. Por el otorgamiento $66,475.51 $66,476
-
-II. Por la renovación $ 5,055.09 $5,055
-
-III. Por la convalidación $ 1,845.40 $1,845
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 159.
 
-Por los servicios relacionados con el otorgamiento de las concesiones, permisos o autorizaciones señalados en la Ley de Aviación Civil, se pagarán derechos conforme a las siguientes cuotas:
+1.- Los Consejos Distritales o Municipales Electorales publicarán a más tardar 30 días antes de la fecha de la elección, en su respectiva demarcación, numerada progresivamente, el número de casillas electorales y su ubicación así como los nombres de los integrantes.
 
-Cuota
+2.- La publicación se hará fijando la lista de la ubicación de las casillas y los nombres de sus integrantes, en los edificios y lugares públicos más concurridos del distrito o municipio.
 
-Sin ajuste Con ajuste
-
-I.- Concesión $ 38,338.57 $ 38,339
-
-II.- Permiso $ 19,169.20 $ 19,169
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-III. Autorización $ 1,749.06 $1,749
-
-IV.- Permiso de aeronaves para uso agrícola $ 9,584.50 $ 9,584
-
-V.- Autorización de clubes aéreos y de
-
-Aeromodelismo $ 1,916.76 $ 1,917
-
-Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 160.
 
-Por la expedición de cada certificado de aprobación tipo, se pagarán derechos conforme a la cuota de
+1.- Los Consejos Distritales o Municipales Electorales, dentro de los 15 días siguientes a la publicación, atenderán las objeciones y harán los cambios cuando los lugares señalados o los ciudadanos designados no reúnan los requisitos correspondientes.
 
-Cuota
+2.- En todo caso se ordenará la publicación de las modificaciones.
 
-Sin ajuste Con ajuste
-
-$ 1,916.76 $ 1,917
-
-Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $ 1,149.96 $1,150
-
-cada vuelo.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 161.
 
-Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$ 2,130.24 $2,130
-
-No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+Cuando vencido el término de 15 días después de la publicación ocurran causas supervenientes fundadas, los Consejo (sic) Distritales o Municipales podrán hacer los cambios que se requieran y tratándose de la ubicación de las casillas mandarán fijar avisos en los lugares excluidos indicando la nueva ubicación.
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 
@@ -7153,123 +5895,39 @@ No se pagarán los derechos a que se refiere este artículo cuando los servicios
 
 ###### ARTICULO 162.
 
-Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$ 535.35 $ 535
+1.- Los partidos políticos, una vez registrados sus candidatos y formulas de candidatos y hasta diez días antes del día de la elección, tendrán derecho a nombrar representantes ante las mesas directivas de casilla y representantes generales. En cada casilla los partidos políticos nombrarán un representante propietario y un suplente; por cada diez casillas urbanas y cinco rurales se nombrará un representante general.
 
 ###### ARTICULO 163.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+En cualquier acto ante los organismos electorales en que estén varios representantes de un partido político, se observarán las reglas siguientes:
+
+a).- Deberán actuar conjuntamente sin que se admita intervención por separado;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- En los Consejos Distritales y Municipales Electorales actuarán por conducto del representante acreditado; y
+
+c).- En las mesas directivas de casillas actuarán por conducto del representante del partido.
 
 ###### ARTICULO 164.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+Los representantes generales de los partidos políticos tendrán los siguientes derechos:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+a).- Coadyuvar el día de la elección, con los organismos electorales en el cumplimiento de las disposiciones de éste Código, relativas a la emisión, efectividad e imparcialidad del sufragio; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+b).- Presentar los escritos de protesta al término del escrutinio y computación si no hubiesen estado presentes los representantes de su partido o candidato.
 
 ###### ARTICULO 165.
 
-Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Comunicaciones y Transportes en sus funciones de autoridad en materia de marina mercante, se pagarán derechos conforme a las siguientes cuotas:
+La actuación de los representantes generales de los partidos políticos estará sujeta a las normas siguientes:
 
-Cuota
+a).- Ejercerán su cargo exclusivamente dentro del distrito electoral o municipio para el que fueron asignados;
 
-Sin ajuste Con ajuste
+b).- Deberán actuar individualmente y en ningún caso de manera colectiva;
 
-I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
+c).- No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casilla; y
 
-II.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-III.- Por la expedición de autorización para la permanencia de artefactos navales y permiso para servicio de dragado en zonas marinas mexicanas, por unidad de arqueo bruto o fracción de registro internacional:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Hasta 500 unidades de arqueo
-
-bruto $10.5576
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-b).- De 500.01 hasta 1,000 unidades de arqueo
-
-bruto $8.7288
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-c).- De 1,000.01 hasta 5,000 unidades de arqueo
-
-bruto $7.2525
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d).- De 5,000.01 hasta 15,000 unidades de arqueo
-
-bruto $5.4372
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-e).- De 15,000.01 en adelante $ 3.6217
-
-IV.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-V.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VI. Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por unidad de arqueo bruto o fracción de registro internacional:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Hasta 500 unidades de arqueo bruto $39.50 $39
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-b).- De 500.01 hasta 1,000 unidades de arqueo
-
-bruto $32.74 $33
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-c).- De 1,000.01 hasta 5,000 unidades de arqueo
-
-bruto $27.45 $27
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-d).- De 5,000.01 hasta 15,000 unidades de arqueo
-
-bruto $20.61 $21
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-e).- De 15,000.01 en adelante $ 13.71 $ 14
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VII. Por la expedición del permiso especial para servicio de
-
-pasajeros a partir de 2 unidades de arqueo bruto, por unidad
-
-de arqueo bruto o fracción $9.31 $9
-
-VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-X.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-XIII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
+d).- No asumirán las funciones de los integrantes de las mesas directivas de casillas.
 
 ###### ARTICULO 165-A.
 
@@ -7279,65 +5937,53 @@ XIII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 166.
 
-No pagarán los derechos a que se refiere el artículo 165 de esta Ley, las embarcaciones o artefactos navales siguientes:
+Los representantes de los partidos políticos ante la casilla tendrán los siguientes derechos para ejercer sus cargos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+a).- Participar en la instalación de casilla y permanecer hasta la conclusión del escrutinio, computación y clausura;
 
-I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
+b).- Firmar todas las actas que deban elaborarse en la casilla;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+c).- Firmar bajo protesta las actas, con mención de la causa que la motive;
 
-II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
+d).- Recibir copia legible de todas las actas elaboradas en la casilla;
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+e).- Presentar escritos relacionados con la votación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+f).- Presentar al término del escrutinio y cómputo el escrito de protesta como requisito de procedencia del recurso de inconformidad; y
+
+g).- Acompañar al Presidente o representante de la casilla al Comité Distrital o Municipal electoral correspondiente para hacer la entrega del paquete electoral.
 
 ###### ARTICULO 167.
 
-Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga, renovación, modificación, ampliación o cesión de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias; así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud correspondiente, conforme a las siguientes cuotas:
+El registro de los nombramientos de los representantes ante las mesas directivas de casilla a que se refiere el artículo anterior y de los representantes generales, se sujetará a las reglas siguientes:
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- A partir del día siguiente al de la publicación de las listas de casilla y hasta diez días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y ante el consejo distrital correspondiente a sus representantes generales de casilla. La documentación de que se trata deberá de reunir los requisitos que establezca el Consejo General;
 
-I.- Concesión de bienes sujetos al régimen
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-de dominio público de la Federación, destinados
+b).- Los Consejos distritales devolverán a los partidos políticos el original de los nombramientos respectivos, debidamente sellado y firmado por el presidente y el secretario del mismo, conservando un ejemplar;
 
-a la administración portuaria integral o a la
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-construcción, operación y explotación de
+c).- Los partidos políticos podrán sustituir a sus representantes hasta con diez días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento el original.
 
-terminales marinas e instalaciones portuarias $ 65,750.27 $ 65,750
-
-II.- Permiso para la prestación de servicios
-
-portuarios o para la construcción y uso de
-
-embarcaderos, atracaderos, botaderos y
-
-demás similares en las vías generales de
-
-comunicación por agua $ 16,701.27 $ 16,701
-
-III.- Autorización para la construcción de
-
-obras marítimas y de dragado $ 52,389.23 $ 52,389
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 168.
 
-No pagarán los derechos a que se refiere el artículo anterior:
+La devolución al Consejo Distrital o Municipal Electoral de los nombramientos de los representantes de los partidos políticos se sujetará a las reglas siguientes:
 
-I.- Las Instituciones que se dediquen a la investigación oceanográfica.
+a).- Se hará mediante escrito por el funcionario del partido político que haga el nombramiento;
 
-II.- Las escuelas de preparación y capacitación de personal técnico para la explotación del mar.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-III.- Los hospitales de beneficencia pública.
+b).- El oficio deberá acompañarse con una relación en orden numérico de la casilla, de los nombres de los representantes propietarios y suplentes señalando la clave de la credencial para votar de cada uno de ellos;
 
-IV.- Las instalaciones de señales marítimas y maniobras de rescate.
+c).- Los nombramientos que carezcan de alguno o algunos de los datos de los representantes serán devueltos al representante del partido político; y
+
+d).- Los representantes de los partidos políticos tendrán tres días a partir de la fecha de devolución a que se refiere este artículo, para subsanar las omisiones que alude la fracción c); vencido este término sin corregirse las omisiones, no se registrará el nombramiento.
 
 ###### ARTICULO 168-A.
 
@@ -7405,7 +6051,29 @@ IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 169.
 
-(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
+1.- Los nombramientos de representantes ante la Mesa Directiva de Casilla deberán contener los siguientes datos:
+
+a).- Denominación del partido político;
+
+b).- Nombre del representante;
+
+c).- Tipo de nombramiento;
+
+d).- Número de distrito electoral o nombre de municipio y casilla en que actúen;
+
+e).- Domicilio del representante;
+
+f).- Número de la credencial de elector;
+
+g).- Firma del representante; y
+
+h).- Lugar y fecha.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Para garantizar a los representantes ante la casilla el ejercicio de los derechos que le otorga este código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 169-A.
 
@@ -7417,81 +6085,7 @@ IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 170.
 
-Por los servicios que presta la autoridad competente a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- De más de 3 hasta 20 unidades de arqueo
-
-Bruto $310.34 $310
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-II.- De más de 20 hasta 100 unidades de arqueo
-
-bruto $467.51 $468
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-III.- De más de 100 hasta 500 unidades
-
-de arqueo bruto $766.52 $767
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-IV.- De más de 500 hasta 1,000
-
-unidades de arqueo bruto $1,560.12 $1,560
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- De más de 1,000 hasta 15,000 unidades
-
-de arqueo bruto $3,129.30 $3,129
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VI.- De más de 15,000 hasta 25,000 unidades
-
-de arqueo bruto $3,986.87 $3,987
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VII.- De más de 25,000 hasta 50,000 unidades
-
-de arqueo bruto $4,598.55 $4,599
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-VIII.- De más de 50,000 unidades de
-
-arqueo bruto $5,544.73 $5,545
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Cuando los servicios se presten en días inhábiles o fuera del horario ordinario de operación se pagará el doble de las cuotas señaladas, aplicable a cada caso, salvo lo previsto en la fracción I.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-No se pagará el derecho a que se refiere este artículo por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-No pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
+El Instituto, a petición del partido hará el registro supletorio de los representantes a que se refiere el artículo 162 de éste Código, cuando el Consejo Distrital o Municipal Electoral, dentro de 48 horas no admita, no resuelva o niegue, en forma fundada, el registro solicitado.
 
 ###### ARTICULO 170-A.
 
@@ -7543,61 +6137,7 @@ Por el estudio, trámite y, en su caso, la expedición del certificado de cumpli
 
 ###### ARTICULO 171.
 
-Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-II.- Títulos profesionales al Personal de la
-
-marina mercante nacional, tanto de cubierta
-
-como de máquinas $1,112.25 $1,112
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-III.- Certificados de competencia para mandar
-
-embarcaciones, tanto en el departamento de
-
-cubierta como en el de máquinas $741.33 $741
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-IV.- Certificados de competencia especial para
-
-mandar o laborar en buques especializados $1,483.24 $1,483
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- Documento oficial para poder ejercer como tripulante en la categoría inmediata superior a bordo de las embarcaciones mercantes mexicanas:
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-a).- Personal subalterno, para ejercer un cargo
-
-que requiera certificado de competencia $741.33 $741
-
-b).- Personal titulado $1,112.25 $1,112
-
-VI.- Expedición de refrendos de títulos a
-
-oficialidad de la marina mercante $555.89 $556
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-VII.- Por la expedición de la autorización para
-
-prestar el servicio de pilotaje $833.53 $834
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+Para garantizar a los representantes de los partidos políticos su debida acreditación ante la mesa directiva que indique su nombramiento, el Presidente del Comité Distrital o Municipal Electoral entregará al Presidente de cada Mesa Directiva de Casilla, una relación de los representantes de los partidos que tengan derecho a actuar en la casilla de que se trate.
 
 ###### ARTICULO 171-A.
 
@@ -7667,191 +6207,9 @@ educativas particulares, o su renovación $1,228.70 $1,229
 
 ###### ARTICULO 172.
 
-Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
+Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante la casilla, con excepción del número de ésta. Para garantizar a los representantes generales el ejercicio de los derechos que les otorga éste Código, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Estudios técnicos de planos, proyectos y
-
-memorias de obra, para obras e instalaciones
-
-marginales dentro del derecho de vía en
-
-carreteras y puentes de jurisdicción federal,
-
-por cada 100 metros o fracción que exceda
-
-de dicha longitud $2,701.55 $2,702
-
-II.- Estudios técnicos de planos, proyectos y
-
-memorias de obra para construcción de obras
-
-por cruzamientos superficiales, subterráneos o
-
-aéreos que atraviesen carreteras y puentes de
-
-jurisdicción federal $2,701.55 $2,702
-
-III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
-
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-IV.- Por el estudio técnico del proyecto,
-
-supervisión y autorización de obras para
-
-paradores 1% sobre el costo total de la obra.
-
-V.- Por el estudio técnico de planos, proyectos
-
-y memorias de obra y expedición de la autorización
-
-para la construcción de obras e instalaciones
-
-marginales subterráneas para cables de redes
-
-de telecomunicación que se realicen dentro de
-
-los derechos de vía de carreteras, puentes o vías
-
-férreas, por kilómetro o fracción $1,614.73 $1,615
-
-VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
-
-a).- Proyecto a realizar en terreno plano $26,453.58 $26,454
-
-b).- Proyecto a realizar en terreno de lomerío con:
-
-1.- Geometría en corte $29,137.29 $29,137
-
-2.- Geometría en terraplén $31,820.96 $31,821
-
-c).- Proyecto a realizar en terreno montañoso con:
-
-1.- Geometría en corte $34,504.66 $34,505
-
-2.- Geometría en terraplén $37,188.42 $37,188
-
-VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
-
-a).- Con superficie total del proyecto hasta
-
-3,000 M2 $62,108.62 $62,109
-
-b).- Con superficie total del proyecto hasta
-
-5,000 M2 $73,993.70 $73,994
-
-c).- Con superficie total del proyecto hasta
-
-10,000 M2 $86,645.40 $86,645
-
-d).- Con superficie mayor a los 10,000 M2,
-
-por cada 1,000 M2 adicionales $2,491.81 $2,492
-
-VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
-
-a).- Por obras desarrolladas en un tramo de
-
-1 Km. de longitud $26,453.58 $26,454
-
-b).- Por obras desarrolladas en un tramo
-
-no mayor de 5 Km. de longitud $31,820.96 $31,821
-
-c).- Por obras desarrolladas en un tramo
-
-no mayor de 20 Km. de longitud $37,188.42 $37,188
-
-d).- Por obras desarrolladas en un tramo mayor
-
-de 20 Km., por cada kilómetro adicional $383.21 $383
-
-IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
-
-a).- Proyecto comprendido en un
-
-tramo no mayor de 1 Km. $5,367.23 $5,367
-
-b).- Proyecto comprendido en un
-
-tramo no mayor de 5 Km. $10,734.61 $10,735
-
-c).- Proyecto comprendido en un
-
-tramo no mayor de 20 Km. $13,034.97 $13,035
-
-d).- Proyecto comprendido en un
-
-tramo mayor de 20 Km., por
-
-kilómetro adicional $383.21 $383
-
-X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
-
-a).- Proyecto comprendido en un
-
-tramo no mayor de 1 Km $5,367.23 $5,367
-
-b).- Proyecto comprendido en un
-
-tramo no mayor de 5 Km $8,741.01 $8,741
-
-c).- Proyecto comprendido en un
-
-tramo no mayor de 20 Km $13,034.97 $13,035
-
-d).- Proyecto comprendido en un
-
-tramo mayor de 20 Km., por
-
-kilómetro adicional $383.21 $383
-
-XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
-
-a).- Con superficie total del proyecto
-
-no mayor de 100 M2 $29,137.29 $29,137
-
-b).- Con superficie total del proyecto
-
-mayor de 100 M2 $41,022.28 $41,022
-
-XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
-
-a).- Proyecto comprendido en un
-
-tramo no mayor de 1 Km $5,367.23 $5,367
-
-b).- Proyecto comprendido en un
-
-tramo no mayor de 5 Km $10,734.61 $10,735
-
-c).- Proyecto comprendido en un
-
-tramo no mayor de 20 Km $13,034.97 $13,035
-
-d).- Proyecto comprendido en un
-
-tramo mayor de 20 Km., por
-
-kilómetro adicional $383.21 $383
-
-XIII.- Por revisión, permiso y supervisión
-
-de estudios de aspectos operativos no
-
-contemplados en el proyecto original o
-
-que requiera modificación en los caminos
-
-y puentes de cuota $8,050.94 $8,051
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+## TITULO TERCERO. DE LA DOCUMENTACION Y MATERIAL ELECTORAL
 
 #### SECCION NOVENA. Otros Servicios
 
@@ -8151,59 +6509,31 @@ $19,331.29 $19,331
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO IX. Del Instituto Federal de Telecomunicaciones
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+### CAPITULO SEGUNDO. DE LAS OBLIGACIONES
 
 ###### ARTICULO 173.
 
-Por el estudio de la solicitud y, en su caso, expedición de título o prórroga de concesiones en materia de telecomunicaciones o radiodifusión, para el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico de uso determinado, o para la ocupación y explotación de recursos orbitales, se pagarán derechos conforme a las siguientes cuotas:
+1.- Para la emisión del voto se imprimirán las boletas electorales correspondientes; conforme el modelo que apruebe el Instituto. Las boletas para las elecciones que regula éste Código contendrán:
 
-Cuota
+a).- Distrito o Municipio;
 
-Sin ajuste Con ajuste
+b).- Cargos para el que se postula al candidato o candidatos;
 
-A. Para uso comercial:
+c).- Color o combinación de colores y emblemas del partido político o coalición postulantes;
 
-I. Por la expedición del título de concesión $35,132.47 $35,132
+d).- Nombre y apellidos del candidato o candidatos;
 
-II. Por la prórroga $14,870.01 $14,870
+e).- Un sólo círculo para cada candidato, fórmula, lista o planilla de candidatos registrados;
 
-B. Para uso privado:
+f).- Lugar para anotar el nombre de candidatos no registrados; y
 
-I. Con propósitos de comunicación privada:
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-a). Por la expedición del título de concesión $35,132.47 $35,132
+g).- Las firmas impresas del director general y Secretario del Instituto;
 
-b). Por la prórroga $14,870.01 $14,870
+2.- En la elección para diputados por mayoría relativa y representación proporcional, se votará con una sola boleta, así mismo, para la elección de ayuntamientos y regidores de representación proporcional, se votara también en una sola boleta; las boletas para la elección de diputados llevarán impresas la lista de los candidatos propietarios y suplentes plurinominales que postulan los partidos políticos.
 
-II. Por la expedición del título de concesión con propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipos $16,048.39 $16,048
-
-No pagarán derechos las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo.
-
-III. Con propósitos de radioaficionados:
-
-a). Por la expedición del título de concesión $1,693.04 $1,693
-
-b). Por la prórroga $866.68 $867
-
-C. Para uso público y social:
-
-I. Por la expedición del título de concesión $35,132.47 $35,132
-
-II. Por la prórroga $14,870.01 $14,870
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva.
-
-Los estudios de solicitudes y, en su caso, la expedición de título o prórroga de concesiones o de autorizaciones de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago del derecho previsto en este artículo.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+3.- Los colores y emblemas de los partidos aparecerán en la boleta en el orden que les corresponde de acuerdo a la antigüedad de su registro.
 
 ###### ARTÍCULO 173-A.
 
@@ -8251,17 +6581,7 @@ cambio de ubicación geográfica $7,328.34 $7,328
 
 ###### ARTICULO 174.
 
-Por el estudio de la solicitud y, en su caso, la autorización o modificación de cada frecuencia para la utilización de servicios auxiliares a la radiodifusión de enlace estudio-planta y control remoto, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$11,793.15 $11,793
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+En caso de cancelación de registro o sustitución de uno o más candidatos, las boletas que ya estuvieran impresas serán corregidas en la parte relativa o sustituidas por otras, conforme acuerde el Instituto. Si no se pudiera efectuar su corrección o sustitución, o las boletas ya hubiesen sido repartidas a las casillas, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante los organismos electorales respectivos, al momento de la elección.
 
 ###### ARTICULO 174-A.
 
@@ -8639,19 +6959,31 @@ El pago de los derechos a que se refiere este capítulo se realizará sin perjui
 
 ###### ARTICULO 175.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+Las boletas deberán obrar en poder de los Comités Distritales o Municipales Electorales 15 días antes de la elección, serán revisadas y selladas al dorso por estos.
 
-### CAPITULO X. De la Secretaría de Educación Pública
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+### CAPITULO TERCERO. DE LAS PRERROGATIVAS DE LOS PARTIDOS POLITICOS
 
 #### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
 
 ###### ARTICULO 176.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los Consejos Distritales o Municipales Electorales entregarán a cada presidente de casilla, dentro de los 5 días previos al anterior de la elección:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+a).- La lista nominal de electores de la sección;
+
+b).- La relación de los representantes de los partidos registrados en el Comité Distrital o Municipal Electoral para cada casilla; así como de los representantes generales en el distrito en que se ubique la casilla;
+
+c).- Boletas para cada elección en igual número al de los electores que figuren en la lista nominal;
+
+d).- Las urnas para recibir la votación, una para cada elección de que se trate;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- El líquido indeleble; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios.
 
 ###### ARTICULO 176-A.
 
@@ -8673,57 +7005,29 @@ No se pagará este derecho por los permisos que soliciten la Federación, las En
 
 ###### ARTICULO 177.
 
-Por los servicios de expedición de cédula individual de registro de objeto, permisos y dictámenes que presta la Secretaría de Educación Pública en materia de monumentos y zonas arqueológicas, se pagarán derechos conforme a las siguientes cuotas:
+1.- Para garantizar el secreto del voto, se colocaran mamparas y las urnas en que los electores depositen las boletas, deberán construirse de un material transparente y de preferencia plegable y armable. Los funcionarios de las casillas cuidaran que al depositarse la boleta, esta esté doblada de manera que impida conocer el sentido del voto, antes del escrutinio y cómputo. En el exterior y en lugar visible, las urnas llevarán la denominación de la elección de que se trate.
 
-Cuota
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+2.- A los presidentes de mesas directivas especiales les será entregada la documentación y materiales a que se refiere el artículo anterior con excepción de la lista nominal de electores, en lugar de la cual recibirán las formas especiales para anotar los datos de los electores, que estando transitoriamente fuera de su municipio, voten en la casilla especial. El número de boletas que reciban será de 750.
 
-I.- Expedición de cédula individual
-
-de registro de objeto $16.08 $16
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones civiles, juntas vecinales y uniones de campesinos, autorizados por el Instituto Nacional de Antropología e Historia como órganos auxiliares para preservar el patrimonio cultural de la Nación; así como a dependencias y entidades de los gobiernos Federal, Estatal y Municipal.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-II.- Permisos:
-
-a).- De exportación de reproducciones
-
-autorizadas, cuando éstas tengan sello o marca
-
-autorizada o registrada por el Instituto Nacional
-
-de Antropología e Historia, sin límite de objetos
-
-y por cada operación $142.60 $143
-
-b).- De exportación de reproducción autorizada,
-
-cuando éstas carezcan de sello, marca o registro
-
-por unidad de empaque $1,429.23 $1,429
-
-III.- Dictámenes
-
-a) Para determinar que un objeto o lote es
-
-reproducción, por unidad o empaque hasta
-
-veinticinco objetos $215.86 $216
-
-b) Para establecer delimitación de inmuebles
-
-privados con monumentos y zonas
-
-arqueológicas, a petición de parte $360.48 $360
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 178.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Los nombramientos de los asistentes electorales estarán sujetos a las reglas siguientes:
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a). Serán nombrados por el pleno del Consejo General o del consejo distrital o municipal electoral, según corresponda, diez días antes de la elección;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Serán nombrados en el número necesario conforme a las características del distrito electoral o municipio y al número de casillas que se instalen, sin exceder de un máximo de quince por distrito; y
+
+c).- Para el ejercicio de las funciones y para identificación recibirán su nombramiento.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 178-A.
 
@@ -8739,65 +7043,85 @@ arqueológicas, a petición de parte $360.48 $360
 
 ###### ARTICULO 179.
 
-Por los servicios de registro, permisos y dictámenes que prestan los Institutos Nacionales de Antropología e Historia o de Bellas Artes y Literatura en materia de monumentos y zonas históricas y artísticas, se pagarán derechos conforme a las siguientes cuotas:
+1.- Las funciones de los asistentes electorales de los Consejos Distritales o Municipales Electorales serán las siguientes:
 
-Cuota
+a).- Auxiliar en la entrega de la documentación, material y útiles para la elección a los presidentes de casilla;
 
-Sin ajuste Con ajuste
+b).- Supervisar que la instalación de las casillas se realice en los términos y plazos que señala este Código y, en su caso, informar al Consejo Distrital o municipal Electoral:
 
-I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+c).- Auxiliar en la recepción de los paquetes electorales en la sede de los Consejos Distritales y Municipales; y
 
-II.- Permisos.
+d).- En aquellas otras que determine el propio Consejo.
 
-a).- De exportación temporal para exhibición
-
-autorizada de naturaleza no comercial y con
-
-fines de difusión hasta por seis meses
-
-independientemente de la prima de seguro o
-
-garantía que proceda por el valor del
-
-monumento histórico o artístico $476.10 $476
-
-b).- De exportación de reproducciones a persona física o moral:
-
-1.- Cuando los objetos tengan sello, marca
-
-autorizada y registrada por los Institutos
-
-Nacionales de Antropología e Historia y de
-
-Bellas Artes y Literatura, sin límite de objetos
-
-y por cada operación $142.60 $143
-
-2.- Cuando carezcan de sello, marca o registro
-
-por unidad de empaque, hasta 25 objetos $1,429.23 $1,429
-
-III.- Por el dictamen para certificar el carácter
-
-histórico o artístico de un bien mueble
-
-o inmueble $142.60 $143
+2.- Los asistentes electorales del Instituto actuarán exclusivamente en el cumplimiento de las tareas que expresamente le sean indicadas.
 
 ###### ARTICULO 180.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+Los comisionados electorales del Instituto serán nombrados por el Consejo General a propuesta de su presidente, y el día de la elección actuaran exclusivamente en el cumplimiento de las tareas que expresamente le sean indicadas.
+
+## TITULO CUARTO. DE LA JORNADA ELECTORAL
 
 ###### ARTICULO 181.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
+1.- Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a todas las elecciones y las actas relativas al escrutinio y cómputo de cada una de las elecciones;
+
+2.- A las 8:00 horas, los ciudadanos nombrados presidente, secretario y escrutadores propietarios de las casillas electorales, procederán a su instalación en presencia de los representantes de los partidos políticos que concurran;
+
+3.- Acto continuo se iniciará el levantamiento del acta de la jornada electoral llenándose y firmándose el apartado correspondiente a la instalación de la casilla
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+
+4.- El acta de la jornada electoral constará de los siguientes apartados:
+
+a).- El de instalación; y
+
+b).- El de cierre de votación.
+
+5.- En el apartado correspondiente a la instalación se hará constar:
+
+a).- El lugar, la fecha y la hora en que se inicia el acto de instalación;
+
+b).- El nombre de los funcionarios que actúen como funcionarios de casilla;
+
+c).- El numero de boletas recibidas para cada elección;
+
+d).- Que las urnas se armaron o abrieron en presencia de los funcionarios representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los partidos políticos;
+
+e).- Una relación de los incidentes suscitados si los hubiere; y
+
+f).- En su caso la causa por la que se cambio de ubicación la casilla.
+
+6.- En ningún caso se podrán instalar casillas antes de la 8:00 horas.
+
+7.- Los miembros de la mesa directiva de casillas no podrán retirarse sino hasta que esta sea clausurada.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 182.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+De no instalarse la casilla conforme al artículo anterior, se procederá a lo siguiente:
+
+a).- Si a las 8:15 horas no se presentara alguno o algunos de los propietarios, actuarán en su lugar los respectivos suplentes;
+
+b).- Si a las 8:30 horas no está integrada la mesa directiva conforme al inciso anterior, pero estuviese el Presidente o suplente, cualquiera de los dos designará, de entre los electores, a los funcionarios necesarios para suplir a los ausentes y procederá a su instalación;
+
+c).- En ausencia del presidente y su suplente, a las 8:45 horas, el consejo Distrital o municipal en su caso tomará las medidas necesarias para la instalación de la casilla y designará al personal del consejo encargado de ejecutarlas y cerciorarse de su instalación; y
+
+d).- Por razones de distancia o de dificultad de comunicaciones, no sea posible la intervención oportuna del personal de los consejos correspondientes a las 11:00 horas los representantes de los partidos políticos ante la casilla, designarán de común acuerdo, entre los ciudadanos pertenecientes a la sección electoral correspondiente, a los funcionarios necesarios para integrar la mesa directiva de casilla, en cuyo caso se requerirá:
+
+I).- La presencia de un juez o notario público, quienes tienen la obligación de acudir y dar fe de los hechos; y
+
+II).- En ausencia del juez o notario público, bastará que los representantes expresen su conformidad para designar de común acuerdo, a los miembros de la mesa directiva.
+
+III).- Los nombramientos que se hagan conforme a lo establecido en el párrafo anterior de este inciso, deberán de recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 183.
 
-(DEROGADO, D.O.F.20 DE DICIEMBRE DE 1991)
+1.- Los representantes de partido que se presenten con posterioridad a la instalación de la casilla podrán actuar en el resto de la jornada, acreditándose ante el presidente y manifestando la causa que haya motivado su retraso. Esta circunstancia deberá anotarse en el acta final que se levante. En el acta deberán anotarse los incidentes de la instalación de casilla.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION SEGUNDA. Derechos de Autor
 
@@ -8807,225 +7131,19 @@ o inmueble $142.60 $143
 
 ###### ARTICULO 184.
 
-Por los servicios que se presten en materia de derechos de autor, se pagarán derechos, conforme a las siguientes cuotas:
+Se considera que existe causa justificada para la instalación de una casilla en lugar distinto al señalando, cuando:
 
-Cuota
+a).- No exista el local indicado en las publicaciones respectivas.
 
-Sin ajuste Con ajuste
+b).- El local se encuentre cerrado o clausurado y no se pueda realizar la instalación;
 
-I. Recepción, examen, estudio y, en su caso,
+c).- Se advierta al momento de la instalación de la casilla, que ésta se pretende realizar en lugar prohibido por la ley;
 
-registro de cada obra literaria o artística, o de
+d).- Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil y libre acceso de los electores o bien, no garanticen la realización de las operaciones electorales en forma normal. En este caso, será necesario que los funcionarios y representantes presentes tomen la determinación de común acuerdo; y
 
-una obra derivada o versión $270.77 $271
+e).- El consejo distrital o el municipal así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al presidente de la casilla.
 
-II. Recepción, examen, estudio y, en su caso,
-
-registro de las características gráficas y
-
-distintivas de cada obra $270.77 $271
-
-III. Recepción, examen, estudio y, en su caso,
-
-registro de cada fonograma, videograma
-
-o libro $270.77 $271
-
-IV. Búsqueda y expedición de cada
-
-constancia de antecedentes o datos de
-
-registro o de inscripción $192.77 $193
-
-V.- Recepción, examen, estudio y, en su
-
-caso, inscripción de cada convenio o contrato $1,423.79 $1,424
-
-VI.- Inscripción de cada poder otorgado para
-
-gestionar ante el Instituto Nacional del Derecho
-
-de Autor, cuando la representación conferida
-
-abarque todos los asuntos del mandante $1,423.79 $1,424
-
-VII.- Recepción, examen y estudio de cada
-
-acto, documento, convenio o contrato, que
-
-en cualquier forma confiera, modifique,
-
-transmita, grave o extinga derechos
-
-patrimoniales de autor y, en su caso,
-
-inscripción de la anotación marginal
-
-correspondiente $2,134.51 $2,135
-
-VIII.- Recepción, examen, estudio y, en su
-
-caso, inscripción de cada acta, documento,
-
-escritura y estatutos de las sociedades de
-
-gestión colectiva $2,134.51 $2,135
-
-IX.- Recepción, examen, estudio y, en su
-
-caso, inscripción de cada convenio o
-
-contrato celebrado por las sociedades de
-
-gestión colectiva $1,888.64 $1,889
-
-X.- Inscripción de cada poder especial que
-
-se otorgue a las sociedades de gestión
-
-colectiva para el cobro de percepciones
-
-derivadas de los derechos de autor o
-
-derechos conexos $898.03 $898
-
-XI.- Inscripción de cada poder que autorice
-
-la gestión individual de derechos
-
-patrimoniales $1,788.88 $1,789
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-XII.- Por la recepción y estudio del escrito de
-
-queja dentro del procedimiento de avenencia
-
-y, en su caso, por la realización de la primera
-
-audiencia en el procedimiento de avenencia $495.66 $496
-
-Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
-
-XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XIV.- Solicitud y dictamen de reservas de
-
-derechos al uso exclusivo de títulos de
-
-publicaciones o difusiones periódicas $2,146.65 $2,147
-
-XV.- Solicitud y dictamen de la renovación
-
-de reservas de derechos al uso exclusivo
-
-de títulos de publicaciones o difusiones
-
-periódicas $1,126.82 $1,127
-
-XVI.- Solicitud y dictamen de reservas de
-
-derechos al uso exclusivo de personajes
-
-ficticios o simbólicos, personajes humanos
-
-de caracterización, nombres artísticos,
-
-denominaciones de grupos artísticos o
-
-promociones publicitarias $4,239.84 $4,240
-
-XVII.- Solicitud y dictamen de la renovación
-
-de reservas de derechos al uso exclusivo de
-
-personajes ficticios o simbólicos, personajes
-
-humanos de caracterización, nombres
-
-artísticos y denominaciones de grupos
-
-artísticos $2,217.24 $2,217
-
-XVIII.- Solicitud de análisis y búsqueda
-
-de antecedentes de títulos, nombres o
-
-denominaciones de publicaciones o
-
-difusiones periódicas, nombres artísticos
-
-o denominaciones de grupos artísticos $226.41 $226
-
-XIX.- Solicitud de análisis y búsqueda de
-
-antecedentes de nombres y características
-
-de personajes humanos de caracterización,
-
-personajes ficticios o simbólicos, o
-
-promociones publicitarias $365.05 $365
-
-XX.- Solicitud y dictamen de anotaciones
-
-marginales en los expedientes de reservas
-
-de derechos al uso exclusivo $1,126.82 $1,127
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-XXI. Respecto del Número Internacional Normalizado del Libro (ISBN):
-
-a). Por el otorgamiento del ISBN $232.54 $233
-
-b). Por la expedición de cada
-
-certificado o constancia $167.84 $168
-
-No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en formato Braille, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad visual.
-
-XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XXIV.- Recepción, examen, estudio y, en su
-
-caso, inscripción de la anotación marginal
-
-correspondiente, de cualquier acto o instrumento
-
-que tenga por efecto la revocación del poder
-
-otorgado, previamente inscrito $1,993.31 $1,993
-
-XXV.- Solicitud, dictamen y, en su caso, expedición
-
-de la autorización de apoderado para la
-
-gestión individual de derechos patrimoniales $2,100.40 $2,100
-
-XXVI. Solicitud de práctica de visita de
-
-inspección a establecimientos comerciales
-
-a petición de parte $842.94 $843
-
-No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
-
-Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-XXVII. Por la expedición de cada certificado o
-
-constancia relacionados con el Número
-
-Internacional Normalizado para Publicaciones
-
-Periódicas (ISSN) $167.84 $168
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION TERCERA. Registro y Ejercicio Profesional
 
@@ -9035,99 +7153,7 @@ Periódicas (ISSN) $167.84 $168
 
 ###### ARTICULO 185.
 
-Por los servicios que presta la Secretaría de Educación Pública, en materia de registro y ejercicio profesional, se pagará el derecho de registro y ejercicio profesional conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Registro de colegio de Profesionistas $9,718.11 $9,718
-
-II.- Registro de establecimiento educativo
-
-legalmente autorizado para expedir títulos
-
-profesionales, diplomas de especialidad o
-
-grados académicos $9,718.11 $9,718
-
-III.- Revalidación de título profesional, de
-
-diploma de especialidad y de grado
-
-académico $1,943.06 $1,943
-
-IV.- Registro de título profesional, de diploma
-
-de especialidad y de grado académico $971.32 $971
-
-V.- Expedición de autorización para el
-
-ejercicio de una especialidad $973.73 $974
-
-VI.- Expedición de autorización para constituir
-
-un colegio de profesionistas $971.35 $971
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VII.- Enmiendas al registro profesional:
-
-a).- En relación con colegios de
-
-profesionistas $971.35 $971
-
-b).- En relación con establecimiento
-
-educativo $971.35 $971
-
-c).- En relación con título profesional o
-
-grado académico $193.82 $194
-
-d).- Inscripción de asociado a un colegio
-
-de profesionistas que no figuren en el
-
-registro original $38.20 $38
-
-e).- En relación con Federaciones de
-
-Colegios de Profesionistas $1,171.55 $1,172
-
-f).- Inscripción de asociado a una Federación
-
-de Colegios de Profesionistas que no figure
-
-en el registro original $1,171.55 $1,172
-
-VIII.- Expedición de duplicado de cédula
-
-o de autorización para el ejercicio de una
-
-especialidad $390.05 $390
-
-IX.- Expedición de cédula profesional con
-
-efectos de patente o de cédula de grado
-
-académico $388.11 $388
-
-X.- Expedición de autorización provisional
-
-para ejercer por estar el título profesional
-
-en trámite o para ejercer como pasante $388.11 $388
-
-XI.- Consultas de archivo $177.06 $177
-
-XII.- Constancias de antecedentes
-
-Profesionales $385.77 $386
-
-XIII.- Registro de Federación de
-
-Colegios de Profesionistas $13,022.10 $13,022
+En los casos de cambios de casilla por causa justificada, el nuevo sitio deberá estar comprendido en la misma sección y en lugar adecuado más próximo, debiendo dejar aviso de la nueva ubicación, en el exterior del lugar original que no reunió los requisitos.
 
 ###### ARTICULO 185-A.
 
@@ -9143,201 +7169,19 @@ Colegios de Profesionistas $13,022.10 $13,022
 
 ###### ARTICULO 186.
 
-Se pagarán derechos por los servicios que presta la Secretaría de Educación Pública, conforme a las siguientes cuotas:
+1.- Una vez formulada y firmada el acta de la jornada electoral en el apartado correspondiente a la instalación, el presidente de la mesa anunciará el inicio de la votación.
 
-Cuota
+2.- Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al Consejo Distrital o municipal según corresponda a través de un escrito en que se dé cuenta de la causa de suspensión, hora en que ocurrió la indicación de los votantes que al momento habían ejercido su derecho a voto.
 
-Sin ajuste Con ajuste
+3.- El escrito de referencia deberá ser firmado por dos testigos, que lo serán preferentemente, los integrantes de la mesa directiva o los representantes de los partidos políticos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+4.- Recibida la comunicación que antecede, el Consejo Distrital o Municipal, según sea el caso, tomará las medidas necesarias para que se reanude la votación.
 
-I.- Por solicitud, estudio y resolución del trámite de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
-a).- Reconocimiento de validez oficial de
+### CAPITULO PRIMERO. DE LAS COALICIONES
 
-estudios de tipo superior $10,952.82 $10,953
-
-b).- Cambios a cada plan y programa de
-
-estudio de tipo superior con reconocimiento
-
-de validez oficial $4,733.98 $4,734
-
-c).- Cambio o ampliación de domicilio, o
-
-establecimiento de un plantel adicional,
-
-respecto de cada plan de estudios con
-
-reconocimiento de validez oficial $4,137.90 $4,138
-
-II.- Por solicitud, estudio y resolución del
-
-trámite de autorización para impartir educación
-
-preescolar, primaria, secundaria, normal y
-
-demás para la formación de maestros, sea
-
-cual fuere la modalidad $1,195.42 $1,195
-
-III.- Por solicitud, estudio y resolución del
-
-trámite de reconocimiento de validez oficial
-
-de estudios de los niveles medio superior o
-
-equivalente y de formación para el trabajo,
-
-sea cual fuere la modalidad $1,195.42 $1,195
-
-IV.- Acreditación y certificación a estudiantes
-
-de preparatoria abierta, por examen $74.81 $75
-
-V.- Exámenes profesionales o de grado:
-
-a) De tipo superior $237.52 $237
-
-b).- De tipo medio superior $119.16 $119
-
-VI.- Exámenes a título de suficiencia:
-
-a) De educación primaria $46.93 $47
-
-b).- De educación secundaria y de educación
-
-media superior, por materia $26.70 $27
-
-c).- De tipo superior, por materia. $87.51 $88
-
-d).- Del Instituto Nacional de Bellas Artes y
-
-Literatura, por materia $114.33 $114
-
-e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
-
-VII.- Exámenes extraordinarios, por materia:
-
-a).- De educación secundaria y de educación
-
-media superior $21.80 $22
-
-b).- De tipo superior $87.53 $88
-
-c).- Del Instituto Nacional de Bellas Artes
-
-y Literatura $69.19 $69
-
-VIII.- Otorgamiento de diploma, título o grado:
-
-a).- De tipo superior $231.02 $231
-
-b).- De educación secundaria y de educación
-
-media superior $55.87 $56
-
-c).- De capacitación para el trabajo industrial $38.16 $38
-
-IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
-
-X.- Por la solicitud de acreditación y certificación
-
-de conocimientos, por cada certificado de
-
-competencia ocupacional en capacitación
-
-para el trabajo industrial $623.20 $623
-
-XI.- Expedición de duplicado de certificados de terminación de estudios:
-
-a).- De educación básica y de educación
-
-media superior $55.87 $56
-
-b).- De tipo superior $175.51 $176
-
-XII.- Por solicitud de revalidación de estudios:
-
-a).- De educación básica $38.15 $38
-
-b).- De educación media-superior $383.21 $383
-
-c).- De educación superior $1,149.96 $1,150
-
-XIII.- Revisión de certificados de estudio, por grado escolar:
-
-a).- De educación básica y educación
-
-media superior $14.46 $14
-
-b).- De tipo superior $45.97 $46
-
-c).- Del Instituto Nacional de Bellas Artes
-
-y Literatura $45.97 $46
-
-XIV.- Por solicitud de equivalencia de estudios:
-
-a).- De educación básica $38.15 $38
-
-b).- De educación media-superior $383.21 $383
-
-c).- De educación superior $1,149.96 $1,150
-
-XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
-
-a).- De educación superior $92.35 $92
-
-b).- De educación media superior $41.27 $41
-
-c).- De educación secundaria $39.57 $40
-
-d).- De educación primaria $8.73 $9
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a personas con o sin discapacidad no causarán el derecho a que se refiere esta fracción.
-
-XVI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XVII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-XIX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-XXI.- Consultas o constancias de Archivo $177.61 $178
-
-XXII.- Cambio de carrera $94.52 $95
-
-XXIII.- Dictamen psicopedagógico para
-
-cambio de carrera $142.38 $142
-
-XXIV.- Inscripción:
-
-a).- En curso de verano $189.85 $190
-
-b).- En curso de regularización $189.85 $190
-
-c).- (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
-
-XXV.- Materias libres para alumnos Inscritos $87.74 $88
-
-XXVI.- Expedición de duplicado de credencial
-
-de la preparatoria abierta $43.98 $44
-
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-XXVII. Por hora de capacitación para
-
-el trabajo industrial $8.45 $8
-
-### CAPITULO XI. De la Secretaría de la Reforma Agraria
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION PRIMERA. Registro Agrario Nacional
 
@@ -9347,117 +7191,71 @@ el trabajo industrial $8.45 $8
 
 ###### ARTICULO 187.
 
-Por los servicios que presta el Registro Agrario Nacional, relativos a la expedición de los documentos en que consten las operaciones originales y las modificaciones que sufra la propiedad ejidal y comunal, así como los derechos constituidos respecto de la misma, los relacionados con terrenos de colonias agrícolas y ganaderas, los que se refieran a la constitución de sociedades rurales y sobre propiedades agrícolas, ganaderas o forestales de las sociedades mercantiles y civiles, se pagarán derechos conforme a las siguientes cuotas:
+Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla debiendo cumplir los siguientes requisitos:
 
-Cuota
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+a).- Exhibir su credencial de elector;
 
-A. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Figurar en la lista nominal de electores;
 
-B.- Por la expedición de los siguientes certificados y títulos de propiedad:
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Certificados y títulos de propiedad por
+c).- El presidente de la casilla permitirá emitir su voto a aquellos ciudadanos cuya credencial para votar contenga errores en la determinación de la sección a que pertenece su domicilio, siempre y cuando verifique que aparecen en la lista nominal de electores correspondientes a su domicilio.
 
-actos jurídicos que no provengan del Fondo
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-de Apoyo para los Núcleos Agrarios sin
+d).- En el caso referido en el párrafo anterior los Presidentes de casilla, además de identificar a los electores en los términos de este Código, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen más efectivo.
 
-Regularizar $144.39 $144
+e).- Si el elector se encuentra fuera de su distrito, pero dentro de su entidad, podrá votar por diputados por el principio de representación proporcional y por Gobernador. El Presidente de la mesa entregará la boleta única para la elección de diputados, asentando la leyenda "Representación Proporcional" o la abreviatura R. P.
 
-II.- Títulos de dominio pleno de colonias, siempre
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1995)</small>
 
-y cuando no provengan del Programa de
+El Presidente de la casilla recogerá las credenciales para votar que tengan muestras de alteración o no pertenezcan al elector, poniendo a disposición de las autoridades a quienes la presenten. El Secretario de la mesa anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
 
-Regularización de Colonias $144.28 $144
-
-III.- Títulos de propiedad de origen parcelario $274.93 $275
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-C. Por la reposición de certificados parcelarios
-
-o de derechos sobre tierras de uso común; así
-
-como de certificados de derechos agrarios, por
-
-cada uno $144.28 $144
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-D.- Por la expedición de otros documentos:
-
-I.- Constancias $144.28 $144
-
-No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
-
-II.- Oficios informativos sobre ubicación
-
-de predios $188.90 $189
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III.- Listado de ejidatarios o comuneros con
-
-derechos vigentes $277.81 $278
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Listados prediales referenciados a carta
-
-catastral, por cada hoja tamaño carta u oficio $71.96 $72
-
-E. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-F.- Por otros servicios:
-
-I. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III. Por las anotaciones preventivas, su
-
-rectificación o cancelación, así como por
-
-la cancelación o rectificación de las
-
-inscripciones $71.96 $72
-
-IV.- Por la expedición de copias certificadas
-
-de cada plano tamaño carta u oficio $20.14 $20
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. DE LA FRACCIÓN], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-No se pagarán los derechos establecidos en este artículo cuando se trate del cumplimiento de resoluciones judiciales firmes emitidas por los tribunales competentes, así como por las anotaciones preventivas ordenadas por autoridad competente.
-
-> <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 #### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
 
 ###### ARTICULO 188.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera de su municipio se aplicarán en lo procedente, las reglas establecidas en el artículo anterior y las siguientes:
+
+a).- El Secretario de la mesa directiva procederá a asentar en el acta de electores en tránsito, los datos de la credencial para votar del elector.
+
+b).- Si el elector se encuentra fuera de su municipio, pero dentro de su distrito, podrá votar por diputados por ambos principios y para gobernador.
+
+c).- Si el elector se encuentra fuera de su distrito, podrá votar por diputados por el principio de representación proporcional y por gobernador, el presidente de la mesa entregará la boleta única para la elección de Diputados, asentando la leyenda representación proporcional o la abreviatura R.P.
 
 ###### ARTICULO 189.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+La votación se efectuará en la forma siguiente:
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+a).- El Presidente entregará las boletas de las elecciones correspondientes;
+
+b).- El elector de manera secreta marcará el circulo o cuadro de cada una de las boletas que contenga el color y emblema del partido por el que sufraga.
+
+El elector podrá anotar en el lugar correspondiente, el nombre de su candidato o fórmula de candidatos, no registrados.
+
+Si el elector es ciego o se encuentra impedido físicamente para sufragar, podrá auxiliarse de otra persona.
+
+El elector que no sepa leer ni escribir, podrá manifestar a la mesa si desea votar por persona o formula distintas a las registradas, en cuyo caso podrá también auxiliarse de otra persona. El personal de la Fuerza Armada, la oficialidad, las clases, tropa y policía deben presentarse a votar individualmente, sin armas y sin vigilancia o mando superior alguno.
+
+c).- El elector personalmente, o quien lo auxilie en caso de impedimento físico, introducirá la boleta electoral en la urna respectiva; y
+
+d).- El secretario de la casilla anotará en la lista nominal de electores la palabra "votó".
 
 #### SECCION TERCERA. Otros Servicios
 
 ###### ARTICULO 190.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Para identificar a los electores que ya hubiesen votado, el Secretario de la casilla procederá.
+
+a).- A perforar la credencial de electores en el lugar indicado para ello; y
+
+b).- A impregnar con la tinta indeleble completamente el dedo pulgar derecho del elector. El presidente de la casilla devolverá su credencial al elector.
 
 ###### ARTICULO 190-A.
 
@@ -9465,9 +7263,7 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO XII. Secretaría de la Función Pública
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+### CAPITULO SEGUNDO. DE LA FUSION DE PARTIDOS LOCALES
 
 #### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
@@ -9627,25 +7423,9 @@ de inmuebles de propiedad federal $8,640.20 $8,640
 
 ###### ARTICULO 191.
 
-Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+A fin de asegurar la libertad y el secreto del voto, únicamente permanecerán en la casilla sus funcionarios, los representantes de los partidos políticos, el número de electores que puedan ser atendidos y, en su caso, los notarios públicos y jueces durante el ejercicio de sus funciones. Los representantes generales sólo permanecerán en la casilla el tiempo necesario para comprobar la presencia de los representantes de su partido político o recibir de ellos la información relativa a su actuación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Las oficinas pagadoras de las dependencias de la administración pública federal centralizada y paraestatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia con la Federación, los ingresos que se obtengan por el cobro del derecho antes señalado, se destinarán a la Entidad Federativa que los recaude, para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere este artículo, en los términos que señale dicho convenio y conforme a los lineamientos específicos que emita para tal efecto la Secretaría de la Función Pública.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los ingresos que se obtengan por la recaudación de este derecho, que no estén destinados a las Entidades Federativas en términos del párrafo anterior, se destinarán a la Secretaría de la Función Pública, para el fortalecimiento del servicio de inspección, vigilancia y control a que se refiere este artículo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 1996)</small>
-
-### CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+### CAPITULO PRIMERO. DEL CONSEJO GENERAL Y DE SU PRESIDENCIA
 
 #### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
@@ -9791,43 +7571,27 @@ Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
 
 ###### ARTICULO 192.
 
-Por el estudio, trámite y, en su caso, autorización de la expedición o prórroga de títulos de asignación o concesión, o de permisos o autorizaciones de transmisión que se indican, incluyendo su posterior inscripción por parte de la Comisión Nacional del Agua en el Registro Público de Derechos de Agua, se pagará el derecho de servicios relacionados con el agua, conforme a las siguientes cuotas:
+Corresponde al presidente de la mesa directiva en el lugar que se haya instalado la casilla, el ejercicio de la autoridad para preservar el orden, auxiliándose de las instituciones de seguridad pública; asegurar el libre acceso a los electores y garantizar en todo tiempo el secreto del voto y mantener la estricta observancia de éste Código, conforme a las disposiciones siguientes:
 
-Cuota
+a).- Cuidará la conservación del orden del interior y el exterior inmediato de la casilla.
 
-Sin ajuste Con ajuste
+b).- Vigilará el libre acceso de los electores a la casilla;
 
-I.- Por cada título de asignación o concesión
+c).- No admitirá en las casilla (sic) a quienes:
 
-para explotar, usar o aprovechar aguas nacionales
+I).- Se presenten armados;
 
-incluyendo su registro $4,198.80 $4,199
+II).- Acudan en estado de ebriedad o intoxicados;
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+III).- Hagan propaganda;
 
-II.- Por cada permiso de descarga de aguas residuales
+IV).- En cualquier forma pretendan coaccionar a los votantes; y
 
-a un cuerpo receptor, incluyendo su registro $5,750.60 $5,751
+V).- No tendrán acceso a la casilla, salvo que sea para ejercer su derecho de voto, miembros de corporaciones o fuerzas de seguridad pública, dirigentes de partidos políticos, candidatos o representantes populares.
 
-III.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
+d).- Mandará retirar a todo individuo que infrinja las disposiciones del Código u obstaculice el desarrollo de la votación; y
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-IV.- Por la prórroga o modificación, a petición de
-
-parte interesada, de los títulos o permisos a que se
-
-refieren las fracciones I y II de este artículo $2,147.19 $2,147
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-V.- Por cada transmisión de títulos de concesión
-
-y permisos de descarga $3,870.12 $3,870
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+e).- Suspenderá la votación en caso de que alguna persona trate de intervenir por la fuerza, con el fin de alterar el orden en la casilla y cuando lo considere conveniente dispondrá que se reanude.
 
 ###### ARTICULO 192-A.
 
@@ -10091,13 +7855,23 @@ Permisos para Pesca Deportiva.
 
 ###### ARTICULO 193.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+1.- Cuando algún representante de partido político, o representante general de un partido, infrinjan las disposiciones de éste Código y obstaculicen gravemente el desarrollo de la votación, el Presidente de la mesa directiva de casilla, podrá disponer que sean retirados de la casilla y el Secretario hará constar en una acta especial las circunstancias que motivaron el retiro.
+
+2.- El acta deberá firmarse por los funcionarios de la casilla y por los representantes de los partidos y se entregará copia de ella al representante expulsado o a otro del mismo partido firmando para tal efecto, como constancia de recepción de la misma.
 
 ###### ARTICULO 194.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+1.- Los representantes de los partidos políticos podrán presentar al secretario de la mesa directiva escrito sobre cualquier incidente que en su concepto constituya una infracción a lo dispuesto por éste Código. El secretario deberá:
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- Recibir estos escritos;
+
+b).- Hacer en el acta del cierre de la votación, una relación pormenorizada de ellos; y
+
+c).- Integrarlos al paquete electoral de la elección de que se trate.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- El secretario recibirá tales escritos y los incorporará al expediente electoral de la casilla sin que pueda mediar discusión sobre su admisión.
 
 #### SECCION CUARTA. De las Areas Naturales Protegidas
 
@@ -11171,9 +8945,9 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO XIV. De la Secretaría de Salud
+### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL CONSEJO GENERAL
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION PRIMERA. Autorizaciones en Materia Sanitaria
 
@@ -11183,89 +8957,17 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 
 ###### ARTICULO 195.
 
-Por los servicios que presta la autoridad sanitaria para actividades reguladas por la misma, se pagarán los siguientes derechos:
+Las reglas para cerrar la votación de la casilla, serán las siguientes:
 
-I.- Por el trámite y, en su caso, expedición del permiso sanitario en materia de publicidad vinculada a las actividades, productos, bienes y servicios a los que se refiere la Ley General de Salud, se pagará el derecho de permiso sanitario en materia de publicidad, por cada producto y tipo de mensaje, de conformidad con las siguientes cuotas:
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Cuota
+a).- A las 17:00 horas o antes si ya hubiesen votado todos los electores incluidos en la lista nominal; y
 
-Sin ajuste Con ajuste
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-a). Televisión e Internet $ 26,038.80 $ 26,039
+b).- Después de esta hora si aun se encontrasen electores sin votar y hasta que todos los presentes hayan votado.
 
-b). Cine, video en lugares públicos cerrados
-
-y en medios de transporte público $ 3,623.93 $ 3,624
-
-c).- Radio $ 2,574.90 $ 2,575
-
-d).- Prensa $ 858.31 $ 858
-
-e). Folletos, catálogos, carteles y otros
-
-medios similares $ 591.26 $ 591
-
-f).- Anuncios en exteriores $ 4,577.59 $ 4,578
-
-Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en los incisos de esta fracción.
-
-Cuando la publicidad se refiera a bebidas alcohólicas, tabaco, sustancias tóxicas, plaguicidas y de alimentos de bajo valor nutritivo, se pagará el derecho a que se refiere este artículo conforme al doble de las cuotas señaladas en los incisos anteriores.
-
-Cuando la publicidad se refiera a suplementos alimenticios, se pagará el derecho conforme a las cuotas señaladas en esta fracción, aumentadas con el 50% de las cuotas según el inciso que corresponda.
-
-No pagarán los derechos a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, por la publicidad para programas o campañas para la prevención de riesgos en materia de salud.
-
-II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
-
-a). Por fábrica o laboratorio $ 96,666.39 $ 96,666
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas, se pagará el 50% del derecho que corresponda a este inciso.
-
-b). Por almacén de depósito y distribución $ 31,315.97 $ 31,316
-
-c).- Por farmacia o botica $ 1,525.88 $ 1,526
-
-d).- Droguerías $ 3,814.66 $ 3,815
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-Tratándose de la licencia sanitaria de establecimientos que realicen actividades de producción, fabricación o importación de productos del tabaco, se pagarán los derechos al doble de las cuotas señaladas en los incisos a) o b) de esta fracción, según corresponda.
-
-Quedan exceptuados del pago de este derecho, las farmacias y boticas en poblaciones menores de 2500 habitantes. El número de habitantes de las poblaciones se determinará de conformidad con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística, Geografía e Informática, actualizado con las proyecciones de población publicadas por el Consejo Nacional de Población.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Por la modificación o actualización de la licencia sanitaria señalada en esta fracción, se pagará el 75% del derecho que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-
-IV.- Por cada solicitud y, en su caso, expedición
-
-de licencia sanitaria de establecimientos de
-
-atención médica donde se practiquen actos
-
-quirúrgicos u obstétricos, por cada uno: $ 22,294.16 $ 22,294
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Por la modificación o actualización de la licencia sanitaria señalada en esta fracción, se pagará el 75% de la cuota del derecho.
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 195-A.
 
@@ -12143,7 +9845,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
+### CAPITULO TERCERO
+
+DE LAS ATRIBUCIONES DE LA PRESIDENCIA Y DEL SECRETARIO DEL CONSEJO GENERAL.
 
 ###### ARTICULO 195-M.
 
@@ -12163,9 +9867,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-### CAPITULO XVI. De la Secretaría de Turismo
+### CAPITULO CUARTO. DE LA JUNTA GENERAL EJECUTIVA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION UNICA. Registro Nacional de Turismo
 
@@ -12183,9 +9887,7 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO XVII. Secretaría de la Defensa Nacional
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+### CAPITULO QUINTO. DEL DIRECTOR GENERAL Y DEL SECRETARIO GENERAL DEL INSTITUTO
 
 #### SECCION PRIMERA. Educación Militar
 
@@ -12535,9 +10237,9 @@ del Servicio Militar Nacional $436.87 $437
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-### CAPITULO XVIII. De la Secretaría de Seguridad Pública
+### CAPITULO SEXTO. DE LAS DIRECCIONES EJECUTIVAS
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
 
@@ -12681,9 +10383,9 @@ Por la modificación de la opinión respectiva $5,173.09 $5,173
 
 > <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-### CAPITULO XIX. Del Poder Judicial de la Federación
+### CAPITULO SEPTIMO. DE LOS ORGANOS DEL INSTITUTO EN LOS DISTRITOS ELECTORALES UNINOMINALES
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION UNICA. Del Instituto Federal de Especialistas de Concursos Mercantiles
 
@@ -12693,9 +10395,9 @@ Por la modificación de la opinión respectiva $5,173.09 $5,173
 
 > <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-### CAPITULO XX. De la Secretaría de Marina
+### CAPITULO OCTAVO. DE LOS ORGANOS DEL INSTITUTO EN LOS MUNICIPIOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION UNICA. Servicios Marítimos
 
@@ -13787,63 +11489,19 @@ arqueo bruto $22,538.07 $22,538
 
 22. Por el trámite y, en su caso, autorización del Registro Sinóptico Continuo, se pagará por cada embarcación $676.62 $677
 
-## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
+## TITULO SEGUNDO. DE LA RENOVACION DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE ENERO DE 2002)</small>
-
-### CAPITULO I. Bosques y Áreas Naturales Protegidas
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 196.
 
-Por el aprovechamiento de bosques nacionales en terrenos pertenecientes al Gobierno Federal, se pagarán derechos conforme a las siguientes cuotas:
+en todo caso, el apartado correspondiente al cierre de votación contendrá:
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por el aprovechamiento de la vegetación arbórea:
-
-a) Maderas, por metro cúbico rollo fustal sin
-
-corteza autorizado de: caoba, cedro rojo,
-
-primavera, fresno, nogal, guayacán y otras
-
-especies similares $3,079.06 $3,079
-
-b) Maderas, por metro cúbico rollo fustal
-
-sin corteza autorizado de: canshan, barí,
-
-jobo, chacáguanacastle, ceiba, bojón,
-
-cedrillo y especies similares $580.11 $580
-
-c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-e) Chicle, por tonelada autorizada $7,997.87 $7,998
-
-II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
-
-a) De ganado mayor $19.37 $19
-
-b) De ganado menor $9.35 $9
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional Forestal para los programas de restauración forestal con especies nativas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+a).- Causa por la que se cerró antes o después de la 17:00 horas.
 
 ###### ARTICULO 197.
 
-El derecho sobre bosques se pagará previamente al aprovechamiento de bosques, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+Una vez cerrada la votación y llenado y firmado el apartado correspondiente del acta de la jornada electoral, los integrantes de la Mesa Directiva procederán al escrutinio y cómputo de los votos sufragados en la casilla.
 
 ###### ARTICULO 197-A.
 
@@ -13869,93 +11527,15 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ###### ARTICULO 198.
 
-Por el uso o aprovechamiento de los elementos naturales marinos e insulares sujetos al régimen de dominio público de la Federación existentes dentro de las Áreas Naturales Protegidas competencia de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, campismo, pernocta y la navegación en mares, canales, esteros, rías y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
+El escrutinio y cómputo es el procedimiento por el cual los integrantes de cada una de las mesas directivas de casilla determinarán:
 
-Cuota
+a).- El número de electores que votó en la casilla;
 
-Sin ajuste Con ajuste
+b).- El número de votos emitidos en favor de cada uno de los partidos políticos o candidatos;
 
-I.- Por persona, por día, por cada Área Natural
+c).- El número de votos anulados por la mesa directiva de casilla; y
 
-Protegida o Zona de Área Natural Protegida,
-
-consideradas como de baja capacidad de carga
-
-de conformidad con la siguiente lista: $73.65 $74
-
-- Parque Nacional Cabo Pulmo
-
-- Parque Nacional Alacranes
-
-- Islas Catalana y Montserrat, dentro del Parque Nacional Bahía de Loreto
-
-- Arrecifes Maracaibo, Punta Sur, El Islote y Chunchaka'ab, dentro del Parque Nacional Arrecifes de Cozumel
-
-- Parque Nacional Isla Contoy
-
-- Parque Nacional Arrecife de Xcalak
-
-- Parque Nacional Isla Isabel
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-- Área de Protección de Flora y Fauna Islas del Golfo de California, excepto las islas Venados, Lobos y Pájaros, frente al Puerto de Mazatlán, Sinaloa, mismas que cubrirán la cuota establecida en la fracción II de este artículo
-
-- Reserva de la Biosfera Banco Chinchorro
-
-- Reserva de la Biosfera El Vizcaíno
-
-- Canales de Muyil-Chunyaxché, dentro de la Reserva de la Biosfera de Sian Ka'an
-
-- Reserva de la Biosfera Arrecifes de Sian Ka'an
-
-- Reserva de la Biosfera Archipiélago de Revillagigedo
-
-- Reserva de la Biosfera Isla Guadalupe
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-- Parque Nacional Zona Marina del Archipiélago de Espíritu Santo
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-- Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes
-
-II.- Por las demás Áreas Naturales Protegidas
-
-no enlistadas en la fracción I, por persona, por
-
-día, por Área Natural Protegida: $36.82 $37
-
-No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
-
-III.- Las personas podrán optar por pagar el
-
-derecho a que se refiere este artículo, por
-
-persona, por año, para todas las Áreas
-
-Naturales Protegidas: $382.96 $383
-
-La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-No pagarán los derechos a que se refieren las fracciones I y II de este artículo, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, ni los residentes permanentes de las localidades contiguas a las Áreas Naturales Protegidas en cuestión, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Estarán exentos del pago de los derechos a que se refieren las fracciones I y II de este artículo, los menores de 6 años y los discapacitados.
-
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para la conservación y aprovechamiento sustentable de las Áreas Naturales Protegidas.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos e insulares de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+d).- El número de boletas sobrantes en cada elección.
 
 ###### ARTICULO 198-A.
 
@@ -14065,35 +11645,11 @@ En el supuesto de que para acceder a una determinada Área Natural Protegida que
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-### CAPITULO II. Pesca
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+### CAPITULO SEGUNDO. DE SU INTEGRACION Y FUNCIONES
 
 ###### ARTICULO 199.
 
-Las personas físicas y morales que al amparo de permisos excepcionales, realicen la pesca con embarcaciones de matrícula extranjera dentro de la zona económica exclusiva situada fuera del mar territorial, pagarán el derecho de pesca por tonelada neta de registro o fracción del barco, por cada viaje hasta de 60 días, conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$3,241.18 $3,241
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-En los casos en que para practicar la pesca se requiera la captura de especies que sirvan de carnada, las personas físicas y morales a que se refiere el primer párrafo de este artículo pagarán un 25% adicional del derecho de pesca a su cargo.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-El pago del derecho a que se refiere este artículo se hará previamente a la extracción de las especies señaladas en el permiso correspondiente, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrados en esta materia por México con otros países.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+El procedimiento de escrutinio y cómputo se practicará para cada una de las elecciones, en el orden siguiente: en caso de elecciones de diputados y Gobernador del estado, primero se hará el cómputo de diputados, después el de Gobernador.
 
 ###### ARTICULO 199-A.
 
@@ -14229,21 +11785,29 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 > <small>(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO III. Puerto y Atraque
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 200.
 
-Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $7.61, por unidad de arqueo bruto o fracción.
+El escrutinio y cómputo de cada elección se realizará conforme a las reglas siguientes:
 
-Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
+I).- El Secretario de la mesa directiva de casilla, contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta; y anotará el número de boletas inutilizadas que resulten, en el acta final de escrutinio y cómputo;
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+II).- El primer escrutador contará el número de electores que aparezca que votaron conforme a la lista nominal de electores de la sección.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+III).- El Secretario abrirá la urna, sacará las boletas depositadas por los electores y mostrará a los representantes que la urna quedo vacía;
+
+IV).- El segundo escrutador contará las boletas extraídas de las urnas;
+
+V).- El presidente auxiliado por los dos escrutadores clasificará las boletas para determinar:
+
+a).- El número de votos emitidos a favor de cada uno de los partidos políticos o candidatos; y
+
+b).- El número de votos que resulten anulados;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+
+VI).- El secretario anotará en hojas por separado los resultados de cada una de las operaciones señaladas en las fracciones anteriores, los que una vez verificados, transcribirá en las respectivas actas de escrutinio y cómputo de cada elección.
 
 ###### ARTICULO 200-A.
 
@@ -14257,11 +11821,17 @@ Tratándose de las embarcaciones que realicen exclusivamente actividades turíst
 
 ###### ARTICULO 201.
 
-Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $2.42, por unidad de arqueo bruto o fracción.
+Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- Se contará un voto válido por cada círculo o cuadro marcado por el elector, en el que se contenga el emblema de partido o de la coalición.
+
+b).- Los votos emitidos en forma distinta a la señalada, serán nulos.
+
+c).- Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 201-A.
 
@@ -14273,61 +11843,45 @@ Los derechos a que se refieren los artículos 200, 200-A y 201 de esta ley se pa
 
 ###### ARTICULO 202.
 
-Por las embarcaciones que atraquen en muelles propiedad de la Federación, por cada hora o fracción mayor de 15 minutos y por cada metro de eslora o fracción, se pagará el derecho de atraque conforme a las siguientes cuotas:
+Si se encontrasen boletas en una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por embarcación comercial $0.74
-
-II.- Por yate $0.47
-
-III.- Por embarcación arrejerada $0.33
-
-IV.- Por embarcación local comercial $0.49
-
-Para los efectos de este artículo, se entiende por embarcación comercial cualquiera que se destine a la realización de actos de comercio; por yate, toda embarcación que esté destinada exclusivamente al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro; por embarcación arrejerada, aquella que únicamente utiliza el muelle para ser amarrada, por lo que no atraca en el mismo, o bien sólo hace contacto con él con su proa o su popa por hallarse en posición perpendicular al muelle; y por embarcación local comercial, la que opera únicamente en un puerto y está registrada en el mismo.
-
-El derecho a que se refiere este artículo se pagará previamente al desatraque de las embarcaciones.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 203.
 
-Las embarcaciones que utilicen dos o más puertos que, por razones geográficas y operativas, se encuentren integrados en una unidad, pagarán el derecho de puerto de altura o el de cabotaje, según sea el caso, únicamente cuando entren al primero de los puertos que formen la unidad.
+Se levantará un acta de escrutinio y cómputo para cada elección, cada acta deberá contener por lo menos:
 
-No se pagará el derecho de puerto por las embarcaciones que salgan de un puerto y regresen al mismo sin haber entrado a otro.
+a).- El número de votos emitidos a favor de cada partido político o candidato.
 
-Las embarcaciones extranjeras que estén autorizadas para realizar el tráfico de cabotaje pagarán el derecho de puerto de cabotaje de conformidad con las cuotas que establece el artículo 201 de esta Ley.
+b).- El número total de las boletas sobrantes que fueron inutilizadas;
 
-Las autoridades portuarias, antes de expedir el despacho de salida de una embarcación, verificarán el pago correspondiente de los derechos a que se refiere este capítulo.
+c).- El número de votos nulos;
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- La relación sucinta de los incidentes suscitados si los hubiere durante el escrutinio y cómputo;
+
+e) .- La relación de escritos de protesta presentados por los representantes de los partidos políticos al término de escrutinio y cómputo;
+
+f).- Las causas invocadas por los representantes de los partidos políticos para firmar bajo protesta el acta.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+Invariablemente se asentarán los datos anteriores en las formas aprobadas por el Consejo General del Instituto.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+En ningún caso se sumarán a las boletas sobrantes que fueron inutilizadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 204.
 
-No se pagarán los derechos a que se refiere este capítulo, por las embarcaciones siguientes:
+1.- Concluidos el escrutinio y el cómputo en cada una de las votaciones, se levantarán las actas correspondientes a cada elección, la que firmarán, sin excepción, todos los funcionarios y representantes de partidos, que actuaron en la casilla.
 
-I.- Las nacionales de guerra y las extranjeras en caso de reciprocidad.
+2.- La negativa de representantes a firmar esta acta, dejará sin materia los escritos de protesta que presenten.
 
-II.- Las civiles al servicio oficial de gobiernos extranjeros, en caso de reciprocidad.
-
-III.- Las dedicadas a la conservación o reparación de cables submarinos.
-
-IV.- Las dedicadas a fines humanitarios o científicos.
-
-V.- Las de arribo forzoso legalmente justificado, si no descargan o reciben definitivamente sus mercancías en el puerto.
-
-VI.- Las que deban ingresar en el puerto o permanecer atracados en el mismo por caso fortuito o fuerza mayor, o porque las autoridades así lo requieran por causa no imputable a las personas físicas o morales responsables de la embarcación.
-
-VII.- Las que lleguen para limpiar sus fondos, para ser reparadas o para matricularse, siempre que no efectúen operaciones comerciales.
-
-VIII.- Las nacionales dedicadas exclusivamente a la pesca comercial.
-
-IX.- Las de dependencias oficiales dedicadas a trabajos de construcción, conservación, mantenimiento y operación de los puertos nacionales, siempre que por sus características y emblemas se identifiquen como embarcaciones destinadas a esos fines.
-
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 204-A.
 
@@ -14341,75 +11895,53 @@ La totalidad de los ingresos que se obtengan por la recaudación de los derechos
 
 ###### ARTICULO 205.
 
-Los derechos a que se refiere este capítulo no se causarán cuando el uso o aprovechamiento del puerto de que se trata hayan sido concesionados a un administrador portuario.
+Al término del escrutinio y cómputo de cada una de las elecciones, se formará un paquete con la documentación original siguiente:
 
-> <small>(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+a).- Un ejemplar del acta de la jornada electoral;
 
-### CAPITULO IV. Muelle, Embarque y Desembarque
+b).- Un ejemplar del acta final de escrutinio y cómputo;
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+c).- Las boletas que contengan los votos válidos y los votos nulos;
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+d).- La lista nominal de los electores que correspondan a la elección; y
+
+e).- Los escritos de protesta que se hubieren recibido.
+
+Se remitirán también, en sobres por separado las boletas sobrantes inutilizadas y las que contengan los votos válidos y los votos nulos para cada elección.
+
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 206.
 
-Los propietarios, remitentes o destinatarios de las mercancías que utilicen los muelles propiedad de la Federación, por sí o por conducto de los agentes aduanales, pagarán el derecho de muelle por cada tonelada o fracción de carga, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Mercancías de exportación $7.20 $7
-
-II.- Mercancías de importación $15.54 $16
-
-III.- Mercancías de tráfico de cabotaje $3.71 $4
-
-El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Los Presidentes de las mesas directivas de casilla, conservaran un ejemplar de cada una de las actas a fin de entregarlas al Comité Municipal o Distrital Electoral, conjuntamente con el expediente de la elección que corresponda, posteriormente fijarán avisos en lugar visible del exterior de la casilla con el resultado de cada una de las elecciones, firmada por ellos y por los representantes que deseen hacerlo.
 
 ###### ARTICULO 207.
 
-El pasajero que embarque o desembarque en muelles propiedad de la Federación, pagará el derecho de embarque o desembarque conforme a las siguientes cuotas:
+1.- Los presidentes de las mesas directivas bajo su responsabilidad, harán llegar al Consejo Municipal o distrital electoral que corresponda los paquetes electorales y las copias de las actas a que se refiere el artículo anterior, lo más pronto posible, y a más tardar dentro de los términos siguientes, contados a partir de la hora de clausura de las casillas.
 
-Cuota
+a).- Inmediatamente cuando se trate de casillas urbanas, ubicadas en la cabecera del distrito o municipio.
 
-Sin ajuste Con ajuste
+b).- Hasta doce horas cuando se trate de casillas urbanas, ubicadas fuera de cabecera de distrito o municipio; y
 
-I.- En instalaciones no dedicadas exclusivamente
+c).- Hasta veinticuatro horas cuando se trate de casillas rurales. Los Comités Distritales o Municipales, previamente al día de la elección, podrán determinar la ampliación de los plazos anteriores para aquellas casillas que lo justifiquen. Los Comités Distritales y Municipales electorales tomarán previamente al día de la elección las previsiones necesarias para que los paquetes electorales sean entregados dentro de los términos señalados anteriormente.
 
-al servicio de pasajeros $36.25 $36
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-II.- En instalaciones exclusivas para
+2.- Los consejos distritales y municipales electorales tomarán previamente al día de la elección las previsiones necesarias para que los paquetes electorales sean entregados dentro de los términos señalados anteriormente;
 
-pasajeros $54.57 $55
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
-Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
+3.- Los consejos distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario en los términos de este Código. Lo anterior se realizará bajo la vigilancia de los partidos políticos que así desearen hacerlo.
 
-Los pasajeros de embarcaciones nacionales que efectúen exclusivamente tráfico de cabotaje dentro de una unidad operativa declarada como tal por la autoridad competente, pagarán en el puerto de salida, el 15% del derecho de embarque o desembarque a que se refiere este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+4.- Los consejos distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario en los términos de este código. Lo anterior se realizará bajo la vigilancia de los partidos políticos que así desearen hacerlo.
 
 ###### ARTICULO 208.
 
-No se pagará el derecho de muelle a que se refiere este capítulo:
+1.- Se considerará, que existe causa justificada para que el paquete electoral sea entregado al Comité Municipal o Distrital Electoral fuera de los plazos que éste Código establece cuando medie caso fortuito o fuerza mayor.
 
-I.- Por la carga que pertenezca a la explotación pesquera nacional.
-
-II.- Por los contenedores en que se transporten mercancías, así como por los vacíos que se importen temporalmente.
-
-III.- Por el equipaje o menaje de los pasajeros de la embarcación de que se trate.
-
-IV.- Por los víveres, combustibles, aguada y demás mercancías destinadas al uso de la embarcación.
-
-V.- Por la correspondencia en general.
-
-VI.- Por los restos de naufragio o accidente de mar.
-
-VII.- Por la carga o descarga motivadas por caso fortuito o fuerza mayor, o por orden de autoridad dictada por causa no imputable al dueño o responsable de los bienes objeto de dichas operaciones.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 208-A.
 
@@ -14419,25 +11951,7 @@ VII.- Por la carga o descarga motivadas por caso fortuito o fuerza mayor, o por 
 
 ###### ARTICULO 209.
 
-No se pagará el derecho de embarque o desembarque a que se refiere este capítulo, por las embarcaciones siguientes:
-
-I.- Las nacionales de guerra y las extranjeras en caso de reciprocidad.
-
-II.- Las civiles al servicio oficial de gobiernos extranjeros, en caso de reciprocidad.
-
-III.- Las dedicadas a la conservación o reparación de cables submarinos.
-
-IV.- Las dedicadas a fines humanitarios o científicos.
-
-V.- Las de arribo forzoso legalmente justificado, si no descargan o reciben definitivamente sus mercancías en el puerto.
-
-VI.- Las que deban ingresar en el puerto o permanecer atracados en el mismo por caso fortuito o fuerza mayor, o porque las autoridades así lo requieran por causa no imputable a las personas físicas o morales responsables de la embarcación.
-
-VII.- Las que lleguen para limpiar sus fondos, para ser reparadas o para matricularse, siempre que no efectúen operaciones comerciales.
-
-VIII.- Las nacionales dedicadas exclusivamente a la pesca comercial.
-
-No pagarán el derecho de embarque o desembarque los pasajeros de embarcaciones que salen del puerto y regresan al mismo sin entrar a otro puerto.
+El Consejo Distrital hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 213 de este Código, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
 ###### ARTICULO 209-A.
 
@@ -14455,21 +11969,27 @@ No pagarán el derecho de embarque o desembarque los pasajeros de embarcaciones 
 
 ###### ARTICULO 210.
 
-No se pagarán los derechos a que se refiere este capítulo cuando los muelles propiedad de la Federación hayan sido concesionados.
+1.- Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de seguridad pública de la Federación, del Estado y de los Municipios o, en su caso, las fuerzas armadas, deben prestar el auxilio que les requieran los órganos del Instituto y los Presidentes de las mesas directivas de casilla en el ámbito de sus respectivas competencias, conforme a las disposiciones de éste Código.
 
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+2.- El día de la elección y el precedente permanecerán cerrados todos los establecimientos que, en cualquiera de sus giros, expendan bebidas embriagantes.
+
+3.- El día de la elección exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
 
 ###### ARTICULO 211.
 
-Los derechos de muelle, embarque y desembarque se pagarán en las oficinas que al efecto autoricen las autoridades fiscales.
+1.- Las autoridades federales, estatales y municipales, a requerimiento que les formulen los órganos electorales competentes, proporcionarán lo siguiente:
 
-Las autoridades portuarias, antes de expedir el despacho de salida de una embarcación, verificarán el pago correspondiente de los derechos.
+a).- La información que obre en su poder, relacionada con la jornada electoral;
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+b).- Las certificaciones de los hechos que les consten o de los documentos que existan en los archivos a su cargo, relacionados con el proceso electoral;
 
-### CAPITULO V. Salinas
+c).- El apoyo necesario para practicar las diligencias que le sean demandadas para fines electorales; y
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+d).- La información de los hechos que puedan influir o alterar el resultado de las elecciones.
+
+2.- Los Juzgados del Estado y Municipales, permanecerán abiertos durante el día de la elección, igual obligación tienen las agencias del ministerio público y las oficinas que hagan sus veces.
+
+### CAPITULO SEGUNDO. DEL CATALOGO GENERAL DE ELECTORES Y DEL PADRON ELECTORAL
 
 ###### ARTICULO 211-A.
 
@@ -14509,85 +12029,155 @@ Al monto total del derecho que resulte por el ejercicio de que se trate en los t
 
 Los ingresos generados por la recaudación de este derecho, estarán a lo dispuesto en los párrafos quinto y sexto del artículo 232-C de esta Ley, cuando así proceda.
 
-### CAPITULO VI. Carreteras y Puentes
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+### CAPITULO TERCERO. DE LA ACTUALIZACION DEL CATALOGO GENERAL DE ELECTORES Y PADRON ELECTORAL
 
 ###### ARTICULO 212.
 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos está obligado al pago de derechos por el uso de las carreteras y puentes federales.
+1.- Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan los funcionarios de casillas, los ciudadanos y los representantes de los partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+2.- Para esos efectos, los Colegios de notarios o el Gobierno del Estado publicarán, cinco días antes del día de la elección, los nombres de los notarios y los domicilios de sus oficinas.
+
+## TITULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCION Y LOS RESULTADOS ELECTORALES
+
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 213.
 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos determinará el derecho por cada ejercicio fiscal, aplicando la tasa del 1.0% sobre los ingresos por la venta de bienes y servicios que obtenga por el uso de las carreteras y puentes federales, conforme a sus estados financieros dictaminados y que presente ante la Secretaría de la Función Pública.
+1.- La recepción, depósito y salvaguarda de los paquetes en que se contengan los expedientes de casillas por parte de los Consejos Distritales y Municipales Electorales se hará conforme al procedimiento siguiente:
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+a).- Se recibirán en el orden en que sean entregados por los presidentes o integrantes de las mesas directivas de casilla con los representantes de los partidos políticos que los hubieren acompañado;
 
-Para la determinación de la base del derecho a que se refiere el párrafo anterior, no se considerarán los ingresos provenientes de los bienes que se encuentren fideicomitidos, así como los que el organismo entere a la Federación por concepto de coordinación fiscal, de acuerdo con el artículo 9-A de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+b).- El presidente del Consejo Distrital o Municipal extenderá el recibo señalando la hora en que fueron entregados.
 
-El derecho a que se refiere este artículo, se causará en el momento en que se cobren o sean exigibles los pagos a favor de Caminos y Puentes Federales de Ingresos y Servicios Conexos o se expida el comprobante que ampare la venta de bienes o servicios a que se refiere el primer párrafo del presente artículo, lo que suceda primero.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+c).- El Presidente del Consejo Distrital o Municipal dispondrá su depósito, en el orden numérico de las casillas, colocando por separado los de las especiales en el lugar dentro del local del Consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo distrital o municipal; y
 
-El derecho del ejercicio se pagará mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+d).- El Presidente del Consejo Distrital o Municipal, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que se depositen los paquetes, en presencia de los representantes de los partidos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- De la recepción de los paquetes que contengan los expedientes de casillas, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este código.
+
+### CAPITULO SEGUNDO. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 214.
 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos efectuará pagos provisionales mensuales a cuenta del derecho del ejercicio a más tardar el día 17 del mes inmediato posterior a aquél en que corresponda el pago.
+Los consejos distrital o municipal harán las sumas de las actas y de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales conforme a las siguientes reglas:
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-El pago provisional se calculará aplicando la tasa del 1% a los ingresos por la venta de bienes y servicios obtenidos desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente realizados en los meses anteriores de dicho ejercicio y la diferencia será el pago provisional a enterar.
+a).- El consejos distrital o municipal autorizará al personal necesario para la recepción continua y simultanea de los paquetes electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Los funcionarios electorales designados, recibirán las actas de escrutinio y cómputo, y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas procediendo a realizar la suma correspondiente para informar inmediatamente a la dirección general del instituto;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- El secretario, o el funcionario autorizado para ello anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- Los representantes de los partidos políticos acreditados ante el Consejo contarán con los formatos adecuados para anotar en ellas los resultados de la votación en las casillas.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 215.
 
-Al monto total del derecho que resulte por el ejercicio de que se trate en los términos del artículo 213, se le restará el monto total de los pagos provisionales enterados durante el ejercicio. La diferencia que resulte a su cargo se enterará conjuntamente con la declaración anual del derecho del mismo ejercicio. Cuando resulte saldo a favor, dicho saldo podrá compensarse contra los pagos provisionales del derecho que resulte a su cargo en el ejercicio siguiente, posteriores a la presentación de la declaración anual del ejercicio inmediato anterior.
+1.- Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 207 de este Código, el presidente del Consejo respectivo deberá fijar en el exterior del local los resultados preliminares de las elecciones en el Distrito o Municipio.
+
+2.- Los Consejos respectivos comunicarán sus resultados preliminares al Consejo General, quien informará a la ciudadanía y a los medios de información sobre los datos preliminares que haya recibido, a través del mecanismo que considere más eficiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+### CAPITULO TERCERO. DE LOS COMPUTOS DISTRITALES PARA LAS ELECCIONES DE DIPUTADOS DE MAYORIA RELATIVA Y DE GOBERNADOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 216.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
+El cómputo distrital de una elección es la suma que realiza el Consejo Distrital Electoral, de los resultados anotados en las actas de escrutinio y cómputo de las casillas en el distrito electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 217.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+1.- Los Consejos Distritales celebrarán sesión a partir de las 8.00 horas del miércoles siguiente al día de la jornada electoral para hacer el cómputo de cada una de las elecciones en el orden siguiente:
+
+a).- El de la votación para diputados;
+
+b).- El de la votación para Gobernador.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Cada uno de los cómputos a que se refiere el párrafo anterior se realizará sucesiva e ininterrumpidamente hasta su conclusión. Para ello, los Consejos Distritales deberán contar con los elementos humanos, materiales y técnicos necesarios.
 
 ###### ARTICULO 218.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+El cómputo Distrital de la votación para diputados se sujetará al procedimiento siguiente:
 
-### CAPITULO VII. Aeropuertos
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+a).- Se abrirán los paquetes que contengan los expedientes de la elección que no tengan muestras de alteración y, siguiendo el orden numérico de las casillas, se cotejará el resultado del acta de escrutinio y cómputo contenida en el expediente de casilla con los resultados que de la misma obren en poder del presidente del Consejo Distrital. Si los resultados de ambas actas coinciden, se asentará en las formas establecidas para ello;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Si los resultados de las actas no coinciden, o no existe acta final de escrutinio y cómputo en el expediente de la casilla, ni obrase ésta en poder del presidente del Consejo se procederá a abrir el sobre en que se contengan las boletas para su cómputo, levantándose una acta individual de la casilla. Los resultados se asentarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente;
+
+c).- A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en los incisos anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva;
+
+d).- La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de la elección de diputados de mayoría que se asentará en el acta correspondiente;
+
+e).- Acto seguido, se abrirán los paquetes en que se contengan los expedientes de las casillas especiales, para extraer el de la elección de diputados y se procederá en los términos de los incisos a), b) y c) de este artículo;
+
+f).- El cómputo distrital de la elección de diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según los dos incisos anteriores, y se asentará en el acta correspondiente a la elección de representación proporcional; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+g).- El Consejo Distrital verificará el cumplimiento de los requisitos formales de la elección y asimismo, que los candidatos de la fórmula que haya obtenido la mayoría de votos cumplan con los requisitos de elegibilidad previstos en este Código;
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+h).- Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma y la declaración de validez de la elección y de elegibilidad de los candidatos de la fórmula que hubiese obtenido la mayoría de votos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+### CAPITULO CUARTO. DE LA CREDENCIAL PARA VOTAR
 
 ###### ARTICULO 219.
 
-Aeropuertos y Servicios Auxiliares está obligado al pago de derechos por el uso, goce o explotación de los aeropuertos federales.
+Concluido el cómputo y emitida la declaración de validez de la elección de diputados, el presidente del Consejo Distrital expedirá la constancia de mayoría y validez a la fórmula de candidatos que haya obtenido el mayor número de votos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 220.
 
-Aeropuertos y Servicios Auxiliares determinará el derecho, por cada ejercicio fiscal, aplicando la tasa del 5% a la suma de los ingresos brutos por servicios aeroportuarios, complementarios y comerciales, señalados en la Ley de Aeropuertos y su Reglamento, conforme a sus estados financieros dictaminados.
+Los Presidentes de los Consejos Distritales fijarán en el exterior de sus locales al término de la sesión de cómputo distrital, los resultados de las elecciones.
 
-Tratándose de servicios complementarios, por lo que se refiere al suministro de combustible, la base para el cálculo del derecho será el ingreso bruto obtenido por el servicio de abastecimiento y/o succión de combustible.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 221.
 
-Aeropuertos y Servicios Auxiliares efectuará pagos provisionales bimestrales a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente, mediante declaración que presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el derecho de uso, goce o explotación de los aeropuertos federales se calculará considerando los ingresos brutos obtenidos durante el bimestre inmediato anterior, por los conceptos señalados en el artículo anterior.
+El cómputo distrital de la votación para Gobernador se sujetará al procedimiento siguiente:
 
-El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público, dentro de los tres meses siguientes al cierre del ejercicio fiscal.
+a).- Se harán las operaciones señalados (sic) en los incisos a), b) y c) del artículo 218;
 
-Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho saldo podrá acreditarlo contra los pagos provisionales del derecho que resulte a su cargo, por los ejercicios subsecuentes al que se declara, hasta agotarse.
+b).- Acto seguido, se procederá a extraer los expedientes de las casillas especiales relativos a la elección de Gobernador y se realizarán las operaciones referidas en el inciso anterior;
+
+c).- La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de la elección de Gobernador que se asentará en el acta correspondiente; y
+
+d).- Se hará constar en el acta circunstanciada de la sesión el resultado del cómputo y los incidentes que ocurriesen durante la misma.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 221-A.
 
@@ -14597,9 +12187,7 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-### CAPITULO VIII. Agua
-
-> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+### CAPITULO QUINTO. DE LAS LISTAS NOMINALES DE ELECTORES Y DE SU REVISION
 
 #### SECCION PRIMERA. Distritos de Riego
 
@@ -14607,69 +12195,27 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 ###### ARTICULO 222.
 
-Están obligadas al pago del derecho sobre agua, las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción.
+El presidente del Consejo Distrital deberá:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+a).- Integrar el expediente del cómputo distrital de la elección de diputados de mayoría relativa con las actas originales de las casillas, el original del acta de cómputo distrital, el acta circunstanciada de la sesión de cómputo y el informe del propio presidente sobre el desarrollo del proceso electoral;
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+b).- Integrar el expediente del cómputo distrital de la elección de diputados por el principio de representación proporcional con una copia certificada de las actas de las casillas, el original del acta del cómputo distrital de representación proporcional, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio presidente sobre el desarrollo del proceso electoral.
+
+c).- Integrar el expediente del cómputo distrital de la elección de Gobernador del Estado con las correspondientes actas de las casilla (sic), el original del acta del cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 223.
 
-Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua y la cuenca o acuífero en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
+El presidente del Consejo Distrital, una vez integrados los expedientes procederá a:
 
-A. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, por cada metro cúbico:
+a).- Remitir al Tribunal, cuando se hubiera interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada del expediente de computo distrital de la elección cuyos resultados hayan sido impugnados, en los términos previstos en el Título Tercero del libro Séptimo de este Código.
 
-(VÉASE ARCHIVO ANEXO)
+b).- Remitir al Consejo General del Instituto, una vez cumplido el plazo para la interposición del recurso de inconformidad, los expedientes de cómputos distritales de la elección de Gobernador del Estado con las actas originales de las casillas, el original del acta de cómputo distrital y cualquier otra documentación relativa a dicha elección, para que dicho órgano lo remita, a su vez, a la Oficialía Mayor de la Cámara de Diputados para los efectos del Título Sexto de este Libro; copia certificada de la Constancia de Mayoría y Validez de la fórmula de candidatos a diputado de mayoría relativa que la hubiese obtenido; así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones. De la documentación contenida en el expediente del cómputo distrital enviará copia certificada al director general del Instituto cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias.
 
-Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales, que cuenten con el permiso por parte de los municipios u organismos operadores para la prestación de los servicios de agua potable, cumplan con las condiciones de calidad de agua para consumo humano establecidas en las normas oficiales mexicanas y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso. Los contribuyentes podrán aplicar las cuotas preferenciales que establece el Apartado B, fracción I de este artículo, siempre y cuando cumplan con todos los requisitos previstos en este párrafo.
+### CAPITULO CUARTO. DEL COMPUTO PARA LA ELECCION DE GOBERNADOR
 
-De los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales por usuarios distintos de los municipales y organismos operadores de los mismos, 300 millones de pesos tendrán destino específico para el Fondo Forestal Mexicano para el desarrollo y operación de Programas de Pago por Servicios Ambientales. Estos recursos ampliarán el presupuesto que se asigne a la Comisión Nacional Forestal.
-
-B. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, se pagará el derecho sobre agua por cada mil metros cúbicos, destinadas a:
-
-I. Uso de agua potable:
-
-a). Asignada a Entidades Federativas, Municipios, organismos paraestatales, paramunicipales.
-
-b). Concesionadas a empresas que presten el servicio de agua potable o alcantarillado y que mediante autorización o concesión, presten el servicio en sustitución de las personas morales a que se refiere el inciso a).
-
-c). Concesionada a colonias constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
-
-Para los efectos del uso de agua potable, se considerará:
-
-(VÉASE ARCHIVO ANEXO)
-
-Los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere esta fracción, que paguen los municipios, se destinarán a la Comisión Nacional del Agua para obras de infraestructura hidráulica.
-
-Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que en las mismas se señalan cuando el consumo de agua en el periodo sea inferior o igual a un volumen equivalente a los 300 litros por habitante al día, de acuerdo con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
-
-En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
-
-(VÉASE ARCHIVO ANEXO)
-
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-II. Generación Hidroeléctrica y generación geotérmica $5.0537
-
-III. Acuacultura:
-
-(VÉASE ARCHIVO ANEXO)
-
-IV. Balnearios y centros recreativos:
-
-(VÉASE ARCHIVO ANEXO)
-
-Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de acceso exclusivo o privado y campos de golf.
-
-C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
-
-Zona de disponibilidad 1 a 4 $0.1981
-
-Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 223.
 
@@ -14717,99 +12263,11 @@ b). Indirecto: El que efectúa el Estado en beneficio de los asignatarios o conc
 
 ###### ARTICULO 224.
 
-No se pagará el derecho a que se refiere este Capítulo, en los siguientes casos:
+1.- Los presidentes de los consejos distritales y municipales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales y municipales.
 
-I.- Por la extracción o derivación de aguas nacionales que realicen personas físicas dedicadas a actividades agrícolas o pecuarias para satisfacer las necesidades domésticas y de abrevadero, sin desviar las aguas de su cauce natural.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-II.- Por el uso o aprovechamiento de aguas residuales, cuando se deje de usar o aprovechar agua distinta a ésta en la misma proporción o cuando provengan directamente de colectores de áreas urbanas o industriales.
-
-III.- Por las aguas que broten o aparezcan en el laboreo de las minas o que provengan del desagüe de éstas, salvo las que se utilicen en la explotación, beneficio o aprovechamiento de las mismas, para uso industrial o de servicios.
-
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-IV. Por los usos agrícola y pecuario definidos como tales en la Ley de Aguas Nacionales y siempre que sus procesos se efectúen de forma indivisa, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria, hasta por la dotación autorizada a los distritos de riego por la Comisión Nacional del Agua o, en su caso, hasta por el volumen concesionado. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia, diferentes a la conservación y mantenimiento de zonas de ornato o deportivas.
-
-V.- Por las aguas que regresen a su fuente original o que sean vertidas en cualquier otro sitio previamente autorizado por la Comisión Nacional del Agua en los términos de la Ley de Aguas Nacionales, siempre que tengan el certificado de calidad del agua expedido por esta última en los términos del Reglamento de la citada Ley, de que cumple los lineamientos de calidad del agua señalados en la tabla contenida en esta fracción, de acuerdo con el grado de calidad correspondiente al destino inmediato posterior y se acompañe una copia de dicho certificado a la declaración del ejercicio. Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
-
-El certificado a que se refiere el párrafo anterior será válido únicamente por el periodo del ejercicio fiscal por el que se expide.
-
-El certificado de calidad del agua deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, el certificado será válido a partir del momento en que se solicitó.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Los contribuyentes para comprobar el cumplimiento de la calidad establecida en la tabla de lineamientos de calidad del agua en su caso una vez obtenido el certificado de calidad del agua se deberá entregar a la Comisión Nacional del Agua un reporte trimestral de la calidad del agua sobre una muestra simple tomada en día normal de operación representativa del proceso que genera la descarga de aguas residuales. El reporte deberá entregarse en un máximo de veinte días hábiles posteriores al trimestre que se informa y en caso de omisión de la presentación del reporte o si se da el incumplimiento de los parámetros la exención dejará de surtir sus efectos en el trimestre que se debió haber presentado el reporte o se incumplió en los parámetros.
-
-(VEASE ARCHIVO ANEXO)
-
-Para la aplicación de los valores contenidos en la tabla de lineamientos de calidad del agua, se deberá considerar lo siguiente:
-
-USO 1: Fuente de abastecimiento para uso público urbano.
-
-USO 2: Riego Agrícola.
-
-USO 3: Protección a la vida acuática: Agua dulce, incluye humedales.
-
-USO 4: Protección a la vida acuática: Aguas costeras y estuarios.
-
-(I): La alcalinidad natural no debe reducirse en más del 25%, ni cuando ésta sea igual o menor a 20 mg/l.
-
-(II): Cultivos sensibles al boro, un máximo de 0.75 mg/l; otros hasta 3 mg/l.
-
-(III): La concentración promedio de 4 días de esta sustancia no debe exceder este nivel, más de una vez cada año.
-
-(IV): Cultivos sensibles 500-1000 mg/l; cultivos con manejo especial 1000-2000 mg/l; cultivos tolerantes en suelos permeables 2000-5000 mg/l; para frutas sensibles relación de absorción de sodio RAS<=4, y para forrajes de 8-18, cuando la descarga sea directamente a suelo con uso en riesgo agrícola.
-
-(V): La concentración total de gases disueltos no debe exceder a 1.1 veces el valor de saturación en las condiciones hidrostáticas y atmosféricas prevalecientes.
-
-C.N. Condiciones Naturales del sitio donde sea vertida la descarga de aguas residuales.
-
-NMP= Número más probable. BHC=HCH=1,2,3,4,5,6 Hexaclorociclohexano. Niveles máximos en mg/l, excepto cuando se indique otra unidad.
-
-Lo dispuesto en esta fracción no será aplicable al agua que se use o aproveche para la generación de energía hidroeléctrica.
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interiores salobres, cuando el contribuyente acredite que éstas contienen más de 2,500 miligramos por litro, de sólidos disueltos totales, independientemente de si se desaliniza o se trata.
-
-Para efectos de la exención a que se refiere esta fracción, el contribuyente estará obligado a realizar alguna de las siguientes opciones:
-
-a). Llevar a cabo el muestreo y análisis de la calidad del agua explotada, usada o aprovechada en cada punto de extracción y de forma diaria, mediante reportes basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, los cuales deberán adjuntarse a la declaración trimestral que corresponda.
-
-b). Instalar los aparatos de medición de calidad, cuyas características, instalación, calibración y funcionamiento deberán cumplir con los requisitos que la Comisión Nacional del Agua establezca mediante reglas de carácter general, publicadas en el Diario Oficial de la Federación, y solicitar la validación de que se cumple con los referidos requisitos.
-
-La validación a que se refiere este inciso se solicitará a la Comisión Nacional del Agua, previo pago del derecho a que se refiere el artículo 192-F de esta Ley, la cual deberá notificarse dentro de los diez días hábiles siguientes a la presentación de la solicitud y del comprobante del pago, considerando para efectos del cálculo del derecho por aguas nacionales lo siguiente:
-
-i) Cuando la citada Comisión notifique al contribuyente la resolución de validación favorable dentro del plazo previsto de diez días hábiles, el contribuyente considerará las lecturas diarias del medidor de calidad a partir de la fecha de su instalación o reparación; en caso de que la resolución sea en sentido negativo se considerará que el agua contiene menos de 2,500 miligramos por litro de sólidos disueltos totales.
-
-ii) En el caso de que la referida Comisión no notifique al contribuyente la resolución con motivo de la validación dentro del plazo previsto de diez días hábiles, el contribuyente considerará que las lecturas diarias del medidor contienen más de 2,500 miligramos por litro de sólidos disueltos totales a partir de la fecha de su instalación o reparación, hasta en tanto la Comisión le notifique la resolución respectiva.
-
-Cuando la Comisión Nacional del Agua no reciba información de la calidad del agua por cinco días hábiles consecutivos, se entenderá que el aparato de medición se descompuso y el contribuyente deberá repararlo o sustituirlo en un plazo que no exceda de un mes contado a partir del primer día en que la Comisión dejó de recibir información de la medición de calidad del agua.
-
-Una vez reparado o sustituido el medidor de calidad, el contribuyente deberá solicitar la validación a que se refiere este inciso.
-
-Para el periodo comprendido desde que se descompuso el medidor de calidad y hasta el día en que se haya reparado o sustituido, se considerarán los muestreos y análisis referidos en el inciso a) de esta fracción, o a través del promedio de los resultados de la medición de sólidos disueltos totales de los quince días naturales inmediatos anteriores a la descompostura del medidor, para lo cual se sumarán las lecturas diarias del citado medidor de los referidos quince días y el resultado lo dividirá entre quince, el cociente obtenido será la calidad del agua que se considerará para efectos de determinar el volumen exento.
-
-Para la determinación del volumen usado, explotado o aprovechado exento en el trimestre, el contribuyente considerará el volumen que efectivamente usó, explotó o aprovechó en cada uno de los días del trimestre en los que se acreditó que el agua contiene más de 2,500 miligramos por litro de sólidos disueltos totales, para lo cual deberá contar con el medidor volumétrico a que se refiere el párrafo primero del artículo 225 de esta Ley y llevar un registro diario de lecturas.
-
-El contribuyente podrá optar para la determinación del volumen usado, explotado o aprovechado exento en el trimestre, considerando la lectura del aparato de medición volumétrico a que se refiere el artículo 225 de esta Ley durante el último día hábil del trimestre de que se trate y disminuir la lectura realizada el último día del trimestre anterior, el resultado se dividirá entre el número de días que conforman el trimestre para obtener el promedio diario de volumen, el cual se multiplicará por el número de días que durante el trimestre se acreditó que el agua contenía más de 2,500 miligramos por litro de sólidos disueltos totales.
-
-Los contribuyentes a que se refiere esta fracción están obligados a permitir el acceso al personal de la Comisión Nacional del Agua para verificar los medidores, de lo contrario no podrán gozar del beneficio previsto en esta fracción.
-
-VII.- Por el uso o aprovechamiento de aguas efectuado por las poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda y por los organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a estas poblaciones, por los volúmenes suministrados para este fin.
-
-VIII.- Por el uso o aprovechamiento de aguas nacionales efectuada por entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda.
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-IX.- Por el uso, explotación o aprovechamiento de aguas tomadas del mar.
-
-Las personas físicas o morales que estén exentas en los términos del presente artículo y que realicen usos o aprovechamientos diferentes a éstos, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí causan derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes de agua que usen o aprovechen, quedando sin efecto las citadas exenciones.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del presente artículo, se realizará con base en determinaciones analíticas efectuadas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba (SINALP) de la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+2.- Así mismo, los presidentes tomarán las medias necesarias para el depósito, en el lugar señalado para tal efecto, de los sobres que contienen la documentación a que se refiere el artículo 218 de este Código hasta la calificación de todas las elecciones. Una vez realizada la calificación se procederá a su destrucción.
 
 ###### ARTICULO 224-A.
 
@@ -14833,25 +12291,9 @@ El monto a disminuir deberá señalarse en la declaración trimestral definitiva
 
 ###### ARTICULO 225.
 
-Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar con aparatos de medición de las aguas que usen, exploten o aprovechen que al efecto instale la Comisión Nacional del Agua y deberán permitir el acceso y brindar las facilidades y apoyos necesarios al personal de dicha Comisión para que los instale y realice la toma de las lecturas correspondientes.
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-El contribuyente deberá utilizar las lecturas de los medidores a que se refiere el párrafo anterior para calcular y pagar el derecho conforme a la cuota que corresponda en los plazos establecidos para tal efecto, en términos de los artículos 223 y 226 de esta Ley.
-
-Hasta que la Comisión Nacional del Agua instale el aparato de medición a que se refiere el presente artículo el contribuyente estará obligado a:
-
-I. Adquirir e instalar directamente un aparato de medición que cumpla con las reglas de carácter general que emita la Comisión Nacional del Agua o, en su caso, conservar el que tenga instalado.
-
-II. Calcular y pagar el derecho conforme a los artículos 223 y 226 de esta Ley, utilizando para tales efectos las lecturas del aparato de medición con el que cuenten.
-
-III. Determinar el volumen usado, explotado o aprovechado a través de métodos indirectos cuando se trate de contribuyentes con uso agrícola y pecuario.
-
-IV. Informar a la Comisión Nacional del Agua las descomposturas de su medidor dentro del término de treinta días hábiles contados a partir de que tuvieren conocimiento de las mismas.
-
-Para los efectos del primer párrafo de este artículo, sin perjuicio de la consulta directa de los medidores instalados por la Comisión Nacional del Agua, los contribuyentes podrán consultar vía Internet, en el transcurso del trimestre que corresponda, el estado que guardan sus consumos, de conformidad con el procedimiento que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
-
-Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, estarán obligadas a llevar un registro de las lecturas de su medidor en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo dispuesto en el artículo 30 del Código Fiscal de la Federación.
-
-> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 #### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
 
@@ -14859,133 +12301,45 @@ Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales
 
 ###### ARTICULO 226.
 
-El contribuyente calculará el derecho sobre agua trimestralmente y efectuará su pago a más tardar el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria. El pago se hará por el derecho que corresponda al agua que se haya usado, explotado o aprovechado durante los tres meses inmediatos anteriores, para lo cual efectuará la lectura del aparato de medición durante el último día hábil del trimestre de que se trate y de la lectura realizada disminuirá la lectura efectuada el último día del trimestre anterior y el volumen resultante será sobre el cual calculará el derecho.
+1.- Los Consejos Electorales Municipales se reunirán el jueves siguiente al día de la elección a las once de la mañana, con el objeto de hacer el cómputo correspondiente a la elección de ayuntamientos.
 
-Los contribuyentes señalados en el tercer párrafo del artículo 225 de esta Ley efectuarán directamente las lecturas del aparato de medición con el que cuenten y aplicarán el procedimiento descrito en el párrafo anterior a fin de calcular el derecho sobre el volumen de agua utilizado, explotado o aprovechado en el trimestre de que se trate.
+2.- Para este efecto:
 
-Para los efectos de este artículo el contribuyente deberá presentar una declaración por todos los aprovechamientos con que cuente en sus instalaciones, sean de aguas superficiales o provenientes del subsuelo, en anexo libre declarará y reportará a la Comisión Nacional del Agua sus aprovechamientos, debiendo incluir: nombre o razón social, registro federal de contribuyentes, número de títulos de concesión o asignaciones, incluyendo por cada aprovechamiento la zona de disponibilidad, el volumen declarado, la tarifa aplicada y el monto pagado.
+a).- Se abrirán los paquetes que contengan los expedientes de la elección que no tengan muestras de alteración y, siguiendo el orden numérico de las casillas, se cotejará el resultado del acta de escrutinio y cómputo contenida en el expediente de casilla con los resultados que de la misma obren en poder del presidente del Consejo Municipal. Si los resultados de ambas actas coinciden, se asentará en las formas establecidas para ello;
 
-Los contribuyentes deberán contar con la documentación original comprobatoria del pago de los derechos en su domicilio fiscal y con copia de dicho pago en el lugar donde se usen, exploten o aprovechen las aguas nacionales, cuando se trate de un lugar distinto a su domicilio fiscal.
+b).- Si los resultados de las actas no coinciden, o no existe acta final de escrutinio y cómputo en el expediente de la casilla, ni obrase ésta en poder del presidente del Consejo se procederá a abrir el sobre en que se contengan las boletas para su cómputo, levantándose una acta individual de la casilla. Los resultados se asentarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente;
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+c).- A continuación se abrirán los paquetes con muestra de alternación y se realizarán, según sea el caso, las operaciones señaladas en los incisos anteriores, haciéndose constar lo procedente en el acta circunstancia (sic) respectiva;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 227.
 
-Cuando no se pueda medir el volumen de agua, como consecuencia del cambio, descompostura, alteración o desajuste del aparato de medición, por causas no imputables al contribuyente, el derecho sobre agua se pagará conforme a la cantidad de metros cúbicos extraídos en promedio durante los cuatro últimos trimestres.
+(sic) Una vez que el Consejo municipal electoral haya hecho el cómputo general, el presidente del mismo declarará en voz alta, el número de votos emitidos en favor de los candidatos que integran la planilla y cuál de ellas obtuvo mayoría.
 
-Cuando no exista aparato de medición o éste no se hubiere reparado, repuesto o ajustado dentro de los tres meses siguientes a su descompostura, cambio, desajuste o alteración, el pago trimestral del derecho por el uso, explotación o aprovechamiento de aguas nacionales, se efectuará conforme a lo siguiente:
+2.- A continuación se extenderá y entregará a los integrantes de la planilla que hayan obtenido el mayor número de votos, la constancia respectiva que será firmada por el presidente y el secretario del Consejo municipal electoral.
 
-I. Para aquellos usuarios que cuenten con título de asignación, concesión, permiso o autorización, se aplicará el volumen correspondiente a la cuarta parte del volumen total que tengan asignado, concesionado, permisionado o autorizado.
-
-II. Para aquellos usuarios que usen, exploten o aprovechen aguas nacionales de hecho, se estará al procedimiento previsto en la fracción III del artículo 229 de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 228.
 
-La autoridad fiscal podrá proceder a determinar presuntivamente del volumen del agua, en los siguientes casos:
+El Consejo Municipal conocerá y resolverá respecto a las irregularidades que encuentre en los expedientes electorales de cada casilla, así como de las objeciones que formulen los electores o los representantes de los partidos políticos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-I.- No se tenga instalado aparato de medición.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-II.- No funcione el aparato de medición y tal circunstancia no se haya informado dentro del plazo que se establece en el artículo 225 de esta Ley o habiéndolo informado dicho aparato no se hubiera reparado dentro del trimestre siguiente.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-III.- Estén rotos los sellos o se haya alterado o desajustado el funcionamiento, del aparato de medición.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- El contribuyente no efectúe el pago del derecho en los términos del artículo 226 de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-V.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación, verificación y medición o no presenten la información o documentación que le solicite la Comisión Nacional del Agua.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-VI.- Cuando no se lleven los registros de las lecturas del aparato de medición, se lleven incorrectamente o en contravención de lo dispuesto por el artículo 225 de la presente Ley, o bien, no se conserven en los términos de lo establecido en el artículo 30 del Código Fiscal de la Federación.
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-VII.- Se lleven a cabo instalaciones hidráulicas o derivaciones de agua sin la autorización respectiva o cuando se realicen modificaciones o manipulaciones a las tuberías o ramales de distribución.
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-VIII.- Cuando se detecte que se lleva a cabo el uso, explotación o aprovechamiento de las aguas nacionales de hecho.
-
-> <small>(REFORMADO D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 229.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho a que se refiere este Capítulo, considerando lo dispuesto en cualquiera de las siguientes fracciones:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-I.- El volumen que señale el título de asignación, concesión, autorización o permiso.
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-II.- Los volúmenes que señalen los registros de las lecturas de sus medidores, su aparato de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-III. Calculando la cantidad de agua que el contribuyente pudo obtener durante el trimestre para el cual se efectúe la determinación, para lo cual se aplicará la siguiente fórmula:
-
-VAEE= 368.073413 X EF X e
-
-------------------------------
-
-Ha
-
-Donde:
-
-VAEE: Volumen de Agua Estimado Extraído (en metros cúbicos)
-
-368.073413: Constante de relación de p (densidad del agua), g (constante gravitacional) y unidades t (unidades de tiempo)
-
-EF: Energía Facturada (en kilowatts hora)
-
-Ha: Profundidad del nivel de agua (en metros)
-
-e: Eficiencia del sistema motor-bomba
-
-El consumo de Energía Facturada correspondiente al trimestre a determinar presuntivamente que se tomará en cuenta para los efectos de esta fracción, será el que corresponda al promedio diario de consumo en kilowatts hora señalado en la factura de que se trate y se multiplicará por el número de días correspondientes a dicha factura que se encuentren comprendidos en el trimestre sujeto a la determinación debiéndose considerar cada una de las facturas que comprenda el citado trimestre. La suma de los resultados de las operaciones anteriores, será la que se utilice en la fórmula a que se refiere esta fracción, a fin de obtener el Volumen de Agua Estimado Extraído al trimestre.
-
-Cuando no se cuente con la información del total de la Energía Facturada correspondiente al trimestre a determinar presuntivamente, se considerará cualquier promedio diario de consumo en kilowatts hora con el que se cuente, de preferencia el más reciente al trimestre a determinar; dicho promedio diario se multiplicará por el número de días que comprendan el trimestre a determinar, y el resultado obtenido será el dato que se utilice en la fórmula a que se refiere esta fracción, a fin de obtener el Volumen de Agua Estimado Extraído al trimestre.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- Otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-V.- Los medios indirectos de la investigación económica o de cualquier otra clase.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VI.- Cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-En el caso de contribuyentes que cuenten con títulos de asignación, concesión, autorización o permisos, si el volumen señalado en los mismos resulta menor al volumen que se obtenga de la información y documentación con que cuenten la Comisión Nacional del Agua o el Servicio de Administración Tributaria, se deberá considerar este último.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-Tratándose de contribuyentes que efectúen el uso, explotación o aprovechamiento de aguas nacionales de hecho, se deberá considerar el volumen que resulte mayor de aquellos con los que cuenten la Comisión Nacional del Agua o el Servicio de Administración Tributaria, en caso de contar con varios de ellos.
+En caso de inconformidad con la resolución del Consejo Municipal Electoral, los interesados podrán interponer, dentro del término de cinco días siguientes a la resolución, recurso de revisión ante el Consejo General Electoral, del Instituto Estatal Electoral.
 
 ###### ARTICULO 230.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+El Presidente del Comité Municipal, una vez integrado el expediente de la elección municipal procederá a:
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+a).- Remitir al tribunal, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste los escritos de protesta y el informe respectivo, así como copia certificada del expediente de cómputo municipal cuyo resultado haya sido impugnado, en los términos previstos en el título tercero del Libro Séptimo de éste Código.
+
+b).- Remitir una vez cumplido el plazo para la interposición del recurso de inconformidad a la oficialía Mayor de la Cámara de Diputados el expediente de cómputo municipal, conteniendo las actas originales y cualquier otra documentación relativa para su calificación correspondiente. Asimismo, anviará (sic) copia certificada del expediente al Director del Instituto. Cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias.
+
+c).- En su caso, el Instituto dispondrá las medidas conducentes, a fín de hacer llegar los expedientes electorales a la Cámara de Diputados.
 
 ###### ARTICULO 230-A.
 
@@ -14995,49 +12349,7 @@ Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nac
 
 ###### ARTICULO 231.
 
-Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, se determinarán conforme a lo siguiente:
-
-I. Tratándose de aguas superficiales la determinación será por cuenca hidrológica aplicando la siguiente fórmula:
-
-(VÉASE ARCHIVO ANEXO)
-
-El volumen anual de retornos, se determina mediante aforo de las salidas de los volúmenes que se reincorporan a la red de drenaje de una cuenca.
-
-El volumen anual de evaporación en embalses, se determina a partir de la lámina de evaporación medida, aplicada a la superficie libre del agua expuesta, en los embalses naturales o artificiales.
-
-El volumen anual de variación del almacenamiento en embalses, se determina mediante la diferencia del volumen final, menos el volumen inicial (V final-V inicial), de cada año en particular.
-
-(VÉASE ARCHIVO ANEXO)
-
-En caso de que la Norma Oficial Mexicana señalada en el párrafo anterior se modifique, para efectos de este artículo se continuará aplicando la NOM-011-CONAGUA-2000.
-
-La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la Federación, a más tardar el segundo mes del ejercicio fiscal de que se trate, como facilidad administrativa, los valores de cada una de las variables que integran la citada fórmula.
-
-El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda a la cuenca:
-
-(VÉASE ARCHIVO ANEXO)
-
-II. Tratándose de aguas subterráneas la determinación será por acuífero aplicando la siguiente fórmula:
-
-(VÉASE ARCHIVO ANEXO)
-
-Las variables que integran la fórmula prevista en esta fracción se determinarán en términos del método obligatorio previsto en la Norma Oficial Mexicana NOM-011-CONAGUA-2000 que establece las especificaciones y el método para determinar la disponibilidad media anual de las aguas nacionales.
-
-En caso de que la Norma Oficial Mexicana señalada en el párrafo anterior se modifique, para efectos de este artículo se continuará aplicando la NOM-011-CONAGUA-2000.
-
-La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la Federación, a más tardar el segundo mes del ejercicio fiscal de que se trate, como facilidad administrativa, los valores de cada una de las variables que integran la citada fórmula.
-
-El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda al acuífero:
-
-(VÉASE ARCHIVO ANEXO)
-
-III. La Comisión Nacional del Agua para fines informativos publicará en su página de Internet en el mes de septiembre los valores preliminares calculados a dicho mes de cada una de las variables que integran las fórmulas previstas en las fracciones I y II de este artículo, así como la zona de disponibilidad que correspondería a cada cuenca o acuífero.
-
-Lo previsto en esta fracción es sin menoscabo de lo dispuesto en las fracciones anteriores de este artículo.
-
-Con independencia que los contribuyentes puedan determinar la zona de disponibilidad que corresponda a la cuenca hidrológica o acuífero donde se realiza la extracción, la Comisión Nacional del Agua, como facilidad administrativa, publicará a más tardar el tercer mes del ejercicio fiscal de que se trate, la zona de disponibilidad que corresponda a cada cuenca hidrológica y acuífero del país.
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+A las 10 horas del día 1° de enero del año siguiente al de la elección, en el Salón de Cabildos se reunirán los Concejales Propietarios cuya constancia de mayoría y de asignación obren en su poder para el acto de protesta, toma de posesión e integración del Ayuntamiento respectivo, de acuerdo con los cargos que a cada uno corresponda en los términos señalados por los (sic) artículos (sic) 98 de la Constitución Particular.
 
 ###### ARTICULO 231-A.
 
@@ -15055,99 +12367,15 @@ La Comisión Nacional del Agua informará, trimestralmente, al H. Congreso de la
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO IX. Uso o goce de Inmuebles
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 232.
 
-Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen bienes del dominio público de la Federación en los puertos, terminales, e instalaciones portuarias, la zona federal marítima, los diques, cauces, vasos, zonas de corrientes, depósitos de propiedad nacional y otros inmuebles del dominio público distintos de los señalados en otros Capítulos de este Título, conforme a lo que a continuación se señala:
+En los términos de la Ley Orgánica Municipal, en la primera sesión de cabildo, a la planilla ganadora le serán reconocidos el Presidente Municipal, el Síndico o los Síndicos y la Regiduría de Hacienda. Las restantes comisiones serán insaculadas entre los demás concejales, ya sean de mayoría relativa o de representación proporcional.
 
-Cuota
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
-
-Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota $3.4651
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- El 3.5% anual del valor del inmueble concesionado o permisionado, cuando se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- El 2% anual del valor del inmueble concesionado o permisionado, cuando en el inmueble se realicen actividades agropecuarias.
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-Para los efectos de las fracciones I, II y III que anteceden, el valor del inmueble se determinará conforme a un avalúo que emita el Instituto de Administración y Avalúos de Bienes Nacionales, mismo que será actualizado anualmente en términos de lo dispuesto en el artículo 17-A del Código Fiscal de la Federación.
-
-Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
-
-IV.- De $0.0545 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
-
-V.- De $3.5144 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
-
-VI.- De $3.5229 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
-
-VII.- De $0.1389 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
-
-VIII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
-
-IX.- Por los espacios dentro de inmuebles de
-
-propiedad federal que no rebasen 30 m2, en
-
-donde se instalen módulos o máquinas
-
-expendedoras de bienes o servicios, se pagará
-
-por metro cuadrado o fracción, por cada mes $325.39 $325
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-El derecho a que se refiere esta fracción, se efectuará anticipadamente mediante pagos provisionales semestrales a más tardar el día 17 de los meses de enero y julio del ejercicio de que se trate.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
-
-X.- Por el depósito de restos humanos
-
-áridos o cremados en un nicho construido
-
-en templos de propiedad federal o sus
-
-anexidades, por cada depósito $943.81 $944
-
-XI.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
-
-Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicarán cuando la actividad señalada en cada caso constituya la principal del concesionario o permisionario. En todo caso los contribuyentes podrán optar por pagar conforme a lo establecido en la fracción I de este artículo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Para los efectos de este artículo, no se estará obligado al pago de los derechos tratándose de los siguientes casos:
-
-a).- Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo 37 de la Ley de Puertos;
-
-b).- Las personas físicas o morales contratadas por dependencias del Gobierno Federal o por sus organismos descentralizados, para la realización de servicios tales como conservación, mantenimiento, vigilancia, limpieza o jardinería que deben realizar en el interior de los inmuebles y que requieren de espacios para el alojamiento de equipos, enseres diversos y la estancia de personas, por los espacios ocupados en dichos inmuebles;
-
-c).- Las empresas contratistas y arrendadoras financieras que ejecuten obras dentro de los inmuebles de que se trate a cargo del Gobierno Federal, por dichos inmuebles.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-d).- Las instituciones de crédito que proporcionen a las dependencias del Gobierno Federal, los servicios bancarios de consulta, depósito y retiro de los montos de las cuentas del personal que labore en dichos inmuebles, mediante el servicio de cajeros automáticos, por el espacio que ocupen dichos cajeros en los inmuebles del Gobierno Federal o de sus organismos descentralizados.
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-e).- Las instituciones de crédito y entidades financieras que sean autorizadas para funcionar como auxiliares conforme a lo dispuesto por la Ley de Tesorería de la Federación y que realicen la función de recaudación de contribuciones federales, por el espacio que ocupen dichos auxiliares dentro de los inmuebles de la Federación o de los organismos descentralizados de la Administración Pública Federal Paraestatal, así como por el equipo que instalen dentro de los inmuebles señalados.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+### CAPITULO QUINTO. DE LA ELECCION MUNICIPAL POR REPRESENTACION PROPORCIONAL
 
 ###### ARTICULO 232-A.
 
@@ -15363,67 +12591,67 @@ El 10% restante, se enterará a la Federación de conformidad con los propios co
 
 ###### ARTICULO 233.
 
-Para los efectos de los artículos 232 y 232-C, se estará a lo siguiente:
+En los municipios en que se haya registrado más de una planilla, se aplicará el siguiente procedimiento a los resultados de elección:
 
-I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+a).- Todo aquel Partido que obtenga el 6% o más de la totalidad de votos emitidos en la circunscripción municipal, tendrá derecho a participar en la asignación de regidurías de representación proporcional;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+b).- La suma de los votos de los partidos que hayan obtenido el 6% o más de los votos emitidos en la circunscripción municipal, será considerado como el 100% para los efectos de la asignación del número de regidurías de representación proporcional, y del cual se obtendrá para cada partido su porcentaje correspondiente;
 
-II.- Tratándose del uso o goce de bienes de dominio público, se estará obligado al pago del derecho correspondiente, se tenga o no permiso, concesión, acuerdo de destino o autorización cuando se obtenga un aprovechamiento especial, debiéndose revisar y ajustar el pago anualmente de conformidad a lo establecido por la presente Ley.
+c).- El número de regidurías de representación proporcional en términos de los artículos 98 de la Constitución Local y 17 de la presente Ley, se asignarán a cada partido de acuerdo al número entero del tanto por ciento que resulte de multiplicar éstas, por el porcentaje obtenido por cada uno de los partidos;
 
-Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien nacional de uso común, comprendido en los artículos 232 y 232-C de esta Ley, de modo que se limite el derecho de terceros para su libre uso.
+d).- Si quedaren regidurías de representación proporcional por repartir, se asignarán a los partidos de acuerdo a la fracción mayor, misma que deberá ser en todo caso, superior a la mitad de un entero, en el orden decreciente, aún cuando hayan obtenido de conformidad con la fracción anterior las Regidurías correspondientes;
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-III. No se pagará el derecho a que se refiere este artículo cuando el inmueble sea otorgado en destino para labores de investigación científica.
+e).- Las regidurías de representación proporcional, se asignarán los ciudadanos correspondientes, en el orden decreciente en el que aparezcan en las planillas registradas ante el Consejo Municipal Electoral; y
 
-Para efectos del artículo 232-C de esta Ley, también estarán exentos los concesionarios de los sectores social y privado, que realicen en el inmueble concesionado labores de investigación científica, siempre y cuando estén inscritos en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas a que se refiere el artículo 17, fracción II de la Ley de Ciencia y Tecnología.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+f).- El Consejo Municipal Electoral correspondiente expedirá las constancias de asignación a quienes corresponda.
 
-IV. No pagarán las asociaciones y sociedades civiles sin fines de lucro que tengan concesión o permiso para el uso de las playas, la zona federal marítima terrestre o a cualquier otro depósito de aguas marítimas, así como la zona federal administrada por la Comisión Nacional del Agua y que realicen acciones destinadas a la conservación o restauración del medio ambiente en la superficie concesionada, entendiendo por conservación lo establecido en la fracción IX del artículo 3o. de la Ley General de Vida Silvestre y por restauración lo establecido en la fracción XXXIV del artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+### CAPITULO SEXTO. DE LA ELECCION MUNICIPAL POR REPRESENTACION PROPORCIONAL
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-V.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén ocupados por monumentos arqueológicos, históricos o museos, bajo la administración del Instituto Nacional de Antropología e Historia.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-VI.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén destinados a labores de seguridad nacional, que realicen las Secretarías de la Defensa Nacional y de Marina.
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-VII.- No se pagarán los derechos a que se refiere este artículo cuando los inmuebles de dominio público de la Federación estén destinados a labores propias de las capitanías de puerto de la Secretaría de Comunicaciones y Transportes.
-
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-VIII.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marinas, se usen o aprovechen para la explotación de salinas formadas de aguas provenientes de mares actuales, superficiales o subterráneos, naturales o artificiales, para lo cual se estará a lo dispuesto en el Capítulo V denominado "Salinas", de este Título.
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-IX.- No se pagarán los derechos a que se refiere este artículo cuando la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marítimas, la zona federal marítima o las aguas interiores, estén destinados al servicio de las Secretarías de Estado y órganos desconcentrados de la Administración Pública Federal, Estatal y Municipal que cumplan con los fines públicos para los que fueron creados.
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-X.- No se pagará el derecho a que se refiere el artículo 232-C, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, estén destinadas al servicio de instituciones de beneficencia pública cuando realicen acciones de salvamento.
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-XI.- No se pagará el derecho a que se refiere el artículo 232 de esta Ley, tratándose de obras de protección contra fenómenos naturales en los puertos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 234.
 
-Los derechos a que se refieren los artículos 232, 232-A y 232-C de esta Ley, se calcularán por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales bimestrales a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente, mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el uso, goce o aprovechamiento de inmuebles será una sexta parte del monto del derecho calculado al año.
+El Consejo General hará el cómputo de votaciones de la circunscripción plurinominal, para tal efecto, observará lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+a).- Revisara las actas del cómputo distrital y tomará nota de los resultados que en ella conste;
 
-El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
+b).- Hará el cómputo de la votación total emitida en toda la circunscripción plurinominal. Levantará el acta correspondiente, haciendo constar los incidentes y resultados del cómputo, anotando en que distritos electorales uninominales se interpusieron recursos, el contenido y los recurrentes;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Los contribuyentes que estén obligados al pago de los derechos establecidos en los artículos 232, fracciones IV y V y 232-C de esta Ley, podrán optar por realizar el pago del derecho de todo el ejercicio en la primera declaración bimestral y posteriormente presentar la declaración anual del ejercicio correspondiente o, en su caso, efectuar el pago conforme a lo señalado en los párrafos anteriores.
+c).- Hará la declaratoria de aquellos partidos políticos que no hayan obtenido el 1.5% de la votación total emitida para la lista registrada en la circunscripción plurinominal, si son de nueva creación o del 2% si se trata de partidos registrados con anterioridad.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- Se sumarán los votos de los partidos políticos que hubieren alcanzado el 1.5% si se trata de partidos de nueva creación o el 2% si se trata de partidos ya registrados con anterioridad, de la votación total emitida para que participen en la asignación de diputados por representación proporcional.
+
+e).- El resultado de la suma que se habla en la fracción anterior, se dividirá entre el número de curules a repartir por representación proporcional, para obtener un cociente electoral que será aplicado al partido mayoritario hasta alcanzar el número de curules que legalmente le corresponda en la representación proporcional de acuerdo con su votación obtenida;
+
+f).- Hecho lo anterior, se volverán a sumar los votos de los partidos minoritarios con derecho a la representación proporcional y se dividirá el resultado entre el número de curules a repartir para obtener un segundo cociente electoral, que será aplicado tantas veces como este cociente se contenga en la votación de cada uno de ellos;
+
+g).- Se asignará a cada partido político, tantas diputaciones como veces contenga su votación el Cociente Electoral de mayoría o minoría, según el caso en los términos del artículo 33 de la Constitución Particular;
+
+h).- Si quedaren diputaciones por repartir, se asignará una a cada partido, en el orden decreciente de los restos de votos no utilizados por cada uno de ellos, en el procedimiento anterior;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+i).- Las diputaciones obtenidas por cada uno de los partidos políticos se asignarán en la forma siguiente:
+
+I.- Según el orden en que aparezcan en sus respectivas listas registradas ante el Instituto Estatal Electoral, si optaron por el procedimiento establecido en el artículo 136 fracción 3 inciso a) de este Código.
+
+II.- Según el orden decreciente de la votación obtenida por sus candidatos en la elección por el principio de mayoría relativa, si optaron por el procedimiento establecido en el artículo 136 fracción 3 inciso b) de este Código;
+
+j).- La asignación de diputaciones por representación proporcional, se hará en primer término el partido que haya obtenido el mayor número de votos, y en el orden decreciente a los demás; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+k).- El Instituto Estatal Electoral expedirá las constancias de asignación a quienes corresponda, de lo que informará a la Oficialía Mayor de la Cámara de Diputados.
+
+### CAPITULO SEPTIMO. DE LA ELECCION EN CIRCUNSCRIPCION PLURINOMINAL
 
 ###### ARTICULO 234-A.
 
@@ -15433,71 +12661,19 @@ Los contribuyentes que estén obligados al pago de los derechos establecidos en 
 
 ###### ARTICULO 235.
 
-Para los efectos de este Capítulo, las autoridades fiscales estarán facultadas para:
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-I.- Determinar el valor mínimo del suelo, el que deberá publicarse en el Diario Oficial de la Federación, Cuando éste resulte superior al valor declarado por el contribuyente, éste se modificará.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
-II.- Incrementar el valor catastral con la cantidad que resulte de aplicarle el factor que establezca el Congreso de la Unión.
+### CAPITULO OCTAVO. DEL REGISTRO DE LAS CONSTANCIAS DE MAYORIA, VALIDEZ Y DE ASIGNACIÓN
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-III.- Determinar la cantidad de materiales extraídos de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, en base a la diferencia que resulte de los estimados al inicio del ejercicio de los existentes al momento de la determinación.
-
-Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 236.
 
-Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y morales que extraigan de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, por cada metro cúbico, conforme a las siguientes cuotas:
+El Instituto Estatal Electoral registrará las constancias de mayoría y validez, expedidas por los Consejos municipales y distritales electorales, a los miembros del Ayuntamiento y a los diputados electos por el principio de mayoría relativa, respectivamente.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Zona 1 $/M3
-
-Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
-
-Grava $26.70
-
-Arena $26.70
-
-Arcillas y Limos $20.96
-
-Materiales en Greña $20.96
-
-Piedra $22.90
-
-Otros $9.56
-
-II.- Zona 2
-
-Los Estados no comprendidos en la fracción anterior y el Distrito Federal:
-
-Grava $17.17
-
-Arena $17.17
-
-Arcillas y Limos $13.34
-
-Materiales en Greña $13.34
-
-Piedra $15.25
-
-Otros $5.71
-
-El derecho por extracción de materiales se pagará previamente, mediante declaración que se presente en las oficinas que autorice el Servicio de Administración Tributaria.
-
-El derecho se pagará mensualmente, dentro de los diez días previos a la extracción, considerando el volumen de material que se tenga programado extraer durante ese periodo.
-
-Las personas físicas y morales que extraigan materiales pétreos, estarán obligados a llevar un registro diario de los volúmenes extraídos en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo establecido en el artículo 30 del Código Fiscal de la Federación.
-
-No se pagará el derecho a que se refiere este artículo cuando el material se extraiga por actividades de desazolve, siempre que estas actividades hayan sido aprobadas previamente por la Comisión Nacional del Agua y se cuente con el título de concesión o asignación respectivo.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 236-A.
 
@@ -15545,29 +12721,9 @@ Tratándose del derecho a que se refieren los artículos 232, fracciones I, segu
 
 ###### ARTICULO 237.
 
-Por el permiso para la instalación de anuncios publicitarios fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras federales y en los recintos portuarios, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
+1.- Para el registro, el Instituto Estatal Electoral, tomará en cuenta el informe que rinda el Consejo Municipal o Distrital Electoral, la documentación electoral y los recursos presentados ante el Tribunal Electoral y las resoluciones recaídas.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Anuncios publicitarios que tienen una
-
-superficie total hasta de 50 metros
-
-cuadrados $6,413.79 $6,414
-
-II.- Anuncios publicitarios que tienen una
-
-superficie total de más de 50 metros
-
-cuadrados y de hasta 75 metros cuadrados $9,620.87 $9,621
-
-III.- Señales informativas $9,619.71 $9,620
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-El derecho a que se refiere este artículo se pagará por anualidades adelantadas mediante declaración que se presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
+2.- Cuando con base en la documentación anterior se presuma que se dieron las causas de nulidad prevista en los artículos 256 y 257 de este Código podrá negar el registro de la constancia de mayoría o de asignación.
 
 ###### ARTICULO 237-A.
 
@@ -15589,9 +12745,7 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-### CAPITULO X. Aprovechamiento de la Vida Silvestre
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+### CAPITULO PRIMERO. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
 #### SECCION PRIMERA. Aprovechamiento Extractivo
 
@@ -15601,69 +12755,15 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 ###### ARTICULO 238.
 
-Por el aprovechamiento extractivo de ejemplares de fauna silvestre, en predios federales y zonas federales, se pagará el derecho de aprovechamiento extractivo por ejemplar o, en su caso, por lote determinado en las tasas de aprovechamiento autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales, conforme a las siguientes cuotas:
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-Cuota
+## TITULO SEXTO. DE LA CALIFICACION DE LAS ELECCIONES
 
-Sin ajuste Con ajuste
+> <small>(DEROGADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Borrego Cimarrón $564,265.04 $564,265
+### CAPITULO UNICO
 
-II.- Venado Bura en Sonora o Cola
-
-Blanca texano $54,276.08 $54,276
-
-III.- Puma $20,898.68 $20,899
-
-IV.- Venado Bura Cola Blanca en
-
-el resto del país y Temazate $16,718.94 $16,719
-
-V.- Faisán de Collar $10,449.32 $10,1449
-
-VI.- Patos, palomas, codornices,
-
-cercetas, gansos, perdiz, tinamú,
-
-branta negra del pacífico y otras
-
-aves, por lote $30,756.45 $30,756
-
-VII.- Guajolote Silvestre
-
-y Pavo Ocelado $6,269.60 $6,270
-
-VIII.- Zorra gris y otros
-
-pequeños mamíferos $6,269.60 $6,270
-
-IX.- Gato Montés $4,179.73 $4,180
-
-X.- Jabalí (de collar, labios
-
-blancos, europeo) $4,179.73 $4,180
-
-XI.- Borrego Audat o Berberisco $1,044.91 $1,045
-
-XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
-
-XIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-El pago de este derecho se hará previamente a la obtención de la autorización correspondiente, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria e incluirá el costo de los cintillos que se utilizan para el marcaje de los animales aprovechados. En el caso de que se aprovechen animales en exceso de los que señale la autorización respectiva o sin ésta, se cobrará el derecho que corresponda independientemente de que se impongan las sanciones a que haya lugar.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los ingresos que se obtengan por la recaudación de este derecho, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para la gestión de Proyectos de Manejo Regional y de Proyectos de Recuperación de Especies Prioritarias.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Sólo se pagará el 10% del derecho a que se refiere este artículo, en los casos en que el manejo para la conservación de los predios o zonas federales esté a cargo de terceros, distintos al gobierno federal.
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-No se estará obligado al pago del derecho a que se refiere este artículo, cuando las actividades extractivas se realicen con la autorización de la autoridad competente, para la investigación científica, para proyectos de repoblación o reintroducción, o como medidas de manejo o control.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 238-A.
 
@@ -15725,9 +12825,7 @@ Los residentes de la zona de influencia de las Áreas Naturales Protegidas que r
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO XI. Espacio Aéreo
-
-> <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+### CAPITULO SEGUNDO. DE LAS CAMPAÑAS ELECTORALES
 
 #### SECCION PRIMERA. Espectro Radioeléctrico
 
@@ -15735,233 +12833,31 @@ Los residentes de la zona de influencia de las Áreas Naturales Protegidas que r
 
 ###### ARTICULO 239.
 
-Las personas físicas y las morales que usen o aprovechen el espacio aéreo y, en general, cualquier medio de propagación de las ondas electromagnéticas en materia de telecomunicaciones, están obligadas a pagar el derecho por el uso del espectro radioeléctrico, conforme a las disposiciones aplicables.
+La Legislatura, erigida en Colegio Electoral, decidirá respecto a las elecciones de los Ayuntamientos que no hayan sido impugnadas a través de los recursos que este código establece, examinando la elegibilidad de los candidatos y validez de las mismas.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Este derecho se pagará anualmente dentro de los meses de enero a marzo del año de que se trate.
-
-No pagarán el derecho que se establece en este Capítulo las empresas de radio y televisión que estén obligadas a retener el impuesto por servicios expresamente declarados de interés público por Ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la nación.
-
-Aquellos concesionarios o permisionarios u otros usuarios de servicios de telecomunicaciones, que hayan contratado la operación de frecuencias o bandas de frecuencias con concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces microondas de punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago de la cuota de derechos correspondiente a las frecuencias contratadas.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres, no contribuyentes del impuesto sobre la renta y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en esta sección. Asimismo, quedan exentas del pago de derechos previsto en esta sección, las bandas de uso oficial otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Los concesionarios de espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena que no tengan relación ni vínculos de tipo comercial, organizativo, económico o jurídico con concesionarios del espectro radioeléctrico para uso comercial que generen influencia directa o indirecta en la administración u operación de la concesión, estarán exentos del pago de los derechos por el uso del espectro radioeléctrico previstos en el presente Capítulo.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Para efectos de acceder al beneficio previsto en el párrafo anterior, los titulares de las concesiones, durante el ejercicio fiscal anterior al que corresponda el pago, no deberán incurrir en la causal de revocación establecida en la fracción XIV del artículo 303 de la Ley Federal de Telecomunicaciones y Radiodifusión, de lo contrario se deberá cubrir el monto del derecho correspondiente. Para el caso de nuevos concesionarios del espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena, no será aplicable el requisito previsto en el presente párrafo durante el primer ejercicio fiscal de vigencia de la concesión correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Los Poderes de la Unión, las entidades paraestatales federales y los organismos constitucionalmente autónomos estarán sujetos a los derechos por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico establecidos en este Capítulo, independientemente de la concesión, permiso o asignación que les otorguen para su uso, goce, aprovechamiento o explotación.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Lo dispuesto en este Capítulo, será aplicable para cualquier concesión, permiso, asignación o como se denomine de acuerdo con las disposiciones jurídicas aplicables, por lo que las referencias efectuadas en este Capítulo a los términos antes señalados, serán aplicados igualmente a las figuras que se determinen en las disposiciones jurídicas aplicables en la materia.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Cuando la elección hubiera sido impugnada la Legislatura se estará a la resolución del Tribunal Estatal Electoral, salvo que existieren causas supervenientes de inegibilidad, en cuyo caso tendrá las facultades que le concede el párrafo que antecede.
 
 ###### ARTICULO 240.
 
-El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada, se pagará anualmente por cada frecuencia asignada, conforme a las siguientes cuotas:
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
 
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-I.- Para redes que cuenten con estaciones base o repetidoras:
-
-a).- Por cada estación base $10,562.15 $10,562
-
-b).- Por cada estación repetidora $15,843.30 $15,843
-
-II.- Para quienes únicamente cuenten
-
-con equipos móviles o portátiles en la
-
-red, se pagará por todos los equipos
-
-móviles, portátiles o terminales de
-
-radiocomunicación privada de usuario $6,948.78 $6,949
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-IV.- Por cada frecuencia asignada a
-
-nivel nacional, no importando la
-
-cantidad de estaciones bases,
-
-móviles o fijas $1,415,930.67 $1,415,931
-
-a).- Por frecuencia asignada a nivel
-
-regional, se pagará por Entidad
-
-Federativa, sin importar la cantidad
-
-de estaciones bases, móviles o fijas $68,512.26 $68,512
-
-V.- Por los sistemas de alta frecuencia H.F.,
-
-la cuota del derecho se pagará por hora
-
-frecuencia, tomando como mínimo dos
-
-horas diarias, por equipo terminal base
-
-o móvil $1,486.31 $1,486
-
-VI.- Por la autorización provisional
-
-que no exceda de seis meses, se
-
-pagará diariamente por cada
-
-frecuencia $113.56 $114
-
-VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
-
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
-
-a).- En sistemas que operen en
-
-periodos de hasta seis meses $3,394.91 $3,395
-
-b).- En sistemas que operen en
-
-periodos superiores a seis meses $6,789.92 $6,790
-
-IX.- Para el servicio privado móvil
-
-de radiocomunicación especializada
-
-de flotillas (trunking) se pagará por
-
-cada frecuencia sin importar el
-
-número de bases, móviles
-
-y repetidores $13,903.49 $13,903
-
-X.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 241.
 
-Los concesionarios de derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en Territorio Nacional, que proporcionen el servicio de provisión de capacidad satelital pagarán por el uso, goce o aprovechamiento del espectro radioeléctrico en el tramo comprendido dentro del Territorio Nacional, por cada día de uso, conforme a las siguientes cuotas:
+La Legislatura del Estado, al recibir los expedientes electorales de la elección de Gobernador del Estado, hará el cómputo de los votos emitidos, calificará la validez de los mismos y declarará electo al que haya obtenido el mayo (sic) número de votos, en los términos previstos por el artículo 59 de la Constitución Política Local.
 
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por cada megahertz utilizado en territorio
-
-nacional para prestar servicios de
-
-telecomunicaciones en la banda C: $112.36 $112
-
-II.- Por cada megahertz utilizado en territorio
-
-nacional para prestar servicios de
-
-telecomunicaciones en la banda Ku: $171.92 $172
-
-Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en la (sic) fracciones I y II anteriores, según corresponda.
-
-El pago del derecho a que se refiere este artículo, deberá ser enterado conforme a lo siguiente:
-
-En el mes de julio se deberá de pagar a más tardar el día 17, el monto correspondiente a los megahertz utilizados, durante el periodo de enero a junio del ejercicio fiscal de que se trate; y a más tardar al día 17 del mes de enero siguiente, el monto correspondiente a los megahertz utilizados en el periodo de julio a diciembre del ejercicio inmediato anterior.
-
-Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital utilizadas para prestar servicios en Territorio Nacional.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados ante la autoridad correspondiente del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-En el caso de que el pago realizado en el país de origen del sistema satelital extranjero abarque más de un periodo anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital de los satélites extranjeros concesionados para prestar servicios en Territorio Nacional.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Asimismo, el monto anual que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital, se deberá de multiplicar por el tipo de cambio que el Banco de México haya publicado en el Diario Oficial de la Federación el día en que dicho monto se haya pagado y adicionalmente se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe ante las autoridades del país de origen del sistema satelital extranjero. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 242.
 
-Los concesionarios que ocupen y exploten posiciones orbitales geoestacionarias y orbitales satelitales asignadas al país, con sus respectivas bandas de frecuencias de derechos de emisión y recepción de señales, que proporcionen el servicio de provisión de capacidad satelital pagarán por el uso, goce o aprovechamiento del espectro radioeléctrico en el tramo comprendido dentro del Territorio Nacional, por cada día de uso, conforme a las siguientes cuotas:
+La Legislatura del Estado erigida en Colegio Electoral, al calificar las elecciones declarará nula una elección:
 
-Cuota
+a).- Cuando se cumplan los motivos de nulidad a que se refiere el artículo 256 y 257 de esta Ley;
 
-Sin ajuste Con ajuste
+b).- Cuando se haya cometido violaciones substanciales en la preparación y desarrollo de la elección y se muestre que las mismas son determinantes de su resultado.
 
-I.- Por cada megahertz utilizado en territorio
-
-nacional para prestar servicios de
-
-telecomunicaciones en la banda C: $112.36 $112
-
-II.- Por cada megahertz utilizado en territorio
-
-nacional para prestar servicios de
-
-telecomunicaciones en la banda Ku: $171.92 $172
-
-Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
-
-El pago del derecho a que se refiere este artículo, deberá ser enterado conforme a lo siguiente:
-
-En el mes de julio se deberá de pagar a más tardar el día 17, el monto correspondiente a los megahertz utilizados, durante el periodo de enero a junio del ejercicio fiscal de que se trate; y a más tardar al día 17 del mes de enero siguiente, el monto correspondiente a los megahertz utilizados en el periodo de julio a diciembre del ejercicio inmediato anterior.
-
-Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado en licitación pública por concepto de la concesión de cada posición orbital utilizadas para proporcionar servicios en territorio nacional.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados por concepto de la concesión de cada posición orbital.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-En caso de que el pago realizado abarque más de un período anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Asimismo, el monto anual que se haya pagado ante las autoridades, por concepto de la concesión de cada posición orbital, se deberá de actualizar en los términos del artículo 17-A del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 242-A.
 
@@ -16029,7 +12925,17 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 ###### ARTICULO 243.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
+En todos los casos la Legislatura del Estado o el Colegio Electoral de la misma, expedirá el Decreto correspondiente que enviará para su publicación en el periódico oficial al Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO SEPTIMO. DE LAS CONTROVERSIAS ELECTORALES EN LAS ELECCIONES MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 243-A.
 
@@ -16051,21 +12957,13 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 ###### ARTICULO 244.
 
-Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
+En los casos de controversias suscitadas respecto de los actos, resoluciones o resultados de las elecciones municipales, los partidos políticos que se consideren afectados deberán inconformarse por la vía jurisdiccional ante el Tribunal Estatal Electoral, en los términos del libro séptimo de este Código.
 
-> <small>[N. DE E. VÉASE TABLA A EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINA 56.]</small>
+# LIBRO SEXTO. DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>[N. DE E. VÉASE TABLA B EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 56 A LA 57.]</small>
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>[N. DE E. VÉASE CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019, SEGUNDA SECCIÓN, PÁGINA 722.]</small>
-
-Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
-
-Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
-
-El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 244-A.
 
@@ -16571,41 +13469,13 @@ El pago del derecho a que se refiere este artículo, se realizará sin perjuicio
 
 ###### ARTICULO 245.
 
-El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales de microondas entre dos estaciones terminales para servicios públicos o privados de señales de telecomunicaciones, se pagará anualmente por cada enlace, conforme a las siguientes cuotas:
+1.- El Tribunal Estatal Electoral es el órgano jurisdiccional, autónomo en materia electoral, que tiene a su cargo la sustanciación y resolución de los recursos previstos en este Código, así como la imposición de las sanciones.
 
-Cuota
+2.- En los términos del artículo 25 de la Constitución Política del Estado, el Tribunal al resolver los recursos, garantizará que los actos o resoluciones electorales se sujeten al principio de legalidad; por lo tanto contra sus resoluciones no procederá juicio ni recurso alguno.
 
-Sin ajuste Con ajuste
+## TITULO SEGUNDO. INTEGRACION Y FUNCIONAMIENTO
 
-I.- Por cada estación terminal de cada enlace
-
-multicanal o por cada punto extremo del
-
-mismo o antena y por cada repetidor $7,081.12 $7,081
-
-II.- En cada canal de radiofrecuencia por
-
-cada grupo de 120 canales telefónicos o
-
-fracción y hasta 960 canales telefónicos
-
-o de capacidad equivalente para cualquier
-
-otro tipo de señales de telecomunicaciones $7,081.12 $7,081
-
-III.- En cada canal de radiofrecuencia para
-
-capacidades adicionales a 960 canales
-
-telefónicos o de capacidad equivalente para
-
-cualquier otro tipo de señales de
-
-telecomunicaciones $7,081.12 $7,081
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-La cuota total por cada enlace será el resultado de aplicar en forma acumulada las cuotas correspondientes a las fracciones I, II y III.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 245-A.
 
@@ -16671,45 +13541,159 @@ II.- Por cada canal telefónico $14,837.33 $14,837
 
 ###### ARTICULO 246.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+1.- El Tribunal Estatal Electoral residirá en la capital del Estado y se integrará con tres magistrados numerarios y tres supernumerarios electos por la Cámara de Diputados a propuesta del Poder Judicial del Estado de entre los miembros de la judicatura estatal, en el mes de diciembre del año anterior a la elección. Para tal efecto el Pleno del Tribunal Superior de Justicia propondrá una lista que deberá incluir, por lo menos, dos candidatos para cada una de las vacantes a cubrir. Los candidatos propuestos para ocupar las vacantes de magistrados numerarios deberán desempeñar el cargo de magistrado del Tribunal Superior de Justicia del Estado. Los candidatos a magistrados supernumerarios deberán desempeñar el cargo de juez de primera instancia del Estado. Los magistrados supernumerarios suplirán en sus faltas temporales o definitivas, a los numerarios.
+
+2.- Las propuestas serán presentadas a la Cámara Local y serán turnadas a la Comisión respectiva, la que en un término de 5 días presentará el dictamen en el que funde y proponga la designación de los integrantes del Tribunal Electoral. El dictamen se presentará en sesión plenaria en los términos de la Ley Orgánica del Congreso y su Reglamento. En caso de ser aprobado se turnará al Ejecutivo para su publicación en el Periódico oficial del Estado, señalando la fecha y hora para que los designados comparezcan ante la Cámara Local, a rendir protesta, la que en sus recesos será convocada por la diputación permanente a sesión extraordinaria para cumplir con lo dispuesto en este artículo.
+
+3.- En caso de que el dictamen de la comisión respectiva no sea aprobado o que la lista de candidatos enviada por el pleno del Tribunal Superior se agote sin que el Congreso haya designado el número de Magistrados requeridos, el Tribunal Superior deberá enviar otra lista hasta que se alcance el número necesario para cubrir las vacantes. Si los Diputados del Congreso volviesen a votar sin que se completare el número requerido de Magistrados, se procederá a insacular, de entre los candidatos propuestos a aquellos que falten por designar.
+
+4.- Los magistrados del Tribunal Estatal Electoral, serán electos para cada proceso electoral pudiendo ser reelectos. El ejercicio de esta función se limitará a la duración del proceso electoral y conservarán la remuneración y los derechos como miembros del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 247.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+El Tribunal Estatal Electoral tendrá las siguientes atribuciones:
+
+a).- Resolver en forma definitiva e inatacable en los términos del libro séptimo de este Código:
+
+I.- Los recursos que se presenten durante el proceso electoral en contra de los actos y resoluciones que dicten los órganos electorales;
+
+II.- Los recursos que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios, contra actos y resoluciones de los órganos electorales;
+
+b).- Elegir de entre sus Magistrados al Presidente del Tribunal;
+
+c).- Designar o remover, a propuesta del Presidente, al Secretario General, a los jueces, actuarios y demás personal administrativo;
+
+d).- Aprobar y en su caso modificar el Reglamento Interno del Tribunal;
+
+e).- Aprobar el presupuesto del Tribunal;
+
+f).- Determinar y aplicar las sanciones previstas en este Código;
+
+g).- Las demás que le asigne este Código.
+
+El Tribunal Estatal Electoral estará presidido por el magistrado que designe el pleno para cada elección.
+
+El Tribunal funcionará siempre en pleno y sus resoluciones se tomarán por mayoría de votos.
+
+Las sesiones del Tribunal serán públicas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 248.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los Magistrados del Tribunal Estatal Electoral tendrán las siguientes atribuciones:
+
+a).- Asistir, participar y votar, cuando corresponda, en las sesiones a las que sean convocados por el Presidente del Tribunal;
+
+b).- Resolver en forma colegiada los asuntos de su competencia;
+
+c).- Formular los proyectos de resolución de los expedientes que le sean turnados para tal efecto;
+
+d).- Exponer en sesión publica, personalmente sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funde;
+
+e).- Discutir y votar los proyectos de resolución que sean sometidos a su consideración;
+
+f).- Formular voto particular razonado en caso de disentir de un proyecto de resolución y solicitar que se agregue al expediente;
+
+g).- Solicitar al pleno que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
+
+h).- Realizar los engroses de los fallos aprobados, cuando sean designados para tal efecto; e
+
+i).- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 249.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los magistrados durante el tiempo de su nombramiento no podrán desempeñar otro empleo o encargo de la Federación, de los Estados o de los municipios o de los particulares, salvo aquellos cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia cuando sean compatibles con el ejercicio de la magistratura.
 
 ###### ARTICULO 250.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+El Tribunal Electoral se instalará e iniciará sus funciones, a más tardar la primera semana de enero del año de las elecciones ordinarias.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 251.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+1.- El presidente del Tribunal Estatal Electoral propondrá al Pleno del mismo los nombramientos de jueces, secretarios, actuarios y personal auxiliar que considere necesarios para la tramitación, integración y substanciación de los expedientes relativos a los medios de impugnación que deba resolver dicho órgano jurisdiccional.
+
+2.- El Tribunal contará, además, con un Secretario general nombrado también por el Pleno, a propuesta de su presidente. El Secretario General del Tribunal tendrá las siguientes atribuciones:
+
+a).- Atender la administración de los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal;
+
+b).- Dar cuenta, tomar las votaciones y redactar el acta respectiva;
+
+c).- Dictar, previo acuerdo con el Presidente, los lineamientos generales para la identificación e integración de los expedientes;
+
+d).- Autorizar, con su firma, los acuerdos del Tribunal, así como expedir las certificaciones que se requieran de las constancias existentes en el mismo. Para tal efecto, el Secretario gozará de fe pública;
+
+e).- Supervisar el debido funcionamiento de los archivos jurisdiccionales del pleno;
+
+f).- Comunicar a los organismos electorales la (sic) resoluciones que pronuncie sobre la expedición de constancias de mayoría;
+
+g).- Cumplir las tareas que le encomienden el pleno y el Presidente del Tribunal;
+
+h).- Las demás que el (sic) otorgue este Código.
+
+Los actuarios serán los encargados de notificar las resoluciones que dicte el Tribunal.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 252.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los jueces y secretarios del Tribunal deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I.- Ser mexicano en pleno goce de sus derechos;
+
+II.- Ser mayor de veinticinco años de edad;
+
+III.- Ser Licenciado en derecho con título oficialmente expedido;
+
+IV.- Aprobar un examen de oposición teórico y práctico en sesión pública, ante un jurado compuesto por Magistrados del Tribunal Estatal Electoral.
+
+V.- Ser de honradez y probidad notorias.
+
+2.- Los Jueces del Tribunal tendrán las siguientes atribuciones:
+
+a).- Admitir los recursos de apelación e inconformidad, así como los escritos de quienes figuren como actores en el juicio;
+
+b).- Proponer al pleno el desechamiento de los recursos de apelación e inconformidad que sean improcedentes;
+
+c).- Integrar los expedientes de los recursos que sean interpuestos ante el Tribunal; y de desempeñar las demás tareas que les encomiende el Presidente del Tribunal.
 
 ###### ARTICULO 253.
 
-En el uso del espectro radioeléctrico, se observarán las siguientes reglas:
+Son facultades del Presidente del Tribunal Electoral:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-I.- Cuando la Secretaría de Comunicaciones y Transportes o los usuarios consideren necesario o conveniente compartir las frecuencias o canales radioeléctricos de radiocomunicación en la misma área de cobertura y en el mismo horario de operación, a cada permisionario se le aplicará el total del monto del derecho que le correspondería si usara la frecuencia en forma exclusiva.
+a).- Convocar a los miembros del Tribunal para la instalación e inicio de sus funciones y cuando fuere necesario, en los términos de este Código.
 
-II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
+b).- Presidir las sesiones del pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas;
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Proponer al Pleno del Tribunal los nombramientos del secretario general, jueces, secretarios, actuarios y del personal administrativo necesario para el buen funcionamiento del Tribunal;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+d).- Representar al Tribunal ante toda clase de autoridades y otorgar poderes para pleitos y cobranzas;
+
+e).- Despachar la correspondencia del Tribunal;
+
+f).- Comunicar a los organismos electorales las resoluciones que pronuncie sobre la expedición de constancias de mayoría;
+
+g).- Notificar a los organismos electorales y al Registro Federal de Electores, para su cumplimiento, las resoluciones que dicte el Tribunal; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+h).- Elaborar y enviar el proyecto de presupuesto del tribunal al titular del poder ejecutivo por conducto del funcionario que éste designe.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+i).- Rendir ante el pleno un informe al término de cada proceso electoral dando cuenta de la administración del tribunal de los principales criterios adoptados en su resolución y ordenar su publicación.
 
 ###### ARTICULO 253-A.
 
@@ -16721,11 +13705,15 @@ El 3.5 por ciento de los ingresos que se obtengan por la recaudación de los der
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-### CAPITULO XII
+### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS PARA LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 254.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+1.- El Tribunal funcionará siempre en pleno.
+
+2.- Las resoluciones se tomarán por mayoría de votos de los magistrados.
+
+3.- Las sesiones del Tribunal serán públicas.
 
 ###### ARTICULO 254 Bis.
 
@@ -16741,15 +13729,93 @@ El 3.5 por ciento de los ingresos que se obtengan por la recaudación de los der
 
 ###### ARTICULO 255.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+1.- Los magistrados supernumerarios suplirán en sus faltas temporales o definitivas a los numerarios y cuando sea necesario se ocuparán de supervisar y dirigir los trámites de los recursos planteados.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+# LIBRO SEPTIMO. DE LAS NULIDADES, DE LOS MEDIOS DE IMPUGNACION Y DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+## TITULO PRIMERO. DE LAS NULIDADES
 
 ###### ARTICULO 256.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+1.- Las nulidades establecidas en éste Código, podrán afectar la votación emitida en una casilla y en consecuencia, los resultados del cómputo de la elección impugnada o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa o la elección para ayuntamientos o gobernador, así como la elección en la circunscripción plurinominal.
+
+2.- Los efectos de las nulidades decretadas por el Tribunal Estatal Electoral, respecto a la votación emitida en una casilla o de una elección en un distrito electoral uninominal o de la circunscripción plurinominal, modifican exclusivamente la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+
+3.- La votación recibida en una casilla será nula cuando se acrediten las siguientes causales:
+
+a).- Cuando, sin causa justificada, la casilla se hubiere instalado en un lugar distinto al señalado por el Comité Distrital Electoral o Municipal correspondiente;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+b).- Cuando se ejerza violencia física sobre los funcionarios de la mesa directiva de casilla o sobre los electores, de tal manera que afecte la libertad o el secreto del voto, y esos hechos influyan en el resultado de las votaciones de casilla;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- Por haber mediado error grave o dolo manifiesto en el cómputo de votos, beneficie a uno de los candidatos o fórmulas de candidatos y sea determinante para el resultado de la votación;
+
+d).- Cuando sin causa justificada el paquete electoral sea entregado al Comité Municipal o Distrital fuera de los plazos que éste Código señala;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- Cuando sin causa justificada se realice el cómputo y escrutinio en local diferente al que determinen los organismos electorales competentes o en local que no reúna las condiciones señaladas por este Código;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- Cuando se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas que no aparecieron en la lista nominal de electores, salvo los casos de excepción que señala este código, y siempre que ello sea determinante para el resultado de la votación;
+
+g).- Recibir la votación con fecha distinta a la señalada por (sic) la celebración de la elección;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+h).- Cuando la recepción de la votación fuera hecha por personas u organismos distintos a los facultados por este código; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+i).- Cuando se impida el acceso a las casillas a los representantes de los partidos políticos o se les expulse sin causa justificada.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 257.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+Una elección será nula:
+
+I.- Cuando alguno o algunos de los motivos de nulidad a que se refiere el artículo anterior se declaren existentes, en los siguientes términos:
+
+a).- Tratándose de la elección de diputados concurran en un 20% de las casillas electorales de un distrito electoral.
+
+b).- Tratándose de la elección de concejales se afecten las casillas en los porcentajes y bases siguientes:
+
+1.- El 50% en aquellos que tengan hasta 5 secciones,
+
+2.- El 40% en aquellos que tengan hasta 10 secciones,
+
+3.- El 30% en aquellos que tengan hasta 30 secciones,
+
+4.- El 20% en aquellos que tengan más de 30 secciones,
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Esto siempre y cuando los motivos de nulidad sean determinantes para el resultado de la elección.
+
+II.- Cuando exista violencia generalizada en un distrito electoral o municipio; y
+
+III.- Cuando se hayan cometido violaciones substanciales en la jornada de la elección y se demuestre que las mismas son determinantes en el resultado de la elección.
+
+Se entiende por violaciones substanciales:
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a).- La realización de los escrutinios y cómputos en lugar (sic) que no llenen las condiciones señaladas por este Código, o en lugar distinto al determinado previamente por el órgano electoral competente.
+
+b).- La recepción de la votación se realice con una fecha distinta a la fecha señalada para la celebración de la elección; y
+
+c).- La recepción de la votación se hiciera por persona u organismos distintos a los facultados por este código.
+
+IV.- Cuando no se instalen el 20 % de las casillas electorales y consecuentemente la votación no hubiere sido recibida; y
+
+V.- Cuando el candidato que haya obtenido constancia de mayoría en la elección respectiva, no reúna los requisitos de elegibilidad previstos en la Constitución particular y en este Código.
 
 ###### ARTICULO 257 Bis.
 
@@ -16777,7 +13843,15 @@ ARTICULO 257 Octavus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 ###### ARTICULO 258.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+1.- Solo podrá ser declarada nula la elección en un distrito electoral o municipio, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
+
+2.- Asimismo, ningún partido político podrá invocar como causa de nulidad hechos o circunstancias, que el propio partido dolosamente, haya provocado.
+
+## TITULO SEGUNDO. DE LA DECLARACION DE NULIDAD
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 258 Bis.
 
@@ -16795,7 +13869,9 @@ ARTICULO 258 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 ###### ARTICULO 259.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+Las elecciones cuyos cómputos, constancias de validez mayoría o de asignación no sean impugnadas en tiempo y forma se considerarán válidas, definitivas e inatacables.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 259 Bis.
 
@@ -16807,261 +13883,207 @@ ARTICULO 258 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 ###### ARTICULO 260.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+Tratándose de la inelegibilidad de candidatos a diputados o concejales de representación proporcional que deban atribuirse a un partido político tomará el lugar del declarado no elegible el que lo siga en la lista correspondiente al mismo partido.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO TERCERO. DE LOS MEDIOS DE IMPUGNACION
+
+### CAPITULO PRIMERO. LOS RECURSOS Y SU INTERPOSICION
 
 ###### ARTICULO 261.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+Los recursos son aquellos medios de impugnación con que cuentan las personas legitimadas por éste Código, tendientes a lograr la revocación o la modificación de las resoluciones dictadas por los organismos electorales en los términos del presente libro.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-### CAPITULO XIII. Minería
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+### CAPITULO CUARTO. DEL REGISTRO DE REPRESENTANTES
 
 ###### ARTICULO 262.
 
-Están obligadas a pagar los derechos sobre minería que establece este Capítulo todas las personas físicas o morales titulares de una concesión o que desarrollen trabajos relacionados con la exploración o explotación de sustancias o minerales sujetos a la aplicación de la Ley Minera.
+Para garantizar la legalidad de los actos, resoluciones y resultados electorales; los partidos políticos podrán interponer los siguientes recursos:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+a).- Recurso de revisión para objetar los actos o resoluciones de los Consejos distritales y municipales, que resolverá el Consejo del Instituto jerárquicamente superior al órgano que dictó el acto o la resolución recurrida.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+b).- Recurso de apelación, para impugnar las resoluciones recaídas a los recursos de revisión, o contra los actos y resoluciones de los órganos centrales del Instituto, que resolverá el Tribunal Estatal Electoral; y
+
+c).- Recurso de inconformidad, para objetar los resultados de los cómputos distritales o municipales, por nulidad de las votaciones emitidas en una o varias casillas o para solicitar la nulidad de las elecciones de gobernador, diputados o ayuntamientos, o nulidad de la votación en la circunscripción plurinominal, que resolverá el Tribunal Estatal Electoral en los términos de este código.
 
 ###### ARTICULO 263.
 
-Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, el derecho sobre minería, de acuerdo con las siguientes cuotas:
+1.- La interposición de los recursos de revisión, apelación e inconformidad corresponde a los partidos políticos a través de sus representantes legítimos.
 
-Cuota
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Sin ajuste Con ajuste
+2.- Se considerarán representantes legítimos de los partidos políticos:
 
-Concesiones y asignaciones mineras Cuota por hectárea
+a).- Los registrados formalmente ante los órganos electorales. En este caso, el escrito inicial deberá ir acompañado de una copia del documento en que conste el registro;
 
-I. Durante el primer y segundo año
+b).- Los miembros de los comités estatales, distritales o municipales correspondientes. En estos casos, a su primera promoción deberán acompañar documento en que conste su designación de conformidad con los estatutos respectivos;
 
-de vigencia $7.78
+c).- Aquellos que estén autorizados para representarlos mediante mandato otorgado en escritura pública por los funcionarios del partido facultados estatutariamente para ello.
 
-II. Durante el tercero y cuarto año
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-de vigencia $11.63
+3.- Los candidatos podrán participar como coadyuvantes del partido político al cual pertenezcan en los términos del artículo 276 de este código.
 
-III. Durante el quinto y sexto año
-
-de vigencia $24.05
-
-IV. Durante el séptimo y octavo
-
-año de vigencia $48.37
-
-V. Durante el noveno y décimo
-
-año de vigencia $96.73
-
-VI. A partir del décimo primer
-
-año de vigencia $170.23
-
-La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
-
-Para los efectos del cálculo del derecho a que se refiere este artículo, se entenderá que la vigencia de las concesiones y asignaciones mineras coincide con el año calendario. Para el caso de las nuevas concesiones mineras, el primer año de su vigencia será el periodo comprendido desde la fecha de inscripción en el Registro Público de Minería hasta el 31 de diciembre del año de que se trate. Tratándose de nuevas asignaciones mineras, el primer año de su vigencia será el periodo comprendido desde la fecha de su publicación en el Diario Oficial de la Federación hasta el 31 de diciembre del año de que se trate.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-En el caso de sustitución de concesiones o asignaciones por las causas previstas en la Ley Minera, la vigencia para efectos del pago del derecho sobre minería se computará para las concesiones a partir de la fecha de inscripción en el Registro Público de Minería de la concesión original que se sustituye y para las asignaciones, a partir de la fecha de su publicación en el Diario Oficial de la Federación.
-
-Los titulares de concesiones mineras que al amparo de dichas concesiones exploten sales y los subproductos que se obtengan de salinas formadas por aguas provenientes de mares actuales, superficiales o subterráneos, de modo natural o artificial, estarán a lo dispuesto en el Capítulo V denominado "Salinas", de este Título.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 264.
 
-El derecho sobre minería a que se refiere el artículo 263 de esta Ley, deberá pagarse semestralmente en los meses de enero y julio de cada año.
+1.- El escrito de protesta por los resultados contenidos en el acta de escrutinio es un medio para establecer la existencia de presuntas violaciones cometidas durante la jornada electoral y requisito de procedencia del recurso de inconformidad en los casos en que se impugnen los resultados consignados en el acta final de escrutinio y el cómputo de las mesas de casilla, por irregularidades durante la jornada electoral.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+2.- No se requerirá el escrito de protesta cuando se impugne la votación recibida en una casilla, a que se refiere el inciso d) del párrafo tercero del Artículo 218, o se haga valer la causal de nulidad contenida en el inciso d) del párrafo tercero del artículo 256 de este Código, o cuando se impugnen, por contener errores aritméticos, las actas de cómputo de las elecciones de Gobernador, de diputados de mayoría relativa o de cómputo de circunscripción plurinominal.
 
-Las concesiones y asignaciones mineras que se otorguen en el transcurso de un semestre pagarán la parte proporcional del derecho por el periodo que corresponda, tratándose de concesiones mineras desde la fecha de su inscripción en el Registro Público de Minería y, en el caso de asignaciones mineras desde la fecha de su publicación en el Diario Oficial de la Federación. Para tales efectos, los derechos se deberán pagar dentro de los treinta días naturales siguientes a esas fechas.
+3.- El escrito de protesta deberá contener:
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a).- El partido político que lo presenta;
+
+b).- La mesa directiva de casilla ante la que se presenta.
+
+c).- La elección que se protesta.
+
+d).- La causa por la que se presenta la protesta.
+
+e).- La narración sucinta de los hechos que se estimen violatorios de los preceptos legales que rigen el desarrollo de la jornada electoral.
+
+f).- El nombre, firma y cargo partidario de quien lo presenta; y
+
+g).- Cuando el escrito de protesta se presente ante el Consejo distrital o municipal correspondiente, se deberá identificar individualmente cada una de las casillas que se impugnan, debiendo observarse las reglas previstas en los incisos c) y d) de este párrafo.
+
+4.- El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo distrital o municipal correspondiente, antes de que dé inicio la sesión de cómputo final.
+
+5.- De la presentación del escrito de protesta deberán acusar recibo o sellar de recibida una copia del respectivo escrito, los funcionarios de la casilla o del Consejo distrital o municipal ante el que se presente.
 
 ###### ARTICULO 265.
 
-Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales causarán los derechos sobre minería a que se refiere el artículo 263 de esta Ley, a partir del segundo año de su vigencia.
+1.- Durante el proceso electoral todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, estos se considerarán de veinticuatro horas.
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+2.- Durante los dos años anteriores al del proceso electoral, son hábiles los días lunes a viernes de cada semana, con excepción de aquellos que sean de descanso obligatorio.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o la resolución correspondiente, salvo lo dispuesto en el artículo 271 de este código.
 
 ###### ARTICULO 266.
 
-La cancelación de una concesión o asignación minera por el incumplimiento en el pago de los derechos sobre minería establecidos en esta Ley o por cualquier otra de las causas previstas en la Ley Minera, no libera a su titular del pago de los derechos sobre minería que haya causado durante su vigencia, así como de los demás accesorios que se hubieren originado por el incumplimiento en el pago de éstos, de acuerdo con las disposiciones fiscales.
+En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnadas.
 
 ###### ARTICULO 267.
 
-(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+Los recursos de revisión y apelación deberán interponerse dentro de tres días contados a partir del día siguiente en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se impugne.
 
 ###### ARTICULO 268.
 
-Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 7.5% a la diferencia positiva que resulte de disminuir de los ingresos derivados de la enajenación o venta de la actividad extractiva, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+1.- El recurso de inconformidad deberá interponerse:
 
-Los ingresos a que se refiere el párrafo anterior, se determinarán considerando los ingresos acumulables que tenga el concesionario o asignatario minero conforme a la Ley del Impuesto sobre la Renta, con excepción de los establecidos en las fracciones IX, X y XI del artículo 18 de dicha ley, o las que las sustituyan.
+a).- Dentro de los tres días contados a partir del día siguiente en que concluya el cómputo municipal, para impugnar los resultados consignados en el acta respectiva por nulidad de la votación en una o varias casillas y para solicitar la nulidad de la elección a concejales municipales.
 
-Para la determinación de la base del derecho a que se refiere este artículo, los titulares de concesiones o asignaciones mineras podrán disminuir las deducciones autorizadas conforme a la Ley del Impuesto sobre la Renta, con excepción de las siguientes:
+b).- Dentro de los tres días contados a partir del día siguiente de que concluya el cómputo distrital correspondiente, para objetar los resultados contenidos en el acta respectiva por nulidad de la votación en casilla para la elección de diputados de mayoría relativa y de gobernador del estado o para solicitar la nulidad de la elección de diputado de mayoría relativa en un distrito electoral uninominal.
 
-a). Las establecidas en las fracciones IV, VII y VIII del artículo 25 de dicha ley, salvo las inversiones realizadas para la prospección y exploración minera o las que las sustituyan, y
+c).- Dentro de los tres días contados a partir del día siguiente de que concluya el cómputo de circunscripción plurinominal, para solicitar la nulidad de resultados consignados en el acta respectiva, por haber mediado dolo o error en el cómputo y esto sea determinante para el resultado de la elección de diputados por el principio de representación proporcional.
 
-b). Las contribuciones y aprovechamientos, pagados por dicha actividad.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Los contribuyentes podrán acreditar contra el derecho a que se refiere este artículo, los pagos definitivos efectuados en el ejercicio de que se trate del derecho sobre minería a que se refiere el artículo 263 de esta Ley.
+2.- En todos los casos se deberán identificar las impugnaciones que se formulen a los resultados consignados en las actas de cómputo distritales o municipales, así como individualmente, las votaciones de las casillas que se pretende sean anuladas de las elecciones a concejales, diputados de mayoría relativa o gobernador del Estado. Asimismo, deberá señalarse el error en el cómputo para la asignación de diputados de representación proporcional.
 
-El derecho a que se refiere el presente artículo, se calculará considerando la totalidad de las concesiones o asignaciones de las que sea titular.
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-El pago del derecho señalado en este artículo se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+### CAPITULO SEGUNDO. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 269.
 
-Los titulares de concesiones mineras que no lleven a cabo obras y trabajos de exploración o explotación debidamente comprobadas de acuerdo con la Ley Minera, durante dos años continuos dentro de los primeros once años de vigencia, contados a partir de la fecha de la expedición de su respectivo título de concesión minera, pagarán semestralmente el derecho adicional sobre minería conforme al 50% de la cuota señalada en la fracción VI del artículo 263 de esta Ley, por hectárea concesionada.
+1.- Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa de este Código.
 
-Para el caso de los titulares cuyas concesiones se encuentren en el doceavo año y posteriores de vigencia, que no realicen obras y trabajos de exploración y explotación durante dos años continuos, el pago del derecho será del 100% de la cuota señalada en la fracción VI del artículo 263 antes citado, por hectárea concesionada.
+2.- Los estrados son los lugares destinados en las oficinas de los órganos del Instituto y del Tribunal, para que sean colocadas para su notificación copias del escrito de interposición del recurso y de los autos y resoluciones que le recaigan.
 
-El pago del derecho a que se refiere este artículo, se efectuará hasta en tanto no se acredite ante la autoridad minera la realización de obras y trabajos de exploración o explotación durante dos años continuos.
-
-Para los efectos del presente artículo, el pago del derecho adicional sobre minería, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
-
-El pago del derecho a que se refiere este artículo deberá efectuarse semestralmente en los meses de enero y julio del año que corresponda.
-
-Para el caso de que la determinación del cumplimiento del plazo de dos años a que se refieren los párrafos primero y segundo de este artículo, se efectúe en el transcurso de un semestre, los concesionarios deberán pagar la parte proporcional del derecho por el periodo que corresponda, a partir del mes en que se cumplió el plazo de los dos años y hasta el último mes del semestre de que se trate, para tales efectos, el derecho se deberá pagar dentro de los treinta días naturales siguientes a esa fecha.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 270.
 
-Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 0.5% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+1.- Las notificaciones personales se harán al interesado a más tardar al día siguiente de que se dictó el acto o la resolución. Se entenderán personales sólo aquellas notificaciones que con tal carácter establezca el presente código.
 
-El derecho a que se refiere el presente artículo, se calculará considerando los ingresos totales del concesionario o asignatario minero por la enajenación o venta del oro, plata y platino, independientemente del número de concesiones o asignaciones de las que sea titular.
-
-Los contribuyentes deberán llevar contabilidad por separado en donde se identifiquen los ingresos derivados de la enajenación del oro, plata y platino.
-
-El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
-
-El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+2.- Las cédulas de notificación personal deberán contener el lugar, hora y fecha en que se hace, la descripción del acto o resolución que se notifica y nombre de la persona con quien se entiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula.
 
 ###### ARTICULO 271.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley podrán ser empleados en acciones para mejorar las condiciones de los centros educativos y de los servicios de salud, así como en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
+El partido político cuyo representante haya estado presente en la sesión del órgano del Instituto que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-I. La construcción, remodelación y equipamiento de espacios públicos urbanos;
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-II. Obras de pavimentación y mantenimiento de calles y caminos locales, de instalación y mantenimiento de alumbrado público, respetuosas con el ambiente, así como de servicios públicos basados en la eficiencia energética y las energías renovables;
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-III. Obras de infraestructura para la protección ambiental, como rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo integral de residuos sólidos urbanos, mejora y monitoreo de calidad del aire, agua y suelo, así como para el suministro de agua potable;
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-IV. Obras que preserven áreas naturales, como por ejemplo protección, restauración, rescate o rehabilitación de ecosistemas acuáticos y terrestres, y para la conservación y aprovechamiento sustentable de la vida silvestre, y
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes suburbanos, metrocable de transporte o equivalentes, o cualquier otro sistema de transporte público respetuoso con el ambiente y de bajas emisiones de carbono.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 272.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:
+
+a).- A los partidos políticos que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado en la ciudad de Oaxaca o por estrados.
+
+b).- Al órgano del Instituto cuyo acto o resolución fue impugnado, se les hará por correo certificado o personalmente. Con la notificación se anexará copia de la nueva resolución; y
+
+c).- A los terceros interesados, por correo certificado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 273.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+1.- Las resoluciones del Tribunal Estatal Electoral, recaídas a los recursos de apelación, serán notificadas a los órganos del Instituto correspondientes, así como a quien los haya interpuesto y a los terceros interesados, por correo certificado o por telegrama o personalmente a más tardar al día siguiente de que se pronuncien.
+
+2.- A los órganos del Instituto cuyo acto o resolución fue impugnado, junto con la notificación les será enviada copia de la resolución.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 274.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Las resoluciones del Tribunal Estatal Electoral recaídas a los recursos de inconformidad serán notificadas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+a).- Al partido político que interpuso el recurso y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio en la Ciudad de Oaxaca. En caso contrario, se hará mediante cédula colocada en los estrados del Tribunal, a más tardar al día siguiente de que se dictó la resolución. La cédula se acompañará de copia simple de esta última; y
+
+b).- Al Consejo General del Instituto y a los Consejos distritales y municipales, la notificación se hará mediante oficio, acompañado de copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las cuarenta y ocho horas siguientes a la fecha de la resolución, en sus respectivos domicilios.
+
+c).- En su caso, a la Cámara de Diputados erigida en Colegio Electoral para la calificación de la elección de Gobernador o concejales.
 
 ###### ARTICULO 275.
 
-Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
+No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial o los diarios o periódicos de circulación estatal o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal, o en los lugares públicos, en los términos de este código.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+### CAPITULO TERCERO. DE LAS PARTES
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 85% a la Secretaría de Educación Pública, la cual en un 80% de la recaudación total de los derechos citados se deberá aplicar en términos de lo dispuesto por el artículo 271 de esta Ley y el 5% restante para desempeñar las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-### CAPITULO XIV. Derecho por Uso o Aprovechamiento de Bienes del Dominio Publico de la Nación como Cuerpos receptores de las descargas de Aguas Residuales
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. DE LA DOCUMENTACION ELECTORAL
 
 ###### ARTICULO 276.
 
-Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
+Serán partes en el procedimiento para tramitar un recurso:
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+a).- El actor, que será quien estando legitimado en los términos del presente código lo interponga;
 
-El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
+b).- La autoridad, que será el órgano del Instituto que realice el acto o dicte la resolución que se impugna; y
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+c).- El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
+
+2.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, conforme a las reglas siguientes:
+
+a).- Podrán presentar escritos en los que manifiesten lo que a su derecho convenga, pero no se tomarán en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el recurso o en el escrito que, como tercero interesado, haya presentado su partido;
+
+b).- Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los recursos, o, en su caso, para la presentación de los escritos de los terceros interesados;
+
+c).- Los escritos deberán ir acompañados del documento en el que conste el registro como candidato del partido político respectivo;
+
+d).- Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en este Código, siempre y cuando tengan relación con los hechos controvertidos y con el objeto del recurso interpuesto o del escrito presentado por su partido político; y
+
+e).- Los escritos deberán estar firmados autógrafamente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+### CAPITULO CUARTO. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 277.
 
-Para los efectos del presente Capítulo se consideran:
+El órgano del Instituto que corresponda y el Tribunal Estatal Electoral podrán desechar de plano aquellos recursos que consideren evidentemente frívolos o notoriamente improcedentes.
 
-I. Acuífero: Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre si, por las que circulan o se almacenan aguas del subsuelo que puedan ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo.
-
-II. Aguas residuales: Las aguas de composición variada provenientes de las descargas municipales y no municipales, tales como las industriales, comerciales, de servicios, agrícolas, pecuarias, domésticas, incluyendo fraccionamientos y, en general, de cualquier otro uso, así como la mezcla de ellas. Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
-
-III. Aguas Costeras: Las aguas de los mares territoriales en la extensión y términos que fija el derecho internacional; así como las aguas marinas interiores, las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar.
-
-IV. Carga de Contaminante: La cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
-
-V. Cuerpo Receptor: Las corrientes, depósitos naturales de agua, ríos, aguas costeras, suelo, estuarios, humedales naturales, embalses, cauces o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo, subsuelo o los acuíferos.
-
-VI. Demanda Química de Oxígeno: La medida del oxígeno consumido por la oxidación de la materia orgánica e inorgánica en una prueba específica.
-
-VII. Descarga: La acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
-
-VIII. Embalse Artificial: El vaso de formación artificial que se origina por la construcción de un bordo o cortina y que es alimentado por uno o varios ríos o agua subterránea o pluvial.
-
-IX. Embalse Natural: El vaso de formación natural que es alimentado por uno o varios ríos o agua subterránea o pluvial.
-
-X. Estuario: El tramo del curso de agua, bajo la influencia de las mareas, que se extiende desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es de 250 miligramos por litro.
-
-XI. Humedales Naturales: Las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénegas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas donde el suelo es predominantemente hídrico, y las áreas lacustres o de suelos permanentemente húmedos, originados por la descarga natural de acuíferos.
-
-XII. Límite Máximo Permisible: El valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales.
-
-XIII. Población: El número de habitantes indicado en el Censo General de Población y Vivienda más reciente.
-
-XIV. Río: La corriente de agua natural, perenne o intermitente, que desemboca a otras corrientes o a un embalse natural o artificial, o al mar.
-
-XV. Sólidos Suspendidos Totales: La concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente.
-
-XVI. Suelo: El material no consolidado compuesto por partículas inorgánicas, materia orgánica, agua, aire y organismos, que comprende desde la capa superior terrestre hasta diferentes niveles de profundidad.
-
-XVII. Uso Consuntivo: El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
-
-XVIII. Uso Doméstico: La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, cuyo servicio se preste en términos del inciso a), de la fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 277-A.
 
@@ -17111,197 +14133,41 @@ El monto del derecho a pagar será enterado por el contribuyente en los término
 
 ###### ARTICULO 278.
 
-Los contribuyentes a que se refieren las fracciones I y III del artículo 277-B de esta Ley, podrán acreditar contra el derecho del trimestre a su cargo la cantidad que resulte de aplicar el siguiente procedimiento:
+1.- Los recursos se entenderán como notoriamente improcedentes y por tanto serán desechados de plano cuando:
 
-I. Se deberán obtener las concentraciones de contaminantes de la descarga del contribuyente de sólidos suspendidos totales y demanda química de oxígeno, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
+a).- No se interpongan por escrito ante el órgano competente para resolverlos;
 
-II. A la concentración del contaminante, característica correspondiente a la actividad que generó la descarga del contribuyente prevista en la tabla siguiente, se le disminuirá la concentración del contaminante obtenida del análisis a que se refiere la fracción anterior.
+b).- No estén firmados autógrafamente por quien los promueva;
 
-(VÉASE ARCHIVO ANEXO)
+c).- Sean promovidos por quien no tenga legitimación o interés legítimo en los términos de este Código;
 
-Los contribuyentes que opten por aplicar lo dispuesto en este artículo, deberán considerar las concentraciones de contaminantes señalados en la tabla anterior, que correspondan al mismo grupo respecto del cual aplicaron la cuota prevista en el artículo 277-B de esta Ley.
+d).- Sean presentados fuera de los plazos que señala este Código;
 
-III. Al resultado obtenido de la fracción anterior, se le aplicará el factor de acreditamiento que corresponda al tipo del cuerpo receptor donde se efectuó la descarga y al contaminante respectivo conforme a la siguiente tabla:
+e).- No se ofrezcan las pruebas correspondientes o no se aporten en los plazos señalados por este código, salvo que por razones justificadas no obren en poder del promovente. No se requerirá de pruebas cuando el recurso verse en forma exclusiva sobre puntos de derecho;
 
-(VÉASE ARCHIVO ANEXO)
+f).- No se señalen agravios o los que se expongan, manifiestamente no tengan una relación directa con el acto, resolución o resultado de la elección que se pretende combatir;
 
-El factor de acreditamiento, se actualizará en los términos del artículo 1o. de esta Ley.
+g).- No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala este código para el recurso de inconformidad; y
 
-IV. El resultado obtenido de la operación señalada en la fracción anterior se multiplicará por el volumen descargado en el trimestre.
+h).- Se impugne más de una elección con un mismo recurso.
 
-V. La cantidad resultante conforme a la fracción anterior se sumará con el monto obtenido al aplicar el procedimiento previsto en este artículo para el otro contaminante, obteniendo así la cantidad a acreditar contra el derecho del trimestre a cargo del contribuyente que se determine conforme a las fracciones I y III del artículo 277-B de esta Ley, según corresponda.
+2.- (DEROGADO, P.O. 24 DE MAYO DE 1995)
 
-El monto a acreditar se aplicará únicamente contra el derecho a cargo que corresponda al mismo punto de descarga que originó dicho beneficio.
-
-VI. La cantidad que resulte después de aplicar el acreditamiento será el derecho a pagar.
-
-El contribuyente que opte por aplicar el acreditamiento previsto en este artículo, deberá acompañar a la declaración del trimestre que corresponda el reporte emitido por el laboratorio referido en el artículo 278-B de esta Ley.
-
-El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 278-A.
 
-Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se clasifican como sigue:
+Procede el sobreseimiento de los recursos:
 
-> <small>[N. DE E. DE CONFORMIDAD CON LA REFORMA AL ARTICULO, LOS ANTERIORES SEGUNDO Y TERCER PARRAFOS QUEDARON COMPRENDIDOS EN EL PRESENTE APARTADO.]</small>
+a).- Cuando el promovente se desista expresamente;
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+b).- Cuando durante el procedimiento de un recurso de apelación el ciudadano recurrente fallezca o sea suspendido o privado del goce de sus derechos políticos;
 
-CUERPOS RECEPTORES TIPO "A":
+c).- Cuando la autoridad electoral modifique o revoque el acto o resolución impugnados, de tal manera que quede sin materia el recurso; y
 
-Todos los que no se señalan como tipos B o C; así como los suelos y terrenos referidos en el artículo 276 de esta Ley.
+d).- Cuando durante el procedimiento sobrevenga algunas de las causas de improcedencia previstas en el párrafo primero del artículo anterior.
 
-Tratándose de las descargas efectuadas desde plataformas marinas o fuentes móviles se aplicarán las cuotas establecidas para los cuerpos receptores tipo A.
-
-CUERPOS RECEPTORES TIPO "B":
-
-Aguascalientes: Río San Pedro en los municipios de Aguascalientes, Rincón de Romos, Jesús María, San Francisco de los Romo, Pabellón de Arteaga, Tepezala y Cosio; Ríos Malpaso, Manzano, La Labor y Calvillo, Arroyos Rincón Verde, Ojocaliente y Cebolletas en el municipio de Calvillo; Río Blanco y Río Prieto en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Arroyos, El Saucillo, El Túnel y Las Burras en el municipio de Rincón de Romos; Río Santiago y Arroyo Ojo Zarco en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, San Nicolás, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), y La Chavena en el municipio de Aguascalientes; Arroyos La Concepción y San José de Guadalupe en el municipio de Jesús María; Arroyo Piedras Negras en el municipio de Asientos; Río Chicalote en los municipios de Asientos, San Francisco de los Romo y Jesús María; Arroyo San Francisco en los municipios de Aguascalientes y El Llano; Río Gil en los municipios de Jesús María y Calvillo.
-
-Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánimas, El Gallo, Cuatro Milpas, El Sauzal, El Carmen, San Vicente, Salado, San Rafael, San Telmo, Santo Domingo, Las Escopetas, Aguachiquita, Nueva York, San Simón, El Socorro, El Rosario, La Misión y Las Amarillas en el municipio de Ensenada; Arroyos Las Palmas, San Pablo, San José y Cañada Joe Bill y Río Tecate en el municipio de Tecate; Arroyos Las Palmas, Sainz, La Meza, México Lindo, Sánchez Taboada, Lázaro Cárdenas, Camino Verde, Agua Caliente, Matanuco, El Florido, Cerro Colorado, Presidentes, Gato Bronco, Sistema Álamo, Alamar, La Pechuga, Aviación o Pesteje, Aguaje de la Tuna, Cañón del Sol, Matadero, E. Zapata, Sistema Centro, Los Laureles, San Antonio de los Buenos, Río Tijuana en el municipio de Tijuana; Ríos Nuevo, Colorado y Hardy y Arroyo Las Amarillas en el municipio de Mexicali; Arroyos Guaguatay y El Descanso en el municipio de Playas de Rosarito; Bahías San Francisquito o Luis Gonzaga, De Los Ángeles, Camalú, Todos Santos, San Quintín y San Felipe Punta Estrella en el municipio de Ensenada; Costa de Tijuana en el municipio de Tijuana; Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali; Costa de Rosarito en el municipio de Playas de Rosarito.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en El municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de Los Cabos; Arroyos San José de Magdalena, Santa Águeda, Las Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
-
-Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Ciudad de México: Río Magdalena, Río de los Remedios, Río Churubusco, Río San Buenaventura, Río San Joaquín, Río de la Compañía, Interceptor Poniente, Interceptor Oriente, Interceptor Oriente-Oriente, Interceptor Central, Interceptor Centro Poniente, Interceptor Oriente Sur, Canal General, Canal Nacional, Semiprofundo Canal Nacional, Gran Canal del Desagüe, Canal de Chalco, Ciénega Chica de Xochimilco, Túnel Emisor Central, Túnel Emisor del Poniente y Túnel Emisor Oriente, todos en la Ciudad de México.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza, Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza, Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Río Nazas en los municipios de Torreón, Francisco I. Madero y San Pedro de las Colonias; Río Aguanaval en los municipios de Torreón, Matamoros y Viesca; Tanques Genty y Aguilereño en el municipio de Viesca.
-
-Colima: Arroyos San José y Punta de Agua en el municipio de Manzanillo, Arroyo Zacualpan en el municipio de Comala; Río Colima en los municipios de Cuauhtémoc y Villa de Álvarez.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Chiapas: Río Grijalva y sus afluentes en los municipios de Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango, Acala, Totolapa, Chiapilla, Tuxtla Gutiérrez, San Fernando, Chicoasén, Osumacinta, Copainalá, Ocozocoautla de Espinoza y Tecpatán; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Río Sabinal y sus afluentes en el municipio de Tuxtla Gutiérrez; Río Frío en los municipios de San Cristobal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domingo en los municipios de Villacorzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acalá; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo; Mar Muerto en los municipios de Arriaga y Tonalá.
-
-Chihuahua: Río Conchos en los municipios de Carichi, Nonoava y Bocoyna; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papigochi en el municipio de Temosachi; Río San Pedro en el municipio de Cusihuiriachi; Río Mayo en los municipios de Chinipas y Moris; Río Chinipas en los municipios de Chinipas, Guazapares y Uruachi; Río Urique en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en los municipios de Guadalupe y Calvo; Río Septentrión en los municipios de Temoris y Urique; Río Moris en los municipios de Ocampo y Moris; Río Candameño en el municipio de Ocampo; Ríos Balleza, Porvenir y Agujas en el municipio de Balleza; Río Nonoava en el municipio de Nonoava; Río Los Loera en los municipios de Guadalupe y Calvo; Río Oteros en el municipio de Bocoyna; Río Batopilas en los municipios de Batopilas y Guachochi; Río Verde en los municipios de Guerrero y Temosachi; Ríos Aros y Tutuaca en los municipios de Temosachi y Madera.
-
-> <small>(DEROGADO [N. DE E. DISTRITO FEDERAL], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Durango: Río Sauceda en los municipios de Durango y Canatlán; Río Nazas en los municipios de Cuencamé, Indé, El Oro, Rodeo, Nazas, Lerdo y Gómez Palacio; Río Santiago en los municipios de Durango, Canatlán y Santiago Papasquiaro; Río Tepehuanes en los municipios de Tepehuanes y Santiago Papasquiaro; Río Ramos en los municipios de Santiago Papasquiaro, El Oro e Indé; Río Sextín (El Oro) en los municipios de Tepehuanes, Guanaceví, San Bernardo, El Oro e Indé; Río San Juan en los municipios de Pánuco de Coronado, San Juan del Río y Rodeo; Río del Peñón o Covadonga en los municipios de Peñón Blanco y Nazas; Arroyo Cuencamé en el municipio de Cuencamé; Río Tamazula en los municipios de Canelas, Tamazula y Topia; Río San Lorenzo en los municipios de Santiago Papasquiaro, Tamazula y Canelas; Río Piaxtla en los municipios de Durango y San Dimas; Río Presidio en los municipios de Durango, Pueblo Nuevo y San Dimas; Ríos El Tunal y Santiago Bayacora en los municipios de Durango y Mezquital; Río Durango en los municipios de Durango y Nombre de Dios; Río Acaponeta en los municipios de Durango y Pueblo Nuevo; Río Humaya en los municipios de Guanaceví, Tepehuanes, Tamazula, Canelas y Topia; Río Florido en los municipios de Hidalgo, Indé, Ocampo y San Bernardo; Arroyo Cerro Gordo en el municipio Hidalgo; Río Mezquital en los municipios de Mezquital y Nombre de Dios, Río Súchil en los municipios de Nombre de Dios, Vicente Guerrero y Súchil; Río Poanas en el municipio de Poanas; Río Baluarte en el municipio de Pueblo Nuevo; Río Verde en el municipio de San Dimas; Río Habitas en los municipios de San Dimas y Tamazula; Río Graseros en los municipios de Súchil, Vicente Guerrero y Nombre de Dios; Arroyos Seco y Acequia Grande en el municipio de Durango; Río Aguanaval en los municipios de Santa Clara, Cuencamé, Poanas, San Juan Guadalupe y Simón Bolívar; Río Los Remedios en los municipios de Otáez y Tamazula; Río San Juan de Camarones en los municipios de Santiago Papasquiaro y Canelas, Río San Gregorio en el municipio de Santiago Papasquiaro; Río El Presidio en el municipio de Otáez; Arroyo San Juan en el municipio de Durango; Arroyos Pánuco y Las Casas en el municipio de Pánuco de Coronado; Arroyo El Gato en el municipio de Nuevo Ideal; Arroyo Guanaceví en el municipio de Guanaceví; Arroyo San Bernardo en el municipio de San Bernardo; Arroyos Las Pilitas y La Unión en el municipio de Indé; Arroyo Coneto en el municipio de Coneto de Comonfort; Arroyos Santa María y La Parrita en el municipio de El Oro; Arroyo Cuevecillas en el municipio de Canelas; Arroyo San Ignacio en el municipio de Tamazula; Río Topia en los municipios de Canelas y Topia; Arroyo Prieto en los municipios de Canatlán y Nuevo Ideal; Río Santa Clara (Río Santiago) en el municipio de Santa Clara; Río La Villa (Nombre de Dios) y Arroyo La Ciénega en el municipio de Nombre de Dios; Arroyo El Álamo en el municipio de Peñón Blanco; Arroyos La Rosilla y Quebrada El Salto en el municipio de Pueblo Nuevo; Arroyo El Mimbre en el municipio de Canatlán.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Estado de México: Río Amanalco, Río Ameca, Río Avenidas de Pachuca, Río Churubusco, Río Coatepec, Río Cuautitlán, Río de la Compañía, Río de los Remedios, Río Hondo de Naucalpan, Río Hondo de Tepotzotlán, Río Salado, Río San Juan, Río San Rafael, Río San Juan Teotihuacán, Río Apatlaco, Río Tlalnepantla, Río Moritas, Río Apozonalco, Río el Oro, Río el Silencio, Río la Presa, Río la Salitrera, Río los Arcos, Río los Sabios, Río Aculco, Río Ajolotes, Río Chico de los Remedios, Río Chiquito, Río de la Mano, Río Hondo, Río Huepaya, Río Jalapango, Río Manzano, Río Miraflores, Río Ojo de Agua, Río Panoya, Río Papalotla, Río San Francisco, Río San Javier, Río San Luis, Río San Pedro, Río Totolica, Canal Colector, Canal Río Grande, Canal Nexquipayac, Canal Emisor Poniente, Gran Canal de Desagüe, Canal Papalotla, Canal las Sales, Canal Amecameca, Canal Cartagena, Canal Coxcacoac, Canal Grande, Canal la Palma, Canal Miraflores, Canal Río Chiquito, Canal Texcoco, Canal Tonanitla, Canal Xaltocan, Canal Río Cuautitlán, Canal Río de los Remedios, Dren Xochiaca, Dren Cartagena, Dren Chimalhuacán II, Dren General del Valle, Túnel Emisor Poniente, Túnel Emisor Poniente 1, Túnel Emisor Poniente 2, Túnel Emisor Oriente, Nuevo Túnel de Tequixquiac, Antiguo Túnel de Tequisquiac, Presa Guadalupe, Presa La Concepción, Tajo de Nochistongo, Vaso de Cristo, Lago de Guadalupe, Lago de Zumpango, Sistema Ramos Millán (Escurridero Deshielo del Volcán Popocatépetl), Sistema Morelos (escurridero deshielo del Volcán Popocatépetl), Barranca Francisco Villa, Arroyo San José, Arroyo Chopanac, Arroyo Tetzahua, Arroyo Ocosintla, Arroyo Panoaya, Arroyo los Reyes, Arroyo las Majadas, Arroyo Palmilla, Arroyo San Javier, Arroyo la Cañada, Arroyo Xinte, Arroyo Estete, Arroyo Conejos, Arroyo la Gloria, Arroyo San Pablo, Arroyo Agua Caliente, Arroyo Ahuayoto, Arroyo Alcaparrosa, Arroyo Atla, Arroyo Borracho, Arroyo Cajones, Arroyo Cerro Gordo, Arroyo Chiquito, Arroyo Coatlinchán, Arroyo Córdoba, Arroyo Cuautitlán, Arroyo Hueyatla, Arroyo Lanzarote, Arroyo Macho Rucio, Arroyo Majada Grande, Arroyo Mambrú, Arroyo Maxatla, Arroyo Miguaca, Arroyo Navarrete, Arroyo Palo Hueco, Arroyo Piedras Negras, Arroyo Puente el Muerto, Arroyo Puentecillas, Arroyo Río Hondo, Arroyo Salado de Hueypoxtla, Arroyo Santa Ana, Arroyo Santo Domingo, Arroyo Sila, Arroyo Sotula, Arroyo Tecuatítla, Arroyo Telolo, Arroyo Tlapacoya, Arroyo Totolingo, Arroyo Treviño, Arroyo Tulpias, Arroyo Xido, Arroyo Zarco, Arroyo el Cedral, Arroyo el Arcón, Arroyo el Capulín, Arroyo el Esclavo, Arroyo el Hongo, Arroyo el Manzano, Arroyo el Muerto, Arroyo el Órgano, Arroyo el Potrero, Arroyo el Puerto, Arroyo el Pulpito, Arroyo el Soldado, Arroyo el Sordo, Arroyo el Trigo, Arroyo las Ánimas, Arroyo la Cruz, Arroyo la Pila, Arroyo la Rosa, Arroyo la Zanja, Arroyo las Bateas, Arroyo las Jícaras, Arroyo las Palomas y Arroyo los Gavilanes, todos en el Estado de México.
-
-Guanajuato: Río Lerma en los municipios de Acámbaro, Salvatierra, Jaral del Progreso, Salamanca, Valle de Santiago, Pueblo Nuevo, Abasolo, Huanímaro y Pénjamo; Arroyos La Patiña, El Calvillo y Los Castillos en el municipio de León; Arroyos Santa Ana y Llano Largo en el municipio de Guanajuato.
-
-Guerrero: Río La Cofradía en el municipio de La Unión de Isidoro Montes de Oca; Río La Unión y sus afluentes directos: Ríos San Cristóbal y Las Juntas en los municipios de la Unión de lsidoro Montes de Oca y Coahuayutla de José María Izazaga; Río Pantla en el municipio de Teniente José Azueta; Río Ixtapa en los municipios de José Ma. lzazaga y La Unión; Río San Jeronimito en los municipios de Teniente José Azueta y Petatlán; Ríos Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan en el municipio de Tecpan de Galeana; Río Tecpan y su afluente directo el Río Chiquito en los municipios de Tecpan de Galeana y Atoyac de Álvarez; Río Atoyac en los municipios de Atoyac de Álvarez y Benito Juárez; Río Piloncillo afluente del Río Atoyac en el municipio de Atoyac de Álvarez; Río Coyuca y su afluente directo el Río La Hamaca o Aguas Blancas en el municipio de Coyuca de Benítez; Río la Sabana, Arroyos El Camarón, Aguas Blancas, Garita, Costa Azul, Deportivo e Icacos en el municipio de Acapulco de Juárez; Río Papagayo en los municipios de Acapulco de Juárez, San Marcos, Juan R. Escudero y Chilpancingo de los Bravo y sus afluentes: Río Omitlán en los municipios de Juan R. Escudero y Tecoanapa; Río San Miguel en el municipio de Chilpancingo de Los Bravo; Río La Unión en los municipios de Quechultenango, Tlacoapa, Tecoanapa y Acatepec; Río Azul en el municipio de Quechultenango; Río Huacapa en los municipios de Chilpancingo de Los Bravo, Quechultenango y Mochitlán; Ríos Cortés y La Estancia en el municipio de San Marcos; Río Nexpa los municipios de Cruz Grande y Ayutla de Los Libres y sus afluentes directos: Ríos Sauces, Tecoanapa y Tlatenango en los municipios de Tecoanapa y Ayutla de los Libres, Río Ayutla en los municipios de Tecoanapa, Acatepec y Ayutla de los Libres; Río Copala en los municipios de Copala y Cuautepec y sus afluentes directos: Río Cuautepec en el municipio de Cuautepec, Río Concordia en los municipios de Cuautepec, San Luis Acatlán y Ayutla de Los Libres, Río Yautepec en los municipios de Cuautepec y San Luis Acatlán; Río Marquelia en los municipios de Cuajinicuilapa, Azoyú y San Luis Acatlán y sus afluentes: Río Juchitán en el municipio de Azoyú y Río Chiquito en el municipio de San Luis Acatlán; Río Quetzala en los municipios de Cuajinicuilapa, Ometepec, lgualapa y Metlatonoc y sus afluentes directos: Río Cortijos en el municipio de Cuajinicuilapa, Río Santa Catarina en los municipios de Cuajinicuilapa, Ometepec, Xochistlahuaca y Tlacoachistlahuaca; Río Balsas en los municipios de Copalillo, Mártir de Cuilapa, Eduardo Neri, Cuetzalapa del Progreso, Tepecuacuilco, Apaxtla, San Miguel Totolapan, Arcelia, Tlapehuala, Pungarabato, Coyuca de Catalán, Zirándaro, Coahuayutla y La Unión de lsidoro Montes de Oca y sus afluentes directos: Río Tlapaneco en los municipios de Tlapa de Comonfort, Xalpatláhuac, Alpoyeca, Huamuxtitlán, Xochihuehuetlán, Olinalá y Copalillo, Río Mitlancingo en los municipios de Atlistac, Olinalá, Ahuacuotzingo y Copalillo, Río Amacuzac en los municipios de Atenango del Río y Copalillo, Río Tlapehualapa o Atzacualoya en los municipios de Zitlala y Copalillo, Río Apango en los municipios de Mártir de Cuilapa y Tixtla de Guerrero; Río Tepecuacuilco en los municipios de Tepecuacuilco de Trujano y Eduardo Neri; Río Cañón del Zopilote en el municipio de Eduardo Neri y su afluente directo el Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo, Río Cocula o Iguala en los municipios de Cocula, Eduardo Neri e Iguala de La Independencia, y sus afluentes directos Río Ahuehuepán en los municipios de Iguala de La Independencia y Teloloapan, Río los Sabinos en los municipios de Cocula, Teloloapan, Iguala de La Independencia e Ixcateopan de Cuauhtémoc; Río Cuetzala en el municipio de Cuetzala del Progreso; Río Coatepec en el municipio de Gral. Heliodoro Castillo; Río Oxtotitlán en los municipios de Teloloapan y Apaxtla; Río Ototlán o Truchas o Tetela en los municipios de Gral. Heliodoro Castillo y San Miguel Totolapan, y su afluente directo el Río Yextla en el municipio de Gral. Heliodoro Castillo; Río Pesoapa en los municipios de Teloloapan, Apaxtla y Arcelia; Río Poliutla o San Pedro o Palos Altos en los municipios de Tlapehuala, Tlalchapa, Arcelia y Gral. Canuto A. Neri, y sus afluentes el Río Santo Niño y Río Arcelia en el municipio de Arcelia; Río Tlalchapa en el municipio de Tlalchapa; Río Ajuchitlán en el municipio de Ajuchitlán del Progreso y sus afluentes: Río Minero en el municipio de San Miguel Totolapan y Río La Esperanza en el municipio de Ajuchitlán del Progreso; Río Amuco o Tamacua o El Coyol en los municipios de Ajuchitlán del Progreso y Coyuca de Catalán y sus afluentes directos: Río Cuirio o Hacienda de Dolores y Río Tarétaro o Las Trojas en el municipio de Coyuca de Catalán; Río Cutzamala en los municipios de Cutzamala de Pinzón y Pungarabato, y sus afluentes: Río Ixtapan y Palmar Grande en el municipio de Cutzamala de Pinzón; Río del Oro o Frío en los municipios de Coyuca de Catalán y Zirándaro, y sus afluentes directos: Río San José y Arroyo El Chivo en el municipio de Zirándaro; Ríos Santa Rita y San Antonio en el municipio de Cohuayutla; Bahías de Zihuatanejo e Ixtapa en el municipio de Teniente José Azueta; Bahía de Puerto Marqués y Bahía de Acapulco en el municipio de Acapulco de Juárez.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez, Hidalgo, Molango y Chapulhuacán; Canal Salto Tlamaco y Río El Salto en el municipio de Atotonilco de Tula.
-
-Jalisco: Río Ayuquila o Armería en los municipios de Tolimán, Tuxcacuesco y Zapotitlán; Río Manantlán o San José en el municipio de Autlán; Río Chico o Mezquitic o Bolaños en los municipios de Mezquitic, Villa Guerrero y Bolaños; Río Santiago en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey y Chapala; Canal de Atequiza en los municipios de Chapala, Iztlahuacán de los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río San Pedro o Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Villa Obregón, Valle de Guadalupe, Yahualica, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Arroyo Cuixtla en el municipio de San Martín de Bolaños y San Cristóbal de la Barranca; Río Lerma en los municipios de Degollado, Ayotlán, Jamay y La Barca; Ríos Tomatlán y María García en el municipio de Tomatlán; Arroyos Las Amapas y El Nogalito y Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Arroyo Chamela y Ríos Cuitzmala y Purificación en el municipio de La Huerta; Río Tecolote o Carmesí en el municipio de Casimiro Castillo; Río Zula o Los Sabinos en los municipios de Tototlán y Ocotlán; Arroyo San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle en el municipio del Valle de Guadalupe; Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de los Lagos en el municipio de San Juan de los Lagos.
-
-Michoacán: Ríos Chilchota y Duero en el municipio de Chilchota; Río Cupatitzio en los municipios de Uruapan y Gabriel Zamora; Río Zitácuaro aguas arriba de La Presa del Bosque en el municipio de Zitácuaro; Río Balsas en los municipios de Arteaga y Lázaro Cárdenas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Ríos Tirio y Tiripetío en el municipio de Morelia.
-
-Morelos: Río Tembembe en el municipio de Miacatlán (hasta la derivadora Perritos); Río Apatlaco en su parte alta en los municipios de Huitzilac, Cuernavaca y Temixco; Arroyos Chalchihuapan, Zompantle, Ahutlán, Atzingo, El Tecolote, El Mango y El Túnel en el municipio de Cuernavaca; Arroyo Chapultepec en los municipios de Cuernavaca y Temixco; Arroyos Los Arquillos, Pilcaya y El Limón en el municipio de Temixco.
-
-Nayarit: Río Acaponeta en los municipios de Huajicori, Acaponeta y Tecuala; Río San Pedro en los municipios de El Nayar, Huajicori, Ruiz, Rosamorada, Tuxpan y Santiago Ixcuintla; Río Santiago en los municipios de La Yesca, Ixtlán del Río, Jala, Santa María del Oro, El Nayar, Tepic, Santiago Ixcuintla y San Blas; Río Mololoa en los municipios de Santa María del Oro, Xalisco y Tepic; Río Cañas en los municipios de Huajicori y Acaponeta; Bahía de Matanchén en el municipio de San Blas; Ensenada del Toro en el municipio de Compostela.
-
-Nuevo León: Río San Juan en los municipios de Santiago, Cadereyta Jiménez, General Terán, China, General Bravo, Los Ramones, Doctor Coss, Los Aldamas; Río Pilón en los municipios de Galeana, Rayones, Montemorelos; Río Santa Catarina en los municipios de Santiago, Santa Catarina, San Pedro Garza García, Monterrey, Guadalupe, Juárez, Cadereyta Jiménez; Río La Silla en los municipios de Monterrey, Guadalupe; Ríos Blanquillo y Ramos, Arroyo Mireles en el municipio de Allende; Arroyo La Chueca en el municipio de Santiago; Arroyo Mohinos en el municipio de China; Río Pablillo en los municipios de Galeana, Iturbide y Linares; Río Camacho o Hualahuises en los municipios de Hualahuises y Linares; Canal Sotolar en el municipio de Linares; Ríos Salado y Bravo en el municipio de Anáhuac; Río Blanco en los municipios de General Zaragoza y Aramberri.
-
-Oaxaca: Río Manialtepec en los municipios de San Pedro Tututepec y Santo Reyes Nopala; Río Mixteco en el municipio de Huajuapan de León; Río Tehuantepec en los municipios de Santo Domingo Tehuantepec y San Blas Atempa; Acuífero Valles Centrales en la Región Valles Centrales del Estado; Bahías de Huatulco en el municipio de Santa María Huatulco; Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía La Ventosa en el municipio de Salina Cruz, Océano Pacífico en las costas de Puerto Escondido en el municipio de San Pedro Mixtepec.
-
-Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyuca; Río Acalmán en los municipios de Naupan, Tlacuilotepec, Tlaxco, Honey, Pahuatlan y Jalpan; Río San Marcos en los municipios de Naupan, Tlacuilotepec, Xicotepec, y Jalpan; Río Necaxa en los municipios de Nuevo Necaxa, Tlaola, Zihuateutla y Jopala, Río Amixtlán en los municipios de Zihuateutla, Xicotepec, Jalpan y Venustiano Carranza; Río Cozapa en los municipios de Tlaola, Tlapacoya y Jopala; Río Agrio en los municipios de Zacatlán y Chignahuapan; Río Ajajalpan en los municipios de Chignahuapan, Zacatlán, Tepetzintla, Ahuacatlán, Chiconcuautla, Tlapacoya, San Felipe Tepatlán, Hermenegildo Galeana y Jopala; Río Zempoala en los municipios de Tetela de Ocampo, San Esteban Cuautempan, Huitzilán, Zapotitlán de Méndez, Zoquiapan, Atlequizayan, Caxhuacan, Huehuetla, Tuzamapan de Galeana y Tenampulco; Río Apulco en los municipios de Ixtacamaxtitlán, Santiago Zautla, Xochiapulco, Zacapoaxtla, Nauzontla, Xochitlán de Vicente Suárez, Cuetzalán del Progreso, Yaonahuac, Ayotoxco de Guerrero y Tenampulco; Río María de la Torre en los municipios de Teziutlán, Xiutetelco, Hueytamalco y Acateno; Río Tilapa en los municipios de Chichiquila y Quimixtlán; Río Huizilapan en los municipios de Tlachíchuca, Chichotla y Quimixtlán; Río Atoyac en los municipios de Tlahuapan, San Miguel Xoxtla, San Juan Cuautlancingo y Puebla y sus afluentes directos: Arroyo Tlapalac en San Miguel Xoxtla; Barranca Guadalupe, Barranca del Conde, Barranca San Jerónimo en el municipio de Puebla; Arroyo Rabanillo en los municipios de San Pedro Cholula y Puebla; Arroyo Zapatero en los municipios de San Andrés Cholula y Puebla; Río San Francisco, Arroyo Maravillas y Barranca Xaltonac en el municipio de Puebla; Río Alseseca en el municipio de Puebla y sus afluentes directos: Barranca San Sebastián, Barranca Manzanilla, Barranca San Antonio en el municipio de Puebla y Barranca San Diego en los municipios de Amozoc y Puebla; Río Nexapa en los municipios de San Nicolás de los Ranchos y Nealtican; Río Axamilpa en los municipios de Ixcaquixtla y Tepexi de Rodríguez; Río Atoyac (cuenca baja) en los municipios de Tzicatlacoyan, Atoyatempan, Huatlatlahuaca, Coatzingo, Ahuatlán, Cuayuca de Andrade, Tehuitzingo, Chiautla de Tapia y Santa María Cohetzala.
-
-Querétaro: Río Jalpan en los municipios de Jalpan de Serra, Pinal de Amoles y Arroyo Seco; Río Extoraz, en los municipios de Tolimán, Peñamiller, Pinal de Amoles y Jalpan de Serra; Río Tolimán en los municipios de Colón y Tolimán; Arroyo Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Querétaro y Corregidora; Río Santa María en los municipios de Arroyo Seco y Jalpan de Serra; Río Querétaro en los municipios de Querétaro y El Marqués.
-
-Quintana Roo: Arroyos Huay Pix y Milagros, Lagunas Milagros, Guerrero y Bacalar, Bahía de Chetumal y Río Hondo o Azul o Santa María en el municipio Othón P. Blanco; Arroyos "Canal Nizuc" y "Canal Playa Linda" en el municipio de Benito Juárez.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás Tolentino, Villa Juárez, Cerritos, Guadalcázar, Rioverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta, Lagunillas, Tamasopo, Villa de Zaragoza, Santa María del Río, Alaquines y Ciudad del Maíz; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón, Tamasopo, Ciudad Valles y Aquismón; Río Valles en los municipios de El Naranjo, Ciudad Valles, Ciudad del Maíz y Tamuín; Río Tampaón en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín; Río Coy en los municipios de Aquismón, Tancanhuitz de Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón de Corona, San Vicente Tancuayalab, Tamuín, Tanquián de Escobedo, Huehuetlán, Tancanhuitz de Santos, San Martín Chalchicuautla, Xilitla y Tanlajás; Río Choy en el municipio de Tamuín; Río Santa María en los municipios de Tierra Nueva, Santa María del Río, Villa de Reyes, Lagunillas, Aquismón, Santa Catarina, Zaragoza, Río Verde y San Ciro de Acosta.
-
-Sinaloa: Río Fuerte en los municipios El Fuerte y Ahome; Ríos Culiacán, San Lorenzo y Tamazula en el municipio de Culiacán; Río Humaya en los municipios Badiraguato y Culiacán; Río Cañas en el municipio de Escuinapa; Río Sinaloa en los municipios de Sinaloa y Guasave; Río Baluarte en el municipio de Rosario; Río Piaxtla en el municipio San Ignacio; Río Elota en el municipio de Elota; Bahía de Mazatlán y Río Presidio en el municipio de Mazatlán.
-
-Sonora: Río Colorado en el municipio de San Luis Río Colorado; Río Sonoyta en el municipio General Plutarco Elías Calles; Río Altar en los municipios de Sáric, Nogales, Tubatama, Atil, Oquitoa y Altar; Río Magdalena y sus afluentes, Arroyos Cocóspera, Coyotillo, Bambuto y Los Alisos, en los municipios de Imuris, Benjamín Hill, Nogales, Santa Cruz, Trincheras, Magdalena y Santa Ana; Río Asunción y sus afluentes Arroyos Seco, El Sasabe y El Plomo en el municipio de Caborca; Río Sonora y sus afluentes Río San Miguel de Horcasitas, Río Zanjón y Río Bacanuchi en los municipios de Aconchi, Arizpe, Bacoachi, Banamichi, Baviácora, Benjamín Hill, Cananea, Carbo, Cucurpe, Hermosillo, Opodepe, Rayón, San Felipe de Jesús, San Miguel de Horcasitas y Ures; Río Matape y sus afluentes en los municipios de La Colorada, Empalme, Guaymas, Mazatán y Villa Pesqueira; Río Yaqui y sus afluentes: Ríos Bavispe, Aros, Nacori, Sahuaripa, Agua Prieta, Fronteras, Negro, Chico, Bacanora, Moctezuma y Suaqui y sus Arroyos más importantes en los municipios de Agua Prieta, Arivechi, Bacadehuachi, Bacanora, Bacerac, Bacum Bavispe, Cajeme, La Colorada, Cumpas, Divisaderos, Fronteras, Granados, Guaymas, Huachineras, Huasabas, Moctezuma, Naco, Nacozari de García, Nacori Chico, Onavas, Quiriego, Rosario, Sahuaripa, San Ignacio Río Muerto, San Javier, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Villa Hidalgo, Villa Pesqueira y Yécora; Río Mayo y sus afluentes Arroyos Los Cedros y Quiriego en los municipios de Álamos, Navojoa, Etchojoa Huatabampo, Navojoa, Quiriego y Rosario; Arroyo Cocoraque en los municipios de Benito Juárez y Quiriego; Río San Pedro en los municipios de Cananea, Naco y Santa Cruz; Río Santa Cruz en los municipios de Nogales y Santa Cruz; Drenes Agrícolas, Dren T-O, Yavaros, Moroncárit, Las Ánimas, Dren K y Dren L en los municipios de Etchojoa, Huatabampo y Navojoa; Drenes Agrícolas del Valle del Yaqui en los municipios de Bacum, Benito Juárez, Cajeme, Etchojoa, Guaymas y San Ignacio Río Muerto; Canales de Riego, Canal Principal Alto en los municipios de Benito Juárez, Cajeme y Navojoa; Canal Principal Bajo en los municipios de Benito Juárez y Cajeme; Canal Principal Bajo en los municipios de Benito Juárez y Cajeme; Canal Principal Margen Izquierda en los municipios de Etchojoa, Huatabampo y Navojoa; Zona Costera en el tramo comprendido desde el Golfo de Santa Clara hasta la Bahía San Jorge en los municipios de San Luis Río Colorado y Puerto Peñasco: Bahías Kino, Kumkaak y San Agustín en el municipio de Hermosillo; Bahía de Lobos en el municipio de San Ignacio Río Muerto; Bahías de Guaymas, San Carlos y Guásimas en el municipio de Guaymas; Bahía de Empalme en el municipio de Empalme; Bahías Santa Bárbara, Huatabampito y Yavaros en el municipio de Huatabampo.
-
-Tabasco: Ríos Carrizal y Grijalva en el municipio del Centro; Río Puxcatán en los municipios de Macuspana y Tacotalpa; Río Tacotalpa en el municipio de Tacotalpa; Río Teapa de La Sierra en el municipio de Teapa.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Tamaulipas: Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerto en los municipios de Jiménes y Abasolo, Río Bravo en los municipios de Nuevo Laredo, Guerrero, Camargo, Mier, Miguel Alemán, Gustavo Díaz Ordaz, Reynosa, Río Bravo y Matamoros; Canal Soliseño en el municipio de Matamoros; Río Conchos en los municipios de Burgos, San Fernando y Méndez; Arroyo Burgos en el municipio de Burgos; Río Pilón en los municipios de Mainero, Villagrán, Hidalgo, San Carlos y Padilla; Río Purificación en los municipios de Güémez e Hidalgo; Río San Marcos en los municipios de Victoria y Güémez; Río Soto La Marina en el municipio de Soto La Marina; Río Tigre en los municipios de Aldama y Altamira; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Xicoténcatl y González; Río Sabinas en los municipios de Jaumave, Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y El Mante; Río Mante, Arroyo Las Cazuelas, Dren Oriente y Canal Principal K-O en el municipio de El Mante; Río Tamesí en los municipios de González, Altamira y Tampico; Arroyo El Coyote en el municipio de Nuevo Laredo; Río San Juan y Dren Puertecitos en el municipio de Camargo; Dren Rancherías en los municipios Miguel Alemán y Camargo; Dren Huizache en los municipios de Camargo y Díaz Ordaz; Drenes El Anhelo y La Rosita, Ramal II del Dren Río Bravo, Desalinador Ramal 5.67 Izquierdo en el municipio de Reynosa; Dren El Morillo en los municipios de Río Bravo y Reynosa; Drenes Río Bravo, E-123, E-119 y Emisor Marginal en el municipio de Río Bravo; Drenes SR-14+400, 1+343, Valle Hermoso, Guadalupe, Agrícola 522, Anáhuac, Principal y Colector en el municipio de Valle Hermoso; Drenes Emisor Marginal, Principal, E-30, E-32 Izquierdo, Agrícola 2-26920, Agrícola E-25, Las Vacas y 20 de Noviembre en el municipio de Matamoros; Dren Las Blancas en los municipios de Matamoros y Valle Hermoso; Canales Lateral 25+600 y Principal Margen Derecha, Drenes Ebanito, Ramal IV y Contadero en el municipio de Abasolo; Ríos Blanco y Carrizal en el municipio de Aldama; Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerto en los municipios de Jiménez y Abasolo; Arroyo El Olmo y Bordo El Saladito en el municipio de Victoria; Canal Sublateral 6+425, Canal Lateral 12+790 y Dren I en el municipio de Xicoténcatl; Arroyo Santa Bárbara en el municipio de Ocampo; Arroyo El Cojo en el municipio de González; Canal Guillermo Rodhe en los municipios de Camargo, Díaz Ordaz, Reynosa y Río Bravo; Canal Anzaldúas en los municipios de Reynosa, Río Bravo y Valle Hermoso; Canal Principal en el municipio de Abasolo; Acuífero Zona Norte en los municipio de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güémez en los municipios de Victoria y Güémez; Acuífero Palmillas-Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Zona costera en los municipios de Matamoros, Altamira, Ciudad Madero, Tampico, San Fernando, Soto La Marina y Aldama; Marismas en el municipio de Altamira; Marismas de Tierra Negra en el municipio de Ciudad Madero; Río Álamo en el municipio de Mier; Arroyo El Coronel en el municipio de Guerrero; Arroyo El Buey en el municipio de Miguel Alemán y Arroyo San Juan en el municipio de Hidalgo.
-
-Veracruz: Río Pánuco y afluentes directos en los municipios de Pánuco y Pueblo Viejo; Río Tempoal y afluentes directos en los municipios de Platón Sánchez, Tempoal, El Higo y Tantoyuca; Río Chicayán y afluentes directos en el municipio de Pánuco; Río Calabozo y afluentes directos en los municipios de Tantoyuca y Chicontepec; Río Túxpam y afluentes directos en los municipios de Tuxpan y Temapache; Río Vinazco y afluentes directos en los municipios de Huayacocotla, Texcatepec, Tlachichilco, lxhuatlán y Chicontepec; Río Cazones y afluentes directos en los municipios de Cazones de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla y afluentes directos en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla (Río Bobos) y afluentes directos en los municipios de Nautla y Martínez de la Torre; Río Misantla y afluentes directos en el municipio de Misantla; Río San Juan y afluentes directos en los municipios de Villa Azueta, Tlacotalpan, San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Jamapa y afluentes directos en los municipios de Calcahualco, Alpatláhuac, Huatusco, Ixhuatlán del Café, Tepatlaxco, Zentla, Adalberto Tejeda, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín y Boca del Río; Río Coatzacoalcos y afluentes directos excepto el Arroyo Teapa en los municipios de Olutla, Ixhuatlán del Sureste, Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec, Nanchital de Lázaro Cárdenas del Río y Minatitlán; Río Huazuntlán y afluentes directos en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá y afluentes directos en los municipios de Las Choapas y Agua Dulce; Río Uspanapa y afluentes directos en los municipios de Las Choapas, Minatitlán, Moluacán e lxhuatlán del Sureste; Río Colipa y afluentes directos en los municipios de Vega de Alatorre, Colipa y Yecuatla; Río Pantepec y afluentes directos en el municipio de Temapache; Ríos Tomata e ltzapa en el municipio de Tlapacoyan; Río Atoyac y afluentes directos en el municipio de Paso del Macho; Río Moctezuma y afluentes directos en el municipio de El Higo; Río Huazuntlán y afluentes directos en los municipios de Coatzacoalcos y Minatitlán; Río Huitzilapan y afluentes directos en el municipio de lxhuacán de Los Reyes; Ríos Ahuacatlán, Huehueyapan y Cinco Palos en el municipio de Coatepec; Río Suchiapa en el municipio de Coatepec; Ríos Ocotal, Tezizapa y Yurivia en el municipio de Mecayapán; Ríos Socoyolapa y Pixquiac y afluentes directos en el municipio de Tlanelhuayocan; Río La Antigua y afluentes directos en los municipios de Xalapa, Coatepec, Jalcomulco, Tlaltetela, Totutla, Emiliano Zapata, Apazapan, Paso de Ovejas y La Antigua; Río Actopan en los municipios de Actopan y Úrsulo Galván; Ríos Sedeño y Sordo y afluentes directos en los municipios de Banderilla y Xalapa; Río Paso de La Milpa y afluentes directos en los municipios de Emiliano Zapata y Actopan; Río Los Pescados y afluentes directos en los municipios de Ixhuacán de Los Reyes, Teocelo, Cosautlán, Coatepec, Tuzamapán, Jalcomulco, Apazapán, Emiliano Zapata, Puente Nacional y La Antigua; Río Juchique en el municipio de Juchique de Ferrer; Playa Norte y Barra de Túxpam y Tecolutla en el municipio de Tecolutla; Playa las Gaviotas en el municipio de Coatzacoalcos; Playa Mocambo en el municipio de Boca del Río; Playas Villa del Mar y Norte en el municipio de Veracruz.
-
-Yucatán: Acuífero en los municipios de Baca, Bokobá, Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Chacsinkin, Chankom, Chapab, Chicxulub Pueblo, Chikindzonot, Chocholá, Chumayel, Cuncunul, Cuzamá, Dzan, Dzemul, Dzilam de Bravo, Dzitás, Dzoncauich, Huhí, Ixil, Káua, Kinchil, Kopomá, Mama, Maní, Mayapán, Mocochá, Muxupip, Opichén, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Sinanché, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Tepakán, Tetiz, Teya, Tixcacalcupul, Tixméhuac, Tunkás, Uayma, Xocchel, Yaxkukul y Yobain.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco tramo aguas abajo Presa López Portillo hasta los límites del Estado de Jalisco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango de Sánchez Román, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango de Sánchez Román, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Sain Alto y Cañitas de Felipe Pescador; Acuífero Ábrego en los municipios de Sombrerete, Sain Alto y Fresnillo; Acuífero Sain Alto en los municipios de Sain Alto y Sombrerete; Acuífero de El Palmar en los municipios de General Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Sain Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho Chaires en los municipios de Mazapil y General Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos; Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, General Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, General Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Ángeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Ángeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Todos los Estuarios y Humedales Naturales, y todos los Embalses Naturales o Artificiales, a excepción de los que se clasifican como tipo C.
-
-CUERPOS RECEPTORES TIPO "C":
-
-Aguascalientes: Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríquez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos.
-
-Baja California: Presa Emilio López Zamora en el municipio de Ensenada; Presa El Carrizo en el municipio de Tecate; Presa Abelardo L. Rodríguez en el municipio de Tijuana; Acuíferos Río Guadalupe, La Misión, Ensenada, San Quintín y Maneadero; Acuífero Tijuana; Acuíferos Río Colorado y San Felipe en el municipio de Mexicali.
-
-Baja California Sur: Acuíferos Punta Eugenia, Vizcaíno, San Ignacio, Mulegé-B Concepción, San Marcos-Palo Verde, San Bruno, San Lucas y L. Virg-S., Rosas-S-Águeda en el municipio de Mulegé; Acuíferos La Purísima, Mezquital Seco y Santo Domingo en el Municipio de Comondú; Acuífero Santa Rita, Las Pocitas-San Hilario, el Conejo-Los Viejos, Melitón Albañez, Cañada Honda, El Carrizal, Los Planes, Valle La Paz, El Coyote, Todos Santos, Pescadero y Plutarco Elías Calles en el municipio de La Paz; Acuíferos Migriño, Cabo San Lucas, Cabo Pulmo, San José del Cabo, Santiago y San Bartolo, en el municipio de Los Cabos; Acuífero A.V.-, Bonfil-Tepentú en los municipios de La Paz y Loreto; Acuíferos Loreto-Puerto Escondido, San Juan Bautista Londo Rosarito en el municipio de Loreto.
-
-Campeche: Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada.
-
-Coahuila: Presa la Amistad en el municipio de Acuña y Presa Venustiano Carranza en los municipios de Progreso y Juárez.
-
-Chihuahua: Presas Chihuahua y El Rejón en el municipio de Chihuahua y Presa Parral en el municipio de Hidalgo del Parral.
-
-Durango: Presa Lázaro Cárdenas en el municipio de Indé; Presa La Rosilla en el municipio de Pueblo Nuevo; Presa La Vieja en el municipio Guadalupe Victoria; Presa Francisco Zarco en los municipios de Cuencamé, Nazas y Lerdo; Presa San Jacobo en el municipio de Cuencamé.
-
-Estado de México: Presa Salazar en los municipios de Lerma y Ocoyoacac; Presa Villa Victoria en el municipio de Villa Victoria; Presas Valle de Bravo y Colorines en el municipio de Valle de Bravo; Presa Santo Tomás en el municipio de Santo Tomás; Presa Madín en los municipios de Naucalpan de Juárez, Jilotzingo y Cuautitlán-lzcalli; Presa Chilesdo en el municipio de Donato Guerra; Presa Tilostoc en el municipio de Valle de Bravo; Presa Tecuán en el municipio de Amatepec.
-
-Guanajuato: Presa El Palote en el municipio de León; Presas La Esperanza y La Soledad en el municipio de Guanajuato.
-
-Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Trujano en el municipio de Tepecuacuilco de Trujano; Laguna de Tuxpan en el municipio de Iguala de La Independencia; Presa Jaltipan en el municipio de Tixtla.
-
-Hidalgo: Presa Jaramillo y Bordo la Estanzuela en el municipio de Pachuca de Soto.
-
-Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapán El Alto; Presa La Joya en el municipio de Zapotlanejo; Presa El Salto en el municipio de Valle de Guadalupe; Presa Calderón en el municipio de Acatic; Presa La Red en el municipio de Tepatitlán; Presa El Jihuite en el municipio de Tepatitlán de Morelos; Presa Alcalá en el municipio de San Juan de los Lagos; Presa Cajón de Peña en el municipio de Tomatlán.
-
-Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Cojumatlán de Régules; Presa José María Morelos (La Villita) en el municipio de Lázaro Cárdenas; Presas Cointzio y La Mintzita en el municipio de Morelia; Presa del Bosque en el municipio de Zitácuaro; Presa Barraje de Ibarra en el municipio de Briseñas; Presa El Rosario en el municipio de Angamacutiro; Presas Pucuato, Sabaneta y Agostitlán (Mata de Pinos) en el municipio de Hidalgo; Presa Tuxpan en el municipio de Tuxpan; Lago de Camécuaro, en el municipio de Tangancícuaro; Lago de Cuitzeo en los municipios de Cuitzeo, Huandacareo, Chucándiro, Copándaro, Tarímbaro, Álvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Lago de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongarícuaro y Tzintzúntzan; Laguna de Zacapu en el Municipio de Zacapu; Lago Zirahuén en el municipio de Salvador Escalante; Río Balsas en los municipios de Huetamo y San Lucas; Ríos El Marquez y Tepalcatepec en el municipio de Mujica; Río Zicuirán aguas abajo de la Presa Zicuirán en el municipio de La Huacana.
-
-Morelos: Laguna de Tequesquitengo en los municipios de Puente de Ixtla y Jojutla; Laguna de Zempoala en el municipio de Huitzilac.
-
-Nuevo León: Presa el Cuchillo-Solidaridad en el municipio de China; Presa Rodrigo Gómez "La Boca", en el municipio de Santiago; Presa José López Portillo "Cerro Prieto" en el municipio de Linares; Laguna Salinillas en el municipio de Anáhuac.
-
-Querétaro: Presa Jalpan en el municipio de Jalpan de Serra; Presa La Ceja en el municipio de Huimilpan.
-
-Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec.
-
-Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor o Nizuc en el municipio de Benito Juárez.
-
-San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Cañas en el municipio de Escuinapa.
-
-Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
-
-Tamaulipas: Presa Falcón en el municipio de Guerrero; Laguna La Nacha en el municipio de San Fernando; Presa Vicente Guerrero en los municipios de Güémez, Padilla y Casas; Lagunas de Champayán y La Puerta en el municipio de Altamira; Laguna del Chairel en el municipio de Tampico; Presa La Patria es Primero en los municipios de Casas y Abasolo; Presa República Española en el municipio de Aldama.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Veracruz: Laguna de la Costa en el municipio de Pánuco; Manantial Ojo de Agua en los municipios de Orizaba e Ixtaczoquitlán; Manantiales La Cañada y Rancho Nuevo en el municipio de Alto Lucero; Manantiales El Pocito, Rincón de las Águilas y Arroyo Escondido en el municipio de Banderilla; Manantiales Los Amelitos, Cerro de Nacimiento y La Poza en el municipio de Altotonga; Manantial Matacatzintla en el municipio de Catemaco; Manantial El Rincón de Chapultepec en el municipio de Coacoatzintla; Manantiales Ojo de Agua, Las Lajas y Los Bonilla en el municipio de Coatepec; Manantial Dos Cruces en el municipio de Comapa; Manantial Las Tortugas en el municipio de Cuitláhuac; Manantial El Chorro en el municipio de Chicontepec; Manantiales El Resumidero, El Chico, de Vaquerías, El Castillo y La Represa en el municipio de Emiliano Zapata; Manantiales Axol, Coxolo y Tepetzingo en el municipio de Huatusco; Manantiales Pozo de Piedra y El Lindero en el municipio de Huayacocotla; Manantiales El Naranjo, Arroyo El Rincón, Arroyo El Pozo y Tezacobalt en el municipio de Ixhuacán de los Reyes; Manantiales Dos Arroyos y Los Berros en el municipio de Ixtaczoquitlán; Manantiales Tlacuilalostoc, Nixcamalonía y Arroyo Tlacuilalostoc en el municipio de Jalacingo; Manantial Corazón Poniente en el municipio de Jilotepec; Manantial Chicahuaxtla en el municipio de Maltrata; Manantial El Coralillo en el municipio de Miahuatlán; Manantiales Las Lajas y La Lima en el municipio de Misantla; Manantial Las Matillas en el municipio de Naolinco; Manantial Piedra Gacha en el municipio de Nogales; Manantial Cofre de Perote en el municipio de Perote; Manantial el Infiernillo en el municipio de Puente Nacional; Manantiales Talixco, El Salto y Piletas en el municipio de Rafael Lucio; Manantiales 1o. de Mayo, Nacimiento de Otapan, Avescoma, Tular I, Tular II, Tres Chorritos y El Caracol en el municipio de San Andrés Tuxtla; Manantiales El Chorro de Tío Jaime y El Balcón en el municipio de Teocelo; Manantiales Río de Culebras y Dos Pocitos en el municipio de Tonayan; Manantial La Represa en el municipio de Villa Aldama; Manantial El Castillo en el municipio de Xalapa; Manantiales Pozo Santo y Mata de Agua en el municipio de Xico; Río Tonto en el municipio de Tres Valles; Río Tecolapan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan.
-
-Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Tecoh, Timucuy, Tixpéhual, Ucú, Umán y Valladolid.
-
-Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistlán de Mejía y Apulco.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+### CAPITULO QUINTO. DE LA ACUMULACION
 
 ###### ARTICULO 278-B.
 
@@ -17465,47 +14331,55 @@ Para determinar la responsabilidad solidaria a los laboratorios a que se refiere
 
 ###### ARTICULO 279.
 
-Los ingresos que se obtengan por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, correspondientes a este Capítulo, se destinarán a la Comisión Nacional del Agua para la realización de los programas que al efecto establezca dicha Comisión, para la realización de acciones de infraestructura, operación y mejoramiento de eficiencia de saneamiento.
+1.- Podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente por dos o más partidos políticos el mismo acto o resolución.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+2.- El Tribunal Estatal Electoral podrá acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten.
 
-Los contribuyentes del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales a que se refiere la fracción I del artículo 277-B de esta Ley, podrán solicitar a la Comisión Nacional del Agua autorización para realizar un programa de acciones de infraestructura, operación y mejoramiento de eficiencia de saneamiento y, en su caso, dicha Comisión les asignará recursos para su realización hasta por el monto cubierto por el contribuyente de conformidad con los artículos 277-B y, en su caso, 278 de esta Ley, siempre y cuando el contribuyente invierta una cantidad en la proporción al monto asignado señalada en la tabla siguiente atendiendo al número de habitantes de la localidad, municipio o municipios donde el contribuyente preste el servicio de alcantarillado y saneamiento de acuerdo al último Censo General de Población y Vivienda que emita el Instituto Nacional de Estadística y Geografía:
-
-(VÉASE ARCHIVO ANEXO)
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites máximos permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Para los efectos del párrafo anterior, los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los primeros diez días de los meses de julio del mismo año y enero del siguiente, en las formas establecidas para ello.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-En el caso de que los contribuyentes no presenten alguno de los informes señalados en el párrafo anterior, en los plazos establecidos para ello, no gozarán del beneficio contenido en este artículo, por lo que hace al periodo omitido.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-La Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones que para tal efecto publique en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los contribuyentes.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-La Comisión Nacional del Agua vigilará que los recursos entregados se ejerzan para los fines establecidos en el presente artículo y en caso de que los contribuyentes no acrediten tal situación, deberán reintegrar a la Comisión los recursos asignados, dentro de los 30 días siguientes a la fecha en que dicha autoridad se lo comunique a los contribuyentes, para lo cual se señalará en la resolución correspondiente el importe respectivo, con la actualización y recargos causados a partir de la fecha en que recibieron los recursos, en términos de los artículos 17-A, 21 y demás aplicables del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Cuando los recursos asignados no sean devueltos por el contribuyente en el plazo establecido para tal efecto, el importe señalado en la resolución dictada, tendrá el carácter de crédito fiscal y será exigible a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales aplicables.
+### CAPITULO SEXTO. REGLAS DE PROCEDIMIENTO PARA LOS RECURSOS
 
 ###### ARTICULO 280.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+1.- Para la interposición de los recursos se cumplirá con los siguientes requisitos:
+
+a).- Deberán presentarse por escrito;
+
+b).- Se hará constar el nombre del recurrente y domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+c).- En caso de que el recurrente no tenga acreditada la personalidad en el órgano del Instituto ante el que actúa, acompañará su promoción con los documentos necesarios para acreditarla;
+
+d).- Se hará mención expresa del acto o resolución que se impugna y el órgano del Instituto responsable, así como los agravios que el mismo cause;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+e).- Se deberán mencionar con claridad los agravios que le causen el acto o resolución impugnados, los preceptos presuntamente violados y los hechos en que se basa la impugnación;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+f).- Ofrecer las pruebas que junto con el escrito se aporten, mencionando aquellas que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente no le fueron entregadas; y
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+g).- Contener el nombre y la firma autógrafa del promovente.
+
+2.- En el caso del recurso de inconformidad se deberá señalar claramente:
+
+a).- El cómputo municipal, distrital, ya sea de diputados de mayoría o de gobernador, o de circunscripción plurinominal que se impugna.
+
+b).- La elección que se impugna.
+
+c).- La mención individualizada de las casillas cuya votación se solicite que se anule en cada caso; y
+
+d).- La relación, en su caso, que guarde el recurso con otras impugnaciones.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Cuando se omita algunos de los requisitos señalados en los incisos c) al f) del párrafo primero de este artículo, el órgano del Instituto competente o el Tribunal, requerirán por estrados al promovente para que lo cumpla en un plazo de veinticuatro horas contadas a partir de la fijación en estrados del requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
 
 ###### ARTICULO 281.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+Los recursos de revisión, de apelación y el de inconformidad se interpondrán ante el órgano del Instituto que realizó el acto o dictó la resolución.
 
 ###### ARTICULO 281-A.
 
@@ -17523,39 +14397,25 @@ El monto a acreditar deberá asentarse en la declaración trimestral definitiva,
 
 ###### ARTICULO 282.
 
-No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
+1.- El órgano del Instituto que reciba un recurso de revisión, apelación o de inconformidad, lo hará del conocimiento público mediante cédula que fijará en los estrados.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+2.- Dentro de las cuarenta y ocho horas siguientes a su fijación, los representantes de los partidos políticos terceros interesados podrán presentar los escritos que consideren pertinentes. Estos escritos deberán cumplir con los requisitos señalados en los incisos a) al c) y g) del artículo 279, párrafo 1 y deberán precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente.
 
-I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites máximos permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 1995)</small>
 
-(VÉASE ARCHIVO ANEXO)
+3.- Los escritos mencionados en el párrafo anterior deberán cumplir con los requisitos siguientes:
 
-Para tales efectos, el contribuyente deberá medir el volumen en cada punto de descarga en términos del artículo 277-A de esta Ley y acompañar a la declaración del trimestre respectivo el reporte que emita el laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, que acredite que la calidad de la descarga se efectúa en términos del párrafo anterior.
+a).- Hacer constar el nombre del partido político y su domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
-Los contribuyentes que realicen descargas que estén exentas en los términos de esta fracción y efectúen otras por las que sí se debe cubrir el derecho previsto en este Capítulo, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí se debe pagar derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes descargados, quedando sin efectos la citada exención.
+b).- Exhibir los documentos que acrediten la personalidad del promovente, cuando no la tenga reconocida ante el órgano electoral competente;
 
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+c).- Precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente;
 
-III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado que no sean bienes del dominio público de la Nación.
+d).- Ofrecer las pruebas que se aportan junto con el recurso y solicitar las que deban requerirse cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente no le fueron entregadas; y
 
-IV.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+e).- Contener el nombre y la firma autógrafa del promovente.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-V.- Las poblaciones de hasta 10,000 habitantes, de conformidad con el último Censo General de Población y Vivienda y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VI.- Por las descargas provenientes del riego agrícola.
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-VII. Las entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes, de acuerdo con el último Censo General de Población y Vivienda.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-VIII.- Los usuarios domésticos que se ubiquen en localidades que carezcan de sistemas de alcantarillado, por las aguas residuales que se generen en su casa habitación.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 282-A.
 
@@ -17587,103 +14447,53 @@ El porcentaje de descuento se aplicará al monto del derecho a que se refiere el
 
 ###### ARTICULO 283.
 
-El usuario calculará el derecho federal a que se refiere el presente Capítulo trimestralmente y efectuará su pago el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria.
+1.- Una vez cumplido el plazo a que se refiere el artículo anterior, el órgano del Instituto que reciba un recurso de revisión, apelación o de inconformidad deberá hacer llegar al órgano competente del propio instituto o al Tribunal dentro de las veinticuatro horas siguientes:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+a).- El escrito mediante el cual se interpone.
 
-Los contribuyentes que efectúen descargas permanentes o intermitentes estarán obligados a presentar la declaración a que se refiere el párrafo anterior.
+b).- La copia del documento en que conste el acto o resolución impugnados, o en su caso, copia certificada de las actas correspondientes del expediente relativo al cómputo municipal, distrital o de circunscripción plurinominal de la elección impugnada;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+c).- Las pruebas aportadas;
 
-Las personas que efectúen descargas fortuitas de aguas residuales, deberán presentar la declaración aun cuando no resulte pago a su cargo, dentro del mes siguiente a aquél en que se realizó la descarga, misma que se considerará definitiva.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+d).- Los escritos y pruebas aportados por terceros interesados y los coadyuvantes;
 
-El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por todos los sitios donde lleve a cabo la descarga al cuerpo receptor, señalando sus sitios de descarga, nombre, denominación o razón social, registro federal de contribuyentes, número de permisos de descarga, incluyendo por cada sitio de descarga el nombre y tipo de cuerpo receptor, el volumen descargado, la cuota aplicada y el monto pagado, en caso de que opte por aplicar el acreditamiento, exención o descuento a que se refiere este Capítulo, indicar las concentraciones de contaminantes de cada descarga.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+e).- Un informe circunstanciado en el que se expresarán los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado, en el que además expresará si el promovente tiene reconocida su personalidad ante el órgano del Instituto;
 
-Los contribuyentes deberán contar con la documentación original comprobatoria del pago de los derechos en su domicilio fiscal y con copia de dicho pago en el lugar donde se realice la descarga de las aguas residuales, cuando se trate de un lugar distinto a su domicilio fiscal.
+f).- En el caso del recurso de inconformidad, los escritos de protesta que obren en su poder; y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+g).- Los demás elementos que se estimen necesarios para la resolución del recurso.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 284.
 
-La Comisión Nacional del Agua o el Servicio de Administración Tributaria procederán a la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
+1.- Recibido un recurso de revisión por el órgano del Instituto competente, el presidente del mismo lo turnará al secretario para que certifique que se interpuso en tiempo y que cumple los requisitos señalados en el artículo 280, párrafo 1. En todo caso se procederá conforme a lo establecido en el párrafo 3 del artículo 280 y párrafo 2 del artículo 282 de este código.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+2.- Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos los requisitos, el secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al órgano competente en la primera sesión que celebre después de su recepción. La resolución que se dicte en la sesión será engrosada por el secretario en los términos que determine el órgano.
 
-I.- No se tenga instalado aparato de medición o el mismo no funcione y tal circunstancia no se haya informado dentro del plazo que se establece en el artículo 277-A de esta Ley, o habiéndolo informado dicho aparato no se hubiera reparado dentro de los diez días siguientes.
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual o en ejercicio de las facultades de comprobación que al efecto se lleven a cabo.
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-III.- Se oponga u obstaculice al inicio o desarrollo de las facultades de comprobación, verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV.- El usuario no efectúe el pago del derecho en los términos del artículo anterior.
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-V.- Cuando se efectúe en forma fortuita una descarga de aguas residuales o contaminadas, por quienes normalmente no son contribuyentes del derecho a que se refiere el presente Capítulo, y que causen daño ecológico conforme a dictamen que al efecto emita la autoridad ecológica competente.
-
-VI.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar, previstas en las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+3.- Si el órgano del Instituto que remitió el recurso omitió algún requisito, el secretario del órgano competente lo hará de inmediato del conocimiento de su presidente para que éste requiera la Complementación de él o los requisitos omitidos, procurando que se resuelva en el plazo del párrafo anterior. En todo caso, deberá resolverse con los elementos con que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
 
 ###### ARTICULO 285.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, la autoridad fiscal estará a lo siguiente:
+Recibido un recurso de apelación por el Tribunal, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. El recurso de apelación será substanciado por un juez instructor quien integrará el expediente y lo turnará al magistrado que corresponda para que presente el proyecto de resolución en la sesión pública correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-I. Para la determinación del volumen de agua residual vertida, se aplicarán indistintamente los siguientes procedimientos:
-
-a). El señalado en el permiso de descarga respectivo.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-b). El que señalen los registros de las lecturas de los dispositivos de medición o que se desprendan de alguna de las declaraciones presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
-
-c). El que proporcionen las autoridades administrativas, fiscales o las competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas atribuciones.
-
-d). El señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o el aprovechamiento de aguas nacionales que originan la descarga.
-
-e). El que resulte del procedimiento establecido en el artículo 229, fracción III de esta Ley.
-
-f). El que resulte de los medios indirectos de la investigación económica o de cualquier otra clase.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-g). Tratándose de los contribuyentes a que se refiere la fracción I del artículo 277-B de esta Ley, cuya infraestructura de drenaje y alcantarillado esté conectada con otro contribuyente del mismo tipo y no se pueda identificar el volumen de descarga de cada uno de ellos, se determinará multiplicando el volumen descargado por los contribuyentes interconectados por la porción de habitantes que corresponda al contribuyente, la cual se obtendrá de dividir el número de habitantes del contribuyente entre la totalidad de habitantes en las localidades o municipios interconectados en su red de alcantarillado, en términos del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-h). El que resulte de cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
-
-Cuando el volumen señalado en el permiso de descargas, resulte menor al que se obtenga de la información y documentación con que cuenten la Comisión Nacional del Agua o el Servicio de Administración Tributaria, se deberán considerar estas últimas.
-
-En caso de que no se cuente con permiso de descarga y la autoridad fiscal cuente con más de un volumen presuntivo, considerará aquél que resulte mayor.
-
-II. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-III. Una vez determinado el volumen presuntivo de la descarga de aguas residuales en los términos antes señalados, para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, la autoridad fiscal aplicará el procedimiento establecido en el artículo 277-B de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 286.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+1.- El recurso de inconformidad, una vez recibido el expediente por el Tribunal será turnado de inmediato a un juez instructor quien deberá revisar que reúna todos los requisitos señalados en el presente libro y que cumpla con lo dispuesto en su caso, en el párrafo 3 del artículo 280 de éste código.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+2.- En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Si de la revisión que realice el juez instructor encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere este Código o que es evidentemente frívolo, someterá desde luego, a la consideración del Tribunal, el acuerdo para su desechamiento de plano.
+
+4.- Si el recurso reúne todos los requisitos, el juez instructor dictará el auto de admisión correspondiente ordenando se fije copia del mismo en los estrados del tribunal.
 
 ###### ARTICULO 286-A.
 
@@ -17691,105 +14501,35 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO XV. Derecho para racionalizar el uso o aprovechamiento del espacio aéreo
+### CAPITULO SEGUNDO. DEL MATERIAL ELECTORAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 287.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+1.- El juez instructor realizará todos los actos y diligencias necesarios para la substanciación de los expedientes de los recursos de inconformidad, de manera que los ponga en estado de resolución.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
+2.- Substanciado el expediente del recurso de inconformidad por el juez instructor, será turnado por el Presidente al magistrado que corresponda, para que formule el proyecto de dictamen y lo someta a la decisión del pleno del tribunal.
 
-### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
+### CAPITULO PRIMERO. DE LA INSTALACION Y APERTURA DE LA CASILLA
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 288.
 
-Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
+1.- En la sesión de resolución, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
-Cuota
+a) El magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
 
-Sin ajuste Con ajuste
+b) Los magistrados podrán discutir el proyecto en turno;
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+c) Cuando el presiende (sic) del tribunal considere suficientemente discutido el asunto, lo someterá a votación; y
 
-Áreas tipo AAA: $78.00 $80
+d) Los magistrados podrán presentar voto particular, el cual se agregará al expediente.
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+2.- En casos extraordinarios el Tribunal podrá diferir la resolución de un asunto listado.
 
-Áreas tipo AA: $74.78 $75
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo A: $63.39 $65
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo B: $56.87 $55
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo C: $47.14 $45
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $260.03 $260
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Para efectos de este artículo se consideran:
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo AAA:
-
-Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; y Galería de Historia.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo AA:
-
-Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Ek-Balam; Sitio Arqueológico Xcambó; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; y Sitio Arqueológico Sierra de San Francisco.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo A:
-
-Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo del Carmen; Museo Histórico de Acapulco Fuerte de San Diego; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán "Palacio Cantón"; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca; y Zona Arqueológica de las Labradas.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo B:
-
-Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica la Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; y Zona Arqueológica el Meco.
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Áreas tipo C:
-
-Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos y zonas arqueológicas los domingos.
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Lo dispuesto en el párrafo anterior no será aplicable para las áreas tipo AAA, en las visitas después del horario normal de operación.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 288-A.
 
@@ -18109,153 +14849,325 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO XVII. Derecho por el Uso, Goce o Aprovechamiento del Espacio Aéreo Mexicano
+### CAPITULO SEGUNDO. DE LA VOTACION Y CIERRE DE LA VOTACION
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 289.
 
-Por el uso, goce o aprovechamiento del espacio aéreo mexicano, mediante actividades aeronáuticas locales, nacionales o internacionales, las personas físicas o morales, nacionales o extranjeras están obligadas a pagar el derecho contenido en este artículo.
+1.- El presidente del Tribunal deberá ordenar que se fije en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de los asuntos que serán ventilados en cada sesión.
 
-El derecho a que se refiere este artículo se calculará conforme a lo siguiente:
-
-I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
-
-Cuotas por kilómetro volado
-
-Aeronaves según envergadura Cuota
-
-Grandes $9.49
-
-Medianas $6.36
-
-Pequeñas Tipo B $2.20
-
-Pequeñas Tipo A $0.29
-
-El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
-
-a).- Tratándose de vuelos nacionales, se medirán por la distancia ortodrómica comprendida entre el aeropuerto de origen y el aeropuerto de destino.
-
-b).- Tratándose de vuelos internacionales, se medirán por la distancia ortodrómica comprendida desde el punto de entrada o salida, de la región de información de vuelo (FIR), hasta el aeropuerto de destino u origen nacional.
-
-c).- Tratándose de sobrevuelos internacionales, se medirán por la distancia ortodrómica comprendida desde el punto de entrada al FIR hasta la salida del mismo.
-
-El usuario que lleve a cabo vuelos locales, cualquiera que sea su finalidad y que regresen a aterrizar al aeropuerto de origen, la distancia ortodrómica por kilómetro volado, se calculará aplicando por cada minuto de vuelo 5 kilómetros de recorrido.
-
-Para los efectos de esta fracción, los contribuyentes deberán presentar ante las oficinas autorizadas por el Servicio de Administración Tributaria mediante reglas de carácter general, en un término de veinte días al inicio de cada año calendario, copia de la cédula de su Registro Federal de Contribuyentes (RFC) y una relación de las aeronaves por las que se pagará el derecho. Una vez que el contribuyente haya presentado copia de su RFC y de la relación, no podrá optar por pagar el derecho de dichas aeronaves conforme a las fracciones II y III a que se refiere este artículo, durante el año de que se trate.
-
-Los representantes legales de los usuarios de los servicios de navegación aérea, deberán reconocer en el poder notarial que al efecto presenten su responsabilidad solidaria en el cumplimiento de las obligaciones fiscales a cargo de sus representados.
-
-Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aeronave, después de iniciado el año calendario que corresponda, deberá dar el aviso a que se refiere el quinto párrafo de esta fracción, en un término de veinte días siguientes al inicio de operaciones de la aeronave de que se trate o a la inscripción de la misma en el Registro Aeronáutico Mexicano, según sea el caso, a efecto de ejercer la opción de pago del derecho a que se refiere esta fracción, tratándose del inicio de operaciones.
-
-II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
-
-Tipo de aeronaves Cuota
-
-Con envergadura de hasta 10.0 metros
-
-y helicópteros $126.63
-
-Con envergadura de más de 10.0 metros
-
-y hasta 11.1 metros $180.92
-
-Con envergadura de más de 11.1 metros
-
-y hasta 16.7 metros $271.37
-
-III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
-
-Aeronaves según envergadura Cuota
-
-Grandes $21,867.83
-
-Medianas $14,591.23
-
-Pequeñas Tipo B $5,029.60
-
-Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+2.- El Tribunal determinará la hora y día de sus sesiones públicas.
 
 ###### ARTICULO 290.
 
-Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla:
+1.- El Presidente del Tribunal, a petición del juez instructor, podrá requerir a los diversos órganos del Instituto, o a las autoridades federales, estatales o municipales, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expediente (sic), siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este código.
 
-> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2005)</small>
+2.- Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
 
-Clasificación por envergadura de aeronaves
+3.- En casos extraordinarios el Presidente del Tribunal podrá ordenar que se realice alguna diligencia o perfeccione un (sic) prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
 
-Pequeñas Medianas Grandes
+### CAPITULO SEPTIMO. DE LAS PRUEBAS
 
-Tipo A Tipo B
-
-Hasta 16.7 De más de De más de De más
-
-metros y los 16.7 metros 25.0 metros de 38.0
-
-helicópteros hasta 25.0 hasta 38.0 metros
-
-metros metros
-
-La Secretaría de Comunicaciones y Transportes a través de la Dirección General de Aeronáutica Civil, publicará en el Diario Oficial de la Federación la relación en la que se dé a conocer la envergadura de las aeronaves, de acuerdo con el modelo de que se trate.
-
-En el caso de que un modelo de aeronave no se encuentre en la relación que se publique en los términos del párrafo anterior, se deberá informar dicha circunstancia a la Secretaría de Comunicaciones y Transportes a través de la Dirección General de Aeronáutica Civil, para que proceda a su publicación en el Diario Oficial de la Federación. En tanto se hace la publicación del grupo al que corresponda cada aeronave, el contribuyente hará la determinación de la aeronave conforme a su envergadura.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 291.
 
-Para los efectos del artículo 289 de esta Ley, se estará a lo siguiente:
+1.- En materia contencioso electoral sólo serán admitidas las pruebas siguientes:
 
-I.- Para el caso de la fracción I, el derecho se pagará como sigue:
+a).- Documentales;
 
-El usuario deberá calcular y enterar mensualmente el derecho, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración, a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, entregando a la Secretaría de Comunicaciones y Transportes a través de SENEAM, dentro de los cinco días siguientes a aquél en el que se efectuó el pago, copia de la Declaración General de Pago de Derechos con el sello legible de la oficina autorizada, así como el archivo electrónico que contenga los datos de las operaciones que dieron lugar al pago del derecho.
+b).- Técnicas, cuando por su naturaleza no requieran de perfeccionamiento;
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+c).- Presuncionales; y
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+d).- Instrumental de actuaciones.
 
-En el caso de que el contribuyente incumpla con la presentación del comprobante de pago que contenga el cálculo de las operaciones aeronáuticas realizadas, SENEAM comunicará de este hecho al Servicio de Administración Tributaria, quien realizará el requerimiento del pago del derecho que corresponda en términos del artículo 3o. de esta Ley. La Secretaría de Comunicaciones y Transportes, a través de la Unidad de Asuntos Jurídicos, comunicará al usuario la suspensión del uso, goce o aprovechamiento del espacio aéreo mexicano, atendiendo a lo dispuesto en el referido artículo 3o. de esta Ley.
+2.- Para los efectos de este código serán documentales públicas:
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+a).- Las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, así como las de los cómputos municipales, distritales y de circunscripción plurinominal. Serán actas oficiales las que constan en los expedientes de cada elección.
 
-Los contribuyentes que no cuenten con cédula de Registro Federal de Contribuyentes, domicilio fiscal en los Estados Unidos Mexicanos o representante legal dentro del territorio nacional, no podrán optar por pagar el derecho conforme a la fracción I del artículo 289, por lo que deberán efectuar el pago en efectivo a Aeropuertos y Servicios Auxiliares o al concesionario autorizado para el suministro de combustible, cada vez que le sea suministrado el mismo a la aeronave de que se trate, de conformidad con lo dispuesto en las fracciones II y III del artículo 289 de esta Ley, según corresponda.
+b).- Los demás documentos originales expedidos por los órganos del Instituto o funcionarios electorales, dentro del ámbito de su competencia;
 
-II.- Para los efectos de las fracciones II y III, según sea el caso, el derecho se pagará como sigue:
+c).- Los documentos expedidos por las demás autoridades federales, estatales y municipales, dentro del ámbito de sus facultades; y
 
-Los usuarios que ejerzan la opción prevista en esas fracciones y tengan celebrado un contrato de suministro de combustible con Aeropuertos y Servicios Auxiliares o, en su caso, con el concesionario autorizado, para los efectos de la determinación del derecho, deberán realizar el entero del derecho por todas las aeronaves por las que ejercieron la opción, mediante pagos mensuales, a más tardar el día 17 del mes siguiente a aquél en el que le sea suministrado el combustible, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración.
+d).- Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, y siempre y cuando en ellos se consignen hechos que les consten.
 
-Los contribuyentes que opten por pagar el derecho conforme a esas fracciones, deberán dar el aviso correspondiente ante las oficinas autorizadas por el Servicio de Administración Tributaria mediante reglas de carácter general, en un término de veinte días al inicio de cada año calendario, anexando una relación de las aeronaves. Una vez que el contribuyente haya presentado su aviso, deberá permanecer en esta opción durante el año que corresponda.
+3.- Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y relacionados con sus pretensiones.
 
-Para el caso de que el contribuyente inicie operaciones o, en su caso, adquiera una nueva aeronave, después de iniciado el año calendario de que se trate, deberá dar el aviso a que se refiere el párrafo anterior, en un término de veinte días siguientes al inicio de operaciones o a la inscripción de la aeronave en el Registro Aeronáutico Mexicano, según sea el caso, a efecto de ejercer la opción de pago del derecho, tratándose del inicio de operaciones.
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Los contribuyentes que opten por pagar el derecho conforme a las fracciones II y III del artículo 289 y no tengan celebrado un contrato de suministro de combustible con el concesionario, pagarán en efectivo a este último, las cuotas señaladas en las tablas contenidas en dichas fracciones, según corresponda, cada vez que le sea suministrado el combustible a la aeronave de que se trate, excepto cuando el usuario acredite que ha informado a las oficinas autorizadas que pagará el derecho en los términos de la fracción I del artículo 289. Los ingresos generados por la aplicación de este párrafo, serán recaudados por el concesionario que suministre el combustible, debiendo enterarlos a la Tesorería de la Federación, dentro de los diez días siguientes al mes de que se trate.
+4.- Se considerarán pruebas técnicas todos aquellos medios de reproducción de imágenes y que tienen por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar concretamente aquello que pretende probar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
-Para los efectos de este Capítulo, los contribuyentes que realicen operaciones aeronáuticas regulares, que no presenten el aviso a que se refieren las fracciones I del artículo 289 y II del 291, en el término previsto en dichas fracciones, se entenderá que pagarán el derecho conforme a la fracción I del artículo 289 de esta Ley.
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Tratándose de los contribuyentes que realicen operaciones aeronáuticas no regulares, que no presenten el aviso a que se refieren las fracciones I del artículo 289 y II del 291, en el término previsto en dichas fracciones, se entenderá que pagarán el derecho conforme a las fracciones II y III del artículo 289 de esta Ley, según corresponda. Dichos contribuyentes durante el periodo comprendido entre el inicio de cada año, o bien, el inicio de operaciones, y el vencimiento del término de la presentación del aviso a que se refiere este párrafo, pagarán el derecho conforme a las citadas fracciones II y III del artículo 289, mismo que podrán acreditar en caso de que opten por pagar en los términos de la fracción I del propio artículo.
+5.- Se entiende por prueba presuncional, además de aquellas que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta levantada ante el fedatario público que las haya recogido directamente de los declarantes y siempre y cuando éstos últimos queden debidamente identificados y asienten la razón de su dicho.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 292.
 
-No se pagarán los derechos a que se refiere este Capítulo, por los vuelos que realicen las aeronaves nacionales o extranjeras con alguna de las finalidades siguientes:
+1.- Los medios de prueba admitidos serán valorados por los órganos del Instituto y por el Tribunal acudiendo a las reglas de la lógica, de la sana crítica y de la experiencia, debiendo respetar las reglas incluidas en el presente artículo.
 
-I.- Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o fumigación, ayuda médica con fines no lucrativos, los de asistencia social, y los que atiendan situaciones de emergencia, tanto nacionales como internacionales.
+2.- Las documentales públicas tendrán pleno valor probatorio, salvo prueba en contrario.
 
-II.- En misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
+3.- Las documentales privadas, las técnicas, las presuncionales y la instrumental de actuaciones, sólo harán prueba plena cuando a juicio de los órganos del Instituto o del Tribunal, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
-III.- Vuelos de enseñanza, que realicen las escuelas de aviación.
+###### ARTICULO 293.
 
-IV.- Destinadas a la verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
+1.- El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos las pruebas que obren en su poder.
 
-V.- Que participen en festivales aéreos organizados por la autoridad aeronáutica.
+2.- Ninguna prueba aportada fuera de estos plazos será tomada en cuenta al resolver.
 
-Asimismo, no pagarán el derecho las aeronaves, que pertenezcan a las fuerzas armadas, las destinadas a la seguridad pública y nacional, así como las que no utilicen motores o turborreactores para sustentar el vuelo.
+###### ARTICULO 294.
+
+1.- Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos hechos que hayan sido reconocidos.
+
+2.- El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
+
+### CAPITULO OCTAVO. DE LAS RESOLUCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 295.
+
+1.- Los recursos de revisión deberán ser resueltos en sesión pública por mayoría simple de los miembros presentes del órgano del instituto que sea competente en la primera sesión que celebren después de su presentación, salvo el caso señalado en el artículo siguiente. Estos recursos deberán ser resueltos en un plazo no mayor a ocho días contado a partir de que se fueron presentados.
+
+2.- Los recursos de apelación serán resueltos por mayoría simple de los integrantes del Tribunal dentro de los seis días siguientes a aquel en que se admitan.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+3.- Los recursos de inconformidad serán resueltos por mayoría simple de los integrantes del Tribunal en el orden en que sean listados para cada sesión, salvo que se acuerde su modificación. Los recursos de inconformidad deberán ser resueltos en su totalidad a más tardar:
+
+a).- El 8 de septiembre del año del proceso electoral en caso de que se refieran a la elección para diputados al Congreso del Estado;
+
+b).- El 30 de septiembre del año de la elección en caso de que se impugne la elección del Gobernador; y
+
+c).- El 30 de Noviembre del año electoral, cuando se impugnen las elecciones municipales.
+
+###### ARTICULO 296.
+
+1.- Todos los recursos de revisión y apelación interpuestos dentro de los cinco días anteriores a la elección, serán enviados al Tribunal, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa en el recurso de inconformidad.
+
+2.- Cuando los recursos a que se refiere el párrafo anterior no guarden relación con uno de inconformidad serán archivados como asuntos definitivamente concluidos.
+
+###### ARTICULO 297.
+
+1.- Toda resolución deberá hacerse constar por escrito y contendrá:
+
+a).- La Fecha, lugar y órgano que la dicta;
+
+b).- El resumen de los hechos o puntos de derecho controvertidos;
+
+c).- El análisis de los agravios señalados;
+
+d).- El examen y valoración de las pruebas;
+
+e).- Los fundamentos legales de la resolución;
+
+f).- Los puntos resolutivos; y
+
+g).- En su caso, el plazo para su cumplimiento.
+
+###### ARTICULO 298.
+
+1.- Las resoluciones que recaigan a los recursos de aclaración, revisión y apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+
+2.- Las resoluciones que recaigan a los recursos de apelación serán definitivas e inatacables, salvo el caso previsto en el párrafo 1 del artículo 296 de este código.
+
+###### ARTICULO 299.
+
+1.- Las resoluciones que recaigan a los recursos de inconformidad podrán tener los siguiente (sic) efectos:
+
+a).- Confirmar los resultados consignados en las actas de cómputo municipal, distrital o de circunscripción plurinominal;
+
+b).- Declarar la nulidad de la votación emitida en uno (sic) o varias casillas cuando se den las causas previstas en el artículo 256 de este código y modificar en consecuencia, el acta de cómputo municipal o distrital respectiva para la elección de concejales y diputados de mayoría relativa;
+
+c).- Revocar la constancia de mayoría expedida en favor de una planilla de concejales o de una fórmula de candidatos a diputados, por los Comités Municipales o Distritales competentes; otorgarla a la planilla o fórmula que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas; y modificar en consecuencia las actas de cómputo municipal y distrital respectivas;
+
+d).- Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por el Comité Municipal o Distrital correspondiente, cuando se den los supuestos de nulidad previstos en el artículo 257 del presente código;
+
+e).- Declarar la nulidad del cómputo de circunscripción plurinominal de la elección de Diputados por el principio de representación proporcional cuando se de el supuestos (sic) previsto en el inciso c) del párrafo 1 del artículo 268 de este código; y
+
+f).- Declarar la nulidad de la votación emitida en una o varias casillas para la elección del gobernador del estado cuando se den los supuestos previstos en el artículo 256 de este código; y modificar, en consecuencia, el acta de cómputo distrital respectiva.
+
+###### ARTICULO 300.
+
+El Tribunal Estatal Electoral solo puede declarar la nulidad de la votación en una o varias casillas o la nulidad de una elección municipal, de diputado de mayoría relativa o la del cómputo de circunscripción plurinominal con fundamento en las causales señaladas en este código.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 1995)</small>
+
+## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+### CAPITULO UNICO
+
+###### ARTICULO 301.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 302.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 303.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 304.
+
+El Instituto Estatal Electoral informará a las autoridades competentes de los casos en los que los ministros de culto, asociaciones, iglesias, o agrupaciones de cualquier religión o secta:
+
+a) Induzcan al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención, para los efectos previstos por la ley.
+
+b) Realicen aportaciones económicas a un partido político o candidato.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 305.
+
+1.- El Instituto Estatal Electoral conocerá de las infracciones en que incurran los extranjeros que pretendan inmiscuirse o se inmiscuya en los asuntos políticos del Estado.
+
+2.- En caso de que los mismos se encuentren en territorio nacional procederá a informar de inmediato a las autoridades competentes para que le aplique lo que disponga las leyes respectivas.
+
+3.- En caso de que los mismos se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que hubiere lugar.
+
+###### ARTICULO 306.
+
+A los notarios públicos que sin causa justificada dejen de realizar las actividades señaladas por el artículo 212 de este Código, se les revocará la patente para el ejercicio notarial. En estos casos, el Consejo General del Instituto notificará dicha situación al Ejecutivo del Estado, quien concediendo la garantía de audiencia al perjudicado, dictará la resolución que corresponda.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 307.
+
+El instituto Estatal Electoral conocerá de la (sic) infracciones en que incurran los observadores electorales por no sujetar su actividad a las disposiciones o abstención que le señale el artículo 7 bis de este Código.
+
+Al efecto el Instituto Estatal Electoral podrá imponerles una sanción consistente en multa de 20 a 100 salarios mínimos.
+
+###### ARTICULO 308.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 309.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 310.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 311.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 312.
+
+(DEROGADO, P.O. 13 DE MAYO DE 1995)
+
+###### ARTICULO 313.
+
+Se procederá a la cancelación del registro ante el Instituto Electoral del Estado de todos aquellos partidos políticos estatales o nacionales que ante el se encuentren registrados que:
+
+a).- Acuerden la no participación de sus candidatos electos en el Colegio Electoral;
+
+b).- No acrediten comisionados ante el propio Instituto Electoral del Estado, en los términos de éste Código o bien queden sin representación durante dos sesiones consecutivas, previa notificación de la primera ausencia. Tratándose de partidos políticos nacionales que incurran en los supuestos anteriores, el Instituto Electoral del Estado, independientemente de haber procedido a la cancelación de su registro, dará los avisos respectivos al Instituto Federal Electoral para los efectos legales correspondientes.
+
+###### ARTICULO 314.
+
+Ninguna suspensión de derechos políticos, suspensión o cancelación de registro de que tratan los artículos anteriores, podrán acordarse sin que previamente se oiga en defensa al interesado, para lo cual deberá ser citado, a fin de que conteste los cargos y presente las pruebas tendientes a su justificación.
+
+###### ARTICULO 315.
+
+En todos los casos de cancelación de registro, la resolución que la determine deberá estar debidamente fundada y motivada y publicarse en la misma forma que el otorgamiento del registro.
+
+###### ARTICULO 316.
+
+Cuando en este capítulo se haga referencia a alguna multa se entenderá que se refiere al salario mínimo general vigente en el Estado, al momento de cometer el delito o infracción.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+
+###### ARTICULO 317.
+
+Las sanciones previstas a las infracciones de este capítulo se aplicarán sin perjuicio de las penas que pudieran corresponder al responsable, conforme al Código Penal del Estado, por la misma conducta.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Organizaciones Políticas y Procesos Electorales del Estado de Oaxaca, aprobada mediante decreto número 154 de fecha 6 de noviembre de 1979 y sus reformas y adiciones aprobadas por decreto del 28 de julio de 1989.
+
+TERCERO.- Los bienes correspondientes a la Comisión Estatal Electoral pasarán a formar parte del Patrimonio del Instituto Estatal Electoral.
+
+CUARTO.- Para los procesos electorales de 1992, el Instituto Estatal Electoral, el Ejecutivo del Estado y la Legislatura Local, en el ámbito de su competencia, ajustarán los plazos correspondientes para la integración de los diversos órganos electorales.
+
+QUINTO.- Para los efectos de las elecciones de 1992, las organizaciones o agrupaciones políticas que hayan celebrado actividades de este tipo durante dos años anteriores al entrar en vigencia este Código tendrán derecho a solicitar registro condicionado, acreditando ante el Instituto la realización de esas actividades políticas.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+
+DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Oaxaca de Juárez, a 30 de Enero de 1992.
+
+Dip. Arq. Manuel de Jesús Ortega Gómez
+
+P r e s i d e n t e
+
+Dip. Lic. Alvaro Jiménez Soriano
+
+S e c r e t a r i o
+
+Dip. Dr. Arturo Bustamante Hernández
+
+S e c r e t a r i o
+
+Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Oaxaca de Juárez, Oax., a 30 de Enero de 1992.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. HELADIO RAMÍREZ LOPEZ
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+ING. LINO CELAYA LURIA
+
+Y lo comunico a usted para su conocimiento y fines consiguientes.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+"EL RESPETO AL DERECHO AJENO ES LA PAZ."
+
+Oaxaca de Juárez, Oax., 30 de Enero de 1992.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+ING. LINO CELAYA LURIA.
+
+Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 13 DE MAYO DE 1995.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Órganos Electorales: La elección del Presidente y los Consejeros Ciudadanos del Consejo General del Instituto deberá ser realizada por la Cámara de diputados a más tardar 20 días después del día de entrada en vigor del presente Decreto.
+
+Tercero.- La designación de los magistrados del Tribunal Estatal Electoral que deberán actuar el proceso electoral de 1995 se efectuará a mas tardar en julio de 1995.
+
+Cuarto.- El Presidente y los Consejeros ciudadanos que actuarán en el Consejo General del Instituto Estatal electoral durarán en su encargo hasta el 31 de diciembre de 1995 y podrán ser ratificados.
+
+Quinto.- La LVI Legislatura de la Cámara de diputados procederá a ratificar o en su caso nombrar al Presidente y a los Consejeros ciudadanos para el periodo 1996-1998, en su primer periodo de sesiones ordinarias del primer año de ejercicio legal.
+
+Sexto.- Las disposiciones del artículo 10 inciso d), e) y f), entrarán en vigor a partir del proceso electoral de 1998.
+
+Séptimo.- Las disposiciones contenidas en la fracción 2 del artículo 63 entrarán en vigor a partir del proceso electoral de 1998; por lo que para el proceso electoral de 1995, el Presidente del Consejo General del Instituto Estatal Electoral será electo por las dos terceras partes de Congreso en base a una terna presentada por el Titular del Ejecutivo.
+
+P.O. 24 DE MAYO DE 1995.
+
+Primero.- El presente decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- La designación de los Magistrados del Tribunal Estatal Electoral que deberán actuar en el proceso electoral de 1995, se efectuará a más tardar en julio de 1995. Hasta en tanto el Congreso del Estado no designe a los integrantes del Tribunal Estatal Electoral en términos de las fracciones 2 y 3 del artículo 246 seguirán en funciones los integrantes de dicho tribunal designados hasta antes de la entrada en vigor de este decreto.
+
+Tercero.- Las disposiciones contenidas en el inciso a) del artículo 63, entrarán en vigor a partir del proceso electoral de 1998; por lo que para el proceso electoral de 1995 el Presidente del Consejo General del Instituto Estatal Electoral, será electo por las dos terceras partes del Congreso, en base a una terna presentada por el Titular del Ejecutivo, hasta en tanto el Consejo General seguirá funcionando con el Presidente del Consejo y Consejeros Magistrados designados hasta antes de la entrada en vigor de este decreto.
 
 ## TRANSITORIOS
 
@@ -19759,75 +16671,13 @@ el límite máximo permisible
 
 señalado en la Tabla I del
 
-### Capítulo XIV del Título II,. de la Ley
+### CAPITULO TERCERO. DEL ESCRUTINIO Y COMPUTO EN LA CASILLA
 
-Federal de Derechos
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
-Descargas cuya concentración 30 de junio 1o. de enero
+## TITULO PRIMERO. GENERALIDADES
 
-de contaminantes de metales de 1997 del 2000
-
-pesados o cianuros rebasen
-
-los límites máximos
-
-permisibles señalados en la
-
-tabla I del Capítulo XIV del
-
-## Título II, de la Ley. Federal de Derechos
-
-Descargas municipales (excepto las previstas en los dos supuestos anteriores):
-
-Poblaciones de más 30 de junio 1o. de enero
-
-de 50,000 habitantes de 1997 del 2000
-
-Poblaciones de entre 20,001 y 31 de diciembre 1o. de enero
-
-50,000 de 1998 del 2005
-
-Poblaciones de entre 2,501 31 de diciembre 1o. de enero
-
-y 20,000 de 1999 del 2010
-
-Descargas no incluidas en las dos categorías anteriores:
-
-Con Demanda Bioquímica 30 de junio 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1997 del 2000
-
-Suspendidos Totales mayor
-
-o igual a 3 toneladas sobre día
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1998 del 2005
-
-Suspendidos Totales mayor
-
-a 1.2 toneladas sobre día pero
-
-menor a 3 toneladas sobre día
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1999 del 2010
-
-Suspendidos Totales igual o
-
-menor a 1.2 toneladas sobre día
-
-II.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
-
-Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieran considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
-
-III.- No será aplicable en favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en las fracciones I y II de este Artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
-
-IV.- El procedimiento de muestreo a que se refiere el último párrafo del artículo 278-B de la Ley Federal de Derechos, y el instructivo para la presentación y seguimiento del programa de acciones a que se refiere el segundo párrafo del artículo 282-A de la misma, serán publicados, por la Comisión Nacional del Agua, en el Diario Oficial de la Federación, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
-
-V.- El artículo 12 de la Ley Federal de Derechos entrará en vigor a partir del 1o. de febrero de 1997.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ## Transitorio
 
@@ -19931,93 +16781,11 @@ límite máximo permisible
 
 señalado en la Tabla I del
 
-### Capítulo XIV del Título II, de
+### CAPITULO CUARTO. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL PAQUETE ELECTORAL
 
-la Ley Federal de Derechos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
-Descargas cuya concentración 30 de junio 1o. de enero
-
-de contaminantes de metales de 1997 del 2000
-
-pesados o cianuros rebasen
-
-los límites máximos permisibles
-
-señalados en la tabla I del
-
-### Capítulo XIV del Título II, de
-
-la Ley Federal de Derechos.
-
-Descargas municipales (excepto las previstas en los dos supuestos anteriores):
-
-Poblaciones de más de 30 de junio 1o. de enero
-
-50,000 habitantes. de 1997 del 2000
-
-Poblaciones de entre 20,001
-
-y 50,000. 31 de diciembre 1o. de enero
-
-de 1998 del 2005
-
-Poblaciones de entre 2,501 31 de diciembre 1o. de enero
-
-y 20,000. de 1999 del 2010
-
-FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A
-
-Fecha límite Fecha límite
-
-Tipo de descarga para presentar para no
-
-programa de rebasar los
-
-acciones. límites
-
-máximos
-
-permisibles
-
-Con Demanda Bioquímica 30 de junio 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1997 del 2000
-
-Suspendidos Totales
-
-mayor o igual a 3 toneladas
-
-sobre día.
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1998 del 2005
-
-Suspendidos Totales
-
-mayor a 1.2 toneladas sobre
-
-día pero menor a 3 toneladas
-
-sobre día.
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero
-
-de Oxígeno Total y/o Sólidos de 1999 del 2010
-
-Suspendidos Totales igual
-
-o menor a 1.2 toneladas
-
-sobre día.
-
-III.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción II del presente artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
-
-Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieran considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
-
-IV.- No será aplicable en favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en las fracciones I y II de este artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
-
-V.- El procedimiento de muestreo a que se refiere el último párrafo del artículo 278-B de la Ley Federal de Derechos, y el instructivo para la presentación y seguimiento del programa de acciones a que se refiere el segundo párrafo del artículo 282-A de la misma, serán publicados, por la Comisión Nacional del Agua, en el Diario Oficial de la Federación, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+### CAPITULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
 
 ## Transitorio.
 
@@ -20481,783 +17249,7 @@ tipo B
 
 del Capítulo XIV del
 
-## Título II, de la Ley Federal
-
-de Derechos.
-
-Descargas municipales
-
-Tipo de Fecha límite para Fecha límite para
-
-Descarga presentar programa no rebasar
-
-de acciones los límites
-
-máximos permisibles
-
-Poblaciones de 30 de junio de 1997 1o. de enero del 2000
-
-más de 50,000
-
-habitantes.
-
-Poblaciones de 31 de diciembre de 1998 1o. de enero del 2005
-
-entre 20,001 y
-
-50,000 habitantes.
-
-Poblaciones de 31 de diciembre de 1999 1o. de enero del 2010
-
-entre 2,501 y
-
-20,000 habitantes.
-
-Descargas no municipales
-
-Tipo de Fecha límite para Fecha límite para
-
-Descarga presentar programa no rebasar los
-
-de acciones límites máximos
-
-permisibles
-
-Con Demanda 30 de junio de 1997 1o. de enero del 2000
-
-Bioquímica de
-
-Oxígeno5 y/o
-
-Sólidos
-
-Suspendidos
-
-Totales mayor o
-
-igual a 3 toneladas
-
-sobre día.
-
-Con Demanda 31 de diciembre de 1998 1o. de enero del 2005
-
-Bioquímica de
-
-Oxígeno5 y/o
-
-Sólidos Suspendidos
-
-Totales mayor a 1.2
-
-toneladas sobre día
-
-pero menor a 3
-
-toneladas sobre día.
-
-Con Demanda 31 de diciembre de 1999 1o. de enero del 2010
-
-Bioquímica de
-
-Oxígeno5 y/o Sólidos
-
-Suspendidos Totales
-
-igual o menor a 1.2
-
-toneladas sobre día.
-
-Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
-
-I. Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación, dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
-
-Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieren considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo.
-
-II. No será aplicable a favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en el primero y segundo párrafos de este artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
-
-III. Para efectos del artículo 278-B de la Ley Federal de Derechos, los usuarios que hayan presentado programa de acciones para mejorar sus descargas de aguas residuales, podrán cumplir con la calidad establecida en la presente Ley, conforme al ejercicio fiscal en que se fijó la calidad de tipo de cuerpo receptor.
-
-Tratándose del descuento en el pago del derecho a que se refiere el artículo 282-C de esta Ley, los contribuyentes deberán cumplir con la calidad de acuerdo con el cuerpo receptor que se establezca en el artículo 278-B de la citada Ley, así como con la calidad inmediata superior a que se refiere la Tabla IV del artículo 282-C de la propia Ley.
-
-IV. Los usuarios que tengan fijadas condiciones particulares de descarga que sean vigentes y las estén cumpliendo, no pagarán el derecho a que se refiere el Capítulo XIV, Título II de la presente Ley y le seguirán siendo aplicables hasta su vencimiento o revocación en términos de Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Artículo Quinto. Para los efectos de lo dispuesto en el artículo 223 de la Ley Federal de Derechos, durante los ejercicios de 2002 a 2004, los municipios que se señalan en el presente artículo, en lugar de aplicar lo dispuesto por el artículo 231 de dicha Ley, efectuarán el pago del derecho por el uso o aprovechamiento de aguas nacionales, conforme a las zonas de disponibilidad de agua y de acuerdo al año que corresponda, de conformidad con lo siguiente:
-
-AÑO 2000
-
-ZONA 1
-
-Estado de San Luis Potosí: San Luis Potosí y Soledad de Graciano Sánchez.
-
-ZONA 2
-
-Estado de México: Apaxco, Chapa de Mota, Huehuetoca, Jilotepec, San Martín de las Pirámides, Teotihuacán y Villa del Carbón.
-
-ZONA 3
-
-Estado de Baja California: Ensenada y Tecate.
-
-Estado de Baja California Sur: La Paz.
-
-Estado de Chihuahua: Allende, Camargo, Jiménez, Juárez, López y San Francisco de Conchos.
-
-Estado de Guanajuato: Apaseo El Alto, Apaseo El Grande, Celaya, Romita, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao y Villagrán.
-
-Estado de México: Soyaniquilpan de Juárez.
-
-Estado de Morelos: Axochiapan y Tepalcingo.
-
-Estado de Puebla: Puebla.
-
-Estado de Querétaro: Corregidora, Marqués El y Querétaro.
-
-Estado de Quintana Roo: Benito Juárez.
-
-Estado de San Luis Potosí: Villa de Ramos.
-
-ZONA 4
-
-Estado de Aguascalientes: San José de Gracia.
-
-Estado de Chihuahua: Ahumada.
-
-Estado de México: Acolman, Aculco, Almoloya de Alquisiras, Amatepec, Amecameca, Atenco, Coatepec Harinas, Chiautla, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Morelos, Nopaltepec, Ocoyoacac, Ocuilan, Ozumba, Tenango del Valle, Texcaltitlán, Tlatlaya, Tepetlaoxtoc, Tlalmanalco, Tonatico y Villa Guerrero.
-
-Estado de Nuevo León: Abasolo, Allende, Cadereyta Jiménez, Ciénega de Flores, Doctor González, Galeana, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería, Salinas Victoria y Santiago.
-
-Estado de Puebla: Atoyatempan, Mixtla, Reyes de Juárez Los, San Salvador Huixcolotla, Santa Clara Huitziltepec y Teochtepec.
-
-Estado de Quintana Roo: Solidaridad.
-
-Estado de San Luis Potosí: Villa de la Paz.
-
-ZONA 5
-
-Estado de Coahuila: Morelos.
-
-Estado de Chihuahua: Cuauhtémoc.
-
-Estado de Durango: Durango y Nombre de Dios.
-
-Estado de Guerrero: Acapulco de Juárez.
-
-Estado de Jalisco: Puerto Vallarta.
-
-Estado de México: Ayapango, Axapusco, Atlautla, Ecatzingo, Hueypoxtla, Ixtapan de la Sal, Ixtapan del Oro, Jilotzingo, Juchitepec, Otumba, Papalotla, Polotitlán, Temamatla, Temascalapa, Tenancingo, Tenango del Aire, Tepetlixpa, Tequisquiac, Tezoyuca, Timilpan, Zacazonapan, Zacualpan y Zumpahuacán.
-
-Estado de Michoacán: Morelia.
-
-Estado de Morelos: Cuernavaca.
-
-Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Aramberri, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Herreras Los, Higueras, Hidalgo, Hualahuises, Iturbide, Melchor Ocampo, Mier y Noriega, Parás, Ramones Los, Rayones, Sabinas Hidalgo, Vallecillo y Villaldama.
-
-Estado de Puebla: Tecali de Herrera, Tepeaca y Tlanepantla.
-
-ZONA 6
-
-Estado de Colima: Armería y Tecomán.
-
-Estado de Guerrero: Coyuca de Benítez, José Azueta, San Marcos y Tepecoacuilco de Trujano.
-
-Estado de Hidalgo: Ajacuba, Alfajayucan, Arenal El, Atitalaquia, Atotonilco de Tula, Chapantongo, Francisco I. Madero, Huasca de Ocampo, Ixmiquilpan, Nopala de Villagrán, Progreso, Santiago de Anaya, Tasquillo, Tecozautla, Tezontepec de Aldama, Tepeji del Río de Ocampo, Tepetitlán, Tlahuelilpan, Tula de Allende, Tetepango y Zimapán.
-
-Estado de Jalisco: Cihuatlán, Cd. Guzmán, Ojuelos de Jalisco, Tuxpan y Zapotiltic.
-
-Estado de México: Jiquipilco.
-
-Estado de Michoacán: Apatzingán, Buenavista, Múgica, Parácuaro Tepalcatepec y Tocumbo.
-
-Estado de Oaxaca: Abejones, Asunción Cacalotepec, Asunción Cuyotepeji, Asunción Ocotlán, Asunción Tlacolulita, Ayoquezco de Aldama, Barrio de la Soledad El, Calihuala, Candelaria Loxicha, Ciénega de Zimatlán La, Coatecas Altas, Coicoyan de las Flores, Compañía La, Concepción Buenavista, Concepción Papalo, Constancia del Rosario, Cosoltepec, Cuilapam de Guerrero, Ejutla de Crespo, Fresnillo de Trujano, Guadalupe de Ramírez, Guelatao de Juárez, Heroica Ciudad de Tlaxiaco, Mesones Hidalgo, Villa Hidalgo (Yalalag), Huautla de Jiménez, Ixtlán de Juárez, Magdalena Apasco, Magdalena Jaltepec, Santa Magdalena Jicotlán, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Peñasco, Magdalena Teitipac, Magdalena Tequisistlán, Magdalena Tlacotepec, Mariscala de Juárez, Mártires de Tacubaya, Mazatlán Villa de Flores, Mixistlán de la Reforma, Monjas, Nazareno Etla, Nejapa de Madero, Ixpantepec Nieves, Ocotlán de Morelos, Pe La, Pinotepa de Don Luis, Pluma Hidalgo, San José del Progreso, Putla Villa de Guerrero, Santa Catarina Quioquitani, Reforma La, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Atenango, San Agustín Chayuco, San Agustín Etla, San Agustín Loxicha, San Agustín Tlacoltepec, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Huaxpaltepec, San Andrés Huayapan, San Andrés Ixtlahuaca, San Andrés Lagunas, San Andrés Paxtlán, San Andrés Sinaxtla, San Andrés Solaga, San Andrés Yaa, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino El Alto, San Antonino Monteverde, San Antonio Acutla, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatipam, San Antonio Sinicahua, San Antonio Tepetlapa, San Baltazar Chichicapan, San Baltazar Loxicha, San Baltazar Yatzachi El Bajo, San Bartolo Coyotepec, San Bartolomé Ayautla, San Bartolomé Loxicha, San Bartolomé Quialana, San Bartolomé Yucuañe, San Bartolomé Zoogocho, San Bartolo Soyaltepec, San Bartolo Yautepec, San Bernardo Mixtepec, San Carlos Yautepec, San Cristóbal Amatlán, San Cristóbal Amoltepec, San Cristóbal Lachirioag, San Cristóbal Suchixtlahuaca, San Dionisio Ocotepec, San Esteban Atatlahuca, San Felipe Jalapa de Díaz, San Felipe Tejalapam, San Francisco Cahuacua, San Francisco Cajonos, San Francisco Chindua, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Lachigolo, San Francisco Logueche, San Francisco Nuxaño, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Francisco Teopam, San Francisco Tlapancingo, San Gabriel Mixtepec, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Tlacotepec, San Jerónimo Coatlán, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tecoatl, San Jorge Nuchita, San José Ayuquila, San José del Peñasco, San José Estancia Grande, San José Lachiguiri, San Juan Achiutla, San Juan Atepec, Ánimas Trujano, San Juan Bautista Atatlahuca, San Juan Bta. Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista lo de Soto, San Juan Bautista Suchitepec, San Juan Bta. Tlachichilco, San Juan Cacahuatepec, San Juan Cieneguilla, San Juan Colorado, San Juan Comaltepec, San Juan Cotzocon, San Juan Chicomezuchil, San Juan Chilateca, San Juan del Estado, San Juan del Río (Albarrada), San Juan Diuxi, San Juan Evangelista Analco, San Juan Guelavia, San Juan Ihualtepec, San Juan Juquila Mixes, San Juan Lachigalla, San Juan Lajarcia, San Juan Lalana, San Juan de los Cués, San Juan Mixtepec (Dist. 26), San Juan Numi, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiahije, San Juan Quiotepec, San Juan Sayultepec, San Juan Tabaa, San Juan Tamazola, San Juan Teita, San Juan Teitipac, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yae, San Juan Yatzona, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Texmelucan, San Lorenzo Victoria, San Lucas Camotlán, San Lucas Quiavini, San Lucas Zoquiapam, San Luis Amatlán, San Marcial Ozolotepec, San Marcos Arteaga, San Martín de los Canseco, San Martín Huamelulpan, San Martín Itunyoso, San Martín Lachila, San Martín Peras, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, San Mateo Cajonos, Capulalpan de Méndez, San Mateo Yoloxochitlán, San Mateo Etlatongo, San Mateo Nejapam, San Mateo Peñasco, San Mateo Piñas, San Mateo Río Hondo, San Mateo Tlapiltepec, San Melchor Betaza, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Coatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Ejutla, San Miguel El Grande, San Miguel Huautla, San Miguel Mixtepec, San Miguel Panixtlahuaca, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, Villa Sola de Vega, San Miguel Suchixtepec, San Miguel Talea de Castro, San Miguel Tecomatlán, San Miguel Tenango, San Miguel Tequixtepec, San Miguel Tilquiapam, San Miguel Tlacamama, San Miguel Tlacotepec, San Miguel Tulancingo, San Miguel Yotao, San Nicolás, San Nicolás Hidalgo, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Tijaltepec, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Amuzgos, San Pedro Apóstol, San Pedro Atoyac, San Pedro Cajonos, San Pedro El Alto, San Pedro Huamelula, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jicayan, San Pedro Jocotipac, San Pedro Mártir, San Pedro Mártir Quiechapa, San Pedro Mártir Yucuxaco, San Pedro Mixtepec-Miahuatlán (Dist. 26), San Pedro Molinos, San Pedro Nopala, San Pedro Ocotepec, San Pedro Quiatoni, San Pedro Taviche, San Pedro Tidaa, San Pedro Topiltepec, San Pedro Totolapam, San Pedro Tututepec, San Pedro Yaneri, San Pedro Yolox, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Etla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yucunama, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Ixcapa, San Sebastián Nicananduta, San Sebastián Río Hondo, San Sebastián Tecomaxtlahuaca, San Simón Zahuatlán, Santa Ana, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Yareni, Santa Ana Zegache, Santa Catalina Quieri, Santa Catarina Ixtepeji, Santa Catarina Juquila, Santa Catarina Lachatao, Santa Catarina Loxicha, Santa Catarina Mechoacan, Santa Catarina Minas, Santa Catarina Quiane, Santa Catarina Ticua, Santa Catarina Yosonotu, Santa Catarina Zapoquila, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujía, Santa Cruz Mixtepec, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tacache de Mina, Santa Cruz Tacahua, Santa Cruz Tayata, Santa Cruz Zenzontepec, Santa Gertrudis, Santa Inés Del Monte, Santa Inés Yatzeche, Santa Lucía Miahuatlán, Santa Lucía Monteverde, Santa Lucía Ocotlán, Santa María Alotepec, Santa María Apazco, Santa María Atzompa, Santa María Camotlán, Santa María Colotepec, Santa María Cortijos, Santa María Coyotepec, Santa María Chachoapam, Santa María Chilapa de Díaz, Santa María del Rosario, Santa María Ecatepec, Santa María Guelace, Santa María Huatulco, Santa María Huazolotitlán, Santa María Ipalapa, Santa María Ixcatlán, Santa María Jalapa del Marqués, Santa María Jaltianguis, Santa María Lachixio, Santa María Mixtequilla, Santa María Nativitas, Santa María Nduayaco, Santa María Ozolotepec, Santa María Papalo, Santa María Peñoles, Santa María Petapa, Santa María Quiegolani, Santa María Sola, Santa María Tataltepec, Santa María Tecomavaca, Santa María Temaxcalapa, Santa María Temaxcaltepec, Santa María Tepantlali, Santa María Texcatitlán, Santa María Tlahuitoltepec, Santa María Tonameca, Santa María Totolapilla, Santa María Yalina, Santa María Yavesia, Santa María Yolotepec, Santa María Yosoyua, Santa María Yucuhiti, Santa María Zacatepec, Santa María Zaniza, Santa María Zoquitlán, Santiago Amoltepec, Santiago Apoala, Santiago Apóstol, Santiago Astata, Santiago Atitlán, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Camotlán, Santiago Comaltepec, Santiago Chazumba, Santiago Choapam, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Jocotepec, Santiago Juxtlahuaca, Santiago Lalopa, Santiago Laxopa, Santiago Llano Grande, Santiago Matatlán, Santiago Minas, Santiago Nacaltepec, Santiago Nejapilla, Santiago Nundichi, Santiago Nuyoo, Santiago Pinotepa Nacional, Santiago Suchilquitongo, Santiago Tamazola, Santiago Tapextla, Santiago Tenango, Santiago Tepetlapa, Santiago Tetepec, Santiago Textitlán, Santiago Tilantongo, Santiago Tillo, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacui, Santiago Yaitepec, Santiago Yaveo, Santiago Yolomecatl, Santiago Yosondua, Santiago Yucuyachi, Santiago Zacatepec, Santiago Zoochila, Nuevo Zoquiapam, Santo Domingo Ingenio, Santo Domingo Albarradas, Santo Domingo Armenta, Santo Domingo Chihuitán, Santo Domingo de Morelos, Santo Domingo Ixcatlán, Santo Domingo Ozolotepec, Santo Domingo Petapa, Santo Domingo Teojomulco, Santo Domingo Tepuxtepec, Santo Domingo Tlatayapan, Santo Domingo Tomaltepec, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santos Reyes Nopala, Santos Reyes Papalo, Santos Reyes Tepejillo, Santos Reyes Yucuna, Santo Tomás Jalieza, Santo Tomás Mazaltepec, San Vicente Coatlán, San Vicente Lachixio, San Vicente Nuñu, Silacayoapam, Sitio de Xitlapehua, Soledad Etla, Tanetze de Zaragoza, Taniche, Tataltepec de Valdés, Tecocuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacotepec Plumas, Totontepec Villa de Morelos, Trinidad Zaachila, Trinidad Vista Hermosa La, Valerio Trujano, Villa Díaz Ordaz, Yaxe, Magdalena Yodocono de Porfirio Díaz, Yogana, Zaachila Villa de, Zapotitlán del Río, Zapotitlán Lagunas, Zapotitlán Palmas y Zimatlán de Álvarez.
-
-Estado de Puebla: Altepexi, Arroyo Seco, Morelos Cañada, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, Tlacotepec de Benito Juárez y Xochitlán.
-
-Estado de Querétaro: Amealco, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles y Tolimán.
-
-Estado de San Luis Potosí: Alaquines, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Lagunillas, Río Verde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Tierranueva, Villa de Juárez y Villa de Arista.
-
-Estado de Tamaulipas: Güémez, Padilla y Victoria.
-
-Estado de Tlaxcala: Benito Juárez, San José Teacalco, San Lucas Tecopilco y Santa Cruz Tlaxcala.
-
-Estado de Yucatán: Mérida.
-
-Estado de Zacatecas: Morelos y Veta Grande.
-
-ZONA 7
-
-Estado de Chiapas: Acacoyagua, Acala, Acapetahua, Altamirano, Amatán, Amatenango de la Frontera, Amatenango del Valle, Ángel Albino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Berriozábal, Bochil, Bosque El, Cacahoatán, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Concordia La, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Grandeza La, Huehuetán, Huistán, Huitiupan, Huixtla, Independencia La, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, Libertad La, Mapastepec, Margaritas Las, Mazapa de Madero, Mazatán, Metapa, Mitontic, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Porvenir El, Pueblo Nuevo Comaltitlán, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rosas Las, Sabinilla, Salto de Agua, San Cristóbal de Las Casas, San Fernando, Siltepec, Simojovel de Allende, Sitala, Socoltenango, Solosuchiapa, Soyalo, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Trinitaria La, Tumbala, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villa Corzo, Villa Flores, Yajalón, San Lucas, Zinacantán y San Juan Cancuc.
-
-Estado de Guerrero: Chilpancingo de los Bravo, Huitzuco de los Figueroa e Iguala de la Independencia.
-
-Estado de Morelos: Tlayacapan.
-
-Estado de Nayarit: Bahía de Banderas y Tepic.
-
-Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8), San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerómino Tlacochauya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
-
-Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
-
-Estado de Tabasco: Centla, Emiliano Zapata, Jonuta, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
-
-Estado de Tamaulipas: Altamira, Ciudad Madero, Mante El y Tampico.
-
-ZONA 8
-
-Estado de Hidalgo: Jacala de Ledezma.
-
-Estado de Oaxaca: San Juan Bautista Tuxtepec.
-
-Estado de San Luis Potosí: Matlapa.
-
-Estado de Veracruz: Catemaco y Moloacán.
-
-ZONA 9
-
-Estado de Guanajuato: Xichú.
-
-Estado de Jalisco: Manzanilla de la Paz La.
-
-Estado de Michoacán: Acuitzio, Cherán, Nahuatzén, Salvador Escalante y Tingambato.
-
-Estado de Veracruz: Oluta.
-
-AÑO 2001
-
-ZONA 2
-
-Estado de Guanajuato: Celaya.
-
-Estado de Querétaro: Corregidora, Marqués El y Querétaro.
-
-ZONA 3
-
-Estado de México: Almoloya de Alquisiras, Coatepec Harinas, Joquicingo, Malinalco, Texcaltitlán y Tonatico.
-
-Estado de Puebla: Santa Clara Huitziltepec.
-
-ZONA 4
-
-Estado de Baja California: Ensenada
-
-Estado de Baja California Sur: La Paz.
-
-Estado de Coahuila: Morelos.
-
-Estado de Chihuahua: Cuauhtémoc.
-
-Estado de Durango: Durango.
-
-Estado de México: Ixtapan de la Sal, Tenancingo y Zumpahuacán.
-
-Estado de Puebla: Tepeaca y Tlanepantla.
-
-Estado de Quintana Roo: Benito Juárez.
-
-Estado de San Luis Potosí: Villa de Ramos.
-
-ZONA 5
-
-Estado de Guerrero: José Azueta.
-
-Estado de Hidalgo: Alfajayucan, Atotonilco de Tula, Chapantongo, Ixmiquilpan, Nopala de Villagrán, Tasquillo, Tecozautla, Tepeji del Río de Ocampo, Tezontepec de Aldama, Tepetitlán y Zimapán.
-
-Estado de México: Aculco, Amecameca, Chiautla, Nopaltepec, Ozumba, Teotihuacán, Tepetlaoxtoc y Tlalmanalco.
-
-Estado de Nuevo León: Abasolo, Allende, Cadereyta Jiménez, Ciénega de Flores, Doctor González, Galeana, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería y Santiago.
-
-Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Fresnillo de Trujano, Guelatao de Juárez, Huautla de Jiménez, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Mesones Hidalgo, Nazareno Etla, Nejapa de Madero, Ocotlán de Morelos, Pe- La, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Etla, San Andrés Sinaxtla, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatipam, San Baltazar Chichicapan, San Bartolo Coyotepec, San Bernardo Mixtepec, San Cristóbal Suchixtlahuaca, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jerónimo Sosola, San Jerónimo Taviche, San Jorge Nuchita, San José Ayuquila, San Juan Achiutla, San Juan Atepec, Ánimas Trujano, San Juan Bautista Atatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan del Río (Albarradas), San Juan Guelavia, San Juan Lachigalla, San Juan de los Cués, San Juan Numí, San Juan Teitipac, San Juan Tepeuxila, San Juan Yae, San Lorenzo Cacaotepec, San Luis Amatlán, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, Capulalpan de Méndez, San Mateo Etlatongo, San Mateo Nejapam, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Ejutla, San Miguel Huautla, Villa Sola de Vega, San Miguel Tlacotepec, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Cajonos, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Quiatonic, San Pedro Taviche, San Pedro Totolapam, San Pedro y San Pablo Etla, San Pedro y San Pablo Tequixtepec, San Sebastián Abasolo, San Simón Zahuatlán, Santa Ana, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Yareni, Santa Ana Zegache, Santa Catarina Ixtepeji, Santa Catarina Quiane, Santa Catarina Zapoquila, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujía, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tayata, Santa Gertrudis, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María Guelace, Santa María Jaltianguis, Santa María Nativitas, Santa María Nduayaco, Santa María Papalo, Santa María Petapa, Santa María Tecomavaca, Santa María Texcatitlán, Santa María Yavesia, Santa María Zoquitlán, Santiago Apoala, Santiago Apóstol, Santiago Ayuquililla, Santiago Comaltepec, Santiago Chazumba, Santiago Huautlilla, Santiago Matatlán, Santiago Nuyoo, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santiago Xiacui, Nuevo Zoquiapam, Santo Domingo Petapa, Santo Domingo Tomaltepec, Santos Reyes Yucuna, Santo Tomás Mazaltepec, Sitio de Xitlapehua, Soledad Etla, Taniche, Tecocuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Tlacotepec Plumas, Trinidad Zaachila, Valerio Trujano, Yaxe, Zaachila Villa de, Zapotitlán Palmas, San José del Progreso y Zimatlán de Álvarez.
-
-Estado de Puebla: Altepexi, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac y Tlacotepec de Benito Juárez.
-
-Estado de Querétaro: Amealco, Peñamiller y Tolimán.
-
-Estado de Quintana Roo: Solidaridad.
-
-Estado de San Luis Potosí: Ciudad Fernández, Río Verde, Tierranueva y Villa de Arista.
-
-Estado de Tlaxcala: Santa Cruz Tlaxcala.
-
-ZONA 6
-
-Estado de Chiapas: Acapetahua, Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Chiapa de Corzo, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, Independencia La, Ixtapa, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Motozintla, Ocosingo, Ocozocoautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, Rosas Las, San Cristóbal de Las Casas, Suchiate, Sunuapa, Tapachula, Tecpatán, Tonalá, Trinitaria La, Tuxtla Gutiérrez, Tuxtla Chico, Venustiano Carranza y Villa Flores.
-
-Estado de Guerrero: Huitzuco de los Figueroa e Iguala de la Independencia.
-
-Estado de Jalisco: Puerto Vallarta.
-
-Estado de México: Atlautla, Axapusco, Ayapango, Ecatzingo, Jilotzingo, Juchitepec, Otumba, Papalotla, Temamatla, Tepetlixpa, Tequisquiac y Tezoyuca.
-
-Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Aramberri, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Herreras Los, Higueras, Hualahuises, Hidalgo, Iturbide, Melchor Ocampo, Mier y Noriega, Parás, Ramones Los, Sabinas Hidalgo y Villaldama.
-
-Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8), San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtlac de Cabrera.
-
-Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
-
-Estado de Tamaulipas: Ciudad Madero.
-
-ZONA 7
-
-Estado de Oaxaca: San Juan Bautista Tuxtepec.
-
-Estado de Puebla: Xochitlán.
-
-ZONA 9
-
-Estado de Veracruz: Catemaco y Moloacán.
-
-AÑO 2002
-
-ZONA 3
-
-Estado de Chihuahua: Cuauhtémoc.
-
-ZONA 4
-
-Estado de Hidalgo: Alfajayucan, Chapantongo, Nopala de Villagrán, Tasquillo, Tecozautla, Tezontepec de Aldama y Zimapán.
-
-Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Mesones Hidalgo, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Nazareno Etla, Ocotlán de Morelos, Pe- La, San José del Progreso, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Etla, San Andrés Zabache, San Andrés Zautla, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Bartolo Coyotepec, San Bernardo Mixtepec, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jerónimo Sosola, Ánimas Trujano, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan Guelavia, San Juan Teitipac, San Lorenzo Cacaotepec, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, Capulalpan de Méndez, San Miguel Amatlán, San Miguel Ejutla, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro y San Pablo Etla, San Sebastián Abasolo, Santa Ana, Santa Ana del Valle, Santa Ana Zegache, Santa Catarina Quiane, Santa Cruz Amilpas, Santa Cruz Papalutla, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María Guelace, Santa María Texcatitlán, Santiago Apoala, Santiago Apóstol, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santo Domingo Tomaltepec, Santo Tomás Mazaltepec, Soledad Etla, Taniche, Teotitlán de Flores Magón, Teotitlán del Valle, Tlacotepec Plumas, Trinidad Zaachila, Valerio Trujano, Zaachila Villa de y Zimatlán de Álvarez.
-
-Estado de Puebla: Altepexi.
-
-Estado de San Luis Potosí: Ciudad Fernández, Río Verde y Villa de Arista.
-
-ZONA 5
-
-Estado de Chiapas: Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Frontera Comalapa, Huixtla, Independencia La, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Ocozocoautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, San Cristóbal de Las Casas, Suchiate, Tapachula, Tonalá, Trinitaria La, Tuxtla Gutiérrez y Villa Flores.
-
-Estado de Oaxaca: Guadalupe Etla, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Juan Bautista Atatlahuca, San Pablo Etla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
-
-Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
-
-Estado de Quintana Roo: Benito Juárez.
-
-ZONA 6
-
-Estado de México: Amecameca, Nopaltepec, Ozumba, Tepetlaoxtoc y Tlalmanalco.
-
-Estado de Nuevo León: Allende, Cadereyta Jiménez, Ciénega de Flores, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería y Santiago.
-
-Estado de Quintana Roo: Solidaridad.
-
-ZONA 7
-
-Estado de Jalisco: Puerto Vallarta.
-
-Estado de México: Ecatzingo y Tepetlixpa.
-
-Estado de Nuevo León: Aramberri, Cerralvo, Doctor Arroyo, General Zaragoza, Higueras y Hualahuises.
-
-Estado de Oaxaca: San Juan Bautista Tuxtepec.
-
-ZONA 8
-
-Estado de Puebla: Xocitlán.
-
-AÑO 2003
-
-ZONA 3
-
-Estado de San Luis Potosí: Villa de Arista.
-
-ZONA 4
-
-Estado de Oaxaca: Guadalupe Etla, Natividad, Oaxaca de Juárez, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Pablo Etla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
-
-ZONA 6
-
-Estado de Oaxaca: San Juan Bautista Tuxtepec.
-
-Estado de Quintana Roo: Benito Juárez.
-
-ZONA 7
-
-Estado de México: Ozumba, San Martín de las Pirámides.
-
-Estado de Nuevo León: Allende, Lampazos de Naranjo y Linares.
-
-Estado de Quintana Roo: Solidaridad.
-
-ZONA 8
-
-Estado de Jalisco: Puerto Vallarta.
-
-AÑO 2004
-
-ZONA 5
-
-Estado de Oaxaca: San Juan Bautista Tuxtepec.
-
-ZONA 7
-
-Estado de Quintana Roo: Benito Juárez.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Los municipios que no se encuentren señalados en el presente artículo, deberán aplicar lo dispuesto por el artículo 231 de la Ley Federal de Derechos.
-
-Artículo Sexto.- Para los efectos de lo dispuesto en el artículo 223, Apartado B, fracciones I y III de la Ley Federal de Derechos, se establece lo siguiente:
-
-I. El derecho por la explotación, uso o aprovechamiento de aguas nacionales, correspondiente a municipios que en el 2000 hayan sido reclasificados de la zona de disponibilidad 7 a la zona de disponibilidad 6, se pagará al 60% de la cuota que corresponda.
-
-II. El derecho por la explotación, uso o aprovechamiento de aguas nacionales, correspondiente a municipios que en el 2000 hayan sido reclasificados de la zona de disponibilidad 8 a la zona de disponibilidad 7, se pagará al 60% de la cuota que corresponda.
-
-Artículo Séptimo.- Lo dispuesto en el artículo 148, Apartado A, fracción II, inciso g) de la Ley Federal de Derechos, entrará en vigor a partir del 1o. de julio del año 2000.
-
-D.O.F. 31 DE DICIEMBRE DE 2000.
-
-Artículo Primero.- La presente Ley entrará en vigor a partir del 1o. de enero de 2001.
-
-Artículo Segundo.- Durante el año de 2001, se aplicarán en materia de derechos las siguientes disposiciones:
-
-I. Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
-
-a). En los meses de enero y julio de 2001 se incrementarán en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
-
-b). Las cuotas de los derechos a que se refiere el Capítulo I, Sección Primera y el Capítulo II, del Título I de la Ley Federal de Derechos, se incrementarán a partir del 1o. de enero de 2001, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor de noviembre de 2000 entre el Índice Nacional de Precios al Consumidor de noviembre de 1999.
-
-Las cuotas señaladas en este inciso no se incrementarán en los meses de enero, abril, julio y octubre de 2001, conforme a lo dispuesto en el inciso a) de esta fracción.
-
-II. No se incrementarán en el mes de enero de 2001, las cuotas de los derechos establecidos en el Artículo Único de la presente Ley que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley Federal de Derechos.
-
-Las cuotas a que se refiere esta fracción se incrementarán en los meses de abril, julio y octubre de 2001, conforme a lo dispuesto en la fracción I, inciso a) de este artículo.
-
-III. Los derechos a que se refiere el artículo 3o., séptimo párrafo de la Ley Federal de Derechos son:
-
-a). Los prestados por oficinas de la Federación en el extranjero.
-
-b). Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
-
-IV. Las cuotas de los derechos establecidos en el Capítulo II del Título I de la Ley Federal de Derechos, actualizadas en términos de las disposiciones respectivas, se ajustarán para su pago a partir del día 1o. de enero de 2001, a múltiplos de $ 5.00.
-
-Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste se disminuirá a la unidad inmediata anterior.
-
-V. No se pagará el derecho establecido en la fracción I, apartado A del artículo 187 de la Ley Federal de Derechos, tratándose de la inscripción en el Registro Agrario Nacional de las resoluciones que dicten los Tribunales Agrarios, cuando las mismas se refieran a alguna acción agraria de las que se encuentran contempladas dentro del rezago agrario, en términos del Artículo Tercero Transitorio del Decreto de Reformas al Artículo 27 Constitucional, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y de la Ley Agraria.
-
-VI. Los egresados de educación de tipo Medio Superior, es decir el Técnico Superior Universitario y Profesional asociado de las instituciones públicas del Sistema Educativo Nacional, cubrirán el 50% del pago de los derechos previstos en las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
-
-VII. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, tratándose de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, se pagará el 25% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la Ley Federal de Derechos.
-
-VIII. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
-
-IX. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, cuando la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel, se pagará el 80% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
-
-X. Los municipios que para el presente ejercicio fiscal hayan cambiado de la zona de disponibilidad 8 a la zona 7, pagarán el 60% de la cuota correspondiente a esta última, de conformidad con el artículo 223 de esta Ley.
-
-XI. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-XII. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-XIII. Para los efectos de lo dispuesto en el artículo 162, apartado A, fracción I de la Ley Federal de Derechos, no pagarán los derechos de registro marítimo los propietarios de embarcaciones y artefactos navales menores, excepto las embarcaciones que prestan servicios sujetos a permisos en los términos de la Ley de Navegación.
-
-XIV. Para los efectos de lo dispuesto en el artículo 223, apartado B, fracciones I y III de la Ley Federal de Derechos, el derecho por la explotación, uso o aprovechamiento de aguas nacionales, correspondiente a municipios que en el 2001 hayan sido reclasificados de la zona de disponibilidad 7 a la zona de disponibilidad 6, pagarán el 60% de la cuota que corresponda a esta última.
-
-Artículo Tercero.- Para efectos del artículo 8o., fracción I de la Ley Federal de Derechos, quedarán exentos durante el ejercicio fiscal de 2001 aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de tres días en las zonas en estados fronterizos, que hayan sido declaradas de desarrollo turístico prioritario, en términos del artículo 13 de la Ley Federal de Turismo.
-
-Artículo Cuarto.- Se reforma el primer párrafo del Artículo Quinto Transitorio del Decreto por el que se Reforma, Adiciona y Deroga a la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, y se adiciona dicho artículo, con dos últimos párrafos, para quedar como sigue:
-
-"Artículo Quinto.- Para los efectos de lo dispuesto en el artículo 223 de la Ley Federal de Derechos, durante los ejercicios de 2001 a 2004, los municipios que se señalan en el presente artículo, en lugar de aplicar lo dispuesto por el artículo 231 de dicha Ley, efectuarán el pago del derecho por el uso o aprovechamiento de aguas nacionales, conforme a las zonas de disponibilidad de agua y de acuerdo al año que corresponda, de conformidad con lo siguiente:
-
-.......
-
-Para el 2001, se establece que el municipio de Lázaro Cárdenas en el Estado Michoacán, así como los municipios de Altamira, Tampico y Ciudad Madero del Estado de Tamaulipas, pagarán el derecho conforme a la cuota correspondiente a la zona de disponibilidad 9. Asimismo, para la población de Anáhuac del Municipio de Cuauhtémoc, Estado de Chihuahua, pagará el derecho conforme a la cuota correspondiente a la zona de disponibilidad 5.
-
-Los municipios que no se encuentren señalados en el presente artículo, deberán aplicar lo dispuesto por el artículo 231 de la Ley Federal de Derechos."
-
-Artículo Quinto.- Para los efectos del Capítulo VIII del Título II de la Ley Federal de Derechos, cuando se haga referencia al concepto de "usos agropecuarios", deberá entenderse por "usos agrícolas o pecuarios".
-
-Artículo Sexto.- Los derechos a que se refiere el artículo 29-L de la Ley Federal de Derechos, no se causarán durante el ejercicio fiscal correspondiente al año 2001.
-
-Artículo Séptimo.- Para los efectos de lo dispuesto en el Artículo 232, Fracción IV de la Ley Federal de Derechos, las personas físicas y las morales que usen, gocen o aprovechen los bienes nacionales comprendidos en los Artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota del derecho establecida en dicha fracción.
-
-D.O.F. 1 DE ENERO DE 2002.
-
-Artículo Primero. El presente Decreto entrará en vigor a partir del 1o. de enero de 2002.
-
-Artículo Segundo. Durante el año de 2002, se aplicarán en materia de derechos las siguientes disposiciones:
-
-I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
-
-a).- En los meses de enero y julio de 2002, en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
-
-b).- Las cuotas de los derechos a que se refiere el Capítulo I, Sección Primera y el Capítulo II, del Título I de la Ley Federal de Derechos, a partir del 1o. de enero de 2002, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor de noviembre de 2001 entre el Índice Nacional de Precios al Consumidor de noviembre de 2000.
-
-Las cuotas señaladas en este inciso no se incrementarán en los meses de enero y julio de 2002, conforme a lo dispuesto en el inciso a) de esta fracción.
-
-II.- En los artículos que en este Decreto hayan sufrido modificaciones únicamente en su texto, y no así en su cuota correspondiente, ésta se actualizará en el mes de enero de 2002, de conformidad con el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
-
-Asimismo, en el caso de los artículos que en este Decreto sean de nueva creación o hayan sufrido modificaciones en su cuota, éstas no se incrementarán en el mes de enero de 2002.
-
-Las cuotas a que se refiere esta fracción se incrementarán en el mes de julio de 2002, conforme a lo dispuesto en la fracción I, inciso a) de este artículo.
-
-III.- Los derechos a que se refiere el artículo 3o., séptimo párrafo de la Ley Federal de Derechos son:
-
-a).- Los prestados por oficinas de la Federación en el extranjero.
-
-b).- Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
-
-IV.- Las cuotas de los derechos establecidos en el Capítulo II del Título I de la Ley Federal de Derechos, se ajustarán para su pago a múltiplos de............. $ 5.00
-
-Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
-
-V.- No se pagará el derecho establecido en la fracción I, apartado A del artículo 187 de la Ley Federal de Derechos, tratándose de la inscripción en el Registro Agrario Nacional de las resoluciones que dicten los Tribunales Agrarios, cuando las mismas se refieran a alguna acción agraria de las que se encuentran contempladas dentro del rezago agrario, en términos del Artículo Tercero Transitorio del Decreto de Reformas al Artículo 27 Constitucional, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y de la Ley Agraria.
-
-VI.- En relación al registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
-
-a).- Por el registro de título de técnico o profesional técnico, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
-
-b).- Por el registro de título de técnico superior universitario o profesional asociado, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
-
-VII.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
-
-VIII.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-IX.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-X.- Para los efectos de lo dispuesto en el artículo 162, apartado A, fracción I de la Ley Federal de Derechos, no pagarán los derechos de registro marítimo los propietarios de embarcaciones y artefactos navales menores, excepto las embarcaciones que prestan servicios sujetos a permisos en los términos de la Ley de Navegación.
-
-XI.- Se reforma el primer párrafo del Artículo Quinto Transitorio del Decreto por el que se Reforma, Adiciona y Deroga a la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, para quedar como sigue:
-
-"Artículo Quinto. Para los efectos de lo dispuesto en el artículo 223 de la Ley Federal de Derechos, durante los ejercicios de 2002 a 2004, los municipios que se señalan en el presente artículo, en lugar de aplicar lo dispuesto por el artículo 231 de dicha Ley, efectuarán el pago del derecho por el uso o aprovechamiento de aguas nacionales, conforme a las zonas de disponibilidad de agua y de acuerdo al año que corresponda, de conformidad con lo siguiente:
-
-(Se deroga penúltimo párrafo)
-
-Los municipios que no se encuentren señalados en el presente artículo, deberán aplicar lo dispuesto por el artículo 231 de la Ley Federal de Derechos."
-
-XII.- Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalado en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
-
-(VEASE ARCHIVO ANEXO)
-
-Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el Artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
-
-Cuando la Comisión Nacional del Agua, con anterioridad al 1o. de enero de 1997, haya autorizado al contribuyente un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación, dentro de los límites permisibles, el contribuyente podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo. En el caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos. Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieren considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo.
-
-Lo dispuesto en los párrafos primero y segundo de esta fracción, no será aplicable a favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
-
-Para los efectos del artículo 278-B de la Ley Federal de Derechos, los usuarios que hayan presentado programa de acciones para mejorar sus descargas de aguas residuales, podrán cumplir con la calidad establecida en la presente Ley, conforme al ejercicio fiscal en que se fijó la calidad de tipo de cuerpo receptor.
-
-Tratándose del descuento en el pago del derecho a que se refiere el artículo 282-C de esta Ley, los contribuyentes deberán cumplir con la calidad de acuerdo con el cuerpo receptor que se establezca en el artículo 278-B de la citada Ley, así como con la calidad inmediata superior a que se refiere la Tabla IV del artículo 282-C de la propia Ley.
-
-Los usuarios que tengan fijadas condiciones particulares de descarga que sean vigentes y las estén cumpliendo, no pagarán el derecho a que se refiere el Capítulo XIV, Título II de la presente Ley y le seguirán siendo aplicables hasta su vencimiento o revocación en términos de Ley.
-
-XIII.- Para los efectos de lo dispuesto en el Artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y las morales que usen, gocen o aprovechen los bienes nacionales comprendidos en los Artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota del derecho establecida en dicha fracción.
-
-XIV.- Para efectos del artículo 8o., fracción I de la Ley Federal de Derechos, quedarán exentos durante el ejercicio fiscal de 2002 aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de tres días en las zonas en estados fronterizos, que hayan sido declaradas de desarrollo turístico prioritario, en términos del artículo 13 de la Ley Federal de Turismo.
-
-XV.- Para los efectos de lo dispuesto por el artículo 150 de esta Ley, la persona física o moral, nacional o extranjera, que no dé el aviso a SENEAM para sujetarse a lo dispuesto por las fracciones I o II de dicho artículo, en un término de 30 días a partir de la entrada en vigor de este ordenamiento, deberá estar a lo que dispone la fracción II del citado artículo.
-
-XVI.- Los derechos a que se refieren los artículos 241 y 242 de esta Ley, entrarán en vigor a partir del 10 de agosto de 2002.
-
-XVII.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, durante el año 2002 se pagará el 40% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley. Durante el año de 2003 se pagará el 45% de dichas cuotas por metro cúbico; para el 2004, el 50% y para el 2005 el 60%.
-
-Todos los usuarios que se encuentren en los supuestos de explotación, uso o aprovechamiento de aguas nacionales mencionados en el párrafo anterior, hasta antes del beneficio secundario, que pongan a disposición de un municipio, estado o entidad pública, o bien que descarguen el agua en condiciones equivalentes a su extracción a un cuerpo receptor de agua, podrán compensar en la misma proporción el pago de derechos establecido en este artículo transitorio, en la cantidad igual de metros cúbicos entregados o descargados y en el mismo período de pago, o en su caso, podrán vender el agua correspondiente a cualquier persona pública o privada.
-
-XVIII.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel, pagará el 80% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada ley, salvo que se encuentren en las zonas de disponibilidad 1, 2 o 3 y que cuenten con oferta local de aguas residuales tratadas en volumen suficiente y calidad adecuada, conforme a la norma NOM-ECOL-001. Si en este caso, los usuarios consumen dichas aguas hasta el límite técnico de su proceso o se agota dicha fuente alterna, los volúmenes complementarios de aguas nacionales se pagarán al 80% de la cuota correspondiente.
-
-Artículo Tercero. Las personas físicas o morales que hubiesen realizado obras en términos del artículo 231-A que se reforma y tengan cantidades pendientes de acreditar, efectuarán ese acreditamiento de conformidad con lo que dicho precepto establece.
-
-Artículo Cuarto. Los ingresos a que se refiere el segundo párrafo del artículo 231-A de esta Ley serán los que se causen por concepto del derecho por el uso o aprovechamiento de bienes del dominio público a cargo de las empresas públicas y privadas a que el citado artículo se refiere, a partir del 1o. de enero de 2002.
-
-Artículo Quinto. Se prorrogan las fracciones VII y IX del Artículo Segundo Transitorio del Decreto por el que se Reforma, Adiciona y Deroga diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000.
-
-D.O.F. 4 DE JUNIO DE 2002.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, debiéndose fijas las reglas de operación por parte de las Dependencias competentes del Ejecutivo Federal.
-
-D.O.F. 30 DE DICIEMBRE DE 2002.
-
-Primero. La presente Ley entrará en vigor a partir del 1o. de enero de 2003, con excepción del Apartado C, del artículo 223 de la Ley Federal de Derechos, el cual entrará en vigor a partir del 1o. de octubre de 2003.
-
-Segundo. Durante el año de 2003, se aplicarán en materia de derechos las siguientes disposiciones:
-
-I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
-
-a).- En los meses de enero y julio de 2003, en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
-
-Asimismo, la cuota del derecho a que se refiere la fracción I, del artículo 172-H de la Ley Federal de Derechos, se sujetará a lo dispuesto en el párrafo anterior.
-
-b).- Para el año de 2003, las cuotas de los derechos a que se refiere el Capítulo I, Sección Primera y el Capítulo II, del Título I de la Ley Federal de Derechos, así como los derechos señalados en los artículos 150-A, 150-B y 151 de la misma, se actualizarán de conformidad con el artículo 17-A del Código Fiscal de la Federación, únicamente el 1o. de enero de 2003, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor de noviembre de 2002 entre el Índice Nacional de Precios al Consumidor de noviembre de 2001.
-
-II.- En los artículos de la Ley Federal de Derechos que por virtud de la presente Ley hayan sufrido modificaciones únicamente en su texto, y no así en su cuota correspondiente, ésta se actualizará en el mes de enero de 2003, de conformidad con el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
-
-Asimismo, en el caso de los derechos que se crean con la presente Ley o que hayan sufrido modificaciones en su cuota, éstas no se incrementarán en el mes de enero de 2003.
-
-Las cuotas que no se incrementen en el mes de enero de 2003, conforme a esta fracción, se incrementarán en el mes de julio de 2003, conforme a lo dispuesto en la fracción I, inciso a) de este artículo.
-
-III.- Los derechos a que se refiere el artículo 3o., séptimo párrafo de la Ley Federal de Derechos son:
-
-a).- Los prestados por oficinas de la Federación en el extranjero.
-
-b).- Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
-
-IV.- Las cuotas de los derechos establecidos en el Capítulo II del Título I de la Ley Federal de Derechos, se ajustarán para su pago a múltiplos de $ 5.00.
-
-Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
-
-V.- En relación al registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
-
-a).- Por el registro de título de técnico o profesional técnico, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
-
-b).- Por el registro de título de técnico superior universitario o profesional asociado, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
-
-VI.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
-
-VII.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-VIII.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
-
-IX.- Para los efectos de lo dispuesto en el artículo 162, Apartado A, fracción I de la Ley Federal de Derechos, no pagarán los derechos de registro marítimo los propietarios de embarcaciones y artefactos navales menores, excepto las embarcaciones que prestan servicios sujetos a permisos en los términos de la Ley de Navegación.
-
-X.- Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles, señalado en el Capítulo XIV del Título II de la Ley Federal de Derechos, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
-
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos
-
-Tipo Fecha límite para Fecha límite para
-
-de presentar programa no rebasar los
-
-descarga de acciones límites máximos
-
-permisibles
-
-Descargas de aguas 30 de junio de 1997 Se sujetarán a las
-
-Residuales municipales fechas señaladas
-
-y no municipales cuya para descargas
-
-concentración de municipales y no
-
-contaminantes en cualquiera municipales,
-
-de los parámetros básicos, según corresponda,
-
-metales pesados o cianuros, previstas en los
-
-que rebasen los límites dos supuestos
-
-máximos permisibles siguientes.
-
-señalados en la Tabla I del
-
-artículo 278-B de la Ley
-
-Federal de Derechos,
-
-multiplicados por cinco, para
-
-cuerpos receptores tipo B
-
-(ríos, uso público urbano)
-
-del Capítulo XIV del Título II,
-
-de la Ley Federal de Derechos.
-
-Descargas municipales
-
-Tipo Fecha límite para Fecha límite para
-
-de presentar programa no rebasar los
-
-descarga de acciones límites máximos
-
-permisibles
-
-Poblaciones de entre 31 de diciembre de 1998 31 de enero de 2005
-
-20,001 y 50,000
-
-habitantes.
-
-Poblaciones de entre 31 de diciembre de 1999 1º. de enero de 2010
-
-2,501 y 20,000
-
-habitantes.
-
-Descargas no municipales
-
-Tipo Fecha límite para Fecha límite para
-
-de presentar programa no rebasar los
-
-descarga de acciones límites máximos
-
-permisibles
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero de 2005
-
-de Oxígeno 5 y/o Sólidos de 1998
-
-Suspendidos Totales mayor
-
-a 1.2 toneladas sobre día
-
-pero menor a 3 toneladas
-
-sobre día.
-
-Con Demanda Bioquímica 31 de diciembre 1o. de enero de 2010
-
-de Oxígeno 5 y/o Sólidos de 1999
-
-Suspendidos Totales igual
-
-o menor a 1.2 toneladas
-
-sobre día.
-
-Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el Artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
-
-Cuando la Comisión Nacional del Agua, con anterioridad al 1o. de enero de 1997, haya autorizado al contribuyente un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación, dentro de los límites permisibles, el contribuyente podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo. En el caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos. Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieren considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo.
-
-Lo dispuesto en los párrafos primero y segundo de esta fracción, no será aplicable a favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
-
-Para los efectos del artículo 278-B de la Ley Federal de Derechos, los usuarios que hayan presentado programa de acciones para mejorar sus descargas de aguas residuales, podrán cumplir con la calidad establecida en la citada Ley, conforme al ejercicio fiscal en que se fijó la calidad de tipo de cuerpo receptor.
-
-Tratándose del descuento en el pago del derecho a que se refiere el artículo 282-C de la Ley Federal de Derechos, los contribuyentes deberán cumplir con la calidad de acuerdo con el cuerpo receptor que se establezca en el artículo 278-B de la citada Ley, así como con la calidad inmediata superior a que se refiere la Tabla IV del artículo 282-C de la propia Ley.
-
-Los usuarios que tengan fijadas condiciones particulares de descarga que sean vigentes y las estén cumpliendo, no pagarán el derecho a que se refiere el Capítulo XIV, Título II de la Ley Federal de Derechos y le seguirán siendo aplicables hasta su vencimiento o revocación en términos de Ley.
-
-XI.- Para los efectos de lo dispuesto en el artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y las morales que usen, gocen o aprovechen los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota del derecho establecida en dicha fracción.
-
-XII.- No pagarán el derecho a que se refiere el artículo 8o., fracción I de la Ley Federal de Derechos, aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de siete días en el territorio nacional.
-
-XIII.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel, pagará el 80% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley, salvo que se encuentren en las zonas de disponibilidad I, II o III y que cuenten con oferta local de aguas residuales tratadas en volumen suficiente y calidad adecuada conforme a la norma NOM-ECOL-001. Si en este caso, los usuarios consumen dichas aguas hasta el límite técnico de su proceso o se agota dicha fuente alterna, los volúmenes complementarios de aguas nacionales se pagarán al 80% de la cuota correspondiente.
-
-XIV.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, durante el año 2003 pagarán el 25% de las cuotas por metro cúbico que corresponda a la zona de disponibilidad a que se refiere el artículo 231 de la citada Ley.
-
-No obstante lo anterior, el usuario podrá optar someterse al siguiente régimen de pago:
-
-Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales durante el año 2003 se pagará el 40% de las cuotas por metro cúbico que corresponda a la zona de disponibilidad a que se refiere el artículo 231 de la citada Ley. Durante el año de 2004 se pagará el 45% de dichas cuotas por metro cúbico; para el 2005, el 50% y para el 2006 el 60%.
-
-Todos los usuarios que se encuentren en los supuestos de explotación, uso o aprovechamiento de aguas nacionales mencionados en el párrafo anterior, hasta antes del beneficio secundario, que pongan a disposición de un municipio, estado o entidad pública, o bien que descarguen el agua en condiciones equivalentes a su extracción a un cuerpo receptor de agua, podrán compensar en la misma proporción el pago del derecho establecido en el párrafo anterior, en la cantidad igual de metros cúbicos entregados o descargados y en el mismo periodo de pago, o en su caso, podrán vender el agua correspondiente a cualquier persona pública o privada.
-
-XV.- Para los efectos de lo dispuesto en el artículo 231, siempre que existan los estudios técnicos correspondientes, los Municipios podrán solicitar a la Comisión Nacional del Agua la reclasificación de la zona de disponibilidad respectiva.
-
-Tercero. Los concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública antes del 1o. de enero de 2003, no pagarán los derechos por el uso del espectro a que se refiere el Capítulo XI, del Título II de la Ley Federal de Derechos, correspondiente a las frecuencias o bandas de frecuencias que hubieren licitado y que por ellas se hubiese pagado la totalidad del monto económico a que se refiere el artículo 14 de la Ley Federal de Telecomunicaciones. Lo anterior únicamente aplicará durante el periodo de vigencia de la concesión originalmente otorgada, sin considerar las renovaciones o prórrogas que, en su caso, otorgue la autoridad competente a partir del 1o. de enero de 2003, con excepción de aquellos cuyo título de concesión establezca expresamente la obligación de pagar derechos por el uso, goce o aprovechamiento de bandas de frecuencias del espectro radioeléctrico.
-
-Cuarto. (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
-
-Quinto. Se condonan los derechos generados durante el ejercicio fiscal de 2002, relativos al aprovechamiento no extractivo de ballenas en zonas federales, originado por el desarrollo de actividades de observación y acercamiento de ballenas a que se refiere el artículo 238-B del Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-
-Lo dispuesto en este artículo, no dará lugar a devolución alguna.
-
-Los derechos que se causen a partir del 1o. de enero de 2003 por la aplicación del artículo 238-B de la Ley Federal de Derechos se pagarán conforme a lo dispuesto en el último párrafo del artículo antes mencionado.
-
-...
-
-Transitorio del Decreto
-
-Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
-
-D.O.F. 31 DE DICIEMBRE DE 2003.
-
-Disposiciones Transitorias de la Ley Federal de Derechos
+## TITULO SEGUNDO. DE LA CONSTITUCION, REGISTRO, DERECHOS Y OBLIGACIONES
 
 ###### ARTÍCULO DÉCIMO.
 
