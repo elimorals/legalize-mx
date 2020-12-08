@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-65064"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2019-12-22"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -61,9 +61,11 @@ IV. Los lineamientos para la integración y funcionamiento del Sistema Estatal d
 
 V. Las bases para la integración y funcionamiento del Comité de Planeación para el Desarrollo del Estado de Querétaro y el Comité de Planeación para el Desarrollo Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entiende por planeación del desarrollo, el medio para promover, coordinar, concertar y orientar la actividad económica y social al aprovechamiento de los recursos y potencialidades de la Entidad, a la generación de bienes y valores necesarios para el individuo y la sociedad y al logro de mejores niveles de calidad de vida, atendiendo a la consecución de los fines y objetivos políticos, sociales, económicos y culturales, contenidos en la Constitución Política del Estado de Querétaro.
+Para los efectos de esta Ley, se entiende por planeación del desarrollo, el medio para promover, coordinar, concertar y orientar la actividad económica y social al aprovechamiento de los recursos y potencialidades de la Entidad, a la generación de bienes y valores necesarios para el individuo, su familia y la sociedad y al logro de mejores niveles de calidad de vida, atendiendo a la consecución de los fines y objetivos políticos, sociales, económicos y culturales, contenidos en la Constitución Política del Estado Libre y Soberano de Querétaro.
 
 La sociedad civil, las instancias estatales y municipales, participarán conforme a lo que se establece en este ordenamiento y en las disposiciones reglamentarias de esta Ley.
 
@@ -83,13 +85,17 @@ III. La igualdad sustantiva entre mujeres y hombres, la atención de las necesid
 
 IV. El fortalecimiento del pacto federal y del municipio libre, promoviendo la descentralización de la vida nacional, estatal y municipal;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-V. El impulso al desarrollo regional como una forma de garantizar la distribución equitativa de los beneficios, aprovechar los recursos locales y de articular los esfuerzos de las instancias que intervienen en la planeación; y
+V. El impulso al desarrollo regional como una forma de garantizar la distribución equitativa de los beneficios, aprovechar los recursos locales y de articular los esfuerzos de las instancias que intervienen en la planeación;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-VI. La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos y beneficios del desarrollo.
+VI. La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres y promover el adelanto de las mujeres mediante el acceso equitativo de los bienes, recursos y beneficios del desarrollo; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+VII. La perspectiva de familia, entendida como la visión antropológica, sociológica, política y económica que, al reconocer a la comunidad familiar como núcleo básico de la sociedad, busca eliminar los obstáculos que enfrenta para ejercer sus derechos y cumplir sus obligaciones y, con ello, promover un adecuado equilibrio entre la vida laboral y familiar; el ejercicio corresponsable de la paternidad y la maternidad; las condiciones requeridas para proveer cuidados a cada uno de sus miembros, y la generación de capacidades para su pleno desarrollo.
 
 ###### Artículo 4.
 
@@ -165,7 +171,9 @@ La planeación a este nivel buscará la congruencia entre la atención a las nec
 
 Los programas institucionales deberán permitir atender los requerimientos de alguna zona geográfica, económica o cultural del Estado, considerando los objetivos, estrategias y principios rectores contenidos en el Plan Estatal de Desarrollo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Los programas institucionales promoverán la transversalidad y la perspectiva de familia.
 
 ###### Artículo 15.
 
@@ -283,9 +291,17 @@ VI. Presentar propuestas sobre los programas y acciones concertados en el marco 
 
 VII. Promover vínculos permanentes con los Comités de Planeación para el Desarrollo Municipal;
 
-VIII. Proporcionar asesoría técnica a los ayuntamientos en la formulación, ejecución y evaluación de sus planes y programas, respetando la autonomía municipal; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-IX. Fungir como órgano de consulta en materia de planeación, para las dependencias y entidades del Poder Ejecutivo del Estado.
+VIII. Proporcionar asesoría técnica a los ayuntamientos en la formulación, ejecución y evaluación de sus planes y programas, respetando la autonomía municipal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+IX. Fungir como órgano de consulta en materia de planeación, para las dependencias y entidades del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+X. Fomentar la transversalidad del Plan Estatal de Desarrollo, los programas institucionales y programas operativos anuales, para que incluyan la perspectiva de familia.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -369,13 +385,17 @@ VII. Analizar aquellos programas que impacten en la planeación municipal;
 
 VIII. Participar en la elaboración de la propuesta de obra municipal;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-IX. Fomentar la realización de las acciones derivadas de los diversos convenios que suscriba el municipio en materia de planeación; y
+IX. Fomentar la realización de las acciones derivadas de los diversos convenios que suscriba el municipio en materia de planeación;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-X. Promover programas y proyectos especiales en materia de planeación, de acuerdo a las directrices que, en su caso, se propongan.
+X. Promover programas y proyectos especiales en materia de planeación, de acuerdo a las directrices que, en su caso, se propongan; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+XI. Fomentar la transversalidad del Plan Municipal de Desarrollo, los programas y proyectos, para que incluyan la perspectiva de familia.
 
 ###### Artículo 30.
 
@@ -499,7 +519,9 @@ Una vez aprobado, se mandará publicar una síntesis del mismo en el Periódico 
 
 El Plan Estatal de Desarrollo deberá estructurarse a partir de las vertientes de acción, en las cuales se integrarán los compromisos fundamentales de gobierno.
 
-El Plan deberá señalar los propósitos y objetivos de desarrollo integral del Estado, las prioridades y estrategias respectivas. Asimismo, deberá contener lineamientos de política para orientar la planeación estatal.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+El Plan deberá señalar los propósitos y objetivos de desarrollo integral del Estado, las prioridades y estrategias respectivas. Así mismo, deberá contener lineamientos de política para orientar la planeación estatal. De igual manera, el Plan deberá ser transversal e incluir la perspectiva de familia.
 
 ###### Artículo 45.
 
@@ -545,11 +567,17 @@ Los programas a que se refiere el artículo 16 de la presente Ley, deberán ser 
 
 Los programas a que se refieren los artículos 14 y 16 de la presente Ley, podrán tener cobertura de mediano plazo, entendiendo éste de dos años o más, sin rebasar el periodo de gobierno para el cual se formulen.
 
-La formulación del programa operativo anual estará a cargo de cada una de las dependencias y entidades de los gobiernos estatal y municipal, atendiendo a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y de los programas que de él deriven. Su duración, en todos los casos, deberá ser de un año.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+La formulación del programa operativo anual estará a cargo de cada una de las dependencias y entidades de los gobiernos estatal y municipal, atendiendo a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y de los programas que de él deriven. Estos programas promoverán la transversalidad y la perspectiva de familia. Su duración, en todos los casos, deberá ser de un año.
 
 ###### Artículo 54.
 
 Los programas institucionales serán congruentes con los lineamientos del Plan Estatal de Desarrollo. Todas las instancias estatales y municipales, en este sentido, tendrán la responsabilidad de cuidar que se dé dicha característica fundamental.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+Además de congruentes, los programas institucionales promoverán la transversalidad y la perspectiva de familia.
 
 ###### Artículo 55.
 
@@ -920,3 +948,17 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DISTINTAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO EN MATERIA DE PERSPECTIVA FAMILIAR”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Las disposiciones relativas al Plan Estatal de Desarrollo y a los Planes Municipales de Desarrollo serán aplicables a partir de los formulados en el año 2022.
+
+Artículo Cuarto. Las Disposiciones relativas a programas y proyectos aplicarán a partir de los formulados en el siguiente año.
+
+Artículo Quinto. Las modificaciones de los programas y las acciones que impliquen deberán cubrirse con cargo al presupuesto aprobado para las dependencias y entidades, por lo que no requerirán ampliación presupuestal durante el presente ejercicio fiscal.
