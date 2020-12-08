@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2020-11-06"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2020.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2019.
 
@@ -703,11 +703,15 @@ $2,100.40 $2,100
 
 Los ingresos que se obtengan por el derecho de publicaciones a que se refiere este artículo, se destinarán al Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 19-B.
 
-No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos, siempre que la publicación del acto en el Diario Oficial de la Federación, sea ordenada expresamente en la Constitución, en las leyes y reglamentos de carácter federal, en los tratados internacionales o en el Presupuesto de Egresos de la Federación, o se trate de la publicación de los acuerdos que expidan los titulares de las dependencias del Ejecutivo Federal y las convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+No se pagará el derecho a que se refiere el artículo anterior, siempre que la publicación del acto en el Diario Oficial de la Federación se establezca como obligatoria y sea ordenada o se regule expresamente en la Constitución, en las leyes y reglamentos de carácter federal, en los tratados internacionales o en el Presupuesto de Egresos de la Federación, por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos, o se trate de la publicación de los acuerdos que expidan los titulares de las dependencias del Ejecutivo Federal y las convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+La obligación de publicación en el Diario Oficial de la Federación a que se refiere el párrafo anterior, deberá ser adicional a la que todo acto administrativo de carácter general deba cumplir para que produzca efectos jurídicos.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1068,6 +1072,10 @@ V.- Pasaportes oficiales $517.87 $520
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de la expedición de pasaportes ordinarios que requieran ser expedidos de emergencia, se pagará un monto del 30% adicional al costo del pasaporte ordinario en términos de las fracciones anteriores, según la vigencia solicitada.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3763,9 +3771,13 @@ m).- Por la inscripción en el registro de
 
 empresas certificadas $29,747.90 $29,748
 
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
 n).- Por la autorización de mandatario
 
-de agente aduanal $10,049.73 $10,050
+de agente aduanal o de mandatario de
+
+agencia aduanal $11,775.99
 
 ñ).- Por la autorización para destinar
 
@@ -3819,15 +3831,15 @@ Por la prórroga de las autorizaciones a que se refieren los incisos b), c), g),
 
 Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria, para el mejoramiento de la Administración Aduanera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 41.
 
-Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduana en recintos fiscales, después de vencidos los plazos que a continuación se indican:
+Se pagarán derechos por el manejo, almacenaje y custodia de mercancías de comercio exterior en depósito ante la aduana en recintos fiscales, después de vencidos los plazos que a continuación se indican:
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-I.- En mercancías de importación, dos días naturales, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días naturales.
+I.- En mercancías de importación, dos días naturales, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de siete días naturales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -3851,11 +3863,11 @@ Los plazos a que se refieren las fracciones I y II de este artículo se computar
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 42.
 
-Las cuotas diarias de los derechos por el almacenaje, en recintos fiscales, de mercancías en depósito ante la aduana, son las siguientes:
+Las cuotas diarias de los derechos por el manejo, almacenaje y custodia, en recintos fiscales, de mercancías de comercio exterior en depósito ante la aduana, son las siguientes:
 
 Cuota
 
@@ -4119,11 +4131,11 @@ Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nu
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 51.
 
-Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de representante legal, de dictaminador aduanero o de mandatario de agente aduanal y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de representante legal, de dictaminador aduanero, de mandatario de agente aduanal o de agencia aduanal y a los agentes aduanales o agencias aduanales, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
@@ -4139,15 +4151,19 @@ II.- Por la expedición de la patente de
 
 agente aduanal $21,259.07 $21,259
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-III.- Por el examen para aspirante a mandatario de agente aduanal:
+III.- Por el examen para aspirante a mandatario de agente aduanal o agencia aduanal:
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 a). Correspondiente a la etapa de
 
-conocimientos $5,193.66 $5,194
+conocimientos $5,887.03
 
-b). Correspondiente a la etapa psicotécnica $5,193.66 $5,194
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+b). Correspondiente a la etapa psicotécnica $5,402.43
 
 IV.- Por el estudio y aprobación de las escrituras
 
@@ -4166,6 +4182,12 @@ aduana adicional $1,895.67 $1,896
 VI.- Por la expedición de autorización de
 
 cambio de aduana de adscripción $2,016.54 $2,017
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+VII.- Por la expedición de la autorización
+
+de agencia aduanal $59,090.69
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -5015,6 +5037,24 @@ Sin ajuste Con ajuste
 
 $11,601.02 $11,601
 
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 73-H.
+
+Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la autorización de prórroga de etiquetado por Inexactitud de Datos, se pagarán los derechos conforme a la cuota de: $9,567.65
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 73-I.
+
+Por la recepción y estudio de la solicitud y, en su caso, la emisión de dictamen de cumplimiento de los dispositivos de seguridad esenciales en vehículos nuevos, se pagarán los derechos conforme a la cuota de: $9,303.33
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 73-J.
+
+Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la aprobación de organismos de certificación, unidades de inspección, laboratorios de prueba o laboratorios de calibración, para evaluar la conformidad de Normas Oficiales Mexicanas emitidas por la Secretaría de Economía, así como Estándares y Normas Internacionales referidos en dichas Normas, se pagarán los derechos conforme a la cuota de: $9,799.47
+
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 #### SECCION QUINTA. Permisos de Importación
@@ -5105,31 +5145,39 @@ de certificados digitales $194,757.60 $194,758
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
 V. Por el trámite y estudio de la solicitud
 
-para la acreditación de un prestador de
+para la acreditación como prestador de
 
-servicios de certificación para la emisión
+servicios de certificación para la prestación
 
-de certificados digitales, para el servicio de
+de servicios de conservación de mensajes de
 
-conservación de mensajes de datos u otros
+datos, sellado digital de tiempo, digitalización
 
-servicios adicionales relativos a la firma
+de documentos impresos de certificados
 
-electrónica $27,871.40 $27,871
+digitales u otros servicios adicionales
 
-VI. Por la acreditación de un prestador de
+relacionados con la firma electrónica $27,871.40
 
-servicios de certificación para la emisión
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-de certificados digitales, para el servicio de
+VI. Por la acreditación como prestador de
 
-conservación de mensajes de datos u otros
+servicios de certificación para la prestación
 
-servicios adicionales relativos a la firma
+de servicios de conservación de mensajes de
 
-electrónica $171,128.88 $171,129
+datos, sellado digital de tiempo, digitalización
+
+de documentos impresos de certificados
+
+digitales u otros servicios adicionales
+
+relacionados con la firma electrónica $171,128.88
 
 (REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN SÉPTIMA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -6285,19 +6333,7 @@ presente numeral sean solicitados a través
 
 de medios electrónicos $2,969.99 $2,970
 
-2. Unidades de Arrastre.
-
-Incluye permiso, alta vehicular, una placa,
-
-calcomanía de identificación vehicular y
-
-tarjeta de circulación $2,972.53 $2,973
-
-Cuando los servicios a que se refiere el
-
-presente numeral sean solicitados a través
-
-de medios electrónicos $2,048.27 $2,048
+2. (DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 3. Especial para grúas industriales del servicio
 
@@ -6333,7 +6369,9 @@ cargas de hasta 4.50 metros de altura,
 
 por permiso especial $711.61 $712
 
-Si los permisos que se otorgan conforme a los numerales 1 y 2 de este inciso amparan más de un vehículo motriz o unidad de arrastre, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Si el permiso que se otorga conforme al numeral 1 de este inciso ampara más de un vehículo motriz, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
 
 b).- Para la construcción, operación
 
@@ -10607,9 +10645,13 @@ c). Se trate de una solicitud de autorización automática y venga acompañada d
 
 d). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado derribado de anualidades vencidas.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-e). La solicitud de modificación sea para cambiar la cronología de las anualidades.
+e). La solicitud de modificación sea para cambiar la cronología de las anualidades, la distribución de productos o cualquier otra modificación que no implique cambios en el volumen a remover.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+f). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado no ejercido de la última anualidad cuando sea por motivos de una declaratoria de emergencia o desastre natural, que emita la autoridad competente.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -10655,9 +10697,13 @@ c). Se trate de una solicitud de autorización automática y venga acompañada d
 
 d). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado derribado de anualidades vencidas.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-e). La solicitud de modificación sea para cambiar la cronología de las anualidades.
+e). La solicitud de modificación sea para cambiar la cronología de las anualidades, la distribución de productos o cualquier otra modificación que no implique cambios en el volumen a remover.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+f). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado no ejercido de la última anualidad cuando sea por motivos de una declaratoria de emergencia o desastre natural, que emita la autoridad competente.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -10691,29 +10737,17 @@ V. De más de 200 hectáreas $ 11,062.52 $ 11,063
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y dictamen del programa de manejo de plantación forestal comercial y, en su caso, autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas o, en su caso, en sustitución de vegetación nativa, se pagará la cuota de
+Por la recepción, evaluación y dictamen del programa de manejo de plantación forestal comercial y, en su caso, autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $7,820.05
 
-Cuota
-
-Sin ajuste Con ajuste
-
-$ 7,820.05 $ 7,820
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 194-N
 
-1.- Por la expedición de los certificados de inscripción o modificación del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$476.83 $477
+1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de $476.83
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -10727,35 +10761,47 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por la expedición de cada certificado
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-fitosanitario para la importación de productos y
+I. Por la recepción, evaluación de la
 
-subproductos forestales fuera de la región y
+solicitud y, en su caso, la expedición
 
-franja fronteriza $ 1,430.50 $ 1,430
+de cada certificado fitosanitario para
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+la importación de productos y subproductos
 
-II. Por la verificación de la calidad sanitaria de
+forestales $1,430.50
 
-los embarques y, en su caso, la expedición de
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-cada certificado fitosanitario internacional para
+II. Por la recepción, evaluación de la
 
-la exportación o la reexportación de materias
+solicitud, verificación de la calidad
 
-primas o productos forestales $ 1,144.41 $ 1,144
+fitosanitaria de los embarques y, en su
 
-III.- Por la emisión del dictamen técnico de
+caso, la expedición de cada certificado
 
-determinación taxonómica de muestras
+fitosanitario internacional para la
 
-entomológicas o patológicas detectadas en
+exportación o la reexportación de
 
-productos y/o subproductos forestales de
+materias primas o productos forestales $1,144.41
 
-importación $ 1,621.23 $ 1,621
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+III. Por la recepción, evaluación de la
+
+solicitud y, en su caso, la emisión
+
+del dictamen técnico de determinación
+
+taxonómica de muestras entomológicas o
+
+patológicas detectadas en productos y/o
+
+subproductos forestales de importación $1,621.23
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -11067,17 +11113,15 @@ daño ambiental en la zona federal marítimo
 
 terrestre $ 4,864.77 $ 4,865
 
-VI.- Por la revisión, evaluación y, en su caso,
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+VI. Por la revisión, evaluación y, en su caso,
 
 certificación de vehículos nuevos en planta,
 
-por cada vehículo $23.77 $ 24
+por cada línea de vehículos $1,851.58
 
-VII.- Por la revisión, evaluación y certificación
-
-excepcional de vehículos nuevos, por cada
-
-vehículo $ 509.64 $ 510
+VII. (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -11099,11 +11143,19 @@ derechos por cada solicitud, independientemente
 
 del número de aprobaciones emitidas $ 18,310.37 $ 18,310
 
-Las unidades de verificación que soliciten la aprobación para ser consideradas auditores ambientales dentro del Programa Nacional de Auditoría Ambiental, no pagarán los derechos a que se refiere esta fracción. Dichas unidades de verificación deberán pagar el referido derecho cuando pretendan obtener la aprobación para evaluar la conformidad de una norma oficial mexicana expedida por la Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-El 60% de los ingresos que se obtengan por la recaudación del derecho a que se refieren las fracciones I, II, III, VI, VII y VIII, se destinarán a la Procuraduría Federal de Protección al Ambiente para el fortalecimiento de los servicios de inspección y vigilancia.
+IX. Por el estudio, trámite y, en su caso,
+
+aprobación o modificación como Auditor
+
+Ambiental $1,075.80
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+El 60% de los ingresos que se obtengan por la recaudación del derecho a que se refieren las fracciones I, II, III, VI, VIII y IX se destinarán a la Procuraduría Federal de Protección al Ambiente para el fortalecimiento de los servicios de inspección y vigilancia.
 
 ###### ARTICULO 194-V.
 
@@ -12703,7 +12755,9 @@ g). De más de 50,000.01 unidades
 
 de arqueo bruto $14,409.42 $14,409
 
-II. Por la expedición del certificado de matrícula para embarcaciones o artefactos navales, tomando en cuenta la unidad de arqueo bruto:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+II. Por la expedición del certificado de matrícula para embarcaciones o artefactos navales:
 
 a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
 
@@ -12783,13 +12837,13 @@ de arqueo bruto $9,466.13 $9,466
 
 de arqueo bruto $10,819.73 $10,820
 
-f). Para el caso de las embarcaciones de
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-hasta 10 metros de eslora sin cubierta corrida,
+f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
 
-destinadas a la pesca ribereña, se pagará la
+1. De hasta 5 metros de eslora $113.00
 
-cuota de $278.39 $278
+2. De 5.01 hasta 10 metros de eslora $278.39
 
 III. Por la reposición o modificación del certificado de matrícula por cambio de características, cambio de nombre de la embarcación o artefacto naval, cambio de propietario, cambio del tipo de navegación o cambio de puerto:
 
@@ -12871,13 +12925,13 @@ de arqueo bruto $8,909.17 $8,909
 
 arqueo bruto $10,142.73 $10,143
 
-f). Para el caso de las embarcaciones de
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-hasta 10 metros de eslora sin cubierta corrida,
+f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
 
-destinadas a la pesca ribereña, se pagará
+1. De hasta 5 metros de eslora $113.00
 
-la cuota de $278.39 $278
+2. De 5.01 hasta 10 metros de eslora $278.39
 
 IV. Por expedición de pasavantes, se cobrarán las siguientes cuotas por unidades de arqueo bruto:
 
@@ -13037,15 +13091,21 @@ de arqueo bruto $6,206.54 $6,207
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-3. Por la solicitud, análisis y, en su caso, expedición del permiso de transporte de pasajeros en navegación interior y turismo náutico, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de $4,579.72 $4,580
+3. Por la solicitud, análisis y, en su caso, expedición del permiso para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de $4,579.72
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 Tratándose de:
 
-I. Servicio de transporte de pasajeros con embarcaciones de hasta de 3.5 unidades de arqueo bruto.
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+I. Servicio de transporte marítimo de pasajeros con embarcaciones de hasta de 3.5 unidades de arqueo bruto.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tales como motos acuáticas, kayaks, botes de remos y otras de hasta 3 metros de eslora.
 
@@ -13059,7 +13119,9 @@ II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tale
 
 I. Por el reconocimiento de embarcaciones o artefactos navales:
 
-a). Hasta 10 unidades de arqueo bruto $418.08 $418
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+a). Hasta 10 unidades de arqueo bruto $106.05
 
 b). De más de 10 y hasta 20 unidades de
 
@@ -13355,11 +13417,13 @@ II. Dique de 150 metros o más de eslora $31,592.22 $31,592
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-9. Por la inspección, verificación y, en su caso, expedición del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos, diques flotantes e instalaciones receptoras de desechos, se pagarán derechos, conforme a la cuota de $33,341.65 $33,342
+9. Por la inspección, verificación y, en su caso, expedición del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos y diques flotantes, se pagarán derechos, conforme a la cuota de $33,341.65
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,025.38 $2,025
 
@@ -13459,7 +13523,9 @@ de arqueo bruto $15,303.38 $15,303
 
 f). De más de 10,000 unidades de arqueo bruto $22,538.07 $22,538
 
-IV. Por la expedición del Certificado Internacional de Protección del Buque y del Certificado Internacional de Protección del Buque Provisional:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+IV. Por la expedición, reposición o renovación del Certificado Internacional de Protección del Buque y del Certificado Internacional de Protección del Buque Provisional:
 
 a). De más de 10 hasta 200 unidades de
 
@@ -13605,21 +13671,29 @@ c). De más de 20 y hasta 50 unidades
 
 de arqueo bruto $81.20 $81
 
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
 d). De más de 50 y hasta 75 unidades
 
-de arqueo bruto $293.23 $293
+de arqueo bruto $226.41
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 e). De más de 75 y hasta 100 unidades
 
-de arqueo bruto $337.69 $338
+de arqueo bruto $279.39
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 f). De más de 100 y hasta 200 unidades
 
-de arqueo bruto $226.41 $226
+de arqueo bruto $293.23
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 g). De más de 200 y hasta 300 unidades
 
-de arqueo bruto $279.39 $279
+de arqueo bruto $337.69
 
 h). De más de 300 y hasta 500 unidades
 
@@ -13747,13 +13821,45 @@ VI. De más de 10,000 unidades de
 
 arqueo bruto $22,538.07 $22,538
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-22. Por el trámite y, en su caso, autorización del Registro Sinóptico Continuo, se pagará por cada embarcación $676.62 $677
+22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación $676.62
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques $676.62
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida $26,206.43
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+25. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
+
+I. Receptora de basuras $1,340.79
+
+II. Receptora de sustancias nocivas líquidas e hidrocarburos $1,426.67
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales $1,340.79
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas $2,265.56
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -13831,203 +13937,199 @@ El pago del derecho a que este artículo se refiere, se hará previamente al apr
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional Forestal para los programas de restauración forestal con especies nativas.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 198.
 
-Por el uso o aprovechamiento de los elementos naturales marinos e insulares sujetos al régimen de dominio público de la Federación existentes dentro de las Áreas Naturales Protegidas competencia de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, campismo, pernocta y la navegación en mares, canales, esteros, rías y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
+Por el uso o aprovechamiento no extractivo de los elementos naturales y escénicos que se realizan en las Áreas Naturales Protegidas marinas, insulares y terrestres sujetos al régimen de dominio público de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, la navegación en mares, canales, esteros, rías y lagunas costeras, ciclismo, paseo a caballo, rappel, montañismo, excursionismo, alta montaña, campismo, pernocta, observación de aves y otra fauna y flora silvestre, espeleología, escalada en roca, visitas guiadas y no guiadas, descenso en ríos, uso de kayak y otras embarcaciones a remo o motorizadas y recorridos en vehículos motorizados se pagarán derechos, conforme a las siguientes cuotas:
 
-Cuota
+I. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga baja por la alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $90.00
 
-Sin ajuste Con ajuste
+- Parque Nacional Bahía de Loreto
 
-I.- Por persona, por día, por cada Área Natural
-
-Protegida o Zona de Área Natural Protegida,
-
-consideradas como de baja capacidad de carga
-
-de conformidad con la siguiente lista: $73.65 $74
-
-- Parque Nacional Cabo Pulmo
-
-- Parque Nacional Alacranes
-
-- Islas Catalana y Montserrat, dentro del Parque Nacional Bahía de Loreto
-
-- Arrecifes Maracaibo, Punta Sur, El Islote y Chunchaka'ab, dentro del Parque Nacional Arrecifes de Cozumel
+- Parque Nacional Arrecifes de Cozumel
 
 - Parque Nacional Isla Contoy
 
-- Parque Nacional Arrecife de Xcalak
-
-- Parque Nacional Isla Isabel
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-- Área de Protección de Flora y Fauna Islas del Golfo de California, excepto las islas Venados, Lobos y Pájaros, frente al Puerto de Mazatlán, Sinaloa, mismas que cubrirán la cuota establecida en la fracción II de este artículo
-
-- Reserva de la Biosfera Banco Chinchorro
+- Área de Protección de Flora y Fauna Islas del Golfo de California
 
 - Reserva de la Biosfera El Vizcaíno
 
-- Canales de Muyil-Chunyaxché, dentro de la Reserva de la Biosfera de Sian Ka'an
+- Reserva de la Biosfera Sian Ka’an
 
-- Reserva de la Biosfera Arrecifes de Sian Ka'an
-
-- Reserva de la Biosfera Archipiélago de Revillagigedo
-
-- Reserva de la Biosfera Isla Guadalupe
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+- Reserva de la Biosfera Arrecifes de Sian Ka’an
 
 - Parque Nacional Zona Marina del Archipiélago de Espíritu Santo
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-- Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes
-
-II.- Por las demás Áreas Naturales Protegidas
-
-no enlistadas en la fracción I, por persona, por
-
-día, por Área Natural Protegida: $36.82 $37
-
-No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
-
-III.- Las personas podrán optar por pagar el
-
-derecho a que se refiere este artículo, por
-
-persona, por año, para todas las Áreas
-
-Naturales Protegidas: $382.96 $383
-
-La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-No pagarán los derechos a que se refieren las fracciones I y II de este artículo, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, ni los residentes permanentes de las localidades contiguas a las Áreas Naturales Protegidas en cuestión, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-Estarán exentos del pago de los derechos a que se refieren las fracciones I y II de este artículo, los menores de 6 años y los discapacitados.
-
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para la conservación y aprovechamiento sustentable de las Áreas Naturales Protegidas.
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos e insulares de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-###### ARTICULO 198-A.
-
-Por el uso o aprovechamiento no extractivo de elementos naturales y escénicos que se realiza dentro de las Áreas Naturales Protegidas terrestres, derivado de las actividades turísticas, deportivas y recreativas como ciclismo, paseo a caballo, rappel, montañismo, excursionismo, alta montaña, campismo, pernocta, observación de aves y otra fauna y flora silvestre, espeleología, escalada en roca, visitas guiadas y no guiadas, descenso de ríos, uso de kayak y otras embarcaciones a remo o motorizadas y recorridos en vehículos motorizados, pagarán este derecho, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- por día, por persona, por cada Área $73.65 $74
-
-Natural Protegida o Zona de Área Natural
-
-Protegida, consideradas como de baja
-
-capacidad de carga de conformidad con la
-
-siguiente lista:
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Parque Nacional San Pedro Mártir
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Parque Nacional Constitución de 1857
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Parque Nacional Cascada de Baseasseachic
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-- Monumento Natural Yaxchilán
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Reserva de la Biosfera Maderas del Carmen
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Reserva de la Biosfera Cañón de Santa Elena
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Reserva de la Biosfera el Pinacate y Gran Desierto del Altar
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Reserva de la Biosfera Mapimí
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-- Reserva de la Biosfera el Vizcaíno (en su porción terrestre)
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+- Reserva de la Biosfera Zona Marina Bahía de los Ángeles, canales de Ballenas y de Salsipuedes
 
 - Reserva de la Biosfera Calakmul
 
-II.- Por las demás Áreas Naturales Protegidas
+- Reserva de la Biosfera Complejo Lagunar Ojo de Liebre
 
-terrestres no enlistadas en la fracción anterior,
+- Reserva de la Biosfera El Pinacate y Gran Desierto de Altar
 
-por persona, por día: $36.82 $37
+- Reserva de la Biosfera El Triunfo
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+- Reserva de la Biosfera Isla San Pedro Mártir
 
-No pagarán el derecho establecido en esta fracción las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
+- Área de Protección de Flora y Fauna La porción norte y la franja costera oriental, terrestres y marinas de la Isla de Cozumel
 
-III.- Se podrá optar por pagar el derecho a que
+- Parque Nacional Palenque
 
-se refiere este artículo, por persona, por año,
+- Reserva de la Biosfera Tiburón Ballena
 
-para todas las Áreas Naturales Protegidas a una
+- Área de Protección de Flora y Fauna Valle de los Cirios
 
-cuota de: $382.96 $383
+- Área de Protección de Flora y Fauna Yum Balam
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+I Bis. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $1,500.00
 
-La obligación del pago de los derechos a que se refieren las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios turísticos, deportivos y recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
+- Parque Nacional Revillagigedo
 
-No estarán sujetos al pago de derechos a que se refiere este artículo, el transporte público y de carga, así como los recorridos de vehículos automotores en tránsito o de paso realizados en vías pavimentadas.
+- Reserva de la Biosfera Isla Guadalupe
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+I Ter. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga media por la mediana vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $50.00
 
-Los residentes de la zona de influencia de las Áreas Naturales Protegidas que realicen algunas de las actividades a que se hace referencia en este artículo, que demuestren dicha calidad ante la autoridad competente, pagarán el 50% de la cuota establecida en las fracciones I y II del presente artículo.
+- Parque Nacional Arrecife de Puerto Morelos
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+- Parque Nacional Arrecifes de Xcalak
 
-Estarán exentos del pago de los derechos a que se refieren las fracciones I y II de este artículo, los menores de 6 años y los discapacitados.
+- Área de Protección de Flora y Fauna Balandra
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+- Reserva de la Biosfera Barranca de Metztitlán
 
-No pagarán los derechos a que se refieren las fracciones I y II de este artículo, quienes por el servicio que prestan realicen estas actividades dentro del Área Natural Protegida ni los residentes permanentes que se encuentren dentro de la misma, siempre y cuando cuenten con la certificación de esta calidad otorgada por la autoridad responsable, previa presentación de la documentación correspondiente.
+- Área de Protección de Flora y Fauna Cabo San Lucas
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para acciones y proyectos de protección, manejo, restauración y gestión para la conservación de las Áreas Naturales Protegidas. La Comisión Nacional de Áreas Naturales Protegidas destinará los recursos generados, prioritariamente a aquellos programas y proyectos sustentables realizados por o para los propietarios o legítimos poseedores de los terrenos en las Áreas Naturales Protegidas mencionadas.
+- Parque Nacional Cabo Pulmo
 
-En el caso de que en un Área Natural Protegida se realice cualquiera de las actividades establecidas en el presente artículo o en el artículo 198 de esta Ley, únicamente se pagará el derecho establecido en este último artículo.
+- Área de Protección de Flora y Fauna Cañón de Santa Elena
+
+- Parque Nacional Cañón del Sumidero
+
+- Área de Protección de Flora y Fauna Cascada de Agua Azul
+
+- Parque Nacional Cascada de Bassaseachic
+
+- Parque Nacional Cofre de Perote o Nauhcampatépetl
+
+- Parque Nacional Constitución de 1857
+
+- Parque Nacional Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc
+
+- Parque Nacional Cumbres de Monterrey
+
+- Parque Nacional Huatulco
+
+- Reserva de la Biosfera Islas del Pacífico de la Península de Baja California
+
+- Parque Nacional Islas Marietas
+
+- Parque Nacional Iztaccíhuatl-Popocatépetl
+
+- Reserva de la Biosfera Janos
+
+- Reserva de la Biosfera La Encrucijada
+
+- Reserva de la Biosfera La Michilía
+
+- Parque Nacional La Montaña Malinche o Matlalcuéyatl
+
+- Reserva de la Biosfera La Sepultura
+
+- Parque Nacional Lagunas de Montebello
+
+- Reserva de la Biosfera Los Petenes
+
+- Área de Protección de Flora y Fauna Maderas del Carmen
+
+- Área de Protección de Flora y Fauna Manglares de Nichupté
+
+- Reserva de la Biosfera Mariposa Monarca
+
+- Reserva de la Biosfera Marismas Nacionales Nayarit
+
+- Área de Protección de Flora y Fauna Médanos de Samalayuca
+
+- Reserva de la Biosfera Montes Azules
+
+- Área de Protección de Flora y Fauna Nevado de Toluca
+
+- Área de Protección de Flora y Fauna Ocampo
+
+- Reserva de la Biosfera Pantanos de Centla
+
+- Reserva de la Biosfera Ría Celestún
+
+- Reserva de la Biosfera Ría Lagartos
+
+- Reserva de la Biosfera Selva El Ocote
+
+- Área de Protección de Flora y Fauna Sierra de Álamos-Río Cuchujaqui
+
+- Parque Nacional Sierra de Órganos
+
+- Parque Nacional Sierra de San Pedro Mártir
+
+- Reserva de la Biosfera Sierra del Abra Tanchipa
+
+- Reserva de la Biosfera Sierra Gorda
+
+- Reserva de la Biosfera Sierra Gorda de Guanajuato
+
+- Reserva de la Biosfera Sierra La Laguna
+
+- Reserva de la Biosfera Tehuacán-Cuicatlán
+
+- Parque Nacional Volcán Nevado de Colima
+
+- Reserva de la Biosfera Volcán Tacaná
+
+- Parque Nacional Zona marina del Archipiélago de San Lorenzo
+
+- Parque Nacional Grutas de Cacahuamilpa
+
+- Reserva de la Biosfera Caribe Mexicano
+
+- Parque Nacional Pico de Orizaba
+
+- Parque Nacional Tulum
+
+- Reserva de la Biosfera Mapimí
+
+- Área de Protección de Flora y Fauna Cuatrociénegas
+
+- Parque Nacional Cumbres de Majalca
+
+- Parque Nacional Isla Isabel
+
+I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $300.00
+
+- Reserva de la Biosfera Banco Chinchorro
+
+- Parque Nacional Arrecife Alacranes
+
+II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis y I Ter por persona, por día, por Área Natural Protegida: $38.30
+
+No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en las fracciones I, I Bis y I Ter de este artículo, siempre y cuando la visita se realice el mismo día.
+
+III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $1,500.00
+
+La obligación del pago de los derechos previstos en las fracciones I, I Bis, I Ter y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios turísticos, deportivos, recreativos y náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
+
+No pagarán los derechos a que se refieren las fracciones I, I Bis, I Ter y II de este artículo, quienes por el servicio que prestan realicen estas actividades dentro del Área Natural Protegida, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, el transporte público y de carga, así como los recorridos de vehículos automotores en tránsito o de paso realizados en vías pavimentadas, ni los residentes permanentes que se encuentren dentro de las Áreas Naturales Protegidas, los de las localidades contiguas a las mismas, ni los de la zona de influencia de éstas, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
+
+Estarán exentos del pago de los derechos a que se refieren las fracciones I, I Bis, I Ter y II de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para el manejo sustentable de las Áreas Naturales Protegidas.
 
 El pago del derecho a que se refiere este artículo, no exime a los obligados del mismo del cumplimiento de las obligaciones que pudieran adquirir con los propietarios o legítimos poseedores de los terrenos que se encuentran dentro de las Áreas Naturales Protegidas.
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I, I Bis, I Ter y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos, insulares y terrestres de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
 
-En el supuesto de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales y escénicos de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
+###### ARTICULO 198-A.
+
+(DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 198-B.
 
@@ -15229,11 +15331,13 @@ ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenab
 
 ZONA II.- Estado de Guerrero: Azoyu, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza, y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
 
-ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: Martínez de la Torre, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: San Rafael, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
-ZONA IV.- Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
 
 ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
 
@@ -15243,9 +15347,9 @@ ZONA VI. Estado de Baja California: Ensenada; Estado de Baja California Sur: Com
 
 ZONA VII. Estado de Baja California; Tijuana; Estado de Baja California Sur; Mulegé; Estado de Jalisco: Cihuatlan; Estado de Nayarit: Compostela; Estado de Sonora: Guaymas; Estado de Veracruz: Coatzacoalcos.
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-ZONA VIII. Estado de Baja California: Playas de Rosarito; Estado de Baja California Sur: Loreto; Estado de Colima: Manzanillo; Estado de Oaxaca: San Pedro Mixtepec; Estado de Quintana Roo: Isla Mujeres; Estado de Nayarit: Bahía de Banderas; Estado de Sinaloa: Mazatlán; Estado de Sonora: Puerto Peñasco; Estado de Veracruz: Boca del Río y Veracruz.
+ZONA VIII. Estado de Baja California: Playas de Rosarito; Estado de Baja California Sur: Loreto; Estado de Colima: Manzanillo; Estado de Oaxaca: San Pedro Mixtepec; Estado de Quintana Roo: Isla Mujeres y Bacalar; Estado de Nayarit: Bahía de Banderas; Estado de Sinaloa: Mazatlán; Estado de Sonora: Puerto Peñasco; Estado de Veracruz: Boca del Río y Veracruz.
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -15255,9 +15359,9 @@ ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta
 
 ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-ZONA XI.- Subzona A. Estado de Quintana Roo: Cozumel y Lázaro Cárdenas. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
+ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -15671,9 +15775,9 @@ Nación y en los centros para la conservación
 
 e investigación de la vida silvestre: $382.96 $383
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-Estarán exentos del pago del derecho a que se refiere la fracción I de este artículo, las personas menores de 6 años, así como personas con discapacidad.
+Estarán exentos del pago del derecho a que se refiere la fracción I de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -16057,15 +16161,11 @@ El pago de los derechos previstos en el presente artículo se deberá realizar s
 
 Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 Tabla A
 
-I.- Rango de frecuencias en Megahertz
-
-De 824 MHz a 849 MHz
-
-De 869 MHz a 894 MHz
+I. Rango de frecuencias en Megahertz
 
 De 1850 MHz a 1910 MHz
 
@@ -16307,6 +16407,8 @@ El pago del derecho a que se refiere este artículo, se realizará sin perjuicio
 
 Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
 
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
 Tabla A
 
 Rango de frecuencias en Megahertz
@@ -16319,9 +16421,9 @@ De 475 MHz a 476.2 MHz
 
 De 494.6 MHz a 495.8 MHz
 
-De 806 MHz a 821 MHz
+De 806 MHz a 814 MHz
 
-De 851 MHz a 866 MHz
+De 851 MHz a 859 MHz
 
 De 896 MHz a 901 MHz
 
@@ -16532,6 +16634,444 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones o el que lo sustituya.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 244-G.
+
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+Rango de frecuencias en Megahertz
+
+De 814 MHz a 824 MHz
+
+De 824 MHz a 849 MHz
+
+De 859 MHz a 869 MHz
+
+De 869 MHz a 894 MHz
+
+Tabla B
+
+Cobertura Cuota por cada
+
+kilohertz
+
+concesionado
+
+1MHz=1000 KHz
+
+Todos los municipios de Baja California, Baja
+
+California Sur y el municipio de San Luis Río
+
+Colorado del estado de Sonora. $4,444.79
+
+Todos los municipios de Sinaloa y todos los
+
+de Sonora, excepto el municipio de San Luis
+
+Río Colorado. $658.89
+
+Todos los municipios de los estados de
+
+Chihuahua y Durango y los municipios
+
+Francisco I. Madero, Matamoros, San Pedro,
+
+Torreón y Viesca del estado de Coahuila. $2,798.58
+
+Todos los municipios de los estados de Nuevo
+
+León, Tamaulipas y Coahuila, con excepción
+
+de los municipios de Francisco I. Madero,
+
+Matamoros, Torreón, San Pedro y Viesca. $13,919.70
+
+Todos los municipios de los estados de
+
+Colima, Michoacán, Nayarit y Jalisco, excepto
+
+los municipios de Bolaños, Colotlán,
+
+Encarnación de Díaz, Huejúcar, Huejuquilla,
+
+Lagos de Moreno, Mezquitic, Ojuelos de
+
+Jalisco, Santa María de los Ángeles,
+
+Teocaltiche, Villa Guerrero y Villa Hidalgo. $5,406.11
+
+Todos los municipios de Aguascalientes,
+
+Guanajuato, Querétaro, San Luis Potosí,
+
+Zacatecas y los municipios de Bolaños,
+
+Colotlán, Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno, Mezquitic,
+
+Ojuelos de Jalisco, Santa María de los
+
+Ángeles, Teocaltiche, Villa Guerrero y Villa
+
+Hidalgo del estado de Jalisco. $2,255.46
+
+Todos los municipios de los Estados de
+
+Guerrero, Oaxaca, Puebla, Tlaxcala y
+
+Veracruz. $385.31
+
+Todos los municipios de los estados de
+
+Campeche, Chiapas, Quintana Roo, Tabasco
+
+y Yucatán. $260.44
+
+Todos los municipios de los estados de
+
+Hidalgo, Morelos y Estado de México, y todas
+
+las demarcaciones territoriales de la Ciudad
+
+de México. $20,245.74
+
+Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 244-H.
+
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+Rango de frecuencias en Megahertz
+
+De 614 MHz a 698 MHz
+
+Tabla B
+
+Cobertura Cuota por cada
+
+Kilohertz
+
+Concesionado
+
+1MHz=1000 KHz
+
+Todos los municipios de Baja California, Baja
+
+California Sur y el municipio de San Luis Río
+
+Colorado del estado de Sonora. $2,218.55
+
+Todos los municipios de Sinaloa y todos los
+
+de Sonora, excepto el municipio de San Luis
+
+Río Colorado. $328.88
+
+Todos los municipios de los estados de
+
+Chihuahua y Durango y los municipios
+
+Francisco I. Madero, Matamoros, San Pedro,
+
+Torreón y Viesca del estado de Coahuila. $1,396.87
+
+Todos los municipios de los estados de Nuevo
+
+León, Tamaulipas y Coahuila, con excepción
+
+de los municipios de Francisco I. Madero,
+
+Matamoros, Torreón, San Pedro y Viesca. $6,947.83
+
+Todos los municipios de los estados de
+
+Colima, Michoacán, Nayarit y Jalisco, excepto
+
+los municipios de Bolaños, Colotlán,
+
+Encarnación de Díaz, Huejúcar, Huejuquilla,
+
+Lagos de Moreno, Mezquitic, Ojuelos de
+
+Jalisco, Santa María de los Ángeles,
+
+Teocaltiche, Villa Guerrero y Villa Hidalgo. $2,698.38
+
+Todos los municipios de Aguascalientes,
+
+Guanajuato, Querétaro, San Luis Potosí,
+
+Zacatecas y los municipios de Bolaños,
+
+Colotlán, Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno, Mezquitic,
+
+Ojuelos de Jalisco, Santa María de los Ángeles,
+
+Teocaltiche, Villa Guerrero y Villa
+
+Hidalgo del estado de Jalisco. $1,125.78
+
+Todos los municipios de los Estados de
+
+Guerrero, Oaxaca, Puebla, Tlaxcala y
+
+Veracruz. $192.32
+
+Todos los municipios de los estados de
+
+Campeche, Chiapas, Quintana Roo, Tabasco
+
+y Yucatán. $129.99
+
+Todos los municipios de los estados de
+
+Hidalgo, Morelos y Estado de México, y todas
+
+las demarcaciones territoriales de la Ciudad
+
+de México. $10,105.38
+
+Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 244-I.
+
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+Rango de frecuencias en Megahertz
+
+De 1427 MHz a 1518 MHz
+
+Tabla B
+
+Cobertura Cuota por cada
+
+kilohertz
+
+concesionado 1MHz =
+
+1000 KHz
+
+Todos los municipios de Baja California, Baja
+
+California Sur y el municipio de San Luis Río
+
+Colorado del estado de Sonora. $1,663.91
+
+Todos los municipios de Sinaloa y todos los
+
+de Sonora, excepto el municipio de San Luis
+
+Río Colorado. $246.66
+
+Todos los municipios de los estados de
+
+Chihuahua y Durango y los municipios
+
+Francisco I. Madero, Matamoros, San Pedro,
+
+Torreón y Viesca del estado de Coahuila. $1,047.65
+
+Todos los municipios de los estados de
+
+Nuevo León, Tamaulipas y Coahuila, con
+
+excepción de los municipios de Francisco I.
+
+Madero, Matamoros, San Pedro, Torreón y
+
+Viesca. $5,210.87
+
+Todos los municipios de los estados de
+
+Colima, Michoacán, Nayarit y Jalisco,
+
+excepto los municipios de Bolaños, Colotlán,
+
+Encarnación de Díaz, Huejúcar, Huejuquilla,
+
+Lagos de Moreno, Mezquitic, Ojuelos de
+
+Jalisco, Santa María de los Ángeles,
+
+Teocaltiche, Villa Guerrero y Villa Hidalgo. $2,023.79
+
+Todos los municipios de Aguascalientes,
+
+Guanajuato, Querétaro, San Luis Potosí,
+
+Zacatecas y los municipios de Bolaños,
+
+Colotlán, Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno, Mezquitic,
+
+Ojuelos de Jalisco, Santa María de los
+
+Ángeles, Teocaltiche, Villa Guerrero y Villa
+
+Hidalgo del estado de Jalisco. $844.34
+
+Todos los municipios de los estados de
+
+Guerrero, Oaxaca, Puebla, Tlaxcala y
+
+Veracruz. $144.24
+
+Todos los municipios de los estados de
+
+Campeche, Chiapas, Quintana Roo, Tabasco
+
+y Yucatán. $97.50
+
+Todos los municipios de los estados de
+
+Hidalgo, Morelos y Estado de México, y
+
+todas las demarcaciones territoriales de la
+
+Ciudad de México. $7,579.03
+
+Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 244-J.
+
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+Rango de frecuencias en Megahertz
+
+De 3300 MHz a 3400 MHz
+
+De 3400 MHz a 3600 MHz
+
+Tabla B
+
+Cobertura Cuota por cada kilohertz
+
+concesionado
+
+1 MHz = 1000 KHz
+
+Todos los municipios de Baja California,
+
+Baja California Sur y el municipio de San
+
+Luis Río Colorado del estado de Sonora. $747.15
+
+Todos los municipios de Sinaloa y todos los
+
+de Sonora, excepto el municipio de San
+
+Luis Río Colorado. $110.76
+
+Todos los municipios de los estados de
+
+Chihuahua y Durango y los municipios
+
+Francisco I. Madero, Matamoros, San
+
+Pedro, Torreón y Viesca del estado de
+
+Coahuila. $470.43
+
+Todos los municipios de los estados de
+
+Nuevo León, Tamaulipas y Coahuila, con
+
+excepción de los municipios de Francisco I.
+
+Madero, Matamoros, San Pedro, Torreón y
+
+Viesca. $2,339.84
+
+Todos los municipios de los estados de
+
+Colima, Michoacán, Nayarit y Jalisco,
+
+excepto los municipios de Bolaños,
+
+Colotlán, Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno, Mezquitic,
+
+Ojuelos de Jalisco, Santa María de los
+
+Ángeles, Teocaltiche, Villa Guerrero y Villa
+
+Hidalgo. $908.74
+
+Todos los municipios de Aguascalientes,
+
+Guanajuato, Querétaro, San Luis Potosí,
+
+Zacatecas y los municipios de Bolaños,
+
+Colotlán, Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno, Mezquitic,
+
+Ojuelos de Jalisco, Santa María de los
+
+Ángeles, Teocaltiche, Villa Guerrero y Villa
+
+Hidalgo del estado de Jalisco. $379.13
+
+Todos los municipios de los estados de
+
+Guerrero, Oaxaca, Puebla, Tlaxcala y
+
+Veracruz. $64.77
+
+Todos los municipios de los estados de
+
+Campeche, Chiapas, Quintana Roo,
+
+Tabasco y Yucatán. $43.78
+
+Todos los municipios de los estados de
+
+Hidalgo, Morelos y Estado de México, y
+
+todas las demarcaciones territoriales de la
+
+Ciudad de México. $3,403.21
+
+Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, D.O.F. DEL 28 DE DICIEMBRE DE 2019.]</small>
 
@@ -16865,27 +17405,47 @@ La cancelación de una concesión o asignación minera por el incumplimiento en 
 
 (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 268.
 
-Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 7.5% a la diferencia positiva que resulte de disminuir de los ingresos derivados de la enajenación o venta de la actividad extractiva, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones que obtengan ingresos derivados de la enajenación o venta de la actividad extractiva, pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 7.5% a la diferencia positiva que resulte de disminuir a dichos ingresos, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
-Los ingresos a que se refiere el párrafo anterior, se determinarán considerando los ingresos acumulables que tenga el concesionario o asignatario minero conforme a la Ley del Impuesto sobre la Renta, con excepción de los establecidos en las fracciones IX, X y XI del artículo 18 de dicha ley, o las que las sustituyan.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-Para la determinación de la base del derecho a que se refiere este artículo, los titulares de concesiones o asignaciones mineras podrán disminuir las deducciones autorizadas conforme a la Ley del Impuesto sobre la Renta, con excepción de las siguientes:
+Los ingresos a que se refiere el párrafo anterior, corresponderán a los ingresos acumulables que obtenga el concesionario o asignatario minero, así como el adquirente de derechos relativos a una concesión minera, determinados conforme a lo dispuesto por la Ley del Impuesto sobre la Renta, con excepción de los establecidos en las fracciones IX, X y XI del artículo 18 de dicha ley, o las que las sustituyan.
 
-a). Las establecidas en las fracciones IV, VII y VIII del artículo 25 de dicha ley, salvo las inversiones realizadas para la prospección y exploración minera o las que las sustituyan, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Para la determinación de la base del derecho a que se refiere este artículo, los titulares de concesiones o asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones, podrán disminuir las deducciones autorizadas conforme a la Ley del Impuesto sobre la Renta, con excepción de las siguientes:
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+a). Las establecidas en las fracciones IV, VII y VIII del artículo 25 de dicha ley, salvo las inversiones realizadas para la prospección y exploración minera o las que las sustituyan.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Para efectos del párrafo anterior, no serán deducibles los activos intangibles que permitan la explotación de bienes del dominio público o la prestación de un servicio público concesionado a que se refiere la Ley del Impuesto sobre la Renta, entre otros, los títulos de concesiones o asignaciones mineras, así como los derechos adquiridos para la exploración y explotación de minerales o sustancias conforme a la Ley Minera.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 b). Las contribuciones y aprovechamientos, pagados por dicha actividad.
 
-Los contribuyentes podrán acreditar contra el derecho a que se refiere este artículo, los pagos definitivos efectuados en el ejercicio de que se trate del derecho sobre minería a que se refiere el artículo 263 de esta Ley.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 El derecho a que se refiere el presente artículo, se calculará considerando la totalidad de las concesiones o asignaciones de las que sea titular.
 
 > <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 El pago del derecho señalado en este artículo se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -16903,17 +17463,25 @@ El pago del derecho a que se refiere este artículo deberá efectuarse semestral
 
 Para el caso de que la determinación del cumplimiento del plazo de dos años a que se refieren los párrafos primero y segundo de este artículo, se efectúe en el transcurso de un semestre, los concesionarios deberán pagar la parte proporcional del derecho por el periodo que corresponda, a partir del mes en que se cumplió el plazo de los dos años y hasta el último mes del semestre de que se trate, para tales efectos, el derecho se deberá pagar dentro de los treinta días naturales siguientes a esa fecha.
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 270.
 
-Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 0.5% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones, pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 0.5% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
-El derecho a que se refiere el presente artículo, se calculará considerando los ingresos totales del concesionario o asignatario minero por la enajenación o venta del oro, plata y platino, independientemente del número de concesiones o asignaciones de las que sea titular.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+El derecho a que se refiere el presente artículo, se calculará considerando los ingresos acumulables totales de los sujetos a que se refiere el párrafo anterior determinados conforme a lo dispuesto por la Ley del Impuesto sobre la Renta, por la enajenación o venta del oro, plata y platino, independientemente del número de concesiones, asignaciones o derechos derivados de esas concesiones de las que sean titulares.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Los contribuyentes deberán llevar contabilidad por separado en donde se identifiquen los ingresos derivados de la enajenación del oro, plata y platino.
 
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
 
@@ -17125,7 +17693,9 @@ Tratándose de las descargas efectuadas desde plataformas marinas o fuentes móv
 
 CUERPOS RECEPTORES TIPO "B":
 
-Aguascalientes: Río San Pedro en los municipios de Aguascalientes, Rincón de Romos, Jesús María, San Francisco de los Romo, Pabellón de Arteaga, Tepezala y Cosio; Ríos Malpaso, Manzano, La Labor y Calvillo, Arroyos Rincón Verde, Ojocaliente y Cebolletas en el municipio de Calvillo; Río Blanco y Río Prieto en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Arroyos, El Saucillo, El Túnel y Las Burras en el municipio de Rincón de Romos; Río Santiago y Arroyo Ojo Zarco en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, San Nicolás, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), y La Chavena en el municipio de Aguascalientes; Arroyos La Concepción y San José de Guadalupe en el municipio de Jesús María; Arroyo Piedras Negras en el municipio de Asientos; Río Chicalote en los municipios de Asientos, San Francisco de los Romo y Jesús María; Arroyo San Francisco en los municipios de Aguascalientes y El Llano; Río Gil en los municipios de Jesús María y Calvillo.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Aguascalientes: Río San Pedro en los municipios de Rincón de Romos, Jesús María, San Francisco de los Romo, Pabellón de Arteaga, Tepezala y Cosío; Ríos Malpaso, Manzano, La Labor y Calvillo, Arroyos Rincón Verde, Ojocaliente y Cebolletas en el municipio de Calvillo; Río Blanco y Río Prieto en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Arroyos, El Saucillo, El Túnel y Las Burras en el municipio de Rincón de Romos; Río Santiago y Arroyo Ojo Zarco en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, San Nicolás, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), La Chavena, Cedazo, Molino y Los Arellano, en el municipio de Aguascalientes; Arroyos La Concepción, San José de Guadalupe y La Yerbabuena en los municipios de Aguascalientes y Jesús María; Arroyo Piedras Negras en el municipio de Asientos; Río Chicalote en los municipios de Asientos, San Francisco de los Romo y Jesús María; Arroyo San Francisco en los municipios de Aguascalientes y El Llano; Río Gil en los municipios de Jesús María y Calvillo.
 
 Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánimas, El Gallo, Cuatro Milpas, El Sauzal, El Carmen, San Vicente, Salado, San Rafael, San Telmo, Santo Domingo, Las Escopetas, Aguachiquita, Nueva York, San Simón, El Socorro, El Rosario, La Misión y Las Amarillas en el municipio de Ensenada; Arroyos Las Palmas, San Pablo, San José y Cañada Joe Bill y Río Tecate en el municipio de Tecate; Arroyos Las Palmas, Sainz, La Meza, México Lindo, Sánchez Taboada, Lázaro Cárdenas, Camino Verde, Agua Caliente, Matanuco, El Florido, Cerro Colorado, Presidentes, Gato Bronco, Sistema Álamo, Alamar, La Pechuga, Aviación o Pesteje, Aguaje de la Tuna, Cañón del Sol, Matadero, E. Zapata, Sistema Centro, Los Laureles, San Antonio de los Buenos, Río Tijuana en el municipio de Tijuana; Ríos Nuevo, Colorado y Hardy y Arroyo Las Amarillas en el municipio de Mexicali; Arroyos Guaguatay y El Descanso en el municipio de Playas de Rosarito; Bahías San Francisquito o Luis Gonzaga, De Los Ángeles, Camalú, Todos Santos, San Quintín y San Felipe Punta Estrella en el municipio de Ensenada; Costa de Tijuana en el municipio de Tijuana; Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali; Costa de Rosarito en el municipio de Playas de Rosarito.
 
@@ -17133,7 +17703,9 @@ Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánima
 
 Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en El municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de Los Cabos; Arroyos San José de Magdalena, Santa Águeda, Las Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
 
-Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -17167,7 +17739,9 @@ Guerrero: Río La Cofradía en el municipio de La Unión de Isidoro Montes de Oc
 
 Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez, Hidalgo, Molango y Chapulhuacán; Canal Salto Tlamaco y Río El Salto en el municipio de Atotonilco de Tula.
 
-Jalisco: Río Ayuquila o Armería en los municipios de Tolimán, Tuxcacuesco y Zapotitlán; Río Manantlán o San José en el municipio de Autlán; Río Chico o Mezquitic o Bolaños en los municipios de Mezquitic, Villa Guerrero y Bolaños; Río Santiago en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey y Chapala; Canal de Atequiza en los municipios de Chapala, Iztlahuacán de los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río San Pedro o Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Villa Obregón, Valle de Guadalupe, Yahualica, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Arroyo Cuixtla en el municipio de San Martín de Bolaños y San Cristóbal de la Barranca; Río Lerma en los municipios de Degollado, Ayotlán, Jamay y La Barca; Ríos Tomatlán y María García en el municipio de Tomatlán; Arroyos Las Amapas y El Nogalito y Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Arroyo Chamela y Ríos Cuitzmala y Purificación en el municipio de La Huerta; Río Tecolote o Carmesí en el municipio de Casimiro Castillo; Río Zula o Los Sabinos en los municipios de Tototlán y Ocotlán; Arroyo San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle en el municipio del Valle de Guadalupe; Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de los Lagos en el municipio de San Juan de los Lagos.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Jalisco: Río Ayuquila o Armería en los municipios de Tolimán, Tuxcacuesco y Zapotitlán; Río Manantlán o San José en el municipio de Autlán; Río Chico o Mezquitic o Bolaños en los municipios de Mezquitic, Villa Guerrero y Bolaños; Canal de Atequiza en los municipios de Chapala, Iztlahuacán de los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río San Pedro o Verde en los municipios de Villa Hidalgo, Villa Obregón; Arroyo Cuixtla en el municipio de San Martín de Bolaños y San Cristóbal de la Barranca; Río Lerma en los municipios de Degollado, Ayotlán, Jamay y La Barca; Ríos Tomatlán y María García en el municipio de Tomatlán; Arroyos Las Amapas y El Nogalito y Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Arroyo Chamela y Ríos Cuitzmala y Purificación en el municipio de La Huerta; Río Tecolote o Carmesí en el municipio de Casimiro Castillo; Arroyo San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle en el municipio del Valle de Guadalupe; Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de los Lagos en el municipio de San Juan de los Lagos.
 
 Michoacán: Ríos Chilchota y Duero en el municipio de Chilchota; Río Cupatitzio en los municipios de Uruapan y Gabriel Zamora; Río Zitácuaro aguas arriba de La Presa del Bosque en el municipio de Zitácuaro; Río Balsas en los municipios de Arteaga y Lázaro Cárdenas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Ríos Tirio y Tiripetío en el municipio de Morelia.
 
@@ -17179,7 +17753,9 @@ Nuevo León: Río San Juan en los municipios de Santiago, Cadereyta Jiménez, Ge
 
 Oaxaca: Río Manialtepec en los municipios de San Pedro Tututepec y Santo Reyes Nopala; Río Mixteco en el municipio de Huajuapan de León; Río Tehuantepec en los municipios de Santo Domingo Tehuantepec y San Blas Atempa; Acuífero Valles Centrales en la Región Valles Centrales del Estado; Bahías de Huatulco en el municipio de Santa María Huatulco; Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía La Ventosa en el municipio de Salina Cruz, Océano Pacífico en las costas de Puerto Escondido en el municipio de San Pedro Mixtepec.
 
-Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyuca; Río Acalmán en los municipios de Naupan, Tlacuilotepec, Tlaxco, Honey, Pahuatlan y Jalpan; Río San Marcos en los municipios de Naupan, Tlacuilotepec, Xicotepec, y Jalpan; Río Necaxa en los municipios de Nuevo Necaxa, Tlaola, Zihuateutla y Jopala, Río Amixtlán en los municipios de Zihuateutla, Xicotepec, Jalpan y Venustiano Carranza; Río Cozapa en los municipios de Tlaola, Tlapacoya y Jopala; Río Agrio en los municipios de Zacatlán y Chignahuapan; Río Ajajalpan en los municipios de Chignahuapan, Zacatlán, Tepetzintla, Ahuacatlán, Chiconcuautla, Tlapacoya, San Felipe Tepatlán, Hermenegildo Galeana y Jopala; Río Zempoala en los municipios de Tetela de Ocampo, San Esteban Cuautempan, Huitzilán, Zapotitlán de Méndez, Zoquiapan, Atlequizayan, Caxhuacan, Huehuetla, Tuzamapan de Galeana y Tenampulco; Río Apulco en los municipios de Ixtacamaxtitlán, Santiago Zautla, Xochiapulco, Zacapoaxtla, Nauzontla, Xochitlán de Vicente Suárez, Cuetzalán del Progreso, Yaonahuac, Ayotoxco de Guerrero y Tenampulco; Río María de la Torre en los municipios de Teziutlán, Xiutetelco, Hueytamalco y Acateno; Río Tilapa en los municipios de Chichiquila y Quimixtlán; Río Huizilapan en los municipios de Tlachíchuca, Chichotla y Quimixtlán; Río Atoyac en los municipios de Tlahuapan, San Miguel Xoxtla, San Juan Cuautlancingo y Puebla y sus afluentes directos: Arroyo Tlapalac en San Miguel Xoxtla; Barranca Guadalupe, Barranca del Conde, Barranca San Jerónimo en el municipio de Puebla; Arroyo Rabanillo en los municipios de San Pedro Cholula y Puebla; Arroyo Zapatero en los municipios de San Andrés Cholula y Puebla; Río San Francisco, Arroyo Maravillas y Barranca Xaltonac en el municipio de Puebla; Río Alseseca en el municipio de Puebla y sus afluentes directos: Barranca San Sebastián, Barranca Manzanilla, Barranca San Antonio en el municipio de Puebla y Barranca San Diego en los municipios de Amozoc y Puebla; Río Nexapa en los municipios de San Nicolás de los Ranchos y Nealtican; Río Axamilpa en los municipios de Ixcaquixtla y Tepexi de Rodríguez; Río Atoyac (cuenca baja) en los municipios de Tzicatlacoyan, Atoyatempan, Huatlatlahuaca, Coatzingo, Ahuatlán, Cuayuca de Andrade, Tehuitzingo, Chiautla de Tapia y Santa María Cohetzala.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyuca; Río Acalmán en los municipios de Naupan, Tlacuilotepec, Tlaxco, Honey, Pahuatlan y Jalpan; Río San Marcos en los municipios de Naupan, Tlacuilotepec, Xicotepec y Jalpan; Río Necaxa en los municipios de Nuevo Necaxa, Tlaola, Zihuateutla y Jopala; Río Amixtlán en los municipios de Zihuateutla, Xicotepec, Jalpan y Venustiano Carranza; Río Cozapa en los municipios de Tlaola, Tlapacoya y Jopala; Río Agrio en los municipios de Zacatlán y Chignahuapan; Río Ajajalpan en los municipios de Chignahuapan, Zacatlán, Tepetzintla, Ahuacatlán, Chiconcuautla, Tlapacoya, San Felipe Tepatlán, Hermenegildo Galeana y Jopala; Río Zempoala en los municipios de Tetela de Ocampo, San Esteban Cuautempan, Huitzilán, Zapotitlán de Méndez, Zoquiapan, Atlequizayan, Caxhuacan, Huehuetla, Tuzamapan de Galeana y Tenampulco; Río Apulco en los municipios de Ixtacamaxtitlán, Santiago Zautla, Xochiapulco, Zacapoaxtla, Nauzontla, Xochitlán de Vicente Suárez, Cuetzalán del Progreso, Yaonahuac, Ayotoxco de Guerrero y Tenampulco; Río María de la Torre en los municipios de Teziutlán, Xiutetelco, Hueytamalco y Acateno; Río Tilapa en los municipios de Chichiquila y Quimixtlán; Río Huizilapan en los municipios de Tlachíchuca, Chichotla y Quimixtlán; Barranca San Jerónimo y Barranca Xaltonac en el municipio de Puebla; Río Axamilpa en los municipios de Ixcaquixtla y Tepexi de Rodríguez; Río Atoyac (cuenca baja) en los municipios de Tzicatlacoyan, Atoyatempan, Huatlatlahuaca, Coatzingo, Ahuatlán, Cuayuca de Andrade, Tehuitzingo, Chiautla de Tapia y Santa María Cohetzala.
 
 Querétaro: Río Jalpan en los municipios de Jalpan de Serra, Pinal de Amoles y Arroyo Seco; Río Extoraz, en los municipios de Tolimán, Peñamiller, Pinal de Amoles y Jalpan de Serra; Río Tolimán en los municipios de Colón y Tolimán; Arroyo Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Querétaro y Corregidora; Río Santa María en los municipios de Arroyo Seco y Jalpan de Serra; Río Querétaro en los municipios de Querétaro y El Marqués.
 
@@ -17213,13 +17789,17 @@ Todos los Estuarios y Humedales Naturales, y todos los Embalses Naturales o Arti
 
 CUERPOS RECEPTORES TIPO "C":
 
-Aguascalientes: Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríquez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Aguascalientes: Río San Pedro en el municipio de Aguascalientes, Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríguez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos; Presas Los Pargas, El Cedazo, Los Gringos y El Niágara en el municipio de Aguascalientes; Codorniz y Malpaso en el municipio de Calvillo; y Chica (Natillas de Abajo) en el municipio de Cosío.
 
 Baja California: Presa Emilio López Zamora en el municipio de Ensenada; Presa El Carrizo en el municipio de Tecate; Presa Abelardo L. Rodríguez en el municipio de Tijuana; Acuíferos Río Guadalupe, La Misión, Ensenada, San Quintín y Maneadero; Acuífero Tijuana; Acuíferos Río Colorado y San Felipe en el municipio de Mexicali.
 
 Baja California Sur: Acuíferos Punta Eugenia, Vizcaíno, San Ignacio, Mulegé-B Concepción, San Marcos-Palo Verde, San Bruno, San Lucas y L. Virg-S., Rosas-S-Águeda en el municipio de Mulegé; Acuíferos La Purísima, Mezquital Seco y Santo Domingo en el Municipio de Comondú; Acuífero Santa Rita, Las Pocitas-San Hilario, el Conejo-Los Viejos, Melitón Albañez, Cañada Honda, El Carrizal, Los Planes, Valle La Paz, El Coyote, Todos Santos, Pescadero y Plutarco Elías Calles en el municipio de La Paz; Acuíferos Migriño, Cabo San Lucas, Cabo Pulmo, San José del Cabo, Santiago y San Bartolo, en el municipio de Los Cabos; Acuífero A.V.-, Bonfil-Tepentú en los municipios de La Paz y Loreto; Acuíferos Loreto-Puerto Escondido, San Juan Bautista Londo Rosarito en el municipio de Loreto.
 
-Campeche: Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Campeche: Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada; Acuíferos Península de Yucatán y Xpujil, en todos los municipios del Estado.
 
 Coahuila: Presa la Amistad en el municipio de Acuña y Presa Venustiano Carranza en los municipios de Progreso y Juárez.
 
@@ -17235,7 +17815,9 @@ Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Truja
 
 Hidalgo: Presa Jaramillo y Bordo la Estanzuela en el municipio de Pachuca de Soto.
 
-Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapán El Alto; Presa La Joya en el municipio de Zapotlanejo; Presa El Salto en el municipio de Valle de Guadalupe; Presa Calderón en el municipio de Acatic; Presa La Red en el municipio de Tepatitlán; Presa El Jihuite en el municipio de Tepatitlán de Morelos; Presa Alcalá en el municipio de San Juan de los Lagos; Presa Cajón de Peña en el municipio de Tomatlán.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapán El Alto; Presa La Joya en el municipio de Zapotlanejo; Presa El Salto en el municipio de Valle de Guadalupe; Presa Calderón en el municipio de Acatic; Presa La Red en el municipio de Tepatitlán; Presa El Jihuite en el municipio de Tepatitlán de Morelos; Presa Alcalá en el municipio de San Juan de los Lagos; Presa Cajón de Peña en el municipio de Tomatlán; Río San Pedro o Verde y sus afluentes directos e indirectos hasta el sitio de Arcediano, en los municipios de Teocaltiche, Jalostotitlán, Mexticacán, Cañadas de Obregón, San Juan de los Lagos, San Miguel El Alto, Valle de Guadalupe, Yahualica de González Gallo, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Río Santiago y sus afluentes directos e indirectos hasta el sitio de Arcediano, en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey, Chapala, Guadalajara, Ixtlahuacán de los Membrillos, Ixtlahuacán del Río, Juanacatlán, El Salto, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá, Zapopan y Zapotlanejo; Río Zula o los Sabinos y sus afluentes directos e indirectos en los municipios de Arandas, Atotonilco El Alto, Tototlán y Ocotlán, y Laguna de Cajititlán en el municipio de Tlajomulco de Zuñiga.
 
 Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Cojumatlán de Régules; Presa José María Morelos (La Villita) en el municipio de Lázaro Cárdenas; Presas Cointzio y La Mintzita en el municipio de Morelia; Presa del Bosque en el municipio de Zitácuaro; Presa Barraje de Ibarra en el municipio de Briseñas; Presa El Rosario en el municipio de Angamacutiro; Presas Pucuato, Sabaneta y Agostitlán (Mata de Pinos) en el municipio de Hidalgo; Presa Tuxpan en el municipio de Tuxpan; Lago de Camécuaro, en el municipio de Tangancícuaro; Lago de Cuitzeo en los municipios de Cuitzeo, Huandacareo, Chucándiro, Copándaro, Tarímbaro, Álvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Lago de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongarícuaro y Tzintzúntzan; Laguna de Zacapu en el Municipio de Zacapu; Lago Zirahuén en el municipio de Salvador Escalante; Río Balsas en los municipios de Huetamo y San Lucas; Ríos El Marquez y Tepalcatepec en el municipio de Mujica; Río Zicuirán aguas abajo de la Presa Zicuirán en el municipio de La Huacana.
 
@@ -17245,25 +17827,35 @@ Nuevo León: Presa el Cuchillo-Solidaridad en el municipio de China; Presa Rodri
 
 Querétaro: Presa Jalpan en el municipio de Jalpan de Serra; Presa La Ceja en el municipio de Huimilpan.
 
-Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor o Nizuc en el municipio de Benito Juárez.
+Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec; Río Tonto en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Puebla: Río Actiopa en el municipio de Calpan; Río Actopa en el municipio de Juan C. Bonilla; Río Metlapanapa y Río Prieto en los municipios de Juan C. Bonilla y San Pedro Cholula; Río Rabanillo en el municipio de San Pedro Cholula; Río Tenizatl, Arroyo Tlapalac y Río Xopanac en el municipio de Huejotzingo; Río Atoyac y sus afluentes directos en los municipios de Tlahuapan, San Miguel Xoxtla, Cuautlancingo y Puebla; Arroyo Tlapalac en el municipio de San Miguel Xoxtla; Barranca Guadalupe, Barranca del Conde, Río Alseseca y sus afluentes directos, Barranca San Sebastián, Barranca Manzanilla, Barranca San Antonio, Barranca Xaxalpa, Barranca Mixatlatl, Barranca Xonacatepec, Arroyo Maravillas, Río San Francisco y Barranca Santo Domingo en el municipio de Puebla; Barranca San Diego en los municipios de Amozoc y Puebla; Río Nexapa y sus afluentes en los municipios de San Nicolás de los Ranchos, Nealtican, Izúcar de Matamoros, Jolalpan y Cohetzala; Barranca la Leona y Río Cantarranas en el municipio de Atlixco; Río Epatlán en el municipio de Epatlán; Río Ahuehuello en los municipios de Atzala, Huaquechula, Tlapanalá y Tilapa; Río Ahuizac y Río Matadero en el municipio de Tochimilco; Río Atila en los municipios de Huaquechula, Tlapanalá, Tilapa y Tochimilco; Río Ayotla, Río Virgen, Arroyo Paso de la Atarjea, Barrancas Agua Azul y Barranca Texal en el municipio de Tlahuapan; Río Cotzala en los municipios de San Felipe Teotlalcingo y San Martín Texmelucan; Río San Ignacio en los municipios de Huejotzingo y San Martín Texmelucan; Río La Presa, Río Atotonilco, Río Chiquito, Arroyo San Bartolo, Arroyo La Presa, Arroyo Ayotla, Arroyo Capuente, Arroyo Zanja Real y la Barranca Cruztitla en el municipio de San Martín Texmelucan; Río Santa Elena y Río Aculco en el municipio de San Salvador El Verde; Río Xochiac en los municipios de Chiautzingo y San Martín Texmelucan; Arroyo Rabanillo en los municipios de San Pedro Cholula y Puebla; Arroyo Zapatero en los municipios de San Andrés Cholula y Puebla; Arroyo Tepozantla en el municipio de San Felipe Teotlalcingo; Barranca Apatzalco y Barranca Atzopic en el municipio de Chiautzingo; Barranca Agua Santa en el municipio de Coronango; Barranca del Conde y Arroyo Puente Tablas en el municipio de Cuautlancingo; Barranca Acuexcontitla en el municipio de Domingo Arenas; Barranca Ajoluapa, Barranca Atexca y Barranca Tepanco en el municipio de San Matías Tlalancaleca; Barranca Atenco en los municipios de Ocoyucan, San Andrés Cholula, San Jerónimo Tecuanipan y San Gregorio Atzompa; Barranca Tetelco y Barranca Xemelco en el municipio de Ocoyucan.
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor o Nizuc en el municipio de Benito Juárez; Acuíferos Península de Yucatán, Cerros y Valles y Xpujil en todos los municipios del Estado.
 
 San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Cañas en el municipio de Escuinapa.
+Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Cañas en el municipio de Escuinapa, Laguna de Santa María, Laguna de Topolobampo y Laguna de Ohuira en el municipio de Ahome.
 
 Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
 
 Tamaulipas: Presa Falcón en el municipio de Guerrero; Laguna La Nacha en el municipio de San Fernando; Presa Vicente Guerrero en los municipios de Güémez, Padilla y Casas; Lagunas de Champayán y La Puerta en el municipio de Altamira; Laguna del Chairel en el municipio de Tampico; Presa La Patria es Primero en los municipios de Casas y Abasolo; Presa República Española en el municipio de Aldama.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-Veracruz: Laguna de la Costa en el municipio de Pánuco; Manantial Ojo de Agua en los municipios de Orizaba e Ixtaczoquitlán; Manantiales La Cañada y Rancho Nuevo en el municipio de Alto Lucero; Manantiales El Pocito, Rincón de las Águilas y Arroyo Escondido en el municipio de Banderilla; Manantiales Los Amelitos, Cerro de Nacimiento y La Poza en el municipio de Altotonga; Manantial Matacatzintla en el municipio de Catemaco; Manantial El Rincón de Chapultepec en el municipio de Coacoatzintla; Manantiales Ojo de Agua, Las Lajas y Los Bonilla en el municipio de Coatepec; Manantial Dos Cruces en el municipio de Comapa; Manantial Las Tortugas en el municipio de Cuitláhuac; Manantial El Chorro en el municipio de Chicontepec; Manantiales El Resumidero, El Chico, de Vaquerías, El Castillo y La Represa en el municipio de Emiliano Zapata; Manantiales Axol, Coxolo y Tepetzingo en el municipio de Huatusco; Manantiales Pozo de Piedra y El Lindero en el municipio de Huayacocotla; Manantiales El Naranjo, Arroyo El Rincón, Arroyo El Pozo y Tezacobalt en el municipio de Ixhuacán de los Reyes; Manantiales Dos Arroyos y Los Berros en el municipio de Ixtaczoquitlán; Manantiales Tlacuilalostoc, Nixcamalonía y Arroyo Tlacuilalostoc en el municipio de Jalacingo; Manantial Corazón Poniente en el municipio de Jilotepec; Manantial Chicahuaxtla en el municipio de Maltrata; Manantial El Coralillo en el municipio de Miahuatlán; Manantiales Las Lajas y La Lima en el municipio de Misantla; Manantial Las Matillas en el municipio de Naolinco; Manantial Piedra Gacha en el municipio de Nogales; Manantial Cofre de Perote en el municipio de Perote; Manantial el Infiernillo en el municipio de Puente Nacional; Manantiales Talixco, El Salto y Piletas en el municipio de Rafael Lucio; Manantiales 1o. de Mayo, Nacimiento de Otapan, Avescoma, Tular I, Tular II, Tres Chorritos y El Caracol en el municipio de San Andrés Tuxtla; Manantiales El Chorro de Tío Jaime y El Balcón en el municipio de Teocelo; Manantiales Río de Culebras y Dos Pocitos en el municipio de Tonayan; Manantial La Represa en el municipio de Villa Aldama; Manantial El Castillo en el municipio de Xalapa; Manantiales Pozo Santo y Mata de Agua en el municipio de Xico; Río Tonto en el municipio de Tres Valles; Río Tecolapan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan.
+Veracruz: Laguna de la Costa en el municipio de Pánuco; Manantial Ojo de Agua en los municipios de Orizaba e Ixtaczoquitlán; Manantiales La Cañada y Rancho Nuevo en el municipio de Alto Lucero; Manantiales El Pocito, Rincón de las Águilas y Arroyo Escondido en el municipio de Banderilla; Manantiales Los Amelitos, Cerro de Nacimiento y La Poza en el municipio de Altotonga; Manantial Matacatzintla en el municipio de Catemaco; Manantial El Rincón de Chapultepec en el municipio de Coacoatzintla; Manantiales Ojo de Agua, Las Lajas y Los Bonilla en el municipio de Coatepec; Manantial Dos Cruces en el municipio de Comapa; Manantial Las Tortugas en el municipio de Cuitláhuac; Manantial El Chorro en el municipio de Chicontepec; Manantiales El Resumidero, El Chico, de Vaquerías, El Castillo y La Represa en el municipio de Emiliano Zapata; Manantiales Axol, Coxolo y Tepetzingo en el municipio de Huatusco; Manantiales Pozo de Piedra y El Lindero en el municipio de Huayacocotla; Manantiales El Naranjo, Arroyo El Rincón, Arroyo El Pozo y Tezacobalt en el municipio de Ixhuacán de los Reyes; Manantiales Dos Arroyos y Los Berros en el municipio de Ixtaczoquitlán; Manantiales Tlacuilalostoc, Nixcamalonía y Arroyo Tlacuilalostoc en el municipio de Jalacingo; Manantial Corazón Poniente en el municipio de Jilotepec; Manantial Chicahuaxtla en el municipio de Maltrata; Manantial El Coralillo en el municipio de Miahuatlán; Manantiales Las Lajas y La Lima en el municipio de Misantla; Manantial Las Matillas en el municipio de Naolinco; Manantial Piedra Gacha en el municipio de Nogales; Manantial Cofre de Perote en el municipio de Perote; Manantial el Infiernillo en el municipio de Puente Nacional; Manantiales Talixco, El Salto y Piletas en el municipio de Rafael Lucio; Manantiales 1o. de Mayo, Nacimiento de Otapan, Avescoma, Tular I, Tular II, Tres Chorritos y El Caracol en el municipio de San Andrés Tuxtla; Manantiales El Chorro de Tío Jaime y El Balcón en el municipio de Teocelo; Manantiales Río de Culebras y Dos Pocitos en el municipio de Tonayan; Manantial La Represa en el municipio de Villa Aldama; Manantial El Castillo en el municipio de Xalapa; Manantiales Pozo Santo y Mata de Agua en el municipio de Xico; Río Tonto en los municipios de Tres Valles y Cosamaloapan de Carpio; Río Tecolapan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Carlos A. Carrillo, Amatitlán y Tlacojalpan; Río Blanco y sus afluentes directos en los municipios de Camerino Z. Mendoza, Córdoba, Fortín, Ixtaczoquitlán, Nogales, Orizaba, Rafael Delgado y Río Blanco.
 
-Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Tecoh, Timucuy, Tixpéhual, Ucú, Umán y Valladolid.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+Yucatán: Acuífero Península de Yucatán en todos los municipios del Estado.
 
 Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistlán de Mejía y Apulco.
 
@@ -22908,3 +23500,47 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS”.]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2021, salvo la adición de los artículos 244-H y 244-I de la Ley Federal de Derechos, que entrarán en vigor conforme a lo siguiente:
+
+I. El 1 de enero de 2024, cuando las concesiones correspondientes se otorguen a más tardar el 30 de noviembre de 2021.
+
+II. El 1 de enero de 2025, cuando las concesiones correspondientes se otorguen a partir del 1 de diciembre de 2021.
+
+Segundo. Durante el año 2021, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2021, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán cubrir la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2020 hubieren optado por pagar para el referido ejercicio fiscal, más el 4% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2021 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2021, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2020, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2021 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2021 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2020 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2021, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2020, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2021 conforme a la citada fracción del referido artículo 29-D en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2021, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones II, III y IV de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2021, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+VI. Los mexicanos que deseen obtener testamento público abierto en una oficina consular en el extranjero, pagarán el 50% del monto que corresponda en términos de la fracción III del artículo 23 de la Ley Federal de Derechos.
+
+VII. Para los efectos del derecho especial previsto en el artículo 268 de la Ley Federal de Derechos, en el ejercicio fiscal de 2021, los contribuyentes podrán acreditar contra el derecho especial de referencia, el 50% de los pagos definitivos efectuados por concepto del derecho sobre minería a que se refiere el artículo 263 del ordenamiento citado.
+
+Tercero. Los derechos establecidos en el artículo 244-J de la Ley Federal de Derechos aplicarán a los concesionarios que obtengan una concesión de espectro radioeléctrico mediante proceso de licitación pública para servicios de telecomunicaciones inalámbricos móviles o para aquellos concesionarios que se les autorice la prestación del servicio inalámbrico móvil.
+
+Cuarto. Los contribuyentes a que se refiere el artículo 276 de la Ley Federal de Derechos, que hubieren cambiado de tipo de cuerpo receptor, con motivo de la modificación efectuada en el presente Decreto al artículo 278-A, podrán aplicar durante los ejercicios fiscales que a continuación se indican, las cuotas previstas en el artículo 277-B que les corresponda y en su caso los factores de acreditamiento contenidos en el artículo 278 del mismo ordenamiento cuando opten por acreditar, en los siguientes porcentajes:
+
+Ejercicio fiscal Porcentaje de aplicación de cuota
+
+2021 25%
+
+2022 50%
+
+2023 100%
