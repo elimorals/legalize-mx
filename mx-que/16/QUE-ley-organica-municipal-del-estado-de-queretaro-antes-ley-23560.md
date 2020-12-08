@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2020-06-01"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1921,7 +1921,9 @@ VIII. Clasificará como grupos fundamentales de la autorización del gasto públ
 
 IX. De conformidad con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se incluirán los tabuladores anuales que contengan las remuneraciones de los servidores públicos al servicio del Municipio, de sus entidades y dependencias y de su administración paramunicipal, en los términos que señala la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro. El total de sueldos, salarios y prestaciones al personal del Municipio que se prevean en el Presupuesto de Egresos, no excederán del cuarenta por ciento del total del mismo y la inversión de obra pública será de por lo menos el equivalente al treinta por ciento;
 
-X. En el correspondiente al último año del periodo de ejercicio de la administración municipal, se establecerá una partida destinada a gastos de transición, que será del uno por ciento del presupuesto del gasto corriente mensual promedio del periodo correspondiente a los primeros seis meses del año de que se trate, sin incluir las partidas de servicios personales. Los recursos de esta partida deberán utilizarse únicamente para gastos de capacitación y para pagos de gastos administrativos del proceso de entrega recepción, no podrán destinarse a cubrir remuneraciones a los que serán empleados o funcionarios en la administración entrante; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+X. En el correspondiente al último año del periodo de ejercicio de la administración municipal, se establecerá una partida destinada a gastos de transición, de conformidad con lo establecido en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro; y
 
 XI. No se podrán aprobar partidas para el otorgamiento de bonos, compensaciones especiales o cualquier otro pago adicional a las prestaciones a que se tienen derecho por ley o convenio los servidores públicos, por término de la administración municipal.
 
@@ -3126,3 +3128,11 @@ Artículo Segundo. Se abroga la Ley de Medios de Impugnación en Materia Elector
 Artículo Tercero. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
 
 Artículo Cuarto. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 84 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN X DEL ARTÍCULO 112 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
