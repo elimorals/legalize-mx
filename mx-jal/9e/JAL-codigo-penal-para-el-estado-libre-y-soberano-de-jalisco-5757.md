@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-11-07"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3489,15 +3489,53 @@ Si la victima fuese persona defensora de derechos humanos, con discapacidad o co
 
 Este delito se perseguirá por querella de la ofendida o de su legítimo representante, salvo que se trate de menor de edad en cuyo caso se procederá de oficio.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+### Capítulo VII. Violación a la intimidad sexual
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO I. De la Violencia Familiar
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+###### Art. 176
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+Bis. 3. Comete el delito de violación a la intimidad sexual quien, por cualquier medio difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado y/o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido bajo engaño o manipulación.
+
+Esta conducta se sancionará de uno a ocho años de prisión y multa de mil a dos mil Unidades de Medida y Actualización. Este delito se perseguirá por querella.
+
+Las mismas penas se aumentarán hasta en una mitad cuando:
+
+I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
+
+II. Cuando el sujeto activo mantenga una relación familiar, religiosa, laboral, docente o educativa, o de carácter político;
+
+III. Cuando aprovechando su condición de responsable o encargado de algún establecimiento de servicio público realice alguna de las conductas establecidas en el presente artículo;
+
+IV. Cuando aprovechando su condición de responsable o encargado de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión en cualquiera de sus modalidades, difunda, compile, publicite, o reproduzca material intimo sin su consentimiento;
+
+V. El sujeto activo se desempeñe como servidor público o integrante de las instituciones de Seguridad Pública;
+
+VI. Cuando se cometa contra persona menor de 18 años;
+
+VII Se cometa contra una persona en situación de vulnerabilidad social, por su condición cultural y/o indígena;
+
+VIII. Cuando medie la violencia física o moral para fabricar el contenido íntimo, sexual o erótico publicado sin consentimiento, y
+
+IX. Si por las características de los espacios de las tecnologías de la información donde se difundió, éste se distribuye masivamente por medios digitales.
+
+En todos los casos la autoridad judicial, tratándose de sentencia condenatoria, ordenará al infractor a ofrecer disculpa pública, a realizar trabajo a favor de la comunidad, a asistir a programas de reeducación integral con perspectiva de género, y a borrar o eliminar el contenido audiovisual o electrónico cuando la conducta se haya cometido por medio de las tecnologías de la información.
+
+Para los efectos de las disposiciones anteriores, el Ministerio Público o la autoridad judicial competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido íntimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, o que este haya sido obtenido bajo engaño o manipulación.
+
+Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecuen al delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO II. De la suposición y supresión del estado civil
 
@@ -3523,10 +3561,6 @@ El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a qu
 
 ### CAPITULO III. Exposición de infantes
 
-### CAPITULO IV. Substracción, Robo y Tráfico de Menores
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
 ###### Art. 177.
 
 Se impondrán de uno a tres años de prisión al que, con el fin de alterar el Estado Civil, incurra en alguno de los casos siguientes:
@@ -3543,7 +3577,9 @@ V. Al que usurpe el estado civil de otro, con el fin de adquirir derechos de fam
 
 El responsable de alguno de los delitos señalados en este artículo perderá el derecho de heredar que tuviere, respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
-### CAPITULO V. Bigamia
+### CAPITULO IV. Substracción, Robo y Tráfico de Menores
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 178.
 
@@ -3551,7 +3587,7 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI. Incesto
+### CAPITULO V. Bigamia
 
 ###### Art. 179.
 
@@ -3591,15 +3627,13 @@ Si se acredita que quien recibió al menor, lo hizo para incorporarlo a su núcl
 
 Cuando por consecuencia del tráfico del menor, éste resultare afectado en su integridad física por extraerle algún miembro u órgano, se aplicará como sanción una pena de ocho a doce años de prisión, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
 
-### CAPITULO VII. Adulterio
+### CAPITULO VI. Incesto
 
 ###### Art. 180.
 
 Se impondrán de tres meses a tres años de prisión al que, estando unido a una persona en matrimonio, contraiga otro. La misma sanción se aplicará al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO VIII. Abandono de familiares
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2017)</small>
+### CAPITULO VII. Adulterio
 
 ###### Art. 181.
 
@@ -3607,13 +3641,15 @@ Cometen incesto, los parientes que copulan entre sí, siempre que se trate de as
 
 El incesto entre ascendientes con descendientes se castigará con prisión de uno a cuatro años y los demás con prisión de seis meses a tres años.
 
-### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
+### CAPITULO VIII. Abandono de familiares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2017)</small>
 
 ###### Art. 182.
 
 Se impondrán de quince días a dos años de prisión al hombre o mujer que tengan entre sí relaciones sexuales, bien sea en el domicilio conyugal o causando escándalo, sabiendo que uno de ellos o los dos están casados con otra u otras personas. Este delito se sancionará por querella del ofendido, pero el perdón del último beneficiará a ambos responsables, siempre que se otorgue hasta antes de dictar sentencia.
 
-### CAPITULO II. Profanación de sepulcros o cadáveres
+### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
 
 ###### Art. 183.
 
@@ -3653,9 +3689,7 @@ Art. 185 A. (DEROGADO, P.O. 8 DE ABRIL DE 2017)
 
 ## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO I. Amenazas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO II. Profanación de sepulcros o cadáveres
 
 ###### Art. 186.
 
@@ -3671,9 +3705,9 @@ III. Que retenga o se apodere de un cadáver, sin la anuencia de los deudos del 
 
 Si la retención del cadáver ocurre en un hospital particular, la pena que se aplique al responsable será de seis meses a tres años de prisión y multa por el importe de cuatro a ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO II. Extorsión
+### CAPITULO I. Amenazas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 187.
 
@@ -3685,9 +3719,9 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO III. Chantaje
+### CAPITULO II. Extorsión
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 188.
 
@@ -3711,7 +3745,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO IV. Allanamiento de morada
+### CAPITULO III. Chantaje
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 ###### Art. 189.
 
@@ -3735,9 +3771,7 @@ Al agente del Ministerio Público, de la Policía Investigadora o de las policí
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO V. Asalto
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO IV. Allanamiento de morada
 
 ###### Art. 190.
 
@@ -3749,9 +3783,9 @@ Si lo que se exigió fue la entrega de numerario, uno o más objetos o documento
 
 (DEROGADO, P.O. 21 DE MARZO DE 2019)
 
-### CAPITULO VI. Privación Ilegal de la libertad
+### CAPITULO V. Asalto
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 191.
 
@@ -3763,7 +3797,9 @@ Si en el allanamiento media la furtividad, el engaño o la violencia, la pena ap
 
 Este delito se perseguirá por querella de la parte ofendida.
 
-### CAPITULO VII. Secuestro
+### CAPITULO VI. Privación Ilegal de la libertad
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 192.
 
@@ -3775,7 +3811,7 @@ Las sanciones a que se refiere este artículo se impondrán independientemente d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO OCTAVO. Rapto
+### CAPITULO VII. Secuestro
 
 ###### Art. 193.
 
@@ -3787,9 +3823,7 @@ La pena de prisión se aumentará hasta el doble, cuando la privación de la lib
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO I. Golpes simples
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO OCTAVO. Rapto
 
 ###### Art. 194.
 
@@ -3801,7 +3835,9 @@ La pena de prisión se aumentará hasta el doble, cuando la privación de la lib
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO II. Injurias
+### CAPITULO I. Golpes simples
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 195.
 
@@ -3813,7 +3849,7 @@ La pena de prisión se aumentará hasta el doble, cuando la privación de la lib
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
 
-### CAPITULO III. Difamación
+### CAPITULO II. Injurias
 
 ###### Art. 197.
 
@@ -3821,7 +3857,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO IV. Calumnia
+### CAPITULO III. Difamación
 
 ###### Art. 198.
 
@@ -3829,9 +3865,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO IV BIS. De los Delitos contra la Dignidad de las Personas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+### CAPITULO IV. Calumnia
 
 ###### Art. 199.
 
@@ -3843,9 +3877,9 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO V. Reglas Generales
+### CAPITULO IV BIS. De los Delitos contra la Dignidad de las Personas
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Art. 201.
 
@@ -3857,7 +3891,9 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE ABRIL DE 2014)</small>
 
-### CAPITULO I. Disparo de arma de fuego sobre persona y ataque peligroso
+### CAPITULO V. Reglas Generales
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Art. 202 Bis.
 
@@ -3907,7 +3943,7 @@ No serán consideradas como discriminatorias todas aquellas medidas tendientes a
 
 Al servidor público que, por las razones previstas en este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
 
-### CAPITULO II. Lesiones
+### CAPITULO I. Disparo de arma de fuego sobre persona y ataque peligroso
 
 ###### Art. 203.
 
@@ -3923,9 +3959,7 @@ No se procederá contra los autores de los delitos a que se refiere este título
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO III. Homicidio
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+### CAPITULO II. Lesiones
 
 ###### Art. 205.
 
@@ -3941,9 +3975,9 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2014)
 
-### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
+### CAPITULO III. Homicidio
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
 
 ###### Art. 206.
 
@@ -4011,13 +4045,13 @@ Si en un mismo evento se producen varias de las lesiones previstas en los artíc
 
 No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
 
-### CAPITULO V. Parricidio
+### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-### CAPITULO VI. Instigación o ayuda al suicidio
+### CAPITULO V. Parricidio
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 213.
 
@@ -4061,9 +4095,9 @@ Cuando el homicidio se cometa en riña inesperada, al provocado se le impondrá 
 
 Cuando el homicidio se cometa en riña inesperada, al provocador de la misma, y a los contendientes de una riña preconcertada donde se cometa homicidio, se le impondrá una sanción privativa de la libertad de entre un mínimo de ocho años y un máximo de hasta doce años.
 
-### CAPITULO VI BIS. Inducción o ayuda al suicidio feminicida
+### CAPITULO VI. Instigación o ayuda al suicidio
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
 ###### Art. 218.
 
@@ -4179,13 +4213,15 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocupantes de un vehículo de servicio particular, o público en servicio particular, ligados al conductor por vínculos de consanguinidad, afinidad o civil, o por lazos de estrecha amistad o de trabajo o de gratitud, el delito se perseguirá por querella de parte, siempre que el conductor no se encuentre, al momento de cometer la infracción, bajo el influjo de bebidas embriagantes, de enervantes o psicotrópicos. Para los casos de homicidio, se tendrá como legítimo representante del ofendido, al que pudiera tener derecho a su sucesión legítima.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO VI BIS. Inducción o ayuda al suicidio feminicida
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Art. 223.
 
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida a la persona con quien tenga un parentesco consanguíneo en línea recta o colateral hasta en cuarto grado, o con quien tenga una relación conyugal o de concubinato, o se trate de su adoptante o adoptado, tutor o pupilo, sabiendo el sujeto activo del delito la existencia de esta relación.
 
-### CAPITULO VIII. Aborto
+### CAPITULO VII. Infanticidio
 
 ###### Artículo 224.
 
@@ -4225,9 +4261,7 @@ Se aumentará la pena privativa de la libertad en una cuarta parte cuando alguno
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-### CAPITULO IX. Abandono de personas
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VIII. Aborto
 
 ###### Art. 224 Bis.
 
@@ -4241,9 +4275,9 @@ Si el suicidio no se lleva a efecto, pero su intento produce lesiones, éstas se
 
 Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
 
-### CAPITULO X. Feminicidio
+### CAPITULO IX. Abandono de personas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 225.
 
@@ -4253,7 +4287,9 @@ Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la 
 
 (DEROGADO, P.O. 9 DE JULIO DE 2016)
 
-### CAPITULO I. Robo
+### CAPITULO X. Feminicidio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 227.
 
@@ -4291,9 +4327,7 @@ No es punible el aborto culposo causado por la mujer embarazada ni cuando el emb
 
 Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO II. Abigeato y robo de animales
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+### CAPITULO I. Robo
 
 ###### Art. 230.
 
@@ -4315,7 +4349,9 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO III. Abuso de confianza
+### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 232 Bis.
 
@@ -4377,7 +4413,7 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO IV. Violación de depósito
+### CAPITULO III. Abuso de confianza
 
 ###### Art. 233.
 
@@ -4661,7 +4697,7 @@ III. Cuando el adquiriente de un bien mueble, acredite su legítima propiedad o 
 
 IV. Tratándose del robo de vehículos o de cualquiera de sus partes será causa de inculpabilidad acreditar su legítima posesión, uso o custodia.
 
-### CAPITULO V. Fraude
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 240.
 
@@ -4831,9 +4867,7 @@ II. Si la información aconteciere durante el proceso, el beneficio será de sei
 
 En todos los casos previstos en este capítulo será aplicable, en lo conducente, lo dispuesto en el Art. 238 de este Código.
 
-### CAPITULO VI. Delitos contra el Desarrollo Urbano
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO V. Fraude
 
 ###### Art. 245.
 
@@ -4869,9 +4903,9 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 
 Es aplicable a este Capítulo, en lo conducente, el Artículo 238 de este Código.
 
-### CAPITULO VII. Administración Fraudulenta
+### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 249.
 
@@ -4893,9 +4927,9 @@ El hecho de que una persona disponga, como suyo, del depósito que garantice la 
 
 Es aplicable a este capítulo en lo conducente el artículo 238 de este Código. Al responsable de los delitos previstos en este artículo, se le aplicarán las sanciones contenidas en el artículo 246.
 
-### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 250.
 
@@ -5007,7 +5041,7 @@ XXV. Al que con fines de lucro y a sabiendas de que un producto o servicio no cu
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
-### CAPITULO IX. Usura
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5081,9 +5115,9 @@ Se impondrán de seis meses a seis años de prisión multa por el importe de cua
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO X. Daños en las cosas
+### CAPITULO IX. Usura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 254 Bis.
 
@@ -5115,9 +5149,9 @@ II. Cuando el valor de lo defraudado exceda del monto señalado en la fracción 
 
 III. De cinco a diez años de prisión y multa por el importe de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de lo defraudado exceda del importe de dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO XI. Daño al patrimonio urbano
+### CAPITULO X. Daños en las cosas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
 
 ###### Art. 255.
 
@@ -5133,7 +5167,7 @@ Si el concursado fuere persona moral, la sanción será impuesta al o a los dire
 
 La reparación del daño proveniente de los delitos previstos en este capítulo será regulada en la sentencia de gradación del concurso.
 
-### CAPITULO XII. Despojo de inmuebles y aguas
+### CAPITULO XI. Daño al patrimonio urbano
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5145,9 +5179,9 @@ I. Al que, abusando de la apremiante necesidad de una persona, le otorgue un pr�
 
 II. Al que, abusando de la apremiante necesidad del ofendido, cobre para sí o para otro una comisión evidentemente desproporcionada, por gestionarle o conseguirle un préstamo cualquiera.
 
-### CAPITULO XIII. Del pillaje
+### CAPITULO XII. Despojo de inmuebles y aguas
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 259.
 
@@ -5191,9 +5225,9 @@ Se impondrán de uno a cinco años de prisión y multa por el importe de dos a v
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO I. Encubrimiento
+### CAPITULO XIII. Del pillaje
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 261 Bis.
 
@@ -5207,9 +5241,9 @@ La sanción se aumentará hasta en dos terceras partes de la señalada en el pá
 
 Al reincidente se le aplicará además, la pena de dos a cuatro años de prisión.
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
+### CAPITULO I. Encubrimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 262.
 
@@ -5233,9 +5267,9 @@ Las sanciones anteriores serán aplicables aun cuando la posesión de la cosa us
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 262 Bis.
 
@@ -5277,7 +5311,9 @@ Si el responsable de este delito fuere servidor público se le destituirá adem�
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 263.
 
@@ -5299,7 +5335,7 @@ En todo caso, la sanción que se imponga al encubridor, no podrá exceder de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 ###### Art. 265.
 
@@ -5319,7 +5355,7 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 ###### Art. 266.
 
@@ -5327,7 +5363,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 ###### Art. 267.
 
@@ -5335,7 +5371,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 ###### Art. 268.
 
@@ -5343,7 +5379,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO VI. Disposiciones Comunes
 
 ###### Art. 269.
 
@@ -5351,9 +5387,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 270.
 
@@ -5363,7 +5397,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 271.
 
@@ -5521,9 +5555,9 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO UNICO. Crueldad contra los animales
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 289.
 
@@ -5659,9 +5693,9 @@ No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO. Crueldad contra los animales
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 298.
 
@@ -5702,6 +5736,10 @@ Para efectos de la fracción I se considera que una resolución es incumplida, c
 ## TITULO VIGESIMO TERCERO. DE LOS DELITOS EN MATERIA DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 299.
 
@@ -7016,3 +7054,11 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27992/LXII/20 QUE REFORMA LOS ARTÍCULOS 62, 129, 154, Y 219 SE ADICIONAN LOS ARTÍCULOS 176-BIS 1 Y 224 BIS; Y SE ADICIONAN EL CAPÍTULO V "DEL APROVECHAMIENTO SEXUAL" DEL TÍTULO DÉCIMO PRIMERO Y EL CAPÍTULO VI BIS "INDUCCIÓN O AYUDA AL SUICIDIO FEMINICIDA" DEL TÍTULO DÉCIMO SEXTO TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28263/LXII/20 QUE ADICIONA EL CAPÍTULO VII Y EL ARTÍCULO 176-BIS, 3, AL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
