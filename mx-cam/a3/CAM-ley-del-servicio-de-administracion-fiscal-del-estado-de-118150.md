@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-servicio-de-administracion-fiscal-del-estado-de-118150"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2019-03-15"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Número 0344 del Periódico Oficial del Estado de Campeche, el jueves 22 de diciembre de 2016.
 
@@ -169,25 +169,27 @@ IV. Unidades Administrativas que establezca el Reglamento Interior.
 
 ### CAPÍTULO II. DE LA ASAMBLEA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
-La Asamblea de Gobierno, se integrará por:
+La Asamblea de Gobierno se integrará por:
 
-I. El Secretario, quien la presidirá;
+I. La Secretaria o el Secretario, quien la presidirá;
 
-II. El Subsecretario de Ingresos;
+II. La Subsecretaria o el Subsecretario de Ingresos;
 
-III. El Subsecretario de Egresos; y
+III. La Subsecretaria o el Subsecretario de Egresos;
 
-IV. El Procurador Fiscal.
+IV. La Subsecretaria o el Subsecretario de Programación y Presupuesto; y
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+V. La Procuradora o el Procurador Fiscal.
 
-A las sesiones de la Asamblea de Gobierno asistirá siempre la o el Administrador, con voz pero sin voto.
+A las sesiones de la Asamblea de Gobierno asistirá siempre la o el Administrador, con voz, pero sin voto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2019)</small>
+Asimismo, podrán ser invitadas las personas que cuenten con amplia experiencia en la administración tributaria, federal y estatal; y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidas o reconocidos y puedan contribuir a mejorar la eficiencia de la administración tributaria y la atención al contribuyente, quienes participarán con voz, pero sin voto en las sesiones.
 
-Asimismo, podrán ser invitadas e invitados especialistas en materia fiscal pertenecientes a las instituciones educativas de nivel superior del Estado, quienes participarán con voz pero sin voto en las sesiones.
+De igual manera, podrán tener carácter de invitadas o invitados las o los titulares de las Unidades Administrativas que conforman la Secretaría de Finanzas o "El Servicio" y el Órgano Interno de Control, quienes participarán con voz, pero sin voto en las sesiones.
 
 ###### ARTÍCULO 10.
 
@@ -211,11 +213,15 @@ VIII. Proponer a la Secretaría, como responsable de la política fiscal, los ca
 
 IX. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, el Reglamento Interior y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
-La Asamblea de Gobierno celebrará sesiones ordinarias por lo menos una vez cada cuatro meses y extraordinarias cuando así lo proponga el Secretario o el Administrador. Para que la Asamblea de Gobierno sesione válidamente, se requerirá la asistencia de cuando menos tres de sus integrantes. Las ausencias del Secretario serán cubiertas por el Subsecretario de Ingresos.
+La Asamblea de Gobierno celebrará sesiones ordinarias por lo menos una vez cada cuatro meses y extraordinarias cuando así lo proponga la o el Secretario o la o el Administrador. Para que la Asamblea de Gobierno sesione válidamente, se requerirá la asistencia de cuando menos tres de sus integrantes. Las ausencias de la Secretaria o del Secretario serán cubiertas por la Subsecretaria o el Subsecretario de Ingresos, las ausencias de las y los demás miembros de la Asamblea de Gobierno serán cubiertas por la o el servidor público de la jerarquía inmediata inferior que de ellos dependan y designen.
 
-Las resoluciones de la Asamblea de Gobierno se tomarán por mayoría de votos de los integrantes presentes. Su Presidente tendrá voto de calidad en caso de empate.
+Las resoluciones de la Asamblea de Gobierno se tomarán por mayoría de votos de las y los integrantes presentes. Su Presidente tendrá voto de calidad en caso de empate.
+
+Cuando concurran casos de emergencia sanitaria, fenómenos meteorológicos y cualesquiera otros casos fortuitos o de fuerza mayor que impida, dificulten u obstaculicen la celebración presencial de las sesiones, éstas podrán llevarse a cabo a través de plataformas digitales bajo la modalidad de video conferencias, las cuales tendrían la misma validez y fuerza legal.
 
 ### CAPÍTULO III. DEL ADMINISTRADOR
 
@@ -247,9 +253,11 @@ V. Se ausente de sus labores sin autorización de la Asamblea de Gobierno o sin 
 
 VI. Cuando sin justificación incumpla las metas ligadas a los indicadores de desempeño anuales que apruebe la Asamblea de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 14.
 
-El Administrador tendrá las atribuciones siguientes:
+La Administradora o el Administrador tendrá las atribuciones siguientes:
 
 I. Representar legalmente a "El Servicio", tanto en su carácter de autoridad fiscal, como de órgano desconcentrado, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable;
 
@@ -263,7 +271,9 @@ V. Informar a la Asamblea de Gobierno sobre las labores de las Unidades Administ
 
 VI. Fungir como enlace entre "El Servicio" y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con las materias fiscal y de colaboración fiscal;
 
-VII. Participar en la negociación de los convenios que lleve a cabo el Gobernador o el Secretario en materia fiscal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+VII. Participar en la concertación de los convenios que lleve a cabo la o el Gobernador o la Secretaria o el Secretario en materia fiscal; asimismo, celebrar contratos, convenios y en general toda clase de actos jurídicos directamente vinculados con el desarrollo de las atribuciones de "El Servicio" o relacionados con la administración de los recursos humanos, materiales y financieros que les sean asignados;
 
 VIII. Suscribir acuerdos interinstitucionales de cooperación técnica y administrativa en materia fiscal; y
 
@@ -402,3 +412,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado contará con un plazo no mayor a treinta días, contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones al Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, conforme a lo dispuesto en el presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 172 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 9, 11 Y LA FRACCIÓN VII DEL ARTÍCULO 14 DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- EI presente decreto entrará en vigor el día 1 de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, de igual o menor jerarquía del marco jurídico estatal que se opongan a este decreto.
