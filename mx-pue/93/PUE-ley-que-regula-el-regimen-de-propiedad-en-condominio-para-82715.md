@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2020-10-02"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -255,7 +255,9 @@ III.- Usar y disfrutar en igualdad de circunstancias y en forma ordenada, las á
 
 IV.- Formar parte de la administración y de la mesa directiva del condominio;
 
-V.- Solicitar a la administración y a la mesa directiva, información respecto al estado que guardan los fondos de mantenimiento y administración y de reserva;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+V.- Recibir bimestralmente de la administración, Comité de Administración, o de la mesa directiva, información respecto al estado que guardan los fondos de mantenimiento y administración y de reserva;
 
 VI.- Acudir ante la Sindicatura a efecto de excusarse del pago de cuotas, cuando éstas no sean fijadas en asamblea por mayoría de los condóminos o se demuestre que resultan excesivas para el fin que se pretenden destinar; y
 
@@ -469,7 +471,9 @@ V.- Ejecutar los acuerdos de la asamblea de condóminos, salvo los casos en que 
 
 VI.- Efectuar los gastos de mantenimiento y administración del condominio, con cargo al fondo correspondiente, en los términos del reglamento interior;
 
-VII.- Recaudar las aportaciones de los condóminos para los fondos de mantenimiento y administración y reserva, debiendo otorgar el recibo correspondiente, así como entregar bimestralmente a cada condómino el estado de cuenta del condominio, salvo que se acuerde otro plazo;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+VII.- Recaudar las aportaciones de los condóminos para los fondos de mantenimiento y administración y reserva, debiendo otorgar el recibo correspondiente y entregar obligatoriamente a cada condómino bimestralmente el estado de cuenta del condominio;
 
 VIII.- Convocar a las asambleas generales y extraordinarias, conforme a lo dispuesto en la presente Ley, en la escritura constitutiva y en el reglamento interior;
 
@@ -489,7 +493,9 @@ I.- Verificar que el administrador o comité de administración cumpla los acuer
 
 II.- Determinar lo procedente en caso de incumplimiento por parte del administrador o Comité de Administración;
 
-III.- Verificar los estados de cuenta que debe rendir el administrador o Comité de Administración ante la asamblea y, en su caso, dar cuenta a ésta de las observaciones encontradas;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
+III.- Verificar los estados de cuenta bimestrales que debe rendir el administrador o Comité de Administración ante la asamblea y, en su caso, dar cuenta a ésta de las observaciones encontradas;
 
 IV.- Coadyuvar con el administrador o Comité de Administración a fomentar entre los condóminos el respeto y conservación de las áreas comunes, así como el cumplimiento de las obligaciones económicas y aportaciones que fije la asamblea; y
 
@@ -561,9 +567,11 @@ El Síndico Municipal, será competente para conocer de los procedimientos arbit
 
 #### SECCIÓN PRIMERA. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 49.
 
-Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, serán sancionados en los casos siguientes:
+Los condóminos, residentes, administradores o Comité de Administración, que incumplan con las obligaciones que les son impuestas por la presente Ley, serán sancionados en los casos siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -585,9 +593,9 @@ IV.- Del equivalente a la cantidad de veinte a treinta veces el valor diario de 
 
 V.- Del equivalente a la cantidad de veinte a cuarenta veces el valor diario de la Unidad de Medida y Actualización, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en las fracciones VI y VII del artículo 24 y el 26 de la presente Ley; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-VI.- Del equivalente a la cantidad de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 24 de la presente Ley.
+VI.- Del equivalente a la cantidad de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 24 y la fracción VII del artículo 36 de la presente Ley.
 
 ###### Artículo 50.
 
@@ -724,6 +732,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, V, VI Y VII DEL ARTÍCULO 33 Y ADICIONA LAS FRACCIONES VIII, IX, X Y UN ÚLTIMO PÁRRAFO AL 33 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 20, LA VII DEL 36, LA III DEL 37, EL ACÁPITE Y LA FRACCIÓN VI DEL 49, DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
