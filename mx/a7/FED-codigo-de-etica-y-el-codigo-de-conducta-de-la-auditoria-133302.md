@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-y-el-codigo-de-conducta-de-la-auditoria-133302"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-07"
-last_updated: "2019-02-07"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-02-05"
 
 CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2020.
 
 Código publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 7 de febrero de 2019.
 
@@ -69,7 +69,9 @@ El comportamiento ético de las personas servidoras públicas está influenciado
 
 A pesar de que ningún Código de Ética puede abordar todas las circunstancias que surgen en el funcionamiento cotidiano de la institución, es necesario que su diseño facilite el entendimiento de los valores y la atención a posibles dilemas éticos que pudieran poner en riesgo su cumplimiento. La incorporación de ejemplos de buenas prácticas pretende minimizar la presencia de ambigüedades en la interpretación del documento.
 
-El contenido de este Código de Ética se basa en la Norma Internacional de las Entidades Fiscalizadoras Superiores (ISSAI) número 30, emitida por la Organización Internacional de Entidades Fiscalizadoras Superiores (INTOSAI por sus siglas en inglés), aprobada en su XXII Congreso, celebrado en Emiratos Árabes Unidos en 2016, así como en los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicados en el Diario Oficial de la Federación, el 12 de octubre de 2018.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+El contenido de este Código de Ética se basa en la Norma Internacional de las Entidades Fiscalizadoras Superiores (ISSAI) número 130, emitida por la Organización Internacional de Entidades Fiscalizadoras Superiores (INTOSAI por sus siglas en inglés), aprobada en Abu Dabi en Diciembre de 2016 y con cambios editoriales en 2019; así como en los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicados en el Diario Oficial de la Federación, el 12 de octubre de 2018.
 
 Objeto
 
@@ -119,6 +121,10 @@ Con base en los Lineamientos para la emisión del Código de Ética aprobados po
 
 a) Interés Público: Las personas servidoras públicas actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+En este sentido, ante situaciones en que se requiere otorgar una mayor protección a la salud pública, como puede ser una pandemia, enfermedades contagiosas, o de cualquier otra que ponga a la sociedad en peligro de salud, será indispensable la participación de cada una de las personas servidoras públicas de la ASF para el cumplimiento estricto de las medidas sanitarias.
+
 b) Respeto: Las personas servidoras públicas se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
 
 c) Respeto a los Derechos Humanos: Las personas servidoras públicas respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
@@ -135,17 +141,19 @@ h) Liderazgo: Las personas servidoras públicas son guía, ejemplo y promotoras 
 
 IV. Reglas de integridad para la Auditoría Superior de la Federación
 
-Tomando en cuenta los principios rectores y valores antes definidos, se presentan las reglas de integridad de la ASF, las cuales definen las pautas y prioridades que deben guiar la actuación de las personas servidoras públicas de la institución en los ámbitos del servicio público, tales como: actuación pública, información pública, contrataciones públicas, recursos humanos, administración de bienes muebles e inmuebles, procesos de evaluación, control interno, procedimiento administrativo, desempeño permanente con integridad, cooperación con la integridad y comportamiento digno. Lo anterior, a partir de los siguientes criterios:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
 
-1. Conducirse con integridad en el desarrollo de sus funciones, considerando que el comportamiento en el ámbito personal tiene incidencia en la imagen de la institución. En particular, es necesario actuar con honestidad, con respeto, de forma confiable, de buena fe y a favor del interés público;
+Tomando en cuenta los principios rectores y valores antes definidos, se presentan las reglas de integridad de la ASF, las cuales definen las pautas y prioridades que deben guiar la actuación de las personas servidoras públicas de la institución en los ámbitos del servicio público, tales como: actuación pública, información pública, contrataciones públicas, recursos humanos, administración de bienes muebles e inmuebles, procesos de evaluación, control interno, procedimiento administrativo, desempeño permanente con integridad, cooperación con la integridad y comportamiento digno.
 
-2. Preservar la independencia y objetividad en su actuación. Lo anterior implica estar libre de influencias o circunstancias que comprometan, de manera real o en apariencia, el juicio profesional o la actuación imparcial;
+1. (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2020)
 
-3. Adquirir mantener y actualizar los conocimientos y habilidades que garanticen la realización de las tareas altamente especializadas de cada persona servidora pública;
+2. (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2020)
 
-4. Cumplir con el marco legal aplicable, así como evitar cualquier conducta que pueda desacreditar a la ASF. Negarse a cumplir instrucciones ilegales no sólo es lo correcto, es una obligación. Ningún superior jerárquico, tiene la autoridad para ordenar que se infrinja la Ley, el Código de Ética y las políticas o principios rectores del servicio público;
+3. (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2020)
 
-5. Evitar revelar información institucional, derivada de las labores de fiscalización y de asuntos de gestión interna, respetando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
+4. (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2020)
+
+5. (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2020)
 
 Reglas de integridad para cumplir con los criterios:
 
@@ -157,7 +165,19 @@ a) La ASF debe promover el valor de la integridad como un elemento que debe esta
 
 b) La ASF debe contar con un Comité de Integridad que diseñe mecanismos para prevenir, identificar y dar seguimiento a posibles conductas contrarias al Código de Ética, mismo que deberá actuar bajo el principio de imparcialidad.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+El Comité de Integridad de la Auditoría Superior de la Federación estará conformado por la persona titular de la Unidad Técnica de la Auditoría Superior de la Federación, quien lo presidirá; por las personas titulares de las Auditorías Especiales; de la Unidad de Homologación Legislativa, Planeación, Transparencia y Sistemas; Unidad de Asuntos Jurídicos, y de la Unidad General de Administración.
+
 c) La ASF debe establecer un ambiente propicio para que el personal consulte o se asesore, con sus superiores o con el Comité de Integridad, sobre asuntos relacionados con la interpretación de este valor ético. Los servidores públicos de la ASF podrán formular preguntas y plantear problemas, con la convicción de que esos planteamientos serán tratados con profesionalismo e imparcialidad.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+d) En los casos en que sea necesario brindar mayor protección a la salud pública, en el marco de una pandemia, enfermedades contagiosas o cualquier otra situación que ponga a la sociedad en grave peligro de salud, la institución tomará todas las medidas necesarias y pertinentes para salvaguardar la integridad y la salud de las personas servidoras públicas de la ASF.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+e) La ASF deberá difundir entre todo el personal las medidas que se adopten en materia de salud pública, para que sean cabalmente cumplidas.
 
 Reglas relacionadas con el comportamiento de las personas servidoras públicas de la ASF:
 
@@ -174,6 +194,10 @@ d) Debe conocer el contenido de las políticas, reglamentos y normas de la ASF r
 e) Debe informar sobre violaciones de integridad observadas, ya sea con sus superiores o con el Comité de Integridad.
 
 f) Debe cuidar y proteger el patrimonio de la ASF, asegurándose de que no se pierda, se dañe o se utilice indebidamente. Asimismo, debe utilizar de forma apropiada los equipos informáticos, cuentas de correo e internet institucionales y de más recursos materiales que le sean puestos a su disposición para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+g) Debe informar sobre síntomas y/o enfermedades contagiosas que puedan poner en riesgo la salud de los demás compañeros, para que en su caso se apliquen medidas preventivas institucionales.
 
 2. Estar libre de influencias o circunstancias que comprometan, de manera real o en apariencia, el juicio profesional o la actuación imparcial.
 
@@ -267,7 +291,9 @@ d) Debe informar a sus superiores sobre cualquier conflicto que surja entre los 
 
 e) Las estrategias de innovación y de mejora que el personal proponga para el funcionamiento de la ASF, deben tener como límite el marco legal aplicable. Asimismo, los superiores jerárquicos deben valorar las aportaciones de su equipo de trabajo y escuchar sus puntos de vista manteniendo, en todo momento, la equidad de género.
 
-5. Proteger la revelación de información institucional, derivada de las labores de fiscalización y de asuntos de gestión interna, respetando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+5. Proteger la reserva de la información institucional, derivada de las labores de fiscalización y de asuntos de gestión interna, respetando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
 
 Reglas relacionadas con el entorno institucional:
 
@@ -280,6 +306,10 @@ c) La ASF debe asegurar que cualquiera de las partes contratadas para realizar t
 d) La ASF debe implementar políticas de transparencia proactiva en el marco de la legislación aplicable.
 
 e) La ASF debe contar con mecanismos de control que garanticen la seguridad de la información institucional contenida en sus sistemas informáticos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+f) La ASF instrumentará mecanismos digitales de sistematización de la información que se genera de las auditorías practicadas, acompañados de una política de ética de datos.
 
 Reglas relacionadas con el comportamiento de las personas servidoras públicas de la ASF:
 
@@ -296,6 +326,10 @@ d) No debe utilizar información institucional, incluyendo la que se clasifica c
 e) Debe mantener discreción sobre el contenido de la información institucional en el entorno social, incluyendo las redes sociales.
 
 f) Debe contribuir al mantenimiento de los controles que implemente la institución para el resguardo y salvaguarda de la información.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+g) Las personas servidoras públicas involucradas en el manejo de datos en el entorno digital, deberán desarrollar sus actividades con integridad, independencia, objetividad, competencia, confidencialidad y transparencia; haciendo un uso apropiado y responsable de los mismos, únicamente para los fines que éstos fueron obtenidos.
 
 V. Mecanismos de capacitación y difusión del Código de Ética y de las políticas de integridad
 
@@ -323,9 +357,19 @@ B. Mecanismo de difusión
 
 Código de Conducta de la Auditoría Superior de la Federación
 
-Para la aplicación del Código de Ética de la Auditoría Superior de la Federación (ASF), y de conformidad con los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades administrativas aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a continuación, se presenta el Código de Conducta de la ASF. En el presente documento se especifica, de manera puntual y concreta, la forma en que las personas servidoras públicas aplicarán los principios, valores y reglas de integridad contenidas en el Código de Ética de la ASF.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
 
-Las conductas que en seguida se enumeran, permiten orientar a la persona servidora pública de la ASF al enfrentarse a dilemas éticos en el desarrollo de sus funciones. Las conductas que se presentan son de carácter enunciativo más no limitativo.
+Para la aplicación del Código de Ética de la Auditoría Superior de la Federación (ASF), y de conformidad con los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades administrativas aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a continuación, se presenta el Código de Conducta de la ASF. En el presente documento se especifica, de manera puntual y concreta, la forma en que las personas servidoras públicas aplicarán los principios, valores y reglas de integridad contenidas en el Código de Ética de la ASF, a partir de los criterios rectores y las conductas relacionadas que en seguida se enumeran, permiten orientar el actuar de las personas servidoras públicas de la ASF al enfrentarse a dilemas éticos en el desarrollo de sus funciones.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+CRITERIO RECTOR 1:
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+Conducirse con integridad en el desarrollo de sus funciones, considerando que el comportamiento en el ámbito personal tiene incidencia en la imagen de la institución. En particular, es necesario actuar con honestidad, con respeto, de forma confiable, de buena fe y a favor del interés público.
 
 Conductas para cumplir con el criterio de actuar con integridad en el desarrollo de las funciones de las personas servidoras públicas de la ASF:
 
@@ -351,6 +395,18 @@ x. Las personas servidoras públicas de la ASF deben abstenerse del desperdicio 
 
 xi. Las personas servidoras públicas de la ASF, en el cumplimiento de sus funciones, deberán de abstenerse de poner en riesgo su seguridad y la de su equipo de trabajo.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+xii. Las personas servidoras públicas de la ASF, en el cumplimiento de sus funciones, deberán actuar en favor de la salud pública atendiendo, en todo momento a las medidas sanitarias de eficacia comprobadas y establecidas por la propia institución.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+CRITERIO RECTOR 2:
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+Preservar la independencia y objetividad en su actuación. Lo anterior implica estar libre de influencias o circunstancias que comprometan, de manera real o en apariencia, el juicio profesional o la actuación imparcial.
+
 Conductas relacionadas con el criterio de preservar la independencia y objetividad en la actuación de las personas servidoras pública de la ASF:
 
 i. Las personas servidoras públicas de la ASF se abstendrán de participar en actividades políticas o con fines de lucros.
@@ -365,6 +421,14 @@ v. Las personas servidoras públicas de la ASF no buscarán perjudicar a alguna 
 
 vi. Las personas servidoras públicas de la ASF se abstendrán de aceptar viajes de vacaciones financiado por una entidad auditada.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+CRITERIO RECTOR 3:
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+Adquirir mantener y actualizar los conocimientos y habilidades que garanticen la realización de las tareas altamente especializadas de cada persona servidora pública.
+
 Conductas relacionadas con el criterio de adquirir, mantener y actualizar los conocimientos y habilidades que garanticen la realización de las tareas altamente especializadas:
 
 i. Las personas servidoras públicas de la ASF no realizarán auditorías sin conocer el marco legal y técnico sobre los temas relacionados a la auditoría, incluyendo el que rige al ente auditado.
@@ -372,6 +436,14 @@ i. Las personas servidoras públicas de la ASF no realizarán auditorías sin co
 ii. Las personas servidoras públicas de la ASF no realizarán auditorías sin conocer los límites de las facultades de la institución indicados en la Ley de Fiscalización y Rendición de Cuentas de la Federación, así como el marco legal que rige a la ASF
 
 iii. Las personas servidoras públicas de la ASF tendrán disposición para capacitarse y adquirir nuevos conocimientos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+CRITERIO RECTOR 4:
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+Cumplir con el marco legal aplicable, así como evitar cualquier conducta que pueda desacreditar a la ASF.
 
 Conductas relacionadas con el criterio de cumplir con el marco legal aplicable, así como evitar cualquier conducta que pueda desacreditar a la ASF:
 
@@ -384,6 +456,14 @@ iii. Las personas servidoras públicas de la ASF no condicionarán o amenazarán
 iv. Las personas servidoras públicas de la ASF no afectarán a la imagen de la institución por su comportamiento en el ámbito personal (uso inapropiado de redes sociales, de documentos institucionales como la identificación oficial, riñas y faltas a la moral pública).
 
 v. Las personas servidoras públicas de la ASF informarán a su superior sobre comportamientos inadecuados del personal a su cargo en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+CRITERIO RECTOR 5:
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+Evitar revelar información institucional, derivada de las labores de fiscalización y de asuntos de gestión interna, respetando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales.
 
 Conductas relacionadas con el criterio de evitar revelar información institucional, derivada de las labores de fiscalización y de asuntos de gestión interna, respetando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales:
 
@@ -407,6 +487,10 @@ ix. Las personas servidoras públicas de la ASF no guardarán información insti
 
 x. Las personas servidoras públicas de la ASF no modificarán, alterarán, ni manipularán la información o documentos obtenidos con motivo de sus funciones de auditoría.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2020)</small>
+
+xi. Las personas servidoras públicas de la ASF, involucradas en el manejo de datos en el entorno digital, deberán protegerlos para garantizar la privacidad y emplearlos de forma ética y responsable, atendiendo a los principios, valores y reglas de integridad del Código de Ética.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Acuerdo por el que se dan a conocer el Código de Ética y el Código de Conducta de la Auditoría Superior de la Federación, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -414,3 +498,11 @@ PRIMERO.- El presente Acuerdo por el que se dan a conocer el Código de Ética y
 SEGUNDO.- Se emite el presente Acuerdo en cumplimiento del lineamiento Décimo Tercero de los Lineamientos para la emisión del Código de Ética, que dispone que el Código de Ética deberá ser difundido y publicado en el Diario Oficial de la Federación y en la página de internet institucional, a efecto de hacerlo del conocimiento de las personas servidoras públicas de la Auditoría Superior de la Federación.
 
 Ciudad de México, a 5 de febrero de 2019.- El Auditor Superior de la Federación, David Rogelio Colmenares Páramo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA Y ADICIONA EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+UNICO. - El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
