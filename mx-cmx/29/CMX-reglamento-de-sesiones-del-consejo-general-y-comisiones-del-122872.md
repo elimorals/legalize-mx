@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2019-11-12"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -212,11 +212,11 @@ La interpretación y aplicación de las disposiciones de este Reglamento se real
 
 Las personas integrantes del Consejo General y las Comisiones o Comités del Instituto Electoral deberán garantizar durante el desarrollo de las sesiones y, desde el ámbito de su competencia, el respeto, la protección y la promoción de la igualdad, principalmente en cuanto al ejercicio de los derechos político-electorales en contextos libres de discriminación y de violencia.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-Las sesiones del Consejo General y Comisiones se llevarán a cabo en el domicilio oficial del Instituto Electoral. Sólo por causas de fuerza mayor o caso fortuito que a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro de la Ciudad de México, haciendo constar en el Acta correspondiente el motivo que generó dicha circunstancia.
+Las sesiones del Consejo General y Comisiones se podrán llevar a cabo de forma presencial en el domicilio oficial del Instituto Electoral, o bien, de manera virtual o mixta, según lo determinen las personas integrantes del Consejo General y Comisiones. Sólo por causas de fuerza mayor o caso fortuito que a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro de la Ciudad de México, ya sea de forma presencial, virtual o mixta, haciendo constar en el Acta correspondiente el motivo que generó dicha circunstancia.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -238,7 +238,9 @@ Corresponde a la Presidencia del Consejo:
 
 I. Convocar a las personas participantes del Consejo General a las sesiones y presidir las mismas;
 
-II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II. Asistir de forma presencial, o bien virtual, a las sesiones del Consejo General y participar en ellas con derecho a voz y voto;
 
 III. Declarar el inicio y conclusión de la sesión;
 
@@ -276,7 +278,9 @@ XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativ
 
 Corresponde a las Consejeras y a los Consejeros Electorales:
 
-I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de manera presencial, o bien, virtual a las sesiones del Consejo General y participar en ellas con derecho a voz y voto;
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -302,13 +306,15 @@ IX. Las demás que les confiera el Código, el Reglamento Interior y la normativ
 
 Corresponde a la Secretaría del Consejo:
 
-I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien, virtual, a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
 II. Preparar los proyectos de orden del día, convocatorias e invitaciones a las sesiones del Consejo General;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
-III. Enviar a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las personas invitadas permanentes la invitación respectiva.
+III. Enviar de manera física o electrónica a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las personas invitadas permanentes la invitación respectiva.
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -368,7 +374,9 @@ XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativ
 
 Corresponde a las representaciones de partido:
 
-I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien, virtual, a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -404,7 +412,9 @@ Corresponde a las personas invitadas permanentes:
 
 I. Recibir oportunamente la invitación a las sesiones del Consejo General, junto con el proyecto de orden del día y la documentación correspondiente;
 
-II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II. Asistir de forma presencial, o bien, virtual, a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
 III. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -424,7 +434,9 @@ Corresponde a las representaciones de candidaturas:
 
 I. Ser convocadas oportunamente a las sesiones ordinarias, extraordinarias y urgentes del Consejo General cuando se trate algún asunto relacionado con la elección de la Jefatura de Gobierno, así como recibir la documentación correspondiente;
 
-II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz, cuando en el orden del día se incluyan asuntos relacionados con la elección de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II. Asistir de forma presencial, o bien, virtual, a las sesiones del Consejo General y participar en ellas con derecho a voz, cuando en el orden del día se incluyan asuntos relacionados con la elección de la Jefatura de Gobierno;
 
 III. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate, exclusivamente en los asuntos relacionados con la elección de la Jefatura de Gobierno;
 
@@ -484,6 +496,26 @@ II. El Consejo General deberá resolver de inmediato respecto de la procedencia 
 
 Las sesiones del Consejo General podrán ser ordinarias, extraordinarias, urgentes y solemnes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Dichas sesiones podrán realizarse de manera presencial, virtual o mixta, observando en todo momento las reglas generales previstas en el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones virtuales serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones mixtas podrán desarrollarse con algunas personas integrantes del Consejo General presentes de forma virtual y otras de forma presencial en las instalaciones del Instituto Electoral, para lo cual deberán notificar a la persona titular de la Presidencia del Consejo General la forma en que opten para asistir a la sesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+En caso de que la Presidencia del Consejo General opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
+
 A) Las sesiones ordinarias se sujetarán a lo siguiente:
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
@@ -526,23 +558,29 @@ A la convocatoria a la sesión pública solemne deberá adjuntarse el orden del 
 
 #### SECCIÓN SEGUNDA. De la Convocatoria e Invitación a las Sesiones
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-La convocatoria a sesión dirigida a las personas integrantes del Consejo General, en su caso, a las representaciones de candidaturas deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluidos en el orden del día.
+La convocatoria a sesión dirigida a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas, deberá contener el día y la hora en que la misma se deba celebrar, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso se deberá mencionar la plataforma virtual correspondiente; la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluido s (sic) en el orden del día.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 El oficio que se emita a las personas invitadas permanentes para que asistan a la sesión del Consejo General, deberá contener los mismos elementos señalados en el párrafo anterior.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 La documentación de los asuntos a desahogar en las sesiones del Consejo General se publicarán en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de documentos que, por su naturaleza, contengan información confidencial, reservada o sean materia de procedimientos sancionadores o de fiscalización.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 Para efectos del párrafo que antecede, en la página de Internet institucional, se deberá colocar la siguiente leyenda en el punto del que se trate: “NOTA: Este documento no se publica debido a que se encuentra en alguno de los supuestos establecidos en el artículo 15, párrafo tercero, del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral.”
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-Para la celebración de sesiones, la Presidencia del Consejo General deberá convocar por escrito en los plazos siguientes:
+Para la celebración de sesiones presenciales, virtuales o mixtas, la Presidencia del Consejo General deberá convocar por escrito, o en su caso, por vía electrónica, en los plazos siguientes:
 
 I. Sesión ordinaria, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión;
 
@@ -584,23 +622,31 @@ Dicha sesión concluirá una vez que se hayan agotado o resuelto los asuntos que
 
 #### SECCIÓN PRIMERA. Del Inicio de las Sesiones
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-En el día y hora fijado para la sesión se reunirán las personas integrantes del Consejo General, la Presidencia del Consejo General declarará iniciada la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría del Consejo.
+En el día y hora fijado para la sesión se reunirán en forma presencial, virtual o mixta las personas integrantes del Consejo General; la Presidencia del Consejo General declarará iniciada la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría del Consejo.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Para que el Consejo General pueda sesionar válidamente, es necesario contar con la mayoría de sus integrantes, entre quienes deberán encontrarse al menos cinco personas Consejeras Electorales.
+Para que el Consejo General pueda sesionar válidamente, es necesario contar con la mayoría de sus integrantes, entre quienes deberán encontrarse física o virtualmente, al menos cinco personas Consejeras Electorales.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 En el caso de las representaciones de candidaturas, su asistencia no contará para efectos de quórum.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 La asistencia a las sesiones del Consejo General de las personas invitadas permanentes no contará para efectos del quórum.
 
-Si llegada la hora prevista para la sesión no se reúne el quórum se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se hará constar tal situación en un acta circunstanciada y se citará a una nueva sesión a las personas Consejeras Electorales, representaciones de partido, personas invitadas permanentes, y de ser el caso, a las representaciones de candidaturas ausentes, quedando notificados quienes estuvieran presentes.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Si llegada la hora prevista para la sesión no se reúne el quórum se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se hará constar tal situación en un acta circunstanciada y se citará a una nueva sesión a la personas Consejeras Electorales, representaciones de partido, personas invitadas permanentes, y de ser el caso, a las representaciones de candidaturas ausentes, quedando notificados quienes asistieron en la modalidad convocada.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con las personas Consejeras Electorales, las representaciones de partido, personas invitadas permanentes, y de ser el caso, las y los (sic) representaciones de candidaturas del Consejo General que concurran a ella.
 
@@ -616,9 +662,15 @@ Si en el transcurso de la sesión se ausentaran parte de sus integrantes y con e
 
 Las sesiones del Consejo General serán públicas. El público asistente deberá guardar el debido orden en el recinto donde se celebren, permanecer en silencio y abstenerse de cualquier manifestación. En él se favorecerá el acceso y permanencia de personas con discapacidad, a quienes se les apoyará en su movilidad y de ser necesario, en el buen desempeño de sus animales de asistencia.
 
-Para el acceso y permanencia en el recinto, no se discriminará a ninguna persona por ningún motivo.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Para el acceso y permanencia en el recinto, no se discriminará a ninguna persona por ningún motivo. En caso de que por causas de caso fortuito o fuerza mayor se aplicarán los protocolos respectivos.
 
 En el desarrollo de las sesiones y su transmisión, se contará con interpretación simultánea en lengua de señas mexicana.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones virtuales y mixtas serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -642,11 +694,11 @@ Iniciada la sesión, se pondrá a consideración del Consejo General el contenid
 
 El Consejo General, mediante votación y a solicitud de alguna persona integrante, podrá modificar el orden del día, así como los asuntos contenidos en éste.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 27.
 
-Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de alguna persona integrante del Consejo General, la Secretaría del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación de la persona oradora y dicha lectura no podrá exceder de cinco minutos.
+Al aprobarse el orden del día, se consultará en votación económica si fuese sesión presencial, o en votación nominal, en los casos de sesiones virtuales y mixtas, si se dispensa la lectura de los documentos previamente circulados. A petición de alguna persona integrante del Consejo General, la Secretaría del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación de la persona oradora y dicha lectura no podrá exceder de cinco minutos.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -720,15 +772,19 @@ Para efectos de este Reglamento, se entenderá por alusión personal, cualquier 
 
 #### SECCIÓN CUARTA. De las Votaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
-Los acuerdos y resoluciones del Consejo General se tomarán por mayoría de votos de sus integrantes presentes con derecho a ello, salvo en los casos que la ley exija mayoría calificada.
+Los acuerdos y resoluciones del Consejo General se tomarán por mayoría de votos de sus integrantes presentes de manera física o virtual con derecho a ello, salvo en los casos que la ley exija mayoría calificada.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 Una vez iniciado el proceso de votación, la Presidencia del Consejo General no podrá conceder el uso de la palabra para continuar con la discusión del asunto, salvo que se solicite alguna moción exclusivamente para aclaración del procedimiento.
 
-Las Consejeras y los Consejeros Electorales votarán levantando la mano para expresar el sentido de su decisión.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las Consejeras y los Consejeros Electorales votarán levantando la mano si fuese sesión presencial. Tratándose de sesiones virtuales y mixtas, se realizará mediante votación nominal o a través de la herramienta tecnológica que tengan a su alcance para expresar el sentido de su decisión.
 
 La votación se tomará en el siguiente orden: contando el número de votos a favor y el número de votos en contra. Cuando no haya unanimidad se asentará en el acta el sentido del voto de las Consejeras y los Consejeros Electorales.
 
@@ -804,11 +860,11 @@ En caso de suspenderse la sesión, la Presidencia del Consejo General citará pa
 
 #### SECCIÓN SÉPTIMA. De las Actas de Sesiones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-De cada sesión se levantará un acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones y del voto de las personas integrantes del Consejo General con derecho a ello, así como los acuerdos y resoluciones aprobados.
+De cada sesión se levantará un acta que contendrá los datos de la sesión, señalar si la sesión fue presencial, virtual o mixta, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones y del voto de las personas integrantes del Consejo General con derecho a ello, así como los acuerdos y resoluciones aprobados.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -874,11 +930,13 @@ Las Comisiones contarán con una Secretaría Técnica sólo con derecho a voz.
 
 Corresponde a las Presidencias de las Comisiones:
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
-I. Convocar o en su caso, instruir a la Secretaría Técnica a fin de que convoque a las personas integrantes de la Comisión y presidir las sesiones;
+I. Convocar o en su caso, instruir a la Secretaría Técnica a fin de que convoque de manera física o electrónica a las personas integrantes de la Comisión y presidir las sesiones;
 
-II. Asistir a las sesiones de su Comisión;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II. Asistir de forma presencial, o bien virtual, a las sesiones de su Comisión;
 
 III. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -926,7 +984,9 @@ XIX. Las demás que les confiera el Código, el Reglamento Interior y la normati
 
 Corresponde a las Consejeras y los Consejeros Electorales:
 
-I. Asistir a las sesiones de las Comisiones;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones;
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -954,7 +1014,9 @@ Las Presidencias de las Comisiones tienen la facultad de proponer como Titular d
 
 Corresponde a las Secretarías Técnicas:
 
-I. Asistir a las sesiones de las Comisiones;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones;
 
 II. Preparar la documentación para la realización de las sesiones de las comisiones;
 
@@ -1002,7 +1064,9 @@ XVII. Las demás que les confiera el Código, el Reglamento Interior, la Preside
 
 Corresponde a las Representaciones de partido:
 
-I. Asistir a las sesiones de las Comisiones;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones;
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -1020,13 +1084,15 @@ VII. Alternarse durante el desarrollo de las sesiones, entre persona propietaria
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-Corresponde a las Representaciones de candidatura:
+Corresponde a las representaciones de candidaturas:
 
-I. Asistir a las sesiones de las Comisiones donde se traten asuntos relacionados con la elección de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones donde se traten asuntos relacionados con la elección de la Jefatura de Gobierno;
 
 II. Participar sólo en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate vinculados con la elección de la Jefatura de Gobierno;
 
@@ -1070,6 +1136,26 @@ II. La Comisión deberá resolver de inmediato respecto de la procedencia de la 
 
 Las sesiones de las Comisiones podrán ser ordinarias, extraordinarias o urgentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Dichas sesiones podrán realizarse de manera presencial, virtual o mixta observando en todo momento las reglas generales previstas en el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones virtuales y mixtas serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones mixtas podrán desarrollarse con algunas personas integrantes de las Comisiones presentes de forma virtual y otras de forma presencial, para lo cual deberán notificar a la persona Presidenta de la Comisión la forma en que opten para asistir a la sesión, en caso de que se determine que la misma se lleve a cabo en esta modalidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+
+En caso de que la Presidencia de la Comisión opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
+
 A) Las sesiones ordinarias se sujetarán a lo siguiente:
 
 I. Deberán celebrarse periódicamente conforme a lo señalado en el Código; y
@@ -1110,9 +1196,9 @@ II. En cada una de las rondas y después de que hayan intervenido todas las pers
 
 III. En caso de que en alguna de las rondas no se registren para intervenir ninguna o ninguno de los asistentes de la Comisión, se procederá a la votación del asunto, o se dará por enterada la Comisión, según corresponda;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
-IV. Adicionalmente, las personas Consejeras Electorales y la Secretaría Técnica podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
+IV. Adicionalmente, las personas Consejeras Electorales y la Secretaría Técnica podrán intervenir de forma presencial, o bien virtual, en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -1126,9 +1212,11 @@ VI. Para los efectos del Reglamento, se entenderá por voto razonado, el conjunt
 
 VII. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en el primer párrafo de este artículo, las cuales no podrán exceder por persona oradora, de cinco y tres minutos, respectivamente.
 
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 55.
 
-La convocatoria a sesión deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria, extraordinaria o urgente, un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, por escrito, medio magnético o correo electrónico, todos y cada uno de los documentos y anexos necesarios para la discusión de los asuntos incluidos en el orden del día, sin que los mismos puedan ser sujetos a modificación, salvo previa discusión y aprobación por parte de las Consejeras y los Consejeros Electorales integrantes de la Comisión de que se trate.
+La convocatoria a sesión deberá contener el día y la hora en que la misma se deba celebrar, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso mencionar la plataforma virtual correspondiente, la mención de su carácter de ordinaria, extraordinaria o urgente, un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, por escrito, medio magnético o correo electrónico, todos y cada uno de los documentos y anexos necesarios para la discusión de los asuntos incluidos en el orden del día, sin que los mismos puedan ser sujetos a modificación, salvo previa discusión y aprobación por parte de las Consejeras y los Consejeros Electorales integrantes de la Comisión de que se trate.
 
 ###### Artículo 56.
 
@@ -1158,11 +1246,11 @@ La Presidencia de la Comisión, cuando resulte procedente, incluirá el asunto s
 
 ### CAPÍTULO IV. Del Inicio y Desarrollo de las Sesiones
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 60.
 
-En el día y hora fijado para la sesión se reunirán las personas integrantes de la Comisión, la Presidencia de la Comisión declarará el inicio de la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría Técnica.
+En el día y hora fijado para la sesión se reunirán de manera presencial, virtual o mixta, las personas integrantes de la Comisión; la Presidencia de la Comisión declarará el inicio de la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría Técnica.
 
 ###### Artículo 61.
 
@@ -1182,9 +1270,9 @@ I. No existan las condiciones que garanticen el buen desarrollo de la sesión;
 
 II. Exista alteración del orden; y
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
-III. Cuando lo solicite alguna persona integrante de la Comisión, y lo apruebe la mayoría de sus integrantes presentes con derecho a voto.
+III. Cuando lo solicite alguna persona integrante de la Comisión, y lo apruebe la mayoría de sus integrantes que asistan de forma presencial, o bien virtual, con derecho a voto.
 
 En caso de suspensión de la sesión, se asentarán en la minuta respectiva las causas que dieron origen a la misma; los asuntos ya discutidos y, en su caso, votados; así como los puntos del orden del día que quedaron pendientes, los cuales serán tratados en la reanudación de la sesión. La sesión se reanudará cuando se hayan superado las causas que motivaron la suspensión.
 
@@ -1214,11 +1302,11 @@ Los informes, dictámenes, programas de trabajo anuales, acuerdos o proyectos de
 
 ### CAPÍTULO V. De las Minutas de las Sesiones
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 67.
 
-De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las personas integrantes de la Comisión.
+De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, la modalidad en que se llevará a cabo, es decir, presencial, virtual o mixta y, en su caso, lugar o plataforma de celebración, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las personas integrantes de la Comisión.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -1289,3 +1377,21 @@ PRIMERO.- Las reformas al presente Reglamento entrarán en vigor al día siguien
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Reglamento.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México
+
+G.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PARA LA INCORPORACIÓN DEL USO DE HERRAMIENTAS TECNOLÓGICAS Y LA CELEBRACIÓN DE SESIONES VIRTUALES Y MIXTAS. (IECM/ACU-CG-105/2020)”.]
+
+ÚNICO. La presente reforma entrará en vigor al momento de su publicación en los estrados de las Oficinas Centrales del Instituto Electoral.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México, para la incorporación del uso de herramientas tecnológicas y la celebración de sesiones virtuales y mixtas, de conformidad con el Anexo del presente Acuerdo, el cual forma parte integral del mismo.
+
+SEGUNDO. El presente Acuerdo y su Anexo entrará en vigor al momento de su publicación en los estrados de las Oficinas Centrales del Instituto Electoral.
+
+TERCERO. En concordancia con las medidas adoptadas por este Consejo General en el Acuerdo IECM/ACU-CG-031/2020, publíquense de inmediato el presente Acuerdo y su Anexo en los estrados de las oficinas centrales y en el portal de Internet www.iecm.mx y, háganse del conocimiento de las Direcciones Distritales del Instituto Electoral, para que se publiquen en los estrados de dichas oficinas una vez que las condiciones de la actual emergencia sanitaria lo permitan.
+
+CUARTO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia del sitio de Internet www.iecm.mx y difúndase la misma en las redes sociales de este Instituto.
