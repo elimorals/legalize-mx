@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1133
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-04"
-last_updated: "2020-05-22"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 4 de marzo de 2016.
 
@@ -185,59 +185,141 @@ XVIII. Dar seguimiento a las medidas, acciones, planes y programas en materia de
 
 XIX. Las demás previstas en esta ley, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de Yucatán, y otras disposiciones legales y normativas aplicables.
 
-### Capítulo IV. Sistema Estatal para la Igualdad entre Mujeres y Hombres
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-#### Sección segunda. Organización y funcionamiento
+### CAPÍTULO III BIS. UNIDADES DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+#### Sección única. Estructura y atribuciones
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Creación y Objeto de la unidad.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+Cada dependencia, entidad o ayuntamiento deberá crear unidades de igualdad adscritas a ellas, con presupuesto suficiente para su funcionamiento, las cuales operarán de acuerdo al libre desarrollo de las políticas públicas observando en todo momento el principio de igualdad y tomando como base la política estatal en materia de igualdad de género.
+
+Las unidades de igualdad tendrán por objeto contribuir, asistir y coadyuvar a la transversalidad e institucionalización de la perspectiva de género y una cultura organizacional en la administración pública estatal y municipal.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Atribuciones.
+
+Las unidades, para el cumplimiento de su objeto, tendrán las siguientes atribuciones:
+
+I. Fomentar la transversalización de la perspectiva e igualdad de género en la cultura organizacional y que hacer institucional a través de mecanismos y programas que permitan promover, aplicar y garantizar la igualdad de derechos entre mujeres y hombres.
+
+II. Asegurar, dar seguimiento y aplicar el cumplimiento de las obligaciones contraídas en tratados y convenciones internacionales de derechos humanos de las mujeres, en su ámbito de competencia.
+
+III. Verificar la incorporación de la perspectiva de género en la planeación, programación y presupuesto anual de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita y de los sectores vinculados a ella.
+
+IV. Participar en las tareas programáticas y presupuestarias de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita para impulsar acciones afirmativas y el acceso a bienes y servicios públicos de forma igualitaria, para lo cual podrán realizar propuestas encaminadas a lo antes descrito.
+
+V. Opinar y proponer respecto a las acciones que impulse la dependencia, entidad o ayuntamiento a la que se encuentre adscrita para garantizar el acceso igualitario de las mujeres al desarrollo y la tutela de sus derechos humanos.
+
+VI. Establecer y concertar acuerdos con las unidades responsables de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita para ejecutar las políticas, acciones y programas de su competencia establecidos en el Plan Estatal de Desarrollo y el Programa Especial de Igualdad de Género, Oportunidades y No Discriminación.
+
+VII. Gestionar, dirigir y coordinar la formación, capacitación y certificación del personal en materia de igualdad y políticas públicas para la igualdad, atención o prevención de la violencia en contra de las mujeres, mismas que serán obligatorias para las dependencias, entidades o ayuntamientos que se encuentren adscritas.
+
+VIII. Ser integrante y participar con voz y voto en los comités internos en materia de igualdad de género de la dependencia, entidad y de los ayuntamientos a los cuales se encuentran adscritos, en el ámbito de su competencia.
+
+IX. Difundir y publicar información en materia de derechos humanos de las mujeres, no discriminación e igualdad y diversidad de las mujeres.
+
+X. Promover que en los mensajes, campañas y los materiales informativos de comunicación social que transmita la dependencia, entidad o ayuntamiento a la que se encuentre adscrita, se apliquen con perspectiva de género, lenguaje incluyente y no sexista y sin estereotipos, de acuerdo con la normatividad en la materia.
+
+XI. Crear mecanismos que permitan asegurar que la prestación de atención y servicios a la población se lleven a cabo sin discriminación, de forma igualitaria y con perspectiva de género.
+
+XII. Realizar la elaboración del plan de acción para la igualdad y aplicarla en la institución, dependencia o ayuntamiento a la que se encuentra adscrita.
+
+XIII. Informar a la Secretaría de las Mujeres las acciones que realice la dependencia, entidad o ayuntamiento a la que se encuentre adscrita en materia de política pública y en cumplimiento del nuevo Programa Especial de Igualdad de Género, Oportunidades y No Discriminación.
+
+XIV. Planificar y promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones y situación de desigualdad de género, en el ámbito de competencia y atribuciones de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita conforme a lo que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado.
+
+XV. Impulsar la producción y sistematización de datos e información, por sexo, lenguaje y discapacidad, en torno a la atención de la población en los programas de gobierno
+
+XVI. Elaborar y difundir de manera trimestral y anual informes de evaluación periódica para dar cuenta sobre los avances en la implementación de la política estatal en materia de igualdad de género de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita así como del cumplimiento de las atribuciones de la unidad, e informarlos a la Secretaría de las Mujeres.
+
+XVII. Informar a inicio de cada año a la Secretaría de Mujeres un plan de trabajo y los objetivos que el plan debe alcanzar durante dicho período.
+
+XVIII. Recibir de la Secretaría de Mujeres capacitaciones y/o actualizaciones constantes, en materia legislativa, de acuerdos, decretos, tratados y convenios nacionales e internacionales, así como de políticas públicas del ejecutivo Federal y Estatal en materia de género.
+
+Y demás acciones que deben realizar de acuerdo a su competencia al área de cada dependencia, entidad o Ayuntamiento al cual se encuentren adscritas.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Titular de la unidad.
+
+Las unidades tendrán un titular que será designada por la persona titular de la dependencia, entidad o ayuntamiento a la que se encuentre adscrita la unidad.
+
+Cuando las dependencias o entidades cuenten con una unidad administrativa que desempeñe las funciones establecidas previstas en este capítulo, no será necesaria la designación a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Organigrama de las Unidades de Igualdad.
+
+Los Ayuntamientos, las dependencias o entidades de la administración pública estatal, contarán con una Unidad de Igualdad adscrita a las mismas, la cual estará conformado por un titular y auxiliares a su cargo.
+
+Dichas unidades, contarán como mínimo con el área jurídica, de planeación, administrativa y de recursos humanos, de conformidad con la disponibilidad presupuestal y de acuerdo a la planilla laboral con la que se cuente.
+
+Asimismo, quien ocupe la titularidad y el personal adscrito a las unidades deberán acreditar y contar con la formación académica acorde al área que le sea asignada, así como experiencia y conocimientos en la materia de igualdad de género.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Presupuesto
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+Los Ayuntamientos, las dependencias o entidades de la administración pública estatal deberán dotar a las unidades de Igualdad adscritas a las mismas de un presupuesto suficiente y proporcional para el cumplimiento y desarrollo de sus funciones acorde a la presente ley.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Requisitos para ser titular de la unidad.
+
+Para ocupar la titularidad de alguna de las unidades será necesario cubrir los siguientes requisitos:
+
+I. Tener la nacionalidad mexicana y la ciudadanía yucateca en términos de lo que establezca la Constitución Política del Estado de Yucatán.
+
+II. Contar con título de licenciatura o grado académico afín, preferentemente en las áreas sociales o económicas y estudios certificados en materia de Género.
+
+III. Contar con experiencia y conocimientos en las materias de derechos humanos de las mujeres y/o políticas públicas de género y/o intervención de la violencia contra las mujeres, u otras relacionadas con la igualdad de género.
+
+IV. Preferentemente contar con nivel mínimo de jefe de departamento o dirección dentro de la dependencia, entidad o ayuntamiento.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Obligación de notificación.
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
+Las personas titulares de las dependencias, entidades o de los ayuntamientos deberán informar a la Secretaría de las Mujeres sobre las personas que funjan como titulares de la unidad así como el personal a su cargo, con la finalidad, de contar con un directorio institucional de Unidades de Igualdad administrado, supervisado y actualizado por la Secretaría de las Mujeres o la dependencia responsable de la política pública en la materia.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-(DEROGADO, D.O. 31 DE JULIO DE 2019)
+Obligación de coordinación.
+
+Las personas titulares de las unidades administrativas de las dependencias, entidades y de los ayuntamientos deberán colaborar con las unidades de igualdad adscritas a las mismas, con personal capacitado en igualdad de género para la ejecución de las acciones y políticas que realicen las unidades en el ámbito de su competencia.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
 
-#### Sección quinta. Régimen laboral
-
-#### Sección tercera. Dirección general
+#### Sección quinta (sic). Régimen laboral
 
 ###### Artículo 18.
 
 (DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-### Capítulo V. Política estatal en materia de igualdad entre mujeres y hombres
+### Capítulo IV. Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
 ###### Artículo 19.
 
@@ -363,7 +445,7 @@ Consejo consultivo
 
 El Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres será regulado por la persona titular del Poder Ejecutivo, mediante decreto; será presidido por la Secretaría de las Mujeres y deberá contar con la participación de representantes de los diferentes sectores de la sociedad, de las organizaciones públicas y privadas, de las asociaciones civiles y de las instituciones académicas.
 
-### Capítulo VI. Observancia en materia de igualdad entre mujeres y hombres
+### Capítulo V. Política estatal en materia de igualdad entre mujeres y hombres
 
 ###### Artículo 26.
 
@@ -462,8 +544,6 @@ Los informes anuales del Gobernador del estado deberán contener el estado que g
 #### Sección primera. De los objetivos y acciones de la Política Estatal de Igualdad entre Mujeres y Hombres
 
 > <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
-
-#### Sección cuarta. Vigilancia y supervisión
 
 ###### Artículo 32 Bis.
 
@@ -729,7 +809,7 @@ f) Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para
 
 g) Garantizar la igualdad sustantiva en la protección de las y los defensores de los derechos humanos.
 
-### Capítulo VII. Responsabilidades
+### Capítulo VI. Observancia en materia de igualdad entre mujeres y hombres
 
 ###### Artículo 33.
 
@@ -754,6 +834,8 @@ III. Proponer la realización de estudios e informes técnicos de diagnóstico s
 IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres.
 
 V. Las demás que sean necesarias para contribuir al cumplimiento del objeto de esta ley.
+
+### Capítulo VII. Responsabilidades
 
 ###### Artículo 35.
 
@@ -910,3 +992,19 @@ De conformidad con la normatividad jurídica, administrativa y presupuestaria co
 Artículo tercero. Derogación tácita.
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 310/2020 POR EL QUE SE MODIFICA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE UNIDADES DE IGUALDAD DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Artículo segundo. Recursos presupuestarios.
+
+De conformidad con la normatividad jurídica, administrativa y presupuestaria correspondiente, las autoridades competentes deberán tomar en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento del presente decreto.
+
+Artículo tercero. Derogación expresa.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones del presente decreto.
