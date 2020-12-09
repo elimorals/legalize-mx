@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-nutricion-y-combate-a-la-obesidad-para-el-estado-de-8432
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-05"
-last_updated: "2019-07-31"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 5 de enero de 2012.
 
@@ -148,6 +148,10 @@ XX. Nutrición: el conjunto de procesos biológicos, psicológicos y sociológic
 XXI. Obesidad: la enfermedad caracterizada por el exceso de tejido adiposo en el organismo, debido a la ingestión de energía en cantidades mayores a las que se gastan, acumulándose el exceso en el organismo en forma de grasa;
 
 XXII. Orientación Alimentaria: el conjunto de acciones que proporcionan información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación, para favorecer la adopción de una Dieta correcta a nivel individual, familiar o colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales;
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXII Bis. Padrón: Registro de los casos de desnutrición, sobrepeso y obesidad en cada uno de los planteles públicos de educación preescolar y primaria, y aquellos que cuenten con validez oficial, que contendrá el historial y avance evolutivo de cada uno de los casos con dichos padecimientos en las y los menores, con la finalidad de darles un tratamiento adecuado.
 
 XXIII. Pobreza alimentaria: la carencia de los medios para adquirir la Canasta alimentaria básica recomendada;
 
@@ -315,7 +319,9 @@ Los integrantes del Consejo tendrán carácter honorario y contarán con derecho
 
 Las sesiones del Consejo tendrán el carácter de ordinarias y extraordinarias y serán válidas con la concurrencia de la mitad más uno del número total de sus integrantes, los acuerdos se adoptarán por mayoría simple de votos y en caso de empate, el Presidente del Consejo tendrá voto de calidad. Estas sesiones deberán celebrarse en la fecha y hora que previamente fueren convocadas por el Presidente del Consejo, a través del Secretario Técnico, y durarán el tiempo necesario para resolver todos los asuntos en cartera.
 
-Las sesiones ordinarias del Consejo deberán realizarse cuando menos una vez de manera trimestral, y las extraordinarias podrán efectuarse las veces que se estime necesario.
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones ordinarias del Consejo deberán realizarse cuando menos una vez de manera bimestral, y las extraordinarias podrán efectuarse las veces que se estime necesario.
 
 El Consejo estará asistido por un Secretario Técnico, quien deberá estar presente en las sesiones y será el encargado de llevar a cabo las acciones necesarias para el logro de las mismas.
 
@@ -356,6 +362,10 @@ XII. Establecer estrategias para promover el consumo diario de una Dieta correct
 XIII. Emitir las recomendaciones necesarias a las autoridades competentes, en caso de incumplimiento de esta Ley;
 
 XIV. Emitir una lista de alimentos permitidos para venta en instituciones educativas, bajo el criterio de encontrarse contenidas en una dieta correcta e inocua;
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XIV Bis. Vigilar que se cumpla con la prohibición de vender alimentos y bebidas no alcohólicas con exceso de sodio, grasas y azúcares en las instituciones públicas y privadas de los niveles preescolar y primaria, de conformidad con lo dispuesto en el artículo 104 Bis de la Ley de Salud del Estado de Yucatán.
 
 XV. Relacionar los alimentos que deberán estar contenidos en la Canasta básica alimentaria recomendable con el fin de lograr dentro de la población del Estado una alimentación correcta;
 
@@ -579,9 +589,23 @@ XXII. Establecer las unidades preventivas señaladas en el artículo 11 de esta 
 
 XXIII. Realizar estudios e investigaciones dirigidas para conocer las condiciones de Nutrición que prevalecen en la población, así como los factores de riesgo y las causas de la Obesidad, Desnutrición y los Trastornos de la Conducta Alimentaria, con el fin de realizar acciones que permitan su Tratamiento y control;
 
-XXIV. Vigilar la calidad de alimentos y bebidas de complementos y suplementos alimenticios en los espacios de consumo escolar, laboral y en espacios públicos como son: hospitales, centros de salud, espacios recreativos, y
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-XXV. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
+XXIV. Vigilar la calidad de alimentos y bebidas de complementos y suplementos alimenticios en los espacios de consumo escolar, laboral y en espacios públicos como son: hospitales, centros de salud, espacios recreativos;
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXV. Celebrar en coordinación con la Secretaría de Educación, convenios de colaboración con las universidades públicas y privadas del Estado en las que se imparta la licenciatura en nutrición, para que los alumnos y alumnas puedan llevar a cabo su servicio social y prácticas profesionales en los planteles públicos de educación básica, para apoyar en el diagnóstico nutricional de cada menor, así como su atención y manejo integral;
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Elaborar, en conjunto con la Secretaría de Educación, un padrón para la detección, control y tratamiento de desnutrición, sobrepeso y obesidad, mismo que deberá registrar el historial de atención médica de cada menor con dichos padecimientos en cada plantel público de educación preescolar y primaria en el estado, a fin de conocer su evolución y contar con estadísticas reales de seguimiento para tratar de manera oportuna los padecimientos;
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Celebrar convenios de coordinación con la Secretaría de Desarrollo Social para impulsar huertos o agricultura de traspatio en los planteles públicos de educación preescolar y primaria en el estado, con el fin de fomentar el valor y consumo de los alimentos naturales, orgánicos, y saludables, así como fortalecer el trabajo en equipo, la convivencia familiar y el cuidado del medio ambiente, y
+
+XXVIII. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 35.
 
@@ -972,3 +996,19 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 308/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE COMBATE A LA OBESIDAD”.]
+
+Vigencia
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Modificaciones reglamentarias
+
+Artículo segundo. El Consejo Estatal de Nutrición y Combate a la Obesidad tendrá un plazo de 180 días hábiles siguientes a la entrada en vigor, para modificar su reglamento interno en los términos del presente decreto.
+
+Derogación tácita
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en este Decreto.
