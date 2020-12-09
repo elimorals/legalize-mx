@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-planeacion-para-el-desarrollo-del-estado-de-yucatan-9216
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-05"
-last_updated: "2019-07-31"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 5 de febrero de 2013.
 
@@ -33,7 +35,9 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 FRACCIÓN IV DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S: .
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30, fracción V y VIII de la Constitución Política, artículos 18 y 43 fracción I inciso b) de la Ley de Gobierno del Poder Legislativo, y artículo 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -61,9 +65,11 @@ VII.- Las bases para que las acciones de los particulares contribuyan a alcanzar
 
 VIII.- Los instrumentos con los que el Poder Ejecutivo del Estado determinará la Política Económica del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral, equitativo y sustentable de la entidad y deberá atender a la consecución de los fines y objetivos políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos, para ello, estará basada en los siguientes principios:
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral, equitativo y sustentable de la entidad, con perspectiva de género, y deberá atender a la consecución de los fines y objetivos políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos, para ello, estará basada en los siguientes principios:
 
 I.- El constante mejoramiento económico, social y cultural del pueblo, y el impulso a su participación activa en la planeación y ejecución de las actividades del Gobierno;
 
@@ -79,7 +85,9 @@ VI.- El equilibrio de los factores de la producción, que proteja y promueva el 
 
 VII.- La participación social en el diseño, instrumentación, seguimiento y evaluación de las acciones públicas;
 
-VIII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre hombres y mujeres, y
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+VIII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre hombres y mujeres, promoviendo el avance igualitario de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y
 
 IX.- La aplicación de la Gestión por Resultados en la Administración Pública del Estado.
 
@@ -157,9 +165,11 @@ El Gobernador del Estado, al informar ante el Congreso sobre el estado general q
 
 El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los municipios deberá relacionarse, en lo conducente, con la información a que alude el párrafo anterior. Esto con el objeto de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los objetivos y prioridades de la planeación estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-Las dependencias y entidades de la Administración Pública del Estado deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades establecidos en los instrumentos de planeación.
+Las dependencias y entidades de la Administración Pública del Estado deberán planear y conducir sus actividades y sujeción a los objetivos y prioridades establecidos en los instrumentos de planeación; observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género desde su formulación.
 
 El Poder Ejecutivo del Estado establecerá entre sus dependencias y entidades un Sistema de Gabinete Sectorizado, a efecto de facilitar la coordinación, instrumentación, seguimiento y evaluación de los objetivos y metas establecidos en los instrumentos de planeación.
 
@@ -385,8 +395,6 @@ IV.- Ejercer el control presupuestal y supervisar el ejercicio del gasto públic
 
 Artículo 23 bis.- La Secretaría Técnica de Planeación y Evaluación es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar cada una de las etapas del proceso de planeación, con la participación de la sociedad civil y de los distintos órdenes de gobierno, y los trabajos del Sistema de Gabinete Sectorizado en la consolidación presupuestal de los objetivos de la planeación; el desarrollo y asesoría en la implementación de programas y proyectos estratégicos que encargue el Gobernador, así como la gestión de recursos que permitan el financiamiento del desarrollo del estado, con base en la aplicación del modelo de gestión para resultados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 Artículo 23 ter.- La Secretaría Técnica, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
@@ -463,9 +471,17 @@ XXXV.- Asesorar a las dependencias y entidades de la Administración Pública es
 
 XXXVI.- Promover la celebración de convenios y acuerdos con los distintos órdenes de gobierno, así como con organismos públicos o privados, nacionales o internacionales;
 
-XXXVII.- Compilar los planes municipales de desarrollo y cualquier otra información que considere relevante, y
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-XXXVIII.- Las demás que establezcan otras disposiciones legales y normativas aplicables.
+XXXVII.- Compilar los planes municipales de desarrollo y cualquier otra información que considere relevante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en grupos específicos de la población, distinguiendo por origen étnico, género, edad, condición de discapacidad, tipo de localidad, entre otros, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XXXIX.- Las demás que establezcan otras disposiciones legales y normativas aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -632,6 +648,10 @@ Artículo 23 duodecies.- Las relaciones laborales entre la Secretaría Técnica 
 ###### Artículo 24.
 
 El Plan Estatal es el instrumento rector de la planeación para el desarrollo, así como de orientación en la Gestión por Resultados y del Presupuesto basado en resultados.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+Artículo 24 bis.- Para la formulación del Plan Estatal se llevarán a cabo ejercicios de consulta ciudadana con el objeto de que la población exprese sus opiniones para la elaboración de dicho instrumento rector.
 
 ###### Artículo 25.
 
@@ -1224,3 +1244,15 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 311/2020 POR EL QUE SE MODIFICA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN, EN MATERIA DE PERSPECTIVA DE GÉNERO Y CONSULTA CIUDADANA”.]
+
+Artículo Primero.- Entrada en vigor.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Estado.
+
+Artículo Segundo.- Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
