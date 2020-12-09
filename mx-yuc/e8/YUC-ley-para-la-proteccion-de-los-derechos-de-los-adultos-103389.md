@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-los-adultos-103389"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-03"
-last_updated: "2019-07-31"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de noviembre de 2014.
 
@@ -110,6 +110,10 @@ X. Una vida libre de violencia.
 XI. La participación social y política.
 
 XII. No discriminación.
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XIII. El acceso, uso y disfrute de nuevas tecnologías.
 
 ###### Artículo 6.
 
@@ -379,7 +383,11 @@ XI. Presentar de manera anual al titular del Poder Ejecutivo del estado, un info
 
 XII. Aprobar su reglamento interno y demás normatividad interna que requiera para el cumplimiento de su objeto.
 
-XIII. Las demás que le confieran esta ley, su reglamento interno y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XIII. Proponer la implementación de políticas públicas orientadas a que los adultos mayores hagan uso de nuevas tecnologías.
+
+XIV. Las demás que le confieran esta ley, su reglamento interno y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 18.
 
@@ -672,3 +680,11 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 309/2020 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
