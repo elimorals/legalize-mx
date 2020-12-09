@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-desarrollo-forestal-43629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-21"
-last_updated: "2014-10-31"
+last_updated: "2020-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43629&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-02-16"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de febrero de 2005.
 
@@ -2320,3 +2322,49 @@ Primero. El presente Decreto entrará en vigor el día 2 de marzo de 2015.
 Segundo. A la entrada en vigor del presente Decreto, las facultades que corresponde ejercer a la Procuraduría Federal de Protección al Ambiente o a cualquier otra unidad administrativa de la Secretaría de Medio Ambiente y Recursos Naturales, contenidas en normas oficiales mexicanas, normas mexicanas, acuerdos, convocatorias o cualquier otra disposición administrativa que deriva del presente Reglamento, respecto de las instalaciones o actividades previstas en las fracciones VII y XI del artículo 3 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, serán ejercidas por dicha Agencia.
 
 Tercero. Los procedimientos relacionados con Actividades del Sector Hidrocarburos que se encuentren en trámite a la entrada en vigor del presente Reglamento, se resolverán por la Agencia conforme al presente ordenamiento.
+
+D.O.F. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley General de Desarrollo Forestal Sustentable publicado el 21 de febrero de 2005 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. La Secretaría de Medio Ambiente y Recursos Naturales emitirá las normas, procedimientos y metodologías a que se refiere el artículo 37 de la Ley General de Desarrollo Forestal Sustentable, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento y las difundirá a través de su página electrónica.
+
+CUARTO. La Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Nacional Forestal, durante el plazo de ciento ochenta días naturales, contado a partir de la fecha en que entre en vigor el presente Reglamento emitirá los formatos, manuales e instructivos previstos en este ordenamiento, los cuales deberán publicarse en el Diario Oficial de la Federación.
+
+QUINTO. Los interesados en obtener la constancia de inscripción de las plantaciones forestales comerciales en el Registro Forestal Nacional a que se refiere el Artículo Tercero Transitorio de la Ley General de Desarrollo Forestal Sustentable presentarán ante la Comisión Nacional Forestal el aviso, adjuntando la información prevista en el artículo 66 de este ordenamiento dentro de un plazo que no exceda los trescientos sesenta y cinco días naturales contado a partir de la entrada en vigor del presente Reglamento.
+
+La Comisión Nacional Forestal emitirá la constancia de inscripción de las plantaciones a que se refiere el párrafo anterior conforme al artículo 68 del presente Reglamento.
+
+Para emitir la constancia, la Comisión Nacional Forestal se podrá valer de herramientas de percepción remota y cartografía digital, y en caso necesario podrá realizar una visita al sitio donde se encuentre la plantación propuesta, con la finalidad de verificar o validar que se trate de una plantación con fines comerciales y no de terrenos con vegetación forestal natural o forestaciones con propósitos de conservación y restauración.
+
+Los titulares de plantaciones forestales comerciales registradas de conformidad con el artículo Tercero Transitorio de la Ley General de Desarrollo Forestal Sustentable, interesados en obtener remisiones forestales para el transporte de materias primas que se obtengan con motivo de su aprovechamiento, deberán presentar solicitud ante la Comisión Nacional Forestal, de conformidad con los artículos 104 y 105 del presente Reglamento.
+
+SEXTO. En tanto se suscriben los acuerdos y convenios a que se refiere el artículo 27 del presente Reglamento, la Secretaría de Medio Ambiente y Recursos Naturales consultará la información relativa al Registro Agrario Nacional a través de los sistemas de información pública que dicha institución tiene habilitados en su página electrónica.
+
+Tratándose de otros registros y, en caso de que requiera información para mejor proveer, solicitará de manera directa y caso por caso dicha información en los términos previstos en la Ley Federal de Procedimiento Administrativo.
+
+SÉPTIMO. En tanto la Comisión Nacional Forestal expide las disposiciones a que se refiere el artículo 171 del presente Reglamento, los interesados en ser auditados directamente por dicha Comisión o a través de terceros debidamente autorizados, podrán solicitarlo, a su costa, mediante escrito libre que contenga nombre o denominación o razón social del titular del aprovechamiento que cuenten con programas de manejo autorizados por la Secretaría de Medio Ambiente y Recursos Naturales para el aprovechamiento de recursos forestales maderables o no maderables o de la plantación forestal comercial, así como la denominación y ubicación del predio o conjunto de predios y número y fecha de oficio de autorización o fecha de recepción del aviso.
+
+La Comisión Nacional Forestal notificará al interesado la fecha en que se llevará a cabo la auditoría en un plazo máximo de treinta días hábiles, contado a partir de la presentación de la solicitud. La auditoría deberá realizarse dentro de los tres meses siguientes a la presentación de la solicitud.
+
+OCTAVO. En tanto la Secretaría de Medio Ambiente y Recursos Naturales expide la norma oficial mexicana que regule los procedimientos para establecer el Sistema de Comando de Incidentes para el manejo del fuego en ecosistemas forestales, continuarán funcionando los comités estatales, grupos técnicos operativos y grupos directivos para la atención de incendios forestales, quienes podrán ampliar su actuación hacia las medidas y acciones de manejo de fuego, en coordinación con la Comisión Nacional Forestal.
+
+NOVENO. Las autorizaciones que haya expedido la Secretaría de Medio Ambiente y Recursos Naturales con anterioridad a la entrada en vigor del presente Reglamento seguirán vigentes para todos los efectos y durante el plazo de vigencia en ellos establecido.
+
+Las solicitudes de autorización o registro que se encuentren en trámite a la entrada en vigor del presente Reglamento, se seguirán substanciando y se resolverán por la Secretaría de Medio Ambiente y Recursos Naturales o, en su caso, por la Comisión Nacional Forestal conforme a las normas jurídicas vigentes al momento de ingreso de los trámites respectivos, salvo que los interesados opten por sujetarse a las presentes disposiciones reglamentarias, lo cual deberán manifestarlo por escrito en los siguientes veinte días hábiles contados a partir del día hábil siguiente al de la entrada en vigor de este ordenamiento.
+
+DÉCIMO. La Secretaría de Medio Ambiente y Recursos Naturales transferirá a la Comisión Nacional Forestal los expedientes relativos a las autorizaciones que haya expedido en las materias que, por disposición de la Ley General de Desarrollo Forestal Sustentable, correspondan ahora a dicha Comisión, para lo cual dispondrá de un plazo de ciento ochenta días hábiles contados a partir del día siguiente a que entre en vigor el presente Reglamento.
+
+DÉCIMO PRIMERO. La Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Nacional Forestal publicarán los formatos simplificados de los trámites que les correspondan, así como pondrán disponibles los instructivos y sistemas, para que los usuarios puedan hacer las diferentes gestiones de forma electrónica.
+
+DÉCIMO SEGUNDO. Los auditores técnicos forestales que cuenten con registro y estén autorizados por la Comisión Nacional Forestal, podrán continuar realizando las auditorías técnicas preventivas durante un periodo de dos años a partir de la publicación del presente Reglamento. Después de este periodo, para poder realizar las auditorías técnicas preventivas, deberán estar acreditados como unidades de verificación.
+
+DÉCIMO TERCERO. En un plazo no mayor a ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento el Consejo Nacional Forestal aprobará y expedirá su Reglamento Interno, el cual establecerá la composición y el funcionamiento del mismo.
+
+DÉCIMO CUARTO. Las erogaciones que se generen por la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado para las dependencias y entidades que deben ejecutarlo, por lo que no se requerirán ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+DÉCIMO QUINTO. Los centros de almacenamiento, transformación o de almacenamiento y transformación que hayan sido autorizados por la Secretaría de Medio Ambiente y Recursos Naturales y respecto de los que la Comisión Nacional Forestal, conforme a su competencia hubiese otorgado modificación a la autorización de funcionamiento, presentarán la solicitud de reembarques forestales a que se refiere el artículo 113 de este Reglamento ante dicha Comisión.
