@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2020-07-29"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -789,6 +789,10 @@ XXXVIII. Coordinarse con las demás dependencias y entidades de la Administraci�
 
 XXXIX. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los criterios y fines de la educación.
 
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XL. En los niveles de educación básica, desarrollar programas de activación física de por lo menos 60 minutos diarios, fomentar competencias y torneos de diversas disciplinas deportivas, así como impulsar programas de nutrición y buenos hábitos alimenticios, todas estas acciones en coordinación con la Secretaría de Salud del Estado y enfocadas en fomentar la salud de los educandos y prevenir el sedentarismo, el sobrepeso y la obesidad.
+
 ###### Artículo 34.
 
 Atribuciones de las autoridades educativas estatales
@@ -886,6 +890,10 @@ XLI. Ejercer las atribuciones que le otorga la Ley General del Sistema para la C
 XLII. Participar en el Consejo Nacional de Autoridades Educativas, en términos de la ley general.
 
 XLIII. Las demás que establezca la ley general, esta ley y demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XLIV. En los grados de preescolar y primaria, fomentar en los educandos hábitos de cepillado e higiene dental y, en general, todos los aspectos concernientes a la salud bucodental. Para este efecto, las autoridades educativas de la entidad podrán coordinarse con la Secretaría de Salud del Estado de Yucatán con la finalidad de llevar a cabo los programas en las modalidades y características que establece la Ley de Salud del Estado de Yucatán en su capítulo VI de su Título Séptimo.
 
 Además de las atribuciones señaladas en esta ley, la Secretaría de Investigación, Innovación y Educación Superior, en el ámbito de sus competencias, tendrá las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
 
@@ -2530,3 +2538,27 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 312/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN Y LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE SALUD BUCODENTAL”.]
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 308/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE COMBATE A LA OBESIDAD”.]
+
+Vigencia
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Modificaciones reglamentarias
+
+Artículo segundo. El Consejo Estatal de Nutrición y Combate a la Obesidad tendrá un plazo de 180 días hábiles siguientes a la entrada en vigor, para modificar su reglamento interno en los términos del presente decreto.
+
+Derogación tácita
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en este Decreto.
