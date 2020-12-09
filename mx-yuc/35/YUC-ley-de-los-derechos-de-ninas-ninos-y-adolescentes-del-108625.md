@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108625"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2019-11-14"
+last_updated: "2020-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 12 de junio de 2015.
 
@@ -365,7 +365,25 @@ VII. Garantizar un enfoque integral, transversal y con perspectiva de derechos h
 
 VIII. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
 
-IX. Las demás establecidas en el artículo 50 de la ley general.
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+IX. Implementar acciones para reducir las razones de riesgo de la morbilidad y mortalidad materna y en la infancia temprana.
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+X. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños o adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna, exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, haciendo efectiva la Ley de Protección a la Maternidad y la Infancia Temprana del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XI. Desarrollar servicios de atención sanitaria preventiva, orientación y asesoría a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de salud reproductiva y generar programas públicos de prevención al embarazo temprano o no deseado, de conformidad con las disposiciones jurídicas en materia de salud.
+
+XII. Las demás establecidas en el artículo 50 de la ley general.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 22 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno-infantil y aumentar la esperanza de vida haciendo efectiva la Ley de Protección a la Maternidad y la Infancia Temprana del Estado de Yucatán.
 
 ###### Artículo 23.
 
@@ -626,3 +644,13 @@ El titular y el equipo técnico de la unidad administrativa especializada de pri
 Artículo cuarto. Derogación tácita
 
 Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a las contenidas en el presente decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 304/2020 POR EL QUE SE EMITE LA LEY DE PROTECCIÓN A LA MATERNIDAD Y LA INFANCIA TEMPRANA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN".]
+
+Artículo primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El Poder Ejecutivo del Estado deberá expedir el reglamento de la Ley de Protección a la Maternidad y a la Infancia Temprana del Estado de Yucatán dentro de 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
