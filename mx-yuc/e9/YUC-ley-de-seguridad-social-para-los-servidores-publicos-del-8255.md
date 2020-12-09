@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "2017-12-20"
+last_updated: "2020-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
@@ -275,7 +277,9 @@ Los compromisos económicos que puedan derivarse de riesgos de trabajo que sufra
 
 También tendrán derecho a la asistencia médica, quirúrgica, farmacéutica y hospitalaria, los siguientes familiares de los servidores públicos y pensionistas:
 
-I.- La esposa, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad, o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tiene varias concubinas ninguna de ellas tendrá derecho a recibir la prestación; del mismo derecho gozará, cuando se encuentre totalmente incapacitado para trabajar, el esposo de la servidora pública o pensionista o a falta de éste el concubinario, si reúne los requisitos anteriores.
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+I.- La esposa, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad, o con la que tuviese hijos, siempre que ambos permanezcan libres de matrimonio. Si el trabajador o pensionista tienen varias concubinas ninguna de ellas tendrá derecho a recibir la prestación; del mismo derecho gozará el esposo de la servidora pública o pensionista o a falta de éste el concubinario, si reúne los requisitos anteriores.
 
 II.- Los hijos menores de dieciocho años, o hasta los veinticinco si se mantienen solteros y comprueban estar realizando estudios a nivel medio o superior, en cualquier rama del conocimiento en planteles oficiales o reconocidos.
 
@@ -657,7 +661,9 @@ La cuota diaria de la pensión a los familiares o dependientes económicos del s
 
 I.- Por fallecimiento del servidor público a causa o consecuencia del servicio: El sueldo último del que disfrutaba al ocurrir el fallecimiento;
 
-II.- Por fallecimiento del servidor público por causas ajenas al servicio; se aplicarán las tablas de la fracción I del artículo 64, disminuyendo la pensión en un 10 por ciento el segundo año y así sucesivamente en los subsecuentes, hasta llegar a la mitad de la pensión original;
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II.- Por fallecimiento del Servidor Público por causas ajenas al servicio; se aplicarán las tablas de la fracción I del Artículo 64.
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -689,7 +695,9 @@ I.- Al desaparecer la inhabilitación del servidor público en los casos a que s
 
 II.- Al día siguiente del fallecimiento de la persona jubilada o de quienes disfruten de pensión como familiares o dependientes económicos del servidor público fallecido;
 
-III.- A partir de la fecha en que contraigan matrimonio o vivan en concubinato la viuda, la concubina, el menor de edad y demás familiares o dependientes económicos del servidor público o del jubilado;
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+III.- A partir de la fecha en que contraigan matrimonio o vivan en concubinato la viuda, el viudo, la concubina, el concubinario, el menor de edad y demás familiares o dependientes económicos del servidor público o del jubilado;
 
 IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico del servidor público o del jubilado cumpla 18 años de edad. Se exceptúan de este límite:
 
@@ -1017,15 +1025,19 @@ Para los efectos de este ordenamiento se considerarán como familiares o dependi
 
 I.- El cónyuge; los hijos menores de dieciocho años; y los hijos que hayan sido declarados, por autoridad judicial, con incapacidad físico o mental.
 
-II.- A falta de cónyuge, la concubina, siempre que el servidor público estuviere libre de matrimonio y le hubiere dado el tratamiento de esposa durante los últimos cinco años. En caso de que existan varias concubinas, ninguna de ellas generará derechos;
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+II.- A falta de cónyuge, la concubina, siempre que el servidor público estuviere libre de matrimonio y le hubiere dado el tratamiento de esposa durante los últimos cinco años. En caso de que existan varias concubinas, ninguna de ellas generará derechos. Asimismo, será considerado, en su caso, el concubinario si reúne los requisitos de la presente fracción.
 
 III.- Los ascendientes directos en primer grado si dependen económicamente del servidor público o del jubilado;
 
 IV.- Si no existen las personas enumeradas en las fracciones anteriores, cualesquiera otros dependientes económicos del servidor público o del jubilado, con las taxativas mencionadas en el artículo siguiente.
 
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 103.
 
-La dependencia económica se justificará con información testimonial ante la autoridad judicial competente y con estudio socio-económico realizado por el Instituto. Para la concubina y las personas no comprendidas como ascendientes directos en primer grado, la dependencia económica debe acreditarse que fue continua y no menor a los cinco últimos años de la fecha en que se ejerzan los derechos.
+La dependencia económica se justificará con información testimonial ante la autoridad judicial competente y con estudio socioeconómico realizado por el Instituto. Para la concubina, el concubinario y las personas no comprendidas como ascendientes directos en primer grado, la dependencia económica debe acreditarse que fue continua y no menor a los cinco últimos años de la fecha en que se ejerzan los derechos.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1432,3 +1444,11 @@ Durante el plazo previo a la entrada en vigor del artículo 74 de este decreto, 
 Tercero. Constitución de garantías
 
 El Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán se coordinará con el Gobierno del estado; las entidades de la Administración Pública estatal, los poderes Legislativo y Judicial y los organismos constitucionales autónomos estatales, que no estén afectos a un régimen distinto de seguridad social, y los ayuntamientos de los municipios que, mediante convenio, se adhieran a los derechos y obligaciones previstos en la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal, para el establecimiento de las garantías amplias y eficientes a que hacen referencia los artículos 11 y 49 de esta ley, en un plazo de noventa días a partir de la entrada en vigor de este decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 307/2020 POR EL QUE SE MODIFICA LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL, EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES, Y PENSIÓN".]
+
+Artículo único. Entrada en vigor.
+
+El presente decreto entrará en vigor 180 días después de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
