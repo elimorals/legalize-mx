@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-de-credito-para-los-70808"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2020-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 4 de noviembre de 2009.
 
@@ -748,3 +750,19 @@ EL DIRECTOR GENERAL DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO 
 ING. OSCAR ARMANDO CANO MONDRAGÓN
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Estatuto entrará en vigor al día hábil siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4753, de fecha 04 de noviembre de 2009 y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Estatuto.
+
+TERCERA. Dentro de un plazo de 120 días hábiles posteriores a la entrada en vigor del presente Estatuto, el Instituto deberá actualizar sus Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+CUARTA. Inscríbase el presente Estatuto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por la Ley Orgánica.
+
+QUINTA. Los casos no previstos en el presente Estatuto se resolverán por el Consejo Directivo, de conformidad con lo dispuesto en la Ley Orgánica, la Ley del Instituto y demás normativa aplicable.
