@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2019-01-23"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1351,9 +1351,15 @@ L. Un listado de los programas de capacitación, el número de servidores públi
 
 LI. Los resultados de las evaluaciones de desempeño de los servidores públicos, de acuerdo con la normatividad aplicable;
 
-LII. El listado de las acciones de inconstitucionalidad y controversias constitucionales de las que sean parte, y las resoluciones que se emitan; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2020)</small>
 
-LIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+LII. El listado de las acciones de inconstitucionalidad y controversias constitucionales de las que sean parte, y las resoluciones que se emitan;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2020)</small>
+
+LIII. La información relativa al objeto, aplicación, erogación, destino, justificación, reglas de operación, de los fondos públicos especiales creados y autorizados por el Congreso del Estado, con cargo a recursos asignados al Ejecutivo del Estado en la Ley de Egresos del Estado correspondiente. La información de dichos fondos ejercidos por el Ejecutivo del Estado deberá presentarse en un micrositio en su portal de Internet, en un plazo no mayor a treinta días naturales; y
+
+LIV. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
 Los sujetos obligados deberán informar a la Comisión y verificar que se publiquen en la Plataforma Nacional de Transparencia, cuáles son los rubros que son aplicables a sus páginas de Internet, con el objeto de que éstos verifiquen y aprueben, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
@@ -2824,3 +2830,9 @@ P.O. 23 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 055. SE REFORMA EL ARTÍCULO 55 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DE LA FRACCIÓN II, RECORRIENDO EL TEXTO ORIGINAL DE LA FRACCIÓN II A LA FRACCIÓN III Y SUBSECUENTEMENTE LAS DEMÁS, ADICIONANDO LA FRACCIÓN VIII; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN V BIS, EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 381. SE REFORMA LA FRACCIÓN LII Y SE ADICIONA LA FRACCIÓN LIII RECORRIÉNDOSE LA ACTUAL LIII PARA SER LA NUEVA FRACCIÓN LIV DEL PÁRRAFO PRIMERO DEL ARTÍCULO 95 DE (SIC) LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
