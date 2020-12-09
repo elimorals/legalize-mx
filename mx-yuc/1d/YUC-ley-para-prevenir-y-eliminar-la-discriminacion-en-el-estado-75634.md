@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2020-06-24"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -337,13 +337,17 @@ IX.- Diseñar, promover y ejecutar programas de recreación y cultura adecuadas 
 
 X.- Promover campañas de información en los medios de comunicación para sensibilizar a la sociedad, a fin de prevenir y eliminar toda forma de discriminación y violencia contra los Adultos Mayores;
 
-> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-XI.- Crear políticas públicas y promover campañas que fomenten el empleo para las personas adultas mayores, y
+XI.- Crear políticas públicas y promover campañas que fomenten el empleo para las personas adultas mayores;
 
-> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-XII.- Promover campañas en las que se sensibilice a la sociedad para no abusar, maltratar o dejar en el abandono a las personas adultas mayores.
+XII.- Promover campañas en las que se sensibilice a la sociedad para no abusar, maltratar o dejar en el abandono a las personas adultas mayores, y
+
+> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Políticas públicas orientadas a que los adultos mayores hagan uso de nuevas tecnologías.
 
 #### Sección Cuarta. De las Medidas Positivas y Compensatorias a favor de las personas con discapacidad
 
@@ -918,3 +922,11 @@ D.O. 24 DE JUNIO DE 2020.
 Artículo único. Entrada en vigor
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 309/2020 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN Y LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
