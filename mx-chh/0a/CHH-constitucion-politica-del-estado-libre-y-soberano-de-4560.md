@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-03-04"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCNT/0512/2019 I P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -65,11 +63,11 @@ DE LOS DERECHOS FUNDAMENTALES.
 
 ### CAPITULO I.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 4o.
 
-En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
+En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución. La mujer y el hombre son iguales ante la Ley.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -5282,3 +5280,15 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFCNT/0707/2020 II P.O., POR MEDIO DEL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
