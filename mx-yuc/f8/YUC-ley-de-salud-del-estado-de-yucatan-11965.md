@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2020-07-22"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -1299,6 +1299,46 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 El Estado, promoverá en coordinación con las autoridades Estatales y Federales competentes, todos aquellos estudios y acciones tendentes a mejorar la dieta de los habitantes de Yucatán, sujetándose a las normas establecidas por la Ley General de Salud y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 104 Bis.
+
+Para la eliminación de formas de mala nutrición en personas menores de 12 años y en fortalecimiento a lo dispuesto en la normatividad en la materia de nutrición y combate a la obesidad, se prohíben las siguientes actividades:
+
+I. La distribución, venta, regalo y suministro de alimentos y bebidas no alcohólicas con exceso de sodio, grasas y azúcares de acuerdo a la norma oficial mexicana correspondiente, en instituciones educativas públicas de nivel preescolar y primaria.
+
+II. La venta o distribución de alimentos o bebidas no alcohólicas con exceso de sodio, grasas y azúcares de acuerdo a lo estipulado en la norma oficial mexicana correspondiente, a través de distribuidores automáticos o máquinas expendedoras instaladas en instituciones educativas públicas y privadas de los niveles preescolar y primaria.
+
+Las infracciones cometidas de acuerdo con lo establecido en el presente artículo serán sancionadas en términos de esta ley.
+
+Quedan exentos de estas prohibiciones la madre, padre o tutor legal, quienes serán responsables de la compra, suministro y consumo de estos productos, por sus hijos o hijas menores de 12 años.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 104 Ter.
+
+Para disminuir los índices de sobrepeso y obesidad, las instituciones educativas públicas de educación básica, deberán implementar actividades físicas de intensidad moderada a vigorosa, con una duración mínima de 60 minutos diarios.
+
+Los niños con alguna discapacidad también deberán seguir estas recomendaciones para evitar el sobrepeso y obesidad, siempre que su condición se los permita y de acuerdo con las indicaciones del tipo y cantidad de actividad física que proponga su proveedor de salud.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 104 Quater.
+
+La Secretaría en coordinación con la Secretaría de Educación del Gobierno del Estado, fomentarán el consumo de agua, así como educación nutricional balanceada, acorde a la edad del educando y adecuada a su contexto social y económico.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 104 Quinquies.
+
+La Secretaría vigilará el cumplimiento de lo establecido en el artículo 104 Bis y se coordinará con la Secretaría de Educación del Gobierno del Estado de Yucatán, a fin de desarrollar los programas correspondientes a lo dispuesto en los artículos 104 Ter y 104 Quáter de esta Ley.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 104 Sexies.
+
+La Secretaría en coordinación con la Secretaría de Educación del Gobierno del Estado, fomentarán comedores escolares en los planteles públicos de educación básica, así como programas de abasto de alimentos y autosuficiencia alimentaria de productos no procesados, a través de productores locales.
+
 ### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 105.
@@ -1339,7 +1379,59 @@ II.- Las que generan con base en un sistema electromecánico adecuado.
 
 El Organismo, en coordinación con las dependencias y Entidades que sean competentes del sector público, con las Autoridades ejidales correspondientes y con la autoridad encargada en el Estado de la administración de distritos de riego, orientará a la población para evitar la contaminación de aguas provenientes de corrientes subterráneas, pluviales y otras que se utilicen para riego o uso doméstico, originadas por plaguicidas, substancias tóxicas, desperdicios o basura.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPÍTULO VI. SALUD BUCAL
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 BIS.- El Ejecutivo Estatal a través de la Secretaría de Salud del Estado de Yucatán, implementará programas permanentes de salud bucal, enfocados en impulsar una cultura del cuidado de la salud bucodental, la prevención de las enfermedades y el tratamiento y rehabilitación de los padecimientos bucodentales.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 TER.- En la implementación de los programas de salud bucodental, la Secretaria de Salud, deberá procurar un trabajo multidisciplinario y la participación de las instituciones y dependencias del gobierno estatal, la academia, así como de los sectores sociales y privados, con la finalidad de propiciar una cultura de prevención y atención de las enfermedades en la población.
+
+Para efectos del cumplimiento del presente Capítulo, el Ejecutivo Estatal a través de la Secretaría de Salud, contará con una Comisión Interinstitucional de Salud Bucal, cuyos objetivos, programas, metas, conformación y reglamentación interna serán determinados por el titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 QUATER.- En los programas a los que refiere el artículo que antecede, se deberán incluir con prioridad, acciones que promuevan una cultura de higiene, cuidado y prevención de las enfermedades bucodentales en las y los niños del estado.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 QUINQUIES.– A las niñas y niños que formen parte de la educación preescolar y primaria del sector público, se les deberá de garantizar al menos dos revisiones odontológicas y profilácticas al año, independientemente del régimen de seguridad social o protección social en salud al que pertenezcan.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 SEXIES.- El Estado promoverá en coordinación con las autoridades Municipales, Estatales y Federales competentes, todos aquellos estudios, investigaciones y acciones propensas a mejorar la salud bucal de los habitantes de Yucatán, sujetándose a lo establecido por la Ley General de Salud y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 SEPTIES.- El Ejecutivo Estatal, deberá incluir en su Proyecto de Presupuesto de Egresos del Estado de Yucatán, un monto suficiente que garantice la operación del programa de salud bucodental contenido en la presente ley, en la prevención de enfermedades, a fin de otorgar al inicio de cada ciclo escolar, un paquete de salud bucodental a todos los alumnos inscritos en escuelas públicas de los niveles preescolar y primaria en el Estado de Yucatán.
+
+Para efectos de la presente ley se considerarán inscritos en las escuelas públicas de nivel preescolar y primaria del Estado de Yucatán a:
+
+I. Las alumnas y alumnos de nivel preescolar y primaria que establece las fracciones I a la III del artículo 43 de la Ley de Educación del Estado de Yucatán ubicadas en el Estado de Yucatán.
+
+II. Las alumnas y alumnos de preescolar inscritos en los Centros de Desarrollo Infantil (CENDIS) y Estancias Infantiles dependientes del Gobierno del Estado de Yucatán.
+
+III. Las alumnas y alumnos de educación especial inscritos en Centros de Atención Múltiple (CAM's), Unidades de Servicios de Apoyo a la Escuela Regular (USAER) y Centros de Recursos, Información e Innovación para la Integración Educativa (CRINE) ubicados dentro del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 OCTIES.- Para efectos de la presente ley, se entenderá por Paquete de Salud Bucodental al conjunto de tres elementos de las siguientes herramientas:
+
+I. Crema/pasta dental de entre 40 y 75 ml contando con los siguientes ingredientes: Flúor 1450 ppm, Carbonato de Calcio.
+
+II. Cepillo de dientes de mango plástico con cerdas hechas de nylon con punta redondeada, para el caso de preescolar tamaño chico y para educación primaria tamaño mediano.
+
+III. Manual didáctico educativo de los buenos hábitos del cepillado dental y cuidados para la salud bucal.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 NONIES.- La Secretaría de Salud del Estado de Yucatán, será la dependencia responsable de operar el proceso de adquisición e integración de los paquetes de salud bucodental, así como de coordinarse con la Secretaria de Educación del Gobierno del Estado de Yucatán, para la distribución de estos paquetes en las escuelas públicas de los niveles preescolar y primaria del estado.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 113 DECIES.- En el ámbito de sus facultades, el Titular de la Secretaría de Salud del Estado de Yucatán elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece esta ley en materia de salud bucodental, así como los mecanismos para la evaluación y fiscalización del programa en los términos que establecen las disposiciones correspondientes.
 
 ###### ARTICULO 111.
 
@@ -1353,21 +1445,23 @@ En la prestación de los Servicios de Salud Ocupacional el Organismo como Autori
 
 El Estado en coordinación con las dependencias y entidades públicas competentes, promoverán, desarrollarán y difundirán investigaciones de carácter multidisciplinario que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2016)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 114.
 
 El Estado y la Secretaría, como autoridades sanitarias en sus respectivos ámbitos de competencia realizarán actividades para la prestación de los servicios de prevención y control de enfermedades transmisibles, no transmisibles y accidentes, de conformidad con lo establecido por la Ley General, esta Ley y demás legislación aplicable.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 115.
 
@@ -1493,7 +1587,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las Autoridades Sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfectación y desinsectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 129.
 
@@ -1517,7 +1611,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir informes que el organismo requiera acerca de las enfermedades no transmisibles, en los términos de los Reglamentos que al efecto se expidan.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 132.
 
@@ -1543,7 +1637,7 @@ Para la mayor eficacia de las acciones a que se refiere este Artículo se crear�
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 134.
 
@@ -1647,7 +1741,7 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 159.
 
@@ -1657,7 +1751,7 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO I
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 161.
 
@@ -1675,9 +1769,7 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO II
-
-DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
+### CAPITULO I
 
 ###### ARTICULO 165.
 
@@ -1693,9 +1785,9 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ## TITULO DECIMO PRIMERO. CONTROL SANITARIO
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO II
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ###### ARTICULO 168.
 
@@ -1713,7 +1805,9 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 172.
 
@@ -1747,9 +1841,7 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
 
 ###### ARTICULO 179.
 
@@ -1773,7 +1865,9 @@ Las normas técnicas que en materia de salubridad dicte el Estado, deberán publ
 
 Para el funcionamiento de los establecimientos enunciados en materia de salubridad local por esta Ley, los interesados deberán obtener la autorización sanitaria del Estado, independientemente de los demás requisitos que para tal efecto establezcan los respectivos reglamentos.
 
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
+### CAPITULO III. DE LAS CONSTRUCCIONES
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 184.
 
@@ -1791,9 +1885,7 @@ El organismo vigilará que los mercados y centrales de abasto de Yucatán cumpla
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centrales de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales o puestos, quedando el ejercicio de sus actividades sujeto a lo que disponga esta Ley, los reglamentos respectivos y las normas técnicas correspondientes.
 
-### CAPITULO V. HIGIENE PUBLICA
-
-> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 187.
 
@@ -1835,7 +1927,9 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades Municipales en los términos de su competencia, podrán ordenar la ejecución de las obras que estime de urgencia, con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. HIGIENE PUBLICA
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 196.
 
@@ -1901,7 +1995,7 @@ La aprobación de las solicitudes de refrigeración, exhumación, cremación o t
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 202.
 
@@ -1943,9 +2037,7 @@ El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 208.
 
@@ -1979,7 +2071,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2021,7 +2113,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en cenotes o corrientes subterráneas ductos, pozos y corrientes o canales por donde fluyen aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados de conformidad con las normas técnicas emitidas y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO X. BAÑOS PUBLICOS
+### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2053,7 +2145,9 @@ Los establecimientos de esta naturaleza que actualmente se localicen en dichos l
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 225 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS PUBLICOS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 228.
 
@@ -2073,11 +2167,7 @@ Los Centros de Readaptación Social deberán de contar ademas de lo previsto por
 
 Las personas encargadas de servicios médicos de los centros de readaptación deberán, a partir de que tengan conocimiento de alguna enfermedad trasmisible, proceder a adoptar las medidas de seguridad sanitaria que proceda, para evitar la propagación, así como informar en un plazo no mayor de veinticuatro horas a la autoridad sanitaria.
 
-### CAPITULO XII
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 231.
 
@@ -2089,7 +2179,11 @@ Para los efectos de esta Ley se entiende por baños públicos el establecimiento
 
 La actividad de estos establecimientos, estará sujeta a lo dispuesto por la reglamentación de esta Ley, otros ordenamientos legales aplicables, las normas técnicas correspondientes que dicte la autoridad sanitaria.
 
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
+### CAPITULO XII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 233.
 
@@ -2107,9 +2201,7 @@ El funcionamiento a que se refiere el artículo inmediato anterior, deberá ceñ
 
 La autoridad sanitaria, una vez terminada la edificación del centro de reunión y antes de abrirse al público, hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
 
 ###### ARTICULO 236.
 
@@ -2127,9 +2219,9 @@ Los procedimientos de embellecimientos del cuerpo humano, son aquellos que se ut
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 236 de esta Ley, deberán apegarse a lo establecido en la misma, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 240.
 
@@ -2145,7 +2237,7 @@ II.- Lavadero público, establecimiento al cual acuden los interesados para real
 
 Corresponde a la autoridad sanitaria ejercer la verificación de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVI. GASOLINERAS
+### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2163,13 +2255,15 @@ En caso de contar con los servicios complementarios como restaurantes, servicios
 
 La Autoridad Sanitaria realizará la verificación que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
 
-### CAPITULO XVII. VENDEDORES AMBULANTES
+### CAPITULO XVI. GASOLINERAS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 245.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al transporte de carga en general o de pasajeros, sea cual fuera su medio de propulsión y que por sus características especiales pueda tener repercusiones en la salud de la población, por lo que su funcionamiento, será objeto de verificaciones periódicas por parte de la Autoridad Sanitaria conforme a las normas técnicas que dicte la misma.
 
-### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XVII. VENDEDORES AMBULANTES
 
 ###### ARTICULO 246.
 
@@ -2179,9 +2273,7 @@ Para los efectos de esta Ley, se entiende por gasolineras, el establecimiento de
 
 Todo establecimiento dedicado al expendio de gasolina o lubricantes, será sometido a una verificación periódica por la autoridad sanitaria con el propósito de constatar que se reúnan las condiciones higiénicas y de seguridad establecidas en el reglamento correspondiente.
 
-### CAPITULO XIX. VENTA DE BEBIDAS ALCOHOLICAS
-
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 248.
 
@@ -2191,9 +2283,9 @@ Para los efectos de esta Ley y sus reglamentos, deben de entenderse como vendedo
 
 Los vendedores ambulantes que expendan productos alimenticios, deberán cumplir con las condiciones higiénicas que establezca la Autoridad Sanitaria, pero en ningún caso lo podrá hacer en zonas consideradas insalubres o de alto riesgo a la salud.
 
-### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
+### CAPITULO XIX. VENTA DE BEBIDAS ALCOHOLICAS
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO I], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 250.
 
@@ -2217,9 +2309,9 @@ La Autoridad Sanitaria, mantendrá campañas permanentes de orientación a la po
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO II. DEL CONTROL SANITARIO
+### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO I], D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 253-A.
 
@@ -2321,7 +2413,7 @@ III.- Los que en forma expresa y para fechas y plazos determinados, decrete el T
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. DE LA VIGILANCIA SANITARIA
+### CAPITULO II. DEL CONTROL SANITARIO
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -2513,7 +2605,9 @@ Los certificados a que se refiere este título se extenderán en los modelos apr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO UNICO.
+### CAPITULO III. DE LA VIGILANCIA SANITARIA
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 275-A.
 
@@ -2623,7 +2717,7 @@ Todo cambio de propietario de un establecimiento, de razón social o denominaci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO.
 
 ###### ARTICULO 275-L.
 
@@ -2741,7 +2835,7 @@ En el caso de los productos recolectados en procedimientos de muestreo o verific
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 276.
 
@@ -2797,9 +2891,7 @@ MEDIDAS DE SEGURIDAD SANITARIA,
 
 SANCIONES, RECURSOS Y PRESCRIPCION
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 288.
 
@@ -2911,7 +3003,9 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las Autoridades Sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 301.
 
@@ -2943,11 +3037,13 @@ III.- Las condiciones socio-económicas del infractor; y
 
 IV.- La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 304.
 
-Se sancionará con multa de una a veinte unidades de medida y actualización la violación a las disposiciones contenidas en los artículos 54, 55, 80, 97, 117, 118, 119, 131, 178, 210, 273, 274 y 275 de esta ley. Las violaciones contenidas en el artículo 95 de esta ley, se sancionarán con multas de una a cien unidades de medida y actualización.
+Se sancionará con multa de una a veinte unidades de medida y actualización la violación a las disposiciones contenidas en los artículos 54, 55, 80, 97, 104 Bis, 117, 118, 119, 131, 178, 210, 273, 274 y 275 de esta ley.
+
+Las violaciones contenidas en el artículo 95 de esta ley, se sancionarán con multas de una a cien unidades de medida y actualización.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -3011,9 +3107,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquier otra de las s
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 313.
 
@@ -3074,6 +3168,10 @@ Tratándose de la suspensión e inhabilitación del ejercicio profesional, corre
 ###### ARTICULO 322.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 323.
 
@@ -3486,3 +3584,25 @@ D.O. 22 DE JULIO DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 308/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE COMBATE A LA OBESIDAD”.]
+
+Vigencia
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Modificaciones reglamentarias
+
+Artículo segundo. El Consejo Estatal de Nutrición y Combate a la Obesidad tendrá un plazo de 180 días hábiles siguientes a la entrada en vigor, para modificar su reglamento interno en los términos del presente decreto.
+
+Derogación tácita
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en este Decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 312/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN Y LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE SALUD BUCODENTAL”.]
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
