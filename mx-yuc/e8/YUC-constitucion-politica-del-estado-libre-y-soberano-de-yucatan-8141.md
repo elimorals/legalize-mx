@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-09-30"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -77,15 +77,15 @@ El Estado a través de un organismo especializado, con la participación de la s
 
 El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, igualdad de condiciones para desempeñar un trabajo, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida. Las autoridades estatales y municipales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-Todas las autoridades y organismos autónomos del Estado de Yucatán, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
+Todas las autoridades y organismos autónomos del estado de Yucatán, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, así como realizar sus funciones de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad, igualdad y deberán actuar con perspectiva de género. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
+Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como el uso de cualquier forma de violencia, la comisión de actos que humillen y ultrajen a las personas, para lo cual se debe impartir una educación basada en una mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, manteniendo un plano de igualdad y de respeto para todos. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -1595,7 +1595,7 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
@@ -1607,7 +1607,7 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ###### Artículo 64.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
+El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con equidad, perspectiva de género y con apego a los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica. El Poder Judicial deberá fomentar una capacitación continua a los juzgadores respecto a todo lo expresado en este artículo.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
@@ -2023,9 +2023,9 @@ Los comisionados durarán en su cargo siete años y deberán cumplir con los req
 
 El comisionado presidente será designado por los propios comisionados, mediante voto secreto, para un período de dos años, con posibilidad de ser reelecto por un período igual. El comisionado presidente estará obligado a rendir un informe anual ante el Congreso del estado, en la fecha y en los términos que disponga la ley.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
-Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos paritariamente por el Congreso del estado para un período de dos años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la paridad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos paritariamente por el Congreso del estado para un período de cuatro años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la paridad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
 Toda autoridad o servidor público estará obligado a coadyuvar con el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y sus integrantes para el buen desempeño de sus funciones. La ley establecerá las medidas de apremio que podrá imponer el organismo para asegurar el cumplimiento de sus decisiones.
 
@@ -2115,7 +2115,7 @@ El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo,
 
 ## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
-> <small>(REFORMADO, D.O. 1 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
@@ -2443,7 +2443,7 @@ Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de 
 
 ###### Artículo 86.
 
-El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma.
+El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma. Asimismo, se institucionaliza la perspectiva de género, como principio rector en la legislación, políticas y en general en el quehacer del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 17 DE MAYO DE 2010)</small>
 
@@ -4804,3 +4804,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Segundo.- Derogación Expresa
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente decreto.
+
+D.O. 9 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 305/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO INSTITUCIONAL".]
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
