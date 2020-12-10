@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2020-06-25"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -415,11 +415,15 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 XVI. Instaurar programas de nutrición, para prevenir y atender la diabetes, la obesidad y el sobrepeso en la población duranguense;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XVII. El diseño, la organización, coordinación y vigilancia del Registro Estatal de Cáncer; y
+XVII. El diseño, la organización, coordinación y vigilancia del Registro Estatal de Cáncer;
 
-XVIII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Diseñar, impulsar y evaluar programas permanentes para la prevención de embarazos en menores de edad; y
+
+XIX. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -500,6 +504,10 @@ f) El titular del Consejo o en su defecto Comisión contra las Adicciones; y
 g) El titular del área de Enseñanza, Capacitación e Investigación en Salud de los Servicios de Salud de Durango.
 
 V. El Diputado presidente de la Comisión de Salud Publica en el Congreso del Estado, con carácter de invitado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VI. Un representante del sector empresarial, que será el Presidente del Consejo Coordinador Empresarial, con carácter de invitado.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
 
@@ -1531,9 +1539,9 @@ V. El establecimiento de mecanismos idóneos para la determinación, elaboració
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas; y
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-VII. Atención médica a la sexualidad específica a la adolescencia sin distingo y discriminación, implementando programas de difusión, promoviendo el acceso a métodos de planificación familiar, asegurando su suministro, considerando que la atención en materia de salud reproductiva y la anticoncepción para los adolescentes debe ser eficiente y no discrecional.
+VII. Atención médica a la sexualidad específica a la adolescencia sin distingo y discriminación, implementando programas de difusión, promoviendo el acceso a métodos de planificación familiar, asegurando su suministro, considerando que la atención en materia de salud reproductiva y la anticoncepción para los adolescentes debe ser eficiente y no discrecional; así como la implementación y evaluación de programas permanentes para la prevención de embarazos en menores de edad.
 
 ###### ARTÍCULO 90.
 
@@ -3293,11 +3301,19 @@ XI. El aseguramiento y destrucción de objetos, productos o substancias;
 
 XII. La prohibición de actos de uso;
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XIII. La prohibición de venta y suministro de medicamentos con fecha de caducidad vencida, atendiendo principalmente el control de los antibióticos; y
+XIII. La prohibición de venta y suministro de medicamentos con fecha de caducidad vencida, atendiendo principalmente el control de los antibióticos;
 
-XIV. Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIV. Los filtros de control sanitario; y
+
+XV. Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+La autoridad podrá establecer los protocolos necesarios para la implementación de cada una de las medidas de seguridad sanitaria, observando que en todos (sic) ellas participe personal médico y de cualquier área requerida debidamente capacitado, en las cuales deberá además garantizarse el respeto a los derechos humanos de las personas y el trato digno a los ciudadanos con particulares circunstancias de vulnerabilidad.
 
 Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
 
@@ -4086,5 +4102,41 @@ P.O. 25 DE JUNIO DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 423 QUE CONTIENE ADICIÓN DE LA FRACCIÓN VI AL ARTÍCULO 14 BIS 2 DE LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 424 QUE CONTIENE ADICIÓN DE LA FRACCIÓN XVIII AL ARTÍCULO 10, RECORRIÉNDOSE LA ANTERIOR DE FORMA SUBSECUENTE PARA PASAR A SER LA XIX Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 89, AMBOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 425 QUE CONTIENE ADICIÓN DE LA FRACCIÓN XIV DEL PRIMER PÁRRAFO DEL ARTÍCULO 265 Y SE RECORRE DE MANERA SUBSECUENTE LA ANTERIOR, PARA OCUPAR LA FRACCIÓN XV; ASÍ COMO UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL ANTIGUO DE FORMA CONSECUTIVA, PARA PASAR A SER TERCER PÁRRAFO DEL REFERIDO ARTÍCULO DE LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
