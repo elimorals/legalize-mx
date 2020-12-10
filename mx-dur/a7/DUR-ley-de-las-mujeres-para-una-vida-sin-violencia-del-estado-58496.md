@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2020-06-25"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -61,27 +61,55 @@ Esta ley es de orden público, interés social y de aplicación obligatoria en e
 
 La presente ley se emite bajo los principios consagrados en los artículos 1 y 4 de la Constitución Política de los Estados Unidos Mexicanos, 4, 5 y 6 de la Constitución Política del Estado Libre y Soberano de Durango, los Tratados Internacionales en materia de protección de los derechos humanos de las mujeres de los que México es parte, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley General de Víctimas, la Ley de Víctimas del Estado de Durango y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-En la aplicación e interpretación de esta Ley, así como en la elaboración y ejecución de las políticas públicas que garanticen a las mujeres una vida libre de violencia, se considerarán los principios constitucionales siguientes:
+En la aplicación e interpretación de esta Ley, así como en la elaboración y ejecución de las políticas públicas que garanticen a las mujeres una vida libre de violencia, se considerarán los principios rectores siguientes:
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 I. Igualdad jurídica entre el hombre y la mujer;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 II. Respeto a la dignidad y derechos de las mujeres;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-III. No discriminación por motivo de género;
+III. La no discriminación;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-IV. Libertad, autonomía y libre determinación de las mujeres en su sentido más amplio; y
+IV. El libre desarrollo de la personalidad;
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-V. Perspectiva de género.
+V. La transversalidad de la perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VI. El interés superior de la (sic) las niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VII. La no revictimización;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VIII. El respeto a la dignidad humana de las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+IX. La libertad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+X. La integración de las mujeres a la vida democrática y productiva del Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XI. La debida diligencia.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -99,65 +127,81 @@ III. Consejo Municipal: Al Consejo Municipal de Prevención, Atención, Sanción
 
 IV. Consejo Estatal: El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-V. Derechos Humanos de las Mujeres: A los derechos que forman parte inalienable, integrante e indivisible de la naturaleza humana, establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los instrumentos internacionales suscritos y ratificados por México y demás ordenamientos vigentes y aplicables en la materia, destinados a proteger los derechos de las mujeres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-VI. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
+V. Debida diligencia: El Estado deberá realizar todas las actuaciones necesarias dentro de un tiempo razonable, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
 
-VII. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
+VI. Derechos Humanos de las Mujeres: A los derechos que forman parte inalienable, integrante e indivisible de la naturaleza humana, establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los instrumentos internacionales suscritos y ratificados por México y demás ordenamientos vigentes y aplicables en la materia, destinados a proteger los derechos de las mujeres;
 
-VIII. Instituto: Al Instituto Estatal de la Mujer;
+VII. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IX. Ley: A la Ley de las Mujeres para una Vida sin Violencia;
+VIII. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
 
-X. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+IX. Instituto: Al Instituto Estatal de la Mujer;
 
-XI. Perspectiva de género: A la visión científica, analítica y política sobre mujeres y hombres, que promueve la igualdad entre ambos, mediante la eliminación de las causas de opresión basada en el género, a través de la equidad, el adelanto y el bienestar de las mujeres, que genera el acceso igual de derechos y oportunidades;
+X. Ley: A la Ley de las Mujeres para una Vida sin Violencia;
 
-XII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XI. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XIII. Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se establece en la Ley General;
+XII. Perspectiva de género: A la visión científica, analítica y política sobre mujeres y hombres, que promueve la igualdad entre ambos, mediante la eliminación de las causas de opresión basada en el género, a través de la equidad, el adelanto y el bienestar de las mujeres, que genera el acceso igual de derechos y oportunidades;
 
-XIV. Programa Municipal: Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se elaborará en cada uno de los Municipios del Estado de Durango;
+XIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XIV. Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se establece en la Ley General;
+
+XV. Programa Municipal: Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se elaborará en cada uno de los Municipios del Estado de Durango;
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
 
-XV. Razón de género: Actitud y/o conducta a través de la cual se manifiesta la discriminación, la subordinación y sometimiento de la mujer por el varón, basada en una relación desigual de poder.
+XVI. Razón de género: Actitud y/o conducta a través de la cual se manifiesta la discriminación, la subordinación y sometimiento de la mujer por el varón, basada en una relación desigual de poder.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
 
-XVI. Relación desigual de poder: Aquella que se configura por prácticas socioculturales históricas basadas en la idea de la inferioridad de las mujeres o la superioridad de los varones, o en conductas estereotipadas de hombres y mujeres, que limitan total o parcialmente el reconocimiento o goce de los derechos de éstas, en cualquier ámbito en que desarrollen sus relaciones interpersonales.
+XVII. Relación desigual de poder: Aquella que se configura por prácticas socioculturales históricas basadas en la idea de la inferioridad de las mujeres o la superioridad de los varones, o en conductas estereotipadas de hombres y mujeres, que limitan total o parcialmente el reconocimiento o goce de los derechos de éstas, en cualquier ámbito en que desarrollen sus relaciones interpersonales.
 
-XVII. Refugios: A los albergues, centros o establecimientos constituidos por organismos públicos, privados o asociaciones civiles del Estado para la atención y protección de las víctimas de la violencia contra las mujeres;
+XVIII. Refugios: A los albergues, centros o establecimientos constituidos por organismos públicos, privados o asociaciones civiles del Estado para la atención y protección de las víctimas de la violencia contra las mujeres;
 
-XVIII. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XIX. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-XIX. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
-
-XX. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
+XX. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-XXI. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
+XXI. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(ADICIONADA [N. DE. E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXII. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-Las mujeres víctimas de violencia, tendrán los siguientes derechos, los que se entenderán de manera enunciativa y no limitativa:
+Las mujeres víctimas de violencia, tendrán los siguientes derechos, los que se entenderán de manera enunciativa, más no limitativa:
 
-I. A que se le hagan saber los derechos que se establecen a su favor y a recibir toda la información de manera clara, precisa y accesible que requiere para orientar sus decisiones;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-II. Protección inmediata y efectiva por parte de las autoridades, para ella y sus hijos;
+I. Saber los derechos que se establecen a su favor y a recibir toda la información de manera clara, precisa y accesible que les permita decidir sobre las opciones de atención;
 
-III. Asesoría jurídica, asistencia médica, psicológica y social especializada, de manera gratuita e inmediata, para la atención de las consecuencias generadas por la violencia contra la mujer;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-IV. Atención y asistencia en un refugio temporal para la víctima y sus hijos, en condiciones dignas y seguras;
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+III. Recibir información veraz y suficiente;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+IV. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en centros de refugio destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en refugios especializados;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 V. Trato digno y respetuoso durante cualquier diligencia, entrevista o actuación que se practique para su atención, velando siempre por el respeto a la privacidad y protección de datos personales;
 
-VI. A ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales, basadas en conceptos de inferioridad o subordinación;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VI. Recibir educación libre de estereotipos de comportamiento y prácticas sociales y culturales, basadas en conceptos de inferioridad o subordinación;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -170,6 +214,30 @@ VIII. A recibir inmediatamente la asistencia de un intérprete en caso de que no
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 IX. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+X. Recibir la asistencia legal gratuita necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XI. Recibir información, atención y acompañamiento médico y psicológico inmediato y de manera gratuita;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIII. La víctima no será obligada a participar en mecanismos de conciliación con su agresor;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIV. La víctima tiene derecho a la reparación del daño; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XV. Los demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -633,13 +701,19 @@ II. Exista un agravio comparado que impida el ejercicio pleno de los derechos hu
 
 III. Los organismos de derechos humanos a nivel nacional o estatal, los organismos de la sociedad civil o los organismos internacionales, así lo soliciten;
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2020)</small>
 
 Artículo 28 bis. Ante la violencia feminicida, el Estado de Durango y sus municipios participarán, junto con el Gobierno Federal, en el resarcimiento del daño, conforme a los parámetros establecidos en los derechos humanos reconocidos internacionalmente y considerar como reparación:
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
 
@@ -651,7 +725,9 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
-En los casos de feminicidio se aplicará lo previsto en el Artículo 137 del Código Penal del Estado Libre y Soberano de Durango.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+En los casos de feminicidio se aplicará lo previsto en el Artículo 147 Bis del Código Penal del Estado Libre y Soberano de Durango.
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1045,13 +1121,17 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ma
 
 XIII. Sensibilizar y capacitar, con enfoque intercultural de educación democrática, sobre el ejercicio de los derechos políticos de las mujeres;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XIV. Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones; promoviendo el combate a conductas que limiten el goce de los derechos de las mujeres, por razón de género y relaciones desiguales de poder; y
+XIV. Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones; promoviendo el combate a conductas que limiten el goce de los derechos de las mujeres, por razón de género y relaciones desiguales de poder;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XV. Definir recomendaciones específicas mediante las cuales las Instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres.
+XV. Definir recomendaciones específicas mediante las cuales las Instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVI. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico.
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1515,7 +1595,7 @@ I. Promover la cultura de la no violencia en el marco del ejercicio de los derec
 
 II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
 
-III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1924,3 +2004,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 426 QUE CONTIENE REFORMAS A LAS FRACCIONES XIV Y XV Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 38 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 427 QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 3, 4 Y 5 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 428 QUE CONTIENE REFORMA AL ARTÍCULO 28 BIS DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
