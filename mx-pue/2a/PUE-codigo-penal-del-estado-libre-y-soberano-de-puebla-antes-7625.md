@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-11-17"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5365,13 +5365,17 @@ XVII.- El agente de una corporación de seguridad pública que en ejercicio de s
 
 XVIII.- El servidor público que teniendo la obligación legal de enterar a las instituciones de seguridad social, estatales o municipales, las cuotas o aportaciones establecidas en la ley, las retenga indebidamente o retrase su pago sin causa justificada, si ya hubiera sido previamente requerido por la Institución de Seguridad Social;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XIX.- El servidor público que omita presentar al Congreso del Estado la Cuenta Pública o el Informe de Avance de Gestión Financiera, a los que alude la Ley especial de la materia, una vez que haya sido requerido legalmente y no la atendiera dentro del plazo que ésta señale, y
+XIX.- La o el servidor público que omita presentar al Congreso del Estado la Cuenta Pública o el Informe de Avance de Gestión Financiera, a los que alude la Ley especial de la materia, una vez que haya sido requerido legalmente y no la atendiera dentro del plazo que ésta señale;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
-XX.- Los titulares de los Órganos de Control de las entidades fiscalizadas que no ejerciten las medidas correctivas, prevenciones o las sanciones que legalmente correspondan con motivo de la fiscalización superior de las cuentas públicas o en su caso, no haya dado seguimiento hasta su total terminación a las observaciones emitidas por el órgano competente del Congreso del Estado.
+XX.- Los titulares de los Órganos de Control de las entidades fiscalizadas que no ejerciten las medidas correctivas, prevenciones o las sanciones que legalmente correspondan con motivo de la fiscalización superior de las cuentas públicas o en su caso, no haya dado seguimiento hasta su total terminación a las observaciones emitidas por el órgano competente del Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXI.- La o el servidor público que indebidamente detenga y sancione u obtenga algún beneficio de las o los transportistas o conductores de vehículos que trasladen productos del campo, agropecuarios, así como los de primera necesidad, sin razón jurídicamente justificada.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -7032,6 +7036,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 343 TER Y ADICIONA EL ARTÍCULO 356 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES XIX, XX Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 419, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
