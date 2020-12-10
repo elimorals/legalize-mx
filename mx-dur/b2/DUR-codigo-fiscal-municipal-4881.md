@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "2017-03-05"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -728,6 +728,10 @@ En los casos a que se refiere la fracción II, la condonación se le concederá 
 Las obligaciones ante el fisco municipal y los créditos a favor de éste por impuestos, derechos, productos o aprovechamientos se extinguen por prescripción en el término de cinco años. En el mismo plazo se extingue por prescripción la obligación del fisco de devolver las cantidades pagadas indebidamente.
 
 La prescripción del crédito principal extingue simultáneamente los recargos, los gastos de ejecución y en su caso, los intereses. La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieran ser legalmente exigidos y será reconocida o declarada por la Tesorería Municipal a petición de cualquier interesado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+Mediante acuerdo de Cabildo se faculta al Presidente y/o al Tesorero Municipal a fin de que celebren convenio con los contribuyentes que así lo deseen, respecto de los beneficios otorgados en el presente artículo.
 
 ###### ARTICULO 65o.
 
@@ -2210,3 +2214,17 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 462 QUE CONTIENE ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 64 DEL CÓDIGO FISCAL MUNICIPAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Durante el mes de diciembre de 2020, se otorga el beneficio fiscal de la prescripción por tres años, para aquellos contribuyentes que soliciten realizar convenio, en relación a los créditos fiscales de impuestos, derechos, productos y aprovechamientos, el pago se podrá realizar en una sola exhibición, o en dos exhibiciones a pagar en un lapso de treinta días a partir de la firma del convenio.
+
+TERCERO. En caso de que los contribuyentes que (sic) incumplan el convenio celebrado con el Presidente y/o al (sic) Tesorero Municipal, se estará a lo dispuesto en el presente Código.
+
+CUARTO. Notifíquese a la brevedad a los Ayuntamientos a fin de que socialicen el contenido del presente decreto en el Municipio correspondiente.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
