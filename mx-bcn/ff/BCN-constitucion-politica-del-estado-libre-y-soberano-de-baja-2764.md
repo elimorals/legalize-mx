@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-10-19"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-(NOTA 2: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 18, 27, 42, 49, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 90, 93, 94, 95, 107 y 109 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECINUEVE DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -570,6 +568,66 @@ El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desar
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2015)</small>
 
 El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VIII.- A ser informados periódicamente, con información veraz y objetiva, por las autoridades del Estado, sobre las actividades que realicen en beneficio de la población, incluyendo de manera enunciativa, pero no limitativa, el acceso a la información a la salud en el caso de emergencias sanitarias.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+IX.- Tener acceso gratuito a internet en las plazas y edificios públicos.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+X.- A tener acceso a una justicia pronta, expedita y eficaz; el Ministerio Público implementará la utilización de medios digitales para facilitar el acceso de la víctima a una denuncia accesible.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XI.- Acceso de programas de apoyo que ofrezca el Estado de acuerdo con el presupuesto aprobado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XII.- En el caso de los Bajacalifornianos, a que se les apoye con un mínimo indispensable para vivir, cuando se decrete por el Ejecutivo Estatal una emergencia sanitaria, de desastre o cualquier otra prevista por la ley.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Al libre acceso al agua y a la protección de la salud.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Al acceso a la cultura, al tiempo libre y al ocio, para lo cual las autoridades tomarán las medidas necesarias para el pleno disfrute de estos.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XV.- A vivir en ciudades seguras y libres de contaminación.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVI.- A los Bajacalifornianos que se les apoye con un mínimo indispensable para vivir de acuerdo con el presupuesto del Estado, cuando sean familias de escasos recursos o caigan en la indigencia.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVII.- A que se les indemnice en los términos de la ley de la materia, cuando las autoridades estatales y municipales no actúen con diligencia y precaución en la realización de obras públicas.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVIII.- Las víctimas de un delito a que se les atienda y a la reparación del daño en los términos de la ley y el presupuesto del Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIX.- A que se aplique el principio de la paridad de género en la integración del gabinete legal y ampliado y en los puestos de la administración pública Estatal y Municipal.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XX.- A que el Estado dicte las medidas necesarias para evitar que se ejerza violencia de género, entre ellas la digital. Cuando las autoridades ministeriales o judiciales no tomen las medidas necesarias para garantizar la integridad de la mujer, serán sancionadas conforme a la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXI.- Recibir un trato igualitario y respetuoso, sin preferencias o discriminación de ningún tipo motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXII.- A que el Estado les proporcione el servicio de defensoría pública gratuita en los términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -5314,3 +5372,9 @@ DÉCIMO. El Pleno del Tribunal dentro de los treinta días naturales contados a 
 DÉCIMO PRIMERO. Todas las referencias que hagan las leyes al Consejo de la Judicatura, se entenderán hechas a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Baja California.
 
 DÉCIMO SEGUNDO. El Congreso del Estado dentro de los sesenta días hábiles posteriores a la entrada en vigor de la presente reforma, realizará las modificaciones de armonización (sic) las leyes correspondientes.
+
+P.O. 10 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 182 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LAS FRACCIONES VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI Y XXII AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
