@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2020-12-08"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1120,6 +1120,10 @@ En los casos de concurso real o ideal los plazos de prescripción se computarán
 ###### ARTICULO 117.
 
 Cuando para ejercitar o continuar el ejercicio de la pretensión punitiva sea necesaria una declaración o una resolución previa de autoridad, la prescripción comenzará a correr hasta que sea satisfecho este requisito.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 117 BIS.- El término de prescripción de los delitos previstos en el Título Octavo, del Libro Segundo, de este Código, cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
 
 ###### ARTICULO 118.
 
@@ -4528,6 +4532,14 @@ Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su 
 P.O. 8 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 143, 144 Y 145 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE ADICIONA UN ARTÍCULO 117 BIS AL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
