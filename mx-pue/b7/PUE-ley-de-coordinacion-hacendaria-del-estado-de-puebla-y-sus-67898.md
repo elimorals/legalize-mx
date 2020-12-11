@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2018-08-31"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -544,6 +544,12 @@ IV.1 Si el Municipio i es extractor de petróleo y gas, de acuerdo a la informac
 IV.2 Si el Municipio i no es extractor de petróleo y gas, de acuerdo a la información oficial disponible del último censo económico realizado por el Instituto Nacional de Estadística y Geografía (INEGI) vigente al inicio del año t.
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 56 Bis.
+
+Se participará a los municipios del Estado, el 100% de la recaudación obtenida del Impuesto Sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en los municipios y sus entidades, en términos del artículo 3-B de la Ley de Coordinación Fiscal y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -1300,3 +1306,11 @@ SEGUNDO. Los recursos de los Fondos de Desarrollo Municipal, de Fiscalización y
 TERCERO. Los Recursos derivados del Impuesto Federal Sobre Tenencia o Uso de Vehículos de ejercicios fiscales anteriores a la entrada en vigor del presente Decreto, que recaude el Gobierno del Estado, formarán parte de la distribución del Fondo de Desarrollo Municipal, que se contempla en el artículo 50 de la presente Ley.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 56 BIS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
