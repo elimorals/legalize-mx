@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-11-24"
+last_updated: "2020-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -211,7 +211,9 @@ III. Áreas: Instancias que cuentan o puedan contar con la información. Tratán
 
 IV. Auditorías Concluidas: Aquellas que han quedado firmes y no pueden ser impugnadas por ninguna vía;
 
-V. Comisionado: Cada uno de los integrantes del Pleno del Instituto de Transparencia;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+V. Persona Comisionada: Cada una de las personas integrantes del Pleno del Instituto de Transparencia;
 
 VI. Comité de Transparencia: Órgano colegiado al que hace referencia el Capítulo II del Título Segundo de la presente Ley;
 
@@ -633,11 +635,15 @@ II. Los subsidios, aportaciones, donaciones, herencias y legados que se hicieren
 
 El Instituto de Transparencia administrará su patrimonio conforme a las disposiciones legales aplicables, tomando en consideración los principios de austeridad, honestidad, legalidad, racionalidad, transparencia y optimización de recursos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-El Instituto de Transparencia a fin de garantizar su integración colegiada y autónoma estará conformado por un número impar de comisionados que serán designados por mayoría calificada del Pleno del Congreso del Estado, de acuerdo con el procedimiento siguiente:
+El Instituto de Transparencia a fin de garantizar su integración colegiada y autónoma estará conformado por un número impar de personas Comisionadas que serán designados, en cumplimento al principio de paridad de género, por mayoría calificada del Pleno del Congreso del Estado, de acuerdo con el procedimiento siguiente:
 
-I. El Congreso del Estado, a través de su Órgano de Gobierno, emitirá durante la tercera semana del mes de octubre de cada año par, una convocatoria en la que establecerá las bases correspondientes para allegarse de propuestas de candidatos a Comisionados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+I. El Congreso del Estado, a través de su Órgano de Gobierno, emitirá durante la tercera semana del mes de octubre de cada año par, una convocatoria en la que establecerá las bases correspondientes para allegarse de propuestas de candidatas y candidatos a personas Comisionadas.
 
 Dicha convocatoria será pública, abierta y deberá difundirse entre la población en general, organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación;
 
@@ -649,21 +655,33 @@ IV. Una vez agotado el plazo fijado en la convocatoria para la presentación de 
 
 V. La referida Comisión Legislativa citará a cada uno de los aspirantes para una comparecencia en la que se evaluarán objetivamente los conocimientos, trayectoria y experiencia que tengan en materia de transparencia, acceso a la información pública y protección de datos personales. Para realizar la evaluación a los candidatos, la Comisión Legislativa podrá solicitar el apoyo de instituciones académicas u organizaciones sociales;
 
-VI. Una vez realizado el procedimiento establecido en la fracción anterior la Comisión Legislativa integrará, en su caso, una terna que será presentada al Pleno del Congreso del Estado para que por mayoría calificada elija al Comisionado;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-VII. Una vez designado, el Comisionado deberá rendir protesta ante el Pleno del Congreso del Estado;
+VI. Una vez realizado el procedimiento establecido en la fracción anterior la Comisión Legislativa integrará, en su caso, una terna que será presentada al Pleno del Congreso del Estado para que por mayoría calificada elija a la persona Comisionada;
 
-VIII. La designación del Comisionado que integrará el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, se publicará en el Periódico Oficial del Estado, y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-IX. Designado el Comisionado, los expedientes de cada uno de los aspirantes, los resultados de las comparecencias, y las razones por las que se eligió a los integrantes de la terna de la que se seleccionó al Comisionado, serán públicos, salvo la información confidencial.
+VII. Una vez designada, la persona Comisionada deberá rendir protesta ante el Pleno del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+VIII. La designación de la persona Comisionada que integrará el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, se publicará en el Periódico Oficial del Estado, y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+IX. Designada la persona Comisionada, los expedientes de cada aspirante, los resultados de las comparecencias, y las razones por las que se eligió a las personas integrantes de la terna de la que se seleccionó a la persona Comisionada, serán públicos, salvo la información confidencial.
 
 En la conformación del Pleno del Instituto de Transparencia se procurará que haya igualdad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 30.
 
-Para ser Comisionado se requiere:
+Para ser persona Comisionada se requiere:
 
-I. Ser ciudadano mexicano, con residencia legal en el Estado de por lo menos dos años anteriores a la designación;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+I. Tener ciudadanía mexicana, con residencia legal en el Estado de por lo menos dos años anteriores a la designación;
 
 II. Tener al menos treinta años cumplidos al día de su designación;
 
@@ -671,57 +689,81 @@ III. Acreditar tener nivel de estudios de licenciatura;
 
 IV. Acreditar conocimientos y experiencia en materia de transparencia, acceso a la información pública y protección de datos personales;
 
-V. No ser ni haber sido dirigente de algún partido o agrupación política, ni ministro de culto religioso, cuando menos cinco años antes del momento de su designación;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-VI. No haber sido servidor público de primero y segundo nivel por lo menos dos años antes del momento de su designación, salvo que se trate de labores vinculadas directamente con la materia objeto de la presente Ley;
+V. No ser ni haber sido dirigente de algún partido o agrupación política, ni ministra o ministro de culto religioso, cuando menos cinco años antes del momento de su designación;
 
-VII. No haber sido condenado por delito doloso, y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-VIII. Opcionalmente, ser propuesto por alguna organización no gubernamental, centro de investigación, colegio, barra y asociación de profesionistas, institución académica o medio de comunicación.
+VI. No haber sido servidora o servidor público de primero y segundo nivel por lo menos dos años antes del momento de su designación, salvo que se trate de labores vinculadas directamente con la materia objeto de la presente Ley;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+VII. No haber sido condenada o condenado por delito doloso, y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+VIII. Opcionalmente, ser propuesta o propuesto por alguna organización no gubernamental, centro de investigación, colegio, barra y asociación de profesionistas, institución académica o medio de comunicación.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 31.
 
-Los Comisionados durarán en su encargo un periodo de seis años sin posibilidad de reelección, y serán nombrados de manera escalonada cada dos años.
+Las personas Comisionadas durarán en su encargo un periodo de seis años sin posibilidad de reelección, y serán nombradas de manera escalonada cada dos años, de acuerdo con el principio de paridad de género.
 
-Los Comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
+Las personas Comisionadas no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 32.
 
-Ante la ausencia definitiva de alguno de los Comisionados, el Congreso del Estado deberá designar a un nuevo Comisionado observando, en lo conducente, el procedimiento previsto en el artículo 29.
+Ante la ausencia definitiva de alguna persona Comisionada, el Congreso del Estado deberá designar a una nueva persona Comisionada observando, en lo conducente, el procedimiento previsto en el artículo 29.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-En caso de que un Comisionado renuncie a su encargo, deberá presentar por escrito su renuncia dirigida al Congreso del Estado, con copia al Pleno del Instituto de Transparencia, estableciendo la fecha específica en que se hace vigente la misma, para que el Congreso del Estado esté en posibilidad de iniciar el procedimiento establecido en esta Ley, para el nombramiento del Comisionado que cubra la vacante.
+En caso de que una persona Comisionada renuncie a su encargo, deberá presentar por escrito su renuncia dirigida al Congreso del Estado, con copia al Pleno del Instituto de Transparencia, estableciendo la fecha específica en que se hace vigente la misma, para que el Congreso del Estado esté en posibilidad de iniciar el procedimiento establecido en esta Ley, para el nombramiento de la persona Comisionada que cubra la vacante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 34.
 
-Los Comisionados pueden solicitar licencia sin goce de sueldo hasta por un periodo de treinta días. La solicitud será resuelta por el Pleno del Instituto de Transparencia, adoptando las medidas necesarias para el buen funcionamiento del Instituto de Transparencia.
+Las personas Comisionadas pueden solicitar licencia sin goce de sueldo hasta por un periodo de treinta días. La solicitud será resuelta por el Pleno del Instituto de Transparencia, adoptando las medidas necesarias para el buen funcionamiento del Instituto de Transparencia.
 
 El Pleno del Instituto de Transparencia establecerá con claridad los motivos por los que se pueden hacer las solicitudes de licencia y desarrollará los procedimientos necesarios para desahogarlas.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 35.
 
-Los Comisionados deberán asistir a las sesiones del Pleno del Instituto de Transparencia, salvo causa justificada en caso de ausencia. Bajo ningún supuesto será posible la suplencia de los Comisionados.
+Las personas Comisionadas deberán asistir a las sesiones del Pleno del Instituto de Transparencia, salvo causa justificada en caso de ausencia. Bajo ningún supuesto será posible la suplencia de las personas Comisionadas.
 
-En caso de que los Comisionados no puedan ejercer su voto por causas debidamente justificadas o estén impedidos para ello, y exista empate en la votación del Pleno del Instituto de Transparencia, el Comisionado Presidente, o, en su defecto, quien presida cuando se encuentre ausente, contará con voto de calidad para decidir estos casos.
+En caso de que las personas Comisionadas no puedan ejercer su voto por causas debidamente justificadas o estén impedidos para ello, y exista empate en la votación del Pleno del Instituto de Transparencia, la persona comisionada titular de la Presidencia, o, en su defecto, quien presida cuando se encuentre ausente, contará con voto de calidad para decidir estos casos.
 
-Al inicio de cada año, el Pleno del Instituto decidirá quién cubrirá las ausencias temporales de cada Comisionado, incluyendo al Presidente.
+Al inicio de cada año, el Pleno del Instituto decidirá quién cubrirá las ausencias temporales de cada persona Comisionada, incluyendo a la persona comisionada titular de la Presidencia.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 36.
 
-Los Comisionados sólo podrán ser removidos de su cargo en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetos de juicio político.
+Las personas Comisionadas sólo podrán ser removidas de su cargo en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetas de juicio político.
 
 ###### ARTÍCULO 37.
 
 El Pleno del Instituto de Transparencia será el máximo órgano de decisión, por lo tanto tendrá las atribuciones suficientes para hacer cumplir la presente Ley.
 
-Podrá sesionar válidamente con la presencia de la mayoría de sus miembros, pudiéndose tomar los acuerdos por mayoría de votos de los asistentes. En caso de empate el Presidente tendrá voto de calidad. Las sesiones y los acuerdos del Pleno del Instituto de Transparencia serán públicos.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+Podrá sesionar válidamente con la presencia de la mayoría de las y los miembros, pudiéndose tomar los acuerdos por mayoría de votos de las y los asistentes. En caso de empate la persona comisionada titular de la Presidencia tendrá voto de calidad. Las sesiones y los acuerdos del Pleno del Instituto de Transparencia serán públicos.
 
 El Pleno del Instituto de Transparencia sesionará por lo menos dos veces al mes.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 38.
 
-El Instituto de Transparencia será presidido por un Comisionado, quien tendrá la representación legal del mismo. El presidente será designado por el Pleno del Instituto de Transparencia y durará en su encargo un periodo de dos años.
+El Instituto de Transparencia será presidido por una persona Comisionada, quien tendrá la representación legal del mismo. La persona comisionada titular de la presidencia será designada por el Pleno del Instituto de Transparencia y durará en su encargo un periodo de dos años; en cada designación se debe respetar el principio de paridad de género, por lo que la Presidencia se alternará entre mujeres y hombres.
 
 ###### ARTÍCULO 39.
 
@@ -757,9 +799,13 @@ XIV. Presentar petición fundada al Instituto Nacional para que conozca de los r
 
 XV. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
 
-XVI. Examinar, discutir y, en su caso, aprobar o modificar los programas que someta a su consideración el Comisionado Presidente;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-XVII. Aprobar el informe anual que presentará el Comisionado Presidente al Honorable Congreso del Estado Libre y Soberano de Puebla;
+XVI. Examinar, discutir y, en su caso, aprobar o modificar los programas que someta a su consideración la persona comisionada titular de la Presidencia;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+XVII. Aprobar el informe anual que presentará la persona comisionada titular de la Presidencia al Honorable Congreso del Estado Libre y Soberano de Puebla;
 
 XVIII. Emitir políticas de transparencia proactiva, en atención a los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la presente Ley.
 
@@ -809,9 +855,11 @@ XXXVIII. Emitir opiniones y recomendaciones a los sujetos obligados sobre temas 
 
 XXXIX. Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 40.
 
-El Comisionado Presidente tendrá las siguientes facultades y obligaciones:
+La persona comisionada titular de la Presidencia tendrá las siguientes facultades y obligaciones:
 
 I. Representar legalmente al Instituto de Transparencia con facultades de apoderado para actos de administración, pleitos y cobranzas;
 
@@ -833,9 +881,11 @@ IX. Ejercer por sí o por medio de la Unidad Administrativa designada en el Regl
 
 X. Las demás que le confiera esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 41.
 
-El Comisionado Presidente deberá entregar anualmente al Honorable Congreso del Estado Libre y Soberano de Puebla, previa aprobación del Pleno del Instituto de Transparencia, un informe que deberá incluir por lo menos:
+La persona comisionada titular de la Presidencia deberá entregar anualmente al Honorable Congreso del Estado Libre y Soberano de Puebla, previa aprobación del Pleno del Instituto de Transparencia, un informe que deberá incluir por lo menos:
 
 I. Estadísticas sobre solicitudes de acceso presentadas ante cada sujeto obligado;
 
@@ -917,11 +967,13 @@ Los acuerdos y actas generados en estas sesiones deberán publicarse en el sitio
 
 El Instituto de Transparencia será integrante del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, por lo que deberá dar cumplimiento a las obligaciones que sobre el tema establece la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-El Comisionado Presidente será el representante del Instituto de Transparencia en el Consejo Nacional.
+La persona comisionada titular de la Presidencia será el representante del Instituto de Transparencia en el Consejo Nacional.
 
-A falta temporal de Comisionado Presidente, el Instituto de Transparencia deberá ser representado en el Consejo Nacional por otro Comisionado que sea designado por el Pleno del Instituto de Transparencia.
+A falta temporal de la persona comisionada titular de la Presidencia, el Instituto de Transparencia deberá ser representado en el Consejo Nacional por otra persona Comisionada que sea designado por el Pleno del Instituto de Transparencia.
 
 ### CAPÍTULO IV. PLATAFORMA NACIONAL DE TRANSPARENCIA
 
@@ -1563,7 +1615,9 @@ VIII. Calendario de las sesiones ordinarias a realizarse por el Pleno, mismas qu
 
 IX. Estadísticas sobre las solicitudes de acceso a la información pública y de acceso, rectificación, cancelación u oposición de datos personales, en las que se identifique el sujeto obligado que las recibió;
 
-X. Listado de los recursos de revisión presentados ante la misma, en el que se incluya: número de identificación del recurso, tanto del sistema electrónico, en su caso, como el asignado por el Instituto de Transparencia, nombre del solicitante, siempre y cuando éste lo autorice, sujeto obligado, extracto de la solicitud, extracto de la inconformidad planteada, nombre del Comisionado ponente, en su caso, y el estado procesal en el que se encuentra;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+X. Listado de los recursos de revisión presentados ante la misma, en el que se incluya: número de identificación del recurso, tanto del sistema electrónico, en su caso, como el asignado por el Instituto de Transparencia, nombre del solicitante, siempre y cuando éste lo autorice, sujeto obligado, extracto de la solicitud, extracto de la inconformidad planteada, nombre de la persona Comisionada ponente, en su caso, y el estado procesal en el que se encuentra;
 
 XI. Lista de notificaciones emitidas, que se deberá difundir a más tardar a las nueve horas del día hábil siguiente en que se pronuncie la resolución;
 
@@ -2393,15 +2447,23 @@ El Instituto de Transparencia resolverá el recurso de revisión en un plazo que
 
 El recurso de revisión se sustanciará de la siguiente manera:
 
-I. Una vez presentado el recurso, el Presidente del Instituto de Transparencia lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento, en los tres días hábiles siguientes a su presentación o posteriores a que concluya el plazo otorgado al recurrente en términos del artículo 173;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-II. Admitido el recurso de revisión, el Comisionado ponente deberá integrar un expediente y ponerlo a disposición de las partes y, en su caso, del tercero interesado, para que manifiesten lo que a su derecho convenga en un plazo máximo de siete días hábiles. Los sujetos obligados deberán anexar las constancias que acrediten el acto reclamado dentro de un informe con justificación;
+I. Una vez presentado el recurso, la persona comisionada titular de la Presidencia del Instituto de Transparencia lo turnará a la persona Comisionada ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento, en los tres días hábiles siguientes a su presentación o posteriores a que concluya el plazo otorgado al recurrente en términos del artículo 173;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+II. Admitido el recurso de revisión, la persona Comisionada ponente deberá integrar un expediente y ponerlo a disposición de las partes y, en su caso, del tercero interesado, para que manifiesten lo que a su derecho convenga en un plazo máximo de siete días hábiles. Los sujetos obligados deberán anexar las constancias que acrediten el acto reclamado dentro de un informe con justificación;
 
 III. Dentro del plazo señalado en la fracción anterior, las partes podrán ofrecer todo tipo de pruebas o alegatos excepto la confesional por parte de los sujetos obligados y aquéllas que sean contrarias a derecho;
 
-IV. El Comisionado ponente podrá determinar la celebración de audiencias con las partes durante la sustanciación del recurso de revisión;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-V. Concluido el plazo señalado en la fracción II del presente artículo, con manifestación o sin ella; o, en su caso, desahogadas las audiencias mencionadas en la fracción IV, el Comisionado ponente procederá a decretar el cierre de instrucción;
+IV. La persona Comisionada ponente podrá determinar la celebración de audiencias con las partes durante la sustanciación del recurso de revisión;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+V. Concluido el plazo señalado en la fracción II del presente artículo, con manifestación o sin ella; o, en su caso, desahogadas las audiencias mencionadas en la fracción IV, la persona Comisionada ponente procederá a decretar el cierre de instrucción;
 
 VI. El Instituto de Transparencia no estará obligada (sic) a atender la información remitida por el sujeto obligado una vez decretado el cierre de instrucción;
 
@@ -2413,11 +2475,13 @@ VIII. El Instituto de Transparencia deberá notificar a las partes y publicar la
 
 El Instituto de Transparencia deberá suplir la deficiencia de la queja a favor del recurrente, sin cambiar los hechos expuestos, asegurándose de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 177.
 
-Cuando resulte indispensable para resolver el recurso de revisión, los Comisionados, en todo momento, deberán tener acceso a la información clasificada para determinar su debida clasificación o la procedencia de otorgar su acceso. El acceso se dará de conformidad con la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
+Cuando resulte indispensable para resolver el recurso de revisión, las personas Comisionadas, en todo momento, deberán tener acceso a la información clasificada para determinar su debida clasificación o la procedencia de otorgar su acceso. El acceso se dará de conformidad con la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
-La información reservada o confidencial que, en su caso, sea consultada por los Comisionados, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no deberá estar disponible en el Expediente, salvo en los casos en los que sobreviniera la desclasificación de dicha información y continuara bajo el resguardo del sujeto obligado en el que originalmente se encontraba o cuando se requiera, por ser violaciones graves a derechos humanos o delitos de lesa humanidad, de conformidad con el derecho nacional y los tratados internacionales de los que el Estado Mexicano sea parte.
+La información reservada o confidencial que, en su caso, sea consultada por las personas Comisionadas, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no deberá estar disponible en el Expediente, salvo en los casos en los que sobreviniera la desclasificación de dicha información y continuara bajo el resguardo del sujeto obligado en el que originalmente se encontraba o cuando se requiera, por ser violaciones graves a derechos humanos o delitos de lesa humanidad, de conformidad con el derecho nacional y los tratados internacionales de los que el Estado Mexicano sea parte.
 
 ###### ARTÍCULO 178.
 
@@ -2431,9 +2495,11 @@ II. Necesidad: La falta de un medio alternativo menos lesivo a la apertura de la
 
 III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del interés público, a fin de que la decisión tomada represente un beneficio mayor al perjuicio que podría causar a la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 179.
 
-Los Comisionados deberán excusarse de intervenir en la discusión y aprobación de los asuntos en los que tenga cualquier tipo de conflicto de intereses, como interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Comisionado o las personas antes referidas formen o hayan formado parte.
+Las personas Comisionadas deberán excusarse de intervenir en la discusión y aprobación de los asuntos en los que tenga cualquier tipo de conflicto de intereses, como interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que la persona Comisionada o las personas antes referidas formen o hayan formado parte.
 
 La excusa se deberá realizar por escrito en el que se exprese la causa por la que se considera que no se debe intervenir en algún caso en concreto y será presentada y resuelta conforme lo que disponga el Reglamento del Instituto de Transparencia.
 
@@ -2774,5 +2840,13 @@ P.O. 24 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 80 Y EL ARTÍCULO 144 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, salvo lo dispuesto en el artículo 80 fracción II, el cual entrará en vigor una vez transcurridos los ciento ochenta días que establece el similar por el que se reforma la fracción II del 73 de (sic) Ley General de Transparencia y Acceso a la Información Pública, publicada el día trece de agosto de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
