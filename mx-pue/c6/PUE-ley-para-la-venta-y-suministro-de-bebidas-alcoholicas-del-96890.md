@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-venta-y-suministro-de-bebidas-alcoholicas-del-96890
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2013-12-09"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de diciembre de 2013.
 
@@ -63,9 +63,11 @@ Las disposiciones de esta Ley son de orden público e interés social y de aplic
 
 La aplicación de esta Ley corresponde a los Ayuntamientos y al Ejecutivo del Estado, de conformidad con la presente Ley y los reglamentos que para tal efecto se expidan.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Para los efectos de la presente Ley, se consideran bebidas alcohólicas, las de consumo con contenido alcohólico en las proporciones permitidas en términos de las disposiciones legales aplicables en la materia.
+Para los efectos de esta Ley, se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción de 2% y hasta 55% en volumen.
 
 ###### Artículo 4.
 
@@ -93,9 +95,11 @@ IV. Los establecimientos donde se puede autorizar en forma eventual y transitori
 
 Las licencias para la venta y el suministro de bebidas alcohólicas tendrán vigencia anual y se refrendarán por el Ayuntamiento, previa presentación de la licencia original del año anterior y la verificación de que se están cumpliendo los requisitos establecidos en esta Ley y el reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-El personal de la Procuraduría General de Justicia del Estado, en el desarrollo de sus facultades de investigación de delitos, podrá solicitar a los establecimientos la exhibición de las licencias o permisos para la venta y suministro de bebidas alcohólicas.
+La Fiscalía General del Estado, en el ejercicio de sus facultades y atribuciones de investigación de delitos, podrá solicitar a los establecimientos la exhibición de las licencias o permisos para la venta y suministro de bebidas alcohólicas.
 
 ### CAPÍTULO SEGUNDO. DE LOS ESTABLECIMIENTOS Y DE LAS LICENCIAS
 
@@ -316,3 +320,13 @@ QUINTO.- El Ejecutivo Estatal contará con un plazo de ciento ochenta días, a p
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de noviembre del año dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputada Secretaria.- ANA MARÍA JIMÉNEZ ORTIZ.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de noviembre de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 3 Y 8 DE LA LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
