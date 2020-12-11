@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-para-el-mejoramiento-de-procuracion-11537
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-04"
-last_updated: "2013-12-30"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACIÓN DE JUSTICIA EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -63,9 +63,11 @@ LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACION DE JUSTICIA EN EL E
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-Se crea el Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla, que dotará de recursos económicos adicionales a la Procuraduría General de Justicia del Estado, para el ejercicio de sus funciones.
+###### ARTICULO 1°.
+
+Se crea el Fondo para el mejoramiento de la Procuración de Justicia en el Estado de Puebla, que dotará de recursos económicos adicionales a la Fiscalía General del Estado, para el ejercicio de sus funciones.
 
 ###### ARTICULO 2º.
 
@@ -75,11 +77,11 @@ El Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Pue
 
 Compete al Consejo Técnico las funciones de administración, organización y supervisión del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 4º.
+###### ARTICULO 4°.
 
-El Consejo Técnico del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla, estará integrado por el Titular de la Procuraduría General de Justicia del Estado quien lo presidirá, el Director General Administrativo de la Procuraduría, el Secretario de Finanzas y Administración; el Fiscal General que designe el Titular de la Procuraduría y un comisario público designado por la Secretaría de la Contraloría del Estado. Las funciones que realicen los integrantes del Fondo serán honoríficas, por lo que no recibirán emolumento alguno por su función.
+El Consejo Técnico del Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla, estará integrado por la persona Titular de la Fiscalía General del Estado quien lo presidirá, la persona Titular de la Oficialía Mayor de la Fiscalía, la persona Titular de la Secretaría de Planeación y Finanzas; y un comisario público designado por la persona Titular de la Secretaría de la Función Pública. Las funciones que realicen las personas integrantes del Fondo serán honoríficas, por lo que no recibirán emolumento alguno por su función.
 
 Cada integrante podrá nombrar un suplente, que contará con las mismas atribuciones que esta ley le confiere a los titulares del Fondo.
 
@@ -121,9 +123,9 @@ a).- Los depósitos que para gozar de su libertad provisional, realicen los indi
 
 b).- El producto de la venta de los bienes asegurados a los indiciados que no sean reclamados, durante el lapso de treinta días, contados a partir de la enajenación de los bienes en subasta pública, de conformidad con los ordenamientos legales aplicables de esta materia; y
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-c).- Los depósitos y recursos de los que la Procuraduría General de Justicia del Estado tenga la custodia y aprovechamiento pero no la propiedad.
+c).- Los depósitos y recursos de los que la Fiscalía General del Estado tenga la custodia y aprovechamiento, pero no la propiedad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -181,11 +183,13 @@ I.- La compra de equipo y materiales necesarios;
 
 II.- La adquisición, mejoramiento y ampliación de instalaciones;
 
-III.- La capacitación y profesionalización del personal de la Procuraduría; y (sic)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2012)</small>
+III.- La capacitación y profesionalización del personal de la Fiscalía General del Estado;
 
-IV.- El otorgamiento de estímulos y recompensas al personal de la Procuraduría; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+IV.- El otorgamiento de estímulos y recompensas al personal de la Fiscalía General del Estado; y
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2012)</small>
 
@@ -224,3 +228,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las cauciones de las indagatorias de las que a la entrada en vigor del presente Decreto, exista determinación firme del no ejercicio de la acción penal y no sean reclamadas dentro de los quince días hábiles siguientes al de su publicación, se aplicarán al Fondo para el Mejoramiento de la Procuración de Justicia en el Estado de Puebla.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 1, EL PRIMER PÁRRAFO DEL 4, LA FRACCIÓN II INCISO C) DEL 5, Y LAS FRACCIONES III Y IV DEL 16 DE LA LEY QUE CREA EL FONDO PARA EL MEJORAMIENTO DE LA PROCURACIÓN DE JUSTICIA EN EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
