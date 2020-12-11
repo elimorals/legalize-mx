@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-y-135658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-30"
-last_updated: "2019-04-30"
+last_updated: "2020-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-04-25"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 2019
 
@@ -41,7 +41,9 @@ La Secretaría de Seguridad y Protección Ciudadana es una dependencia del Poder
 
 Para efectos de este Reglamento, se entenderá por:
 
-I. Órganos Administrativos Desconcentrados: los señalados en el Capítulo VIII del presente Reglamento, en términos del artículo 17 de la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+I. Órganos Administrativos Desconcentrados: los señalados en las fracciones II a VII del apartado C del artículo 3 del presente Reglamento;
 
 II. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
 
@@ -131,7 +133,9 @@ XXXIV. Dirección General de Comunicación Social;
 
 C. Órganos Administrativos Desconcentrados:
 
-I. Policía Federal;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+I. Guardia Nacional;
 
 II. Servicio de Protección Federal;
 
@@ -150,6 +154,10 @@ D. Unidades subalternas, las que figuren en su estructura autorizada, cuya adscr
 Asimismo contará con los directores generales, directores generales adjuntos, directores, subdirectores, jefes de departamento, y demás servidores públicos que se requiera para el ejercicio de sus funciones y que sean autorizados en su presupuesto.
 
 La Secretaría contará con un Órgano Interno de Control, que se regirá conforme a lo dispuesto en el artículo 69 del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+La Guardia Nacional se regirá por la Ley de la Guardia Nacional, su Reglamento y demás disposiciones que de ellos emanen, y por aquellas previstas en cualquier otra ley o reglamento que otorguen competencia a la Secretaría o a alguna de sus unidades administrativas, para la atención de los asuntos de la Guardia Nacional.
 
 ###### Artículo 4.
 
@@ -205,7 +213,9 @@ XIX. Resolver las dudas que se susciten con motivo de la interpretación del Reg
 
 XX. Definir las políticas de seguridad pública en el ámbito federal, así como aquellas relativas a la prevención del delito, en el ámbito de competencia de la Secretaría;
 
-XXI. Proponer al Presidente de la República el nombramiento del Comisionado General de la Policía Federal y del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXI. Proponer al Presidente de la República el nombramiento del Comandante de la Guardia Nacional y del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 XXII. Participar en el Consejo Nacional de Seguridad Pública, y suplir al Presidente del mismo en casos de ausencia;
 
@@ -227,7 +237,9 @@ XXX. Designar al responsable del control, suministro y adecuado manejo de la inf
 
 XXXI. Establecer mecanismos de coordinación respecto de las instituciones a las que alude el artículo 21 constitucional, en el ámbito de su competencia y en términos de la legislación aplicable;
 
-XXXII. Proponer al Presidente de la República el nombramiento del Titular de la Unidad de Asuntos Internos de la Policía Federal;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Proponer al Presidente de la República el nombramiento del Titular de la Unidad de Asuntos Internos de la Guardia Nacional;
 
 XXXIII. Coordinar el acopio y sistematización de la información de inteligencia para la seguridad pública y la seguridad nacional del país, para el conocimiento del Presidente de la República y dirigir las acciones que se implementen en las unidades administrativas y Órganos Administrativos Desconcentrados de la Secretaría en materia de inteligencia;
 
@@ -397,7 +409,9 @@ XVI. Formar parte del grupo de trabajo para la emisión de directrices de tecnol
 
 XVII. Establecer una estrecha vinculación con el Centro Nacional de Inteligencia, para determinar el valor, significado e interpretación de la información sistematizada a favor de los trabajos de inteligencia de la Secretaría;
 
-XVIII. Establecer una coordinación funcional con las divisiones de Investigación, Científica, de Seguridad Regional y de Inteligencia de la Policía Federal;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Establecer una coordinación funcional con las unidades de la Guardia Nacional;
 
 XIX. Establecer una coordinación funcional con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
@@ -1779,15 +1793,21 @@ XXVIII. Informar y acordar con el Secretario, con el superior jerárquico, o con
 
 XXIX. Proponer al Secretario las acciones, políticas y estrategias en materia de cooperación internacional y atender las directrices que éste emita para tal efecto.
 
-#### Sección I. De la Policía Federal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+#### Sección I. De la Guardia Nacional
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 47.
 
-La Policía Federal es un Órgano Administrativo Desconcentrado de la Secretaría.
+La Guardia Nacional es un órgano administrativo desconcentrado de la Secretaría con autonomía técnica, operativa y de gestión para el despacho de sus asuntos.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 48.
 
-La Policía Federal tendrá la organización y las atribuciones que le confieren el artículo 46 del Reglamento, la Ley de la Policía Federal, su propio Reglamento Interno y las demás disposiciones jurídicas aplicables.
+La Guardia Nacional tendrá la organización y las atribuciones que le confieren la Ley de la Guardia Nacional, su Reglamento y demás disposiciones jurídicas aplicables.
 
 #### Sección II. Del Servicio de Protección Federal
 
@@ -2018,3 +2038,13 @@ SÉPTIMO.- Las erogaciones que se generen con motivo de la entrada en vigor del 
 OCTAVO.- Las menciones que en otras disposiciones se hagan al Centro de Investigación y Seguridad Nacional, se entenderán hechas al Centro Nacional de Inteligencia.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Seguridad y Protección Ciudadana, Francisco Alfonso Durazo Montaño.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LA GUARDIA NACIONAL Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
