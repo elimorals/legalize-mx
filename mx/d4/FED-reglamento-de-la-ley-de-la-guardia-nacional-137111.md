@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-guardia-nacional-137111"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-29"
-last_updated: "2019-06-29"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137111&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-06-28"
 
 REGLAMENTO DE LA LEY DE LA GUARDIA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Edición Vespertina al Número 23 del Diario Oficial de la Federación, el sábado 29 de junio de 2019.
 
@@ -40,6 +40,10 @@ REGLAMENTO DE LA LEY DE LA GUARDIA NACIONAL
 El presente Reglamento tiene por objeto establecer la organización, estructura y funcionamiento de la Guardia Nacional, institución de Seguridad Pública, de carácter civil, disciplinada y profesional, adscrita como órgano administrativo desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, así como regular la Carrera de Guardia Nacional, su régimen disciplinario y los estímulos aplicables a su personal.
 
 La Guardia Nacional cuenta con autonomía técnica, operativa y de gestión para el ejercicio de las atribuciones, obligaciones, facultades y el despacho de los asuntos establecidos en la Ley de la Guardia Nacional y este Reglamento, así como los demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+En concordancia con el párrafo anterior, las unidades administrativas de la Secretaría de Seguridad y Protección Ciudadana sólo podrán intervenir en los asuntos a cargo de las unidades de la Institución, cuando exista disposición expresa por ley o reglamento que faculte su intervención.
 
 ###### Artículo 2.
 
@@ -101,9 +105,11 @@ Las insignias, medallas, divisas, gafetes y escudos de la Institución, se espec
 
 La utilización indebida de los uniformes, condecoraciones, grados jerárquicos, insignias, divisas, gafetes, escudos y siglas de la Guardia Nacional por quien no tenga facultades ni autorización para ello será castigado de conformidad con el Código Penal Federal.
 
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-La Institución planeará, conducirá, coordinará y supervisará el desarrollo de sus actividades con base en los objetivos, estrategias y prioridades de la Estrategia Nacional de Seguridad Pública, el Plan Nacional de Desarrollo, los programas que deriven de éstos, en lo establecido en el Reglamento y en las disposiciones que emita el Secretario.
+La Institución planeará, conducirá, coordinará y supervisará el desarrollo de sus actividades con base en los objetivos, estrategias y prioridades de la Estrategia Nacional de Seguridad Pública, el Plan Nacional de Desarrollo, los programas que deriven de estos, en lo establecido en este Reglamento y en las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
@@ -313,7 +319,9 @@ La Unidad de Asuntos Internos, cuyo titular será nombrado por el Presidente, co
 
 Los servicios técnicos y administrativos a que se refiere el artículo 21, fracción VII de la Ley, estarán comprendidos dentro de las funciones de la Comandancia, de las Coordinaciones Territoriales, Estatales y de Batallón y de los organismos que por su naturaleza los requieran.
 
-El Secretario expedirá los manuales de Organización, de procedimientos y de servicio al público de la Institución, que sean necesarios para la conformación de la estructura y funciones que deberá desarrollar ésta, así como las demás normas y disposiciones administrativas que sean necesarias para su buen funcionamiento.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+Se expedirán los manuales de organización, de procedimientos y de servicio al público de la Institución, que sean necesarios para la conformación de la estructura y funciones que deberá desarrollar esta, así como las demás normas y disposiciones administrativas que sean necesarias para su buen funcionamiento.
 
 Asimismo, la Institución contará con los directores de área, subdirectores de área, jefes de departamento y demás personal que se requiera para el desarrollo de sus funciones, de conformidad con el presupuesto autorizado.
 
@@ -335,7 +343,9 @@ III. Ordenar y supervisar las acciones y operaciones para la prevención de los 
 
 IV. Establecer acciones y esquemas de coordinación y colaboración con las entidades federativas y municipios, que permitan llevar a cabo los despliegues operativos que contribuyan a los fines de la Institución conforme a lo establecido en el artículo 6, fracción IV de la Ley;
 
-V. Proponer al Secretario, cuando así lo soliciten las entidades federativas y municipios la celebración de convenios de colaboración con la Institución, para la atención de las tareas de seguridad pública de competencia local;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+V. Proponer, a solicitud de las entidades federativas y municipios, la celebración de convenios de colaboración con la Institución, para la atención de las tareas de seguridad pública de competencia local. Dichos convenios podrán ser suscritos por el Comandante previa delegación de facultades;
 
 VI. Implementar las acciones para la efectiva coordinación y cumplimiento de las responsabilidades de la Institución, cuando así proceda conforme a lo establecido en el artículo 90 de la Ley;
 
@@ -345,9 +355,13 @@ VIII. Determinar los mecanismos de cooperación con las Instituciones de Segurid
 
 IX. Instrumentar las acciones que permita la elaboración e instauración de la doctrina institucional;
 
-X. Proponer al Secretario los lineamientos, bajo los cuales la Institución proporcionará los informes, datos o cooperación técnica y operativa que sean requeridos por alguna instancia de la Federación, de las entidades federativas y de los municipios, así como de autoridades de otros países conforme a los procedimientos que resulten necesarios para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
-XI. Proponer al Secretario los lineamientos para la planeación, obtención, procesamiento y aprovechamiento de la información que genere la Institución en materia de seguridad pública a fin de establecer los sistemas de información de la Institución;
+X. Establecer los lineamientos bajo los cuales la Institución proporcionará los informes, datos o cooperación técnica y operativa que sean requeridos por alguna instancia de la Federación, de las entidades federativas y de los municipios, así como de autoridades de otros países, conforme a los procedimientos que resulten necesarios para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XI. Establecer los lineamientos para la planeación, obtención, procesamiento y aprovechamiento de la información que genere la Institución en materia de seguridad pública, a fin de establecer los sistemas de información de la Institución;
 
 XII. Solicitar a la autoridad judicial correspondiente, por escrito y a través de cualquier medio, incluido los electrónicos o digitales, conforme a las disposiciones jurídicas aplicables, la autorización para requerir a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como la georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de los fines de prevención de los delitos;
 
@@ -357,7 +371,9 @@ XIV. Presenciar, ante la autoridad judicial competente la destrucción de la inf
 
 XV. Autorizar, operaciones encubiertas y de usuarios simulados para la prevención de los delitos;
 
-XVI. Proponer al Secretario, la política operativa, normativa y funcional, así como los programas que deben seguir las unidades administrativas de la Institución;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XVI. Definir la política operativa, normativa y funcional, así como los programas, que deban seguir las unidades administrativas de la Institución;
 
 XVII. Proporcionar la información requerida por las autoridades competentes de la Secretaría;
 
@@ -371,17 +387,27 @@ XXI. Instruir, en el ámbito de su competencia, tareas de verificación para la 
 
 XXII. Ordenar la práctica de diligencias necesarias para los fines de la Institución, así como aquéllas que le sean requeridas por las instancias competentes de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Proponer al Secretario las políticas de control y los dispositivos de vigilancia en la imposición de las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Aprobar las políticas de control y los dispositivos de vigilancia en la imposición de sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en caminos y puentes federales, así como las relativas a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando los vehículos de que se trate circulen en la zona terrestre de las vías generales de comunicación;
 
 XXIV. Resolver, previa consulta con el Secretario, las controversias internas que se susciten sobre la competencia de las unidades administrativas de la Institución, con motivo de la interpretación o aplicación del Reglamento y sobre las situaciones no previstas en el mismo;
 
-XXV. Proponer al Secretario la ubicación de la sede oficial de la Institución, de las coordinaciones, de las instalaciones en los lugares establecidos en la fracción II del artículo 9 de la Ley, puertos, fronteras y aeropuertos, de los puntos fijos de verificación e inspección, de su circunscripción territorial, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
-XXVI. Autorizar, previo acuerdo con el Secretario, sistemas y procedimientos de control y evaluación de las unidades que conforman la Institución;
+XXV. Proponer la ubicación de la sede oficial de la Institución, de las coordinaciones, de las instalaciones en los lugares establecidos en la fracción II del artículo 9 de la Ley, incluidos puertos, fronteras y aeropuertos, y la de los puntos fijos de verificación e inspección, así como la circunscripción territorial respectiva, de conformidad con las disposiciones jurídicas aplicables;
 
-XXVII. Proponer al Secretario, las estructuras orgánicas, funcional y de mando, que permitan a la Institución cumplir con sus fines;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Proponer al Secretario los programas a cargo de la Institución;
+XXVI. Autorizar los sistemas y procedimientos de control y evaluación de las unidades que conforman la Institución;
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Definir las estructuras orgánicas, funcional y de mando, que permitan a la Institución cumplir con sus fines;
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXVIII. Establecer los programas a cargo de la Institución;
 
 XXIX. Vigilar que se dé cumplimiento a las disposiciones de Carrera de la Guardia Nacional;
 
@@ -389,11 +415,15 @@ XXX. Suscribir y expedir las constancias de grado a los Integrantes de Carrera, 
 
 XXXI. Expedir los Manuales de la Institución que sean de su competencia;
 
-XXXII. Proponer al Secretario los manuales, protocolos y procedimientos de las funciones operativas de la Institución;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Establecer los protocolos y procedimientos de las funciones operativas de la Institución;
 
 XXXIII. Aplicar el Programa de Profesionalización del personal de la Institución, con el fin de fortalecer las propuestas académicas para el desarrollo de los integrantes;
 
-XXXIV. Proponer al Secretario las modificaciones de la estructura de la Institución, que se requieran para el mejor desempeño de las atribuciones de la Institución;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+XXXIV. Proponer las modificaciones de la estructura de la Institución, que se requieran para el mejor desempeño de sus atribuciones;
 
 XXXV. Autorizar los sistemas de información que proyecten la imagen pública institucional y se requieran para apoyar las tareas y actividades de la Institución, en términos de las disposiciones jurídicas aplicables;
 
@@ -411,11 +441,21 @@ XLI. Autorizar los cambios de adscripción de los integrantes, de acuerdo a las 
 
 XLII. Las demás que le confieran el Reglamento y otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Secretario.
 
-Son indelegables las atribuciones señaladas en las fracciones V, VIII, X, XI, XII, XIII, XV, XVI, XXVI, XXVII, XXVIII, XXX, XXXI, XXXII, XXXIV, XXXVII, XXXIX y XL del presente artículo.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+Son indelegables las atribuciones señaladas en las fracciones V, VIII, X, XI, XII, XIII, XV, XVI, XXIII, XXV, XXVI, XXVII, XXVIII, XXX, XXXI, XXXII, XXXIV, XXXVII, XXXIX y XL del presente artículo.
 
 Para efectos del ejercicio de las atribuciones conferidas en la fracción XXVI del artículo 9 y 100 de la Ley, el Comandante integrará un cuaderno de investigación, del cual se derivará la solicitud que formulará a la autoridad judicial correspondiente, y para el cumplimiento de la orden respectiva, podrá apoyarse en las unidades administrativas de la Institución de conformidad con las disposiciones establecidas en el Reglamento. La información contenida en el cuaderno de investigación será de carácter reservado.
 
 El Comandante contará con unidades de apoyo necesarias, incluidas una Ayudantía y un Enlace Jurídico, para el desarrollo de sus funciones, mismas que se organizarán y funcionarán de acuerdo con las disposiciones administrativas que emita el propio Comandante.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+Cuando el Comandante emita manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Institución, bastará con que lo haya acordado con el Secretario, para dar cumplimiento con lo previsto en la fracción VII del artículo 15 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
+
+El Secretario podrá delegar en el Comandante cualquiera de las facultades previstas en el artículo 13 de la Ley, mediante acuerdo que deberá ser publicado en el Diario Oficial de la Federación, salvo aquellas que por disposición expresa de ley sean indelegables.
 
 ### Capítulo III. De la Jefatura General de Coordinación Policial
 
@@ -3824,3 +3864,13 @@ NOVENO. Las atribuciones que el presente Reglamento otorga a las Unidades Admini
 DÉCIMO. En un plazo de quince días naturales contados a partir de la fecha de la publicación del presente Reglamento, el Comandante de la Guardia Nacional, los miembros del Consejo de Carrera que estén activos y la Coordinación Operativa Interinstitucional, emitirán por única ocasión los lineamientos para determinar el otorgamiento de los grados al personal con fundamento en la Ley y para efectos del Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de junio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Seguridad y Protección Ciudadana, Alfonso Durazo Montaño.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LA GUARDIA NACIONAL Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
