@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2019-08-23"
+last_updated: "2020-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -1360,6 +1360,12 @@ VI.- De las cuestiones que afecten en sus derechos de personas a los niños o ni
 ###### ARTICULO 36.
 
 Los jueces mixtos de primera instancia conocerán de las causas civiles, mercantiles, penales, de lo familiar y de adolescentes con las facultades y atribuciones que establecen los artículos 33, 33 BIS, 34 y 35 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 36 BIS.- Los Jueces de Primera Instancia Especializados en Violencia Familiar, tendrán competencia mixta, ya que conocerán de las materias familiar y penal, con las facultades y atribuciones que establece el artículo 290 bis de esta Ley.
+
+Los órganos jurisdiccionales especializados en violencia familiar, se regularán conforme a lo dispuesto por el Título Décimo Cuarto de esta Ley.
 
 ###### ARTICULO 37.
 
@@ -4103,6 +4109,10 @@ b) Jueces o tribunales de juicio oral; y
 
 c) Jueces de ejecución penal.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+d) Jueces Especializados en Violencia Familiar
+
 II.- Tribunales Distritales.
 
 III.- Salas del Tribunal Superior de Justicia.
@@ -4178,6 +4188,66 @@ XI.- Recibir la prueba anticipada;
 XII.- Conocer de la acción penal que ejerzan los particulares; y
 
 XIII.- Las demás que les confiera la ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 290 BIS.- Los Jueces Especializados en Violencia Familiar tienen las siguientes atribuciones:
+
+Por lo que hace a la materia familiar:
+
+I. Conocer y resolver hasta su conclusión, del procedimiento especial de violencia familiar regulado en el capítulo sexto, sección sexta del Código de Procedimientos Familiares para Estado de Coahuila de Zaragoza, que presenten mujeres reclamando derechos propios o los de sus hijas e hijos menores de edad.
+
+II. Dictar las medidas preparatorias, cautelares y provisionales reguladas en los Códigos de Procedimientos Familiares y Procesal Civil, ambos vigentes en el Estado de Coahuila de Zaragoza, siempre que sean solicitadas por mujeres en casos de violencia familiar, ya sea que se trate de proteger derechos propios o los de sus hijos e hijas.
+
+III. Emitir las órdenes de protección en caso de violencia familiar reguladas en la Ley para la Familia del Estado de Coahuila de Zaragoza, que sean solicitadas por mujeres, ya sea que se trate de proteger derechos propios o los de sus hijos e hijas.
+
+IV. Emitir las órdenes de protección reguladas tanto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza que sean procedentes en la materia familiar y que sean solicitadas por mujeres, ya sea que se trate de proteger derechos propios o los de sus hijos e hijas, así como cumplir con las obligaciones establecidas en las secciones primera y cuarta, del capítulo IX y capítulo X, de la ley local referida.
+
+V. Emitir, en el ámbito de su competencia, las demás medidas para proteger los derechos de las mujeres víctimas de violencia aplicables en materia familiar, ya sea que los reclamen por su propio derecho o en representación de sus hijos e hijas, establecidas en el marco legal, constitucional y convencional de protección de los derechos humanos de las mujeres, niñas y niños, así como en la jurisprudencia nacional e internacional en la materia.
+
+Actos de violencia los precisados en las fracciones I a la V de este numeral, que sean cometidos en el ámbito familiar, es decir, siempre y cuando se hubiesen cometido contra la mujer con quien el agresor tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, compañera o ex compañera civil, pareja estable coexistente o ex pareja estable coexistente, respecto a quien tenga o haya tenido relación de pareja o de hecho, respecto de la que este o haya estado en sociedad en convivencia o en pacto civil de solidaridad, así como también de sus hijos o hijas de la mujer, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquiera otra mujer, en su caso sus hijos, que estén sujetos a la custodia, guarda, protección, educación o cuidado del sujeto activo.
+
+Por lo que hace a la materia penal:
+
+VII (SIC). Conocer de las etapas de investigación (inicial y complementaria) e intermedia del procedimiento penal del sistema acusatorio y oral regulado en el Código Nacional de Procedimientos Penales, respecto de los delitos contenidos en el Código Penal del Estado de Coahuila de Zaragoza siguientes:
+
+a) Delitos contra la vida, contenidos en el Libro Segundo, Parte Especial, título primero, capítulos primero, segundo, tercero, cuarto, sexto y séptimo;
+
+b) Delitos contra la integridad corporal, contenidos en el Título Segundo, capítulo primero;
+
+c) Delitos de peligro para la vida o la salud personal, que se comprenden en el Título Tercero, capítulos primero y segundo;
+
+d) Delitos contra la libertad y el derecho a vivir en familia sin intromisiones ilícitas, establecidos en el Título Cuarto, capítulos primero, segundo y tercero;
+
+e) Delitos contra la libertad y seguridad sexuales y el desarrollo de la personalidad, que se comprenden en los capítulos primero, segundo, tercero, cuarto, quinto y sexto;
+
+f) Delitos contra la libertad y seguridad en el desarrollo psicosexual de personas menores de edad, que se comprenden en los capítulos quinto y sexto;
+
+g) Delitos contra el desarrollo de la personalidad de menores de edad, contenidos en el Título Sexto, capítulo primero;
+
+h) Delitos contra una familia libre de violencia y contra la subsistencia familiar, que se contienen en el Título Noveno, capítulos primero y segundo;
+
+i) Delitos contra la filiación y el matrimonio, comprendidos en el Título Undécimo, capítulos primero y segundo;
+
+j) Delitos contra la paz y la identidad personales y contra la inviolabilidad del domicilio, comprendidos en el Título Duodécimo, capítulos primero, segundo y tercero;
+
+k) Delitos contra la privacidad e intimidad personales, que se encuentran en el Título Décimo Tercero; capítulos primero, segundo y tercero;
+
+l) Delitos contra el patrimonio, que se prevén en el Título Décimo Quinto, capítulos primero, segundo, tercero, sexto y séptimo.
+
+Delitos los descritos en los incisos de la a) a la l) que sean cometidos en el ámbito familiar, es decir, siempre y cuando se hubiesen cometido contra la mujer con quien el agresor tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, compañera o ex compañera civil, pareja estable coexistente o ex pareja estable coexistente, respecto a quien tenga o haya tenido relación de pareja o de hecho, respecto de la que este o haya estado en sociedad en convivencia o en pacto civil de solidaridad, así como también de sus hijos o hijas de la mujer, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquiera otra mujer, en su caso sus hijos, que estén sujetos a la custodia, guarda, protección, educación o cuidado del sujeto activo.
+
+VIII. De los procedimientos penales correspondientes a la justicia para adolescentes que se tramiten con motivo de estos delitos y en los que la o las víctimas sean las personas referidas en el párrafo que antecede, atendiendo a la legislación aplicable.
+
+IX. Dictar las medidas cautelares, así como ratificar, modificar o cancelar las medidas de protección ordenadas por el Ministerio Público, de conformidad con el Código Nacional de Procedimientos Penales, siempre y cuando en el procedimiento penal de que se trate figuren como víctimas las personas referidas en la fracción VII último párrafo de este artículo y se juzguen los delitos señalados en el mismo.
+
+X. Emitir, en el ámbito de su competencia, las demás medidas para proteger los derechos de las mujeres víctimas de violencia establecidas en el marco legal, constitucional y convencional de protección de los derechos humanos de las mujeres, así como en la jurisprudencia nacional e internacional en la materia, de conformidad con el Código Nacional de Procedimientos Penales y demás legislación aplicable, siempre y cuando en el procedimiento penal de que se trate figuren como víctimas las personas referidas en la fracción VII último párrafo de este artículo y se juzguen los delitos señalados en el mismo.
+
+XI. Conocerá la etapa intermedia hasta que resuelva el auto de apertura a juicio oral para después remitirlo al Tribunal de Enjuiciamiento que conocerá la etapa de juicio, siempre y cuando en el procedimiento penal de que se trate figuren como víctimas las personas referidas en la fracción VII último párrafo de este artículo y se juzguen los delitos señalados en el mismo.
+
+XII. Atenderá y resolverá en ambas etapas las salidas alternas o la forma de terminación anticipada de conformidad con el Código Nacional de Procedimientos Penales.
+
+XIII. Sobreseerá las causas a su cargo cuando se actualicen cualquiera de las hipótesis contenidas en el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -4273,7 +4343,9 @@ En el proceso penal de carácter acusatorio, las Salas serán colegiadas para co
 
 El recurso de casación deberá ser conocido por magistrados que no hubieren intervenido en el mismo asunto en apelación; y del recurso de revisión deberán conocerlo magistrados que no hubieren intervenido en el mismo asunto en casación.
 
-El Tribunal Distrital resolverá los recursos de apelación contra resoluciones dictadas por los jueces de control adscritos a su circunscripción territorial, en aquellos casos que no corresponda conocer a las Salas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2020)</small>
+
+El Tribunal Distrital resolverá los recursos de apelación contra resoluciones dictadas por los jueces de control y por los jueces especializados en violencia familiar adscritos a su circunscripción territorial, en aquellos casos que no corresponda conocer a las Salas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -4876,3 +4948,11 @@ P.O. 23 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 333.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN VI, RECORRIENDO EL ACTUAL A LA FRACCIÓN VII, QUE SE CREA, DEL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 833.- SE ADICIONA EL ARTÍCULO 36 BIS, EL INCISO D) A LA FRACCIÓN I DEL ARTÍCULO 286, EL ARTÍCULO 290 BIS, Y SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
