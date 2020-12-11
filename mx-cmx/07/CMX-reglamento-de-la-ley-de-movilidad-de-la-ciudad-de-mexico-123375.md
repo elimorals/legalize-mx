@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2019-04-26"
+last_updated: "2020-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,17 +22,17 @@ issue_date: "2017-09-15"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE ABRIL DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 26 DE ABRIL DE 2019]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
 MIGUEL ÁNGEL MANCERA ESPINOSA, Jefe de Gobierno de la Ciudad de México, con fundamento en los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México; 8º, fracción II, 67, fracciones II y XXXI y 90 del Estatuto de Gobierno del Distrito Federal; 2º, 5º, párrafo primero, 6º, párrafo primero, 7º, párrafo primero, 12, párrafo primero, 14 y 15 de la Ley Orgánica de la Administración Pública del Distrito Federal; 10, 11, fracciones I, II, y VIII, y Transitorio Quinto, de la la (sic) Ley de Movilidad del Distrito Federal; he tenido a bien expedir el siguiente:
 
-DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
+DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. GENERALIDADES DE LA MOVILIDAD
 
@@ -67,6 +67,10 @@ IX. Estación: Es el espacio físico autorizado por la Secretaría para realizar
 X. Espacio Público: Las vías públicas y las áreas destinadas para la recreación, tales como: plazas, calles, avenidas, viaductos, paseos, jardines, bosques urbanos, parques públicos y demás de naturaleza análoga;
 
 XI. Fondo Público: Al Fondo Público de Movilidad y Seguridad Vial;
+
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
+XI Bis. Licencia para conducir: documento físico o digital emitido por la Secretaría en favor de una persona física y que la autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en la Ley y demás ordenamientos jurídicos y administrativos;
 
 XII. Lugar de Encierro: La instalación o inmueble destinado al estacionamiento, pernocta y mantenimiento de los vehículos que proporcionan los servicios de transporte de pasajeros y carga;
 
@@ -1926,43 +1930,73 @@ La Licencia Tipo E tendrá una vigencia de dos y tres años y autoriza también 
 
 Para la expedición de las Licencias tipo “C”, “D” y “E” (en cualquiera de los supuestos previstos de los incisos b) al l), se requiere acreditar o contar con Licencia Tipo A emitida por la Secretaría, con cuando menos cinco años de antigüedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 127.
 
-Para la expedición de la licencia para conducir Tipo A, el interesado deberá acudir a los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos y mecanismos que emita la Secretaría. Adicionalmente el interesado deberá haber acreditado las evaluaciones y, en su caso, los cursos que para tal efecto establezca la propia Secretaría.
+Para la expedición de la licencia para conducir Tipo A, la persona interesada deberá acudir a los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos y mecanismos que emita la Secretaría. Adicionalmente la persona interesada deberá haber acreditado las evaluaciones y, en su caso, los cursos que para tal efecto establezca la propia Secretaría.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE ABRIL DE 2019)</small>
-
-En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, así como adjuntar en formato digital los siguientes documentos los cuales no deben tener alteraciones, tachaduras y enmendaduras:
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, así como acompañar en original y copia, los siguientes documentos los cuales no deben tener alteraciones, tachaduras y enmendaduras:
 
 I. Comprobante de pago de los derechos correspondientes;
 
-II. Identificación oficial en la cual conste su identidad y mayoría de edad; y
+II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
+III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
 
-III. Comprobante de domicilio de la Ciudad de México. En el caso de extranjeros, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente.
+IV. Clave Única del Registro de Población (CURP); y
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 24 DE ABRIL DE 2019)</small>
+V. Acreditación de evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 230 de la Ley de Movilidad de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2019)</small>
+En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
+
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 127 Bis.
 
-Para la renovación y reposición de la licencia para conducir Tipo A, el interesado podrá realizar el trámite de forma digital mediante la plataforma electrónica o acudir a los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos y mecanismos que emita la Secretaría. Adicionalmente el interesado deberá haber acreditado las evaluaciones y, en su caso, los cursos que para tal efecto establezca la propia Secretaría.
+La persona titular de la Licencia para Conducir Tipo A podrá solicitar su reposición en caso de mutilación, deterioro de la imagen, datos ilegibles, robo o extravío; misma que se tramitará únicamente por el tiempo que falte para la expiración del documento.
 
-Para el caso de que el trámite se realice de forma digital en la plataforma electrónica el interesado deberá llenar los campos donde se precise nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, así como adjuntar en formato digital los siguientes documentos los cuales no deben tener alteraciones, tachaduras o enmendaduras:
+Para la reposición de las licencias de conducir Tipo A, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría.
 
-I. Comprobante de pago de derechos;
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, además de acompañar la misma con los siguientes documentos en original y copia:
 
-II. identificación oficial en el cual conste su identidad y mayoría de edad; y,
+I. Comprobante de pago de los derechos correspondientes;
 
-III. Comprobante de domicilio de la Ciudad de México. En el caso de extranjeros, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente
+II. Identificación oficial con fotografía en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
 
-En caso de que el trámite de renovación de la Licencia tipo A se lleve a cabo de manera digital, el solicitante tendrá la posibilidad de recibir su documento a través de la contratación que realice de un servicio de mensajería público o privado de las opciones que autorice la Secretaría establecidos en la propia plataforma electrónica y que designe el solicitante, o en su caso, podrá acudir al módulo que elija.
+III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente; y
 
-Si el interesado decide realizar el trámite en los módulos autorizados por la Secretaría, deberá llenar la solicitud donde señalará en forma precisa nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones y deberá acompañar en original y copia los documentos descritos en las fracciones I, II y III del artículo anterior.
+IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable
+
+La reposición a que se refiere el presente artículo se tramitará conforme a la información registrada en la base de datos de la Secretaría. Para el caso de que la información registrada en dicha base de datos no se encuentre actualizada, la reposición deberá tramitarse de manera presencial en los módulos autorizados por la Secretaría, llenar la solicitud correspondiente, así como acompañarla de los documentos establecidos en las fracciones anteriores en original y copia.
+
+En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca.
+
+En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad para obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
+
+> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 127 Ter.
+
+Para la renovación de la licencia para conducir Tipo A, la persona interesada podrá realizar el trámite en los módulos autorizados por la Secretaría, para lo cual deberá llenar la solicitud correspondiente, cumpliendo con los requisitos, formatos, lineamientos y mecanismos que emita la Secretaría. La renovación a que se refiere el presente artículo podrá realizarse un mes antes de concluir la vigencia y en cualquier momento posterior a la conclusión de la misma.
+
+En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de México para oír y recibir notificaciones, además de acompañar la misma con los siguientes documentos en original y copia:
+
+I. Comprobante de pago de los derechos correspondientes;
+
+II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
+
+III. Comprobante de domicilio de la Ciudad de México. En el caso de personas extranjeras, además deberán acreditar su legal estancia en el país, mediante la presentación del documento migratorio expedido por la autoridad competente;
+
+IV. Clave Única del Registro de Población (CURP) o Registro Federal de Contribuyentes (RFC), según lo establecido en la Licencia de Conducir Tipo A aplicable; y
+
+V. Acreditación de las evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 65 de la Ley de Movilidad de la Ciudad de México.
+
+Adicionalmente la persona interesada deberá haber acreditado las evaluaciones y, en su caso, los cursos requeridos en el artículo 230 de la Ley de Movilidad de la Ciudad de México y que para tal efecto establezca la propia Secretaría.
+
+En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá realizar el trámite de forma digital mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá llenar la solicitud digital, cumpliendo los requisitos, formatos y mecanismos que la propia Secretaría establezca.
+
+En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad, de obtener una reposición de licencia para conducir digital. La Secretaría podrá expedir un documento físico a su favor, en caso de que la persona interesada así lo requiera mediante los procesos que determine la Secretaría.
 
 ###### Artículo 128.
 
@@ -1982,7 +2016,9 @@ c) Cartilla del Servicio Militar Nacional;
 
 d) Cédula Profesional;
 
-d (sic)) Licencia Tipo A.
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+
+e) Licencia Tipo A.
 
 III. Comprobante de domicilio del solicitante, cuya expedición no sea mayor a tres meses:
 
@@ -3367,3 +3403,15 @@ SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o
 SÉPTIMO.- La entrega de la información a la que se refiere el numeral segundo del artículo 59 del presente Reglamento se realizará conforme a los medios y el procedimiento que determine la Secretaría de Movilidad.
 
 OCTAVO.- La Secretaría de Movilidad, la Secretaría de Administración y Finanzas y la Secretaría de Seguridad Ciudadana, se coordinarán en el ámbito de sus respectivas atribuciones para cumplir con el presente Reglamento.
+
+G.O. 11 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN, ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL RESPECTO A LA EXPEDICIÓN, RENOVACIÓN Y REPOSICIÓN DE LA LICENCIA PARA CONDUCIR DIGITAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La implementación, expedición y renovación de la licencia digital para conducir Tipo A, se regirá de conformidad con los lineamientos correspondientes que emita la Secretaría de Movilidad de la Ciudad de México.
+
+CUARTO. Se instruye a la Dirección General de Licencias y Operación del Transporte Vehicular de la Secretaría de Movilidad a que, en términos del artículo 41 de la Ley de Mejora Regulatoria para la Ciudad de México, realice la modificación correspondiente en el Catálogo de Regulaciones, Trámites y Servicios de la Ciudad de México.
