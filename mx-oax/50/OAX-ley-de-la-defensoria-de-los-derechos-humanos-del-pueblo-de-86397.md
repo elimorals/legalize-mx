@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2020-10-17"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -195,13 +195,21 @@ XXVIII. Dirigirse a la opinión pública, directamente o por intermedio de cualq
 
 XXIX. Expedir su Reglamento Interno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XXX. Designar observadores que cubran las marchas, manifestaciones o acciones de organizaciones sociales, civiles o cualquiera que sea su denominación, que guarden similitud, con el objeto de constatar que en el desarrollo de las mismas, no se violen los derechos humanos tutelados en la legislación, y;
+XXX. Designar observadores que cubran las marchas, manifestaciones o acciones de organizaciones sociales, civiles o cualquiera que sea su denominación, que guarden similitud con el objeto de constatar que en el desarrollo de las mismas, no se violen los derechos humanos tutelados en la legislación;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XXXI. Realizar la función de órgano garante en los procesos de consulta previa, libre e informada de los pueblos y comunidades indígenas y afromexicanas, de conformidad con la Ley de la Materia.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Solicitar la implementación del proceso de consulta previa, libre e informada, en los casos en los que la instancia o instancias responsables de emitir la medida administrativa o legislativa, no la inicien de oficio; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXXI. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
+XXXIII. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
 
 ###### Artículo 14.
 
@@ -1114,5 +1122,13 @@ P.O. 17 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1691.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 24; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, III, IV Y V DEL ARTÍCULO 29; Y SE ADICIONAN LAS FRACCIONES VI, VII, VIII, IX Y X AL ARTÍCULO 29; Y SE DEROGA EL CAPÍTULO XVIII DEL TÍTULO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 42 Y 43, DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de la misma o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1637.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXX; Y SE ADICIONAN LAS FRACCIONES XXXI Y XXXII, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 13 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones de la misma o menor jerarquía que se opongan al presente Decreto.
