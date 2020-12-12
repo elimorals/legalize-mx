@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-12-09"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -841,9 +841,9 @@ Para ser electo diputado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y chihuahuense, en ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-II.- Tener veintiún años cumplidos al día de la elección.
+II. Tener dieciocho años cumplidos al día de la elección.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1839,9 +1839,9 @@ Para poder ser electo Gobernador Constitucional del Estado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, chihuahuense, en pleno goce de sus derechos, nativo del Estado o con residencia efectiva en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-II.- Tener, cuando menos, treinta años cumplidos y menos de setenta al día de la elección.
+II.- Tener, cuando menos, treinta años cumplidos al día de la elección.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2671,9 +2671,9 @@ Para poder ser electo miembro de un ayuntamiento o junta municipal o comisario d
 
 I.- Ser ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-II.- Tener veintiún años cumplidos al día de la elección; excepto para presidente municipal, en cuyo caso la edad mínima será de veinticinco años cumplidos al día de la elección.
+II.- Tener dieciocho años cumplidos al día de la elección.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
@@ -2713,11 +2713,11 @@ II.- Ser vecino del Estado, y
 
 III.- Tener cuando menos dos meses de residencia habitual inmediatamente anteriores a la fecha de la elección en la municipalidad, sección municipal o comisaría de policía de que se trate.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 130.
 
-Los ayuntamientos se instalarán el día diez de septiembre de los años correspondientes a su renovación, y las juntas municipales y los comisarios de policía antes del treinta y uno de enero del año siguiente.
+Los ayuntamientos se instalarán el día diez de septiembre de los años correspondientes a su renovación, y las juntas municipales y las comisarías de policía el día quince de diciembre de dichos años.
 
 ###### Art. 131.
 
@@ -5292,3 +5292,51 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCNT/0261/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 130 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFCNT/0730/2020 VIII PE., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 127, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFCNT/0731/2020 VIII P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 41, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCNT/0733/2020 VIII P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 84, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
