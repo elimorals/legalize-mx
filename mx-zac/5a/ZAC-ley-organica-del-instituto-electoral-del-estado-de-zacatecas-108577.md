@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-10
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-06"
-last_updated: "2017-06-07"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 6 junio de 2015.
 
@@ -166,6 +168,10 @@ VIII. Garantizar la transparencia y el acceso a la información pública del Ins
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 IX. Difundir la cultura democrática con perspectiva de género, enfoque de igualdad sustantiva y paridad entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+X. Garantizar la integración paritaria de la Legislatura del Estado y de los Ayuntamientos;
 
 2. Todas las actividades de los órganos del Instituto se regirán por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad, previstos en la Constitución Local.
 
@@ -667,7 +673,9 @@ XXVIII. Aprobar, con base en los acuerdos y lineamientos emitidos por el Institu
 
 XXIX. Efectuar preliminarmente el cómputo estatal de la elección de Gobernador del Estado e integrar el expediente que deba remitirse al Tribunal de Justicia Electoral para la calificación final de la elección;
 
-XXX. Efectuar los cómputos estatales de las elecciones de Diputados y regidores por el principio de representación proporcional. Declarar su validez, asignar Diputados y regidores por este principio, así como expedir las constancias de asignación correspondientes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XXX. Efectuar los cómputos estatales de las elecciones de Diputados y regidores por el principio de representación proporcional. Ddeclarar (sic) su validez y asignar diputaciones y regidurías por el principio de representación proporcional conforme a las fases del procedimiento de asignación y mecanismos para la integración paritaria de género previstos en la Ley Electoral.
 
 XXXI. Remitir al Tribunal de Justicia Electoral los recursos que presenten los partidos políticos, coaliciones y candidatos, así como acompañar la documentación relacionada con el acto o resolución que se impugne, en los términos señalados en la Ley de Medios;
 
@@ -789,9 +797,25 @@ LXXXVI. Remover con el voto de las dos terceras partes de sus integrantes, al Se
 
 LXXXVII. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros y la calidad de jóvenes, en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, el enfoque de igualdad sustantiva y la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
 
-LXXXVIII. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-LXXXIX. Las demás que le confiera la Constitución Federal, la Constitución Local, la Ley General de Instituciones, la Ley Electoral, esta Ley y demás legislación aplicable.
+LXXXVIII. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+LXXXIX. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XC. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XCI. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XCII. Las demás que le confiera la Constitución Federal, la Constitución Local, la Ley General de Instituciones, la Ley Electoral, esta Ley y demás legislación aplicable.
 
 Presidente del Consejo General. Atribuciones
 
@@ -935,9 +959,17 @@ c) El día de la jornada electoral, con el objeto exclusivo de dar seguimiento y
 
 d) El miércoles siguiente al día de la jornada electoral, con el objeto exclusivo de dar seguimiento y atención a los cómputos en los Consejos Distritales y Municipales Electorales;
 
-e) A partir del domingo siguiente al día de la jornada electoral, para llevar a cabo los cómputos estatales, la calificación de las elecciones, las asignaciones por el principio de representación proporcional y la expedición de las constancias de asignación de representación proporcional; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-f) Cuando tenga verificativo el recuento de votos total o parcial de las elecciones, en los consejos distritales o municipales.
+e) A partir del domingo siguiente al día de la jornada electoral, para llevar a cabo los cómputos estatales, la calificación de las elecciones, las asignaciones por el principio de representación proporcional y la expedición de las constancias de asignación de representación proporcional;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+f) Cuando tenga verificativo el recuento de votos total o parcial de las elecciones, en los consejos distritales o municipales; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+g) Cuando se lleven a cabo las asignaciones de diputaciones y regidurías por el principio de representación proporcional y la expedición de las constancias de asignación respectivas.
 
 2. El Consejo General podrá declarar las sesiones con carácter de permanentes y durante su desarrollo decretar todos los recesos que estime pertinentes.
 
@@ -1239,9 +1271,9 @@ XI. Presentar ante el Consejo General un informe especial sobre la situación ge
 
 XII. Proponer al Consejo General, la celebración de convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos de las mujeres;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XIII. Presentar al Consejo General mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, así como los mecanismos para prevenir, atender y sancionar la violencia política en contra de las mujeres al interior del Instituto;
+XIII. Presentar al Consejo General mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, así como los mecanismos para prevenir, atender y sancionar la violencia política en contra de las mujeres en razón de género al interior del Instituto:
 
 XIV. Conformar el observatorio electoral con perspectiva de género para dar seguimiento a las precandidatas y candidatas durante los procesos electorales;
 
@@ -1623,11 +1655,15 @@ IX. Apoyar a la Dirección de Organización Electoral y Partidos Políticos en e
 
 X. Preparar los requerimientos para los partidos políticos o candidatos independientes para la subsanación de errores u omisiones en el cumplimiento de los requisitos legales para el otorgamiento de registro de candidaturas;
 
-XI. Actuar como secretario técnico de la Comisión de Asuntos Jurídicos;
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+XI. Elaborar la propuesta de asignación de diputaciones y regidurías de representación proporcional conforme al procedimiento de asignación previsto en la Ley Electoral;
 
-XIII. Las demás que le confiera la Ley y el reglamento.
+XII. Actuar como secretario técnico de la Comisión de Asuntos Jurídicos;
+
+XIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+
+XIV. Las demás que le confiera la Ley y el reglamento.
 
 Dirección Ejecutiva de Sistemas Informáticos.
 
@@ -1685,9 +1721,9 @@ VII. Elaborar un informe especial sobre la situación general que guarda el impu
 
 VIII. Elaborar en coordinación con la Dirección Ejecutiva de Asuntos Jurídicos, los convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos entre las mujeres;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-IX. Elaborar y proponer los mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos, para su aprobación por el Consejo General, así como los lineamientos para prevenir y evitar la violencia política en contra de las mujeres;
+IX. Elaborar y proponer los mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos, para su aprobación por el Consejo General, así como los lineamientos para prevenir y evitar la violencia política en contra de las mujeres en razón de género;
 
 X. Orientar a la ciudadanía en materia del ejercicio de los derechos políticos de las mujeres;
 
@@ -2540,3 +2576,25 @@ P.O. 7 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 416.- SE REFORMA LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas y sus disposiciones serán aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Articulo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
