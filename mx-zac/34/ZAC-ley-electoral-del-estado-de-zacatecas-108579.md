@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2017-06-07"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -61,7 +63,9 @@ ARTÍCULO 1
 
 2. Esta Ley tiene por objetivo reglamentar las normas constitucionales relativas a:
 
-I. Los derechos y obligaciones político-electorales de los ciudadanos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+I. Los derechos y obligaciones político-electorales de las ciudadanas y los ciudadanos;
 
 II. La organización, función, obligaciones, derechos y prerrogativas de los partidos políticos estatales de conformidad con la Ley General de Partidos Políticos;
 
@@ -175,7 +179,7 @@ n) Casilla: La instalación que se emplea el día de las elecciones para la rece
 
 o) Coaliciones: La alianza o unión temporal y transitoria que sostienen dos o más partidos políticos, que tienen como propósito alcanzar fines comunes de carácter electoral y postular candidatos a puestos de elección popular;
 
-p) Cociente natural: Es el resultado de dividir la votación emitida correspondiente entre el número de cargos que por el principio de representación se vayan a asignar, en cada caso;
+p) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
 q) Cómputo de Elección: Es el procedimiento mediante el cual el Consejo General o los consejos distritales o municipales, determinan la suma de los resultados anotados en las actas de escrutinio y cómputo de las casillas, y la votación obtenida en cada uno de los municipios o distritos electorales del estado según corresponda;
 
@@ -201,6 +205,14 @@ aa) Material Electoral: El conjunto de elementos aprobados por el Consejo Genera
 
 bb) Mayoría Relativa: La obtenida por el candidato a un puesto de elección popular, que alcanza el mayor número de votos en relación a sus opositores;
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+bb)-1 Mecanismos para la integración paritaria de género: Fases implementadas para garantizar el acceso igualitario de mujeres y hombres durante la asignación de diputaciones o regidurías por el principio de representación proporcional, una vez concluidas las fórmulas aritméticas de asignación correspondientes;
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+bb) Bis. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
 cc) Partidos Políticos: Entidades de interés público, dotadas de personalidad jurídica propia, con registro legal ante el Instituto Nacional o ante el Instituto, que tienen como fin promover la participación del pueblo en la vida democrática y contribuir en la integración de los órganos de representación política y como organizaciones de ciudadanos hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios e ideas, postulados por aquéllos;
 
 dd) Prerrogativas de los Partidos Políticos: Los derechos y recursos financieros que la Ley otorga a estas entidades para el ejercicio de sus funciones;
@@ -213,21 +225,23 @@ gg) Representantes Partidistas: Los dirigentes de los partidos políticos y los 
 
 hh) Residencia Binacional: Es la condición que asume una persona para poseer simultáneamente domicilio propio en el extranjero; y al mismo tiempo, domicilio y vecindad en el territorio del estado, manteniendo en él, casa, familia e intereses;
 
-ii) Resto Mayor: Es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hechas las asignaciones correspondientes mediante el cociente natural. El resto mayor se utilizará cuando aún hubiere diputaciones o regidurías por distribuir;
+ii) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-jj) Violencia Política contra las mujeres. Cualquier acción u omisión realizada por una o varias personas o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico o sexual, en contra de una o varias mujeres o su familia, para restringir, suspender o impedir el ejercicio de su derecho a la participación política en los procesos electorales que tengan como fin la inducción a la toma de decisiones en contra de su voluntad;
+jj) Violencia Política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-kk) Votación estatal emitida: Es el resultado de restar a la votación total emitida los votos de los partidos que no alcanzaron el 3% de la votación, los votos de los partidos que no postularon candidatos a Diputados por el principio de mayoría relativa en por lo menos 13 distritos uninominales y en la totalidad de la circunscripción plurinominal, los votos nulos y los votos emitidos para los candidatos independientes;
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-ll) Votación total emitida: La suma de todos los votos depositados en las urnas;
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-mm) Votación válida emitida: Es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados;
+kk) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+ll) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
-nn) Votación municipal emitida: El resultado de restar a la votación total emitida, los votos de los partidos y candidatos independientes que no alcanzaron el 3% de esta votación y los votos nulos; y
+mm) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
+
+nn) (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
 oo) Voto Nulo: Voto emitido marcando más de un círculo o cuadro que contenga el emblema de un partido político, sin mediar coalición o que se emitió por un candidato no registrado, o se haya depositado en blanco.
 
@@ -249,13 +263,19 @@ ARTÍCULO 7
 
 2. Los ciudadanos con residencia en el extranjero, tienen derecho de votar en la elección de Gobernador.
 
-3. Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la Constitución Federal, la Constitución Local, esta Ley y demás legislación electoral, y solicitar su registro de manera independiente, cuando cumpla los requisitos, condiciones y términos que determine esta Ley.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+3. Es derecho de las ciudadanas y los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la Constitución Federal, la Constitución Local, esta Ley y demás legislación electoral, y solicitar su registro de manera independiente, cuando cumpla los requisitos, condiciones y términos que determine esta Ley.
 
 4. Es derecho de los ciudadanos y obligación para los partidos políticos y candidatos independientes garantizar la igualdad de oportunidades y la paridad entre los géneros para tener acceso a cargos de elección popular.
 
 5. Del total de candidaturas, el 20% tendrá calidad de joven.
 
 6. La falta de cumplimiento de estas disposiciones, dará lugar a la negativa del registro de candidaturas, pudiéndose subsanar esta omisión dentro del término señalado para ese efecto.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+7. Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 Características del voto
 
@@ -313,11 +333,15 @@ III. Poseer la credencial para votar con fotografía vigente y exhibirla ante la
 
 ### CAPÍTULO PRIMERO. DE LOS REQUISITOS DE ELEGIBILIDAD PARA LA ELECCIÓN E INTEGRACIÓN DEL PODER LEGISLATIVO
 
-Requisitos para ser Diputado
+> <small>(REFORMADO SU EPIGRAFE, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Requisitos para ser Diputada o Diputado
 
 ARTÍCULO 12
 
-1. Para ser diputado se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Para ser diputada o diputado se requiere:
 
 I. Ser ciudadano zacatecano en pleno ejercicio de sus derechos, con residencia efectiva o binacional en el Estado por un período no menor a seis meses inmediato anterior del día de la elección. Este requisito no deja de cumplirse cuando la residencia se hubiere interrumpido con motivo del desempeño de un cargo de elección popular o de carácter federal;
 
@@ -342,6 +366,10 @@ X. No desempeñar cargo público con función de autoridad alguna de la federaci
 XI. No ser Consejero Presidente o consejero electoral del Consejo General del Instituto, a menos que haya concluido su encargo o se hubiere separado del mismo, dos años antes de la fecha de inicio del proceso electoral correspondiente; y
 
 XII. No ser Magistrado Presidente o Magistrado del Tribunal de Justicia Electoral, a menos que haya concluido su encargo o se haya separado del mismo por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XIII. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
 
 2. Para ejercer el derecho de presentarse a una elección consecutiva por el principio de mayoría relativa y de representación proporcional, los Diputados deberán separarse del cargo noventa días antes del día de la elección.
 
@@ -407,6 +435,10 @@ XI. No ser Consejero Presidente o Consejero Electoral del Consejo General del In
 
 XII. No ser Magistrado Presidente o Magistrado del Tribunal de Justicia Electoral, a menos que haya concluido su encargo o se haya separado del mismo por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XIII. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+
 2. Para ejercer el derecho de presentarse a una elección consecutiva por el principio de mayoría relativa y de representación proporcional, los integrantes del Ayuntamiento deberán separarse del cargo noventa días antes del día de la elección.
 
 3. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos que integran el Ayuntamiento, cualquiera que sea la denominación que se les dé, podrán ser electas para el periodo inmediato, considerándose ésta como elección consecutiva.
@@ -420,6 +452,10 @@ ARTÍCULO 15
 1. Ninguna persona podrá ser registrada como candidato a dos o más cargos en el mismo proceso electoral. Los órganos electorales competentes denegarán o cancelarán el registro que se solicite o se hubiere practicado en contravención a este precepto. Salvo los casos de excepción expresamente señalados en esta Ley.
 
 2. La disposición contenida en el numeral anterior no es aplicable al registro de candidatos a diputados o regidores por el principio de mayoría relativa, que también podrán ser registrados al respectivo cargo, como candidatos por el principio de representación proporcional por el mismo partido, en los términos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+3. Las personas integrantes de las planillas de mayoría relativa postuladas en candidaturas independientes podrán registrarse en la elección de regidurías por el principio de representación proporcional, dentro de los plazos establecidos en esta Ley.
 
 ## TÍTULO CUARTO. DE LA ELECCIÓN E INTEGRACIÓN DE LOS PODERES LEGISLATIVO, EJECUTIVO Y DE LOS AYUNTAMIENTOS DEL ESTADO
 
@@ -435,7 +471,9 @@ Integración de la Legislatura
 
 ARTÍCULO 17
 
-1. Los miembros de la Legislatura del Estado serán 18 diputados de mayoría relativa, electos en distritos uninominales, y 12 diputados de representación proporcional electos en una sola circunscripción electoral, de estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales. En ambos casos, por cada diputado propietario se elegirá a un suplente, mediante fórmulas integradas por personas del mismo género.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Los miembros de la Legislatura del Estado serán 18 diputados de mayoría relativa, electos en distritos uninominales, y 12 diputados de representación proporcional electos en una sola circunscripción electoral, de estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales. En ambos casos, por cada diputado propietario se elegirá a un suplente, mediante fórmulas integradas por personas del mismo género y encabezadas alternadamente entre mujeres y hombres cada periodo electivo.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
 
@@ -535,99 +573,145 @@ ARTÍCULO 24
 
 2. Las diputaciones que deberán asignarse a los partidos políticos serán 12. Cada partido político podrá solicitar se registre una lista de candidatos propietarios y suplentes, cuyos integrantes podrán ser los mismos que le hayan registrado en las fórmulas por el principio de mayoría relativa. La lista deberá estar integrada de manera paritaria y alternada entre los géneros. Del total de candidaturas, el 20% tendrá calidad de joven. Las fórmulas de propietarios y suplentes serán de un mismo género.
 
-3. La asignación de las diputaciones será en el orden de prelación que tuviesen los candidatos en la lista estatal registrada por cada partido político, con excepción de los dos que tengan la calidad de migrantes o binacionales, hasta completar el número a que tengan derecho de conformidad con las reglas que la Constitución Local y esta Ley establecen.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-4. Las listas de candidatos a diputados por el principio de representación proporcional que registre cada partido político, deberán integrar una fórmula de candidato propietario y suplente con carácter de migrante.
+3. La asignación de las diputaciones será en el orden de prelación que tuviesen los candidatos en la lista estatal registrada por cada partido político, con excepción de los dos que tengan la calidad de migrantes o binacionales y la aplicación de los mecanismos para la integración paritaria de género de la Legislatura, hasta completar el número a que tengan derecho de conformidad con las reglas que la Constitución Local y esta Ley establecen, sin menoscabo del principio de progresividad.
 
-5. El lugar que ocupe esta fórmula de candidatos con carácter migrante, deberá ser la última de la lista que por ese concepto obtenga cada partido político y a la que tengan derecho de conformidad con las reglas que esta Ley establece.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-6. La asignación de diputados con carácter migrante corresponderá a los dos partidos políticos que logren en su favor, respectivamente, los mayores porcentajes de votación estatal emitida. En caso de que un partido político obtenga por el principio de mayoría relativa el triunfo en los 18 distritos electorales uninominales, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minorías.
+4. Las listas de candidaturas a diputaciones por el principio de representación proporcional que registre cada partido político deberán integrar dos fórmulas con carácter de migrante o binacional, de distinto género, en el penúltimo y último lugar de su lista plurinominal.
+
+5. (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+6. La asignación de diputaciones con carácter migrante corresponderá a los dos partidos políticos con el mayor porcentaje de votación estatal emitida, respectivamente, y serán otorgadas conforme al género de la última fórmula de asignación. En caso de que un partido político obtenga por el principio de mayoría relativa el triunfo en los 18 distritos electorales uninominales, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minorías.
 
 7. Las disposiciones relativas al género de los candidatos, el registro de los candidatos que ostenten el carácter de migrante o joven, se aplicarán sin perjuicio de los mayores avances que en esta materia señalen la normatividad interna y los procedimientos de cada partido político.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
 Asignación de diputados por el principio de representación proporcional
 
 ARTÍCULO 25
 
-1. Para la asignación de los doce diputados electos por el principio de representación proporcional, el Consejo General aplicará las siguientes bases:
+1. El procedimiento de asignación de diputaciones de representación proporcional es el conjunto de etapas reguladas por esta Ley, desarrolladas de manera sucesiva y ordenada, a través de las cuales se garantizan los principios constitucionales de representatividad, pluralismo y paridad en la conformación de la Legislatura; y se integrará por las fases siguientes:
 
-I. Determinará la votación estatal emitida, que para este propósito será el resultado de restar, de la votación total emitida, los votos siguientes:
+I. Fase previa;
 
-a) Aquellos que fueron declarados nulos;
+II. Fase de determinación de porcentajes de votación estatal emitida;
 
-b) Los alcanzados por los partidos políticos que no hubieren postulado candidatos a diputados en por lo menos trece distritos uninominales y en la totalidad de la circunscripción plurinominal;
+III. Fase de subrepresentación;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+IV. Fase de cociente natural;
 
-c) Los de los partidos políticos que no hubieren alcanzado el 3% de la votación válida emitida;
+V. Fase de resto mayor;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+VI. Fase de sobrerrepresentación;
 
-d) Los votos emitidos para candidatos independientes que no obtuvieron triunfos de mayoría; y
+VII. Fase para la integración paritaria de género;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+VIII. Fase de determinación de candidaturas migrantes; y
 
-e) Los obtenidos por los candidatos no registrados.
+IX. Fase de expedición de constancias de asignación.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+2. Para la asignación de las 12 diputaciones electas por el principio de representación proporcional, el Consejo General aplicará las bases siguientes:
 
-II. Ningún partido político podrá contar con más de 18 diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
+I. Generalidades:
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+a) Ningún partido político podrá contar con más de 18 diputaciones por ambos principios, ni que exceda en ocho puntos su porcentaje de votación estatal emitida, respecto de la integración total de la Legislatura.
 
-III. Tomando en cuenta los respectivos porcentajes obtenidos por los partidos políticos, se hará un ejercicio hipotético con base en la votación estatal emitida, para determinar el número de diputados que corresponderá a cada uno de ellos, atendiendo a la votación que hayan recibido.
+Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida más ocho puntos. En esta disposición quedan incluidos aquellos candidatos que tuvieren la calidad de binacional o migrante.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+b) En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos; en este caso, se deducirá el número de diputaciones de representación proporcional que sean necesarias para asignar diputados a los partidos políticos que se encuentren en este supuesto.
 
-En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; en este caso, se deducirá el número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en este supuesto.
+II. Conceptos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+a) Cociente natural: es el resultado de dividir la votación estatal emitida, entre el número de diputaciones a repartir;
 
-IV. En un primer momento, se determinarán, con base en los porcentajes de votación de cada partido político, el número de diputados que le corresponderían, para efecto de determinar si no se encuentran subrepresentados.
+b) Resto mayor: es el remanente de votación más alto entre los restos de las votaciones de cada partido político, una vez hechas las asignaciones de cociente natural;
 
-A los partidos políticos que se encuentren en el supuesto del párrafo anterior se les asignarán, de las 12 diputaciones por el principio de representación proporcional, las que fueran necesarias para dejar el estado de subrepresentación y, una vez que se ajuste la votación estatal emitida, se asignarán las que resten a los partidos políticos con derecho a ello, en proporción directa con sus respectivas votaciones estatales;
+c) Votación obtenida: la votación individual por partido político utilizada en la asignación de diputados de representación proporcional, para determinar el número de diputaciones que le corresponden;
 
-V. Para los efectos anteriores, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos;
+d) Votación estatal emitida: es el resultado de restar a la votación total emitida los votos de los partidos que no alcanzaron el 3% de la votación válida emitida, los votos de los partidos que no postularon candidatos a diputados por el principio de mayoría relativa en por lo menos 13 distritos uninominales y en la totalidad de la circunscripción plurinominal, los votos nulos, los votos emitidos para los candidatos independientes y los votos emitidos a favor de candidaturas no registradas.
 
-a) Cociente natural; y
+En caso de que uno o más partidos políticos no alcancen el umbral referido, pero obtengan por lo menos una diputación de mayoría relativa, o uno o más candidatos independientes triunfen en sus respectivos distritos, las votaciones que hayan recibido no serán descontadas para la determinación de la votación estatal emitida;
 
-b) Resto mayor.
+e) Votación total emitida: la suma de todos los votos depositados en las urnas; y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+f) Votación válida emitida: es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados.
 
-VI. En primer término se determinarán los partidos políticos que se encuentren subrepresentados. En caso de que alguno se encontrara en tal supuesto, se le asignarán el número de diputados necesarios para que deje el estado de subrepresentación;
+III. Procedimiento de asignación:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+a) Fase previa
 
-VII. Hecho lo anterior, se ajustará la votación estatal emitida, restándole la votación de todos los partidos que obtuvieron triunfos por el principio de mayoría relativa en los distritos uninominales;
+En esta etapa se determinarán los partidos políticos que tendrán derecho a participar en el procedimiento de asignación de diputaciones de representación proporcional, siendo aquéllos que hubieren registrado fórmulas de candidaturas uninominales en por lo menos 13 de los 18 distritos electorales y la lista plurinominal correspondiente; y que obtengan como mínimo el 3% de la votación válida emitida en la elección de diputados.
 
-> <small>(N. DE E. ANTES FRACCIÓN IX, P.O. 23 DE DICIEMBRE DE 2015)</small>
+Para determinar los partidos políticos que participarán en el procedimiento de asignación se dividirá la votación obtenida por cada partido político entre la votación válida emitida; el resultado de la operación se multiplicará por cien, luego se tomarán los números enteros y dos posiciones decimales como porcentajes de votación válida emitida.
 
-VIII. El resultado obtenido se dividirá entre el número de curules a asignar para obtener el cociente natural. Las diputaciones de representación proporcional se asignarán a los partidos con derecho a ello conforme a sus respectivas votaciones estatales ajustadas; y
+b) Fase de determinación de porcentajes de votación estatal emitida
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X], P.O. 23 DE DICIEMBRE DE 2015)</small>
+Identificados los partidos políticos que continuarán en el procedimiento de asignación se procederá a calcular el porcentaje que representa la votación obtenida por cada partido político, en relación con la votación estatal emitida. Para ello, se dividirá su votación obtenida entre la votación estatal emitida; el resultado de la operación se multiplicará por cien, luego se tomarán los números enteros y dos posiciones decimales como porcentajes de votación estatal emitida.
 
-IX. Si aún quedaran curules por repartir se utilizará el método de resto mayor, en el que participarán todos los partidos políticos que cumplan con estas bases para el reparto plurinominal.
+c) Fase de subrepresentación
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+En esta etapa se determinará el número de diputaciones que, en su caso, corresponda a cada partido político cuya representación sea menor a su porcentaje de votación obtenida, en los términos siguientes:
 
-2. Una vez que se haya cumplido el procedimiento previsto en las bases anteriores, se realizará la verificación de los límites de sobre y subrepresentación.
+Para obtener los porcentajes de representación mínima de cada partido político, se le restarán 8 puntos a su porcentaje de votación estatal emitida. El resultado se contrastará con el porcentaje de representación real de cada partido, que se obtiene al multiplicar el factor 3.333 por el número de diputaciones alcanzadas por el principio de mayoría relativa.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+En caso de que el porcentaje de representación real sea menor al de representación mínima, se otorgarán las diputaciones necesarias para superar la subrepresentación.
 
-3. Realizada la asignación de diputaciones y la verificación de los límites referidos en el numeral anterior, se procederá a lo siguiente:
+Finalmente, se ajustará la votación obtenida de cada partido político. Para ello, se dividirá la votación estatal emitida entre 30 y se multiplicará el resultado por el número de diputaciones otorgadas a cada partido, valor que será restado a su votación obtenida.
 
-I. Para la asignación a que se refieren los numerales 5, 6 y 7 del artículo anterior, relativos a la fórmula de candidatos con carácter migrante, el Consejo General aplicará, al caso de cada uno de los dos partidos que hubiesen obtenido, respectivamente, los mayores porcentajes de votación estatal emitida, los criterios que a continuación se indican:
+De quedar diputaciones por distribuir, se continuará con la fórmula de proporcionalidad pura, compuesta por el cociente natural y resto mayor.
 
-a) Si tuviere derecho a la asignación de un diputado, será el candidato con carácter migrante.
+d) Fase de cociente natural
 
-b) Si tuviere derecho a la asignación de dos diputados, el primero será, el que ocupe tal lugar en la lista estatal registrada, y el segundo, el candidato con carácter migrante;
+En esta fase se establecerá el grado de representación de la votación obtenida por cada partido político para determinar el número de diputaciones por asignar.
 
-c) Si tuviere derecho a la asignación de tres diputados el primero y el segundo serán, el primero y segundo de la lista estatal registrada, y el tercero, el candidato con carácter migrante;
+Primero, se ajustará la votación estatal emitida, restándole la votación obtenida de aquellos partidos políticos que, de forma individual o en coalición, lograron triunfos de mayoría relativa; así como los votos que represente cada diputación otorgada en la fase de subrepresentación.
 
-d) Si tuviere derecho a la asignación de cuatro diputados el primero, segundo y tercero serán, el primero, segundo y tercero de la lista estatal registrada, y el cuarto, el candidato con carácter migrante; y
+Para obtener el cociente natural, la votación estatal emitida ajustada se dividirá entre el número de diputaciones pendientes de asignar.
 
-e) Si tuviere derecho a la asignación de cinco diputados, el primero, segundo, tercero y cuarto serán, el primero, segundo, tercero y cuarto de la lista estatal registrada, y el quinto, el candidato con carácter migrante.
+Enseguida, la votación obtenida ajustada de cada partido político se dividirá entre el cociente natural. El número entero que resulte de la división equivaldrá a las diputaciones que se asignarán a cada partido en esta fase.
+
+De existir diputaciones por repartir, continuará con la fase de resto mayor.
+
+e) Fase de resto mayor
+
+En esta fase se obtendrán los remanentes de votación de cada partido político y se identificarán los más altos para asignar las diputaciones restantes.
+
+Para ello, se deducirá a la votación ajustada de cada partido político, el número de veces que se utilizó el cociente natural. Los partidos que logren los remanentes más altos obtendrán las diputaciones a repartir.
+
+f) Fase de sobrerrepresentación
+
+En esta fase se obtendrán los límites de representación máxima de cada partido político, a efecto de determinar si alguno se encuentra sobrerrepresentado y, en su caso, realizar los ajustes necesarios para superar esa condición.
+
+Los límites de representación máxima de cada partido político se obtendrán al sumar 8 puntos a sus respectivos porcentajes de votación estatal emitida. La suma se contrastará con el porcentaje de representación de cada uno, que se obtendrá al multiplicar el factor 3.333 por el número de diputaciones alcanzadas por mayoría relativa y representación proporcional.
+
+En caso de que el porcentaje de representación de los partidos políticos sea mayor a sus porcentajes máximos, las diputaciones excedentes serán distribuidas entre los partidos políticos con menor representación.
+
+g) Fase para la integración paritaria de género
+
+En esta fase se verificará la integración paritaria por género en la Legislatura y, en su caso, se aplicarán las rondas para la integración paritaria de género necesarias en los términos siguientes:
+
+Primero se identificará el número de diputaciones correspondientes a hombres y mujeres en los distritos de mayoría relativa para, posteriormente, determinar el género de diputadas y diputados de representación proporcional necesarios para integrar la Legislatura de forma paritaria.
+
+Para integrar la totalidad de diputaciones de representación proporcional se desarrollarán las rondas de asignación que resulten necesarias conforme al mayor número de diputaciones por distribuir entre los partidos políticos. En cada ronda se asignará una sola diputación por partido político.
+
+Determinado el número de diputados por asignar, así como el número de rondas de asignación, se ordenará de manera decreciente a los partidos políticos conforme a su porcentaje de votación estatal emitida, para iniciar con aquél que tenga mayor porcentaje.
+
+De requerirse igual número de hombres que de mujeres para lograr la integración paritaria, las rondas iniciarán asignando el número de diputaciones de mujeres que correspondan y concluirán con el de hombres restantes; de existir subrepresentación de alguno de los géneros, se asignarán, en primer lugar, el número de diputaciones necesarias para alcanzar la paridad y, posteriormente las candidaturas del otro género hasta culminar la integración total de la Legislatura.
+
+El desarrollo de la fórmula de asignación de representación proporcional sólo determinará el número de diputaciones a asignar por partido político, las cuales serán definidas por el orden de prelación de las listas respectivas.
+
+h) Fase de determinación de las diputaciones migrantes
+
+Las diputaciones migrantes serán otorgadas conforme al género de la última fórmula asignada a los dos partidos políticos con mayor porcentaje de votación estatal emitida, en los términos de esta Ley.
+
+i) Fase de expedición de constancias de asignación
+
+Agotadas las fases anteriores, el Consejo General ordenará la expedición de las constancias de asignación de diputaciones por el principio de representación proporcional.
 
 Partidos sin derecho a diputados de representación proporcional
 
@@ -643,39 +727,97 @@ Consejo General asigna diputaciones de representación proporcional
 
 ARTÍCULO 27
 
-1. Es facultad del Consejo General llevar a cabo la asignación de las diputaciones de representación proporcional, conforme a lo dispuesto en esta Ley. Para estos efectos, convocará a una sesión de cómputo de la votación estatal cuando las fases necesariamente previas del proceso electoral ya hubieren concluido.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. El Consejo General llevará a cabo la asignación de las diputaciones de representación proporcional en la sesión de cómputo de la votación estatal
+
+(sic) que señala el Capítulo Tercero del Título Séptimo, del Libro Tercero de esta Ley.
 
 2. Los diputados de representación proporcional tendrán los mismos derechos y obligaciones que los de mayoría relativa; unos y otros ejercerán sus cargos con iguales prerrogativas constitucionales y legales.
 
 ### CAPÍTULO QUINTO. DE LA ASIGNACIÓN DE REGIDORES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL
 
-Regidores de representación proporcional
-
-Reglas de asignación
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
 ARTÍCULO 28
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2017)</small>
+Regidores de representación proporcional. Reglas de asignación
 
-1. Los regidores de representación proporcional serán asignados a los partidos y candidatos que hubieren registrado sus respectivas planillas y, además, lista plurinominal de candidatos cuyos integrantes podrán ser de los ciudadanos que aparecen en la planilla para la elección de ayuntamientos por el principio de mayoría relativa que hubiese registrado el mismo partido político o candidato independiente, en el número que corresponda a la población del municipio, de conformidad con lo dispuesto en la Ley Orgánica del Municipio y a la convocatoria expedida por el Instituto. En la integración de la lista de candidatos a regidores por el principio de representación proporcional, se garantizará la paridad entre los géneros. Del total de las candidaturas el 20% tendrá calidad de joven. La asignación se sujetará a las siguientes reglas:
+1. El procedimiento de asignación de regidurías por el principio de representación proporcional es el conjunto de etapas reguladas por esta Ley, desarrolladas de manera sucesiva y ordenada, a través de las cuales se garantizan los principios constitucionales de representatividad, pluralismo y paridad en la conformación de los ayuntamientos por el referido principio; y se integrará por las fases siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+I. Fase previa;
 
-I. Tendrán derecho a participar en el proceso de asignación de regidores por el principio de representación proporcional, los partidos y candidatos que, conservando su registro y cuya planilla no haya obtenido el triunfo por el principio de mayoría relativa obtengan como mínimo el 3% de la votación municipal emitida;
+II. Fase de cociente natural;
 
-II. La fórmula para la asignación de regidores por el principio de representación proporcional será la del cociente natural y, si quedasen regidurías por repartir, la de resto mayor; y
+III. Fase de resto mayor;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2017)</small>
+IV. Fase para la integración paritaria de género; y
 
-III. Para obtener el cociente natural, se dividirá la suma de los votos obtenidos por los partidos políticos y candidatos independientes con derecho a participar en este proceso, entre el número de regidurias a asignar.
+V. Fase de expedición de constancias de asignación.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+2. Podrán participar en la asignación de regidurías de representación proporcional los partidos y candidatos que hubieren registrado sus respectivas planillas y su lista de representación plurinominal, de conformidad con lo dispuesto en la Ley y a la convocatoria expedida por el Instituto. La asignación se sujetará a las fases siguientes:
 
-2. Para suplir a los regidores de representación proporcional, será llamado el ciudadano que de acuerdo con la lista plurinominal registrada por el partido político o candidato, sea el siguiente en el orden de prelación.
+I. Generalidades:
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+Tendrán derecho a participar en el procedimiento de asignación de regidurías por el principio de representación proporcional los partidos políticos y candidaturas independientes cuyas planillas no hayan obtenido el triunfo por el principio de mayoría relativa y obtengan como mínimo el 3% de la votación válida emitida en el municipio respectivo.
 
-3. Si al momento de realizar la asignación de cargos por el principio de representación proporcional, no es posible asignarla al candidato que aparece en la lista registrada por el partido político o candidato independiente, se procederá a asignarla a la candidatura que siga en el orden descendente de prelación.
+II. Conceptos:
+
+a) Cociente natural: es el resultado de dividir la sumatoria de los votos obtenidos por los partidos políticos y candidaturas independientes con derecho a participar en la distribución de regidurías de representación proporcional, entre el número de regidurías a repartir;
+
+b) Resto mayor: es el remanente de votación más alto entre los restos de las votaciones de cada partido político o candidatura independiente, una vez hechas las asignaciones de cociente natural;
+
+c) Votación municipal emitida: es el resultado de restar a la votación total emitida, los votos de los partidos y candidaturas independientes que no alcanzaron el 3% de la votación válida emitida, los votos nulos y los emitidos por candidaturas no registradas;
+
+d) Votación total emitida: es la suma de la totalidad de votos depositados en las urnas del municipio correspondiente; y
+
+e) Votación válida emitida: es el resultado de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados.
+
+III. Procedimiento de asignación:
+
+a) Fase previa
+
+En esta etapa se determinarán los partidos políticos o candidaturas independientes que tendrán derecho a participar en el procedimiento de asignación de regidurías de representación proporcional. Para ello, se dividirá la votación obtenida por cada uno entre la votación válida emitida; el resultado de la operación se multiplicará por cien, luego se tomarán los números enteros y dos posiciones decimales como porcentajes de votación válida emitida.
+
+b) Fase de cociente natural
+
+En esta fase se establecerá el grado de representación de la votación obtenida por cada partido político o candidatura independiente, para determinar el número de regidurías por asignar.
+
+Para obtener el cociente natural, el resultado de la sumatoria de la votación obtenida por los partidos políticos o candidaturas independientes con derecho a participar será dividido entre el número de regidurías por asignar.
+
+Enseguida, la votación obtenida de cada partido o candidatura independiente se dividirá entre el cociente natural. El número entero que resulte de la división equivaldrá a las regidurías que se asignarán a cada partido o candidatura en esta fase.
+
+De restar regidurías por repartir, se utilizará la fase de resto mayor.
+
+c) Fase de resto mayor
+
+En esta fase se obtendrán los remanentes de votación de cada partido político o candidato y se identificarán los más altos para asignar las regidurías restantes.
+
+Para ello, se deducirá a la votación obtenida por cada partido político o candidatura independiente, el número de veces que se utilizó el cociente natural. Los partidos o candidaturas que logren los remanentes más altos serán quienes obtendrán las regidurías por distribuir.
+
+d) Fase para la integración paritaria de género
+
+Se verificará la integración paritaria por género en los Ayuntamientos y, en su caso, se aplicarán las rondas para la integración paritaria de género necesarias en los términos siguientes:
+
+Primero se identificará el número de integrantes correspondientes a hombres y mujeres en las planillas de mayoría relativa para, posteriormente, determinar el género de regidoras y regidores de representación proporcional necesarios para garantizar la integración paritaria de los Ayuntamientos.
+
+Para integrar la totalidad de regidurías de representación proporcional se desarrollarán las rondas de asignación que resulten necesarias conforme al mayor número de regidurías por distribuir entre los partidos políticos y las candidaturas independientes. En cada ronda se asignará una sola regiduría por partido o candidatura.
+
+Determinado el número de regidurías por asignar, así como en número de rondas de asignación, se ordenará de manera decreciente a los partidos políticos y candidaturas independientes conforme a su porcentaje de votación válida emitida, para iniciar con aquél que tenga mayor porcentaje;
+
+De requerirse igual número de hombres que de mujeres para lograr la integración paritaria del Ayuntamiento, las rondas iniciarán asignando el número de regidurías de mujeres que correspondan y concluirán con el de hombres restantes; de existir subrepresentación de alguno de los géneros, se asignarán, en primer lugar, el número de regidurías necesarias para alcanzar la paridad y, posteriormente las candidaturas del otro género hasta culminar la integración total del respectivo Ayuntamiento.
+
+El desarrollo de la fórmula de asignación de representación proporcional sólo determinará el número de diputaciones a asignar por partido político, las cuales serán definidas por el orden de prelación de las listas respectivas.
+
+e) Fase de expedición de constancias de asignación
+
+Agotadas las fases anteriores, el Consejo General ordenará la expedición de las constancias de asignación de regidurías por el principio de representación proporcional.
+
+3. Para suplir a los regidores de representación proporcional, serán llamados, en primer término, los suplentes que hayan sido registrados en cada fórmula. En caso de que éstos llegaran a faltar, será llamado el ciudadano que, de acuerdo con la lista plurinominal registrada por el partido político o candidato, sea el siguiente en el orden de prelación conforme al género asignado por la aplicación de los mecanismos de (sic) para la integración paritaria.
+
+4. Si al momento de realizar la asignación de cargos por el principio de representación proporcional, no es posible asignarla al candidato propietario que aparece en la lista registrada por el partido político o candidato independiente, será llamado, en primer término, el suplente que haya sido registrado en la fórmula. En caso de que éstos llegaran a faltar se procederá a asignar la candidatura que siga en el orden descendente de prelación, respetando el género que corresponda.
+
+5. El Consejo General llevará a cabo la asignación de las regidurías de representación proporcional en la sesión de cómputos de la votación estatal que señala el Capítulo Tercero del Título Séptimo, del Libro Tercero de esta Ley.
 
 Regidores.
 
@@ -745,7 +887,9 @@ Vacantes
 
 ARTÍCULO 33
 
-1. Las vacantes de miembros propietarios de la Legislatura electos por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la fórmula electa respectiva. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo partido que siga en el orden descendente de prelación.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Las vacantes de miembros propietarios de la Legislatura electos por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la fórmula electa respectiva. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatos del mismo género y partido que siga en el orden descendente de prelación para preservar el principio de paridad.
 
 Modificación de plazos
 
@@ -775,7 +919,9 @@ Naturaleza y Objeto
 
 ARTÍCULO 36
 
-1. Los partidos políticos son entidades de interés público, con registro legal ante el Instituto Nacional o ante el Instituto; tienen derecho de participar en las elecciones constitucionales de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con su Declaración de Principios, Programas de Acción y Estatutos, mediante el sufragio universal, libre, secreto y directo, personal e intransferible. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Los partidos políticos son entidades de interés público, con registro legal ante el Instituto Nacional o ante el Instituto; tienen derecho de participar en las elecciones constitucionales de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos, y tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con su Declaración de Principios, Programas de Acción y Estatutos, mediante el sufragio universal, libre, secreto y directo, personal e intransferible. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
 2. Toda organización o agrupación constituida con fines políticos, que no esté legalmente acreditada como partido político nacional y pretenda participar en las elecciones estatales y municipales, deberá obtener previamente del Consejo General o del Instituto, el registro correspondiente, conforme al procedimiento establecido para tal efecto.
 
@@ -1015,9 +1161,9 @@ ARTÍCULO 52
 
 I. Conducir sus actividades dentro de los cauces previstos en la Ley, en su normatividad interna, ajustar su conducta y la de sus militantes a los principios del Estado democrático, respetando la libre participación política de los demás partidos políticos y los derechos de los ciudadanos;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-II. Abstenerse de recurrir a la violencia, incluida la violencia política en contra de las mujeres y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos de gobierno o de las autoridades electorales;
+II. Abstenerse de recurrir a la violencia, incluida la violencia política en contra de las mujeres en razón de género y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos de gobierno o de las autoridades electorales;
 
 III. Mantener el mínimo de afiliados exigidos para su constitución y en funcionamiento efectivo a sus órganos estatutarios;
 
@@ -1065,9 +1211,9 @@ XXI. Aplicar el financiamiento de que dispongan, por cualquiera de las modalidad
 
 XXII. Informar al Instituto Nacional o al Instituto, en caso de la facultad de fiscalización de la facultad fiscalizadora, el origen y destino de sus recursos, y abstenerse de desviar, para fines ajenos a los previstos por esta Ley, el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en esta Ley;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las personas y de ejercer por este medio violencia política en contra de las mujeres;
+XXIII. Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las personas y de ejercer por este medio violencia política en contra de las mujeres en razón de género;
 
 XXIV. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -1492,6 +1638,10 @@ Suspensión de propaganda política
 ARTÍCULO 80
 
 1. El Consejo General, de manera fundada y motivada, determinará solicitar al órgano competente del Instituto Nacional la intervención legal correspondiente para la suspensión de cualquier propaganda política o electoral en radio y televisión que resulte violatoria de las disposiciones de la Ley General de Instituciones y esta Ley; lo anterior, sin perjuicio de las sanciones aplicables a los infractores, de conformidad con lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+2. Cuando se acredite violencia política en razón de género en contra de una o varias mujeres en uso de las prerrogativas de radio y televisión, se solicitará que se utilice el tiempo correspondiente con cargo a las prerrogativas del partido político de la persona infractora, quien deberá ofrecer una disculpa pública, con la finalidad de reparar el daño.
 
 Acuerdos del Consejo General.
 
@@ -2555,11 +2705,17 @@ Registro de candidatos migrantes al cargo de Diputados
 
 ARTÍCULO 143
 
-1. Las listas de candidatos a Diputados por el principio de representación proporcional que registre cada partido político, a través, de sus dirigencias estatales, deberán integrar una fórmula de candidato propietario y suplente con carácter de migrante que ocupará el último lugar de la lista plurinominal.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-2. El lugar que ocupe esta fórmula de candidatos con carácter migrante, deberá ser la última de la lista que por ese concepto registre cada partido político.
+1. Las listas de candidatos a Diputados por el principio de representación proporcional que registre cada partido político, a través de sus dirigencias estatales, deberán integrar dos fórmulas de candidatos propietarios y suplentes con carácter de migrante de distinto género.
 
-3. La asignación de Diputados con carácter migrante corresponderá a los dos partidos políticos que logren el mayor porcentaje de la votación.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+2. El lugar que ocupen estas fórmulas de candidatos con carácter migrante, deberá ser la penúltima y última de la lista que por ese concepto registre cada partido político.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+3. La asignación de Diputados con carácter migrante corresponderá a los dos partidos políticos que logren el mayor porcentaje de la votación, respectivamente, en los términos señalados por esta Ley.
 
 Registro de candidaturas
 
@@ -2591,7 +2747,9 @@ I. Para Gobernador del Estado, del trece al veintisiete de marzo, ante el Consej
 
 II. Para Diputados por el principio de mayoría relativa, del trece al veintisiete de marzo, ante los correspondientes consejos distritales, y de manera supletoria ante el Consejo General;
 
-III. Para la asignación de Diputados por el principio de representación proporcional, del trece al veintisiete de marzo, ante el Consejo General;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+III. Para Diputados por el principio de representación proporcional, del trece al veintisiete de marzo, ante el Consejo General;
 
 IV. Para Ayuntamientos por el principio de mayoría relativa del trece al veintisiete de marzo, ante los consejos municipales y de manera supletoria ante el Consejo General; y
 
@@ -2767,9 +2925,9 @@ Propaganda impresa. Reglas
 
 ARTÍCULO 163
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-1. Toda propaganda impresa que utilicen y difundan los partidos políticos, las coaliciones y los candidatos, deberá contener identificación plena de quienes la hacen circular, y no tendrá más limitaciones que las que establece la Constitución Federal, la particular del Estado y la presente Ley. Se preservará el respeto a la vida privada de los candidatos, autoridades, terceros, instituciones y valores democráticos, evitando la violencia política en contra de las mujeres.
+1. Toda propaganda impresa que utilicen y difundan los partidos políticos, las coaliciones y los candidatos, deberá contener identificación plena de quienes la hacen circular, y no tendrá más limitaciones que las que establece la Constitución Federal, la particular del Estado y la presente Ley. Se preservará el respeto a la vida privada de los candidatos, autoridades, terceros, instituciones y valores democráticos, evitando la violencia política en contra de las mujeres en razón de género.
 
 2. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
@@ -2803,9 +2961,9 @@ Propaganda audiovisual. Reglas
 
 ARTÍCULO 165
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-1. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las precandidatas y precandidatos y candidatas y candidatos, deberán abstenerse de expresiones que calumnien a las personas o constituyan violencia política en contra de las mujeres. El Consejo General del Instituto, remitirá al Instituto Nacional las denuncias que se presenten con motivo de mensajes en radio o televisión contrarios a esta norma; quien estará facultado para ordenar, una vez satisfechos los procedimientos establecidos en la Ley General de Instituciones, el retiro de cualquier otra propaganda.
+1. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las precandidatas y precandidatos y candidatas y candidatos, deberán abstenerse de expresiones que calumnien a las personas o constituyan violencia política en contra de las mujeres en razón de género. El Consejo General del Instituto, remitirá al Instituto Nacional las denuncias que se presenten con motivo de mensajes en radio o televisión contrarios a esta norma; quien estará facultado para ordenar, una vez satisfechos los procedimientos establecidos en la Ley General de Instituciones, el retiro de cualquier otra propaganda.
 
 2. La propaganda electoral que se realice en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto en el numeral anterior, así como en los ordenamientos en materia de prevención de la contaminación.
 
@@ -4489,15 +4647,23 @@ ARTÍCULO 274
 
 2. Hará la revisión de las listas plurinominales registradas por los partidos políticos que tengan derecho a la asignación de diputados o regidores por el principio de representación proporcional, a fin de comprobar que los respectivos candidatos cumplan los requisitos de elegibilidad.
 
-Asignaciones por el principio de representación proporcional.
+ARTÍCULO 275 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2020)
 
-ARTÍCULO 275
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-1. El Consejo General procederá a hacer la asignación de Diputados de representación proporcional, aplicando la fórmula establecida en este ordenamiento. Si con motivo de la revisión a que se refiere el numeral 2 del artículo anterior, apareciere que alguno de los candidatos no fuese elegible, tendrán derecho a la asignación los que en la lista registrada por el mismo partido aparezcan en orden descendente de conformidad con el artículo 33 de esta Ley. Acto seguido, expedirá las constancias de asignación en favor de los candidatos que tuvieron derecho a ellas.
+ARTÍCULO 275 BIS
 
-2. El procedimiento descrito en el numeral anterior será aplicable, en lo conducente, para la asignación de Regidores de representación proporcional en cada Municipio.
+1. El Consejo General procederá a hacer la asignación de diputaciones y regidurías de representación proporcional, aplicando los procedimientos y mecanismos para la integración paritaria de género establecidos en este ordenamiento.
 
-3. El Consejo General deberá fijar en el exterior del local, cédula que contenga el resultado de todos los cómputos estatales.
+2. El Consejo General hará la revisión de las listas plurinominales registradas por los partidos políticos o candidaturas independientes, según corresponda, que tengan derecho a la asignación de diputaciones y regidurías por el principio de representación proporcional, a fin de comprobar que los respectivos candidatos cumplan los requisitos de elegibilidad.
+
+3. Si con motivo de la revisión a que se refiere el numeral anterior, apareciere que la totalidad de la fórmula no fuese elegible, tendrán derecho a la asignación los que en la lista registrada por el mismo partido aparezcan en orden descendente y conforme al género correspondiente en términos del artículo 33 de esta Ley. Acto seguido, expedirá las constancias de asignación en favor de los candidatos que tuvieron derecho a ellas.
+
+4. El procedimiento descrito en el numeral anterior será aplicable, en lo conducente, para la asignación de Regidores de representación proporcional en cada Municipio.
+
+5. El Presidente del Consejo General expedirá a cada partido político o candidatura independiente las constancias de asignación de representación proporcional correspondientes.
+
+6. El Secretario Ejecutivo del Consejo General deberá fijar en el exterior del local, cédula que contenga el resultado de todos los cómputos estatales.
 
 Declaración provisional de validez de la elección y de Gobernador Electo
 
@@ -5187,7 +5353,9 @@ De las obligaciones de los aspirantes
 
 ARTÍCULO 331
 
-1. Son obligaciones de los aspirantes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Son obligaciones de las personas aspirantes:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución Federal, la Constitución Local, las Leyes Generales y la presente Ley;
 
@@ -5213,7 +5381,9 @@ g) Las personas que vivan o trabajen en el extranjero.
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-VI. Abstenerse de proferir ofensas, difamación, o cualquier expresión que calumnie a otros aspirantes, precandidatos o personas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VI. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir ofensas, difamación, o cualquier expresión que calumnie a otras personas aspirantes, precandidatos o personas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -5391,7 +5561,9 @@ De las obligaciones
 
 ARTÍCULO 342
 
-1. Son obligaciones de los candidatos independientes registrados:
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. Son obligaciones de las Candidatas y los Candidatos Independientes registrados:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución Federal, la Constitución Local, las Leyes Generales de la materia y en la presente Ley;
 
@@ -5423,7 +5595,9 @@ VII. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y r
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX. Abstenerse de proferir ofensas, difamación o expresiones que calumnie (sic) a otros candidatos y personas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+IX. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir ofensas, difamación o expresiones que calumnie a otros (sic) personas aspirantes, precandidatas y candidatas;
 
 X. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;
 
@@ -5745,7 +5919,9 @@ Consejo General del Instituto. Integración
 
 ARTÍCULO 374
 
-1. El Consejo General es el órgano superior de dirección y se integra con un Consejero Presidente y seis consejeros electorales. El Consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos para otro período.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+1. El Consejo General es el órgano superior de dirección y se integra con una Consejera o un Consejero Presidente y seis consejeras o consejeros electorales, quienes durarán en su cargo siete años y no podrán ser reelectos para otro período. La conformación del mismo deberá garantizar el principio de paridad de género, y en su desempeño aplicará la perspectiva de género.
 
 2. El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional, en los términos previstos por la Constitución Federal, la Constitución Local y las leyes de la materia.
 
@@ -5945,9 +6121,39 @@ IX. Las organizaciones de ciudadanos que pretendan formar un partido político e
 
 X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos estatales;
 
-XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XI. Las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
 
 XII. Los demás sujetos obligados en los términos de la legislación electoral.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+2. Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas, será sancionado en términos que corresponda según lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+3. Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Conductas de Violencia Política en razón de género
+
+ARTÍCULO 390 Bis
+
+1. La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 390 de este ordenamiento y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualquier otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
 De las infracciones de los partidos políticos y en su caso, coaliciones
 
@@ -5989,9 +6195,7 @@ XV. La presentación de denuncias frívolas, y
 
 XVI. La comisión de cualquiera otra falta de las previstas en la legislación electoral.
 
-Infracciones de los aspirantes
-
-Precandidatos o candidatos
+Infracciones de los aspirantes. Precandidatos o candidatos
 
 ARTÍCULO 392
 
@@ -6009,9 +6213,9 @@ V. Exceder el tope de gastos de precampaña o campaña establecidos;
 
 VI. La presentación de denuncias frívolas; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-VII. Ejercer violencia política contra las mujeres, y
+VII. Ejercer violencia política contra las mujeres en razón de género, y
 
 VIII. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
@@ -6051,9 +6255,9 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. La presentación de denuncias frívolas; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XV. Ejercer violencia política contra las mujeres, y
+XV. Ejercer violencia política contra las mujeres en razón de género, y
 
 XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
@@ -6069,9 +6273,9 @@ II. Contratar propaganda en medios impresos en territorio estatal, de otra entid
 
 III. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-IV. Ejercer violencia política contra las mujeres, y
+IV. Ejercer violencia política contra las mujeres en razón de género, y
 
 V. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
@@ -6083,9 +6287,9 @@ ARTÍCULO 395
 
 I. El incumplimiento, según sea el caso, de las obligaciones establecidas en el artículo 10 de esta Ley; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-II. Ejercer violencia política contra las mujeres, y
+II. Ejercer violencia política contra las mujeres en razón de género, y
 
 III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
@@ -6105,9 +6309,9 @@ IV. Durante los procesos electorales, la difusión de propaganda, en cualquier m
 
 V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o de otras entidades federativas, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político, coalición o candidato, en los términos de esta Ley; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-VI. Ejercer violencia política contra las mujeres, y
+VI. Ejercer violencia política contra las mujeres en razón de género, y
 
 VII. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
@@ -6117,9 +6321,9 @@ ARTÍCULO 397
 
 1. Constituyen infracciones a la legislación electoral por parte de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y los representantes de candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-2. Ejercer violencia política contra las mujeres.
+2. Ejercer violencia política contra las mujeres en razón de género.
 
 Infracciones de los Extranjeros
 
@@ -6127,11 +6331,13 @@ ARTÍCULO 398
 
 1. Constituyen infracciones las conductas de los extranjeros que violen lo dispuesto por el artículo 33 de la Constitución Federal y las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-2. Ejercer violencia política contra las mujeres.
+2. Ejercer violencia política contra las mujeres en razón de género.
 
-Infracciones de organizaciones (sic) ciudadanos que pretendan formar partidos políticos estatales
+> <small>(REFORMADO SU EPIGRAFE, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Infracciones de organizaciones ciudadanas que pretendan formar partidos políticos estatales
 
 ARTÍCULO 399
 
@@ -6143,9 +6349,9 @@ II. Permitir que en la creación del partido político estatal intervengan organ
 
 III. Realizar o promover la afiliación colectiva de ciudadanos al partido para el que se pretenda registro; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-IV. Ejercer violencia política contra las mujeres, y
+IV. Ejercer violencia política contra las mujeres en razón de género, y
 
 V. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
@@ -6159,15 +6365,15 @@ I. Actuar u ostentarse con el carácter de partido político, o cuando dispongan
 
 II. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-III. Ejercer violencia política contra las mujeres, y
+III. Ejercer violencia política contra las mujeres en razón de género, y
 
 IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
-Infracciones de los ministros de culto,
+> <small>(REFORMADO SU EPIGRAFE, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-Asociaciones o agrupaciones de cualquier religión
+Infracciones de los ministros de culto. Asociaciones o agrupaciones de cualquier religión
 
 ARTÍCULO 401
 
@@ -6177,9 +6383,9 @@ I. La inducción a la abstención, a votar por un candidato, partido político o
 
 II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-III. Ejercer violencia política contra las mujeres, y
+III. Ejercer violencia política contra las mujeres en razón de género.
 
 IV. El incumplimiento de cualquiera de las disposiciones contenidas en la legislación electoral.
 
@@ -6199,11 +6405,17 @@ b) Con multa de hasta diez mil cuotas de salario mínimo general vigente en el E
 
 c) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta;
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
+
 d) Con multa de hasta diez mil cuotas de salario mínimo general vigente en el Estado, por la violación a lo dispuesto en la Constitución Local, respecto de la prohibición de realizar expresiones que calumnien a las personas;
 
 e) Con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil cuotas de salario mínimo general vigente en el estado, en el caso de que promuevan una denuncia frívola; y
 
-f) Cancelación del registro si se trata de partidos políticos estatales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados en el Consejo General, en los casos de graves y reiteradas conductas violatorias de la Constitución Local y esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+f) Cancelación del registro si se trata de partidos políticos estatales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados en el Consejo General, en los casos de graves y reiteradas conductas violatorias de la Constitución Local y esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
 
 II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
 
@@ -6433,6 +6645,40 @@ ARTÍCULO 409
 
 5. Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Medidas Cautelares
+
+ARTÍCULO 409 Bis
+
+1. Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad;
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+Medidas de Reparación
+
+ARTÍCULO 409 Ter
+
+1. En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+c) Disculpa pública; y
+
+d) Medidas de no repetición.
+
 ### CAPÍTULO SEGUNDO. PROCEDIMIENTO SANCIONADOR ORDINARIO
 
 Inicio del procedimiento
@@ -6626,6 +6872,42 @@ III. Constituyan actos anticipados de precampaña y campaña.
 2. Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión en el Estado, el Instituto presentará la denuncia ante el Instituto Nacional Electoral.
 
 3. Los procedimientos relacionados con el contenido de propaganda que se considere calumniosa sólo podrán iniciarse a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos o delitos falsos con impacto en un proceso electoral.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+4. La Secretaría Ejecutiva por conducto de la Unidad Técnica de lo Contencioso, instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 417 Bis
+
+1. En los procedimientos relacionadas (sic) con violencia política contra las mujeres en razón de género, la Unidad Técnica de lo Contencioso ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+2. Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o municipales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+3. Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley correspondiente.
+
+4. La denuncia deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones.
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten.
+
+5. La Unidad Técnica de lo Contencioso de la Secretaría Ejecutiva, deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral, para su conocimiento.
+
+6. La Unidad técnica de lo Contencioso desechará la denuncia cuando:
+
+a) No se aporten u ofrezcan pruebas.
+
+b) Sea notoriamente frívola o improcedente.
+
+7. Cuando la Unidad Técnica de lo Contencioso de la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
 Del inicio del procedimiento
 
@@ -6850,3 +7132,25 @@ P.O. 7 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 416.- SE REFORMA LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas y sus disposiciones serán aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
