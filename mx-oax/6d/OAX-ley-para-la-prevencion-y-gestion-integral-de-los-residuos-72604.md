@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2020-04-24"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -313,7 +313,13 @@ XXVIII. Fomentar el manejo adecuado de residuos sólidos urbanos y de manejo esp
 
 XXIX. Prevenir, controlar y eliminar la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial;
 
-XXX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XXX. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XXXI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -395,9 +401,17 @@ XIV. Coadyuvar con la Federación y la SEMAEDESO en el control de los residuos p
 
 XV. Coadyuvar con la Federación en la prevención y atención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
 
-XVI. Establecer tarifas y efectuar el cobro por los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la prevención y gestión de los mismos; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XVII. Verificar, inspeccionar y vigilar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás ordenamientos jurídicos de su competencia, e imponer las sanciones y medidas de seguridad aplicables.
+XVI. Establecer tarifas y efectuar el cobro por los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la prevención y gestión de los mismos;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XVII. Verificar, inspeccionar y vigilar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás ordenamientos jurídicos de su competencia, e imponer las sanciones y medidas de seguridad aplicables; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Controlar los residuos sólidos urbanos, y en coordinación con el Estado, aprovechar la materia orgánica en procesos de generación de energía.
 
 ###### Artículo 12.
 
@@ -1630,3 +1644,11 @@ P.O. 24 DE ABRIL DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La prórroga a que hace referencia el artículo Quinto Transitorio empezará a contar al día siguiente de la publicación del presente Decreto, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1602.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 8° LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 11; Y SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 8°, Y LA FRACCIÓN XVIII AL ARTÍCULO 11 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
