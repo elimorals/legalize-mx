@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-08-12"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1495,9 +1495,9 @@ La Comisaría de Policía, es la encargada del orden y la vigilancia en sus resp
 
 Las y los integrantes de las juntas municipales serán electos de acuerdo a las bases establecidas en la Ley Electoral del Estado de Chihuahua y los acuerdos aprobados por el Consejo Estatal del Instituto Estatal Electoral. La Comisaría de Policía será electa de conformidad con los lineamientos que emita el Instituto Estatal Electoral y el convenio de coordinación que se celebre con los respectivos ayuntamientos. Las y los integrantes de las juntas municipales y la Comisaría de Policía podrán ser removidos cuando así lo soliciten más de la mitad de las y los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-I. Las ordinarias, dentro de los primeros sesenta días de gobierno de una nueva administración municipal; y las extraordinarias, cuando haya solicitado la remoción de las autoridades por más de la mitad de las y los ciudadanos y así lo haya acordado el Ayuntamiento;
+I. Las ordinarias, el último domingo de octubre del año en que se instale el Ayuntamiento; y las extraordinarias, cuando haya solicitado la remoción de las autoridades por más de la mitad de los ciudadanos y así lo haya acordado el Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -5512,6 +5512,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0748/2020 IX P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 22, UN PÁRRAFO QUINTO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0262/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 44, FRACCIÓN I DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
