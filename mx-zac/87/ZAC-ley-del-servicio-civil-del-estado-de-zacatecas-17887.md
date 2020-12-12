@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2019-06-26"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -1047,11 +1047,15 @@ XI.- Cubrir las aportaciones que fijen las leyes especiales, para que las y los 
 
 XII.- Poner en conocimiento del sindicato correspondiente los puestos de nueva creación, las vacantes definitivas y las eventuales que deban cubrirse;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadoras y trabajadores; y
+XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadoras y trabajadores;
 
-XIV.- Acatar en sus términos los laudos que emita el Tribunal.
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Prevenir cualquier manifestación de Violencia Política en contra de las mujeres por razones de género, y
+
+XV.- Acatar en sus términos los laudos que emita el Tribunal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1073,11 +1077,17 @@ IV.- Obligar a las y los trabajadores, por cualquier medio, a pertenecer o no a 
 
 V.- Intervenir en cualquier forma en el régimen interno del sindicato de los trabajadores;
 
-VI.- Realizar cualquier acto que tenga por objeto impedir o dificultar que obtenga empleo quien se separe o haya sido separado de su trabajo; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VI.- Realizar cualquier acto que tenga por objeto impedir o dificultar que obtenga empleo quien se separe o haya sido separado de su trabajo;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VII.- Realizar cualquier manifestación de Violencia Política en contra de las mujeres por razones de género, y
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-VII.- Distraer a sus trabajadoras y trabajadores para realizar actividades propias de partidos políticos dentro del horario de trabajo.
+VIII.- Distraer a sus trabajadoras y trabajadores para realizar actividades propias de partidos políticos dentro del horario de trabajo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3460,3 +3470,15 @@ P.O. 26 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 117.- POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
