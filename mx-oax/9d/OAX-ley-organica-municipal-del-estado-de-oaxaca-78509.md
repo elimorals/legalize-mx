@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-11-07"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -787,9 +787,9 @@ LXXXIV.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalizació
 
 LXXXV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-LXXXVI.- Crear la Instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
+LXXXVI.- Crear la Instancia Municipal de las Mujeres, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
@@ -4026,3 +4026,21 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1713.- MEDIANTE EL CUAL EXPIDE LA LEY QUE REGULA LAS INSTANCIAS MUNICIPALES DE LAS MUJERES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Aquellos Ayuntamientos que aún no hayan instalado su Instancia Municipal de las Mujeres, contarán con un plazo de 90 días naturales para la instalación y designación de la Titular, a partir de la entrada en vigor de la presente Ley.
+
+CUARTO. Los Ayuntamientos contarán con el plazo de 90 días para elaborar y aprobar el reglamento de la Instancia Municipal de las Mujeres, conforme a lo dispuesto en el presente Decreto, a partir de la instalación de su Instancia Municipal de las Mujeres.
+
+QUINTO. Los Ayuntamientos deberán asignar la partida presupuestal en la Ley de Presupuesto de Egresos para el Ejercicio Fiscal correspondiente para el cumplimiento de los objetivos de las Instancias Municipales de las Mujeres a que se refiere el presente Decreto.
+
+SEXTO. La Secretaría de las Mujeres de Oaxaca, coadyuvará en el ámbito de sus respectivas competencias y atribuciones, para el logro de los fines y objetivos de las Instancias de las Mujeres será la encargada de coadyuvar con las Autoridades Municipales para la correcta instalación y funcionamiento de las Instancias Municipales de las Mujeres en los 570 Municipios.
+
+SÉPTIMA (SIC). Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
