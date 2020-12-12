@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-10-17"
+last_updated: "2020-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -79,9 +79,17 @@ Para garantizar la protección de los derechos de niñas, niños y adolescentes,
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+IV. Establecer medidas tendentes a prevenir y erradicar los embarazos en niñas y adolescentes con respeto a los derechos humanos y a los derechos sexuales y reproductivos; así como brindar una educación integral oportuna en salud sexual y reproductiva.
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
@@ -785,9 +793,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 ### CAPÍTULO XI. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel de salud, bajo cualquier circunstancia, así como a recibir en el momento que lo requieran, la prestación de servicios de atención médica gratuita y de calidad, con el fin de prevenir, proteger y restaurar su salud.
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel de salud, bajo cualquier circunstancia, así como a recibir en el momento que lo requieran, la prestación de servicios de atención médica gratuita y de calidad, con el fin de prevenir, proteger y restaurar su salud y a recibir la orientación en salud sexual y reproductiva para la prevención de los embarazos en niñas y adolescentes.
 
 Para la efectividad del derecho a la protección de la salud y a la Seguridad Social, de niñas, niños y adolescentes, las autoridades estatales y municipales se coordinarán, en el ámbito de sus respectivas competencias.
 
@@ -2150,3 +2160,11 @@ P.O. 17 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO. NÚM. 1652.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 39; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 4, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
