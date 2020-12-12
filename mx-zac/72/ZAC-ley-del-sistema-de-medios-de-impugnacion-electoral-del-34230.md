@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-de-medios-de-impugnacion-electoral-del-34230"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2015-06-06"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION ELECTORAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -1007,15 +1009,29 @@ Supuestos de procedencia
 
 ARTÍCULO 46 TER
 
-El juicio podrá ser promovido por el ciudadano cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+El juicio podrá ser promovido por la ciudadana o el ciudadano cuando:
 
 I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un Partido Político o coalición, le sea negado indebidamente su registro como candidato a un cargo de elección popular. Si también el partido político interpuso recurso de revisión, por la negativa del mismo registro, el Consejo General del Instituto, a solicitud del Tribunal de Justicia Electoral remitirá el expediente para que sea resuelto por éste, a la par del juicio promovido por el ciudadano;
 
 II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal;
 
-III. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de sus derechos político-electorales; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-IV.- Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior, es aplicable a los precandidatos y candidatos a cargos de elección popular, aún cuando no estén afiliados al partido político estatal señalado como responsable.
+III. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de sus derechos político-electorales;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+IV. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior, es aplicable a los precandidatos y candidatos a cargos de elección popular, aún cuando no estén afiliados al partido político estatal señalado como responsable;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VI (SIC). Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aun cuando no estén afiliadas al partido señalado como responsable, y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VII. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas, en la Ley General de Instituciones y Procedimientos Electorales y en la Ley Electoral del Estado de Zacatecas.
 
 El juicio sólo será procedente, cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -1275,9 +1291,9 @@ II. Si es de diputados por el principio de mayoría relativa y sólo el propieta
 
 III. Si es de ayuntamientos por el principio de mayoría relativa, tomarán el lugar de aquél o aquéllos candidatos propietarios que resulten inelegibles, los respectivos suplentes. En el caso de que al menos el 50% de los integrantes propietarios de la planilla que obtuvo el triunfo en la elección, o la fórmula de propietario y suplente al cargo de Presidente Municipal resultare inelegible, el Tribunal de Justicia Electoral notificará su resolución a la Legislatura, a fin de que se convoque a elecciones extraordinarias, las que deberán de verificarse dentro de los cuarenta y cinco días siguientes a la fecha en que se haya declarado la nulidad por esta causa; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-IV. Si se declara la inelegibilidad de candidatos a quien le correspondiera la asignación de una diputación o de una regiduría, ambos, por el principio de representación proporcional, la nulidad sólo afectará a aquéllos candidatos que se encuentren en ese supuesto. Si el candidato propietario resultare inelegible, tomará el lugar correspondiente su suplente, y en el supuesto de que éste último también sea inelegible, el lugar lo ocupará el candidato que le siga en orden decreciente en la lista correspondiente del mismo partido político o coalición.
+IV. Si se declara la inelegibilidad de candidatos a quien le correspondiera la asignación de una diputación o de una regiduría, ambos, por el principio de representación proporcional, la nulidad sólo afectará a aquéllos candidatos que se encuentren en ese supuesto. Si el candidato propietario resultare inelegible, tomará el lugar correspondiente su suplente, y en el supuesto de que éste último también sea inelegible, el lugar lo ocupará el candidato que le siga en orden decreciente en la lista correspondiente del mismo partido político y del mismo género para preservar la integración paritaria de la Legislatura o los Ayuntamientos.
 
 ### CAPÍTULO SEGUNDO. De la Procedencia y Legitimidad
 
@@ -1572,3 +1588,25 @@ SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentre
 TERCERO. En las elecciones ordinarias que se verifiquen el primer domingo de julio del año 2018, los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos el día 5 de agosto del mismo año.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 416.- SE REFORMA LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas y sus disposiciones serán aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
