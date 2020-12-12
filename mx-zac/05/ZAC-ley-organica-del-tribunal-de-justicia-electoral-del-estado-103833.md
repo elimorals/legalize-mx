@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-tribunal-de-justicia-electoral-del-estado-1038
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-26"
-last_updated: "2014-11-26"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 26 de noviembre de 2014.
 
@@ -264,6 +266,10 @@ Integración del Tribunal
 El Tribunal se integrará por cinco Magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años; serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, mediante convocatoria pública y conforme a lo dispuesto en el reglamento respectivo.
 
 Será presidido por un Magistrado, que será designado por votación mayoritaria de los Magistrados integrantes del Pleno y la Presidencia deberá ser rotatoria, en los términos previstos en la presente Ley y en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+El Tribunal deberá integrarse de conformidad con el principio de paridad de género.
 
 Estructura del Tribunal
 
@@ -1530,3 +1536,17 @@ LIC. MIGUEL ALEJANDO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. FRANCISCO ESCOBEDO VILLEGAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
