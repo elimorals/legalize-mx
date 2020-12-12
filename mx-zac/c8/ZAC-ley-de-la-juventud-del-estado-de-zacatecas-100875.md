@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2019-08-24"
+last_updated: "2020-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -131,9 +131,17 @@ V. Afiliarse a un instituto político, recibir capacitación y contender en los 
 
 VI. Participar en la vida política del Estado de forma directa y decidida para el diseño de las políticas públicas, en beneficio de la sociedad;
 
-VII. Ejercer su libertad de expresión, militancia política y adhesión a alguna agrupación, con apego a la legislación vigente, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
-VIII. A una vida digna, libre de violencia y de cualquier tipo de explotación. Así como a una convivencia pacífica.
+VII. Ejercer su libertad de expresión, militancia política y adhesión a alguna agrupación. con apego a la legislación vigente;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VIII. Ejercer sus derechos civiles, políticos y electorales, libre de violencia política en contra de la mujer por razones de género, y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+
+VIII (SIC). A una vida digna, libre de violencia y de cualquier tipo de explotación. Así como a una convivencia pacífica.
 
 #### SECCIÓN SEGUNDA. DERECHOS A LA SALUD
 
@@ -1210,3 +1218,15 @@ P.O. 24 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 12 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, LEY ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS, LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS Y LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 16 de septiembre de 2021, previa su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas, sin menoscabo de lo señalado en los siguientes artículos.
+
+Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal de Justicia Electoral del Estado de Zacatecas deberán realizar las adecuaciones a su normatividad respectiva que sean necesarias para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
