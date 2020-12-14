@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-radio-y-2790"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-11"
-last_updated: "2020-03-30"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento al Número 2 del Periódico Oficial del Estado de Aguascalientes, el 11 de enero de 1987.
 
@@ -110,6 +110,10 @@ g).- Mantener oportunamente informada a la población sobre: los planes, program
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2020)</small>
 
 h).- Promover la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+i).- Promover la cultura del emprendimiento y fomento al consumo de los productos elaborados en el Estado.
 
 XIII.- El organismo en el cumplimiento de su objeto dará prioridad a la producción y transmisión de programas radiofónicos y de televisión dirigidos a la población infantil y a la juventud para propiciar su desarrollo armónico, creatividad, solidaridad humana, su interés científico, artístico y social así como el conocimiento y protección de los valores humanos e históricos de la Entidad, procurando asimismo la comprensión de los valores cívicos nacionales y estatales y fomentar el conocimiento de la comunidad internacional.
 
@@ -364,3 +368,11 @@ P.O. 30 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 431.- ADICIÓN A LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
