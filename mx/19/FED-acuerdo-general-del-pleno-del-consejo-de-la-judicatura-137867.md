@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-137867"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-08-27"
-last_updated: "2020-11-17"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-08-21"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITAS O PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION] -- ANTES ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION] --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE DICIEMBRE DE 2020.]</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 27 de agosto de 2019.
 
@@ -87,19 +87,23 @@ IX. Lista: Relación de personas que pueden fungir como peritos ante los órgano
 
 X. Órgano administrativo: Comisión Substanciadora Única del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(F. DE E., D.O.F. 14 DE DICIEMBRE DE 2020)</small>
 
-XI. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Tribunales Laborales Federales;
+XI. Órganos auxiliares: La Contraloría del Poder Judicial de la Federación; el Instituto de la Judicatura; el Instituto Federal de Defensoría Pública; el Instituto Federal de Especialistas de Concursos Mercantiles; la Unidad General de Investigación de Responsabilidades Administrativas; y la Visitaduría Judicial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+(REFORMADA POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020) (F. DE E., D.O.F. 14 DE DICIEMBRE DE 2020)
 
-XI Bis. Tribunal Laboral Federal: órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
-
-XII. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+XII. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Tribunales Laborales Federales;
 
 XIII. Perito: Persona que cuenta con conocimientos en la profesión, oficio, ciencia, arte o técnica de una materia;
 
-XIV. Solicitante: Órganos jurisdiccionales, órganos auxiliares, órgano administrativo y unidades administrativas, que requieran los servicios periciales; y
+(REFORMADA POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020) (F. DE E., D.O.F. 14 DE DICIEMBRE DE 2020)
+
+XIV. Solicitante: Órganos jurisdiccionales, órganos auxiliares, órgano administrativo y unidades administrativas, que requieran los servicios periciales;
+
+(ADICIONADA POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020) (F. DE E., D.O.F. 14 DE DICIEMBRE DE 2020)
+
+XIV Bis. Tribunal Laboral Federal: Órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo; y
 
 XV. Unidades Administrativas: Las ponencias de los Consejeros, la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia; secretarías técnicas de Comisiones, direcciones generales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
