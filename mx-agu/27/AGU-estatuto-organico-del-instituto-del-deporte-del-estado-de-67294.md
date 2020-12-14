@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-del-deporte-del-estado-de-67294
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-09"
-last_updated: "2018-09-10"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -900,7 +900,9 @@ El Órgano Interno de Control dirigirá sus funciones conforme a los lineamiento
 
 La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tendrá las siguientes funciones:
 
-I. Elaborar y ejecutar, con aprobación del Rector, el programa anual de auditorías a las diversas áreas que conforman "EL IDEA";
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+I. Elaborar y ejecutar, con aprobación de “EL DIRECTOR GENERAL”, el programa anual de auditorías a las diversas áreas que conforman "EL IDEA";
 
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de "EL IDEA";
 
@@ -924,9 +926,17 @@ IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Est
 
 X. Asesorar a los servidores públicos y Unidades Administrativas de "EL IDEA" en los asuntos de su competencia;
 
-XI. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-XII. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
+XI. Participar en los actos de entrega recepción de las Unidades Administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIII. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
 
@@ -958,7 +968,9 @@ XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autorid
 
 XII. Habilitar días y horas inhábiles para la práctica de diligencias;
 
-XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
 
 XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
 
@@ -966,9 +978,17 @@ XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notifica
 
 XVI. Rendir informe trimestral a "LA JUNTA DIRECTIVA", a través de “EL DIRECTOR GENERAL”, sobre el estado que guardan los asuntos de su competencia;
 
-XVII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+XVII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIV. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
 
@@ -996,9 +1016,29 @@ VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vincu
 
 VII. Rendir informe trimestral a "LA JUNTA DIRECTIVA", a través de “EL DIRECTOR GENERAL”, sobre el estado que guardan los asuntos de su competencia;
 
-VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-IX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+IX. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+X. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XII. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 T R A N S I T O R I O S :
 
@@ -1069,3 +1109,23 @@ Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Esta
 P.O. 10 DE SEPTIEMBRE DE 2018.
 
 > <small>[N. DE E. LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones al Estatuto Orgánico del Instituto del Deporte del Estado de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas y adiciones, quedan sin efecto aquellas disposiciones que se opongan a las mismas.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir las presentes reformas y adiciones al Estatuto Orgánico del Instituto del Deporte del Estado de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado en el Libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+Realícese la adecuación necesaria a la demás normatividad interna aplicable al Instituto del Deporte del Estado de Aguascalientes, con motivo de la entrada en vigor de las reformas y adiciones al Estatuto Orgánico que nos ocupa.
