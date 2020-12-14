@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2020-12-07"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -841,9 +841,9 @@ IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspo
 
 X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-XI.- Conceder licencias hasta por cinco días hábiles a sus trabajadores mujeres y varones, con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
+XI.- Conceder licencias hasta por diez días hábiles a sus trabajadores mujeres y varones, con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -861,9 +861,21 @@ C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de s
 
 En el caso de trabajadores cuyo hijo padezca de cáncer, en cualquiera de sus tipos, la licencia señalada en este artículo se extenderá al tiempo señalado en el Articulo 57 Ter de esta Ley; y
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-D.- Por enfermedad de sus hijos, cuando por esta razón no sean admitidos en la estancia infantil.
+D.- Por enfermedad de sus hijos, cuando por esta razón no sean admitidos en la estancia infantil;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+E.- Por fallecimiento del recién nacido y/o de la madre;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+F.- Por diagnóstico de discapacidad del menor al momento del nacimiento; y
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+G.- Por la pérdida del no nacido durante la gestación o previo al alumbramiento.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
 
@@ -1421,9 +1433,11 @@ VI.- Proporcionar a las autoridades, los informes que le sean requeridos y pract
 
 VIII (sic).- Representar al Tribunal ante las demás autoridades.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 118.
 
-El incumplimiento de las obligaciones del personal jurídico y administrativo del Tribunal, será sancionado por el presidente del mismo.
+El incumplimiento de las obligaciones del personal jurídico y administrativo del Tribunal, será sancionado por la Contraloría General del Estado, como Órgano de Control Interno, y conforme a los procedimientos previstos por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTICULO 119.
 
@@ -1648,6 +1662,10 @@ II.- Las demás, al día siguiente al de su aplicación en los estrados del Trib
 ###### ARTICULO 151.
 
 Las notificaciones deberán hacerse en días y horas hábiles, cuando menos con una anticipación de 48 horas del día y hora en que deba efectuarse la diligencia, salvo disposición en contrario.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el personal del Tribunal no realice las notificaciones, por más de dos ocasiones consecutivas en un mismo expediente, en los términos previstos en el párrafo anterior, sin una causa justa, deberá ser sancionado conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, a través de la denuncia que las partes en proceso interpongan ante el Órgano de Control Interno competente.
 
 ###### ARTICULO 152.
 
@@ -2226,3 +2244,19 @@ El presente decreto iniciará su vigencia a los ciento ochenta días naturales s
 ###### ARTÍCULO SEGUNDO.
 
 Las autoridades de los tres poderes del Estado, los Órganos Constitucionalmente Autónomos y los Ayuntamientos que cuenten con normatividad propia sobre condiciones generales de trabajo, tendrán un plazo de ciento veinte días naturales siguientes a la publicación del presente decreto para reformar sus reglamentos internos a fin de adecuarlos a la presente reforma y regular el procedimiento operativo de estas licencias.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 432.- REFORMAS Y ADICIONES AL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 433.- REFORMAS Y ADICIONES AL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
