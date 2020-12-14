@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-becas-academicas-para-el-estado-de-57592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2007-11-19"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE BECAS ACADEMICAS PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -43,9 +43,11 @@ REGLAMENTO DE BECAS ACADÉMICAS PARA EL ESTADO DE AGUASCALIENTES
 
 El presente Reglamento tiene por objeto determinar las normas y procedimientos conforme a las cuales se deberá llevar a cabo la asignación de becas académicas para los alumnos inscritos en las instituciones particulares que cuenten con autorización o con reconocimiento de validez oficial otorgado por el Instituto de Educación de Aguascalientes, conforme a lo señalado de (sic) la Ley General de Educación y en la ley de Educación para el Estado de Aguascalientes.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-Para efectos del presente Reglamento, la autoridad responsable de la aplicación y cumplimiento de lo señalado en el artículo anterior, será el Instituto de Educación de Aguascalientes, a través de la Dirección de Becas y Financiamiento Educativo, de conformidad a lo estipulado en la Ley de Educación para el Estado de Aguascalientes.
+###### ARTÍCULO 2°.
+
+Para efectos del presente Reglamento, la autoridad responsable de la aplicación y cumplimiento de lo señalado en el artículo anterior, será el Instituto de Educación de Aguascalientes, a través de la Coordinación de Becas y Financiamiento Educativo, de conformidad a lo estipulado en la Ley de Educación para el Estado de Aguascalientes.
 
 ###### ARTÍCULO 3º.
 
@@ -77,9 +79,11 @@ Las solicitudes deberán ser distribuidas gratuitamente.
 
 La institución educativa deberá tener disponible toda la información relacionada con las becas académicas con la finalidad de proporcionarla a cualquier miembro de la comunidad escolar de su plantel que la solicite, debiendo colocar y difundir la convocatoria oficial correspondiente en lugar visible al público durante el período señalado por el Instituto de Educación de Aguascalientes.
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-Los aspirantes deberán presentar su solicitud debidamente requisitada además de acompañar a la misma los documentos señalados, en la dirección de la institución educativa en la que esté inscrito el aspirante, de conformidad a los tiempos establecidos en la convocatoria emitida por la Dirección de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes.
+###### ARTÍCULO 9°.
+
+Los aspirantes deberán presentar su solicitud debidamente requisitada además de acompañar a la misma los documentos señalados, en la dirección de la institución educativa en la que esté inscrito el aspirante, de conformidad a los tiempos establecidos en la convocatoria emitida por la Coordinación de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes.
 
 ###### ARTÍCULO 10.
 
@@ -113,9 +117,11 @@ El Instituto de Educación de Aguascalientes podrá asignar las becas que no se 
 
 Para la renovación de becas se deberán realizar los trámites correspondientes en la Dirección del plantel educativo y fechas señaladas en la convocatoria oficial vigente.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-El Instituto de Educación de Aguascalientes, a través de la Dirección de Becas y Financiamiento Educativo deberá publicar los resultados en las instituciones educativas en las fechas señaladas en la convocatoria oficial vigente.
+El Instituto de Educación de Aguascalientes, a través de la Coordinación de Becas y Financiamiento Educativo deberá publicar los resultados en las instituciones educativas en las fechas señaladas en la convocatoria oficial vigente.
 
 ### CAPÍTULO II. Del Comité de Institución
 
@@ -143,9 +149,13 @@ II. El listado incluirá a los alumnos que hayan sido seleccionados por le (sic)
 
 En caso de que algún alumno carezca de los requisitos para conservar la beca, ésta será otorgada a otro alumno, conforme al orden descendente del listado;
 
-III. El listado incluirá nombres de alumnos hasta por el porcentaje establecido en la Ley de Educación para el Estado de Aguascalientes. Si el representante de la Institución objetara a algún aspirante preseleccionado, deberá notificarlo por escrito al Director de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes, en los términos estipulados, señalando los motivos por los que lo objeta. De resultar procedente su objeción, se otorgará la beca al siguiente aspirante de la lista, en orden consecutivo descendente o en su caso, al aspirante propuesto por la misma institución;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-IV.- La selección definitiva deberá ser validada en la fecha señalada en la convocatoria, con la firma del representante de cada institución. En caso de no emitir esta validación sobre el listado presentado por la Dirección de Becas y Financiamiento Educativo, se considerará como aprobada por la institución educativa.
+III. El listado incluirá nombres de alumnos hasta por el porcentaje establecido en la Ley de Educación del Estado de Aguascalientes. Si el representante de la Institución objetara a algún aspirante preseleccionado, deberá notificarlo por escrito al Coordinador de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes, en los términos estipulados, señalando los motivos por los que lo objeta. De resultar procedente su objeción, se otorgará la beca al siguiente aspirante de la lista, en orden consecutivo descendente o en su caso, al aspirante propuesto por la misma institución;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+IV. La selección definitiva deberá ser validada en la fecha señalada en la convocatoria, con la firma del representante de cada institución. En caso de no emitir esta validación sobre el listado presentado por la Coordinación de Becas y Financiamiento Educativo, se considerará como aprobada por la institución educativa.
 
 ###### ARTÍCULO 19.
 
@@ -159,9 +169,11 @@ A los alumnos que resulten seleccionados como becarios se les bonificará o rein
 
 ### CAPÍTULO I. De las Causas de Cancelación de Becas
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
-El representante del Comité de la Institución podrá solicitar cancelar una beca académica dentro del ciclo escolar, informando por escrito al Director de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes, únicamente cuando el alumno tenga una mala conducta de forma reiterada durante el período para el cual fue becado, debiendo existir constancia de que los padres o tutores no hayan atendido las amonestaciones que la institución educativa les hubiere comunicado por escrito.
+El representante del Comité de la Institución podrá solicitar cancelar una beca académica dentro del ciclo escolar, informando por escrito al Coordinador de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes, únicamente cuando el alumno tenga una mala conducta de forma reiterada durante el período para el cual fue becado, debiendo existir constancia de que los padres o tutores no hayan atendido las amonestaciones que la institución educativa les hubiere comunicado por escrito.
 
 ###### ARTÍCULO 22.
 
@@ -188,3 +200,11 @@ PRIMERO.- Quedan sin efecto las reglamentaciones anteriores a este instrumento, 
 SEGUNDO.- Las instituciones educativas que actualmente no cuenten con autorización o reconocimiento de validez oficial, serán sometidas a este Reglamento a partir de la fecha en que lo obtengan.
 
 Aguascalientes, Ags., a 20 de octubre del año dos mil seis.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO DE BECAS ACADÉMICAS PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas al Reglamento de Becas Académicas para el Estado de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
