@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2020-06-22"
+last_updated: "2020-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -47,7 +47,7 @@ TERCERO. Una vez turnada la solicitud respectiva a la Comisión asignada, la Com
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Por todo lo anterior, se somete a la consideración del H. Ayuntamiento el siguiente Dictamen que contiene el Proyecto de Resolutivo con el siguiente:
 
@@ -278,6 +278,10 @@ X. Secretaría de Desarrollo Económico;
 XI. Secretaría de Administración; y
 
 XII. Secretaría de Contraloría y Transparencia.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XIII. Secretaría Municipal de las Mujeres.
 
 ###### ARTÍCULO 18.
 
@@ -1567,11 +1571,11 @@ XVII. Las demás que determinen las disposiciones legales y reglamentarias aplic
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 60.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo la protección, control y bienestar de la fauna del Municipio, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo, la protección, control, bienestar de la fauna, ejemplares de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
 
 ###### ARTÍCULO 61.
 
@@ -1633,7 +1637,7 @@ XXVII. Proponer la búsqueda de financiamiento y fondeo para los Planes, Proyect
 
 XXVIII. Autorizar mediante dictamen los proyectos de arborización y reforestación de las obras públicas o privadas a ejecutarse;
 
-XXIX. Proponer, aplicar, desarrollar y ejecutar las acciones, proyectos y programas en material (sic) de recursos naturales con capitales provenientes de diferentes fondos;
+XXIX. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
 
@@ -1667,9 +1671,39 @@ XXXVI.- Coordinar la conformación y operación del Área Técnica de Protecció
 
 XXXVII. Participar en el Consejo Municipal de Bienestar Animal el cual tendrá por objeto autorizar y vigilar el comportamiento de las políticas públicas tendientes al bienestar animal;
 
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+XXXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
 
-XXXVIII.- Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XXXIX.- Planear, coordinar y evaluar la operación de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, en los términos de la Ley orgánica Municipal del Estado de Hidalgo y Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, el decreto de presupuesto de egresos del Municipio de Pachuca de soto, Hidalgo; así como los oficios circulares que emitan las Autoridades competentes en la materia;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XL. Coordinar y rubricar la presentación trimestralmente ante la Junta de Gobierno (sic) un informe de actividades de la unidad, que incluya la evaluación programática-presupuestal, la captación de los ingresos y el ejercicio del presupuesto de egresos, así como los estados financieros correspondientes;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLI. Vigilar la utilización del recurso autorizado al organismo descentralizado, con la intervención que en su caso corresponda a la Secretaría de la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLII. Vigilar los programas de corto, mediano y largo plazo: institucionales, de acción, financiero y operativo anual, así como las cuotas y tarifas, y presentarlos para su aprobación a la junta de gobierno;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLIII. Vigilar la administración y representación legal de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLIV. Dirigir la elaboración del programa operativo en el que deberá basar su actuación con enfoque en presupuesto basado en resultados;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLV. SUpervisar (sic) las donaciones en especie o monetarias para beneficio de los ejemplares de vida silvestre que se encuentren en Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, sus estudios diagnósticos, tratamientos, traslado y todo lo que contribuya a mejorar el bienestar del animal; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XLVI. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable a su ámbito de competencia y la o él presidente municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
@@ -1683,7 +1717,11 @@ II. Dirección de Sustentabilidad de los Recursos Naturales.
 
 > <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
 
-III.- Área Técnica de Protección, Sanidad Animal y Control de especies animales
+III. Área Técnica de Protección, Sanidad Animal y Control de especies animales
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+IV. Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México
 
 ###### ARTÍCULO 63.
 
@@ -1784,6 +1822,52 @@ X. Promover la investigación de nuevas fuentes de energía renovables, que coad
 XI. Coordinar la difusión y aplicación de Normas Oficiales Mexicanas y disposiciones legales relacionadas con el uso de nuevas fuentes de energía renovables que produzcan un menor impacto ecológico al medio ambiente, conforme al ámbito de su competencia; y
 
 XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 64 BIS.- Para el cumplimiento de su objeto, la primera Unidad de Rescate, Rehabilitación y Reubicación de Fauna Silvestre, Endémica y Exótica de México, tendrá las siguientes atribuciones:
+
+I. Recibir, alojar, alimentar y atender médica y conductualmente a los animales de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de la proyección ejecución y evaluación de programas y acciones, en coordinación con las dependencias y entidades de las administraciones públicas federal, estatal, municipal, así como con los sectores social y privado de acuerdo a los ordenamientos legales aplicables a la materia.
+
+II. Gestionar administrativa y legalmente el proceso de traslado, reubicación o liberación de animales de vida silvestre depositados por las autoridades ambientales o competentes en el tema.
+
+III. Reproducir sólo a especies endémicas del territorio nacional sujetas a las capacidades técnicas, de instalaciones y de presupuesto de la unidad
+
+IV. Fomentar la investigación a partir de estudios de caso, en conjunto con universidades y centros de investigación.
+
+V. la unidad no venderá ni comprará animales de vida silvestre.
+
+VI. Generar investigación científica en materia de fauna silvestre, así como su divulgación para mitigar y concientizar sobre el tráfico ilegal de especies.
+
+VII. Coadyuvar con la autoridad ambiental competente para llevar a cabo el rescate de los ejemplares.
+
+VIII. ser parte del proceso de rescate, rehabilitación, y en su caso, liberación en su medio natural y/o la entrega del animal a áreas naturales protegidas o santuarios en México o el extranjero, de acuerdo a los lineamientos legales vigentes.
+
+IX. Contribuir con campañas de educación ambiental a la cultura del respeto de fauna.
+
+X. Fungir como un órgano consultivo y de apoyo del presidente municipal respecto de la población de vida silvestre atendida por esta unidad.
+
+XI. Convocar a la participación activa de la sociedad civil y de las instituciones públicas y privadas para el rescate y rehabilitación de la fauna silvestre, endémica y exótica.
+
+XII. Gestionar donativos en especie o en efectivo para ayudar a cubrir los gastos que genera la alimentación, diagnóstico y tratamiento de los ejemplares y lo que derive.
+
+XIII. Establecer convenios con instituciones nacionales e internacionales, profesionistas independientes y todo aquel que aporte conocimientos y habilidades en beneficio de los ejemplares tratados en esta unidad.
+
+XIV. Salvaguardar la integridad física del personal por medio de reglamentos y protocolos de seguridad y bioseguridad.
+
+XV. Capacitación y actualización del personal en temas de salud, seguridad, manejo y etología.
+
+XVI. Los visitantes podrán apreciar a los animales que se encuentren en los espacios destinados para este fin.
+
+XVII. Se tendrá un representante legal (director), representante técnico (veterinario o biólogo) y plan de manejo como requisito de registro de PIMVS ante la secretaría.
+
+XVIII. Dentro de la plantilla del personal siempre se contará con un médico veterinario zootecnista como titular del área médica y un biólogo o médico veterinario como titular del área de etología.
+
+XIV (SIC). Nos regimos bajo los cinco dominios del bienestar animal teniendo la eutanasia bajo el sacrificio humanitario como última opción por lo que se debe de hacer todo lo médico y humanamente posible para salvar la vida de los animales que ingresan a esta unidad sin contravenir en su dignidad.
+
+XV. si el director ejecutivo deja el cargo, en efecto deja de ser representante legal siendo el (la) nuevo(a) director representante legal del PIMVS realizando el trámite correspondiente ante la secretaría.
+
+XVI. Se cobrará estancia del ejemplar depositado cuando pueda ser aplicado.
 
 ### CAPÍTULO VIII. DE LA SECRETARÍA DE OBRAS PÚBLICAS, DESARROLLO URBANO, VIVIENDA Y MOVILIDAD
 
@@ -2393,79 +2477,87 @@ XIV. Las demás que determinen las disposiciones legales y reglamentarias aplica
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 83.
 
-La Secretaría de Desarrollo Humano y Social es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política social, coordinando el desarrollo, crecimiento y bienestar de la población del municipio, mediante acciones que garanticen los derechos sociales de personas, familias y grupos sociales en situación de pobreza, vulnerabilidad y marginación, estableciendo vínculos con los gobiernos Federal y Estatal, y con organizaciones de la sociedad civil, en la aplicación de programas y proyectos destinados al desarrollo social.
+La Secretaría de Desarrollo Humano y Social es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política social, coordinando el desarrollo, crecimiento y bienestar de la población del Municipio, mediante acciones que garanticen los derechos sociales de personas, familias y grupos sociales en situación de pobreza, vulnerabilidad y marginación, estableciendo vínculos con los gobiernos federal y estatal, y con organizaciones de la sociedad civil, en la aplicación de programas y proyectos destinados al desarrollo social.
 
-Además se encargará de fomentar la participación ciudadana en la educación, la cultura, el deporte, la recreación y la promoción cívico-social y humana, encaminada a regular y garantizar el derecho a la equidad de género entre la mujer y el hombre.
+Además, se encargará de fomentar la participación ciudadana en la educación, la inclusión, la salud, relaciones libres de discriminación, la recreación y la promoción cívico-social; encaminada a regular y garantizar el derecho a la igualdad real entre personas, generando acciones para contribuir a la justicia social y al desarrollo humano de la población.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 84.
 
-A la o el Titular de la Secretaría de Desarrollo Humano y Social, le corresponderá el despacho de las siguientes atribuciones:
+A la o el titular de la Secretaría de Desarrollo Humano y Social, le corresponderá el despacho de las siguientes atribuciones:
 
-I. Formular, ejecutar y dar seguimiento al Programa de Desarrollo Humano y Social para fortalecer las capacidades de los grupos socialmente vulnerables del Municipio que no sean competencia de otras secretarías de la administración municipal;
+I. Formular, ejecutar y dar seguimiento al programa de desarrollo humano y social para fortalecer las capacidades de grupos socialmente vulnerables del municipio que no sean competencia de otras secretarías de la administración municipal;
 
-II. Proponer a la o el Presidente Municipal, coordinar y ejecutar políticas públicas incluyentes que promuevan la igualdad de oportunidades para el desarrollo social y humano de los habitantes del Municipio, así como la participación ciudadana en actividades educativas, artísticas, culturales, cívicas, recreativas, de salubridad y deportivas;
+II. Proponer a la o el presidente municipal, coordinar y ejecutar las políticas públicas que promuevan la igualdad de oportunidades para el desarrollo social y humano de la población del municipio, así como la participación ciudadana en actividades educativas, artísticas, cívicas, recreativas, de salubridad.
 
-III. Promover la participación corresponsable de las diferentes secretarías y entidades municipales, estatales, federales y la sociedad civil en los programas de desarrollo social y humano a su cargo;
+III. Promover la participación corresponsable de las diferentes secretarías y entidades municipales, estatales, federales y la sociedad civil; en los programas de desarrollo social y humano a su cargo;
 
-IV. Planear, formular, normar, instrumentar, coordinar y supervisar el establecimiento de acciones de carácter social para la promoción y ejecución de programas, obras y proyectos que contribuyan al mejoramiento de la calidad de vida de los habitantes de (sic) Municipio;
+IV. Planear, formular, normar, instrumentar, coordinar y supervisar el establecimiento de acciones de carácter social para la promoción y ejecución de programas, obras y proyectos que contribuyan al mejoramiento de la calidad de vida de los habitantes del municipio;
 
-V. Proyectar y coordinar la participación del Municipio con los gobiernos Estatal y Federal, sobre la política social;
+V. Proyectar y coordinar la participación del municipio con los gobiernos estatal y federal, sobre la política social;
 
-VI. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida, en lo que la o el Presidente Municipal convenga con los gobiernos estatales y federal, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento, control y evaluación;
+VI. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida, en lo que la o el presidente municipal convenga con los gobiernos estatal y federal, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento, control y evaluación;
 
 VII. Gestionar el ejercicio de recursos federales y estatales en aquellos programas de desarrollo social en los cuales exista concurrencia con los otros niveles de gobierno;
 
-VIII. Coordinar con la Secretaría de Desarrollo Económico Municipal, el fomento de condiciones que permitan estimular la productividad de grupos vulnerables de la población del Municipio;
+VIII. Coordinar con la secretaría de desarrollo económico municipal, el fomento de condiciones que permitan estimular la productividad de grupos en situación de vulnerabilidad de la población del municipio;
 
-IX. Proponer políticas públicas que permitan contribuir al desarrollo de capacidades productivas de las personas, familias, grupos vulnerables y organizaciones sociales;
+IX. Proponer políticas públicas que permitan contribuir al desarrollo de capacidades productivas de las personas, familias, grupos en situación de vulnerabilidad y organizaciones sociales;
 
-X. Proponer a la o el Presidente Municipal, políticas de apoyo a la participación de los grupos vulnerables de la población, para promover su participación activa en el desarrollo de sus capacidades, con base en los principios de equidad e igualdad de oportunidades, en coordinación con las autoridades Estatales y Federales competentes en la materia;
+X. Proponer a la o el presidente municipal, políticas de apoyo a la participación de los grupos vulnerables de la población, para promover su participación activa en el desarrollo de sus capacidades, con base en los principios de equidad, inclusión e igualdad de oportunidades, en coordinación con las autoridades estatales y federales competentes en la materia;
 
-XI. Coadyuvar y ejecutar, en el ámbito de su competencia, el programa educativo del Municipio, en coordinación con las autoridades federales y estatales responsables en la materia;
+XI. Coadyuvar y ejecutar, en el ámbito de su competencia, el programa educativo del municipio, en coordinación con las autoridades estatales y federales responsables en la materia;
 
-XII. Proponer los mecanismos de difusión y promoción de la cultura y las artes dentro del ámbito municipal, fomentando la participación de los diferentes grupos sociales;
+XII. Diseñar programas, proyectos y estudios focalizados a la atención de la diversidad sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación y deporte, principalmente; pero sin ser exclusivos;
 
-XIII. Fomentar, organizar y programar eventos y actividades culturales, cívicas, de recreación y esparcimiento para los habitantes y visitantes del municipio, enfocados a desarrollar una cultura ciudadana participativa y socialmente corresponsable;
+XIII. Fomentar, organizar y programar eventos y actividades culturales, cívicas, de recreación y esparcimiento, para los habitantes y visitantes del municipio, enfocados a desarrollar una cultura ciudadana participativa y socialmente corresponsable;
 
-XIV. Formular estrategias mediante las cuales se organice, administre y enriquezca sistemáticamente las bibliotecas públicas municipales;
+XIV. Formular estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
 
 XV. Promover el patrocinio en la realización de congresos, asambleas, reuniones, eventos, competencias, conferencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
 
-XVI. Establecer metas cuantitativas y cualitativas e indicadores de resultados y de gestión de los programas de desarrollo social a su cargo y de aquellos que se realicen de manera coordinada con los gobiernos Estatal y Federal;
+XVI. Establecer metas cuantitativas y cualitativas e indicadores de resultados y de gestión de los programas de desarrollo social a su cargo y de aquellos que se realicen de manera coordinada con los gobiernos estatal y federal;
 
 XVII. Establecer mecanismos para incluir la participación social organizada en los programas, proyectos y acciones de desarrollo humano y social a cargo de la secretaría;
 
-XVIII. Proponer programas y acciones que propicien el desarrollo humano y social de los niños, niñas y jóvenes en el Municipio;
+XVIII. Proponer programas y acciones que propicien el desarrollo humano y social de los niños, niñas, adolescentes y jóvenes del municipio;
 
-XIX. Conducir y formular la política municipal de Atención a la Juventud, instrumentando los programas, proyectos y estudios que les garantice, entre otros, sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte;
+XIX. Conducir y formular la política municipal de atención a las personas adultas mayores, instrumentando los programas, proyectos y estudios que les garanticen entre otros, sus derechos a la vida digna, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte;
 
-XX. Fungir, cuando así se lo instruya la o el Presidente Municipal, como representante en materia de la juventud, ante las diferentes instancias de gobierno, organizaciones sociales, estatales, nacionales, y dado el caso, internacionales; buscando concertar acuerdos y convenios para promover la participación en la ejecución de las políticas, programas y acciones tendientes al desarrollo integral de la juventud;
+XX. Fungir, cuando así lo instruya la o el presidente municipal, como representante en materia de personas adultas mayores ante las diferentes instancias de gobierno, organizaciones sociales, estatales, nacionales, y dado el caso, internacionales; buscando concertar acuerdos y convenios para promover la participación en la ejecución de las políticas, programas y acciones tendientes al desarrollo y atención integral de las personas adultas mayores;
 
 XXI. Fomentar la cultura de la corresponsabilidad social;
 
-XXII. Proponer políticas públicas que garanticen el derecho a la igualdad de género entre las mujeres y los hombres, estableciendo los lineamientos y mecanismos institucionales que oriente el (sic) Municipio hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo humano y social; y
+XXII. Proponer políticas públicas que garanticen el derecho a la igualdad de género entre las mujeres y los hombres, estableciendo los lineamientos y mecanismos institucionales que oriente el municipio hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo humano y social; y
 
-XXIII. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
+XXIII. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable en su ámbito de competencia y la o el presidente municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 85.
 
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Desarrollo Humano y Social contará con la siguiente estructura:
+Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de funciones y atribuciones a su cargo, la Secretaría de Desarrollo Humano y Social contará con la siguiente estructura:
 
-I. Dirección de Desarrollo Social;
+a) Dirección de desarrollo social;
 
-II. (DEROGADA POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
+b) Dirección de salud humana;
 
-III. Dirección de Educación; y
+c) Dirección de educación; y
 
-IV. (DEROGADA POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
+d) Dirección de atención a las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 86.
 
-A la Dirección de Desarrollo Social le corresponderá el ejercicio de las siguientes atribuciones:
+La Dirección de Desarrollo Social, le corresponderá el ejercicio de las siguientes atribuciones:
 
 I. Proponer líneas estratégicas para la planeación, organización y ejecución de la política Municipal en materia de desarrollo humano y social del Municipio;
 
@@ -2501,51 +2593,181 @@ XVI. Promover acciones encaminadas a lograr la re-certificación anual de la Red
 
 XVII. Participar en campañas de vacunación, ferias de salud, detecciones oportunas de cáncer cérvico uterino, diabetes mellitus, hipertensión arterial, embarazo de alto riesgo así como pláticas de salud sexual y reproductiva a la población del Municipio; y,
 
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Coordinar a través del Departamento de Diversidad Sexual la vinculación de poblaciones de la Diversidad Sexual.
+
+XIX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 86 BIS.- Al Departamento de Diversidad Sexual le corresponderá el despacho de las siguientes atribuciones.
+
+I.- Proponer acciones en materia de política y planeación Municipal para la Atención de las poblaciones de la Diversidad Sexual.
+
+II.- Diseñar programas y proyectos focalizados a la atención, visibilización e inclusión de la Diversidad Sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación deporte y demás derecho, principalmente pero sin ser exclusivos;
+
+III.- Coordinar la observancia de la Ley para Prevenir, Atender y Eliminar la Discriminación en el Estado de Hidalgo así como impulsar la Ley para la Familia del Estado de Hidalgo, de acuerdo con las últimas reformas del 2019 relativas a la población de la Diversidad Sexual y del marco jurídico vigente aplicable en la materia;
+
+IV.- Brindar asesoría y seguimiento a las problemáticas de las poblaciones de la Diversidad Sexual, para el acceso a los programas Municipales, Estatales y Federales, que apoyen el desarrollo integral de estas poblaciones en el Municipio;
+
+V.- Generar programas de capacitación para el personal médico y de enfermería para que reconozcan y garanticen el pleno derecho a la salud sin discriminación.
+
+VI.- Buscar la vinculación con las autoridades para la generación de un programa de inclusión laboral para personas de la diversidad sexual con énfasis en las personas trans, y generar una cultura de un mercado laboral más amplio para ellas.
+
+VII.- Es necesario impulsar un programa municipal de capacitación educativa integral de la sexualidad, acorde a los contextos locales, con el fin de generar conocimiento más asertivo para la comunidad educativa sobre las orientaciones sexuales y las identidades de género.
+
+VIII.- Generar programas de apoyo a personas LGBTTTIQ+ y sus familias con el fin de generar confianza en la expresión de su identidad de género o su orientación sexual, y retribuir a garantizar seguridad en infancias diversas con énfasis en proteger las infancias trans.
+
+IX.- Generar políticas publicas para la inclusión de personas de la Diversidad Sexual en las administraciones pública (sic).
+
+X.- Generar un programa de capacitación para las autoridades procuradoras de justicia, así como a policías municipales con el fin de conocer los derechos y las condiciones de la población LGBTTTIQ+.
+
+XI.- Impulsar un programa de capacitación a las autoridades y funcionarios de la administración pública municipal, sobre los derechos humanos y la condición de las personas LGBTTTIQ+, con el fin de garantizar un trato digno a esta población.
+
+XII.- Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 87.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO, P.O. 29 DE DICIEMBRE DE 2014)
+A la Dirección de Salud Humana; para el desarrollo de sus funciones contara con el:
+
+I. Departamento de programas de prevención, promoción de la salud y servicios médicos;
+
+La persona titular de la dirección de atención a la salud humana, deberá contar con formación en medicina general; título, cedula profesional y experiencia comprobada.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 87 BIS.- A la Dirección de Salud Humana le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Contribuir para el programa municipal de salud;
+
+II. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de salud de la población en condición de vulnerabilidad en el Municipio;
+
+III. Diseñar e implementar acciones directas e indirectas de fomento a la salud integral, individual y colectiva de la población del municipio;
+
+IV. Elaborar y ejecutar programas de prevención y regulación sanitaria de acuerdo a los ordenamientos estatales, federales y del propio municipio;
+
+V. Promover acciones encaminadas a lograr la recertificación anual del (sic) la red nacional de municipio saludables;
+
+VI. Participar en campañas de vacunación, ferias de salud, detección oportuna de cáncer cérvico uterino, cáncer de mama, diabetes mellitus, hipertensión arterial, prevención de embarazo adolescente, atención a embarazo de alto riesgo, así como acciones para la atención de la salud sexual y reproductiva a la población del municipio;
+
+VII. Fomentar e incorporar acciones que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo humano y social de la población;
+
+VIII. Implementar acciones para contribuir a la educación para la salud de la población;
+
+IX. Brindar atención médica de calidad, preferentemente a grupos en situación de vulnerabilidad;
+
+X. Coordinar y vigilar acciones de sanidad en el municipio;
+
+XI. Implementar acciones sobre vigilancia epidemiológica dentro del municipio;
+
+XII. Brindar atención médica al personal que labora en la administración municipal;
+
+XIII. Participar en comités municipales de salud;
+
+XIV. Dar seguimiento a las incapacidades del personal sindicalizado y de confianza de la administración pública municipal y proporcionar la información a recursos humanos;
+
+XV. Contar con información estadística actualizada en materia de salud en el municipio;
+
+XVI. Promover programas específicos de atención de niñas, niños y adolescentes, mujeres y personas adultas mayores;
+
+XVII. Observar y dar cumplimiento puntual a las normas oficiales vigentes en materia de salud; y
+
+XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 88.
 
 A la Dirección de Educación le corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de vida de la población en condición de vulnerabilidad en el Municipio sin acceso a la educación;
+I. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de vida de la población en condición de vulnerabilidad en el municipio sin acceso a la educación;
 
-II. Brindar asesoría gratuita a grupos vulnerables del Municipio, para la continuación de su formación académica en primaria, secundaria y preparatoria mediante el sistema abierto;
+II. Brindar asesoría gratuita a grupos vulnerables del municipio, para la continuación de su formación académica en primaria, secundaria y preparatoria mediante el sistema abierto;
 
 III. Implementar programas y proyectos que coadyuven al abatimiento de la problemática del rezago educativo en el municipio;
 
-IV. Formular y proponer programas y acciones, orientadas al mejoramiento de la infraestructura educativa de manera coordinada con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad;
+IV. Formular y proponer programas y acciones, orientadas al mejoramiento de la infraestructura educativa de manera coordinada con la secretaría de obras públicas, desarrollo urbano, vivienda y movilidad;
 
-V. Determinar acciones complementarias en materia educativa a fin de gestionar y coordinar apoyos para la población del Municipio;
+V. Determinar acciones complementarias en materia educativa a fin de gestionar y coordinar apoyos para la población del municipio;
 
-VI. Formular las políticas, lineamientos y estrategias mediante las cuales se organice, administre y enriquezca sistemáticamente las bibliotecas públicas municipales;
+VI. Formular las políticas, lineamientos y estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
 
-VII. Vigilar, coordinar, administrar y supervisar el funcionamiento y debida operación de las bibliotecas públicas municipales, enlazadas con la Red Nacional de Bibliotecas del Consejo Nacional para la Cultura y las Artes, en interacción con la Red Estatal de Bibliotecas;
+VII. Vigilar, coordinar, administrar y supervisar el funcionamiento y debida operación de las bibliotecas públicas municipales, enlazadas con la red nacional de bibliotecas del consejo nacional para la cultura y las artes, en interacción con la red estatal de bibliotecas;
 
 VIII. Coordinar y supervisar la prestación del servicio de las bibliotecas públicas municipales a la ciudadanía;
 
 IX. Elaborar el programa de actualización bibliotecaria;
 
-X. Coordinar el personal de las bibliotecas públicas municipales;
+X. Coordinar al personal de las bibliotecas públicas municipales;
 
-XI. Promover las bibliotecas en los medios masivos de difusión, así como el fomento del hábito a la lectura;
+XI. Promover a las bibliotecas en los medios masivos de difusión, así como el fomento del hábito de lectura;
 
-XII. Promoción de instalación de mayor número de bibliotecas públicas con la participación del gobierno en sus diferentes ámbitos y de la comunidad;
+XII. Promoción de instalación de un mayor número de bibliotecas públicas con la participación del gobierno en sus diferentes ámbitos y de la comunidad;
 
 XIII. Promover la participación ciudadana e infantil en materia educativa y cívica;
 
-XIV. Coordinar los consejos de participación social en la educación del Municipio, en vinculación con las autoridades estatales y federales;
+XIV. Coordinar los consejos de participación social en la educación del municipio, en vinculación con las autoridades estatales y federales;
 
-XV. Organizar acciones, mediante las cuales se propicie el patrocinio en la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico; y
+XV. Organizar acciones mediante las cuales se propicie el patrocinio en la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
 
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+XVI. Coadyuvar con acciones encaminadas a la integración de la perspectiva de género, perspectiva de niñez, por lo que se incluirán actividades coordinadas con las secretarías y los institutos, encaminadas a las ciencias y humanidades, el reforzamiento de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la tecnología, la innovación, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, y el cuidado al medio ambiente;
+
+XVII. Proponer a la o el titular de la secretaría, programas y proyectos enfocados a la atención de la población en general, mediante el centro integral de desarrollo municipal (cidem);
+
+XVIII. Diseñar e implementar cursos, talleres y capacitación en línea y presenciales para todos los ciudadanos, impartidos por el centro integral de desarrollo municipal (cidem);
+
+XIX. Promover actividades artísticas, deportivas y culturales en el centro integral de desarrollo municipal (cidem), dirigidas a ciudadanos de todas las edades que contribuyan a la salud y al bienestar social, además también pensadas en personas con discapacidad;
+
+XX. Promover la capacitación y aprendizaje de artículos, productos y servicios para emprendimiento laboral; y
+
+XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 89.
 
-(DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
+La Dirección de atención a las personas adultas mayores para el logro de sus fines contara con el:
+
+I. Departamento atención integral para la vida digna y de calidad de las personas adultas mayores;
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 89 BIS.- A la Dirección de Atención a las Personas Adultas Mayores, le corresponderá el ejercicio de las siguientes atribuciones:
+
+1. Proponer a la o el titular de la secretaría, acciones en materia de política y planeación municipal para la atención a las personas adultas mayores;
+
+2. Diseñar programas, proyectos y estudios focalizados a la atención de los adultos mayores, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte, principalmente;
+
+3. Representar, cuando le sea instruido a la o el titular de la secretaría, ante las diferentes instancias municipales, estatales y federales, organizaciones sociales y privadas, estatales, nacionales o internacionales; relacionadas con la atención a las personas adultas mayores;
+
+4. Proponer a la o el titular de la secretaría, la concertación de acuerdos y convenios con las diferentes instancias municipales, estatales y federales, que promuevan la participación del municipio en la ejecución de políticas, programas y acciones tendientes al desarrollo integral de las personas adultas mayores;
+
+5. Coordinar la observancia de la ley de las personas adultas mayores del estado de hidalgo y del marco jurídico vigente aplicable en la materia;
+
+6. Promover en coordinación con la secretaría de desarrollo económico municipal, la implementación de programas y proyectos que impulsen el emprendimiento de nuevos negocios para las personas adultas mayores;
+
+7. Implementar acciones y procedimientos, que permitan vincular a los sectores producticos del municipio con las personas adultas mayores, promoviendo el acceso a un empleo formal;
+
+8. Coordinar la gestión y promoción de becas, trabajo, formación profesional y capacitación a las personas adultas mayores del municipio;
+
+9. Brindar asesoría a las personas adultas mayores para el acceso a los programas municipales, estatales y federales, que apoyen a su desarrollo integral en el municipio;
+
+10. Gestionar ante las autoridades competentes, servicios de medicina general y especializada, dirigida a las personas adultas mayores del municipio, con el objetivo de preservar su salud;
+
+11. Coordinar las bases de organización y funcionamiento para el establecimiento de comités de personas adultas mayores;
+
+12. Establecer un sistema de captación de propuestas, sugerencias e inquietudes de las personas adultas mayores, que permita su adecuada canalización a la (sic) diferentes secretarías municipales;
+
+13. Proporcionar atención jurídica para salvaguardar la garantía de ejercicio de los derechos humanos de las personas adultas mayores.
+
+14. Establecer estrategias para promover la cultura del buen trato para las personas adultas mayores en el municipio;
+
+15. Implementar estrategias de atención para la salud mental de las personas adultas mayores; y
+
+16. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
@@ -3301,59 +3523,37 @@ XVII. Establecer, en coordinación con el área competente de la Secretaría Gen
 
 XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
-### CAPÍTULO XIV. DE LAS UNIDADES DE APOYO EN LAS SECRETARÍAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN PRIMERA. DE LAS ÁREAS DE ADMINISTRACIÓN
+### CAPÍTULO XIV. DE LA SECRETARÍA MUNICIPAL DE LAS MUJERES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 110.
 
-Para el mejor desempeño de sus funciones y actividades, los titulares de las secretarías, se podrán auxiliar, independientemente del nivel jerárquico de éstas, de un área encargada de la administración y de proveer lo necesario para la realización de las funciones sustantivas a su cargo, así como de áreas técnico – jurídicas para la asesoría y despacho de los asuntos de su competencia.
+La Secretaría Municipal de las Mujeres es una Dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal en promover las políticas publicas para el desarrollo de la mujer en equidad de género y respeto a sus derechos humanos dentro del Municipio.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 111.
 
-Las áreas de Administración serán las encargadas de proveer lo necesario para la realización de las funciones sustantivas, les corresponderá en forma genérica y de manera enunciativa, más no limitativa, el ejercicio de las siguientes funciones en su correspondiente Secretaría:
+Para el cumplimiento de su objeto, la Secretaría tendrá las siguientes atribuciones:
 
-I. Auxiliar a la o al Titular de la Secretaría en la coordinación, conducción, control, supervisión y registro de la administración de los recursos financieros, humanos, materiales y tecnológicos;
+I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones de la sociedad civil y empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
 
-II. Coordinar y actualizar la operación del sistema de contabilidad gubernamental de las áreas administrativas que integran la Secretaría, conforme a las bases y criterios que establezcan las autoridades competentes en la materia;
+II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
 
-III. Proporcionar el apoyo administrativo, atendiendo a las normas en materia del ejercicio y control del gasto, respondiendo con eficiencia, calidad y orden a las necesidades y prioridades establecidas por la o él Titular de la Secretaría;
+III. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
 
-IV. Planear, programar y presupuestar de conformidad a los lineamientos de la Secretaría de la Tesorería, los recursos requeridos en el desarrollo de los programas, acciones y metas;
+IV. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
 
-V. Dar cumplimiento a las disposiciones reglamentarias y administrativas que emitan las dependencias, para el manejo y control de la administración de los recursos humanos, materiales y financieros;
+V. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
 
-VI. Elaborar, administrar y proponer de manera justificada las solicitudes de modificación y/o ampliación presupuestal de los recursos asignados a la Secretaría;
-
-VII. Mantener actualizados y aprobados, los manuales de organización, de procedimientos y de servicios al público; necesarios en la operación y funcionamiento de la Secretaría, así como integrar las propuestas de cambios a la organización y funcionamiento que la o él Titular de su Secretaría presente a la Secretaría de Administración;
-
-VIII. Dar cumplimiento a las normas aplicables en materia de control de las asistencias, licencias, periodos vacacionales, comisiones y demás movimientos del personal adscrito a la Secretaría;
-
-IX. Coordinar, supervisar y evaluar el cumplimiento de las disposiciones en materia de seguridad laboral, previniendo los riesgos de trabajo y accidentes laborales;
-
-X. Gestionar el suministro oportuno de las necesidades relativas a los recursos materiales y prestación de los servicios generales, requeridos por las unidades técnicas y administrativas de apoyo;
-
-XI. Aplicar las normas y lineamientos que en materia de control del parque vehicular de la Administración Pública Municipal, emita la Secretaría de Administración;
-
-XII. Aplicar las normas y lineamientos que en materia de ingresos, egresos, presupuesto y contabilidad emita la Secretaría de la Tesorería, verificando que el gasto público se ejerza bajo criterios de eficiencia y racionalidad;
-
-XIII. Realizar el ejercicio de los recursos de conformidad al presupuesto autorizado, vigilando que las erogaciones estén debidamente justificadas y soportadas con la documentación comprobatoria y justificativa necesaria, cumpliendo con las disposiciones fiscales, administrativas y legales en la materia;
-
-XIV. Supervisar el cuidado y uso de los bienes muebles e inmuebles, que se encuentren bajo el resguardo del personal adscrito a la Secretaría y atender su conservación y mantenimiento;
-
-XV. Aplicar los lineamientos y procedimientos operativos en materia de adquisiciones, arrendamientos, suministros, registro y almacenamiento de los bienes y servicios necesarios para el cumplimiento de las funciones de la Secretaría, de conformidad con los requisitos que para el efecto emita la Secretaría de Administración.
-
-XVI. Administrar y controlar el archivo, así como regular la recepción, despacho y conservación de la documentación y correspondencia institucional, enviando lo correspondiente al archivo municipal;
-
-XVII. Coordinar la integración del anteproyecto del presupuesto y de la estructura programática – presupuestal de su Secretaría, de conformidad a las estrategias y lineamientos que sobre el particular establezcan el Plan Municipal de Desarrollo y la Secretaría de la Tesorería, sometiéndolos a consideración del Titular de la dependencia;
-
-XVIII. Integrar la estructura programática presupuestal de las diferentes áreas administrativas que integran la Secretaría;
-
-XIX. Difundir a los trabajadores de la Secretaría la información que genere su dependencia o las demás dependencias de la Administración Pública Municipal;
-
-XX. Someter a la aprobación de la o del Titular de la Secretaría, los estudios y proyectos, así como las propuestas de modernización, desconcentración y simplificación administrativa que se elaboren en el área de su responsabilidad; y
-
-XXI. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
+VI. Elaborar programas que desarrollen capacidades locales para potenciar el empoderamiento de las mujeres; y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
 
 #### SECCIÓN SEGUNDA. DE LAS ÁREAS JURÍDICAS
 
@@ -3477,15 +3677,15 @@ En los contratos de los fideicomisos se deberá precisar las facultades especial
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DE LAS ENTIDADES PARAMUNICIPALES
 
-###### ARTÍCULO 126.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-Para el control y evaluación de la Entidad Paramunicipal contará con un Comisario Público, designado bajo la responsabilidad de la Secretaría de Contraloría y Transparencia del Municipio cuyas funciones se especificaran en los estatutos orgánicos correspondientes.
+ARTÍCULO 136 (SIC).- Para el control y evaluación de la Entidad Paramunicipal contará con un Comisario Público, designado bajo la responsabilidad de la Secretaría de Contraloría y Transparencia del Municipio cuyas funciones se especificaran en los estatutos orgánicos correspondientes.
 
 ### CAPÍTULO VI. DE LA EXTINCIÓN Y LIQUIDACIÓN
 
-###### ARTÍCULO 127.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
-La Secretaría de Contraloría y Transparencia del Municipio en su carácter de evaluador y controlador, señalará las bases para llevar a cabo la liquidación derivada de la extinción de las Entidades Paramunicipales y Fideicomisos Públicos, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público y serán descritas en el Estatuto Orgánico correspondiente de la Entidad.
+ARTÍCULO 137 (SIC).- La Secretaría de Contraloría y Transparencia del Municipio en su carácter de evaluador y controlador, señalará las bases para llevar a cabo la liquidación derivada de la extinción de las Entidades Paramunicipales y Fideicomisos Públicos, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público y serán descritas en el Estatuto Orgánico correspondiente de la Entidad.
 
 ## TRANSITORIOS
 
@@ -3684,3 +3884,33 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La observancia del principio de paridad de género a que se refieren los artículos 20 y 115 del presente Reglamento, será aplicable a quiénes tomen posesión de su encargo, a partir del cambio de gobierno siguiente a la entrada en vigor del presente Decreto.
 
 TERCERO.- Por lo que hace a la administración actual, la observancia al principio de paridad señalado en los artículos 20 y 115 habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO CINCO POR EL QUE SE REFORMA DEL ARTÍCULO 60; SE DEROGAN LAS FRACCIONES XXIX Y XXXVIII DEL ARTÍCULO 61; SE ADICIONAN LAS FRACCIONES XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV Y XLVI AL ARTÍCULO 61, SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 62; Y SE ADICIONA EL ARTÍCULO 64 BIS; AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 83, 84, 85, 87, 89 Y SE ADICIONAN LOS ARTÍCULOS 87 BIS, Y 89 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO HIDALGO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO OCHO POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PUBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO; POR MEDIO DEL CUAL SE CREA LA SECRETARÍA MUNICIPAL DE LAS MUJERES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Decreto Número Treinta, por el que se crea el Instituto Municipal de las Mujeres de Pachuca de Soto, Hidalgo, como órgano desconcentrado de la Administración Pública Municipal, publicado en el Periódico Oficial del Estado, de fecha 25 de enero de 2016.
+
+TERCERO. Se abroga el Decreto Municipal numero uno, que contiene el Reglamento Interior del Instituto Municipal de las Mujeres de Pachuca de Soto, Hidalgo; publicado en el Periódico Oficial de Estado el 8 de octubre del 2012.
+
+CUARTO. El Reglamento Interior de la Secretaría deberá expedirse dentro de los noventa días hábiles siguientes a la fecha de publicación del presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2020.
+
+[N DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO NUEVE POR EL QUE SE ADICIONA Y SE RECORRE UNA FRACCIÓN AL ARTÍCULO 86 Y SE ADICIONAN (SIC) EL ARTÍCULO 86 BIS AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
