@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2020-11-30"
+last_updated: "2020-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -135,15 +135,15 @@ I. PRIMER CIRCUITO:
 
 Nueve de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 25/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
-4. Cuatro Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
+4. Seis Juzgados de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializados en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México.
 
 5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 33/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
-6. Cinco Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
+6. Seis Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
 
 II. SEGUNDO CIRCUITO:
 
@@ -397,9 +397,9 @@ XX. VIGESIMO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Cintalapa de Figueroa, Chiapas.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 18/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 32/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
-3. Trece Juzgados de Distrito en el Estado de Chiapas; dos de Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Cintalapa de Figueroa; siete Juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; uno en Materia Mercantil Federal, con residencia en Tuxtla Gutiérrez; y tres Juzgados de Distrito Mixtos con sede en Tapachula.
+3. Catorce Juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Cintalapa de Figueroa; siete Juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; uno en Materia Mercantil Federal, con residencia en Tuxtla Gutiérrez; y cuatro Juzgados de Distrito Mixtos con sede en Tapachula.
 
 XXI. VIGESIMO PRIMER CIRCUITO:
 
@@ -683,6 +683,10 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 
 > <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO DÉCIMO PRIMERO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
+> <small>(ADICIONADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
+
+Los Juzgados de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializados en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, ejercerán jurisdicción en todo el territorio de la República Mexicana para conocer de las acciones de extinción de dominio y de los procedimientos de la Ley Nacional de Extinción de Dominio, así como de los juicios de amparo indirecto relacionados con esta materia y dentro del Distrito Judicial conformado por el territorio de la Ciudad de México para conocer de los procedimientos orales mercantiles.
+
 II. SEGUNDO CIRCUITO:
 
 Los juzgados de Distrito de Procesos Penales Federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
@@ -899,9 +903,9 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segund
 
 QUINTO. Centros Auxiliares Regionales:
 
-> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
-1. El Centro Auxiliar de la Primera Región se integrará por dos tribunales colegiados de Circuito Auxiliares, con residencia en la Ciudad de México, y tres juzgados de Distrito auxiliares con sede en la Ciudad de México, de los cuales uno está especializado además en materia de extinción de dominio;
+1. El Centro Auxiliar de la Primera Región se integrará por dos tribunales colegiados de Circuito Auxiliares, con residencia en la Ciudad de México, y dos juzgados de Distrito auxiliares con sede en la Ciudad de México;
 
 > <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
@@ -8262,3 +8266,53 @@ CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gesti�
 QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Juzgado Séptimo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, que inicia funciones.
 
 SEXTO. El personal de la Administración Regional en Aguascalientes apoyará para el traslado de los asuntos que por turno corresponda conocer al Juzgado Séptimo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+
+D.O.F. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA TRANSFORMACIÓN DE LOS JUZGADOS CUARTO, QUINTO, SÉPTIMO Y OCTAVO DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR CON SEDE EN LA CIUDAD DE MÉXICO, Y DEL JUZGADO TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN ESPECIALIZADO EN EXTINCIÓN DE DOMINIO CON JURISDICCIÓN EN LA REPÚBLICA MEXICANA, EN JUZGADOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y QUINTO DE DISTRITO EN MATERIA DE EXTINCIÓN DE DOMINIO CON COMPETENCIA EN LA REPÚBLICA MEXICANA Y ESPECIALIZADOS EN JUICIOS ORALES MERCANTILES EN EL PRIMER CIRCUITO, CON SEDE EN LA CIUDAD DE MÉXICO, RESPECTIVAMENTE; A LA CREACIÓN DEL JUZGADO SEXTO DE DISTRITO CON LA MISMA SEMIESPECIALIDAD Y RESIDENCIA; LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; Y QUE REFORMA LOS SIMILARES 20/2009, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN; Y 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizará todos los ajustes requeridos en el sistema de cómputo de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil en la Ciudad de México, para el reparto, distribución y turno de los asuntos competencia de los Juzgados de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializados en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, conforme lo ordenado en el presente Acuerdo General.
+
+CUARTO. Se autoriza por necesidades del servicio el uso temporal de la sala de audiencias instalada en el Edificio Prisma, ubicado en Avenida Insurgentes Sur 2065, colonia San Ángel, Alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México, por parte del Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, o de cualquier otro espacio en los inmuebles del Poder Judicial de la Federación.
+
+Los titulares de los Juzgados de Distrito Especializado en Ejecución de Penas en la Ciudad de México y del Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, deberán coordinarse entre sí para el uso eficiente de la sala, cualquier incidencia al respecto será resuelta por las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información.
+
+QUINTO. La primera guardia para la recepción de asuntos urgentes en días y horas inhábiles, establecida de conformidad con el calendario señalado en el artículo 11 del presente ordenamiento, por única ocasión, comenzará a las 0:00 del 16 de diciembre de 2020 para el Juzgado Primero de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México.
+
+SEXTO. La Dirección General de Servicios Generales prestará auxilio a los órganos jurisdiccionales en el traslado de los expedientes ordenado en el presente Acuerdo. Además, en coordinación con la Dirección General de Gestión Judicial, diseñará e implementará la logística necesaria para el envío cotidiano de expedientes entre la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil en la Ciudad de México y el Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, el que de forma temporal se ubicará en un domicilio diferente al de sus similares dentro de la Ciudad de México.
+
+SÉPTIMO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+D.O.F. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 32/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Juzgado Cuarto de Distrito en el Estado de Chiapas, con residencia en Tapachula, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Cuarto de Distrito en el Estado de Chiapas, con residencia en Tapachula.
+
+QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Juzgado Cuarto de Distrito en el Estado de Chiapas, con residencia en Tapachula.
+
+SEXTO. El personal de la Administración Regional en Tapachula apoyará para el traslado de los asuntos que por turno corresponda conocer al Juzgado Cuarto de Distrito en el Estado de Chiapas, con residencia en Tapachula.
+
+D.O.F. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 33/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO ESPECIALIZADO EN EJECUCIÓN DE PENAS, EN LA CIUDAD DE MÉXICO; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS EN LA ENTIDAD FEDERATIVA INDICADA Y JURISDICCIÓN EN TODA LA REPÚBLICA; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesario para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Juzgado Sexto de Distrito Especializado en Ejecución de Penas en la Ciudad de México.
