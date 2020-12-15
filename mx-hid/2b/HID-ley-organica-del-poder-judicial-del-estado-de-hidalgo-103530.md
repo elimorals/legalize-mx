@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2017-12-31"
+last_updated: "2020-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -211,6 +211,10 @@ III.- Elegir al Presidente o Presidenta del Tribunal Superior de Justicia y, en 
 
 IV.- Determinar las adscripciones de los Magistrados y Magistradas a las Salas y elegir a quiénes habrán de presidirlas; asimismo, designar a los Magistrados y Magistradas de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento;
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IV bis.- Aprobar la designación de la Jueza o Juez del Fuero Común que deban integrarse como Magistrada o Magistrado interino por vacantes temporales, a propuesta de la Presidenta o Presidente del Tribunal Superior de Justicia, contando con una vigencia en el cargo hasta por un año con posibilidad de renovación hasta por un año más.
+
 V.- Nombrar al Secretario o Secretaria General del Tribunal Superior de Justicia, a propuesta del Presidente o Presidenta, de igual forma conocer de su remoción o renuncia;
 
 VI.- Acordar la creación, reubicación o supresión de Salas, así como modificar su competencia, según las necesidades del servicio;
@@ -275,9 +279,11 @@ XXXI.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 El Tribunal Superior de Justicia tendrá un Presidente o Presidenta, que también representará al Poder Judicial, durará en su encargo cuatro años y no podrá ser reelecto o reelecta para el periodo inmediato. Será designado o designada entre los Magistrados y Magistradas por el voto de la mayoría simple de los presentes, quienes lo emitirán en forma económica o secreta en la primera sesión extraordinaria que para tal efecto se convoque durante el mes de abril del año que corresponda o, en su caso, en el momento en que se acepte su renuncia, o se dé cuenta al Pleno de su ausencia definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 20.
 
-Son atribuciones del Presidente o Presidenta del Tribunal Superior de Justicia:
+Son atribuciones de la persona titular de la Presidencia del Tribunal Superior de Justicia:
 
 I.- Representar al Poder Judicial del Estado en toda clase de actos jurídicos, y ceremonias oficiales y asignar comisiones cuando sea necesario;
 
@@ -296,6 +302,10 @@ VII.- Dar cuenta al Pleno de las demandas de responsabilidad civil presentadas e
 VIII.- Dar cuenta al Pleno de las excusas y recusaciones que se planteen en los asuntos de su competencia;
 
 IX.- Designar al Magistrado o Magistrada que deba integrar sala cuando exista ausencia, excusa o recusación de alguno de sus miembros;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IX BIS.- Proponer a la Jueza o Juez del Fuero Común que deba cubrir una vacante temporal de magistrada o magistrado, pudiendo realizar su remoción en cualquier momento, previa aprobación del Pleno.
 
 X.- Proponer al Pleno, las medidas necesarias para el mejoramiento de la impartición de justicia;
 
@@ -455,7 +465,9 @@ Las Salas del sistema penal de carácter acusatorio, serán unitarias, para cono
 
 Serán colegiadas para conocer del recurso de apelación interpuesto en contra de las sentencias definitivas pronunciadas por el Tribunal de enjuiciamiento, mismas que contarán con un Administrador o Administradora, el cual tendrá las atribuciones señaladas en el artículo 79 de esta Ley.
 
-Las Salas mixtas conocerán de aquellos recursos correspondientes, al sistema penal anterior a las reformas del 18 de noviembre del 2014, así como de aquellos recursos que correspondan al nuevo sistema penal acusatorio por razón de turno.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Las Salas del sistema penal de carácter acusatorio, serán colegiadas para conocer del recurso de apelación interpuesto en contra de las sentencias definitivas pronunciadas por el Tribunal de enjuiciamiento, cuando esté integrado de manera colegiada, en el caso de los tribunales unitarios será conocido por una sala de la misma conformación, mismas que contarán con una Administradora o Administrador, el cual tendrá las atribuciones señaladas en el artículo 79 de esta Ley.
 
 En materia especializada en justicia para adolescentes, los recursos serán conocidos por Salas Unitarias.
 
@@ -481,9 +493,9 @@ I.- Conocer en segunda instancia, en los términos que dispongan las Leyes, en e
 
 II.- Conocer de los recursos, incompetencias, recusaciones y demás procedimientos que les correspondan conforme a la Legislación Adjetiva y demás Leyes aplicables;
 
-III.- Las Salas del sistema penal de carácter acusatorio, serán competentes en forma unitaria para conocer del recurso de apelación.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-Serán colegiadas para conocer del recurso de apelación en contra de las sentencias definitivas emitidas por el Tribunal de Enjuiciamiento.
+III.- Las Salas del sistema penal de carácter acusatorio, serán competentes en forma unitaria para conocer del recurso de apelación en contra de las sentencias dictadas por el juez de control, y serán competentes para conocer de forma colegiada, del recurso de apelación en contra de las sentencias definitivas emitidas por el tribunal de enjuiciamiento, cuando esté integrado de manera colegiada, en el caso de los tribunales unitarios serán conocidas por una sala de la misma conformación.
 
 IV.- Las Salas Especializadas en Justicia para Adolescentes, conocerán, además de los conflictos de competencia que se susciten entre los Jueces y Juezas para Adolescentes y entre uno de éstos y un Juez o Jueza Penal.
 
@@ -2437,7 +2449,7 @@ Los Magistrados, las Magistradas, Consejeros, Consejeras de la Judicatura, Juece
 
 ###### ARTÍCULO 155.
 
-El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de oposición, los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
+El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de opisición (sic), los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2778,3 +2790,9 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 416.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 530, QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20, EL PÁRRAFO TERCERO DEL ARTÍCULO 30 Y EL ARTÍCULO 33 FRACCIÓN III; Y SE ADICIONA LA FRACCIÓN IV BIS DEL ARTÍCULO 18 Y LA FRACCIÓN IX BIS DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
