@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2020-08-17"
+last_updated: "2020-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -101,11 +101,25 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Ayuntamiento: Órgano de Gobierno Municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad;
 
-II.- Comisiones del Ayuntamiento: Grupos de regidores integrados por área de competencia o de servicios designados por mayoría;
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-III.- Presidente Municipal: Integrante del Ayuntamiento y autoridad responsable de la ejecución y comunicación de las disposiciones y acuerdos del Ayuntamiento y quien tiene su representación administrativa y en algunos casos la jurídica;
+I BIS.- Casas de cultura: Los espacios físicos donde se ejercen derechos artísticos culturales;
 
-IV.- Regidores: Integrantes del Ayuntamiento encargados de acordar las decisiones para la buena marcha de los intereses del Municipio;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+II.- Comisiones del Ayuntamiento: Grupos de personas que ocupan las regidurías las cuales estarán integradas por el área de competencia o de servicios designados por mayoría;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+II BIS.- Gobierno Abierto: Un modelo de administración pública basado en la transparencia de información pública, la participación social y la colaboración en diseño de políticas con la finalidad de lograr una mejor gestión de los asuntos públicos;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III.- Presidente o Presidenta Municipal: persona Integrante del Ayuntamiento y autoridad responsable de la ejecución y comunicación de las disposiciones y acuerdos del Ayuntamiento y quien tiene su representación administrativa y en algunos casos la jurídica;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IV.- Síndicos o Sindicaturas: Personas integrantes del Ayuntamiento encargadas de vigilar los aspectos financiero y jurídico del mismo;
 
 V.- Síndicos: Integrantes del Ayuntamiento encargados de vigilar los aspectos financiero y jurídico del mismo;
 
@@ -113,9 +127,33 @@ VI.- Servicios Públicos: Actividades que desarrollan los Municipios para satisf
 
 VII.- Constituyente Permanente: Poder Revisor de la Constitución, creado por ella, cuya competencia es reformar total o parcialmente la constitución sancionada anteriormente; en el Estado, los (sic) constituyen los Municipios y para reformar aquélla, se requiere el voto de la mayoría de Ayuntamientos;
 
-VIII.- Normatividad Municipal: Bandos, Reglamentos, circulares y otras disposiciones legales emitidas por el propio Ayuntamiento, de aplicación general y obligatoria en la circunscripción territorial que lo emite, deben ser publicadas en el Periódico Oficial del Estado, y
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-IX.- Servidor Público: Representantes de elección popular, Presidentes Municipales, Síndicos, Regidores y en general toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal; y todos aquéllos que manejen o apliquen recursos económicos estatales o Municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+VII BIS.- Congreso del Estado: Congreso del Estado Libre y Soberano de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VII TER.- Constitución del Estado: Constitución Política del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Normatividad Municipal: Bandos, reglamentos, circulares y otras disposiciones legales emitidas por el propio Ayuntamiento, de aplicación general y obligatoria en la circunscripción territorial que lo emite, deben ser publicadas en el Periódico Oficial del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VIII BIS: Parlamento Abierto: La práctica de los Ayuntamientos de exponer las sesiones a la ciudadana (sic) y rendir reportes a la misma sobre sus actividades;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IX.- Servidora o Servidor Público: Personas representantes de elección popular y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal; y todas aquéllas que manejen o apliquen recursos económicos municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+X.- Concejal: La persona integrante del Concejo Municipal; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+XI.- Vecino o vecina: Persona que tuviere, por lo menos, un año de residencia en el Estado.
 
 ###### ARTÍCULO 7.
 
@@ -165,23 +203,29 @@ En aquellas continuidades demográficas formadas o que tiendan a formarse en dos
 
 ### CAPÍTULO SEGUNDO. DE LA POBLACIÓN DEL MUNICIPIO
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-La aplicación de esta Ley corresponde a:
+La aplicación y observancia de esta Ley corresponde a:
 
-I.- Las autoridades Municipales;
+I. Las autoridades municipales;
 
-II.- Los habitantes de los Municipios del Estado; y
+II. Las y los habitantes de los municipios del Estado;
 
-III.- Aquéllos que se encuentren temporal o transitoriamente dentro de su territorio.
+III. Las y los vecinos de los municipios del Estado; y
+
+IV. Aquéllos que se encuentren temporal o transitoriamente dentro de su territorio.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 17.
 
-Son habitantes del Municipio:
+Son habitantes del municipio:
 
-I.- Aquéllos que temporal o definitivamente tengan su domicilio en el mismo;
+I. Quienes temporal o definitivamente tengan su domicilio en el mismo; y
 
-II.- Aquéllos que tengan intereses económicos en el mismo.
+II. Quienes tengan intereses económicos en el mismo.
 
 ###### ARTÍCULO 18.
 
@@ -219,7 +263,13 @@ IV.- Enviar a sus hijos o pupilos en edad escolar a la escuela, para obtener la 
 
 V.- Tener un modo honesto de vivir;
 
-VI.- Inscribirse en los padrones que expresamente estén determinados por las leyes respectivas; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VI.- Inscribirse en los padrones que expresamente estén determinados por las leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VI BIS. Contribuir a la prevención, conservación y preservación del medio ambiente, bajo el esquema de economía circular y coadyuvar en la separación y manejo integral adecuado de los residuos sólidos urbanos que produzcan; y
 
 VII.- Las que señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las demás Leyes y Reglamentos.
 
@@ -303,13 +353,25 @@ Las autoridades municipales, en el ejercicio de sus atribuciones, así como los 
 
 Además, donde existan comunidades de familias de migrantes, para evitar la desintegración familiar, promoverán el desarrollo social, proyectos productivos, formas específicas de organización social y programas de apoyo a las familias que se encuentren en abandono, temporal o definitivo, como consecuencia de la migración.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 25 BIS.- Los municipios, en el ejercicio de sus atribuciones en materia de asistencia social, a efecto de asegurar que las y los migrantes de sus comunidades, gocen plenamente de los derechos que las leyes les reconocen, deberán coordinarse con la Federación o el Estado, para ejecutar programas de los tres órdenes de gobierno, relativos a la protección de sus pobladores que hayan emigrado, así como de sus familias.
+
 ### CAPÍTULO TERCERO. DE LA TRANSPARENCIA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-Los Ayuntamientos como sujetos obligados, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo, deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos, atendiendo en todo momento lo preceptuado por el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, el 4-bis de la Constitución Política del Estado y la Ley de Transparencia mencionada.
+De conformidad con los artículos 6 de la Constitución Política de los Estados Unidos Mexicanos; 4 BIS de la Constitución Política del Estado de Hidalgo; la Ley de Transparencia y Acceso a la Información Pública y la Ley de Archivos, ambas para el Estado de Hidalgo; los Ayuntamientos como sujetos obligados, deben documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, así como transparentar y permitir el acceso a la información generada, obtenida, adquirida o en su posesión, protegiendo los datos personales que conforme a estas leyes deban resguardarse.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 26 BIS.- Los Ayuntamientos deberán organizar y conservar sus documentos en un Sistema Institucional de Archivo, garantizando su operación y continuidad archivística y privilegiando el uso de tecnologías de la información, que permitan el libre ejercicio de los derechos de acceso a la información pública y protección de datos personales de una forma veraz, oportuna y actualizada.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 26 TER.- Las violaciones a las normas de transparencia, acceso a la información pública, protección de datos personales y de archivo, serán sancionadas conforme a las leyes de transparencia y acceso a la información pública y de archivo aplicables, esto con independencia de las de orden administrativo, civil o penal que procedan.
 
 ### CAPÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -320,6 +382,12 @@ Los Ayuntamientos promoverán la participación ciudadana en las políticas púb
 ###### ARTÍCULO 28.
 
 Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen mayor participación a los ciudadanos en el quehacer Municipal y puedan expresar su aprobación o rechazo a los actos del Ayuntamiento, respecto de los Bandos, Reglamentos, circulares, o disposiciones administrativas de observancia general.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 28 BIS.- El Ayuntamiento podrá establecer un Observatorio Ciudadano para conocer, analizar, dar seguimiento, en su caso evaluar y emitir opinión respecto de las políticas públicas y de interés de la población. Su creación y funcionamiento se sujetará a la normatividad que expida el Ayuntamiento.
+
+Quienes integren el Observatorio Ciudadano desempeñarán sus actividades de manera honorífica.
 
 ## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
@@ -390,6 +458,24 @@ Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Co
 Si el Congreso del Estado no estuviere en periodo ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Los integrantes del Concejo Municipal deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+El cargo de integrante del Concejo Municipal es renunciable sólo por causas graves y justificadas que se calificarán con admisión o rechazo en sesión privada dentro de las 72 horas de haberse presentado la renuncia. A la sesión concurrirán todos los integrantes, con excepción del que haya presentado la renuncia. Se hará del conocimiento del Congreso del Estado para que realice lo conducente.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+El Congreso del Estado, podrá suspender o remover al Concejo Municipal o alguno de sus integrantes, conforme a lo dispuesto por el artículo 77 de esta Ley y designará a quien los sustituya.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 34 BIS.- El Concejo Municipal asumirá las funciones políticas y administrativas en dicho Municipio para tomar todas y cada una de las decisiones que corresponden originariamente al Ayuntamiento.
+
+Los integrantes del Concejo Municipal, tendrán los mismos derechos, obligaciones y facultades que los integrantes del Ayuntamiento.
 
 ###### ARTÍCULO 35.
 
@@ -549,6 +635,10 @@ II.- Para celebrar actos o convenios que comprometan al Municipio por un plazo m
 
 III.- Para que el gobierno estatal asuma una función o servicio Municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Si al aplicar la votación de mayoría calificada, con relación al total de integrantes de un ayuntamiento, resultare cantidad en números fraccionados, ésta será equivalente a un voto y se sumará al número cardinal siguiente, para obtener el total de votos requeridos para considerar este tipo de mayoría.
+
 ###### ARTÍCULO 49.
 
 En las sesiones del Ayuntamiento sólo tendrán derecho a voz y voto el Presidente Municipal, los Síndicos y los Regidores.
@@ -566,6 +656,14 @@ Es obligación de los ayuntamientos celebrar cuando menos dos sesiones ordinaria
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
 
 El sentido del voto de cada integrante del Ayuntamiento podrá ser a favor, en contra, o abstención.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Los Ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de Internet de los municipios, en las cuales se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos el Secretario del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+En las reuniones a distancia, se podrá hacer uso de la firma electrónica para firmar los acuerdos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -663,6 +761,10 @@ e).- Aprobar o no, en su carácter de constituyente permanente, las minutas proy
 
 f).- Administrar su Hacienda en los términos de Ley de Ingresos y demás relativas, así como, controlar la aplicación correcta del presupuesto de egresos del Municipio;
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+f BIS).- En proporción a la posibilidad de sus recursos, otorgar apoyos para los servicios funerarios, así como la prestación de orientación, acompañamiento y todas las facilidades administrativas de su competencia, a los familiares de hidalguenses que, habiendo fallecido en el extranjero o en otras entidades federativas, requieran el traslado de los restos a su lugar de origen.
+
 g).- Proveer y prestar, por conducto del Presidente Municipal, los servicios públicos a su cargo;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2011)</small>
@@ -675,7 +777,13 @@ j).- Desahogar, por conducto del Tesorero Municipal los procedimientos administr
 
 k).- Auxiliar a las autoridades sanitarias en la ejecución de sus disposiciones;
 
-I).- Cuidar del mantenimiento y aseo de las calles, calzadas, avenidas, lugares públicos y de su relleno sanitario y promover la cultura de la limpieza, de acuerdo al reglamento correspondiente;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+l).- Cuidar del mantenimiento y aseo de las calles, calzadas, avenidas, lugares públicos y de su relleno sanitario y promover la cultura de la limpieza y separación de residuos sólidos urbanos, de acuerdo al reglamento correspondiente; estableciendo la recolección selectiva en el municipio, incluyendo a los concesionarios que presten este servicio, diferenciando por días en orgánico e inorgánico la prestación del servicio de limpieza y recolección, conforme a los términos establecidos en la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+l BIS).- Llevar a cabo la operación y mantenimiento del sitio de disposición final hasta la clausura y saneamiento final del mismo, de conformidad con la legislación ambiental aplicable y promover la cultura de la separación de residuos desde la fuente, implementando mecanismos que permitan su adecuado traslado y disposición final, mediante Programas de Prevención y Minimización de la generación de residuos;
 
 m).- Cuidar que las vías públicas se mantengan expeditas para el tránsito de peatones y vehículos;
 
@@ -707,7 +815,9 @@ v).- Prevenir y sancionar, con el auxilio de las autoridades competentes, el alc
 
 w).- Autorizar al Presidente Municipal para solicitar al Gobernador, la expropiación de bienes por causa de utilidad pública que previene la Constitución Política del Estado;
 
-x).- Prevenir y combatir, en proporción, a la posibilidad de sus recursos, la contaminación ambiental;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+x).- Prevenir, combatir, controlar y remediar en proporción, a la posibilidad de sus recursos, la contaminación ambiental, garantizando la remediación de los pasivos ambientales que se generen durante su administración que garantice la protección de la salud pública;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -718,6 +828,10 @@ z).- Asumir las facultades y obligaciones derivadas de la Ley de Deuda Pública,
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
 
 aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+aa BIS).- Impulsar y fomentar la creación, operación o fortalecimiento de refugios para mujeres víctimas de violencia, así como de sus hijas e hijos;
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -739,13 +853,21 @@ dd).- Implementar políticas públicas de mejora regulatoria para la simplificac
 
 ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte para el Estado de Hidalgo en materia de Movilidad; y
+ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte para el Estado de Hidalgo en materia de Movilidad;
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-gg).- Aprobar el atlas municipal de riesgos en un término de 90 días naturales al inicio de su administración, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización.
+ff BIS).- Garantizar el derecho de todos los habitantes del municipio a vivir en un ambiente adecuado para su desarrollo, salud y bienestar;
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+gg).- Aprobar el atlas municipal de riesgos en un término de 90 días naturales al inicio de su administración, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización; y
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+hh).- Promover condiciones para la participación de los municipios con el Estado en la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente.
 
 II.- Asimismo, podrán:
 
@@ -759,6 +881,14 @@ c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de
 
 d).- Acrecentar los bienes patrimoniales y promover el desenvolvimiento material, cívico, social, económico, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la municipalidad, defender y preservar el medio ambiente a través de programas concretos; así como trabajos que estarán encaminados a la recuperación, documentación y difusión de elementos que constituyen el patrimonio cultural indígena;
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+d BIS).- Velar por la creación de planes de conservación, mantenimiento, protección y demás acciones encaminadas a preservar las zonas y monumentos arqueológicos muebles e inmuebles, dentro de su territorio, siempre observando lo establecido en la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, en la Ley General de Cultura y Derechos Culturales y demás ordenamientos aplicables en el Estado.
+
+Asimismo, coadyuvar en los términos de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, en los casos en los que ciertas actividades sean competencia exclusiva de otros entes, o emitir ordenamientos municipales para perseguir dichos fines.
+
+De igual manera, será tarea del Ayuntamiento, hacer del conocimiento de los ciudadanos, respecto del patrimonio al que hace referencia la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y que se encuentre dentro de su propiedad, y todas las acciones que se llevarán a cabo para la conservación del mismo, observando en todo momento los ordenamientos jurídicos aplicables;
+
 e).- Enajenar, a título gratuito u oneroso, los inmuebles de dominio privado del Municipio, únicamente cuando así lo aprueben las dos terceras partes de los integrantes del Ayuntamiento, previa localización y medición de la propiedad y avalúo por peritos; la venta se efectuará en los términos de la autorización y conforme a lo previsto por la Ley de la materia;
 
 f).- Formular las estadísticas de productividad del Municipio, con toda clase de datos relacionados con la actividad comercial, industrial y agropecuaria de su circunscripción;
@@ -771,7 +901,19 @@ i).- Celebrar convenios para la administración y custodia de las zonas federale
 
 j).- Proceder conforme a Ley Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas con auxilio del organismo correspondiente, así como, de acuerdo con las leyes estatales y Decretos relativos a la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las leyes y Decretos correlativos;
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+j BIS).- Diagnosticar, planear, implementar y evaluar, en concordancia con la política nacional y estatal, la política municipal de cultura y derechos culturales;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+j TER).- Formular con la participación de las personas y las comunidades y aprobar, un Programa Municipal de Cultura y Derechos Culturales que tenga por objeto promover, respetar, proteger y garantizar los derechos culturales de la población, los migrantes, los visitantes del municipio y las personas con discapacidad; preservar el patrimonio cultural de propiedad municipal y propiciar la salvaguardia del patrimonio cultural inmaterial de las comunidades; propiciar, conforme a sus facultades y la disponibilidad presupuestal, la atención a la condición del artista y, establecer el sistema de información cultural municipal;
+
 k).- Regular, de acuerdo a su competencia, el funcionamiento de espectáculos y giros industriales, comerciales, turísticos y de servicios profesionales;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+k BIS).- Regular el funcionamiento y alentar el establecimiento, atendiendo su función de fomento al pleno ejercicio de los derechos culturales, de centros culturales, casas de cultura y foros escénicos. Para esos efectos, el Ayuntamiento podrá establecer los estímulos y apoyos que lo propicien;
 
 l).- Normar el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
 
@@ -823,6 +965,14 @@ III.- Las demás que le concedan la Constitución Política de los Estados Unido
 
 Los Municipios, en el desempeño de las funciones o la prestación de los servicios a su cargo y sin demérito de las atribuciones que le otorga la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, deberán observar lo dispuesto por las leyes federales y estatales.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+En ninguna circunstancia, las y los ediles podrán renunciar a las facultades y obligaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución del Estado de Hidalgo, en la presente Ley y en ningún ordenamiento jurídico, salvo lo previsto en el artículo 45 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Las y los ediles no podrán aprobar ningún acuerdo en el que le otorguen, concedan, confieran o cedan a la o el presidente municipal sus facultades y obligaciones o en el que renuncien a ellas. De igual forma por acuerdo la o el presidente municipal no podrá otorgar, conceder, conferir o ceder a ningún edil sus facultades y obligaciones o renunciar a ellas.
+
 ###### ARTÍCULO 57.
 
 Los Municipios tienen facultades concurrentes con el Estado, en las materias siguientes:
@@ -841,7 +991,13 @@ VI.- Registro del Estado Familiar;
 
 VII.- Asistencia Social;
 
-VIII.- Protección, Conservación y Restauración del Medio Ambiente;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Protección, conservación, preservación y restauración del equilibrio ecológico y protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+VIII BIS.- Gestión y manejo integral de residuos sólidos urbanos;
 
 IX.- Regulación de las instituciones de Asistencia Privada;
 
@@ -889,13 +1045,17 @@ XXVI.- Pesca y Acuacultura;
 
 XXVII.- Desarrollo Rural y atención a pueblos y comunidades Indígenas; y
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Erradicación de la violencia contra las mujeres e igualdad de género; y
+XXVIII. Erradicación de la violencia contra las mujeres e igualdad de género;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-XXIX. Protección Integral de los Derechos de las Niñas, Niños y Adolescentes.
+XXIX. Protección Integral de los Derechos de las Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+XXX. Fomento al desarrollo cultural y la promoción del más pleno ejercicio de los derechos culturales de la población, los migrantes, los visitantes y las personas con discapacidad.
 
 La concurrencia comprende la elaboración, ejecución y operación de programas, obras, servicios y acciones, de acuerdo con sus capacidades técnicas, administrativas y financieras, conforme a los Convenios de Coordinación que, para tal efecto, se celebren y en los términos que disponga la legislación correspondiente.
 
@@ -946,6 +1106,10 @@ i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de
 j).- Vigilar que los funcionarios y comisiones encargadas de los diferentes servicios Municipales, cumplan puntualmente con su cometido, de acuerdo con los Reglamentos Municipales correspondientes;
 
 k).- Mandar fijar las placas distintivas en las calles, jardines, plazas y paseos públicos, cuya nomenclatura haya sido aprobada por el Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+K BIS).- Implementar el Programa Municipal de Cultura y Derechos Culturales que sea aprobado por el Ayuntamiento;
 
 l).- Tener, bajo su mando, los cuerpos de seguridad para la conservación del orden público, con excepción de las facultades que se reservan al Presidente de la República y al Gobernador del Estado, conforme a lo establecido por la fracción VII del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1019,6 +1183,10 @@ II.- Asimismo, podrán:
 
 a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+En los nombramientos de los titulares de las dependencias de la administración pública municipal, se observará preferentemente el principio de paridad de género conforme a las normas aplicables;
+
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 a Bis).- Proponer al Ayuntamiento en sesión del mismo, el nombramiento del titular del Órgano Interno de Control. La propuesta será sometida a la aprobación del Ayuntamiento, debiendo ser designado por el voto de cuando menos las dos terceras partes de los integrantes del Ayuntamiento y sólo podrá ser removido por el mismo número de votos.
@@ -1063,11 +1231,17 @@ q).- Expedir constancias de vecindad;
 
 r).- Conceder permisos para manifestaciones públicas, de conformidad con el Bando de Policía y Gobierno;
 
-s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2013)</small>
+s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente;
 
-t).- Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la aprobación social de éstos;
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+s BIS).- Elaborar, proponer y cumplir en concordancia con la legislación y programas nacionales y estatales, el Programa Municipal para la Prevención y Gestión Integral de Residuos Sólidos Urbanos dentro de los seis primeros meses del inicio de la administración municipal, en concordancia con el Plan Municipal de Desarrollo;
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+t).- Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la aprobación social de éstos; y
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2013)</small>
 
@@ -1225,6 +1399,10 @@ IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntam
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+X BIS.- Presentar el Informe Anual de Actividades durante el mes de agosto.
+
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
@@ -1239,9 +1417,13 @@ XIII.- Formular propuestas de estudio, acciones y proyectos en materia de zonas 
 
 XIV.- Asegurar que las Comunidades y Pueblos Indígenas avecindadas en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, de conformidad con la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-XV.- Crearán en coordinación los Delegados Municipales y de las instancias competentes y los sectores social y privado los reglamentos internos propios de cada localidad a fin de que coadyuven al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad; y
+XV.- Crearán en coordinación los Delegados Municipales y de las instancias competentes y los sectores social y privado los reglamentos internos propios de cada localidad a fin de que coadyuven al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+XV BIS.- Informar a colonias y comunidades, dos veces por año y con base en los principios de Parlamento Abierto, sobre la consecución de las metas y objetivos de su plan de trabajo;
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1254,6 +1436,10 @@ Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; per
 ###### ARTÍCULO 70.
 
 El Ayuntamiento podrá designar comisiones entre sus miembros, en los términos que establezca su Reglamento, las cuales se encargarán de estudiar, examinar y elaborar proyectos para solucionar los problemas Municipales, así como vigilar que se ejecuten sus disposiciones y acuerdos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Deberán emitir resolutivos, avalados con firma autógrafa por la mayoría de los integrantes de la Comisión o las Comisiones, para ser presentados ante el Ayuntamiento.
 
 Las actividades que desempeñarán las comisiones, estarán de acuerdo con la naturaleza del nombre que se les asigne, las cuales podrán ser permanentes o especiales y observarán lo dispuesto por el Reglamento Interior del Ayuntamiento.
 
@@ -1301,9 +1487,9 @@ k).- De igualdad y Género;
 
 l).- De adultos Mayores;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-m).- De Medio Ambiente;
+m).- De Medio Ambiente y Prevención y Gestión Integral de Residuos Sólidos Urbanos;
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
 
@@ -1316,6 +1502,10 @@ n).- De Desarrollo Económico;
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 o).- De Desarrollo Agropecuario;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+o BIS).- De agua potable, drenaje, alcantarillado, tratamiento y disposición y saneamiento de aguas residuales;
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1361,6 +1551,8 @@ Toda licencia por tiempo indeterminado o que exceda de quince días será sin go
 
 ### CAPÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 77.
 
 Los casos en que procederá la suspensión y desaparición de Ayuntamientos por acuerdo del Congreso y la suspensión o revocación del mandato por alguno de sus miembros, por causas graves referidas en la Constitución Política del Estado, serán los siguientes:
@@ -1373,7 +1565,13 @@ Por inasistencia consecutiva a tres sesiones del Ayuntamiento, sin causa justifi
 
 Cuando se dicte auto de formal prisión o de vinculación a proceso por delito doloso;
 
-Por incapacidad física o legal; y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Por incapacidad física o legal;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus atribuciones, de conformidad con lo establecido en legislación en materia de responsabilidades; y
 
 Por causas análogas a juicio de la propia Legislatura.
 
@@ -1407,7 +1605,7 @@ Cuando el Congreso del Estado, tenga conocimiento de la existencia de la situaci
 
 ###### ARTÍCULO 80.
 
-Los Ayuntamientos podrán contar con Delegados y Subdelegados, como órganos auxiliares, de conformidad con el reglamento que expidan y en el que señalen los requisitos; para tal efecto, se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
+Los Ayuntamientos podrán contar con Delegados y Subdelegados, como órganos auxiliares, de conformidad con el reglamento que expidan y en el que señalen los requisitos, observando el principio de igualdad de género; para tal efecto, se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
 
 Los Ayuntamientos, en ejercicio de su facultad reglamentaria podrán establecer:
 
@@ -1477,11 +1675,13 @@ El Presidente Municipal, con el acuerdo de la mayoría de los integrantes del Ay
 
 Los Delegados y Subdelegados, están facultados para presidir los Consejos de Colaboración Municipal, si así lo aprueba la mayoría de los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, en primera convocatoria pública o los que asistan en segunda convocatoria.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 84.
 
-Los Consejos de Colaboración Municipal se integrarán con vecinos del Municipio, en la forma y términos que determine el Reglamento Interior del Ayuntamiento procurando la participación igualitaria de mujeres y hombres.
+Los Consejos de Colaboración Municipal se integrarán con vecinos del Municipio, en la forma y términos que determine el Reglamento Interior del Ayuntamiento observando el principio de paridad de género.
+
+Tendrán como objetivo auxiliar al Ayuntamiento para el cumplimiento eficaz de los planes y programas municipales aprobados, mediante la participación y colaboración de los habitantes y vecinos; así como proponer la creación o modificación de actividades, planes y programas municipales.
 
 ## TÍTULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
@@ -1633,7 +1833,25 @@ En caso de que al treinta y uno de diciembre del año que corresponda, el Ayunta
 
 Para la formulación y aprobación del Presupuesto de Egresos del Municipio se deberá observar lo siguiente:
 
-I. El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo 95 TER fracción II, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+I. El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo 95 TER fracción II, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo y del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+I BIS. El Presupuesto de Egresos podrá incorporar los subsidios, apoyos y donaciones que se otorguen a asociaciones no lucrativas que realicen actividades previstas en el artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
+
+La asociación no lucrativa para ser beneficiaria deberá cumplir con lo siguiente:
+
+a) Demostrar estar al corriente en sus respectivas obligaciones fiscales y que sus principales ingresos no provengan del Presupuesto de Egresos del Estado ni del Presupuesto de Egresos del Municipio, salvo los casos que permitan expresamente las leyes;
+
+b) No estar integrada en algún otro padrón de beneficiarios de programas a cargo del Gobierno del Estado;
+
+c) No estar vinculada a asociaciones religiosas o a partidos y agrupaciones políticas;
+
+d) Informar trimestralmente los avances físicos y financieros del proyecto financiado, así como los fines específicos del subsidio, apoyo, donación o estímulo otorgado, y
+
+e) Presentar un proyecto que justifique y fundamente la utilidad social de las actividades a financiar con el monto del donativo, subsidio o apoyo.
 
 II. Para la asignación de las previsiones de gasto público municipal la Tesorería Municipal proyectará y calculará los egresos del gobierno municipal, haciéndolo compatible con la disponibilidad de recursos al proyectar y estimar los ingresos del Municipio;
 
@@ -1913,7 +2131,15 @@ II.- Planear, organizar y coordinar el sistema de control y evaluación Municipa
 
 III.- Inspeccionar el ejercicio del gasto público Municipal en congruencia con el presupuesto de Egresos;
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III BIS.- Promover la participación de la sociedad, a través de la figura de contraloría social, en los procesos de vigilancia y evaluación de los programas y acciones de la administración pública municipal, a efecto de contribuir a un correcto desempeño de la gestión pública, bajo principios de transparencia, eficacia, legalidad y honradez;
+
 IV.- Implementar las normas de control, fiscalización, contabilidad y auditoría que deben observar las Dependencias, órganos, Organismos Municipales y Municipales descentralizados, previa consulta con la Auditoria Superior del Estado y la Secretaría de Contraloría de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IV BIS.- De conformidad a lo establecido en la Ley General de Responsabilidades Administrativas, emitir, observar y vigilar el cumplimiento del Código de Ética de los servidores públicos municipales;
 
 V.- Auditar a las diversas dependencias, órganos, Organismos Municipales y Municipales Descentralizados que manejen fondos y valores, verificando el destino de los que de manera directa o transferida realice el Municipio a través de los mismos;
 
@@ -2001,7 +2227,9 @@ I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas r
 
 II.- Alumbrado Público;
 
-III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III.- Limpia, recolección selectiva, traslado, tratamiento, valorización y disposición final de residuos sólidos urbanos;
 
 IV.- Mercados y Centrales de Abasto;
 
@@ -2028,6 +2256,10 @@ XIV.- Obras Públicas;
 XV.- Conservación de obras de interés social;
 
 XVI.- Fomento al turismo y la recreación;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+XVI BIS.- Promover, respetar, proteger y garantizar los derechos culturales de la población, los migrantes, los visitantes del municipio y las personas con discapacidad; preservar el patrimonio cultural de su propiedad y propiciar la salvaguardia del patrimonio cultural inmaterial de las comunidades; propiciar conforme a sus facultades y la disponibilidad presupuestal, la atención a la condición del artista y, establecer el Sistema de Información Cultural Municipal.
 
 XVII.- Regulación y vigilancia de toda clase de espectáculos;
 
@@ -2193,7 +2425,13 @@ I.- Controlar la actividad mercantil de su competencia, ya sea en los mercados o
 
 II.- Conservar en buen estado las calles, plazas, jardines y establecimientos públicos;
 
-III.- Administrar, conservar y dar mantenimiento a los transportes colectores de basura;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III.- Administrar, conservar y dar mantenimiento a los transportes colectores de residuos sólidos urbanos garantizando se conserve la separación de éstos, desde su fuente de generación hasta la disposición final;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III BIS.- Coordinar y administrar el manejo integral de los residuos sólidos urbanos, en sus diferentes etapas: recolección, transporte, tratamiento, aprovechamiento y disposición final de residuos sólidos urbanos, mediante la instalación y conservación de plantas tratadoras;
 
 IV.- Instalar y conservar plantas tratadoras, rellenos sanitarios y basureros;
 
@@ -2210,6 +2448,10 @@ IX.- Cumplir y hacer cumplir la reglamentación y normatividad aplicable a los r
 X.- Coordinar y planear el mantenimiento del alumbrado público, proveyendo lo necesario para el ahorro de energía y elaborar el censo de luminarias en el Municipio;
 
 XI.- Vigilar, conservar y equipar los parques y lugares públicos de recreo, así como, procurar que estos lugares sean un ornato atractivo para la población, estableciendo programas de riego, poda, abono y reforestación, así como el retiro de los árboles riesgosos para las personas, los bienes o la infraestructura urbana;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+XI BIS.- Coadyuvar con el Ayuntamiento en la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos;
 
 XII.- Administrar, supervisar, controlar y regular los panteones Municipales;
 
@@ -2254,6 +2496,16 @@ VI.- Regular el comercio establecido, así como la autorización de espectáculo
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres y el responsable Municipal de Movilidad, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+(SIC) 121 TER.- Los servidores públicos titulares de las dependencias municipales para ser nombrados, o en su caso, propuestos y aprobados por el Ayuntamiento, además de los requisitos previstos en esta ley, cumplirá con:
+
+I. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente;
+
+II. No estar condenada o condenado por delitos de acoso sexual o abuso sexual y/o delitos de violencia de género; y
+
+III. No estar condenada o condenado por el delito de violencia familiar.
 
 ### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
@@ -2349,7 +2601,45 @@ IX.- Promover de acuerdo a la disponibilidad financiera, en coordinación con la
 
 X.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
 
-### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
+### CAPÍTULO OCTAVO BIS. DEL PROGRAMA MUNICIPAL DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 BIS.- Los Ayuntamientos instrumentarán campañas permanentes para fomentar la separación de residuos sólidos urbanos y de manejo especial desde su fuente, para facilitar la implantación de sistemas para la gestión integral de dichos residuos, conforme a los lineamientos que establezcan las Autoridades en materia de medio ambiente y de salud, así como, en lo establecido en el Programa de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 TER.- Los Ayuntamientos en el ámbito de sus competencias, promoverán la participación de la sociedad para la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 QUATER.- Las autoridades municipales competentes, recabarán, registrarán, sistematizarán, analizarán y pondrán a disposición del público, la información obtenida en el ejercicio de sus funciones, vinculadas a la generación y manejo integral de los residuos sólidos urbanos y de manejo especial, la prestación del servicio de limpia, la identificación de sitios contaminados con residuos y, en su caso, las acciones de remediación de los sitios contaminados, a través de los mecanismos establecidos en la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo, sin perjuicio de la debida reserva de aquella información protegida por las leyes.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 QUINQUIES.- Las autoridades municipales, en el marco de sus respectivas competencias, instrumentarán sistemas de separación de los residuos sólidos urbanos y de manejo especial, distinguiendo entre orgánicos e inorgánicos, conforme a las disposiciones de la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo, y el Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 SEXIES.- Los Municipios podrán implementar mecanismos de selección de los residuos sólidos urbanos.
+
+Los residuos sólidos que hayan sido seleccionados para su aprovechamiento mediante reutilización y reciclaje, y no puedan ser procesados, para tal fin, por los organismos municipales encargados de los servicios de limpia deberán ser puestos a disposición de los mercados de reciclaje. La separación de este tipo de residuos, solo se realizará cuando previamente se hayan establecido los contratos respectivos con empresas recicladoras y fijado los volúmenes que éstas procesarán, para evitar la saturación de las áreas de almacenamiento temporal de residuos en las plantas de selección.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 129 SEPTIES.- Para la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, deberá considerarse lo siguiente:
+
+a. Economía Circular: Modelo de producción y consumo que se interrelaciona con la sostenibilidad, y cuyo objetivo es que el valor de los productos, los materiales y los recursos se mantengan en la economía durante el mayor tiempo posible, y que se reduzca al mínimo posible la generación de residuos;
+
+b. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+
+c. Manejo Integral de Residuos: Actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+d. Recolección Selectiva: Consiste en la captación diferenciada, desde su origen, de los residuos orgánicos e inorgánicos, permitiendo la separación de los materiales valorizables;
+
+e. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos para su aprovechamiento y/o valorización y se reduzca su volumen; y
+
+f. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### ARTÍCULO 127.
 
@@ -2409,7 +2699,71 @@ XII. Elaborar el atlas municipal de riesgos, a más tardar en un término de 150
 
 XIII. Las demás que les asignen las leyes y reglamentos, el Ayuntamiento y el Presidente Municipal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO NOVENO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
+
 ### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+
+###### ARTÍCULO 130.
+
+Los Ayuntamientos necesitan autorización del Congreso del Estado, para:
+
+I.- Establecer los valores catastrales base, equiparables al valor comercial, para la aplicación del impuesto a la propiedad inmobiliaria;
+
+II.- Suscribir convenios de asociación con Municipios de otras entidades federativas;
+
+III.- Contratar empréstitos cuando funja como avalista el Estado, conforme a la Ley de la materia;
+
+IV.- Cambiar la clasificación demográfica de las poblaciones; y
+
+V.- Los demás casos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y esta Ley.
+
+###### ARTÍCULO 131.
+
+A la solicitud de autorización para celebrar los actos jurídicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrarlos y los documentos necesarios.
+
+###### ARTÍCULO 132.
+
+Para la enajenación de un inmueble, el Presidente Municipal deberá presentar ante el Ayuntamiento la solicitud respectiva, que deberá reunir los siguientes requisitos:
+
+I.- Señalar la superficie, medidas, linderos y ubicación exacta del inmueble;
+
+II.- Anotar el valor catastral o fiscal del inmueble;
+
+III.- Establecer los términos de la operación y motivos que se tengan para realizarla;
+
+IV.- Acompañar en su caso, la documentación suficiente para acreditar la propiedad del inmueble;
+
+V.- Comprobar que el inmueble no está destinado a un servicio público Municipal y que no tiene un valor arqueológico, histórico o artístico; mediante la certificación de un perito del Instituto Nacional de Antropología e Historia;
+
+VI.- Cuando se trate de una permuta, se cuidará que el valor comercial del inmueble, que se proyecta recibir, sea por lo menos equiparable al que se pretende entregar; y
+
+VII.- Señalar el destino que se dará a los fondos que se obtengan de la venta.
+
+###### ARTÍCULO 133.
+
+La celebración de contratos de ejecución de obras y para la prestación de servicios públicos que generen obligaciones, cuyo término exceda de la gestión del Ayuntamiento contratante; se sujetará a concurso de acuerdo con las bases establecidas por esta Ley y los reglamentos Municipales de la materia, a menos que aquélla considere casos de excepción; en tal caso, deberá ser aprobada por las dos terceras partes de los miembros del Ayuntamiento.
+
+###### ARTÍCULO 134.
+
+A la solicitud de autorización para contratar la prestación de servicios públicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrar el contrato y los documentos que respalden dicha petición.
+
+###### ARTÍCULO 135.
+
+En las solicitudes que formule el Presidente Municipal al Ayuntamiento, para cambiar de destino o desafectar los bienes de uso común o dedicado a un servicio público, se expresarán los motivos que tenga para ello, acompañándose el dictamen técnico o pericial al respecto.
+
+###### ARTÍCULO 136.
+
+Para la realización de obras en beneficio colectivo, el Ayuntamiento podrá disponer de los bienes del Municipio mediante autorización con mayoría calificada de sus integrantes.
+
+###### ARTÍCULO 137.
+
+Los Ayuntamientos, con apego a la legislación vigente sobre asentamientos humanos y desarrollo urbano, estarán obligados por sí o con la participación del Estado, a adquirir los inmuebles que circunden a los centros de población de su Municipio, a efecto de integrar un área de reserva urbana destinada a satisfacer sus necesidades de expansión y desarrollo.
+
+###### ARTÍCULO 138.
+
+Los acuerdos, concesiones, licencias, permisos y autorizaciones otorgados por autoridades, funcionarios o empleados Municipales, que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público o sobre cualquier materia administrativa, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
 
 ### CAPÍTULO DÉCIMO BIS. DE LA SECRETARÍA DE DESARROLLO PARA PUEBLOS Y COMUNIDADES INDÍGENAS
 
@@ -2475,104 +2829,6 @@ ARTÍCULO 146 (SIC) SEXTUS.- El Municipio a través de La Secretaría de Desarro
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 130.
-
-Los Ayuntamientos necesitan autorización del Congreso del Estado, para:
-
-I.- Establecer los valores catastrales base, equiparables al valor comercial, para la aplicación del impuesto a la propiedad inmobiliaria;
-
-II.- Suscribir convenios de asociación con Municipios de otras entidades federativas;
-
-III.- Contratar empréstitos cuando funja como avalista el Estado, conforme a la Ley de la materia;
-
-IV.- Cambiar la clasificación demográfica de las poblaciones; y
-
-V.- Los demás casos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y esta Ley.
-
-###### ARTÍCULO 131.
-
-A la solicitud de autorización para celebrar los actos jurídicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrarlos y los documentos necesarios.
-
-###### ARTÍCULO 132.
-
-Para la enajenación de un inmueble, el Presidente Municipal deberá presentar ante el Ayuntamiento la solicitud respectiva, que deberá reunir los siguientes requisitos:
-
-I.- Señalar la superficie, medidas, linderos y ubicación exacta del inmueble;
-
-II.- Anotar el valor catastral o fiscal del inmueble;
-
-III.- Establecer los términos de la operación y motivos que se tengan para realizarla;
-
-IV.- Acompañar en su caso, la documentación suficiente para acreditar la propiedad del inmueble;
-
-V.- Comprobar que el inmueble no está destinado a un servicio público Municipal y que no tiene un valor arqueológico, histórico o artístico; mediante la certificación de un perito del Instituto Nacional de Antropología e Historia;
-
-VI.- Cuando se trate de una permuta, se cuidará que el valor comercial del inmueble, que se proyecta recibir, sea por lo menos equiparable al que se pretende entregar; y
-
-VII.- Señalar el destino que se dará a los fondos que se obtengan de la venta.
-
-###### ARTÍCULO 133.
-
-La celebración de contratos de ejecución de obras y para la prestación de servicios públicos que generen obligaciones, cuyo término exceda de la gestión del Ayuntamiento contratante; se sujetará a concurso de acuerdo con las bases establecidas por esta Ley y los reglamentos Municipales de la materia, a menos que aquélla considere casos de excepción; en tal caso, deberá ser aprobada por las dos terceras partes de los miembros del Ayuntamiento.
-
-###### ARTÍCULO 134.
-
-A la solicitud de autorización para contratar la prestación de servicios públicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrar el contrato y los documentos que respalden dicha petición.
-
-###### ARTÍCULO 135.
-
-En las solicitudes que formule el Presidente Municipal al Ayuntamiento, para cambiar de destino o desafectar los bienes de uso común o dedicado a un servicio público, se expresarán los motivos que tenga para ello, acompañándose el dictamen técnico o pericial al respecto.
-
-###### ARTÍCULO 136.
-
-Para la realización de obras en beneficio colectivo, el Ayuntamiento podrá disponer de los bienes del Municipio mediante autorización con mayoría calificada de sus integrantes.
-
-###### ARTÍCULO 137.
-
-Los Ayuntamientos, con apego a la legislación vigente sobre asentamientos humanos y desarrollo urbano, estarán obligados por sí o con la participación del Estado, a adquirir los inmuebles que circunden a los centros de población de su Municipio, a efecto de integrar un área de reserva urbana destinada a satisfacer sus necesidades de expansión y desarrollo.
-
-###### ARTÍCULO 138.
-
-Los acuerdos, concesiones, licencias, permisos y autorizaciones otorgados por autoridades, funcionarios o empleados Municipales, que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público o sobre cualquier materia administrativa, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
-
-### CAPÍTULO DÉCIMO TER. DE LA INSTANCIA MUNICIPAL PARA EL DESARROLLO DE LAS MUJERES
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-ARTÍCULO 145 SEPTIMUS.- En cada municipio, podrá existir una Instancia Municipal para el Desarrollo de las Mujeres, creada como organismo descentralizado o centralizado de la administración pública municipal, que tendrá por objeto:
-
-I. Fomentar acciones que posibiliten la no discriminación, la igualdad jurídica, de oportunidades y de trato entre mujeres y hombres;
-
-II. Promover acciones en coordinación con otras instancias, relativas a la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
-
-III. Favorecer el ejercicio pleno de todos los derechos de las mujeres y su participación en la vida política, cultural, económica y social del municipio.
-
-La persona titular de la Instancia Municipal para el Desarrollo de las Mujeres deberá contar, como mínimo, con bachillerato o carrera técnica, y tener conocimientos inherentes al buen desempeño de su cargo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres tendrá las siguientes atribuciones:
-
-I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
-
-II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
-
-III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
-
-IV. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
-
-V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
-
-VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
-
-VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, participarán con la Instancia Municipal para el Desarrollo de las Mujeres en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2018)</small>
-
 ###### ARTÍCULO 139.
 
 En los Municipios que conforman al Estado, funcionará un Comité de Planeación para el Desarrollo Municipal (COPLADEM) que estará sujeto a lo dispuesto por la Constitución Política del Estado, la Ley Estatal de Planeación y la normatividad Municipal respectiva.
@@ -2581,7 +2837,9 @@ En los Municipios que conforman al Estado, funcionará un Comité de Planeación
 
 El Comité de Planeación para el Desarrollo Municipal, funcionará como órgano desconcentrado dependiente del Presidente Municipal, regulando su funcionamiento interno dentro del propio Ayuntamiento y contará con las siguientes facultades y obligaciones:
 
-I.- Promover y coadyuvar con la autoridad Municipal, con la colaboración de los sectores que actúan a nivel local, en la elaboración del Plan de Desarrollo Municipal y los programas sectoriales, en congruencia con los que formulen los gobiernos Federal y Estatal;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+I.- Promover y coadyuvar con la autoridad municipal, con la colaboración de los sectores que actúan a nivel local, en la elaboración de Plan de Desarrollo Municipal y del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos y los programas sectoriales, en congruencia con los que formulen los gobiernos federal y estatal;
 
 II.- Cumplir con las prevenciones que establece la Ley de Planeación para el Desarrollo del Estado y con la legislación federal en la materia;
 
@@ -2590,6 +2848,10 @@ III.- Observar las disposiciones de coordinación entre los gobiernos Federal, E
 IV.- Coordinar el control y evaluación de los planes, programas y proyectos de desarrollo del Municipio, los que estarán adecuados a los que formulen los gobiernos Federal y Estatal y coadyuvar al oportuno cumplimiento de sus objetivos y metas;
 
 V.- Formular y presentar a la consideración de los gobiernos Federal, Estatal y Municipal, propuestas de programas de inversión, gasto y financiamiento públicos para el Municipio. Dichas propuestas deberán presentarse respecto de obras o servicios claramente jerarquizados, fundamentalmente a partir de las prioridades señaladas en el Programa de Gobierno Municipal;
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+Los programas de inversión que hace referencia esta fracción, preferentemente deberán considerar de manera jerarquizada las obras y acciones encaminadas a la construcción, mantenimiento y rehabilitación de infraestructura peatonal y ciclista.
 
 VI.- Proponer a los gobiernos Federal y Estatal, programas y acciones a concertar, con el propósito de coadyuvar al desarrollo del Municipio. Así mismo, evaluar la ejecución de dichos programas y acciones, e informar periódicamente a dichos órdenes de Gobierno;
 
@@ -2661,6 +2923,44 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### CAPÍTULO DÉCIMO TER. DE LA INSTANCIA MUNICIPAL PARA EL DESARROLLO DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 SEPTIMUS.- En cada municipio, podrá existir una Instancia Municipal para el Desarrollo de las Mujeres, creada como organismo descentralizado o centralizado de la administración pública municipal, que tendrá por objeto:
+
+I. Fomentar acciones que posibiliten la no discriminación, la igualdad jurídica, de oportunidades y de trato entre mujeres y hombres;
+
+II. Promover acciones en coordinación con otras instancias, relativas a la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+III. Favorecer el ejercicio pleno de todos los derechos de las mujeres y su participación en la vida política, cultural, económica y social del municipio.
+
+La persona titular de la Instancia Municipal para el Desarrollo de las Mujeres deberá contar, como mínimo, con bachillerato o carrera técnica, y tener conocimientos inherentes al buen desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres tendrá las siguientes atribuciones:
+
+I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
+
+II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
+
+III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
+
+IV. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
+
+V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
+
+VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
+
+VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, participarán con la Instancia Municipal para el Desarrollo de las Mujeres en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2018)</small>
+
 ### CAPÍTULO DÉCIMO QUATER. DEL SISTEMA MUNICIPAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
@@ -2711,11 +3011,9 @@ XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 146.
 
@@ -2745,7 +3043,7 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 152.
 
@@ -2823,7 +3121,9 @@ II.- No otorgue o amplíe las garantías en los términos que le fueron fijadas;
 
 III.- Enajene o de alguna manera, constituya un gravamen de cualquier especie sobre la concesión o algunos de los derechos en ella establecidos o los bienes destinados al servicio público propiedad del Municipio;
 
-IV.- A juicio del Ayuntamiento deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada o sin previa autorización por escrito del mismo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+IV.- A juicio del Ayuntamiento deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada o sin previa autorización por escrito;
 
 V.- Modifique las tarifas sin autorización del Ayuntamiento;
 
@@ -2851,7 +3151,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 160.
 
@@ -2881,11 +3181,17 @@ Se entiende y reconoce como sistema normativo indígena, aquél que comprende re
 
 Los requisitos para ser conciliador Municipal serán:
 
-I.- Tener estudios terminados de licenciado en derecho, excepto que en el Municipio de que se trate no exista profesionista en ese ramo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-II.- No haber sido condenado por delito doloso; y
+I.- Tener estudios terminados de licenciada o licenciado en derecho, excepto que en el Municipio de que se trate no exista profesionista en ese ramo;
 
-III.- No haber sido inhabilitado para desempeñarse en un cargo, empleo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+II.- No estar condenado por delito doloso; y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
+III.- No estar inhabilitado para desempeñarse en un cargo, empleo o comisión en el servicio público.
 
 La integración, organización y funcionamiento de la instancia administrativa conciliadora será la que se establezca en el reglamento que al efecto expida el Ayuntamiento, de acuerdo al presupuesto asignado.
 
@@ -2929,7 +3235,7 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 164.
 
@@ -2968,6 +3274,8 @@ III.- Otras que tiendan a proteger los bienes y la seguridad pública en los cas
 ###### ARTÍCULO 167.
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las Leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 168.
 
@@ -3137,9 +3445,11 @@ Cada Municipio tiene la facultad exclusiva para regular los aspectos medulares d
 
 Los Bandos de Policía y Gobierno, los Reglamentos, circulares y demás disposiciones administrativas de observancia general, podrán modificarse cuando se cumplan los requisitos de su aprobación, expedición y promulgación y lo requieran las circunstancias y necesidades de seguridad, Gobierno y Administración Municipal.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 191.
 
-Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, deberán darse a la publicidad en el Periódico Oficial del Estado, en el mismo se establecerá la fecha en que se inicie su obligatoriedad.
+Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas se darán a conocer en el Periódico Oficial del Estado, en los cuales se establecerán la fecha en que se inicie su obligatoriedad, además de cumplir con el principio de máxima publicidad.
 
 ## TÍTULO DÉCIMO. DE LA COLABORACIÓN ENTRE EL MUNICIPIO Y EL ESTADO
 
@@ -3436,3 +3746,23 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los plazos establecidos en el presente Decreto, para la elaboración de los Atlas de Riesgo, empezarán a correr hasta que los Ayuntamientos Constitucionalmente electos entren en funciones.
+
+P.O. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 535, DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los municipios del Estado contarán con un plazo de 120 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su Reglamento Interior.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento a lo establecido en la fracción III BIS del artículo 119 de la Ley Orgánica Municipal para el Estado de Hidalgo, los Ayuntamientos de los municipios con más de 25 mil habitantes deberán crear una Unidad Administrativa para la coordinación y supervisión de la gestión de los Residuos Sólidos Urbanos.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades municipales deberán realizar las previsiones financieras o adecuaciones presupuestales en el Presupuesto de Egresos según sea el caso, en materia de gestión de los Residuos Sólidos Urbanos, una vez que entre en vigor el presente Decreto.
