@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2019-11-15"
+last_updated: "2020-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -57,9 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región está conformado por dos tribunales Colegiados de Circuito Auxiliares, con residencia en la Ciudad de México, y tres juzgados de Distrito Auxiliares con sede en la Ciudad de México.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región está conformado por dos tribunales Colegiados de Circuito Auxiliares, con residencia en la Ciudad de México, y dos juzgados de Distrito Auxiliares con sede en la Ciudad de México.
 
 Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, y su denominación será la siguiente:
 
@@ -81,7 +81,7 @@ a) Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con re
 
 b) Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-c) Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+c) (DEROGADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)
 
 d) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)
 
@@ -416,3 +416,23 @@ A efecto de respetar los derechos laborales de los servidores públicos adscrito
 En caso de que algún servidor público cause baja en el órgano jurisdiccional que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que las propuestas tienen como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
 
 La transferencia de las plazas de los titulares que causan baja y la conversión de las plazas de los servidores públicos de confianza, se realizará conforme a la propuesta de la Dirección General de Recursos Humanos.
+
+D.O.F. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 28/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA TRANSFORMACIÓN DE LOS JUZGADOS CUARTO, QUINTO, SÉPTIMO Y OCTAVO DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR CON SEDE EN LA CIUDAD DE MÉXICO, Y DEL JUZGADO TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN ESPECIALIZADO EN EXTINCIÓN DE DOMINIO CON JURISDICCION EN LA REPÚBLICA MEXICANA, EN JUZGADOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y QUINTO DE DISTRITO EN MATERIA DE EXTINCIÓN DE DOMINIO CON COMPETENCIA EN LA REPÚBLICA MEXICANA Y ESPECIALIZADOS EN JUICIOS ORALES MERCANTILES EN EL PRIMER CIRCUITO, CON SEDE EN LA CIUDAD DE MÉXICO, RESPECTIVAMENTE; A LA CREACIÓN DEL JUZGADO SEXTO DE DISTRITO CON LA MISMA SEMIESPECIALIDAD Y RESIDENCIA; LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; Y QUE REFORMA LOS SIMILARES 20/2009, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN; Y 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizará todos los ajustes requeridos en el sistema de cómputo de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil en la Ciudad de México, para el reparto, distribución y turno de los asuntos competencia de los Juzgados de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializados en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, conforme lo ordenado en el presente Acuerdo General.
+
+CUARTO. Se autoriza por necesidades del servicio el uso temporal de la sala de audiencias instalada en el Edificio Prisma, ubicado en Avenida Insurgentes Sur 2065, colonia San Ángel, Alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México, por parte del Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, o de cualquier otro espacio en los inmuebles del Poder Judicial de la Federación.
+
+Los titulares de los Juzgados de Distrito Especializado en Ejecución de Penas en la Ciudad de México y del Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México, deberán coordinarse entre sí para el uso eficiente de la sala, cualquier incidencia al respecto será resuelta por las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información.
+
+QUINTO. La primera guardia para la recepción de asuntos urgentes en días y horas inhábiles, establecida de conformidad con el calendario señalado en el artículo 11 del presente ordenamiento, por única ocasión, comenzará a las 0:00 del 16 de diciembre de 2020 para el Juzgado Primero de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, con sede en la Ciudad de México.
+
+SEXTO. La Dirección General de Servicios Generales prestará auxilio a los órganos jurisdiccionales en el traslado de los expedientes ordenado en el presente Acuerdo. Además, en coordinación con la Dirección General de Gestión Judicial, diseñará e implementará la logística necesaria para el envío cotidiano de expedientes entre la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil en la Ciudad de México y el Juzgado Quinto de Distrito en Materia de Extinción de Dominio con Competencia en la República Mexicana y Especializado en Juicios Orales Mercantiles en el Primer Circuito, el que de forma temporal se ubicará en un domicilio diferente al de sus similares dentro de la Ciudad de México.
+
+SÉPTIMO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
