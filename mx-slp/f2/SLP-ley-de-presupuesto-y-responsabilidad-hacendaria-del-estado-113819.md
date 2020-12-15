@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2020-11-21"
+last_updated: "2020-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -52,11 +52,11 @@ LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN L
 
 Esta Ley es de orden público y tiene por objeto reglamentar los artículos, 53, 57 fracciones X y XI, 80 fracción VII, 92, 114, y 133, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, en materia de programación, presupuestación, aprobación, ejercicio, control, y evaluación de los ingresos y egresos públicos estatales y municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 2°.
+###### ARTÍCULO 2º.
 
-Los sujetos obligados a cumplir las disposiciones de este Ordenamiento deberán observar que la administración de los recursos públicos, se realice con base en criterios de, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y transversalidad de la perspectiva de género.
+Los sujetos obligados a cumplir las disposiciones de este Ordenamiento deberán observar que la administración de los recursos públicos, se realice con base en criterios de, interés público legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y transversalidad de la perspectiva de género.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
@@ -1397,6 +1397,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 21 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0815.- SE REFORMA LOS ARTÍCULOS 25 EN SUS FRACCIONES VI Y VII Y 38 EN SUS FRACCIONES VII Y VIII; Y ADICIONA A LOS ARTÍCULOS 25 LA FRACCIÓN VIII Y 38 LA FRACCIÓN IX, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0956.- SE REFORMA EL ARTÍCULO 2º EN SU PÁRRAFO PRIMERO, DE (SIC) LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
