@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-coordinacion-metropolitana-de-la-ciudad-de-mexico-57746"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-03"
-last_updated: "2018-04-03"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57746&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-13"
 
 LEY DE COORDINACIÓN METROPOLITANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de enero de 2008.
 
@@ -98,13 +98,15 @@ El Instituto será el responsable de coordinar los instrumentos de planeación p
 
 La Secretaría de Gobierno, a través de la Subsecretaría y las Alcaldías, ejecutarán las acciones coordinadas con la Federación, estados y municipios en las zonas conurbadas limítrofes con la Ciudad de México, en los términos que establece la normatividad vigente, la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Son atribuciones del Secretario de Gobierno a través de la Subsecretaría:
+Son atribuciones de la persona titular de la Secretaría de Gobierno a través de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental:
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
 
-I. Proponer y promover la suscripción de convenios para la constitución, integración y funcionamiento de las comisiones metropolitanas conjuntamente con las Dependencias y Alcaldías y en coordinación con la Federación, los Estados y Municipios en las materias de Desarrollo Urbano; Gestión y Protección Ambiental; Preservación y Restauración del Equilibrio Ecológico; Asentamientos Humanos, Movilidad, Transporte. Agua Potable y Drenaje: Recolección, Tratamiento y Disposición de Desechos Sólidos; Ciencia y Tecnología; Seguridad Ciudadana y Trata de Personas. Explotación Sexual Infantil y Sexoservicio; desde el enfoque de género, para contribuir a alcanzar la igualdad sustantiva, así como la celebración y suscripción de los instrumentos necesarios de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México para el cumplimiento de los objetivos y fines de esta Ley;
+I. Proponer y promover la suscripción de convenios para la constitución, integración y funcionamiento de las comisiones metropolitanas conjuntamente con las Dependencias y Alcaldías y en coordinación con la Federación, los Estados y Municipios en las materias de Desarrollo Urbano; Gestión y Protección Ambiental; Preservación y Restauración del Equilibrio Ecológico; Asentamientos Humanos, Movilidad, Transporte, Agua Potable y Drenaje; Recolección, Tratamiento y Disposición de Desechos Sólidos; Gestión Integral de Riesgos y Protección Civil; Ciencia y Tecnología; Seguridad Ciudadana; Búsqueda de Personas; Trata de Personas; Explotación Sexual Infantil y Sexoservicio desde el enfoque de género, para contribuir a alcanzar la igualdad sustantiva, así como la celebración y suscripción de los instrumentos necesarios de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México para el cumplimiento de los objetivos y fines de esta Ley;
 
 > <small>(REFORMADA, G.O. 3 DE ABRIL DE 2018)</small>
 
@@ -265,3 +267,11 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M
 SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
 
 TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+G.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DE COORDINACIÓN METROPOLITANA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Publíquese en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
