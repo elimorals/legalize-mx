@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2019-11-27"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 242 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 219.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -499,9 +497,17 @@ II. Coordinar la promoción y seguimiento de los programas de atención de las p
 
 III. Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores;
 
-IV. Realizar las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención· de créditos accesibles para adquirir una vivienda propia o remodelarla en caso de ya contar con ella; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-V. Garantizar el acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia.
+IV. Realizar las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o remodelarla en caso de ya contar con ella;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+V. Garantizar el acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+VI. Analizar, planear, diseñar e implementar políticas públicas orientadas al uso de nuevas tecnologías.
 
 ###### Artículo 25.
 
@@ -1110,3 +1116,15 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS TREINTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EL QUE SE ADICIONA LA FRACCIÓN VI”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", Órgano de difusión oficial del gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. El Poder Ejecutivo del Estado, adecuara sus Reglamentos en un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
