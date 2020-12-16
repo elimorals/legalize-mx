@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2014-01-10"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -761,6 +761,10 @@ Las administradoras deberán presentar a la Junta de Gobierno de la Comisión su
 La Junta de Gobierno, una vez analizada la solicitud, podrá exigir información adicional así como aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas para los intereses de los trabajadores, considerando el monto de los activos en administración, la estructura de costos de las administradoras, el nivel de las demás comisiones presentes en el mercado y los demás elementos que dicho órgano de gobierno considere pertinentes. La Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley, excepto tratándose de las solicitudes de autorización anuales, en cuyo caso deberá resolver a más tardar el último día hábil del mes de diciembre. No se podrán autorizar aumentos de comisiones por encima del promedio del resto de las comisiones autorizadas.
 
 La propia Junta de Gobierno de la Comisión atendiendo a las consideraciones referidas en el párrafo anterior, dictará políticas y criterios en materia de comisiones, particularmente sobre la dispersión máxima permitida en el sistema entre la comisión más baja y la más alta, mediante la definición de parámetros claros, y podrá emitir exhortos o recomendaciones a las administradoras sobre el nivel de sus comisiones.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+Las comisiones que cobren las administradoras de fondos para el retiro estarán sujetas a un máximo, el cual resultará del promedio aritmético de los cobros en materia de comisiones en los sistemas de contribución definida de los Estados Unidos de América, Colombia y Chile, de conformidad con las políticas y criterios que al efecto emita la Junta de Gobierno de la Comisión de conformidad con el párrafo anterior. En la medida en que las comisiones en estos países tengan ajustes a la baja serán aplicables las mismas reducciones y, en caso contrario, se mantendrá el promedio que al momento se esté aplicando.
 
 En caso de que una administradora omita presentar sus comisiones anuales para autorización en la fecha establecida, estará obligada a cobrar la comisión más baja autorizada por la Junta de Gobierno a otras administradoras para el año calendario de que se trate, hasta que presente su solicitud y sus comisiones sean autorizadas.
 
@@ -2677,3 +2681,65 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO”.]
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto en los transitorios siguientes.
+
+Segundo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del Seguro Social será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 16 DE DICIEMBRE DE 2020, PÁGINA 32.]</small>
+
+Del 1 de enero de 2021 al 31 de diciembre de 2022:
+
+I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
+
+II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
+
+III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
+
+Tercero. La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
+
+Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
+
+Salario base de cotización de Trabajador Cuota social
+
+4.01 a 5 UMA* $2.45
+
+5.01 a 6 UMA $1.80
+
+6.01 a 7.09 UMA $1.00
+
+*Unidad de Medida y Actualización
+
+Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023.
+
+Cuarto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
+
+La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
+
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 16 DE DICIEMBRE DE 2020, PÁGINA 33.]</small>
+
+Quinto. El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
+
+Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
+
+Sexto. La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
+
+Séptimo. La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
+
+Octavo. El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
+
+Noveno. Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
+
+La designación de beneficiarios que se realice por los trabajadores a partir de la entrada en vigor del presente Decreto, en términos de lo dispuesto por el artículo 193 de la Ley del Seguro Social, surtirá efectos a partir de la fecha en que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten los ajustes correspondientes de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+La designación de beneficiarios sustitutos efectuada en términos del artículo 193 de la Ley del Seguro Social, con anterioridad a la entrada en vigor del presente Decreto, mantendrá su vigencia para el caso en que no haya beneficiarios del trabajador titular de la cuenta individual en términos de la legislación común.
+
+Los procedimientos de designación de beneficiarios que, a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante las juntas o tribunales de conciliación y arbitraje, en términos del artículo 501 de la Ley Federal del Trabajo, continuarán substanciándose de conformidad con lo dispuesto por dicha ley.
+
+Décimo. Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
+
+Décimo Primero. Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
