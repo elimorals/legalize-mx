@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2020-10-21"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1620,9 +1620,9 @@ El Instituto concederá en los términos de este artículo, las asignaciones fam
 
 Para calcular el aguinaldo anual o las pensiones de viudez, de orfandad o a ascendientes no serán tomadas en cuenta las asignaciones familiares y las ayudas asistenciales que se otorguen.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, incluidas en la pensión que adquieran, las asignaciones familiares y las ayudas asistenciales que se establecen en esta sección, las cuales se financiarán con la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales y del Estado a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales.
+Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, incluidas en la pensión que adquieran, las asignaciones familiares y las ayudas asistenciales que se establecen en esta sección, las cuales se financiarán con la cuota social que, en su caso, aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley y con las aportaciones patronales a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez.
 
 ###### Artículo 140.
 
@@ -1660,9 +1660,13 @@ IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo p
 
 La cuantía de la pensión por invalidez será igual a una cuantía básica del treinta y cinco por ciento del promedio de los salarios correspondientes a las últimas quinientas semanas de cotización anteriores al otorgamiento de la misma, o las que tuviere siempre que sean suficientes para ejercer el derecho, en los términos del artículo 122 de esta Ley, actualizadas conforme al Índice Nacional de Precios al Consumidor, más las asignaciones familiares y ayudas asistenciales.
 
-En el caso de que la cuantía de la pensión sea inferior a la pensión garantizada, el Estado aportará la diferencia a fin de que el trabajador pueda adquirir una pensión vitalicia.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-En ningún caso la pensión de invalidez, incluyendo las asignaciones familiares y ayudas asistenciales, podrá ser inferior a la pensión garantizada establecida en el artículo 170 de esta Ley.
+En el caso de que la cuantía de la pensión sea inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley, el Estado aportará la diferencia a fin de que el trabajador pueda adquirir una pensión vitalicia.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+En ningún caso la pensión de invalidez, incluyendo las asignaciones familiares y ayudas asistenciales, podrá ser inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
 
 ###### Artículo 142.
 
@@ -1752,7 +1756,9 @@ Las semanas de cotización amparadas por certificados de incapacidad médica par
 
 Para los efectos de esta Ley existe cesantía en edad avanzada cuando el asegurado quede privado de trabajos remunerados a partir de los sesenta años de edad.
 
-Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el Instituto un mínimo de mil doscientas cincuenta cotizaciones semanales.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el Instituto un mínimo de mil cotizaciones semanales.
 
 El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión.
 
@@ -1774,23 +1780,31 @@ IV. Ayuda asistencial.
 
 El derecho al goce de la pensión de cesantía en edad avanzada comenzará desde el día en que el asegurado cumpla con los requisitos señalados en el artículo 154 de esta Ley, siempre que solicite el otorgamiento de dicha pensión y acredite haber quedado privado de trabajo, si no fue recibido en el Instituto el aviso de baja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 157.
 
-Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de cesantía en edad avanzada. Para tal propósito podrá optar por alguna de las alternativas siguientes:
+Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de cesantía en edad avanzada. Para tal propósito, podrán elegir alguna de las opciones siguientes o ambas:
 
 I. Contratar con la institución de seguros de su elección una renta vitalicia, que se actualizará anualmente en el mes de febrero conforme al Indice Nacional de Precios al Consumidor, y
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 
-Ambos supuestos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-El asegurado que opte por la alternativa prevista en la fracción II podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I. El asegurado no podrá optar por la alternativa señalada si la renta mensual vitalicia a convenirse fuera inferior a la pensión garantizada.
+Los supuestos referidos, se sujetarán a lo establecido en esta Ley y a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 158.
 
-El asegurado podrá pensionarse antes de cumplir las edades establecidas, siempre y cuando la pensión que se le calcule en el sistema de renta vitalicia sea superior en más del treinta por ciento de la pensión garantizada, una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios.
+El asegurado podrá pensionarse antes de cumplir las edades establecidas, siempre y cuando la pensión que se le calcule en el sistema de renta vitalicia sea superior en más del treinta por ciento de la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta Ley, una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios.
 
-El pensionado tendrá derecho a recibir el excedente de los recursos acumulados en su cuenta individual en una o varias exhibiciones, solamente si la pensión que se le otorgue es superior en más del treinta por ciento de la pensión garantizada, una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios. La disposición de la cuenta así como de sus rendimientos estará exenta del pago de contribuciones.
+El pensionado tendrá derecho a recibir el excedente de los recursos acumulados en su cuenta individual en una o varias exhibiciones, solamente si la pensión que se le otorgue es superior en más del treinta por ciento de la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta Ley, una vez cubierta la prima del seguro de sobrevivencia para sus beneficiarios. La disposición de la cuenta, así como de sus rendimientos estará exenta del pago de contribuciones.
 
 Lo dispuesto en este artículo es aplicable al ramo de vejez.
 
@@ -1798,7 +1812,9 @@ Lo dispuesto en este artículo es aplicable al ramo de vejez.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Cuenta individual, aquella que se abrirá para cada asegurado en las Administradoras de Fondos para el Retiro, para que se depositen en la misma las cuotas obrero-patronales y estatal por concepto del seguro de retiro, cesantía en edad avanzada y vejez, así como los rendimientos. La cuenta individual se integrará por las subcuentas: de retiro, cesantía en edad avanzada y vejez; de vivienda y de aportaciones voluntarias.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+I. Cuenta individual, aquella que se abrirá para cada asegurado en las Administradoras de Fondos para el Retiro, para que se depositen en la misma las cuotas obrero-patronales y, en su caso, la estatal por concepto del seguro de retiro, cesantía en edad avanzada y vejez, así como los rendimientos. La cuenta individual se integrará por las subcuentas: de retiro, cesantía en edad avanzada y vejez; de vivienda y de aportaciones voluntarias.
 
 Respecto de la subcuenta de vivienda las Administradoras de Fondos para el Retiro deberán hacer entrega de los recursos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores en los términos de su propia Ley.
 
@@ -1806,9 +1822,13 @@ II. Individualizar, el proceso mediante el cual se identifica la parte que se ab
 
 III. Pensión, la renta vitalicia o el retiro programado.
 
-IV. Renta vitalicia, el contrato por el cual la aseguradora a cambio de recibir los recursos acumulados en la cuenta individual se obliga a pagar periódicamente una pensión durante la vida del pensionado.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-V. Retiros programados, la modalidad de obtener una pensión fraccionando el monto total de los recursos de la cuenta individual, para lo cual se tomará en cuenta la esperanza de vida de los pensionados, así como los rendimientos previsibles de los saldos.
+IV. Renta vitalicia, el contrato por el cual la aseguradora a cambio de recibir todos o parte de los recursos acumulados en la cuenta individual se obliga a pagar periódicamente una pensión durante la vida del pensionado.
+
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+V. Retiros programados, la modalidad de obtener una pensión fraccionando el monto total o parte de los recursos de la cuenta individual, para lo cual se tomará en cuenta la esperanza de vida de los pensionados, así como los rendimientos previsibles de los saldos.
 
 VI. Seguro de sobreviviencia (sic), aquél que se contrata por los pensionados, por riesgos de trabajo, por invalidez, por cesantía en edad avanzada o por vejez, con cargo a los recursos de la suma asegurada, adicionada a los recursos de la cuenta individual a favor de sus beneficiarios para otorgarles la pensión, ayudas asistenciales y demás prestaciones en dinero previstas en los respectivos seguros, mediante la renta que se les asignará después del fallecimiento del pensionado, hasta la extinción legal de las pensiones.
 
@@ -1819,6 +1839,10 @@ VIII. Suma asegurada es la cantidad que resulta de restar al monto constitutivo 
 > <small>(F. DE E., D.O.F. 16 DE ENERO DE 1996)</small>
 
 La renta vitalicia y el seguro de sobrevivencia, que otorguen de acuerdo a lo previsto en los seguros de riesgos de trabajo, invalidez y vida y retiro, cesantía en edad avanzada y vejez, las instituciones de seguros se sujetarán a las reglas de carácter general que expida la Comisión Nacional de Seguros y Fianzas, oyendo previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+La renta vitalicia se sujetará a las modalidades de contratación que elija el asegurado de entre las opciones que estén registradas ante la Comisión Nacional de Seguros y Fianzas, previo acuerdo del Comité al que se refiere el artículo 81 de la Ley de los Sistemas de Ahorro para el Retiro.
 
 ###### Artículo 160.
 
@@ -1838,9 +1862,11 @@ III. Asignaciones familiares, y
 
 IV. Ayuda asistencial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 162.
 
-Para tener derecho al goce de las prestaciones del seguro de vejez, se requiere que el asegurado haya cumplido sesenta y cinco años de edad y tenga reconocidas por el Instituto un mínimo de mil doscientas cincuenta cotizaciones semanales.
+Para tener derecho al goce de las prestaciones del seguro de vejez, se requiere que el asegurado haya cumplido sesenta y cinco años de edad y tenga reconocidas por el Instituto un mínimo de mil cotizaciones semanales.
 
 En caso que el asegurado tenga sesenta y cinco años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión. Si el asegurado tiene cotizadas un mínimo de setecientas cincuenta semanas tendrá derecho a las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del capítulo IV de este Título.
 
@@ -1848,27 +1874,31 @@ En caso que el asegurado tenga sesenta y cinco años o más y no reúna las sema
 
 El otorgamiento de la pensión de vejez sólo se podrá efectuar previa solicitud del asegurado y se le cubrirá a partir de la fecha en que haya dejado de trabajar, siempre que cumpla con los requisitos señalados en el artículo 162 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 164.
 
-Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de vejez. Para tal propósito podrá optar por alguna de las alternativas siguientes:
+Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de vejez. Para tal propósito podrán optar por alguna de las opciones siguientes o ambas:
 
 I. Contratar con una compañía de seguros pública, social o privada de su elección una renta vitalicia, que se actualizará anualmente en el mes de febrero conforme al Indice Nacional de Precios al Consumidor, y
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 
-> <small>(F. DE E., D.O.F. 16 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Ambos supuestos se sujetarán a lo establecido en esta Ley y de conformidad con las disposiciones administrativas que expida la Comisión Nacional del Sistema de Ahorro para Retiro.
+Los supuestos referidos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-El asegurado que opte por la alternativa prevista en la fracción II podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I. El asegurado no podrá optar por la alternativa señalada si la renta mensual vitalicia a convenirse fuera inferior a la pensión garantizada.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior a la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta y cinco años, de la tabla establecida en el artículo 170 de esta Ley.
 
 #### SECCION CUARTA. DE LA AYUDA PARA GASTOS DE MATRIMONIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 165.
 
-El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio, una cantidad equivalente a treinta días de salario mínimo general que rija en el Distrito Federal, proveniente de la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales y del Estado a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales, conforme a los siguientes requisitos:
+El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio, una cantidad equivalente a treinta Unidades de Medida y Actualización, proveniente de la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales, conforme a los siguientes requisitos:
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
 
@@ -1900,25 +1930,65 @@ Las cuotas y aportaciones a que se refiere el artículo anterior serán:
 
 I. En el ramo de retiro, a los patrones les corresponde cubrir el importe equivalente al dos por ciento del salario base de cotización del trabajador.
 
-II. En los ramos de cesantía en edad avanzada y vejez, a los patrones y a los trabajadores les corresponde cubrir las cuotas del tres punto ciento cincuenta por ciento y uno punto ciento veinticinco por ciento sobre el salario base de cotización, respectivamente.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-III. En los ramos de cesantía en edad avanzada y vejez la contribución del Estado será igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales de estos ramos, y
+II. En los ramos de cesantía en edad avanzada y vejez:
 
-> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2009)</small>
+a) Los patrones cubrirán la cuota que corresponda sobre el salario base de cotización, calculada conforme a la siguiente tabla:
 
-IV. Una cantidad por cada día de salario cotizado, que aporte mensualmente el Gobierno Federal por concepto de cuota social para los trabajadores que ganen hasta quince veces el salario mínimo general vigente en el Distrito Federal, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
+Salario base de cotización del trabajador Cuota Patronal
 
-Salario base de cotización del trabajador Cuota social
+1.00 SM* 3.150%
 
-1 Salario Mínimo $3.87077
+1.01 SM a 1.50 UMA** 4.202%
 
-1.01 a 4 Salarios Mínimos $3.70949
+1.51 a 2.00 UMA 6.552%
 
-4.01 a 7 Salarios Mínimos $3.54820
+2.01 a 2.50 UMA 7.962%
 
-7.01 a 10 Salarios Mínimos $3.38692
+2.51 a 3.00 UMA 8.902%
 
-10.01 a 15.0 Salarios Mínimos $3.22564
+3.01 a 3.50 UMA 9.573%
+
+3.51 a 4.00 UMA 10.077%
+
+4.01 UMA en adelante 11.875%
+
+* Salario Mínimo
+
+** Unidad de Medida y Actualización
+
+b) Los trabajadores cubrirán una cuota del uno punto ciento veinticinco por ciento sobre el salario base de cotización.
+
+III. (DEROGADA, D.O.F. 16 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+IV. El Gobierno Federal, por cada día de salario cotizado, aportará mensualmente una cantidad por concepto de la cuota social, para los trabajadores que ganen hasta cuatro veces la unidad de medida y actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
+
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+Salario base de cotización del trabajador Cuota Social
+
+1.00 SM* $ 10.75
+
+1.01 SM a 1.50 UMA** $ 10.00
+
+1.51 a 2.00 UMA $ 9.25
+
+2.01 a 2.50 UMA $ 8.50
+
+2.51 a 3.0 UMA $ 7.75
+
+3.01 a 3.50 UMA $ 7.00
+
+3.51 a 4.00 UMA $ 6.25
+
+* Salario Mínimo
+
+** Unidad de Medida y Actualización
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2009)</small>
 
 Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año.
 
@@ -1934,9 +2004,17 @@ Estos recursos son inembargables y no podrán otorgarse como garantía. Lo anter
 
 #### SECCION SEXTA. DE LA PENSION GARANTIZADA
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 170.
 
-Pensión garantizada es aquélla que el Estado asegura a quienes reúnan los requisitos señalados en los artículos 154 y 162 de esta Ley y su monto mensual será el equivalente a un salario mínimo general para el Distrito Federal, en el momento en que entre en vigor esta Ley, cantidad que se actualizará anualmente, en el mes de febrero, conforme al Indice Nacional de Precios al Consumidor, para garantizar el poder adquisitivo de dicha pensión.
+Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta años o más de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en este artículo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 16 DE DICIEMBRE DE 2020, PÁGINA 29]</small>
+
+El monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor, para garantizar su poder adquisitivo.
+
+En el cómputo de las semanas de cotización y el promedio del salario base de cotización se considerarán los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrito con el Instituto.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1960,9 +2038,17 @@ El Gobierno Federal con recursos propios complementarios a los de la cuenta indi
 
 El trabajador asegurado deberá solicitarla al Instituto y acreditar tener derecho a ella. Por su parte la Administradora de Fondos para el Retiro está obligada a proporcionar la información que el propio Instituto le requiera para este efecto.
 
-Agotados los recursos de la cuenta individual, la Administradora de Fondos para el Retiro, notificará este hecho al Instituto con la finalidad de que éste continúe otorgando la pensión mínima garantizada.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Una vez agotados los recursos la pensión será cubierta directamente por el Instituto, con los recursos que para tal efecto le debe proporcionar el Gobierno Federal.
+Agotados los recursos de la cuenta individual, la Administradora de Fondos para el Retiro, notificará este hecho al Instituto con la finalidad de que éste continúe otorgando la pensión garantizada.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+Una vez agotados los recursos, la pensión será cubierta con cargo al Gobierno Federal por conducto de la Tesorería de la Federación, a partir de la información que para tal efecto le proporcione el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría de Hacienda y Crédito Público podrá verificar la información que el Instituto proporcione para los efectos arriba señalados, con datos propios o de terceros e informar los resultados de la verificación al propio Instituto y, en su caso, solicitarle la modificación de los procedimientos necesarios para su conciliación.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1972,7 +2058,13 @@ A efecto de lo anterior, el Instituto deberá informar del fallecimiento a la ad
 
 I. La administradora de fondos para el retiro deberá entregar al Instituto los recursos que hubiere en la cuenta individual del pensionado fallecido, los cuales se destinarán al pago del monto constitutivo de la renta vitalicia de los beneficiarios, y
 
-II. El Gobierno Federal, por conducto del Instituto, deberá aportar los recursos faltantes para el pago del monto constitutivo de la mencionada renta vitalicia.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+II. El Gobierno Federal por conducto de la Tesorería de la Federación, deberá aportar los recursos faltantes para el pago del monto constitutivo de la mencionada renta vitalicia, a partir de la información que al efecto le proporcione el Instituto.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, D.O.F. 16 DE DICIEMBRE DE 2020]</small>
+
+La Secretaría de Hacienda y Crédito Público podrá verificar la información que el Instituto proporcione para los efectos del párrafo anterior, con datos propios o de terceros e informar los resultados de la verificación al propio Instituto y, en su caso, solicitarle la modificación de los procedimientos necesarios para su conciliación.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2070,9 +2162,11 @@ La inspección y vigilancia de las Administradoras de Fondos para el Retiro y de
 
 Con cargo a los recursos acumulados de la cuenta individual del trabajador, la Administradora de Fondos para el Retiro adquirirá a nombre de éste y en favor de sus beneficiarios legales, en el momento de otorgarse la pensión, un seguro de sobrevivencia, en los términos que al efecto determine la Comisión Nacional de Seguros y Fianzas, oyendo a la Comisión Nacional del Sistema de Ahorro para el Retiro, en los mismos porcentajes y condiciones que para tal efecto establece el capítulo V sección quinta de este Título.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 190.
 
-El trabajador o sus beneficiarios que adquieran el derecho a disfrutar de una pensión proveniente de algún plan establecido por su patrón o derivado de contratación colectiva, que haya sido autorizado y registrado por la Comisión Nacional del Sistema de Ahorro para el Retiro, debiendo cumplir los requisitos establecidos por ésta, tendrá derecho a que la Administradora de Fondos para el Retiro, que opere su cuenta individual, le entregue los recursos que lo integran, situándolos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión en los términos del artículo 157 o bien entregándoselos en una sola exhibición, cuando la pensión de que disfrute sea mayor en un treinta por ciento a la garantizada.
+El trabajador o sus beneficiarios que adquieran el derecho a disfrutar de una pensión proveniente de algún plan establecido por su patrón o derivado de contratación colectiva, que haya sido autorizado y registrado por la Comisión Nacional del Sistema de Ahorro para el Retiro, debiendo cumplir los requisitos establecidos por ésta, tendrá derecho a que la Administradora de Fondos para el Retiro, que opere su cuenta individual, le entregue los recursos que lo integran, situándolos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión en los términos del artículo 157 o bien entregándoselos en una sola exhibición, cuando la pensión de que disfrute sea mayor en un treinta por ciento de la pensión garantizada, que corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta años, de la tabla establecida en el artículo 170 de esta Ley.
 
 ###### Artículo 191.
 
@@ -2102,19 +2196,23 @@ Los trabajadores tendrán en todo tiempo el derecho a realizar aportaciones volu
 
 Asimismo, los patrones podrán hacer aportaciones adicionales a la subcuenta de aportaciones voluntarias, mismas que se entenderán adicionales a los beneficios establecidos en los contratos colectivos de trabajo.
 
-El trabajador podrá hacer retiros de la subcuenta de aportaciones voluntarias por lo menos una vez cada seis meses, en los términos que establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El trabajador podrá hacer retiros de la subcuenta de aportaciones voluntarias en cualquier momento, conforme al procedimiento que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 193.
 
-Los beneficiarios del trabajador titular de una cuenta individual del seguro de retiro, cesantía en edad avanzada y vejez serán los que establecen las fracciones III al (sic) IX del artículo 84, en relación con los artículos 129 al 137 de esta Ley.
+Los beneficiarios del trabajador titular de una cuenta individual del seguro de retiro, cesantía en edad avanzada y vejez serán los que establecen las fracciones III al IX del artículo 84, en relación con los artículos 129 al 137 de esta Ley.
 
-En caso de fallecimiento del trabajador, si los beneficiarios legales ya no tienen derecho a pensión por el seguro de invalidez y vida, la Administradora de Fondos para el Retiro respectiva les entregará el saldo de la cuenta individual en partes iguales, previa autorización del Instituto.
+En caso de fallecimiento del trabajador o pensionado, tendrán derecho a recibir los recursos de la cuenta individual que en términos de las disposiciones legales puedan entregarse en una sola exhibición por no tener otro fin específico, a los beneficiarios designados expresamente en los contratos de administración de fondos para el retiro que las Administradoras de Fondos para el Retiro celebren con los trabajadores, en la proporción estipulada para cada uno de ellos.
 
-El trabajador asegurado, deberá designar beneficiarios sustitutos de los indicados en el párrafo anterior, única y exclusivamente para el caso de que faltaren los beneficiarios legales. El trabajador podrá en cualquier tiempo cambiar esta última designación. Dicha designación deberá realizarla en la Administradora de Fondos para el Retiro que le opere su cuenta individual.
+Para tales efectos, el trabajador podrá en cualquier tiempo sustituir a los beneficiarios que hubiera designado, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+La Administradora de Fondos para el Retiro en la que se encontraba registrado el trabajador o pensionado fallecido, deberá entregar el importe de las subcuentas, incluidas las de Vivienda, que en términos de las disposiciones legales aplicables puedan entregarse en una sola exhibición.
 
-A falta de beneficiarios, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante los Tribunales federales en materia laboral.
+A falta de beneficiarios designados, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante los tribunales competentes de conformidad con lo establecido en la Ley Orgánica del Poder Judicial de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
 
@@ -2122,9 +2220,11 @@ A falta de beneficiarios, dicha entrega se hará en el orden de prelación previ
 
 Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que se establezcan en resolución que se haya emitido para ese fin.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 194.
 
-Para efectos del retiro programado, se calculará cada año una anualidad que será igual al resultado de dividir el saldo de su cuenta individual entre el capital necesario para financiar una unidad de renta vitalicia para el asegurado y sus beneficiarios, y, por lo menos, igual al valor correspondiente a la pensión garantizada. La pensión mensual corresponderá a la doceava parte de dicha anualidad.
+Para efectos del retiro programado, se calculará cada año una anualidad que será igual al resultado de dividir el saldo de la cuenta individual del asegurado entre el capital necesario para financiar una unidad de renta vitalicia para el asegurado y sus beneficiarios y, por lo menos, igual al valor correspondiente a la pensión garantizada, que le corresponda conforme a la tabla establecida en el artículo 170 de esta Ley. La pensión mensual corresponderá a la doceava parte de dicha anualidad.
 
 Las tablas utilizadas para calcular la unidad de renta vitalicia a que se refiere este artículo se elaborarán anualmente por la Comisión Nacional de Seguros y Fianzas.
 
@@ -2338,7 +2438,9 @@ Los beneficiados por estos servicios contribuirán con aportaciones en efectivo 
 
 El asegurado con un mínimo de cincuenta y dos cotizaciones semanales acreditadas en el régimen obligatorio, en los últimos cinco años, al ser dado de baja, tiene el derecho a continuar voluntariamente en el mismo, pudiendo continuar en los seguros conjuntos de invalidez y vida así como de retiro, cesantía en edad avanzada y vejez, debiendo quedar inscrito con el último salario o superior al que tenía en el momento de la baja. El asegurado cubrirá las cuotas que le correspondan por mensualidad adelantada y cotizará de la manera siguiente:
 
-a) Respecto del seguro de retiro, cesantía en edad avanzada y vejez, el asegurado cubrirá por cuanto hace al ramo primero, la totalidad de la cuota y por los otros dos ramos cubrirá el importe de las cuotas obrero patronales, debiendo el Estado aportar la parte que conforme a esta Ley le corresponde, incluyendo la cuota social, y
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+a) Respecto del seguro de retiro, cesantía en edad avanzada y vejez, el asegurado cubrirá por cuanto hace al ramo primero, la totalidad de la cuota y por los otros dos ramos cubrirá el importe de las cuotas obrero patronales, debiendo el Estado aportar la parte de cuota social que conforme a esta Ley le corresponda, y
 
 b) En el seguro de invalidez y vida el asegurado cubrirá las cuotas obrero patronales y el Estado la parte que le corresponda de acuerdo a los porcentajes señalados en esta Ley.
 
@@ -3620,9 +3722,15 @@ Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, pr
 
 Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o asignación familiar, siempre y cuando el asegurado satisfaga todos y cada uno de los requisitos establecidos en la presente Ley para gozar de las prestaciones correspondientes. En el supuesto de que antes de cumplir con los requisitos relativos a número de cotizaciones o edad se termine la relación laboral, el asegurado no habrá adquirido el derecho a recibir la pensión; sin perjuicio de lo anterior, para la conservación y reconocimiento de sus derechos se aplicará lo dispuesto en los artículos 150 o 151 de esta Ley, según sea el caso.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 302.
 
-El derecho del trabajador o pensionado y, en su caso, sus beneficiarios a recibir los recursos de la subcuenta de retiro, cesantía en edad avanzada y vejez prescribe en favor del Instituto a los diez años de que sean exigibles. Cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial prescribirá en favor del Instituto en un año calendario.
+El derecho del trabajador o pensionado y, en su caso, de sus beneficiarios a recibir los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez es imprescriptible.
+
+Sin perjuicio de lo anterior, el Instituto podrá disponer de dichos recursos a los diez años de que sean exigibles sin necesidad de resolución judicial, siempre que constituya una reserva suficiente para atender las solicitudes de devolución de los trabajadores, pensionados o beneficiarios. Cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial recibirá el mismo tratamiento, en el año calendario en el que sea exigible.
+
+La Secretaría de Hacienda y Crédito Público aprobará la metodología para determinar el monto de la reserva que el Instituto constituirá para atender las solicitudes de devolución señaladas en el párrafo anterior y el procedimiento que deberá seguir para ello.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3970,7 +4078,9 @@ Las Administradoras de Fondos para el Retiro, de conformidad con las disposicion
 
 VIGESIMO NOVENO. Los pensionados que para el disfrute de cualquiera de las pensiones previstas en la Ley que se deroga, opten por acogerse al beneficio de dicha Ley en términos del Artículo Tercero Transitorio, sin perjuicio de lo dispuesto en la misma con respecto al otorgamiento de préstamos a cuenta de su pensión, podrán optar por solicitar préstamos con cualquiera de las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, que tengan celebrado, para los efectos de este artículo, un convenio con el Instituto, debiendo el pensionado otorgar su consentimiento expreso para que dicho Instituto le descuente de su pensión los importes relativos al pago del préstamo y los entregue a la Entidad Financiera que lo otorgó.
 
-El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley, y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo a la tabla establecida en el artículo 170 de esta Ley y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
 
 Las Entidades Financieras deberán comunicar al Instituto las condiciones generales del préstamo, incluyendo el Costo Anual Total aplicable a los mismos, con objeto de que éste los haga del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
 
@@ -4387,3 +4497,65 @@ D.O.F. 21 DE OCTUBRE DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto ejercerá las atribuciones y obligaciones derivadas del presente Decreto de manera que, con sujeción a las disponibilidades presupuestales, se realice una incorporación gradual de los derechohabientes a los servicios que se establecen en el mismo, elaborando previamente un programa piloto para medir los impactos de éste en los servicios y operación del Instituto.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO".]
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto en los transitorios siguientes.
+
+Segundo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del Seguro Social será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 16 DE DICIEMBRE DE 2020, PÁGINA 32]</small>
+
+Del 1 de enero de 2021 al 31 de diciembre de 2022:
+
+I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
+
+II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
+
+III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
+
+Tercero. La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
+
+Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
+
+Salario base de cotización del Trabajador Cuota social
+
+4.01 a 5 UMA* $ 2.45
+
+5.01 a 6.00 UMA $ 1.80
+
+6.01 a 7.09 UMA $ 1.00
+
+* Unidad de Medida y Actualización
+
+Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023.
+
+Cuarto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
+
+La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 16 DE DICIEMBRE DE 2020, PÁGINA 33]</small>
+
+Quinto. El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
+
+Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
+
+Sexto. La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
+
+Séptimo. La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
+
+Octavo. El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
+
+Noveno. Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
+
+La designación de beneficiarios que se realice por los trabajadores a partir de la entrada en vigor del presente Decreto, en términos de lo dispuesto por el artículo 193 de la Ley del Seguro Social, surtirá efectos a partir de la fecha en que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten los ajustes correspondientes de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+La designación de beneficiarios sustitutos efectuada en términos del artículo 193 de la Ley del Seguro Social, con anterioridad a la entrada en vigor del presente Decreto, mantendrá su vigencia para el caso en que no haya beneficiarios del trabajador titular de la cuenta individual en términos de la legislación común.
+
+Los procedimientos de designación de beneficiarios que, a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante las juntas o tribunales de conciliación y arbitraje, en términos del artículo 501 de la Ley Federal del Trabajo, continuarán substanciándose de conformidad con lo dispuesto por dicha ley.
+
+Décimo. Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
+
+Décimo Primero. Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
