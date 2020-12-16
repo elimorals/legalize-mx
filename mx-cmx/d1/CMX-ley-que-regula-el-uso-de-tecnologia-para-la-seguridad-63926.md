@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-uso-de-tecnologia-para-la-seguridad-63926"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-27"
-last_updated: "2014-11-28"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63926&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-16"
 
 LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 27 de octubre de 2008.
 
@@ -154,9 +154,11 @@ III. Otras Dependencias de la Administración Pública Local del Distrito Federa
 
 IV. Los Jefes Delegacionales, a la propuesta de los Comités de Seguridad Pública de sus correspondientes demarcaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Para la instalación de equipos y sistemas tecnológicos en bienes del dominio público del Distrito Federal, la Secretaría tomará en cuenta los siguientes criterios:
+Para la instalación de equipos y sistemas tecnológicos en bienes del dominio público de la Ciudad de México, la Secretaría tomará en cuenta los siguientes criterios:
 
 I. Lugares registrados como zonas peligrosas;
 
@@ -164,11 +166,21 @@ II. Áreas públicas de zonas, colonias y demás lugares de concentración o afl
 
 III. Colonias, manzanas, avenidas y calles, que registran los delitos de mayor impacto para la sociedad;
 
-IV. Intersecciones más conflictivas así clasificadas por la Subsecretaría de Control de Tránsito de la Secretaría de Seguridad Pública del Distrito Federal, en las 16 Delegaciones del Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
 
-V. Zonas registradas con mayor incidencia de infracciones a la Ley de Cultura Cívica; y
+IV. Intersecciones más conflictivas así clasificadas por la Subsecretaría de Control de Tránsito de la Secretaría de Seguridad Ciudadana de la Ciudad de México, en las 16 Alcaldías de esta Ciudad;
 
-VI. Zonas con mayor vulnerabilidad a fenómenos de origen natural o humano.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+V. Zonas registradas con mayor incidencia de infracciones a la Ley de Cultura Cívica;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+VI. Zonas con mayor vulnerabilidad a fenómenos de origen natural o humano; y
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+VII. Afuera de los centros escolares en todos sus tipos y niveles.
 
 La definición de los lugares de ubicación de equipos tecnológicos, se basará en la inteligencia para la prevención, las herramientas para la toma de decisiones, comprendidas por Atlas Delincuencial, el Atlas de Riesgos, las intersecciones más conflictivas, los índices delictivos, destacando las conductas ilícitas de alto impacto y su incidencia delictiva, las zonas peligrosas, los índices de percepción de seguridad, los registros de llamadas de denuncias así como por cualquier otro instrumento de análisis, diferente de la inteligencia para la prevención, que permita la toma de decisiones en materia de seguridad pública, y demás información que posibilite su adecuada colocación, para el cumplimiento de sus finalidades.
 
@@ -501,3 +513,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 15, Y SE REFORMAN LOS ARTÍCULOS 17 Y 22 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 7 DE LA LEY QUE REGULA EL USO DE LA TECNOLOGÍA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Seguridad Ciudadana durante el ejercicio fiscal anual, determinará los criterios para la instalación de cámaras de video vigilancia en los centros escolares.
