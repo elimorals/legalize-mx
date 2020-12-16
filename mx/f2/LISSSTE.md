@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2019-06-04"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,11 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-
 
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
@@ -1702,9 +1702,9 @@ El Instituto administrará el Fondo de la Vivienda que se integre con las Aporta
 
 El Instituto contará con una Comisión Ejecutiva, que coadyuvará en la administración del Fondo de la Vivienda de acuerdo con el reglamento que emita la Junta Directiva.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los Trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria en los casos que expresamente determine la Comisión Ejecutiva del Fondo de la Vivienda. Estos préstamos se harán hasta por dos ocasiones, una vez que el primer crédito se encuentre totalmente liquidado.
+El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los Trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria en los casos que expresamente determine la Comisión Ejecutiva del Fondo de la Vivienda, así como recibir directamente y sin intermediarios el crédito mencionado. Estos préstamos se harán hasta por dos ocasiones, una vez que el primer crédito se encuentre totalmente liquidado.
 
 El Instituto podrá celebrar convenios de coordinación y colaboración con las autoridades federales, Entidades Federativas y municipios, según corresponda, para el mejor cumplimiento del objeto del Fondo de la Vivienda. Asimismo, para el ejercicio de las funciones del Fondo de la Vivienda se podrá contratar cualquier tipo de servicios.
 
@@ -1729,6 +1729,10 @@ a) A la adquisición o construcción de vivienda;
 b) A la reparación, ampliación o mejoramiento de sus habitaciones, y
 
 c) A los pasivos contraídos por cualquiera de los conceptos anteriores;
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+d) A la adquisición de suelo destinado a la construcción de su vivienda.
 
 Asimismo, el Instituto podrá descontar con las entidades financieras que cuenten con la respectiva autorización emitida para tal efecto por la Secretaría de Hacienda y Crédito Público, los créditos que hayan otorgado para aplicarse a los conceptos señalados en los incisos anteriores;
 
@@ -1812,7 +1816,9 @@ Al momento en que el Trabajador reciba crédito para vivienda, el saldo de la Su
 
 Durante la vigencia del crédito concedido al Trabajador, las Aportaciones a que se refiere esta Sección a su favor se aplicarán a reducir el saldo insoluto a cargo del propio Trabajador.
 
-El Trabajador que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación, podrá utilizar como pago inicial para la construcción o adquisición, el saldo de su Subcuenta del Fondo de la Vivienda. Asimismo, las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El Trabajador que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación o de suelo destinado para vivienda, podrá utilizar como pago inicial para la construcción o adquisición, el saldo de su Subcuenta del Fondo de la Vivienda. Asimismo, las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto.
 
 El Fondo de la Vivienda podrá otorgar créditos a los Trabajadores en cofinanciamiento con entidades financieras o con el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en cuyo caso, el Trabajador también podrá utilizar los recursos de la Subcuenta del Fondo de la Vivienda como pago inicial. Las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto del crédito que haya otorgado el Fondo de la Vivienda.
 
@@ -1840,9 +1846,15 @@ La Comisión Ejecutiva deberá observar en todo momento una política financiera
 
 El Trabajador tendrá el derecho de elegir la vivienda nueva o usada, a la que se aplique el importe del crédito que reciba con cargo al Fondo de la Vivienda.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+En el caso de que el trabajador aplique su crédito para la adquisición de suelo destinado para la construcción de su vivienda, estará sujeto a las condiciones que determine la Comisión Ejecutiva, en apego a las disposiciones establecidas en la presente Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 179.
 
-Los créditos a que se refiere esta Sección se otorgarán y adjudicarán tomando en cuenta, entre otros factores, la oferta y demanda regional de vivienda, el número de miembros de la familia de los Trabajadores, los saldos de la Subcuenta del Fondo de la Vivienda del Trabajador de que se trate y el tiempo durante el cual se han efectuado Aportaciones a la misma, si el Trabajador es propietario o no de su vivienda, así como su sueldo o el ingreso conyugal si hay acuerdo de los interesados.
+Los créditos a que se refiere esta Sección se otorgarán y adjudicarán tomando en cuenta, entre otros factores, la oferta y demanda regional de vivienda, así como las relativas a las características físicas de los suelos destinados para vivienda, el número de miembros de la familia de los Trabajadores, los saldos de la Subcuenta del Fondo de la Vivienda del Trabajador de que se trate y el tiempo durante el cual se han efectuado Aportaciones a la misma, si el Trabajador es propietario o no de su vivienda, así como su sueldo o el ingreso conyugal si hay acuerdo de los interesados.
 
 La Junta Directiva expedirá las reglas operativas conforme a las cuales se otorgarán los créditos a que se refiere el párrafo anterior.
 
@@ -1858,9 +1870,11 @@ I. Los montos máximos de los créditos que otorgue el Fondo de la Vivienda, en 
 
 II. Los métodos para la asignación aleatoria en grupos de Trabajadores que reúnan iguales condiciones de elegibilidad, con objeto de dar transparencia, equidad y suficiencia, al otorgamiento de créditos.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 181.
 
-Los créditos que se otorguen con cargo al Fondo de la Vivienda deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.
+Los créditos que se otorguen con cargo al Fondo de la Vivienda deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas o suelos, en los que no se edifiquen viviendas habitacionales en los suelos adquiridos, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.
 
 ###### Artículo 182.
 
@@ -3163,3 +3177,15 @@ D.O.F. 4 DE JUNIO DE 2019.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
