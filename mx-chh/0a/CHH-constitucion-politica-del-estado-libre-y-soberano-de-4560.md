@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2020-12-12"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2187,15 +2187,21 @@ DISPOSICIONES GENERALES.
 
 Corresponde al Poder Judicial dirimir toda controversia que se suscite con motivo de la aplicación de la legislación del Estado, y las que se originen, dentro de su territorio, con motivo de leyes del orden federal, cuando así lo autoricen dichos ordenamientos, sujetándose para ello a los procedimientos que al efecto establezcan, así como resolver las cuestiones en que deba intervenir cuando no exista contienda entre partes.
 
-Las y los Magistrados, Consejeras y Consejeros de la Judicatura y las y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y solo podrán ser destituidos en los casos que determinen esta Constitución o las leyes.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-Las y los servidores públicos del Poder Judicial, estando en funciones o disfrutando de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión, que fueren retribuidos, salvo los de docencia y fuera del horario del despacho de los asuntos del Poder Judicial.
+Las personas titulares de las magistraturas, de las consejerías de la Judicatura, así como las Juezas y Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y solo podrán ser destituidas en los casos que determinen esta Constitución o las leyes.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-LAS Y LOS MAGISTRADOS Y CONSEJEROS DE LA JUDICATURA DESIGNADOS POR EL TRIBUNAL SUPERIOR DE JUSTICIA NO PODRÁN, DURANTE EL TIEMPO QUE GOCEN DE UN HABER DE RETIRO, ACTUAR COMO PATRONOS, ABOGADOS O REPRESENTANTES EN CUALQUIER PROCESO ANTE LOS ÓRGANOS DEL PODER JUDICIAL DEL ESTADO.
+El personal del Poder Judicial que se encuentre en funciones o disfrutando de licencia con goce de sueldo, no podrá desempeñar otro cargo, empleo o comisión, que fuere retribuido, salvo los de docencia y fuera del horario del despacho de los asuntos del Poder Judicial.
 
-En la integración del Tribunal Superior de Justicia, del Consejo de la Judicatura, de los Juzgados y de cualquier cargo dentro del Poder Judicial del Estado, deberá brindarse igualdad de oportunidades para las mujeres y los hombres, y se deberá privilegiar que la selección para ocupar cargos judiciales recaiga en personas íntegras e idóneas, que tengan la formación o las calificaciones jurídicas apropiadas para el cargo, mediante procesos en los que se valoren objetivamente los conocimientos y méritos de las y los aspirantes, fundamentalmente su experiencia y capacidad profesionales.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+Las personas titulares de las magistraturas y de las consejerías de la Judicatura, designadas por el Tribunal Superior de Justicia, no podrán, durante el tiempo que gocen de un haber de retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+En la integración del Tribunal Superior de Justicia, del Consejo de la Judicatura, de los Juzgados y de cualquier cargo dentro del Poder Judicial del Estado, se deberá garantizar la paridad de género y privilegiarse que la selección para ocupar cargos judiciales recaiga en personas íntegras e idóneas, que tengan la formación o las calificaciones jurídicas apropiadas para el cargo, mediante procesos en los que se valoren objetivamente los conocimientos y méritos de las personas aspirantes, fundamentalmente su experiencia y capacidad profesionales.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2203,13 +2209,11 @@ En la integración del Tribunal Superior de Justicia, del Consejo de la Judicatu
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 100.
 
-El Tribunal Superior de Justicia funciona en Pleno o en Salas y se integrará con un mínimo de quince Magistrados y Magistradas. SU INTEGRACIÓN PODRÁ AUMENTAR O DISMINUIR, MEDIANTE ACUERDO DEL CONSEJO DE LA JUDICATURA POR MAYORÍA DE SUS MIEMBROS, CUANDO UN ESTUDIO OBJETIVO, MOTIVE Y JUSTIFIQUE LAS NECESIDADES DEL TRABAJO JURISDICCIONAL Y LAS CONDICIONES PRESUPUESTALES DEL ESTADO LO PERMITAN.
+El Tribunal Superior de Justicia funciona en Pleno o en Salas, el cual se integrará con un mínimo de quince Magistradas y Magistrados, y se deberá garantizar la paridad de género. Su integración podrá aumentar o disminuir, mediante acuerdo del Consejo de la Judicatura por mayoría de sus integrantes, cuando un estudio objetivo, motive y justifique las necesidades del trabajo jurisdiccional y las condiciones presupuestales del Estado lo permitan.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2219,17 +2223,25 @@ El procedimiento para nombrar Magistradas y Magistrados se llevará en la forma 
 
 I.- En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura convocará a concurso de oposición para seleccionar a quienes deban cubrir las plazas vacantes o las creadas.
 
-II.- El Consejo de la Judicatura en pleno se constituirá en Jurado Calificador del concurso de oposición. Las y los Consejeros deberán excusarse de intervenir en el examen de las y los aspirantes respecto de quienes estén impedidos para actuar con imparcialidad, caso en el que serán sustituidos por un suplente. La o el suplente será designado por el mismo mecanismo por el cual fue seleccionado la o el Consejero propietario.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-El Jurado Calificador tomará sus decisiones por mayoría de votos y será presidido por quien ocupe la titularidad de la Presidencia del Consejo. En caso de excusa de la o del Presidente, será sustituido por la o el Consejero de entre las y los designados por el Tribunal Superior y que tenga mayor antigüedad en la función judicial.
+II. El Consejo de la Judicatura en pleno se constituirá en Jurado Calificador del concurso de oposición. Las Consejeras y Consejeros deberán excusarse de intervenir en el examen de las personas aspirantes respecto de quienes tengan impedimento para actuar con imparcialidad, caso en el que se les sustituirá por una persona suplente, la cual será designada con el mismo mecanismo por el cual se seleccionó a la o el Consejero propietario.
 
-III.- El Jurado Calificador examinará a las y los participantes con transparencia, objetividad, exhaustividad, imparcialidad y profesionalismo respecto de la materia de la magistratura en la que concursan y en otras relacionadas con aquella.
+El Jurado Calificador tomará sus decisiones por mayoría de votos y será presidido por quien ocupe la titularidad de la Presidencia del Consejo. En caso de excusa de la persona titular de la Presidencia, se le sustituirá por una persona integrante del Consejo que haya sido designada por el Tribunal Superior y que tenga mayor antigüedad en la función judicial.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+III. El Jurado Calificador examinará a quienes participen y se regirá por los principios de excelencia, transparencia, objetividad, exhaustividad; imparcialidad, profesionalismo, independencia y paridad de género respecto de la materia de la magistratura en la que concursan y en otras relacionadas con aquella.
 
 IV.- El Jurado Calificador integrará una terna de quienes hayan participado en el concurso y la remitirá al Ejecutivo del Estado.
 
-V.- Quien ocupe la titularidad de la Gubernatura propondrá, para su ratificación, al Congreso del Estado, a una de las personas que integran la terna. La ratificación se efectuará por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta. En caso que el Congreso no resolviere en dicho plazo, ocupará el cargo la persona propuesta por la o el Gobernador.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-En caso que el Congreso rechace la propuesta, quien ocupe la titularidad de la Gubernatura enviará una nueva, de entre las personas a que se refiere el párrafo anterior. Si esta segunda propuesta fuere rechazada, ocupará el cargo el último de los integrantes de la terna, quien deberá ser designado por el Congreso.
+V. La persona titular del Poder Ejecutivo del Estado propondrá, para su ratificación, al Congreso del Estado, a una de las personas que integran la terna. La ratificación se efectuará por el voto de las dos terceras partes de sus integrantes presentes en la sesión respectiva, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta y se deberá aplicar el principio de paridad de género. En caso que el Congreso no resolviere en dicho plazo, ocupará el cargo la persona propuesta por quien ocupe la titularidad del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+En caso que el Congreso rechace la propuesta, la persona titular del Poder Ejecutivo del Estado enviará una nueva, de entre las personas a que se refiere el párrafo anterior. Si esta segunda propuesta fuere rechazada, ocupará el cargo la última persona integrante de la terna, quien deberá ser designada por el Congreso.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2325,31 +2337,31 @@ El Consejo en Pleno estará facultado para expedir acuerdos generales para el ad
 
 Las resoluciones del Consejo de la Judicatura serán recurribles ante el Pleno del Tribunal Superior de Justicia, en los términos de la Ley Orgánica del Poder Judicial del Estado. En contra de dichas decisiones del Pleno no cabrá recurso alguno.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 107.
 
-El Consejo de la Judicatura estará integrado por cinco consejeras y consejeros designados de la siguiente forma:
+El Consejo de la Judicatura estará integrado por cinco personas consejeras, su elección deberá garantizar la alternancia y paridad de género, y se designarán de la siguiente forma:
 
-I.- El primero será la o el Magistrado Presidente del Tribunal Superior de Justicia, quien lo será también del Consejo.
+I. En primer lugar será la persona titular de la Presidencia del Tribunal Superior de Justicia, quien lo será también del Consejo.
 
-II.- El segundo y tercero serán Magistradas y Magistrados designados por el voto de la mayoría de los miembros del Pleno del Tribunal Superior de Justicia, de entre quienes tengan, por lo menos, una antigüedad de cinco años en el ejercicio de la magistratura.
+II. En segundo y tercer lugar se designarán a Magistradas y Magistrados por el voto de la mayoría de las personas integrantes del Pleno del Tribunal Superior de Justicia, de entre quienes tengan, por lo menos, una antigüedad de cinco años en el ejercicio de la magistratura.
 
-III.- El cuarto será designado o designada por el voto secreto de las dos terceras partes de los miembros del Congreso del Estado, a propuesta de la Junta de Coordinación Política.
+III. En cuarto lugar se hará la designación por el voto secreto de las dos terceras partes de quienes integren el Congreso del Estado, a propuesta de la Junta de Coordinación Política.
 
-IV.- El quinto será designado o designada por quien ocupe la titularidad del Poder Ejecutivo del Estado.
+IV. En quinto lugar se hará la designación por quien ocupe la titularidad del Poder Ejecutivo del Estado.
 
-Las y los designados de acuerdo a las fracciones III y IV, deberán reunir los requisitos señalados en el artículo 104 de esta Constitución y representar a la sociedad civil. Además recibirán remuneración igual a la que perciben las y los Magistrados del Tribunal Superior de Justicia del Estado.
+Las personas designadas de acuerdo a las fracciones III y IV, deberán reunir los requisitos señalados en el artículo 104 de esta Constitución y representar a la sociedad civil. Además recibirán remuneración igual a la que perciben las y los Magistrados del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 108.
 
-Salvo quien ocupe la Presidencia del Tribunal Superior de Justicia, las y los demás Consejeros durarán cinco años en el cargo, si dentro de este periodo faltare definitivamente alguna o alguno, se hará su designación para que concluya el periodo correspondiente, no pudiendo ser nombrada o nombrado para uno nuevo. Al terminar su encargo las y los Consejeros designados por el Tribunal Superior de Justicia, en su caso, regresarán como titulares de la Sala que ocupaban al momento de su designación. Y quienes los hayan sustituido serán considerados, de manera preferente, para la titularidad de aquellas salas vacantes o de nueva creación.
+Salvo quien ocupe la Presidencia del Tribunal Superior de Justicia, las demás personas que integren el Consejo durarán cinco años en el cargo, si dentro de este periodo faltare definitivamente alguna, se hará su designación para que concluya el periodo correspondiente, con base en el principio de paridad de género y sin la posibilidad de ser nombrada para uno nuevo. Aquellas Consejeras y Consejeros que hayan sido elegidos por el Tribunal Superior de Justicia, al terminar su encargo, regresarán, en su caso, como titulares de la Sala que ocupaban al momento de su designación, y quienes les hayan sustituido se les considerará, de manera preferente, para la titularidad de aquellas salas vacantes o de nueva creación.
 
-Las y los integrantes del Consejo ejercerán su función con independencia e imparcialidad.
+Las personas integrantes del Consejo ejercerán su función con independencia e imparcialidad.
 
-Asimismo, las y los cónyuges y parientes en línea recta de los miembros del Consejo, así como sus parientes colaterales dentro del cuarto grado de consanguinidad o segundo de afinidad, no podrán ser simultáneamente miembros del mismo o de sus órganos auxiliares y unidades administrativas.
+Asimismo, las y los cónyuges y parientes en línea recta de las personas que integren el Consejo, así como sus parientes colaterales dentro del cuarto grado de consanguinidad o segundo de afinidad, no podrán ser simultáneamente integrantes del mismo o de sus órganos auxiliares y unidades administrativas.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2387,15 +2399,25 @@ III.- DETERMINAR EL NÚMERO Y, EN SU CASO, ESPECIALIZACIÓN POR MATERIA DE LAS S
 
 IV.- Determinar el número y materia de los juzgados de primera instancia y menores en cada uno de los distritos judiciales.
 
-V.- Elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las y los Magistrados.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-VI.- Nombrar a las y los jueces de primera instancia y menores, y resolver sobre su ratificación, adscripción y remoción.
+V.- Elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las Magistradas y Magistrados.
 
-VII.- Acordar las renuncias que presenten las y los jueces de primera instancia y menores.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Acordar el retiro forzoso de las y los Magistrados.
+VI.- Aplicar la paridad de género en el nombramiento de juezas y jueces de primera instancia y menores, y resolver sobre su ratificación, adscripción y remoción.
 
-IX.- Suspender en sus cargos a las y los Magistrados, jueces de primera instancia y menores, en los casos que proceda.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+VII.- Acordar las renuncias que presenten las juezas y jueces de primera instancia y menores.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Acordar el retiro forzoso de las Magistradas y Magistrados.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+IX.- Suspender en sus cargos a las Magistradas y Magistrados, así como a juezas y jueces de primera instancia y menores, en los casos que proceda.
 
 (NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2411,7 +2433,9 @@ XIII.- Conceder licencias en los términos previstos en esta Ley.
 
 XIV.- EJERCER EL PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL.
 
-XV.- Nombrar a las y los servidores públicos de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+XV. Nombrar al personal de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias.
 
 XVI.- Administrar los bienes muebles e inmuebles del Poder, cuidando su mantenimiento, conservación y acondicionamiento.
 
@@ -2463,13 +2487,17 @@ VIII.- Nombrar y remover al personal adscrito a su comisión, con excepción de 
 
 IX.- Las demás que establezcan la ley, el Pleno mediante acuerdos generales y otras disposiciones administrativas.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 113.
 
-Las leyes reglamentarias, los acuerdos del Pleno y demás disposiciones administrativas establecerán las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+Las leyes reglamentarias, los acuerdos del Pleno y demás disposiciones administrativas establecerán las bases para la formación y actualización del funcionariado, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de experiencia, excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 En los concursos de oposición para el acceso a un cargo dentro del Poder Judicial que se celebren en los términos de la ley correspondiente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia correspondiente; así como con los requisitos que establezca esta Constitución, la ley respectiva, la convocatoria, en igualdad de condiciones, sin demérito de origen, residencia, lugar o formación profesional.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 Quienes participen en alguna forma de ingreso distinta a lo establecido en este Capítulo, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
@@ -2479,13 +2507,13 @@ Quienes participen en alguna forma de ingreso distinta a lo establecido en este 
 
 DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES DEL PODER JUDICIAL DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 114.
 
-Las y los jueces de primera instancia y menores serán nombrados mediante concurso de oposición en los términos que establezca la Ley Orgánica del Poder Judicial.
+Juezas y Jueces de primera instancia y menores se nombrarán mediante concurso de oposición en los términos que establezca la Ley Orgánica del Poder Judicial y bajo el principio de paridad de género.
 
-Protestarán sus cargos ante la o el funcionario que indique dicho ordenamiento.
+Protestarán sus cargos ante la persona funcionaria que indique dicho ordenamiento.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -5332,6 +5360,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCNT/0733/2020 VIII P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 84, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVI/RFCNT/0585/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO PRIMERO.
 
