@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2020-08-10"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -291,6 +291,10 @@ XLIV. Encapsular: Dispositivos u obras de cualquier tipo que sirven para encerra
 
 XLV. Equipo supresor de polvo: Equipo que sirve para minimizar las emisiones de polvo y que generalmente utiliza agua asperjada sola o mezclada con productos químicos;
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+XLV Bis. Estación de monitoreo: Uno o más instrumentos diseñados para medir, de forma continua, la concentración de contaminantes en aire ambiente, con el fin de evaluar la calidad del aire en un área determinada. Una estación de monitoreo es utilizada para indicar en tiempo real cuál es la calidad del aire de la zona en donde está localizada la estación. Las estaciones de monitoreo pueden ser fijas, semifijas y móviles.
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
 XLVI. Explotación: Obras y trabajos destinados a la preparación y desarrollo del área en la que se encuentra el recurso mineral y sustancias no reservadas a la Federación, para su posterior extracción;
@@ -481,9 +485,7 @@ XCI. Transportador de banda: Máquina formada por una banda sin fin, plana o aca
 
 XCII. Triturador, quebradora o molino: Máquina electromecánica que se utiliza para el resquebrajamiento del material, ya sea por impacto o por desgaste, corte o compresión, para reducir el tamaño del material utilizado en las diferentes etapas del proceso, ya sea primaría, secundaría, terciaría, etc.;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
-
-XCIII. Unidad de monitoreo: Conjunto de elementos técnicos diseñados para medir, de forma continua o puntual, la concentración de contaminantes en el aire, con el fin de evaluar la calidad del aire en un área determinada;
+XCIII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -2757,6 +2759,18 @@ En caso de que se contraten los servicios de manejo y disposición final de resi
 
 Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Secretaría mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 172 Bis 2.
+
+Las dependencias y entidades de la Administración Pública Estatal, los Municipios, así como los poderes Legislativo y Judicial procurarán contar en sus instalaciones con al menos un contenedor de depósito de pilas.
+
+En todos los locales en donde se vendan o distribuyan al público en general pilas, baterías eléctricas o acumuladores, deberán contar en sus instalaciones con al menos un contenedor para el depósito de este tipo de residuos.
+
+Tanto las dependencias de gobierno, así como los distribuidores o vendedores, en coordinación con la Secretaría llevarán a cabo el plan de manejo para la disposición final de los residuos señalados en los párrafos anteriores, de conformidad con la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+La Secretaría podrá llevar a cabo campañas informativas para dar a conocer a la ciudadanía los lugares de depósito a donde puede llevar las pilas, baterías eléctricas o acumuladores para su disposición final.
+
 ###### Artículo 173.
 
 Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil, generen residuos sólidos urbanos y de manejo especial en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en la presente Ley y otras disposiciones aplicables, con las siguientes:
@@ -4078,3 +4092,15 @@ P.O. 10 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 282. SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 3 Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 126 BIS 13, TODOS DE LA LEY DE (SIC) AMBIENTAL DEL ESTADO; ASÍ TAMBIÉN SE REFORMAN LAS FRACCIONES XXI Y XXII, Y POR ADICIÓN DE LA FRACCIÓN XXIII DEL ARTÍCULO 21 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 385. SE ADICIONA LA FRACCIÓN XLV BIS Y SE DEROGA LA FRACCIÓN XCIII DEL ARTÍCULO 3, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 386. SE ADICIONA EL ARTÍCULO 172 BIS 2 A LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO: El presente Decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
