@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2019-12-24"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -328,9 +328,15 @@ III. Órganos de Participación Ciudadana y consulta
 
 IV. Instituciones Policiales.
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+V. C5
+
 ###### Artículo 16.
 
 Los representantes de las autoridades federales podrán participar en el Sistema de acuerdo con la presente Ley, con el propósito de favorecer la coordinación y a efecto de garantizar y mejorar la seguridad ciudadana, sin que ello implique la transferencia de atribuciones o facultades legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
@@ -372,7 +378,13 @@ XVII. Nombrar y remover a las y los Jueces y Secretarios de los Juzgados Cívico
 
 XVIII. Proveer en la esfera administrativa la exacta observancia de la presente Ley; y
 
-XIX. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+XIX. Instalar y mantener actualizado el sistema de video vigilancia denominado C5, garantizando un número mínimo y equitativo en cada alcaldía de acuerdo al porcentaje poblacional; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+XX. Las demás que le señalen las disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -426,6 +438,8 @@ II. Las demás previstas en los ordenamientos legales aplicables y las que resul
 
 Las alcaldías establecerán mecanismos de seguridad ciudadana y justicia cívica acorde a sus necesidades, mismo que deberán coordinarse con los instrumentos que al efecto establezca el Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
 Las atribuciones de las personas titulares de las Alcaldías, en forma subordinada con el Gobierno de la Ciudad en materia de seguridad ciudadana, son las siguientes:
@@ -446,7 +460,13 @@ VII. Establecer y organizar un comité de seguridad ciudadana como instancia col
 
 VIII. Instrumentar un plan de prevención social de las violencias y del delito con la participación de la ciudadanía; y
 
-IX. Las demás que le otorguen otras disposiciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+IX. Trabajar con la persona titular de la Jefatura de Gobierno y la Fiscalía General de Justicia de la Ciudad de México, a efecto de dar seguimiento a las videograbaciones del C5 en cumplimiento a la Estrategia de Fortalecimiento de la Seguridad en la Ciudad en materia de prevención, atención, investigación y sanción de la violencia y delito en su demarcación, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 16 DE DICIEMBRE DE 2020)</small>
+
+X. Las demás que le otorguen otras disposiciones.
 
 Las personas titulares de las Alcaldías podrán realizar funciones de proximidad vecinal y vigilancia; así como disponer de la fuerza pública básica en tareas de vigilancia. Para tal efecto, el Gobierno de la Ciudad siempre atenderá las solicitudes de las Alcaldías con pleno respeto a los derechos humanos.
 
@@ -2323,3 +2343,13 @@ G.O. 24 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 15, Y SE REFORMAN LOS ARTÍCULOS 17 Y 22 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 7 DE LA LEY QUE REGULA EL USO DE LA TECNOLOGÍA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en (sic) Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Seguridad Ciudadana durante el ejercicio fiscal anual, determinará los criterios para la instalación de cámaras de video vigilancia en los centros escolares.
