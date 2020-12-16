@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2019-05-01"
+last_updated: "2020-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -59,6 +59,10 @@ a).- La adquisición en propiedad de habitaciones cómodas e higiénicas,
 b).- La construcción, reparación, ampliación o mejoramiento de sus habitaciones, y
 
 c).- El pago de pasivos contraídos por los conceptos anteriores;
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+d).- La adquisición en propiedad de suelo destinado para la construcción de sus habitaciones;
 
 III.- Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores; y
 
@@ -876,11 +880,25 @@ El Instituto podrá emitir y notificar liquidaciones para el cobro de las aporta
 
 Las aportaciones previstas en esta Ley, así como los intereses de las subcuentas de vivienda a que se refiere el artículo 39, estarán exentos de toda clase de impuestos.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 37.
 
-El derecho del trabajador y, en su caso, de los beneficiarios, a recibir los recursos de la subcuenta de vivienda en los términos descritos en el artículo 40, prescribe a favor del Fondo Nacional de la Vivienda a los diez años de que sean exigibles.
+El derecho a recibir los recursos de la subcuenta de vivienda en los términos descritos en el artículo 40, cuando no sea ejercido por el trabajador y, en su caso, sus beneficiarios, una vez transcurridos los diez años de que sean exigibles, se sujetará a las condiciones descritas en el presente artículo.
+
+Dentro del año previo al que se cumpla el plazo de diez años señalado en el párrafo anterior, el Instituto hará del conocimiento al trabajador y, en su caso, sus beneficiarios, un aviso sobre el tiempo que ha transcurrido desde que el derecho era exigible, de tal forma que pueda acudir al Instituto a reclamar los recursos descritos en el artículo 40.
+
+Este aviso podrá notificarse disponiendo de cualquier medio que determine el Instituto mediante disposiciones de carácter general que deberán ser publicadas en el Diario Oficial de la Federación y en el portal de Internet del Instituto.
+
+De forma independiente a la notificación, en caso de que hayan transcurrido los diez años sin que el trabajador y, en su caso, los beneficiarios hubieren ejercido su derecho a recibir los recursos descritos en este artículo, el Instituto podrá utilizar dichos recursos para constituir una reserva financiera que será administrada por el propio Instituto.
+
+Los procedimientos y requisitos que deberán cumplir los trabajadores y, en su caso, sus beneficiarios para el reclamo de los recursos que se hubieran aportado a la reserva financiera señalada en el párrafo anterior, serán determinados por el Consejo de Administración del Instituto, mediante disposiciones de carácter general que deberán ser publicadas en el Diario Oficial de la Federación y en el portal de Internet del Instituto.
+
+El trabajador y, en su caso, sus beneficiarios podrán acceder al mecanismo de reclamación de forma permanente, y de ser procedente, el Instituto reconocerá los montos a pagar, considerando los intereses que correspondan en términos de los lineamientos.
+
+La suficiencia de la Reserva Financiera, deberá ser dictaminada de forma anual, por un tercero independiente, designado por el Consejo de Administración del Instituto.
+
+El Instituto tomará las medidas necesarias para atender, en todo momento, las reclamaciones que puedan presentarse por los trabajadores y sus beneficiarios.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -934,11 +952,11 @@ Los fondos de la subcuenta de vivienda que no hubiesen sido aplicados de acuerdo
 
 A efecto de lo anterior, el trabajador o sus beneficiarios deberán solicitar al Instituto la transferencia de los recursos de la subcuenta de vivienda a las administradoras de fondos para el retiro. El Instituto podrá convenir con el Instituto Mexicano del Seguro Social los términos y requisitos para simplificar y unificar los procesos para autorizar la disponibilidad de los recursos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 41.
 
-El trabajador tendrá el derecho de elegir la vivienda nueva o usada, a la que se aplique el importe del crédito que reciba con cargo al Fondo Nacional de la Vivienda, misma que podrá o no ser parte de conjuntos habitacionales financiados con recursos de dicho Fondo.
+El trabajador derechohabiente tendrá el derecho de elegir la vivienda nueva o usada con las características de su preferencia, o el suelo que sea destinado para construcción, reparación o ampliación de vivienda a los que se aplique el importe del crédito que reciba con cargo al Fondo Nacional de la Vivienda. Previo a ejercer su crédito de vivienda el trabajador derechohabiente tendrá derecho a recibir información suficiente sobre las condiciones jurídicas y financieras del mismo, así como recibir directamente y sin intermediarios el crédito mencionado, siempre y cuando cumpla con los requisitos que al efecto establezca el Consejo de Administración mediante reglas de carácter general. Se entenderá por trabajador derechohabiente a toda persona que sea titular de depósitos constituidos a su favor en el Instituto.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -964,17 +982,33 @@ Asimismo, el Instituto podrá descontar a las entidades financieras que cuenten 
 
 El Instituto en todos los financiamientos que otorgue para la realización de conjuntos habitacionales, establecerá la obligación para quienes los construyan, de adquirir con preferencia, los materiales que provengan de empresas ejidales, cuando se encuentren en igualdad de calidad, precio y oportunidad de suministro a los que ofrezcan otros proveedores;
 
-> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-II.- Al otorgamiento de créditos a los trabajadores que sean titulares de depósitos constituidos a su favor en el Instituto:
+II.- Al otorgamiento de créditos a los trabajadores derechohabientes que sean titulares de depósitos constituidos a su favor en el Instituto:
 
-a) En línea dos a la adquisición en propiedad de habitaciones;
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-b) En línea tres a la construcción de vivienda;
+a) En línea dos a la adquisición en propiedad de habitaciones o suelo que sea destinado a la construcción de vivienda;
 
-c) En línea cuatro a la reparación, ampliación o mejoras de habitaciones, y
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-d) En línea cinco al pago de pasivos adquiridos por cualquiera de los conceptos anteriores.
+b) En línea tres a la construcción o autoproducción de vivienda;
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+c) En línea cuatro a la reparación, ampliación o mejoras de habitaciones;
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+d) En línea cinco al pago de pasivos adquiridos por cualquiera de los conceptos anteriores, y
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+e) En línea seis al refinanciamiento de un crédito ya adquirido con el Instituto o con alguna otra institución financiera, por cualquiera de los conceptos anteriores.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El Instituto establecerá las condiciones para garantizar la libre elección del financiamiento que mejor convenga a los intereses del trabajador.
 
 Asimismo, el Instituto podrá descontar a las entidades financieras que cuenten con la respectiva autorización emitida para tal efecto por la Secretaría de Hacienda y Crédito Público, los créditos que haya otorgado para aplicarse a los conceptos señalados en los incisos anteriores. Estos descuentos serán con la responsabilidad de esas entidades financieras.
 
@@ -1030,7 +1064,9 @@ ARTICULO 43 BIS.- Al momento en que el trabajador reciba crédito del Instituto,
 
 Durante la vigencia del crédito concedido al trabajador, las aportaciones patronales a su favor se aplicarán a reducir el saldo insoluto a cargo del propio trabajador.
 
-El trabajador derechohabiente que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación, podrá dar en garantía de tal crédito, el saldo de su subcuenta de vivienda. Dicha garantía únicamente cubrirá la falta de pago en que pueda incurrir el acreditado al perder su relación laboral. Esta garantía se incrementará con las aportaciones patronales subsecuentes, que se abonen a la subcuenta de vivienda del trabajador. En el evento de que dicha garantía se haga efectiva, se efectuarán los retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
+El trabajador derechohabiente que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación o de suelo destinado para habitación, podrá dar en garantía de tal crédito, el saldo de su subcuenta de vivienda. Dicha garantía únicamente cubrirá la falta de pago en que pueda incurrir el acreditado al perder su relación laboral. Esta garantía se incrementará con las aportaciones patronales subsecuentes, que se abonen a la subcuenta de vivienda del trabajador. En el evento de que dicha garantía se haga efectiva, se efectuarán los retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate.
 
 El Instituto podrá otorgar créditos a los trabajadores derechohabientes en cofinanciamiento con entidades financieras, en cuyo caso, el trabajador también podrá otorgar la garantía a que se refiere el párrafo inmediato anterior. Dicha garantía se constituirá sobre el saldo que la subcuenta de vivienda registre al momento del otorgamiento del crédito. Las aportaciones que se efectúen a la subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto del crédito que haya otorgado el Instituto.
 
@@ -1086,45 +1122,47 @@ IV.- El número de trabajadores en las diferentes regiones o localidades del Ter
 
 El Consejo de Administración expedirá las reglas conforme a las cuales se otorgarán en forma inmediata y sin exigir más requisitos que los previstos en las propias reglas, los créditos a que se refiere la fracción II del artículo 42. Dichas reglas deberán publicarse en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y demanda regional de vivienda, el número de miembros de la familia de los trabajadores, los saldos de la subcuenta de vivienda del trabajador de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma, si el trabajador es propietario o no de su vivienda, así como su salario o el ingreso conyugal si hay acuerdo de los interesados.
+Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y demanda regional de vivienda, así como las características físicas del suelo destinado a las habitaciones, el número de miembros de la familia de los trabajadores, los saldos de la subcuenta de vivienda del trabajador de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma, si el trabajador es propietario o no de su vivienda, así como su salario o el ingreso conyugal si hay acuerdo de los interesados. En el caso de que el trabajador derechohabiente desee emplear su crédito para la adquisición de suelo, el Instituto deberá verificar que el mismo sea para fines habitacionales, de acuerdo con la normatividad urbana, ecológica, así como con los instrumentos de riesgos vigentes.
 
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2001)</small>
 
 Asimismo, el Consejo de Administración expedirá reglas que permitan tomar en cuenta, para la determinación del monto de crédito, ingresos adicionales de los trabajadores que no estén considerados como parte integrante de su salario base, siempre y cuando la cuantía, periodicidad y permanencia de tales ingresos sean acreditables plenamente y se garantice la recuperabilidad de dichos créditos.
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-El trabajador tiene derecho a recibir un crédito del Instituto, y una vez que lo haya liquidado podrá acceder a un nuevo financiamiento por parte del Instituto en coparticipación con entidades financieras.
+El trabajador derechohabiente tiene derecho a recibir un crédito del Instituto, y una vez que lo haya liquidado podrá acceder a créditos subsecuentes, que serán otorgados siempre y cuando liquide efectivamente el anterior. Estos créditos podrán incluir esquemas de financiamiento en coparticipación con entidades financieras.
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Para este segundo crédito el trabajador podrá disponer de los recursos acumulados en la subcuenta de vivienda y su capacidad crediticia estará determinada por la proyección de aportaciones subsecuentes.
+Para los créditos subsecuentes el trabajador derechohabiente podrá disponer de los recursos acumulados en la subcuenta de vivienda y su capacidad crediticia estará determinada de acuerdo con lo que establezcan las reglas a las que se refiere este artículo.
 
-(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., 12 DE MARZO DE 1992)
+((REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 48.
 
-El Consejo de Administración mediante disposiciones de carácter general que al efecto publique en el Diario Oficial de la Federación, determinará: los montos máximos de los créditos que otorgue el Instituto, en función de, entre otros factores, los ingresos de los trabajadores acreditados, así como el precio máximo de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos citados.
+El Consejo de Administración mediante disposiciones de carácter general que al efecto publique en el Diario Oficial de la Federación, determinará: los montos máximos de los créditos que otorgue el Instituto, en función de, entre otros factores, los ingresos de los trabajadores acreditados, así como el precio máximo de venta del suelo y habitaciones cuya adquisición o construcción pueda ser objeto de los créditos citados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 49.
 
-Los créditos que otorgue el Instituto, se rescindirán y por lo tanto se darán por vencidos anticipadamente, cuando sin su autorización los deudores enajenen, incluida la permuta, o graven su vivienda, así como cuando incurran en cualesquiera de las causales de violación consignadas en los contratos respectivos.
+Los créditos que otorgue el Instituto, se rescindirán y por lo tanto se darán por vencidos anticipadamente, cuando sin su autorización los deudores enajenen, incluida la permuta, o graven su vivienda o el suelo destinado a la construcción de la misma, así como cuando incurran en cualesquiera de las causales de violación consignadas en los contratos respectivos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
-Tratándose de créditos otorgados para la adquisición de viviendas financiadas directamente por el instituto, éstos se darán por cancelados y el contrato rescindido si los deudores incurren en alguna de las causales señaladas en el párrafo anterior, por lo que el deudor o quien ocupe la vivienda deberá desocuparla en un término de 45 días naturales contados a partir de la fecha en que se reciba el aviso respectivo.
+Tratándose de créditos otorgados para la adquisición de viviendas financiadas directamente por el Instituto, éstos se darán por cancelados y el contrato rescindido si los deudores incurren en alguna de las causales señaladas en el párrafo anterior, por lo que el deudor o quien ocupe el suelo o la vivienda deberá desocuparla en un término de 45 días naturales contados a partir de la fecha en que se reciba el aviso respectivo, tratándose de suelo deberá, de ser el caso, desocuparse y suspender todas aquellas actividades de construcción en ese mismo plazo.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 En el caso del párrafo anterior, las cantidades que hayan cubierto los trabajadores hasta la fecha en que se desocupe la vivienda, se aplicarán a favor del instituto a título de pago por el uso de la propia vivienda.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 50.
 
-El Instituto vigilará que los créditos y los financiamientos que otorgue, se destinen al fin para los que fueron concedidos.
+El Instituto vigilará que los créditos directos y los financiamientos que otorgue, se destinen al fin para los que fueron concedidos.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -1801,3 +1839,21 @@ Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante la
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
 
 Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
