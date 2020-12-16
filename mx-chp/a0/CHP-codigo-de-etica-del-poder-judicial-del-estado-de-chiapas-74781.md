@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-etica-del-poder-judicial-del-estado-de-chiapas-74781"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-24"
-last_updated: "2010-03-24"
+last_updated: "2020-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de marzo de 2010.
 
@@ -452,3 +454,15 @@ www.poderjudicialchiapas.gob.mx/website/index.php
 El Código de Ética del Poder Judicial del Estado de Chiapas, fue aprobado por el Pleno del Consejo de la Judicatura, en la Sesión Ordinaria celebrada en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veinticuatro días del mes de febrero del año dos mil diez.
 
 Mtro. Juan Gabriel Coutiño Gómez, Magistrado Presidente.- Licenciado Alberto Cal y Mayor Gutiérrez, Consejero.- Licenciado Rodolfo Courtois Zepeda, Consejero.- Licenciado Olaf Gómez Hernández, Consejero.- Licenciado Juan José Solórzano Marcial, Consejero.- Licenciada María Itzel Ballinas Barbosa, Secretaria Ejecutiva.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. No. 1294-A-2020 Código de Ética del Poder Judicial del Estado de Chiapas".]
+
+Artículo Primero.- El presente Código deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Chiapas, asimismo en la normatividad interna de la página oficial del Poder Judicial del Estado de Chiapas.
+
+Artículo Segundo.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chiapas.
+
+Artículo Tercero.- Se abroga el Código de Ética del Poder Judicial del Estado de Chiapas, publicado en el Periódico Oficial del Estado número 223, el miércoles 24 de marzo de 2010.
