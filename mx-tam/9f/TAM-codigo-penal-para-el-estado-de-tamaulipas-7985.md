@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2020-11-22"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2271,7 +2271,7 @@ ARTICULO 189 BIS.- Se aplicarán las sanciones de tres a cinco años de prisión
 
 ## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO II. CORRUPCION, PORNOGRAFIA Y PROSTITUCION SEXUAL DE MENORES E INCAPACES
+### CAPITULO II. CORRUPCION, PORNOGRAFIA, PROSTITUCION SEXUAL DE MENORES E INCAPACES Y PEDERASTIA
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -2291,7 +2291,7 @@ III.- El que de modo escandaloso invite a otro al comercio carnal.
 
 Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de tres a seis años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ### CAPITULO III. LENOCINIO
 
@@ -2416,6 +2416,12 @@ A los responsables de que trata este capítulo, se les privará en definitiva de
 ###### ARTICULO 198.
 
 El delito de corrupción de menores, sólo se sancionará cuando se consumen los hechos materiales que lo constituyan.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 198 BIS.- Comete el delito de pederastia quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+Al responsable de este delito se le aplicará una sanción de nueve a dieciocho años de prisión y multa de setecientas cincuenta a dos mil doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO IV. PROVOCACION A UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -3601,7 +3607,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 267.
 
@@ -3617,11 +3623,11 @@ También se considera abuso sexual cuando se obligue a la víctima a observar un
 
 Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 268.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientas veces el valor diario de la Unidad de Medida y Actualización de multa.
+A quien cometa el delito de abuso sexual en una persona menor de dieciocho años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aún con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de diez a dieciocho años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -3637,27 +3643,21 @@ El delito de abuso sexual sólo se castigará cuando se haya consumado.
 
 ###### ARTICULO 270.
 
-Comete el delito de estupro quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño o mediante alguna maquinación.
+Comete el delito de estupro quien tenga cópula con persona de entre quince años cumplidos y menos de dieciocho años de edad, obteniendo su consentimiento por medio de engaño o mediante alguna maquinación.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 271.
 
-Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, si la víctima fuere mayor de doce y menor de catorce años de edad.
+Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, si la víctima fuere de entre quince años cumplidos y menos de dieciséis años de edad.
 
-Si la víctima fuera mayor de catorce y menor de dieciséis años de edad, al responsable del delito se le impondrá una sanción de uno a cuatro años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
+Si la víctima fuera de entre dieciséis años cumplidos y menos de dieciocho años de edad, al responsable del delito se le impondrá una sanción de uno a cuatro años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Si la víctima fuera mayor de dieciséis y menor de dieciocho años de edad, al responsable del delito se le impondrá una sanción de tres meses a un año de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 272.
 
-No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes.
+Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
 
 ### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -3695,9 +3695,9 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere el cónyuge o concubina o concubinario, independientemente de su género, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-Si la víctima del delito fuere menor de catorce años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 30 a 40 años de prisión.
+Si la víctima del delito fuere menor de dieciocho años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 30 a 40 años de prisión.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -3715,15 +3715,15 @@ Si la violación fuere precedida o acompañada de golpes o lesiones o se cometie
 
 Se equipara a la violación y se impondrá sanción de 20 a 30 años de prisión:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-I.- Al que sin violencia realice cópula con persona menor de catorce años de edad.
+I.- Al que sin violencia realice cópula con persona menor de quince años de edad;
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-III.- Al que sin violencia introduzca por vía anal o vaginal cualquier elemento, instrumento o parte del cuerpo distinto del miembro viril en una persona menor de doce años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+III.- Al que sin violencia introduzca por vía anal o vaginal cualquier elemento, instrumento o parte del cuerpo distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
 ###### ARTICULO 276.
 
@@ -3788,6 +3788,10 @@ Sí el delito establecido en este artículo es cometido por un Servidor Público
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
 Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 279 QUÁTER.- A quien le conste o tenga noticia, por cualquier medio, de la comisión de los delitos de abuso sexual, violación, violación equiparada o acoso sexual en perjuicio de una persona menor de dieciocho años de edad o persona que no tengan (sic) la capacidad de comprender el significado del hecho o que por cualquier causa no puedan (sic) resistirlo, y no acuda ante la autoridad competente para denunciar el hecho, se le impondrá una pena de dos a cinco años de prisión y una multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
@@ -5021,7 +5025,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ### CAPITULO VI. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 399.
 
@@ -5427,7 +5431,7 @@ En ningún caso podrá imponerse pena privativa de libertad que exceda del máxi
 
 ###### ARTICULO 426.
 
-Comete el delito de extorsión al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, en contra de una persona o personas, se le impondrá una sanción de siete a quince años de prisión y de doscientos cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Comete el delito de extorsión al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, a la identidad profesional o la imagen profesional, en contra de una persona o personas, se le impondrá una sanción de diez a quince años de prisión y de doscientos cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -6858,6 +6862,46 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV - 213 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 251 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-217 MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO QUINTO, DEL LIBRO SEGUNDO; Y SE ADICIONA EL ARTÍCULO 198 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-219 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 426, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV.- 227 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 274, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-229 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 270 Y 271 DEL DECRETO NÚMERO LXIV-6, MEDIANTE EL CUAL SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, ENVIADO AL PODER EJECUTIVO PARA SU PROMULGACIÓN Y PUBLICACIÓN Y DEVUELTO CON OBSERVACIONES A ESTE CONGRESO DEL ESTADO; Y SE REFORMAN LOS ARTÍCULOS 272 Y 275, FRACCIONES I Y III, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-484 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 268; Y SE ADICIONA EL ARTÍCULO 279 QUÁTER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
