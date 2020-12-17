@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2019-12-18"
+last_updated: "2020-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -463,6 +463,10 @@ La enajenación de bebidas alcohólicas al público podrá realizarse solo en lo
 
 I.- Los abarrotes, expendios o depósitos, licorerías, minisúper, supermercados, tienda de cerveza artesanal y tiendas de conveniencia, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+En el caso de los expendios, depósitos, licorerías y tiendas de cerveza artesanal estos deberán permanecer cerrados después del horario autorizado para la enajenación de bebidas alcohólicas a que se refiere el párrafo anterior;
+
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas de lunes a domingo de las siete a las diecinueve horas;
@@ -541,11 +545,15 @@ I.- Presentar solicitud por escrito, bajo protesta de decir verdad, en las forma
 
 II.- Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos, y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos;
 
-III.- Constancia de no antecedentes penales, tratándose de personas físicas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+III.- Constancia de no antecedentes penales a nombre del solicitante tratándose de personas físicas, y en el caso de personas morales a nombre del representante legal;
 
 IV.- Si es extranjero deberá comprobar, mediante documento oficial, que está autorizado por la autoridad competente, para dedicarse a la actividad respectiva;
 
-V.- Declaración del domicilio fiscal;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+V.- Declaración del domicilio fiscal en términos del artículo 11 del Código Fiscal del Estado de Tamaulipas, particular y/o domicilio alterno para oír y recibir notificaciones;
 
 VI.- Declaración del tipo de giro, nombre, razón o denominación social y, en su caso, nombre comercial del establecimiento;
 
@@ -569,9 +577,15 @@ XII.- Los establecimientos que expendan bebidas alcohólicas, con los giros de a
 
 XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hacienda del Estado;
 
-XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuyentes o del aviso de apertura del establecimiento; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XV.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
+XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuyentes o del aviso de apertura del establecimiento;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XV.- Original para cotejo del comprobante de pago del predial del domicilio del establecimiento o en su caso contrato de arrendamiento celebrado y/o ratificado ante notario público a fin de determinar la responsabilidad solidaria del arrendador con el arrendatario que solicita la licencia, de conformidad con lo establecido en el artículo 72 de la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas; y
+
+XVI.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -584,6 +598,10 @@ Recibida la solicitud y los anexos a que se refiere el artículo anterior, en la
 ###### ARTICULO 27.
 
 Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, el Ejecutivo del Estado, por conducto de la Secretaría, dentro de los treinta días siguientes, resolverá si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado, empezando a correr a partir de entonces el término para que el solicitante interponga el recurso de reconsideración al que se refiere el capítulo XI de la presente ley.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Una vez autorizada la solicitud por la Secretaría de Finanzas, contará con un mes calendario para realizar el pago de la licencia. En el supuesto de no cubrir el importe correspondiente en el plazo referido se cancelará la autorización de dicho trámite. En caso que desee continuar con su trámite deberá nuevamente iniciar el procedimiento de solicitud de expedición de licencia de alcoholes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -629,9 +647,9 @@ El propietario, representante legal o encargado del establecimiento destinado al
 
 El comprobante de la solicitud presentado en tiempo y forma, permitirá la operación del establecimiento respectivo, sólo durante los meses de enero y febrero del año siguiente a aquel en que se presentó la solicitud, debiendo realizar el pago correspondiente de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas a más tardar el último día hábil del mes de febrero.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-Una vez realizado el pago, el propietario o representante legal del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, contará con 90 días naturales posteriores a la fecha en que se realizó el pago, para recoger su licencia de funcionamento (sic).
+Una vez realizado el pago, el propietario o representante legal del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, deberá entregar la documentación a la que se refiere el artículo 25 dentro de los siguientes 15 días naturales, y contará con 90 días naturales posteriores a la fecha en que se realizó el pago, para recoger su licencia de funcionamiento.
 
 ###### ARTICULO 35.
 
@@ -931,9 +949,11 @@ Cuando en la resolución que se emita se establezca la clausura definitiva del e
 
 ### CAPITULO IX. DE LAS RESTRICCIONES
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 59.
 
-A los menores de edad, personas que no estén en pleno goce de sus facultades mentales, personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, bajo ninguna circunstancia, se les deberá enajenar bebidas alcohólicas, o bien, permitir administrar los establecimientos regulados por esta ley.
+A los menores de edad, personas que no estén en pleno goce de sus facultades mentales, personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, bajo ninguna circunstancia, se les deberá enajenar bebidas alcohólicas, así también permitir realicen actos de administración y/o venta de bebidas alcohólicas, o tener contacto alguno con éstas, dentro de los establecimientos regulados por esta ley.
 
 ###### ARTICULO 60.
 
@@ -1414,3 +1434,23 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un (sic) numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
