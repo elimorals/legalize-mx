@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2020-07-08"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -69,7 +69,9 @@ El ejercicio y desarrollo del derecho a la cultura física y el deporte en Tamau
 
 I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
 
-II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+II. La cultura física y la práctica del deporte constituyen elementos esenciales de la educación para preservar y mejorar la salud, combatir el sobrepeso, la obesidad y las enfermedades que provocan;
 
 III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
 
@@ -299,7 +301,9 @@ X. Normar la participación de los deportistas representantes del Estado en comp
 
 XI. Coordinar acciones de las dependencias y entidades de la administración pública estatal en lo relativo a investigación en ciencias y técnicas del deporte, así como a la medicina deportiva;
 
-XII. Establecer los programas de formación y capacitación en materia deportiva;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XII. Establecer los programas de formación, capacitación y actualización en materia deportiva;
 
 XIII. Fomentar la construcción, conservación, adecuación y mejoramiento de las instalaciones deportivas;
 
@@ -805,11 +809,17 @@ El Instituto, apoyará, promoverá y facilitará la participación de las person
 
 ###### ARTÍCULO 60.
 
-1. La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+1. La cultura física será promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano, así como para preservar y mejorar la salud, combatir el sobrepeso, la obesidad y las enfermedades que provocan.
 
 2. La educación física y el deporte son actividades obligatorias en los niveles de educación preescolar, primaria, secundaria, bachillerato y profesional, así como en la educación especial.
 
-3. El Estado y los Municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+3. Se procurará que toda persona que se dedica a impartir clases de cualquier actividad deportiva en forma pública o privada, cuente con certificado oficial y/o documentación actualizada que acredite sus conocimientos en la materia.
+
+4. El Estado y los Municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
 
 I. Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y deportiva;
 
@@ -825,7 +835,19 @@ VI. Promover certámenes, concursos o competiciones de naturaleza cultural depor
 
 VII. Las demás que dispongan la Ley General y otros ordenamientos aplicables.
 
-4. Los Juegos Tradicionales y Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo, el Estado y los Municipios en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Nacionales y Asociaciones Deportivas Estatales, del Distrito Federal o Municipales correspondientes.
+5. Los Juegos Tradicionales y Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo, el Estado y los Municipios en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Nacionales y Asociaciones Deportivas Estatales, del Distrito Federal o Municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 60 Bis.
+
+Independientemente de los requisitos que establezcan los municipios del estado y dependencias, correspondientes a la apertura de instalaciones destinadas a la activación física, la cultura física y el deporte como escuelas, clubes o academias, el Instituto podrá supervisar que cuenten con:
+
+I. Personal acreditado y/o certificado por expertos en la materia o autoridades competentes, y con conocimientos de cultura y acondicionamiento físicos necesarios; e
+
+II. Instalaciones apropiadas para el desarrollo de la actividad deportiva que desarrollen, así como verificar la calidad y seguridad de las mismas.
+
+En caso de cumplir con estas características el Instituto les expedirá un reconocimiento deportivo; en caso contrario los podrá asesorar para que cumplan con estas disposiciones.
 
 ###### ARTÍCULO 61.
 
@@ -905,9 +927,11 @@ El Instituto promoverá, coordinará e impulsará en coordinación con las depen
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del Sistema, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 73.
 
-El Instituto participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las dependencias y entidades de la administración pública estatal y los Ayuntamientos, organismos públicos, sociales y privados, estatales, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+El Instituto participará en la elaboración de programas de capacitación y actualización en actividades de activación física, cultura física y deporte con las dependencias y entidades de la administración pública estatal y los Ayuntamientos, organismos públicos, sociales y privados, estatales, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
 
 ###### ARTÍCULO 74.
 
@@ -1482,3 +1506,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-220 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN II; 12, FRACCIÓN XII; 60, PÁRRAFO 1; Y 73; Y SE ADICIONAN UN PÁRRAFO 3, RECORRIENDO EN SU ORDEN NATURAL LOS ACTUALES PARA SER 4 Y 5, AL ARTÍCULO 60, Y UN ARTÍCULO 60 BIS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
