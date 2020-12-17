@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2019-10-16"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -189,7 +189,9 @@ IV.- El requisito de práctica se acreditará con el certificado del Notario y e
 
 V.- El buen estado de salud física y mental del solicitante, con certificado médico en el que se indique el nombre y la cédula del profesional de la salud que lo expida y con una antigüedad no mayor de treinta días a la fecha de su solicitud;
 
-VI.- El contenido en la fracción IV del artículo anterior, con la constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado, con una antigüedad no mayor de quince días a la fecha de su solicitud;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VI.- El contenido en la fracción IV del artículo anterior, con la constancia de no antecedentes penales expedida por la Fiscalía General de Justicia del Estado, con una antigüedad no mayor de quince días a la fecha de su solicitud;
 
 VII.- Los contenidos en las fracciones VI, VII, y IX del artículo anterior, con la manifestación del solicitante por escrito y bajo protesta de decir verdad de que los cumple; y
 
@@ -475,13 +477,13 @@ XI.- Las demás que les impongan la ley y otros ordenamientos.
 
 3. Los libros contendrán las menciones necesarias para conocer con precisión los datos principales de la Notaría y su titular, así como una muestra de la firma y sello del Notario. En ellos se anotarán las separaciones temporales o definitivas y las designaciones para suplir esas faltas. Al terminar la separación del cargo se anotará también la razón correspondiente.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
-
 ###### ARTICULO 27.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-1.- El Notario debe comenzar a ejercer sus funciones dentro del plazo de 60 días posteriores a que haya rendido protesta de su cargo. Al hacerla dará aviso al público por medio del Periódico Oficial del Estado y lo comunicará a la Secretaría General de Gobierno, a la Procuraduría General de Justicia del Estado, al Instituto Registral y Catastral del Estado y del Comercio y a la Dirección de Asuntos Notariales.
+1.- El Notario debe comenzar a ejercer sus funciones dentro del plazo de 60 días posteriores a que haya rendido protesta de su cargo. Al hacerla dará aviso al público por medio del Periódico Oficial del Estado y lo comunicará a la Secretaría General de Gobierno, a la Fiscalía General de Justicia del Estado, al Instituto Registral y Catastral del Estado y del Comercio y a la Dirección de Asuntos Notariales.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 2. Quedará sin efecto el fíat otorgado al Notario si no se encarga del ejercicio de sus funciones dentro del plazo fijado y no podrá otorgarse otro nuevo al interesado, a menos que exista causa justificada para ello a juicio del Secretario General de Gobierno, con la opinión del Director de Asuntos Notariales.
 
@@ -1035,9 +1037,11 @@ Dentro de los 60 días siguientes a la fecha en que se cierre el Protocolo, se p
 
 5. A continuación de la clausura el Director de Asuntos Notariales asentará en los libros o juegos de folios la razón de recibo.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 88.
 
-El Notario que se encuentre en la situación a que se refiere el artículo anterior, tiene derecho a asistir a la clausura del Protocolo; si la separación es por causa de delito, asistirá a la clausura, inventario y entrega el Agente del Ministerio Público que designe el Procurador General de Justicia.
+El Notario que se encuentre en la situación a que se refiere el artículo anterior, tiene derecho a asistir a la clausura del Protocolo; si la separación es por causa de delito, asistirá a la clausura, inventario y entrega el Agente del Ministerio Público que designe el Fiscal General de Justicia.
 
 ### CAPITULO XI. DE LOS INSTRUMENTOS NOTARIALES
 
@@ -2362,3 +2366,11 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-226 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, PÁRRAFO 1, FRACCIÓN VI; 27, PÁRRAFO 1; Y 88 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
