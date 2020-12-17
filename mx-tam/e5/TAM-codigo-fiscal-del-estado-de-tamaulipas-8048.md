@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2019-12-18"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -1681,9 +1681,9 @@ V.- Cuando por un acto u omisión se infrinjan diversas disposiciones de caráct
 
 Cuando se omita total o parcialmente el pago de contribuciones, a las que correspondan varias multas, sólo se aplicará la mayor de ellas.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un veinte por ciento de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+En el caso de que la multa se pague dentro de los treinta días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1964,6 +1964,66 @@ A quien cometa las infracciones señaladas en el artículo 89 de este Código se
 ###### ARTICULO 91.
 
 La infracción en cualquier forma a las disposiciones fiscales, diversas a las previstas en este capítulo, se sancionará con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 91-A.
+
+Son infracciones en las que pueden incurrir los sujetos del Impuesto Sobre Juegos Permitidos, las siguientes:
+
+I.- Permitir el retiro parcial de dinero, efectivo o premios en las cuentas que lleven de cada uno de los participantes, en contravención a lo dispuesto por el artículo 24 Ter, fracción II, inciso a), segundo párrafo de la Ley de Hacienda para el Estado de Tamaulipas.
+
+II.- Sufrir dos o más interrupciones al suministro de energía eléctrica en el establecimiento en donde se realicen juegos con cruce o captación de apuestas incluidos sorteos, así como apuestas remotas para eventos o competencias deportivas, dentro de un período de treinta días naturales, a que se refiere el penúltimo párrafo de la fracción II del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas.
+
+III.- Sufrir dos o más interrupciones al acceso que debe otorgarse a la Secretaría de Finanzas al Sistema de Cómputo para compartir o proporcionar la Información en los términos de la fracción II del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas dentro de un período de treinta días naturales.
+
+IV.- Operar un establecimiento en el que se realicen juegos con cruce o captación de apuestas incluidos sorteos, así como apuestas remotas para eventos o competencias deportivas, sin contar con un Sistema de Cómputo para compartir o proporcionar de (sic) Información que reúna los requisitos que establece la Ley de Hacienda para el Estado de Tamaulipas.
+
+V.- Cuando se detecte, durante el ejercicio de facultades de comprobación, que los soportes y/o registros electrónicos de cualquiera de los sistemas a que se refiere la fracción II del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas han sido perdidos, eliminados, borrados, alterados o modificados en modo alguno.
+
+VI.- Contar con una o más máquinas, equipos, terminales electrónicas o artefactos a que se refiere la fracción VII del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas, que no se encuentre (sic) conectadas a los sistemas de cómputo a que se refiere la fracción II del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas.
+
+VII.- Contar con una o más máquinas, equipos, terminales electrónicas o artefactos a que se refiere la fracción VII del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas, que no se encuentren inscritas en el Registro Estatal de Máquinas, Equipos y Terminales Electrónicas utilizadas para el Cruce de Apuestas a que se refiere dicha ley.
+
+VIII.- No presentar los avisos a que se refieren las fracciones VIII y IX del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas, o presentarlos a requerimiento de las autoridades fiscales, o presentarlos incompletos o con errores.
+
+IX.- No enviar los avisos o reportes que exijan las leyes y/o las reglas de carácter general que al efecto emita la Secretaría de Finanzas en relación con el Impuesto Sobre Juegos con Cruce o Captación de Apuestas, o enviarlos a requerimiento de las autoridades fiscales, o enviarlos incompletos o con errores.
+
+X.- Cuando la interrupción al acceso que debe otorgarse a la Secretaría de Finanzas en los términos de la fracción segunda del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas perdure más de 24 horas.
+
+XI.- No presentar los avisos a que se refiere el inciso f) de la fracción I del artículo 22 de la de la Ley de Hacienda para el Estado de Tamaulipas, o presentarlos a requerimiento de las autoridades fiscales, o presentarlos incompletos o con errores.
+
+XII.- La reproducción, desprendimiento, modificación, movimiento, remoción y/o destrucción total o parcial, así como la alteración de cualquier modo, (sic) los engomados de seguridad a que se refiere la fracción VII del artículo 24 Quater de la Ley de Hacienda para el Estado de Tamaulipas, así como sus códigos de barras bidimensionales.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 91-B.
+
+A quien cometa las infracciones a que se refiere el artículo 91-A de este Código, se le impondrán las siguientes sanciones:
+
+I.- Multa de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta quince días, o ambas, a la comprendida en la presente fracción.
+
+II.- Multa de mil quinientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta sesenta días, o ambas, a la comprendida en la presente fracción.
+
+III.- Multa de mil quinientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta sesenta días, o ambas, a la comprendida en la presente fracción; sanción que se aplicará sin perjuicio de las demás que procedan en términos de las disposiciones aplicables.
+
+IV.- Multa de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta quince días, o ambas, a la comprendida en la presente fracción.
+
+V.- Multa de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta quince días, o ambas, a la comprendida en la presente fracción.
+
+VI.- Multa setecientas cuarenta veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta quince días, o ambas, a la comprendida en la presente fracción. La sanción pecuniaria antedicha se aplicará por cada una de las máquinas, equipos, terminales electrónicas o artefactos que se encuentre en dicho supuesto, sin perjuicio de las demás sanciones aplicables.
+
+VII.- Multa de setecientas cuarenta veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta quince días, o ambas, a la comprendida en la presente fracción. La sanción pecuniaria antedicha se aplicará por cada una de las máquinas, equipos, terminales electrónicas o artefactos que se encuentre en dicho supuesto, sin perjuicio de las demás sanciones aplicables.
+
+VIII.- Multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la presente fracción; sanción que se aplicará por cada uno de los avisos por los cuales se actualice la infracción.
+
+IX.- Multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la presente fracción; sanción que se aplicará por cada uno de los avisos o reportes por los cuales se actualice la infracción.
+
+X.- Multa de mil veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la presente fracción; sanción que aplicará por cada día o fracción que perdure la infracción.
+
+XI.- Multa equivalente de un diez por ciento a veinte por ciento del valor de los premios objeto en la rifa, sorteo, lotería o concurso de que se trate, a la comprendida en la presente fracción.
+
+XII.- Multa de seiscientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, o clausura temporal de hasta treinta días, o ambas, a la comprendida en la presente fracción; sanción que se aplicará por cada uno de los engomados de seguridad o sus códigos de barras bidimensionales que se encuentren, hayan sido reproducidos, desprendidos, modificados, movidos, removidos, destruidos total o parcialmente, o alterados de cualquier modo.
 
 ### CAPITULO II
 
@@ -2561,11 +2621,11 @@ Las garantías constituídas para asegurar el interés fiscal a que se refieren 
 
 Si la garantía consiste en depósito de dinero en la Secretaría o en Institución Nacional de Crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 142.
+###### ARTÍCULO 142.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo del mes siguiente a la fecha en que surta efectos su notificación, si a más tardar al vencimiento del citado plazo de un mes se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspendará (sic) el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación, si a más tardar al vencimiento del citado plazo de treinta días se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
 
@@ -3548,3 +3608,23 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
