@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2019-08-20"
+last_updated: "2020-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -227,9 +227,15 @@ XXXV. Toda comparecencia ante el órgano investigador, el juez o tribunal, organ
 
 XXXVI. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de lo dispuesto por esta Ley en términos de la legislación aplicable;
 
-XXXVII. Tener acceso ágil, eficaz y transparente a los recursos de ayuda en términos de esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XXXVIII. Los demás señalados por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Ley General, la presente Ley y demás normatividad aplicable a la materia.
+XXXVII. Tener acceso ágil, eficaz y transparente a los recursos de ayuda en términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII. Tener permanente comunicación con sus familiares directos o personas de su confianza, durante el tiempo en que sean sujetas de medidas de atención o protección; excepto en tratándose de víctimas o potenciales víctimas que sean menores de edad y cuyos familiares directos o personas de su confianza sean presuntos responsables del delito por el cual la víctima o presunta víctima recibe las medidas de protección; y
+
+XXXIX. Los demás señalados por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Ley General, la presente Ley y demás normatividad aplicable a la materia.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
@@ -1922,6 +1928,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-228 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVII Y SE ADICIONA LA FRACCIÓN XXXVIII, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE PARA SER XXXIX, AL ARTÍCULO 7, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
