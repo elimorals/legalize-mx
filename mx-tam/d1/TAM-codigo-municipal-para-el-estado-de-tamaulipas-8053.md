@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2020-11-11"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1171,9 +1171,11 @@ XVI.- En materia de contratación de deuda pública, ser el responsable de confi
 
 XVII.- Las demás que le señalen las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 72 BIS.- La Contraloría Municipal es el órgano de control interno encargado de vigilar y supervisar que la recaudación de los ingresos municipales y las erogaciones que deba hacer el Municipio conforme a los presupuestos aprobados, se lleven a cabo de una manera eficiente, y con apego a los programas, a la normatividad y a las leyes aplicables.
+ARTICULO 72 BIS.- La Contraloría Municipal es el órgano de control interno encargado de vigilar y supervisar que la recaudación de los ingresos municipales y las erogaciones que deba hacer el Municipio conforme a los presupuestos aprobados, se lleven a cabo de una manera eficiente, y con apego a los programas, a la normatividad y a las leyes aplicables con el objeto de promover la productividad y eficiencia, a través de la implementación de sistemas de control interno, siendo el órgano encargado de aplicar el cumplimiento de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 La oficina estará a cargo de un Contralor Municipal que será designado por el Ayuntamiento, a terna propuesta por el Presidente Municipal.
 
@@ -1189,35 +1191,89 @@ ARTICULO 72 QUATER.- Son facultades y obligaciones del Contralor Municipal:
 
 I.- Vigilar el cumplimiento de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, así como conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, que puedan implicar responsabilidad administrativa.
 
-II.- Fiscalizar la distribución y aplicación de los recursos ejercidos por la administración municipal, pudiendo para este fin, realizar auditorías, inspecciones y evaluaciones a los departamentos que integren dicha administración.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-III.- Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de planeación, control y evaluación de la administración municipal, y requerir discrecionalmente de los departamentos, la instrumentación de normas adicionales para el ejercicio de sus atribuciones que aseguren el control.
+II.- Conocer e investigar las conductas de los servidores públicos, que puedan constituir responsabilidades administrativas y aplicar las sanciones administrativas que correspondan en los términos de la Ley de la materia y los reglamentos municipales.
 
-IV.- Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en Acuerdos, Convenios o Contratos que celebren los particulares con los departamentos de la administración municipal, y en la aplicación de recursos destinados a obras y servicios del Municipio.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y PÁRRAFOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+III.- El procedimiento para la aplicación de las sanciones a que se refiere este Código se desarrollarán atendiendo a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Tamaulipas incorporando a su organigrama el área de Autoridades Investigadora, Substanciadora y Resolutora quienes dependerán jerárquica y funcionalmente de la Contraloría Municipal, siendo principalmente responsables de lo siguiente:
+
+CORRESPONDE A LA AUTORIDAD INVESTIGADORA.- La investigación por la presunta responsabilidad de faltas administrativas; la cual podrá iniciar de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos. Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
+
+Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave o no grave. Una vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el informe de presunta responsabilidad administrativa y este se presentará ante la autoridad substanciadora a efecto de iniciar el procedimiento de responsabilidad administrativa.
+
+CORRESPONDE A LA AUTORIDAD SUBSTANCIADORA.- Las autoridades substanciadoras se abstendrán de iniciar el procedimiento de responsabilidad administrativa previsto en la Ley de Responsabilidades Administrativas para el Estado de Tamaulipas de imponer sanciones administrativas a un servidor público, según sea el caso, cuando de las investigaciones practicadas o derivado de la valoración de las pruebas aportadas en el procedimiento referido, adviertan que no existe daño ni perjuicio a la Hacienda Pública Estatal o municipal, o al patrimonio de los entes públicos y que se actualiza alguna de las siguientes hipótesis:
+
+a).- Que la actuación del servidor público, en la atención, trámite o resolución de asuntos a su cargo, esté referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el Servidor Público en la decisión que adoptó; o
+
+b).- Que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron.
+
+La autoridad investigadora o el denunciante, podrán impugnar la abstención, en los términos de lo dispuesto por el siguiente Capítulo.
+
+La autoridad a quien se encomiende la substanciación del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+
+CORRESPONDE A LA AUTORIDAD RESOLUTORA.- Una vez trascurrido el periodo de alegatos, la autoridad resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello.
+
+La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IV.- El procedimiento administrativo será regulado por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a quien deba conocer de ellas en caso de incompetencia siguiendo los lineamientos expuestos en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. A falta de disposición expresa, se aplicará supletoriamente el Código Nacional de Procedimientos Penales en vigor.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+V.- Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionadoras a que se refiere la Ley de Responsabilidades Administrativas del Estado de Tamaulipas; siempre que se trate de servidores públicos que no sean de elección popular.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VI.- Designar y remover, en su caso, a los titulares de los órganos internos de control de los organismos descentralizados de la Administración Pública Municipal, así como a los de las áreas de auditoría, evaluación, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Contraloría Municipal.
+
+VII.- Fiscalizar la distribución y aplicación de los recursos ejercidos por la administración municipal, pudiendo para este fin, realizar auditorías, inspecciones y evaluaciones a los departamentos que integren dicha administración.
+
+VIII.- Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de planeación, control y evaluación de la administración municipal, y requerir discrecionalmente de los departamentos, la instrumentación de normas adicionales para el ejercicio de sus atribuciones que aseguren el control.
+
+IX.- Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en Acuerdos, Convenios o Contratos que celebren los particulares con los departamentos de la administración municipal, y en la aplicación de recursos destinados a obras y servicios del Municipio.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-V.- Vigilar el cumplimiento de las normas de control y fiscalización, principalmente las emanadas de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
+X.- Vigilar el cumplimiento de las normas de control y fiscalización, principalmente las emanadas de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
-VI.- Inspeccionar y vigilar directamente que la administración municipal cumpla con las normas y disposiciones en materia de sistema y registro de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales del Municipio.
+XI.- Inspeccionar y vigilar directamente que la administración municipal cumpla con las normas y disposiciones en materia de sistema y registro de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales del Municipio.
 
-VII.- Coordinar, con la Auditoría Superior del Estado, el establecimiento de los mecanismos necesarios, que les permitan cumplir mejor sus respectivas responsabilidades.
+XII.- Coordinar, con la Auditoría Superior del Estado, el establecimiento de los mecanismos necesarios, que les permitan cumplir mejor sus respectivas responsabilidades.
 
-VIII.- Intervenir, para efectos de verificación, en los actos de entrega y recepción intermedia y final de la administración municipal.
+XIII.- Intervenir, para efectos de verificación, en los actos de entrega y recepción intermedia y final de la administración municipal.
 
-IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralmente del avance y resultados de éstos, así como de las irregularidades de las que estime exista responsabilidad alguna.
+XIV.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralmente del avance y resultados de éstos, así como de las irregularidades de las que estime exista responsabilidad alguna.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-X.- Asistir y participar en los procesos de adjudicación de las obras públicas, así como en las actas entrega-recepción, por parte del contratista al Municipio y en su caso del Municipio al organismo operador.
+XIV.- Asistir y participar en los procesos de adjudicación de las obras públicas, así como en las actas entrega-recepción, por parte del contratista al Municipio y en su caso del Municipio al organismo operador.
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2016)</small>
 
-XI.- Prever lo conducente para salvaguardar, al término del período de una administración, la información relativa a los recursos humanos, materiales y financieros del Ayuntamiento, así como la información pública de oficio que deba archivarse, difundirse y actualizarse en términos de las leyes de transparencia y contabilidad gubernamental, con el objeto de garantizar la existencia de la misma en el proceso de entrega-recepción.
+XVI.- Prever lo conducente para salvaguardar, al término del período de una administración, la información relativa a los recursos humanos, materiales y financieros del Ayuntamiento, así como la información pública de oficio que deba archivarse, difundirse y actualizarse en términos de las leyes de transparencia y contabilidad gubernamental, con el objeto de garantizar la existencia de la misma en el proceso de entrega-recepción.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XVII.- Vigilar en el ámbito de competencia municipal el cumplimiento de la legislación y reglamentación correspondiente en materia de transparencia y acceso a la información pública.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XVIII.- Cumplir cabalmente con las recomendaciones y lineamientos que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XIX.- Ejecutar las políticas públicas de prevención y combate a la corrupción y su difusión al interior del Ayuntamiento como a la población en general.
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XII.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
+XX.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 72 QUINQUIES.- Se establece la coordinación institucional entre los órganos de control del Poder Ejecutivo, del Poder Legislativo y de los Ayuntamientos, así como con el Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización, para unificar criterios en los métodos, procedimientos y alcances sobre las funciones de seguimiento, control y evaluación; instrumentar, participar y recibir la capacitación para el mejor desempeño de sus funciones, de las actualizaciones del marco normativo y de los sistemas de seguimiento y revisiones; formular consultas sobre aspectos operativos o normativos; intercambiar experiencias y elaborar propuestas de mejoramiento de la administración pública.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -6370,3 +6426,11 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-215 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES, AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
