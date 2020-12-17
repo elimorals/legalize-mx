@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-escolar-para-el-estado-de-tamaulipas-60669"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-27"
-last_updated: "2016-07-14"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 27 de marzo de 2008.
 
@@ -119,13 +119,15 @@ VI.- La Ley de Salud para el Estado de Tamaulipas.
 
 Son autoridades en materia de seguridad escolar:
 
-l. El Gobernador del Estado;
+I. El Gobernador del Estado;
 
 II. El Secretario de Seguridad Pública;
 
 III. El Secretario de Educación;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IV. El Fiscal General de Justicia del Estado;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
 
@@ -177,9 +179,11 @@ VI.- Las demás atribuciones que a esta ley y otras disposiciones legales le enc
 
 Corresponde a la Secretaría de Educación:
 
-l. Proponer al titular del Ejecutivo Estatal la celebración de acuerdos con los Ayuntamientos de la Entidad, a fin de cumplir los propósitos de la presente ley;
+I. Proponer al titular del Ejecutivo Estatal la celebración de acuerdos con los Ayuntamientos de la Entidad, a fin de cumplir los propósitos de la presente ley;
 
-II. Proponer al Secretario de Seguridad y al Procurador General de Justicia del Estado, la adopción de medidas para el cumplimiento de esta ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+II. Proponer al Secretario de Seguridad y al Fiscal General de Justicia del Estado, la adopción de medidas para el cumplimiento de esta ley;
 
 III. Concentrar el registro de las brigadas en la Entidad;
 
@@ -195,11 +199,13 @@ VI. Proponer que en la toma de decisiones, en materia de esta ley, las autoridad
 
 VII. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 11.
 
-Al Procurador General de Justicia del Estado le corresponde:
+Al Fiscal General de Justicia del Estado le corresponde:
 
-l. Solicitar el auxilio de las autoridades y entidades auxiliares previstas en la presente ley, para el cumplimiento del objeto de la misma;
+I. Solicitar el auxilio de las autoridades y entidades auxiliares previstas en la presente ley, para el cumplimiento del objeto de la misma;
 
 II. Proponer al Ejecutivo Estatal la adopción de medidas necesarias para el efectivo cumplimiento de esta ley;
 
@@ -287,9 +293,15 @@ V.- Promover el consumo de alimentos nutritivos;
 
 VI.- Promover el respeto al entorno y al medio ambiente;
 
-VII.- Contar con botiquín de primeros auxilios; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Las demás acciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
+VII.- Contar con botiquín de primeros auxilios;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Promover la igualdad entre mujer y hombre y lenguaje incluyente y no sexista; y
+
+IX.- Las demás acciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
 ###### ARTICULO 16.
 
@@ -512,3 +524,11 @@ El Secretario de Educación cuenta con un plazo de ciento ochenta días naturale
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado, a través de las dependencias a su cargo y las que se señalan en el artículo 7 de la Ley presente ley, cuenta con un plazo de trescientos sesenta y cinco días naturales, contados a partir de la publicación del presente decreto, para acreditar a la totalidad del personal docente, administrativo y de apoyo, que labora en las instituciones educativas, donde aplique la presente ley.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-221 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, FRACCIÓN IV; 10, FRACCIÓN II; 11 PÁRRAFO ÚNICO Y 15, FRACCIÓN VII; Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE LA ACTUAL PARA SER IX, AL ARTÍCULO 15, DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
