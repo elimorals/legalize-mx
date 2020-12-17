@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-la-apertura-instalacion-y-funcionamiento-13223
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-09"
-last_updated: "2019-12-18"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Tamaulipas, el miércoles 9 de enero de 2019.
 
@@ -137,9 +137,17 @@ X. Fecha y lugar de la solicitud;
 
 XI. Vigencia del permiso;
 
-XII. Exhibir el recibo fiscal de pago de los derechos correspondientes expedido por la Secretaría; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XIII. Exhibir el formato del Contrato de Mutuo con Interés y el Contrato de Prenda que utilizarán para la celebración de los préstamos ofertados al público, debidamente inscritos ante la Procuraduría Federal del Consumidor.
+XII. Exhibir el recibo fiscal de pago de los derechos correspondientes expedido por la Secretaría;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XIII. Exhibir el formato del Contrato de Mutuo con Interés y el Contrato de Prenda que utilizarán para la celebración de los préstamos ofertados al público, debidamente inscritos ante la Procuraduría Federal del Consumidor; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XIV. Presentar la Constancia de No Adeudo Fiscal y el Acuse de Apertura del establecimiento emitido por el Servicio de Administración Tributaria.
 
 ###### ARTÍCULO 10.
 
@@ -174,6 +182,10 @@ La Secretaría, al resolver favorablemente la solicitud de un permiso, requerir�
 El permiso que se expida será personal e intransferible y con vigencia de un año fiscal.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el permisionario presente el aviso de inscripción de establecimiento emitido por el Servicio de Administración Tributaria, así como el contrato de inscripción emitido por la Procuraduría Federal del Consumidor por primera vez, después del 30 de junio del año de que se trate, solo pagará el importe equivalente al 50% del monto establecido para tal efecto en la Ley de Hacienda para el Estado de Tamaulipas.
 
 ###### ARTÍCULO 14.
 
@@ -512,3 +524,23 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
