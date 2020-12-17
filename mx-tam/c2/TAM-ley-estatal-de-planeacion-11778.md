@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2019-08-20"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -87,9 +87,13 @@ III.- La igualdad de derechos, la atención de las necesidades básicas de la po
 
 IV.- El respeto irrestricto de los derechos humanos y de las libertades y derechos sociales y políticos;
 
-V.- El fortalecimiento del Pacto Federal y del Municipio Libre, para lograr un desarrollo equilibrado del Estado; y
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
+V.- El fortalecimiento y protección de la familia, a efecto de promover, respetar y proteger los derechos de los seres humanos, reconociendo su realidad como integrantes de un ámbito familiar, que es necesario para su pleno desarrollo;
+
+VI.- El fortalecimiento del Pacto Federal y del Municipio Libre, para lograr un desarrollo equilibrado del Estado; y
+
+VII.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -672,6 +676,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-485 MEDIANTE EL CUAL SEADICIONA (SIC) LA FRACCIÓN V AL ARTÍCULO 2, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN NATURAL, DE LA LEY ESTATAL DE PLANEACIÓN”.]
 
 ###### ARTÍCULO ÚNICO.
 
