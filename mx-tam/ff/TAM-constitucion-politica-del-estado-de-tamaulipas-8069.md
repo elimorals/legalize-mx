@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2020-11-22"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1217,7 +1217,9 @@ XXXIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2012)
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
-XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXXVI. Expedir la ley reglamentaria del Centro de Conciliación Laboral del Estado de Tamaulipas, conforme a la legislación aplicable; dicho organismo estará a cargo del Poder Ejecutivo del Estado, el cual será especializado e imparcial, correspondiéndole a éste la función conciliatoria;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
@@ -2107,11 +2109,11 @@ El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con inde
 
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas, salvo las que se refieran a la adscripción y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, para el sólo efecto de verificar si sus términos se apegaron a lo que dispone la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### Art. 101.
 
-La potestad de impartir justicia mediante el control constitucional estatal, y la aplicación de las leyes en los asuntos de carácter familiar, civil, penal y de justicia para adolescentes, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
+La potestad de impartir justicia mediante el control constitucional estatal, y la aplicación de las leyes en los asuntos de carácter familiar, civil, penal, de justicia penal para adolescentes, laboral, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2191,9 +2193,9 @@ El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcio
 
 Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual, y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial. De igual forma, podrá aplicar, parte de dichos recursos para realizar acciones de infraestructura para la habilitación, construcción o establecimiento de salas, juzgados u oficinas del Poder Judicial del Estado y demás bienes necesarios para su funcionamiento, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -5168,6 +5170,28 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-235 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 58, FRACCIÓN XXXVI, 101, Y 107, PÁRRAFO TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto por los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Legislatura del Estado, previo al día primero de mayo de dos mil veintidós, emitirá la declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado.
+
+Dicha declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el consejo de la Judicatura del Estado emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y administrativos que se ameriten para el funcionamiento del sistema de impartición de justicia laboral.
 
 ###### ARTÍCULO NOVENO.
 
