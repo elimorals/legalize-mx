@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2019-08-20"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -529,6 +529,10 @@ IV.- Proponer las medidas y estímulos fiscales, esquemas de financiamiento, fac
 
 2. El proceso de vinculación deberá ser intersectorial, multidisciplinario e interinstitucional, buscándose la coordinación de esfuerzos conjuntos en materia de ciencia y tecnología, al tiempo de tomar en cuenta los intereses prioritarios y estrategias del Estado.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+3. Para la promoción a la que se refiere el párrafo 1 del presente artículo, serán prioritarios los proyectos que tengan como propósito la mitigación y adaptación a los efectos del cambio climático, y aquellos cuya finalidad sea generar y aplicar energías renovables en los sectores productivos y de servicios, así como en el uso doméstico.
+
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 39.
@@ -696,3 +700,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-486 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 38 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
