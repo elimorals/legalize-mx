@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2020-07-08"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -821,23 +821,39 @@ Se considerará Empresa de Redes de Transporte a las sociedades mercantiles naci
 
 También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades mercantiles nacionales o extranjeras que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan a usuarios en el Estado acceder al Servicio de Transporte Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 35 Ter.
 
-Para realizar actividades de mediación, administración o promoción en el Estado, las Empresas de Redes de Transporte deberán registrarse ante la Secretaría General de Gobierno, para lo cual deberán presentar copia simple de la siguiente información:
+Para realizar actividades de mediación, administración o promoción en el Estado, las Empresas de Redes de Transporte deberán registrarse ante la Secretaría General de Gobierno, para lo cual deberán presentar copia certificada y copia simple de la siguiente información:
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 I.- Acta constitutiva de la sociedad;
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
 II.- Nombre e identificación del representante legal, así como poder donde consten sus facultades de representación de la Empresa de Redes de Transporte;
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 III.- Domicilio, teléfono y correo electrónico del representante legal;
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
 IV.- Copia de su Registro Federal de Contribuyentes;
 
-V.- Nombre, abreviatura y en su caso derivaciones de la aplicación operada por la Empresa de Redes de Transporte o una empresa relacionada a la misma.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-La Secretaría registrará a las Empresas de Redes de Transporte que presenten la información completa dentro de los 10 días hábiles siguientes a la presentación de su solicitud. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte un plazo improrrogable de 15 días para que subsane su incumplimiento. En caso contrario la solicitud se tendrá por no presentada y se desechará.
+V.- Nombre, abreviatura y en su caso derivaciones de la aplicación operada por la Empresa de Redes de Transporte o una empresa relacionada a la misma; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VI.- Constancia de no Adeudos Fiscales que emite la Oficina Fiscal de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría registrará a las Empresas de Redes de Transporte que presenten los requisitos completos que se refieren en el presente artículo dentro de los 10 días hábiles siguientes a la presentación de su solicitud. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte un plazo improrrogable de 15 días para que subsane su incumplimiento. En caso contrario la solicitud se tendrá por no presentada y se desechará.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -863,9 +879,21 @@ I.- Tener una política clara de no discriminación de usuarios y conductores pr
 
 II.- Coadyuvar con las autoridades para la detención de probables responsables de la comisión de los ilícitos proporcionando oportunamente la información que le sea solicitada por escrito por la autoridad competente;
 
-III.- Determinar las pruebas y estudios que deban realizar los conductores privados para poder ofrecer servicios de Transporte Ejecutivo a través de la Plataforma en protección de la seguridad de los usuarios de la Plataforma; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-IV.- En caso que el propietario del vehículo afecto al Servicio de Transporte Ejecutivo o el conductor privado prestador del Servicio de Transporte Ejecutivo participaren en un percance automovilístico durante la prestación del Servicio de Transporte Ejecutivo y no contaren con un seguro vigente que cubra lo relativo a la responsabilidad civil frente a los usuarios del servicio y terceros, la Empresa de Redes de Transporte será considerada obligada subsidiaria del mismo y responderá en los términos que establece la legislación aplicable, hasta por el monto de cobertura del seguro que debió haber contratado dicho conductor privado prestador del Servicio de Transporte Ejecutivo para tal riesgo.
+III.- Determinar las pruebas y estudios que deban realizar los conductores privados para poder ofrecer servicios de Transporte Ejecutivo a través de la Plataforma en protección de la seguridad de los usuarios de la Plataforma;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IV.- En caso que el propietario del vehículo afecto al Servicio de Transporte Ejecutivo o el conductor privado prestador del Servicio de Transporte Ejecutivo participaren en un percance automovilístico durante la prestación del Servicio de Transporte Ejecutivo y no contaren con un seguro vigente que cubra lo relativo a la responsabilidad civil frente a los usuarios del servicio y terceros, la Empresa de Redes de Transporte será considerada obligada subsidiaria del mismo y responderá en los términos que establece la legislación aplicable, hasta por el monto de cobertura del seguro que debió haber contratado dicho conductor privado prestador del Servicio de Transporte Ejecutivo para tal riesgo; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+V.- Será obligatorio para las empresas de redes de transporte entregar a la Subsecretaría, el padrón de vehículos que se utilizan para prestar el servicio de Transporte Ejecutivo, en el que se incluirá marca de la unidad, modelo, serie, año, placas de circulación del Estado de Tamaulipas y copia de la póliza de seguro vigente. La Subsecretaría expedirá una constancia por vehículo registrado en el padrón, previo pago de derechos conforme a lo dispuesto en la Ley de Hacienda del Estado, constancia que deberá refrendarse anualmente y portarse de manera visible en la unidad que corresponde el registro. Además, deberán proporcionar el nombre del chofer de la unidad registrada, su registro federal de contribuyente, domicilio, número de licencia de conducir vigente y su clave única de registro de población.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+La información a que se refiere el párrafo que antecede, deberá ser proporcionada de manera mensual, para actualizar la base de datos, de los propietarios, conductores y vehículos afiliados a las Empresas de Redes de Transporte. En caso de incumplimiento a las obligaciones establecidas en el presente artículo, la empresa será notificada por parte de la Subsecretaría para que en un plazo de 10 días hábiles subsane su incumplimiento. De no subsanar el incumplimiento, la Secretaría iniciará el procedimiento administrativo para la suspensión o revocación del registro de la empresa, en los términos dispuestos por Título Décimo Primero, Capítulo Segundo de esta Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -891,9 +919,13 @@ Las Plataformas facilitarán los sistemas de evaluación y retroalimentación en
 
 El Servicio de Transporte Ejecutivo es aquél servicio de transporte privado que se basa en el desarrollo de tecnologías inteligentes, sistemas de posicionamiento global y Plataformas tecnológicas independientes que permiten conectar a usuarios que demandan un servicio de transporte privado de punto a punto con conductores privados que ofrecen dicho servicio en vehículos particulares.
 
-Dicho servicio no requerirá permisos, concesiones o autorización alguna, ni tampoco estará sujeto a tarifas, itinerarios, frecuencias de paso u horarios fijos. Cada Empresa de Redes de Transporte o sus empresas relacionadas podrá determinar en forma individual sus tarifas, así como el número de vehículos y conductores privados que puedan registrarse en su Plataforma o en la Plataforma de una empresa relacionada para prestar el Servicio de Transporte Ejecutivo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-El Servicio de Transporte Ejecutivo se regirá única y exclusivamente por lo dispuesto en el presente Capítulo Tercero, sin que resulte aplicable ninguna otra disposición contenida en la presente Ley o sus Reglamentos.
+Dicho servicio no requerirá concesiones o autorización alguna, ni tampoco estará sujeto a tarifas, itinerarios, frecuencias de paso u horarios fijos. Cada Empresa de Redes de Transporte o sus empresas relacionadas podrá determinar en forma individual sus tarifas, así como el número de vehículos y conductores privados que puedan registrarse en su Plataforma o en la Plataforma de una empresa relacionada para prestar el Servicio de Transporte Ejecutivo.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+El Servicio de Transporte Ejecutivo se regirá única y exclusivamente por lo dispuesto en el presente Capítulo Tercero, con excepción a lo dispuesto en el Título Décimo Primero, Capítulo Segundo.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -2449,11 +2481,11 @@ Cuando por la naturaleza de la infracción se afecte la prestación del servicio
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA SUSPENSIÓN Y REVOCACIÓN DE LAS CONCESIONES Y PERMISOS Y PARA LA APLICACIÓN DE SANCIONES
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 125.
 
-El procedimiento administrativo para resolver sobre la suspensión o revocación de una concesión o permiso o sobre la aplicación de las sanciones que correspondan por faltas o infracciones a la presente ley o sus reglamentos se tramitará ante la Secretaría.
+El procedimiento administrativo será promovido para resolver sobre la suspensión o revocación de una concesión, o registro de una Empresa de Redes de Transporte o permiso o sobre la aplicación de las sanciones que correspondan por faltas o infracciones a la presente ley o sus reglamentos (sic) se tramitará ante la Secretaría.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2754,3 +2786,23 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
