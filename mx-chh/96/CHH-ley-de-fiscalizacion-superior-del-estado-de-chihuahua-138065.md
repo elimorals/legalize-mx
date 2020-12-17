@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fiscalizacion-superior-del-estado-de-chihuahua-138065"
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-07"
-last_updated: "2019-09-07"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Número 72 del Periódico Oficial del Estado de Chihuahua, el sábado 7 de septiembre de 2019.
 
@@ -953,6 +953,12 @@ Con la entrada en vigor de la Ley de Fiscalización Superior del Estado de Chihu
 
 Los nombramientos y facultades correspondientes a estos, así como todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano u (sic) unidad administrativa de la Auditoría Superior continuarán en vigor, en lo que no se oponga a la presente Ley, hasta en tanto la Auditoría Superior emita su Reglamento Interior, o sus órganos competentes determinen su reforma o abrogación.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO NOVENO.
+
+Para la Fiscalización Superior de las Cuentas Públicas correspondiente a los ejercicios 2019 y 2020, la Auditoría Superior del Estado tendrá un plazo que fenecerá el 15 de febrero del año siguiente al de la presentación de dichas Cuentas Públicas, para entregar al Congreso los informes individuales a los que hace referencia el artículo 38, de la presente Ley, así como el informe general a que hace referencia el artículo 36 de la misma.
+
 Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades concedidas por la Auditoría Superior con anterioridad a la entrada en vigor de la presente Ley, subsistirán, en sus términos, en tanto no sean modificados o revocados expresamente.
 
 D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los cinco días del mes de septiembre del año dos mil diecinueve.
@@ -964,3 +970,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cinco días del mes de septiembre del año dos mil diecinueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0942/2020 I P.O., POR EL QUE SE ADICIONA EL ARTÍCULO NOVENO TRANSITORIO A LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
