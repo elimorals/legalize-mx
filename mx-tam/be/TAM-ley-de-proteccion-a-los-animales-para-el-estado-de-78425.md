@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2018-12-13"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -431,6 +429,24 @@ IV. Permitir a los animales la expresión de su comportamiento natural; y
 
 V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 17 TER.- Quedan prohibidas las mutilaciones de animales cuyo objeto sea modificar su apariencia o conseguir un fin no médico, particularmente:
+
+I. El corte de la cola;
+
+II. El corte de las orejas;
+
+III. La sección de las cuerdas vocales; y
+
+IV. La extirpación de uñas y dientes.
+
+Sólo se permitirán excepciones a estos actos que implican crueldad o maltrato:
+
+a). Si se consideran necesarias en beneficio de un animal determinado; y
+
+b). Para impedir la reproducción.
+
 ### CAPITULO VIII. DEL TRATO DIGNO Y RESPETUOSO DE LOS ANIMALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
@@ -499,7 +515,9 @@ III. Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la int
 
 IV. La muerte provocada con sufrimiento, dolor, miedo o agonía prolongada, sea cual sea el motivo o las circunstancias;
 
-V. Cualquier mutilación parcial o total de alguna parte del cuerpo de un animal o la alteración de la integridad física o modificación negativa de sus instintos naturales, que no sea necesario efectuar para conservar su salud, preservar la vida o por razones estrictamente estéticas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+V. Cualquier mutilación parcial o total del cuerpo de un animal o la alteración de la integridad física o modificación negativa de sus instintos naturales, que no sea necesario efectuar para preservar su vida o la salud;
 
 VI. Toda utilización o perversión sexual en la que se haga participar a un animal;
 
@@ -683,9 +701,17 @@ Los propietarios, criadores o tenedores de animales manifiestamente peligrosos, 
 
 I. Notificar al Registro Municipal Animal correspondiente, la sustracción o la pérdida en el plazo de 48 horas desde que se tenga conocimiento de los hechos;
 
-II. Traerlos, en lugares y espacios públicos, con un bozal apropiado para la tipología racial de cada animal; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-III. Conducirlos y controlarlos con cadena o correa no extensible de menos de dos metros, sin que pueda llevarse más de uno de estos animales por persona.
+II. Traerlos, en lugares y espacios públicos, con un bozal apropiado para la tipología racial de cada animal;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+III. Conducirlos y controlarlos con cadena o correa no extensible de menos de dos metros, sin que pueda llevarse más de uno de estos animales por persona; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IV. Colocar avisos claros y visibles que alerten del riesgo en el lugar donde se encuentre el animal.
 
 De no cumplirse lo establecido en este Capítulo, la persona responsable será sancionada y el animal será puesto en custodia a cargo de la autoridad correspondiente, quien auxiliándose de las sociedades protectoras de animales del Estado y de cualquier otra entidad deberá buscar y proveer al animal de un hábitat adecuado y permanente.
 
@@ -1364,6 +1390,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-463 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA ACTUAL PARA SER XIV DEL ARTÍCULO 64 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-216 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 20, PÁRRAFO SEGUNDO, FRACCIÓN V, Y SE ADICIONA UN ARTÍCULO 17 TER, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-487 MEDIANTE EL CUAL SEREFORMAN (SIC) LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
