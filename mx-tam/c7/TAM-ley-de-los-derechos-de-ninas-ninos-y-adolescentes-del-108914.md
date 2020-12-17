@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2020-10-15"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -57,7 +57,9 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 1. La presente Ley tiene por objeto:
 
-I.- Reconocer a niñas, niños y adolescentes como titulares de derechos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+I.- Reconocer a niñas, niños y adolescentes como titulares de derechos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Garantizar el pleno goce, ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes;
 
@@ -71,7 +73,9 @@ V.- Establecer las bases generales para la participación de los sectores privad
 
 ###### ARTÍCULO 3.
 
-Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales deberán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales deberán realizar las siguientes acciones, de conformidad con los principios establecidos en la presente Ley:
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
@@ -141,7 +145,9 @@ XXIII.- Procuraduría de Protección: A la Procuraduría de Protección de Niña
 
 XXIV.- Procurador: Al titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-XXV.- Procuraduría General: A la Procuraduría General de Justicia del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXV.- Fiscalía General: A la Fiscalía General de Justicia del Estado de Tamaulipas;
 
 XXVI.- Programa: Al Programa de Protección de Niñas, Niños y Adolescentes del Estado;
 
@@ -189,7 +195,9 @@ b).- Atención a niñas, niños y adolescentes en los servicios públicos; y
 
 c).- Formulación y ejecución de políticas públicas relacionadas con niñas, niños y adolescentes.
 
-II.- El de universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 10 y 40 de la Constitución Federal, así como en los Tratados Internacionales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+II.- El de universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1 y 4 de la Constitución Federal, así como en los Tratados Internacionales;
 
 III.- El de Pro persona, que implica una interpretación jurídica que busque el mayor beneficio para las niñas, niños y adolescentes;
 
@@ -1433,7 +1441,9 @@ II.- El Supremo Tribunal de Justicia del Estado;
 
 III.- La Contraloría Gubernamental;
 
-IV.- La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IV.- La Fiscalía General de Justicia;
 
 V.- Las dependencias del Ejecutivo Estatal;
 
@@ -1556,6 +1566,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIV-149 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO VIGÉSIMO SEGUNDO AL TÍTULO SEGUNDO Y EL ARTÍCULO 69 BIS A LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-218 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN I; 3, PRIMER PÁRRAFO; 5 FRACCIÓN, XXV; 7, FRACCIÓN II; Y 101, FRACCIÓN IV DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
