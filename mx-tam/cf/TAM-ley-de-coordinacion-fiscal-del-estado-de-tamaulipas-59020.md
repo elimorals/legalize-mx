@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2019-12-18"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -121,25 +121,17 @@ De las participaciones federales que correspondan al Estado, la Secretaría de F
 
 A los municipios les corresponde y percibirán ingresos por concepto de las participaciones federales que reciba el Estado, dentro del ejercicio de que se trate, en la proporción que para cada Fondo se establece a continuación:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 I.- El 20 por ciento como mínimo, de las cantidades que el Estado reciba por concepto de participaciones del Fondo General de Participaciones, de acuerdo a la Ley de Coordinación Fiscal Federal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 II.- El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la Ley de Coordinación Fiscal Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 III.- El 20 por ciento como mínimo, de las cantidades que el Estado reciba por concepto de participaciones por el Impuesto Especial sobre Producción y Servicios, de acuerdo a la Ley de Coordinación Fiscal Federal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -147,41 +139,25 @@ IV. El 20 por ciento como mínimo, de los recursos provenientes del Fondo de Fis
 
 V. El 20 por ciento como mínimo, derivado de los recursos que reciba la entidad por concepto del Fondo de Extracción de Hidrocarburos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 VI. El 20 por ciento como mínimo, de los 9/11 que el Estado perciba por concepto de la Cuota a la Venta Final de Gasolinas y Diesel;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 VII.- El 20 por ciento como mínimo, de las cantidades que el Estado recaude por concepto de participaciones del Impuesto sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal Federal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 VIII.- El 20 por ciento como mínimo, de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011, cuando la Federación participe al Estado con el 100 por ciento de este impuesto de acuerdo a la Ley de Coordinación Fiscal Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 IX.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 X.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 XI.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 XII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 XIII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
@@ -193,7 +169,9 @@ XIV.- El 20 por ciento como mínimo de los recursos provenientes del Fondo de Co
 
 XV.- El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias del Municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones u otros ingresos locales y se cumpla además con los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XVI.- El 20% como mínimo de los recursos provenientes del Incentivo del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles, en términos del artículo 126 de la Ley del Impuesto Sobre la Renta.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -235,21 +213,17 @@ El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Peri�
 
 El Congreso del Estado, de conformidad con las disposiciones de esta ley, establecerá los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponden a los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 7.
 
-Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, III, VII y XIV del artículo 4 de esta ley, integrarán el Fondo Estatal de Participaciones a Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, III, VII, XIV y XVI del artículo 4 de esta ley, integrarán el Fondo Estatal de Participaciones a Municipios.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Los factores que deberán aplicarse para la distribución de los montos a cada Municipio de las participaciones federales, se determinarán de acuerdo a lo siguiente:
 
 I.- El 14 por ciento del mismo por partes iguales a cada uno de los 43 Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -279,19 +253,13 @@ Donde:
 
 CE = Coeficiente de participación del Municipio "i" en el año para el que se efectúa el cálculo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 Atl= Monto de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 TAt= Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Vehículos, haya obtenido el Estado en todos los Municipios,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -779,6 +747,12 @@ I.- El 20 por ciento de la recaudación en el Estado del Impuesto sobre Tenencia
 
 II.- Las participaciones que correspondan a los Municipios derivados del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere la fracción anterior, serán distribuidas en proporción a la recaudación que se obtenga de dicho impuesto, conforme al domicilio declarado por el contribuyente al efectuar su pago.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 45.
+
+Los Municipios del Estado percibirán ingresos por concepto de participación de un 20% como mínimo respecto de la recaudación que se obtenga en materia del Impuesto Sobre la Enajenación de Bebidas con Contenido Alcohólico y Tabacos Labrados, cuya distribución será en proporción a lo recaudado en cada Municipio.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1062,3 +1036,23 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
