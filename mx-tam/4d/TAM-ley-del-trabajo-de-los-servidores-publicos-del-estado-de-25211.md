@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-10-15"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -447,19 +447,21 @@ XVI.- Conceder licencias y comisiones a los integrantes del comité directivo de
 
 XVII.- Otorgar permiso de paternidad de diez días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 XVIII.- Otorgar a las y los trabajadores al servicio del Estado, un día laborable al año, con goce integro de su sueldo para someterse a la realización de exámenes médicos preventivos del cáncer de mama, cervicouterino y próstata según sea el caso, para lo cual deberán presentar la constancia o certificado médico, correspondiente a la realización de dichos exámenes, expedido por una institución pública o privada de salud.
 
-Los permisos señalados en esta fracción no podrán ser sujetos de compensación económica en caso de no ser ejercidos; y
+Los permisos señalados en esta fracción no podrán ser sujetos de compensación económica en caso de no ser ejercidos;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 XIX.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente; y
 
-Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a las madres, padres o tutores trabajadores por las horas necesarias para participar, cuando se les convoque, en las evaluaciones de desempeño y/o aspectos relacionados con la conducta de sus hijas e hijos, siempre y cuando justifiquen su participación en estas y notifiquen oportunamente a su superior jerárquico por lo menos con un día de antelación al de su ausencia.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
@@ -1572,6 +1574,14 @@ El presente decreto iniciará su vigencia el día siguiente al de su publicació
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-148 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 33 BIS, A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-222 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 33 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
