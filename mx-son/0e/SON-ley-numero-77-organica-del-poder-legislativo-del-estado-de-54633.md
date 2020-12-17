@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-10-08"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE DICIEMBRE DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 17 DE DICIEMBRE DE 2020.]</small>
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2245,13 +2247,15 @@ En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absolut
 
 Se crea la Unidad Técnica para la Igualdad de Género, adscrita a la Mesa Directiva del Congreso del Estado, la cual supervisará el cumplimiento de sus objetivos, atribuciones, y el programa para la igualdad de género del propio congreso y contará con la estructura necesaria así como el presupuesto suficiente para sus funciones.
 
-> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020) (F. DE E., B.O. 17 DE DICIEMBRE DE 2020)
 
 ###### ARTÍCULO 211.
 
-La Unidad tendrá las siguientes facultades y atraibuciones (sic):
+La Unidad tendrá las siguientes facultades y atribuciones:
 
-I.- Sensibilizar y capacitar al capital humano de este poder en todo lo concerniente en perspectiva de género parar mejorar el acceso a la justicia de las personas que en él laboran tanto como representantes populares asi como personal administrativo sea de base o de confianza;
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
+
+I.- Sensibilizar y capacitar al capital humano de este poder en todo lo concerniente en perspectiva de género para mejorar el acceso a la justicia de las personas que en él laboran, tanto como representantes populares, así como personal administrativo, sea de base o de confianza;
 
 II.- Crear ambientes laborales libres de violencia y discriminación;
 
@@ -2259,13 +2263,17 @@ III.- Promover la paridad de género y la conciliación de la vida laboral y fam
 
 IV.- Impulsar ejercicios de participación con la sociedad civil y otros poderes públicos con el fin de promover y salvaguardar los derechos humanos de las mujeres;
 
-V.- Realizar actividades al interior de este congreso para la promoción y estudios de genero entre los trabajadores manuales y administrativos de este congreso y la propia sociedad civil;
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
+
+V.- Realizar actividades al interior de este congreso para la promoción y estudios de género entre los trabajadores manuales y administrativos de este congreso y la propia sociedad civil;
 
 VI.- Ejecutar y dar seguimiento al cumplimiento de las obligaciones contraídas en tratados y convenciones internacionales de derechos humanos de las mujeres, en su ámbito de competencia;
 
-VII.- Coordinar los programas y actividades con perspectiva de genero que se relice (sic) al interior de este Poder Legislativo;
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Intervenir en el marco de sus facultades , en acciones que impulse este Poder Legislativo para garantizar el acceso equitativo y no discriminatorio de las mujeres al desarrollo y la tutela de sus derechos humanos;
+VII.- Coordinar los programas y actividades con perspectiva de género que se realice al interior de este Poder Legislativo;
+
+VIII.- Intervenir en el marco de sus facultades, en acciones que impulse este Poder Legislativo para garantizar el acceso equitativo y no discriminatorio de las mujeres al desarrollo y la tutela de sus derechos humanos;
 
 IX.- Implementar mecanismos para promover la igualdad sustantiva entre mujeres y hombres al interior del recinto parlamentario;
 
@@ -2273,13 +2281,19 @@ X.- Proponer estrategias para incorporar y transversalizar la perspectiva de gé
 
 XI.- Realizar diagnóstico sobre la cultura Institucional y los indicadores de igualdad de género en el Congreso del Estado;
 
-XII.- Coadyuvar en la construcción y el cumplimiento de una agenda Interna basada en la perspectiva de género;
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XIII.- Elabora los manuales de organización y de funcionamiento asi como su propio reglamento para su debida aprobación y publicación respectivas;
+XII.- Coadyuvar en la construcción y el cumplimiento de una agenda interna basada en la perspectiva de género;
+
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Elabora (sic) los manuales de organización y de funcionamiento, así como su propio reglamento para su debida aprobación y publicación respectivas;
 
 XIV.- Realizar publicaciones y contenidos editoriales que permita (sic) consolidar la perspectiva de género en el Poder Legislativo; y
 
-XV.- Prevenir, atender, sancionar y erradica (sic) la violencia derivada de cualquier motivo y en especial aquella que se ejerza contra las mujeres.
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XV.- Prevenir, atender, sancionar y erradicar la violencia derivada de cualquier motivo y en especial aquella que se ejerza contra las mujeres.
 
 > <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
@@ -2297,11 +2311,11 @@ IV.- Contar con licenciatura; y
 
 V.- Acreditar experiencia en materia (sic) equidad de género o en actividades relacionadas con la promoción de la igualdad sustantiva.
 
-> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020) (F. DE E., B.O. 17 DE DICIEMBRE DE 2020)
 
 ###### ARTÍCULO 213.
 
-La titular de la Unidad Técnica para la Igualdad de Género será nombraba en sesión del Pleno, atendiendo lo dispuesto en el artículo 64, fracción XXXI de la Constitución Política del Estado de Sonora, previa convocatoria que para tal efecto emita la Comisión para la Igualdad de Género del Congreso del Estado.
+La titular de la Unidad Técnica para la Igualdad de Género será nombrada en sesión del Pleno, atendiendo lo dispuesto en el artículo 64, fracción XXXI de la Constitución Política del Estado de Sonora, previa convocatoria que para tal efecto emita la Comisión para la Igualdad de Género del Congreso del Estado.
 
 La Comisión deberá señalar en la Convocatoria los requisitos que deberán cumplir los aspirantes al cargo y el procedimiento de elección de la misma, la cual deberá ser publicada en el portal oficial del Congreso del Estado de Sonora y por una sola ocasión en el Boletín Oficial del Gobierno del Estado de Sonora
 
@@ -2809,17 +2823,23 @@ B.O. 8 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 138, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrara en vigor el día 01 de enero de 2021, presiva (sic) su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+El presente Decreto entrará en vigor el día 01 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado, a través de las instancias correspondientes deberá deberá (sic) de expedir el Reglamento de la Unidad Técnica para la Igualdad de Género, dentro de los sesenta dias naturales siguientes a la entrada en vigor del presente Decreto.
+El Congreso del Estado, a través de las instancias correspondientes deberá de expedir el Reglamento de la Unidad Técnica para la Igualdad de Género, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+> <small>(F. DE E., B.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO TERCERO.
 
-La Comisión de Regimen Interno y Concertación Política deberá proponer al Pleno del Congreso del Estado una partida presupuestal suficiente para que inicie sus funciones de (sic) la Unidad Técnica para la Igualdad de Género.
+La Comisión de Régimen Interno y Concertación Política deberá proponer al Pleno del Congreso del Estado una partida presupuestal suficiente para que inicie sus funciones de (sic) la Unidad Técnica para la Igualdad de Género.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIOINES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
 
