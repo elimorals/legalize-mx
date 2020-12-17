@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-07-29"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -353,7 +353,17 @@ d) Presentar declaraciones mensualmente en las oficinas autorizadas mediante las
 
 e) Cuando los sujetos realicen eventos en varios establecimientos acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado;
 
-f) Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades;
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+f). Presentar a más tardar cinco días hábiles antes de la celebración de la rifa, sorteo, lotería o concurso de que se trate, sin contar el día de la presentación del aviso ni el día en que se lleve a cabo la actividad, un aviso mediante las formas aprobadas, a través del cual deberán informar lo siguiente:
+
+1. La descripción y el valor de los premios, así como el precio y la cantidad de los boletos, billetes, contraseñas o cualquier otro tipo de comprobante que se pretendan entregar a los participantes.
+
+2. Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades;
+
+3. El área geográfica que abarcará la promoción de la actividad; y
+
+4. El método de comercialización de la actividad en el Estado de Tamaulipas.
 
 g) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda;
 
@@ -391,7 +401,9 @@ Para los efectos de este Capítulo se considerarán sujetos habituales del impue
 
 Será objeto del impuesto sobre juegos con cruce de apuestas, las percepciones que obtengan en el Estado las personas físicas, morales o unidades económicas sin personalidad jurídica siguientes:
 
-I.- Las personas físicas o morales que, en el Estado, operen establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, quienes estarán obligadas a pagar el impuesto sobre juegos con cruce de apuestas a una tasa del seis por ciento sobre la base gravable del mismo; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+I.- Las personas físicas o morales que, en el Estado, operen establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas, conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, quienes estarán obligadas a pagar el impuesto sobre juegos con cruce de apuestas a una tasa del seis por ciento sobre la base gravable del mismo; y
 
 II.- Quienes obtengan ingresos o premios como consecuencia de participar en juegos con cruce o captación de apuestas, los que estarán obligados a pagar el impuesto sobre juegos con cruce de apuestas a una tasa del seis por ciento sobre la base gravable del mismo.
 
@@ -403,41 +415,137 @@ Para determinar la base del impuesto conforme al artículo precedente, se tomar�
 
 I. Para efectos de la fracción I del artículo precedente:
 
-a).- Por juegos con cruce o captación de apuestas incluidos sorteos para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, se entienden todos aquellos independientemente del nombre con el que se les designe en los que el premio se obtenga por la destreza del participante en el uso de máquinas que en su funcionamiento utilicen imágenes visuales electrónicas y con independencia a que en alguna etapa de su desarrollo intervenga el azar, incluidos aquellos en que el participante deba estar presente en el desarrollo de la actividad o como espectador, así como en los casos en que el operador se encuentre fuera de la entidad, en los casos de juegos con cruce o captación de apuestas remotas, y para eventos o competencias deportivas;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-b).- En los juegos con cruce o captación de apuestas incluidos sorteos para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, se tomará como base gravable la totalidad de las cantidades efectivamente percibidas por el operador por concepto de las apuestas, deduciéndose a dicha cantidad únicamente el importe correspondiente a la retención por concepto del impuesto previsto por el artículo 24 Quinquies, así como el valor del premio en el caso que lo hubiere;
+a).- Por juegos con cruce o captación de apuestas incluidos sorteos, se entienden todos aquellos juegos, independientemente del nombre con el que se les designe, en los que se apuesta. También se entiende por juegos con cruce o captación de apuestas, incluidos sorteos, todos aquellos juegos en los que el premio se obtenga por la destreza del participante en el uso de máquinas que en su funcionamiento utilicen imágenes visuales electrónicas y con independencia de que en alguna etapa de su desarrollo intervenga el azar, incluidos aquellos en que el participante deba estar presente en el desarrollo de la actividad o como espectador, así como en los casos en que el operador se encuentre fuera de la entidad, en los casos de juegos con cruce o captación de apuestas remotas, y para eventos o competencias deportivas;
 
-c).- Por apuesta para participar en juegos con cruce o captación de apuestas incluidos sorteos, así como las apuestas remotas para eventos o competencias deportivas, se entienden la acción de arriesgar cantidades de dinero por los participantes en dichas actividades y que son entregadas a los operadores de los establecimientos para el acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, incluida toda recarga adicional que se realice mediante cualquier tipo de dispositivo que permita participar en los juegos con apuestas. En este caso, la cantidad que se entregue al operador del establecimiento se considerará el monto que se fija como apuesta, y no podrá presentarse en ninguna forma distinta a la descrita, ni tener ningún destino diferente sino el participar en los juegos con cruce o captación de apuestas. El impuesto se causará en el momento en que los participantes entreguen por cualquier medio las cantidades de dinero a los operadores; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-d).- Los bonos, promociones, descuentos, gratificaciones, o cualquier otro tipo de beneficio que con fines promocionales los operadores de los establecimientos otorguen a las personas que participen en los juegos con cruce y captación de apuestas, ya sea que el beneficio otorgado se estime en dinero o en cualquier otro tipo de unidad de medida empleada para participar en los juegos así sea dicha unidad de medida de desarrollo propio del establecimiento; no serán deducibles de la base gravable, y en consecuencia no se podrá disminuir del monto que corresponda a los ingresos efectivamente percibidos por los operadores para el cálculo del impuesto.
+b).- En los juegos con cruce o captación de apuestas incluidos sorteos se tomará como base gravable el monto total apostado por los participantes, deduciéndose de dicha cantidad únicamente el valor de los premios efectivamente pagados o entregados, y las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se encuentren debidamente registradas en cada uno de los sistemas de cómputo a que se refiere la fracción II del artículo 24 Quater de esta ley. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante como apuesta, dicho concepto se disminuirá únicamente como premio;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+c).- Por apuesta para participar en juegos con cruce o captación de apuestas incluidos sorteos, así como las apuestas remotas para eventos o competencias deportivas, se entienden la acción de arriesgar cantidades de dinero por los participantes en dichas actividades y que son entregadas a los operadores de los establecimientos para el acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, incluida toda recarga adicional que se realice mediante cualquier tipo de dispositivo que permita participar en los juegos con apuestas, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá de ser superior a ésta. Todas las cantidades que se entreguen al operador del establecimiento se considerarán el monto que se fija como apuesta, y no podrá presentarse en ninguna forma distinta a la descrita, ni tener ningún destino diferente sino el participar en los juegos con cruce o captación de apuestas.
+
+El monto total apostado por los participantes incluirá en todo momento el efectivo percibido por el operador en los términos que indican los párrafos que anteceden, así como cualquier otra cantidad o beneficio que se otorgue a los participantes con fines promocionales, con independencia de la denominación que se les dé (tales como bonos, promociones, descuentos, gratificaciones, membresías, acceso a las instalaciones), en virtud de que dichos conceptos también pueden ser apostados por los participantes.
+
+El impuesto se causará en el momento en que los participantes entreguen por cualquier medio las cantidades de dinero a los operadores y/o en el momento en que se otorgue a los participantes cualquiera de las cantidades a que se refiere el párrafo que antecede, debiendo ser registradas dichas cantidades en el sistema de cómputo a que se refiere el inciso b) de la fracción II del artículo 24 Quater de esta ley. En los sistemas de cómputo a que se refiere la fracción II del artículo 24 Quater de esta ley deberán registrarse los montos totales apostados por los participantes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+d).- Las cantidades o beneficios que los contribuyentes otorguen a los participantes con fines promocionales, con independencia de la denominación que se les dé (tales como bonos, promociones, descuentos, gratificaciones, membresías, acceso a las instalaciones), ya sea que el beneficio otorgado se estime en dinero o en cualquier otro tipo de unidad de medida empleada para participar en los juegos, así sea dicha unidad de medida de desarrollo propio del establecimiento, no serán deducibles de la base gravable, y en consecuencia no se podrá disminuir del monto total apostado por los participantes para el cálculo del impuesto.
 
 II.- Para efectos de la fracción II del artículo precedente:
 
 a).- Para los sujetos a este impuesto que obtengan los ingresos o premios entregados o cobrados en el territorio del Estado, la base gravable será el valor determinado o determinable que obtenga de ingresos o premios como consecuencia de participar en juegos con cruce o captación de apuestas; y
 
-b).- Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los operadores de los establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Los operadores deberán llevar una cuenta de las apuestas que realicen los participantes en el establecimiento de que se trate. Todos los retiros de dinero, efectivo o premios que hagan los participantes deberán ser total, quedando prohibido a los operadores dejar remanentes de saldo en la cuenta que lleven de cada participante.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Para efecto de determinar el valor de los ingresos o premios que los sujetos del impuesto obtengan, deberá observarse: la cantidad que retire el participante, que deberá ser total en términos del párrafo que antecede, deberá disminuirse con las cantidades que el participante haya abonado desde su último retiro total. El resultado, en caso de ser positivo, se considerará premio.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+b).- Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los operadores de los establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Se considerará que los premios son pagados a los sujetos del impuesto cuando éstos realicen un retiro, que en términos del inciso que antecede, deberá ser total.
 
 III.- Las personas físicas o morales que se actualicen en la hipótesis prevista en la fracción I del artículo 24 Bis de esta Ley, estarán obligados a enterar el importe del impuesto sobre juegos con cruce de apuestas mensualmente, a más tardar el día quince del mes siguiente y en caso de que este último sea inhábil, el día hábil siguiente. El mismo plazo será aplicable para el entero de las retenciones que efectúen del impuesto sobre juegos con cruce de apuestas causado conforme a la fracción II del artículo 24 Bis de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 24 Quater.
 
-Las personas físicas o morales que operen establecimientos en el Estado en los cuales se realicen juegos con cruce o captación de apuestas o sorteos, independientemente de la denominación que se les dé, incluidas las apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, tendrán las obligaciones establecidas en el artículo 22 fracción I de esta Ley, además de las siguientes:
+Las personas físicas o morales que operen establecimientos en el Estado en los cuales se realicen juegos con cruce o captación de apuestas o sorteos, independientemente de la denominación que se les dé, incluidas las apuestas remotas para eventos o competencias deportivas, deberán cumplir con la normatividad aplicable, y tendrán las obligaciones establecidas en el artículo 22 fracción I de esta Ley, además de las siguientes:
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 I.- Entregar a la Secretaría de Finanzas junto a la declaración de impuestos mensual, reporte de identificación de los participantes en los juegos de apuestas y sorteos que ingresen cantidades mensuales superiores a los doscientos cincuenta mil pesos, así como aquellos que obtengan las mismas cantidades como resultado de premios obtenidos por participar en la actividad;
 
-II.- Presentar dentro de los primeros dos meses del año calendario ante la Secretaría de Finanzas, copia de la póliza de seguro vigente de responsabilidad civil correspondiente al año en curso;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y PÁRRAFOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+II.- Llevar los sistemas de cómputo siguientes:
+
+a).- Sistema central de apuestas en el que se registren y totalicen las transacciones efectuadas con motivo de los juegos con cruce o captación de apuestas o sorteos que se realicen.
+
+b).- Sistema de caja y control de efectivo en el que se registren cada una de las cantidades efectivamente percibidas de los participantes por concepto de apuestas, las cantidades otorgadas a los participantes con fines promocionales, con independencia de la denominación que se les dé, y las cantidades entregadas a los participantes por concepto de premios y de devoluciones.
+
+c).- Un Sistema de Cómputo mediante el cual se proporcione a la Secretaría de Finanzas, en forma permanente, continuada e ininterrumpida, la información de los sistemas de cómputo mencionados en los incisos a) y b) que anteceden, mismo que deberá contar con las características técnicas, de seguridad y requerimientos de información que establezca la Secretaría de Finanzas a través de las reglas de carácter general que al efecto emita, y ser contratado a un proveedor que reúna los requisitos técnicos que establezca la Secretaría de Finanzas.
+
+Los contribuyentes deberán configurar el Sistema de Cómputo para compartir o proporcionar la información que permita el acceso a la Secretaría de Finanzas, y proporcionar a ésta las herramientas tecnológicas, de conectividad y seguridad necesarias para efectivamente permitir y garantizar a la Secretaría de Finanzas dicho acceso. Los contribuyentes también deberán proporcionar a la Secretaría las herramientas tecnológicas, de conectividad y seguridad necesarias para acceder, en un modo solo lectura, a la información del Sistema de Cómputo para compartir la información a través de dispositivos móviles, fijos y/o remotos.
+
+Los contribuyentes deberán configurar el Sistema de Cómputo para que en forma automática genere y envíe los avisos que establezca la Secretaría de Finanzas a través de las reglas de carácter general que al efecto emita.
+
+La Secretaría de Finanzas tendrá en todo momento la facultad de extraer datos y reportes estadísticos de los sistemas de cómputo a los que tenga acceso con motivo de la presente fracción. La información que se obtenga de los sistemas de cómputo podrá ser utilizada por la Secretaría de Finanzas para ejercer facultades de comprobación sobre los contribuyentes conforme a lo dispuesto por el Código Fiscal del Estado de Tamaulipas.
+
+El establecimiento deberá contar con una planta de energía eléctrica para permitir y garantizar el suministro constante e ininterrumpido de energía eléctrica a los sistemas de cómputo a que se refiere la presente fracción de este artículo.
+
+En todo establecimiento en el que se realicen los juegos a que se refiere este artículo deberá designarse un área con una superficie no menor a veinte metros cuadrados, con acceso a los sistemas de cómputo a que se refiere la presente fracción de este artículo, que esté designado para uso exclusivo de la Secretaría de Finanzas al ejercer facultades de comprobación, inspección y vigilancia;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 III.- Entregar a la Secretaría de Finanzas los estados financieros trimestrales y anuales, dentro de los 20 días hábiles posteriores al cierre del trimestre y dentro de los seis meses posteriores al cierre del año fiscal a reportar, respectivamente;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 IV.- Integrar y enterar mensualmente a la Secretaría de Finanzas, un reporte que contenga información estadística de clientes registrados;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 V.- Informar a la Secretaría de Finanzas sobre la enajenación de las acciones o partes sociales representativas de su capital social o la modificación del porcentaje de participación de sus socios o accionistas personas físicas o morales o los accionistas de éstas hasta el último beneficiario, así como cualquier modificación a sus estatutos sociales. La presente disposición es aplicable a cualquier cambio en la composición accionaria del permisionario o de los accionistas o socios de éste, sea que se realice mediante capitalizaciones, disminuciones de capital, escisiones, fusiones u otra práctica corporativa en la que medien otras sociedades entre la permisionaria, accionistas, socios, últimos beneficiarios, salvo que se trate de operaciones efectuadas a través de bolsa de valores, en la que la transacción no implique un cambio de control en el permisionario;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 VI.- Retener el impuesto sobre juegos con cruce de apuestas causado conforme a la fracción II del artículo 24 Bis de esta Ley, para su posterior entero conforme a la fracción III del artículo 24 Ter de esta Ley.
 
-VII.- Realizar la inscripción de las máquinas, equipos, terminales electrónicas, y en general cualquier artefacto empleado directamente en el desarrollo de la actividad en el registro estatal de la Secretaría de Finanzas, así como permitir la revisión y supervisión periódica de los mismos por la autoridad.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y PÁRRAFOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VII.- Realizar la inscripción de las máquinas, equipos, terminales electrónicas, y en general cualquier artefacto empleado directamente en el desarrollo de la actividad en el Registro Estatal de Máquinas, Equipos y Terminales Electrónicas utilizadas para el Cruce de Apuestas, así como permitir la revisión y supervisión periódica de los mismos por la autoridad.
+
+Para todo efecto legal, se considerarán como máquinas, equipos y terminales electrónicas a que se refiere este capítulo, todos los equipos, terminales electrónicas, artefactos o dispositivos de cualquier naturaleza, incluyendo los equipos de cómputo conformados por pantalla táctil, pantalla, teclado, ratón y/o botones, o cualquier combinación de los elementos anteriores, a través de los cuales el usuario, sujeto al azar, a la destreza o a una combinación de ambas, realiza una apuesta, mediante la inserción de un billete, moneda, ficha o cualquier dispositivo semejante, o a través de medios magnéticos, con la finalidad de obtener un premio, con independencia de que la operación de juego sea hecha en la máquina misma, o sea conectada a través de redes locales o internet a uno o más servidores locales o en el extranjero. También se considerarán como máquinas, equipos y terminales electrónicas a que se refiere este capítulo todos aquellos equipos, terminales electrónicas, artefactos o dispositivos de cualquier naturaleza que permitan, directamente o a través de un tercero, realizar apuestas remotas en eventos o competencias deportivas.
+
+Al inscribirse las máquinas, equipos, terminales electrónicas o artefactos empleados en el desarrollo de la actividad, cada uno de éstos deberá ser marcada con dos engomados de seguridad que contengan los folios de identificación y código de barras bidimensional correspondiente, los cuales serán aplicados de la siguiente manera:
+
+a).- Un engomado de seguridad colocado de modo que abarque parcialmente a la placa de identificación de marca, modelo y número de serie colocada por el fabricante, y parcialmente a la estructura del objeto, sobre la cual se encuentre montada la placa de identificación referida; y
+
+b).- Otro engomado de seguridad colocado sobre la placa base, también conocida como tarjeta madre, al interior del artefacto.
+
+Queda prohibido reproducir, desprender, modificar, mover, remover y/o destruir total o parcialmente, así como alterar de cualquier modo, los engomados de seguridad a que se refiere la presente fracción, así como sus códigos de barras bidimensionales.
+
+Todas las máquinas, equipos, terminales electrónicas o artefactos empleados en el desarrollo de la actividad que se encuentren al interior de un establecimiento en el cual se realicen juegos con cruce o captación de apuestas o sorteos, independientemente de la denominación que se les dé, incluidas las apuestas remotas para eventos o competencias deportivas, deberán estar conectados a cada uno de los sistemas de cómputo a que se refiere la fracción II de este artículo.
+
+Ninguna persona podrá instalar una máquina en un establecimiento sin antes haber solicitado su inscripción en el Registro Estatal a que se refiere la presente fracción.
+
+La Secretaría de Finanzas será responsable de operar el Registro Estatal a que se refiere el párrafo que antecede, y de velar por su actualización periódica, y estará facultada para emitir las reglas de carácter general para la operación del Registro Estatal de Máquinas, Equipos y Terminales Electrónicas utilizadas para el Cruce de Apuestas.
+
+Bajo ninguna circunstancia se inscribirán en el Registro Estatal a que se refiere esta fracción, los artefactos con respecto a los cuales no se hubiesen pagado los derechos correspondientes, o no se encuentren conectados a cada uno de los sistemas de cómputo a que se refiere la fracción II de este artículo.
+
+Consecuentemente, sólo se colocarán los engomados de seguridad a que se refiere esta fracción cuando la Secretaría de Finanzas hubiese comprobado que los artefactos corresponden a aquellas cuya inscripción de solicitó, cuyos derechos hayan sido efectivamente cubiertos, y que se encuentren efectivamente conectados al Sistema de Cómputo para el Compartimiento de Información.
+
+Cuando en el desarrollo de los juegos con cruce o captación de apuestas se utilicen mesas de juego en vivo, con independencia de la denominación que se les dé, éstas deberán ser registradas en el Registro Estatal de Máquinas Equipos y Terminales Electrónicas utilizadas para el Cruce de Apuestas, debiéndose pagar para ello los derechos correspondientes; en el entendido de que dichas mesas, cuando no involucren sistemas electrónicos, no requerirán ser conectadas a los sistemas de cómputo a que se refiere la fracción II de este artículo. Tratándose de las mesas antedichas, la vigencia de su registro no podrá exceder de un mes;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Cuando un contribuyente pretenda otorgar cantidades o beneficios a los participantes con fines promocionales, con independencia de la denominación que se les dé, deberán presentar a más tardar el último día hábil de cada mes, un aviso ante la Secretaría de Finanzas de conformidad con las formas aprobadas para tal efecto, a través del cual informarán a ésta las condiciones generales bajo las cuales se otorgarán las cantidades o beneficios referidos durante el mes calendario siguiente; y,
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+IX.- Cuando un contribuyente otorgue cantidades o beneficios a uno o más participantes con fines promocionales, con independencia de la denominación que se les dé, deberá presentar ante la Secretaría de Finanzas, junto a la declaración de impuestos mensual, un aviso de conformidad con las formas aprobadas para tal efecto, a través del cual informen las cantidades que por concepto de promociones hayan entregado a los participantes, y en su caso, su equivalencia en pesos.
+
+Sin perjuicio de la aplicación de las sanciones que correspondan, el incumplimiento a cualquiera de las obligaciones que establece este artículo conllevará la clausura del establecimiento, salvo cuando se deba a fallas en los sistemas de cómputo, cuyas causas no sean imputables a los contribuyentes y siempre que éstos presenten un aviso a la Secretaría de Finanzas dentro del plazo de doce horas contadas a partir de que se presente la falla, de conformidad con las formas aprobadas por la Secretaría de Finanzas, a través del cual informen detalladamente la falla que originó el incumplimiento de las obligaciones de que se trate.
+
+La clausura del establecimiento que se decrete con motivo del incumplimiento de las obligaciones a que se refiere este artículo se levantará una vez que el contribuyente acredite ante la Secretaría de Finanzas haber subsanado la infracción cometida, y en caso de haberse impuesto sanción pecuniaria, haber cubierto el importe de ésta.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 17 DE DICIEMBRE DE 2020.]</small>
+
+La reincidencia en el incumplimiento de las obligaciones que establece el presente artículo será sancionada con la revocación de la opinión favorable de la Entidad y de su ratificación, cuando en términos de la normatividad aplicable hayan sido concedidas.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 La falta de cumplimiento a lo establecido en el presente artículo tendrá como consecuencia el retiro de la opinión favorable de la entidad, con independencia al ejercicio de las facultades fiscalizadoras.
 
@@ -803,9 +911,7 @@ La obligación de presentar la declaración mensual subsistirá aun cuando no hu
 
 El contribuyente que tenga diversas sucursales en el territorio del Estado, deberá realizar un solo pago concentrado por todas sus oficinas en una declaración, previo aviso a la autoridad fiscal, debiendo anexar a cada pago concentrado una relación de todas las sucursales con que cuente, indicando para cada una su domicilio, número de empleados e importe de salarios pagados en el período de la declaración y el monto del impuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -855,9 +961,9 @@ Los contratantes a que se refiere el párrafo anterior, deberán informar en la 
 
 IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto, a excepción de los señalados en el artículo 52, fracción II; y
+X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado así como aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; a excepción de los señalados en el artículo 52, fracción II; y
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -871,9 +977,17 @@ Los retenedores a que se refiere el artículo anterior, tendrán las siguientes 
 
 I.- Retener el impuesto que se cause conforme a las disposiciones contenidas en este Capítulo y expedir al contribuyente constancia de la retención en el momento en que ésta se efectúe o durante los 15 días siguientes a la fecha en que se efectuó dicha retención. Para estos efectos, se utilizará el formato o forma oficial que autorice y dé a conocer la Secretaría de Finanzas.
 
-La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-II.- Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 50 de esta Ley.
+La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+II.- Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 50 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+III.- Presentar declaración anual informativa, en los términos a que se refiere el artículo 51, fracción X de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1381,9 +1495,11 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I.- INSCRIPCIONES:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-1.- Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, una vez el valor diario de la Unidad de Medida y Actualización. La inscripción de hechos relativos al nacimiento y la defunción, así como la expedición de la primera acta certificada de nacimiento y defunción, se hará sin pago alguno de derechos. Asimismo, dentro de las presentes inscripciones se considera, la transformación de acta de Inscripción de Extranjería por nacimiento a Acta de Nacimiento, con un costo de una vez el valor diario de la Unidad de Medida y Actualización.
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, una vez el valor diario de la Unidad de Medida y Actualización. La inscripción de hechos relativos al nacimiento y la defunción, así como la expedición de la primera acta certificada de nacimiento y defunción, se hará sin pago alguno de derechos. Asimismo, dentro de las presentes inscripciones se considera, la transformación de acta de Inscripción de Extranjería por cualquiera de los Actos relativos del estado civil de las Personas a formato de Acta ordinaria, con un costo de una vez el valor diario de la Unidad de Medida y Actualización.
+
+El trámite de Reposición de Acta, que corresponde a incorporar un Registro de cualquiera de los Actos Registrales, en los libros y Sistema del Registro Civil, tendrá un costo de dos veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1489,15 +1605,21 @@ DEL OBJETO
 
 Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, fideicomisos, de resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada;
+I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-II. Por la calificación de todo documento que se devuelva al solicitante, denegado y/o con defecto, por carecer u omitir requisitos de forma, en lo que a continuación se menciona: Falta de firma y/o sello del Fedatario en el instrumento público o privado a Inscribir; omisión de datos de registro y/o datos de registro incorrectos; no acompañar en los Instrumentos Públicos traslativos de dominio los requisitos a que hace referencia el artículo 142 de la Ley del Registro Público de la Propiedad Inmueble y del Comercio y/o al presentarlos, estos se encuentren con discrepancia a lo señalado en el Instrumento; omitir realizar las aclaraciones inherentes al estado civil y régimen conyugal; falta del duplicado del documento a inscribir; omitir dar cumplimiento al Artículo 104 de la Ley Registral; por pago de derechos incompleto; incumplimiento a lo establecido en el artículo 96, fracción VI de la Ley del Notariado del Estado; inconsistencias en los documentos ingresados para su inscripción por cuanto hace a la descripción del Bien Inmueble; para su reingreso por alguna de las causas ya descritas, se deberá cubrir el importe de una vez el valor diario de la Unidad de Medida y Actualización; si para su primer reingreso no se cubre la Unidad de Medida y Actualización señalada, se sumará a su siguiente reingreso.
+II. Por la calificación de todo documento que fue pasado ante la Fe del Fedatario Público y sea devuelto al mismo, denegado y/o con defecto, por carecer u omitir requisitos de forma, en lo que a continuación se menciona: Falta de firma y/o sello del Fedatario en el instrumento público o privado a Inscribir; omisión de datos de registro y/o datos de registro incorrectos; no acompañar en los Instrumentos Públicos traslativos de dominio los requisitos a que hace referencia el artículo 142 de la Ley del Registro Público de la Propiedad Inmueble y del Comercio y/o al presentarlos, éstos se encuentren con discrepancia a lo señalado en el Instrumento; omitir realizar las aclaraciones inherentes al estado civil y régimen conyugal; falta del duplicado del documento a inscribir; omitir dar cumplimiento al artículo 104 de la Ley Registral; por pago de derechos incompleto; incumplimiento a lo establecido en el artículo 96, fracción VI de la Ley del Notariado para el Estado de Tamaulipas; inconsistencias en los documentos ingresados para su inscripción por cuanto hace a la descripción del Bien Inmueble; para su reingreso por alguna de las causas ya descritas, se deberá cubrir el importe de una vez el valor diario de la Unidad de Medida y Actualización; si para su primer reingreso no se cubre la Unidad de Medida y Actualización señalada, se sumará a su siguiente reingreso.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 El registrador deberá realizar en su primera calificación la revisión exhaustiva del documento que sea sometido a su análisis;
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Por la solicitud de rectificación que realice el Fedatario Público a los Certificados de Reserva de Prioridad y Avisos Preventivos en virtud de haber omitido un acto y/o nombre de algún interviniente, sin modificar los ya establecidos en su primer solicitud; además por haber señalado en su petición algún dato escrito de manera diferente a la realidad jurídica; cubrirá el monto de cinco veces el valor diario de la Unidad de Medida y Actualización; para su tramitación realizará una petición dirigida al Director o su similar, en la que funde, exponga y peticione la rectificación correspondiente agregando al mismo, el certificado original previamente expedido y la nueva solicitud de Certificado de Reserva y/o Aviso Preventivo;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1513,11 +1635,15 @@ V. La inscripción o anotación de embargos, servidumbres, fianzas o de graváme
 
 En el caso de ampliación de embargo previamente registrado y tratándose de diversos inmuebles, con el importe de siete veces el valor diario de la Unidad de Medida y Actualización, por cada inmueble.
 
-VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar.
 
-VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco veces el valor diario de la Unidad de Medida y Actualización; por finca;
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+En ningún caso la cantidad a pagar será mayor a un mil cien veces el valor diario de la Unidad de Medida y Actualización;
+
+VII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1539,9 +1665,9 @@ a).- Lote urbano, siete veces el valor diario de la Unidad de Medida y Actualiza
 
 b).- Lote rústico y/o campestre, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete veces el valor diario de la Unidad de Medida y Actualización.
+Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada finca resultante siete veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1569,7 +1695,9 @@ XV. Expedición de copia certificada, dos veces el valor diario de la Unidad de 
 
 Expedición de copia simples, una vez el valor diario de la Unidad de Medida y Actualización si el documento no excede de 15 hojas; de 16 a 30 hojas dos veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas tres veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante cuatro veces el valor diario de la Unidad de Medida y Actualización.
 
-Expedición de certificados con Reserva de Prioridad, diez veces el valor diario de la Unidad de Medida y actualización; Certificados Informativos, de no propiedad, de única propiedad, el importe de seis veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+Certificados Informativos, de no propiedad, de única propiedad, el importe de seis veces el valor diario de la Unidad de Medida y Actualización.
 
 Solicitud de búsqueda de antecedentes registrales de propiedad que correspondan a personas físicas y/o morales, si del resultado de la misma no se obtienen datos o encontrándose de uno a cinco datos de registro y/o números de finca, se cobrará únicamente el importe de seis veces el valor diario de la Unidad de Medida y Actualización; ahora bien, cuando del resultado de la búsqueda arroje la obtención de más de seis datos de registro y/o números de finca, se cobrará el importe de tres veces el valor diario de la Unidad de Medida y Actualización, por dato de registro y/o números de finca proporcionado.
 
@@ -1619,13 +1747,19 @@ Cuando los servicios se presten a través de telefax o cualquier otro medio de c
 
 XXV. Por la reimpresión de un Certificado de Reserva de Prioridad, Certificado de Aviso Preventivo o Certificación de Inscripción expedido por alguna de las oficinas registrales dependientes del Instituto Registral y Catastral, se cobrará el importe de tres veces el valor diario de la Unidad de Medida y Actualización por finca a reimprimir, del cual deberá de proporcionar el número de entrada;
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XXVI. Por la expedición de una Constancia de Historial Registral en la que se describan sus antecedentes y/o tracto sucesivo de un bien inmueble en los siguientes casos:
+XXVI. Por la expedición de una Constancia de Historial Registral en la que se describan sus antecedentes y/o tracto sucesivo por lo que hace únicamente a sus transmisiones de propiedad, respecto de un bien inmueble en los siguientes casos:
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 a).- De uno a cinco años, se cobrará el importe de ocho veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 b).- De uno a diez años, se cobrará el importe de trece veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 c).- De uno a más de diez años, se cobrará el importe de dieciocho veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -1689,7 +1823,9 @@ VII. En los casos en que los servicios que preste el Instituto Registral y Catas
 
 Se exime del pago de los derechos a que se refiere el artículo 64 de esta ley, a los contribuyentes domiciliados en el Estado, en los siguientes supuestos:
 
-I. Por la inscripción de las escrituras de terrenos que no excedan de 250 metros cuadrados y que hayan sido adquiridos a través de programas que implemente el Gobierno del Estado, por sí o a través de sus entidades.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+I. Por la inscripción de las escrituras, de terrenos que no excedan de 250 metros cuadrados y que hayan sido adquiridos a través de programas que implemente el Gobierno del Estado, por sí o a través de sus entidades; y a aquellos terrenos que excedan de los 250 metros cuadrados, siempre que se hayan adquirido en virtud de los procesos y/o programas de regularización que implemente el Gobierno del Estado, por sí o a través de sus entidades.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1778,6 +1914,10 @@ XIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar;
 
 XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar;
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+En ningún caso la cantidad a pagar será mayor a un mil cien veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1995,7 +2135,7 @@ Los servicios que se presten por las autoridades catastrales del Estado, causar�
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-I.- REGISTROS CATASTRALES. Registro de planos de colonias, fraccionamientos o relotificaciones, diez veces el valor diario de la Unidad de Medida y Actualización.
+I. REGISTROS CATASTRALES. Registro de planos de colonias, fraccionamientos o relotificaciones, diez veces el valor diario de la Unidad de Medida y Actualización.
 
 1.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
@@ -2088,6 +2228,10 @@ Si el dibujo de los planos a que se refiere este inciso, se requiere con coorden
 3. Localización y ubicación de un predio, tres veces el valor diario de la Unidad de Medida y Actualización.
 
 V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VI. Se eximen de pago de derechos, por los servicios solicitados en las fracciones I, II y IV de este artículo, por las autoridades respecto de bienes inmuebles y/o derechos reales pertenecientes a la Nación, al Gobierno de Tamaulipas, sus Municipios y Organismos Públicos Descentralizados.
 
 ### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
 
@@ -2339,6 +2483,10 @@ XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro
 
 XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Por la expedición de la constancia de vehículo registrado en las empresas con plataformas digitales de redes de transporte, con el importe de ciento un veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
@@ -2435,9 +2583,7 @@ c).- Mediana empresa, tres veces el valor diario de la Unidad de Medida y Actual
 
 d).- Gran empresa, cuatro veces el valor diario de la Unidad de Medida y Actualización por parámetro a exentar.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-3.- Por copia de registros de descarga de aguas residuales otorgado, una vez el valor diario de la Unidad de Medida y Actualización;
+3.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2465,9 +2611,9 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 3.- Por la revalidación de evaluación del impacto ambiental, veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-4.- Por el otorgamiento de la autorización de manejo y para la operación de sitios de disposición final de residuos de manejo especial, doscientas un veces el valor diario de la Unidad de Medida y Actualización;
+4.- Por la Recepción y Evaluación para la obtención de la autorización de sitios de disposición final de residuos de manejo especial, doscientos un veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2477,9 +2623,9 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 6.- Evaluación del estudio de riesgo, setenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-7.- Por la realización de las visitas técnicas en los procesos de evaluación de informes preventivos, estudios de riesgo, daño e impacto ambiental, así como visitas técnicas de verificación para la autorización de sitios de Acopio, Reciclaje, Reutilización y Disposición Final de Residuos de Manejo Especial, cuarenta veces el valor diario de la Unidad de Medida de Actualización.
+7.- Por la realización de las visitas técnicas en los procesos de evaluación de informes preventivos, estudios de riesgo, daño e impacto ambiental, así como, visitas técnicas de verificación para autorizar, modificar o dar de baja una obra o actividad estatal que haya solicitado permiso de: Disposición Final de Residuos de Manejo Especial, Centro de Acopio, Reciclaje, Reutilización, Plan de Manejo, Recolección y Transporte de Residuos de Manejo Especial, Operación para Fuentes Fijas y Estacionarias emisoras de contaminantes, Registro Estatal Ambiental (REA/COA), o para verificar el cumplimiento de términos y condicionantes establecidas en las autorizaciones ambientales de competencia del Estado, cuarenta veces el valor diario de la Unidad de Medida de Actualización.
 
 III. Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal:
 
@@ -2533,9 +2679,9 @@ VII. Por la emisión de dictamen de conveniencia, el veinte por ciento de una ve
 
 VIII. Por la evaluación de los estudios de daños ambientales, quinientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las multas u otras sanciones a que se hiciera acreedor;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, por unidad motora y capacidad de carga siguientes:
+IX. Por la autorización y prórroga para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, por unidad motora y capacidad de carga siguientes:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2625,9 +2771,13 @@ XIII. Por los servicios de verificación vehicular de medición de los niveles d
 
 XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metro cúbico proyectado a utilizarse;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XV. Por el registro en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental, cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+XV. Por los Servicios en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental:
+
+a).- Por el Registro en el Padrón como Prestador de Servicios Técnicos en Materia Ambiental, mismo que incluye la capacitación y validación, ciento ochenta veces el valor diario de la Unidad de Medida y Actualización; y,
+
+b).- Por el Refrendo anual en el Padrón como Prestador de Servicios Técnicos en materia ambiental, noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2641,9 +2791,7 @@ XVII. Por la actualización o modificación en el permiso de operación de fuent
 
 XVIII. Por la recepción, evaluación y resolución de la autorización para un almacenamiento temporal o para un centro de acopio de residuos de manejo de residuos de manejo especial, veinte veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por unidad de motor y capacidad de carga que corresponda.
+XIX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2656,6 +2804,22 @@ XXI. Por los Servicios del Laboratorio Ambiental, hasta dos mil veces el valor d
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXII. Los residentes en el extranjero por el derecho de contratar un prestador de servicios registrado para realizar aprovechamiento de vida silvestre mediante la caza deportiva, veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Por el Registro como Generador de Residuos de Manejo Especial conforme a lo siguiente:
+
+a).- Por recepción, evaluación y expedición del Registro como Generador de Residuos de Manejo Especial, veinticinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+b).- Por la Actualización al Registro como Generador de Residuos de Manejo Especial, quince veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Registro del Plan de Manejo de Residuos de Manejo Especial conforme a lo siguiente:
+
+a).- Por recepción, evaluación de la Solicitud del Registro del Plan de Manejo de Residuos de Manejo Especial, treinta veces el valor diario de la Unidad de Medida y Actualización; y
+
+b).- Por la actualización anual del Plan de Manejo, quince veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 76.
 
@@ -2697,6 +2861,10 @@ Son objeto de este derecho las emisiones a la atmósfera de las sustancias gener
 
 Para los efectos de este artículo, se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+No serán objeto de este derecho, las emisiones a la atmósfera de las sustancias generadas por los procesos productivos que se desarrollen en el Estado que provengan de la utilización de gas natural.
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION IV. DE LA TARIFA
@@ -2721,39 +2889,45 @@ Es base de este derecho la masa de emisiones contaminantes gravadas que se reali
 
 Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
+
 Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 76 Quater de esta Ley en Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+TABLA DE CONVERSION
 
 Gases Efecto Invernadero Composición Molecular Equivalencia
 
 Bióxido de Carbono CO2 1
 
-Metano CH4 23
+Metano CH4 28
 
-Óxido nitroso N2O 296
+Óxido nitroso N2O 265
 
-Hidrofluro-carbonos HFC-23 12,000
+Hidrofluro-carbonos HFC-23 12,400
 
-HFC-125 3,400
+HFC-125 3,170
 
 HFC-134ª 1,300
 
-HFC-152ª 120
+HFC-152ª 138
 
-HFC-227ea 3,500
+HFC-227ea 3,350
 
-HFC-236fa 9,400
+HFC-236fa 8,060
 
-HFC-4310mee 1,500
+HFC-43-10mee 1,650
 
-Perfluoro-carbonos CF4 5,700
+Perfluoro-carbonos CF4 6,630
 
-C2F6 11,900
+C2F6 11,100
 
-C4F10 8,600
+C4F10 9,200
 
-C6F14 9,000
+C6F14 7,910
 
-Hexafluoro de azufre SF6 22,200
+Hexafluoro de azufre SF6 23,500
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -2955,9 +3129,9 @@ II.- Por el acopio de los productos de las empresas almacenadoras industrializad
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-I.- Restaurantes, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares, boliches y sala de degustación para la venta exclusiva de cerveza artesanal, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos, discotecas y establecimiento con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+I.- Restaurantes, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos, discotecas y establecimiento con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2967,13 +3141,13 @@ II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otr
 
 III.- Supermercados, con el importe de cuatrocientas noventa y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-IV.- Minisúper y abarrotes, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; licorerías, depósitos, expendios y tienda de cerveza artesanal con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización; las agencias, subagencias, almacenes, bodegas, envasadoras y distribuidoras, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+IV.- Minisúper y abarrotes, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; licorerías, depósitos y expendios, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización; las agencias, subagencias, almacenes, bodegas, envasadoras y distribuidoras, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-V.- Cantinas, tabernas, cervecerías, restaurantes-bar, bares y microcervecería y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe setecientas setenta veces el valor diario de la Unidad de Medida y Actualización;
+V.- Cantinas, tabernas, cervecerías, bares y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe setecientas setenta veces el valor diario de la Unidad de Medida y Actualización; restaurantes bar con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2982,6 +3156,10 @@ VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kerme
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; microcerverías, con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2995,9 +3173,9 @@ Los servicios prestados en materia de Desarrollo Urbano se causaran, conforme a 
 
 I.- Por la expedición del Dictamen de Impacto Urbano para:
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-a).- El uso o aprovechamiento de un determinado predio o inmueble, para aquellas obras que por sus características en su desarrollo produce un impacto significativo y regional sobre la infraestructura, equipamiento urbano y servicios públicos, previstos para una región o para un centro de población, que lo impactan y que son motivo de un control urbano como lo son, Gasolineras, Estaciones de Carburación, Estaciones de expendio al público de Gas L.P.; Equipamientos Educativos, de Salud, Abasto y Recreación, que brinden servicios regionales o cualquiera que supongan la concentración en un mismo momento de más de 300 personas; Centrales de Carga, Terminales Multimodales, Centrales de Autobuses, Ferrocarriles y Aeropuertos, Construcción de industrias que utilicen o generen residuos peligrosos, siendo todas las anteriormente descritas tanto en su contexto para servicio público o privado y se pagarán por el dictamen quinientas veces el valor diario de la Unidad de Medida de Actualización; y
+a).- El uso o aprovechamiento de un determinado predio o inmueble, para aquellas obras que por sus características en su desarrollo produce un impacto significativo y regional sobre la infraestructura, equipamiento urbano y servicios públicos, previstos para una región o para un centro de población, que lo impactan y que son motivo de un control urbano como lo son, Fraccionamientos, Gasolineras, Estaciones de Carburación, Estaciones de expendio al público de Gas L.P.; Equipamientos Educativos, de Salud, Abasto y Recreación, que brinden servicios regionales o cualquiera que supongan la concentración en un mismo momento de más de 300 personas; Centrales de Carga, Terminales Multimodales, Centrales de Autobuses, Ferrocarriles y Aeropuertos, Construcción de industrias que utilicen o generen residuos peligrosos, siendo todas las anteriormente descritas tanto en su contexto para servicio público o privado; se pagarán por el dictamen quinientas veces el valor diario de la Unidad de Medida de Actualización; y
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3137,21 +3315,21 @@ I.- Precio del Periódico Oficial.
 
 4. Suscripción semestral, treinta y un veces el valor diario de la Unidad de Medida y Actualización. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-5.- Por el envío de ejemplares a domicilio se cobrará, dos veces y media el valor diario de la Unidad de Medida y Actualización.
+5.- Por el envío de ejemplares a domicilio dentro del país se cobrará, dos veces y media el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. Publicaciones.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-1. Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, cero punto ocho por ciento de una vez el valor diario de la Unidad de Medida y Actualización por palabra, por cada publicación; y
+1.- Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, ocho por ciento de una vez el valor diario de la Unidad de Medida y Actualización por renglón, por cada publicación; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-2.- Por plana, cuarenta veces el valor diario de la Unidad de Medida y Actualización por cada publicación.
+2.- De balances generales, estado de resultados, tarifas, por media plana veinte veces el valor diario de la Unidad de Medida y Actualización por cada publicación; de balances generales, estado de resultados, tarifas, por plana cuarenta veces el valor diario de la Unidad de Medida y Actualización por cada publicación.
 
 ###### Artículo 89.
 
@@ -3299,17 +3477,13 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 18.- Por establecimientos dedicados a realizar servicios de pedicuro, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-19.- Por gabinete de rayos x (radioterapia), se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
+19.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 20.- Por gabinete de ultrasonido, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-21.- Por gabinete de radioterapia, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
+21.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2020)
 
 22.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
@@ -3361,9 +3535,7 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 35.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-36.- Por servicio de enfermería, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
+36.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3376,6 +3548,10 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 39.- Por centro de atención médica de primer nivel, se pagará doce veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+
+40.- Por los vehículos que se utilicen para el traslado de cadáveres o sus partes, pagarán cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 IX.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
@@ -3399,9 +3575,7 @@ XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que c
 
 XIV.- Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-XV.- Por la certificación a establecimientos dedicados a la fabricación, formulación, mezcla acondicionamiento, almacenamiento, uso y aplicación de plaguicidas, nutrientes vegetales, y sustancias tóxicas o peligrosas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización para la autorización de responsable sanitario;
+XV.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3483,11 +3657,11 @@ El Ejecutivo, por conducto de la Secretaría, hará efectivo el cobro de las for
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Contraloría Gubernamental en la ejecución de obra pública, los contratistas con quienes se celebre contrato de obra pública del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente del 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 97 Bis.
 
-Por la inscripción en el registro estatal previsto por la fracción VII del artículo 24 Quater, los sujetos obligados pagarán por única vez, el equivalente a cuatrocientas siete veces el valor diario de la Unidad de Medida y Actualización.
+Por la inscripción en el registro estatal previsto por la fracción VII del artículo 24 Quater, los sujetos obligados pagarán el equivalente a cuatrocientas siete veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -3922,3 +4096,23 @@ El presente Decreto entrará en vigor el 1º de enero de 2021, y será publicado
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, a través de la dependencia competente, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, elaborará una política pública necesaria para apoyar a los contribuyentes del derecho a que se refiere el presente Decreto, a adquirir o desarrollar la tecnología necesaria para medir de manera más eficiente los contaminantes que emitan.
+
+P.O. 17 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-281 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2021, previa publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría podrá, mediante reglas de carácter general, establecer facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los sujetos de los impuestos establecidos en el Capítulo II del Título II de la Ley de Hacienda para el Estado de Tamaulipas, y de los sujetos obligados por las disposiciones de dicho capítulo, así como emitir normas de carácter general para mejor proveer.
+
+###### ARTÍCULO CUARTO.
+
+En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
