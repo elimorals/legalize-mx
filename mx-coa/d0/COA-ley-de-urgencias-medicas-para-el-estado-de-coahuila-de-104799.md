@@ -4,7 +4,7 @@ identifier: "COA-ley-de-urgencias-medicas-para-el-estado-de-coahuila-de-104799"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-19"
-last_updated: "2017-12-26"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de diciembre de 2014.
 
@@ -78,6 +78,10 @@ IX. Urgencia Médica: Es la alteración de la integridad física y/o mental de u
 ###### Artículo 5.
 
 Ninguna institución que preste servicios de salud, puede negar atención médica a quien requiera recibirlos de urgencia por encontrarse en peligro su vida o integridad física, ni condicionar los mismos a pago de cualquier índole.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Las instituciones que presten servicios de salud se conducirán sin distinción, exclusión o restricción que implique discriminación en la atención médica a quien requiera recibirla de urgencia, por encontrarse en peligro su vida o su integridad física.
 
 ###### Artículo 6.
 
@@ -274,3 +278,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 798.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
