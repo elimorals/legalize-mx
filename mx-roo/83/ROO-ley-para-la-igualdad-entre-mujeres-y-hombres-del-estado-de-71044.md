@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7104
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-06"
-last_updated: "2017-07-04"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
 
@@ -239,17 +239,21 @@ II. Determinar las acciones necesarias para el acceso igualitario de mujeres y h
 
 III. Establecer fondos para la promoción de la igualdad en el trabajo;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IV. Supervisar que las condiciones laborales no sean discriminatorias para las mujeres y hombres en razón de sus obligaciones familiares;
+IV. Establecer medidas para fortalecer el acceso de las mujeres al empleo, supervisando que las condiciones laborales no sean discriminatorias para las mujeres y hombres en razón de sus obligaciones familiares;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Instaurar el principio de la paridad genérica en la conformación de la planta laboral de la Administración Pública Estatal y Municipal, y
+V. Instaurar el principio de la paridad genérica en la conformación de la planta laboral de la Administración Pública Estatal y Municipal;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-VI. Promover el trabajo en condiciones de dignidad para las trabajadoras y los trabajadores domésticos.
+VI. Promover el trabajo en condiciones de dignidad para las trabajadoras y los trabajadores domésticos, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
 ###### ARTÍCULO 14.
 
@@ -1056,3 +1060,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 060 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN, LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, LA LEY DE LOS MUNICIPIOS Y LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, TODAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
