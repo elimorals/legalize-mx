@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-del-instituto-sinaloense-de-cultura-144224"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-23"
-last_updated: "2020-09-23"
+last_updated: "2020-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE CULTURA FISICA Y EL DEPORTE, SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE CULTURA FÍSICA Y EL DEPORTE, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE CULTURA FÍSICA Y EL DEPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el No. 115 del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de septiembre de 2020.
 
@@ -270,3 +272,17 @@ Dado en la Ciudad de Culiacán, a los 23 días del mes de enero del año dos mil
 LA DIRECTORA GENERAL DEL INSTITUTO SINALOENSE DE CULTURA FÍSICA Y EL DEPORTE
 
 LIC. PAOLA MONCAYO LEYVA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE CULTURA FÍSICA Y EL DEPORTE".]
+
+PRIMERO. - El presente Código de Conducta del Instituto Sinaloense de Cultura Física y el Deporte, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional del Instituto Sinaloense de Cultura Física y el Deporte.
+
+TERCERO. - Las Áreas del Instituto Sinaloense de Cultura Física y el Deporte a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO. - Se abroga el Código de Conducta del Instituto Sinaloense de Cultura Física y el Deporte, publicado en el periódico oficial "El Estado de Sinaloa", de fecha 23 de septiembre del 2020
