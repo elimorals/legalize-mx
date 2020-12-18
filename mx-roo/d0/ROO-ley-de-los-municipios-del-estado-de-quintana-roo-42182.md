@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2020-11-04"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -779,7 +779,9 @@ l) Fomentar la creación de organismos cívicos y de colaboración municipal y r
 
 m) Distribuir entre los miembros del Ayuntamiento las comisiones permanentes para la atención de los diversos asuntos del Municipio y conferirles eventualmente comisiones específicas en relación con los servicios y atribuciones municipales;
 
-n) Conceder permisos y licencias para la apertura y operación de comercios;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+n) Conceder permisos y licencias para la apertura y operación de comercios, debiendo establecer criterios con perspectiva de género;
 
 o) Adquirir bienes en las formas previstas por la ley, así como aceptar donaciones, herencias y legados;
 
@@ -899,7 +901,9 @@ V. En materia de Desarrollo Económico y Social:
 
 a) Autorizar al Presidente Municipal, a tener representación en los organismos oficiales federales y estatales que realicen obras dentro de la jurisdicción municipal;
 
-b) Aprobar los planes y programas de desarrollo municipal, que le sean sometidos por el Presidente Municipal;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+b) Aprobar los planes y programas de desarrollo municipal, que le sean sometidos por el Presidente Municipal, considerando la perspectiva de género.
 
 c) Aprobar la designación de representantes municipales ante el Consejo Estatal de Desarrollo;
 
@@ -3442,5 +3446,13 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 044 POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al primer día del mes de octubre del año dos mil veintiuno previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 060 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN, LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, LA LEY DE LOS MUNICIPIOS Y LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
