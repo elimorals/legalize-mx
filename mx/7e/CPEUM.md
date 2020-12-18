@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2020-05-08"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -365,6 +365,10 @@ Las personas mayores de sesenta y ocho años tienen derecho a recibir por parte 
 > <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2020)</small>
 
 El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -2566,9 +2570,9 @@ XXIX-A. Para expedir la ley general que establezca los principios y bases en mat
 
 XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución;
+XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución, así como en materia de movilidad y seguridad vial;
 
 > <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2006)</small>
 
@@ -4280,7 +4284,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 V.- Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -4302,9 +4308,9 @@ i) Celebrar convenios para la administración y custodia de las zonas federales.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios. Los bienes inmuebles de la Federación ubicados en los Municipios estarán exclusivamente bajo la jurisdicción de los poderes federales, sin perjuicio de los convenios que puedan celebrar en términos del inciso i) de esta fracción;
 
-> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
+VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -4720,7 +4726,9 @@ Los bienes inmuebles de la Federación ubicados en la Ciudad de México estarán
 
 C. La Federación, la Ciudad de México, así como sus demarcaciones territoriales, y los Estados y Municipios conurbados en la Zona Metropolitana, establecerán mecanismos de coordinación administrativa en materia de planeación del desarrollo y ejecución de acciones regionales para la prestación de servicios públicos, en términos de la ley que emita el Congreso de la Unión.
 
-Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; movilidad y seguridad vial; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
 
 La ley que emita el Congreso de la Unión establecerá la forma en la que se tomarán las determinaciones del Consejo de Desarrollo Metropolitano, mismas que podrán comprender:
 
@@ -8661,3 +8669,13 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. El Congreso de la Unión deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como la concurrencia de los tres órdenes de gobierno para garantizar los derechos derivados del presente Decreto.
 
 Tercero. El monto de los recursos asignados, en el Presupuesto de Egresos de la Federación y en el presupuesto de las entidades federativas del ejercicio fiscal que corresponda, para los programas de atención médica y medicamentos gratuitos, de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores, y de becas para estudiantes que se encuentren en condición de pobreza, no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá expedir, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Ley General en Materia de Movilidad y Seguridad Vial.
+
+Tercero.- El Congreso de la Unión deberá armonizar, en lo que corresponda, y en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor de la Ley a que se refiere el artículo anterior, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, de acuerdo con lo dispuesto en el presente Decreto y la referida Ley.
