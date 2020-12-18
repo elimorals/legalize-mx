@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2018-03-28"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -205,9 +205,9 @@ b) El impulso a la creación de empresas regionales mediante la promoción de la
 
 c) Un marco jurídico que aliente y consolide la competitividad y la inversión;
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-d) La incorporación al mercado laboral de personas adultas mayores, personas productivas con alguna discapacidad y, a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+d) La incorporación al mercado laboral de personas adultas mayores, personas con discapacidad, mujeres, madres solteras y, a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
 
@@ -235,9 +235,17 @@ n) Los programas para la explotación de los productos elaborados en el Estado;
 
 ñ) La utilización de tecnología limpia que incluya equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, reduzcan, minimicen o eliminen, su grado de peligrosidad y contaminación; asimismo formular sugerencias tendientes a vincular la modernización, la innovación y el desarrollo tecnológico en el sector productivo;
 
-o) El desarrollo de infraestructura logística de comunicaciones y transportes, aduanal, industrial y de alta tecnología ante las instancias y dependencias correspondientes; y
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-p) El establecimiento de instrumentos de apoyo para la eficiencia energética y el desarrollo tecnológico para el uso de energías renovables como factor de competitividad.
+o) El desarrollo de infraestructura logística de comunicaciones y transportes, aduanal, industrial y de alta tecnología ante las instancias y dependencias correspondientes;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+p) El establecimiento de instrumentos de apoyo para la eficiencia energética y el desarrollo tecnológico para el uso de energías renovables como factor de competitividad, y
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+q) Reuniones, ferias, talleres, exposiciones y en general acciones tendientes a elevar la participación de la mujer en el ámbito empresarial.
 
 III. Fomentar:
 
@@ -245,13 +253,23 @@ a) La participación de las empresas locales en eventos nacionales e internacion
 
 b) El uso de tecnologías de información y de comunicación para incrementar las oportunidades de negocio de las empresas locales;
 
-c) El acceso de las empresas al financiamiento, multiplicando los canales y productos financieros existentes y fortaleciendo la capacidad de gestión del empresario ante el sistema financiero;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+c) El acceso de las empresas al financiamiento, multiplicando los canales y productos financieros existentes y fortaleciendo la capacidad de gestión del empresario ante el sistema financiero con perspectiva de género;
 
 d) La elaboración de programas de capacitación, investigación y desarrollo tecnológico que atiendan las necesidades específicas de las empresas, con base en una mayor vinculación entre los sectores educativos y productivos en el Estado;
 
-e) La coordinación de acciones entre la administración pública federal, estatal y municipal, con el sector privado, para impulsar el desarrollo empresarial en sus diversas manifestaciones; y
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-f) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
+e) La coordinación de acciones entre la administración pública federal, estatal y municipal, con el sector privado, para impulsar el desarrollo empresarial en sus diversas manifestaciones;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+f) La competitividad para generar trabajadores altamente productivos y competitivos, con empleos estables, bien remunerados y en igualdad de condiciones para mujeres y hombres, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+g) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
 ## TÍTULO II. DE LA POLÍTICA ESTATAL PARA EL DESARROLLO ECONÓMICO
 
@@ -273,21 +291,29 @@ El ejercicio de la planeación para el desarrollo económico, estará enfocado e
 
 Como parte integral de la planeación, se diseñarán e impulsarán las políticas públicas que permitan:
 
-I.- Incentivar la inversión en la entidad, desarrollando programas productivos con alta permanencia social;
+I. Incentivar la inversión en la entidad, desarrollando programas productivos con alta permanencia social;
 
-II.- Unificar los esfuerzos de los diversos programas sectoriales evitando la duplicidad de actividades y haciendo más eficiente la aplicación de recursos al adoptar una visión única del desarrollo económico y social para el Estado;
+II. Unificar los esfuerzos de los diversos programas sectoriales evitando la duplicidad de actividades y haciendo más eficiente la aplicación de recursos al adoptar una visión única del desarrollo económico y social para el Estado;
 
-III.- Diseñar las estrategias que impulsen la diversificación económica en la entidad con el objeto de reducir la dependencia económica en el sector turístico; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IV.- Integrar de manera regional los programas de crecimiento económico y productivo, generando vínculos económicos con el resto de las entidades, en especial las del Sur Sureste.
+III. Diseñar las estrategias que impulsen la diversificación económica en la entidad con el objeto de reducir la dependencia económica en el sector turístico;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-V.- Promover y estimular el acceso al primer empleo de las y los jóvenes quintanarroenses.
+IV. Integrar de manera regional los programas de crecimiento económico y productivo, generando vínculos económicos con el resto de las entidades, en especial las del Sur Sureste;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-VI.- Promover y estimular el acceso al empleo de las y los jóvenes que sean egresados de Instituciones de educación superior en el Estado y de las jóvenes en condición de madres solteras.
+V. Promover y estimular el acceso al primer empleo de las y los jóvenes Quintanarroenses;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Promover y estimular el acceso al empleo de las y los jóvenes que sean egresados de instituciones de educación superior en el Estado y de las jóvenes en condición de madres solteras, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Promover y estimular el acceso al empleo de mujeres, garantizando que las contrataciones y condiciones laborales no sean discriminatorias.
 
 ###### Artículo 10.
 
@@ -313,6 +339,20 @@ La Secretaría establecerá mecanismos de coordinación con la Secretaría de Fi
 
 Para incrementar la competitividad la Secretaría elaborará programas sectoriales considerando los factores que en ella inciden en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Artículo 14 BIS.- Los programas sectoriales referidos en el artículo 14 de esta Ley, deberán contener, entre otros:
+
+I. La definición de los sectores prioritarios para el desarrollo económico;
+
+II. Las líneas estratégicas para el desarrollo empresarial;
+
+III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;
+
+IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley, y
+
+V. Perspectiva de género.
+
 ###### Artículo 15.
 
 La Secretaría en el ámbito de su competencia, promoverá la participación de los sectores para facilitar a las empresas establecidas en el Estado, el acceso a los programas previstos en la presente Ley.
@@ -320,6 +360,10 @@ La Secretaría en el ámbito de su competencia, promoverá la participación de 
 ###### Artículo 16.
 
 La Secretaría diseñará, fomentará y promoverá la creación de instrumentos y mecanismos que permitan el desarrollo de los sectores motores del Estado, así como identificar y promover aquellos esquemas que faciliten el acceso al financiamiento a las empresas de la entidad.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Asimismo, desarrollará estrategias tendientes a incrementar la participación de la mujer en el ámbito empresarial, a través de asesoría, capacitación para el desarrollo de proyectos, y acceso a créditos y programas de financiamiento.
 
 ###### Artículo 17.
 
@@ -355,9 +399,17 @@ V.- Contener objetivos a corto, mediano y largo plazos;
 
 VI.- Promover propuestas de mejora regulatoria que creen un ambiente de negocios propicio para la atracción de inversiones;
 
-VII.- Disponer de mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las empresas locales; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Contar con sistemas de monitoreo que permitan brindar información oportuna para la toma de decisiones en materia económica.
+VII.- Disponer de mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las empresas locales;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Contar con sistemas de monitoreo que permitan brindar información oportuna para la toma de decisiones en materia económica; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+IX.- Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales, estatales y municipales, atendiendo la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;
 
 ###### Artículo 20.
 
@@ -463,9 +515,9 @@ III.- La instrumentación de estrategias para articular, coordinar y alinear la 
 
 IV.- La promoción y adopción de esquemas de certificación laboral;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-V.- El otorgamiento de becas y facilidades para contribuir en la formación de capital humano, principalmente entre los jóvenes;
+V. El otorgamiento de becas y facilidades para contribuir en la formación de capital humano, principalmente entre los jóvenes y las mujeres;
 
 VI.- Opinar sobre la pertinencia de los planes de estudio de las carreras y programas que ofrecen las instituciones radicadas en el Estado en relación con las necesidades de formación por parte del sector productivo; y
 
@@ -503,11 +555,11 @@ IX.- Los niveles satisfactorios de educación y capacitación.
 
 ### CAPÍTULO VIII. DEL EMPLEO
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-La Secretaría del Trabajo y Previsión Social, en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a fomentar el primer empleo, a la generación del trabajo decente y los empleos verdes, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta Ley y otros ordenamientos relacionados.
+La Secretaría del Trabajo y Previsión Social, en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a fomentar el primer empleo, a la generación del trabajo decente, garantizar a las mujeres y personas con discapacidad el acceso al empleo y los empleos verdes, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta Ley y otros ordenamientos relacionados.
 
 ###### Artículo 32.
 
@@ -519,9 +571,9 @@ II.- Prevenir las repercusiones de los procesos de reconversión productiva sobr
 
 III.- Inducir la transferencia de las personas ocupadas en actividades urbanas o rurales de baja productividad e ingresos, a otras actividades de mayor productividad;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IV.- Fomentar las oportunidades de trabajo decente para los grupos que enfrentan mayores dificultades de inserción laboral, como lo son, las personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, sean egresados de Instituciones de educación superior en el Estado o tengan condición de madres solteras;
+IV. Fomentar las oportunidades de trabajo decente para los grupos que enfrentan mayores dificultades de inserción laboral, como lo son, las personas adultas mayores, personas con discapacidad, mujeres y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, sean egresados de instituciones de educación superior en el Estado o tengan condición de madres solteras;
 
 V.- Incorporar la formación profesional y la certificación de competencias laborales como componente básico de las políticas y programas de empleo;
 
@@ -711,9 +763,9 @@ XVIII.- Realizar gestiones y organizar ferias, foros y reuniones de todo tipo pa
 
 XIX.- Llevar a cabo ferias, foros y exposiciones para promover los productos, servicios y atractivos quintanarroenses;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-XX.- Planear y coordinar las políticas y acciones de fomento para el emprendimiento de los jóvenes para la creación de Micro, Pequeñas y Medianas Empresas;
+XX. Planear y coordinar las políticas y acciones de fomento para el emprendimiento de los jóvenes y las mujeres para la creación de las Micro, Pequeñas y Medianas Empresas;
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -738,6 +790,10 @@ XXV.- Establecer mecanismos suficientes de simplificación administrativa para q
 > <small>(ADICIONADA, P.O 28 DE MARZO DE 2018)</small>
 
 XXVI.- Promover el apoyo a productores quintanarroenses y fomentar el consumo preferente de sus productos en el mercado local, permitiéndoles el fortalecimiento de su actividad y su consolidación como medianas empresas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+En los objetivos referidos en las fracciones anteriores, deberá aplicarse la perspectiva de género a fin de incrementar la participación de la mujer en el ámbito empresarial.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -769,17 +825,29 @@ VII. Promover y difundir la importancia de la cultura empresarial con la finalid
 
 VIII. Diseñar y coordinar mecanismos de apoyo a las Micro, Pequeñas y Medianas Empresas para su integración a la cadena productiva como proveedores o distribuidores;
 
-IX. Ejecutar las políticas y acciones de fomento para el emprendimiento de los jóvenes para la creación de Micro, Pequeñas y Medianas Empresas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-X. Promover el desarrollo e instrumentación de proyectos de innovación entre los jóvenes, atendiendo a las actividades económicas del Estado, preponderantemente a la artesanal;
+IX. Ejecutar las políticas y acciones de fomento para el emprendimiento de los jóvenes y las mujeres, para la creación de las Micro, Pequeñas y Medianas Empresas;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Promover el desarrollo e instrumentación de proyectos de innovación entre los jóvenes y las mujeres, atendiendo a las actividades económicas del Estado, preponderantemente a la artesanal;
 
 XI. Coordinarse con las autoridades educativas correspondientes, a efecto de impulsar la cultura del emprendimiento entre los jóvenes quintanarroenses, tanto en las escuelas de niveles medio superior y superior para lograr una visión empresarial;
 
 XII. Organizar concursos entre los jóvenes emprendedores que hayan elaborado proyectos de innovación y de desarrollo tecnológico, para fomentar la iniciativa y creatividad entre este sector;
 
-XIII. Celebrar convenios con las instituciones educativas del nivel medio superior y superior, a efecto de elaborar bases de datos de los egresados que cuenten con un proyecto empresarial que permita encaminar de manera congruente y efectiva las acciones y políticas públicas del Estado, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-XIV. Las demás que le confieran otras disposiciones legales o administrativas, así como las que le encomiende el Gobernador del Estado.
+XIII. Celebrar convenios con las instituciones educativas del nivel medio superior y superior, a efecto de elaborar bases de datos de los egresados que cuenten con un proyecto empresarial que permita encaminar de manera congruente y efectiva las acciones y políticas públicas del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XIV. Organizar concursos entre las mujeres emprendedoras que hayan elaborado proyectos de innovación, de desarrollo tecnológico e impacto social, para fomentar la iniciativa y creatividad entre este sector, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XV. Las demás que le confieran otras disposiciones legales o administrativas, así como las que le encomiende el Gobernador del Estado.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO AL DESARROLLO EMPRESARIAL
 
@@ -837,9 +905,17 @@ IX.- Colaborar con las autoridades financieras en materia de promoción de prác
 
 X. Promover el establecimiento de alianzas estratégicas con instituciones financieras del país y del extranjero, que permitan generar e integrar un sistema estatal de financiamiento para el desarrollo, que ofrezca oportunidades de ahorro, crédito y garantía para los empresarios quintanarroenses;
 
-XI.- Orientar, asesorar y apoyar a los emprendedores y empresarios en la obtención de las mejores opciones de financiamiento ante las instituciones de crédito de la entidad; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-XII.- Buscar permanentemente nuevas alternativas y esquemas de financiamiento para la población empresarial, que coadyuven a su sano desenvolvimiento y competitividad, así como a reducir los costos de transacción involucrados en el proceso.
+XI. Orientar, asesorar y apoyar a los emprendedores y empresarios en la obtención de las mejores opciones de financiamiento ante las instituciones de crédito de la entidad;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Buscar permanentemente nuevas alternativas y esquemas de financiamiento para la población empresarial, que coadyuven a su sano desenvolvimiento y competitividad, así como a reducir los costos de transacción involucrados en el proceso, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Elaborar estrategias de apoyo financiero para productos viables de las y los jóvenes emprendedores y mujeres empresarias.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -1101,9 +1177,9 @@ V.- Su grado de integración a las cadenas productivas del Estado y su aportaci�
 
 VI.- Inviertan en proyectos resultados de innovación que genere alto valor agregado con enfoque de transferencia;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-VII.- Contratación de personas adultas mayores, personas productivas con alguna discapacidad, jóvenes en edad productiva, jóvenes en situación de primer empleo, egresados de instituciones de educación superior en el Estado o tengan condición de madres solteras;
+VII. Contratación de personas adultas mayores, personas con discapacidad, mujeres, jóvenes en edad productiva, jóvenes en situación de primer empleo, egresados de instituciones de educación superior en el Estado o tengan condición de madres solteras;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
@@ -1321,7 +1397,9 @@ XI.- Implementen esquemas de mejora continua orientados a elevar su productivida
 
 XII.- Aumenten sustantivamente sus exportaciones;
 
-XIII.- Contraten a personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Contraten a personas adultas mayores, personas con discapacidad, mujeres y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo; y
 
 XIV.- Realicen alianzas estratégicas empresariales con agrupamientos, cadenas productivas, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
 
@@ -1778,3 +1856,11 @@ P.O 28 DE MARZO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 060 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN, LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, LA LEY DE LOS MUNICPIOS Y LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
