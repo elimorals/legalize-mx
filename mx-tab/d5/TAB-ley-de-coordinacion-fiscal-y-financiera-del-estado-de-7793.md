@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-fiscal-y-financiera-del-estado-de-7793"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2019-12-21"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -421,7 +421,9 @@ EL COEFICIENTE DE DISTRIBUCION QUE RESULTE PARA CADA MUNICIPIO SE MULTIPLICARA P
 
 PARA ACCEDER A LOS RECURSOS DEL FONDO QUE ESTABLECE EL PRESENTE ARTICULO, LOS MUNICIPIOS, SUS ORGANISMOS Y ENTIDADES, DEBERAN ESTAR INSCRITOS EN EL PADRON DEL IMPUESTO SOBRE NOMINA, AUTO DETERMINAR EL IMPUESTO A SU CARGO EN TERMINOS DE LO DISPUESTO EN LA LEY DE HACIENDA DEL ESTADO Y PRESENTAR LA DECLARACION CORRESPONDIENTE DE MANERA MENSUAL.
 
-LAS MULTAS, RECARGOS Y GASTOS DE EJECUCION, QUE EN SU CASO ENTEREN LOS MUNICIPIOS, NO SERAN PARTICIPABLES EN EL FONDO QUE ESTABLECE ESTE ARTICULO, DEBIENDO REALIZARSE EN SU CASO, EL PAGO DE LOS MISMOS CUANDO SE INCURRA EN EXTEMPORANEIDAD, CONFORME A LA LEY DE HACIENDA DEL ESTADO DE TABASCO.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+LAS MULTAS, RECARGOS Y GASTOS DE EJECUCION, QUE EN SU CASO ENTEREN LOS MUNICIPIOS, SERAN PARTICIPABLES EN EL FONDO QUE ESTABLECE ESTE ARTICULO, DEBIENDO REALIZARSE EN SU CASO, EL PAGO DE LOS MISMOS CUANDO SE INCURRA EN EXTEMPORANEIDAD, CONFORME A LA LEY DE HACIENDA DEL ESTADO DE TABASCO.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -1286,6 +1288,136 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 NOVENO. El monto que resulte del incremento en el cobro de los derechos establecidos en los artículos 85, fracción V, inciso a) y 86, fracción V, inciso a) -De 10.0 a 12.0 UMA- de la Ley de Hacienda del Estado de Tabasco, se destinará preferentemente para la creación de un fondo de movilidad y seguridad vial para el mantenimiento de señalización, semaforización y vialidades, así como inversión en nuevas obras viales, tales como broches viales, pasos peatonales, puentes y demás aplicables.
 
 DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2015, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE “SE REFORMA EL ARTÍCULO 16 BIS DE LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil veintiuno, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 no contempla los recursos refrendados del ejercicio fiscal 2020, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2021.
+
+QUINTO. Se eximen total o parcialmente, durante el ejercicio fiscal 2021, los accesorios derivados de los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto de Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondiente al ejercicio fiscal 2014.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos y multas, un descuento del 30% en gastos de ejecución causados al Impuesto Vehicular Estatal, así como un 20% de descuento en la obligación; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO ESTÍMULO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Del 1 de enero al 31 de diciembre de
+
+2021
+
+Gastos de Ejecución 30%
+
+Impuesto Vehicular 20% Del 1 de enero al 30 de abril de 2021
+
+Estatal
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado de Tabasco.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios del estímulo a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placa y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% o del 75% sobre los recargos y multas, y un descuento del 30% sobre gastos de honorarios y de ejecución causados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Recargos y multas 100% Del 1 de enero al
+
+30 de junio de 2021.
+
+Recargos y multas 75% Del 1 de julio al
+
+31 de diciembre de 2021.
+
+Honorarios y gastos de 30% Del 1 de enero al
+
+ejecución 31 de diciembre de 2021.
+
+III. Los determinados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placa y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas con discapacidad permanente y que cuenten con placas para vehículos de personas con discapacidad y adultos mayores, consistente en un descuento del 100% sobre los recargos y multas y un descuento del 30% sobre gastos de honorarios y de ejecución causados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Recargos y multas 100% Del 1 de enero al
+
+31 de diciembre de 2021
+
+Honorarios y gastos
+
+de ejecución 30% Del 1 de enero al
+
+31 de diciembre de 2021
+
+Los contribuyentes que opten por los estímulos que se otorgan en las fracciones II y III del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021, hasta en 36 parcialidades, conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de los estímulos a que se refiere el presente artículo transitorio.
+
+IV. Los determinados por concepto de derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2021.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un 20%, 15%, 10% o 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 18 DE DICIEMBRE DE 2020, PÁGINA 103.]</small>
+
+V. Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2016, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+SEXTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la exención o estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el ejercicio fiscal 2021, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales y extranjeros usados cuyo año- modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado de Tabasco, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal por conducto de la Secretaría de Finanzas, implementará a partir del 1 de enero de 2021 un programa adicional al contemplado en el artículo Quinto transitorio del presente Decreto, dicho programa contemplará la exención de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placa de circulación, canje de placas, tarjeta de circulación y calcomanía de motocicletas, motocarros y motonetas.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas, motocarros y motonetas que circulan en el Estado de Tabasco.
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas motocarros y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad y Protección Ciudadana y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1 º de enero de 2021 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+NOVENO. El monto del incremento en el cobro de los derechos establecidos en el artículo 86, fracción V, inciso a) -De 10.0 a 12.0 UMA- de la Ley de Hacienda del Estado de Tabasco, efectuado en el ejercicio fiscal anterior, se seguirá destinando preferentemente para el fondo de movilidad y seguridad vial para el mantenimiento de señalización, semaforización y vialidades, así como inversión en nuevas obras viales, tales como broches viales, pasos peatonales, puentes y demás aplicables.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público, correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2016, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
 
