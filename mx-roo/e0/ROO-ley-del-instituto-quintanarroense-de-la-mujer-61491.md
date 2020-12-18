@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-quintanarroense-de-la-mujer-61491"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-02"
-last_updated: "2008-06-02"
+last_updated: "2020-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número 57 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 2 de junio de 2008.
 
@@ -205,9 +205,21 @@ VI.- Representación del Gobierno Estatal en materia de equidad de género y de 
 
 VII.- La ejecución de programas de difusión e información para las mujeres de carácter gratuito y alcance estatal, que informen acerca de los derechos de las mujeres, procedimientos de procuración e impartición de justicia y, proporcionen orientación sobre el conjunto de políticas públicas y programas de organismos no gubernamentales y privados para la equidad de género;
 
-VIII.- Transversalidad de la perspectiva de género en las políticas públicas en las distintas dependencias y entidades de la administración pública estatal, a partir de la ejecución de los programas y acciones conjuntas en concordancia con el Plan Estatal de Desarrollo; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IX.- Promover e impulsar en las mujeres el acceso al empleo y al comercio e informar sobre las condiciones de trabajo apropiadas en condiciones de igualdad entre géneros.
+VIII.- Transversalidad de la perspectiva de género en las políticas públicas en las distintas dependencias y entidades de la administración pública estatal, a partir de la ejecución de los programas y acciones conjuntas en concordancia con el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+IX.- Promover e impulsar en las mujeres el acceso al empleo y al comercio e informar sobre las condiciones de trabajo apropiadas en condiciones de igualdad entre géneros;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+X.- Conjuntamente con la Secretaría de Desarrollo Económico del Estado de Quintana Roo, organizar foros, conferencias, exposiciones y reuniones que les permitan a las mujeres, obtener conocimiento sobre la materia económica, de negocios y empresas: además de brindar asesorías de desarrollo de proyectos, administración, contabilidad, derechos y obligaciones fiscales, comercialización y apoyo en la capacitación y adiestramiento del capital humano de las empresas, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XI.- Establecer estrategias de coordinación de apoyo y asesoría a la Secretaría de Desarrollo Económico del Estado de Quintana Roo, para aquellas acciones, programas y planes que dicha instancia realice a efecto de impulsar el desarrollo económico de las mujeres y su incremento en la participación empresarial.
 
 ARTICULO (SIC) 14.- Para el desarrollo de su objeto, el Instituto tendrá las siguientes atribuciones:
 
@@ -724,3 +736,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 060 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN, LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, LA LEY DE LOS MUNICIPIOS Y LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, TODOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
