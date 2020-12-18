@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-10-20"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -173,7 +173,11 @@ IV. La violencia económica. Es toda acción u omisión del agresor que afecta l
 
 V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder.
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertas (sic) de las personas adultas mayores.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Violencia estructural: Es todo acto u omisión que afecta los derechos de las personas adultas mayores en sus necesidades básicas de supervivencia, bienestar, identidad y libertad, en el entorno social donde se desenvuelve, núcleo familiar, comunidad e instituciones públicas y privadas. Se manifiesta en la ausencia de políticas sociales y de salud adecuadas, la inexistencia, el mal ejercicio y el incumplimiento de las leyes; la presencia de normas sociales, comunitarias y culturales que desvalorizan la imagen de la persona mayor y que resultan en su perjuicio y se expresan socialmente como discriminación, marginalidad y exclusión social.
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertas (sic) de las personas adultas mayores.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -609,9 +613,9 @@ VII. Expedir copia del expediente en caso de que sea solicitado por sus familiar
 
 VIII. Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IX. Llevar un registro de las visitas que le hagan los familiares a la persona adulta mayor, en caso de abandono, esta deberá dar aviso a la Procuraduría para Niños, Niñas y la Familia sobre el abandono de la persona adulta mayor, para que ésta inicie un procedimiento para otorgar una pensión alimenticia a las personas adultas mayores abandonados a cargo de los familiares.
+IX. Llevar un registro de las visitas que le hagan los familiares a la persona adulta mayor, en caso de abandono, esta deberá denunciar ante el Ministerio Público para que inicie las investigaciones necesarias y en su caso, se sancione conforme a lo establecido en la legislación penal del estado; así como dar aviso a la Procuraduría para Niños, Niñas y la Familia sobre el abandono de la persona adulta mayor, para que ésta inicie un procedimiento para otorgar una pensión alimenticia a las personas adultas mayores abandonados a cargo de los familiares.
 
 En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta Ley les consagra y deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
 
@@ -1704,3 +1708,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 754.- SE ADICIONA EL PUNTO 5 A LA FRACCIÓN IX DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 796.- SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 5° BIS RECORRIÉNDOSE LA FRACCIÓN ULTERIOR Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 26, AMBOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
