@@ -4,7 +4,7 @@ identifier: "LSN"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-31"
-last_updated: "2019-11-08"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSN"
 
 LEY DE SEGURIDAD NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de enero de 2005.
 
@@ -128,9 +128,17 @@ II. Instancias: Instituciones y autoridades que en función de sus atribuciones 
 
 III. Red: Red Nacional de Investigación.
 
-IV. Centro: Centro de Investigación y Seguridad Nacional, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Información gubernamental confidencial: los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional.
+IV. Centro: Centro de Investigación y Seguridad Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Agentes Extranjeros: Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado.
 
 ###### Artículo 7.
 
@@ -620,6 +628,98 @@ Los gobiernos de las entidades federativas, en el ejercicio de las atribuciones 
 
 En la regulación y el ejercicio de las atribuciones que conforme al presente Título les correspondan a las entidades federativas, se observará puntualmente lo previsto por los artículos 117, 118 y 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+## TÍTULO SÉPTIMO. DE LA COOPERACIÓN CON LOS GOBIERNOS EXTRANJEROS EN MATERIA DE SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. DE LA COOPERACIÓN INTERNACIONAL
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 68.
+
+En el marco de la cooperación internacional, las embajadas y misiones extranjeras acreditadas en el país deberán informar a las autoridades correspondientes conforme a los respectivos convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional sobre los hechos de que tengan conocimiento en el desempeño de las funciones derivadas de dichos convenios y programas. En las disposiciones que rigen el presente Título se observará el principio de reciprocidad entre Estados Soberanos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 69.
+
+Los Agentes Extranjeros podrán ser autorizados para internarse temporalmente en territorio nacional para fines de intercambio de información, en el marco de los convenios y programas de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
+
+La Secretaría de Relaciones Exteriores, previo acuerdo con las secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina, resolverá sobre la acreditación y la circunscripción territorial del agente extranjero de que se trate. Para tal efecto deberá considerar el principio de reciprocidad bilateral.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 70.
+
+Los servidores públicos de los tres Poderes de la Unión, de los organismos dotados de autonomía constitucional, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en su relación con Agentes Extranjeros, deberán apegarse a las normas, parámetros y obligaciones previstas en la presente Ley y en los lineamientos que para el efecto emita el Consejo. Su inobservancia será causa de responsabilidad administrativa o penal, de conformidad con las leyes respectivas.
+
+Los servidores públicos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, deberán entregar a las secretarías de Relaciones Exteriores y de Seguridad y Protección Ciudadana, dentro de los tres días siguientes de la celebración de cualquier reunión, intercambio de información, llamadas telefónicas o comunicaciones que sostengan con los Agentes Extranjeros, un informe por escrito de las mismas. Las reuniones que sostengan con los Agentes Extranjeros deberán ser autorizadas con anterioridad por el Grupo de Alto Nivel de Seguridad. En dichas reuniones deberá estar presente un representante de la Secretaría de Relaciones Exteriores.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 71.
+
+Los Agentes Extranjeros deberán observar las siguientes disposiciones:
+
+I. Sólo podrán desarrollar las actividades de enlace para el intercambio de información con autoridades mexicanas en términos de lo dispuesto en la acreditación que se hubiese expedido a su favor;
+
+II. No podrán ejercer las facultades reservadas a las autoridades mexicanas ni podrán aplicar o ejecutar las leyes extranjeras en territorio nacional;
+
+III. Deberán abstenerse de realizar gestiones directas ante autoridades distintas de la Secretaría de Relaciones Exteriores o de las dependencias que corresponda en términos de los respectivos convenios de cooperación internacional suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional;
+
+IV. Deberán poner en conocimiento de las autoridades mexicanas que corresponda, en términos de los respectivos convenios de cooperación internacional suscrito por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional, la información de que se alleguen en el ejercicio de sus funciones;
+
+V. Deberán presentar ante las secretarías de Relaciones Exteriores y de Seguridad y Protección Ciudadana un informe de carácter mensual en las materias relativas a los convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. En dicho informe se deberán incluir las actividades y gestiones que desarrollen ante las diversas autoridades federales, de las entidades federativas y de los municipios. En todo caso, deberán mantener la confidencialidad de la información que obtengan derivado de la aplicación de los convenios de cooperación bilateral, de conformidad con los términos establecidos en los mismos;
+
+VI. Tendrán prohibido realizar o inducir a terceras personas a realizar detenciones, a realizar acciones tendientes a la privación de la libertad, a allanar la propiedad privada o cualquiera otra conducta que resulte violatoria de la Constitución Política de los Estados Unidos Mexicanos y las leyes nacionales aplicables;
+
+VII. Deberán abstenerse de realizar actividades que pongan en peligro su integridad física. En consecuencia, deberán sujetarse a los criterios que determine la Secretaría de Seguridad y Protección Ciudadana, y
+
+VIII. Sólo podrán portar las armas de fuego que, en su caso, les autorice la Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 72.
+
+Los Agentes Extranjeros no tendrán ninguna inmunidad en caso de incurrir en la comisión de delitos o infracciones o por infringir las disposiciones normativas que prohíben a los extranjeros el ejercicio de funciones reservadas a las autoridades mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 73.
+
+El Gobierno de México supervisará, en todo momento, el cumplimiento por parte de los Agentes Extranjeros de las obligaciones legales y de aquellas que deriven de los convenios bilaterales suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
+
+Cuando a juicio de las autoridades mexicanas un agente extranjero incumpla con las disposiciones generales y específicas que le resulten aplicables, el Gobierno de México solicitará su retiro al gobierno del Estado acreditante y quedará sujeto a las sanciones que resulten aplicables en términos de las leyes mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 74.
+
+Cuando se compruebe que un gobierno extranjero, por conducto de sus agentes, incite o promueva la comisión de los ilícitos consistentes en el cohecho, la privación ilegal de la libertad de las personas, así como la sustracción de los habitantes del territorio nacional para ser llevados a juicio ante otro Estado, el Estado mexicano suspenderá la ejecución de los convenios de cooperación bilateral de que se trate y prohibirá la realización de actividades por parte de los Agentes Extranjeros en territorio nacional. En su caso, los individuos que hubieren incurrido en las conductas antes descritas serán responsables en los términos de las disposiciones jurídicas aplicables.
+
+Las autoridades responsables de la supervisión y vigilancia de los agentes y técnicos especializados serán corresponsables del incumplimiento de las disposiciones generales y específicas que resulten aplicables. En su caso, serán sancionados en los términos que disponga la Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 75.
+
+El Grupo de Alto Nivel de Seguridad es el órgano auxiliar del Consejo para la atención y gestión de los convenios, programas y temas estratégicos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. Será integrado por los representantes de las dependencias y autoridades que determine el Consejo y presidido por la Secretaría de Relaciones Exteriores. El Consejo emitirá las disposiciones generales que regulen su organización y funcionamiento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 76.
+
+El Grupo de Coordinación Operativa es el órgano auxiliar del Consejo encargado de coordinar y supervisar la ejecución de los convenios, programas, acciones o acuerdos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional con las agencias de seguridad de países extranjeros que determine el Grupo de Alto Nivel de Seguridad.
+
+Será dirigido por un representante de la Secretaría de Seguridad y Protección Ciudadana con nivel de Jefe o Titular de Unidad y se integrará por representantes de las dependencias u organismos que determine el Consejo. El Consejo, emitirá las disposiciones generales que regulen su organización y funcionamiento.
+
 ## ARTÍCULOS TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -669,3 +769,11 @@ D.O.F. 8 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
 
 Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD NACIONAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
