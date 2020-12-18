@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-11-03"
+last_updated: "2020-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,7 +65,9 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 26/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 38/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+Artículo 1 Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 28 de febrero de 2021.
 
 ###### Artículo 1.
 
@@ -628,3 +630,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobaci�
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. El acceso al sistema de declaraciones del Consejo de la Judicatura Federal, se encuentra disponible en la liga electrónica: https://nuevosistemadeclaracionescjf.cjf.gob.mx
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 38/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
