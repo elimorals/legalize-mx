@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-12-04"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1881,7 +1881,9 @@ III. Que no se trate de cualquiera de los siguientes delitos previstos en este c
 
 5) Abuso sexual mediante violencia física que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en el artículo 200 de este código, o haya sido cometido en perjuicio de persona menor de quince años.
 
-6) Robo de vehículo automotor previsto en la fracción IV del artículo 282 de este código.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+6) Robo de vehículo automotor previsto en la fracción IV del artículo 284 de este código.
 
 7) Daños dolosos calificados del artículo 301 de este código.
 
@@ -4127,13 +4129,15 @@ No será punible la mutilación de un animal que se realice para marcarlo o cast
 
 IV. (Lesiones con fines perversos)
 
-Golpee a un animal, por venganza, odio o diversión.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Cause lesiones a un animal por medio de cualquier arma, instrumento, objeto, medio o método, por venganza, odio o diversión.
 
 V. (Modalidad agravante para los delitos de crueldad a animales)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-Se impondrá de dos a seis años de prisión y de doscientos a setecientos días multa, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera practicado la zoofilia o causado al animal la pérdida o la inutilidad de un sentido, órgano o miembro principal, o muera como consecuencia de los actos de crueldad de que fue objeto. Las mismas penas se impondrán cuando además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo les toma fotografía o videograba para hacerlos públicos o éstas sean realizadas en presencia de un menor de edad.
+Se aumentará en una mitad los mínimos y máximos de las penas señaladas en las fracciones del apartado B de este artículo, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera causado al animal la pérdida o la inutilidad de un sentido, órgano o miembro principal, o muera como consecuencia de los actos de crueldad de que fue objeto
 
 C. (Delito de violencia contra los animales)
 
@@ -4142,6 +4146,10 @@ C. (Delito de violencia contra los animales)
 Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, actos de maltrato animal que deriven en zoofilia, pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
 
 Los animales que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de la asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+En caso de que la conducta prevista en el presente artículo sea provocada por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de las penas anteriores se aplicará la suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años del empleo, cargo, profesión, oficio, autorización, licencia, comercio o cualquier circunstancia bajo la cual hubiese cometido el delito.
 
 ## Título Décimo. Delitos contra animales que afectan al derecho de una vida libre de violencia
 
@@ -8128,3 +8136,17 @@ P.O. 4 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 769.- SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL INCISO B, Y EL PRIMER PÁRRAFO DEL INCISO C DEL ARTÍCULO 261 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 785.- SE REFORMA EL INCISO 6, DE LA FRACCIÓN III, DEL ARTÍCULO 102 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS DEL"DECRETO 786.- SE REFORMAN LAS FRACCIONES IV Y V DEL APARTADO B Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 261 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
