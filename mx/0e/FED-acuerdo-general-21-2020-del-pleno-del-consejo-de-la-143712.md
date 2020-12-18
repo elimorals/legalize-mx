@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-10-29"
+last_updated: "2020-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -79,11 +79,11 @@ ACUERDO
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 37/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante “PJF”), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 15 de enero de 2021, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
+Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 28 de febrero de 2021, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
 
 ###### Artículo 2.
 
@@ -622,3 +622,15 @@ TERCERO. Se mantiene el periodo de receso previsto para la segunda quincena de d
 CUARTO. A partir del 1 de noviembre de 2020, el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
 
 QUINTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 37/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 21/2020, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 16 de enero de 2021.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. A partir del 16 de enero de 2021, el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
+
+CUARTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
