@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2017-del-pleno-del-consejo-de-la-121361"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-15"
-last_updated: "2019-05-21"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-05-08"
 
 ACUERDO GENERAL 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2017.
 
@@ -81,11 +81,13 @@ V. Pleno: Pleno del Consejo.
 
 El Centro iniciará funciones a partir de las veinte horas del dieciséis de mayo de dos mil diecisiete.
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 36/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-El Centro agrupa a ocho Jueces de control y a un Tribunal Unitario de Circuito, en su caso, habilitado como tribunal de Alzada, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+El Centro agrupa a diez Jueces de control, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+
+Los Tribunales Unitarios en Materia Penal del Primer Circuito se habilitan, en su caso, como tribunales de alzada para conocer de todos los asuntos y procedimientos que se tramiten en el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
 > <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
@@ -193,9 +195,9 @@ Los juzgadores deberán levantar de manera individual un acta administrativa, po
 
 Los juzgadores y el personal que les está adscrito disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero de cada año.
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 36/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-Durante los dos meses que conforma el periodo respectivo, solamente dos jueces de control y su personal podrán de manera simultánea gozar de sus vacaciones, de manera que durante este periodo, los seis juzgadores restantes y su personal, en forma excepcional tendrán jornadas de 24 horas de trabajo por 24 de descanso.
+Durante los dos meses que conforma el periodo respectivo, solamente dos jueces de control y su personal podrán de manera simultánea gozar de sus vacaciones, de manera que durante este periodo, los ocho juzgadores restantes y su personal, en forma excepcional tendrán jornadas de 24 horas de trabajo por 24 de descanso.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA DE LOS JUECES DE CONTROL
 
@@ -776,3 +778,15 @@ D.O.F. 21 DE MAYO DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INCORPORACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS JUECES NOVENO Y DÉCIMO DE CONTROL EN EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUECES DE CONTROL ADSCRITOS A DICHO CENTRO; Y QUE REFORMA LOS SIMILARES 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; Y 3/2017, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los Jueces Noveno y Décimo de Control adscritos al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones que inician funciones, de la infraestructura y equipamiento necesario para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos.
