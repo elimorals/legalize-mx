@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-eliminar-la-discriminacion-en-91671
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2015-11-17"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
@@ -313,9 +313,21 @@ I.- Promover la educación mixta, para lo cual deberán fomentar la permanencia 
 
 II.- Promover campañas de sensibilización en los medios de comunicación para prevenir y eliminar toda forma de discriminación y violencia contra las mujeres:
 
-III.- Garantizar el derecho a decidir respecto al número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social, las condiciones para la atención obligatoria de las mujeres que lo soliciten, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-IV.- Procurar la creación de centros de desarrollo infantil y estancias, asegurando el acceso a los mismos para sus hijas e hijos, cuando ellas lo soliciten.
+III.- Garantizar el derecho a decidir respecto al número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social, las condiciones para la atención obligatoria de las mujeres que lo soliciten;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+IV.- Procurar la creación de centros de desarrollo infantil y estancias, asegurando el acceso a los mismos para sus hijas e hijos, cuando ellas lo soliciten;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+V.- Fomentar la creación de programas permanentes de capacitación laboral y las oportunidades de integración a las fuentes de trabajo, e
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI.- Impulsar la constitución y desarrollo de micro, pequeñas y medianas empresas, mediante instrumentos de financiamiento municipal, estatal y federal, para su contribución al crecimiento económico del Estado.
 
 ###### Artículo 19.
 
@@ -452,3 +464,11 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 060 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN, LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, LA LEY DE LOS MUNICIPIOS Y LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
