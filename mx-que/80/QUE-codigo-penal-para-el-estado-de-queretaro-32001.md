@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2020-12-11"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1253,11 +1253,13 @@ IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar 
 
 ARTICULO 127 BIS.- (DEROGADO, P.O. 14 DE MARZO DE 2008)
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible se le impondrán las penas previstas para el delito de lesiones.
+ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro o de varias personas, por cualquier forma o medio de transmisión, o por relaciones sexuales, se le impondrán de tres a seis años de prisión y de tres a seis meses de trabajo a favor de la comunidad, así como las medidas de seguridad por confinamiento que sean necesarias.
 
-En el caso de la fracción anterior, se perseguirá de oficio a excepción de cuando se trate de cónyuges, concubinarios o concubinas solo podrá procederse por querella del ofendido.
+Cuando la conducta anterior se realice en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena señalada en este artículo.
+
+Este delito se perseguirá de oficio, a excepción de cuando se trate de cónyuges, concubinarios o concubinas en cuyo caso solo podrá procederse por querella del ofendido.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -1343,6 +1345,8 @@ Si la persona a quien se instigue o ayude al suicidio, fuere menor de edad o per
 
 ### CAPITULO I. OMISIÓN DE AUXILIO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 136.
 
 Comete el delito de aborto el que causa la muerte al producto de la concepción hasta antes del nacimiento.
@@ -1385,6 +1389,8 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 ### CAPITULO II. OMISIÓN DE CUIDADO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
 ### CAPITULO III. OMISIÓN DE AUXILIO A ATROPELLADOS
 
 ## TITULO SEGUNDO. DELITOS DE OMISIÓN DE AUXILIO O DE CUIDADO
@@ -1393,21 +1399,21 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 ###### ARTICULO 143.
 
-Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a cinco meses o trabajo en favor de la comunidad hasta por el mismo tiempo.
+Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de uno a cinco años o trabajo en favor de la comunidad hasta por el mismo tiempo.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
-
-Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+Si la conducta se realiza en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena señalada en este artículo.
 
 ### CAPITULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTICULO 144.
 
-Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años.
+Al que abandone, exponga en una institución o ante cualquier otra persona, a una persona incapaz de valerse por sí misma, incluyendo a las personas adultas mayores y/o con discapacidad, teniendo la obligación de cuidarla o se encuentre legalmente a su cargo, se le aplicara prisión de tres meses a cuatro años.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+En el caso de que el sujeto activo fuese alguno de los parientes o personas a que se refiere el artículo 217 BIS, se aumentará la pena prevista hasta en una tercera parte y perderá los derechos como acreedor alimentario.
 
-Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o persona con discapacidad mental, intelectual, física o sensorial, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 144 BIS.- En el caso previsto en este capítulo, la Fiscalía ordenará las medidas de protección y providencias que considere pertinentes, establecidas en las leyes de la materia, para proporcionar seguridad a la víctima u ofendido en salvaguardar de su integridad física y psíquica, y evitar así que el delito se siga cometiendo.
 
 ### CAPITULO II. SECUESTRO
 
@@ -1813,9 +1819,19 @@ IV. Niegue o restrinja derechos laborales.
 
 Al servidor público que incurra en alguna de las conductas previstas en este artículo o niegue o retarde a las personas un trámite, servicio o prestación al que tenga derecho, se le aumentará hasta en una mitad la pena prevista en el primer párrafo del presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de la pena de prisión impuesta.
 
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+CUANDO LA CONDUCTA DEL PÁRRAFO PRIMERO SE EJECUTE CONTRA PERSONAL DE SERVICIOS DE SALUD PÚBLICOS O PRIVADOS, SEGURIDAD O PROTECCIÓN CIVIL, LA PENA SE INCREMENTARÁ HASTA EN UNA MITAD MÁS.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
 No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
-Este delito se perseguirá por querella.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Este delito se perseguirá por querella, a excepción de cuando se cometa en contra de personal de servicios de salud públicos o privados, seguridad o protección civil, durante una emergencia sanitaria decretada por la autoridad competente.
 
 ###### ARTICULO 171.
 
@@ -2017,7 +2033,7 @@ Al que, sin tomar las medidas necesarias para cerciorarse de la procedencia leg�
 
 ### CAPITULO VII. EXTORSIÓN
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 191.
 
@@ -2155,25 +2171,45 @@ Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta
 
 ###### ARTICULO 198.
 
-Al que para obtener un provecho indebido para sí o para otro, utilizando la violencia física o moral, realice maniobras que tengan por objeto obligar a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de 4 a 10 años y de 100 a 300 días multa.
+Al que para obtener un provecho indebido para sí o para otro, utilizando la violencia física o moral, realice maniobras que tengan por objeto obligar a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de 5 a 10 años, de 100 a 300 días multa y trabajo en favor de la comunidad de tres a seis meses.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
 El delito se tendrá por consumado aunque no se obtenga el provecho indebido.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+
 La pena se aumentará en una mitad más; cuando concurra alguna de las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 I. Cuando se obtenga el provecho indebido;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 II. El agente realice el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las tácitas que éste debía esperar de aquél, por las relaciones que fundadamente deben inspirar seguridad o confianza;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 III. El autor del delito sea o se ostente como miembro de alguna asociación delictuosa. Para efectos de esta fracción, se entenderá como asociación delictuosa toda agrupación o banda de dos o más personas destinada a delinquir;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 IV. Se realice el hecho por medio de amenazas en causar daño a la vida o salud del ofendido, o en persona con quien éste tenga vínculos de parentesco, amor, amistad, respeto o gratitud;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 V. Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 VI. Cuando el agente se encuentre legalmente privado de su libertad. Igual pena se aplicará a la persona que en libertad, participe de cualquier manera con el primero;
 
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+
 VII. Que cualquiera de los actos relacionados con el desarrollo de la extorsión, se efectúe desde lugar distinto al territorio del Estado de Querétaro; o bien de éste hacia otra entidad federativa, o
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
 VIII. Cuando el sujeto activo del delito sea, haya sido, o se ostente sin serlo, integrante de alguna institución policial, corporación de seguridad privada, o de órganos con funciones de investigación y persecución del delito, impartición de justicia penal o ejecución de penas y medidas de seguridad. En el caso de ser servidor público el sujeto activo del delito, se le impondrá además pena de destitución.
 
@@ -2357,6 +2393,10 @@ ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo
 
 Las penas previstas en este artículo se incrementarán hasta en una mitad más de lo ya establecido, cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad, personas con discapacidad o que, por las condiciones de sometimiento a las que se encuentren expuestos, les genere un estado de intimidación que les impida iniciar o continuar la denuncia.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Cuando las conductas previstas en este artículo se realicen por personas que tienen medidas de restricción por la autoridad respectiva o quebrantando medidas de protección a favor de la víctima y de las que haya sido notificado legalmente, se impondrá una pena de prisión de 5 a 10 años, trabajo a favor de la comunidad hasta por seis meses y tratamiento médico psicológico.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con pena de uno a cuatro de prisión, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra naturaleza, que implique la sujeción del pasivo a la custodia, protección o cuidado del activo, aun cuando los sujetos no convivan en el mismo domicilio.
@@ -2516,6 +2556,22 @@ Cuando se trate de un servidor público encargado de prevenir, denunciar, invest
 ###### ARTICULO 221.
 
 Al que públicamente provoque a cometer un delito o haga la apología de éste, se le impondrá prisión de 3 meses a 1 año y de 10 a 30 días multa.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Se impondrá pena de prisión de 3 a 6 años y de 500 a 1000 días multa, al que utilice cualquier medio para convocar, organizar, promover o difundir la coordinación o ejecución de saqueos, daños, robos o cualquier acto violento que afecten supermercados, tiendas de autoservicio, mercados de alimentos, gasolineras, tiendas de abarrotes, farmacias, hospitales, comercios o cualquier otro tipo de instalaciones públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Misma pena se impondrá al que, derivado de la convocatoria realizada en términos del párrafo anterior, participe en la coordinación o ejecución de saqueos, daños o cualquier acto violento en agravio de los establecimientos señalados en el segundo párrafo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Las penas previstas en los supuestos anteriores, se aplicarán con independencia de las penas que le correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Cuando en la ejecución de estos delitos se causen daños a bienes de uso o utilidad pública, las penas previstas se podrán incrementar hasta en una mitad de su duración y de tres a seis meses de trabajo a favor de la comunidad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -3409,7 +3465,7 @@ Además de las penas establecidas en el párrafo que antecede el agente sufrirá
 
 ### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 276.
 
@@ -3523,39 +3579,49 @@ ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en 
 
 ###### ARTICULO 286.
 
-Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad se le impondrá prisión de 3 meses a 1 año y hasta 20 UMA de multa.
+Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de 3 a 5 años y hasta 500 veces el valor diario de la UMA de multa.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+Si la desobediencia fuera respecto de medidas de seguridad sanitaria o de protección civil que se hubiesen decretado por la autoridad competente, durante una emergencia sanitaria, se aplicará la misma sanción del párrafo anterior.
+
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 287.
 
-Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de 3 meses a 2 años de prisión y hasta 20 UMA de multa.
+Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, se le impondrán de 3 a 4 años de prisión y hasta 5000 veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad de hasta por un año.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 288.
 
-Al que por medio de amenazas o de violencia se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales, se le aplicará prisión de 1 a 2 años y de 20 a 40 UMA de multa.
+Al que por medio de amenazas o de violencia se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato de autoridad que satisfaga todos los requisitos legales, se le aplicará prisión de 2 a 4 años y hasta 500 veces el valor diario de la UMA de multa, o trabajo en favor de la comunidad hasta por seis meses.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+Cuando la conducta del párrafo anterior se ejecute contra autoridades de servicios de salud, seguridad o protección civil, la pena se incrementará hasta en una mitad más.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 289.
 
-Al que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, dispuestos por la autoridad competente con los requisitos legales o con su autorización, se le aplicarán de 3 meses a 1 año de prisión y hasta 20 UMA de multa.
+Al que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, dispuestos por la autoridad competente con los requisitos legales o con su autorización, se le aplicarán de 1 a 2 años de prisión y hasta 200 veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses.
 
-Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de 1 a 2 años y de 20 a 40 UMA de multa. Si se usare violencia, las penas se aumentarán hasta en una mitad más.
+Cuando el delito se cometa por varias personas de común acuerdo se les aplicará prisión de 2 a 4 años y de 300 a 500 veces el valor diario de la UMA de multa, o trabajo a favor de la comunidad hasta por cuatro meses. Si se usare violencia, las penas se aumentarán hasta en una mitad más.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 290.
 
-Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio.
+Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio, CON EXCEPCIÓN DE LOS CASOS PREVISTOS EN ESTE CÓDIGO PENAL.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3571,11 +3637,11 @@ Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante
 
 (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 293.
 
-Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
+Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de tres a cinco años de prisión y hasta seis meses de trabajo a favor de la comunidad, además de la que le corresponda por el delito cometido.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3665,13 +3731,15 @@ Si la conducta se realiza por un servidor público cuyas funciones sean las de i
 
 ###### ARTICULO 299.
 
-A quien quebrante la prohibición de residir en una circunscripción territorial determinada, se le impondrán de 3 meses a 3 años de prisión y de 10 a 120 UMA de multa.
+A quien quebrante la prohibición de residir en una circunscripción territorial determinada, se le impondrán de 2 a 5 años de prisión y de 10 a 120 veces el valor diario de la UMA de multa.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 300.
 
-Al que violare la prohibición de ir a una circunscripción territorial determinada, se le aplicará prisión de 3 a 6 meses o de 20 a 60 UMA de multa.
+Al que violare la prohibición de ir a una circunscripción territorial determinada, se le aplicará prisión de 2 a 5 años o hasta 500 veces el valor diario de la UMA de multa.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3685,17 +3753,19 @@ Se sancionará con prisión de 3 meses a 1 año y de 10 a 40 días multa, el que
 
 A quien quebrante una pena de privación, suspensión o inhabilitación de derechos, funciones o empleos, se le impondrán de 10 a 50 días multa. En caso de reincidencia, se le aplicará prisión de 5 meses a 2 años y se duplicará la multa.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(NOTA: EL 5 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2021 Y SU ACUMULADA 6/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE DICIEMBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 303.
 
-Por el quebrantamiento de cualquier otra pena no privativa de libertad o medida de seguridad no se aplicará sanción alguna, salvo que se hiciere uso de violencia o se cause daño, en cuyo caso se impondrán de 3 meses a 1 año de prisión.
+Por el quebrantamiento de cualquier otra pena no privativa de libertad o medida de seguridad, definitiva o cautelar, no se aplicará sanción alguna, salvo que se hiciere uso de violencia o se cause daño, O SE TRATE DE MEDIDAS DE SEGURIDAD SANITARIA DECRETADAS POR AUTORIDAD COMPETENTE, en cuyo caso se impondrán de 1 a 5 años de prisión y hasta seis meses de trabajo a favor de la comunidad.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 304.
 
-A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este Capítulo, se le aplicará prisión de 3 meses a 1 año.
+A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este Capítulo, se le aplicará prisión de 1 a 3 años y hasta seis meses de trabajo a favor de la comunidad.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4540,6 +4610,22 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 11 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE ADICIONA UN ARTÍCULO 117 BIS AL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
