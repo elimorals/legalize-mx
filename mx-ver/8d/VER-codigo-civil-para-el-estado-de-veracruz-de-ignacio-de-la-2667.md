@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2020-10-07"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1973,11 +1973,15 @@ El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testam
 
 ARTICULO 299
 
-El reconocimiento de un hijo nacido fuera de matrimonio, deberá hacerse de alguno de los modos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2020)</small>
 
-I.- En la partida de nacimiento, ante el encargado del Registro Civil;
+El reconocimiento de una hija o hijo nacido fuera de matrimonio, deberá hacerse de alguno de los modos siguientes:
 
-II.- Por acta especial ante el encargado;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2020)</small>
+
+I.- En la partida de nacimiento, ante la persona responsable del Registro Civil;
+
+II.- (DEROGADA, G.O. 18 DE DICIEMBRE DE 2020)
 
 III.- Por escritura pública;
 
@@ -4099,9 +4103,9 @@ Para establecer el estado civil adquirido por los veracruzanos fuera del Estado 
 
 ARTICULO 676
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2020)</small>
 
-Todo acto del estado civil relativo a otro ya registrado deberá anotarse en el acta correspondiente y el documento que dé lugar a la anotación se insertará en el apéndice respectivo, que en el caso de no haberlo se formará, con excepción de las actas de reconocimiento, para lo cual, se atenderá lo dispuesto en el artículo 708. Se realizará también este procedimiento cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
+Todo acto del estado civil relativo a otro ya registrado deberá anotarse en el acta correspondiente y el documento que dé lugar a la anotación se insertará en el apéndice respectivo, que en el caso de no haberlo se formará, con excepción de las actas derivadas de un reconocimiento, para lo cual, se atenderá lo dispuesto en el artículo 708. Se realizará también este procedimiento cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
 
 > <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
@@ -4263,8 +4267,6 @@ ARTICULO 703
 
 Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, lo reconocieren al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser hijos del progenitor o progenitores que lo reconozcan, cuyos nombres llevará sin que por ninguna circunstancia se utilice en el acta la denominación de "hijo natural" u otra semejante. Esta acta surtirá efectos de reconocimiento legal.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2020)</small>
-
 ### CAPITULO IV. De las actas de adopción
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2012)</small>
@@ -4295,11 +4297,19 @@ ARTICULO 714 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
 ###### ARTICULO 704.
 
-Si el reconocimiento de hija o hijo nacido fuera del matrimonio se hiciere después de haber sido registrado su nacimiento, se expedirá nueva acta de nacimiento. Además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes en sus respectivos casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Si el reconocimiento de hija o hijo nacido fuera del matrimonio se hiciere después de haber sido registrado su nacimiento, se expedirá en lo subsecuente nueva acta de nacimiento con los datos objeto del reconocimiento conservando mismo número de acta y fecha de registro. Además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes en sus respectivos casos:
+
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2020)</small>
 
 I. Si la hija o hijo es mayor de edad expresarán ante la o el Oficial del Registro Civil su consentimiento para ser reconocido;
 
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2020)</small>
+
 II. Si la hija o hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su padre, madre o tutor; y
+
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2020)</small>
 
 III. Si la hija o hijo es menor de catorce años, o mayor de edad incapacitado jurídicamente, se expresará sólo el consentimiento de su padre, madre o tutor.
 
@@ -4307,11 +4317,11 @@ ARTICULO 705
 
 Lo dispuesto en el artículo anterior se observará también cuando haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de la ley.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 706.
+ARTICULO 706
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al Encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta de nacimiento primigenia, se insertará la nota marginal relativa al reconocimiento y la expedición de la nueva acta de nacimiento con el número de acta de registro.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al Encargado del Registro Civil el original o copia certificada del documento que lo compruebe. En el acta de nacimiento primigenia, se insertará la nota marginal relativa al reconocimiento y la expedición de la nueva acta de nacimiento en términos del artículo 704.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4319,15 +4329,15 @@ ARTICULO 707
 
 La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de quinientos a mil pesos que impondrá y hará efectiva la autoridad ante quien se haga valer el reconocimiento.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 708.
+ARTICULO 708
 
-En los casos de reconocimiento de hija o hijo realizado en alguno de los modos previstos en el artículo 299 de este Código de forma posterior al levantamiento de acta de nacimiento, la o el Oficial del Registro Civil expedirá nueva acta de nacimiento en donde se asienten los mismos datos del acta de nacimiento anterior más los nombres y apellidos de quien la o lo reconociere como progenitores. También se anotarán el o los nombres, domicilio y nacionalidad de los abuelos que correspondan al progenitor que se asiente en el acta.
+En los casos de reconocimiento de hija o hijo realizado en alguno de los modos previstos en el artículo 299 de este Código de forma posterior al levantamiento de acta de nacimiento, la o el Oficial del Registro Civil expedirá nueva acta de nacimiento en donde se asienten los mismos datos del acta de nacimiento anterior más los nombres y apellidos de quién la o lo reconociere como progenitores, insertándose en el libro respectivo. También se anotarán el o los nombres, domicilio y nacionalidad de los abuelos que correspondan al progenitor que se asiente en el acta.
 
 Se asentará la nota marginal correspondiente en el acta de nacimiento primigenia respecto del acto de reconocimiento.
 
-A partir del levantamiento de la nueva acta de nacimiento no se publicará ni se expedirá constancia alguna del acta anterior, salvo orden judicial o a solicitud de su Titular, haciéndose las anotaciones respectivas en la misma.
+Una vez asentada la anotación marginal no se publicará ni se expedirá constancia alguna del acta anterior, salvo orden judicial o a solicitud de su Titular, haciéndose las anotaciones respectivas en la misma.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -17000,3 +17010,11 @@ G.O. 7 DE OCTUBRE DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 609 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
