@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2020-02-04"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -1352,6 +1352,10 @@ Las autoridades sanitarias del Estado, con la participación de las institucione
 Las autoridades educativas, en coordinación con las autoridades sanitarias del Estado y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2020)</small>
+
+En la capacitación y actualización de los recursos humanos para la salud se deberá incorporar la perspectiva de género, a efecto de garantizar servicios de salud que promuevan un trato igualitario y con enfoque diferenciado en la población usuaria.
 
 ###### ARTICULO 84.
 
@@ -3668,3 +3672,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del Presente decreto, el Ejecutivo del Estado deberá emitir la reglamentación necesaria para hacer efectiva la presente reforma, asimismo sin exceder el plazo anterior deberá emitir el correspondiente decreto de extinción del Organismo Público Descentralizado Régimen Veracruzano de Protección Social en Salud.
+
+G.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 611 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 83 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan el presente Decreto.
