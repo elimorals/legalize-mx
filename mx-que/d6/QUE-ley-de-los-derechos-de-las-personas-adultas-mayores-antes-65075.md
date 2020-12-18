@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-65075
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2020-01-17"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -51,31 +51,35 @@ La presente Ley es de orden público e interés social. Tiene por objeto reconoc
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Asistencia social: Acciones tendientes a mejorar las circunstancias de carácter social que impidan la protección física, mental y social, así como el desarrollo integral de las personas adultas mayores en estado de necesidad, desprotección o que se encuentren en desventaja física o mental;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Atención médica: Conjunto de servicios médicos para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores, con el fin de preservar sus capacidades y funciones en las mejores condiciones posibles;
+I. Abandono: Todo acto de aislamiento sistemático, permanente, consistente y deliberado hacia las personas adultas mayores, entendidos como una exclusión o como actos discriminatorios o de menosprecio hacia su persona;
 
-III. Atención integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores;
+II. Asistencia social: Acciones tendientes a mejorar las circunstancias de carácter social que impidan la protección física, mental y social, así como el desarrollo integral de las personas adultas mayores en estado de necesidad, desprotección o que se encuentren en desventaja física o mental;
 
-IV. Consejo: Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro;
+III. Atención médica: Conjunto de servicios médicos para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores, con el fin de preservar sus capacidades y funciones en las mejores condiciones posibles;
+
+IV. Atención integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores;
+
+V. Consejo: Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
 
-V. Género: Construcción simbólica de la diferencia sexual acompañada de los conceptos sociales de las funciones, comportamientos, actividades y atributos que cada sociedad considera apropiados para mujeres y hombres;
+VI. Género: Construcción simbólica de la diferencia sexual acompañada de los conceptos sociales de las funciones, comportamientos, actividades y atributos que cada sociedad considera apropiados para mujeres y hombres;
 
-VI. Geriatría: Especialidad médica dedicada al estudio de los aspectos fisiológicos y las enfermedades propias de la vejez;
+VII. Geriatría: Especialidad médica dedicada al estudio de los aspectos fisiológicos y las enfermedades propias de la vejez;
 
-VII. Gerontología: Conjunto de conocimientos y estudios del fenómeno del envejecimiento en su totalidad;
+VIII. Gerontología: Conjunto de conocimientos y estudios del fenómeno del envejecimiento en su totalidad;
 
-VIII. Integración social: Acciones que realizan las dependencias y entidades de la administración pública del Estado y de los municipios, así como la sociedad organizada, orientadas a modificar y superar las condiciones que impiden a las personas adultas mayores su desarrollo integral dentro del grupo social;
+IX. Integración social: Acciones que realizan las dependencias y entidades de la administración pública del Estado y de los municipios, así como la sociedad organizada, orientadas a modificar y superar las condiciones que impiden a las personas adultas mayores su desarrollo integral dentro del grupo social;
 
-IX. Persona adulta mayor: La persona que cuenta con sesenta años o más de edad;
+X. Persona adulta mayor: La persona que cuenta con sesenta años o más de edad;
 
-X. Persona adulta mayor dependiente absoluta: La que padece una enfermedad crónica o degenerativa, que requiera ayuda permanente total;
+XI. Persona adulta mayor dependiente absoluta: La que padece una enfermedad crónica o degenerativa, que requiera ayuda permanente total;
 
-XI. Persona adulta mayor en situaciones de riesgo o desamparo: La que, por problemas de salud, abandono, carencia de apoyo económico o familiar, contingencias ambientales o desastres, requieran de asistencia y protección de instituciones del Poder Ejecutivo del Estado, de los municipios o de la sociedad organizada; y
+XII. Persona adulta mayor en situaciones de riesgo o desamparo: La que, por problemas de salud, abandono, carencia de apoyo económico o familiar, contingencias ambientales o desastres, requieran de asistencia y protección de instituciones del Poder Ejecutivo del Estado, de los municipios o de la sociedad organizada; y
 
-XII. Persona adulta mayor semidependiente: Aquella a la que sus condiciones físicas y mentales aún le permiten valerse por sí misma, aunque con ayuda permanente parcial.
+XIII. Persona adulta mayor semidependiente: Aquella a la que sus condiciones físicas y mentales aún le permiten valerse por sí misma, aunque con ayuda permanente parcial.
 
 ###### Artículo 3.
 
@@ -403,7 +407,9 @@ IV. Proporcionarles alimentos, según lo dispuesto en el Código Civil del Estad
 
 V. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente y se cultiven valores que incidan en sus necesidades afectivas, de protección y de apoyo; y
 
-VI. Evitar que cualquiera de los integrantes de la familia, realice o induzca a la realización de acciones discriminatorias, de abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo la integridad física, bienes y derechos de los adultos mayores.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Evitar que cualquiera de los integrantes de la familia, realice o induzca la realización de acciones discriminatorias, de abuso, explotación, aislamiento, violencia, abandono, hacinamiento, o desalojo de la persona adulta mayor o actos jurídicos que pongan en riesgo la integridad física, bienes y derechos de los adultos mayores. Los actos descritos en la presente fracción serán sancionados acorde a lo establecido en el Código Penal para el Estado de Querétaro.
 
 ## Título Tercero. Consejo Asesor para la Atención, Promoción y Defensa de las Personas Adultas Mayores del Estado de Querétaro
 
@@ -684,3 +690,11 @@ P.O. 17 DE ENERO DE 2020.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones normativas que se opongan a lo previsto en la presente Ley.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
