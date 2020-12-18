@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-137069"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-12-23"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137069&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
-> <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS: www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf Y www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf]</small>
+[NOTA 1: INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2020/PEMEX/mod_eoptr_202012.pdf.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -39,13 +41,17 @@ El presente Estatuto tiene por objeto establecer la estructura y organización b
 
 Pemex Transformación Industrial es una Empresa Productiva Subsidiaria, con personalidad jurídica y patrimonio propios, sujeta a la conducción central, dirección estratégica y coordinación de Petróleos Mexicanos, de conformidad con lo establecido en la Ley y su Reglamento, que tiene como finalidad generar valor económico y rentabilidad para el Estado Mexicano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Pemex Transformación Industrial tiene por objeto principal las actividades de refinación, transformación, procesamiento, importación, exportación, comercialización, Expendio al Público, elaboración y venta de Hidrocarburos, Petrolíferos, gas natural y Petroquímicos. Para lo anterior, podrá además, realizar las actividades siguientes:
+Pemex Transformación Industrial tiene por objeto principal las actividades de refinación, transformación, procesamiento, importación, exportación, comercialización, Expendio al Público, elaboración y venta de Hidrocarburos, Petrolíferos, gas natural, Petroquímicos y Petroquímicos Secundarios. Para lo anterior, podrá además, realizar las actividades siguientes:
 
 I. Llevar a cabo el almacenamiento, transporte, distribución, compresión, descompresión, licuefacción, regasificación de Hidrocarburos, Petrolíferos, gas natural y Petroquímicos sujetándose a las disposiciones jurídicas aplicables;
 
-II. La producción, distribución y comercialización de derivados del metano, etano y del propileno, por cuenta propia o de terceros;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+II. La producción, distribución y comercialización de derivados del metano, etano, propileno, amoniaco y sus derivados y fertilizantes, así como la prestación de servicios relacionados, por cuenta propia o de terceros;
 
 III. Administrar la planeación, evaluación y desarrollo de los proyectos y otras iniciativas de negocio relacionadas con su objeto;
 
@@ -81,15 +87,25 @@ II. Acuerdo de Creación: El instrumento aprobado por el Consejo de Administraci
 
 III. Azufre: Es un producto que se recupera de los procesos de endulzamiento del gas asociado, de los condensados amargos y del petróleo crudo, que se llevan a cabo tanto en los complejos procesadores de gas, como en las refinerías propiedad de Pemex. Actualmente se comercializa en un estado líquido (temperatura promedio de 140°C) y en algunos casos en estado sólido;
 
-IV. Cadena de Valor: Las actividades de refinación, transformación, procesamiento, importación, exportación, almacenamiento, transporte, distribución, compresión, descompresión, licuefacción, regasificación, comercialización, Expendio al Público, elaboración y venta de Hidrocarburos, Petrolíferos, gas natural, etileno, Petroquímicos y servicios relacionados con dichas actividades;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Cadena de Valor: Las actividades de refinación, transformación, procesamiento, importación, exportación, almacenamiento, transporte, distribución, compresión, descompresión, licuefacción, regasificación, comercialización, Expendio al Público, elaboración y venta de Hidrocarburos, Petrolíferos, gas natural, etileno, Petroquímicos y Petroquímicos Secundarios y servicios relacionados con dichas actividades;
 
 V. Centro Petroquímico: Serie de campos o plantas que comparten instalaciones superficiales comunes para el procesamiento de petroquímicos. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de un Centro Petroquímico a otro, o a un Centro Procesador de Gas, o a una Refinería, o a un Complejo Petroquímico;
 
 VI. Cogeneración: La producción de energía eléctrica conjuntamente con vapor u otro tipo de Energía térmica secundaria, o ambas; la producción directa o indirecta de energía eléctrica, mediante la Energía térmica no aprovechada en los procesos, o la generación directa o indirecta de energía eléctrica, cuando se utilicen combustibles producidos en los procesos;
 
-VII. Complejo Petroquímico: Conjunto de plantas petroquímicas y de servicios principales en el cual se obtienen sinergias productivas y logísticas que le confieren ventajas competitivas y que son encargadas de transformar químicamente componentes del gas, condensados y otros hidrocarburos líquidos en productos petroquímicos básicos, intermedios y finales, con el objeto de generar valor agregado. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de un Complejo Petroquímico a otro, o a un Centro Petroquímico, o a un Centro Procesador de Gas, o a una Refinería;
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII. Complejo Procesador de Gas: Serie de campos o plantas que comparten instalaciones superficiales comunes para el procesamiento del gas e hidrocarburos líquidos. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de un Centro Procesador de Gas a otro, o a una Refinería, a un Centro Petroquímico o a un Complejo Petroquímico;
+VI Bis. Combustibles de Transporte: Aquellos que son resultado del procesamiento de crudo y la producción de Petrolíferos en Refinerías, tales como gasolinas, diésel, turbosina, combustóleo y coque, entre otros;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Complejo Petroquímico: Conjunto de plantas petroquímicas y de servicios principales en el cual se obtienen sinergias productivas y logísticas que le confieren ventajas competitivas y que son encargadas de transformar químicamente componentes del gas, condensados y otros hidrocarburos líquidos en productos petroquímicos básicos, intermedios y finales, con el objeto de generar valor agregado. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de un Complejo Petroquímico a otro, o a un Centro Petroquímico, o a un Centro Procesador de Gas, o a una Refinería, o a una Terminal de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Complejo Procesador de Gas: Serie de campos o plantas que comparten instalaciones superficiales comunes para el procesamiento del gas e hidrocarburos líquidos. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de un Centro Procesador de Gas a otro, o a una Refinería, a un Centro Petroquímico o a un Complejo Petroquímico, o a una Terminal de Almacenamiento de Amoniaco;
 
 IX. Consejeros: Los designados con tal carácter, propietarios y suplentes, de conformidad con el Acuerdo de Creación;
 
@@ -119,7 +135,9 @@ XXI. Generación de Energía Eléctrica: Producción de energía eléctrica por 
 
 XXII. Hidrocarburos: Los que define la Ley de Hidrocarburos en su artículo 4, fracción XX;
 
-XXIII. Instalaciones Industriales: En ese término se comprende a las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos, terminales y demás instalaciones relacionadas con su objeto;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Instalaciones Industriales: En ese término se comprende a las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos, Terminales de Almacenamiento de Amoniaco y demás instalaciones relacionadas con su objeto;
 
 XXIV. Insumos para Refinerías: Son los productos y materia prima requeridos para la operación, proceso y producción de las Refinerías;
 
@@ -135,9 +153,17 @@ XXIX. Pemex: Petróleos Mexicanos;
 
 XXX. Pemex Transformación Industrial: La Empresa Productiva Subsidiaria, creada mediante el Acuerdo de Creación;
 
-XXXI. Petrolíferos: Son los que define la Ley de Hidrocarburos en su artículo 4, fracción XXVIII, así como los que interpreta la Comisión Reguladora de Energía en el Acuerdo Número A/023/2015 publicado en el Diario Oficial de la Federación el 9 de junio de 2015;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XXXII. Petroquímicos: Son los que define la Ley de Hidrocarburos en su artículo 4, fracción XXIX, así como los que interpreta la Comisión Reguladora de Energía en el Acuerdo Número A/023/2015 publicado en el Diario Oficial de la Federación el 9 de junio de 2015;
+XXXI. Petrolíferos: Son los que define la Ley de Hidrocarburos en su artículo 4, fracción XXVIII, así como los que interpreta la Comisión Reguladora de Energía;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Petroquímicos: Son los que define la Ley de Hidrocarburos en su artículo 4, fracción XXIX, los que interpreta la Comisión Reguladora de Energía, así como otros productos y servicios relacionados;
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XXXII Bis. Petroquímicos Secundarios: Aquellos productos que se obtienen del resultado del procesamiento del etano y gas seco, que no define la Ley de Hidrocarburos en su artículo 4, y tampoco interpreta la Comisión Reguladora de Energía, así como otros productos y servicios relacionados;
 
 XXXIII. Plan de Negocios: Aquel a que se refieren los artículos 13, fracción III y 14, de la Ley y 3, fracción VII, del Acuerdo de Creación;
 
@@ -149,13 +175,15 @@ XXXVI. Precios de Venta: Es el valor unitario (pesos por metro cúbico) del prod
 
 XXXVII. Presidente: El Presidente del Consejo de Administración;
 
-XXXVIII. Productos químicos: Productos que se obtienen de la refinación del Petróleo o del procesamiento del gas natural y que derivan directamente de Hidrocarburos, tales como gasolinas, diésel, querosenos, combustóleo y gas licuado de Petróleo, asfaltos, entre otros, y aquellos líquidos o gases que se obtienen del procesamiento del gas natural o de la refinación del Petróleo y su transformación, que se utilizan principalmente como materia prima para la industria; entre ellos propano, butano, isobutano, benceno, tolueno, mezcla de xilenos, aromáticos pesados, propileno, acrilonitrilo, estireno, entre otros;
+XXXVIII. (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 2020)
 
 XXXIX. Prosecretario: El Prosecretario del Consejo de Administración;
 
 XL. Reglamento: El Reglamento de la Ley;
 
-XLI. Refinería: Conjunto de instalaciones que sirven para transformar el petróleo crudo en derivados petrolíferos con alto valor económico, como son las gasolinas, la turbosina, y el diésel, y lubricantes; así como residuales de valor como el combustóleo y el coque. Dicha transformación se efectúa mediante procesos industriales especializados que requieren instalaciones de gran escala. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de una a otra Refinería, a un Centro Procesador de Gas, a un Centro Petroquímico o a un Complejo Petroquímico;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XLI. Refinería: Conjunto de instalaciones que sirven para transformar el petróleo crudo en derivados petrolíferos con alto valor económico, como son las gasolinas, la turbosina, y el diésel, y lubricantes; así como residuales de valor como el combustóleo y el coque. Dicha transformación se efectúa mediante procesos industriales especializados que requieren instalaciones de gran escala. Incluyen las instalaciones requeridas para llevar productos intermedios, subproductos o materia prima de una a otra Refinería, a un Centro Procesador de Gas, a un Centro Petroquímico, a un Complejo Petroquímico o a una Terminal de Almacenamiento de Amoniaco;
 
 XLII. Reserva Contractual: Modalidad de prestación del servicio de transporte por ducto o almacenamiento de Hidrocarburos, bajo la cual los usuarios suscriben contratos con el permisionario para reservar capacidad en el sistema, en virtud de los cuales obtienen los derechos sobre el uso de dicha capacidad;
 
@@ -178,6 +206,10 @@ L. Tecnologías de la Información: Incluye los términos de redes y telecomunic
 LI. Tecnologías Especializadas: Aquellas Tecnologías emergentes y maduras, que estén disponibles en el mercado diferentes a Tecnologías de la Información, de aplicación exclusiva en las operaciones sustantivas de la Cadena de Valor de Pemex Transformación Industrial, y
 
 LII. Tecnologías Operacionales: Es el hardware y software utilizado para detectar o causar cambios a través del monitoreo directo y/o el control de los dispositivos, procesos y eventos físicos en la planta, diferentes a Tecnologías de la Información, de aplicación exclusiva en las operaciones de los procesos sustantivos de la Cadena de Valor de las Empresas Productivas Subsidiarias.
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+LIII. Terminal de Almacenamiento de Amoniaco: Instalación requerida para llevar a cabo el almacenamiento de amoniaco para usos propios.
 
 ###### Artículo 5.
 
@@ -467,7 +499,9 @@ V. Dirigir el cumplimiento de las metas operativas y de negocio establecidas en 
 
 VI. Dirigir la integración de la estrategia tecnológica y promover su implantación;
 
-VII. Coordinar los procesos de comercialización de Petrolíferos, derivados del petróleo, gas natural y sus derivados, Petroquímicos, etileno y sus derivados; así como la implementación de políticas y directrices institucionales y la Planeación Estratégica Institucional en materia de mercadotecnia;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Coordinar los procesos de comercialización de Petrolíferos, derivados del petróleo, gas natural y sus derivados, Petroquímicos, etileno y sus derivados, amoniaco y sus derivados y fertilizantes; así como la implementación de políticas y directrices institucionales y la Planeación Estratégica Institucional en materia de mercadotecnia;
 
 VIII. Supervisar la ejecución de las inversiones y proyectos de Pemex Transformación Industrial, así como coordinar la participación de sus áreas adscritas en la definición, seguimiento y evaluación de dichas inversiones y proyectos, así como instruir e informar respecto de los avances e indicadores de desempeño a las áreas respectivas de Pemex;
 
@@ -545,11 +579,15 @@ XLIV. Coordinar los procesos industriales de la refinación, elaboración de Pet
 
 XLV. Coordinar el procesamiento del gas natural, líquidos del gas natural y derivados, así como los procesos industriales Petroquímicos;
 
-XLVI. Coordinar el procesamiento y la producción del etileno y sus derivados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XLVI. Coordinar el procesamiento y la producción del etileno y sus derivados, amoniaco y sus derivados y fertilizantes;
 
 XLVII. Coordinar la implementación de los programas de mantenimiento y asegurar la confiabilidad de plantas de proceso, ductos, instalaciones de almacenamiento y Servicios Principales;
 
-XLVIII. Dirigir la planeación energética de los activos de las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XLVIII. Dirigir la planeación energética de los activos de las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y Terminales de Almacenamiento de Amoniaco;
 
 XLIX. Proponer al Consejo de Administración la normatividad técnica que de acuerdo con el objeto de Pemex Transformación Industrial le corresponda y, en su caso, emitir, modificar, interpretar o dejar sin efectos la que sea de su competencia;
 
@@ -889,13 +927,17 @@ h) Gerencia de Refinería Salina Cruz
 
 i) Gerencia de Refinería Tula
 
-2. Subdirección de Proceso de Gas y Petroquímicos
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+2. Subdirección de Proceso de Gas y Petroquímica Básica
 
 a) Gerencia de Administración de la Producción
 
 b) Gerencia de Ingeniería de Procesos y Mejora Operativa
 
-c) Gerencia de Confiabilidad de Activos de Gas y Petroquímica
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+c) Gerencia de Confiabilidad de Activos de Gas y Petroquímica Básica
 
 d) Gerencia de Complejo Procesador de Gas Ciudad Pemex
 
@@ -905,19 +947,27 @@ f) Gerencia de Complejo Procesador de Gas Cactus
 
 g) Gerencia de Complejo Procesador de Gas Burgos
 
-h) Gerencia de Complejo Procesador de Gas Coatzacoalcos
+h) (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 2020)
 
-3. Subdirección de Producción de Etileno y Derivados
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+3. Subdirección de Producción de Petroquímica Secundaria
 
 a) Gerencia de Administración de la Producción
 
 b) Gerencia de Ingeniería de Procesos y Mejora Operativa
 
-c) Gerencia de Confiabilidad de Activos de Etileno
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+c) Gerencia de Confiabilidad de Activos de Petroquímica Secundaria
 
 d) Gerencia de Complejo Petroquímico Cangrejera
 
 e) Gerencia de Complejo Petroquímico Morelos
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+f) Gerencia de Operación de Fertilizantes
 
 4. Subdirección de Evaluación y Cumplimiento Regulatorio
 
@@ -949,6 +999,10 @@ iii) Gerencia de Comercialización de Gas Licuado de Petróleo y Residuales
 
 iv) Gerencia de Comercialización de Productos Petroquímicos
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+v) Gerencia de Comercialización de Petroquímicos Secundarios
+
 6. Subdirección de Abasto de Combustibles
 
 a) Gerencia de Programación
@@ -979,15 +1033,17 @@ g) Gerencia de Maduración de Proyectos y Calidad
 
 h) Gerencia de Administración de Impactos y Normatividad
 
-8. Subdirección de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-a) Gerencia de Seguridad de Procesos, Salud en el Trabajo y Protección Ambiental
+8. Subdirección de Seguridad, Salud en el Trabajo y Protección Ambiental
 
-b) Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental Norte
+a) Gerencia de Auditoria y Estándares, Seguridad, Salud en el Trabajo y Protección Ambiental
 
-c) Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental Sur
+b) Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental Norte
 
-d) Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental Centro
+c) Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental Sur
+
+d) Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental Centro
 
 ### CAPÍTULO SEGUNDO. DE LA SUBDIRECCIÓN DE PRODUCCIÓN DE PETROLÍFEROS
 
@@ -1157,11 +1213,15 @@ XIV. Coordinar la definición de los requerimientos presupuestales de los centro
 
 XV. Elaborar los diagnósticos físico-operativos de los centros de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas.
 
-### CAPÍTULO TERCERO. DE LA SUBDIRECCIÓN DE PROCESO DE GAS Y PETROQUÍMICOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO TERCERO. DE LA SUBDIRECCIÓN DE PROCESO DE GAS Y PETROQUÍMICA BÁSICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 48.
 
-La Subdirección de Proceso de Gas y Petroquímicos tendrá las funciones siguientes:
+La Subdirección de Proceso de Gas y Petroquímica Básica tendrá las funciones siguientes:
 
 I. Coordinar, con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, en los Complejos Procesadores de Gas y Centros Petroquímicos;
 
@@ -1263,9 +1323,11 @@ XXI. Evaluar el desempeño de los sistemas de medición de transferencia de cust
 
 XXII. Coordinar el desarrollo y profesionalización de competencias técnicas y gerenciales del personal técnico-operativo en los procesos y la transferencia del conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 51.
 
-La Gerencia de Confiabilidad de Activos de Gas y Petroquímica tendrá las funciones siguientes:
+La Gerencia de Confiabilidad de Activos de Gas y Petroquímica Básica tendrá las funciones siguientes:
 
 I. Colaborar y participar en la elaboración, integración y formalización de los planes y programas de mantenimiento preventivo, predictivo, inspección técnica, y de reparaciones mayores programadas de los activos de los Complejos Procesadores de Gas y Centros Petroquímicos, así como supervisar y evaluar su cumplimiento cuando corresponda;
 
@@ -1297,9 +1359,11 @@ XIV. Participar en el desarrollo de habilidades y competencias del personal téc
 
 XV. Coordinar la ejecución del Sistema de Confiabilidad Operacional, así como asesorar en el uso de los sistemas y herramientas tecnológicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 52.
 
-Las Gerencias de los Complejos Procesadores de Gas Ciudad Pemex, Nuevo Pemex, Cactus, Burgos y Coatzacoalcos tendrán las funciones siguientes:
+Las Gerencias de los Complejos Procesadores de Gas Ciudad Pemex, Nuevo Pemex, Cactus y Burgos tendrán las funciones siguientes:
 
 I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad operacional, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental y Eficiencia Energética del centro de trabajo;
 
@@ -1331,59 +1395,95 @@ XIV. Coordinar la definición de los requerimientos presupuestales de los centro
 
 XV. Elaborar los diagnósticos físico-operativos de los centros de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas.
 
-### CAPÍTULO CUARTO. DE LA SUBDIRECCIÓN DE PRODUCCIÓN DE ETILENO Y DERIVADOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO CUARTO. DE LA SUBDIRECCIÓN DE PRODUCCIÓN DE PETROQUÍMICA SECUNDARIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 53.
 
-La Subdirección de Producción de Etileno y Derivados tendrá las funciones siguientes:
+La Subdirección de Producción de Petroquímica Secundaria tendrá las funciones siguientes:
 
-I. Coordinar, con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Conducir la participación en la elaboración y ejecución de los programas operativos relacionados con la producción de etileno y sus derivados, así como de Servicios Principales y coordinar su ejecución en los Complejos Petroquímicos;
+I. Coordinar, con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
 
-III. Coordinar la logística para el procesamiento y la producción de etileno y sus derivados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+II. Conducir la participación en la elaboración y ejecución de los programas operativos relacionados con la producción de Petroquímicos Secundarios, así como de Servicios Principales y coordinar su ejecución en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Coordinar la logística para el procesamiento y la producción de Petroquímicos Secundarios;
 
 IV. Coordinar la implementación de las estrategias institucionales de los procesos productivos e impulsar propuestas de mejora;
 
-V. Coordinar la participación en la integración de la estrategia tecnológica alineada a la Planeación Estratégica Institucional, así como la administración y gestión del conocimiento de los procesos de producción de etileno y sus derivados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Coordinar la participación en la integración de la estrategia tecnológica alineada a la Planeación Estratégica Institucional, así como la administración y gestión del conocimiento de los procesos de producción de Petroquímicos Secundarios;
 
 VI. Coordinar la participación en el desarrollo de competencias técnicas y gerenciales del personal técnico-operativo en los procesos de la subdirección y la adecuada transferencia del conocimiento;
 
-VII. Coordinar la elaboración y la ejecución de programas de confiabilidad operacional, mantenimiento, conservación e inspección técnica de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII. Proponer y dar seguimiento a los proyectos de modernización y eficiencia de los Complejos Petroquímicos;
+VII. Coordinar la elaboración y la ejecución de programas de confiabilidad operacional, mantenimiento, conservación e inspección técnica de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
-IX. Coordinar la elaboración de los diagnósticos físico-operativos de los Complejos Petroquímicos, así como la evaluación de las libranzas y reparaciones mayores programadas;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-X. Administrar la gestión de la confiabilidad operacional y del mantenimiento de los activos de los Complejos Petroquímicos;
+VIII. Proponer y dar seguimiento a los proyectos de modernización y eficiencia de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
-XI. Administrar la gestión de los activos, recursos y programas de requerimientos de los Complejos Petroquímicos con base en la normatividad y lineamientos establecidos por las áreas competentes de Pemex, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XII. Coordinar las acciones para identificar y proponer opciones de oferta de materia prima para los procesos de los Complejos Petroquímicos.
+IX. Coordinar la elaboración de los diagnósticos físico-operativos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco, así como la evaluación de las libranzas y reparaciones mayores programadas;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Administrar la gestión de la confiabilidad operacional y del mantenimiento de los activos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Administrar la gestión de los activos, recursos y programas de requerimientos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco con base en la normatividad y lineamientos establecidos por las áreas competentes de Pemex, y
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Coordinar las acciones para identificar y proponer opciones de oferta de materia prima para los procesos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco.
 
 ###### Artículo 54.
 
 La Gerencia de Administración de la Producción tendrá las funciones siguientes:
 
-I. Colaborar en la integración de los programas operativos y coordinar su ejecución en los Complejos Petroquímicos, así como dar seguimiento y reportar la ejecución y cumplimiento de los mismos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+I. Colaborar en la integración de los programas operativos y coordinar su ejecución en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco, así como dar seguimiento y reportar la ejecución y cumplimiento de los mismos;
 
 II. Coordinar las actividades de enlace operativo entre Pemex Transformación Industrial, las Empresas Productivas Subsidiarias, Empresas Filiales y terceros;
 
-III. Colaborar en la integración de los programas de confiabilidad operacional, mantenimiento, inspección técnica, reparación de plantas de proceso, tanques de almacenamiento, Servicios Principales y reprogramaciones, así como coordinar su ejecución en los Complejos Petroquímicos, y dar seguimiento al cumplimiento de los mismos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Colaborar en la integración de los programas de confiabilidad operacional, mantenimiento, inspección técnica, reparación de plantas de proceso, tanques de almacenamiento, Servicios Principales y reprogramaciones, así como coordinar su ejecución en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco, y dar seguimiento al cumplimiento de los mismos;
 
 IV. Coordinar las redes de expertos y proporcionar el soporte técnico de acuerdo con la especialidad de producción;
 
 V. Coordinar y elaborar programas de requerimientos, bases de usuario estandarizadas para la compra y transferencias de insumos y productos, así como coordinar, la logística para el suministro y traspaso de materias primas, reactivos, catalizadores, tratamientos químicos, insumos y productos necesarios;
 
-VI. Colaborar en la integración de los programas de seguridad y contra incendio de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VII. Integrar y validar los datos de producción de los Complejos Petroquímicos y la reconciliación del balance másico y/o volumétrico, de los insumos y productos; así como el balance energético de los Servicios Principales, y generar reportes;
+VI. Colaborar en la integración de los programas de seguridad y contra incendio de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
-VIII. Consolidar la información de seguimiento a la implementación de las estrategias institucionales de los procesos productivos, así como de las propuestas de mejora en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Integrar y validar los datos de producción de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco y la reconciliación del balance másico y/o volumétrico, de los insumos y productos; así como el balance energético de los Servicios Principales, y generar reportes;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Consolidar la información de seguimiento a la implementación de las estrategias institucionales de los procesos productivos, así como de las propuestas de mejora en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
 
 IX. Participar en la ejecución disciplinada de los sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, así como del proceso de mejora continua;
 
-X. Participar en el establecimiento de las premisas vinculadas al análisis del desempeño operativo de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Participar en el establecimiento de las premisas vinculadas al análisis del desempeño operativo de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
 XI. Coordinar las actividades relativas a la formalización de los programas mensuales, certificación de calidad y volumen de producto, así como solicitar las acciones correctivas a las desviaciones y penalizaciones del suministro de materia prima, y
 
@@ -1395,73 +1495,119 @@ La Gerencia de Ingeniería de Procesos y Mejora Operativa tendrá las funciones 
 
 I. Administrar y asimilar las tecnologías de procesos productivos, promover el desarrollo del conocimiento, sistematización e interacción con licenciadores y tecnólogos;
 
-II. Desarrollar y/o seleccionar estándares, metodologías y programas para la optimización de los procesos, así como proponer y evaluar las alternativas de mejora de desempeño operativo, modificación de los procesos, utilización de nuevas tecnologías y Servicios Principales en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-III. Coordinar la planeación y sistematización de las actividades de producción y soporte a la producción en los Complejos Petroquímicos;
+II. Desarrollar y/o seleccionar estándares, metodologías y programas para la optimización de los procesos, así como proponer y evaluar las alternativas de mejora de desempeño operativo, modificación de los procesos, utilización de nuevas tecnologías y Servicios Principales en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Coordinar la planeación y sistematización de las actividades de producción y soporte a la producción en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
 
 IV. Participar en la elaboración de estándares y especificaciones técnicas para el Abastecimiento;
 
-V. Participar en conjunto con los Complejos Petroquímicos en la elaboración de bases de usuario;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VI. Asesorar a los Complejos Petroquímicos en la ejecución y optimización disciplinada de los procesos de producción de la cadena de valor, la implantación de tecnologías y mejores prácticas operativas;
+V. Participar en conjunto con los Complejos Petroquímicos y las Terminales de Almacenamiento de Amoniaco en la elaboración de bases de usuario;
 
-VII. Coordinar la implementación de las iniciativas estratégicas y proyectos de mejora en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII. Participar en la implementación, ejecución y seguimiento de las iniciativas de mejora energética de los Complejos Petroquímicos, en conjunto con la Gerencia de Cogeneración y Eficiencia Energética;
+VI. Asesorar a los Complejos Petroquímicos y a las Terminales de Almacenamiento de Amoniaco en la ejecución y optimización disciplinada de los procesos de producción de la cadena de valor, la implantación de tecnologías y mejores prácticas operativas;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Coordinar la implementación de las iniciativas estratégicas y proyectos de mejora en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Participar en la implementación, ejecución y seguimiento de las iniciativas de mejora energética de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco, en conjunto con la Gerencia de Cogeneración y Eficiencia Energética;
 
 IX. Participar en la optimización integral de la energía generada y consumida, en conjunto con la Gerencia de Cogeneración y Eficiencia Energética;
 
-X. Proponer y priorizar proyectos e iniciativas que incrementen el valor económico de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Proponer y priorizar proyectos e iniciativas que incrementen el valor económico de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
 XI. Participar en la atención de los programas de requerimientos y colaborar en las bases de usuario estandarizadas para la compra y transferencias de insumos y productos, así como coordinar, la logística para el suministro y traspaso de materias primas, reactivos, catalizadores, tratamientos químicos, insumos y productos necesarios;
 
 XII. Aplicar el proceso de mejora continua para evaluar el desempeño operativo de los procesos, equipos, métodos e insumos, y emitir recomendaciones para obtener mejoras en los rendimientos de los productos;
 
-XIII. Coordinar la elaboración y evaluación de las propuestas, integración e implementación de los programas y proyectos de la cartera de inversión de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XIV. Consolidar, homologar y coordinar internamente los insumos, catalizadores y sustancias químicas para los procesos productivos en los Complejos Petroquímicos;
+XIII. Coordinar la elaboración y evaluación de las propuestas, integración e implementación de los programas y proyectos de la cartera de inversión de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
-XV. Coordinar la implementación, certificación y mantenimiento de los sistemas de gestión de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XIV. Consolidar, homologar y coordinar internamente los insumos, catalizadores y sustancias químicas para los procesos productivos en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XV. Coordinar la implementación, certificación y mantenimiento de los sistemas de gestión de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
 XVI. Coordinar las redes de expertos y proporcionar soporte técnico de acuerdo con la especialidad de ingeniería de proceso y mejora operativa;
 
-XVII. Participar en el análisis de defectos, áreas de oportunidad y proponer iniciativas para la mejora continua de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Participar en el establecimiento de las premisas vinculadas al análisis del desempeño operativo de los Complejos Petroquímicos;
+XVII. Participar en el análisis de defectos, áreas de oportunidad y proponer iniciativas para la mejora continua de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
-XIX. Coordinar la elaboración y actualización de las especificaciones de calidad, así como la acreditación y certificación de los productos y procesos principales en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XX. Revisar el desempeño de los sistemas de medición de transferencia de custodia en los Complejos Petroquímicos, y
+XVIII. Participar en el establecimiento de las premisas vinculadas al análisis del desempeño operativo de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XIX. Coordinar la elaboración y actualización de las especificaciones de calidad, así como la acreditación y certificación de los productos y procesos principales en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XX. Revisar el desempeño de los sistemas de medición de transferencia de custodia en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco, y
 
 XXI. Coordinar el desarrollo y profesionalización de competencias técnicas y gerenciales del personal técnico-operativo en los procesos y la transferencia del conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 56.
 
-La Gerencia de Confiabilidad de Activos de Etileno tendrá las funciones siguientes:
+La Gerencia de Confiabilidad de Activos de Petroquímica Secundaria tendrá las funciones siguientes:
 
-I. Colaborar y participar en la elaboración, integración y formalización de los planes y programas de mantenimiento preventivo, predictivo, inspección técnica, y de reparaciones mayores programadas de los activos de los Complejos Petroquímicos, así como supervisar y evaluar su cumplimiento cuando corresponda;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+I. Colaborar y participar en la elaboración, integración y formalización de los planes y programas de mantenimiento preventivo, predictivo, inspección técnica, y de reparaciones mayores programadas de los activos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco, así como supervisar y evaluar su cumplimiento cuando corresponda;
 
 II. Consolidar y validar los requerimientos de bienes, servicios y obras relacionadas con el mantenimiento preventivo, predictivo y correctivo, así como consolidar y participar en la gestión, integración y seguimiento de los requerimientos de las reparaciones mayores programadas;
 
 III. Evaluar costos asociados al mantenimiento y su efectividad con base en los indicadores de mantenimiento, confiabilidad operacional e inspección técnica;
 
-IV. Evaluar y validar los casos de mantenimiento elaborados por los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Supervisar, validar y evaluar el cumplimiento del procedimiento para administrar las reparaciones mayores programadas, en coordinación con las áreas encargadas de los Complejos Petroquímicos;
+IV. Evaluar y validar los casos de mantenimiento elaborados por los Complejos Petroquímicos y las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Supervisar, validar y evaluar el cumplimiento del procedimiento para administrar las reparaciones mayores programadas, en coordinación con las áreas encargadas de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
 
 VI. Participar en la elaboración de los diagnósticos físico-operativos, para las reparaciones mayores, conforme a lo previsto en los procedimientos institucionales;
 
-VII. Validar en coordinación con la máxima autoridad de los Complejos Petroquímicos, el inmovilizado de alcance y el costo estimado de las reparaciones mayores programadas, con base en los diagnósticos físico-operativos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Validar en coordinación con la máxima autoridad de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco, el inmovilizado de alcance y el costo estimado de las reparaciones mayores programadas, con base en los diagnósticos físico-operativos;
 
 VIII. Realizar la evaluación ex-post de las reparaciones mayores programadas y comunicar los resultados;
 
-IX. Participar en el análisis causa-raíz de incidentes mayores y supervisar el cumplimiento de las recomendaciones en los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-X. Coordinar las redes de expertos y proporcionar el soporte técnico de acuerdo con la especialidad de confiabilidad operacional y mantenimiento e inspección técnica de los Complejos Petroquímicos;
+IX. Participar en el análisis causa-raíz de incidentes mayores y supervisar el cumplimiento de las recomendaciones en los Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco;
 
-XI. Coordinar las acciones de mejora de inspección técnica y ventanas operativas de equipos de los Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XII. Proponer acciones y asesorar a los Complejos Petroquímicos para la mejora del desempeño en confiabilidad operacional y mantenimiento de los activos aplicando Disciplina Operativa;
+X. Coordinar las redes de expertos y proporcionar el soporte técnico de acuerdo con la especialidad de confiabilidad operacional y mantenimiento e inspección técnica de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Coordinar las acciones de mejora de inspección técnica y ventanas operativas de equipos de los Complejos Petroquímicos y de las Terminales de Almacenamiento de Amoniaco;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Proponer acciones y asesorar a los Complejos Petroquímicos y a las Terminales de Almacenamiento de Amoniaco, para la mejora del desempeño en confiabilidad operacional y mantenimiento de los activos aplicando Disciplina Operativa;
 
 XIII. Proponer metas e indicadores para la gestión de la confiabilidad operacional y del mantenimiento, e inspección técnica, así como coordinar la evaluación del desempeño;
 
@@ -1469,9 +1615,11 @@ XIV. Participar en el desarrollo de habilidades y competencias del personal téc
 
 XV. Coordinar la ejecución del Sistema de Confiabilidad Operacional, así como asesorar en el uso de los sistemas y herramientas tecnológicas respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 57.
 
-Las Gerencias de los Complejos Petroquímicos Cangrejera y Morelos tendrán las funciones siguientes:
+Las Gerencias de los Complejos Petroquímicos Cangrejera, Morelos así como la Gerencia de Operación de Fertilizantes tendrán las funciones siguientes:
 
 I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad operacional, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental y Eficiencia Energética del centro de trabajo;
 
@@ -1483,7 +1631,9 @@ IV. Identificar, evaluar y proponer necesidades de innovación y desarrollo tecn
 
 V. Participar como enlace operativo ante las áreas de proyectos para la mantenibilidad, integración, pruebas y arranque de las instalaciones o equipos;
 
-VI. Prestar servicios de producción de etileno y sus derivados, almacenamiento, guarda, manejo y entrega de insumos y productos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Prestar servicios de producción de Petroquímicos Secundarios, almacenamiento, guarda, manejo y entrega de insumos y productos;
 
 VII. Elaborar los casos de mantenimiento del centro de trabajo, conforme al alcance validado y participar en los procesos de Abastecimiento, en la elaboración de bases de usuario, dictámenes técnicos, administración y supervisión de los contratos de obras y servicios de los centros de trabajo;
 
@@ -1509,7 +1659,9 @@ XV. Elaborar los diagnósticos físico-operativos de los centros de trabajo, as�
 
 La Subdirección de Evaluación y Cumplimiento Regulatorio tendrá las funciones siguientes:
 
-I. Coordinar la planeación energética en Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos, así como la adopción de sistemas y herramientas que orienten los procesos operativos a la mejora de la Eficiencia Energética, incluyendo el Sistema de Gestión de la Energía y los proyectos inherentes al cambio climático;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+I. Coordinar la planeación energética en Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y en las Terminales de Almacenamiento de Amoniaco, así como la adopción de sistemas y herramientas que orienten los procesos operativos a la mejora de la Eficiencia Energética, incluyendo el Sistema de Gestión de la Energía y los proyectos inherentes al cambio climático;
 
 II. Jerarquizar y aprobar las iniciativas de Cogeneración y Eficiencia Energética, como parte del proceso de evaluación e integración de la cartera de proyectos estratégicos en la materia;
 
@@ -1531,7 +1683,9 @@ X. Coordinar el cumplimiento de las actividades reguladas conforme a la Ley de H
 
 XI. Conducir la estrategia regulatoria en el diseño de los instrumentos comerciales y estimar el posible impacto de la regulación aplicable a Pemex Transformación Industrial;
 
-XII. Coordinar el cumplimiento en materia de especificaciones de calidad de combustibles de transporte, productos y combustibles industriales, así como negociar las propuestas de elaboración y modificación frente a las autoridades competentes;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Coordinar el cumplimiento en materia de especificaciones de calidad de Combustibles de Transporte, productos y combustibles industriales, así como negociar las propuestas de elaboración y modificación frente a las autoridades competentes;
 
 XIII. Supervisar las metodologías y el cálculo periódico de los precios y tarifas de transferencia para los productos y servicios de Pemex Transformación Industrial;
 
@@ -1547,7 +1701,9 @@ La Gerencia de Cogeneración y Eficiencia Energética tendrá las funciones sigu
 
 I. Evaluar, planear y proponer el diseño conceptual de las iniciativas de Cogeneración, en colaboración con las áreas competentes de Pemex, así como coordinar la elaboración de los casos de negocio de las iniciativas de Cogeneración y Eficiencia Energética;
 
-II. Gestionar y supervisar la elaboración e integración de las bases de usuario y la ingeniería conceptual de las iniciativas de Cogeneración y Eficiencia Energética de Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+II. Gestionar y supervisar la elaboración e integración de las bases de usuario y la ingeniería conceptual de las iniciativas de Cogeneración y Eficiencia Energética de Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y Terminales de Almacenamiento de Amoniaco;
 
 III. Coordinar la programación y optimización de las actividades de operación, mantenimiento y de apoyo comercial de las centrales de Cogeneración, con Pemex y Empresas Productivas Subsidiarias;
 
@@ -1561,13 +1717,19 @@ VII. Coordinar el cumplimiento de las obligaciones pactadas en los instrumentos 
 
 VIII. Coordinar y gestionar las actividades en materia de certificados de energías limpias y demás obligaciones que apliquen en el sector energético;
 
-IX. Evaluar el cumplimiento de los indicadores de desempeño energético, los objetivos y metas de la línea base energética y elaborar los planes de acción para cumplir las políticas energéticas sectoriales, en coordinación con las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos, así como emitir reportes y recomendaciones de mejora basadas en referencias internacionales;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IX. Evaluar el cumplimiento de los indicadores de desempeño energético, los objetivos y metas de la línea base energética y elaborar los planes de acción para cumplir las políticas energéticas sectoriales, en coordinación con las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y Terminales de Almacenamiento de Amoniaco, así como emitir reportes y recomendaciones de mejora basadas en referencias internacionales;
 
 X. Integrar, evaluar y jerarquizar, con base en los resultados del desempeño energético, la implementación, ejecución y seguimiento de las iniciativas de mejora en Eficiencia Energética;
 
-XI. Analizar y evaluar el desempeño y el costo de la Generación de Energía Eléctrica y Energía Térmica de las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XII. Revisar y proponer nuevas tecnologías, mecanismos, sistemas, herramientas y servicios que orienten a las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos y Complejos Petroquímicos en la adopción y uso de estándares de Eficiencia Energética.
+XI. Analizar y evaluar el desempeño y el costo de la Generación de Energía Eléctrica y Energía Térmica de las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y Terminales de Almacenamiento de Amoniaco, y
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Revisar y proponer nuevas tecnologías, mecanismos, sistemas, herramientas y servicios que orienten a las Refinerías, Complejos Procesadores de Gas, Centros Petroquímicos, Complejos Petroquímicos y Terminales de Almacenamiento de Amoniaco en la adopción y uso de estándares de Eficiencia Energética.
 
 ###### Artículo 60.
 
@@ -1663,25 +1825,41 @@ VII. Proponer a las áreas responsables la estrategia de las políticas y mecani
 
 La Coordinación de Comercialización de Combustibles de Transporte tendrá las funciones siguientes:
 
-I. Coordinar el proceso de comercialización de combustibles de transporte, así como otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Coordinar y proponer la aplicación de las políticas y mecanismos de crédito de combustibles de transporte, así como otros productos y servicios relacionados;
+I. Coordinar el proceso de comercialización de Combustibles de Transporte, así como otros productos y servicios relacionados;
 
-III. Coordinar y proponer la aplicación de las políticas comerciales, programas, estrategias y proyectos del proceso comercial de combustibles de transporte, así como otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-IV. Determinar los esquemas de coordinación comercial operativa para el abasto de combustibles de transporte y otros productos y servicios con las áreas de Pemex Transformación Industrial, Empresas Productivas Subsidiarias y Empresas Filiales, así como con terceros;
+II. Coordinar y proponer la aplicación de las políticas y mecanismos de crédito de Combustibles de Transporte, así como otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Coordinar y proponer la aplicación de las políticas comerciales, programas, estrategias y proyectos del proceso comercial de Combustibles de Transporte, así como otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Determinar los esquemas de coordinación comercial operativa para el abasto de Combustibles de Transporte y otros productos y servicios con las áreas de Pemex Transformación Industrial, Empresas Productivas Subsidiarias y Empresas Filiales, así como con terceros;
 
 V. Coordinar con la Dirección Corporativa de Finanzas la ejecución de las operaciones de coberturas de riesgos financieros a solicitud de los clientes, y la propuesta del diseño e implementación de las estrategias de mitigación de riesgos financieros y las posiciones con sus clientes;
 
-VI. Coordinar junto con la Subdirección de Abasto de Combustibles, las acciones para atender los programas comerciales de oferta y demanda de los clientes de combustibles de transporte en zonas de distribución y puntos de transferencia, así como otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VII. Coordinar la atención y asesoría de los clientes de comercialización de combustibles de transporte;
+VI. Coordinar junto con la Subdirección de Abasto de Combustibles, las acciones para atender los programas comerciales de oferta y demanda de los clientes de Combustibles de Transporte en zonas de distribución y puntos de transferencia;
 
-VIII. Dar seguimiento a las estrategias, proyectos, modelos de negocio, mecanismos, inteligencia de mercado, programas de comercialización de combustibles de transporte y de mercadotecnia comercial, así como otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Coordinar la atención y asesoría a los clientes de comercialización de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Dar seguimiento a las estrategias, proyectos, modelos de negocio, mecanismos, inteligencia de mercado, programas de comercialización de Combustibles de Transporte y de mercadotecnia comercial, así como otros productos y servicios relacionados;
 
 IX. Coordinar la negociación, administración y celebración de los contratos relacionados con la actividad comercial;
 
-X. Proponer el mecanismo de las condiciones comerciales de los productos y servicios de comercialización de combustibles de transporte, así como otros productos y servicios relacionados, en función de las condiciones de mercado;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Proponer el mecanismo de las condiciones comerciales de los productos y servicios de comercialización de Combustibles de Transporte, así como otros productos y servicios relacionados, en función de las condiciones de mercado;
 
 XI. Coordinar con las áreas competentes de Pemex Transformación Industrial el desarrollo de mecanismos comerciales operativos, y
 
@@ -1693,15 +1871,25 @@ La Gerencia de Estrategias Comerciales tendrá las funciones siguientes:
 
 I. Desarrollar los estudios de evaluación de la satisfacción y servicio al cliente, así como los planes de mejora derivados de sus resultados;
 
-II. Participar con las áreas competentes, en el análisis del mecanismo de los Precios de Venta, tarifas y cuotas de los productos y servicios de los clientes de comercialización de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-III. Coordinar la elaboración del análisis de las condiciones crediticias del mercado de los productos de comercialización de combustibles de transporte, así como de otros productos y servicios relacionados;
+II. Participar con las áreas competentes, en el análisis del mecanismo de los Precios de Venta, tarifas y cuotas de los productos y servicios de los clientes de comercialización de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-IV. Desarrollar el mecanismo de las condiciones comerciales de los productos de comercialización de combustibles de transporte, así como de otros productos y servicios relacionados, en función de las condiciones de mercado;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Consolidar las cifras de ventas de los productos de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+III. Coordinar la elaboración del análisis de las condiciones crediticias del mercado de los productos de comercialización de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-VI. Elaborar y actualizar la estrategia de comercialización de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Desarrollar el mecanismo de las condiciones comerciales de los productos de comercialización de Combustibles de Transporte, así como de otros productos y servicios relacionados, en función de las condiciones de mercado;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Consolidar las cifras de ventas de los productos de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Elaborar y actualizar la estrategia de comercialización de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
 VII. Definir las directrices del uso de la imagen y Marcas Pemex en la comercialización de los productos y servicios de la Subdirección de Comercialización;
 
@@ -1723,19 +1911,33 @@ La Gerencia de Operación Comercial de Combustibles de Transporte tendrá las fu
 
 I. Participar en el desarrollo de la estrategia comercial para nuevos mercados y productos;
 
-II. Proponer a la Gerencia de Estrategias Comerciales nuevos negocios o servicios comerciales para clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-III. Colaborar con la Gerencia de Gerencia de (sic) Estrategias Comerciales en el desarrollo de los mecanismos de las condiciones comerciales de los productos y servicios de combustibles de transporte, así como de otros productos y servicios relacionados;
+II. Proponer a la Gerencia de Estrategias Comerciales nuevos negocios o servicios comerciales para clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-IV. Administrar la facturación y cobranza de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Ejecutar las estrategias, políticas comerciales, mecanismos de crédito para la atención del proceso de comercialización de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+III. Colaborar con la Gerencia de Estrategias Comerciales en el desarrollo de los mecanismos de las condiciones comerciales de los productos y servicios de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-VI. Administrar el crédito de los productos y servicios de la cartera de clientes de combustibles de transporte, así como de otros productos y servicios relacionados, conforme a las políticas de crédito;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VII. Difundir los Precios de Venta de los productos y servicios de combustibles de transporte, así como de otros productos y servicios relacionados;
+IV. Administrar la facturación y cobranza de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-VIII. Proponer y aplicar los mecanismos de Precios de Venta de los productos y servicios distintos a gasolinas, diésel y turbosina de comercialización de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Ejecutar las estrategias, políticas comerciales, mecanismos de crédito para la atención del proceso de comercialización de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Administrar el crédito de los productos y servicios de la cartera de clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados, conforme a las políticas de crédito;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Difundir los Precios de Venta de los productos y servicios de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Proponer y aplicar los mecanismos de Precios de Venta de los productos y servicios distintos a gasolinas, diésel y turbosina, así como de otros productos y servicios relacionados;
 
 IX. Elaborar en coordinación con la Subdirección de Abasto de Combustibles el pronóstico de la demanda;
 
@@ -1745,7 +1947,9 @@ XI. Desarrollar y realizar el servicio de verificación de calidad de los produc
 
 XII. Coordinar con la Subdirección de Abasto de Combustibles el suministro de los productos y servicios relacionados, para el cumplimiento de los contratos;
 
-XIII. Coordinar la elaboración y atención de los programas operativos y de entrega de producto, de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Coordinar la elaboración y atención de los programas operativos y de entrega de producto, de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
 XIV. Coordinar con el área responsable de la Dirección Corporativa de Finanzas, la propuesta del diseño e implementación de las estrategias de mitigación de riesgos financieros y las posiciones con sus clientes;
 
@@ -1753,7 +1957,9 @@ XV. Impulsar estrategias, proyectos y programas para la modernización del proce
 
 XVI. Definir los términos y condiciones de los programas de supervisión y control de la franquicia Pemex y de otros modelos comerciales;
 
-XVII. Proponer las respuestas a las consultas, aclaraciones, controversias y conciliaciones derivadas de los contratos con los clientes de combustibles de transporte, así como de otros productos y servicios relacionados, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XVII. Proponer las respuestas a las consultas, aclaraciones, controversias y conciliaciones derivadas de los contratos con los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados, y
 
 XVIII. Administrar los contratos de arrendamiento y, en su caso, definir la operación de la franquicia Pemex en las estaciones de servicio propiedad o en posesión de Pemex Transformación Industrial.
 
@@ -1761,35 +1967,57 @@ XVIII. Administrar los contratos de arrendamiento y, en su caso, definir la oper
 
 La Gerencia de Ventas de Combustibles de Transporte tendrá las funciones siguientes:
 
-I. Realizar la comercialización de los productos y servicios de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Administrar la cartera de clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+I. Realizar la comercialización de los productos y servicios de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-III. Elaborar y atender los programas operativos y de entrega de producto de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados, en coordinación con la Gerencia de Operación Comercial de Combustibles de Transporte;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-IV. Ejecutar los proyectos y programas para la atención del proceso de comercialización de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+II. Administrar la cartera de clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Elaborar y atender los programas operativos y de entrega de producto de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados, en coordinación con la Gerencia de Operación Comercial de Combustibles de Transporte;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Ejecutar los proyectos y programas para la atención del proceso de comercialización de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
 V. Implementar las estrategias de coberturas de riesgos financieros;
 
 VI. Colaborar con la Gerencia de Operación Comercial de Combustibles de Transporte en la elaboración del pronóstico de la demanda de productos Petrolíferos requeridos por los clientes;
 
-VII. Implementar nuevos negocios o servicios comerciales para clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII. Implementar las condiciones comerciales de los productos y servicios de combustibles de transporte, así como de otros productos y servicios relacionados;
+VII. Implementar nuevos negocios o servicios comerciales para clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-IX. Coordinar con la Gerencia de Operación Comercial de Combustibles de Transporte, la operación del crédito, facturación y cobranza de los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-X. Asesorar en los procesos de comercialización a los clientes de combustibles de transporte, así como de otros productos y servicios relacionados;
+VIII. Implementar las condiciones comerciales de los productos y servicios de Combustibles de Transporte, así como de otros productos y servicios relacionados;
 
-XI. Atender las consultas, aclaraciones, controversias y conciliaciones derivadas de los contratos con los clientes de combustibles de transporte, así como de otros productos y servicios relacionados, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XII. Realizar las visitas comerciales a los clientes de combustibles de transporte, así como de otros productos y servicios relacionados, en coordinación con las áreas competentes.
+IX. Coordinar con la Gerencia de Operación Comercial de Combustibles de Transporte, la operación del crédito, facturación y cobranza de los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Asesorar en los procesos de comercialización a los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Atender las consultas, aclaraciones, controversias y conciliaciones derivadas de los contratos con los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados, y
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Realizar las visitas comerciales a los clientes de Combustibles de Transporte, así como de otros productos y servicios relacionados, en coordinación con las áreas competentes.
 
 ###### Artículo 68.
 
 La Coordinación de Comercialización y Abasto de Productos y Combustibles Industriales tendrá las siguientes funciones:
 
-I. Coordinar el proceso de comercialización de gas natural, gas licuado de petróleo, etano, productos químicos, Petroquímicos, residuales, así como otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+I. Coordinar el proceso de comercialización de gas natural, gas licuado de petróleo, etano, naftas o gasolinas naturales, derivados del etano y aromáticos y derivados, metanol, amoniaco y sus derivados, fertilizantes, residuales distintos al combustóleo y coque, así como otros productos y servicios relacionados;
 
 II. Coordinar la estrategia logística comercial y de abasto, respecto de la capacidad y servicios de transporte, almacenamiento y distribución;
 
@@ -1901,7 +2129,9 @@ XIV. Implementar las estrategias de coberturas de riesgos financieros.
 
 La Gerencia de Comercialización de Productos Petroquímicos tendrá las funciones siguientes:
 
-I. Realizar las actividades relacionadas con las ventas de primera mano y comercialización de productos químicos y Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+I. Realizar las actividades relacionadas con las ventas de primera mano y comercialización de naftas o gasolinas naturales, derivados del etano y aromáticos y derivados, así como de otros productos y servicios relacionados;
 
 II. Diseñar con las áreas competentes las estrategias comerciales, así como ejecutar dichas estrategias;
 
@@ -1909,7 +2139,9 @@ III. Diseñar proyectos y negocios para el desarrollo de nuevos mercados, servic
 
 IV. Desarrollar las propuestas relacionadas con la autorización de líneas de crédito a clientes y garantías;
 
-V. Coordinar con la Gerencia de Soporte Comercial, la operación del crédito, facturación y cobranza de los clientes de productos químicos y Petroquímicos, así como de otros productos y servicios relacionados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Coordinar con la Gerencia de Soporte Comercial, la operación del crédito, facturación y cobranza de los clientes de naftas o gasolinas naturales, derivados del etano y aromáticos y derivados, así como de otros productos y servicios relacionados;
 
 VI. Negociar y administrar los contratos de ventas de primera mano y de comercialización;
 
@@ -1919,13 +2151,17 @@ VIII. Proponer e implementar la adquisición de productos para reventa en conjun
 
 IX. Diseñar los programas de importación y exportación de los productos, así como coordinar los inventarios;
 
-X. Negociar y administrar los instrumentos jurídicos para el abasto, almacenamiento, manejo, transporte y distribución para la comercialización de productos químicos y Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Negociar y administrar los instrumentos jurídicos para el abasto, almacenamiento, manejo, transporte y distribución para la comercialización de naftas o gasolinas naturales, derivados del etano y aromáticos y derivados, así como de otros productos y servicios relacionados;
 
 XI. Administrar los centros embarcadores autorizados para realizar los servicios de depósito y trasvase;
 
 XII. Atender las consultas, aclaraciones, controversias y conciliaciones derivadas de aspectos técnicos y administrativos de la cartera de clientes;
 
-XIII. Coordinar la entrega de productos y servicios asociados al abasto y venta de productos químicos y Petroquímicos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Coordinar la entrega de productos y servicios asociados al abasto y venta de naftas o gasolinas naturales, derivados del etano y aromáticos y derivados, así como de otros productos y servicios relacionados;
 
 XIV. Desarrollar servicios relacionados con las ventas de primera mano, comercialización y promoción de infraestructura;
 
@@ -1935,6 +2171,40 @@ XVI. Desarrollar, evaluar y optimizar los modelos logísticos comerciales y el p
 
 XVII. Implementar las estrategias de coberturas de riesgos financieros.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+Artículo 72 BIS. La Gerencia de Comercialización de Petroquímicos Secundarios tendrá las funciones siguientes:
+
+I. Realizar las actividades relacionadas con las ventas de metanol, amoniaco y sus derivados, fertilizantes, así como otros productos y servicios relacionados;
+
+II. Diseñar con las áreas competentes las estrategias comerciales, así como ejecutar dichas estrategias;
+
+III. Diseñar proyectos y negocios para el desarrollo de nuevos mercados, servicios y productos;
+
+IV. Desarrollar las propuestas relacionadas con la autorización de líneas de crédito a clientes y garantías;
+
+V. Coordinar con la Gerencia de Soporte Comercial, la operación del crédito, facturación y cobranza de los clientes de metanol, amoniaco y sus derivados, fertilizantes, así como de otros productos y servicios relacionados;
+
+VI. Negociar y administrar los contratos de ventas de metanol, amoniaco y sus derivados y fertilizantes, así como de otros productos y servicios relacionados;
+
+VII. Proponer e implementar la adquisición de productos para reventa en conjunto con las áreas competentes;
+
+VIII. Diseñar los programas de importación y exportación de los productos, así como coordinar los inventarios;
+
+IX. Negociar y administrar los instrumentos jurídicos para el abasto, almacenamiento, manejo, transporte y distribución para la comercialización de metanol, amoniaco y sus derivados y fertilizantes, así como de otros productos y servicios relacionados;
+
+X. Atender las consultas, aclaraciones, controversias y conciliaciones derivadas de aspectos técnicos y administrativos de la cartera de clientes de metanol, amoniaco y sus derivados y fertilizantes, así como de otros productos y servicios relacionados;
+
+XI. Coordinar la entrega de productos y servicios asociados al abasto y venta de metanol, amoniaco y sus derivados y fertilizantes, así como de otros productos y servicios relacionados;
+
+XII. Desarrollar servicios relacionados con las ventas y promoción de infraestructura;
+
+XIII. Determinar los requerimientos para el abasto, la capacidad de transporte, almacenamiento y distribución requerida, con las instancias competentes;
+
+XIV. Desarrollar, evaluar y optimizar los modelos logísticos comerciales y el programa de entrega y distribución y de disponibilidad comercial, y
+
+XV. Implementar las estrategias de coberturas de riesgos financieros.
+
 ### CAPÍTULO SÉPTIMO. DE LA SUBDIRECCIÓN DE ABASTO DE COMBUSTIBLES
 
 ###### Artículo 73.
@@ -1943,17 +2213,29 @@ La Subdirección de Abasto de Combustibles tendrá las funciones siguientes:
 
 I. Participar en la definición de la estrategia comercial y dirigir las acciones para que los programas de abasto se lleven a cabo conforme a la misma;
 
-II. Coordinar la aplicación de los esquemas operativos comerciales para el abasto de los combustibles de transporte, Insumos para Refinerías y de residuales;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-III. Dirigir las acciones necesarias, para que el abasto de combustibles de transporte a cada terminal se lleve a cabo conforme al programa de abasto;
+II. Coordinar la aplicación de los esquemas operativos comerciales para el abasto de los Combustibles de Transporte, Insumos para Refinerías y de residuales;
 
-IV. Coordinar la contratación de servicios de transporte y almacenamiento de combustibles de transporte, Insumos para Refinerías y de residuales;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Dirigir el abasto de combustibles de transporte y de los Insumos para Refinerías;
+III. Dirigir las acciones necesarias, para que el abasto de Combustibles de Transporte a cada terminal se lleve a cabo conforme al programa de abasto;
 
-VI. Coordinar la elaboración de los análisis y de las tendencias de corto plazo de precios de los combustibles de transporte en terminal;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VII. Instruir la participación para la elaboración y difusión de las especificaciones de calidad de combustibles de transporte, en coordinación con las áreas competentes;
+IV. Coordinar la contratación de servicios de transporte y almacenamiento de Combustibles de Transporte, Insumos para Refinerías y de residuales;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Dirigir el abasto de Combustibles de Transporte y de los Insumos para Refinerías;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Coordinar la elaboración de los análisis y de las tendencias de corto plazo de precios de los Combustibles de Transporte en terminal;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Instruir la participación para la elaboración y difusión de las especificaciones de calidad de Combustibles de Transporte, en coordinación con las áreas competentes;
 
 VIII. Coordinar la negociación y celebración de los contratos de compraventa de productos en el mercado nacional e internacional, y
 
@@ -1993,7 +2275,9 @@ II. Determinar la adecuación del pronóstico de la demanda por terminal, en coo
 
 III. Definir los requerimientos de comercio exterior, con base en el programa de operación mensual y el pronóstico de demanda;
 
-IV. Coordinar la ejecución de los programas operativos de abasto de combustibles de transporte, Insumos para Refinerías y de residuales, así como verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Coordinar la ejecución de los programas operativos de abasto de Combustibles de Transporte, Insumos para Refinerías y de residuales, así como verificar su cumplimiento;
 
 V. Elaborar el programa operativo diario mensual en coordinación con las áreas competentes, con base en el programa operativo mensual y verificar su alineación con el programa de abasto;
 
@@ -2009,19 +2293,29 @@ IX. Determinar la proyección de inventarios de productos Petrolíferos a corto 
 
 La Gerencia de Suministro Nacional e Importaciones tendrá las funciones siguientes:
 
-I. Gestionar las importaciones y exportaciones de combustibles de transporte, así como las importaciones de Insumos para Refinerías y dar seguimiento a los programas correspondientes;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Acordar los requerimientos de las importaciones y exportaciones de combustibles de transporte, así como las importaciones de Insumos para Refinerías, conforme al programa de abasto;
+I. Gestionar las importaciones y exportaciones de Combustibles de Transporte, así como las importaciones de Insumos para Refinerías y dar seguimiento a los programas correspondientes;
 
-III. Coordinar con las áreas competentes, la elaboración y formalización de los mecanismos de precios para la importación y exportación de combustibles de transporte, así como importaciones de Insumos para Refinerías;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-IV. Coordinar con las áreas competentes, la elaboración y difundir entre las diferentes áreas, las hojas de especificaciones de calidad de combustibles de transporte de producción nacional;
+II. Acordar los requerimientos de las importaciones y exportaciones de Combustibles de Transporte, así como las importaciones de Insumos para Refinerías, conforme al programa de abasto;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+III. Coordinar con las áreas competentes, la elaboración y formalización de los mecanismos de precios para la importación y exportación de Combustibles de Transporte, así como importaciones de Insumos para Refinerías;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IV. Coordinar con las áreas competentes, la elaboración y difundir entre las diferentes áreas, las hojas de especificaciones de calidad de Combustibles de Transporte de producción nacional;
 
 V. Coordinar con las áreas competentes, la elaboración y revisión de la normatividad referente a la calidad y al manejo de los productos comercializados;
 
 VI. Gestionar y administrar los contratos de compra de productos en el mercado nacional e internacional, los de análisis de calidad, así como las importaciones de Insumos para Refinerías;
 
-VII. Supervisar la calidad de los combustibles de transporte de las Refinerías y sus desviaciones para asegurar el cumplimiento de la normatividad;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Supervisar la calidad de los Combustibles de Transporte de las Refinerías y sus desviaciones para asegurar el cumplimiento de la normatividad;
 
 VIII. Participar en la elaboración de los programas operativos diarios mensuales, relacionados con la calidad, distribución y desalojo de los Petrolíferos de las Refinerías;
 
@@ -2029,7 +2323,9 @@ IX. Supervisar la calidad de los productos comercializados e Insumos para Refine
 
 X. Gestionar la importación y la distribución de aditivo detergente dispersante en terminales, para el cumplimiento normativo de las gasolinas en materia de calidad de los Petrolíferos, y
 
-XI. Gestionar y administrar los permisos de importación y exportación de combustibles de transporte y las importaciones de Insumos para Refinerías.
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Gestionar y administrar los permisos de importación y exportación de Combustibles de Transporte y las importaciones de Insumos para Refinerías.
 
 ###### Artículo 77.
 
@@ -2045,33 +2341,51 @@ IV. Determinar el intervalo de precios en la estrategia comercial, mediante la e
 
 V. Analizar los mercados energéticos, financieros y económicos, nacionales e internacionales, identificar brechas económicas y en su caso, proponer acciones orientadas a retener o expandir la participación de mercado de Pemex Transformación Industrial;
 
-VI. Analizar el impacto económico de las políticas públicas relacionadas con el abasto de combustibles de transporte en el mercado nacional, en coordinación con las áreas competentes;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Analizar el impacto económico de las políticas públicas relacionadas con el abasto de Combustibles de Transporte en el mercado nacional, en coordinación con las áreas competentes;
 
 VII. Evaluar las fórmulas de precios de importaciones y exportaciones, en coordinación con la Gerencia de Suministro Nacional e Importaciones, y
 
-VIII. Proponer y determinar las metodologías y los componentes de las fórmulas de precios de combustibles de transporte en terminal, en coordinación con las áreas competentes.
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Proponer y determinar las metodologías y los componentes de las fórmulas de precios de Combustibles de Transporte en terminal, en coordinación con las áreas competentes.
 
 ###### Artículo 78.
 
 La Gerencia de Administración de Transporte tendrá las funciones siguientes:
 
-I. Participar en la determinación de la programación para el transporte, almacenamiento y distribución de los combustibles de transporte y productos de importación;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Participar en la coordinación de las acciones para el abasto de combustibles de transporte conforme a los programas establecidos;
+I. Participar en la determinación de la programación para el transporte, almacenamiento y distribución de los Combustibles de Transporte y productos de importación;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+II. Participar en la coordinación de las acciones para el abasto de Combustibles de Transporte conforme a los programas establecidos;
 
 III. Participar en la definición de la Reserva Contractual de la infraestructura de Pemex Logística, en coordinación con las áreas competentes;
 
-IV. Establecer los modelos y esquemas de negocio para la prestación de los servicios de almacenamiento, transporte y distribución de combustibles de transporte;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-V. Negociar y gestionar con las áreas competentes la contratación de servicio de transporte, almacenamiento y distribución de combustibles de transporte, incluyendo el transporte de productos de importación;
+IV. Establecer los modelos y esquemas de negocio para la prestación de los servicios de almacenamiento, transporte y distribución de Combustibles de Transporte;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Negociar y gestionar con las áreas competentes la contratación de servicio de transporte, almacenamiento y distribución de Combustibles de Transporte, incluyendo el transporte de productos de importación;
 
 VI. Revisar el cumplimiento de los programas de transporte, almacenamiento y distribución conforme a los contratos celebrados;
 
-VII. Proponer acciones de mejora para optimizar el abasto de combustibles de transporte a lo largo de la cadena de suministro;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-VIII. Administrar los contratos, acuerdos o convenios asociados al servicio de transporte, almacenamiento y distribución de combustibles de transporte;
+VII. Proponer acciones de mejora para optimizar el abasto de Combustibles de Transporte a lo largo de la cadena de suministro;
 
-IX. Gestionar con las áreas competentes la suficiencia presupuestal para cumplir con las obligaciones de pago derivadas de contratos, acuerdos o convenios asociados al servicio de transporte, almacenamiento y distribución de combustibles de transporte, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Administrar los contratos, acuerdos o convenios asociados al servicio de transporte, almacenamiento y distribución de Combustibles de Transporte;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+IX. Gestionar con las áreas competentes la suficiencia presupuestal para cumplir con las obligaciones de pago derivadas de contratos, acuerdos o convenios asociados al servicio de transporte, almacenamiento y distribución de Combustibles de Transporte, y
 
 X. Gestionar ante las áreas competentes ajustes a los sistemas institucionales y nuevos requerimientos tecnológicos para los modelos y esquemas de negocio.
 
@@ -2101,9 +2415,13 @@ IX. Participar en el análisis, identificación e implementación de oportunidad
 
 X. Gestionar y verificar que las áreas de la subdirección cuenten con los recursos humanos, materiales, presupuestales e instalaciones suficientes para el plan de maduración y ejecución de los proyectos;
 
-XI. Supervisar en coordinación con las Subdirecciones de: Producción de Petrolíferos, Proceso de Gas y Petroquímicos y Producción de Etileno y Derivados la validación del inmovilizado del alcance y el costo estimado de las libranzas y reparaciones mayores, así como la definición de criterios y mecanismos para la contratación de bienes, servicios y obras relacionados, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-XII. Coordinar la administración de bienes, servicios y obras para las libranzas y reparaciones mayores requeridas por las Subdirecciones de: Producción de Petrolíferos, Proceso de Gas y Petroquímicos y Producción de Etileno y Derivados.
+XI. Supervisar en coordinación con las Subdirecciones de: Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica y Producción de Petroquímica Secundaria la validación del inmovilizado del alcance y el costo estimado de las libranzas y reparaciones mayores, así como la definición de criterios y mecanismos para la contratación de bienes, servicios y obras relacionados, y
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Coordinar la administración de bienes, servicios y obras para las libranzas y reparaciones mayores requeridas por las Subdirecciones de: Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica y Producción de Petroquímica Secundaria.
 
 ###### Artículo 80.
 
@@ -2125,15 +2443,23 @@ VII. Coordinar el proceso de cierre administrativo de los contratos de bienes, o
 
 VIII. Coordinar las actividades de puesta en operación, pruebas de comportamiento y entrega recepción de las instalaciones con las áreas competentes y los usuarios;
 
-IX. Participar en coordinación con las áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímicos y Producción de Etileno y Derivados el inmovilizado del alcance y el costo estimado de las libranzas y reparaciones mayores;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
-X. Coordinar con áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas, Petroquímicos, Producción de Etileno y Derivados y la Subdirección de Abastecimiento de Pemex, la definición de criterios y mecanismos para la contratación de bienes, obras y servicios relacionadas (sic) con las libranzas y reparaciones mayores programadas;
+IX. Participar en coordinación con las áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica y Producción de Petroquímica Secundaria el inmovilizado del alcance y el costo estimado de las libranzas y reparaciones mayores;
 
-XI. Administrar los bienes, obras y servicios de las libranzas y reparaciones mayores requeridas por las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímicos y Producción de Etileno y Derivados;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Coordinar con áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica, Producción de Petroquímica Secundaria y la Subdirección de Abastecimiento de Pemex, la definición de criterios y mecanismos para la contratación de bienes, obras y servicios relacionadas (sic) con las libranzas y reparaciones mayores programadas;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Administrar los bienes, obras y servicios de las libranzas y reparaciones mayores requeridas por las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica y Producción de Petroquímica Secundaria;
 
 XII. Establecer los requisitos de calidad de los proyectos, y
 
-XIII. Coordinar la elaboración de bases de usuario con las áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímicos y Producción de Etileno y Derivados.
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Coordinar la elaboración de bases de usuario con las áreas competentes de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímica Básica y Producción de Petroquímica Secundaria.
 
 ###### Artículo 81.
 
@@ -2211,11 +2537,15 @@ IV. Asesorar y coordinar a las áreas de la Subdirección de Proyectos Industria
 
 V. Asesorar y coordinar, en conjunto con las áreas de la Subdirección de Proyectos Industriales, los asuntos relacionados con la atención de instancias de fiscalización, inconformidades, reclamos, controversias técnicas y conciliaciones.
 
-### CAPÍTULO NOVENO. DE LA SUBDIRECCIÓN DE DESARROLLO SUSTENTABLE, SEGURIDAD, SALUD EN EL TRABAJO Y PROTECCIÓN AMBIENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO NOVENO. DE LA SUBDIRECCIÓN DE SEGURIDAD, SALUD EN EL TRABAJO Y PROTECCIÓN AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 85.
 
-La Subdirección de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental tendrá las funciones siguientes:
+La Subdirección de Seguridad, Salud en el Trabajo y Protección Ambiental tendrá las funciones siguientes:
 
 I. Conducir la implantación de las estrategias establecidas por la Subdirección de Evaluación del Desempeño y Mejora Continua de Pemex, en materia de mejora del desempeño en seguridad industrial, salud en el trabajo, protección ambiental y desarrollo sustentable en todas las áreas de Pemex Transformación Industrial;
 
@@ -2257,9 +2587,11 @@ XIX. Coordinar la vinculación y ejecución con el Sistema de Confiabilidad Oper
 
 XX. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 86.
 
-La Gerencia de Seguridad de Procesos, Salud en el Trabajo y Protección Ambiental tendrá las funciones siguientes:
+La Gerencia de Auditoría y Estándares, de Seguridad, Salud en el Trabajo y Protección Ambiental tendrá las funciones siguientes:
 
 I. Elaborar e instrumentar los planes y programas relativos a la ejecución y mejora continua del sistema de administración de la seguridad industrial, salud en el trabajo y protección ambiental en todas las áreas de Pemex Transformación Industrial, así como darles seguimiento;
 
@@ -2335,9 +2667,11 @@ XXXVI. Consolidar y dirigir el programa de certificación especializada de compe
 
 XXXVII. Gestionar ante las áreas competentes de Pemex Transformación Industrial y de Pemex, la atención de planes y programas de los procesos de soporte relacionados a los objetivos estratégicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 87.
 
-Las Gerencias de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental Norte, Centro y Sur tendrán las funciones siguientes, en las instalaciones bajo su responsabilidad:
+Las Gerencias de Seguridad, Salud en el Trabajo y Protección Ambiental Norte, Centro y Sur tendrán las funciones siguientes, en las instalaciones bajo su responsabilidad:
 
 a) Región Norte:
 
@@ -2348,6 +2682,22 @@ a) Región Norte:
 3. Complejo Procesador de Gas Burgos
 
 4. Complejo Procesador de Gas Arenque
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+5. Unidad Petroquímica Camargo
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+6. Terminal de Almacenamiento de Amoniaco Guaymas
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+7. Terminal de Almacenamiento de Amoniaco Topolobampo
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+8. Terminal de Almacenamiento de Amoniaco San Fernando
 
 b) Región Centro:
 
@@ -2360,6 +2710,14 @@ b) Región Centro:
 4. Complejo Procesador de Gas Matapionche
 
 5. Centro Petroquímico Independencia
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+6. Terminal de Almacenamiento de Amoniaco Lázaro Cárdenas
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+7. Terminal de Almacenamiento de Amoniaco Salamanca
 
 c) Región Sur:
 
@@ -2382,6 +2740,26 @@ c) Región Sur:
 9. Complejo Petroquímico Cangrejera
 
 10. Complejo Petroquímico Pajaritos
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+11. Complejo Petroquímico Cosoleacaque
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+12. Complejo Petroquímico Escolin
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+13. Terminal de Almacenamiento de Amoniaco Salina Cruz
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+14. Terminal de Almacenamiento de Amoniaco Pajaritos
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+
+15. Amonia-Ducto Transismico
 
 I. Asesorar en el cumplimiento de los planes y programas relativos a la ejecución y mejora continua del sistema de administración de la seguridad industrial, salud en el trabajo y protección ambiental en todas las áreas de la Región de Pemex Transformación Industrial, así como darles seguimiento;
 
@@ -2580,3 +2958,47 @@ www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_201912.pdf
 www.dof.gob.mx/2019/PEMEX/mod_eoptri_201912.pdf
 
 Ciudad de México, a 13 de diciembre de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+D.O.F. 18 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL".]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoptri_202012.pdf
+
+www.dof.gob.mx/2020/PEMEX/mod_eoptr_202012.pdf
+
+Ciudad de México, a 11 de diciembre de 2020.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+## TRANSITORIOS
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex Transformación Industrial entrarán en vigor el 1 de enero de 2021.
+
+SEGUNDO. La estructura orgánica básica autorizada mediante Acuerdo CA-087/2020 por el Consejo de Administración de Petróleos Mexicanos que entrará en vigor el 1 de enero de 2021, se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+TERCERO. Los titulares de las áreas de Pemex Transformación Industrial deberán colaborar y coordinarse con los titulares de las áreas de Petróleos Mexicanos, para realizar las acciones, trámites, actos y demás aspectos necesarios, con el propósito de dar continuidad a la operación y funcionamiento de la citada Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos.
+
+CUARTO. Sin perjuicio del cambio de denominaciones y reubicación organizacional de las áreas a que se refieren las modificaciones del presente Estatuto, los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por los entonces Organismos Subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, con anterioridad a la entrada en vigor de estas modificaciones al Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+De ser necesario, las áreas correspondientes de Pemex Transformación Industrial deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento y revocación de los poderes conducentes.
+
+Los poderes y mandatos y, en general, las representaciones otorgadas y las facultades conferidas por Pemex Fertilizantes quedarán sin efecto ni valor legal alguno a partir del 1 de enero de 2021, fecha en que surta efectos la fusión de dicha Empresa Productiva Subsidiaria con Pemex Transformación Industrial, conforme al Acuerdo CA-085/2020 del Consejo de Administración de Petróleos Mexicanos y el Acuerdo CAEPS-TRI- 034/2020 del Consejo de Administración de Pemex Transformación Industrial y la entrada en vigor de las modificaciones al presente Estatuto Orgánico y su estructura orgánica básica.
+
+QUINTO. La Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos denominada Pemex Transformación Industrial se subroga en los derechos y obligaciones de Pemex Fertilizantes a partir de que surta efectos la fusión autorizada por los Consejos de Administración de Petróleos Mexicanos y de Pemex Transformación Industrial el 1 de enero de 2021, conforme a los Acuerdos CA-085/2020 y CAEPS-TRI-034/2020, respectivamente.
+
+Los contratos, convenios y actos jurídicos vigentes con anterioridad a la entrada en vigor de las modificaciones al presente Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario. Tratándose de los procedimientos de contratación que se encuentren en trámite, se concluirán por las áreas competentes de Petróleos Mexicanos con el apoyo y participación en lo que corresponda de las áreas de Pemex Transformación Industrial.
+
+SEXTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor de las modificaciones al presente Estatuto Orgánico, por cualquier órgano o área de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias, así como los entonces organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al presente Estatuto Orgánico, y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+SÉPTIMO. Para efectos de la integración de los grupos de trabajo de Pemex Transformación Industrial por las áreas que se reubican, incorporan a otras o desaparecen, por la entrada en vigor de las presentes modificaciones al Estatuto, la asumirán aquéllas a las que se les atribuyen las funciones por virtud de este Estatuto, sin perjuicio de que, con posterioridad, se realicen los nombramientos o designaciones respectivas o se modifique la normatividad aplicable en cada caso.
+
+OCTAVO. Las referencias que se hagan en otros instrumentos a las áreas que se crean, incorporan a otras, desaparecen o cuya denominación se modifica, se entenderán hechas a las áreas a las que se atribuyen las funciones conforme a las modificaciones del presente Estatuto.
+
+NOVENO. Los asuntos, procedimientos, tramites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos denominada Pemex Fertilizantes que se fusiona a partir del 1 de enero de 2021 con Pemex Transformación Industrial, deberán continuarse hasta su conclusión, o bien, definir su atención, tratamiento y conclusión dependiendo de su naturaleza, por las áreas que conforme a las modificaciones de este Estatuto Orgánico les corresponda, de acuerdo con sus funciones.
+
+El mismo tratamiento corresponderá a las áreas que se crean, incorporan a otras o cambian de denominación o de funciones conforme a las modificaciones de este Estatuto Orgánico.
+
+DÉCIMO. Los titulares de las áreas de Pemex Transformación Industrial deberán atender a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la modificación a su estructura orgánica básica y de las modificaciones del presente Estatuto Orgánico, así como participar en los actos de entrega y recepción, con motivo de su entrada en vigor, conforme a la normatividad aplicable.
+
+DÉCIMO PRIMERO. Los derechos laborales de los trabajadores que se transfieran a Pemex Transformación Industrial serán respetados en términos de ley.
