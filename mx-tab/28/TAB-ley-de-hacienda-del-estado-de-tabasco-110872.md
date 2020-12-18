@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2020-03-25"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -1287,7 +1287,7 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 #### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 72.
 
@@ -1343,7 +1343,7 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 #### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 73.
 
@@ -1863,7 +1863,7 @@ Las inscripciones al Registro de los Servicios de Seguridad Privada y de Persona
 
 ###### Artículo 75.
 
-Por los servicios prestados por la Policía Estatal, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, a través de la Dirección General de la Policía Estatal de Caminos, relacionados con el tránsito vehicular se causarán y pagarán los derechos siguientes:
+Por los servicios relacionados con el tránsito vehicular, prestados por la Policía Estatal de la Secretaría de Seguridad y Protección Ciudadana, a través de la Dirección General de la Policía Estatal de Caminos, se causarán y pagarán los derechos siguientes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2018)</small>
 
@@ -1993,7 +1993,7 @@ II. Por cada kilómetro o fracción siguiente. 0.25 UMA
 
 ###### Artículo 77.
 
-Por los servicios prestados por la Policía Estatal, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Auxiliar y la Bancaria, Industrial y Comercial, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Policía Estatal de la Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Auxiliar y la Bancaria, Industrial y Comercial, se causarán y pagarán los derechos siguientes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2255,9 +2255,11 @@ j) Firma del solicitante del servicio.
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN QUINTA
+#### SECCIÓN QUINTA. CUMPLIMIENTO DE OBLIGACIONES FISCALES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 78.
 
@@ -2607,7 +2609,7 @@ Cuando se trate de viviendas de interés social o popular, se cobrará en el pri
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
-#### SECCIÓN PRIMERA. SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
+#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -2619,99 +2621,143 @@ I. Por la expedición de licencia para el funcionamiento de establecimiento cuyo
 
 a) En envase cerrado:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(a) Abarrotes. 1,750.0 UMA
+(a) Abarrotes. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(b) Expendio. 2,000.0 UMA
+(b) Expendio. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(c) Minisúper. 3,000.0 UMA
+(c) Minisúper. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(d) Supermercado. 4,000.0 UMA
+(d) Supermercado. 2,000.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(e) Ultramarino. 2,000.0 UMA
+(e) Ultramarino. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(f) Distribuidora. 5,000.0 UMA
+(f) Distribuidora. 2,500.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(g) Tienda de Conveniencia. 4,000.0 UMA
+(g) Tienda de Conveniencia. 2,000.0 UMA
 
 b) En envase abierto:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(a) Bar. 3,500.0 UMA
+(a) Bar. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(b) Bar con presentación de espectáculos. 6,500.0 UMA
+(b) Bar con presentación de espectáculos. 3,250.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(c) Casino. 9,000.0 UMA
+(c) Casino. 4,500.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(d) Centro de Espectáculos. 1,500.0 UMA
+(d) Centro de Espectáculos. 2,250.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(e) Club deportivo. 4,500.0 UMA
+(e) Club deportivo. 2,250.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(f) Desarrollo turístico y recreativo. 4,000.0 UMA
+(f) Desarrollo turístico y recreativo. 2,000.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(g) Fábrica de bebidas alcohólicas. 10,000.0 UMA
+(g) Fábrica de bebidas alcohólicas. 5,000.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(h) Discoteca. 5,500.0 UMA
+(h) Discoteca. 2,750.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(i) Hoteles. 4,500.0 UMA
+(i) Hoteles. 2,250.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(j) Restaurante. 2,500.0 UMA
+(j) Restaurante. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(k) Restaurante-Bar. 4,000.0 UMA
+(k) Restaurante-Bar. 2,000.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(l) Salón de baile. 1,500.0 UMA
+(l) Salón de baile. 750.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(m) Productor de bebidas alcohólicas Artesanal. 1,500.0 UMA
+(m) Productor de bebidas alcohólicas artesanales. 300.0 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(n) Moteles. 3,500.0 UMA
+(n) Moteles. 1,750.0 UMA
 
 Cuando la expedición de la licencia sea con vigencia de más de un año, a la cantidad que resulte de la expedición de la licencia con vigencia de un año, el pago de los derechos se incrementarán en un 15.0 por ciento por cada uno de los años subsecuentes, en cada uno de los giros que se señalan en esta fracción.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Por el refrendo anual de la licencia, en
+II. Por el refrendo anual de la licencia, cuyo giro sea:
 
-cualquiera de los giros establecidos en la Ley. 300.0 UMA
+a) Envase cerrado:
+
+(a) Abarrotes. 150.0 UMA
+
+(b) Expendio. 200.0 UMA
+
+(c) Minisúper. 300.0 UMA
+
+(d) Supermercado. 400.0 UMA
+
+(e) Ultramarino. 200.0 UMA
+
+(f) Distribuidora. 500.0 UMA
+
+(g) Tienda de Conveniencia. 400.0 UMA
+
+b) Envase abierto:
+
+(a) Bar. 300.0 UMA
+
+(b) Bar con presentación de espectáculos. 500.0 UMA
+
+(c) Casino. 500.0 UMA
+
+(d) Centro de espectáculos. 450.0 UMA
+
+(e) Club deportivo. 450.0 UMA
+
+(f) Desarrollo turístico y recreativo. 400.0 UMA
+
+(g) Fábrica de bebidas alcohólicas. 500.0 UMA
+
+(h) Discoteca. 500.0 UMA
+
+(i) Hoteles. 400.0 UMA
+
+(j) Restaurante. 300.0 UMA
+
+(k) Restaurante-bar. 200.0 UMA
+
+(l) Salón de baile. 150.0 UMA
+
+(m) Productor de bebidas alcohólicas artesanales. 150.0 UMA
+
+(n) Moteles. 350.0 UMA
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -2809,13 +2855,21 @@ XIV. Por autorización de cambio de titular
 
 de una licencia por fallecimiento. 200.0 UMA
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XV. Por cambio de denominación social. 200.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XVI. Estudio de prefactibilidad. 100.0 UMA
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 El importe correspondiente al 10% del monto total de los derechos que se obtengan por los conceptos establecidos en este artículo será destinados al auxilio y estímulo de las acciones en materia de salud efectuadas por instituciones humanitarias de asistencia pública o privada, tales como servicio de urgencias médicas o de emergencia y socorro para víctimas. Los recursos serán otorgados de conformidad con los convenios que para tal efecto suscriban con la Secretaría.
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
-SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 80.
 
@@ -3309,15 +3363,19 @@ II. Por el uso anual del sistema informático para
 
 la expedición de permisos para vehículos en traslado. 100.0 UMA
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
+Por los servicios prestados por la Secretaría de Finanzas, relacionados con la emisión de la constancia de cumplimiento de obligaciones fiscales, se causarán y pagarán los derechos siguientes:
+
+I. Por la expedición de la constancia de cumplimiento
+
+de obligaciones. 4.00 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -3325,13 +3383,17 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 #### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
 #### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
 #### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 89.
 
@@ -3427,7 +3489,7 @@ Se exenta del pago de los derechos establecidos en el presente artículo, a los 
 
 La Secretaría, con motivo de eventos de promoción turística o cultural que emprenda el Gobierno del Estado, podrá exentar o en su caso reducir el pago, de los derechos establecidos en el presente artículo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
 
@@ -3435,7 +3497,29 @@ La Secretaría, con motivo de eventos de promoción turística o cultural que em
 
 ###### Artículo 90.
 
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
+Por los servicios prestados por la Secretaría de Administración e Innovación Gubernamental, relacionados con el Registro de Proveedores de Bienes Muebles y Servicios del Estado de Tabasco, se causarán y pagarán los derechos siguientes:
+
+I. Inscripción en el Registro de
+
+Proveedores de Bienes Muebles y
+
+Servicios del Estado de Tabasco. 12.0 UMA
+
+II. Revalidación por término de
+
+vigencia en el Registro de
+
+Proveedores de Bienes Muebles y
+
+Servicios del Estado de Tabasco. 12.0 UMA
+
+III. Revalidación por modificación o
+
+actualización de datos en el Registro
+
+de Proveedores de Bienes Muebles y
+
+Servicios del Estado de Tabasco. 6.0 UMA
 
 ### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO Y SUS ÓRGANOS DESCONCENTRADOS
 
@@ -3451,7 +3535,7 @@ Por los servicios prestados por la Secretaría de Educación, sus órganos desco
 
 #### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 91-A.
 
@@ -3689,7 +3773,9 @@ de emisiones. 50.0 UMA
 
 ###### Artículo 91-B.
 
-Por los servicios relacionados con el Centro de Interpretación y Convivencia con la Naturaleza “Yumka” del Estado de Tabasco, órgano desconcentrado de la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza “Yumka’” del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Entrada general:
 
@@ -3700,6 +3786,8 @@ b) Adulto. 1.42 UMA
 c) Adulto mayor con tarjeta expedida por el
 
 Instituto Nacional de las Personas Adultas Mayores. 0.71 UMA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
 
@@ -4139,133 +4227,131 @@ de Predio por Ubicación en Zona de Riesgo ya emitido. 25.00 UMA
 
 ###### Artículo 96.
 
-Por los servicios relacionados a la Central de Maquinaria de Tabasco, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Central de Maquinaria de Tabasco, se causarán y pagarán los derechos siguientes:
 
 I. Por el uso diario de la maquinaria siguiente:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-a) Motoconformadora línea 120-B, marca Caterpillar. 32.26 UMA
+a) Motoconformadora línea 120-B, marca Caterpillar. 25.81 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-b) Motoconformadora línea 140-B, marca Caterpillar. 33.23 UMA
+b) Motoconformadora línea 140-B, marca Caterpillar. 26.58 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-c) Motoconformadora línea 120-G, marca Caterpillar. 34.23 UMA
+c) Motoconformadora línea 120-G, marca Caterpillar. 27.39 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-d) Motoconformadora línea 12-G, marca Caterpillar. 34.23 UMA
+d) Motoconformadora línea 12-G, marca Caterpillar. 27.39 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-e) Tractor de orugas línea D5-B, marca Caterpillar. 29.64 UMA
+e) Tractor de orugas línea D5-B, marca Caterpillar. 23.71 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 f) Compactador Vibratorio línea CA-25-DD,
 
-marca Dinapac. 19.53 UMA
+marca Dinapac. 15.62 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-g) Compactador pata de cabra línea
+g) Compactador pata de cabra línea CP 433C,
 
-CP 433C, marca Caterpillar. 20.21 UMA
+marca Caterpillar. 16.17 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-h) DuoPactor/ Compactador Neumático 15.92 UMA
+h) Duo Pactar/ Compactador Neumático. 12.73 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-i) Retroexcavadora línea 416 CAT, marca Caterpillar. 20.86 UMA
+i) Retroexcavadora línea 416 CAT, marca Caterpillar. 19.05 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-j) Excavadora línea 320 C, marca Caterpillar. 40.66 UMA
+j) Excavadora línea 320 C, marca Caterpillar. 32.52 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-k) Excavadora marca John Deere. 43.20 UMA
+k) Excavadora marca John Deere. 32.52 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-l) Grúa Hiab TCG-039, marca Kenworth Kenmex 26.49 UMA
+l) Grúa Hiab TCG-039, marca Kenworth Kenmex. 21.19 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-m) Camión de volteo 7 metros cúbicos,
+m) Camión de volteo 7 metros cúbicos, marca
 
-marca Dodge o Chevrolet. 16.80 UMA
+Dodge o Chevrolet. 13.43 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-n) Camión de volteo 14 metros cúbicos,
+n) Camión de volteo 14 metros cúbicos, marca
 
-marca Freightliner. 33.61 UMA
+Freightliner. 26.89 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-o) Pipa de agua de 10,000 litros, marca Chevrolet. 15.40 UMA
+o) Pipa de agua de 10,000 litros, marca Chevrolet. 14.62 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 p) Petrolizadora Diesel capacidad 8,000 litros,
 
-marca Chevrolet. 31.43 UMA
+marca Chevrolet. 27.11 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 q) Planta mezcladora en frío línea GOM-10,
 
-marca GOMO. 22.40 UMA
+marca GOMO. 17.92 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 r) Planta mezcladora en caliente,
 
-marca ADM SPL-110 185.29 UMA
+marca ADM SPL-110. 148.23 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-s) Tractocamión con tanque, marca Freightliner. 27.78 UMA
+s) Tractocamión con tanque y/o low boy
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+marca Freightliner. 27.78 UMA
 
-t) Tractocamión marca Freightliner. 16.35 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+t) Tractocamión marca Freightliner. 19.10 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 u) Pavimentadora con operador y 2 ayudantes
 
 en el municipio de Centro, línea BG260,
 
-Barber Greene. 75.08 UMA
+Barber Greene. 60.92 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 v) Pavimentadora con operador y 2 ayudantes
 
 en cualquier otro municipio del Estado,
 
-línea BG260, marca Barber Greene. 80.85 UMA
+línea BG260, marca Barber Greene. 65.60 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 w) Pavimentadora con operador y 2 ayudantes
 
-en otro Estado, línea BG260, marca Barber Greene. 86.83 UMA
+en otro Estado, línea BG260, marca Barber Greene. 70.19 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-x) Cuando el equipo sea excedente de dimensiones,
-
-como norma preventiva, se cobrará un vehículo
-
-piloto guía. 17.83 UMA
+x) Vehículo piloto guía. 14.26 UMA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -4299,125 +4385,139 @@ ee) Maquila mezcla en frío por metro cúbico GOM 10. 1.67 UMA
 
 ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 4.79 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+gg) Draga de cortador y succión con sus accesorios,
+
+serie 370 HP. 172.66 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Cuando el equipo sea excedente de dimensiones como norma preventiva, se cobrará adicionalmente el uso diario de un vehículo piloto guía.
+
 II. Cuando las dependencias, órganos administrativos desconcentrados y entidades de la administración pública estatal, municipal o federal soliciten el uso diario de la maquinaria siguiente:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-a) Motoconformadora línea 120-B, marca Caterpillar. 25.68 UMA
+a) Motoconformadora línea 120-B, marca Caterpillar. 20.55 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-b) Motoconformadora línea 140-B, marca Caterpillar. 26.45 UMA
+b) Motoconformadora línea 140-B, marca Caterpillar. 21.16 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-c) Motoconformadora línea 120-G, marca Caterpillar. 27.24 UMA
+c) Motoconformadora línea 120-G, marca Caterpillar. 21.80 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-d) Motoconformadora línea 12-G, marca Caterpillar. 27.24 UMA
+d) Motoconformadora línea 12-G, marca Caterpillar. 21.80 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-e) Tractor de orugas línea D5-B, marca Caterpillar. 24.54 UMA
+e) Tractor de orugas línea D5-B, marca Caterpillar. 19.62 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 f) Compactador Vibratorio línea CA-25-DD,
 
-marca Dinapac. 17.73 UMA
+marca Dinapac. 14.18 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 g) Compactador pata de cabra línea CP 433C,
 
-marca Caterpillar. 19.43 UMA
+marca Caterpillar. 15.55 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-h) Duo Pactor / compactador neumático 15.05 UMA
+h) Duo Pactor/ Compactador Neumático. 12.05 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-i) Retroexcavadora línea 416 CAT, marca Caterpillar. 17.98 UMA
+i) Retroexcavadora línea 416 CAT, marca Caterpillar. 17.27 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-j) Excavadora línea 320 C, marca Caterpillar. 37.26 UMA
+j) Excavadora línea 320 C, marca Caterpillar. 29.80 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-k) Excavadora marca John Deere. 37.26 UMA
+k) Excavadora marca John Deere. 29.80 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-l) Grúa Hiab TCG-039, marca Kenworth Kenmex 24.43 UMA
+l) Grúa Hiab TCG-039, marca Kenworth Kenmex. 19.54 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-m) Camión de volteo 7 metros cúbicos, marca Dodge o
+m) Camión de volteo 7 metros cúbicos, marca
 
-Chevrolet. 15.13 UMA
+Dodge o Chevrolet. 12.10 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-n) Camión de volteo 14 metros cúbicos,
+n) Camión de volteo 14 metros cúbicos, marca
 
-marca Freightliner. 30.26 UMA
+Freightliner. 24.21 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-o) Pipa de agua de 10,000 litros, marca Chevrolet. 14.32 UMA
+o) Pipa de agua de 10,000 litros, marca Chevrolet. 13.25 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 p) Petrolizadora Diesel capacidad 8,000 litros,
 
-marca Chevrolet. 27.42 UMA
+marca Chevrolet. 25.90 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 q) Planta mezcladora en frío línea GOM-10,
 
-marca GOMO. 16.34 UMA
+marca GOMO. 13.08 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-r) Planta mezcladora en caliente, marca ADM SPL-110 205.04 UMA
+r) Planta mezcladora en caliente,
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+marca ADM SPL-110. 135.50 UMA
 
-s) Tractocamión con tanque, marca Freightliner. 25.14 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+s) Tractocamión con tanque y/o low boy
 
-t) Tractocamión marca Freightliner. 14.76 UMA
+marca Freightliner. 25.14 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-u) Pavimentadora con operador y 2 ayudantes en el
+t) Tractocamión marca Freightliner. 15.54 UMA
 
-municipio de Centro, línea BG260, Barber Greene. 76.15 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-v) Pavimentadora con operador y 2 ayudantes en
+u) Pavimentadora con operador y 2 ayudantes
 
-cualquier otro municipio del Estado, línea BG260,
+en el municipio de Centro, línea BG260,
 
-marca Barber Greene. 82.01 DSMGV
+Barber Greene. 60.07 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-w) Pavimentadora con operador y 2 ayudantes en otro
+v) Pavimentadora con operador y 2 ayudantes
 
-Estado, línea BG260, marca Barber Greene. 87.87 UMA
+en cualquier otro municipio del Estado,
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+línea BG260, marca Barber Greene. 64.68 UMA
 
-x) Cuando el equipo sea excedente de dimensiones,
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-como norma preventiva, se cobrará un vehículo
+w) Pavimentadora con operador y 2 ayudantes
 
-piloto guía. 17.83 UMA
+en otro Estado, línea BG260, marca Barber Greene. 69.30 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+x) Vehículo piloto guía. 14.26 UMA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -4455,6 +4555,16 @@ ee) Maquila mezcla en frío por metro cúbico GOM-10. 1.67 UMA
 
 ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 3.63 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+gg) Draga de cortador y succión con sus accesorios,
+
+serie 370 HP marca, Ellicott. 153.47 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+Cuando el equipo sea excedente de dimensiones como norma preventiva, se cobrará adicionalmente el uso diario de un vehículo piloto guía.
+
 > <small>(REFORMADA [N. DE E. DEL ANÁLISIS AL DECRETO 033, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2016, SE ADVIERTE QUE DE ESTA FRACCIÓN, SE MODIFICÓ SU ESTRUCTURA DE FORMA SUSTANCIAL.], P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 III. Cuando se adquiera el servicio de una maquinaria De 11.99 hasta 60 toneladas, en un radio de 1 a 10 Kilómetros alrededor de la Central de Maquinaria de Tabasco se deberá cubrir:
@@ -4491,7 +4601,7 @@ Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobra
 
 ###### Artículo 97.
 
-Por los servicios relacionados con la Coordinación Estatal para la Regularización de la Tenencia de la Tierra, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Coordinación Estatal para la Regularización de la Tenencia de la Tierra, se causarán y pagarán los derechos siguientes:
 
 I. Por la expedición de Títulos de Propiedad:
 
@@ -4607,9 +4717,11 @@ l) Mayor a 15 hectáreas a 20 hectáreas. 83.0 UMA
 
 #### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-Por los servicios relacionados con la Junta Estatal de Caminos, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán por concepto de:
+Por los servicios prestados por la Junta Estatal de Caminos, se causará y pagará el derecho siguiente:
 
 I. Permiso carretero 585.83 UMA
 
@@ -4627,25 +4739,91 @@ Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, Fores
 
 I. Por la producción de plantas y semillas:
 
-a) Plantas frutales en peligro de extinción. 0.148 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-b) Plantas tropicales de frutales varios. 0.148 UMA
+a) Plantas frutales en peligro de extinción. 0.230 UMA
 
-c) Plantas tropicales de frutales varios injertados. 0.186 UMA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-d) Plantas de cultivos no tradicionales. 0.148 UMA
+(a) Con descuento del 20%. 0.184 UMA
 
-e) Plantas de cultivos agroindustriales. 0.148 UMA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-f) Plantas de ornato. 0.124 UMA
+(b) Con descuento del 35%. 0.149 UMA
 
-g) Nuez como semilla de coco enamo maloyo. 0.148 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-h) Mazorca de cacao para semilla. 0.148 UMA
+b) Plantas tropicales de frutales varios. 0.230 UMA
 
-i) Vareta terminal madura para enjertación de
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-diferentes especies. 1.00 UMA
+(a) Con descuento del 20%. 0.184 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b) Con descuento del 35%. 0.149 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+c) Plantas tropicales de frutales varios injertos. 0.345 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(a) Con descuento del 20%. 0.276 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b) Con descuento del 35%. 0.224 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+d) Plantas de cultivos no tradicionales. 0.230 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(a) Con descuento del 20%. 0.184 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b) Con descuento del 35%. 0.149 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+e) Plantas de cultivos agroindustriales. 0.230 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(a) Con descuento del 20%. 0.184 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b) Con descuento del 35%. 0.149 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+f) Plantas de ornato. 0.184 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(a) Con descuento del 20%. 0.147 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b) Con descuento del 35%. 0.119 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+g) Nuez de semilla de coco enano malayo. 0.115 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+h) Mazorca de cacao para semilla. 0.115 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+i) Vareta terminal madura para injertación de diferentes
+
+especies. 0.115 UMA
 
 II. Asesoría técnica para la injertación de diversas
 
@@ -4665,13 +4843,15 @@ c) Uso de implementos agrícolas para mecanización. 35.51 UMA
 
 d) Uso de maquinaria agrícola especializada por mes. 414.25 UMA
 
-IV. Servicio de asesoría para el desarrollo de
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-imagen empresarial para la comercialización
+IV. Servicio de asesoría para el desarrollo de imagen
 
-de productos agropecuarios, forestales, pesqueros,
+empresarial para la comercialización de productos
 
-acuícolas y agroindustriales. 1.23 UMA
+agropecuarios, forestales, pesqueros, acuícolas y
+
+agroindustriales. 46.04 UMA
 
 a) Costo de asesoría técnica por hora. 34.00 UMA
 
@@ -4817,7 +4997,11 @@ e) Paq. de 100 juveniles de 4" sin hormonar. 6.00 UMA
 
 f) Paq. de 100 juveniles de 4" hormonado. 8.00 UMA
 
-IX (SIC). Asesoría técnica por hora (incluye traslado). 4.00 UMA
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Asesoría técnica por hora (incluye traslado). 5.75 UMA
+
+IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -4825,7 +5009,9 @@ IX (SIC). Asesoría técnica por hora (incluye traslado). 4.00 UMA
 
 ###### Artículo 98-B.
 
-Por los servicios relacionados con la Comisión Estatal Forestal, órgano desconcentrado de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Comisión Estatal Forestal, se causarán y pagarán los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Por la producción de plantas:
 
@@ -4841,7 +5027,11 @@ e) Plantas agroindustriales. 0.06 UMA
 
 f) Plantas medicinales. 0.06 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 II. Servicio de asesoría técnica. 14.79 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 III. Servicio de asesoría técnica especializada. 29.58 UMA
 
@@ -4987,25 +5177,37 @@ c) Escuela de Iniciación Artística Asociada al Instituto Nacional de Bellas Ar
 
 (b) Cuota mensual. 2.74 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 1.37 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
+
 d) Talleres Libres Artísticos:
 
 (a) Inscripción semestral por taller. 4.11 UMA
 
-(b) Cuota mensual por taller. 2.74 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(c) Cursos de verano por taller. 2.74 UMA
+(b) Curso de verano por taller. 2.74 UMA
 
-e) Talleres Artísticos de Música Popular:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(a) Inscripción anual, incluye todos los talleres. 4.11 UMA
+(c) Cuota mensual por taller. 2.74 UMA
 
-(b) Cuota mensual por cada taller. 4.11 UMA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(c) Cursos de verano por cada taller. 4.11 UMA
+(c.1) Con beca del 50%. 1.37 UMA
 
-f) Talleres Especializados en Cinematografía:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(a) Cuota mensual por cada taller. 8.21 UMA
+(c.2) Con beca del 100%. 0.00 UMA
+
+e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+
+f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 g) Uso de espacio para cafetería por mes. 13.69 UMA
 
@@ -5073,6 +5275,14 @@ a) Licenciatura en Promotor Cultural en Educación Artística:
 
 (b) Cuota mensual. 6.85 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 3.42 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
+
 (c) Ficha de pre-inscripción anual. 2.05 UMA
 
 (d) Examen Extraordinario primera oportunidad. 1.78 UMA
@@ -5083,13 +5293,13 @@ a) Licenciatura en Promotor Cultural en Educación Artística:
 
 (g) Constancia con calificaciones. 0.68 UMA
 
-(h) Titulación por promedio. 33.38 UMA
+(h) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(i) Titulación por examen general de conocimientos. 47.11 UMA
+(i) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-j) Titulación por tesis. 47.11 UMA
+(j) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(k) Titulación por posgrado. 47.11 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 (l) Titulación por diplomado. 106.52 UMA
 
@@ -5099,6 +5309,10 @@ b) Licenciatura en Educación Artística:
 
 (b) Cuota mensual. 11.01 UMA
 
+(b.1) Con beca del 50%. 5.50 UMA
+
+(b.2) Con beca del 100%. 0.00 UMA
+
 (c) Ficha de pre-inscripción anual. 2.05 UMA
 
 (d) Examen Extraordinario primera oportunidad. 1.78 UMA
@@ -5109,15 +5323,13 @@ b) Licenciatura en Educación Artística:
 
 (g) Constancia con calificaciones. 0.68 UMA
 
-(h) Titulación por promedio. 33.38 UMA
+(h) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(i) Titulación por examen general de
+(i) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-conocimientos. 47.11 UMA
+(j) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-j) Titulación por tesis. 47.11 UMA
-
-(k) Titulación por posgrado. 47.11 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 (l) Titulación por diplomado. 106.52 UMA
 
@@ -5197,21 +5409,41 @@ c) Propedéutico en Danza Clásica.
 
 (a) Cuota mensual. 5.48 UMA
 
-(b) Examen Extraordinario primera oportunidad. 1.78 UMA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(c) Examen Extraordinario segunda oportunidad. 2.46 UMA
+(a.1) Con beca del 50%. 2.74 UMA
 
-(d) Constancia simple. 0.41 UMA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-(e) Constancia con calificaciones. 0.68 UMA
+(a.2) Con beca del 100%. 0.00 UMA
 
-(f) Inscripción anual de danza clásica. 5.48 UMA
+(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+
+(c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+
+(d) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+
+(e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(f) Inscripción semestral. 5.48 UMA
 
 d) Licenciatura en Danza Clásica.
 
-(a) Inscripción semestral. 3.43 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(a) Inscripción anual 3.43 UMA
 
 (b) Cuota mensual. 8.21 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 4.10 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
 
 (c) Examen de admisión. 2.05 UMA
 
@@ -5231,17 +5463,25 @@ j) Duplicado de estudios totales. 4.79 UMA
 
 (k) Acta de certificación de documentos oficiales. 10.27 UMA
 
-(l) Titulación por posgrado. 68.46 UMA
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(m) Titulación por tesina. 68.46 UMA
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(n) Titulación por tesis. 68.46 UMA
+(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 e) Propedéutico en Música.
 
 (a) Inscripción semestral. 5.48 UMA
 
 (b) Cuota mensual. 5.48 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 2.74 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
 
 (c) Examen Extraordinario primera oportunidad. 1.78 UMA
 
@@ -5256,6 +5496,14 @@ f) Iniciación Musical.
 (a) Inscripción semestral. 3.43 UMA
 
 (b) Cuota mensual. 8.21 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 4.20 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
 
 (c) Examen Extraordinario primera oportunidad. 1.78 UMA
 
@@ -5273,6 +5521,14 @@ g) Técnico Superior Universitario en Música.
 
 (b) Cuota mensual. 8.21 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 4.10 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
+
 (c) Examen Extraordinario primera oportunidad. 1.78 UMA
 
 (d) Examen Extraordinario segunda oportunidad. 2.46 UMA
@@ -5289,13 +5545,11 @@ g) Técnico Superior Universitario en Música.
 
 j) Acta de certificación de documentos oficiales. 10.27 UMA
 
-(k) Titulación por promedio. 54.76 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(l) Titulación por examen general de
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-conocimientos. 68.46 UMA
-
-(m) Titulación por tesina. 68.46 UMA
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 (n) Notas al programa. 68.46 UMA
 
@@ -5305,6 +5559,14 @@ h) Licenciatura en Música.
 
 (b) Cuota mensual. 8.21 UMA
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.1) Con beca del 50%. 4.10 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+(b.2) Con beca del 100%. 0.00 UMA
+
 (c) Examen Extraordinario primera oportunidad. 1.78 UMA
 
 (d) Examen Extraordinario segunda oportunidad. 2.46 UMA
@@ -5319,17 +5581,15 @@ h) Licenciatura en Música.
 
 (i) Duplicado de estudios totales. 4.79 UMA
 
-j) Acta de certificación de documentos oficiales. 10.27 UMA
+(j) Acta de certificación de documentos oficiales. 10.27 UMA
 
-(k) Titulación por promedio. 54.76 UMA
+(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(l) Titulación por examen general de
+(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-conocimientos. 68.46 UMA
+(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
-(m) Titulación por posgrado. 68.46 UMA
-
-(n) Titulación por tesis. 68.46 UMA
+(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 (ñ) Notas al programa. 68.46 UMA
 
@@ -5653,7 +5913,7 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 #### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 101.
 
@@ -5669,23 +5929,21 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 Por los servicios prestados por la Coordinación General de Asuntos Jurídicos, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-I. Por el trámite de la anuencia expedida por
+I. Por el trámite de la anuencia expedida por el titular del
 
-el Titular del Ejecutivo para el uso de
+Poder Ejecutivo para el uso de sustancias explosivas,
 
-sustancias explosivas, vinculada al permiso
+vinculada al permiso otorgado por la Secretaría de la
 
-otorgado por la Secretaría de la Defensa Nacional. 75.0 UMA
+Defensa Nacional. 97.0 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-II. Por el trámite de la anuencia expedida
+II. Por el trámite de la anuencia expedida por el titular del
 
-por el Titular del Ejecutivo para la venta
-
-de cartuchos de uso deportivo. 40.0 UMA
+Poder Ejecutivo para la venta de cartuchos de uso deportivo. 52.0 UMA
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
 
@@ -5805,225 +6063,439 @@ XV. Uso de sala velatoria con sala de descanso. 118.36 UMA
 
 ###### Artículo 110.
 
-Por los servicios relacionados con el Instituto de Protección Civil, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por el Instituto de Protección Civil del Estado de Tabasco, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+I. Dictaminación y autorización de programas internos de protección civil:
 
-I. Dictaminar y autorizar programas internos
+a) Edificaciones de 10 a 20,000 metros
 
-de protección civil. 50.0 UMA
+cuadrados. 40.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+b) Edificaciones de 20,001 a 60,000 metros
 
-II. Dictaminar y autorizar programas de mantenimiento de instalaciones. 50.0 UMA
+cuadrados. 80.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+c) Edificaciones de 60,001 a 100,000 metros
 
-III. Dictaminar y autorizar planes de contingencia. 50.0 UMA
+cuadrados. 120.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+d) Edificaciones de 100,001 a 140,000 metros
 
-IV. Dictaminar y autorizar estudios y análisis de riesgo. 100.0 UMA
+cuadrados. 160.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+e) Edificaciones de 140,001 a 180,000 metros
 
-V. Dictaminar y autorizar peritajes de protección civil. 100.0 UMA
+cuadrados. 200.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+f) Edificaciones de 180,001 a 220,000 metros
 
-VI. Dictaminar y autorizar unidades internas de protección civil. 50.0 UMA
+cuadrados. 240.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+g) Edificaciones de 220,001 a 260,000 metros
 
-VII. Dictaminar y autorizar proyectos de factibilidad en materia de protección civil. 50.0 UMA
+cuadrados. 280.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+h) Edificaciones de 260,001 a 300,000 metros
 
-VIII. Dictamen técnico sobre predios de 11 a 200 metros cuadrados. 50.0 UMA
+cuadrados. 320.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+i) Edificaciones de 300,001 a 340,000 metros
 
-IX. Dictamen técnico sobre predios de 200.01 a 500 metros cuadrados. 75.0 UMA
+cuadrados. 360.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+j) Edificaciones de 340,001 a 380,000 metros
 
-X. Dictamen técnico sobre predios de 500.01 a 1000 metros cuadrados. 100.0 UMA
+cuadrados. 400.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+k) Edificaciones de 380,001 a 420,000 metros
 
-XI. Dictamen técnico sobre predios de 1,000.01 a 10,000 metros cuadros. 175.0 UMA
+cuadrados. 440.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+l) Edificaciones de 420,001 a 460,000 metros
 
-XII. Dictamen técnico sobre predios de 10,000.01 a 50,000 metros cuadrados. 400.0 UMA
+cuadrados. 480.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+m) Edificaciones de 460,001 a 500,000 metros
 
-XIII. Dictamen técnico sobre predios de 50,000.01 metros cuadrados en adelante. 450.0 UMA
+cuadrados. 520.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+n) Edificaciones de 500,001 a 540,000 metros
 
-XIV. Dictamen de seguridad e inspección en inmuebles de 0.01 a 20 metros cuadrados. 60.0 UMA
+cuadrados. 560.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+o) Edificaciones de 540,001 a 580,000 metros
 
-XV. Dictamen de seguridad e inspección en inmuebles de 20.01 a 50 metros cuadrados. 100.0 UMA
+cuadrados. 600.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+p) Edificaciones de más de 580,000 metros
 
-XVI. Dictamen de seguridad e inspección en inmuebles de 50.01 a 100.00 metros cuadrados. 125.0 UMA
+cuadrados. 640.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+II. Dictaminación y autorización de planes de
 
-XVII. Dictamen de seguridad e inspección en inmuebles de 100.01 a 200 metros cuadrados. 150.0 UMA
+contingencia. 50.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+III. Dictaminación y autorización de programas de
 
-XVIII. Dictamen de seguridad e inspección en inmuebles de 200.01 metros cuadrados en adelante. 250.0 UMA
+prevención de accidentes. 50.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+IV. Constancias de afectaciones en el ámbito de
 
-XIX. Dictamen de riesgo en predios de 0.01 a 1.00 hectárea. 60.0 UMA
+competencia del Instituto. 50.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+V. Estudio de prefactibilidad de análisis de riesgo. 100.00 UMA
 
-XX. Dictamen de riesgo en predios de 1.01 a 5.00 hectáreas. 90.0 UMA
+VI. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 0.01 metros a 20 metros cuadrados. 60.00 UMA
 
-XXI. Dictamen de riesgo en predios de 5.01 a 10.00 hectáreas. 170.0 UMA
+VII. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 20.01 a 50 metros cuadrados. 100.00 UMA
 
-XXII. Dictamen de riesgo en predios de 10.01 a 20.00 hectáreas. 320.0 UMA
+VIII. Dictamen de seguridad e inspección en
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+edificaciones de 50.01 a 100.00 metros cuadrados. 125.00 UMA
 
-XXIII. Dictamen de riesgo en predios de 20.01 a 50.00 hectáreas. 770.0 UMA
+IX. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 100.01 a 200.00 metros cuadrados. 150.00 UMA
 
-XXIV. Dictamen de riesgo en predios de 50.01 a más hectáreas. 920.0 UMA
+X. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 200.01 a 300.00 metros cuadrados. 200.00 UMA
 
-XXV. Dictamen de riesgo químico. 300.0 UMA
+XI. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 300.01 a 400.00 metros cuadrados. 250.00 UMA
 
-XXVI. Resguardo de eventos socio-organizativos. 150.0 UMA
+XII. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 400.01 a 500.00 metros cuadrados. 300.00 UMA
 
-XXVII. Autorización de registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 UMA
+XIII. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 500.01 a 600.00 metros cuadrados. 350.00 UMA
 
-XXVIII. Renovación registros a organizaciones civiles, empresas capacitadoras e instructores independientes en materia de protección civil. 100.0 UMA
+XIV. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 600.01 a 700.00 metros cuadrados. 400.00 UMA
 
-XXIX. Autorización para certificación de medidas de seguridad en establecimientos públicos o privados de nueva creación o que se encuentren operando. 50.0 UMA
+XV. Dictamen de seguridad e inspección en edificaciones
 
-XXX. Cursos de capacitación, adiestramiento y actualización en materia de protección civil que se imparten al personal de los establecimientos de nueva creación o que se encuentren operando, sean estos públicos o privados, por persona:
+de 700.01 a 800.00 metros cuadrados. 450.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XVI. Dictamen de seguridad e inspección en edificaciones
 
-a) Curso básico de primeros auxilios. 8.0 UMA
+de 800.01 a 900.00 metros cuadrados. 500.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XVII. Dictamen de seguridad e inspección en edificaciones
 
-b) Curso de prevención y control de incendios. 8.0 UMA
+de 900.01 a 1,000.00 metros cuadrados. 550.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XVIII. Dictamen de seguridad e inspección en edificaciones
 
-c) Curso de simulacro de evacuación. 8.0 UMA
+de 1,000.01 a 1,500.00 metros cuadrados. 700.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XIX. Dictamen de seguridad e inspección en edificaciones
 
-d) Curso de brigadas internas de protección civil. 8.0 UMA
+de 1,500.01 a 2,000.00 metros cuadrados. 800.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XX. Dictamen de seguridad e inspección en edificaciones
 
-e) Curso de señales y avisos para la protección civil. 8.0 UMA
+de 2,000.01 a 3,000.00 metros cuadrados. 900.00 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+XXI. Dictamen de seguridad e inspección en edificaciones
 
-f) Curso de antecedentes del Sistema Nacional
+de 3,000.01 a 4,000.00 metros cuadrados. 1,000.00 UMA
 
-de Protección Civil. 8.0 UMA
+XXII. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+de 4,000.01 a 5,000.00 metros cuadrados. 1,100.00 UMA
 
-g) Curso de tipos de riesgos que afectan a la población. 8.0 UMA
+XXIII. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+de 5,000.01 a 6,000.00 metros cuadrados. 1,200.00 UMA
 
-h) Cursos especiales de protección civil 25.0 UMA
+XXIV. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de 6,000.01 a 7,000.00 metros cuadrados. 1,300.00 UMA
 
-XXXI. Emisión de copias certificadas 5.0 UMA
+XXV. Dictamen de seguridad e inspección en edificaciones
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+de más de 7,000.00 metros cuadrados. 1,400.00 UMA
 
-XXXII. Atención a incendios por derrame o volcadura de pipas con materiales peligrosos 500.0 UMA
+XXVI. Renovación del dictamen de seguridad e
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+inspección en edificaciones sin modificaciones que se
 
-XXXIII. Atención a incendios en bodegas recicladoras, chatarreras y retenes. 500.0 UMA
+encuentren operando. 50.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXVII. Dictamen de riesgo en predios de 0.01 a 1.00
 
-XXXIV. Atención a incendios en centros comerciales como plazas, cines, auditorios y similares. 500.0 UMA
+hectárea. 60.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXVIII. Dictamen de riesgo en predios de 1.01 a 5.00
 
-XXXV. Poda de árbol en domicilio o establecimientos particulares. 30.0 UMA
+hectáreas. 100.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXIX. Dictamen de riesgo en predios de 5.01 a 10.00
 
-XXXVI. Atención de fugas de gas a establecimientos comerciales o industriales. 20.0 UMA
+hectáreas. 150.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXX. Dictamen de riesgo en predios de 10.01 a 20.00
 
-XXXVII. Atención de sistemas de contención de agua como cisternas y tinacos por cada uno de ellos. 15.0 UMA
+hectáreas. 200.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXI. Dictamen de riesgo en predios de 20.01 a 50.00
 
-XXXVIII. Resguardos de eventos acuáticos particulares como competencias de pesca deportiva, carreras de lanchas, eventos religiosos y similares. 100.0 UMA
+hectáreas. 300.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXII. Dictamen de riesgo en predios de 50.01 a 100.00
 
-XXXIX. Retiro de espectaculares de las vías públicas, así como de propiedad privada. 10.0 UMA
+hectáreas. 400.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXIII. Dictamen de riesgo en predios de 100.01 a 200.00
 
-XL. Recorridos y arrastres de lanchas y chalanes en medio acuático. 45.0 UMA
+hectáreas. 500.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXIV. Dictamen de riesgo en predios de 200.01 a 300.00
 
-XLI. Cursos de manejo de hidrantes en zonas industriales. 15.0 UMA
+hectáreas. 600.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXV. Dictamen de riesgo en predios de 300.01 a 400.00
 
-XLII. Rescate de vehículos particulares en aguas profundas. 20.0 UMA
+hectáreas. 700.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXVI. Dictamen de riesgo en predios de 400.01 a 500.00
 
-XLIII. Combate de abejas africanizadas en predios particulares. 3.0 UMA
+hectáreas. 800.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXVII. Dictamen de riesgo en predios de 500.01 a 600.00
 
-XLIV. Cursos para el manejo de motores fuera de borda. 30.0 UMA
+hectáreas. 900.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXVIII. Dictamen de riesgo en predios de 600.01 a 700.00
 
-XLV. Inspección para presurizar hidrantes en empresas o centros comerciales. 15.0 UMA
+hectáreas. 1,000.00 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+XXXIX. Dictamen de riesgo en predios de 700.01 a 800.00
 
-XLVI. Captura de animales domésticos en azoteas y áreas confinadas. 10.0 UMA
+hectáreas. 1,100.00 UMA
+
+XL. Dictamen de riesgo en predios de 800.01 a 900.00
+
+hectáreas. 1,200.00 UMA
+
+XLI. Dictamen de riesgo en predios de 900.01 a 1,000
+
+hectáreas. 1,300.00 UMA
+
+En predios con más de 1,000 hectáreas, por cada 50 hectáreas adicionales se cobrará 450.00 UMA.
+
+XLII. Resguardo de eventos socio-organizativos por un tiempo máximo de 8 horas:
+
+a) De 100 a 1,000 personas. 50.00 UMA
+
+b) De 1,001 a 3,000 personas. 100.00 UMA
+
+c) De 3,001 a 5,000 personas. 150.00 UMA
+
+d) De 5,001 a 7,000 personas. 200.00 UMA
+
+e) De 7,001 a 9,000 personas. 400.00 UMA
+
+XLIII. Autorización de registro como terceros acreditados
+
+a organizaciones civiles, empresas, capacitadoras e
+
+instructores independientes en materia de protección
+
+civil. 100.00 UMA
+
+XLIV. Renovación de registro como terceros acreditados
+
+a organizaciones civiles, empresas, capacitadoras e
+
+instructores independientes en materia de protección
+
+civil. 50.00 UMA
+
+XLV. Cursos de capacitación, adiestramiento y actualización que se imparten al personal de los establecimientos de nueva creación o que se encuentren operando, sean estos públicos o privados, por persona:
+
+a) Curso básico de primeros auxilios. 5.00 UMA
+
+b) Curso avanzado de primeros auxilios. 7.00 UMA
+
+c) Curso de prevención y control de incendios. 5.00 UMA
+
+d) Curso avanzado de prevención y control de
+
+incendios. 7.00 UMA
+
+e) Curso de simulacro de evacuación. 5.00 UMA
+
+f) Curso de brigadas internas de protección civil. 5.00 UMA
+
+g) Curso de señales y avisos para la protección
+
+civil. 5.00 UMA
+
+h) Curso de antecedentes del Sistema Nacional
+
+de Protección Civil. 5.00 UMA
+
+i) Curso de tipos de riesgos que afectan a la
+
+población. 5.00 UMA
+
+j) Cursos especiales de protección civil. 18.00 UMA
+
+k) Curso de búsqueda y rescate. 5.00 UMA
+
+l) Curso de combate a incendios. 5.00 UMA
+
+m) Curso de evacuación de inmuebles. 5.00 UMA
+
+n) Curso de formación de brigadas. 5.00 UMA
+
+ñ) Curso de identificación de fallas estructurales. 5.00 UMA
+
+o) Curso de primeros auxilios psicológicos en
+
+emergencia y desastre. 5.00 UMA
+
+p) Curso de manejo de hidrantes. 5.00 UMA
+
+q) Cursos para el manejo de motores fuera de
+
+borda. 5.00 UMA
+
+En caso de agrupar un número mínimo de 10 personas hasta un máximo de 50, se cobrará 4.00 UMA por persona. Se exceptúa de lo anterior el inciso j).
+
+XLVI. Dictamen para la emisión de opinión por parte del Gobernador Constitucional del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente:
+
+a) Sobre predios de 10 a 200 metros cuadrados. 7.00 UMA
+
+b) Sobre predios de 201 a 500 metros cuadrados. 95.00 UMA
+
+c) Sobre predios de 501 a 1,000 metros
+
+cuadrados. 120.00 UMA
+
+d) Sobre predios de 1,001 a 10,000 metros
+
+cuadrados. 195.00 UMA
+
+e) Sobre predios de 10,001 a 50,000 metros
+
+cuadrados. 420.00 UMA
+
+f) Sobre predios con más de 50,000 metros
+
+cuadrados. 645.00 UMA
+
+XLVII. Poda de árbol en domicilio o establecimientos
+
+particulares. 30.00 UMA
+
+XLVIII. Atención de sistemas de contención de agua
+
+como cisternas, albercas y tinacos por cada uno de ellos
+
+y hasta un total de 10,000 litros. 15.00 UMA
+
+XLIX. Resguardos de eventos acuáticos particulares como competencias de pesca deportiva, carreras de lanchas, eventos religiosos y similares por un tiempo máximo de 8 horas:
+
+a) De 1,000 personas. 75.00 UMA
+
+b) De 1,001 a 3,000 personas. 125.00 UMA
+
+c) De 3,001 a 5,000 personas. 175.00 UMA
+
+d) De 5,001 a 7,000 personas. 225.00 UMA
+
+e) De 7,001 a 9,000 personas. 275.00 UMA
+
+f) De 9,001 personas en adelante. 325.00 UMA
+
+L. Retiro de espectaculares en propiedad privada. 10.00 UMA
+
+LI. Recorridos y arrastres de lanchas y chalanas
+
+en medio acuático en un radio de 15 km. 45.00 UMA
+
+LII. Rescate de vehículos particulares en aguas
+
+profundas. 100.00 UMA
+
+LIII. Inspección para presurizar hidrantes en empresas
+
+o centros comerciales. 15.00 UMA
+
+LIV. Inspección previa de eventos
+
+socio-organizativos. 50.00 UMA
+
+LV. Traslado a particulares en ambulancia
+
+a) Dentro del municipio:
+
+(a) Paciente estable que va de alta a su
+
+casa o a estudios especiales. 8.00 UMA
+
+(b) Paciente no estable que va de alta a su
+
+casa o a estudios especiales. 10.00 UMA
+
+b) Fuera del municipio:
+
+(a) Para paciente estable:
+
+(a.1) Hasta 20 kilómetros. 15.00 UMA
+
+(a.2) Hasta 30 kilómetros. 18.00 UMA
+
+(a.3) Hasta 50 kilómetros. 20.00 UMA
+
+(a.4) Hasta 100 kilómetros. 40.00 UMA
+
+(a.5) Hasta 150 kilómetros. 60.00 UMA
+
+(a.6) Hasta 200 kilómetros. 80.00 UMA
+
+(a.7) Hasta 250 kilómetros. 100.00 UMA
+
+(a.8) Hasta 300 kilómetros. 120.00 UMA
+
+(a.9) Hasta 350 kilómetros. 140.00 UMA
+
+(a.10) Hasta 400 kilómetros. 160.00 UMA
+
+(b) Para paciente no estable:
+
+(b.1) Hasta 20 kilómetros. 20.00 UMA
+
+(b.2) Hasta 30 kilómetros. 25.00 UMA
+
+(b.3) Hasta 50 kilómetros. 30.00 UMA
+
+(b.4) Hasta 100 kilómetros. 60.00 UMA
+
+(b.5) Hasta 150 kilómetros. 80.00 UMA
+
+(b.6) Hasta 200 kilómetros. 100.00 UMA
+
+(b.7) Hasta 250 kilómetros. 120.00 UMA
+
+(b.8) Hasta 300 kilómetros. 140.00 UMA
+
+(b.9) Hasta 350 kilómetros. 160.00 UMA
+
+(b.10) Hasta 400 kilómetros. 180.00 UMA
+
+LVI. Arrendamiento de aulas por 6 horas. 25.00 UMA
 
 ###### Artículo 111.
 
@@ -6245,9 +6717,17 @@ c) Múltiple. 0.51 UMA
 
 d) Residencial. 0.79 UMA
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-e) Comercial. 1.73 UMA
+e) Residencial con alberca para uso común 1.05 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+f) Residencial con alberca para uso privado 1.10 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+g) Comercial 1.73 UMA
 
 II. Por la recaudación de los Derechos de Agua Comercial:
 
@@ -6287,37 +6767,511 @@ inmuebles destinados al
 
 servicio público. 9.57 UMA
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Por los contratos de adhesión de los servicios de agua potable:
+
+a) Doméstico popular. 6.91 UMA
+
+b) Doméstico medio. 7.49 UMA
+
+c) Doméstico múltiple. 7.72 UMA
+
+d) Doméstico residencial. 16.12 UMA
+
+e) Doméstico residencial con alberca de uso
+
+común 16.69 UMA
+
+f) Doméstico residencial con alberca de uso
+
+privado 17.27 UMA
+
+g) Doméstico comercial. 19.57 UMA
+
+h) Comercial básico. 23.03 UMA
+
+i) Comercial general. 28.78 UMA
+
+j) Comercial especial. 80.58 UMA
+
+k) Comercial macro medición. 86.33 UMA
+
+l) Industrial servicios. 80.58 UMA
+
+m) Industrial producción. 92.09 UMA
+
+n) Servicio público. 17.27 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Por los costos de interconexión a los servicios de agua potable o sistemas de alcantarillado (medidas superiores a la media pulgada de diámetro):
+
+a) Usuarios domésticos (fraccionamientos o conjuntos habitacionales horizontales/verticales):
+
+(a) Interés popular. 36.00 UMA
+
+(b) Interés medio. 54.00 UMA
+
+(c) Interés residencial. 90.00 UMA
+
+b) Usuarios comerciales:
+
+(a) Diámetro de la toma
+
+(a.1) Tres cuartos de pulgada(¾") 518.46 UMA
+
+(a.2) Una pulgada (1 ") 788.46 UMA
+
+(a.3) Una pulgada y cuarto (1 ¼") 1,058.46 UMA
+
+(a.4) Una pulgada y media (1 ½") 1, 688.46 UMA
+
+(a.5) Dos pulgadas (2") 3,038.46 UMA
+
+(a.6) Dos pulgadas y media (2 ½") 4,793.46 UMA
+
+(a.7) Tres pulgadas (3") 6,278.46 UMA
+
+c) Usuarios industriales:
+
+(a) Diámetro de la toma
+
+(a.1) Tres cuartos de pulgada(¾") 1,035.00 UMA
+
+(a.2) Una pulgada (1 ") 1,170.00 UMA
+
+(a.3) Una pulgada y cuarto (1 ¼") 1,710.00 UMA
+
+(a.4) Una pulgada y media (1 ½") 2,520.00 UMA
+
+(a.5) Dos pulgadas (2") 4,500.00 UMA
+
+(a.6) Dos pulgadas y media (2 ½") 7,200.00 UMA
+
+(a.7) Tres pulgadas (3") 9,360.00 UMA
+
+(a.8) Cuatro pulgadas (4") 10,890.00 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Por los costos de los gastos de supervisión de los trabajos de interconexión a los servicios de agua potable o sistemas de alcantarillado (medidas superiores a la media pulgada de diámetro):
+
+a) Usuarios domésticos (fraccionamientos o conjuntos habitacionales horizontales/verticales). Monto por cada vivienda:
+
+(a) Interés popular. 1.8 UMA
+
+(b) Interés medio. 2.7 UMA
+
+(c) Interés residencial. 4.5 UMA
+
+b) Usuarios comerciales:
+
+(a) Diámetro de la toma de agua
+
+(a.1) Tres cuartos de pulgada (3/4") 25.923 UMA
+
+(a.2) Una pulgada (1 ") 39.423 UMA
+
+(a.3) Una pulgada y cuarto (1 ¼") 52.923 UMA
+
+(a.4) Una pulgada y media (1 ½") 84.423 UMA
+
+(a.5) Dos pulgadas (2") 151.923 UMA
+
+(a.6) Dos pulgadas y media (2 ½") 239.673 UMA
+
+(a.7) Tres pulgadas (3") 313.923 UMA
+
+c) Usuarios industriales:
+
+(a) Diámetro de la toma de agua
+
+(a.1) Tres cuartos de pulgada (3/4") 51.75 UMA
+
+(a.2) Una pulgada (1 ") 58.50 UMA
+
+(a.3) Una pulgada y cuarto (1 1/4") 85.50 UMA
+
+(a.4) Una pulgada y media (1 1/2") 126.00 UMA
+
+(a.5) Dos pulgadas (2") 225.00 UMA
+
+(a.6) Dos pulgadas y media (2 1/2") 360.00 UMA
+
+(a.7) Tres pulgadas (3") 468.00 UMA
+
+(a.8) Cuatro pulgadas (4") 544.50 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VIII. Por los costos de suministro de agua potable en pipa:
+
+a) Suministro de 5 mil litros de agua potable
+
+(incluye renta de la pipa). 11.52 UMA
+
+b) Suministro de 10 mil litros de agua potable
+
+(no incluye renta de la pipa). 17.27 UMA
+
+c) Suministro de 10 mil litros de agua potable para
+
+uso doméstico, incluye la renta de la pipa en un
+
+radio de hasta 10 km a la redonda de la planta
+
+potabilizadora donde cargará. 20.72 UMA
+
+d) Suministro de 10 mil litros de agua potable para
+
+uso doméstico, incluye la renta de la pipa en un
+
+radio de hasta 20 km a la redonda de la planta
+
+potabilizadora donde cargará. 26.89 UMA
+
+e) Suministro de 10 mil litros de agua potable para
+
+uso doméstico, incluye la renta de la pipa en un
+
+radio de hasta 30 km a la redonda de la planta
+
+potabilizadora donde cargará. 30.24 UMA
+
+f) Suministro de 10 mil litros de agua potable para
+
+uso industrial, incluye la renta de la pipa en un
+
+radio de hasta 30 km a la redonda de la planta
+
+potabilizadora donde cargará. 34.56 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+IX. Por los costos relacionados con la toma de agua domiciliaria:
+
+a) Instalación.
+
+(a) De media pulgada (1/2") de diámetro en
+
+terracería/arcilla hasta un metro cúbico de
+
+excavación (no incluye material). 8.64 UMA
+
+(b) Por cada metro cúbico de excavación
+
+adicional en terracería/arcilla (no incluye
+
+material). 3.5 UMA
+
+(c) De media pulgada (1/2") de diámetro en
+
+asfalto/concreto hasta un metro cúbico de
+
+excavación (no incluye material). 14.39 UMA
+
+(d) Por cada metro cúbico de excavación
+
+adicional en asfalto/concreto (no incluye
+
+material). 4.76 UMA
+
+b) Reinstalación. 14.00 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+X. Por los costos de suministro e instalación de medidor, cuadro y válvula:
+
+a) Suministro e instalación de medidor de media
+
+pulgada (1/2") de diámetro. 20.33 UMA
+
+b) Instalación de medidor de media pulgada (1/2")
+
+de diámetro. 3.50 UMA
+
+c) Suministro e instalación de cuadro y válvula de
+
+media pulgada (1/2") de diámetro (no incluye
+
+material). 11.50 UMA
+
+d) Instalación de cuadro y válvula de media
+
+pulgada (1/2") de diámetro (no incluye
+
+material). 4.50 UMA
+
+e) Suministro e instalación de medidor de una
+
+pulgada (1 ") de diámetro. 46.62 UMA
+
+f) Instalación de medidor de una pulgada (1") de
+
+diámetro. 3.50 UMA
+
+g) Suministro e instalación de cuadro y válvula
+
+de una pulgada (1") de diámetro (no incluye
+
+material). 10.82 UMA
+
+h) Instalación de cuadro y válvula de una
+
+pulgada (1") de diámetro (no incluye material). 4.50 UMA
+
+i) Suministro e instalación de medidor de dos
+
+pulgadas (2") de diámetro. 67.70 UMA
+
+j) Instalación de medidor de dos pulgadas (2") de
+
+diámetro. 3.50 UMA
+
+k) Suministro e instalación de cuadro y válvula
+
+de dos pulgadas (2") de diámetro (no incluye
+
+material). 10.82 UMA
+
+l) Instalación de cuadro y válvula de dos
+
+pulgadas (2") de diámetro (no incluye
+
+material). 4.50 UMA
+
+m) Suministro e instalación de medidor de tres
+
+pulgadas (3") de diámetro. 69.66 UMA
+
+n) Instalación de medidor de tres pulgadas (3")
+
+de diámetro. 3.50 UMA
+
+ñ) Suministro e instalación de cuadro y válvula
+
+de tres pulgadas (3") de diámetro (no incluye
+
+material). 10.82 UMA
+
+o) Instalación de cuadro y válvula de tres
+
+pulgadas (3") de diámetro (no incluye material). 4.50 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XI. Por los costos del servicio de desazolve:
+
+a) De fosa séptica en un radio de hasta 10 km a la
+
+redonda de la planta de tratamiento de aguas
+
+residuales donde se descargará. 50.00 UMA
+
+b) De fosa séptica en un radio de hasta 20 km a
+
+la redonda de la planta de tratamiento de aguas
+
+residuales donde se descargará. 55.00 UMA
+
+c) De fosa séptica en un radio de hasta 30 km a la
+
+redonda de la planta de tratamiento de aguas
+
+residuales donde se descargará. 60.00 UMA
+
+d) Metro cúbico de descarga de aguas residuales
+
+a la planta de tratamiento de agua residuales. 5.76 UMA
+
+e) Servicio de un equipo hidroneumático tipo
+
+Vactor para desazolve de alcantarillado hasta 100
+
+metros lineales. 34.52 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XII. Por los costos de cambios, constancias, bajas, reactivación y revisión:
+
+a) Cambio de giro de contrato de usuario
+
+doméstico popular, medio, múltiple, residencial,
+
+residencial con alberca de uso común o privado,
+
+y comercial a usuario comercial básico o
+
+general. 21.87 UMA
+
+b) Cambio de giro de contrato de usuario
+
+doméstico popular, medio, múltiple, residencial y
+
+comercial a usuario comercial especial o
+
+macro medición. 79.42 UMA
+
+c) Cambio de giro de contrato de usuario
+
+doméstico popular, medio, múltiple,
+
+residencial y comercial; así como usuario
+
+comercial básico, general, especial y macro
+
+medición a usuario industrial servicios o
+
+producción. 85.18 UMA
+
+d) Cambio de giro de contrato de usuario
+
+doméstico popular, medio, múltiple, residencial,
+
+comercial; usuario comercial básico, general,
+
+especial, macro medición; así como industrial
+
+servicios o producción a servicio público. 10.36 UMA
+
+e) Constancia de no adeudo a usuario con toma
+
+doméstica. 1.19 UMA
+
+f) Constancia de no adeudo a usuario con toma
+
+comercial. 2.38 UMA
+
+g) Constancia de no adeudo a usuario con toma
+
+industrial. 2.96 UMA
+
+h) Constancia de no adeudo a usuario con toma
+
+servicio público. 2.96 UMA
+
+i) Constancia de factibilidad del servicio de agua. 2.96 UMA
+
+j) Cambio de nombre del usuario en el contrato. 1.19 UMA
+
+k) Cambio de domicilio del usuario en el
+
+contrato. 1.19 UMA
+
+l) Baja temporal del contrato (liquidando
+
+adeudo). 2.38 UMA
+
+m) Baja definitiva del contrato y corte de la toma
+
+de agua (liquidando adeudo). 8.90 UMA
+
+n) Reactivación del contrato de baja temporal. 1.78 UMA
+
+ñ) Revisión de los proyectos de fraccionamientos. 84.63 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+XIII. Por los costos de la prestación del servicio de agua purificada:
+
+a) Suministro de agua purificada en planta y/o
+
+rellenadora para público en general (no incluye
+
+garrafón). 0.12 UMA
+
+b) Suministro de agua purificada en garrafón con
+
+reparto al público en general (no incluye garrafón). 0.24 UMA
+
+c) Suministro de agua purificada en botella en
+
+presentación de 500 ml. 0.05 UMA
+
+d) Suministro de agua purificada en botella en
+
+presentación de 350 ml. 0.04 UMA
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 113 Bis.
 
-Por los servicios prestados por el Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, órgano descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por el Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, organismo descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Por el servicio de devolución. 1.0 UMA
 
-II. Por bienes muebles:
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-a) Cobro diario, a partir de la recepción
+II. Por el resguardo diario de bienes muebles a partir de
 
-de la unidad motriz, por gastos de
+su recepción. 1.0 UMA
 
-administración. 1.0 UMA
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-b) Cobro diario, a partir de la recepción
+III. Por el resguardo diario de bienes inmuebles a partir
 
-de los objetos asegurados, por gastos de
+de su recepción. 1.0 UMA
 
-administración. 1.0 UMA
-
-III. Por bienes inmuebles:
-
-a) Cobro diario, a partir de la recepción del
-
-inmueble, por gastos de administración. 1.0 UMA
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 IV. Para el caso de aseguramiento de
 
 numerarios se cobrará por día. 1.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+V. Por el resguardo de vehículos retenidos,
+
+accidentados o descompuestos en las vías públicas de
+
+jurisdicción estatal, por día:
+
+a) Motocicletas. 0.25 UMA
+
+b) Automóviles y camionetas. 1.00 UMA
+
+c) Camionetas de tres toneladas y tipo van, así
+
+como minibuses. 1.25 UMA
+
+d) Camiones de coraza y volteos. 1.25 UMA
+
+e) Camiones de redilas de dos ejes y plataforma. 1.50 UMA
+
+f) Tráileres y semirremolques. 1.50 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VI. Por el arrastre hasta 25 kilómetros:
+
+a) Motocicletas. 4.00 UMA
+
+b) Automóviles, sedán, combi, panel, pick up,
+
+estaquitas. 8.00 UMA
+
+c) Camionetas de tres toneladas y tipo van, así
+
+como minibuses. 9.00 UMA
+
+d) Camiones de coraza y volteos. 18.00 UMA
+
+e) Camiones de redilas de dos ejes y plataforma. 23.00 UMA
+
+f) Tráileres. 23.00 UMA
+
+g) Semirremolques. 46.00 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+
+VII. Por cada kilómetro o fracción siguiente en el servicio
+
+de arrastre. 0.25 UMA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 Cuando la víctima sea quien solicite la devolución de un bien mueble o inmueble, se cobrará únicamente el servicio de devolución.
 
@@ -6501,11 +7455,11 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
-> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 99.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -7084,3 +8038,147 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 TERCERO. El Ejecutivo del Estado a través de la Secretaría de Finanzas deberá implementar las medidas administrativas que estime necesarias para la aplicación de las disposiciones que establece el presente Decreto.
 
 CUARTO. El Ejecutivo del Estado deberá realizar las adecuaciones que resulten pertinentes al Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 75, PÁRRAFO PRIMERO; 77, PÁRRAFO PRIMERO; 79, FRACCIÓN I, INCISO A), SUBINCISOS (A), (B), (C), (D), (E), (F) Y (G), INCISO B), SUBINCISOS (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (L), (M) Y (N), FRACCIÓN II; LAS DENOMINACIONES DE LA SECCIÓN PRIMERA, PARA QUEDAR COMO "USO DE BIENES DE DOMINIO PÚBLICO", Y DE LA SECCIÓN SEGUNDA, PARA QUEDAR COMO "REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS", AMBAS DEL CAPÍTULO QUINTO, DEL TÍTULO TERCERO; 91-B, PÁRRAFO PRIMERO; 96, PÁRRAFO PRIMERO, LA FRACCIÓN I, INCISOS A), B), C), D) E), F), G), H) I), J), K), L), M), N), O), P), Q), R), S), T), U), V), W) Y X), FRACCIÓN II, INCISOS A), B), C), D) E), F), G), H) I), J), K), L), M), N), O), P), Q), R), S), T), U), V), W) Y X); 97, PÁRRAFO PRIMERO; 98, PÁRRAFO PRIMERO; 98-A, FRACCIÓN I, INCISOS A), B), C), D), E), F), G), H) E I), Y FRACCIÓN IV; 98-B, PÁRRAFO PRIMERO; 98-C, FRACCIÓN II, INCISO D), SUBINCISOS (B) Y (C), FRACCIÓN VII, INCISO C), SUBINCISO (F), E INCISO D), SUBINCISO (A); 102, FRACCIONES I Y II; 110; 113, FRACCIÓN I, INCISO E); 113 BIS PÁRRAFO PRIMERO Y LAS FRACCIONES II Y III; LOS ARTÍCULOS QUINTO Y VIGÉSIMO DEL ANEXO PRIMERO; Y LAS FRACCIONES II, III, IV, V Y VII DEL ANEXO SEGUNDO. SE ADICIONAN: EL INCISO A), SUBINCISOS (A), (B), (C), (D), (E), (F) Y (G), Y EL INCISO B), SUBINCISOS (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (L), (M) Y (N), A LA FRACCIÓN II, LAS FRACCIONES XV Y XVI AL ARTÍCULO 79; LA SECCIÓN QUINTA, DENOMINADA "CUMPLIMIENTO DE OBLIGACIONES FISCALES", AL CAPÍTULO CUARTO, DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 88; EL ARTÍCULO 90; EL INCISO GG) A LA FRACCIÓN I DEL ARTÍCULO 96; UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 96; EL INCISO GG) Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 96; LOS SUBINCISOS (A) Y (B) AL INCISO A), LOS SUBINCISOS (A) Y (B) AL INCISO B), LOS SUBINCISOS (A) Y (B) AL INCISO C), LOS SUBINCISOS (A) Y (B) AL INCISO D), LOS SUBINCISOS (A) Y (B) AL INCISO E), Y LOS SUBINCISOS (A) Y (B) AL INCISO F), A LA FRACCIÓN I DEL ARTÍCULO 98-A; LA FRACCIÓN VIII AL ARTÍCULO 98-A; LOS SUBINCISOS (B.1) Y (B.2) AL SUBINCISO (B), DEL INCISO C), LOS SUBINCISOS (C.1) Y (C.2) AL SUBINCISO (C) DEL INCISO D), DE LA FRACCIÓN II, EL SUBINCISO (B.1) Y (B.2) AL SUBINCISO (B) DEL INCISO A), LOS SUBINCISOS (B.1) Y (B.2) AL SUBINCISO (B) DEL INCISO B ), DE LA FRACCIÓN IV, LOS SUBINCISOS (A.1) Y (A.2) AL SUBINCISO (A) DEL INCISO C), LOS SUBINCISOS (B.1) Y (B.2) AL SUBINCISO (B) DEL INCISO D), LOS SUBINCISOS (B.1) Y (B.2) AL SUBINCISO (B) DEL INCISO E), LOS SUBINCISOS (B.1) Y (B.2) AL SUBINICISO (SIC) (B) DEL INCISO F), LOS SUBINICISOS (SIC) (B.1) Y (B.2) AL SUBINCISO (B) DEL INICISO G), LOS SUBINCISOS (B.1) Y (B.2) AL SUBINCISO (B) DEL INCISO H) DE LA FRACCIÓN VII, TODOS DEL ARTÍCULO 98-C; LOS INCISOS F) Y G) A LA FRACCIÓN I, Y LAS FRACCIONES V, VI, VII, VIII, IX, X, XI, XII Y XIII, AL ARTÍCULO 113; FRACCIONES V, VI Y VII AL ARTÍCULO 113 BIS; LAS FRACCIONES XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XIX Y XXX, RECORRIÉNDOSE LA FRACCIÓN XVIII PARA SER XXXI, DEL ARTÍCULO PRIMERO DEL ANEXO PRIMERO; LOS INCISOS A) Y B) A LA FRACCIÓN I, Y LOS INCISOS A) Y B) A LA FRACCIÓN II, DEL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; SE DEROGAN: LA FRACCIÓN IX DEL ARTÍCULO 98-A; LOS INCISOS E) Y F), DE LA FRACCIÓN II, LOS SUBINCISOS (H), (I), G), Y (K) DEL INCISO A), LOS SUBINCISOS (H), (I), G) Y (K) DEL INCISO B), DE LA FRACCIÓN IV, LOS SUBINCISOS (B), (C), (D), Y (E), DEL INCISO C), LOS SUBINCISOS (L), (M) Y (N), DEL INCISO D), LOS SUBINCISOS (K), (L) Y (M) DEL INICISO (SIC) G), SUBINCISOS (K), (L), (M) Y (N) DEL INCISO H) DE LA FRACCIÓN VII, TODOS DEL ARTÍCULO 98-C; EL ARTÍCULO VIGÉSIMO TERCERO DEL ANEXO PRIMERO, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil veintiuno, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021 no contempla los recursos refrendados del ejercicio fiscal 2020, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2021.
+
+QUINTO. Se eximen total o parcialmente, durante el ejercicio fiscal 2021, los accesorios derivados de los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto de Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondiente al ejercicio fiscal 2014.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos y multas, un descuento del 30% en gastos de ejecución causados al Impuesto Vehicular Estatal, así como un 20% de descuento en la obligación; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO ESTÍMULO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Del 1 de enero al 31 de diciembre de
+
+2021
+
+Gastos de Ejecución 30%
+
+Impuesto Vehicular 20% Del 1 de enero al 30 de abril de 2021
+
+Estatal
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado de Tabasco.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios del estímulo a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placa y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% o del 75% sobre los recargos y multas, y un descuento del 30% sobre gastos de honorarios y de ejecución causados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Recargos y multas 100% Del 1 de enero al 30 de junio de
+
+2021.
+
+Recargos y multas 75% Del 1 de julio al 31 de diciembre de
+
+2021.
+
+Honorarios y gastos de 30% Del 1 de enero al 31 de diciembre de
+
+Ejecución 2021.
+
+III. Los determinados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placa y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021.
+
+Por el periodo comprendido del 1 de enero al 31 de diciembre de 2021, se otorga un estímulo fiscal para las personas con discapacidad permanente y que cuenten con placas para vehículos de personas con discapacidad y adultos mayores, consistente en un descuento del 100% sobre los recargos y multas y un descuento del 30% sobre gastos de honorarios y de ejecución causados por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Recargos y multas 100% Del 1 de enero al 31 de diciembre de
+
+2021
+
+Honorarios y gastos de 30% Del 1 de enero al 31 de diciembre de
+
+Ejecución 2021
+
+Los contribuyentes que opten por los estímulos que se otorgan en las fracciones II y III del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracción IV y V, y 86 fracción IV y V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2021, hasta en 36 parcialidades, conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de los estímulos a que se refiere el presente artículo transitorio.
+
+IV. Los determinados por concepto de derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2021.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2021, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un 20%, 15%, 10% o 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2021; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo de pago
+
+Fiscal
+
+20% Del 1 al 31 de enero de 2021
+
+15% Del 1 al 28 de febrero de
+
+2021
+
+Derecho de refrendo anual de 2021
+
+placa, tarjeta de circulación y
+
+calcomanía 10% Del 1 al 31 de marzo de 2021
+
+5% Del 1 al 30 de abril de 2021
+
+V. Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2016, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+SEXTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la exención o estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2021, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el ejercicio fiscal 2021, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales y extranjeros usados cuyo año- modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado de Tabasco, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal por conducto de la Secretaría de Finanzas, implementará a partir del 1 de enero de 2021 un programa adicional al contemplado en el artículo Quinto transitorio del presente Decreto, dicho programa contemplará la exención de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placa de circulación, canje de placas, tarjeta de circulación y calcomanía de motocicletas, motocarros y motonetas.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas, motocarros y motonetas que circulan en el Estado de Tabasco.
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas motocarros y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad y Protección Ciudadana y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1° de enero de 2021 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+NOVENO. El monto del incremento en el cobro de los derechos establecidos en el artículo 86, fracción V, inciso a) -De 10.0 a 12.0 UMA- de la Ley de Hacienda del Estado de Tabasco, efectuado en el ejercicio fiscal anterior, se seguirá destinando preferentemente para el fondo de movilidad y seguridad vial para el mantenimiento de señalización, semaforización y vialidades, así como inversión en nuevas obras viales, tales como broches viales, pasos peatonales, puentes y demás aplicables.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público, correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2016, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
