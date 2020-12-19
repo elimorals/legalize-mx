@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-en-posesion-de-125252"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2017-11-29"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 29 de noviembre de 2017.
 
@@ -211,13 +211,17 @@ En todo lo no previsto en la presente Ley, se estará a la aplicación supletori
 
 I. La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-II. La Ley de Justicia Administrativa para el Estado de Oaxaca; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. La Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca; y
 
 III. El Código de Procedimientos Civiles para el Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-Son días hábiles para efectos de esta Ley, los que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin perjuicio de que el Pleno del Instituto, pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cuál sea ésta y las diligencias que haya que practicarse.
+Son días hábiles para efectos de esta Ley, los que establezca la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin perjuicio de que el Pleno del Instituto, pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cuál sea ésta y las diligencias que haya que practicarse.
 
 ## Título Segundo. Principios y Deberes
 
@@ -1522,3 +1526,13 @@ SÉPTIMO. Los sujetos obligados como responsables, deberán adecuar su normativi
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 2 de Agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 4 de Agosto de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno.- Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 7 Y EL ARTÍCULO 8 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
