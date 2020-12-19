@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2020-11-28"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -575,11 +575,21 @@ La Directiva tendrá a su cargo la conducción de las sesiones.
 
 Corresponde a la Directiva, bajo la autoridad de su Presidente, presidir las sesiones, calificar las faltas de los Diputados, preservar la libertad de las deliberaciones, aplicando con imparcialidad las disposiciones de esta Ley, su Reglamento y los acuerdos que apruebe el Congreso.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+[N. DE E, VÉASE LITERALIDAD DEL DECRETO DE REFORMAS NÚMERO 394, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2020.]
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REFORMADO], P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 39.
 
-La Comisión de Gobierno Interno será presidida por el Diputado o Diputada que integre dicha Comisión, electo por el voto mayoritario de los integrantes que conforman esta misma Comisión de Gobierno Interno, en caso de que ningún coordinador de grupo parlamentario por si solo obtenga la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de Diputados, conforme lo prevé el artículo 47 de esta Ley. Cuando según la conformación de la legislatura existan dos grupos parlamentarios solo se elegirá una Secretaria, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
+La Comisión de Gobierno será presidida por el Coordinador del Grupo parlamentario que por sí solo represente la mayoría absoluta y en caso de que ningún coordinador de grupo parlamentario por si solo la represente, recaerá en el coordinador del grupo parlamentario que tenga el mayor número de Diputados en los términos del último párrafo del artículo 47 de la Ley. Cuando según la conformación de la legislatura existan dos grupos parlamentarios solo se elegirá una Secretaría, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
+
+… (SIC)
+
+… (SIC)
+
+… (SIC)
+
+… (SIC)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -751,21 +761,21 @@ DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
 La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-La Comisión de Gobierno Interno se integrará por los Coordinadores de los Grupos Parlamentarios o sus suplentes acreditados, por los Diputados o Diputadas Independientes y los Diputados o Diputadas únicas, se formará con un Presidente, uno o dos Secretarios y vocales, teniendo derecho a voz y voto,
+La Comisión de Gobierno Interno se integrará por los Coordinadores de los Grupos Parlamentarios o sus suplentes acreditados y Diputadas o Diputados Únicos; se formará con un Presidente, uno o dos Secretarios y vocales, en su caso.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-La Presidencia de la Comisión de Gobierno Interno, será electa por el voto mayoritario de los integrantes que conforman esta misma Comisión. En el caso de que ningún integrante de la Comisión de Gobierno Interno por si solo represente la mayoría absoluta, la Presidencia recaerá en aquel que tenga el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+La Presidencia de la Comisión de Gobierno Interno deberá elegirse democráticamente mediante el voto de los coordinadores parlamentarios y Diputados Únicos, en función del número de Diputados que representen cada uno de ellos, en relación con el total que integren el Congreso, resultando electa la propuesta que sume el mayor número de votos. En caso de que ninguno de ellos alcance la mayoría de votos, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga, al momento de dicha elección, el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de Diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
 ARTICULO 47 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 48.
 
-Las resoluciones de la Comisión de Gobierno Interno y Acuerdos Parlamentarios serán tomadas por la mayoría de sus integrantes.
+Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
@@ -1954,3 +1964,9 @@ P.O. 28 DE NOVIEMBRE DE 2020.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrara en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 394.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO”.]
+
+ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
