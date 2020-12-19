@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2020-10-03"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -135,15 +135,25 @@ XXI.- El control sanitario de los establecimientos dedicados al proceso de los p
 
 XXII.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
 
-XXIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2019)</small>
+XXIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
 
-XXIV.- Reconocer y promover la participación activa de las personas que practiquen la medicina tradicional y alternativa en la ejecución de los programas de salud en el Estado; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XXIV.- Reconocer y promover la participación activa de las personas que practiquen la medicina tradicional y alternativa en la ejecución de los programas de salud en el Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XXV.- Procurar que las personas indígenas reciban atención médica, información y capacitación en materia de salud, así como las acciones de prevención de enfermedades en su propia lengua;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XXVI.- Disponer de personal médico hablante de lengua indígena en los establecimientos de salud ubicados dentro de los pueblos y comunidades indígenas, para garantizar el acceso a los servicios mediante un consentimiento informado basado en la pertinencia cultural; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2019)</small>
 
-XXV.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
+XXVII.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
 
 B.- En materia de Salubridad Local, el control sanitario de:
 
@@ -3632,3 +3642,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1783.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 A LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XXIII Y XXIV Y SE ADICIONAN LAS FRACCIONES XXV y XXVI, RECORRIÉNDOSE LA SUBSECUENTE, AL APARTADO A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
