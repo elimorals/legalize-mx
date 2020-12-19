@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2020-10-03"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -517,9 +517,11 @@ Las áreas naturales protegidas no podrán formar parte de las Zonas de Desarrol
 
 El Titular del Ejecutivo del Estado y los Ayuntamientos en coordinación con la Secretaría Federal, formularán los programas de manejo correspondiente para cada Zona.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
-El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona de Desarrollo Turístico Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
+El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona de Desarrollo Turístico Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando, restaurando y mejorando los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como de las diversas expresiones históricas, artísticas y culturales tangibles e intangibles.
 
 ###### Artículo 35.
 
@@ -809,9 +811,17 @@ La Secretaría en coordinación con las autoridades estatales en materia de prot
 
 La Secretaría y los Ayuntamientos como medida preventiva adicional, difundirán entre los turistas y los prestadores de servicios turísticos, los albergues y refugios acreditados por las autoridades de protección civil en el Estado.
 
+REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)
+
 ###### Artículo 66.
 
-La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la Ley de la materia, vigilarán que los prestadores de servicios turísticos en el Estado, cumplan con las disposiciones establecidas en la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.
+La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la Ley de la materia, vigilarán que los prestadores de servicios turísticos en el Estado, cumplan con las disposiciones establecidas en la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca y la Ley Estatal de Salud, de manera enunciativa:
+
+I. Contar con las medidas preventivas de seguridad como son: salidas de emergencia, extinguidores, señalización, acceso a teléfono y números de emergencia;
+
+II. Aplicar los protocolos de higiene y las medidas de limpieza y saneamiento de lugares públicos, edificios, vehículos y objetos entre ellas: descontaminación, desinfección, desinsectación y fumigación, y;
+
+III. Cooperar estrechamente con los tres ámbitos de Gobierno, proporcionando la información requerida, aplicando las medidas adecuadas para evitar brotes y la propagación de enfermedades transmisibles.
 
 ### CAPÍTULO I. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -1022,3 +1032,15 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1760.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 34 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1761.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 66 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
