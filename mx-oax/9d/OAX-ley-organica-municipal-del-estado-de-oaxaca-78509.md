@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-12-12"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -807,9 +807,13 @@ Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los munici
 
 LXXXIX.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XC.- Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defecto suscribir convenio con los Servicios de Salud del Estado; a través de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca para acceder a la seguridad social; y
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XC.- Las demás que les señalen las leyes y reglamentos municipales.
+XCI.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -987,9 +991,11 @@ VIII.- Vigilar la aplicación del Reglamento correspondiente, proponiendo al Ayu
 
 IX.- Rendir un informe de actividades al Ayuntamiento, mismo que deberá celebrarse dentro de las dos últimas semanas del mes de noviembre de cada año, sobre las actividades realizadas durante el desempeño de sus funciones, de los dictámenes llevados a cabo y del estado que guardan los asuntos públicos al interior de las Comisiones Municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 56.
 
-En la primera sesión ordinaria del primer año de gestión del Ayuntamiento y a propuesta del Presidente Municipal, se integrarán las comisiones que sean necesarias para el adecuado funcionamiento de los servicios públicos municipales, pudiendo ser de manera enunciativa y no limitativa las siguientes:
+En la primera sesión ordinaria del primer año de gestión del Ayuntamiento y a propuesta del Presidente Municipal, se integrarán las comisiones que sean necesarias, las cuales de ninguna manera podrán, denostar, denigrar o menoscabar la dignidad de sindico o regidor alguno para el adecuado funcionamiento de los servicios públicos municipales, pudiendo ser de manera enunciativa y no limitativa las siguientes:
 
 I.- Hacienda Municipal;
 
@@ -1061,7 +1067,9 @@ XXV.- De Protección Civil, y
 
 XXVI.- Las demás que apruebe el Ayuntamiento.
 
-La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia; y los demás integrantes de dichas comisiones, se insacularán de entre de (sic) los regidores de mayoría relativa y representación proporcional.
 
 ###### ARTÍCULO 57.
 
@@ -1591,7 +1599,9 @@ Los Regidores tendrán facultades de inspección y vigilancia en las materias a 
 
 La denominación de cada regiduría corresponderá a la materia que tenga a su cargo, la cual se designará en la primera sesión de Cabildo y solo podrá cambiarse de titular por renuncia o por causa que deberá calificarse por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento.
 
-El Ayuntamiento establecerá las denominaciones o materias de las regidurías en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+El Ayuntamiento establecerá en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales las denominaciones o materias de las regidurías, mismas que se harán atendiendo a las necesidades reales del municipio, señalando además las funciones y/o atribuciones de la Regiduría.
 
 ### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
 
@@ -4044,3 +4054,27 @@ QUINTO. Los Ayuntamientos deberán asignar la partida presupuestal en la Ley de 
 SEXTO. La Secretaría de las Mujeres de Oaxaca, coadyuvará en el ámbito de sus respectivas competencias y atribuciones, para el logro de los fines y objetivos de las Instancias de las Mujeres será la encargada de coadyuvar con las Autoridades Municipales para la correcta instalación y funcionamiento de las Instancias Municipales de las Mujeres en los 570 Municipios.
 
 SÉPTIMA (SIC). Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1715.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XC, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1743.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1744.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 75 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
