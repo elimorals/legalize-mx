@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-10-24"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -73,7 +73,9 @@ Para los efectos de la presente Ley:
 
 I. Son principios rectores de la movilidad:
 
-a) La accesibilidad, como el derecho de las personas a desplazarse por la vía pública sin obstáculos y con seguridad, independientemente de su condición.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+a) La accesibilidad universal como el derecho de toda persona a la movilidad y al transporte de acuerdo a las necesidades particulares y sociales; así como al desplazamiento por las vías públicas sin obstáculos con facilidad y seguridad, independientemente de su condición.
 
 b) El respeto al medio ambiente a partir de políticas gubernamentales que incentiven el cambio del uso del transporte de combustión interna;
 
@@ -81,11 +83,15 @@ c) El desarrollo económico, a partir del ordenamiento de las vías públicas de
 
 d) La perspectiva de género, a partir de políticas gubernamentales, que garanticen la seguridad e integridad física, sexual y la vida, de quienes utilicen el servicio del transporte público.
 
-II. Se consideran vías públicas: las calles, calzadas, avenidas, carreteras, caminos y autopistas, así como las vialidades primarias y andadores de movilidad con prioridad al transporte público y, en general:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. Se consideran vías públicas: las calles, calzadas, avenidas, ciclovías, carreteras, caminos y autopistas, así como las vialidades primarias y andadores de movilidad con prioridad al transporte público y, en general:
 
 a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y al transporte colectivo; y
 
-b) Los caminos públicos de jurisdicción estatal, destinados temporal o permanentemente al tránsito de personas, bienes y vehículos, incluyendo el área del derecho de vía de estos; así como las vialidades de uso común de las unidades habitacionales, cuando su ubicación geográfica permitan el libre tránsito peatonal, vehicular o de transporte colectivo y sea necesario para la unión entre dos o más puntos de intersección con zonas urbanas;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+b) Los caminos públicos de jurisdicción estatal, destinados temporal o permanentemente al tránsito de personas, bienes y vehículos, incluyendo el área del derecho de vía de estos; así como las vialidades de uso común de las unidades habitacionales, cuando su ubicación geográfica permitan el libre tránsito peatonal, ciclista, vehicular o de transporte colectivo y sea necesario para la unión entre dos o más puntos de intersección con zonas urbanas;
 
 III. No tienen el carácter de vías públicas: los predios pertenecientes al dominio privado, de la Federación, del Estado, de los municipios o de los particulares, para fines restringidos o aprovechamientos privados.
 
@@ -93,121 +99,183 @@ IV. Se denominan vías públicas de comunicación local: las vías públicas, in
 
 V. Se entiende por derecho de vía, a la zona afecta a una vía pública en ambos lados de ésta, con las medidas que determine el reglamento correspondiente.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 3 Bis.
+
+También se reconocen como principios:
+
+I. El derecho de las personas a acceder a medios de transporte alternativos, en condiciones adecuadas y seguras, con el mínimo impacto ambiental posible;
+
+II. La importancia de la cultura y socialización del uso de la bicicleta;
+
+III. Integrar el uso de la bicicleta como medio de transporte de modo coherente, incluyente y progresivo;
+
+IV. Organizar un sistema de transporte sostenible, eficiente y democrático;
+
+V. Involucrar a la sociedad en el mejoramiento ambiental sobre la movilidad de las personas;
+
+VI. Dar prioridad a los medios de transporte de menor costo económico, social y ambiental.
+
+VII. El fomento e incentivo del uso de la bicicleta como medio de transporte saludable y no contaminante; y
+
+VIII. La protección a las personas cuyo único medio de transporte es la bicicleta.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Para los efectos de la aplicación e interpretación de la presente Ley, se entiende por:
+Para efectos de aplicación e interpretación de esta Ley, se entenderá por:
 
-I. AUTORIDADES COMPETENTES:
+I. APLICACIÓN MÓVIL: Programa informático o plataforma electrónica, destinada a ofrecer servicios relacionados con la movilidad y el transporte, de geolocalización para la búsqueda y contacto virtual de prestadores del servicio con los usuarios, así como para la contratación y pago de servicios; ejecutada en dispositivos fijos o móviles mediante el uso de Internet, bajo la cual deberán operar los concesionarios del servicio de transporte público;
 
-a). El Gobernador del Estado;
+II. ÁREA DE ESPERA CICLISTA: Zona marcada sobre el pavimento generalmente de color verde esmeralda con un símbolo de una bicicleta en su interior y antes o después de la zona peatonal, en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
 
-b). La Secretaría de Movilidad; y
+III. AUTORIDADES COMPETENTES:
 
-c). Ayuntamientos de los Municipios del Estado;
+a) El Gobernador del Estado;
 
-II. APLICACIÓN MÓVIL: Programa informático o plataforma electrónica, destinada a ofrecer servicios relacionados con la movilidad y el transporte, de geolocalización para la búsqueda y contacto virtual de prestadores del servicio con los usuarios, así como para la contratación y pago de servicios; ejecutada en dispositivos fijos o móviles mediante el uso de Internet, bajo la cual deberán operar los concesionarios del servicio de transporte público;
+b) La Secretaría de Movilidad; y
 
-III. CADUCIDAD: Acto administrativo por el cual el Gobernador del Estado o la Secretaría declara, mediante la resolución respectiva, extinta la concesión por las causales señaladas en esta Ley;
+c) Ayuntamientos de los Municipios del Estado;
 
-IV. CANCELACIÓN: Acto administrativo por el cual, el Gobernador del Estado o la Secretaría envía al archivo definitivo como asunto totalmente concluido, mediante el acuerdo respectivo, la concesión, el permiso, la autorización o el convenio de que se trate, en razón de que éste ha sido materia de extinción en términos de esta Ley;
+IV. BANQUETA: La porción de vía destinada a la movilidad peatonal para permitir accesos cómodos, seguros y universalmente accesibles, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades;
 
-V. CENTRO DE TRANSFERENCIA MODAL: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como punto para la conexión de los usuarios entre dos o más modos de transporte o dos o más rutas;
+V. BICICLETA: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre asientos. Se considerará como un medio de transporte cuando se le utilice en la vía pública;
 
-VI. COMPETENCIA RUINOSA: Acto o conjunto de actos mediante los cuales un prestador del servicio de transporte pretende crear para sí o para su beneficio condiciones de ventaja, con las que altera las características de igualdad a las que debe ceñir la oferta de los servicios a su cargo, afectando o modificando parcial o totalmente la libre concurrencia y la libre competencia de los demás prestadores autorizados para operar en el lugar en el que aquel se encuentra; para lo cual crea condiciones que le propician una posición dominante del mercado o su control, con lo que causa quebranto o demérito económico a otros prestadores del servicio en la zona de operación o lugar que tiene concesionado o permisionado, dentro de ellas figuran la modificación injustificada de tarifas, la modificación discrecional de horarios o frecuencias de servicios, invasión de rutas, prestar servicios diferentes a los autorizados, actos de violencia y cualquier otra práctica ruinosa que le genere un beneficio indebido;
+VI. BICIESTACIONAMIENTO: Espacio considerado exclusivamente para el aparcamiento de bicicletas;
 
-VII. CICLISTA: Persona que transita por las vías públicas del Estado y los Municipios a bordo de un vehículo de tracción humana;
+VII. BICIESTACIONAMIENTO BÁSICO EN LA VÍA PÚBLICA: Zona equipada con mobiliario urbano ubicada cerca de puntos de interés el cual es recomendado para distancias cortas de 15 minutos entre un punto y otro con capacidad desde una bicicleta en adelante, el diseño preferente es de tipo "U" invertida, mismo que debe estar ubicado en una zona visible como postes de luz o algún otro tipo de mecanismo de iluminación;
 
-VIII. CONCESIÓN: Es el acto administrativo por medio del cual, mediante el procedimiento y resolución respectiva, el Gobernador del Estado o la Secretaría autoriza a una persona física o moral para llevar a cabo la prestación del Servicio Público de Transporte y de los servicios auxiliares;
+VIII. CADUCIDAD: Acto administrativo por el cual el Gobernador del Estado o la Secretaría declara, mediante la resolución respectiva, extinta la concesión por las causales señaladas en esta Ley;
 
-IX. CONCESIONARIO: Es la persona física o moral autorizada por el Estado para prestar el Servicio Público de Transporte y de los servicios auxiliares;
+IX. CALLES COMPLETAS: Se le denomina así a la calle que es incluyente, es decir, que cualquier persona independientemente de su edad o su habilidad pueda transitar de una forma segura, cómoda y que sea accesible sin importar la forma en que se traslade;
 
-X. CONDUCTOR: La persona que dirige los mandos de un vehículo;
+X. CANCELACIÓN: Acto administrativo por el cual, el Gobernador del Estado o la Secretaría envía al archivo definitivo como asunto totalmente concluido, mediante el acuerdo respectivo, la concesión, el permiso, la autorización o el convenio de que se trate, en razón de que éste ha sido materia de extinción en términos de esta Ley;
 
-XI. CONGRESO: Congreso del Estado de Oaxaca;
+XI. CARRIL BICIBUS: Es un carril exclusivo para transporte público y bicicletas, con un ancho adecuado para que conductores de autobuses y ciclistas compartan el carril de manera segura.
 
-XII. CONSEJO ESTATAL: Consejo Estatal de Movilidad;
+Los vehículos pueden ser de combustión de diesel, gasolina, gas natural o eléctrico, incluso a través de catenarias (en el caso de los trolebuses), pero no deben tener rieles para su rodamiento;
 
-XIII. DEPÓSITO VEHICULAR: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados, infraccionados y recuperados por la autoridad competente; también se le denomina encierro o corralón;
+XII. CARRIL COMPARTIDO CICLISTA: El carril compartido ciclista se define como el que está ubicado en la extrema derecha del área de circulación vehicular, con un ancho suficiente para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura;
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+XIII. CARRIL PREFERENTE CICLISTA: Zona o espacio de la vialidad destinado para el uso compartido de vehículos motorizados y ciclistas donde la preferencia siempre la tendrá la bicicleta;
 
-XIV. ESTACIONAMIENTO: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
+XIV. CENTRO DE TRANSFERENCIA MODAL: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como punto para la conexión de los usuarios entre dos o más modos de transporte o dos o más rutas;
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+XV. CICLOCARRIL: Carril exclusivo para la circulación ciclista, delimitado con marcas en el pavimento;
 
-XV. ESTACIONAMIENTO EN VÍA PÚBLICA: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
+XVI. CICLOVÍA: Carril de circulación exclusiva para ciclistas, físicamente segregado del tránsito automotor. Puede estar confinado con elementos fijos en el pavimento o semifijos;
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+XVII. CICLISTA: Persona que transita por las vías públicas del Estado y los Municipios a bordo de un vehículo de tracción humana;
 
-XVI. ESTACIONAMIENTO PRIVADO: Es aquel espacio físico para satisfacer las necesidades de individuos, instituciones o empresas para el resguardo de vehículos, siempre que el servicio sea gratuito.
+XVIII. COMPETENCIA RUINOSA: Acto o conjunto de actos mediante los cuales un prestador del servicio de transporte pretende crear para sí o para su beneficio condiciones de ventaja, con las que altera las características de igualdad a las que debe ceñir la oferta de los servicios a su cargo, afectando o modificando parcial o totalmente la libre concurrencia y la libre competencia de los demás prestadores autorizados para operar en el lugar en el que aquel se encuentra; para lo cual crea condiciones que le propician una posición dominante del mercado o su control, con lo que causa quebranto o demérito económico a otros prestadores del servicio en la zona de operación o lugar que tiene concesionado o permisionado, dentro de ellas figuran la modificación injustificada de tarifas, la modificación discrecional de horarios o frecuencias de servicios, invasión de rutas, prestar servicios diferentes a los autorizados, actos de violencia y cualquier otra práctica ruinosa que le genere un beneficio indebido;
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+XIX. CONCESIÓN: Es el acto administrativo por medio del cual, mediante el procedimiento y resolución respectiva, el Gobernador del Estado o la Secretaría autoriza a una persona física o moral para llevar a cabo la prestación del Servicio Público de Transporte y de los servicios auxiliares;
 
-XVII. ESTACIONAMIENTO PÚBLICO: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa;
+XX. CONCESIONARIO: Es la persona física o moral autorizada por el Estado para prestar el Servicio Público de Transporte y de los servicios auxiliares;
 
-XVIII. DESPACHO: Número de salidas programadas de los vehículos durante el horario de servicio de la ruta;
+XXI. CONDUCTOR: La persona que dirige los mandos de un vehículo;
 
-XIX. ESTADO DE EBRIEDAD: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado.
+XXII. CONGRESO: Congreso del Estado de Oaxaca;
 
-XX. EXTINCIÓN: Declaratoria que emite el Gobernador del Estado o la Secretaría, de acuerdo a su competencia en el momento procesal, oportuno, por virtud de la cual quedan absolutamente sin efecto todos los derechos derivados de una concesión, permiso o autorización;
+XXIII. CONSEJO ESTATAL: Consejo Estatal de Movilidad;
 
-XXI. GOBERNADOR DEL ESTADO: El Titular del Poder Ejecutivo del Estado de Oaxaca;
+XXIV. CRUCE PEATONAL: Zonas en la vialidad que forman una intersección entre el tránsito vehicular y el peatonal ya sea en un mismo o diferente nivel que su función es obligar a los vehículos a detenerse para permitir el cruce seguro de los peatones exista o no semáforo, generalmente está señalizado por franjas paralelas de color blanco o amarillo;
 
-XXII. HORARIO: Tiempo comprendido entre la hora de inicio y de terminación del servicio;
+XXV. DEPÓSITO VEHICULAR: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados, infraccionados y recuperados por la autoridad competente; también se le denomina encierro o corralón;
 
-XXIII. ITINERARIO: Recorrido con movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa, así como las especificaciones operativas del servicio;
+XXVI. DESPACHO: Número de salidas programadas de los vehículos durante el horario de servicio de la ruta;
 
-XXIV. LEY: Ley de Movilidad para el Estado de Oaxaca;
+XXVII. DISPOSITIVOS O APARATOS DE MOVILIDAD ASISTIDA: Son herramientas auxiliares que permiten el desplazamiento de personas con discapacidad o movilidad limitada, como, por ejemplo: silla de ruedas manual o motorizada, andadera, bastón, perro guía o muletas;
 
-XXV. MOVILIDAD: Acción de transportarse de un lugar a otro, en la que confluye el tránsito de personas, bienes, semovientes y vehículos del transporte público y privado, dentro de las vías públicas del Estado y sus Municipios;
+XXVIII. ESPACIO PÚBLICO: Zona o lugar público donde cualquier usuario tiene el derecho de circular;
 
-XXVI. NORMAS TÉCNICAS: Instrumentos y manuales de especificaciones técnicas que elaborará, autorizará y publicará la Secretaría con el propósito de establecer obligaciones operativas en la prestación de los servicios de transporte, tendientes a proporcionar seguridad al usuario y el mejoramiento integral del transporte.
+XXIX. ESTACIONAMIENTO: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
-XXVII. PEATÓN: Persona que transita a pie por las vías públicas del Estado y sus Municipios;
+XXX. ESTACIONAMIENTO EN VÍA PÚBLICA: Espacio físico establecido en la vialidad, para detener y desocupar los vehículos, cuando así lo disponga la autoridad se realizará el pago de una tarifa;
 
-XXVIII. PERMISO ESPECIAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular para prestar el servicio especial de transporte;
+XXXI. ESTACIONAMIENTO PRIVADO: Es aquel espacio físico para satisfacer las necesidades de individuos, instituciones o empresas para el resguardo de vehículos, siempre que el servicio sea gratuito.
 
-XXIX. PERMISO PROVISIONAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular a prestar el servicio público de transporte en forma provisional para satisfacer una necesidad de transporte eventual, emergente o extraordinaria, y para garantizar la continuidad de los servicios que presten los concesionarios durante el desarrollo de trámites administrativos ante la Secretaría;
+XXXII. ESTACIONAMIENTO PÚBLICO: Espacio físico para satisfacer las necesidades del público en general para el resguardo mediante el pago de una tarifa.
 
-XXX. PERMISO COMPLEMENTARIO: Autorización emitida por el Gobernador del Estado o la Secretaría para la circulación de vehículos que prestan los servicios de transporte en zonas limítrofes del Estado, y los amparados en permisos otorgados por la autoridad federal;
+XXXIII. ESTADO DE EBRIEDAD: Cuando los conductores o peatones tengan una cantidad superior a 0.8 gramos por litro de alcohol en la sangre o una cantidad superior a 0.4 miligramos por litro de alcohol en aire espirado.
 
-XXXI. PERMISIONARIO: Persona autorizada por el Gobernador del Estado o la Secretaría, para prestar el servicio especial de transporte;
+XXXIV. EXTINCIÓN: Declaratoria que emite el Gobernador del Estado o la Secretaría, de acuerdo a su competencia en el momento procesal oportuno, por virtud de la cual quedan absolutamente sin efecto todos los derechos derivados de una concesión, permiso o autorización;
 
-XXXII. PERSONA CON DISCAPACIDAD: Es quien tiene una deficiencia o limitación, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+XXXV. GOBERNADOR DEL ESTADO: El Titular del Poder Ejecutivo del Estado de Oaxaca;
 
-XXXIII. PROGRAMA: Programa Sectorial de Movilidad;
+XXXVI. HORARIO: Tiempo comprendido entre la hora de inicio y de terminación del servicio;
 
-XXXIV. REGISTRO ESTATAL: Registro Estatal de Transporte de Oaxaca;
+XXXVII. INFRAESTRUCTURA CICLISTA: Vía pública especializada para la circulación de bicicletas, pueden ser urbanas o interurbanas y bidireccionales o unidireccionales, según se permita en ellas la circulación en uno o en los dos sentidos. También, podrán ser de uso exclusivo para bicicletas o de uso compartido con otros modos o medios de transporte.
 
-XXXV. REGLAMENTO: Reglamento de la Ley de Movilidad para el Estado de Oaxaca;
+XXXVIII. ITINERARIO: Recorrido con movimientos direccionales de una ruta, desde su origen hasta su destino y viceversa, así como las especificaciones operativas del servicio;
 
-XXXVI. REVOCACIÓN: Acto administrativo por virtud del cual el Gobernador del Estado o la Secretaría, dejan sin efectos la concesión, el permiso o la autorización, con base en las determinaciones y términos de esta Ley y demás disposiciones aplicables.
+XXXIX. LEY: Ley de Movilidad para el Estado de Oaxaca;
 
-XXXVII. SECRETARÍA: Secretaría de Movilidad;
+XL. MOVILIDAD: Acción de transportarse de un lugar a otro, en la que confluye el tránsito de personas, bienes, semovientes y vehículos del transporte público y privado, dentro de las vías públicas del Estado y sus Municipios;
 
-XXXVIII. SERVICIO ESPECIAL: El que se presta a través de un permiso otorgado por el Gobernador del Estado o la Secretaría para satisfacer una necesidad específica de un sector de la población;
+XLI. MOVILIDAD NO MOTORIZADA: Capacidad de desplazamiento por la vía pública, cuyo impulso proviene directamente de la fuerza física, o mediante vehículo de impulso físico no motorizado;
 
-XXXIX. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
+XLII. NORMAS TÉCNICAS: Instrumentos y manuales de especificaciones técnicas que elaborará, autorizará y publicará la Secretaría con el propósito de establecer obligaciones operativas en la prestación de los servicios de transporte, tendientes a proporcionar seguridad al usuario y el mejoramiento integral del transporte.
 
-XL. SERVICIO PÚBLICO; El que, al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
+XLIII. PEATÓN: Persona que transita a pie por las vías públicas del Estado y sus Municipios;
 
-XLI. SERVICIO DE PAGO ELECTRÓNICO: Es aquel que se presta de manera permanente, regular, continúa y uniforme como medio de acceso a las unidades del Servicio Público de Transporte de pasajeros, y se basa en el uso de tarjetas electrónicas recargables, las cuales serán emitidas por el Ejecutivo del Estado a través de la Secretaría, o por el concesionario, y están autorizadas para efectuar la validación de acceso al vehículo del servicio público y para acreditar el pago de la tarifa por el uso de los servicios de transporte en cualquiera de sus modalidades, así como también con los otros medios de pago que la Autoridad Competente determine oportunamente;
+XLIV. PERMISO ESPECIAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular para prestar el servicio especial de transporte;
 
-XLII. SITIO: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
+XLV. PERMISO PROVISIONAL: Acto administrativo por el cual el Gobernador del Estado o la Secretaría autoriza a un particular a prestar el servicio público de transporte en forma provisional para satisfacer una necesidad de transporte eventual, emergente o extraordinaria, y para garantizar la continuidad de los servicios que presten los concesionarios durante el desarrollo de trámites administrativos ante la Secretaría;
 
-XLIII. SUPERVISOR DE MOVILIDAD. Servidor público quien supervisará y controlará la movilidad, en el territorio del Estado;
+XLVI. PERMISO COMPLEMENTARIO: Autorización emitida por el Gobernador del Estado o la Secretaría para la circulación de vehículos que prestan los servicios de transporte en zonas limítrofes del Estado, y los amparados en permisos otorgados por la autoridad federal;
 
-XLIV. TARIFA: Contraprestación económica que el usuario del servicio de transporte paga a su prestador;
+XLVII. PERMISIONARIO: Persona autorizada por el Gobernador del Estado o la Secretaría, para prestar el servicio especial de transporte;
 
-XLV. TRANSPORTE PRIVADO: El que tiene por objeto satisfacer las necesidades particulares de quien lo realiza sin mayor limitación que el registro del vehículo y el cumplimiento de las normas de circulación emitidas por el Estado y los Municipios;
+XLVIII. PERSONA CON DISCAPACIDAD: Es quien tiene una deficiencia o limitación, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XLVI. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte a cambio del pago de la tarifa previamente autorizada;
+XLIX. PROGRAMA: Programa Sectorial de Movilidad;
 
-XLVII. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
+L. RAMPAS: Planos inclinados que ayudan a librar el desnivel entre la banqueta y el arroyo vehicular brindando continuidad en la superficie con una pendiente suave (máximo al 6%). Como con la banqueta, la textura del pavimento debe brindar tracción adecuada aún en condiciones de humedad que propician la seguridad de las personas desplazándose con alguna ayuda técnica.
 
-XLVIII. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
+LI. REGISTRO ESTATAL: Registro Estatal de Transporte de Oaxaca;
 
-XLIX. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica.
+LII. REGLAMENTO: Reglamento de la Ley de Movilidad para el Estado de Oaxaca;
+
+LIII. REVOCACIÓN: Acto administrativo por virtud del cual el Gobernador del Estado o la Secretaría, dejan sin efectos la concesión, el permiso o la autorización, con base en las determinaciones y términos de esta Ley y demás disposiciones aplicables.
+
+LIV. SECRETARÍA: Secretaría de Movilidad;
+
+LV. SERVICIO ESPECIAL: El que se presta a través de un permiso otorgado por el Gobernador del Estado o la Secretaría para satisfacer una necesidad específica de un sector de la población;
+
+LVI. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
+
+LVII. SERVICIO PÚBLICO: El que, al amparo de una concesión, se presta en forma continua y regular en las vías públicas del Estado y sus Municipios, para satisfacer una necesidad general del traslado de pasajeros y carga de un lugar a otro;
+
+LVIII. SERVICIO DE PAGO ELECTRÓNICO: Es aquel que se presta de manera permanente, regular, continúa y uniforme como medio de acceso a las unidades del Servicio Público de Transporte de pasajeros, y se basa en el uso de tarjetas electrónicas recargables, las cuales serán emitidas por el Ejecutivo del Estado a través de la Secretaría, o por el concesionario, y están autorizadas para efectuar la validación de acceso al vehículo del servicio público y para acreditar el pago de la tarifa por el uso de los servicios de transporte en cualquiera de sus modalidades, así como también con los otros medios de pago que la Autoridad Competente determine oportunamente;
+
+LIX. SITIO: Espacio en la vía pública, autorizado por la autoridad municipal correspondiente, destinado al estacionamiento de los vehículos del servicio público de transporte individual en espera de pasaje;
+
+LX. SUPERVISOR DE MOVILIDAD: Servidor público quien supervisará y controlará la movilidad, en el territorio del Estado;
+
+LXI. TARIFA: Contraprestación económica que el usuario del servicio de transporte paga a su prestador;
+
+LXII. TRANSPORTE PRIVADO: El que tiene por objeto satisfacer las necesidades particulares de quien lo realiza sin mayor limitación que el registro del vehículo y el cumplimiento de las normas de circulación emitidas por el Estado y los Municipios;
+
+LXIII. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte a cambio del pago de la tarifa previamente autorizada;
+
+LXIV. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
+
+LXV. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
+
+LXVI. VÍAS PRIMARIAS: Este tipo de calles contemplan rutas principales que conectan la ciudad, con un alto número de circulación vehicular entre sus características encontramos: una alta cantidad de circulación diaria, más de seis carriles con uno o dos sentidos, autobuses con carril exclusivo o laterales, regularmente no cuentan con estacionamiento sobre la calle;
+
+LXVII. VÍAS SECUNDARIAS: Estas calles conectan con diferentes áreas de la ciudad, pueden ser arterias principales dentro de los municipios y colonias sus características principales son: cuenta con cuatro a seis carriles con uno o dos sentidos, autobuses sin carril propio, estacionamientos sobre la calle, más transitada por peatones ciclistas de menor velocidad por congestión vial;
+
+LXVIII. VÍAS TERCIARIAS: Son vías terciarias que dan acceso a los predios y zonas habitacionales, sus cruces se semaforizan sólo en intersecciones con vías secundarias, Por ejemplo, las calles locales convencionales, pueden ser de doble sentido, generalmente tienen de dos a cuatro carriles, dos de circulación y dos de estacionamiento, sus características principales varían según el tipo de uso de suelo y son delimitados por marcas en el pavimento;
+
+LXIX. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica;
+
+LXX. ZONA DE ESPERA: Espacio destinado para que los ciclistas se detengan en los cruceros y esquinas de las calles que tengan semáforos; el cual deberá ubicarse detrás de las áreas señaladas para el cruce de peatones y estará señalada; y
+
+LXXI. ZONA PEATONAL: Área destinada para el uso exclusivo de peatones.
 
 ###### Artículo 5.
 
@@ -235,7 +303,9 @@ II. Adoptar medidas para garantizar la protección de la vida y de la integridad
 
 III. Establecer criterios y acciones de diseño universal en la infraestructura para la movilidad con especial atención a los requerimientos de personas con discapacidad y movilidad reducida;
 
-IV. Establecer las medidas que incentiven y fomenten el uso del transporte público y el uso racional del automóvil privado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+IV. Establecer las medidas que incentiven y fomenten la movilidad no motorizada, el uso del transporte público y el uso racional del automóvil privado;
 
 V. Promover la participación ciudadana en la toma de decisiones que incidan en la movilidad;
 
@@ -363,9 +433,27 @@ Para asegurar la movilidad de las personas y vehículos en la vía pública, la 
 
 La Secretaría establecerá, mediante normas técnicas el diseño e instalación de los señalamientos viales en las vías públicas del Estado, con la finalidad de garantizar la seguridad de peatones, ciclistas y conductores de vehículos automotores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-La Secretaría coadyuvará con los Municipios correspondientes en materia de desarrollo urbano en la definición de lineamientos para garantizar la inclusión de infraestructura que facilite la movilidad de peatones y vehículos en la vía pública de nuevos desarrollos urbanísticos.
+La Secretaría coadyuvará con los Municipios correspondientes en materia de desarrollo urbano en la definición de lineamientos para garantizar la inclusión de infraestructura que facilite la movilidad no motorizada y vehículos en la vía pública de nuevos desarrollos urbanísticos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+El Estado y sus municipios, en el ámbito de su competencia garantizarán que tanto el transporte público como sus instalaciones de transferencia modal cuenten con espacio específico para el traslado y estacionamiento de bicicleta.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+El Estado y Municipios, en el ámbito de su competencia, determinarán normas para la construcción de ciclovías, para la circulación de bicicletas y bicicleta asistida de manera compatible con los vehículos automotores y para la protección de sus conductores.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Asimismo, propiciarán la concurrencia de la iniciativa privada en la inversión de la movilidad no motorizada, del transporte de bicicletas y aditamentos que lo faciliten, así como la instalación de estacionamientos públicos específicos para este medio de transporte.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Las autoridades estatales y municipales en el marco de sus competencias presupuestales garantizarán que, en todas las obras de construcción de vías generales de comunicación terrestre y red primaria de vialidad del Estado y municipios, se deberá considerar la instalación de ciclovías.
 
 ###### Artículo 23.
 
@@ -415,7 +503,17 @@ III. Concesionarios de transporte público, y
 
 IV. Conductores de vehículos.
 
-La Secretaría implementará campañas que fomenten el uso racional de los vehículos de transporte privado, con el fin de incentivar el uso del servicio público de transporte colectivo y medios de transporte menos contaminantes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría implementará campañas que fomenten el uso racional de los vehículos de transporte privado, con el fin de incentivar la movilidad no motorizada, el uso del servicio público de transporte colectivo y medios de transporte menos contaminantes.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+El Estado y los municipios establecerán en sus respectivos presupuestos, planes de desarrollo y las medidas necesarias para fomentar el uso de la bicicleta como medio alternativo de transporte en el estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+En el Presupuesto de Egresos para el Estado de Oaxaca, de cada ejercicio fiscal, se establecerá un fondo que coadyuve en la instalación de infraestructura para la bicicleta.
 
 ###### Artículo 27.
 
@@ -661,11 +759,15 @@ XIII. Establecer programas de educación vial que garanticen la seguridad en las
 
 XIV. Promover ante la Secretaría la realización de estudios técnicos requeridos para satisfacer las necesidades en materia de Movilidad; y
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-XV. Determinar las políticas en materia de estacionamientos públicos establecidos en las vías de circulación, en el ámbito de su competencia; en sus respectivas jurisdicciones, previa opinión de la Secretaría, conceder permisos de Licencias para el establecimiento en terrenos de propiedad privada o del Municipio, de estacionamientos que presten servicios al público;
+XV. Determinar las políticas en materia de estacionamientos públicos establecidos en las vías de circulación, así como de biciestacionamientos en el ámbito de su competencia; en sus respectivas jurisdicciones, previa opinión de la Secretaría, conceder permisos de Licencias para el establecimiento en terrenos de propiedad privada o del Municipio, de estacionamientos que presten servicios al público;
 
-XVI. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables, la presente Ley y el Reglamento respectivo.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XVI. Fomentar la creación y adecuación de la infraestructura en el Estado que permitan el empleo de la bicicleta como medio de transporte alternativo al automóvil y no contaminante; y
+
+XVII. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables, la presente Ley y el Reglamento respectivo.
 
 ###### Artículo 39.
 
@@ -2579,9 +2681,17 @@ El conductor que infrinja el párrafo anterior, se le impondrá una sanción de 
 
 Para la solución de controversias que se deriven de la aplicación de la presente Ley, las partes podrán optar por la mediación, como un método alternativo no adversarial para la solución de conflictos con el propósito de llegar a acuerdos voluntarios de solución que ponga fin total o parcialmente en los términos de la Ley de Mediación para el Estado de Oaxaca.
 
+### CAPÍTULO I. DE LA PROMOCIÓN Y EL FOMENTO
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 240.
 
 Contra los actos y resoluciones, derivadas de la aplicación de la presente Ley y de las normas reglamentarias que de esta emanen, procederá el recurso de revisión, previsto en la Ley de Procedimiento y Justicia Administrativa del Estado de Oaxaca, cuyas reglas y términos deberán aplicarse para su trámite.
+
+### CAPÍTULO II. OBLIGACIONES DE LAS AUTORIDADES
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 241.
 
@@ -2596,6 +2706,228 @@ Se sancionará con pena privativa de libertad de tres a seis años y multa de mi
 Aquella persona que haya sido declarada por sentencia firme responsable de la comisión de algún delito en materia de movilidad o transporte no podrá ser titular de concesión o permiso para la prestación del servicio de transporte público de pasajeros o de carga.
 
 Asimismo, la Secretaría registrará el nombre y demás datos personales de quien haya cometido alguno de los delitos en comento, y se podrá solicitar a las autoridades judiciales y ministeriales competentes que confisquen el vehículo que haya sido medio para la comisión del delito, para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+## TÍTULO NOVENO. DE LA PROMOCIÓN Y EL FOMENTO PARA EL USO DE LA BICICLETA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 244.
+
+El Gobernador del Estado, implementará un programa de promoción y fomento al uso de la bicicleta. A través de la Secretaría promoverá entre la comunidad estudiantil de los niveles básicos, el uso de la bicicleta como un medio alternativo de transporte.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 245.
+
+Los Ayuntamientos del Estado deberán implementar programas y campañas de difusión permanentes dentro de la educación vial que fomenten el uso de la bicicleta, así como una cultura de respeto a los ciclistas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 246.
+
+A fin de contribuir al uso más seguro de la bicicleta en la entidad, las vialidades que se construyan deberán incluir carriles preferentes o ciclovías, así como instalar los señalamientos necesarios e indicar en el pavimento el área de espera para los ciclistas junto a los cruces peatonales.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 247.
+
+Para fomentar el uso de la bicicleta como un medio de convivencia familiar, el Estado y los Ayuntamientos organizarán regularmente recorridos en zonas urbanas en días y horas definidos, por lo que se suspenderá en las zonas elegidas la totalidad del tránsito de vehículos de motor, incluidas motocicletas, para que la vía publica sea utilizada como ciclovía temporal, en la medida estrictamente necesaria.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 248.
+
+Las bicicletas y triciclos infantiles pueden ser usados libremente en las ciclovías temporales o emergentes, así como de sistemas de propulsión humana con ruedas de hule o plástico sólido y metal, como patines, patinetas y otros aditamentos similares, cuidando de la seguridad del peatón.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 249.
+
+Las vialidades que se construyan o reordenen en las ciudades y comunidades con zonas aptas para el objeto de este Título, deberán incluir carriles preferentes o ciclovías y los señalamientos para indicar las áreas de espera, procurando mejorar a través de este tipo de vialidades la imagen urbana de cada Municipio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO IV. DEL SISTEMA DE TRANSPORTE INDIVIDUAL EN BICICLETA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 250.
+
+Las autoridades competentes favorecerán la implementación y ejecución de políticas de movilidad que propicien el uso de la bicicleta como medio de movilidad no motorizada.
+
+El Gobernador del Estado, a través de la Secretaría, y los Ayuntamientos deben:
+
+I. Coordinar las políticas de desarrollo urbano y las políticas de transporte, garantizando la integración de la bicicleta como medio de transporte;
+
+II. Adecuar progresivamente los ordenamientos administrativos de su competencia al uso de la bicicleta;
+
+III. Implementar en forma coordinada programas de Movilidad, transporte y vialidad, acordes con el desarrollo urbano, propiciando la integración de la bicicleta como medio de transporte.
+
+IV. Fomentar el uso de la bicicleta como medio de transporte seguro; a través de programas educativos y promover y proteger a la bicicleta como medio de transporte;
+
+V. Promover y apoyar la participación de la sociedad, a través de los sectores público, privado, social y académico, para sustentar políticas y programas relativos al uso de la bicicleta como medio de transporte no contaminante y saludable, alternativo al automóvil, que garantice el derecho a la movilidad no motorizada;
+
+VI. Implementar los diversos tipos de espacios en las vías de comunicación y la creación de infraestructura vial que permita el tránsito de bicicletas como medio de transporte e impulsor de una buena salud.
+
+VII. Impulsar programas educativos para el uso seguro de la bicicleta;
+
+VIII. Establecerán en su ámbito de competencia las sanciones y los plazos, para que la infraestructura existente se adecúe a lo previsto en este Capítulo.
+
+IX. Impulsar los biciestacionamientos en la vía pública, mismos que se proyectarán de conformidad a los planes elaborados y/o aprobados por la Secretaría.
+
+X. Fomentar la construcción de ciclovías o ciclocarriles destinadas exclusivamente al tránsito de bicicletas, e incentivar la participación de la iniciativa privada en la construcción de biciestacionamientos y conexiones para el intercambio modal con otros medios de transporte;
+
+XI. Promover la implementación de carriles para el tránsito compartido de bicicletas y transporte público, debidamente serializado, mediante pintura o pavimento especial. Así como los espacios de la vía pública destinado en forma conjunta por el peatonal y la bicicleta, debidamente señalizado, excluyendo de los mismos las banquetas.
+
+XII. Crear programas de promoción permanente de educación vial que fomenten el uso de la bicicleta como medio de transporte alternativo no contaminante.
+
+XIII. Establecer campañas para promover la cultura de respeto a ciclista.
+
+XIV. Tomar medidas para que los edificios públicos y privados, así como centros de trabajo, terminales, estaciones y paradas del transporte público, cuenten con espacios para el estacionamiento y guarda segura de bicicletas;
+
+XV. Promover incentivos para que las instituciones públicas y las empresas del sector privado, arrienden o presten bicicletas y habiliten biciestacionamientos en sus instalaciones con los señalamientos correspondientes;
+
+XVI. Implementar campañas dirigidas a los ciclistas para un comportamiento responsable y respetuoso de la normatividad que rige el tránsito en la vialidad urbana y en las vías destinadas al tránsito de bicicletas;
+
+XVII. Implementar un programa de difusión por medios electrónicos, respecto a la infraestructura ciclística de movilidad en el Estado; y
+
+XVIII. Coordinarse en la generación de condiciones que incluyan a la bicicleta como medio de transporte dirigido a mejorar las condiciones ambientales y de circulación vial, así como la salud y la calidad de vida de los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 251.
+
+Corresponde al Gobernador del Estado:
+
+I. Incluir en el Plan Estatal de Desarrollo en los rubros de salud, medio ambiente, educación, desarrollo urbano o sus equivalentes, la promoción del uso de la bicicleta;
+
+II. Promover y difundir el uso de la bicicleta como medio de transporte alternativo y no contaminante; y
+
+III. Proveer, en el ámbito de sus atribuciones, las condiciones de seguridad vial para el uso de la bicicleta.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 252.
+
+Corresponde a los Ayuntamientos:
+
+I. Implementar políticas públicas para construir ciclovías, por medio de acuerdos de colaboración con las instancias que consideren pertinentes, tomando en cuenta estudios de factibilidad, impacto ambiental y consulta con los vecinos conforme a la ley de la materia;
+
+II. Implementar programas de difusión permanente dentro de la educación vial que fomenten el uso de la bicicleta, así como campañas de cultura de respeto vial a los ciclistas;
+
+III. Incorporar dentro de sus Planes Municipal de Desarrollo y de Movilidad y Seguridad Vial, las estrategias y líneas de acción tendientes a contar con la infraestructura necesaria para fomentar y promover el uso de la bicicleta, procurando que dicha infraestructura sea ecológica en su diseño, construcción, selección de materiales y funcionamiento; y
+
+IV. De conformidad con su disponibilidad presupuestaria y la regulación reglamentaria correspondiente los Ayuntamientos impulsaran el establecimiento de biciestacionamientos en lugares públicos, de manera específica en instituciones gubernamentales, parques, comercios, plazas y centros recreativos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 253.
+
+De conformidad con la disponibilidad presupuestal, todas las oficinas de la administración pública estatal y municipal deberán contar con espacios destinados al estacionamiento de bicicletas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 254.
+
+Los ciclistas tienen los siguientes derechos:
+
+I. Circular de manera efectiva y segura de acuerdo con la jerarquía de movilidad;
+
+II. Contar con una zona de espera dentro de los carriles ordinarios de tránsito, que salva guarde su integridad física;
+
+III. Los ciclistas con capacidades diferentes tienen preferencia en el manejo de su bicicleta por las distintas vías de comunicación, por lo que los conductores de automóviles y ciclistas, les ofrecerán invariablemente cortesía en su conducción;
+
+IV. Que los conductores de automóviles respeten la zona de espera;
+
+V. Los ciclistas tienen derecho preferente sobre el tránsito de automóviles, en los siguientes casos:
+
+a) Cuando los automóviles pretendan circular o cruzar por una ciclovía y se tenga presencia de ciclistas circulando.
+
+b) Cuando los automóviles circulen para dar una vuelta a la derecha para entrar a otra vía, y también circulen ciclistas cruzando esta vía.
+
+c) Cuando de acuerdo al tiempo del semáforo para circular no alcancen a cruzar la vía con la luz amarilla de advertencia.
+
+d) Al uso de espejo retrovisor, timbre, bocina o similar, sin ser obligatorio y por ende no estar sujeto a sanción.
+
+VI. Tener distancia prudente entre el vehículo automotor y el ciclista, mínimo de 1.5 metros;
+
+VII. Acceder a los programas de estímulo al uso de la bicicleta que promuevan e implementen el Estado y los Municipios; y
+
+VIII. Hacer uso de los biciestacionamientos que para tales efectos implementen los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 255.
+
+Los ciclistas tienen las siguientes obligaciones:
+
+I. Conocer y respetar las leyes y reglamentos de movilidad, vialidad y Tránsito, las señales de vialidad y tránsito, y las indicaciones del personal de las áreas Estatales y Municipales;
+
+II. La circulación de bicicleta en vialidades está autorizada para mayores de edad; en el supuesto de que la misma sea conducida por un menor de edad, deberá realizarse bajo la supervisión y vigilancia de un adulto; en caso de inobservancia de esta disposición, la responsabilidad recae en el padre, la madre o tutor del menor de edad;
+
+III. Circular en el sentido del flujo vehicular y en el carril de extrema derecha, así mismo, cuando rebase lo hará por el carril izquierdo, previa señalización que realice con el brazo a efecto de que los conductores de los automóviles disminuyan velocidad y extremen precaución;
+
+IV. Transportar a bordo de la bicicleta sólo el número de personas para las que exista asiento disponible. Cuando un ciclista se transporte con un niño menor de ocho años, deberá hacerlo en un asiento especial;
+
+V. Respetar las áreas destinadas para peatones y personas con discapacidad;
+
+VI. No sujetarse a un automóvil en circulación al transitar en vía pública;
+
+VII. Respetar la carga máxima autorizada por el fabricante si cuenta con accesorio para carga o asiento adicional, cuyo peso no ponga en riesgo la maniobrabilidad y estabilidad de la bicicleta. Cuando circule en horario nocturno utilizará accesorios reflejantes y luces que faciliten su ubicación;
+
+VIII. No manejar utilizando teléfono celular, dispositivo de manos libres, aparato reproductor de música con audífonos, en estado de ebriedad o bajo efectos de enervantes;
+
+IX. Circular preferentemente por las ciclovías o ciclocarriles, y en su caso, de forma responsable con los automóviles y el transporte público;
+
+X. Indicar la dirección de giro o cambio de carril, mediante señales;
+
+XI. Respetar los espacios de la vialidad destinados para peatones o personas con discapacidad;
+
+XII. No circular en estado de ebriedad, bajo efectos de enervantes ni de manera imprudente;
+
+XIII. Usar bandas o casacas reflejantes para el uso nocturno, así como una luz adecuada para iluminación;
+
+XIV. Compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de extrema derecha;
+
+XV. No conducir con cargas que impidan el correcto manejo de la bicicleta;
+
+XVI. Indicar la dirección de un giro o cambio de carril, mediante señales con el brazo;
+
+XVII. Estacionarse en los lugares destinados para tal fin, denominados biciestacionamientos, y
+
+XVIII. Para poder circular con bicicleta es indispensable que ésta cuente con:
+
+a) Un sistema de rodamiento, dirección y freno permanente y eficaz;
+
+b) Luces o focos: en la parte delantera deberá estar equipada de un foco o dispositivo que proyecte luz blanca o amarilla y en la parte trasera de un foco o dispositivo que refleje luz roja; para circulación nocturna,
+
+c) Accesorios reflectantes en los bordes de cada pedal y en las horquillas delantera y trasera, y
+
+d) Las demás que señalen los reglamentos de Movilidad, Tránsito y Vialidad del Estado y autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 256.
+
+El Titular del Ejecutivo del Estado y/o los Ayuntamientos señalarán en el reglamento correspondiente las sanciones a que se harán acreedores los ciclistas que incumplan sus obligaciones y las correspondientes sanciones de quienes no respeten los derechos de los ciclistas, así como los medios de impugnación ordinarios procedentes para tales efectos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 257.
+
+El Gobernador del Estado, a través de la Secretaría, podrá implementar un sistema de transporte individual en bicicleta, estableciendo los convenios de colaboración correspondientes con instituciones públicas y privadas, para que, en el marco de las leyes aplicables, establezcan un programa de préstamo de servicio de bicicletas públicas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 258.
+
+El sistema de transporte individual estará conformado por el conjunto de elementos, que incluye bicicletas, estaciones, equipo tecnológico, entre otros, para prestar el servicio de transporte individual en bicicleta publica de uso compartido, para satisfacer la demanda de viajes en las ciudades de manera eficiente.
 
 T R A N S I T O R I O S:
 
@@ -2706,3 +3038,31 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. Las personas que cuentan con título de concesión para la prestación del servicio individual de transporte, en su modalidad mototaxi, continuarán con los derechos y obligaciones que se establecen en la presente Ley.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1755.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Municipios tendrán 120 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, para expedir las normas reglamentarias necesarias y adecuar los reglamentos vigentes.
+
+###### ARTICULO TERCERO.
+
+En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo a través de la Secretaría, elaborará el Programa Anual de Promoción y Fomento al Uso de la Bicicleta.
+
+###### ARTICULO CUARTO.
+
+A partir de la fecha de inicio de vigencia del presente Decreto, en todas las obras de construcción de vías generales de comunicación terrestre y red primaria de vialidad del Estado y Municipios se deberá considerar la instalación de ciclovías.
+
+###### ARTICULO QUINTO.
+
+Los Ayuntamientos de aquellos Municipios que cuenten con zonas urbanas aptas para la implementación de ciclovías y del sistema de transporte individual en bicicleta, deberán expedir a la brevedad posible los reglamentos respectivos, así como establecer los programas mismos que deberán estar considerados en el presupuesto de egresos del municipio, los cuales estarán destinados para infraestructura y de (sic) educación vial.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía, que se opongan al presente Decreto, así también se abroga la Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca, aprobada el 31 de octubre de 2013 y publicada en el Extra del Periódico Oficial del 27 de noviembre de 2013.
