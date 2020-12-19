@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2020-11-13"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -241,13 +241,23 @@ Los fedatarios deberán cumplir con lo que establece el Código Fiscal del Estad
 
 ### CAPITULO III. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS, APUESTAS Y JUEGOS PERMITIDOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+#### SECCION PRIMERA. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS, APUESTAS Y JUEGOS PERMITIDOS
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 15.
 
-Es objeto de este impuesto gravar los ingresos provenientes de la realización o celebración, así como de la obtención de premios en efectivo o en especie, derivados de la celebración de rifas, sorteos, loterías, apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
+Es objeto de este impuesto gravar los ingresos provenientes de:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+I. La organización, administración, explotación, realización o celebración, de rifas, sorteos, loterías, apuestas, juegos con apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
+
+II. La obtención de premios en efectivo o en especie, derivados de la participación en rifas, sorteos, loterías, apuestas, juegos con apuestas, juegos con máquinas de sistemas programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
+
+Quedan comprendidos, los juegos con apuestas y los juegos con máquinas de sistemas o computarizados, los juegos que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquellos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos en los que solo se reciban, capten crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
 El impuesto se causa al momento en que se efectúe la explotación de las actividades señaladas en el párrafo anterior, así como al instante del pago o entrega del premio.
 
@@ -259,11 +269,13 @@ Para los efectos de este impuesto, no se considera como premio el reintegro corr
 
 Son sujetos de este impuesto, las personas físicas o morales, o unidades económicas sin personalidad jurídica:
 
-I. Que realicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, así como juegos con máquinas de sistemas, programas automatizados o computarizados, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. Que organicen, administren, exploten, realicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, así como apuestas, juegos con apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, y
 
-II. QUE OBTENGAN INGRESOS O PREMIOS DERIVADOS O RELACIONADOS CON LAS ACTIVIDADES A QUE SE REFIERE LA FRACCIÓN ANTERIOR, INCLUYENDO LAS PARTICIPACIONES DE BOLSAS FORMADAS CON EL IMPORTE DE LAS INSCRIPCIONES O CUOTAS QUE SE DISTRIBUYAN EN FUNCIÓN DEL RESULTADO DE LAS PROPIAS ACTIVIDADES.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. Que obtengan ingresos o premios derivados o relacionados con su participación en rifas, sorteos, loterías, apuestas y concursos de toda clase, así como juegos con apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, aún y cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -271,13 +283,33 @@ II. QUE OBTENGAN INGRESOS O PREMIOS DERIVADOS O RELACIONADOS CON LAS ACTIVIDADES
 
 La base del impuesto se determinará conforme a las siguientes disposiciones:
 
-I. Para los sujetos señalados en la fracción I del artículo 16 de esta Ley, se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos, registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquéllos no enajenados y que no participen en la posibilidad de obtener premios;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-II. Para los sujetos de este impuesto que realicen las actividades señaladas en la fracción anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado, y
+I. Para los sujetos señalados en la fracción I del artículo 16 de esta Ley, de acuerdo con lo siguiente:
 
-III. Para los sujetos señalados en la fracción II del artículo 16 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa, lotería; y juegos con máquinas de sistemas, programas, automatizados o computarizados, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
+a) En tratándose de rifas, sorteos, loterías, y concursos de toda clase se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados y que no participen en la posibilidad de obtener premios.
+
+b) En tratándose de rifas, sorteos, loterías, que realicen fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas, documentos, objetos registros o cualquier otro comprobante que se haya vendido dentro del Estado.
+
+c) En el caso de los juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes del cobro por la participación de los jugadores.
+
+d) En el caso de apuestas, juegos con apuesta, o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+
+Tratándose de apuestas, los juegos con apuesta o sorteos en lo que se apueste; en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Se considerará también como valor de los actos o actividades realizados, el total de las cantidades efectivamente percibidas por los operadores de los establecimientos de los participantes por dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe, y
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. Para los sujetos señalados en la fracción II del artículo 16 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio determinado por el organizador del concurso, sorteo, rifa, lotería, apuestas, juegos con apuestas, juegos con máquinas de sistemas programas automatizados o computarizados, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
+
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2020)
+
+> <small>[N. DE E. PERTENECE AL ARTÍCULO, P.O. 27 DE DICIEMBRE DE 2006]</small>
 
 En el caso de juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes de la participación en éstos.
+
+> <small>[N. DE E. PERTENECE AL ARTÍCULO, P.O. 27 DE DICIEMBRE DE 2006]</small>
 
 Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
 
@@ -293,11 +325,13 @@ El pago de este impuesto no libera de la obligación de obtener los permisos o a
 
 Para efectos del cálculo para la determinación de este impuesto se estará a lo siguiente:
 
-I. El impuesto se determinará aplicando la tasa del 5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías rifas, concursos, sorteos y juegos con máquinas de sistemas, programas, automatizados o computarizados, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. Por la organización, administración, explotación, realización o celebración, de rifas, sorteos, loterías, apuestas, juegos con apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole; el impuesto se determinará aplicando la tasa del 5% al valor de la base del impuesto, a que se refiere la fracción I del artículo anterior, y
 
-II. EN CUANTO A LOS CONCURSOS, EL IMPUESTO SE DETERMINARÁ APLICANDO LA TASA DEL 6% SOBRE EL MONTO TOTAL DE LOS INGRESOS OBTENIDOS, POR LAS INSCRIPCIONES QUE PERMITAN PARTICIPAR EN EL EVENTO.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. Por la obtención de premios en efectivo o en especie, derivados de la participación en rifas, sorteos, loterías, apuestas, juegos con apuestas, juegos con máquinas de sistemas programas automatizados o computarizados, concursos de cualquier índole; el impuesto se determinará aplicando la tasa del 6% al valor de la base gravable, a que se refiere la fracción II del artículo anterior.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -349,6 +383,62 @@ En ningún caso se entenderán exentos del pago del impuesto, los ingresos o pre
 
 ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+#### SECCION SEGUNDA. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 QUINQUE. Están obligados al pago del impuesto previsto en esta sección las personas que realicen erogaciones dentro del territorio del Estado, para participar en juegos con apuestas.
+
+Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+Se incluyen como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 SEXTIES. El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 19 QUINQUIES, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 SEPTIES. El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 OCTIES. El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que este pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 19 UNDECIES.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 NONIES. El impuesto previsto en esta sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Primera del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 DECIES. Los operadores de los establecimientos en donde se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 19 OCTIES, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga que otorguen a quienes utilicen las máquinas de juegos, en las que conste expresamente y por separado el impuesto recaudado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 19 UNDECIES. Serán responsables solidarios del impuesto, en adición al operador del establecimiento en que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 19 QUINQUE;
+
+II. Los arrendatarios de los establecimientos en los que se realice los juegos o concursos a que se refiere el artículo 19 QUINQUE;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta sección.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
@@ -375,7 +465,7 @@ Para efectos del presente artículo se entenderá por personas morales, a todas 
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 21.
+###### ARTICULO 21.
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal , los organismos descentralizados, los desconcentrados, los autónomos, instituciones educativas y los fideicomisos de los tres órdenes de gobierno.
 
@@ -3390,3 +3480,11 @@ P.O. 13 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1102.- SE REFORMA LOS ARTÍCULOS 15, 16 EN SUS FRACCIONES I Y II, 17 EN SUS FRACCIONES I Y II Y 18 EN SUS FRACCIONES I Y II; ADICIONA AL CAPÍTULO III LAS SECCIONES PRIMERA Y SEGUNDA Y LOS ARTÍCULOS 19 QUINQUE A 19 UNDECIES; Y DEROGA DEL ARTÍCULO 17 LA FRACCIÓN III, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del 2021, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
