@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-10-31"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3489,9 +3489,13 @@ Venta de bebidas alcohólicas a menores de edad.
 
 I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente.
+A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientas a setecientas treinta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Cuando alguna de las conductas antes descritas se realice a una distancia de 500 metros de Centros Educativos, la pena aumentará en un tercio de la mínima a un tercio de la máxima.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
@@ -3517,7 +3521,9 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 195.- Comete el delito de pornografía infantil:
 
-I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+I.- Quien sin fines comerciales o de explotación, induzca, procure, facilite, obligue o utilice medios digitales y/o redes sociales para que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
 
 II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 
@@ -7350,5 +7356,21 @@ P.O. 31 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1621.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 19 Y EL ARTÍCULO 93; Y SE DEROGA EL CAPÍTULO II DEL TÍTULO SEXTO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1739.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 195 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1741.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO, Y SE ADICIONA EL PÁRRAFO TERCERO A LA FRACCIÓN I DEL ARTÍCULO 194 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
