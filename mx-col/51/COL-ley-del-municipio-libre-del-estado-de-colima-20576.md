@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2020-05-30"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -915,9 +915,9 @@ j) Rendir al ayuntamiento, en sesión solemne, un informe por escrito de su gest
 
 k) Vigilar el desempeño de los servidores y empleados del municipio, corregir oportunamente las faltas que observe y hacer del conocimiento de la autoridad correspondiente las que a su juicio puedan constituir la comisión de un delito;
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-l) Tener a su cargo el Registro Civil, pudiendo ejercerlo por sí o mediante la persona titular de la oficialía que designe en la cabecera municipal y por las auxiliares de ésta, en los lugares que lo ameriten;
+l) Tener a su cargo el Registro Civil, y nombrar al Oficial del Registro Civil en la cabecera municipal, y en su caso, a los auxiliares de éste, en los lugares que lo ameriten, tal y como lo establece el Código Civil para el Estado de Colima y de acuerdo con el reglamento de la materia;
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -2672,3 +2672,11 @@ P.O. 30 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 274 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 341.- POR EL QUE SE REFORMA EL INCISO L), DE LA FRACCIÓN I, DEL ARTÍCULO 47, DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Al Poder Ejecutivo del Estado, se le otorga un plazo de 60 días naturales a partir de la entrada en vigor del presente decreto, para que reforme o expida las disposiciones reglamentarias derivadas de su vigencia.
