@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2001-09-15"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 15 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -461,6 +461,12 @@ El Estado otorgará asistencia técnica y financiamiento para la investigación 
 
 El Estado apoyará la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 71.
+
+Las personas indígenas tienen derecho a recibir atención médica, información y capacitación en materia de salud, así como las acciones de prevención de enfermedades en su propia lengua; por lo que, el Estado deberá adoptar mecanismos culturalmente pertinentes para proporcionar los medios que les permita el ejercicio de sus derechos relacionados con la salud.
+
 TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente del de su publicación integra en el Periódico Oficial del Gobierno del Estado.
@@ -526,3 +532,9 @@ PRIMERO.- El presente Decreto entrará en vigor al tercer día de su publicació
 SEGUNDO.- El Poder Ejecutivo del Estado a través de la Secretaría de Asuntos Indígenas y de la Secretaria de Salud, hará la traducción de estas reformas a las lenguas de los pueblos indígenas a que se refiere el párrafo segundo del artículo 2º de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca; hará del conocimiento de la población del Estado el contenido de estas reformas y sus traducciones, difundiéndola en los pueblos y comunidades indígenas, dependencias y Organismos de los Gobiernos Federal, Estatal y Municipal, especialmente en instituciones educativas y, en general en las organizaciones representativas de la sociedad civil oaxaqueña; asimismo expedirá el Reglamento respectivo a más tardar en un plazo de tres meses a partir de la aprobación del presente dictamen.
 
 TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan estas reformas.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1783.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 A LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XXIII Y XXIV Y SE ADICIONAN LAS FRACCIONES XXV Y XXVI, RECORRIÉNDOSE LA SUBSECUENTE, AL APARTADO A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
