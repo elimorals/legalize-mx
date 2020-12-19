@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2020-06-20"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -3693,17 +3693,13 @@ A quien cometa los delitos previstos en las fracciones I, II, III, VIII, IX y XI
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, VII, X, XI, XII, XIII, XV, XVI, XVII, XVIII, IXX (SIC), XX y XXI se le impondrán de cuatro a diez años de prisión y multa por un importe equivalente de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
 
-(NOTA: EL 4 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 191/2020 Y SU ACUMULADA 220/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE DE JUNIO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 280, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2020)</small>
-
-ARTÍCULO 240 BIS. Al que indebidamente difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos o documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos o instrumentos relacionados con el procedimiento penal o productos relacionados con un hecho que la Ley señala como delito, se le impondrán de tres a seis años de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
+ARTÍCULO 240 BIS. El servidor público integrante de alguna institución policial, de procuración o impartición de justicia, que indebidamente difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos o documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos o instrumentos relacionados con el procedimiento penal o productos relacionados con un hecho que la Ley señala como delito, se le impondrán de tres a seis años de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
 
 Si se trata de imágenes, audios o videos de cadáveres o parte de ellos, de las circunstancias de su muerte, de las lesiones o estado de salud, la pena de prisión será de cuatro a siete años y la multa de setenta a ciento treinta veces el valor diario de la unidad de medida y actualización.
 
 Tratándose de imágenes, audios o videos de cadáveres de mujeres, niñas o adolescentes, de las circunstancias de su muerte, de las lesiones o estado de salud, la pena de prisión será de cuatro a ocho años y la multa de ochenta a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
-
-Cuando el delito sea cometido por persona servidora pública integrante de alguna institución policial, de procuración o impartición de justicia, se impondrá de cuatro a ocho años de prisión y multa de ochenta a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
 
 ### CAPÍTULO XVI. TRANSFORMACIÓN DE ACTIVOS PRODUCTO DEL DELITO
 
@@ -4636,3 +4632,9 @@ P.O. 20 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 280 POR EL QUE SE ADICIONA EL ARTÍCULO 240 BIS AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340.- POR EL QUE SE REFORMA EL ARTÍCULO 240 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
