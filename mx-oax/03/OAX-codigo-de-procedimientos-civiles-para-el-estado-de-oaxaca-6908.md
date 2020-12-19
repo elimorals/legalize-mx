@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-10-17"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -6751,6 +6751,10 @@ Cuando la solicitud se fundamenta en la existencia de violencia familiar, o para
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de situaciones en las que estén involucrados los derechos de niñas, niños y adolescentes, el órgano jurisdiccional deberá observar en todo momento el principio de interés superior de la niñez.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 963.
@@ -7280,3 +7284,11 @@ P.O. 17 DE OCTUBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1740.- MEDIANTE EL CUAL SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 962 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
