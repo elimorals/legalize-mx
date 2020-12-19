@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2020-02-29"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -101,17 +101,23 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Administración Pública: La Administración Pública Estatal;
 
-II. Comisión: La Comisión Interinstitucional de Reconocimiento y Atención a los Derechos de los Migrantes y sus Familias;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-III. Dependencias y entidades: Las dependencias y entidades de la Administración Pública Estatal y Paraestatal, señaladas en esta Ley;
+II. Carta de Identidad: Es el documento oficial que expide el Poder Ejecutivo del Estado Libre y Soberano de Oaxaca, en el que se hacen constar los datos de las personas de origen Oaxaqueño, que se encuentren en situación migratoria, asentados en los registros y padrones de identidad y poblacionales del territorio Oaxaqueño, previo procedimiento y requisitos establecidos en la Ley.
 
-IV. Diagnóstico: El Diagnóstico y Evaluación Anual de la situación de los Migrantes y sus Familias para el Estado de Oaxaca;
+III. Comisión: La Comisión Interinstitucional de Reconocimiento y Atención a los Derechos de los Migrantes y sus Familias;
 
-V. Familia: La institución social de carácter permanente, compuesta por un conjunto de personas unidas por el vínculo jurídico del matrimonio o por el estado jurídico del concubinato o, por el parentesco por consanguinidad, adopción o afinidad hasta el segundo grado en línea recta;
+IV. Dependencias y entidades: Las dependencias y entidades de la Administración Pública Estatal y Paraestatal, señaladas en esta Ley;
 
-VI. Enlace Municipal: instancia encargada en los Municipios de la Atención de los Migrantes y sus familias;
+V. Diagnóstico: El Diagnóstico y Evaluación Anual de la situación de los Migrantes y sus Familias para el Estado de Oaxaca;
 
-VIII (SIC). Centro: Centro de Atención al Migrante y sus familias;
+VI. Familia: La institución social de carácter permanente, compuesta por un conjunto de personas unidas por el vínculo jurídico del matrimonio o por el estado jurídico del concubinato o, por el parentesco por consanguinidad, adopción o afinidad hasta el segundo grado en línea recta;
+
+VII. Enlace Municipal: instancia encargada en los Municipios de la Atención de los Migrantes y sus familias;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+VIII. Centro: Centro de Atención al Migrante y sus familias;
 
 IX. Instituto: Al Instituto Oaxaqueño de Atención al Migrante;
 
@@ -151,9 +157,9 @@ XIII. Programa: El Programa Estratégico de Reconocimiento y Atención de los de
 
 XIV. Programas Municipales: Los Programas Municipales de Reconocimiento y Atención a los Derechos de los Migrantes y sus familias, y;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-XV. Reglamento: Al Reglamento de la Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.
+XIV (SIC). Reglamento: Al Reglamento de la Ley Para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca;
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -469,7 +475,15 @@ XXI. Participar en la definición de las reglas de operación de los programas e
 
 XXII. Convocar las sesiones de la Comisión, y ponderar sus opiniones.
 
-XXIII. Las demás que le señalen las disposiciones normativas aplicables.
+(ADICONADA, P.O. 19 DE DICIEMBRE DE 2020)
+
+XXIII. Expedir cartas de identidad a las personas en situación migratoria, de origen Oaxaqueño, de conformidad con lo establecido en la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y su Reglamento.
+
+La Expedición de las cartas de identidad, propicia el respeto a los derechos humanos constitucionales de las personas de origen Oaxaqueño, que se encuentran en situación migratoria, fuera del territorio del Estado de Oaxaca, por lo que en todo momento debe de respetar y salvaguardar la información personal de cada solicitante, en términos de las disposiciones legales en materia de protección de datos personales.
+
+La regulación particular, sobre la expedición de las cartas de identidad, debe de estar contenida en el Reglamento de la Ley, y tendrá el carácter de obligatoria para el Instituto.
+
+XXIV. Las demás que le señalen las disposiciones normativas aplicables.
 
 ###### Artículo 25.
 
@@ -904,3 +918,11 @@ P.O. 29 DE FEBRERO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1754.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 6, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y LA FRACCIÓN XXIII AL PÁRRAFO SEGUNDO DEL ARTÍCULO 24, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca contará con un plazo de 60 días hábiles, contados a partir del día siguiente al de la entrada en vigor de la presente reforma, para emitir la normatividad que regulará la expedición de las cartas de identidad, en el Reglamento de la Ley para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.
