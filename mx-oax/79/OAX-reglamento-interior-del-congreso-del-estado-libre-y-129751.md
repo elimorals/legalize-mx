@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-10-31"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -45,7 +45,11 @@ REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 El presente Reglamento regula las disposiciones normativas que derivan de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca, y tiene por objeto la aplicación a los casos concretos de las bases y principios que rigen la organización y el funcionamiento para el gobierno interior del Congreso, así como las reglas aplicables al proceso legislativo.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 2.
+
+Son principios rectores del funcionamiento del Congreso: la autonomía, la oralidad, la publicidad, el predominio de la acción colegiada, de mayoría y de respeto a las minorías.
 
 Lo no previsto en este Reglamento se ajustará a las disposiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y demás ordenamientos legales aplicables en vigor.
 
@@ -125,7 +129,9 @@ XXXV. Presidente de la Jucopo: Quien preside la Junta de Coordinación Política
 
 XXXVI. Presidente de la Mesa Directiva: Quien preside la Mesa Directiva del Congreso.
 
-XXXVII. Punto de Acuerdo: Son propuestas que los Diputados ponen a consideración del Pleno que no constituyen iniciativas de ley, sino pronunciamientos sobre asuntos políticos, culturales, económicos o sociales que afectan a una comunidad o grupo particular, para formular exhorto.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XXXVII. Punto de acuerdo: Es el instrumento parlamentario por medio del cual las y los Diputados ponen a consideración del Pleno, sin que constituyan iniciativas de ley, situaciones sobre asuntos políticos, culturales, económicos o sociales que afectan a una comunidad o grupo particular.
 
 XXXVIII. Quórum: número mínimo de Diputados cuya presencia es necesaria para sesionar válidamente en los órganos que integran el Congreso. Se integrará con la asistencia de la mitad más uno de los Diputados que integran el Pleno, la Diputación Permanente o las Comisiones, para que puedan abrir sus sesiones y reuniones, respectivamente.
 
@@ -1143,6 +1149,10 @@ V. Entregar al Congreso, a través de la Conferencia Parlamentaria, un informe f
 
 El expediente del asunto que requiera dictamen de comisiones unidas será turnado íntegro por la Presidencia de la Mesa Directiva a las comisiones que corresponda; la primera comisión nombrada en el turno será la responsable de elaborar el proyecto de dictamen.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Las proposiciones con punto de acuerdo y protocolarias invariablemente deberán ser turnadas a una sola comisión.
+
 ###### ARTÍCULO 48.
 
 Las Presidencias de las comisiones unidas deberán coordinarse para la elaboración del proyecto de dictamen, considerando las opiniones, argumentos o estudios que presenten los integrantes de las mismas.
@@ -1273,7 +1283,9 @@ El Pleno podrá conocer proposiciones que busquen el consenso de sus integrantes
 
 I. Acuerdos Parlamentarios, son resoluciones económicas en materia del régimen interior del Congreso;
 
-II. Los Puntos de Acuerdo, son proposiciones hechas por los diputados mediante las que solicita que el Congreso, en su conjunto, asuma una postura institucional respecto de un tema no legislativo de interés general, o relacionado con los otros dos poderes del estado, con la federación, los municipios y los Órganos Constitucionales Autónomos, y;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+II. Los Puntos de Acuerdo: Es el instrumento parlamentario por medio del cual las y los Diputados ponen a consideración del Pleno situaciones de relevancia social, política, económica, cultural en el que se ve inmerso una comunidad o grupo particular o relacionado con los asuntos de los Poderes del Estado, con la Federación, los municipios y/o los Órganos Constitucionales Autónomos, y;
 
 III. Protocolarias, para otorgar premios y reconocimientos públicos por parte del Congreso. Tienen por objeto hacer un reconocimiento público a héroes, próceres o ciudadanos distinguidos, o a eventos históricos que por su relevancia o contribución a la Nación o al Estado ameriten la entrega de un reconocimiento, la celebración de una sesión solemne o la instauración de letras de oro.
 
@@ -1287,9 +1299,15 @@ I. Deberán presentarse a través de un escrito fundado, con una propuesta clara
 
 II. Las proposiciones presentadas por los diputados y las que se registren a nombre de grupo pasaran a comisión;
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Las y los diputados podrán exponer los fundamentos de los puntos de acuerdo presentados.
+
 III. Para presentar una proposición con punto de acuerdo ante Pleno como de urgente y obvia resolución, deberá ser solicitada previamente por el diputado proponente o por la Jucopo mediante acuerdo, salvo aquellas sobre desastres naturales, que se considerarán siempre con este carácter;
 
-IV. En cada sesión la Jucopo podrá acordar la inscripción de hasta cuatro proposiciones con punto de acuerdo para que sean consideradas por el Pleno, a trámite de urgente y obvia resolución que deberá ser aprobada por mayoría simple;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+IV. En cada sesión la Jucopo podrá acordar la inscripción de hasta seis proposiciones con punto de acuerdo para que sean consideradas por el Pleno, a trámite de urgente y obvia resolución que deberá ser aprobada por mayoría simple;
 
 V. Las proposiciones que la Jucopo no considere proponer ante el Pleno con el carácter de urgente y obvia resolución o no alcanzare la votación requerida, serán turnadas a la comisión que corresponda;
 
@@ -2894,3 +2912,21 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno E
 TERCERO. La integración de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte, será la misma que tenía la Comisión Permanente de Cultura.
 
 CUARTO. Los asuntos turnados y lo demás atinente a la Comisión Permanente de Cultura, así como los asuntos de la Comisión Permanente de Cultura Física y Deporte, se entenderán como materia de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1756.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 3 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 3; LA FRACCIÓN II DEL ARTÍCULO 60; LA FRACCIÓN IV DEL ARTÍCULO 61; Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 47, Y EL PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 61 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las proposiciones con Punto de Acuerdo y Protocolarias que hayan sido turnadas antes de la entrada en vigor del presente decreto seguirán el trámite correspondiente conforme a la norma vigente en aquel tiempo.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1758.- MEDIANTE EL CUAL SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 2 Y SE RECORRE EL SUBSECUENTE DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
