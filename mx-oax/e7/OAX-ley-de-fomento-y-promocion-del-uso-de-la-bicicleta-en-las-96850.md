@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-y-promocion-del-uso-de-la-bicicleta-en-las-96850
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE FOMENTO Y PROMOCION DEL USO DE LA BICICLETA EN LAS ZONAS METROPOLITANAS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚM. 1755.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO Y PROMOCIÓN DEL USO DE LA BICICLETA EN LAS ZONAS METROPOLITANAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 27 de noviembre de 2013.
 
@@ -340,3 +342,33 @@ Tlalixtac de Cabrera, Centro, Oax., a 12 de noviembre del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1755.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Municipios tendrán 120 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, para expedir las normas reglamentarias necesarias y adecuar los reglamentos vigentes.
+
+###### ARTICULO TERCERO.
+
+En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo a través de la Secretaría, elaborará el Programa Anual de Promoción y Fomento al Uso de la Bicicleta.
+
+###### ARTICULO CUARTO.
+
+A partir de la fecha de inicio de vigencia del presente Decreto, en todas las obras de construcción de vías generales de comunicación terrestre y red primaria de vialidad del Estado y Municipios se deberá considerar la instalación de ciclovías.
+
+###### ARTICULO QUINTO.
+
+Los Ayuntamientos de aquellos Municipios que cuenten con zonas urbanas aptas para la implementación de ciclovías y del sistema de transporte individual en bicicleta, deberán expedir a la brevedad posible los reglamentos respectivos, así como establecer los programas mismos que deberán estar considerados en el presupuesto de egresos del municipio, los cuales estarán destinados para infraestructura y de educación vial.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía, que se opongan al presente Decreto, así también se abroga la Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca, aprobada el 31 de octubre de 2013 y publicada en el Extra del Periódico Oficial del 27 de noviembre de 2013.
