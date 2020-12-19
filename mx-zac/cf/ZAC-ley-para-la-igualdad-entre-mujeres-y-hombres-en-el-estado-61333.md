@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-61333
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-24"
-last_updated: "2015-08-29"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 19 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 2008.
 
@@ -742,3 +744,27 @@ P.O. 29 DE AGOSTO DE 2015.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se abroga la Ley para la Igualdad entre Mujeres y Hombres en el Estado de Zacatecas, contenida en el Decreto #99, publicado en (sic) Suplemento al número 42 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, del 24 de mayo de 2008.
+
+Artículo tercero. Se derogan las disposiciones que contravengan al presente Decreto.
+
+Artículo cuarto. El Reglamento de la presente Ley, deberá expedirse dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
+
+Artículo quinto. Los instrumentos de la Política de Igualdad que a la entrada en vigor del presente Decreto, hayan sido aprobados y se encuentren vigentes, continuarán hasta su conclusión.
+
+Artículo sexto. El Reglamento del Sistema para la Igualdad deberá expedirse dentro de los 180 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+Artículo séptimo. El Sistema para la Igualdad funcionará conforme a las facultades y obligaciones establecidas en esta Ley.
+
+Artículo octavo. El Sistema para la igualdad deberá sesionar de manera ordinaria, en un plazo no mayor a 30 días hábiles siguientes a la entrada en vigor del presente Decreto, para adecuar su integración, en los términos del artículo 24 de la presente Ley.
+
+Artículo noveno. En cumplimiento de lo establecido en el artículo octavo transitorio, la actual Presidencia del Sistema deberá entregar un informe de las acciones implementadas, aquellas que se encuentran en desarrollo y las pendientes por llevar a cabo.
+
+Artículo décimo. El Sistema de Información para la vigilancia de la Política de igualdad, deberá implementarse dentro de los 365 días siguientes a la entrada en vigor del presente Decreto.
