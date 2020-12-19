@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2020-10-31"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -270,6 +270,32 @@ LVIII. Zonificación: determinación de las áreas que integran y delimitan un t
 LIX. Zonificación primaria: determinación de las áreas que integran y delimitan un centro de población, comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias, y
 
 LX. Zonificación secundaria: determinación de los usos de suelo en un espacio edificable y no edificable, así como la definición de los destinos específicos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 4 BIS. La planeación, regulación y gestión de los asentamientos humanos y el ordenamiento territorial, deben conducirse con apego a los siguientes principios de política pública:
+
+I. Derecho a la ciudad: garantizar a todos los habitantes de un asentamiento humano el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia;
+
+II. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos vulnerables y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
+
+III. Función social de la propiedad urbana: garantizar los derechos de propiedad inmobiliaria con la intención de que los propietarios tengan protegidos sus derechos, pero también asuman responsabilidades específicas con el estado y con la sociedad, respetando los derechos y limites previstos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
+
+IV. Coherencia y racionalidad: adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a los planes y políticas nacionales; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
+
+V. Participación democrática y transparencia: proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas, planes y programas que determinan el desarrollo de las ciudades y territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la presente Ley y demás legislación aplicable en la materia;
+
+VI. Productividad y eficiencia: fortalecer la productividad y eficiencia de las ciudades como eje del crecimiento económico, a través de la consolidación de redes de vialidad y movilidad urbana, energía y comunicaciones, creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad. Maximizar la capacidad de las ciudades para atraer y retener talentos e inversiones, minimizar costos y facilitar la actividad económica;
+
+VII. Protección y progresividad del Espacio público: crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad de los ciudadanos, considerando las necesidades diferenciadas por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos, los que podrán ampliarse, o mejorarse, pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios deberán ser sustituidos por otros que generen beneficios equivalentes;
+
+VIII. Resiliencia, seguridad urbana y riesgos: propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo;
+
+IX. Sustentabilidad ambiental: promover prioritariamente, el uso racional de recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones. Así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+
+X. Accesibilidad y movilidad urbana: consiste en promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas, a través de medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, una red vial operativa y funcional, la distribución jerarquizada de los equipamientos, una efectiva movilidad urbana que privilegie las calles completas, el transporte público, peatonal y no motorizado, generando incentivos a quienes generen cercanía entre las viviendas y fuentes de empleo. Consiste además en garantizar la accesibilidad a todas las personas sin importar su edad, género, discapacidad, condición social, creencias, opiniones y cualquier otra que de no tomar en cuenta atente contra la dignidad humana.
+
+Toda política pública de ordenamiento territorial, desarrollo y planeación urbana y coordinación metropolitana deberá observar los presentes principios.
 
 ### CAPÍTULO SEGUNDO.. DE LAS AUTORIDADES
 
@@ -2329,6 +2355,14 @@ También deberán especificar, si es el caso, las afectaciones a que estén some
 
 Todo nuevo plan o programa de desarrollo urbano, proyecto de carácter público, privado o construcción, deberá adoptar todas las medidas de accesibilidad que le conciernan, en base a la normatividad vigente en la materia. Para las edificaciones y espacios públicos preexistentes, se podrá llevar un sistema de adaptaciones por etapas y de conformidad con la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Se contemplarán en los referidos planes o programas de desarrollo urbano, la adecuación de facilidades urbanísticas y arquitectónicas acorde a las necesidades de las personas con discapacidad, aplicando en todo caso las disposiciones normativas emitidas en favor de dichas personas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Las construcciones o modificaciones de parques, jardines o plazas que tengan juegos infantiles, deberán contar con al menos dos juegos, que sean viables, seguros e inclusivos, que permitan a niñas, niños y adolescentes con discapacidad utilizarlos para garantizar en todo momento el derecho a la accesibilidad.
+
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 138.
@@ -3384,3 +3418,17 @@ P.O. 31 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Las Autoridades Municipales, dentro de los sesenta días siguientes a la publicación del presente Decreto, deberán modificar sus reglamentos para incluir estas reformas.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1777.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 4 BIS A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1778.- MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 137 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
