@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-10-31"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -125,7 +125,9 @@ XXXIV. Presidente de la Jucopo: Quien preside la Junta de Coordinación Polític
 
 XXXV. Presidente de la Mesa Directiva: Quien preside la Mesa Directiva del Congreso.
 
-XXXVI. Punto de Acuerdo: Son propuestas que los Diputados ponen a consideración del Pleno que no constituyen iniciativas de ley, sino pronunciamientos sobre asuntos políticos, culturales, económicos o sociales que afectan a una comunidad o grupo particular, para formular exhorto.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XXXVI. Punto de acuerdo: Es el instrumento parlamentario por medio del cual las y los Diputados ponen a consideración del Pleno, sin que constituyan iniciativas de ley, respecto a situaciones sobre asuntos políticos, culturales, económicos o sociales que afectan a una comunidad, grupo particular o relacionado con asuntos de los Poderes del Estado, con la Federación, los municipios o los Órganos Constitucionales Autónomos.
 
 XXXVII. Quórum: número minimo de Diputados cuya presencia es necesaria para sesionar válidamente en los órganos que integran el Congreso. Se integrará con la asistencia de la mitad más uno de los Diputados que integran el Pleno, la Diputación Permanente o las Comisiones, para que puedan abrir sus sesiones y reuniones, respectivamente.
 
@@ -811,6 +813,10 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 La misma Diputación se ocupará de determinar lo conducente, por lo que hace a los puntos de acuerdo y demás asuntos que se presenten, siempre que por su naturaleza jurídica no requieran la aprobación del Pleno, en términos de lo dispuesto en la Constitución Local, la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+Las resoluciones de los puntos de acuerdo deberán ser notificados personalmente a la o las autoridades a las que va dirigido, quienes responderán al Congreso de manera fundada y motivada, dentro del plazo de 15 días hábiles, también deberán publicar ésta en su página oficial y sólo de no contar con estos deberán hacerlo en sus estrados. El trámite se efectuará conforme a lo dispuesto en el Reglamento.
+
 ###### ARTÍCULO 57.
 
 En la votación para la integración de la Diputación Permanente que corresponda, se definirá de entre los propietarios, a la Presidencia, Vicepresidencia y tres Secretarías.
@@ -1125,7 +1131,9 @@ IX. Coordinar las actividades relacionadas con el Diario de los Debates, la Gace
 
 X. Coordinar la Correcta administración y custodia del archivo del Congreso;
 
-XI. Coordinar los servicios de la Biblioteca y Centro de Documentación;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+XI. Coordinar los servicios de la Dirección de Biblioteca y Archivo;
 
 XII. Recabar y sistematizar la información relativa a los indicadores de evaluación del desempeño legislativo, en coordinación con la Comisión Permanente de Transparencia, Acceso a la Información y Congreso Abierto, para hacerlos de conocimiento de los integrantes de la Jucopo, y;
 
@@ -1502,3 +1510,29 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (
 TERCERO. La integración de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte, será la misma que tenía la Comisión Permanente de Cultura.
 
 CUARTO. Los asuntos turnados y lo demás atinente a la Comisión Permanente de Cultura, así como los asuntos de la Comisión Permanente de Cultura Física y Deporte, se entenderán como materia de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1756.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 3 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 3; LA FRACCIÓN II DEL ARTÍCULO 60; LA FRACCIÓN IV DEL ARTÍCULO 61; Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 47, Y EL PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 61 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las proposiciones con Punto de Acuerdo y Protocolarias que hayan sido turnadas antes de la entrada en vigor del presente decreto seguirán el trámite correspondiente conforme a la norma vigente en aquel tiempo.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1757.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1759.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
