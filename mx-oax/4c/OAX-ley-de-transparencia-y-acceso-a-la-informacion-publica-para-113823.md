@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2020-04-18"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -547,9 +547,31 @@ III. La estadística de las averiguaciones previas consignadas, así como de las
 
 IV. Las estadísticas de personas desaparecidas o no localizadas;
 
-V. Publicar los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
-VI. Las demás que le señalen esta Ley y disposiciones normativas aplicables.
+V. Publicar los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+VI. Las estadísticas de las carpetas de investigación iniciadas y su relación con aquellas en las que se ejerció acción penal y el resultado de los juicios;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+VII. Las estadísticas de las carpetas de investigación iniciadas y su relación con aquellas en las que se ejerció acción penal y que no se llevaron a juicio;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+VIII. Las estadísticas de las carpetas de investigación iniciadas y su relación con aquellas en donde se concluyó a través de las Soluciones Alternas y Formas de Terminación Anticipada del Procedimiento;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+IX. Los distintos índices delictivos divididos por región en el Estado, Municipio;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+
+X. Las estadísticas de delitos cometidos en contra de las mujeres; y
+
+XI. Las demás que le señalen esta Ley y disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -2936,3 +2958,13 @@ P.O. 18 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1495.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I; Y SE ADICIONAN LAS FRACCIONES III, IV Y V RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES, ASÍ COMO UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE PÁRRAFO, AL ARTÍCULO 25; Y SE ADICIONA LA FRACCIÓN XI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES, AL ARTÍCULO 26, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1764.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN V Y SE ADICIONAN LAS FRACCIONES VI, VII, VIII, IX Y X, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 24 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. La Fiscalía General del Estado de Oaxaca, deberá contemplar, el presupuesto necesario para su unidad de transparencia, para el cumplimiento de la normatividad a que hace mención el presente Decreto.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
