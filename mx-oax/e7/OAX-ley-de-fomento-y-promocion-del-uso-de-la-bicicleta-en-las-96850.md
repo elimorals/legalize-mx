@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-y-promocion-del-uso-de-la-bicicleta-en-las-96850
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2020-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,322 +21,312 @@ state: "OAX"
 ---
 # LEY DE FOMENTO Y PROMOCION DEL USO DE LA BICICLETA EN LAS ZONAS METROPOLITANAS DEL ESTADO DE OAXACA
 
-LEY DE FOMENTO Y PROMOCIÓN DEL USO DE LA BICICLETA EN LAS ZONAS METROPOLITANAS DEL ESTADO DE OAXACA
+LEY ORGÁNICA DE LA JUNTA ESTATAL DE CAMINOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. EL 4 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 27 de noviembre de 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
-LIC. GABINO CUÉ MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 18 de junio de 2011.
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+LIC. MIGUEL ALEJANDRO ALONSO REYES, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
-DECRETO N° 2069
+Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Legislatura del Estado, se han servido dirigirme el siguiente:
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
+DECRETO #145
 
-DECRETA:
+LA HONORABLE SEXAGÉSIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-###### ARTÍCULO ÚNICO
+RESULTANDO .
 
-Se crea la LEY DE FOMENTO Y PROMOCIÓN DEL USO DE LA BICICLETA EN LAS ZONAS METROPOLITANAS DEL ESTADO DE OAXACA.
+Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
-## TÍTULO I
+DECRETA
 
-DEPOSICIONES GENERALES.
+LEY ORGÁNICA DE LA JUNTA ESTATAL DE CAMINOS
 
-### CAPÍTULO I
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-GENERALIDADES Y PRINCIPIOS.
+###### Artículo 1.
 
-###### ARTÍCULO 1.
+La presente Ley es de orden público y observancia general en el Estado de Zacatecas y tiene por objeto establecer las bases para la organización y funcionamiento de la Junta Estatal de Caminos.
 
-La presente Ley es de orden público e interés social y de observancia en el territorio que comprenden los Municipios integrantes de las Zonas Metropolitanas del Estado de Oaxaca, tiene por objeto fomentar y promover el uso de la bicicleta como medio de transporte, no contaminante y alternativo al automotor, así como establecer los principios que le permitan generar las condiciones para que la bicicleta se integre de manera segura como medio de transporte al sistema vial.
+###### Artículo 2.
 
-###### ARTÍCULO 2.
+La Junta Estatal de Caminos, es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Obras Públicas.
 
-Se declara de interés público para el Estado de Oaxaca y sus Zonas Metropolitanas, el uso de la bicicleta como medio alternativo al automóvil, no contaminante, con lo que se garantiza el derecho de todos los habitantes o visitantes, para su empleo en traslados a través de las vías públicas de esta Entidad.
+###### Artículo 3.
 
-###### ARTÍCULO 3.
+El domicilio legal de la Junta Estatal de Caminos, será la Ciudad de Zacatecas, Capital o la zona conurbada, pudiendo establecer oficinas de representación en otros municipios de la entidad.
 
-La aplicación de la presente Ley, corresponde al Ejecutivo del Estado a través de sus diversas dependencias, organismos públicos descentralizados, así como a los Ayuntamientos, en el ámbito de su respectiva competencia.
+###### Artículo 4.
 
-###### ARTÍCULO 4.
+Para efectos de la presente Ley, se entenderá por:
 
-Para los efectos de lo establecido en esta Ley, se entiende por:
+I. Junta: La Junta Estatal de Caminos, y
 
-I. AUTORIDADES: Titular del Poder Ejecutivo y sus diversas dependencias, así como a los Ayuntamientos.
+II. Director General: El Director de la Junta Estatal de Caminos.
 
-II. AYUNTAMIENTO; El órgano de gobierno de los Municipios Integrantes de las Zonas Metropolitanas del Estado.
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA JUNTA ESTATAL DE CAMINOS
 
-III. CALLE O AVENIDA DE USO PREFERENCIAL: Toda vía de comunicación ubicada en el territorio de los municipios integrantes de la Zona Metropolitana, destinado preferentemente para el tránsito de la bicicleta.
+###### Artículo 5.
 
-IV. CARRIL PREFERENTE: Es el carril de circulación ubicado al lado derecho de calles o avenidas por donde los ciclistas pueden conducir, compartiendo dicho espacio con el automóvil.
+La Junta tendrá por objeto ejecutar las acciones relativas a la programación, ejecución, conservación y mantenimiento de la infraestructura de la red de caminos de jurisdicción estatal, que deriven de programas propios o convenidos con la Federación, Municipios o particulares, para lo cual tendrá las siguientes atribuciones:
 
-V. CICLISTA: Persona que maneja o conduce una bicicleta, cualquiera que sea su clasificación.
+I. Elaborar los proyectos de programas anuales de inversión de obras en materia de caminos;
 
-VI. CICLOVIA O VIA CICLISTA: vía pública especializada para la circulación de bicicletas, pueden ser urbanas o interurbanas y bidireccionales o unidireccionales, según se permita en ellas la circulación en uno o en los dos sentidos. También, podrán ser de uso exclusivo para bicicletas o de uso compartido con otros modos o medios de transporte.
+II. Realizar los estudios y proyectos para la construcción, reconstrucción, modernización, conservación y señalamiento a que se refiere la fracción anterior, conforme a la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado y demás normatividad aplicable;
 
-VII. LEY: Ley de Fomento del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca.
+III. Ejecutar las acciones tendientes a la construcción, reconstrucción, modernización y conservación de los caminos que se deriven de los programas convenidos;
 
-VIII. RED CICLISTA: Conjunto de vías ciclistas o ciclovias intercomunicadas que permiten a los conductores de bicicletas se trasladen de un punto a otro de la zona metropolitana en cualquier momento.
+IV. Supervisar que las obras de su competencia que se ejecuten conforme a la legislación aplicable, especificaciones, proyectos y programas aprobados y, en su caso, conforme a lo estipulado en los contratos de obras;
 
-IX. SECRETARÍA; la Secretaria de Transporte y Vialidad del Gobierno del Estado de Oaxaca.
+V. Proyectar, instalar y mantener en operación los señalamientos físicos y dispositivos de seguridad, técnicos y tácticos en las redes carreteras de su jurisdicción;
 
-X. ZONA PROTEGIDA: Área destinada para que los ciclistas puedan hacer alto en cruceros y esquinas de las calles con semáforos; localizada antes del paso peatonal y serializado con pintura de color amarillo en forma de rectángulo y al interior tendrá pintado un símbolo de una bicicleta en color blanco; (sic)
+VI. Administrar, operar y mantener en buen estado la maquinaria y equipo de construcción, conservación y mantenimiento a su cargo;
 
-### CAPÍTULO I
+VII. Coordinarse con la Secretaría de Comunicaciones y Transportes, conforme a la legislación de la materia, para la construcción y conservación de caminos y puentes que la Federación concesione al Estado, Municipios o particulares, así como para la construcción y conservación de aeropuertos federales;
 
-DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS.
+VIII. Celebrar convenios, contratos y otros actos jurídicos con dependencias y entidades de los tres órdenes de gobierno, así como con instituciones y organismos de los sectores social y privado, en materias relacionadas con sus atribuciones;
 
-###### ARTÍCULO 5.
+IX. Proporcionar asesoría a los municipios en materia de construcción, reconstrucción, modernización, conservación y mantenimiento de caminos;
 
-La presente Ley garantiza los siguientes principios;
+X. Gestionar ante las dependencias competentes, la expropiación de inmuebles para la ampliación de la red carretera de jurisdicción estatal;
 
-I. El derecho de toda persona de tener acceso al empleo de un medio de transporte saludable, alternativo al automóvil y ecológico, así mismo, contar con vías públicas en condiciones adecuadas y seguras para el uso de la bicicleta; por lo que el Gobierno del Estado y los Ayuntamientos, en apoyo implementaran programas y proyectos en favor del uso de la bicicleta.
+XI. Dentro del ámbito de su competencia, auxiliar a la Secretaría de Seguridad Pública del Estado y otras dependencias y entidades, para la vigilancia de las personas y bienes, en los caminos de jurisdicción estatal;
 
-II. El deber del Gobierno del Estado y de los Ayuntamientos, de crear y fomentar la cultura del uso de la bicicleta, para propiciar en el ánimo de la población, su integración como transporte alternativo at (sic) automóvil, eficiente, sustentable, económico y ecológico.
+XII. Promover la concertación de acciones para impulsar la participación de los sectores social y privado en la construcción, conservación y mantenimiento de la red de caminos de jurisdicción estatal;
 
-III. Generar en la población la conciencia de la importancia de su participación en el mejoramiento ambiental y cuidado de su salud, a través de la preferencia del uso de la bicicleta como medio de transporte alternativo al automóvil, así como en su aplicación en el área recreativa y deportiva.
+XIII. Administrar su patrimonio de conformidad con la legislación aplicable y realizar los actos jurídicos tendientes a la consolidación de su patrimonio;
 
-## TÍTULO II
+XIV. Ejercer las atribuciones que le confiere la Ley que Establece el Derecho de Vía para el Estado de Zacatecas, y
 
-DERECHOS Y DEBERES.
+XV. Las demás que le confiera la presente Ley, su Estatuto Orgánico y otras disposiciones legales.
 
-### CAPÍTULO II
+### CAPÍTULO III. DE LOS ÓRGANOS DE GOBIERNO DE LA JUNTA
 
-DERECHOS Y OBLIGACIONES DE LOS CICLISTAS.
+###### Artículo 6.
 
-###### ARTÍCULO 6.
+Son órganos de gobierno de la Junta, los siguientes:
 
-Es deber del Titular del Poder Ejecutivo del Estado;
+I. El Consejo Directivo;
 
-I. Incluir en el Plan Estatal de Desarrollo en los Sectores de Salud, Medio Ambiente, Educación, Desarrollo Urbano, Transporte y Vialidad, Zonas Metropolitanas, acciones en favor del fomento y la promoción del uso de la bicicleta.
+II. El Director General, y
 
-II. Fomentar y Promover el uso de la bicicleta en el territorio comprendido por las Zonas Metropolitanas del Estado, como medio de transporte alternativo al automóvil, así como la creación de espacios públicos adecuados para el deporte del ciclismo en sus distintas modalidades.
+III. El Órgano de Vigilancia.
 
-III. A través de sus dependencias, crear e implementar programas y ejecutar obras que contemplen las condiciones de seguridad vial para el uso de la bicicleta.
+#### Sección Primera. Del Consejo Directivo
 
-###### ARTÍCULO 7.
+###### Artículo 7.
 
-Para cumplimiento del objeto de la presente Ley, el Titular del Poder Ejecutivo y los Ayuntamientos deben:
+El Consejo Directivo es el órgano superior de la Junta y estará integrado por:
 
-l. Implementar en forma coordinada programas de transporte y vialidad, acordes con el desarrollo urbano, propiciando la integración de la bicicleta como medio de transporte.
+I. Un Presidente, que será designado por el Gobernador del Estado;
 
-II. Reformar las leyes y reglamentos de tránsito y vialidad de su respectiva competencia, para incluir disposiciones que favorezcan el fomento del uso de la bicicleta, así como reglas protectoras que garanticen la conducción segura y responsable de los ciclistas.
+II. Un Secretario, que será el Secretario de Obras Públicas;
 
-III. Fomentar, promover y crear la cultura de protección al uso de la bicicleta como medio de transporte seguro; a través de programas educativos.
+III. Cuatro vocales, que serán:
 
-IV. Fomentar la participación ciudadana, del sector público, de la iniciativa privada y del sector académico, para generar propuestas de programas y proyectos relativos al uso de la bicicleta como medio de transporte no contaminante, alternativo al automóvil, que garantice el derecho a la movilidad empleando medios de transporte sin motor.
+a) El Secretario de Finanzas;
 
-V. Generar normas o reglamentos en su ámbito de competencia, a efecto de que en los espacios de estacionamiento de los edificios públicos, privados, centros de trabajo, instituciones educativas, parques o jardines públicos y áreas de espera del transporte público, se consideren la implementación de espacios seguros destinados al estacionamiento de bicicletas.
+b) El Secretario de Planeación y Desarrollo Regional;
 
-VI. Fomentar a través de la participación de la iniciativa privada, la prestación del servicio de arrendamiento de bicicletas, así como de estacionamientos exclusivos para el resguardo de éste vehículo, de igual manera implementar en los estacionamientos públicos cajones exclusivos para usuarios de bicicletas.
+c) El Secretario de Desarrollo Económico, y
 
-VII. Implementar por parte del Ejecutivo del Gobierno del Estado a través de sus distintas dependencias, campañas de concientización dirigidas a los ciclistas para generar un manejo responsable y respetuoso al momento de transitar, así como la difusión de la normatividad que regula el tránsito de la bicicleta en las vialidades urbanas y las ciclovias; e informar la existencia de vías para el uso de la bicicleta, en coordinación con los Ayuntamientos.
+d) El Delegado o Director General en el Estado, de la Secretaría de Comunicaciones y Transportes.
 
-VIII. Fomentar la implementación de los diversos tipos de espacios en las vías de comunicación y la creación de infraestructura que permita el tránsito de bicicletas como medio de transporte e impulsor de una buena salud y mejor calidad de vida.
+###### Artículo 8.
 
-IX. Fomentar la elaboración de planes y proyectos de orden municipal de las zonas metropolitanas, para implementación de obras como ciclovias que favorezcan el use (sic) de la bicicleta; de igual manera, la adaptación de vías publicas inter municipales y estatales para la circulación de la bicicleta.
+Los miembros del Consejo Directivo tendrán derecho a voz y voto y sus cargos serán honoríficos. Deberán designar a la persona que los suplirá en sus ausencias.
 
-###### ARTÍCULO 8.
+###### Artículo 9.
 
-Los Ayuntamientos de las zonas metropolitanas de la Entidad, deberán contemplar el fomento del uso de la bicicleta en su Plan de Desarrollo Municipal.
+El Director General y el Comisario Público podrán participar en las sesiones del Consejo Directivo sin derecho a voto.
 
-###### ARTÍCULO 9.
+###### Artículo 10.
 
-Son obligaciones de los Ayuntamientos:
+El Consejo Directivo sesionará de forma ordinaria cada tres meses y de manera extraordinaria las veces que sean necesarias para el eficaz desempeño de la Junta, previa convocatoria del Presidente del Consejo, el cual podrá delegar esta facultad en el Secretario Técnico.
 
-l. Incluir el uso de la bicicleta en sus Planes de Transporte y Ordenamiento Territorial.
+###### Artículo 11.
 
-II. Implementar programas para limitar el uso de automotores en áreas urbanas en determinadas fechas y horarios, para promover el use (sic) de la bicicleta.
+Las sesiones del Consejo Directivo serán presididas por su Presidente y en su ausencia, por la persona que él designe.
 
-III. Fomentar con apoyo de la iniciativa privada la implementación de servicios y espacios destinados al uso de la bicicleta como medio de transporte, así como instrumento recreativo y deportivo.
+###### Artículo 12.
 
-IV. Asegurar la participación ciudadana en la implementación de políticas de promoción del uso de la bicicleta.
+El Consejo Directivo con la aprobación de la mayoría de sus miembros y de acuerdo al tema a tratarse, podrá invitar a las sesiones a servidores públicos de otras dependencias y entidades de los tres órdenes de gobierno, legisladores o representantes de organizaciones de la sociedad civil o instituciones de los sectores social, académico y privado.
 
-###### ARTÍCULO 10.
+Dichos invitados sólo tendrán derecho a voz.
 
-Los ciclistas tienen los siguientes derechos:
+###### Artículo 13.
 
-l. Que las autoridades de los distintos niveles de gobierno, fomenten y tutelen su derecho a contar con condiciones adecuadas para hacer uso de la bicicleta como medio de transporte alternativo, no contaminante; para lo cual mantendrá a la vanguardia las normas y reglas que protejan su circulación de forma responsable y segura; y la participación activa y consciente de la ciudadanía para que la presente Ley se aplique en su beneficio.
+El Consejo Directivo tendrá las siguientes atribuciones:
 
-II. Los ciclistas con capacidades diferentes tienen preferencia en el manejo de su bicicleta por las distintas vías de comunicación, por lo que los conductores de automóviles y ciclistas, les ofrecerán invariablemente cortesía en su conducción.
+I. Definir los lineamientos del programa operativo anual de la Junta, sujetándose a lo establecido en el Plan Estatal de Desarrollo y sus programas sectoriales;
 
-III. Que los conductores de automóviles respeten la zona protegida destinada para los ciclistas.
+II. Analizar y, en su caso, aprobar el proyecto de presupuesto de la Junta, que el Director General someta a su consideración;
 
-IV. Los ciclistas tienen derecho preferente sobre el tránsito de automóviles, en los siguientes casos:
+III. Aprobar el proyecto de Estatuto Orgánico y los manuales de la Junta, así como sus reformas y adiciones, que el Director General someta a su conocimiento;
 
-a) Cuando los automóviles pretendan circular o cruzar por una ciclovía y se tenga presencia de ciclistas circulando.
+IV. Analizar y, en su caso, aprobar el informe anual y demás informes que el Director General eleve a su consideración;
 
-b) Cuando los automóviles circulen para dar una vuelta a la derecha para entrar a otra vía, y también circulen ciclistas cruzando ésta vía.
+V. Facultar al Director General a otorgar o revocar poderes generales o especiales, de acuerdo a la legislación aplicable;
 
-c) Cuando de acuerdo al tiempo del semáforo para circular, no alcancen a cruzar la vía con la luz amarilla de advertencia.
+VI. Autorizar en los términos de la legislación en la materia, la adquisición, arrendamiento o enajenación de bienes que la Junta requiera para la prestación de sus servicios, y
 
-###### ARTÍCULO 11.
+VII. Las demás que establezca la presente Ley, la Ley de las Entidades Públicas Paraestatales del Estado, el Estatuto Orgánico y otras disposiciones legales.
 
-Los ciclistas tienen las siguientes obligaciones:
+#### Sección Segunda. De la Dirección General
 
-l. Conocer y respetar las leyes y reglamentos de tránsito y la presente Ley, las señales de vialidad y las indicaciones del personal de la Dirección de Tránsito Estatal y Municipal.
+###### Artículo 14.
 
-II. La circulación de bicicleta en vías de comunicación, está autorizada para mayores de edad, en el supuesto de que la misma sea conducida por un menor de edad, deberá realizarse bajo la supervisión y vigilancia de un adulto; en caso de inobservancia de esta disposición, la responsabilidad recae en el padre, la madre o tutor del menor de edad.
+El Director General de la Junta será nombrado y removido por el Gobernador del Estado y deberá acreditar los requisitos establecidos en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado y 19 de la Ley de las Entidades Públicas Paraestatales.
 
-III. Circular en el sentido del flujo vehicular y en el carril de extrema derecha, así mismo, cuando rebase lo hará por el carril izquierdo, previa señalización que realice con el brazo a efecto de que los conductores de los automóviles extremen su precaución.
+###### Artículo 15.
 
-IV. Transportar a bordo de la bicicleta sólo el número de personas para las que exista asiento disponible. Cuando un ciclista se transporte con un niño menor de ocho años, deberá hacerlo en un asiento especial.
+Además de las facultades que le confiere el artículo 20 de la Ley de las Entidades Públicas Paraestatales, tendrá las siguientes atribuciones:
 
-V. Respetar las zonas de vialidad reservados a peatones, personas con discapacidad y automóviles.
+I. Administrar y representar legalmente a la Junta;
 
-VI. No sujetarse a un automóvil en circulación al transitar en vía pública;
+II. Organizar, dirigir y evaluar el funcionamiento de la Junta;
 
-VII. Respetar la carga máxima autorizada por el fabricante si cuenta con accesorio para carga o asiento adicional. Cuando circule en horario nocturno utilizará accesorios reflejantes y luces que faciliten su ubicación.
+III. Formular el proyecto de presupuesto de la Junta y presentarlo ante el Consejo Directivo para su aprobación. Una vez aprobado, enviarlo a la Secretaría de Finanzas para su inclusión en la iniciativa de Presupuesto de Egresos del Estado;
 
-VIII. No manejar utilizando teléfono celular, dispositivo de manos libres, aparato reproductor de música con audífonos, en estado de ebriedad o bajo efectos de enervantes, tampoco de manera imprudente;
+IV. Suscribir convenios y contratos relacionados con la competencia de la Junta;
 
-IX. Circular preferentemente por las ciclovias, y en su caso, de forma responsable con los automóviles y el transporte público, en el carril derecho.
+V. Asistir a las sesiones del Consejo Directivo, vigilar el cumplimiento de sus acuerdos y proporcionarle el auxilio el necesario;
 
-X. Para poder circular con bicicleta es indispensable que ésta cuente con:
+VI. Otorgar o revocar poderes generales o especiales, de conformidad con la legislación aplicable;
 
-a) Un sistema de rodamiento, dirección y freno permanente y eficaz;
+VII. Someter a la consideración del Consejo Directivo, los proyectos de Estatuto Orgánico y manuales de la Junta, así como sus reformas y adiciones;
 
-b) Espejo retrovisor, en un lado a lo menos;
+VIII. Proponer al Gobernador del Estado o, en su caso, al Oficial Mayor de Gobierno, el nombramiento o remoción de los servidores públicos de la Junta;
 
-c) Timbre, bocina o similar;
+IX. Promover la realización de cursos, talleres, diplomados, foros, seminarios, congresos y demás eventos relacionados con la competencia del organismo;
 
-d) Que el conductor lleve puesto un casco protector;
+X. Gestionar el otorgamiento de empréstitos y donaciones a favor de la Junta;
 
-e) Que el conductor sea su único ocupante con la excepción del transporte de una carga, o de un acompañante, ubicados en un portaequipaje o asiento especial cuyo peso no ponga en riesgo la maniobrabilidad y estabilidad de la bicicleta;
+XI. Acordar los asuntos de su competencia con los titulares de las unidades administrativas de la Junta, así como conceder audiencias al público;
 
-f) Luces o focos: en la parte delantera deberá estar equipada de un foco o dispositivo que proyecte luz blanca o amarilla y en la parte trasera de un foco o dispositivo que refleje luz roja; para circulación nocturna;
+XII. Rendir al Consejo Directivo, un informe anual sobre la gestión administrativa de la Junta, y
 
-g) Accesorios reflectantes en los bordes de cada pedal y en las horquillas delantera y trasera.
+XIII. Las demás que establezca la presente Ley, la Ley de las Entidades Públicas Paraestatales, el Estatuto Orgánico y otras disposiciones legales.
 
-XI. Las demás que señalen los reglamentos de Tránsito del Estado y gobiernos Municipales.
+### CAPÍTULO IV. DEL PATRIMONIO DE LA JUNTA
 
-## TÍTULO III
+###### Artículo 16.
 
-INFRAESTRUCTURA Y REGISTRO ESTATAL.
+El patrimonio de la Junta estará constituido por:
 
-###### ARTÍCULO 12.
+I. Los recursos que se le asignen en el Presupuesto de Egresos del Estado, así como los transferidos por el Gobierno Federal;
 
-Las Autoridades estatales y municipales fomentaran la creación y adecuación de la infraestructura en las zonas metropolitanas quo (sic) permitan el empleo de la bicicleta como medio de transporte alternativo al automóvil y no contaminante.
+II. Los bienes muebles e inmuebles que le otorgue el Gobierno del Estado;
 
-###### ARTÍCULO 13.
+III. Las donaciones, herencias o legados otorgados a su favor, así como los fondos y fideicomisos en los que tenga el carácter de fideicomisario;
 
-Clasificación de las ciclovias o vías ciclistas:
+IV. Los ingresos que obtenga de los servicios y actividades propias de su objeto, y
 
-l. De uso compartido; Son aquellos carriles de la vía publica destinado al tránsito compartido de bicicletas y transporte público, debidamente serializado, mediante pintura o pavimento especial. Así como, los espacios de la vía pública destinado en forma conjunta por el peatonal y la bicicleta, debidamente señalizado, excluyendo de los mismos las banquetas.
+V. Los demás ingresos, derechos, bienes o productos que obtenga por cualquier título legal.
 
-II. De uso exclusivo; Son las ciclovias o ciclopistas destinadas exclusivamente al tránsito de bicicletas; son espacios independientes y ajenos de otros medios de transporte.
+### CAPÍTULO V. DEL ÓRGANO DE VIGILANCIA DE LA JUNTA
 
-###### ARTÍCULO 14.
+###### Artículo 17.
 
-El Ejecutivo del Gobierno del Estado y los Ayuntamientos, establecerán en su ámbito de competencia, Las sanciones y los plazos, para que la infraestructura existente se adecue a lo previsto en este capítulo.
+El Órgano de Vigilancia de la Junta estará integrado por un Comisario Público propietario y un suplente, mismos que serán designados por el Gobernador del Estado, de conformidad con la Ley Orgánica de la Administración Pública del Estado, la Ley de las Entidades Públicas Paraestatales y el Reglamento Interior de la propia Contraloría.
 
-###### ARTÍCULO 15.
+### CAPÍTULO VI. DEL RÉGIMEN LABORAL DE LA JUNTA
 
-Preferentemente el Ejecutivo del Gobierno del Estado y los Ayuntamientos, fomentaran estacionamientos para bicicletas en la vía pública, mismos que se proyectaran de conformidad a los planes elaborados y/o aprobados por el Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado.
+###### Artículo 18.
 
-### CAPÍTULO I
+Las relaciones de trabajo entre la Junta y sus trabajadores se regirán por la Ley del Servicio Civil del Estado.
 
-INFRAESTRUCTURA VIAL PARA LAS BICICLETAS.
+T R A N S I T O R I O S
 
-###### ARTÍCULO 16.
+Artículo primero.- La presente Ley Orgánica entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-Los Ayuntamientos previo acuerdo de su Cabildo, fomentaran entre los comercios ubicados dentro de su territorio, el otorgamiento de facilidades para que la población que acuda a dichos establecimientos cuente con acceso y estacionamiento para bicicletas.
+Artículo segundo.- Se abroga la Ley que crea la Junta Estatal de Caminos, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 26 de abril de 1986.
 
-### CAPÍTULO II
+Artículo tercero.- Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, deberá quedar conformado el Consejo Directivo.
 
-REGISTRO ESTATAL DE BICICLETAS.
+Artículo cuarto.- El Estatuto Orgánico de la Junta deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días siguientes a la entrada en vigor de este ordenamiento. Los manuales o, en su caso, las reformas a los mismos, deberán publicarse dentro de los noventa días siguientes a la entrada en vigor del citado Estatuto.
 
-###### ARTÍCULO 19.
+Artículo quinto.- Se derogan las disposiciones que contravengan la presente Ley.
 
-El Titular del Poder Ejecutivo a través de la secretaria, implementara en forma gratuita el Registro Estatal de Bicicletas, el cual es voluntario y tiene por objeto contar con un registro e identificación de las bicicletas que circulan en las zonas metropolitanas de nuestra entidad, así como otorgar seguridad y posibilitar la recuperación en caso de pérdida o robo y consistirá en un sistema electrónico con acceso vía web, a través del cual se recabaran en forma confidencial los datos personales del propietario y antecedentes que identifiquen a cada bicicleta.
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO, PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-###### ARTÍCULO 20.
+DADO en la Sala de Sesiones de la Honorable Sexagésima Legislatura del Estado, a los diecisiete días del mes de marzo del año dos mil once.- Diputado Presidente.- JORGE LUIS GARCÍA VERA. Diputadas Secretarias.- ANA MARÍA ROMO FONSECA y MARIVEL LARA CURIEL.- Rubricas.
 
-La Secretaría, una vez recabados los datos que permitan identificar la bicicleta y su propietario, emitirá en forma inmediata y confidencial vía web, un folio de identificación el cual será distinto para a (sic) cada bicicleta, el mismo será gravado en la estructura de la bicicleta por parte de su propietario.
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
-###### ARTÍCULO 21.
+DADO en el Despacho del Poder Ejecutivo del Estado, a los seis días del mes de Mayo del año dos mil once.
 
-La Secretaría, con la colaboración de la Secretaría de Economía y los Ayuntamientos, solicitaran a los comercios que vendan bicicletas, que permanentemente informen a sus clientes la existencia de esta ley así como los derechos y obligaciones que adquieren.
+A t e n t a m e n t e.
 
-## TÍTULO IV
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
-FOMENTO Y PROMOCIÓN DEL USO DE LA BICICLETA.
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
-###### ARTÍCULO 17.
+LIC. MIGUEL ALEJANDRO ALONSO REYES.
 
-El transporte público de pasajeros, con excepción de los vehículos de alquiler, podrá contar con mecanismos o accesorios, que permitan transportar hasta cinco bicicletas por unidad.
+SECRETARIO GENERAL DE GOBIERNO
 
-### CAPÍTULO ÚNICO
+ESAÚ HERNÁNDEZ HERRERA
 
-FOMENTO Y PROMOCION.
+DIRECTOR DE LA JUNTA ESTATAL DE CAMINOS
 
-###### ARTÍCULO 22.
+ING. JORGE LUIS RINCÓN GÓMEZ
 
-El Titular del Poder Ejecutivo, a través de las Secretaría de Transporte y Vialidad, Secretaría de las Infraestructuras, la Secretaría de Salud, Secretaría de Cultura y Artes, Instituto Estatal de Ecología y desarrollo sustentable, Instituto del Deporte, Instituto Estatal de Educación Pública, Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado, Coordinación de Comunicación Social; la creación de programas para el fomento y promoción del uso de la bicicleta bajo los principios rectores señalados en el artículo 5 de esta Ley.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 23.
+P.O. 4 DE AGOSTO DE 2012.
 
-Los Ayuntamientos, crearán programas y campañas de promoción permanentes de educación vial que fomenten el uso de la bicicleta como medio alternativo al automóvil y no contaminante, y la cultura de respeto a los ciclistas.
+Artículo Primero.- La presente Ley entrará en vigor a partir del primero de enero del año dos mil trece.
 
-## TRANSITORIOS
+Artículo Segundo.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Zacatecas, publicada en Suplemento número 2 al 105 del Periódico Oficial, Órgano del Gobierno del Estado mediante el Decreto 205, de fecha 30 de diciembre del 2000, así como todas aquellas disposiciones que se opongan a la presente Ley.
 
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del gobierno del estado.
+Artículo Tercero.- Se abroga la Ley Orgánica de la Junta Estatal de Caminos, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha dieciocho de junio de dos mil once mediante el Decreto número 145, ordenamiento a través del cual se crea el organismo público denominado Junta Estatal de Caminos.
 
-SEGUNDO.- La aplicación de ésta Ley, estará sujeta a la implementación de la reforma y actualización de la Ley y Reglamento de Tránsito vigentes, por ende, los Poderes Legislativo y Ejecutivo, deben elaborar las mismas dentro de seis meses contados a partir de la fecha de la publicación de la presente Ley, dichas reformas deberán normar la circulación de la bicicleta, en las vías de comunicación.
+Artículo Cuarto.- Se deroga el Capítulo Tercero de la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha cinco de noviembre de dos mil cinco.
 
-TERCERO.- El titular del Poder Ejecutivo, contará con un plazo de 120 días naturales, para elaborar un programa de fomento y promoción del uso de la bicicleta como medio de transporte alternativo y no contaminante.
+Artículo Quinto.- Se deroga el Capítulo Tercero del Título Primero de la Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha trece de agosto de mil novecientos noventa y cuatro.
 
-CUARTO.- Los Ayuntamientos del Estado cuentan con 180 días naturales para adecuar o en su caso elaborar, autorizar y expedir la reglamentación administrativa respectiva.
+Artículo Sexto.- Se derogan los artículos del 36 al 40 del Código Urbano del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado el día once de septiembre de mil novecientos noventa y seis mediante el Decreto número 81.
 
-QUINTO.- El ejecutivo del estado a través de su Secretaria contará con un plazo de 280 días contado a partir de la publicación de la presente, para implementar el Registro Estatal de Bicicletas.
+Artículo Séptimo.- Se abroga el Decreto número 76 mediante el cual se crea el Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha diez de julio de mil novecientos noventa y nueve.
 
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+Artículo Octavo.- Se abroga el Decreto número 112 mediante el cual se crea el Instituto de Desarrollo Artesanal del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha veintinueve de diciembre de mil novecientos noventa y nueve.
 
-DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 31 de octubre de 2013.
+Artículo Noveno.- Se abroga la Ley del Instituto para las Mujeres Zacatecanas, publicada en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha cuatro de abril de dos mil siete, mediante el decreto número 438; y las atribuciones pasarán a la Secretaría de las Mujeres.
 
-DIP. MAXIMINO VARGAS BETANZOS.
+Artículo Décimo.- Se abroga la Ley del Instituto de la Juventud del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha once de enero de dos mil tres, mediante el decreto número 188.
 
-PRESIDENTE.
+Artículo Décimo Primero.- Al inicio de vigencia del presente Decreto, se realizarán las siguientes transferencias de personal, recursos financieros y materiales:
 
-DIP. GUILLERMO BERNAL GÓMEZ.
+a) De la Junta Estatal de Caminos, a la Secretaría de Infraestructura;
 
-SECRETARIO.
+b) De la Comisión Estatal para la Integración Social de las Personas con Discapacidad, a la Secretaría de Desarrollo Social;
 
-DIP. CLARIVEL CONSTANZA RIVERA CASTILLO.
+c) De la Comisión Estatal de Agua Potable y Alcantarillado, a la Secretaría del Agua y Medio Ambiente, así como a la Secretaría de Infraestructura, según corresponda;
 
-SECRETARIA.
+d) Del Consejo Promotor de la Vivienda Popular, a la Secretaría de Infraestructura;
 
-DIP. MARGARITA GARCÍA GARCÍA.
+e) Del Instituto de Desarrollo Artesanal del Estado de Zacatecas, a la Secretaría de Economía;
 
-SECRETARIA.
+f) Del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas a la Secretaría del Agua y Medio Ambiente;
 
-Par lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+g) Del Instituto para las Mujeres Zacatecanas, a la Secretaría de las Mujeres, y
 
-Palacio de Gobierno, Centro, Oax., a 12 de noviembre del 2013.
+h) Del Instituto de la Juventud del Estado de Zacatecas, a la Secretaría de Desarrollo Social.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+Artículo Décimo Segundo.- Los acuerdos y convenios celebrados, los derechos y procedimientos que hubieren adquirido, suscrito o desarrollado las dependencias y entidades que se extinguen en virtud del presente Decreto, así como las atribuciones que otras leyes les asignen, serán asumidos por las dependencias facultadas para ello en la presente Ley.
 
-LIC. GABINO CUÉ MONTEAGUDO.
+Artículo Décimo Tercero.- Las obligaciones laborales de cada entidad o dependencia que se extingue, serán asumidas por la dependencia o entidad respectiva en términos de esta Ley, respetando los derechos de los trabajadores y las disposiciones legales aplicables.
 
-EL SECRETARIO GENERAL DE GOBIERNO.
+De acuerdo con las necesidades institucionales, los titulares de las dependencias podrán determinar, conjuntamente con las Secretarías de Finanzas, de Administración y de la Función Pública, las transferencias de personal, su reubicación en otras dependencias o entidades y en su caso la terminación de la relación laboral.
 
-LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+Artículo Décimo Cuarto.- El Gobernador del Estado deberá expedir los reglamentos interiores de las dependencias a que se refiere el presente ordenamiento, dentro del plazo de noventa días naturales contados a partir del inicio de vigencia de este Decreto.
 
-Y lo comunico a usted, para su conocimiento y fines consiguientes.
+Artículo Décimo Quinto.- Las Secretaría de Finanzas, de la Función Pública y de Administración, serán las facultadas para dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada dependencia.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.
+Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
 
-“EL RESPETO AL DERECHO AJENO ES LA PAZ”
-
-Tlalixtac de Cabrera, Centro, Oax., a 12 de noviembre del 2013.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
-
-###### ARTÍCULO 18.
-
-Toda remodelación vial que se realice para mejorar la (sic) entre los territorios de los municipios que integran las zonas metropolitanas de la entidad, previa aprobación de las autoridades competentes, deberá considerar la inclusión de la vía ciclista y señalamientos necesarios para el tránsito de las unidades que por ellas transiten.
+Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
