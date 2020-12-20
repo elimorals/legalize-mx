@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-profesionalizacion-docente-del-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-16"
-last_updated: "2017-11-16"
+last_updated: "2020-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "DUR"
 ---
 # LEY QUE CREA EL INSTITUTO DE PROFESIONALIZACION DOCENTE DEL ESTADO DE DURANGO
 
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 472.- POR EL QUE SE ABROGA LA LEY QUE CREA EL INSTITUTO DE PROFESIONALIZACIÓN DOCENTE DE DURANGO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
 LEY DEL INSTITUTO DE PROFESIONALIZACIÓN DOCENTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el jueves 16 de noviembre de 2017.
 
@@ -376,3 +380,61 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NO. 472 QUE SE RELACIONA CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley que Crea el Instituto de Profesionalización Docente del Estado de Durango.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 472.- POR EL QUE SE ABROGA LA LEY QUE CREA EL INSTITUTO DE PROFESIONALIZACIÓN DOCENTE DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 01 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se extingue el Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto serán concluidos por los titulares de las unidades administrativas del Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, responsables de las mismas, conforme a las disposiciones jurídicas aplicables.
+
+CUARTO.- La Junta de Gobierno del Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, continuará en funciones hasta que inicie el proceso de liquidación del organismo.
+
+QUINTO.- Una vez concluidos los asuntos señalados en el artículo Transitorio Tercero del presente decreto, iniciará el proceso de liquidación.
+
+SEXTO.- La liquidación del Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, estará a cargo de un liquidador nombrado por la Secretaría de Finanzas y de Administración del Gobierno del Estado de Durango, para lo cual tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+SÉPTIMO.- El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo.
+
+II. Someter a dictamen del auditor designado por la Secretaría de Contraloría, los estados financieros inicial y final de liquidación.
+
+III. Informará mensualmente a las Secretarías de Finanzas y de Administración y de Contraloría sobre el avance y estado que guarde el proceso.
+
+IV. Llevará a cabo la entrega de los bienes propiedad del Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial.
+
+V. Transferir en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+VI. Se apegará a los acuerdos que emita el Gobierno del Estado de Durango, mediante los entes gubernamentales que se designen para tal efecto, y
+
+VII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de un año.
+
+OCTAVO.- A partir de la entrada en vigor del presente decreto, se tendrá por concluida la relación jurídico-laboral entre el organismo y los trabajadores de este, salvo los servidores públicos responsables de los asuntos señalados en el artículo Transitorio Tercero del presente instrumento jurídico, quienes serán considerados trabajadores transitorios.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+NOVENO.- Los Juicios Promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables a la Secretaría de Educación.
+
+DÉCIMO.- Las funciones que desempeñaba como tal el Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, serán asumidas a partir de la entrada en vigor del presente decreto por la Secretaría de Educación.
+
+DÉCIMO PRIMERO.- La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente decreto.
+
+DÉCIMO SEGUNDO.- Dentro del plazo no mayor a 30 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
+
+DÉCIMO TERCERO.- El Titular del Organismo Público Descentralizado denominado Instituto de Profesionalización Docente del Estado de Durango, inscribirá la extinción de dicho Organismo en la Dirección del Registro Público de la Coordinación General de Normatividad, Registro y Seguimiento de Entidades Paraestatales.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
