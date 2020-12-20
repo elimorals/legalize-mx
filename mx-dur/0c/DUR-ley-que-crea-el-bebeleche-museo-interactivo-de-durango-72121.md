@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-bebeleche-museo-interactivo-de-durango-72121"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2017-11-16"
+last_updated: "2020-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 470.- POR EL QUE SE ABROGA LA LEY QUE CREA EL "BEBELECHE" MUSEO INTERACTIVO DE DURANGO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -558,3 +560,53 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 470.- POR EL QUE SE ABROGA LA LEY QUE CREA EL "BEBELECHE" MUSEO INTERACTIVO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 01 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se extingue el Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto serán concluidos por los titulares de las unidades administrativas del “Bebeleche Museo Interactivo de Durango”, responsables de las mismas, conforme a las disposiciones jurídicas aplicables.
+
+CUARTO.- El Consejo Directivo del Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, continuará en funciones hasta que inicie el proceso de liquidación del organismo.
+
+QUINTO.- Una vez concluidos los asuntos señalados en el artículo tercero transitorio del presente decreto, iniciará el proceso de liquidación.
+
+SEXTO.- La liquidación del “Bebeleche Museo Interactivo de Durango”, estará a cargo de un liquidador nombrado por la Secretaría de Finanzas y de Administración del Gobierno del Estado de Durango, para lo cual tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+SÉPTIMO.- El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo;
+
+II. Someter a dictamen del auditor designado por la Secretaría de Contraloría, los estados financieros inicial y final de liquidación;
+
+III. Informará mensualmente a las Secretarías de Finanzas y de Administración y de Contraloría, sobre el avance y estado que guarde el proceso;
+
+IV. Llevará a cabo la entrega de los bienes propiedad del Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial;
+
+V. Transferirá en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado;
+
+VI. Se apegará a los acuerdos que emita el Gobierno del Estado de Durango, mediante los entes gubernamentales que se designen para tal efecto; y
+
+VII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de un año.
+
+OCTAVO.- A partir de la entrada en vigor del presente decreto en el Periódico Oficial del Gobierno del Estado de Durango, se tendrá por concluida la relación jurídico-laboral entre el organismo y los trabajadores de este, salvo los servidores públicos responsables de los asuntos señalados en el artículo transitorio tercero del presente instrumento jurídico, quienes serán considerados trabajadores transitorios.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+NOVENO.- Los Juicios Promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables a la Secretaría de Turismo.
+
+DÉCIMO.- Las funciones que desempeñaba como tal el Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, serán asumidas a partir de la entrada en vigor del presente decreto por la Secretaría de Turismo.
+
+DÉCIMO PRIMERO.- La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente decreto.
+
+DÉCIMO SEGUNDO.- Dentro del plazo no mayor a 30 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
+
+DÉCIMO TERCERO.- El Titular del Organismo Público Descentralizado denominado “Bebeleche Museo Interactivo de Durango”, inscribirá la extinción de dicho Organismo en la Dirección del Registro Público de la Coordinación General de Normatividad, registro y Seguimiento de Entidades Paraestatales.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
