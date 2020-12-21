@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2020-03-30"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE MARZO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO 390 PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -1007,13 +1005,11 @@ c) Emitir informes sobre el desempeño de los programas, el cumplimiento de meta
 
 d) Recibir, interponer y dar seguimiento a las quejas y denuncias presentadas ante la autoridad competente, sobre la aplicación y ejecución de los programas.
 
-(NOTA: EL 27 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE FEBRERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 80 Ter.
 
-Quienes conformen los Comités de Contraloría Social deberán ser ciudadanos residentes y beneficiarios del lugar donde se aplica el programa social, SIN ANTECEDENTES PENALES, definiéndose en el Reglamento de la presente Ley y en las reglas de operación del programa correspondiente, las bases para su elección, conformación e integración.
+Quienes conformen los Comités de Contraloría Social deberán ser ciudadanos residentes y beneficiarios del lugar donde se aplica el programa social, definiéndose en el Reglamento de la presente Ley y en las reglas de operación del programa correspondiente, las bases para su elección, conformación e integración.
 
 ###### Artículo 81.
 
@@ -1200,3 +1196,9 @@ P.O. 23 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN Y EL PÁRRAFO TERCERO DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL, AMBAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 523 QUE REFORMA EL ARTÍCULO 80 TER DE LA LEY DESARROLLO SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE CONTRALORÍA SOCIAL".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
