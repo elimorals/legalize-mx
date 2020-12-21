@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2020-06-29"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -105,9 +105,9 @@ XXI.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste 
 
 Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Fondo de Fiscalización y Recaudación, del Fondo de Compensación del Régimen de Incorporación Fiscal, del Impuesto a la Gasolina y Diesel, del Impuesto Sobre la Renta Participable, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como del artículo 126, de la Ley del Impuesto Sobre la Renta, en términos de lo dispuesto por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el 23% del Impuesto Sobre la Renta por enajenación de bienes inmuebles en el territorio del Estado, en proporción al porcentaje que éste reciba, de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
+A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, el 23% del Fondo de Compensación de (sic) Impuesto sobre Automóviles Nuevos, el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el 23% del Impuesto Sobre la Renta por enajenación de bienes inmuebles en el territorio del Estado, en proporción al porcentaje que éste reciba, de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
@@ -566,3 +566,11 @@ Por lo que respecta al 23% proporcional del Impuesto Sobre la Renta por enajenac
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 443.- REFORMAS A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
