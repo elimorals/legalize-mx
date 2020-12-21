@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-impulso-al-conocimiento-y-a-la-innovacion-70594"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-28"
-last_updated: "2010-12-24"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE IMPULSO AL CONOCIMIENTO Y A LA INNOVACION TECNOLOGICA PARA EL DESARROLLO DEL ESTADO DE NUEVO LEON
 
-LEY DE IMPULSO AL CONOCIMIENTO Y A LA INNOVACION TECNOLOGICA PARA EL DESARROLLO DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+LEY DE IMPULSO AL CONOCIMIENTO Y A LA INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de septiembre de 2009.
 
@@ -996,3 +998,19 @@ ROBERTO CANTÚ FLORES
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 259. SE EXPIDE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para el Impulso al Conocimiento y a la Innovación Tecnológica para el Desarrollo del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 28 de septiembre de 2009 y todas sus reformas.
+
+TERCERO.- Quedan abrogadas todas las disposiciones que se opongan a la presente.
+
+CUARTO.- El reglamento de esta Ley deberá expedirse en un plazo que no excede de 180 días hábiles contados a partir de la fecha en que entre en vigor la presente Ley.
+
+QUINTO.- El Consejo General formulará y aprobará el Programa de Ciencia, Tecnología e Innovación de Nuevo León dentro de los siguientes seis meses, contados a partir de la fecha de su reinstalación.
+
+SEXTO.- La Junta de Gobierno del I2T2, deberá de emitir en un plazo de 90 días un nuevo Reglamento Interior del Instituto acorde con los objetivos de la presente Ley.
