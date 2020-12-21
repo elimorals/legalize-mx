@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2017-07-03"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -73,9 +75,9 @@ Sólo por Ley se puede:
 
 I.- Crear, modificar o suprimir contribuciones, definir el objeto de la contribución, fijar la tasa, cuota o tarifa de la contribución, la base para su cálculo o indicar el respectivo sujeto pasivo, así como el plazo o periodo de pago.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II.- Otorgar la facultad para conceder exenciones.
+II.- Conceder exenciones.
 
 III.- Tipificar infracciones y establecer las respectivas sanciones.
 
@@ -159,31 +161,33 @@ Los accesorios de las contribuciones y de los aprovechamientos, son los recargos
 
 Son impuestos las prestaciones en dinero o en especie que fija la ley con carácter general y obligatorio a cargo de personas físicas y morales, cuya situación coincida con la que la Ley señala, como hecho generador de la obligación tributaria, para cubrir los gastos públicos y demás obligaciones a cargo del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+ARTICULO12 BIS. - (DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
-ARTICULO 12 BIS.- Son ingresos por venta de bienes y servicios, los recursos propios que obtienen por sus actividades de producción y/o comercialización, las diversas entidades que conforman el sector paraestatal y gobierno central.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 13.
 
-Son derechos las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado o sus organismos públicos descentralizados u órganos desconcentrados, en sus funciones de derecho público.
+Son derechos las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las disposiciones fiscales del Estado.
+
+También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 14.
 
-Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público y por la explotación o venta de sus bienes patrimoniales.
+Son productos los ingresos por contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 15.
 
-Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamiento, y de los que obtengan las empresas de participación estatal y organismos descentralizados, salvo que en este último caso se encuentren previstos como tales en este Código, así como los demás ingresos a que se refiere el Artículo 83 de la Ley de Hacienda del Estado de Aguascalientes.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de: las contribuciones, los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 16.
 
-Las contribuciones de mejoras son aquellas contribuciones establecidasen (sic) las Leyes a cargo de personas físicas y morales que se beneficien de manera directa por obras públicas.
+Las contribuciones de mejoras son las establecidas en (sic) Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -739,25 +743,39 @@ Lo dispuesto en este artículo no afecta los términos o plazos establecidos par
 
 La compensación entre el Estado por una parte, la Federación y demás Entidades y Municipios por la otra, podrá operar respecto a cualquier clase de créditos o deudas, si unos y otros son líquidos y exigibles y sólo si existe acuerdo al respecto entre las partes interesadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 50.
 
-Cuando la compensación se trate de créditos fiscales a cargo de los contribuyentes, se hará por acuerdo del Secretario de Finanzas del Estado, a petición del contribuyente, quienes previa solicitud que formule a la autoridad fiscal y, sólo en caso de resolución favorable que la misma le otorgue, procederá a compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, así como cantidades a cargo de un tercero, siempre que deriven de una misma contribución o un mismo aprovechamiento.
+Cuando la compensación se trate de créditos fiscales a cargo de los contribuyentes, podrá hacerse de oficio por las autoridades fiscales del Estado en los términos establecidos en el párrafo sexto del presente artículo o a petición del contribuyente, previa solicitud que formule a la autoridad fiscal y, sólo en caso de resolución favorable que la misma le otorgue, procederá a compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o retención de terceros, así como cantidades a cargo de un tercero.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Una vez efectuada la compensación a que se refiere el párrafo anterior, si resulta un remanente de saldo a favor, éste se podrá compensar en las declaraciones correspondientes a los meses o períodos posteriores, o bien solicitar su devolución.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 No será procedente la devolución de las cantidades determinadas a favor de los contribuyentes en las declaraciones cuya compensación se hubiera efectuado.
 
-Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 46 de este Código sobre las cantidades compensadas indebidamente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 46 de este Código, sobre las cantidades compensadas indebidamente y actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada, conforme lo dispone el artículo 40 BIS de este Código.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 No se podrán compensar las cantidades cuando haya prescrito la obligación para devolverlas.
 
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 100 de este Código, aun cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Se entenderá que es una misma contribución o aprovechamiento si se trata del mismo impuesto, contribución de mejoras, derechos o aprovechamientos, con independencia de que se paguen mediante declaración o cualquier otro formato para trámite de pago.
+Para los efectos de este Artículo, se podrá compensar las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros o respecto de las que tengan derecho a recibir de las autoridades fiscales por cualquier concepto, cuando éstos hayan quedado firmes por cualquier causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 100 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada. La compensación de oficio se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. En este caso se notificará personalmente al contribuyente la resolución que determine la compensación.
+
+> <small>(DEROGADA SÉPTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar, sólo se causarán recargos por el período comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar.
 
@@ -801,17 +819,23 @@ El plazo para que se configure la prescripción, en ningún caso, incluyendo cua
 
 Para el caso de las solicitudes de devolución, se entenderá como gestión de cobro para efectos de la interrupción del plazo correspondiente, la solicitud de devolución debidamente presentada por los contribuyentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 54.
 
-Procederá la cancelación de los créditos fiscales:
+Procederá la cancelación administrativa de los créditos fiscales, sin que ello implique la pérdida del derecho de la autoridad fiscal para hacerlos efectivos, en los casos siguientes:
 
-I.- Cuando no puedan hacerse efectivos porque hubiere resultado imposible localizar a los deudores. Sin embargo, no se aplicará esta disposición cuando el fisco tenga acción real para hacer efectivos dichos créditos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+I.- Cuando no puedan hacerse efectivos porque el deudor no se encuentra localizable en su domicilio fiscal, esto es, porque desocupe o abandone el mismo sin presentar el aviso correspondiente; haya desaparecido, o se ignore su domicilio;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
 II.- Cuando los sujetos del crédito sean insolventes, previa comprobación de esta circunstancia por la Secretaría de Finanzas.
 
-III.- Cuando su importe sea menor de $100.00 y no se pague dentro de los noventa días siguientes en que la Dependencia Recaudadora haya exigido el pago; pero si existieren varios créditos menores de $100.00 a cargo de un solo deudor, procederá la acumulación de los mismos para los efectos de cobro.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III.- Cuando su importe sea inferior o igual al equivalente en moneda nacional al valor diario de 7 unidades de medida y actualización a la fecha de la cancelación y no se pague dentro de los noventa días siguientes a aquél en que el crédito haya quedado firme y sea exigible, pero si existieren varios créditos cuyo importe sea inferior o igual al equivalente en moneda nacional a 7 unidades de medida y actualización a cargo de un solo deudor, procederá la acumulación de los mismos para los efectos de cobro.
 
 IV.- Por incosteabilidad del cobro.
 
@@ -819,29 +843,33 @@ IV.- Por incosteabilidad del cobro.
 
 La Secretaría de Finanzas podrá cancelar los créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Para que un crédito sea considerado incosteable la autoridad fiscal atenderá a los siguientes conceptos: monto del crédito, costo de las acciones de recuperación, antigüedad del crédito y probabilidad del cobro, conforme a las reglas de carácter general que para el efecto emita la Secretaría de Finanzas.
+Se considerarán créditos de cobro incosteables:
+
+a) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional al valor diario de 7 unidades de medida y actualización; y
+
+b) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional al valor diario de 50 unidades de medida y actualización y cuyo costo de recuperación rebase el 75% del importe del crédito, en este caso, será considerado incosteable por la autoridad fiscal atendiendo a los siguientes conceptos: monto del crédito, costo de las acciones de recuperación, antigüedad del crédito y probabilidad del cobro.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere la fracción III y tercer párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Para cancelar los créditos fiscales a que se refiere este precepto, el Secretario de Finanzas deberá dictar, en cada caso, resolución debidamente fundada y motivada, con lo cual el contribuyente queda liberado de la obligación del pago del crédito fiscal.
+La cancelación de los créditos a que se refiere este artículo deberá efectuarse por ejercicio y no libera de su pago, siempre y cuando el fisco tenga derecho a hacer efectivos dichos créditos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Los requisitos para llevar a cabo la cancelación de créditos fiscales a que se refiere este artículo, se establecerán en reglas de carácter general, aprobadas por el Secretario de Finanzas del Estado y que se publicarán en el Periódico Oficial del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 55.
 
-No se otorgará condonación de ningún tributo, ni de sus accesorios en favor de persona alguna.
+No se otorgará condonación de ningún impuesto, en favor de persona alguna.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2043,7 +2071,9 @@ III.- Señalar lugar y fecha de emisión.
 
 IV.- Estar fundado y motivado y expresar la resolución, causa, objeto o propósito de que se trate, y
 
-V.- Ostentar la firma autógrafa del funcionario competente que lo emite y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de actos administrativos que consten en documentos digitales y otorguen beneficios al particular, deberán contener la firma electrónica, la que tendrá el mismo valor que la firma autógrafa.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V.- Ostentar la firma autógrafa del funcionario competente que lo emite y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de actos administrativos que consten en documentos digitales, deberán contener la firma electrónica, la que tendrá el mismo valor que la firma autógrafa.
 
 Si se trata de actos administrativos que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
@@ -2115,9 +2145,19 @@ XI.- Revisar las declaraciones que en los términos de este Código se presenten
 
 XII.- Verificar previamente a la realización de las diversiones y espectáculos públicos y celebración de loterías, rifas, sorteos, concursos y juegos con apuestas, según el caso, que se cuente con las licencias, permisos o autorizaciones de las autoridades competentes en los términos de este Código, y en caso de no exhibirse éstos, se hará del conocimiento a dichas autoridades para los efectos legales a que haya lugar.
 
-XIII.- Verificar el número de personas que ingresan a las diversiones y espectáculos públicos, así como el valor que se perciba y la forma en que se manejan los boletos, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Verificar el número de personas que ingresan a las diversiones y espectáculos públicos, así como el valor que se perciba y la forma en que se manejan los boletos.
 
 XIV.- Presenciar la celebración de loterías, rifas, sorteos, concursos y juegos con apuestas y verificar los ingresos que se perciban.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XV.- Realizar la inscripción o actualización en el Padrón de Contribuyentes del Estado basándose en los datos que las personas le proporcionen de conformidad con este artículo u otro medio legal; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XVI. Corregir los datos del Padrón de Contribuyentes del Estado con base en evidencias que recabe, incluyendo aquéllas proporcionadas por terceros.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2661,9 +2701,13 @@ II.- Por el aseguramiento en cualquiera de los casos que previene el Artículo 1
 
 III.- Por la de remate, enajenación fuera del remate o adjudicación.
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el salario mínimo que disponga la Ley de Ingresos del Estado vigente, se cobrará esa cantidad en lugar del 2% establecido.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 salarios mínimos que disponga la Ley de Ingresos del Estado vigente.
+Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente, se cobrará esa cantidad en lugar del 2% establecido.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público de la Propiedad y del Comercio del Estado que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, de los peritos, de los interventores, así como los honorarios de las personas que se contraten para tal efecto, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -3918,3 +3962,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 440.- REFORMAS Y DEROGACIONES AL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
