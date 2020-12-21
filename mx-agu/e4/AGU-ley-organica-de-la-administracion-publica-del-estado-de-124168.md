@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2019-11-28"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -715,7 +715,9 @@ c) Los procesos y mecanismos de control del gasto público para las Dependencias
 
 d) Realización de pagos conforme a los programas y presupuestos aprobados;
 
-XXVIII.- Presentar al Gobernador del Estado para su acuerdo, la cancelación de cuentas incobrables o incosteables a favor del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXVIII.- Realizar y presentar anualmente al Gobernador del Estado para su conocimiento, la cancelación de cuentas incobrables o incosteables a favor del Estado, así como de los créditos fiscales por incosteabilidad en el cobro o por insolvencia del deudor o responsable solidario;
 
 XXIX.- Establecer las políticas, lineamientos, normas y reglas sobre los subsidios que conceda el Poder Ejecutivo, a través de sus Dependencias o Entidades, a instituciones o personas físicas o morales;
 
@@ -2410,3 +2412,15 @@ El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes,
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 440.- REFORMAS Y DEROGACIONES AL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
