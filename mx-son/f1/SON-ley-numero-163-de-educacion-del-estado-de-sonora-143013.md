@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2020-05-15"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -307,9 +307,17 @@ XL.- Promover la cultura de prevención de las enfermedades crónico degenerativ
 
 XLI.- Inculcar el valor del respeto y protección de la vida animal;
 
-XLII.- Inculcar y fortalecer la cultura del cuidado del agua y su uso responsable; y
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XLIII.- Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Sonora.
+XLII.- Inculcar y fortalecer la cultura del cuidado del agua y su uso responsable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XLIII.- Promover la vinculación de las Instituciones de Educación Superior con su entorno social a fin de propiciar el desarrollo de éste y el mejoramiento en la calidad de vida de sus habitantes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XLIV.- Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Sonora.
 
 Criterios de la Educación
 
@@ -683,6 +691,88 @@ IV.- Realizar y analizar estudios para emitir opinión sobre la factibilidad y p
 
 V.- Participar en los procesos para el otorgamiento de Validez Oficial de Estudios en los términos que establezca la normatividad aplicable.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Vinculación de la Educación Superior con la Sociedad
+
+Artículo 47 BIS.- Las Instituciones de Educación Superior se deberán vincular con su entono (sic) social a fin de propiciar el desarrollo de éste y el mejoramiento en la calidad de vida.
+
+La Secretaría, en coordinación con las dependencias de la administración pública estatal, escuchando la opinión de las Instituciones de Educación Superior, promoverá la vinculación mediante planes y acciones en lo científico, tecnológico, social, cultural, emprendedor, artístico, deportivo y demás que resulten pertinentes.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El Consejo Estatal de Vinculación
+
+Artículo 47 BIS 1.- La Secretaría promoverá la vinculación a que se refiere el artículo 47 BIS, mediante la conformación de un Consejo Estatal de Vinculación que integrará representantes del sector educativo, gubernamental, social, cultural y empresarial.
+
+Los cargos de los integrantes de la Comisión serán honoríficos, por lo cual no tendrán derecho a remuneración alguna, y cuya duración del cargo será de 3 años, con la posibilidad de ser invitados a participar por otro periodo igual.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Objetivos del Consejo Estatal de Vinculación
+
+Artículo 47 BIS 2.- El Consejo Estatal de Vinculación tiene los siguientes objetivos:
+
+I.- Operar como vínculo entre los diversos sectores, a fin de priorizar estrategias y acciones para la articulación efectiva del quehacer de las Instituciones de Educación Superior.
+
+II.- Recomendar políticas públicas estatales en materia de vinculación;
+
+III.- Definir las prioridades de acción y construir acuerdos, que permitan avanzar hacia la articulación sobre el quehacer de las Instituciones de Educación Superior y de los sectores;
+
+IV.- Alentar la formación de alianzas estratégicas;
+
+V.- Promover la generación de un pensamiento crítico en los estudiantes y fomentar en estos la creatividad y la innovación;
+
+VI.- Impulsar una educación que contribuya a la formación de estudiantes preparados para los grandes cambios que se presentan en la actualidad;
+
+VII.- Fomentar una cultura de la innovación basada en la ciencia y la tecnología para contribuir efectivamente en la transformación de su entorno, así como encontrar solución a las distintas problemáticas regionales, nacionales e internacionales;
+
+VIII.- Fomentar en los estudiantes de todos los niveles una cultura de responsabilidad social y conciencia hacia el medio ambiente;
+
+IX.- Promover la articulación entre los niveles educativos de Educación Básica, Media Superior y Superior;
+
+X.- Proponer y promover el reforzamiento de los programas encaminados a brindar orientación vocacional a los estudiantes;
+
+XI.- Proponer y promover en la medida de lo posible, la compatibilidad de los planes de estudio de las instituciones educativas de la Entidad, con los de instituciones educativas de distintos países, teniendo como fin el logro de una Certificación de Competencias multinacionales;
+
+XII.- Posicionar a la Entidad como el promotor de capital humano del país en carreras relacionadas con las necesidades reales de los sectores productivos, y
+
+XIII.- Las demás que le deriven de la Ley y demás disposiciones legales.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Atribuciones del Consejo Estatal de Vinculación
+
+Artículo 47 BIS 3.- El Consejo Estatal de Vinculación tendrá las siguientes atribuciones:
+
+I.- Evaluar los planes y programas de estudio con el fin (sic) revisar sus alcances y determinar las áreas de mejora de los mismos;
+
+II.- Formar comisiones especiales para la evaluación y análisis de la pertinencia de los planes y programas de estudio, así como emitir opinión sobre las propuestas de nuevas carreras en función de las vocaciones productivas regionales y de los sectores estratégicos para el desarrollo de la Entidad, así como de la necesidad de dar solución a problemáticas sociales apremiantes;
+
+III.- Proponer a la autoridad educativa competente, los cambios que considere necesarios en los planes y programas de estudio con el fin de que estos den respuesta a las necesidades de las diferentes industrias regionales, nacionales e internacionales, y coadyuven en la solución de problemáticas sociales apremiantes;
+
+IV.- Coadyuvar con la autoridad educativa competente, cuando esta se lo solicite, en la formulación de programas educativos afines con su objeto:
+
+V.- Proponer políticas orientadas a la vinculación de la academia con los sectores productivos y sociales, así como participar, cuando se le solicite, en el rediseño y reconducción de las políticas existentes;
+
+VI.- Identificar programas exitosos en otras regiones o países y proponerlos a la autoridad educativa competente y/o a cualquier otra dependencia estatal y coadyuvar, si le fuera solicitado, en su implementación;
+
+VII.- Promover y proponer ante los distintos niveles de gobierno y la iniciativa privada, la inversión en la infraestructura necesaria para la creación de Centros de Desarrollo de las habilidades para estudiantes, los cuales deberán fomentar la creatividad y la innovación, así como el gusto por la ciencia y la tecnología y en general, cualquier otra inversión necesaria para la consecución de sus objetivos;
+
+VIII.- Promover las habilidades de los estudiantes y egresados en las distintas regiones del país ante los inversionistas nacionales y extranjeros;
+
+IX.- Establecer una relación de colaboración con las dependencias y entidades gubernamentales y las instituciones públicas o privadas relacionadas con la educación;
+
+X.- Fungir como vínculo entre los sectores educativo, productivo y social con la finalidad de recabar sus opiniones e inquietudes y transmitirlas en las propuestas de modificaciones a los planes y programas de estudio, logrando con ello formar profesionistas adecuados a las necesidades de los sectores productivos regionales, nacionales e internacionales, así como capaces de plantar soluciones a problemáticas sociales apremiantes; y
+
+XI.- Promover en el sector educativo la implementación de programas de capacitación, formación y certificación para los trabajadores en activo.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Colaboración con el Consejo Estatal de Vinculación
+
+Artículo 47 BIS 4.- La Secretaría y los organismos públicos relacionados con el desarrollo económico del Estado, coadyuvarán con el Consejo Estatal de Vinculación en todo lo necesario para su funcionamiento y el cumplimiento de su objeto y fines. El funcionamiento e integración del Consejo Estatal de Vinculación se establecerá en las disposiciones e instrumentos que para tal efecto emita la Secretaría y la Ley de la materia.
+
 ### Capítulo V. Del fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación
 
 Derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación
@@ -715,7 +805,7 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 (NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Objeto de la educación indígena
+Objto de la educación indígena
 
 ###### Artículo 51.
 
@@ -1021,9 +1111,17 @@ XXIII.- La enseñanza de la música para potencializar el desarrollo cognitivo y
 
 XXIV.- Aprendizaje en las tecnologías de la información y comunicación;
 
-XXV.- El fomento de los principios básicos de seguridad y educación vial; y
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXVI.- Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+XXV.- El fomento de los principios básicos de seguridad y educación vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXVI.- El Fomento a la cultura de la prevención del delito, con la finalidad de permitir que la sociedad se desarrolle en un ambiente armónico y seguro, que permita el bienestar y desarrollo pleno; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXVII.- Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo III. De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el proceso educativo
 
@@ -1273,15 +1371,33 @@ Protocolos para el fomento de la cultura de la paz y no violencia
 
 La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
-### Capítulo I. Del magisterio como agente fundamental en el proceso educativo
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Revalorización de las maestras y los maestros
+### Capítulo IV. De la movilidad académica o estudiantil
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Movilidad académica o estudiantil
+
+Artículo 94 BIS.- El Estado y los ayuntamientos deberán reconocer y otorgar el derecho a la movilidad académica o estudiantil, entendiéndose esta como el tránsito o movimiento que realizan los alumnos inscritos en el nivel de educación media superior y superior para cursar asignaturas en otras instituciones de nivel equivalente, sin perder sus derechos académicos y con el compromiso de regresar a su institución de origen con base en los acuerdos o convenios debidamente establecidos que lo regulen.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Criterios y lineamientos para la movilidad académica o estudiantil
+
+Artículo 94 BIS 1.- La Secretaría deberá elaborar y emitir los criterios y lineamientos y alcance que deberán regir los acuerdos y convenios sobre movilidad académica o estudiantil, de conformidad con la presente Ley, la Ley General de Educación, la autonomía de la que gocen las instituciones contempladas por la ley, así como cualquier legislación aplicable.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Difusión de la movilidad académica o estudiantil
+
+Artículo 94 BIS 2.- La Secretaría, dentro de sus programas de difusión y vinculación, dará a conocer públicamente los derechos, así como las ventajas de la movilidad académica o estudiantil, con el objeto de promover esta cultura de trayecto académico.
 
 ## Título Quinto. De la revalorización de las maestras y los maestros
 
-### Capítulo II. De los procesos de admisión, promoción y reconocimiento en educación básica y en educación media superior
+### Capítulo I. Del magisterio como agente fundamental en el proceso educativo
 
-Procesos de admisión, promoción y reconocimiento
+Revalorización de las maestras y los maestros
 
 ###### Artículo 95.
 
@@ -1329,9 +1445,9 @@ Sistema de administración de nómina
 
 La autoridad educativa estatal y los municipios que impartan educación básica, efectuarán las acciones necesarias para que los movimientos y pagos de ese personal, se realicen a través de un sistema de administración de nómina, en el cual se deberá identificar al menos el tipo, nivel, modalidad educativa y la clave de la plaza y del centro de trabajo correspondiente, conforme a los lineamientos que al efecto emitan conjuntamente la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público.
 
-### Capítulo III. Del sistema integral de formación, capacitación y actualización
+### Capítulo II. De los procesos de admisión, promoción y reconocimiento en educación básica y en educación media superior
 
-Sistema integral de formación, capacitación y actualización
+Procesos de admisión, promoción y reconocimiento
 
 ###### Artículo 98.
 
@@ -1339,9 +1455,9 @@ Para ejercer la docencia en instituciones establecidas por las autoridades educa
 
 En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa estatal y certificar su bilingüismo en la lengua indígena que corresponda y el español.
 
-### Capítulo IV. De la formación docente
+### Capítulo III. Del sistema integral de formación, capacitación y actualización
 
-Criterios de las personas egresadas de las instituciones formadoras de docencia
+Sistema integral de formación, capacitación y actualización
 
 ###### Artículo 99.
 
@@ -1377,9 +1493,9 @@ La Secretaría podrá suscribir convenios de colaboración con instituciones ded
 
 Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia generados por las instituciones de formación docente y los sectores académicos, de conformidad con los criterios que emita la Comisión.
 
-### Capítulo Único. De las condiciones de los planteles educativos para garantizar su idoneidad y la seguridad de las niñas, niños, adolescentes y jóvenes
+### Capítulo IV. De la formación docente
 
-Importancia de los planteles educativos
+Criterios de las personas egresadas de las instituciones formadoras de docencia
 
 ###### Artículo 102.
 
@@ -1417,9 +1533,9 @@ La Secretaría emitirá los lineamientos para proporcionar la formación inicial
 
 ## Título Sexto. De los planteles educativos
 
-### Capítulo Único. Del proceso de mejora continua de la educación en Sonora
+### Capítulo Único. De las condiciones de los planteles educativos para garantizar su idoneidad y la seguridad de las niñas, niños, adolescentes y jóvenes
 
-Definición de mejora continua de la educación
+Importancia de los planteles educativos
 
 ###### Artículo 105.
 
@@ -1503,9 +1619,9 @@ La Secretaría será la facultada para establecer las denominaciones oficiales d
 
 ## Título Séptimo. De la mejora continua de la educación
 
-### Capítulo Único. De la distribución de la función social en educación en el Estado de Sonora
+### Capítulo Único. Del proceso de mejora continua de la educación en Sonora
 
-Atribuciones exclusivas de la autoridad educativa estatal
+Definición de mejora continua de la educación
 
 ###### Artículo 114.
 
@@ -1529,9 +1645,9 @@ El Programa Educativo Estatal de Sonora tendrá un carácter plurianual y conten
 
 ## Título Octavo. Del Federalismo Educativo
 
-### Capítulo Único. Del financiamiento a la educación
+### Capítulo Único. De la distribución de la función social en educación en el Estado de Sonora
 
-De la concurrencia en el financiamiento de la educación
+Atribuciones exclusivas de la autoridad educativa estatal
 
 ###### Artículo 117.
 
@@ -1699,9 +1815,9 @@ La Secretaría participará en el Consejo Nacional de Autoridades Educativas par
 
 ## Título Noveno. Del financiamiento a la educación
 
-### Capítulo I. De la participación de madres y padres de familia o tutores
+### Capítulo Único. Del financiamiento a la educación
 
-Derechos de quienes ejercen la patria potestad o tutela
+De la concurrencia en el financiamiento de la educación
 
 ###### Artículo 122.
 
@@ -1779,9 +1895,9 @@ Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Fed
 
 ## Título Décimo. De la corresponsabilidad social en el proceso educativo
 
-### Capítulo II. De los Consejos de Participación Escolar
+### Capítulo I. De la participación de madres y padres de familia o tutores
 
-Participación de la sociedad para garantizar el derecho a la educación
+Derechos de quienes ejercen la patria potestad o tutela
 
 ###### Artículo 127.
 
@@ -1865,9 +1981,9 @@ Las asociaciones de madres y padres de familia, se abstendrán de intervenir en 
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
-### Capítulo III. Del servicio social
+### Capítulo II. De los Consejos de Participación Escolar
 
-Obligatoriedad del servicio social
+Participación de la sociedad para garantizar el derecho a la educación
 
 ###### Artículo 130.
 
@@ -1935,9 +2051,9 @@ En el Estado de Sonora, operará un consejo estatal de participación escolar en
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
-### Capítulo IV. De la participación de los medios de comunicación
+### Capítulo III. Del servicio social
 
-Contribución de los medios de comunicación a los fines y criterios de la educación
+Obligatoriedad del servicio social
 
 ###### Artículo 134.
 
@@ -1953,9 +2069,9 @@ Opciones para la prestación del servicio social
 
 La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
+### Capítulo IV. De la participación de los medios de comunicación
 
-Validez de los estudios
+Contribución de los medios de comunicación a los fines y criterios de la educación
 
 ###### Artículo 136.
 
@@ -1971,9 +2087,9 @@ El Ejecutivo Estatal promoverá la contribución de los medios de comunicación 
 
 ## Título Décimo Primero. De la validez de estudios y certificación de conocimientos
 
-### Capítulo I. Disposiciones generales
+### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
 
-Educación impartida por particulares
+Validez de los estudios
 
 ###### Artículo 138.
 
@@ -2021,9 +2137,9 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 ## Título Décimo Segundo. De la educación impartida por particulares
 
-### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
+### Capítulo I. Disposiciones generales
 
-Disposiciones para las acciones de vigilancia
+Educación impartida por particulares
 
 ###### Artículo 143.
 
@@ -2107,9 +2223,9 @@ Los particulares que presten servicios por los que se impartan estudios sin reco
 
 En el caso de la educación inicial deberán, además, cumplir los requisitos a que alude el artículo 98 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa; tomar las medidas a que se refiere el artículo 92 de la presente Ley y facilitar la evaluación, inspección y vigilancia de la autoridad competente de la Secretaría.
 
-### Capítulo III. Del recurso administrativo
+### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
 
-Recurso administrativo
+Disposiciones para las acciones de vigilancia
 
 ###### Artículo 148.
 
@@ -2469,9 +2585,9 @@ Procedimiento de las acciones de vigilancia
 
 Las acciones de vigilancia a las que se refiere el artículo 148 de esta Ley que lleven a cabo las autoridades educativas del Estado de Sonora, se realizarán de conformidad con el procedimiento establecido en los artículos 152 y 179 de la Ley General de Educación previstos en su Capítulo II del Título Décimo Primero y atenderán los lineamientos que emita la autoridad educativa federal en la materia.
 
-### Capítulo IV. De La Mediación Escolar
+### Capítulo III. Del recurso administrativo
 
-Mediación como medio alternativo de solución de conflictos
+Recurso administrativo
 
 ###### Artículo 174.
 
@@ -2484,6 +2600,10 @@ Tramitación del recurso administrativo
 ###### Artículo 175.
 
 La tramitación y la resolución del recurso de inconformidad, se llevará a cabo conforme a la Ley de Procedimiento Administrativo del Estado de Sonora.
+
+### Capítulo IV. De La Mediación Escolar
+
+Mediación como medio alternativo de solución de conflictos
 
 ###### Artículo 176.
 
@@ -2620,3 +2740,45 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los quince días del mes de mayo del año dos mil veinte.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 153, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría deberá de emitir los criterios y lineamientos que regirán los acuerdos y convenios sobre movilidad académica o estudiantil dentro del plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Para el otorgamiento de becas para la movilidad académica o estudiantil, el Instituto de Becas y Crédito Educativo deberá de realizar los ajustes necesarios a su presupuesto para el ejercicio fiscal 2021, para lo cual deberá de evitar en todo momento poner en riesgo a los estudiantes que actualmente cuentan con becas, estímulos y créditos educativos por parte del Instituto.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 158, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Coalición por la Educación, creada mediante Decreto publicado en el Boletín Oficial del Gobierno del Estado el 6 de febrero de 2018, continuará en funciones hasta en tanto la Secretaría emita la Convocatoria para designar a los representantes del sector productivos (sic), en el cual se deberá incluir el sector social.
+
+La Convocatoria deberá expedirse en un término que no deberá exceder un término de seis meses a partir de la entrada en vigor de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación y Cultura, deberá emitir las disposiciones e instrumentos a que hace referencia el Artículo 47 BIS 4 del presente Decreto, dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento jurídico.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 159, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
