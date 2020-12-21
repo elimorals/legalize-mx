@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2019-12-23"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE DICIEMBRE DE 2020.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -376,21 +376,21 @@ Si los contribuyentes aceptan las propuestas de declaraciones a que se refiere e
 
 Las formas oficiales aprobadas que se mencionan en este Código deberán publicarse en la Gaceta Oficial de la Ciudad de México; en tanto se publiquen, los contribuyentes presentarán sus declaraciones por escrito firmado por el contribuyente o su representante legal, en el que se precise, por lo menos, el nombre, denominación o razón social según se trate, su domicilio fiscal, el número de cuenta, contribución a pagar, periodo o periodos a cubrir, así como su importe.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-La presentación de informes, avisos, declaraciones, manifestaciones y demás obligaciones de carácter formal a que este Código se refiere, podrán ser cumplidas por el contribuyente o sujeto obligado a ello, a través de medios electrónicos o magnéticos que se establezcan en las reglas de carácter general que al efecto emita la Secretaría.
+La presentación de promociones, trámites, informes, avisos, declaraciones, manifestaciones y demás obligaciones de carácter formal a que este Código se refiere, deberá ser efectuada por el contribuyente o sujeto obligado a ello, de manera preferencial, a través de los medios electrónicos o magnéticos que se establezcan en las reglas de carácter general que al efecto emita la Secretaría
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017)</small>
 
 La falta de publicación de las formas oficiales a que se refiere este artículo, no podrá ser causa de revocación o nulidad, cuando el contribuyente las impugne en recurso de revocación o ante el Tribunal de Justicia Administrativa.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 17.
 
-Ante la negativa de la autoridad fiscal de recibir el pago de una contribución, el contribuyente podrá consignarlo al Tribunal de Justicia Administrativa, acompañando cheque certificado o de caja a nombre de la Tesorería, o bien, a través de los medios que para tal efecto se establezcan, y la declaración o formato de pago relativos al periodo y concepto que corresponda, en términos de lo dispuesto en el artículo 15 de este Código.
+Ante la negativa de la autoridad fiscal de recibir el pago de una contribución, el contribuyente podrá consignarlo al Tribunal de Justicia Administrativa, a través de los medios que para tal efecto se establezcan y en los formatos que se indiquen, proporcionando la información necesaria para el registro y efectividad de la consignación, así como la presentación de la declaración correspondiente, en los medios electrónicos que para este efecto se pongan a su disposición.
 
-Una vez recibida la documentación a que hace referencia el párrafo anterior, el Tribunal de Justicia Administrativa en el plazo de dos días hábiles, deberá remitirla a la Tesorería, a efecto de que ésta proceda a la aplicación del pago por el período en que el contribuyente haya consignado, sin perjuicio de las facultades de comprobación de las autoridades fiscales.
+Una vez aceptada la consignación por parte del Tribunal de Justicia Administrativa, y con base en los datos proporcionados por el contribuyente en su declaración, en términos del artículo 15 de este Código, el medio electrónico utilizado para tal fin proporcionará al contribuyente el formato correspondiente a través del cual, se hará efectiva la consignación con el depósito de los recursos ante los auxiliares de Tesorería habilitados para tal fin y su registro en los sistemas contables de la Secretaría, sin perjuicio de las facultades de comprobación de las autoridades fiscales.
 
 ###### ARTICULO 18.
 
@@ -1010,11 +1010,11 @@ XXI. Las demás personas físicas o morales que señale este Código y las leyes
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas, lo anterior, no exime al contribuyente en su calidad de responsable directo del pago de las multas generadas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 49.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código y demás leyes aplicables. La devolución se realizará a petición del interesado, mediante transferencia electrónica, para lo cual deberá proporcionar su número de cuenta, así como la clabe bancaria estandarizada en la solicitud de devolución correspondiente o mediante certificado de devolución expedido a nombre del interesado, el cual se podrá utilizar para cubrir cualquier contribución o aprovechamiento que se pague mediante declaración o formato para trámite de pago, ya sea a su cargo o que deba enterar en su carácter de retenedor, o bien, transmitirse a diverso contribuyente quien podrá aplicarlo como medio de pago en los mismos términos o a su vez transmitirlo, dicho documento tendrá una vigencia para su aplicación de tres años, contados a partir de la fecha de la última aplicación del saldo o de la fecha de expedición. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código y demás leyes aplicables. La devolución se realizará a petición del interesado, mediante transferencia electrónica, para lo cual deberá proporcionar los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas a nombre del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México en la solicitud de devolución correspondiente o mediante certificado de devolución expedido a nombre del interesado, el cual se podrá utilizar para cubrir cualquier contribución o aprovechamiento que se pague mediante declaración o formato para trámite de pago, ya sea a su cargo o que deba enterar en su carácter de retenedor, o bien, transmitirse a diverso contribuyente quien podrá aplicarlo como medio de pago en los mismos términos o a su vez transmitirlo, dicho documento tendrá una vigencia para su aplicación de tres años, contados a partir de la fecha de la última aplicación del saldo o de la fecha de expedición. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -1022,7 +1022,7 @@ En su caso podrá también realizarse la devolución a través de cheque nominat
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Cuando se solicite la devolución ante la autoridad competente, ésta deberá efectuarse dentro de un plazo de 120 días hábiles siguientes a la fecha en que se presentó la solicitud, con todos los datos, informes y documentos que señale la forma oficial respectiva; si faltare alguno de los datos, informes o documentos, la autoridad requerirá al promovente, a fin de que en un plazo de diez días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión, la promoción se tendrá por no presentada. Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares establecido.
 
@@ -1196,7 +1196,7 @@ Los avisos a que se refiere este inciso que se presenten en forma extemporánea,
 
 c). Declarar y en su caso pagar los créditos fiscales en los términos que disponga este Código;
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 d). Firmar las declaraciones, manifestaciones y avisos previstos por este Código, de manera autógrafa o a través de cualquier medio digital que establezca la Secretaría, bajo protesta de decir verdad;
 
@@ -1214,11 +1214,15 @@ En el caso de que un contribuyente cuente con dos o más inmuebles donde se pres
 
 h). Conservar la documentación y demás elementos contables y comprobatorios, en domicilio ubicado en la Ciudad de México durante el período de cinco años, contados a partir de la fecha de presentación de la última declaración o de que realizó el pago de la contribución de que se trate, en su caso;
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i). Proporcionar a las autoridades fiscales los datos, información o documentos, que se les soliciten, directamente relacionadas con el cumplimiento de sus obligaciones fiscales, dentro del plazo señalado para ello, y
+i). Proporcionar a las autoridades fiscales los datos, información o documentos, que se les soliciten, directamente relacionadas con el cumplimiento de sus obligaciones fiscales, dentro del plazo señalado para ello;
 
-j). Las demás que establezca este Código.
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+j). Verificar los datos registrados en los padrones de la Ciudad de México, y
+
+k). Las demás que establezca este Código.
 
 ###### ARTICULO 57.
 
@@ -1298,15 +1302,17 @@ Están obligadas a dictaminar el cumplimiento de sus obligaciones fiscales, en l
 
 I. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con un promedio mensual de ciento cincuenta o más trabajadores;
 
-(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADA EN SU CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles, de uso diferente al habitacional, cuyo valor catastral por cada uno o en su conjunto, en cualquiera de los bimestres del año, sea superior a $29,510,963.50. El dictamen deberá referirse a las obligaciones fiscales establecidas en este Código por el inmueble o los inmuebles que en su conjunto rebasen ese valor.
+II. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles, de uso diferente al habitacional, cuyo valor catastral por cada uno o en su conjunto, en cualquiera de los bimestres del año, sea superior a $30,496,630.00. El dictamen deberá referirse a las obligaciones fiscales establecidas en este Código por el inmueble o los inmuebles que en su conjunto rebasen ese valor.
 
 III. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles de uso mixto, cuyo valor catastral por cada uno o en su conjunto que rebasen el valor indicado en la fracción anterior;
 
-IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas de uso no doméstico o mixto más de 300 m3 de agua bimestral promedio, o en su caso, cuando se trate de una o más tomas de uso doméstico, más de 1000 m3 de agua bimestral promedio; en este último caso siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal, total o parcialmente;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 V. Estar constituidos como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia;
 
@@ -1314,9 +1320,9 @@ V. Estar constituidos como organismos descentralizados, empresas de participaci�
 
 VI. Las que en el año calendario anterior a aquel que se dictamina, hayan utilizado agua de fuentes diversas a la red de suministro de la Ciudad de México y hayan efectuado las descargas de este líquido en la red de drenaje, y
 
-(ADICIONADA, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-VII. Las que en el año calendario anterior a aquel que se dictamina, hayan prestado los servicios de hospedaje contemplados en el artículo 162 de este Código y que en el ejercicio dictaminado, hayan percibido un monto igual o mayor a los $11,370,049.50, como contraprestación por los servicios prestados.
+VII. Las que en el año calendario anterior a aquel que se dictamina, hayan prestado los servicios de hospedaje contemplados en el artículo 162 de este Código y que en el ejercicio dictaminado, hayan percibido un monto igual o mayor a los $11,749,809.00, como contraprestación por los servicios prestados.
 
 Las personas físicas y morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
@@ -1325,6 +1331,12 @@ La presentación del aviso para dictaminar y del dictamen en los plazos en que d
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 No están obligadas a dictaminar el cumplimiento de las obligaciones fiscales que refiere el presente artículo, las Alcaldías, Dependencias y Órganos Desconcentrados de la Administración Pública de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 58 BIS.- Los contribuyentes que se dictaminen en términos de este Código y las Reglas de carácter general que correspondan, no serán sujetos de facultades de comprobación por los ejercicios dictaminados.
+
+Sin perjuicio de lo anterior, la autoridad fiscal podrá ejercer sus facultades de comprobación en caso de que se encuentren diferencias a cargo de los contribuyentes y/o se observen irregularidades en el dictamen correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -1648,9 +1660,17 @@ Las autoridades fiscales podrán determinar presuntivamente el valor catastral d
 
 I. Los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales;
 
-II. Los contribuyentes no cuenten con la información o documentación relativa al cumplimiento de las obligaciones fiscales a que se refiere este Código, que le sea solicitada por las autoridades fiscales en el ejercicio de sus facultades de comprobación, no proporcionen dicha información o documentación, la oculten o la destruyan, y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Los contribuyentes se ubiquen en los supuestos que establece el artículo 128 de este Código.
+II. Los contribuyentes no cuenten con la información o documentación relativa al cumplimiento de las obligaciones fiscales a que se refiere este Código, que le sea solicitada por las autoridades fiscales en el ejercicio de sus facultades de comprobación, no proporcionen dicha información o documentación, la oculten o la destruyan;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III. Los contribuyentes se ubiquen en los supuestos que establece el artículo 128 de este Código, y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV. Los contribuyentes exhiban avalúos que no reúnan los requisitos establecidos para que produzcan efectos fiscales o por no corresponder al periodo revisado.
 
 ###### ARTICULO 80.
 
@@ -1664,7 +1684,9 @@ Para los efectos de la determinación presuntiva a que se refiere el artículo a
 
 3. Tratándose de inmuebles en proceso de construcción, la autoridad fiscal determinará el valor catastral considerando el 25% de los datos de la construcción total registrada en la manifestación respectiva, de acuerdo a lo establecido en el artículo 132 de este Código;
 
-4. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+4. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, incluyendo la contenida en los sistemas con que cuenta, y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1684,9 +1706,9 @@ Las autoridades fiscales podrán determinar presuntivamente el consumo de agua, 
 
 I. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Se trate de tomas no registradas para lo que se calcularán los derechos a pagar por los últimos cinco años.
+II. Se trate de tomas no registradas para lo que se calcularán los derechos a pagar por cuota fija, por los últimos cinco años, de conformidad con lo establecido en el artículo 172 de este Código, de acuerdo con el uso del inmueble;
 
 III. Se retire el medidor sin la autorización correspondiente o los medidores hayan sido cambiados de lugar o retirados sin autorización de las autoridades competentes;
 
@@ -1720,13 +1742,13 @@ La determinación presuntiva a que se refiere este artículo, procederá indepen
 
 Para efectos de la determinación prevista en el artículo anterior, las autoridades fiscales calcularán el consumo de agua utilizando indistintamente cualquiera de los siguientes procedimientos:
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Tomando como base dos lecturas que se hagan al aparato medidor instalado en la toma de agua, al aparato instalado cuando la toma no hubiere contado con él o al aparato medidor cuando se encuentre funcionando correctamente con motivo de su reparación, las cuales corresponderán a un lapso que en ningún caso será inferior a siete días, de las que se obtendrá la diferencia y se dividirá entre el número de días naturales transcurridos entre ellas para obtener el consumo promedio diario que se multiplicará por los días naturales de cada bimestre.
+I. Tomando como base dos lecturas que se hagan al aparato medidor instalado en la toma de agua, al aparato instalado cuando la toma no hubiere contado con él o al aparato medidor cuando se encuentre funcionando correctamente con motivo de su reparación, las cuales corresponderán a un lapso que en ningún caso será inferior a 21 días, de las que se obtendrá la diferencia y se dividirá entre el número de días naturales transcurridos entre ellas para obtener el consumo promedio diario que se multiplicará por los días naturales de cada bimestre.
 
 II. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, que incluye información estadística derivada de los registros históricos de consumos del propio contribuyente.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 83.
 
@@ -1882,7 +1904,7 @@ I. De toda visita domiciliaria se levantará acta en la que se hará constar en 
 
 Las actas que al efecto se levanten deberán ser firmadas por los visitadores, por el visitado, su representante legal o la persona con quien se entienda la diligencia y por los testigos, debiéndose proporcionar una copia legible al visitado. Si el visitado, su representante legal o la persona con quien se entienda la diligencia, así como los testigos no comparecen a firmar las actas o se niegan a firmarlas, dicha circunstancia se asentará en el acta, sin que esto afecte la validez y valor probatorio de la misma.
 
-Los papeles de trabajo anexos a una acta de visita, serán parte de ésta si de ellos se entrega copia al contribuyente y están firmados por el personal que practicó la visita, por lo que los hechos asentados en dichos papeles tendrán el mismo valor legal que los que se hacen constar en el acta, ya que acta y papeles integran una sola actuación jurídica.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1916,13 +1938,13 @@ VII. Las autoridades fiscales deberán concluir la visita domiciliaria o la revi
 
 VIII. Cuando durante el desarrollo de la visita domiciliaria, los contribuyentes corrijan su situación fiscal, ésta se dará por concluida, si a juicio de las autoridades fiscales y conforme a la investigación realizada, se desprende que el contribuyente ha corregido en su totalidad las obligaciones fiscales por las que se ejercieron las facultades de comprobación y por el período objeto de revisión. En el supuesto mencionado, se hará constar la corrección fiscal mediante oficio que se hará del conocimiento del contribuyente y la conclusión de la visita domiciliaria de que se trate;
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IX. Cuando de la revisión de los citatorios o de las actas de visita que se hayan levantado y demás documentación vinculada a éstas, se observe que el procedimiento de fiscalización no se hubiese ajustado a las normas aplicables, lo que pudiera provocar la invalidación de la determinación del crédito fiscal que en su caso se realizara o causar un daño al erario público, la autoridad podrá por una sola vez reponer el procedimiento de oficio, a partir de que se cometió la irregularidad, contando a partir de la reposición con un plazo de seis meses para concluir el procedimiento fiscalizador, siempre y cuando ésta se realice antes de que concluya el plazo a que se refiere el párrafo segundo del artículo 95 de este Código.
+IX. Cuando de la revisión de los citatorios o de las actas de visita que se hayan levantado y demás documentación vinculada a éstas, se observe que el procedimiento de fiscalización no se hubiese ajustado a las normas aplicables, lo que pudiera provocar la invalidación de la determinación del crédito fiscal que en su caso se realizara o causar un daño al erario público, la autoridad podrá por una sola vez reponer el procedimiento de oficio, a partir de que se cometió la irregularidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete, así como la reposición del procedimiento que establece la fracción anterior, se suspenderán en los casos de:
+X. Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete, se suspenderán en los casos de:
 
 a). Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la misma;
 
@@ -1930,13 +1952,23 @@ a). Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que ter
 
 b). Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c). Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice, y
+c). Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice;
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d). Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+d). Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año;
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+e). Tratándose de la fracción IX del presente artículo, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento, y
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+f). Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en la Gaceta Oficial de la Ciudad de México y en la página de internet de la Secretaría.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2028,9 +2060,9 @@ De toda visita de verificación o inspección se levantará acta circunstanciada
 
 Cuando con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales conozcan de la comisión de una o varias infracciones que originen la omisión total o parcial en el pago de las contribuciones establecidas en este Código, procederán a determinar el crédito fiscal que resulte, motivando la resolución con base en los hechos u omisiones consignadas en las actas u oficio de observaciones que al efecto se hayan levantado.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Dicha resolución deberá emitirse y notificarse al contribuyente, incluso a través de medios electrónicos conforme a lo previsto en el artículo 98 TER de este Código, dentro de un plazo máximo de cinco meses contados a partir del día siguiente al levantamiento del acta final, o del día siguiente al vencimiento del plazo de seis meses previsto por la fracción IX del artículo 90 o una vez transcurrido el plazo de 20 días a que hace referencia la fracción V del artículo 92 de este Código, según corresponda. Cuando las autoridades no emitan la resolución correspondiente en el plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+Dicha resolución deberá emitirse y notificarse al contribuyente, incluso a través de medios electrónicos conforme a lo previsto en el artículo 98 TER de este Código, dentro de un plazo máximo de cinco meses contados a partir del día siguiente al levantamiento del acta final, o una vez transcurrido el plazo de 20 días a que hace referencia la fracción V del artículo 92 de este Código, según corresponda. Cuando las autoridades no emitan la resolución correspondiente en el plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
 
 El plazo para emitir la resolución a que se refiere el párrafo anterior, se suspenderá en los casos previstos en los incisos a), b) y c) de la fracción X del artículo 90 de este Código.
 
@@ -2528,41 +2560,43 @@ Están obligadas al pago del Impuesto sobre Adquisición de Inmuebles, estableci
 
 El impuesto se calculará aplicando, sobre el valor total del inmueble la siguiente tarifa:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Rango Límite Límite Cuota Factor de
+RANGO LÍMITE LÍMITE CUOTA FACTOR DE
 
-Inferior Superior Fija Aplicación
+INFERIOR SUPERIOR FIJA APLICACIÓN
 
-sobre el
+SOBRE EL
 
-Excedente de
+EXCEDENTE
 
-Límite
+DEL
 
-Inferior
+LÍMITE
 
-A $0.12 $102,883.21 $249.43 0.01275
+INFERIOR
 
-B $102,883.22 $164,613.09 $1,496.39 0.02715
+A $0.12 $106,319.51 $257.76 0.01318
 
-C $164,613.10 $246,919.40 $3,089.65 0.03548
+B $106,319.52 $170,111.17 $1,546.37 0.02806
 
-D $246,919.41 $493,838.94 $5,865.03 0.04139
+C $170,111.18 $255,166.51 $3,192.84 0.03667
 
-E $493,838.95 $1,234,597.33 $15,578.85 0.04598
+D $255,166.52 $510,333.16 $6,060.92 0.04277
 
-F $1,234,597.34 $2,469,194.67 $47,950.00 0.05023
+E $510,333.17 $1,275,832.88 $16,099.18 0.04752
 
-G $2,469,194.68 $4,756,684.04 $106,889.69 0.05449
+F $1,275,832.89 $2,551,665.77 $49,551.53 0.05191
 
-H $4,756,684.05 $12,387,198.61 $225,358.78 0.05667
+G $2,551,665.78 $4,915,557.29 $110,459.81 0.05631
 
-I $12,387,198.62 $22,843,744.50 $636,338.30 0.05716
+H $4,915,557.30 $12,800,931.04 $232,885.76 0.05856
 
-J $22,843,744.51 $45,687,488.98 $1,204,442.44 0.05767
+I $12,800,931.05 $23,606,725.57 $657,592.00 0.05907
 
-K $45,687,488.99 En adelante $2,456,508.09 0.06265
+J $23,606,725.58 $47,213,451.11 $1,244,670.82 0.05960
+
+K $47,213,451.12 En adelante $2,538,555.46 0.06474
 
 En caso de adquirirse una porción del inmueble, una vez obtenido el resultado de aplicar la tarifa señalada al valor total del inmueble, se aplicará a dicho resultado, el porcentaje que se adquiera.
 
@@ -2848,53 +2882,57 @@ Las autoridades fiscales deberán generar y proporcionar al Congreso antes del 3
 
 El Impuesto Predial se calculará por períodos bimestrales, aplicando al valor catastral la tarifa a que se refiere este artículo:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 I. TARIFA.
 
-Rango Límite Inferior de Límite Superior de Cuota Fija Porcentaje
+RANGO LÍMITE LÍMITE CUOTA PORCENTAJE
 
-Valor Catastral un Valor Catastral para aplicarse
+INFERIOR DE SUPERIOR FIJA PARA
 
-de un Inmueble de un Inmueble sobre el
+VALOR DE APLICARSE
 
-Excedente
+CATASTRAL VALOR SOBRE EL
 
-del Límite
+DE UN CATASTRAL EXCEDENTE
 
-Inferior
+INMUEBLE DE UN DEL
 
-A $0.11 $187,736.25 $195.68 0.01693
+INMUEBLE LÍMITE
 
-B $187,736.26 $375,471.95 $227.46 0.03228
+INFERIOR
 
-C $375,471.96 $750,945.31 $288.06 0.10089
+A $0.12 $194,006.64 $202.22 0.01750
 
-D $750,945.32 $1,126,417.24 $666.87 0.12380
+B $194,006.65 $388,012.71 $235.06 0.03336
 
-E $1,126,417.25 $1,501,890.62 $1,131.71 0.12697
+C $388,012.72 $776,026.88 $297.68 0.10426
 
-F $1,501,890.63 $1,877,362.55 $1,608.44 0.14757
+D $776,026.89 $1,164,039.58 $689.14 0.12793
 
-G $1,877,362.56 $2,252,834.47 $2,162.53 0.15251
+E $1,164,039.59 $1,552,053.77 $1,169.51 0.13121
 
-H $2,252,834.48 $2,628,307.87 $2,735.16 0.16663
+F $1,552,053.78 $1,940,066.46 $1,662.16 0.15250
 
-I $2,628,307.88 $3,003,779.79 $3,360.81 0.17427
+G $1,940,066.47 $2,328,079.14 $2,234.76 0.15760
 
-J $3,003,779.80 $3,379,253.19 $4,015.15 0.17934
+H $2,328,079.15 $2,716,093.35 $2,826.51 0.17220
 
-K $3,379,253.20 $3,754,725.09 $4,688.52 0.18486
+I $2,716,093.36 $3,104,106.04 $3,473.06 0.18009
 
-L $3,754,725.10 $4,130,197.04 $5,382.62 0.18988
+J $3,104,106.05 $3,492,120.25 $4,149.26 0.18533
 
-M $4,130,197.05 $4,506,027.99 $6,095.57 0.20059
+K $3,492,120.26 $3,880,132.91 $4,845.12 0.19103
 
-N $4,506,028.00 $13,518,082.51 $6,849.45 0.21660
+L $3,880,132.92 $4,268,145.62 $5,562.40 0.19622
 
-O $13,518,082.52 $28,451,972.98 $26,369.56 0.21671
+M $4,268,145.63 $4,656,529.33 $6,299.16 0.20729
 
-P $28,451,972.99 En adelante $58,732.79 0.22529
+N $4,656,529.34 $13,969,586.47 $7,078.22 0.22383
+
+O $13,969,586.48 $29,402,268.88 $27,250.30 0.22395
+
+P $29,402,268.89 En adelante $60,694.47 0.23281
 
 En el caso de que los inmuebles tengan un valor inferior a la cuota fija correspondiente al rango A, sólo se pagará el porcentaje a aplicar sobre el excedente del límite inferior correspondiente a dicho rango.
 
@@ -2932,9 +2970,9 @@ Las reducciones no serán aplicables a aquellos bienes inmuebles en los que se e
 
 El pago del impuesto predial deberá hacerse en forma bimestral, durante los meses de febrero, abril, junio, agosto, octubre y diciembre, mediante declaración ante las oficinas recaudadoras de la Secretaría o auxiliares autorizados.
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-Cuando los contribuyentes cumplan con la obligación de pagar el impuesto predial en forma anticipada, tendrán derecho a una reducción del 8%, cuando se efectúe el pago de los seis bimestres en el mes de enero del año que se cubra; y de 5%, si el pago de los seis bimestres se realiza en el mes de febrero del año de que se trate.
+Cuando los contribuyentes cumplan con la obligación de pagar el impuesto predial en forma anticipada, tendrán derecho a una reducción del 10%, cuando se efectúe el pago de los seis bimestres en el mes de enero del año que se cubra; y de 6%, si el pago de los seis bimestres se realiza en el mes de febrero del año de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -3086,6 +3124,14 @@ IV. A más tardar un día antes de la celebración del espectáculo público, ma
 
 Los contribuyentes que cuenten con autorización de sistemas electrónicos alternos de control para la venta de boletos de forma electrónica, deberán adjuntar a la declaración de pago del impuesto, a través de los medios que establezca la Secretaría, un reporte por evento de los casos en los que se modificaron los precios de las localidades manifestadas;
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Están obligados a registrarse y contar con la autorización correspondiente por parte de la Secretaría, las personas físicas y morales, que actúen como facilitadores, promotores o intermediarios relacionadas con espectáculos públicos, cuando éstos soliciten el pago de cuotas de entrada, donativos, cooperaciones o cualquier otro concepto, ofreciendo la emisión y/o venta de boletos para acceso a los eventos.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las personas previstas en el artículo 134, que ocupen los servicios a los que se refiere el párrafo anterior, a través de personas físicas o morales que no estén autorizadas en términos de la presente fracción, se harán acreedoras a las sanciones establecidas en el artículo 465.
+
 V. Presentar ante las oficinas autorizadas las declaraciones a que se refiere el artículo 140 de este Código y pagar el impuesto en los términos de este Capítulo;
 
 VI. Los contribuyentes de este impuesto deberán presentar, con las declaraciones a que se refiere el artículo 140 de este Código, los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no ser así se considerarán como vendidos.
@@ -3096,7 +3142,7 @@ La Secretaría podrá autorizar en forma previa, sistemas electrónicos alternos
 
 VII. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VIII. Colocar a la venta en taquilla, todo boleto con valor nominal de acceso al espectáculo público, por lo cual no podrá ser considerado como cortesía.
 
@@ -3290,6 +3336,10 @@ Cuando el pago o contraprestación a favor del organizador, supervisor, encargad
 
 La omisión del contribuyente a lo previsto en este artículo, no libera al organizador, supervisor, encargado u operador independientemente de la denominación que reciban del establecimiento de la responsabilidad solidaria prevista en el artículo 155 BIS 7 de este Código.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes del Impuesto a las Erogaciones en Juegos con Apuestas y Concursos, deberán formular declaraciones hasta en tanto no presenten aviso de baja al padrón o de suspensión temporal de actividades.
+
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 ARTICULO 155 BIS 5.- El impuesto que corresponda pagar en los términos de este Capítulo se considera como definitivo y, en contra del mismo, no procederá deducción o acreditamiento alguno.
@@ -3353,6 +3403,14 @@ VII. Primas de antigüedad;
 VIII. Comisiones, y
 
 IX. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o administración de sociedades y asociaciones.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 156 BIS.- Las personas físicas o morales que contraten o subcontraten, independientemente de la forma en que se denominen los servicios proporcionados por un contratista en términos de la normatividad aplicable, aun cuando la erogación por concepto de remuneración al trabajo personal subordinado se realice por conducto de otra persona, deberán presentar ante la Secretaría un aviso dentro de los 10 días siguientes a aquél en que se celebre dicho contrato o se realicen modificaciones al mismo.
+
+El aviso a que se refiere el párrafo anterior deberá contener como anexo el original o copia certificada del contrato respectivo, e informar sobre el número de trabajadores que presten los servicios correspondientes, así como la denominación o razón social, Registro Federal de Contribuyentes y domicilio del contratista.
+
+La Secretaría podrá requerir a las personas físicas o morales a que se refiere el primer párrafo del presente artículo, la presentación del aviso antes citado, a fin de que cumplan con lo solicitado en un plazo de 10 días.
 
 ###### ARTICULO 157.
 
@@ -3436,17 +3494,29 @@ I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del veh
 
 II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este Capítulo, hasta por el monto del impuesto que se hubiese dejado de pagar;
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Los servidores públicos que en ejercicio de sus funciones, autoricen altas, bajas, cambio de placas o cambio de propietario, sin cerciorarse del pago del impuesto, relativo a los últimos cinco ejercicios fiscales y el ejercicio en el que se realice el trámite respectivo o los ejercicios que tenga obligación de pagar de acuerdo a la fecha de alta en la Ciudad de México, cuando esta fecha sea menor a cinco años; y
+III. Los servidores públicos que en ejercicio de sus funciones, autoricen altas, bajas, cambio de placas o cambio de propietario, sin cerciorarse del pago de las contribuciones que correspondan y que sean exigibles, o los ejercicios que tenga obligación de pagar de acuerdo a la fecha de alta en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Para el caso de vehículos provenientes de otra entidad federativa que soliciten los trámites de alta y registro en la Ciudad de México, se deberá verificar el pago de las contribuciones correspondientes del ejercicio fiscal en que se soliciten, en términos de este Capítulo, y
 
 > <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 IV. El importador, fabricante, ensamblador, distribuidor autorizado, o comerciante de los vehículos nuevos y usados a que se refiere el presente Capítulo, que omita realizar los trámites previstos en el párrafo quinto del presente artículo, hasta por el monto del impuesto que se hubiese dejado de pagar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En el caso de robo o pérdida total por accidente de vehículos matriculados en la Ciudad de México se causará la parte proporcional del impuesto anual hasta el mes en que se reporte su baja, conforme a la siguiente:
+En el caso de robo de vehículos matriculados en la Ciudad de México se causará la parte proporcional del impuesto anual hasta el mes en que se reporte su baja, o bien hasta el mes en que se levantó la denuncia correspondiente, que se acreditará presentando ante la autoridad fiscal, el acta de denuncia de robo, la cual no deberá tener antigüedad mayor a un año.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En el caso de pérdida total por accidente de vehículos matriculados en la Ciudad de México, se causará la parte proporcional del impuesto anual hasta el mes en que se reporte su baja.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Para los casos previstos en los dos párrafos anteriores, el impuesto se determinará conforme a la siguiente:
 
 TABLA:
 
@@ -3476,9 +3546,9 @@ Noviembre 0.92
 
 Diciembre 1.00
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Para los supuestos referidos en el párrafo anterior, no se pagará este impuesto a partir del año fiscal siguiente y hasta que, en su caso, deje de estar en dichos supuestos.
+Para los supuestos referidos en los párrafos séptimo y octavo de este artículo, no se pagará este impuesto a partir del año fiscal siguiente y hasta que, en su caso, deje de estar en dichos supuestos.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -3662,9 +3732,9 @@ Para los efectos de este artículo, se entiende por vehículos destinados a tran
 
 ARTICULO 161 BIS 6.- En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
 
-(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-ARTICULO 161 BIS 7.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $12,460.50, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $13,421.00, para aeronaves de reacción.
+ARTICULO 161 BIS 7.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $12,877.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $13,869.00, para aeronaves de reacción.
 
 (ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011) (REUBICADO, G.O. 31 DE DICIEMBRE DE 2012)
 
@@ -3898,45 +3968,65 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 Tratándose de motocicletas eléctricas, el impuesto se pagará a la tasa de 0%.
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 161 BIS 16.- Los contribuyentes que de acuerdo con el presente Capítulo, se encuentren obligados al pago del Impuesto sobre Tenencia o Uso de Vehículos, cuyo año modelo del vehículo de que se trate sea anterior a 2001, pagarán el impuesto en la fecha y forma referida en el mencionado Capítulo y lo determinarán conforme a lo siguiente:
+ARTICULO 161 BIS 16.- Los contribuyentes que de acuerdo con el presente Capítulo, se encuentren obligados al pago del Impuesto sobre Tenencia o Uso de Vehículos, cuyo año modelo del vehículo de que se trate sea anterior a 2002, pagarán el impuesto en la fecha y forma referida en el mencionado Capítulo y lo determinarán conforme a lo siguiente:
 
 I. En caso de vehículos de uso particular hasta de quince pasajeros, la determinación se hará atendiendo el cilindraje del motor, conforme a lo siguiente:
 
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
 Cilindraje Cuota
 
-Hasta 4 $377.50
+Hasta 4 $390.00
 
-De 5 o 6 $1,130.00
+De 5 o 6 $1,168.00
 
-De 8 o más $1,409.30
+De 8 o más $1,456.00
 
-II. En el caso de vehículos importados al país, de año modelo posterior a 1964, pagarán una cuota de $2,567.00, los demás pagarán conforme a la cuota señalada en la fracción anterior;
+(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-III. En caso de motocicletas, se pagará una cuota de $471.00;
+II. En el caso de vehículos importados al país, de año modelo posterior a 1964, pagarán una cuota de $2,653.00, los demás pagarán conforme a la cuota señalada en la fracción anterior;
 
-IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $1,173.00;
+(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. En el caso de vehículos de carga con placas de carga o de servicio particular, se pagará una cuota de $228.20 por cada tonelada o fracción de capacidad de carga o de arrastre, y
+III. En caso de motocicletas, se pagará una cuota de $487.00;
+
+(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
+
+IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $1,212.00;
+
+(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
+
+V. En el caso de vehículos de carga con placas de carga o de servicio particular, se pagará una cuota de $236.00 por cada tonelada o fracción de capacidad de carga o de arrastre, y
+
+> <small>(ADICIONADA CON SU TABLA, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VI. Tratándose de aeronaves, el impuesto se pagará conforme a lo siguiente:
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 TIPO DE VEHÍCULOS CUOTA
 
 AERONAVES
 
-Hélice $643.50
+Hélice $665.00
 
-Turbohélice $3,570.00
+Turbohélice $3,689.00
 
-Reacción $5,157.50
+Reacción $5,330.00
 
-HELICÓPTEROS $793.00
+HELICÓPTEROS $819.00
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Cuando se tramite el alta en la Ciudad de México, de un vehículo matriculado en otra entidad federativa o por la Federación y ésta se realice en el segundo, tercero o cuarto trimestre del año, se cubrirá el 75%, 50% o 25% de las cuotas señaladas en este artículo, respectivamente.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+
 Pagarán la cuota de la fracción II, los vehículos importados de las fracciones I, IV y V de este artículo, exceptuando a los vehículos eléctricos o eléctricos con motor de combustión interna (híbridos).
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Los vehículos eléctricos o eléctricos que además cuenten con motor de combustión interna (híbridos) de uso particular, pagarán el Impuesto sobre Tenencia o Uso de Vehículos a la tasa de 0% sin perjuicio de las obligaciones que en su caso les corresponda conforme al presente Capítulo.
 
@@ -4025,6 +4115,10 @@ Cuando la contraprestación percibida no sea en dinero, sino total o parcialment
 ARTICULO 164 BIS 5.- El impuesto materia del presente Capítulo será enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría, a más tardar el día diecisiete del mes siguiente a aquél en que se cause.
 
 Este impuesto no será acreditable contra otros impuestos locales o federales.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico, deberán formular declaraciones hasta en tanto no presenten aviso de baja al padrón o de suspensión temporal de actividades.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -4156,39 +4250,39 @@ I. USO DOMÉSTICO.
 
 a) Servicio Medido: Tratándose de tomas de agua donde se encuentre instalado o autorizado el medidor de consumo por parte del Sistema de Aguas, que para efectos de este Código son las que se encuentren instaladas en inmuebles de uso habitacional, el pago de los Derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 TARIFA SIN SUBSIDIO
 
-Consumo en Litros Tarifa
+CONSUMO EN LITROS TARIFA
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-por cada 1,000
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Litros
+LITROS
 
-Excedentes
+EXCEDENTES
 
-al Límite Inferior
+AL LÍMITE INFERIOR
 
-0 15,000 $516.81 $0.00
+0 15,000 $534.07 $0.00
 
-MAYOR A 15,000 20,000 $516.81 $34.46
+MAYOR A 15,000 20,000 $534.07 $35.61
 
-MAYOR A 20,000 30,000 $689.07 $34.46
+MAYOR A 20,000 30,000 $712.08 $35.61
 
-MAYOR A 30,000 40,000 $1,033.59 $34.46
+MAYOR A 30,000 40,000 $1,068.11 $35.61
 
-MAYOR A 40,000 50,000 $1,378.13 $34.46
+MAYOR A 40,000 50,000 $1,424.16 $35.61
 
-MAYOR A 50,000 70,000 $1,722.65 $41.93
+MAYOR A 50,000 70,000 $1,780.19 $43.33
 
-MAYOR A 70,000 90,000 $2,561.52 $45.69
+MAYOR A 70,000 90,000 $2,647.07 $47.22
 
-MAYOR A 90,000 120,000 $3,475.29 $60.67
+MAYOR A 90,000 120,000 $3,591.36 $62.70
 
-MAYOR A 120,000 $5,295.28 $94.38
+MAYOR A 120,000 $5,472.14 $97.53
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -4230,37 +4324,39 @@ MAYOR A 120,000 34.3726% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Popular
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+POPULAR
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Excedentes
+LITROS
 
-Al Límite Inferior
+EXCEDENTES
 
-0 15,000 $44.94 $0.00
+AL LÍMITE INFERIOR
 
-MAYOR A 15,000 20,000 $44.94 $3.89
+0 15,000 $46.44 $0.00
 
-MAYOR A 20,000 30,000 $64.41 $6.17
+MAYOR A 15,000 20,000 $46.44 $4.02
 
-MAYOR A 30,000 40,000 $126.09 $12.60
+MAYOR A 20,000 30,000 $66.56 $6.38
 
-MAYOR A 40,000 50,000 $252.02 $18.38
+MAYOR A 30,000 40,000 $130.30 $13.02
 
-MAYOR A 50,000 70,000 $435.78 $27.36
+MAYOR A 40,000 50,000 $260.44 $18.99
 
-MAYOR A 70,000 90,000 $983.21 $34.70
+MAYOR A 50,000 70,000 $450.34 $28.28
 
-MAYOR A 90,000 120,000 $1,677.13 $59.94
+MAYOR A 70,000 90,000 $1,016.05 $35.86
 
-MAYOR A 120,000 $3,475.15 $94.38
+MAYOR A 90,000 120,000 $1,733.15 $61.94
+
+MAYOR A 120,000 $3,591.22 $97.53
 
 SUBSIDIO PARA MANZANA TIPO BAJA
 
@@ -4296,37 +4392,39 @@ MAYOR A 120,000 29.8268% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Baja
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+BAJA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Excedentes al
+LITROS
 
-Límite Inferior
+EXCEDENTES
 
-0 15,000 $50.94 $0.00
+AL LÍMITE INFERIOR
 
-MAYOR A 15,000 20,000 $50.94 $8.69
+0 15,000 $52.64 $0.00
 
-MAYOR A 20,000 30,000 $94.37 $11.70
+MAYOR A 15,000 20,000 $52.64 $8.98
 
-MAYOR A 30,000 40,000 $211.31 $16.58
+MAYOR A 20,000 30,000 $97.52 $12.09
 
-MAYOR A 40,000 50,000 $377.08 $23.26
+MAYOR A 30,000 40,000 $218.37 $17.13
 
-MAYOR A 50,000 70,000 $609.68 $29.42
+MAYOR A 40,000 50,000 $389.68 $24.04
 
-MAYOR A 70,000 90,000 $1,198.23 $35.99
+MAYOR A 50,000 70,000 $630.04 $30.40
 
-MAYOR A 90,000 120,000 $1,917.85 $59.94
+MAYOR A 70,000 90,000 $1,238.25 $37.19
 
-MAYOR A 120,000 $3,715.87 $94.38
+MAYOR A 90,000 120,000 $1,981.90 $61.94
+
+MAYOR A 120,000 $3,839.98 $97.53
 
 SUBSIDIO PARA MANZANA TIPO MEDIA
 
@@ -4362,37 +4460,39 @@ MAYOR A 120,000 15.6397% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Media
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+MEDIA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Excedentes al
+LITROS
 
-Límite Inferior
+EXCEDENTES
 
-0 15,000 $168.53 $0.00
+AL LÍMITE INFERIOR
 
-MAYOR A 15,000 20,000 $168.53 $21.72
+0 15,000 $174.16 $0.00
 
-MAYOR A 20,000 30,000 $277.12 $23.78
+MAYOR A 15,000 20,000 $174.16 $22.45
 
-MAYOR A 30,000 40,000 $514.85 $28.15
+MAYOR A 20,000 30,000 $286.37 $24.57
 
-MAYOR A 40,000 50,000 $796.28 $30.33
+MAYOR A 30,000 40,000 $532.05 $29.09
 
-MAYOR A 50,000 70,000 $1,099.55 $33.53
+MAYOR A 40,000 50,000 $822.87 $31.35
 
-MAYOR A 70,000 90,000 $1,770.34 $44.94
+MAYOR A 50,000 70,000 $1,136.27 $34.65
 
-MAYOR A 90,000 120,000 $2,669.09 $59.94
+MAYOR A 70,000 90,000 $1,829.47 $46.45
 
-MAYOR A 120,000 $4,467.11 $94.38
+MAYOR A 90,000 120,000 $2,758.24 $61.94
+
+MAYOR A 120,000 $4,616.31 $97.53
 
 SUBSIDIO PARA MANZANA TIPO ALTA
 
@@ -4428,37 +4528,39 @@ MAYOR A 120,000 13.4491% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Alta
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+ALTA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Excedentes al
+LITROS
 
-Límite Inferior
+EXCEDENTES
 
-0 15,000 $202.23 $0.00
+AL LÍMITE INFERIOR
 
-MAYOR A 15,000 20,000 $202.23 $22.76
+0 15,000 $208.98 $0.00
 
-MAYOR A 20,000 30,000 $316.01 $25.45
+MAYOR A 15,000 20,000 $208.98 $23.52
 
-MAYOR A 30,000 40,000 $570.46 $30.21
+MAYOR A 20,000 30,000 $326.57 $26.30
 
-MAYOR A 40,000 50,000 $872.44 $32.26
+MAYOR A 30,000 40,000 $589.51 $31.21
 
-MAYOR A 50,000 70,000 $1,194.99 $34.56
+MAYOR A 40,000 50,000 $901.58 $33.34
 
-MAYOR A 70,000 90,000 $1,886.34 $44.94
+MAYOR A 50,000 70,000 $1,234.90 $35.71
 
-MAYOR A 90,000 120,000 $2,785.09 $59.94
+MAYOR A 70,000 90,000 $1,949.34 $46.45
 
-MAYOR A 120,000 $4,583.11 $94.38
+MAYOR A 90,000 120,000 $2,878.11 $61.94
+
+MAYOR A 120,000 $4,736.19 $97.53
 
 Las tarifas se aplicarán ubicando el rango de consumo, de acuerdo con la lectura del medidor, donde se pagará la cuota mínima correspondiente más el producto del excedente sobre el límite inferior por la cuota adicional.
 
@@ -4466,9 +4568,9 @@ Las tarifas se aplicarán ubicando el rango de consumo, de acuerdo con la lectur
 
 El cálculo del consumo de agua se realizará por medio de lecturas a los aparatos medidores de las que se obtendrá la diferencia de las últimas dos lecturas tomadas, de conformidad con lo establecido en el último párrafo del artículo 174 de este Código y ésta será dividida entre el número de días naturales transcurridos entre ellas, para obtener el consumo promedio diario, el cual se multiplicará por los días naturales del bimestre a calcular para obtener el consumo bimestral.
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Cuota Fija: Tratándose de tomas de agua de uso doméstico ubicadas en una zona con dictamen técnico emitido por el Sistema de Aguas y cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial de la Ciudad de México que cataloga el suministro de agua como servicio por tandeo, se aplicará una cuota fija de $3,745.34, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a lo siguiente:
+b) Cuota Fija: Tratándose de tomas de agua de uso doméstico ubicadas en una zona con dictamen técnico emitido por el Sistema de Aguas y cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial de la Ciudad de México que cataloga el suministro de agua como servicio por tandeo, se aplicará una cuota fija de $3,870.43, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a lo siguiente:
 
 > <small>(REFORMADA EN SUS CUOTAS, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4488,23 +4590,25 @@ Alta 79.3905%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Clasificación de la Manzana Cuota Fija Bimestral
+CLASIFICACIÓN DE LA CUOTA FIJA BIMESTRAL
 
-en que se ubique el inmueble Expresada en Pesos
+MANZANA EN QUE SE EXPRESADA EN PESOS
 
-y esté instalada una toma de
+UBIQUE EL INMUEBLE Y
 
-agua
+ESTÉ INSTALADA UNA
 
-Popular $112.33
+TOMA DE AGUA
 
-Baja $178.27
+Popular $116.09
 
-Media $450.99
+Baja $184.22
 
-Alta $771.90
+Media $466.05
+
+Alta $797.68
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4514,9 +4618,9 @@ Los usuarios a que se refiere este inciso podrán renunciar a este beneficio y m
 
 c) A Falta de Aparato Medidor de Consumo Instalado, en Proceso de Instalación o por Imposibilidad material para ser Instalado: Tratándose de tomas de agua de uso doméstico que no cuenten con aparato medidor de consumo, ya sea porque la autoridad aún no lo ha instalado, se encuentre en proceso de instalación; o exista la imposibilidad material para ser instalado, se pagará el derecho considerando el consumo promedio que corresponda a la colonia catastral en que se encuentre el inmueble en que esté instalada la toma, de acuerdo a la tarifa establecida en el inciso a), aplicando el subsidio correspondiente, siempre que en dicha colonia catastral el número de tomas con servicio medido sea mayor o igual al 70% del total de tomas existentes en esa colonia.
 
-> <small>(DEROGADO [N. DE E. REFORMADO EN SUS CUOTAS], P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En los casos que no se cumpla esa condición, se aplicará una cuota fija de $3,745.34, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a la tarifa indicada en el inciso b).
+En los casos que no se cumpla esa condición, se aplicará una cuota fija de $3,870.43, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a la tarifa indicada en el inciso b).
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4536,37 +4640,37 @@ II. USO DOMÉSTICO Y NO DOMÉSTICO SIMULTÁNEAMENTE (MIXTO).
 
 a) Servicio Medido: A los usuarios del servicio de agua potable con uso doméstico y no doméstico simultáneamente (mixto) que cuenten con aparato medidor de consumo, el pago de los Derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 TARIFA SIN SUBSIDIO
 
-Consumo en Litros Tarifa
+CONSUMO EN LITROS TARIFA
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-por cada 1,000
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-Litros
+LITROS
 
-Excedentes al
+EXCEDENTES
 
-Límite Inferior
+AL LÍMITE INFERIOR
 
-0 10,000 $516.81 $0.00
+0 10,000 $534.07 $0.00
 
-MAYOR A 10,000 20,000 $516.81 $34.46
+MAYOR A 10,000 20,000 $534.07 $35.61
 
-MAYOR A 20,000 30,000 $861.32 $52.43
+MAYOR A 20,000 30,000 $890.09 $54.18
 
-MAYOR A 30,000 50,000 $1,385.61 $52.43
+MAYOR A 30,000 50,000 $1,431.89 $54.18
 
-MAYOR A 50,000 70,000 $2,434.19 $52.43
+MAYOR A 50,000 70,000 $2,515.49 $54.18
 
-MAYOR A 70,000 90,000 $3,482.74 $55.43
+MAYOR A 70,000 90,000 $3,599.06 $57.28
 
-MAYOR A 90,000 120,000 $4,591.23 $61.42
+MAYOR A 90,000 120,000 $4,744.58 $63.47
 
-MAYOR A 120,000 $6,433.97 $94.38
+MAYOR A 120,000 $6,648.86 $97.53
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -4604,33 +4708,37 @@ MAYOR A 120,000 34.5521 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Popular
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+POPULAR
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros Excedentes
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-al Límite Inferior
+LITROS
 
-0 10,000 $44.94 $0.00
+EXCEDENTES
 
-MAYOR A 10,000 20,000 $44.94 $8.08
+AL LÍMITE INFERIOR
 
-MAYOR A 20,000 30,000 $125.77 $15.81
+0 10,000 $46.44 $0.00
 
-MAYOR A 30,000 50,000 $283.83 $21.85
+MAYOR A 10,000 20,000 $46.44 $8.35
 
-MAYOR A 50,000 70,000 $720.74 $35.98
+MAYOR A 20,000 30,000 $129.97 $16.33
 
-MAYOR A 70,000 90,000 $1,440.36 $48.62
+MAYOR A 30,000 50,000 $293.31 $22.58
 
-MAYOR A 90,000 120,000 $2,412.88 $59.93
+MAYOR A 50,000 70,000 $744.81 $37.18
 
-MAYOR A 120,000 $4,210.90 $94.38
+MAYOR A 70,000 90,000 $1,488.46 $50.24
+
+MAYOR A 90,000 120,000 $2,493.47 $61.93
+
+MAYOR A 120,000 $4,351.54 $97.53
 
 SUBSIDIO PARA MANZANA TIPO BAJA
 
@@ -4664,33 +4772,37 @@ MAYOR A 120,000 31.0595 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Baja
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+BAJA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros Excedentes
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-al Límite Inferior
+LITROS
 
-0 10,000 $50.94 $0.00
+EXCEDENTES
 
-MAYOR A 10,000 20,000 $50.94 $9.04
+AL LÍMITE INFERIOR
 
-MAYOR A 20,000 30,000 $141.28 $18.12
+0 10,000 $52.64 $0.00
 
-MAYOR A 30,000 50,000 $322.47 $24.67
+MAYOR A 10,000 20,000 $52.64 $9.34
 
-MAYOR A 50,000 70,000 $815.92 $41.76
+MAYOR A 20,000 30,000 $146.00 $18.72
 
-MAYOR A 70,000 90,000 $1,651.19 $49.31
+MAYOR A 30,000 50,000 $333.24 $25.50
 
-MAYOR A 90,000 120,000 $2,637.59 $59.93
+MAYOR A 50,000 70,000 $843.17 $43.16
 
-MAYOR A 120,000 $4,435.61 $94.38
+MAYOR A 70,000 90,000 $1,706.34 $50.96
+
+MAYOR A 90,000 120,000 $2,725.69 $61.93
+
+MAYOR A 120,000 $4,583.76 $97.53
 
 SUBSIDIO PARA MANZANA TIPO MEDIA
 
@@ -4726,33 +4838,37 @@ MAYOR A 120,000 19.1516% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Media
+CONSUMO EN LITROS TARIFA CLASIFICACIÓN
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+MEDIA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros Excedentes
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-al Límite Inferior
+LITROS
 
-0 0,000 $168.53 $0.00
+EXCEDENTES
 
-MAYOR A 10,000 20,000 $168.53 $20.69
+AL LÍMITE INFERIOR
 
-MAYOR A 20,000 30,000 $375.42 $36.11
+0 10,000 $174.16 $0.00
 
-MAYOR A 30,000 50,000 $736.52 $40.29
+MAYOR A 10,000 20,000 $174.16 $21.38
 
-MAYOR A 50,000 70,000 $1,542.23 $43.06
+MAYOR A 20,000 30,000 $387.96 $37.32
 
-MAYOR A 70,000 90,000 $2,403.46 $50.01
+MAYOR A 30,000 50,000 $761.12 $41.63
 
-MAYOR A 90,000 120,000 $3,403.74 $59.93
+MAYOR A 50,000 70,000 $1,593.74 $44.50
 
-MAYOR A 120,000 $5,201.76 $94.38
+MAYOR A 70,000 90,000 $2,483.74 $51.68
+
+MAYOR A 90,000 120,000 $3,517.43 $61.93
+
+MAYOR A 120,000 $5,375.50 $97.53
 
 SUBSIDIO PARA MANZANA TIPO ALTA
 
@@ -4786,41 +4902,45 @@ MAYOR A 120,000 16.9163% 0.0000%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa Clasificación Alta
+CONSUMO EN LITROS TARIFA CLASIFICACIÓ
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+ALTA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros Excedentes
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-al Límite Inferior
+LITROS
 
-0 10,000 $202.23 $0.00
+EXCEDENTES
 
-MAYOR A 10,000 20,000 $202.23 $20.98
+AL LÍMITE INFERIOR
 
-MAYOR A 20,000 30,000 $411.94 $36.82
+0 10,000 $208.98 $0.00
 
-MAYOR A 30,000 50,000 $780.11 $41.67
+MAYOR A 10,000 20,000 $208.98 $21.68
 
-MAYOR A 50,000 70,000 $1,613.58 $45.30
+MAYOR A 20,000 30,000 $425.70 $38.05
 
-MAYOR A 70,000 90,000 $2,519.53 $51.40
+MAYOR A 30,000 50,000 $806.17 $43.07
 
-MAYOR A 90,000 120,000 $3,547.56 $59.93
+MAYOR A 50,000 70,000 $1,667.47 $46.81
 
-MAYOR A 120,000 $5,345.58 $94.38
+MAYOR A 70,000 90,000 $2,603.68 $53.11
+
+MAYOR A 90,000 120,000 $3,666.05 $61.93
+
+MAYOR A 120,000 $5,524.12 $97.53
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 El cálculo del consumo de agua se realizará por medio de lecturas a los aparatos medidores de las que se obtendrá la diferencia de las últimas dos lecturas tomadas, de conformidad con lo establecido en el último párrafo del artículo 174 de este Código y ésta será dividida entre el número de días naturales transcurridos entre ellas, para obtener el consumo promedio diario, el cual se multiplicará por los días naturales del bimestre a calcular para obtener el consumo bimestral.
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Cuota Fija por Falta de Aparato Medidor de Consumo Instalado, en Proceso de Instalación o por Imposibilidad Material para ser Instalado: Tratándose de tomas de agua de uso doméstico y no doméstico simultáneamente (mixto) que no cuenten con aparato medidor de consumo, ya sea porque la autoridad aún no lo ha instalado o se encuentre en proceso de instalación; o exista la imposibilidad material para ser instalado, por tratarse de una zona con dictamen técnico emitido por el Sistema de Aguas, que cataloga el suministro de agua como servicio por tandeo, se aplicará una cuota fija de $3,745.34, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a lo siguiente:
+b) Cuota Fija por Falta de Aparato Medidor de Consumo Instalado, en Proceso de Instalación o por Imposibilidad Material para ser Instalado: Tratándose de tomas de agua de uso doméstico y no doméstico simultáneamente (mixto) que no cuenten con aparato medidor de consumo, ya sea porque la autoridad aún no lo ha instalado o se encuentre en proceso de instalación; o exista la imposibilidad material para ser instalado, por tratarse de una zona con dictamen técnico emitido por el Sistema de Aguas, que cataloga el suministro de agua como servicio por tandeo, se aplicará una cuota fija de $3,870.43, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código podrá ser Popular, Baja, Media o Alta, de acuerdo a lo siguiente:
 
 > <small>(REFORMADA EN SUS CUOTAS, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4840,23 +4960,25 @@ Alta 68.8684%
 
 Lo cual se traduce en lo siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Clasificación de la Manzana Cuota Fija Bimestral
+CLASIFICACIÓN DE LA CUOTA FIJA BIMESTRAL
 
-en que se ubique el inmueble Expresada en Pesos
+MANZANA EN QUE SE EXPRESADA EN PESOS
 
-y esté instalada una toma de
+UBIQUE EL INMUEBLE
 
-agua
+Y ESTÉ INSTALADA UNA
 
-Popular $443.94
+TOMA DE AGUA
 
-Baja $485.74
+POPULAR $458.77
 
-Media $878.91
+BAJA $501.96
 
-Alta $1,165.98
+MEDIA $908.26
+
+ALTA $1,204.93
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4876,37 +4998,41 @@ a) Servicio Medido: Las tomas de agua instaladas en inmuebles distintos a los se
 
 TARIFA
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Consumo en Litros Tarifa
+TARIFA
 
-Límite Inferior Límite Superior Cuota Mínima Cuota Adicional
+CONSUMO EN LITROS TARIFA
 
-por cada 1,000
+LÍMITE LÍMITE CUOTA CUOTA ADICIONAL
 
-Litros Excedentes
+INFERIOR SUPERIOR MÍNIMA POR CADA 1,000
 
-al Límite Inferior
+LITROS
 
-0 10,000 $516.81 $0.00
+EXCEDENTES
 
-MAYOR A 10,000 20,000 $516.81 $34.46
+AL LÍMITE INFERIOR
 
-MAYOR A 20,000 30,000 $861.32 $52.43
+0 10,000 $534.07 $0.00
 
-MAYOR A 30,000 50,000 $1,385.61 $52.43
+MAYOR A 10,000 20,000 $534.07 $35.61
 
-MAYOR A 50,000 70,000 $2,434.19 $52.43
+MAYOR A 20,000 30,000 $890.09 $54.18
 
-MAYOR A 70,000 90,000 $3,482.74 $55.43
+MAYOR A 30,000 50,000 $1,431.89 $54.18
 
-MAYOR A 90,000 120,000 $4,591.23 $61.42
+MAYOR A 50,000 70,000 $2,515.49 $54.18
 
-MAYOR A 120,000 $6,433.97 $94.38
+MAYOR A 70,000 90,000 $3,599.06 $57.28
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G. O. 23 DE DICIEMBRE DE 2019)</small>
+MAYOR A 90,000 120,000 $4,744.58 $63.47
 
-> <small>(DEROGADO TERCER PÁRRAFO, G. O. 23 DE DICIEMBRE DE 2019)</small>
+MAYOR A 120,000 $6,648.86 $97.53
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 > <small>(DEROGADO CUARTO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4918,41 +5044,43 @@ El cálculo del consumo de agua se realizará por medio de lecturas a los aparat
 
 b) Cuota fija: por falta de aparato medidor de consumo, en proceso de instalación o por imposibilidad material para ser instalado, se pagará una cuota fija bimestral considerando el diámetro de la toma, conforme a lo siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de la Toma Cuota Fija Bimestral
+DIÁMETRO DE LA CUOTA FIJA BIMESTRAL
 
-en Milímetros Expresada en Pesos
+TOMA EN EXPRESADA EN PESOS
 
-13 $2,720.16
+MILÍMETROS
 
-MAS DE 13 A 15 $14,135.44
+13 $2,811.01
 
-MAS DE 15 A 19 $23,127.79
+MAS DE 13 A 15 $14,607.56
 
-MAS DE 19 A 26 $44,968.20
+MAS DE 15 A 19 $23,900.26
 
-MAS DE 26 A 32 $69,383.42
+MAS DE 19 A 26 $46,470.14
 
-MAS DE 32 A 39 $101,504.97
+MAS DE 26 A 32 $71,700.83
 
-MAS DE 39 A 51 $179,882.90
+MAS DE 32 A 39 $104,895.24
 
-MAS DE 51 A 64 $269,818.61
+MAS DE 39 A 51 $185,890.99
 
-MAS DE 64 A 76 $385,456.89
+MAS DE 51 A 64 $278,830.55
 
-MAS DE 76 A 102 $783,760.39
+MAS DE 64 A 76 $398,331.15
 
-MAS DE 102 A 150 $3,006,567.38
+MAS DE 76 A 102 $809,937.99
 
-MAS DE 150 A 200 $4,702,574.49
+MAS DE 102 A 150 $3,106,986.73
 
-MAS DE 200 A 250 $5,738,537.20
+MAS DE 150 A 200 $4,859,640.48
 
-MAS DE 250 A 300 $6,771,192.56
+MAS DE 200 A 250 $5,930,204.34
 
-MAS DE 300 EN ADELANTE $7,182,354.92
+MAS DE 250 A 300 $6,997,350.39
+
+MAS DE 300 EN ADELANTE $7,422,245.57
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -5000,25 +5128,25 @@ Las personas físicas y las morales que usen o aprovechen agua residual o residu
 
 I. Tratándose de agua potable:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a). De tomas de válvula de tipo cuello de garza $62.91 por m³
+a). De tomas de válvula de tipo cuello de garza $65.01 por m³
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b). Cuando se surta en camiones cisternas para su comercialización incluyendo transporte en la Ciudad de México $114.59 por m³
+b). Cuando se surta en camiones cisterna para su comercialización incluyendo transporte en la Ciudad de México $118.42 por m³
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Agua residual $4.48 por m³
+II. Agua residual $4.63 por m³
 
 III. Agua residual tratada a nivel secundario:
 
 a). De tomas de válvula del tipo cuello de garza, el 40% de la cuota prevista en el inciso a) de la fracción I de este artículo;
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b). Cuando exista toma y medidor en el inmueble $41.01 por m³
+b). Cuando exista toma y medidor en el inmueble $42.38 por m³
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5028,9 +5156,9 @@ IV. Agua residual tratada a nivel terciario:
 
 a). De tomas de válvula del tipo cuello de garza, el 60% de la cuota prevista en el inciso a) de la fracción I de este artículo.
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b). Cuando exista toma y medidor en el inmueble $58.30 por m³
+b). Cuando exista toma y medidor en el inmueble $60.25 por m³
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5044,9 +5172,9 @@ Cuando se trate de predios subdivididos de manera informal, podrá asignarse una
 
 La determinación de los derechos por el suministro de agua potable, residual y residual tratada, se realizará por periodos bimestrales y el pago se deberá efectuar dentro del mes siguiente al bimestre que se declara en las fechas límites que al efecto establezca el Sistema de Aguas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Tratándose de las tomas a que se refieren los artículos 172 y 173 de este Código, la determinación de los derechos a pagar será efectuada por la autoridad fiscal de la Ciudad de México, de acuerdo a las disposiciones establecidas en esta Sección y se hará constar en las boletas que para tal efecto se emitan. Dichas boletas serán enviadas mediante correo ordinario u otro medio idóneo al domicilio en que se encuentre ubicada la toma o al que señalen los usuarios. Los usuarios que no reciban las boletas a que se refiere esta fracción, deberán dar aviso oportuno y por escrito en las oficinas del Sistema de Aguas, debiendo solicitar la sustitución del documento en el acto, ya que la falta de recepción de las mismas no los libera de la obligación de efectuar el pago dentro del plazo establecido.
+I. Tratándose de las tomas a que se refieren los artículos 172 y 173 de este Código, la determinación de los derechos a pagar será efectuada por la autoridad fiscal de la Ciudad de México, de acuerdo a las disposiciones establecidas en esta Sección y se hará constar en las boletas que para tal efecto se emitan. Dichas boletas serán enviadas mediante correo ordinario, correo electrónico u otro medio idóneo al domicilio en que se encuentre ubicada la toma o al que señalen los usuarios, o bien, a través de los medios electrónicos que para tal efecto habilite la autoridad fiscal. Los usuarios que no reciban las boletas a que se refiere esta fracción, deberán dar aviso oportuno y por escrito en las oficinas del Sistema de Aguas, y en su caso, solicitar la emisión de un documento que avale el resumen de los datos contenidos en la boleta emitida; ya que la falta de recepción de las mismas no los libera de la obligación de efectuar el pago dentro del plazo establecido.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5188,9 +5316,9 @@ Quedarán exentos de lo anterior, los predios que se ubiquen en las colonias cat
 
 En el caso de viviendas plurifamiliares con una sola toma de agua, será optativa la instalación de medidores en cada ramificación, sin embargo, deberán contar con un medidor en la toma general para hacer posible el prorrateo del consumo.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Conservar y resguardar los aparatos medidores y sus aditamentos, así como los elementos que conforman el cuadro donde está instalado, en condiciones adecuadas de operación y, en caso de pérdida de su posesión o destrucción, deberán solicitar al Sistema de Aguas, la instalación de un nuevo medidor, previo pago de los derechos establecidos en el artículo 181, Apartado A, fracción III de éste Código.
+II. Conservar y resguardar los aparatos medidores y sus aditamentos, así como los elementos que conforman el cuadro donde está instalado, en condiciones adecuadas de operación y, en caso de pérdida de su posesión o destrucción, deberán solicitar al Sistema de Aguas, la instalación de un nuevo medidor, realizando el pago de los derechos establecidos en el artículo 181, Apartado A, fracción III de éste Código, dicho pago se incluirá en la boleta de cobro durante un plazo máximo de 18 bimestres posteriores a la instalación del medidor, o bien, el usuario podrá efectuar el pago en una sola exhibición.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -5270,9 +5398,9 @@ El Sistema de Aguas, restablecerá los servicios hidráulicos una vez cubiertos 
 
 No obstante lo anterior, la autoridad quedará facultada para suspender o restringir nuevamente el servicio, a partir del día siguiente a aquel en que deba hacerse el pago de una parcialidad, y el usuario entere un importe menor a ésta, u omita el pago de la misma.
 
-(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-Aquellos usuarios que acrediten tener la condición de jubilados, pensionados, adultos mayores, personas con discapacidad, madres jefas de familia, así como las personas que pertenezcan a pueblos y comunidades indígenas, y que acrediten ser propietarios del inmueble, se les podrá levantar la orden de restricción, siempre y cuando el valor catastral del inmueble de uso habitacional no exceda la cantidad de $1,041,493.00.
+Aquellos usuarios que acrediten tener la condición de jubilados, pensionados, adultos mayores, personas con discapacidad, madres jefas de familia, así como las personas que pertenezcan a pueblos y comunidades indígenas, y que acrediten ser propietarios del inmueble, se les podrá levantar la orden de restricción, siempre y cuando el valor catastral del inmueble de uso habitacional no exceda la cantidad de $1,076,279.00.
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -5304,27 +5432,31 @@ III. (DEROGADA, G.O. 23 DE DICIEMBRE DE 2019)
 
 IV. (DEROGADA, G.O. 23 DE DICIEMBRE DE 2019)
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $6,485.50
+V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $6,702.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $1,618.50
+V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $6,702.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por la revalidación de la autorización para operar y mantener un centro de verificación vehicular, por línea de verificación a gasolina y dual, una cuota de $21,874.00
+a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $1,673.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por la revalidación de la autorización para operar y mantener un centro de verificación vehicular, por línea de verificación a diesel, una cuota de $6,425.50
+VI. Por la revalidación de la autorización para operar y mantener un centro de verificación vehicular, por línea de verificación a gasolina y dual, una cuota de $22,605.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VII. Por la revalidación de la autorización para operar y mantener un centro de verificación vehicular, por línea de verificación a diesel, una cuota de $6,640.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 180.
 
-Por el canje o reposición del certificado, así como de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes se pagarán derechos por: $207.80
+Por el canje o reposición del certificado, así como de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes se pagarán derechos por: $215.00
 
 ARTICULO 180 BIS.- (DEROGADO, G.O. 23 DE DICIEMBRE DE 2019)
 
@@ -5344,221 +5476,221 @@ APARTADO A: AGUA POTABLE Y RESIDUAL TRATADA
 
 I. Conexión, reconstrucción o reducción o cambio de lugar de tomas domiciliarias de agua potable y agua residual tratada, en terrenos tipo I y II, con los diámetros que se especifican:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 13 mm $8,912.84
+a). 13 mm $9,210.53
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 19 mm $11,417.44
+b). 19 mm $11,798.78
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 mm $17,211.53
+c). 25 mm $17,786.40 20
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 32 mm $19,122.91
+d). 32 mm $19,761.62
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 mm $23,094.00
+e). 38 mm $23,865.34
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 51 mm $28,089.67
+f). 51 mm $29,027.86
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) 64 mm $31,173.96
+g). 64 mm $32,215.17
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-h) 76 mm $35,900.05
+h). 76 mm $37,099.11
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i) 102 mm $42,161.50
+i). 102 mm $43,569.69
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) 152 mm $46,613.41
+j). 152 mm $48,170.30
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) 202 mm $51,740.91
+k). 202 mm $53,469.06
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l) 252 mm $57,431.67
+l). 252 mm $59,349.89
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-m) 302 mm $63,750.04
+m). 302 mm $65,879.29
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
 II. Conexión, reconstrucción o reducción o cambio de lugar de tomas domiciliarias de agua potable yagua residual tratada, en terrenos tipo III, con los diámetros que se especifican:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 13 mm $9,275.35
+a). 13 mm $9,585.15
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 19 mm $14,572.12
+b). 19 mm $15,058.83
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 mm $27,689.72
+c). 25 mm $28,614.56
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 32 mm $29,613.11
+d). 32 mm $30,602.19
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 mm $35,317.31
+e). 38 mm $36,496.91
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 51 mm $40,314.49
+f). 51 mm $41,660.99
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) 64 mm $43,397.31
+g). 64 mm $44,846.78
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-h) 76 mm $49,868.45
+h). 76 mm $51,534.06
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i) 102 mm $56,131.43
+i). 102 mm $58,006.22
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) 152 mm $62,055.86
+j). 152 mm $64,128.53
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) 202 mm $68,882.05
+k). 202 mm $71,182.71
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l) 252 mm $76,458.70
+l). 252 mm $79,012.42
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-m) 302 mm $84,871.24
+m). 302 mm $87,705.94
 
 III. Instalación de medidor, atendiendo al diámetro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 13 mm $4,418.98
+a). 13 mm $4,566.57
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 19 mm $6,388.77
+b). 19 mm $6,602.15
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 mm $8,635.73
+c). 25 mm $8,924.16
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 32 mm $13,670.33
+d). 32 mm $14,126.92
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 mm $17,975.47
+e). 38 mm $18,575.85
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 51 mm $27,048.60
+f). 51 mm $27,952.02
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) 64 mm $30,821.98
+g). 64 mm $31,851.43
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-h) 76 mm $34,330.62
+h). 76 mm $35,477.26
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i) 102 mm $47,907.67
+i). 102 mm $49,507.79
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) 152 mm $140,096.40
+j). 152 mm $144,775.62
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) 202 mm $153,353.31
+k). 202 mm $158,475.31
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l) 252 mm $204,721.25
+l). 252 mm $211,558.94
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-m) 302 mm $245,664.90
+m). 302 mm $253,870.11
 
 IV. Armado de cuadro, atendiendo al diámetro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 13 mm $768.45
+a). 13 mm $794.12
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 19 mm $1,235.81
+b). 19 mm $1,277.09
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 mm $1,806.55
+c). 25 mm $1,866.89
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 32 mm $3,135.24
+d). 32 mm $3,239.96
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 mm $4,038.49
+e). 38 mm $4,173.38
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 51 mm $5,925.91
+f). 51 mm $6,123.84
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) 64 mm $41,058.99
+g). 64 mm $42,430.36
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-h) 76 mm $55,270.12
+h). 76 mm $57,116.14
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i) 102 mm $76,809.24
+i). 102 mm $79,374.67
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) 152 mm $106,181.18
+j). 152 mm $109,727.63
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) 202 mm $171,634.39
+k). 202 mm $177,366.98
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l) 252 mm $247,243.75
+l). 252 mm $255,501.69
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-m) 302 mm $296,692.79
+m). 302 mm $306,602.33
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2011)</small>
 
@@ -5566,17 +5698,17 @@ V. Reinstalación de servicio hidráulico
 
 A. Diámetros de 13 a 38 mm
 
-(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) Por Cuadro $431.78
+a). Por Cuadro $446.20
 
-(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Por Banqueta $1,439.24
+b). Por Banqueta $1,487.31 22
 
-(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 19 DE MAYO DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) Por Arroyo $3,598.08
+c). Por Arroyo $3,718.26
 
 > <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
 
@@ -5584,23 +5716,23 @@ No serán sujetos del pago establecido en el inciso a) de la presente fracción 
 
 B. Diámetros mayores a 38 mm
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por Cuadro $1,459.00
+a). Por Cuadro $1,507.73
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por Banqueta $9,234.91
+b). Por Banqueta $9,543.36
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por Arroyo $18,471.31
+c). Por Arroyo $19,088.25
 
 Además, en los predios en que exista más de un usuario, que se sirvan de una misma toma, cada usuario deberá cubrir los derechos de la instalación de medidor y del armado de cuadro en el caso en que no cuente con dicho cuadro o el armado sea incorrecto, en el diámetro que le corresponda, de acuerdo con las cuotas establecidas.
 
 El pago de los derechos por instalación de medidor y por armado de cuadro a que se refieren las fracciones III y IV del Apartado A de este artículo, podrá realizarse a plazos, ya sea diferido o en parcialidades, en términos del artículo 45 de este Código, procediendo en este caso la instalación de medidor y el armado del cuadro una vez cubierta la primera parcialidad autorizada.
 
-> <small>(REFORMADO, G. O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Los ingresos excedentes a los asignados en la Ley de Ingresos que se generen de los derechos a que se refiere la fracción III de este artículo se destinarán bimestralmente al Sistema de Aguas como ampliación líquida de su presupuesto, para lo cual se deberá observar lo dispuesto en el Título Tercero, Capítulo III de la Ley de Austeridad y demás normatividad aplicable.
 
@@ -5626,83 +5758,83 @@ APARTADO B: DRENAJE
 
 I. Conexión, reconstrucción o cambio de diámetro de descargas domiciliarias, en terrenos tipo I y II, con los diámetros siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 15 cm $11,654.09
+a). 15 cm $12,043.34
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 20 cm $16,437.10
+b). 20 cm $16,986.10
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 cm $25,072.51
+c). 25 cm $25,909.93
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 30 cm $29,416.86
+d). 30 cm $30,399.38
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 cm $33,805.87
+e). 38 cm $34,934.99
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 45 cm $37,290.14
+f). 45 cm $38,535.63
 
 II. Conexión, reconstrucción o cambio de diámetro de descargas domiciliarias, en terrenos tipo III, de conformidad con los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 15 cm $15,029.01
+a). 15 cm $15,530.98
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 20 cm $22,807.88
+b). 20 cm $23,569.66
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 cm $45,266.76
+c). 25 cm $46,778.67
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 30 cm $52,618.72
+d). 30 cm $54,376.19
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 cm $64,836.05
+e). 38 cm $67,001.57
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 45 cm $72,387.26
+f). 45 cm $74,804.99
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 III. Reinstalación de descargas domiciliarias, por banqueta o por arroyo, con los diámetros siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) 15 cm $6,739.60
+a). 15 cm $6,964.70
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) 20 cm $6,801.10
+b). 20 cm $7,028.26
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) 25 cm $6,937.67
+c). 25 cm $7,169.39
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) 30 cm $7,566.86
+d). 30 cm $7,819.59
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) 38 cm $7,802.33
+e). 38 cm $8,062.93
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) 45 cm $8,343.14
+f). 45 cm $8,621.80
 
 El monto de los derechos a que se refiere este artículo, incluye los materiales, mano de obra directa y el valor del medidor de agua.
 
@@ -5734,159 +5866,163 @@ I. Por el estudio de la solicitud y de la documentación técnica, administrativ
 
 1. Cuando el inmueble sea destinado a casa habitación, se atenderá al diámetro de la toma de agua y se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, G. O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de la Toma Cuota a Pagar
+DIÁMETRO DE LA TOMA CUOTA A PAGAR
 
-13 mm $4,194.26
+13 mm $4,334.35
 
-19 mm $9,969.94
+19 mm $10,302.94
 
-25 mm $23,678.64
+25 mm $24,469.51
 
-38 mm $66,206.68
+38 mm $68,417.98
 
-51 mm $252,571.97
+51 mm $261,007.87
 
-64 mm $407,833.11
+64 mm $421,454.74
 
-76 mm $582,307.17
+76 mm $601,756.23
 
-102 mm $1,062,941.65
+102 mm $1,098,443.90
 
-152 mm $1,319,777.48
+152 mm $1,363,858.05
 
-202 mm $1,715,710.84
+202 mm $1,773,015.58
 
-252 mm $2,230,423.95
+252 mm $2,304,920.11
 
-302 mm $2,899,551.14
+302 mm $2,996,396.15
 
 2. Tratándose de inmuebles cuyo destino sea distinto al habitacional, se pagará atendiendo al diámetro de la toma de agua, las siguientes cuotas:
 
-> <small>(REFORMADA, G. O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de la Toma Cuota a Pagar
+DIÁMETRO DE LA TOMA CUOTA A PAGAR
 
-13 mm $8,837.96
+13 mm $9,133.15
 
-19 mm $20,770.73
+19 mm $21,464.47
 
-25 mm $49,330.48
+25 mm $50,978.12
 
-38 mm $137,930.56
+38 mm $142,537.44
 
-51 mm $263,094.78
+51 mm $271,882.15
 
-64 mm $424,826.13
+64 mm $439,015.32
 
-76 mm $606,569.95
+76 mm $626,829.39
 
-102 mm $1,107,230.89
+102 mm $1,144,212.40
 
-152 mm $1,430,858.76
+152 mm $1,478,649.44
 
-202 mm $1,860,116.36
+202 mm $1,922,244.25
 
-252 mm $2,418,151.31
+252 mm $2,498,917.56
 
-302 mm $3,143,596.67
+302 mm $3,248,592.80
 
 II. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite del cambio de uso habitacional a uso distinto, se causará el 50% de la cuota prevista en el numeral 2 de la fracción I de este artículo;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, se pagará la cantidad de $1,497.95
+III. Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, se pagará la cantidad de $1,547.98
 
 IV. Cuando se trate del estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite y obtención de la autorización e instalación de una toma de agua de diámetro de entrada más grande que la ya existente, a fin de atender una mayor demanda de agua, los derechos que se causen serán con base en la siguiente tabla:
 
-> <small>(REFORMADA, G. O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de Entrada Diámetro de Entrada Cuota a Pagar
+DIÁMETRO DE DIÁMETRO DE CUOTA A
 
-de Toma Actual de Toma Solicitada en Pesos
+ENTRADA DE ENTRADA PAGAR
 
-(Milímetros) (Milímetros)
+TOMA ACTUAL DE TOMA EN PESOS
 
-13 19 $138,616.42
+(MILÍMETROS) SOLICITADA
 
-13 25 $462,479.16
+(MILÍMETROS)
 
-13 32 $833,009.24
+13 19 $143,246.21
 
-13 38 $1,318,816.08
+13 25 $477,925.96
 
-13 51 $2,429,374.22
+13 32 $860,831.75
 
-13 64 $3,933,448.59
+13 38 $1,362,864.54
 
-13 76 $5,646,763.58
+13 51 $2,510,515.32
 
-13 102 $10,612,807.67
+13 64 $4,064,825.77
 
-19 25 $323,867.21
+13 76 $5,835,365.48
 
-19 32 $694,392.83
+13 102 $10,967,275.45
 
-19 38 $1,180,201.15
+19 25 $334,684.37
 
-19 51 $2,290,617.01
+19 32 $717,585.55
 
-19 64 $3,794,833.69
+19 38 $1,219,619.87
 
-19 76 $5,508,147.16
+19 51 $2,367,123.62
 
-19 102 $10,474,195.74
+19 64 $3,921,581.14
 
-25 32 $370,521.08
+19 76 $5,692,119.28
 
-25 38 $856,324.94
+19 102 $10,824,033.88
 
-25 51 $1,866,927.42
+25 32 $382,896.48
 
-25 64 $3,470,963.45
+25 38 $884,926.19
 
-25 76 $5,184,525.57
+25 51 $1,929,282.80
 
-25 102 $10,150,318.02
+25 64 $3,586,893.63
 
-32 38 $485,803.85
+25 76 $5,357,688.72
 
-32 51 $1,596,368.00
+25 102 $10,489,338.64
 
-32 64 $3,100,406.42
+32 38 $502,029.70
 
-32 76 $4,813,754.34
+32 51 $1,649,686.69
 
-32 102 $9,779,798.45
+32 64 $3,203,959.99
 
-38 51 $1,110,568.65
+32 76 $4,974,533.73
 
-38 64 $2,614,631.02
+32 102 $10,106,443.72
 
-38 76 $4,327,969.98
+38 51 $1,147,661.64
 
-38 102 $9,293,996.08
+38 64 $2,701,959.70
 
-51 64 $1,504,062.38
+38 76 $4,472,524.18
 
-51 76 $3,217,393.83
+38 102 $9,604,415.55
 
-51 102 $8,183,434.95
+51 64 $1,554,298.06
 
-64 76 $1,713,323.96
+51 76 $3,324,854.78
 
-64 102 $6,679,362.06
+51 102 $8,456,761.68
 
-76 102 $4,966,042.62
+64 76 $1,770,548.98
+
+64 102 $6,902,452.75
+
+76 102 $5,131,908.44
 
 En los supuestos de causación de los derechos a que se refiere este artículo, el pago de estos derechos será requisito indispensable para la expedición de la autorización de cambio de uso del suelo o de registro de obra, así como para la expedición de la licencia de construcción de obra nueva o ampliación correspondiente, y servirá como base de la contribución para la determinación de las cuotas señaladas, la superficie construida que se autorice en la licencia respectiva.
 
 Cuando no se tenga la obligación de solicitar licencia de construcción, la base para el cálculo de la contribución será la superficie construida.
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-Por la autorización anual que el Sistema de Aguas otorgue para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se pagará por concepto de derechos la cantidad de $807.39 y por su revalidación, se cobrará el 50 por ciento del valor de la misma.
+Por la autorización anual que el Sistema de Aguas otorgue para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se pagará por concepto de derechos la cantidad de $834.36 y por su revalidación, se cobrará el 50 por ciento del valor de la misma.
 
 Se libera el pago del derecho por la autorización señalada en este artículo si el uso de las redes de agua y drenaje o la modificación de las condiciones de uso, son para reparar algún daño sufrido en dichas redes, originados por causas no imputables al usuario del servicio.
 
@@ -5944,55 +6080,55 @@ A) Inmuebles de uso habitacional
 
 I. Manifestación de construcción tipo A
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el registro $340.50
+a). Por el registro $352.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el análisis y estudio, por m2 $17.36
+b). Por el análisis y estudio, por m2 $18.00
 
 II. Manifestación de construcción tipo B
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el registro $621.00
+a). Por el registro $642.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el análisis y estudio, por m2 $59.13
+b). Por el análisis y estudio, por m2 $61.00
 
 III. Manifestación de construcción tipo C
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el registro $906.00
+a). Por el registro $936.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el análisis y estudio, por m2 $66.82
+b). Por el análisis y estudio, por m2 $69.00
 
 B) Inmuebles de uso no habitacional
 
 I. Manifestación de construcción tipo B
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el registro $674.50
+a). Por el registro $697.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el análisis y estudio, por m2 $98.32
+b). Por el análisis y estudio, por m2 $102.00
 
 II. Manifestación de construcción tipo C
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el registro $987.50
+a). Por el registro $1,020.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el análisis y estudio, por m2 $115.60
+b). Por el análisis y estudio, por m2 $119.50
 
 Para el caso de construcción de ampliaciones y reparaciones, se pagará por el registro, análisis y estudio de manifestación de construcción de que se trate, los derechos establecidos en los incisos A) y B) de este artículo, respecto de las áreas que se pretenda ampliar o reparar.
 
@@ -6010,79 +6146,79 @@ I. Para instalaciones subterráneas o aéreas en la vía pública:
 
 a) Excavaciones, rellenos, romper pavimento o hacer cortes en las banquetas y guarniciones de la vía pública, con un ancho de:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Hasta 40 cm de ancho por cada metro lineal $314.50
+1. Hasta 40 cm de ancho por cada metro lineal $325.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. De más de 40 cm de ancho por cada metro cuadrado $458.50
+2. De más de 40 cm de ancho por cada metro cuadrado $474.00
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 A cada una de las Alcaldías le corresponderá la mitad de los recursos que se recauden por derechos contemplados en el presente inciso sobre las licencias de construcciones que se efectúen dentro de sus límites geográficos. Estos recursos se harán públicos en sus páginas de internet oficiales y serán destinados al mantenimiento de las vialidades afectadas y para el desarrollo y mejora de la infraestructura de movilidad sustentable de la Alcaldía.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Perforación direccional por cada metro lineal $314.50
+b). Perforación direccional por cada metro lineal $325.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por cada poste de hasta 40 cm de diámetro $894.00
+c). Por cada poste de hasta 40 cm de diámetro $924.00
 
 II. Estaciones repetidoras de comunicación celular o inalámbrica:
 
 a) Para soportes de antenas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. De hasta 3 m de altura $1,987.50
+1. De hasta 3 m de altura $2,054.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. De hasta 15 m de altura $19,869.00
+2. De hasta 15 m de altura $20,533.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por cada metro adicional de altura $3,974.00
+3. Por cada metro adicional de altura $4,107.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por cada antena de radio frecuencia o de microondas $1,987.50
+b). Por cada antena de radio frecuencia o de microondas $2,054.00
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro, por cada m3 $120.20
+III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro, por cada m3 $124.00
 
 IV. Para tapiales que invadan la acera en una medida superior a 50 cm:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Hasta 2.50 metros de altura, por metro lineal o fracción $22.50
+a). Hasta 2.50 metros de altura, por metro lineal o fracción $23.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por la altura excedente a que se refiere el inciso anterior, por m2 o fracción $7.72
+b). Por la altura excedente a que se refiere el inciso anterior, por m2 o fracción $8.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por tapial ocupando banquetas en paso cubierto (túnel elevado), sobre la superficie ocupada, por día, por cada m2 $7.72
+c). Por tapial ocupando banquetas en paso cubierto (túnel elevado), sobre la superficie ocupada, por día, por cada m2 $8.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día, por cada m2 $17.35
+d). Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día, por cada m2 $18.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares, por cada m2 $22.51
+V. Ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares, por cada m2 $23.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, excepto obra nueva $11,921.50
+VI. Por instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, excepto obra nueva $12,320.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Demoliciones por la superficie cubierta, computando cada piso o planta, por cada m2 $17.35
+VII. Demoliciones por la superficie cubierta, computando cada piso o planta, por cada m2 $18.00
 
 Por la prórroga de la licencia para construcción de las obras a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
 
@@ -6114,25 +6250,25 @@ Las personas físicas o morales que exploten yacimientos de materiales pétreos 
 
 Para licencia nueva:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-De 1,000 a 50,000 m2 de proyecto de explotación $141,316.50
+De 1,000 a 50,000 m2 de proyecto de explotación $146,038.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-De 50,001 a 100,000 m2 de proyecto de explotación $376,846.50
+De 50,001 a 100,000 m2 de proyecto de explotación $389,439.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-De 100,001 a 300,000 m2 de proyecto de explotación $659,488.00
+De 100,001 a 300,000 m2 de proyecto de explotación $681,524.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-De 300,001 a 500,000 m2 de proyecto de explotación $942,111.00
+De 300,001 a 500,000 m2 de proyecto de explotación $973,591.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Mayores a 500,000 m2 de proyecto de explotación $1,318,958.00
+Mayores a 500,000 m2 de proyecto de explotación $1,363,030.00
 
 Para la revalidación, se cobrará el 50% del costo de la licencia nueva.
 
@@ -6140,29 +6276,29 @@ Para la revalidación, se cobrará el 50% del costo de la licencia nueva.
 
 Por la expedición del Permiso para la Celebración de Espectáculos Públicos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Musicales $5,041.00
+a). Musicales $5,209.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Deportivos $8,403.00
+b). Deportivos $8,684.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Taurinos $5,041.00
+c). Taurinos $5,209.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Teatrales $1,680.50
+d). Teatrales $1,737.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Cinematográficos $1,613.50
+e). Cinematográficos $1,667.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) Circenses $1,613.50
+f). Circenses $1,667.00
 
 > <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
@@ -6172,33 +6308,33 @@ Por la presentación de los Avisos, así como por la expedición y revalidación
 
 I. Por la expedición de Permiso para la operación de un giro mercantil de impacto vecinal, se pagarán:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $10,885.50
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios $11,249.00
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, $218.80, más la cantidad que resulte del inciso a) de la presente fracción.
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios $226.00, más la cantidad que resulte del inciso a) de la presente fracción.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, $435.00, más las cantidades que resulten de los incisos a) y b) de la presente fracción.
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, $450.00, más las cantidades que resulten de los incisos a) y b) de la presente fracción.
 
 Después de 300 metros cuadrados el costo del Permiso será lo que resulte de la suma de los incisos a), b) y c).
 
 II. Por la expedición de Permiso para la operación de un giro mercantil de impacto zonal, se pagarán:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $21,771.00
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios $22,498.00
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción $435.00, más la cantidad que resulte del inciso a) de la presente fracción.
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción $450.00, más la cantidad que resulte del inciso a) de la presente fracción.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, $871.50, más las cantidades que resulten de los incisos a) y b) de la presente fracción.
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, $901.00, más las cantidades que resulten de los incisos a) y b) de la presente fracción.
 
 d) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2012)
 
@@ -6206,23 +6342,23 @@ Después de 300 metros cuadrados el costo del Permiso será lo que resulte de la
 
 III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública, colocando enseres e instalaciones en los términos de la Ley de la materia, pagarán por el Aviso respectivo, una cuota anual por cada metro cuadrado que utilice, conforme a lo siguiente:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Para los establecimientos mercantiles de impacto zonal y vecinal $3,325.00
+a). Para los establecimientos mercantiles de impacto zonal y vecinal $3,436.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Para los establecimientos mercantiles de bajo impacto $1,673.50
+b). Para los establecimientos mercantiles de bajo impacto $1,729.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Tratándose de establecimientos mercantiles de impacto vecinal o de bajo impacto que requieran de un Permiso para operar como giro mercantil con impacto zonal, por una sola ocasión o por un periodo determinado de tiempo o por un solo evento en los términos de la Ley de la materia, pagarán una cuota por cada metro cuadrado de $24.01
+IV. Tratándose de establecimientos mercantiles de impacto vecinal o de bajo impacto que requieran de un Permiso para operar como giro mercantil con impacto zonal, por una sola ocasión o por un periodo determinado de tiempo o por un solo evento en los términos de la Ley de la materia, pagarán una cuota por cada metro cuadrado de $25.00
 
 V. Por el Aviso para realizar el traspaso de algún establecimiento mercantil en los términos de la Ley de la materia, se pagará una cuota equivalente al 30% del monto de los derechos previstos en este artículo para la expedición del Permiso, independientemente del término transcurrido de la vigencia de dicho Permiso.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el Aviso para realizar modificaciones a la superficie de algún establecimiento mercantil de impacto vecinal y/o zonal, se pagarán derechos conforme a una cuota de $1,673.50
+VI. Por el Aviso para realizar modificaciones a la superficie de algún establecimiento mercantil de impacto vecinal y/o zonal, se pagarán derechos conforme a una cuota de $1,729.00
 
 Para efectos de la revalidación del Permiso a que hacen referencia las fracciones I y II, se cobrará el 30% del valor del mismo al finalizar el periodo de vigencia que refiere la Ley de la materia.
 
@@ -6236,13 +6372,13 @@ El Permiso a que se refiere la fracción IV no será objeto de prórroga ni reva
 
 Por los siguientes servicios prestados en los términos de la reglamentación de construcciones de la Ciudad de México, se pagarán las cuotas que se indican:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $2,246.50
+I. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $2,322.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Por las subsiguientes $1,133.00
+Por las subsiguientes $1,171.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -6254,53 +6390,53 @@ Por la expedición de licencias, permisos y autorizaciones temporales de anuncio
 
 I. Licencia para la instalación de anuncios:
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) Autosoportados de propaganda comercial en los corredores publicitarios, por metro cuadrado de cartelera por año $801.00
+a). Autosoportados de propaganda comercial en los corredores publicitarios, por metro cuadrado de cartelera por año $828.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Denominativos en inmuebles ubicados en vías primarias y secundarias, por metro cuadrado $6,305.50
+b). Denominativos en inmuebles ubicados en vías primarias y secundarias, por metro cuadrado $6,516.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Denominativos en inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $6,305.50
+c). Denominativos en inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $6,516.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Denominativos en inmuebles ubicados en Suelo de Conservación, por metro cuadrado $6,305.50
+d). Denominativos en inmuebles ubicados en Suelo de Conservación, por metro cuadrado $6,516.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Anuncios mixtos permitidos por la ley de la materia, por metro cuadrado $6,420.50
+e). Anuncios mixtos permitidos por la ley de la materia, por metro cuadrado $6,635.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) El mobiliario urbano, por metro cuadrado $1,892.00
+f). El mobiliario urbano, por metro cuadrado $1,955.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-g) En vallas ubicadas en vías primarias y secundarias, por metro cuadrado por año $2,136.00
+g). En vallas ubicadas en vías primarias y secundarias, por metro cuadrado por año $2,207.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-h) En vallas ubicadas en vías primarias y secundarias, con pantalla electrónica, por metro cuadrado por año $2,265.00
+h). En vallas ubicadas en vías primarias y secundarias, con pantalla electrónica, por metro cuadrado por año $2,341.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-i) Autosoportados de propaganda comercial con pantalla electrónica en los corredores publicitarios, por metro cuadrado de cartelera por año $930.00
+i). Autosoportados de propaganda comercial con pantalla electrónica en los corredores publicitarios, por metro cuadrado de cartelera por año $961.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) En muros ciegos, por metro cuadrado $801.00
+j). En muros ciegos, por metro cuadrado $828.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) En muros ciegos con pantalla electrónica $930.00
+k). En muros ciegos con pantalla electrónica $961.00
 
-(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-l) En mobiliario urbano con pantalla electrónica, por metro cuadrado $2,365.00
+l). En mobiliario urbano con pantalla electrónica, por metro cuadrado $2,444.00
 
 Por la prórroga de las licencias a que se refiere esta fracción, se cobrará el monto que por su expedición establezca el Código Fiscal vigente.
 
@@ -6312,73 +6448,77 @@ Los establecimientos mercantiles que tengan como giro comercial: estéticas, pel
 
 II. Autorización temporal para la instalación de anuncios:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) En tapiales ubicados en vías primarias y secundarias, por metro cuadrado $1,286.00
+a). En tapiales ubicados en vías primarias y secundarias, por metro cuadrado $1,329.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) En tapiales en nodos publicitarios, por metro cuadrado $1,286.00
+b). En tapiales en nodos publicitarios, por metro cuadrado $1,329.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) En tapiales de inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $1,429.50
+c). En tapiales de inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $1,477.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) En tapiales con pantalla electrónica, ubicados en vías primarias y secundarias por metro cuadrado $1,414.50
+d). En tapiales con pantalla electrónica, ubicados en vías primarias y secundarias por metro cuadrado $1,462.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) En tapiales con pantalla electrónica en nodos publicitarios, por metro cuadrado $1,414.50
+e). En tapiales con pantalla electrónica en nodos publicitarios, por metro cuadrado $1,462.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-f) En tapiales con pantalla electrónica, de inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $1,557.00
+f). En tapiales con pantalla electrónica, de inmuebles ubicados en áreas de Conservación Patrimonial y demás elementos del patrimonio cultural urbano, por metro cuadrado $1,609.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) De información cívica o cultural, contenidos en pendones o gallardetes, colocados en el inmueble a que se refiera el evento publicitado, así como en los postes de las vías públicas adyacentes, por pendón o gallardete $71.98
+g). De información cívica o cultural, contenidos en pendones o gallardetes, colocados en el inmueble a que se refiera el evento publicitado, así como en los postes de las vías públicas adyacentes, por pendón o gallardete $74.50
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 III. Por la expedición de permisos por un año, para contratar y colocar anuncios publicitarios en los vehículos que prestan el servicio público, mercantil, privado de pasajeros y carga, de conformidad con la legislación aplicable, se pagarán los derechos siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) De 0 m2 hasta 3.0 m2 $1,803.50
+a). De 0 m2 hasta 3.0 m2 $1,864.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) De 3.01 m2 hasta 30.0 m2 $7,994.00
+b). De 3.01 m2 hasta 30.0 m2 $8,261.00
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la colocación de anuncios de publicidad en ciclotaxis, el anunciante pagará por la expedición del permiso $161.40
+IV. Por la expedición de permisos por un año, para contratar y colocar anuncios publicitarios de tipo identificativo en bicicletas del Sistema de Transporte Individual en Bicicleta Pública, el prestador del servicio deberá pagar por bicicleta $167.00
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
+
+V. Por la colocación de anuncios de publicidad en ciclotaxis, el anunciante pagará por la expedición del permiso $167.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Por cualquier otro servicio distinto a los señalados en las fracciones I y II se cobrarán las siguientes cuotas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por licencia, para anuncios con pantalla electrónica, por metro cuadrado $1,809.00
+a). Por licencia, para anuncios con pantalla electrónica, por metro cuadrado $1,869.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por licencia, para anuncios, por metro cuadrado $1,680.50
+b). Por licencia, para anuncios, por metro cuadrado $1,737.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por autorizaciones temporales para anuncios con pantalla electrónica, por metro cuadrado $1,052.50
+c). Por autorizaciones temporales para anuncios con pantalla electrónica, por metro cuadrado $1,088.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Por autorizaciones temporales para anuncios, por metro cuadrado $924.00
+d). Por autorizaciones temporales para anuncios, por metro cuadrado $955.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la reinscripción anual al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana (PRARIU) $15,422.00
+VI. Por la reinscripción anual al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana (PRARIU) $15,937.00
 
 > <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -6402,13 +6542,13 @@ Los derechos a los que se refiere este artículo, deberán pagarse previo a la e
 
 Por la expedición del permiso para impartir cursos y clases de manejo, en la Ciudad de México, se pagará el derecho respectivo conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por su otorgamiento, por un año $4,958.50
+I. Por su otorgamiento, por un año $5,124.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por su revalidación $4,958.50
+II. Por su revalidación $5,124.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -6426,15 +6566,15 @@ Sólo los bienes de dominio público de la Ciudad de México y los sujetos al r�
 
 #### Sección Quinta. Del Registro Público de la Propiedad y de Comercio, y del Archivo General de Notarías
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 196.
 
-Por cada inscripción, anotación o cancelación de asiento que practique el Registro Público de la Propiedad y de Comercio, se causará una cuota de $1,910.50, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
+Por cada inscripción, anotación o cancelación de asiento que practique el Registro Público de la Propiedad y de Comercio, se causará una cuota de $1,974.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Se causará una cuota de $19,134.50
+I. Se causará una cuota de $19,774.00
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -6446,7 +6586,7 @@ b). Por la inscripción de documentos por los que se constituyan gravámenes o l
 
 c). Por la inscripción de actos relacionados con la constitución, modificación, aumento de capital, escisión o fusión de personas morales. Así como la inscripción de actos relacionados con contratos de arrendamiento financiero, de crédito con garantía hipotecaria, refaccionarios o de habilitación o avío.
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 II. Cuando los actos a que se refieren los incisos a), b) y c) de la fracción anterior no tengan valor determinado o éste sea menor al monto establecido para las viviendas de interés social en este Código, la cuota a pagar será la señalada en el primer párrafo de este artículo. Si el valor de los actos a inscribir es de hasta dos veces el monto señalado, la cuota a que se refiere el primer párrafo de este artículo aumentará en dos tantos por cada 25% adicional.
 
@@ -6462,9 +6602,9 @@ Cuando la adquisición o transmisión se realice sobre una porción de un inmueb
 
 En los casos en que las autoridades federales o de las entidades federativas, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o de cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propiaautoridad (sic) ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-No se generará el cobro de los derechos previstos en este artículo, tratándose de asientos o resoluciones dictadas en el juicio o procedimiento de extinción de dominio, siempre y cuando se trate de inmuebles que sean adjudicados como bienes de dominio público a favor de la Ciudad de México; ni por la anotación del Certificado de Deudores Alimentarios Morosos solicitada por el Juez del Registro Civil de la Ciudad de México.
+No se generará el cobro de los derechos previstos en este artículo, tratándose de asientos o resoluciones dictadas en el juicio o procedimiento de extinción de dominio, siempre y cuando se trate de inmuebles que sean adjudicados como bienes de dominio público a favor de la Ciudad de México y/o la Federación; ni por la anotación del Certificado de Deudores Alimentarios Morosos solicitada por el Juez del Registro Civil de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6474,59 +6614,65 @@ Las cuotas a que se refiere este artículo comprenderán la búsqueda de anteced
 
 Tampoco se requerirá el pago de derechos por asientos registrales relativos al aseguramiento de bienes a que hace referencia el artículo 233 del Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 197.
 
-Por la devolución de documentos como resultado de la calificación, ya sea que se deniegue el asiento por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagarán $655.50.
+Por la devolución de documentos como resultado de la calificación, ya sea que se deniegue el asiento por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagarán $677.00.
 
-En los casos de devolución de documentos a solicitud del interesado, siempre y cuando el documento no haya entrado a calificación, se pagará por concepto de derechos la cantidad de $321.50.
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En los casos de devolución de documentos a solicitud del interesado, siempre y cuando el documento no haya entrado a calificación, se pagará por concepto de derechos la cantidad de $332.00.
 
 ###### ARTICULO 198.
 
 Por la expedición de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I. Certificado de libertad de existencia o inexistencia de gravámenes, limitaciones de dominio y anotaciones preventivas único:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Ordinario $647.50
+a). Ordinario $669.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Urgente $1,295.50
+b). Urgente $1,339.00
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Informe y/o constancia solicitados por autoridades de la Federación, de las Entidades Federativas, Municipios u organismos de ellos, por cada inmueble o persona física o moral $1,203.50
+II. Informe y/o constancia solicitados por autoridades de la Federación, de las Entidades Federativas, Municipios u organismos de ellos, por cada inmueble o persona física o moral $1,244.00
 
 No se generará el cobro de los derechos previstos en esta fracción cuando la prestación del servicio la requieran el Poder Judicial de la Federación y de la Ciudad de México, así como el Ministerio Público Federal y local, en el ejercicio de sus funciones.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Certificados de adquisición o enajenación de bienes inmuebles por un periodo de veinte años a la fecha de expedición $582.00
+III. Certificados de adquisición o enajenación de bienes inmuebles por un período de veinte años a la fecha de expedición $601.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la investigación registral y, en su caso, el certificado de no inscripción de un bien inmueble, por cada periodo de cinco años a partir del año de 1871 $412.50
+IV. Por la investigación registral y, en su caso, el certificado de no inscripción de un bien inmueble, por cada periodo de cinco años a partir del año de 1871 $426.00
 
-(REFORMADA, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Por copia certificada de asientos registrales de un folio o de una partida de los libros $1,600.00
+V. Por copia certificada de asientos registrales de un folio o de una partida de los libros $1,653.00
 
-> <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 No se generará el cobro de los derechos previstos en esta fracción cuando se trate de asientos relativos a medidas cautelares respecto del procedimiento de extinción de dominio.
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-En el caso de que la copia certificada a que refiere esta fracción, exceda de 50 hojas, se cobrará por cada hoja adicional $13.52
+En el caso de que la copia certificada a que refiere esta fracción, exceda de 50 hojas, se cobrará por cada hoja adicional $14.00
 
-(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-VI. Por el certificado de inscripción $1,600.00
+VI. Por el certificado de inscripción $1,653.00
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VI], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+No se generará el cobro de los derechos previstos en esta fracción cuando se trate del procedimiento de extinción de dominio.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6536,91 +6682,103 @@ Las cuotas a que se refiere este artículo comprenderán la búsqueda de anteced
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por otorgamiento de poderes, efectuados en un mismo folio $878.00
+I. Por otorgamiento de poderes, efectuados en un mismo folio $907.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por revocación o renuncia de poderes, efectuados en un mismo folio $878.00
+II. Por revocación o renuncia de poderes, efectuados en un mismo folio $907.00
 
 ###### ARTICULO 200.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $1,203.50
+I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $1,244
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Sustitución de acreedor o deudor, modificaciones de plazo, intereses, garantías o cualquiera otras que no constituyan novación del contrato $1,203.50
+II. Sustitución de acreedor o deudor, modificaciones de plazo, intereses, garantías o cualquiera otras que no constituyan novación del contrato $1,244.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $412.50
+III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $426.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la inscripción de individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada inscripción subsecuente se pagará $1,918.50
+IV. Por la inscripción de individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada inscripción subsecuente se pagará $1,983.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $1,918.50
+V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $1,983.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el asiento registral de la cancelación de hipoteca, incluidos sus ampliaciones, convenios y modificaciones, así como fianza o embargo, se pagará $1,918.50
+VI. Por el asiento registral de la cancelación de hipoteca, incluidos (sic) sus ampliaciones, convenios y modificaciones, así como fianza o embargo, se pagará $1,983.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VI], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+No se generará el cobro de los derechos previstos en esta fracción cuando sea solicitado por el Ministerio Público federal o local y cuando sea necesario para el procedimiento de extinción de dominio.
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 201.
 
-Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $85.47 por cada firma.
+Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $88.50 por cada firma.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 202.
 
-Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $801.00.
+Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $828.00.
 
 ###### ARTICULO 203.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por la constitución del patrimonio familiar $801.00
+I. Por la constitución del patrimonio familiar $828.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la cancelación del patrimonio familiar $801.00
+II. Por la cancelación del patrimonio familiar $828.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por la anotación del régimen patrimonial del matrimonio y capitulaciones matrimoniales $801.00
+III. Por la anotación del régimen patrimonial del matrimonio y capitulaciones matrimoniales $828.00
 
 IV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la aplicación de bienes por disolución de sociedad conyugal exclusivamente a favor del cónyuge que no sea titular registral $1,600.00
+V. Por la aplicación de bienes por disolución de sociedad conyugal exclusivamente a favor del cónyuge que no sea titular registral $1,653.00
 
 ###### ARTICULO 204.
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $1,203.50
+I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $1,244.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Fusión, por cada lote $1,203.50
+No se generará el cobro de los derechos previstos en esta fracción cuando sea solicitado por el Ministerio Público federal o local y cuando sea necesario para el procedimiento de extinción de dominio.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Constitución de régimen de propiedad en condominio o sus modificaciones o extinciones, por cada unidad $1,203.50
+II. Fusión, por cada lote $1,244.00
+
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III. Constitución de régimen de propiedad en condominio o sus modificaciones o extinciones, por cada unidad $1,244.00
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+No se generará el cobro de los derechos previstos en esta fracción cuando sea solicitado por el Ministerio Público federal o local y cuando sea necesario para el procedimiento de extinción de dominio.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -6630,17 +6788,17 @@ En aquellos casos en que los actos regulados en el presente artículo se origine
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan se pagará por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Matrícula de comerciante persona física $1,203.50
+I. Matrícula de comerciante persona física $1,244.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal $801.00
+II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal $828.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. De corresponsalía mercantil, por su registro o cancelación $1,203.50
+III. De corresponsalía mercantil, por su registro o cancelación $1,244.00
 
 ###### ARTICULO 206.
 
@@ -6652,37 +6810,37 @@ III. De corresponsalía mercantil, por su registro o cancelación $1,203.50
 
 Por los servicios que a continuación se indican, se pagarán las siguientes cuotas:
 
-(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. Por el depósito del Registro de Constitución, Modificación, Adición o Terminación de la Sociedad de Convivencia en el Archivo General de Notarías $85.47
+I. Por el depósito del Registro de Constitución, Modificación, Adición o Terminación de la Sociedad de Convivencia en el Archivo General de Notarías $88.50
 
-(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. Informe de la existencia del Registro de Sociedades de Convivencia $82.27
+II. Informe de la existencia del Registro de Sociedades de Convivencia $85.00
 
 ###### ARTICULO 208.
 
 Por los servicios que preste el Registro Público de la Propiedad correspondiente por la expedición de documentos que a continuación se mencionan o búsqueda de antecedentes, se pagarán derechos conforme a las siguientes cuotas:
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. De la búsqueda de antecedentes registrales de un inmueble, persona moral o bien mueble, utilizando los sistemas electrónicos, incluyendo la copia del primer antecedente localizado ya sea folio real, folio electrónico o libro $583.50
+I. De la búsqueda de antecedentes registrales de un inmueble, persona moral o bien mueble, utilizando los sistemas electrónicos, incluyendo la copia del primer antecedente localizado ya sea folio real, folio electrónico o libro $603.00
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la expedición de constancia de antecedentes registrales se pagará por las primeras 20 hojas $225.60 y $6.42 adicionales por cada hoja subsecuente.
+II. Por la expedición de constancia de antecedentes registrales se pagará por las primeras 20 hojas $233.00 y $6.60 adicionales por cada hoja subsecuente.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $74,679.50
+III. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $77,175.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por cada ejemplar del Boletín Registral en la fecha de su expedición $54.65
+IV. Por cada ejemplar del Boletín Registral en la fecha de su expedición $56.50
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Por la búsqueda oficial de antecedentes registrales de un inmueble, sobre la base del lote y manzana registral, plano catastral o cualquier documento fehaciente aportado por el solicitante, incluyendo la copia del antecedente localizado $1,901.50
+V. Por la búsqueda oficial de antecedentes registrales de un inmueble, sobre la base del lote y manzana registral, plano catastral o cualquier documento fehaciente aportado por el solicitante, incluyendo la copia del antecedente localizado $1,965.00
 
 VI. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2011)
 
@@ -6694,63 +6852,63 @@ Para el cobro de los derechos que establece esta Sección, cuando un mismo docum
 
 Para la integración de jurado para el exámen correspondiente, se pagará un derecho conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Examen para aspirante de Notario $4,494.00
+I. Examen para aspirante de Notario $4,644.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Examen de oposición para el ejercicio notarial $7,491.00
+II. Examen de oposición para el ejercicio notarial $7,741.00
 
 ###### ARTICULO 211.
 
 Por los servicios de guarda definitiva y revisión de los libros del protocolo de los notarios públicos, se pagará el derecho conforme a las cuotas que a continuación se establecen:
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. Por la búsqueda en los índices de protocolos Notariales, en el Archivo General de Notarías, por año $971.50
+I. Por la búsqueda en los índices de protocolos Notariales, en el Archivo General de Notarías, por año $1,004.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la revisión y la certificación de la razón de cierre, por libro $1,499.50
+II. Por la revisión y la certificación de la razón de cierre, por libro $1,550.00
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo $4,494.00
+III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo $4,644.00
 
-Cuando el apéndice exceda de la decena, por cada libro adicional de apéndice $74.54
+Cuando el apéndice exceda de la decena, por cada libro adicional de apéndice $77.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $1,499.50
+IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $1,550.00
 
 ###### ARTICULO 212.
 
 Por los servicios de registro, que preste la Dirección General Jurídica y de Estudios Legislativos, el Archivo General de Notarias y el Registro Público de la Propiedad y de Comercio, se pagará una cuota por cada uno de los rubros que a continuación se indican:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Patente de Aspirante a Notario y Corredor Público $4,494.00
+I. Patente de Aspirante a Notario y Corredor Público $4,644.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Patente de Notario y Corredor Público $7,491.00
+II. Patente de Notario y Corredor Público $7,741.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Sello y/o firma $2,878.50
+III. Sello y/o firma $2,975.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Convenios de Notarios y Corredores Públicos $2,878.50
+IV. Convenios de Notarios y Corredores Públicos $2,975.00
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Registro de la constancia de certificación, sello, rúbrica o media firma y firma del mediador privado adscrito al Centro de Justicia Alternativa del Tribunal $7,101.00
+V. Registro de la constancia de certificación, sello, rúbrica o media firma y firma del mediador privado adscrito al Centro de Justicia Alternativa del Tribunal. $7,338.00
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VI. Los Convenios que inscriban los mediadores privados adscritos al Centro de Justicia Alternativa del Tribunal $2,772.50
+VI. Los Convenios que inscriban los mediadores privados adscritos al Centro de Justicia Alternativa del Tribunal $2,865.00
 
 ###### ARTICULO 213.
 
@@ -6760,49 +6918,49 @@ Por los servicios que preste el Archivo General de Notarías, se pagarán los mi
 
 Se exceptúan de lo dispuesto en el artículo anterior, los siguientes servicios que se pagarán con las cuotas que se indican:
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por la expedición de testimonios o certificaciones de instrumentos o registros notariales en guarda del Archivo General de Notarías, por cada instrumento o registro incluyendo su apéndice $3,212.00
+I. Por la expedición de testimonios o certificaciones de instrumentos o registros notariales en guarda del Archivo General de Notarías, por cada instrumento o registro incluyendo su apéndice $3,319.00
 
 Se exceptúan de lo dispuesto en la fracción anterior:
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) Testimonio o certificación de instrumento que sólo contenga testamento $642.00
+a). Testimonio o certificación de instrumento que sólo contenga testamento $663.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Testimonio o certificación de instrumento que sólo contenga mandato o poderes $642.00
+b). Testimonio o certificación de instrumento que sólo contenga mandato o poderes $663.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) Testimonio o certificación de instrumento que sólo contenga fe de hechos o declaraciones ante notario $642.00
+c). Testimonio o certificación de instrumento que sólo contenga fe de hechos o declaraciones ante notario $663.00
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-d) Testimonio o certificación de instrumento que contenga tomos completos del apéndice $899.50 por cada tomo.
+d). Testimonio o certificación de instrumento que contenga tomos completos del apéndice $930.00 por cada tomo.
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-e) Certificación de instrumento que sólo contenga documento de Voluntad Anticipada $642.00
+e). Certificación de instrumento que sólo contenga documento de Voluntad Anticipada $663.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Cualquier anotación marginal o complementaria en un protocolo, aún y cuando se realicen varias en un mismo folio, se pagará por cada una $85.48
+II. Cualquier anotación marginal o complementaria en un protocolo, aún y cuando se realicen varias en un mismo folio, se pagará por cada una $88.00
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Registro de avisos de testamentos $82.27
+III. Registro de avisos de testamentos $85.00
 
-Por el informe respecto al registro o depósito de testamentos o designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $1,600.00
+Por el informe respecto al registro o depósito de testamentos o designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $1,653.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $3,211.50
+IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $3,319.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $72.01
+V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $74.00
 
 ###### ARTICULO 215.
 
@@ -6816,47 +6974,55 @@ Sólo estarán exentos de pago los derechos establecidos en los artículos 196, 
 
 No se generará el cobro de los derechos previstos en los artículos 198, fracción II, 208, fracciones I, II, V y 214, fracción I, de este Código, cuando la prestación del servicio derive del intercambio de información en términos de Convenios de Colaboración Administrativa en Materia Fiscal Federal que tenga celebrados o celebre el Gobierno de la Ciudad de México, dentro del ámbito de su competencia.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Asimismo, no se generará el cobro de derechos previsto en el artículo 214, fracción III, segundo párrafo, cuando sean solicitados con motivo del procedimiento de extinción de dominio.
+
 #### Sección Sexta. Del Registro Civil
 
 ###### ARTICULO 216.
 
 Por los servicios que preste el Registro Civil se pagarán derechos conforme las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Inscripción de matrimonio en los Juzgados del Registro Civil $1,260.00
+I. Inscripción de matrimonio en los Juzgados del Registro Civil $1,302.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $250.50
+II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $259.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Expedición de constancia de inexistencia de registro de nacimiento, matrimonio o defunción $74.54
+III. Expedición de constancia de inexistencia de registro de nacimiento, matrimonio o defunción $77.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Inscripción de los hechos o actos del estado civil de los mexicanos en el extranjero $1,263.00
+IV. Inscripción de los hechos o actos del estado civil de los mexicanos en el extranjero $1,305.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $1,260.00
+V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $1,302.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Expedición de copias certificadas $74.54 c/u
+VI. Expedición de copias certificadas $77.00 c/u
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Búsqueda de datos registrales de actas del estado civil, independientemente del resultado de la búsqueda $74.54
+VII. Búsqueda de datos registrales de actas del estado civil, independientemente del resultado de la búsqueda $77.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por otras inscripciones $250.50
+VIII. Por otras inscripciones $259.00
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 No se pagará el derecho a que se refiere este artículo por la aclaración de actas del Registro Civil, por el registro de nacimientos que se celebren en la oficina del Registro Civil, de matrimonios celebrados colectivamente, ni por la inscripción de defunciones, así como por la expedición de la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Cuando exista declaratoria de emergencia sanitaria o de desastre natural emitida por autoridad competente en la Ciudad de México, se exceptuará el pago de derechos por la expedición de la primer copia certificada del acta de defunción, cuando la causa o enfermedad que originó el fallecimiento esté directamente relacionada con dicha emergencia o desastre.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -6866,33 +7032,33 @@ No se generará el cobro de los derechos previstos en las fracciones III, VI y V
 
 Por las anotaciones marginales e inserciones en las actas del Registro Civil se pagará el derecho por anotaciones en acta del Registro Civil conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. De cambio de régimen patrimonial en el matrimonio $2,529.50
+I. De cambio de régimen patrimonial en el matrimonio $2,614.00
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. De rectificación de actas por enmienda $617.00
+II. De rectificación de actas por enmienda $638.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. De actas de defunción de personas fallecidas fuera de la Ciudad de México o en el extranjero $250.50
+III. De actas de defunción de personas fallecidas fuera de la Ciudad de México o en el extranjero $259.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. De divorcio en el acta de matrimonio $250.50
+IV. De divorcio en el acta de matrimonio $259.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Del levantamiento de una nueva acta de nacimiento por reasignación sexo-genérica $252.00
+V. Del levantamiento de una nueva acta de nacimiento por reasignación sexo-genérica $260.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. De nulidad del acta del estado civil $235.10
+VI. De nulidad del acta del estado civil $243.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por otras anotaciones e inserciones $235.10
+VII. Por otras anotaciones e inserciones $243.00
 
 Por las anotaciones marginales de reconocimiento y legitimación de descendientes, no se pagará el derecho a que se refiere este artículo.
 
@@ -6900,21 +7066,21 @@ Por las anotaciones marginales de reconocimiento y legitimación de descendiente
 
 Por los servicios que preste el Registro Civil fuera de sus oficinas se pagará el derecho de extraordinarios del Registro Civil, conforme a las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por el registro de nacimientos $390.50
+I. Por el registro de nacimientos $404.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la celebración de matrimonios $2,529.50
+II. Por la celebración de matrimonios $2,614.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por la autorización para que los jueces del Registro Civil celebren matrimonios, registro de nacimiento y reconocimiento, fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $5,210.00
+III. Por la autorización para que los jueces del Registro Civil celebren matrimonios, registro de nacimiento y reconocimiento, fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $5,384.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por otros servicios $3,305.50
+IV. Por otros servicios $3,416.00
 
 No se pagará el derecho a que refiere la fracción I de este artículo, por el registro de nacimiento que se celebre fuera de la oficina del Registro Civil, cuando el menor por cuestiones de salud no pueda salir del lugar donde ocurrió el nacimiento.
 
@@ -6926,53 +7092,53 @@ Por los servicios de control vehicular que se presten respecto a vehículos part
 
 I. Por el refrendo para la vigencia anual de las placas de matrícula o para trámite de alta que comprende la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el refrendo $578.50
+a). Por el refrendo $598.00
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el trámite de alta $741.50
+b). Por el trámite de alta $766.00
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Será responsable solidario en el pago de los derechos a que se refiere este inciso, el importador, fabricante, ensamblador, distribuidor autorizado o comerciante que enajene vehículos nuevos y usados, en el caso de que no hubiese realizado los trámites previstos en el párrafo quinto del artículo 160 de este Código, hasta por el monto de las contribuciones que se hubiesen dejado de pagar.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la expedición del permiso de carga ocasional, por siete días, para que un vehículo de uso particular se destine temporalmente a fines de carga particular $106.70
+II. Por la expedición del permiso de carga ocasional, por siete días, para que un vehículo de uso particular se destine temporalmente a fines de carga particular $110.00
 
 III. Por expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Hasta por 30 días $225.60
+a). Hasta por 30 días $233.00
 
 b) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-IV. Por reposición o refrendo de tarjeta de circulación $329.50
+IV. Por reposición o refrendo de tarjeta de circulación $340.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por cambio de propietario, carrocería, motor, domicilio y corrección de datos incluyendo la expedición de tarjeta de circulación $329.50
+V. Por cambio de propietario, carrocería, motor, domicilio y corrección de datos incluyendo la expedición de tarjeta de circulación $340.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por trámite de baja de vehículo $449.50
+VI. Por trámite de baja de vehículo $465.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $329.50
+VII. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $340.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $329.50
+VIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $340.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IX. Por reposición de calcomanía $225.60
+IX. Por reposición de calcomanía $233.00
 
 Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I, incisos a) y b); III, incisos a) y b), y IV, tendrán una reducción del 50%.
 
@@ -6988,67 +7154,67 @@ I. Por el otorgamiento de concesiones y permisos:
 
 a) Concesión de Servicio Público de Transporte Colectivo de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por su otorgamiento, por cada vehículo que comprenda $42,002.50
+1. Por su otorgamiento, por cada vehículo que comprenda $43,406.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por su prórroga, por cada vehículo que comprenda $16,447.50
+2. Por su prórroga, por cada vehículo que comprenda $16,997.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por reposición de título-concesión $4,063.00
+3. Por reposición de título-concesión $4,199.00
 
 4. (DEROGADO, G.O. 31 DE DICIEMBRE DE 2012)
 
 b) Autorización de Servicio de Transporte Público Metropolitano de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por su otorgamiento, por cada itinerario de organizaciones y empresas de otras entidades $12,362.00
+1. Por su otorgamiento, por cada itinerario de organizaciones y empresas de otras entidades $12,775.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por cada vehículo adicional de otras entidades que ingresen, por unidad $3,947.00
+2. Por cada vehículo adicional de otras entidades que ingresen, por unidad $4,079.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por la vigencia anual, por cada vehículo $255.90
+3. Por la vigencia anual, por cada vehículo $264.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-4. Por cada cajón vehicular autorizado en bases de servicio, por anualidad $576.00
+4. Por cada cajón vehicular autorizado en bases de servicio, por anualidad $595.00
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-5. Por la realización de estudios técnicos para el establecimiento de itinerario y bases de servicio para la prestación del servicio público colectivo metropolitano de pasajeros $855.50
+5. Por la realización de estudios técnicos para el establecimiento de itinerario y bases de servicio para la prestación del servicio público colectivo metropolitano de pasajeros $884.00
 
 c) Concesiones para el servicio público de transporte de carga en general:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por su prórroga, por cada vehículo que comprenda $16,447.50
+1. Por su prórroga, por cada vehículo que comprenda $16,997.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por reposición de título concesión $4,063.00
+2. Por reposición de título concesión $4,199.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por cada cajón vehicular autorizado en bases establecidas $535.00
+3. Por cada cajón vehicular autorizado en bases establecidas $553.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-4. Por el establecimiento de estación de servicio $1,515.00
+4. Por el establecimiento de estación de servicio $1,566.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-5. Por el establecimiento de caseta $1,755.50
+5. Por el establecimiento de caseta $1,814.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-6. Por el otorgamiento de concesión de servicio público de transporte de carga en general $21,153.00
+6. Por el otorgamiento de concesión de servicio público de transporte de carga en general $21,860.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -7058,219 +7224,219 @@ d) Permisos de Transporte:
 
 1.1. Transporte mercantil de pasajeros y de carga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) De valores $1,977.00
+a). De valores $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) De mensajería $1,977.00
+b). De mensajería $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) De sustancias tóxicas o peligrosas $2,685.00
+c). De sustancias tóxicas o peligrosas $2,775.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Especializado de pasajeros y carga, y de turismo $2,280.50
+d). Especializado de pasajeros y carga, y de turismo $2,357.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Grúas $2,280.50
+e). Grúas $2,357.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) Transporte de pasajeros escolar y de personal $1,977.00
+f). Transporte de pasajeros escolar y de personal $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) Transporte de turistas en recorridos específicos $24,330.50
+g). Transporte de turistas en recorridos específicos $25,143.00
 
 1.2. Transporte privado de pasajeros y de carga:
 
-(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) De una negociación o empresa, así como las que operen y/o administren por sí mismas o a través de sus subsidiarias, aplicaciones para el control, programación y/o geolocalización en dispositivos fijos o móviles, para contratar servicios privados de transporte con chofer $1,977.00
+a). De una negociación o empresa, así como las que operen y/o administren por sí mismas o a través de sus subsidiarias, aplicaciones para el control, programación y/o geolocalización en dispositivos fijos o móviles, para contratar servicios privados de transporte con chofer $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) De valores $1,977.00
+b). De valores $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) De mensajería $1,977.00
+c). De mensajería $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) De sustancias tóxicas o peligrosas $2,538.50
+d). De sustancias tóxicas o peligrosas $2,623.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Especializado de pasajeros y carga, y de turismo $2,280.50
+e). Especializado de pasajeros y carga, y de turismo $2,357.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) Transporte Privado Escolar $1,187.50
+f). Transporte Privado Escolar $1,227.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) Transporte Privado de Personal $1,187.50
+g). Transporte Privado de Personal $1,227.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-h) Transporte de Pasajeros Especializado $1,977.00
+h). Transporte de Pasajeros Especializado $2,043.00
 
 i) (DEROGADO, G.O. 22 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-j) Transporte de Pasajeros en Bicicletas o Motocicletas Adaptadas $789.50
+j). Transporte de Pasajeros en Bicicletas o Motocicletas Adaptadas $816.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-k) Grúas $2,280.50
+k). Grúas $2,357.00
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 l) Seguridad Privada:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Automóviles $1,977.00
+1. Automóviles $2,043.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Motocicletas $789.50
+2. Motocicletas $816.00
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-2. Por su otorgamiento y revalidación de permisos complementarios para el establecimiento y operación de equipamiento auxiliar para el servicio de transporte público de pasajeros y de carga, por cada cajón vehicular autorizado por anualidad $1,343.00
+2. Por su otorgamiento y revalidación de permisos complementarios para el establecimiento y operación de equipamiento auxiliar para el servicio de transporte público de pasajeros y de carga, por cada cajón vehicular autorizado por anualidad $1,388.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por la vigencia anual de itinerario, por cada vehículo $705.00
+3. Por la vigencia anual de itinerario, por cada vehículo $729.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-4. Por reposición del Permiso $2,647.50
+4. Por reposición del Permiso $2,736.00
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-5. Por la realización de estudios técnicos para el establecimiento de itinerarios y bases de servicio para la prestación del servicio público de transporte colectivo de pasajeros, y de carga $811.00
+5. Por la realización de estudios técnicos para el establecimiento de itinerarios y bases de servicio para la prestación del servicio público de transporte colectivo de pasajeros, y de carga $838.00
 
 II. Autorización y Registro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por el servicio de transporte de carga particular, por vehículo, por anualidad $1,178.00
+1. Por el servicio de transporte de carga particular, por vehículo, por anualidad $1,217.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Autorización especial para transporte de carga mercantil de mensajería en vehículos de más de 3.5 toneladas $1,977.00
+2. Autorización especial para transporte de carga mercantil de mensajería en vehículos de más de 3.5 toneladas $2,043.00
 
 III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
 
 a) Tratándose de vehículos de servicio público de transporte:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por el trámite de alta $1,534.50
+1. Por el trámite de alta $1,586.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por el refrendo $1,112.50
+2. Por el refrendo $1,150.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 b) Tratándose de vehículos de servicio privado de transporte:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por el trámite de alta $1,455.50
+1. Por el trámite de alta $1,504.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por el refrendo $1,053.50
+2. Por el refrendo $1,089.00
 
 c) Tratándose de servicio de transporte de carga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por el trámite de alta $1,534.50
+1. Por el trámite de alta $1,586.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por el refrendo $1,112.50
+2. Por el refrendo $1,150.00
 
 IV. Por reposición de placas, por cada una:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Vehículos de servicio público de transporte $1,089.50
+a). Vehículos de servicio público de transporte $1,126.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Vehículos de servicio particular de transporte $903.50
+b). Vehículos de servicio particular de transporte $934.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Vehículos de servicio de transporte de carga $1,089.50
+c). Vehículos de servicio de transporte de carga $1,126.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $898.50
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $929.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por la expedición de permisos para circular con aditamentos a la carrocería $331.50
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $343.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por reposición de tarjeta de circulación o calcomanía $224.30
+VII. Por reposición de tarjeta de circulación o calcomanía $232.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $173.70
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $179.50
 
-REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-IX. Por sustitución de vehículos del servicio público de transporte de pasajeros o del servicio de transporte de carga, en todas sus modalidades, por vehículo, incluyendo la expedición de tarjeta de circulación $556.00
+IX. Por sustitución de vehículos del servicio público de transporte de pasajeros o del servicio de transporte de carga, en todas sus modalidades, por vehículo, incluyendo la expedición de tarjeta de circulación $575.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Por la vigencia anual de la concesión o permiso y la revista $1,987.50
+X. Por la vigencia anual de la concesión o permiso y la revista $2,054.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XI. Por el trámite de baja de vehículo o la suspensión provisional de la prestación del servicio hasta por un año $570.50
+XI. Por el trámite de baja de vehículo o la suspensión provisional de la prestación del servicio hasta por un año $590.00
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-XII. Por la autorización de cesión o transmisión de los derechos y obligaciones de una concesión, por cada vehículo que comprenda, incluyendo la expedición de tarjeta de circulación $11,976.50
+XII. Por la autorización de cesión o transmisión de los derechos y obligaciones de una concesión, por cada vehículo que comprenda, incluyendo la expedición de tarjeta de circulación $12,377.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XIII. Por la autorización a centros de capacitación para impartir los cursos a transportistas de pasajeros y de carga y a clínicas para aplicar la evaluación médica integral $5,708.00
+XIII. Por la autorización a centros de capacitación para impartir los cursos a transportistas de pasajeros y de carga y a clínicas para aplicar la evaluación médica integral $5,899.00
 
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 XIV. Por el Registro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Registro de representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte, privado y mercantil de pasajeros y de carga $5,708.00
+a). Registro de representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte, privado y mercantil de pasajeros y de carga $5,899.00
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Registro de personas físicas o morales que presten servicios profesionales relacionados con el transporte motivo de su especialidad a particulares y a la Secretaría de Movilidad $5,708.00
+b). Registro de personas físicas o morales que presten servicios profesionales relacionados con el transporte motivo de su especialidad a particulares y a la Secretaría de Movilidad $5,899.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Registro o cancelación de gravamen de concesión de transporte $1,732.00
+c). Registro o cancelación de gravamen de concesión de transporte $1,790.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XV. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $331.50
+XV. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $343.00
 
 ###### ARTICULO 221.
 
@@ -7282,103 +7448,103 @@ Por los servicios de control vehicular que se presten respecto a vehículos de s
 
 I. Concesión de Servicio Público de Transporte Individual de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por su otorgamiento, por cada vehículo que comprenda $42,002.50
+a). Por su otorgamiento, por cada vehículo que comprenda $43,406.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por su prórroga, por cada vehículo que comprenda $8,737.50
+b). Por su prórroga, por cada vehículo que comprenda $9,029.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por reposición de título concesión $4,054.00
+c). Por reposición de título concesión $4,189.00
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-d) Por la autorización de cesión o transmisión de los derechos y obligaciones de una concesión $10,549.50
+d). Por la autorización de cesión o transmisión de los derechos y obligaciones de una concesión $10,902.00
 
 e) (DEROGADO, G.O. 22 DE DICIEMBRE DE 2014)
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-II. Permiso para el establecimiento de equipamiento auxiliar de transporte $1,513.00
+II. Permiso para el establecimiento de equipamiento auxiliar de transporte $1,564.00
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) Por la realización de estudios técnicos para el establecimiento de equipamiento auxiliar $810.00
+a). Por la realización de estudios técnicos para el establecimiento de equipamiento auxiliar $837.00
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Por la autorización para operación de base de servicio, por cada cajón vehicular autorizado, por anualidad $1,388.50
+b). Por la autorización para operación de base de servicio, por cada cajón vehicular autorizado, por anualidad $1,435.00
 
 III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por el trámite de alta $1,533.50
+a). Por el trámite de alta $1,585.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el refrendo $1,111.50
+b). Por el refrendo $1,149.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por reposición de placas, por cada una $1,107.50
+IV. Por reposición de placas, por cada una $1,144.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $897.00
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $927.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por la expedición de permisos para circular con aditamentos a la carrocería $328.50
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $339.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por reposición de tarjeta de circulación o calcomanía $225.60
+VII. Por reposición de tarjeta de circulación o calcomanía $233.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $174.80
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $181.00
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-IX. Por sustitución de vehículos de servicio público de transporte individual de pasajeros, incluyendo la expedición de tarjeta de circulación, por vehículo $557.00
+IX. Por sustitución de vehículos de servicio público de transporte individual de pasajeros, incluyendo la expedición de tarjeta de circulación, por vehículo $576.00
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-X. Por el trámite de revista vehicular anual $1,699.50
+X. Por el trámite de revista vehicular anual $1,756.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XI. Por el trámite de baja de vehículo y suspensión provisional de la prestación del servicio hasta por un año $672.50
+XI. Por el trámite de baja de vehículo y suspensión provisional de la prestación del servicio hasta por un año $695.00
 
 XII. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $331.50
+XIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $343.00
 
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 XIV. Por el Registro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Registro de representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte público individual de pasajeros $5,708.00
+a). Registro de representantes legales, mandatarios y apoderados de personas morales concesionarias y permisionarios del servicio de transporte público individual de pasajeros $5,899.00
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-b) Registro de personas físicas o morales que presten servicios profesionales relacionados con el transporte motivo de su especialidad a particulares y a la Secretaría de Movilidad $5,708.00
+b). Registro de personas físicas o morales que presten servicios profesionales relacionados con el transporte motivo de su especialidad a particulares y a la Secretaría de Movilidad $5,899.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Registro o cancelación de gravamen de concesión de transporte $1,731.50
+c). Registro o cancelación de gravamen de concesión de transporte $1,789.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XV. Por la autorización de modificación de cromática oficial de vehículos del transporte público de taxi, por cada unidad $1,388.50
+XV. Por la autorización de modificación de cromática oficial de vehículos del transporte público de taxi, por cada unidad $1,435.00
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -7388,35 +7554,35 @@ Tratándose de vehículos habilitados para personas con discapacidad y vehículo
 
 Por los servicios de control vehicular que se presten respecto a remolques, se pagará el derecho conforme a las siguientes cuotas:
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $1,308.50
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $1,352.00
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Será responsable solidario en el pago de los derechos a que se refiere esta fracción, el importador, fabricante, ensamblador, distribuidor autorizado o comerciante que enajene vehículos nuevos y usados, en el caso de que no hubiese realizado los trámites previstos en el párrafo quinto del artículo 160 de este Código, hasta por el monto de las contribuciones que se hubiesen dejado de pagar.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por refrendo para vigencia anual de placa $464.50
+II. Por refrendo para vigencia anual de placa $480.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por la expedición de permiso para circular sin placa o tarjeta de circulación por sesenta días $448.00
+III. Por la expedición de permiso para circular sin placa o tarjeta de circulación por sesenta días $463.00
 
 IV. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por reposición de tarjeta de circulación o por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $216.00
+V. Por reposición de tarjeta de circulación o por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $223.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el trámite de baja $370.00
+VI. Por el trámite de baja $382.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $359.00
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $371.00
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -7426,35 +7592,35 @@ No se causará el pago de los derechos a que se refiere este artículo, cuando s
 
 Por los servicios de control vehicular que se presten respecto a motocicletas y motonetas, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $540.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $558.00
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Será responsable solidario en el pago de los derechos a que se refiere esta fracción, el importador, fabricante, ensamblador, distribuidor autorizado o comerciante que enajene vehículos nuevos y usados, en el caso de que no hubiese realizado los trámites previstos en el párrafo quinto del artículo 160 de este Código, hasta por el monto de las contribuciones que se hubiesen dejado de pagar.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por refrendo para vigencia anual de placa $359.00
+II. Por refrendo para vigencia anual de placa $371.00
 
 III. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por reposición de tarjeta de circulación o por cambio de propietario o domicilio o motor y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $216.00
+IV. Por reposición de tarjeta de circulación o por cambio de propietario o domicilio o motor y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $223.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la expedición de permiso para circular sin placa o tarjeta de circulación por treinta días $225.60
+V. Por la expedición de permiso para circular sin placa o tarjeta de circulación por treinta días $233.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el trámite de baja de vehículo $370.00
+VI. Por el trámite de baja de vehículo $382.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $174.70
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $181.00
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -7470,45 +7636,45 @@ No se causará el pago de los derechos a que se refiere este artículo, cuando s
 
 Por los permisos y servicios de control vehicular que se presten respecto de ciclotaxis, se pagarán las siguientes cuotas:
 
-(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. Por el otorgamiento de permiso para prestar el servicio $1,173.00
+I. Por el otorgamiento de permiso para prestar el servicio $1,212.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $1,173.00
+II. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $1,212.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por el refrendo para la vigencia anual de placas $140.10
+III. Por el refrendo para la vigencia anual de placas $145.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por reposición de tarjeta de circulación $378.00
+IV. Por reposición de tarjeta de circulación $391.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por reposición de placa, derivada de pérdida $1,186.00
+V. Por reposición de placa, derivada de pérdida $1,226.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por reposición de placa, derivada de mutilación o deterioro $448.00
+VI. Por reposición de placa, derivada de mutilación o deterioro $463.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $378.00
+VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $391.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $424.00
+VIII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $438.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IX. Por el trámite de baja $232.00
+IX. Por el trámite de baja $240.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $306.00
+X. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $316.00
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -7528,83 +7694,95 @@ Los derechos por refrendo para la vigencia anual de placas de vehículos de uso 
 
 Por la expedición o refrendo de placas de demostración, sin engomado:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por la expedición $1,803.50
+a). Por la expedición $1,864.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por el refrendo $1,399.00
+b). Por el refrendo $1,446.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por la baja $444.00
+c). Por la baja $459.00
 
 ###### ARTICULO 229.
 
 Por los servicios relacionados con licencias y permisos para conducir vehículos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por expedición o reposición de permiso para conducir vehículos particulares, con vigencia única $447.00
+I. Por expedición o reposición de permiso para conducir vehículos particulares, con vigencia única $462.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por licencia tipo "A" para conducir vehículos particulares y motocicletas $870.50
+II. Por licencia tipo "A" en las siguientes modalidades, por su expedición o renovación:
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+a). Tipo “A”, para conducir vehículos particulares $900.00
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+b). Tipo "A1", para conducir motocicletas $450.00, y
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+c). Tipo "A2", para conducir vehículos particulares y motocicletas $900.00
 
 III. Por licencia tarjetón tipo "B" para conducir taxis, por su expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por dos años $1,081.00
+a). Por dos años $1,117.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por tres años $1,627.00
+b). Por tres años $1,681.00
 
 IV. Por licencia tarjetón tipo "C" para conducir vehículos de transporte de pasajeros por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por dos años $1,566.50
+a). Por dos años $1,619.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por tres años $2,352.50
+b). Por tres años $2,431.00
 
 V. Por licencia tarjetón tipo "D" para conducir vehículos de transporte de carga, por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por dos años $1,566.50
+a). Por dos años $1,619.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por tres años $2,352.50
+b). Por tres años $2,431.00
 
 > <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VI. Por licencia tarjetón tipo “E” en todas las modalidades, por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por dos años $1,566.50
+a). Por dos años $1,619.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por tres años $2,352.50
+b). Por tres años $2,431.00
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VII. Por reposición de las licencias a que se refieren las fracciones anteriores, se cobrarán las mismas cuotas que se prevén para la expedición de las mismas, y conservarán la vigencia de la licencia en reposición.
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VIII. Por certificación de expedición de antecedente de licencia o permiso $197.90
+VIII. Por certificación de expedición de antecedente de licencia o permiso $205.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IX. Por expedición de antecedente de licencia o permiso $197.90
+IX. Por expedición de antecedente de licencia o permiso $205.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -7612,21 +7790,21 @@ IX. Por expedición de antecedente de licencia o permiso $197.90
 
 Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones a las disposiciones en materia de tránsito y movilidad, o bien, a solicitud de los conductores de vehículos, los propietarios de los mismos pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas $762.50
+I. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas $788.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas $1,520.50
+II. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas $1,571.00
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-III. Por el servicio de retiro de candado inmovilizador que se utiliza en los casos a que se refiere el artículo 33 del Reglamento de Tránsito de la Ciudad de México, los propietarios de los vehículos pagarán una cuota de $258.90
+III. Por el servicio de retiro de candado inmovilizador que se utiliza en los casos a que se refiere el artículo 33 del Reglamento de Tránsito de la Ciudad de México, los propietarios de los vehículos pagarán una cuota de $268.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por el servicio de retiro de candado inmovilizador colocado por estacionarse en los lugares y rampas designados para personas con discapacidad, los propietarios de los vehículos pagarán una cuota de $1,175.00
+IV. Por el servicio de retiro de candado inmovilizador colocado por estacionarse en los lugares y rampas designados para personas con discapacidad, los propietarios de los vehículos pagarán una cuota de $1,214.00
 
 El derecho a que se refiere este artículo se causará por la sola prestación del servicio, con independencia de las sanciones administrativas que procedan.
 
@@ -7634,13 +7812,15 @@ El derecho a que se refiere este artículo se causará por la sola prestación d
 
 En caso de que las autoridades fiscales de la Ciudad de México, requieran el servicio de grúa para el traslado de vehículos embargados dentro del procedimiento administrativo de ejecución a los almacenes o lugares de resguardo, los servicios se prestarán en el momento de la solicitud y los derechos correspondientes serán pagados cuando concluya dicho procedimiento y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados a remate dichos vehículos.
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 231.
 
-Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho por la cantidad de $79.73, a partir de que ingrese el vehículo al depósito hasta en tanto no sea retirado.
+Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho por la cantidad de $82.00, a partir de que ingrese el vehículo al depósito hasta en tanto no sea retirado.
 
-Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos acreditando el interés jurídico, presentando la documentación que justifique el retiro y cubriendo el monto de los derechos a su cargo.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos acreditando el interés jurídico, presentando la documentación que justifique el retiro y cubriendo el monto de los derechos a su cargo, así como los créditos fiscales que se hayan generado vinculados con el vehículo y sus accesorios.
 
 Si transcurrido un mes de que el vehículo quedó a disposición del propietario, éste no lo retira, causará abandono a favor de la Ciudad de México y se seguirá el procedimiento establecido para bienes abandonados previsto en el Capítulo III del Título Primero del Libro Segundo de este Código. Se considera que el vehículo quedó a disposición del propietario a partir del día que surtió efectos la notificación que realice la autoridad administrativa competente.
 
@@ -7660,21 +7840,21 @@ Las autoridades fiscales, en el registro de ingresos por concepto de los derecho
 
 #### Sección Octava. De los servicios de alineamiento y señalamiento de número oficial y de expedición de constancias de zonificación y de uso de inmuebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 233.
 
-Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $46.04 por cada metro de frente del inmueble.
+Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $47.50 por cada metro de frente del inmueble.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Están exentos del pago de los derechos previstos en este artículo, los inmuebles de dominio público de la Ciudad de México y los sujetos al régimen de dominio público de la Federación, previa declaratoria emitida por autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 234.
 
-Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $299.60.
+Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $310.00.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -7690,57 +7870,57 @@ Están exentos del pago de los derechos previstos en este artículo, los bienes 
 
 Por los servicios relacionados con la expedición de certificados, licencias, estudios y dictamen que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. Por el análisis, estudio y, en su caso, expedición de certificado de acreditación de uso del suelo por derechos adquiridos, se pagará el derecho respectivo por cada uno $1,848.00
+I. Por el análisis, estudio y, en su caso, expedición de certificado de acreditación de uso del suelo por derechos adquiridos, se pagará el derecho respectivo por cada uno $1,910.00
 
 II. Por el dictamen de estudio de impacto urbano que efectúe la autoridad competente, modificación o su prórroga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de construcción $3,132.00
+a). En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de construcción $3,237.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios $6,254.00
+b). En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios $6,463.00
 
-(REFORMADA, G.O. 14 DE FEBRERO DE 2011) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 14 DE FEBRERO DE 2011) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-III. Por certificado único de zonificación de uso del suelo $1,603.00
+III. Por certificado único de zonificación de uso del suelo $1,657.00
 
-(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-a) Por certificado único de zonificación de uso de suelo, emitido a través de un sistema electrónico $1,603.00
+a). Por certificado único de zonificación de uso de suelo, emitido a través de un sistema electrónico $1,657.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Dictamen de informe preliminar $3,119.00
+IV. Dictamen de informe preliminar $3,223.00
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Por solicitud de modificación a los programas iniciada a solicitud de una persona distinta de los diputados del Congreso; de un órgano de representación ciudadana; de una dependencia, órgano o entidad de la Administración Pública o de una dependencia o entidad de la Administración Pública Federal $6,024.00
+V. Por solicitud de modificación a los programas iniciada a solicitud de una persona distinta de los diputados del Congreso; de un órgano de representación ciudadana; de una dependencia, órgano o entidad de la Administración Pública o de una dependencia o entidad de la Administración Pública Federal $6,225.00
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VI. Por la resolución de modificación a los programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro y pequeña industria $3,011.00
+VI. Por la resolución de modificación a los programas para cambiar el uso del suelo urbano en predios particulares, para destinarlos al comercio, servicios de bajo impacto urbano o a la micro y pequeña industria $3,112.00
 
-(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VII. Por el dictamen de Constitución de Polígono de Actuación $5,710.50
+VII. Por el dictamen de Constitución de Polígono de Actuación $5,901.00
 
-(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VIII. Por el dictamen de aplicación del Sistema de Transferencia de Potencialidades, predio receptor $5,710.50
+VIII. Por el dictamen de aplicación del Sistema de Transferencia de Potencialidades, predio receptor $5,901.00
 
 Tratándose de estudios y dictámenes de incremento de densidad, relacionados con viviendas de interés social, no se estará obligado al pago de los derechos correspondientes.
 
 #### Sección Novena. De los derechos sobre las concesiones de inmuebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 236.
 
-Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público de la Ciudad de México, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $1,408.50.
+Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público de la Ciudad de México, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $1,456.00.
 
 Tratándose de inmuebles que se destinen a uso agrícola, ganadero, pesquero o silvícola, la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
 
@@ -7754,13 +7934,13 @@ Este derecho se pagará independientemente del que corresponda conforme a la Sec
 
 Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por la Ciudad de México, distintos a los señalados en el artículo 231 de este Código, se pagará el derecho de almacenaje, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $11.56
+I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $12.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día $5.12
+II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día $5.30
 
 El derecho de almacenaje se pagará a partir del día de ingreso de los bienes en las bodegas o locales de la Ciudad de México, con excepción de lo establecido en los artículos 408, cuarto párrafo y 417, segundo párrafo de este Código.
 
@@ -7784,73 +7964,77 @@ Por los servicios de publicaciones, que preste la Ciudad de México, se pagará 
 
 I. Publicaciones en el Boletín Judicial:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Hasta 80 palabras $44.99
+a). Hasta 80 palabras $46.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Hasta 120 palabras $66.81
+b). Hasta 120 palabras $69.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Hasta 160 palabras $85.47
+c). Hasta 160 palabras $88.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Hasta 200 palabras $107.90
+d). Hasta 200 palabras $111.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Por mayor número, además de la cuota anterior por cada palabra $0.68
+e). Por mayor número, además de la cuota anterior por cada palabra $0.70
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Publicaciones en la Gaceta Oficial de la Ciudad de México:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por plana entera $2,104.00
+a). Por plana entera $2,174.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por media plana $1,131.50
+b). Por media plana $1,169.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por un cuarto de plana $704.50
+c). Por un cuarto de plana $728.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 III. Publicaciones urgentes en la Gaceta Oficial de la Ciudad de México:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por plana entera $4,402.00
+a). Por plana entera $4,549.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Por media plana $2,364.00
+b). Por media plana $2,443.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por un cuarto de plana $1,472.00
+c). Por un cuarto de plana $1,521.00
 
 Para los efectos de la presente fracción se consideran publicaciones urgentes aquellas que sean realizadas dentro de los 3 días siguientes a la presentación de la solicitud respectiva.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 239.
 
-No se pagará el derecho de publicaciones a que se refiere el artículo anterior por las publicaciones en el boletín judicial ordenadas por las dependencias de la Administración Pública de la Ciudad de México y las relativas a asuntos que se tramiten por la Defensoría de Oficio del Ramo Civil cuando la parte que ésta patrocine y a quien interese la publicación sea persona de escasos recursos económicos. Tampoco se pagarán por las publicaciones que ordene el poder judicial y tribunales administrativos de la Ciudad de México, salvo que se trate de publicaciones relacionadas con un asunto en particular en los que el derecho pueda ser cobrado a la parte interesada.
+No se pagará el derecho de publicaciones a que se refiere el artículo anterior por las publicaciones en el boletín judicial ordenadas por las dependencias de la Administración Pública de la Ciudad de México y las relativas a asuntos que se tramiten en materia de atención a víctimas del delito y por la Defensoría de Oficio del Ramo Civil cuando la parte que ésta patrocine y a quien interese la publicación sea persona de escasos recursos económicos. Tampoco se pagarán por las publicaciones que ordene el poder judicial y tribunales administrativos de la Ciudad de México, salvo que se trate de publicaciones relacionadas con un asunto en particular en los que el derecho pueda ser cobrado a la parte interesada.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Asimismo, no se pagará el derecho de publicaciones en la Gaceta Oficial de la Ciudad de México cuando sean ordenadas por las dependencias de la Administración Pública de la Ciudad de México y Alcaldías, salvo que se trate de publicaciones ordenadas en interés de un particular, ni las que ordene la Suprema Corte de Justicia de la Nación, tratándose de resoluciones emitidas en procedimiento de acción de inconstitucionalidad o de controversias constitucionales en que haya sido parte algún órgano de gobierno de la Ciudad de México.
+Asimismo, no se pagará el derecho de publicaciones en la Gaceta Oficial de la Ciudad de México cuando sean ordenadas por las dependencias de la Administración Pública de la Ciudad de México, la Fiscalía y Alcaldías, salvo que se trate de publicaciones ordenadas en interés de un particular, ni las que ordene la Suprema Corte de Justicia de la Nación, tratándose de resoluciones emitidas en procedimiento de acción de inconstitucionalidad o de controversias constitucionales en que haya sido parte algún órgano de gobierno de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 De igual manera, no se pagará el derecho de publicación en la Gaceta Oficial de la Ciudad de México, por una sola vez, tratándose de solicitud de Juez Civil competente, en caso de declaración de ausencia por desaparición, en términos de lo dispuesto en el artículo 20 de la Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las publicaciones ordenadas en la Gaceta Oficial de la Ciudad de México por los Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México tendrán una reducción del 50% en los derechos que correspondan.
 
 #### Sección Décima Segunda. De las cuotas de recuperación por la prestación de servicios médicos
 
@@ -7914,9 +8098,9 @@ Por la inscripción de la determinación del límite de zonas de los Programas T
 
 Para la determinación del valor de los inmuebles, como excepción a lo dispuesto en el artículo 22 de este Código, los contribuyentes podrán aplicar los procedimientos y lineamientos técnicos de valuación inmobiliaria.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Cuando en la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación en términos de lo previsto en los artículos 76 y 78 de la Ley de Desarrollo Urbano del Distrito Federal tenga participación el Gobierno de la Ciudad de México, quedará exento del pago a que se refiere el párrafo quinto del presente artículo, así como de la obligación contenida en el artículo 64, fracción III, de la Ley de Desarrollo Urbano del Distrito Federal, asimismo, quedarán exentos del pago de los derechos y aprovechamientos previstos en los artículos 179, fracciones I y II, 235, fracciones II, III y IV, 300 y 301 de este Código, respectivamente, cuando se generen a cargo del Gobierno de la Ciudad de México con motivo de su participación en la constitución de un polígono de actuación y/o aplicación de un sistema de actuación en términos de lo previsto en los artículos 76 y 78 de la Ley de Desarrollo Urbano del Distrito Federal, siempre y cuando exista autorización de la Procuraduría Fiscal.
+Cuando en la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación en términos de lo previsto en los artículos 76 y 78 de la Ley de Desarrollo Urbano del Distrito Federal tenga participación el Gobierno de la Ciudad de México, quedará exento del pago a que se refiere el párrafo quinto del presente artículo, así como de la obligación contenida en el artículo 64, fracción III, de la Ley de Desarrollo Urbano del Distrito Federal, asimismo, quedarán exentos del pago de los derechos y aprovechamientos previstos en los artículos 235, fracciones II, III y IV, 300 y 301 de este Código, respectivamente, cuando se generen a cargo del Gobierno de la Ciudad de México con motivo de su participación en la constitución de un polígono de actuación y/o aplicación de un sistema de actuación en términos de lo previsto en los artículos 76 y 78 de la Ley de Desarrollo Urbano del Distrito Federal, siempre y cuando exista autorización de la Procuraduría Fiscal.
 
 #### Sección Décima Quinta. De los derechos por los servicios de recolección y recepción de residuos sólidos
 
@@ -7928,53 +8112,53 @@ Por los servicios de recolección, recepción y disposición final de residuos s
 
 I. Por servicio de recolección:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) De residuos sólidos urbanos separados, por cada kilogramo, excepto poda $1.43
+a). De residuos sólidos urbanos separados, por cada kilogramo, excepto poda $1.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) De residuos de poda, por cada kilogramo $2.75
+b). De residuos de poda, por cada kilogramo $2.84
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) De residuos de manejo especial, por cada kilogramo, excepto construcción $3.90
+c). De residuos de manejo especial, por cada kilogramo, excepto construcción $4.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) De residuos de construcción, en vehículos registrados y autorizados, por cada kilogramo $0.72
+d). De residuos de construcción, en vehículos registrados y autorizados, por cada kilogramo $0.74
 
 II. Por servicio de recepción:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) En estaciones de transferencia, por cada kilogramo de residuos sólidos urbanos separados, excepto poda $0.87
+a). En estaciones de transferencia, por cada kilogramo de residuos sólidos urbanos separados, excepto poda $0.90
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) En estaciones de transferencia, por cada kilogramo de residuos sólidos de poda $1.74
+b). En estaciones de transferencia, por cada kilogramo de residuos sólidos de poda $1.80
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) En centros de compostaje registrados y autorizados, por cada kilogramo de residuos orgánicos y/o de poda $1.75
+c). En centros de compostaje registrados y autorizados, por cada kilogramo de residuos orgánicos y/o de poda $1.81
 
 III. Por el servicio de recepción de residuos de la construcción:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) En estaciones de transferencia, por cada kilogramo $0.50
+a). En estaciones de transferencia, por cada kilogramo $0.52
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) En sitio de disposición final autorizado, por cada kilogramo $0.17
+b). En sitio de disposición final autorizado, por cada kilogramo $0.18
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por el servicio de recepción de residuos sólidos urbanos separados en sitios de disposición final, por cada kilogramo, excepto poda $0.37
+IV. Por el servicio de recepción de residuos sólidos urbanos separados en sitios de disposición final, por cada kilogramo, excepto poda $0.38
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por el servicio de recepción de residuos no peligrosos de manejo especial en sitios de disposición final, por cada kilogramo $0.72
+V. Por el servicio de recepción de residuos no peligrosos de manejo especial en sitios de disposición final, por cada kilogramo $0.74
 
 Para los efectos de estos derechos se considerarán residuos de manejo especial aquellos establecidos en la legislación aplicable.
 
@@ -8006,61 +8190,61 @@ Por el otorgamiento de permisos, licencias y autorizaciones, por un año, para p
 
 a) Permisos:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Seguridad y protección personal $15,724.00
+I. Seguridad y protección personal $16,249.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Vigilancia y protección de bienes $14,850.00
+II. Vigilancia y protección de bienes $15,346.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Custodia, traslado y vigilancia de bienes o valores $17,470.50
+III. Custodia, traslado y vigilancia de bienes o valores $18,054.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Localización e información de personas y bienes $13,978.50
+IV. Localización e información de personas y bienes $14,446.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Actividades inherentes a la seguridad privada $13,279.50
+V. Actividades inherentes a la seguridad privada $13,723.00
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Por la revalidación anual de los permisos a que se refiere este inciso, se pagará el mismo monto que se pagó por su expedición.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Licencias tipos "A" o "B", para la prestación de servicios de seguridad privada a terceros $351.00
+b). Licencias tipos "A" o "B", para la prestación de servicios de seguridad privada a terceros $363.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Por la reposición de las licencias a que se refiere el inciso anterior $235.10
+Por la reposición de las licencias a que se refiere el inciso anterior $243.00
 
 > <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
 Por la revalidación anual de las licencias a que se refiere este inciso, se pagará el mismo monto que se pagó por su expedición.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Autorizaciones a personas físicas o morales, para que realicen actividades de seguridad privada $5,243.50
+c). Autorizaciones a personas físicas o morales, para que realicen actividades de seguridad privada $5,419.00
 
 Por la revalidación anual de las autorizaciones a que se refiere este inciso, se pagará el mismo monto que se pagó por su otorgamiento.
 
 En los casos en que las empresas a que este artículo se refiere, soliciten una modificación o ampliación de los servicios autorizados, se aplicarán las cuotas señaladas en las fracciones anteriores, para cada uno de los supuestos señalados.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 246.
 
-Por la expedición de la constancia de información, registro, folio o certificación que proporcione el registro de servicios de seguridad privada, se pagarán derechos por $318.50
+Por la expedición de la constancia de información, registro, folio o certificación que proporcione el registro de servicios de seguridad privada, se pagarán derechos por $329.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 247.
 
-Por la expedición de la constancia de certificación de aptitud, idoneidad y confiabilidad, para prestar servicios o realizar actividades de Seguridad Privada, se pagará la cantidad de $523.50
+Por la expedición de la constancia de certificación de aptitud, idoneidad y confiabilidad, para prestar servicios o realizar actividades de Seguridad Privada, se pagará la cantidad de $541.00
 
 #### Sección Décima Séptima. De los derechos por la prestación de otros servicios
 
@@ -8072,175 +8256,175 @@ Tratándose de los servicios que a continuación se enumeran que sean prestados 
 
 I. Expedición de copias certificadas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Heliográficas de plano $363.50
+a). Heliográficas de plano $376.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) De planos en material distinto al inciso anterior $366.00
+b). De planos en material distinto al inciso anterior $378.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) De documentos, por cada página tamaño carta u oficio $12.86
+c). De documentos, por cada página tamaño carta u oficio $13.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Expedición de copias simples de los documentos mencionados en los incisos a) y b) $282.80
+d). Expedición de copias simples de los documentos mencionados en los incisos a) y b) $292.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Expedición de copias simples o fotostáticas de documentos, tamaño carta u oficio, excepto los que obren en autos de los órganos judiciales de la Ciudad de México y en Agencias del Ministerio Público de la Ciudad de México:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Copia simple o fotostática, por una sola cara $2.56
+a). Copia simple o fotostática, por una sola cara $2.64
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Copia simple o fotostática en reducción o ampliación, por una sola cara $2.56
+b). Copia simple o fotostática en reducción o ampliación, por una sola cara $2.64
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por reposición de constancia o duplicado de la misma $53.33
+III. Por reposición de constancia o duplicado de la misma $55.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Compulsa de documentos, por página $10.31
+IV. Compulsa de documentos, por página $11.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la búsqueda de documento original en los archivos oficiales $82.27
+V. Por la búsqueda de documento original en los archivos oficiales $85.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Legalización de firma y sello de documento público $96.42
+VI. Legalización de firma y sello de documento público $100.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Apostilla en documento público $96.42
+VII. Apostilla en documento público $100.00
 
-(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-VIII. Constancia de adeudos, por cada cuenta, placa o Registro Federal de Contribuyentes $173.60
+VIII. Constancia de adeudos, por cada cuenta, placa o Registro Federal de Contribuyentes $179.00
 
-IX. (DEROGADA, G. O. 31 DE DICIEMBRE DE 2013)
+IX. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2013)
 
 X. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2011)
 
-(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-XI. Por certificaciones de pago, por cada cuenta, placa o Registro Federal de Contribuyentes $86.76
+XI. Por certificaciones de pago, por cada cuenta, placa o Registro Federal de Contribuyentes $90.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $173.60
+XII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $179.00
 
 XIII. Por autorización para la práctica de avalúos para efectos fiscales:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Por la autorización a personas morales cuyo objeto sea la realización de avalúos $16,112.00
+a). Por la autorización a personas morales cuyo objeto sea la realización de avalúos $16,650.00
 
 b) Por la revalidación multianual de la autorización a que se refiere el inciso anterior:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por un año $8,594.50
+1. Por un año $8,882.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por dos años $16,756.00
+2. Por dos años $17,316.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por tres años $24,490.50
+3. Por tres años $25,309.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Por la autorización a corredores públicos $8,952.00
+c). Por la autorización a corredores públicos $9,251.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Por la revalidación anual de la autorización a corredores públicos $4,727.00
+d). Por la revalidación anual de la autorización a corredores públicos $4,885.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-e) Por el registro como perito valuador para auxiliar en la práctica de avalúos $7,160.50
+e). Por el registro como perito valuador para auxiliar en la práctica de avalúos $7,400.00
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 f) Por la revalidación multianual del registro a que se refiere el inciso anterior:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por un año $4,296.00
+1. Por un año $4,440.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por dos años $7,749.50
+2. Por dos años $8,008.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por tres años $10,333.00
+3. Por tres años $10,678.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-g) Por el registro como perito valuador independiente en la práctica de avalúos $14,321.50
+g). Por el registro como perito valuador independiente en la práctica de avalúos $14,800.00
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 h) Por la revalidación multianual del registro a que se refiere el inciso anterior:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Por un año $7,949.00
+1. Por un año $8,215.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Por dos años $14,342.00
+2. Por dos años $14,821.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Por tres años $19,124.50
+3. Por tres años $19,764.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-i) Por el examen de materia de valuación inmobiliaria $5,544.50
+i). Por el examen de materia de valuación inmobiliaria $5,730.00
 
 XIV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2010)
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-XV. Por la tramitación de la constitución de la sociedad de convivencia incluida la ratificación y el registro $74.53
+XV. Por la tramitación de la constitución de la sociedad de convivencia incluida la ratificación y el registro $77.00
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 XVI. Por los servicios que prestan las Alcaldías respecto de las modificaciones y/o terminación de la sociedad de convivencia se pagará conforme a lo siguiente:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Inscripción de modificación y adición a la sociedad de convivencia $2,529.50
+a). Inscripción de modificación y adición a la sociedad de convivencia $2,614.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Registro del aviso de terminación de la sociedad de convivencia $2,529.50
+b). Registro del aviso de terminación de la sociedad de convivencia $2,614.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 XVII. Por la expedición de las copias de expedientes o documentos que obren en autos de los órganos judiciales de la Ciudad de México, así como de las Averiguaciones Previas o carpetas de investigación de las Agencias del Ministerio Público de la Ciudad de México, por cada página tamaño carta u oficio, las siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Copias simples $2.56
+a). Copias simples $2.65
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Copias certificadas $6.42
+b). Copias certificadas $6.65
 
-(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-c) Para las videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier tecnología $31.94
+c). Para las videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier tecnología $33.00
 
 La cuota indicada en la fracción XI de este artículo, comprenderá la totalidad de los registros de pago que se contengan en el sistema computarizado de la Secretaría, por número de cuenta, placa o registro.
 
@@ -8260,57 +8444,57 @@ Los recursos adicionales a los asignados en la Ley de Ingresos que se obtengan d
 
 Por la expedición en copia certificada, simple o fotostática o reproducción de información pública o versión pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. De copias certificadas o versiones públicas de documentos en tamaño carta u oficio, por cada página $2.56
+I. De copias certificadas o versiones públicas de documentos en tamaño carta u oficio, por cada página $2.65
 
 II. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2016)
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2017) (REFORMADO EN SU CUOTA [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)
 
-III. De copias simples o fotostáticas, de documentos en tamaño carta u oficio, por cada página $0.63
+III. De copias simples o fotostáticas, de documentos en tamaño carta u oficio, por cada página $0.70
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Para efectos de esta fracción, la determinación de montos a cubrir, se deberá atender a lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, así como a la normatividad aplicable en materia de protección de datos personales.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. De planos, por cada uno $112.50
+IV. De planos, por cada uno $116.00
 
 V. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. De discos compactos, por cada uno $23.79
+VI. De discos compactos, por cada uno $25.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. De audiocasetes, por cada uno $23.79
+VII. De audiocasetes, por cada uno $25.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. De videocasetes, por cada uno $61.69
+VIII. De videocasetes, por cada uno $64.00
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 249 BIS.- Tratándose de los servicios que sean prestados por la Secretaría de Desarrollo Económico, se pagarán derechos conforme a las cuotas que para cada caso se indican:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Certificación de profesional inmobiliario, así como su revalidación $1,604.50
+I. Certificación de profesional inmobiliario, así como su revalidación $1,658.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Registro como profesional inmobiliario $1,604.50
+II. Registro como profesional inmobiliario $1,658.00 50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Registro como capacitador inmobiliario $1,604.50
+III. Registro como capacitador inmobiliario $1,658.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por el examen en materia de servicios profesionales inmobiliarios $1,604.50
+IV. Por el examen en materia de servicios profesionales inmobiliarios $1,658.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -8320,25 +8504,25 @@ ARTICULO 249 TER.- Por los servicios que preste la Secretaría de Educación, Ci
 
 I. Por solicitud, estudio y resolución del reconocimiento de validez oficial de estudios:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Educación superior $71,246.00
+a). Educación superior $73,627.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Educación media superior o equivalente y de formación para el trabajo $38,472.50
+b). Educación media superior o equivalente y de formación para el trabajo $39,758.00
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
 II. Por vigencia anual de derechos por reconocimiento de validez oficial de estudios a escuelas particulares:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Educación superior $9,847.50
+a). Educación superior $10,177.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Educación media superior o equivalente y de formación para el trabajo $7,415.00
+b). Educación media superior o equivalente y de formación para el trabajo $7,663.00
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -8348,51 +8532,51 @@ III. Por cambios diversos al reconocimiento de validez oficial de estudios:
 
 a) Por cambio de plan o programa de estudio o modalidad:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Educación superior $56,702.00
+1. Educación superior $58,597.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Educación media superior o equivalente y de formación para el trabajo $27,521.00
+2. Educación media superior o equivalente y de formación para el trabajo $28,441.00
 
 b) Por cambio de titular del reconocimiento de validez oficial de estudios:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Educación superior $12,958.50
+1. Educación superior $13,391.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Educación media superior o equivalente y de formación para el trabajo $9,757.50
+2. Educación media superior o equivalente y de formación para el trabajo $10,084.00
 
 c) Por cambio de domicilio o reapertura de plantel:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-1. Educación superior $42,559.00
+1. Educación superior $43,981.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Educación media superior o equivalente y de formación para el trabajo $32,048.00
+2. Educación media superior o equivalente y de formación para el trabajo $33,119.00
 
-(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-IV. Por la reposición de certificado de terminación de estudios $43.74
+IV. Por la reposición de certificado de terminación de estudios $45.00
 
-(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2017) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-V. Por la certificación parcial de estudios $32.81
+V. Por la certificación parcial de estudios $34.00
 
-(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-ARTICULO 249 QUATER.- Por la expedición de la constancia administrativa que determine medidas, colindancias y superficie de un predio para corrección de su descripción en los documentos que acreditan la propiedad, se pagarán derechos conforme a una cuota de $1,730.50 por predio.
+ARTICULO 249 QUATER.- Por la expedición de la constancia administrativa que determine medidas, colindancias y superficie de un predio para corrección de su descripción en los documentos que acreditan la propiedad, se pagarán derechos conforme a una cuota de $1,788.00 por predio.
 
 Asimismo, quedarán exentos del pago de los derechos previstos en este artículo, los bienes de dominio público de la Ciudad de México y los sujetos al régimen de dominio público de la Federación, previa declaratoria emitida por la Procuraduría Fiscal.
 
-(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-ARTICULO 249 QUINTUS.- Por el estudio e inscripción o modificación de un predio en los planos de alineamientos y derechos de vía, se pagarán derechos conforme a una cuota a razón de $1,095.50 por predio.
+ARTICULO 249 QUINTUS.- Por el estudio e inscripción o modificación de un predio en los planos de alineamientos y derechos de vía, se pagarán derechos conforme a una cuota a razón de $1,132.00 por predio.
 
 Asimismo, quedarán exentos del pago de los derechos previstos en este artículo, los bienes de dominio público de la Ciudad de México y los sujetos al régimen de dominio público de la Federación, previa declaratoria emitida por la Procuraduría Fiscal.
 
@@ -8402,25 +8586,25 @@ Asimismo, quedarán exentos del pago de los derechos previstos en este artículo
 
 Por los servicios de revisión de datos catastrales en gabinete o mediante levantamientos físico, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por revisión de datos catastrales de gabinete, cuando el inmueble no rebase los 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $653.00
+I. Por revisión de datos catastrales de gabinete, cuando el inmueble no rebase los 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $675.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por revisión de datos catastrales de gabinete cuando el inmueble rebase 1000 m2 de terreno más construcción, por cada número de cuenta predial $1,304.00
+II. Por revisión de datos catastrales de gabinete cuando el inmueble rebase 1000 m2 de terreno más construcción, por cada número de cuenta predial $1,348.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por revisión de datos catastrales mediante levantamiento físico de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste no rebase los 1000 m2 de superficies de terreno más construcción, por cada número de cuenta predial o por predio fusionado $1,112.50
+III. Por revisión de datos catastrales mediante levantamiento físico de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste no rebase los 1000 m2 de superficies de terreno más construcción, por cada número de cuenta predial o por predio fusionado $1,150.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Por revisión de datos catastrales mediante levantamiento físico de inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno y un uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m2 de $1.86 xm2
+IV. Por revisión de datos catastrales mediante levantamiento físico de inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno y un uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m2 de $1.92 xm2
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por revisión de datos catastrales mediante levantamiento de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste rebase los 1000 m2, de superficies de terreno y/o de construcción y tenga un uso pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m2 de $0.93 xm2
+V. Por revisión de datos catastrales mediante levantamiento de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste rebase los 1000 m2, de superficies de terreno y/o de construcción y tenga un uso pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m2 de $0.96 xm2
 
 Quedan exentos del pago de servicios de levantamiento físico a que se refiere este artículo, los contribuyentes que soliciten este servicio por primera vez, siempre que se inscriba al padrón catastral el predio objeto a examen.
 
@@ -8432,17 +8616,17 @@ Por los servicios de información catastral que preste la Ciudad de México, se 
 
 I. Una vez realizada la búsqueda, previo pago de derechos establecidos en la fracción V, del artículo 248 de este Código, se efectuará la expedición de copias fotostáticas de planos catastrales y de fotografías aéreas de:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Cartografía catastral a nivel de manzana con la delimitación de predios y con información del predio de interés a escala 1:1,000 por cada hoja $273.80
+a). Cartografía catastral a nivel de manzana con la delimitación de predios y con información del predio de interés a escala 1:1,000 por cada hoja $283.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Planos catastrales correspondientes a un predio, con acotaciones a la escala que se requiera $477.00
+b). Planos catastrales correspondientes a un predio, con acotaciones a la escala que se requiera $493.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o 1:10,000, por cada hoja $2.56
+c). De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o 1:10,000, por cada hoja $2.65
 
 En caso de que la información referida se requiera en copias certificadas, deberá adicionarse el monto señalado en el artículo 248, fracción I, inciso b) del presente Código.
 
@@ -8460,23 +8644,23 @@ Se excluye de la prestación de estos servicios, la información respecto de la 
 
 Los permisos y autorizaciones para actividades culturales, deportivas y recreativas que se realicen en áreas de valor ambiental y áreas naturales protegidas se incrementarán en un 2% al monto establecido en el presente Código.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Por el pago de permisos por la prestación de servicios de turismo alternativo a los que se refieren la Ley de Turismo del Distrito Federal en el suelo de conservación se pagará la cuota de $3,098.50, y cuando se trate de la prestación de servicios de turismo alternativo en áreas de valor ambiental y áreas naturales protegidas se pagará la cuota de $5,167.00
+Por el pago de permisos por la prestación de servicios de turismo alternativo a los que se refieren la Ley de Turismo del Distrito Federal en el suelo de conservación se pagará la cuota de $3,202.00, y cuando se trate de la prestación de servicios de turismo alternativo en áreas de valor ambiental y áreas naturales protegidas se pagará la cuota de $5,340.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Por el pago de autorizaciones del estudio de capacidad de carga para turismo alternativo se pagará la cuota de $2,067.00
+Por el pago de autorizaciones del estudio de capacidad de carga para turismo alternativo se pagará la cuota de $2,136.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Por el pago de certificaciones de personal calificado para prestar servicios de turismo alternativo se pagará la cuota de $1,033.50
+Por el pago de certificaciones de personal calificado para prestar servicios de turismo alternativo se pagará la cuota de $1,068.00 52
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 254.
 
-Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de árboles ubicados en bienes particulares, se pagará la cuota $309.60
+Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de árboles ubicados en bienes particulares, se pagará la cuota $320.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -8484,29 +8668,29 @@ Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de 
 
 Por los servicios para las autorizaciones y certificaciones a las que se refiere la Ley de Protección a los Animales de la Ciudad de México, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por la expedición de certificados de venta de animales en establecimientos comerciales, ferias y exposiciones que se dedican a la venta de mascotas $309.60
+I. Por la expedición de certificados de venta de animales en establecimientos comerciales, ferias y exposiciones que se dedican a la venta de mascotas $320.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la expedición de certificados veterinarios de salud por la venta de mascotas $207.10
+II. Por la expedición de certificados veterinarios de salud por la venta de mascotas $214.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Liberación de animales en centros de control animal $53.33
+III. Liberación de animales en centros de control animal $55.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Autorización para la cría de animales $207.10
+IV. Autorización para la cría de animales $214.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Certificados para el adiestramiento de perros de seguridad $1,033.50
+V. Certificados para el adiestramiento de perros de seguridad $1,068.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el servicio de monta o tiro deportivo $1,033.50
+VI. Por el servicio de monta o tiro deportivo $1,068.00
 
 El pago de estos servicios será anual y los montos recibidos serán destinados al fondo para la protección de los animales que la Ley de Protección a los Animales prevé.
 
@@ -8520,13 +8704,13 @@ Por los servicios de Protección Ciudadana, se pagarán derechos conforme a las 
 
 A) Del Heroico Cuerpo de Bomberos de la Ciudad de México:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por el visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia $4,565.00
+I. Por el visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia $4,718.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por la supervisión de campo en los lugares donde se celebren espectáculos públicos masivos $6,389.50
+II. Por la supervisión de campo en los lugares donde se celebren espectáculos públicos masivos $6,603.00
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -8536,17 +8720,17 @@ B) De la Secretaría de Seguridad Ciudadana de la Ciudad de México:
 
 Por los servicios que preste la Secretaría de Seguridad Ciudadana, con motivo de espectáculos públicos considerados como masivos por la normatividad aplicable, celebrados por particulares, que afecten las funciones de control, supervisión y regulación de tránsito de personas y de vehículos en la vía pública, se pagarán derechos por elemento de seguridad y unidad vehicular, de acuerdo a las cuotas que a continuación se indican:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Concepto Cuota
 
-Elemento de seguridad $737.00
+Elemento de seguridad $762.00
 
-Patrulla $749.50
+Patrulla $775.00
 
-Grúas $1,126.00
+Grúas $1,164.00
 
-Motocicleta $375.50
+Motocicleta $388.00
 
 > <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -8566,47 +8750,47 @@ Asimismo, no se entenderá que existe prestación de servicios cuando los evento
 
 El pago de los derechos de servicios de prevención de incendios, de conformidad con lo dispuesto en la normatividad de la materia, será conforme a las siguientes tarifas:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Concepto Tarifa Mínima Tarifa Máxima
+Concepto Tarifa mínima Tarifa máxima
 
-por Turno por Turno
+por turno por turno
 
-Elementos bomberos $1,101.00 $1,177.00
+Elementos bomberos $1,138.00 $1,216.00
 
-Supervisores $1,273.50 $1,324.50
+Supervisores $1,316.00 $1,369.00
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Vehículo Tarifa por Turno
+Vehículo Tarifa por turno
 
-Patrulla $438.00
+Patrulla $453.00
 
-Camioneta equipada $943.50
+Camioneta equipada $975.00
 
-Camión bomba $4,858.50
+Camión bomba $5,021.00
 
-Camión pipa $724.00
+Camión pipa $748.00
 
-Hazmat $5,847.50
+Hazmat $6,043.00
 
-Camión de volteo $792.20
+Camión de volteo $819.00
 
-Camioneta de 3 ½ toneladas $381.80
+Camioneta de 3 ½ toneladas $395.00
 
-Bob Cat $610.00
+Bob Cat $630.00
 
-Vehículo de rescate $5,847.50
+Vehículo de rescate $6,043.00
 
-Motocicleta equipada $618.00
+Motocicleta equipada $639.00
 
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
 Los recursos adicionales a los asignados en la Ley de Ingresos que se obtengan de los derechos a los que se refiere el artículo 256, inciso A), así como los previstos en el presente artículo, se destinarán al Heroico Cuerpo de Bomberos de la Ciudad de México como ampliación líquida de su presupuesto, para lo cual se observará lo dispuesto en el Título Tercero, Capítulo III de la Ley de Austeridad y demás normatividad aplicable, y deberán destinarse íntegramente a la adquisición de insumos y equipamiento necesarios para la prestación de su servicio.
 
-(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-ARTICULO 257 BIS.- Por la emisión o renovación del Dictamen Técnico sobre Prevención de Incendios para los establecimientos mercantiles, industrias y empresas clasificadas como de mediano o alto riesgo de incendio, así como las empresas de almacenamiento o transporte de materiales flamables o peligrosos, se pagará una cuota a razón de $14,016.50
+ARTICULO 257 BIS.- Por la emisión o renovación del Dictamen Técnico sobre Prevención de Incendios para los establecimientos mercantiles, industrias y empresas clasificadas como de mediano o alto riesgo de incendio, así como las empresas de almacenamiento o transporte de materiales flamables o peligrosos, se pagará una cuota a razón de $14,485.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -8622,25 +8806,25 @@ ARTICULO 258 BIS.- Por los servicios de evaluación y dictaminación del Estudio
 
 I. Por el dictamen de estudio de impacto de movilidad que efectúe la autoridad competente, en las siguientes modalidades:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Manifestación de impacto de movilidad general $6,425.50
+a). Manifestación de impacto de movilidad general $6,640.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Manifestación de impacto de movilidad específica $9,784.50
+b). Manifestación de impacto de movilidad específica $10,111.00
 
 ### CAPITULO XI. De las Reducciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 #### Sección Primera. De los derechos por el estacionamiento de vehículos
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 259.
 
-Por el estacionamiento de vehículos en la vía pública bajo el esquema de parquímetros se pagará el derecho de estacionamiento conforme a una cuota de $2.56 por cada quince minutos.
+Por el estacionamiento de vehículos en la vía pública bajo el esquema de parquímetros se pagará el derecho de estacionamiento conforme a una cuota de $2.64 por cada quince minutos.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -8680,11 +8864,11 @@ Para los efectos del artículo anterior, el valor del inmueble de la Ciudad de M
 
 El derecho por el uso o aprovechamiento de inmuebles, se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será una doceava parte del monto del derecho calculado al año.
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 264.
 
-Están obligados al pago de los derechos establecidos en esta sección, los locatarios de los mercados públicos de la Ciudad de México, por el uso y utilización de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones y servicios inherentes, a razón de $20.99 por metro cuadrado, mismos que se causarán mensualmente y se pagarán por periodos semestrales, dentro del mes siguiente al semestre de que se trate.
+Están obligados al pago de los derechos establecidos en esta sección, los locatarios de los mercados públicos de la Ciudad de México, por el uso y utilización de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones y servicios inherentes, a razón de $22.00 por metro cuadrado, mismos que se causarán mensualmente y se pagarán por periodos semestrales, dentro del mes siguiente al semestre de que se trate.
 
 El suministro de agua hasta por 30 m3 y energía eléctrica están comprendidos dentro de los servicios inherentes a que tienen derecho los locatarios que cubran la contribución prevista en el párrafo anterior, siempre y cuando el consumo de agua y energía eléctrica se destine para actividades acordes con el giro autorizado.
 
@@ -8712,37 +8896,37 @@ Están obligadas al pago de estos derechos, las personas físicas y morales que 
 
 I. En el caso de que la fuente de abastecimiento de agua cuente con medidor, el monto del derecho de descarga se calculará tomando como base el 80% del volumen de agua extraída, al que se le aplicará la cuota que corresponda por metro cúbico a que se refiere la tabla siguiente:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
 Límite Límite Cuota Cuota Adicional
 
-Inferior Superior Mínima por m3 Excedente
+Inferior Superior Mínima por m3 excedente
 
 del límite inferior
 
-0.0 10 $167.34 $0.00
+0.0 10 $172.93 $0.00
 
-MAS DE 10 20 $334.42 $0.00
+MAS DE 10 20 $345.59 $0.00
 
-MAS DE 20 30 $501.93 $0.00
+MAS DE 20 30 $518.69 $0.00
 
-MAS DE 30 60 $501.93 $24.85
+MAS DE 30 60 $518.69 $25.68
 
-MAS DE 60 90 $1,247.48 $32.31
+MAS DE 60 90 $1,289.15 $33.39
 
-MAS DE 90 120 $2,216.80 $39.81
+MAS DE 90 120 $2,290.84 $41.14
 
-MAS DE 120 240 $3,411.29 $47.22
+MAS DE 120 240 $3,525.23 $48.80
 
-MAS DE 240 420 $9,078.97 $54.74
+MAS DE 240 420 $9,382.21 $56.57
 
-MAS DE 420 660 $18,927.27 $62.16
+MAS DE 420 660 $19,559.44 $64.24
 
-MAS DE 660 960 $33,843.32 $70.02
+MAS DE 660 960 $34,973.69 $72.36
 
-MAS DE 960 1500 $54,847.67 $78.44
+MAS DE 960 1500 $56,679.58 $81.06
 
-MAS DE 1500 En adelante $97,193.42 $80.44
+MAS DE 1500 En adelante $100,439.68 $83.13
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -8752,35 +8936,35 @@ El usuario que haya optado por no instalar dispositivos permanentes de medición
 
 III. Cuando la fuente de abastecimiento de agua, carezca de medidor, no funcione o exista la imposibilidad de efectuar la lectura y no sea posible determinar el volumen extraído, se aplicará la cuota que corresponda de acuerdo a la tarifa establecida en la siguiente tabla:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-Diámetro del Cabezal Cuota Bimestral
+Diámetro del cabezal Cuota Bimestral
 
-del Pozo en mm
+del pozo en mm
 
-DE 20 A 26 $33,644.56
+DE 20 A 26 $34,768.29
 
-DE 27 A 32 $51,797.39
+DE 27 A 32 $53,527.42
 
-DE 33 A 39 $75,777.29
+DE 33 A 39 $78,308.25
 
-DE 40 A 51 $134,288.36
+DE 40 A 51 $138,773.59
 
-DE 52 A 64 $201,428.83
+DE 52 A 64 $208,156.55
 
-DE 65 A 76 $287,757.14
+DE 65 A 76 $297,368.23
 
-DE 77 A 102 $585,103.93
+DE 77 A 102 $604,646.40
 
-DE 103 A 150 $2,244,506.49
+DE 103 A 150 $2,319,473.01
 
-DE 151 A 200 $3,510,633.98
+DE 151 A 200 $3,627,889.15
 
-DE 201 A 250 $3,515,100.07
+DE 201 A 250 $3,632,504.41
 
-DE 251 A 300 $5,054,928.17
+DE 251 A 300 $5,223,762.77
 
-DE 301 EN ADELANTE $5,321,429.23
+DE 301 EN ADELANTE $5,499,164.97
 
 IV. En caso de abastecimiento de agua por medio de carro tanque la tarifa de descarga se calculará conforme al 80% de la cuota fija establecida para el diámetro de la toma de agua potable que se encuentra en el inmueble.
 
@@ -8866,19 +9050,33 @@ El Sistema de Aguas podrá instalar el o los equipos que considere necesarios de
 
 Por la expedición del Permiso de Filmación en la vía pública, se pagarán derechos por día y por cada locación conforme a las siguientes cuotas:
 
-a) Filmación de impacto regular $1,054.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Filmaciones de alto impacto $5,255.00
+a). Filmación de impacto regular $1,089.00
 
-c) Filmación en vías de tránsito vehicular $4,754.50
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-d) Filmación de impacto extraordinario $ 15,765.00
+b). Filmaciones de alto impacto $5,431.00
 
-e) Permiso urgente de filmación $10,518.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-f) Modificación de Permiso $1,054.00
+c). Filmación en vías de tránsito vehicular $4,913.00
 
-g) Prórroga de Permiso $1,054.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+d). Filmación de impacto extraordinario $16,292.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+e). Permiso urgente de filmación $10,869.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+f). Modificación de Permiso $1,089.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+g). Prórroga de Permiso $1,089.00
 
 El pago de los derechos previstos en este artículo aumentará en cincuenta por ciento, cuando la filmación solicitada se lleve a cabo en el perímetro vial del Centro histórico, conformado por el cruce del Eje 1 Poniente y calle Violeta, siguiendo por la calle Violeta hasta el cruce con Paseo de la Reforma en la glorieta Simón Bolívar; y hacia el Noroeste hasta la glorieta José de San Martín, para continuar hacia el Este por el Eje 1 Norte (Rayón – Granaditas), hasta encontrar el cruce con el Eje 1 Oriente. El Eje 1 Oriente (Vidal de Alcocer – Anillo de Circunvalación), hasta el cruce con la Avenida Fray Servando Teresa de Mier hasta encontrar el cruce con el Eje Central Lázaro Cárdenas, en el sitio conocido como Salto del Agua. Siguiendo por el Eje Central Lázaro Cárdenas hasta el cruce constituido por el Eje Central con Avenida Juárez. Y de Avenida Juárez hasta el cruce con el Eje 1 Poniente, en la glorieta conocida con el nombre de El Caballito, finalmente sigue a lo largo del Eje 1 Poniente (Avenida Guerrero), hasta el cruce con la calle Violeta.
 
@@ -8892,7 +9090,7 @@ No se generará el cobro de los derechos establecidos en este artículo a los es
 
 ###### ARTICULO 270.
 
-Las personas físicas propietarias o poseedoras de viviendas de interés social o vivienda popular, adquiridas con créditos otorgados dentro de los programas de vivienda oficiales, tendrán derecho a una reducción en el pago del Impuesto Predial, de tal manera que sólo se realice el pago de la cuota de $50.00 pesos bimestrales.
+Las personas físicas propietarias o poseedoras de viviendas de interés social o vivienda popular, adquiridas con créditos otorgados dentro de los programas de vivienda oficiales, tendrán derecho a una reducción en el pago del Impuesto Predial, de tal manera que sólo se realice el pago de la cuota de $52.00 pesos bimestrales.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -8970,11 +9168,11 @@ En el caso de inmuebles ubicados dentro del perímetro A del Centro Histórico d
 
 Las reducciones previstas en este artículo, no serán aplicables en aquellos casos en que se otorgue el uso o goce del inmueble inclusive para la instalación o fijación de anuncios o cualquier otro tipo de publicidad exterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 274.
 
-Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes y Literatura, y que los habiten y no los utilicen para uso comercial alguno, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Predial, sin que en ningún caso el monto a pagar sea inferior a la cuota de $50.00 pesos bimestrales.
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes y Literatura, y que los habiten y no los utilicen para uso comercial alguno, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Predial, sin que en ningún caso el monto a pagar sea inferior a la cuota de $52.00 pesos bimestrales.
 
 Para lo anterior, el contribuyente deberá presentar lo siguiente:
 
@@ -9004,21 +9202,21 @@ ARTICULO 275 BIS.- Las personas físicas que formalicen en escritura pública to
 
 Las reducciones contempladas en este artículo serán procedentes ante Notario Público de la Ciudad de México de acuerdo con los valores catastrales y porcentajes que a continuación se indican:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Valor catastral Porcentaje
+VALOR CATASTRAL DEL PORCENTAJE DE
 
-del inmueble de reducción
+INMUEBLE REDUCCIÓN
 
-Hasta $354,960.50 60%
+HASTA $366,821.00 60%
 
-De $354,960.51 y hasta $709,921.00 40%
+DE $366,821.01 Y HASTA $733,642.00 40%
 
-De S (sic) 709,921.01 y hasta $1,064,881.00 30%
+DE $733,642.01 Y HASTA $1,100,463.00 30%
 
-De S (sic) 1,064,881.01 y hasta S (sic) 1,300,901.50 20%
+DE $1,100,463.01 Y HASTA $1,344,370.00 20%
 
-De S (sic) 1,300,901.51 y hasta S (sic) 1,842,942.50 10%
+DE $1,344,370.01 Y HASTA $1,904,523.00 10%
 
 Para la obtención de estas reducciones, los contribuyentes deberán presentar, constancia expedida por la Dirección General de Regularización Territorial en la que acredite ser beneficiario del presente artículo.
 
@@ -9026,17 +9224,17 @@ Para la obtención de estas reducciones, los contribuyentes deberán presentar, 
 
 Para efectos de la reducción de las contribuciones a que se refiere este artículo, el valor del inmueble que se considerará como base gravable será:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a). Tratándose de inmuebles cuyo valor catastral sea de hasta $1,300,901.50, el valor indicado en la Propuesta de Declaración de Valor Catastral y Pago del Impuesto Predial (boleta), correspondiente al último bimestre de la fecha en que se realice la formalización de la propiedad de que se trate.
+a) Tratándose de inmuebles cuyo valor catastral sea de hasta $1,344,370.00, el valor indicado en la Propuesta de Declaración de Valor Catastral y Pago del Impuesto Predial (boleta), correspondiente al último bimestre de la fecha en que se realice la formalización de la propiedad de que se trate.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018) (REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-b). Tratándose de inmuebles cuyo valor catastral sea superior a $1,300,901.50, el valor que se considerará será el que resulte mayor en términos del artículo 116 de este Código, siempre que dicho valor no exceda de $1,842,942.50. En caso de que cualquiera de los valores resulte ser mayor a $1,842,942.50, bajo ningún concepto será aplicable la reducción a que se refiere este artículo.
+b) Tratándose de inmuebles cuyo valor catastral sea superior a $1,344,370.00, el valor que se considerará será el que resulte mayor en términos del artículo 116 de este Código, siempre que dicho valor no exceda de $1,904,523.00. En caso de que cualquiera de los valores resulte ser mayor a $1,904,523.00, bajo ningún concepto será aplicable la reducción a que se refiere este artículo.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En el caso de inmuebles con un valor de $1,064,881.01 y hasta $1,842,942.50 es necesario presentar avalúo practicado por persona autorizada o registrada por la autoridad fiscal, mismo que para efectos de lo establecido en el inciso a) del párrafo anterior sólo será considerado para fines estadísticos por la autoridad fiscal y para efectos de lo indicado en el inciso b) será considerado para la determinación de la base gravable del Impuesto sobre Adquisición de Inmuebles.
+En el caso de inmuebles con un valor de $1,100,463.00 y hasta $1,904,523.00 es necesario presentar avalúo practicado por persona autorizada o registrada por la autoridad fiscal, mismo que para efectos de lo establecido en el inciso a) del párrafo anterior sólo será considerado para fines estadísticos por la autoridad fiscal y para efectos de lo indicado en el inciso b) será considerado para la determinación de la base gravable del Impuesto sobre Adquisición de Inmuebles.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -9052,15 +9250,15 @@ ARTICULO 275 TER.- Las personas físicas en su carácter de herederos y legatari
 
 Las reducciones contempladas en este artículo serán procedentes ante Notario Público de la Ciudad de México de acuerdo con los valores catastrales y porcentajes que a continuación se indican:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Valor catastral Porcentaje
+VALOR CATASTRAL PORCENTAJE DE
 
-del inmueble de reducción
+DEL INMUEBLE REDUCCIÓN
 
-Hasta $1,842,942.50 80%
+HASTA $1,904,523.00 80%
 
-De $1,842,942.51 y hasta $2,168,167.50 40%
+DE $1,904,523.01 Y HASTA $2,240,615.00 40%
 
 Para la obtención de las reducciones contenidas en este artículo, los contribuyentes deberán presentar la constancia expedida por la Dirección General de Regularización Territorial en la que se acredite la inscripción a los Programas de esa Dirección General para llevar a cabo las acciones que correspondan para la transmisión de propiedad a título de herencia. Para efectos de la reducción del Impuesto sobre Adquisición de Inmuebles, el valor del inmueble que se considerará será el indicado en la Propuesta de Declaración de Valor Catastral y Pago del Impuesto Predial (boleta), correspondiente al último bimestre de la fecha en que se realice la formalización de transmisión de propiedad por sucesión.
 
@@ -9262,11 +9460,11 @@ Las personas físicas que participen en programas oficiales de beneficio social 
 
 Las personas físicas para obtener la reducción a que se refiere este artículo, deberán formar parte de los Programas Oficiales de Beneficio Social que al efecto desarrollen las Alcaldías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 281.
 
-Los jubilados, pensionados por cesantía en edad avanzada, por vejez, por incapacidad por riesgos de trabajo, por invalidez, así como las viudas y huérfanos pensionados; asimismo, las mujeres separadas, divorciadas, jefas de hogar y madres solteras todas ellas que demuestren tener dependientes económicos y personas con discapacidad permanente, tendrán derecho a una reducción del Impuesto Predial, de tal manera que sólo se realice el pago de la cuota de $50.00 pesos bimestrales.
+Los jubilados, pensionados por cesantía en edad avanzada, por vejez, por incapacidad por riesgos de trabajo, por invalidez, así como las viudas y huérfanos pensionados; asimismo, las mujeres separadas, divorciadas, jefas de hogar y madres solteras todas ellas que demuestren tener dependientes económicos y personas con discapacidad permanente, tendrán derecho a una reducción del Impuesto Predial, de tal manera que sólo se realice el pago de la cuota de $52.00 pesos bimestrales.
 
 > <small>(REFORMADO [N. DE E. ANTES PÁRRAFO TERCERO], G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -9280,9 +9478,9 @@ I. Acreditar que cuentan con una pensión o jubilación del Instituto Mexicano d
 
 II. Ser propietario del inmueble en que habiten, respecto del cual se aplicará única y exclusivamente la reducción;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $2,141,220.00
+III. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $2,212,737.00
 
 > <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -9298,11 +9496,11 @@ VI. En tratándose de los Derechos por el Suministro de Agua adicionalmente, el 
 
 Los beneficios a que se refiere este artículo no serán aplicables cuando el propietario otorgue el uso o goce temporal del inmueble, incluso para la instalación o fijación de anuncios o cualquier otro tipo de publicidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 282.
 
-Los adultos mayores sin ingresos fijos y escasos recursos, tendrán derecho a una reducción del Impuesto Predial, equivalente a la diferencia que resulte entre la cuota a pagar y la cuota de $50.00 pesos bimestrales.
+Los adultos mayores sin ingresos fijos y escasos recursos, tendrán derecho a una reducción del Impuesto Predial, equivalente a la diferencia que resulte entre la cuota a pagar y la cuota de $52.00 pesos bimestrales.
 
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -9318,9 +9516,9 @@ II. Ser propietario del inmueble en que habite, respecto del cual se aplicará �
 
 III. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2017)
 
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 2013) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $2,141,220.00, y
+IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $2,212,737.00, y
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -9426,9 +9624,9 @@ Las Instituciones de Asistencia Privada para obtener la reducción a que se refi
 
 Tratándose de las Instituciones de Asistencia Privada que durante los meses de septiembre, octubre, noviembre y diciembre adquieran un inmueble, para obtener la reducción por concepto del Impuesto sobre Adquisición de Inmuebles y de los Derechos del Registro Público de la Propiedad, podrán solicitar la constancia que refiere el párrafo anterior, dentro de los quince días hábiles siguientes contados a partir de la fecha de adquisición.
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Adicionalmente, para la obtención de la referida Constancia, los interesados deberán presentar ante la Junta de Asistencia Privada del Distrito Federal, las constancias de adeudos, donde se desprenda que se encuentran al corriente en el pago de las contribuciones referidas en el presente artículo que correspondan; respecto a los últimos cinco años anteriores al ejercicio fiscal por el que se solicita; no obstante, podrá ser un plazo menor al mencionado, cuando sea el caso de que la obligación se configure en una temporalidad inferior.
+Adicionalmente, para la obtención de la referida Constancia, los interesados deberán presentar ante la Junta de Asistencia Privada del Distrito Federal, las constancias de adeudos, con las que acrediten que se encuentran al corriente en el pago de las contribuciones referidas en el presente artículo, incluidas también aquellas contribuciones por las que no soliciten la reducción; respecto a los últimos cinco años anteriores al ejercicio fiscal por el que se solicita; no obstante, podrá ser un plazo menor al mencionado, cuando sea el caso de que la obligación se configure en una temporalidad inferior.
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -9662,7 +9860,7 @@ Las reducciones contenidas en este Código, se harán efectivas en las Administr
 
 No será procedente la acumulación de beneficios fiscales establecidos en este Código, para ser aplicados a un mismo concepto y ejercicio fiscal, excepto cuando se trate de la reducción por pago anticipado, prevista en el segundo párrafo del artículo 131 de este Código.
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Las reducciones comprendidas en este Código, se aplicarán durante el ejercicio fiscal vigente, y por los créditos fiscales generados en dicho ejercicio, salvo los casos previstos en este Código.
 
@@ -9670,11 +9868,15 @@ Las reducciones comprendidas en este Código, se aplicarán durante el ejercicio
 
 En caso de que los contribuyentes no hayan solicitado alguna de las reducciones comprendidas en este Código, o no hayan aplicado la constancia respectiva en el ejercicio en que se haya emitido, caducará su derecho para hacerlo valer con posterioridad.
 
-> <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de las personas físicas o morales que soliciten alguno de los beneficios fiscales contenidos en este Código, y que hubieren interpuesto algún medio de defensa contra el cobro de las contribuciones o créditos fiscales, no procederán los mismos hasta en tanto se exhiba copia certificada del escrito de desistimiento debidamente presentado ante la autoridad que conozca de la controversia y del acuerdo recaído al mismo.
 
-> <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Cuando se hubiese otorgado alguno de los beneficios previstos en este Código a petición del contribuyente y éste promueva algún medio de defensa contra el pago efectuado o contra el cobro del crédito fiscal correspondiente, se dejarán sin efectos los beneficios otorgados.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Asimismo, no procederán dichos beneficios cuando los contribuyentes cuenten con denuncias o querellas presentadas por la autoridad fiscal a que hace referencia el Título Cuarto del Libro Cuarto de este Código.
 
@@ -9682,9 +9884,9 @@ Asimismo, no procederán dichos beneficios cuando los contribuyentes cuenten con
 
 Las unidades administrativas que intervengan en la emisión de las constancias y certificados para efecto de las reducciones a que se refiere este Código, deberán elaborar los lineamientos que los contribuyentes tienen que cumplir para obtener su constancia o certificado; asimismo, la Tesorería formulará los lineamientos aplicables a cada una de las reducciones, mismos que deberán observarse por los contribuyentes al hacer efectiva la reducción de que se trate.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En caso de que la autoridad fiscal en el uso de sus atribuciones detecte que los contribuyentes proporcionaron datos o documentación falsos para obtener indebidamente las reducciones previstas en este Código, dará vista a la autoridad competente para la aplicación de las sanciones penales correspondientes.
+En caso de que la autoridad fiscal en el uso de sus atribuciones detecte que los contribuyentes proporcionaron datos o documentación falsos para obtener indebidamente los referidos beneficios, dará vista a la autoridad competente para la aplicación de las sanciones penales correspondientes.
 
 Los lineamientos a que se refiere este artículo, para su operación, deberán contar con la validación de la Procuraduría Fiscal.
 
@@ -9706,11 +9908,11 @@ Las personas físicas y morales que dañen o deterioren las vías y áreas públ
 
 El pago de estos aprovechamientos, comprenderá el importe total de los daños o deterioros causados, y se deberá realizar en las oficinas recaudadoras de la Secretaría o auxiliares autorizados, dentro de los quince días siguientes al que se notifique al contribuyente el costo de los servicios por rehabilitación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 300.
 
-Las personas físicas y morales que realicen construcciones en términos del artículo 51 del Reglamento de Construcciones para el Distrito Federal, deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones necesarias para prevenir, mitigar o compensar las alteraciones o afectaciones al ambiente y los recursos naturales, a razón de $52.04 por metro cuadrado de construcción.
+Las personas físicas y morales que realicen construcciones en términos del artículo 51 del Reglamento de Construcciones para el Distrito Federal, deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones necesarias para prevenir, mitigar o compensar las alteraciones o afectaciones al ambiente y los recursos naturales, a razón de $54.00 por metro cuadrado de construcción.
 
 Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamientos.
 
@@ -9732,17 +9934,17 @@ Los recursos que se recauden por los conceptos de aprovechamientos a que se refi
 
 Las personas físicas o morales que realicen obras o construcciones en la Ciudad de México de más de 200 metros cuadrados de construcción deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones para prevenir, mitigar o compensar los efectos del impacto vial, de acuerdo con lo siguiente:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Habitacional, por metro cuadrado de construcción $111.40
+a). Habitacional, por metro cuadrado de construcción $115.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Otros Usos, por metro cuadrado de construcción $150.20
+b). Otros Usos, por metro cuadrado de construcción $155.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) Las estaciones de servicio, pagarán a razón de $317,855.00, por cada dispensario.
+c). Las estaciones de servicio, pagarán a razón de $328,476.00, por cada dispensario.
 
 Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamiento.
 
@@ -9766,23 +9968,23 @@ ARTICULO 301 BIS.- Las personas físicas o morales que realicen obras o construc
 
 1. Del 00.00% al 50.00% de la cantidad máxima permitida en la edificación $0.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-2. Del 50.01% al 75.00% de la cantidad máxima permitida en la edificación $80,463.00
+2. Del 50.01% al 75.00% de la cantidad máxima permitida en la edificación $83,152.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-3. Del 75.01% al 100.00% de la cantidad máxima permitida en la edificación $160,926.00
+3. Del 75.01% al 100.00% de la cantidad máxima permitida en la edificación $166,303.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-4. En caso de que para inmuebles exclusivamente habitacionales se requiera construir cajones por arriba del 100%, se aportarán $241,389.50 por cajón adicional.
+4. En caso de que para inmuebles exclusivamente habitacionales se requiera construir cajones por arriba del 100%, se aportarán $249,455.00 por cajón adicional.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADO, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 302.
 
-Las personas físicas y morales que construyan desarrollos urbanos, edificaciones, amplíen la construcción o cambien el uso de las construcciones, y que previamente cuenten con dictamen favorable de factibilidad de otorgamiento de servicios hidráulicos, en términos de lo dispuesto por el artículo 62 de la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México; deberán cubrir el pago por concepto de aprovechamientos a razón de $379.00 por cada metro cuadrado de construcción o de ampliación, a efecto de que el Sistema de Aguas, esté en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
+Las personas físicas y morales que construyan desarrollos urbanos, edificaciones, amplíen la construcción o cambien el uso de las construcciones, y que previamente cuenten con dictamen favorable de factibilidad de otorgamiento de servicios hidráulicos, en términos de lo dispuesto por el artículo 62 de la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México; deberán cubrir el pago por concepto de aprovechamientos a razón de $392.00 por cada metro cuadrado de construcción o de ampliación, a efecto de que el Sistema de Aguas, esté en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
 
 Los desarrolladores de construcciones destinadas a vivienda de interés social y vivienda de interés popular tendrán derecho a una reducción del 35%, respecto al pago de los aprovechamientos a que se refiere este artículo, siempre y cuando acrediten tal condición, mediante el certificado único de zonificación de uso del suelo expedido por autoridad competente.
 
@@ -9848,9 +10050,9 @@ Los Comerciantes en Vía Pública, con puestos semifijos, ubicados a más de dos
 
 Grupo I:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Puestos Semifijos de 1.80 por 1.20 metros, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $10.25
+Puestos Semifijos de 1.80 por 1.20 metros, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $10.50
 
 Para efecto de lo dispuesto en el párrafo anterior, se contemplan los Giros Comerciales siguientes:
 
@@ -9928,9 +10130,9 @@ II. Del 20% cuando se efectúe el pago del segundo semestre del año, a más tar
 
 Los Comerciantes que hasta la fecha, no se hayan incorporado al Programa de Reordenamiento del Comercio en Vía Pública y se incorporen, causarán el pago de los aprovechamientos que se mencionan, a partir de la fecha de su incorporación.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Las cuotas de los puestos fijos que se encuentren autorizados y que cumplan la normatividad vigente de conformidad con el Reglamento de Mercados, no podrán ser superiores a $61.69 por día, ni inferiores a $30.85 por día de ocupación; dependiendo de la ubicación del área ocupada para estas actividades.
+Las cuotas de los puestos fijos que se encuentren autorizados y que cumplan la normatividad vigente de conformidad con el Reglamento de Mercados, no podrán ser superiores a $64.00 por día, ni inferiores a $32.00 por día de ocupación; dependiendo de la ubicación del área ocupada para estas actividades.
 
 Las personas obligadas al pago de las cuotas a que se refiere el presente artículo, deberán cubrirlas a su elección, por meses anticipados o en forma trimestral.
 
@@ -9942,23 +10144,23 @@ Los aprovechamientos a los que se refiere este artículo se destinarán a la Alc
 
 Tratándose de los siguientes aprovechamientos por la utilización de bienes de uso común se pagarán semestralmente las siguientes tarifas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, sin publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $1,680.50
+a). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, sin publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $1,737.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, con publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $8,403.00
+b). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, con publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $8,684.00
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Los aprovechamientos a los que se refiere este artículo se destinarán a la Alcaldía correspondiente como recursos de aplicación automática, para lo cual deberán estar a lo dispuesto en las reglas generales a que se refiere el artículo 303 de este Código.
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 306.
 
-Los concesionarios, permisionarios y otros prestadores del servicio de transporte público de pasajeros autorizados a ingresar a paraderos, cualquiera que sea el tipo de unidad, pagarán aprovechamientos por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal del Gobierno de la Ciudad de México, a razón de $293.80 mensuales por cada unidad, mismos que se pagarán en forma anticipada, dentro de los primeros diez días naturales del mes de que se trate.
+Los concesionarios, permisionarios y otros prestadores del servicio de transporte público de pasajeros autorizados a ingresar a paraderos, cualquiera que sea el tipo de unidad, pagarán aprovechamientos por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal del Gobierno de la Ciudad de México, a razón de $304.00 mensuales por cada unidad, mismos que se pagarán en forma anticipada, dentro de los primeros diez días naturales del mes de que se trate.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -9984,7 +10186,9 @@ b) Pagarán 1% del cobro total antes de impuestos por cada viaje que haya inicia
 
 c) Se exceptuará del cobro total a los viajes que inicien en la Ciudad de México si el vehículo utilizado es eléctrico.
 
-El aprovechamiento deberá pagarse en las formas y medios que establezca la Secretaría, a más tardar el día quince de cada mes por el total que corresponda al mes inmediato anterior, para lo cual podrá coordinarse con la Secretaría de Movilidad de la Ciudad de México.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El aprovechamiento deberá pagarse en las formas y medios que establezca la Secretaría, a más tardar el día quince de cada mes por el total que corresponda al mes inmediato anterior, especificando el número de viajes realizados, el tipo de conductor y el tipo de vehículo en el periodo indicado, para lo cual podrá coordinarse con la Secretaría de Movilidad de la Ciudad de México.
 
 La totalidad de los aprovechamientos correspondientes a este artículo se destinarán para la modernización, infraestructura, innovación tecnológica del servicio de transporte de pasajeros público individual y programas de capacitación para los prestadores del mismo; implementar acciones para la integración, modernización y mejora del servicio de transporte de pasajeros público concesionado; realizar estudios e investigaciones para la innovación y mejora del servicio de transporte de pasajeros público; instrumentar acciones, políticas y programas vinculados con el respeto y seguridad de peatones y ciclistas; así como instrumentar acciones, políticas y programas vinculados a mejorar la movilidad en general en la Ciudad de México.
 
@@ -10370,7 +10574,7 @@ En los casos de transmisión de valores que representen inversiones financieras 
 
 ### CAPITULO UNICO. Del Pago de Devoluciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 350.
 
@@ -10442,7 +10646,9 @@ Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Ci
 
 Cuando no proceda la apertura de la carpeta de investigación a que hace referencia el párrafo anterior, la Secretaría de Seguridad Ciudadana deberá publicar en su página de internet los datos identificativos del vehículo en la fecha de ingreso, señalando la misma, el lugar del que fue retirado y el depósito en el que se encuentra el vehículo, momento a partir del cual se entenderá que queda a disposición del interesado para efectos de lo establecido en el artículo 231 de este Código.
 
-El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por las Alcaldías en términos del artículo 16 de la Ley de Movilidad del Distrito Federal, se destinarán a la Alcaldía que los haya remitido, como recursos de aplicación automática, de conformidad con la normatividad aplicable, para destinarlos a obras y trabajos para mejoramiento urbano de la demarcación territorial.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por las Alcaldías en términos del artículo 16 de la Ley de Movilidad de la Ciudad de México, se destinarán a la Alcaldía que los haya remitido, como recursos de aplicación automática, de conformidad con la normatividad aplicable, para destinarlos a obras y trabajos para mejoramiento urbano de la demarcación territorial.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -10458,7 +10664,7 @@ Cuando de la documentación relativa a los bienes abandonados, se desprenda la e
 
 ###### ARTICULO 358.
 
-La devolución de las cantidades percibidas indebidamente por la Ciudad de México y las que procedan de conformidad con lo previsto en este Código, se efectuarán por conducto de la Secretaría, mediante transferencia electrónica a través de las instituciones de crédito autorizadas quienes llevarán a cabo dicha devolución en la cuenta señalada por el contribuyente, para lo cual, éste deberá proporcionar los datos de la institución financiera, su número de cuenta y clabe bancaria estandarizada en la solicitud de devolución correspondiente o en su caso, con certificados expedidos a nombre del contribuyente, de conformidad con lo que establece el primer párrafo del artículo 49 de este Código. Para tal efecto, las autoridades fiscales competentes dictarán de oficio o a petición de parte, las resoluciones que procedan.
+La devolución de las cantidades percibidas indebidamente por la Ciudad de México y las que procedan de conformidad con lo previsto en este Código, se efectuarán por conducto de la Secretaría, mediante transferencia electrónica a través de las instituciones de crédito autorizadas quienes llevarán a cabo dicha devolución en la cuenta a nombre del contribuyente, para lo cual, éste deberá proporcionar los datos de la institución financiera, su número de cuenta y Clave Bancaria Estandarizada (CLABE) en la solicitud de devolución correspondiente o en su caso, con certificados expedidos a nombre del contribuyente, de conformidad con lo que establece el primer párrafo del artículo 49 de este Código. Para tal efecto, las autoridades fiscales competentes dictarán de oficio o a petición de parte, las resoluciones que procedan.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -10660,13 +10866,13 @@ I. Por la notificación de requerimiento para el cumplimiento de obligaciones no
 
 II. Por el embargo, la extracción de bienes muebles, la notificación en que se finque el remate de bienes, la enajenación fuera de remate o la adjudicación al fisco, el 2% del crédito fiscal, por cada una de dichas diligencias, con independencia de los gastos de ejecución extraordinarios que correspondan.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $288.60, se cobrará esta cantidad en lugar del 2% del monto de las contribuciones o aprovechamientos omitidos, o del crédito fiscal según sea el caso.
+Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $298.00, se cobrará esta cantidad en lugar del 2% del monto de las contribuciones o aprovechamientos omitidos, o del crédito fiscal según sea el caso.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las relativas a la inscripción de inmuebles, podrán exceder de $51,051.50.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las relativas a la inscripción de inmuebles, podrán exceder de $52,757.00
 
 Asimismo, se pagarán los gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el artículo 30, fracción V, de este Código; se consideran gastos de ejecución extraordinarios, entre otros, los siguientes: los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigación, los que deriven de los derechos por servicio de información y cartografía catastral señalados en los artículos 250 y 251 de este Código, necesarios para determinar el valor catastral de los inmuebles a rematar o enajenar fuera de remate, los que se originen por la inscripción, cancelación o anotación de embargos en el Registro Público de la Propiedad y de Comercio, según corresponda, conforme a las cuotas vigentes a la fecha en que se lleve a cabo la inscripción, cancelación o anotación referida, los erogados por la obtención del certificado de libertad de gravamen, los honorarios de los depositarios, interventores y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -11064,9 +11270,9 @@ El remate o la enajenación fuera de remate deberán ser convocados al día sigu
 
 La convocatoria de remate o enajenación fuera de remate se fijará en el sitio visible y usual de la oficina recaudadora y en los lugares públicos que se juzgue conveniente. Además tanto la convocatoria de remate como la de enajenación fuera de remate se darán a conocer en el sistema de subastas electrónicas de la Secretaría. En la convocatoria se especificarán los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Cuando el valor de los bienes muebles, inmuebles o la negociación a rematar exceda de $1,002,826.50, la convocatoria se publicará por una ocasión en uno de los periódicos de mayor circulación en la Ciudad de México.
+Cuando el valor de los bienes muebles, inmuebles o la negociación a rematar exceda de $1,036,335.00, la convocatoria se publicará por una ocasión en uno de los periódicos de mayor circulación en la Ciudad de México.
 
 > <small>(REFORMADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -12174,6 +12380,10 @@ Con la finalidad de otorgar al sector fiscal especial el acceso al Procedimiento
 
 Se interpondrá por el interesado a través del Teso Buzón Fiscal CDMX, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación de la resolución sometida a Procedimiento de e-Revocación.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las audiencias y mesas de trabajo a que se refiere el presente artículo deberán desarrollarse a través de medios digitales, para lo cual la Secretaría emitirá las disposiciones con los supuestos y sistemas electrónicos de que se trate; los usuarios de las tomas de agua de uso doméstico que correspondan a manzanas tipo popular y baja, propietarios de inmuebles de uso habitacional cuyo valor catastral se encuentre dentro de los rangos A, B, C, D, E, F y G de la tarifa prevista en la fracción I del artículo 130 de este Código y el Sector Fiscal Especial establecido en el sexto párrafo de la fracción III del artículo anterior, podrán optar por llevarlas a cabo de manera presencial.
+
 En los casos previstos en los incisos a) y c), de la fracción II, del artículo 449-1, del presente ordenamiento, el Procedimiento de e-Revocación podrá interponerse dentro de los veinte días siguientes a aquel en que la autoridad hubiese realizado el acto.
 
 En el caso previsto en el inciso d), de la fracción II, del artículo 449-1, el Procedimiento de e-Revocación podrá hacerse valer en cualquier tiempo hasta antes de que se haya aplicado el importe del remate para cubrir el crédito fiscal.
@@ -12306,13 +12516,25 @@ III. La valoración de las pruebas se hará de acuerdo con lo siguiente:
 
 a) Harán prueba plena la confesión expresa del promovente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; no obstante, si en estos últimos se contienen declaraciones de verdad o manifestación de hechos particulares, los documentos sólo prueban plenamente que se hicieron tales declaraciones o manifestaciones ante la autoridad que los expidió, pero no prueban la verdad de lo declarado o manifestado;
 
-b) Tratándose de facultades de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas, y;
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-c) El valor del dictamen pericial y las demás pruebas queda a la prudente apreciación de la autoridad.
+b) Tratándose de facultades de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas;
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+c) El valor del dictamen pericial y las demás pruebas queda a la prudente apreciación de la autoridad, y
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+d) Tratándose de documentos digitales, la autoridad a efecto de verificar su autenticidad podrá requerir al solicitante para que, en un plazo de cinco días contados a partir del día siguiente a aquel en que surta efectos la notificación, los presente en forma física en las oficinas de la autoridad. En caso de no presentarlos en el plazo otorgado se tendrán por no ofrecidos.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiera convicción distinta acerca de los hechos materia del Procedimiento de e-Revocación, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar, razonadamente, esta parte de su resolución;
 
 IV. Tratándose de los casos previstos en las fracciones I y II, del artículo 449-1, la autoridad deberá dictar resolución en la Audiencia de Resolución Definitiva; en caso de que la autoridad no emita resolución definitiva en un plazo de cuatro meses, contados a partir de la fecha de solicitud del Procedimiento de e-Revocación, operará la afirmativa ficta.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El plazo a que hace referencia la fracción IV del presente artículo, se suspenderá cuando el promovente en la Mesa de Trabajo o en la Audiencia de Resolución Definitiva, solicite la adopción de un convenio conciliatorio. El cómputo del plazo se reanudará en el momento en el que se suscriba el convenio o se haga del conocimiento de las partes la aceptación o declinación de dicho convenio.
 
 La resolución que emita la Procuraduría Fiscal de la Ciudad de México se fundará en derecho, pudiendo invocar, en todo momento, hechos notorios; sin embargo, cuando una violación a las disposiciones fiscales sea suficiente para dejar sin efectos o, en su caso, para modificar el acto sometido a Procedimiento de e-Revocación, bastará con el examen de esa.
 
@@ -12400,9 +12622,9 @@ Es obligación de la Procuraduría Fiscal, respetando la lógica y las reglas fu
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
+### CAPITULO I. Del Procedimiento Resarcitorio
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 #### Sección Primera. GENERALIDADES
 
@@ -12738,9 +12960,131 @@ Lo dispuesto en este artículo no es aplicable tratándose de responsabilidades 
 
 ## TITULO SEGUNDO. DE LAS RESPONSABILIDADES RESARCITORIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
+### CAPITULO II. Del Procedimiento Resarcitorio en Línea
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 461 BIS.- El procedimiento resarcitorio se tramitará y resolverá en línea, a través del Sistema en Línea que establezca y desarrolle la Secretaría, en términos de lo dispuesto por el presente Capítulo. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
+
+El procedimiento resarcitorio en línea podrá ser tramitado de manera opcional cuando el solicitante así lo manifieste, y el probable responsable acepte su tramitación por este medio, en este supuesto, la Procuraduría Fiscal deberá substanciar dicho procedimiento por esta vía.
+
+Si el probable responsable no señala expresamente su dirección de correo electrónico, se tramitará el procedimiento resarcitorio en la vía tradicional y el acuerdo correspondiente se notificará mediante los procedimientos formales previstos en el Capítulo III, del Título Segundo, del Libro Tercero de este Código, relativo a las Notificaciones.
+
+Una vez que se haya elegido la opción para la tramitación del procedimiento resarcitorio, no podrá variarse.
+
+En el Sistema en Línea se integrará el expediente electrónico, mismo que incluirá todas las promociones y pruebas de conformidad con lo señalado en el artículo 460 de este Código, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Secretaría.
+
+La Clave de Acceso y Contraseña se proporcionarán, a través del Sistema en Línea, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los archivos electrónicos que contengan las constancias que integran el expediente electrónico, para los efectos legales establecidos en este Código.
+
+Para hacer uso del Sistema en Línea se deberán observar los lineamientos que para tal efecto emita la Secretaría.
+
+Solamente el solicitante y el probable responsable, tendrán acceso al expediente electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+
+Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al expediente electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario.
+
+Una vez recibida por vía electrónica cualquier promoción, el Sistema en Línea de la Secretaría, emitirá el acuse de recibo electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+Cualquier actuación en el procedimiento resarcitorio en línea se efectuará a través del Sistema en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada y firma digital del servidor público correspondiente.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 461 BIS 1.- Los documentos que las partes ofrezcan como prueba deberán exhibirlos de forma legible a través del Sistema en Línea.
+
+Tratándose de documentos digitales se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Las partes deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume que el documento digitalizado corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones del presente Código para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al expediente electrónico, una vez digitalizadas por la autoridad fiscal.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 461 BIS 2.- Las notificaciones que se practiquen dentro del procedimiento resarcitorio en línea, se efectuarán conforme a lo siguiente:
+
+I. Todas las actuaciones y resoluciones que conforme a las disposiciones de este Código deban notificarse en forma personal, por correo ordinario, telegrama, edictos o estrados, se deberán realizar a través del Sistema en Línea;
+
+II. Se enviará a la dirección de correo electrónico del solicitante y del probable responsable, un aviso informándoles que se ha emitido una actuación o resolución en el expediente electrónico, la cual estará disponible en el Sistema en Línea;
+
+III. El Sistema en Línea registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior;
+
+IV. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el Sistema en Línea genere el acuse de recibo electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al expediente electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la dirección de correo electrónico de la o las partes a notificar, y
+
+V. En caso de que, en el plazo señalado en la fracción anterior, el Sistema en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará de acuerdo a lo dispuesto en el Capítulo III, del Título Segundo, del Libro Tercero de este Código, relativo a las Notificaciones, al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+
+Para los efectos del procedimiento resarcitorio en línea son hábiles las 24 horas de los días en que se encuentre abierta al público la Oficialía de Partes de la Procuraduría Fiscal.
+
+Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el acuse de recibo electrónico que emita el Sistema en Línea de la Secretaría, en el lugar en donde las partes tengan su domicilio fiscal.
+
+Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 461 BIS 3.- Para la presentación y trámite de los medios de defensa que se promuevan contra las actuaciones y resoluciones derivadas del procedimiento resarcitorio en línea, no será aplicable lo dispuesto en el presente Capítulo.
+
+La Procuraduría Fiscal deberá imprimir el archivo del expediente electrónico y certificar las constancias del procedimiento resarcitorio en línea, que deban ser remitidos a la autoridad correspondiente, cuando se impugnen las resoluciones de dicho procedimiento, o bien, cuando lo solicite alguna de las partes.
+
+En caso de que la Procuraduría Fiscal advierta la modificación, alteración, destrucción o la pérdida de información contenida en el Sistema, se tomarán las medidas de protección, hasta que se resuelva el procedimiento resarcitorio, el cual continuará su tramitación a través de la vía tradicional.
+
+Si el responsable es usuario del Sistema en Línea, se cancelará su Clave y Contraseña para ingresar a dicho Sistema y no tendrá posibilidad de volver a promover procedimientos resarcitorios en línea.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este Capítulo, las partes deberán dar aviso a la Procuraduría Fiscal en la misma promoción sujeta a término, quien pedirá un reporte al responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, por el tiempo que dure la interrupción del Sistema. Para tal efecto, la Procuraduría Fiscal hará constar esta situación mediante oficio en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 461 BIS 4.- En la promoción y substanciación del procedimiento resarcitorio en Línea, la Firma Electrónica Avanzada vinculará y responsabilizará al promovente con el contenido del documento electrónico, de la misma forma en que la firma autógrafa lo hace del documento que la contiene en el procedimiento resarcitorio tramitado por la vía tradicional.
+
+El uso de la Firma Electrónica Avanzada implica:
+
+a) La vinculación indubitable entre el firmante y el documento digital en el que se contenga la Firma Electrónica Avanzada, bajo el control exclusivo del firmante y que expresan en medio digital su identidad;
+
+b) La responsabilidad de prevenir cualquier modificación o alteración en el contenido de los documentos digitales que se presenten en el Sistema en Línea, al existir un control exclusivo de los medios para insertar la referida firma, y
+
+c) La integridad y autenticidad del contenido del documento firmado electrónicamente.
+
+Los titulares de una Firma Electrónica Avanzada tendrán las siguientes obligaciones:
+
+a) Resguardar la confidencialidad de la clave privada que se requiere para signar electrónicamente los documentos;
+
+b) Mantener el control físico, personal y exclusivo de su Firma Electrónica Avanzada;
+
+c) Actualizar los datos proporcionados para su tramitación, e
+
+d) Informar de manera inmediata al prestador de servicios de certificación, de cualquier circunstancia que ponga en riesgo su privacidad o confidencialidad en su uso, a fin de que, de ser necesario, se revoque.
+
+Los usuarios del portal de la Secretaría y del Sistema en Línea deberán abstenerse de:
+
+a) Utilizar el Sistema en Línea para cargar, anunciar o enviar cualquier contenido con propósitos diversos a la promoción y substanciación del procedimiento resarcitorio; información ilegal, peligrosa, amenazante, abusiva, hostigadora, tortuosa, difamatoria, vulgar, obscena, calumniosa, invasiva del derecho de privacidad, discriminatoria; que sea ofensiva, dañe o perjudique a terceros;
+
+b) Hacerse pasar por alguna persona o entidad diferente a la propia o a la que en términos de ley represente;
+
+c) Falsificar información o identificadores para desviar el origen de algún contenido transmitido por medio del Sistema en Línea;
+
+d) Cargar, anunciar o enviar información confidencial y comercial reservada sin la diligencia necesaria prevista por el Sistema en Línea para evitar su divulgación;
+
+e) Enviar correo spam, cargar o transmitir algún archivo electrónico que contenga virus o cualquier otro código de computadora o programas diseñados para interrumpir, destruir o perjudicar el correcto funcionamiento de equipos de cómputo de terceros del Sistema en Línea o equipos de telecomunicaciones;
+
+f) Desatender cualquier requisito, procedimiento, política o regulación del Sistema en Línea, establecido por la Secretaría;
+
+g) Acceder a los servicios del portal de la Secretaría para realizar actividades contrarias a este artículo;
+
+h) Condicionar el uso total o parcial del portal de la Secretaría, así como del Sistema en Línea al pago de contraprestaciones por servicios profesionales o empresariales, e
+
+i) Incumplir con los demás requisitos previstos en este artículo.
+
+Para registrar y enviar promociones a través del Sistema en Línea, los promoventes deberán:
+
+a) Verificar el correcto y completo registro de la información solicitada en el Sistema;
+
+b) Corroborar el adecuado funcionamiento, integridad, legibilidad y formato de los archivos electrónicos, incluso los digitalizados, que adjunte al Sistema en Línea, y
+
+c) Verificar que los archivos electrónicos a remitir por el Sistema en Línea se encuentren libres de virus, y en caso contrario, aplicar los mecanismos necesarios para eliminarlos.
+
+En caso de que no exista coincidencia entre la información registrada por el usuario en los campos de captura correspondientes y el contenido de la promoción enviada a través del Sistema en Línea, la autoridad podrá requerirlo para que, dentro del plazo de 5 días hábiles, señale la información correcta.
+
+Cualquier documento digital que obre en el expediente electrónico deberá cumplir con las características de accesibilidad, fácil manejo, inalterabilidad y sin restricciones de copiado del texto o de cualquier contenido, impresión o consulta.
 
 ###### ARTICULO 454.
 
@@ -12756,13 +13100,19 @@ De igual forma iniciará, substanciará y resolverá responsabilidades resarcito
 
 Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Civil y el Código de Procedimientos Civiles para el Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 455.
 
-Las solicitudes que se presenten a la Procuraduría Fiscal, para el inicio del procedimiento resarcitorio, además de los requisitos previstos en el artículo 430 de este Código, deberán cumplir con lo siguiente:
+Las solicitudes que se presenten a la Procuraduría Fiscal, para el inicio del procedimiento resarcitorio establecido en este Código, además de los requisitos previstos en el artículo 430, se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Estar dirigida a la persona titular de la Procuraduría Fiscal o de la Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios;
+I. Se interpondrá mediante escrito dirigido a la persona titular de la Procuraduría Fiscal o de la Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios, o en línea a través del Sistema en Línea.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Para el caso de que el solicitante no manifieste su opción al momento de su presentación, se entenderá que eligió tramitar el procedimiento resarcitorio en la vía tradicional;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -12820,7 +13170,9 @@ III. La cantidad líquida que corresponda al daño o perjuicio, según sea el ca
 
 Para el fincamiento de la responsabilidad resarcitoria, el inicio del procedimiento deberá notificarse previamente al probable responsable, para que éste, dentro del plazo de los quince días siguientes conteste lo que a su derecho convenga en torno a los hechos que le fueron imputados y, aporte las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan. En el caso que el probable responsable no formule su contestación en torno a los hechos que le fueron imputados y no ofrezca pruebas dentro del plazo de los quince días, se le tendrá por perdido su derecho para hacerlo y para ofrecer pruebas sin necesidad de que se acuse rebeldía.
 
-En caso de que el domicilio proporcionado por la autoridad solicitante del procedimiento resarcitorio resulte incierto, o no se localice al probable responsable, se emitirá requerimiento a efecto de que se proporcione nuevo domicilio donde sea posible la localización, con el apercibimiento de que en caso de no realizarlo en el plazo de treinta días, se ordenará la notificación por edictos de conformidad con lo dispuesto por el artículo 439 de este Código.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el domicilio proporcionado por la autoridad solicitante del procedimiento resarcitorio resulte incierto, o no se localice al probable responsable, la Procuraduría Fiscal emitirá requerimiento con apercibimiento a las instancias que considere competentes, a fin de que las mismas proporcionen información que sirva para la localización del probable responsable. En caso de que, en un plazo de treinta días naturales, no se tenga localizado al probable responsable, se ordenará la notificación por edictos de conformidad con lo dispuesto por el artículo 439 de este Código.
 
 A fin de que el probable responsable pueda ofrecer sus pruebas, las autoridades deberán poner a su vista los expedientes de los cuales deriven las irregularidades de que se trate, y expedirles con toda prontitud las copias certificadas que solicite, las cuales se le entregarán una vez que acredite el pago de los derechos respectivos.
 
@@ -12836,7 +13188,9 @@ Si durante la tramitación del procedimiento y hasta antes de notificarse su con
 
 En caso de que el daño o perjuicio quede resarcido previo a la emisión de dicha resolución, se dará vista a la solicitante para que dentro del plazo de tres días, se pronuncie sobre la satisfacción del resarcimiento, los cuales se comenzarán a contar a partir de que se le haga saber la existencia del pago, apercibiéndole que en caso de no hacerlo así se le tendrá por satisfecha con el mismo.
 
-El procedimiento resarcitorio deberá concluir dentro de un plazo no mayor de veinte meses contados a partir de que se notifique el inicio del mismo a todos los involucrados.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El procedimiento resarcitorio deberá concluir dentro de un plazo no mayor de veinte meses contados a partir de que se notifique el inicio del mismo a todos los involucrados y hasta que la Procuraduría Fiscal notifique la conclusión del procedimiento resarcitorio en términos del párrafo sexto de este artículo, transcurrido lo anterior, comenzará el plazo para dictar la resolución correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -12850,9 +13204,9 @@ I. Estar dirigido a la persona titular de la Procuraduría Fiscal o de la Subpro
 
 II. Indicar su nombre, denominación o razón social y Registro Federal de Contribuyentes;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Su domicilio ubicado en la circunscripción territorial de la Ciudad de México para oír y recibir notificaciones;
+III. Su domicilio ubicado en la circunscripción territorial de la Ciudad de México para oír y recibir notificaciones, y en su caso, señalar su dirección de correo electrónico para los mismos efectos;
 
 IV. En su caso, designar personas autorizadas para oír y recibir notificaciones.
 
@@ -12879,6 +13233,14 @@ Se entiende que el probable responsable tiene a su disposición los documentos, 
 En caso de que se ofrezca prueba pericial se precisarán los hechos sobre los que deban versar, señalará el nombre y domicilio del perito, y deberá acompañar el cuestionario que debe desahogar el perito, el cual deberá ir firmado por el probable responsable;
 
 VIII. Contener firma autógrafa.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. En su caso, aceptar que la tramitación del procedimiento resarcitorio se realice a través del Sistema en Línea.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Si el probable responsable manifiesta su oposición a que el procedimiento resarcitorio se realice a través del Sistema en Línea, no se manifieste al respecto al momento de la presentación de su contestación y/u omita señalar su correo electrónico, se entenderá que eligió tramitar el procedimiento resarcitorio en la vía tradicional.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -12934,7 +13296,11 @@ Las responsabilidades resarcitorias se harán efectivas mediante el procedimient
 
 En el caso de que existan varios probables responsables, con diferentes grados de responsabilidad en términos del artículo 456 de este Código, el pago total hecho por uno de ellos extingue el crédito fiscal, o bien, el resarcimiento efectuado hasta antes de que se declare concluida la tramitación del procedimiento libera a los demás, pero no excluye a ninguno de ellos de cualquier otro tipo de responsabilidad en que hubieran incurrido.
 
-### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuciones y Aprovechamientos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
+
+> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ## TITULO TERCERO. DE LAS INFRACCIONES Y SANCIONES FISCALES
 
@@ -12978,31 +13344,31 @@ V. Cuando por un acto o una omisión se infrinjan diversas disposiciones a las q
 
 VI. En caso de que la multa se pague dentro de los 15 días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
-### CAPITULO IV. De las Infracciones y Sanciones Relacionadas con la Contabilidad
+### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 464.
 
-Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $480.00 a $839.50, en los siguientes casos:
+Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $496.00 a $868.00, en los siguientes casos:
 
 I. No solicitar la inscripción o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea, y
 
 II. No presentar los avisos que establece este Código o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
 
-### CAPITULO V. De las Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedatarios y Terceros
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuciones y Aprovechamientos
 
 ###### ARTICULO 465.
 
-Cuando los contribuyentes de los Impuestos Sobre Espectáculos Públicos y Loterías, Rifas, Sorteos y Concursos, omitan presentar las licencias, permisos o autorizaciones a que se refieren los artículos 141, fracciones II y VI, segundo párrafo, y 152, fracción VII, de este Código, según el caso, se les impondrán las siguientes multas:
+Cuando los contribuyentes de los Impuestos Sobre Espectáculos Públicos y Loterías, Rifas, Sorteos y Concursos, omitan presentar las licencias, permisos o autorizaciones a que se refieren los artículos 141, fracciones II y VI, y 152, fracción VII, de este Código, según el caso, se les impondrán las siguientes multas:
 
-(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-I. La mayor que resulte entre $2,301.50 y el 5% del valor declarado de los espectáculos, y
+I. La mayor que resulte entre $2,378.00 y el 5% del valor declarado de los espectáculos, y
 
-(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. La mayor que resulte entre $2,301.50 y el 9% del total de las cantidades obtenidas por la venta de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase.
+II. La mayor que resulte entre $2,378.00 y el 9% del total de las cantidades obtenidas por la venta de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase.
 
 La sanción prevista en este artículo también se impondrá a quienes presenten extemporáneamente los documentos a que el mismo se refiere.
 
@@ -13010,47 +13376,51 @@ La sanción prevista en este artículo también se impondrá a quienes presenten
 
 A quien cometa las infracciones que a continuación se señalan, relacionadas con la obligación de presentar avisos, manifestación o documentos, se les impondrá las siguientes multas:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 121 de este Código, multa de $3,592.50 a $9,108.50;
+I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 121 de este Código, multa de $3,713.00 a $9,413.00;
 
-(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015) (REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 141, fracciones III y IV, 152, fracciones VIII y IX de este Código, o hacerlo extemporáneamente, multa de: la mayor que resulte entre $3,592.50 y el 5% del valor total declarado del espectáculo o del total de las cantidades obtenidas por la venta de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase;
+II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 141, fracciones III y IV, 152, fracciones VIII y IX de este Código, o hacerlo extemporáneamente, multa de: la mayor que resulte entre $3,713.00 y el 5% del valor total declarado del espectáculo o del total de las cantidades obtenidas por la venta de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 176, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $683.50 a $1,195.50; en el caso de tomas de uso doméstico, la multa será en cantidad de $342.00 a $597.50;
+III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 176, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $706.00 a $1,235.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $353.00 a $617.00;
 
 IV. Por presentar solicitudes que sin derecho den lugar a una devolución o compensación, una multa del 50% al 100% de la devolución o compensación indebida;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por no presentar aviso de cambio de domicilio, una multa de $480.00 a $837.50;
+V. Por no presentar aviso de cambio de domicilio, una multa de $496.00 a $865.00;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por no señalar en las declaraciones y avisos que se presenten ante la autoridad fiscal, la clave a que se refiere el artículo 56, inciso a), párrafo segundo, de este Código, señalarla con errores o por no utilizar el código de barras, multa de $429.50 a $854.00;
+VI. Por no señalar en las declaraciones y avisos que se presenten ante la autoridad fiscal, la clave a que se refiere el artículo 56, inciso a), párrafo segundo, de este Código, señalarla con errores o por no utilizar el código de barras, multa de $444.00 a $883.00;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por no presentar el aviso de domicilio para oír y recibir notificaciones en el caso de inmuebles sin construcción o desocupados, a que se refiere el inciso b) del artículo 56, multa de $1,797.50 a $4,412.00;
+VII. Por no presentar el aviso de domicilio para oír y recibir notificaciones en el caso de inmuebles sin construcción o desocupados, a que se refiere el inciso b) del artículo 56, multa de $1,858.00 a $4,559.00;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por no poner nombre o domicilio, o señalarlos equivocadamente en las declaraciones y avisos que se presenten ante la autoridad fiscal, multa de $854.00 a $1,428.00;
+VIII. Por no poner nombre o domicilio, o señalarlos equivocadamente en las declaraciones y avisos que se presenten ante la autoridad fiscal, multa de $883.00 a $1,476.00;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IX. Por cada dato no asentado o asentado incorrectamente, en las declaraciones y avisos fiscales, multa de $141.50 a $285.60, por cada dato;
+IX. Por cada dato no asentado o asentado incorrectamente, en las declaraciones y avisos fiscales, multa de $146.00 a $295.00, por cada dato;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Omitir la presentación de anexos en las declaraciones y avisos fiscales, multa de $141.50 a $285.60, por cada anexo, y
+X. Omitir la presentación de anexos en las declaraciones y avisos fiscales, multa de $146.00 a $295.00, por cada anexo;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XI. Por no presentar los documentos a que se refiere el artículo 132 de este Código, o hacerlo extemporáneamente multa de $3,383.50 a $8,572.50.
+XI. Por no presentar los documentos a que se refiere el artículo 132 de este Código, o hacerlo extemporáneamente, multa de $3,497.00 a $8,859.00, y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII. Por no presentar el aviso a que se refiere el artículo 156 BIS de este Código, o hacerlo extemporáneamente, multa de $3,713.00 a $9,413.00.
 
 ###### ARTICULO 467.
 
@@ -13058,25 +13428,25 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Por no presentar las declaraciones que tengan el carácter de periódicas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) La mayor que resulte entre $525.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional, y
+a). La mayor que resulte entre $543.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional, y
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) La mayor que resulte entre $950.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior;
+b). La mayor que resulte entre $982.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $720.00 y el 8% de la contribución que debió declararse.
+II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $744.00 y el 8% de la contribución que debió declararse.
 
 Cuando el monto de la contribución que debió declararse sea inferior a las cantidades señaladas en las fracciones anteriores, o no exista contribución a pagar, el monto máximo de la multa que se imponga será hasta el equivalente a tales cantidades, salvo que se trate de contribuciones relacionadas con inmuebles de uso habitacional en que la multa no excederá del equivalente a un tanto de la contribución omitida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 468.
 
-Por no cumplir los requerimientos a que se refiere la fracción II del artículo 88 de este Código, se aplicará una sanción de $525.00 a $909.00, por cada requerimiento.
+Por no cumplir los requerimientos a que se refiere la fracción II del artículo 88 de este Código, se aplicará una sanción de $543.00 a $939.00, por cada requerimiento.
 
 Cuando el monto de la contribución que debió declararse sea inferior a la sanción impuesta en el párrafo anterior, el monto máximo de la multa que se imponga será hasta el equivalente a tal cantidad.
 
@@ -13084,15 +13454,13 @@ Cuando el monto de la contribución que debió declararse sea inferior a la sanc
 
 La misma sanción que se establece en este artículo se aplicará por no cumplir los requerimientos a que hace referencia la fracción V del artículo 68 de este Código.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 469.
 
-A quien cometa la infracción relacionada con la obligación de señalar el número de cuenta en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, que se presenten ante autoridades administrativas y jurisdiccionales, se le impondrá multa de $632.00 a $1,357.50.
+A quien cometa la infracción relacionada con la obligación de señalar el número de cuenta en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, que se presenten ante autoridades administrativas y jurisdiccionales, se le impondrá multa de $653.00 a $1,403.00.
 
-### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
-
-> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+### CAPITULO IV. De las Infracciones y Sanciones Relacionadas con la Contabilidad
 
 ###### ARTICULO 470.
 
@@ -13150,9 +13518,9 @@ La falta de pago de los aprovechamientos a que se refiere el artículo 304, tend
 
 A las personas que mediante terceros fijen, instalen, ubiquen o modifiquen anuncios de propaganda sin previo pago de los derechos a que se refiere el artículo 193 de este Código, se les aplicará una sanción económica de entre doscientos y doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, más las actualizaciones, recargos y gastos del retiro de dichos anuncios; una vez retirada, la estructura utilizada en dichos anuncios quedará a disposición de la autoridad.
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Los propietarios de los inmuebles o en su caso los poseedores, en donde se encuentren instalados dichos anuncios sin licencia, que no permitan el retiro de los mismos, dentro de un plazo de cinco días a partir de la fecha de la notificación de retiro por parte de la autoridad, se harán acreedores a una sanción de entre $184,802.00 a $546,007.50, dependiendo del tipo de anuncio de que se trate.
+Los propietarios de los inmuebles o en su caso los poseedores, en donde se encuentren instalados dichos anuncios sin licencia, que no permitan el retiro de los mismos, dentro de un plazo de cinco días a partir de la fecha de la notificación de retiro por parte de la autoridad, se harán acreedores a una sanción de entre $190,977.00 a $564,252.00, dependiendo del tipo de anuncio de que se trate.
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -13160,41 +13528,41 @@ ARTICULO 474 BIS.- A las personas que quebranten los sellos colocados por la aut
 
 Igual sanción se impondrá al propietario o depositario que cambie la ubicación física de un bien embargado, sin dar aviso a la autoridad fiscal que realizó el embargo, independientemente que los sellos permanezcan incólumes.
 
-### CAPITULO VII. Del Destino de las Sanciones Fiscales
+### CAPITULO V. De las Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedatarios y Terceros
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 475.
 
 A quien cometa las infracciones que a continuación se señalan, relacionadas con la contabilidad, se le impondrá las multas siguientes:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. De $9,859.00 a $19,723.50, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
+I. De $10,188.00 a $20,383.00, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. De $2,366.00 a $5,321.50, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos; o hacerlos fuera del plazo respectivo;
+II. De $2,445.00 a $5,499.00, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos; o hacerlos fuera del plazo respectivo;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. De $11,830.00 a $31,548.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
+III. De $12,225.00 a $32,602.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. De $4,730.50 a $9,859.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas;
+IV. De $4,889.00 a $10,188.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. De $28,446.50 a $71,115.00, por no presentar el aviso para dictaminar el cumplimiento de las obligaciones fiscales o no presentarlo conforme lo establecen las disposiciones fiscales, estando obligado a hacerlo, y
+V. De $29,397.00 a $73,491.00, por no presentar el aviso para dictaminar el cumplimiento de las obligaciones fiscales o no presentarlo conforme lo establecen las disposiciones fiscales, estando obligado a hacerlo, y
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. De $25,602.00 a $64,001.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
+VI. De $26,457.00 a $66,140.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 476.
 
@@ -13208,61 +13576,61 @@ Cuando los notarios, corredores públicos y demás personas que por disposición
 
 En el caso de que las personas a que se refieren las fracciones I y V del artículo 22 de este Código, no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa de acuerdo al valor catastral del predio, como lo indica la siguiente tabla:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Rangos Mínima Máxima
 
-A $30,935.30 $32,885.58
+A $31,969.00 $33,984.00
 
-B $32,885.59 $35,811.00
+B $33,984.01 $37,008.00
 
-C $35,811.01 $39,711.58
+C $37,008.01 $41,039.00
 
-D $39,711.59 $43,612.21
+D $41,039.01 $45,069.00
 
-E $43,612.22 $47,512.79
+E $45,069.01 $49,100.00
 
-F $47,512.80 $51,413.35
+F $49,100.01 $53,131.00
 
-G $51,413.36 $55,313.94
+G $53,131.01 $57,162.00
 
-H $55,313.95 $59,214.56
+H $57,162.01 $61,193.00
 
-I $59,214.57 $63,115.16
+I $61,193.01 $65,224.00
 
-J $63,115.17 $67,015.74
+J $65,224.01 $69,255.00
 
-K $67,015.75 $70,916.33
+K $69,255.01 $73,286.00
 
-L $70,916.34 $74,818.77
+L $73,286.01 $77,319.00
 
-M $74,818.78 $123,581.74
+M $77,319.01 $127,711.00
 
-N $123,581.75 $247,962.77
+N $127,711.01 $256,248.00
 
-O $247,962.78 $776,949.35
+O $256,248.01 $802,910.00
 
-P $776,949.36 $1,198,405.57
+P $802,910.01 $1,238,449.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-En el caso de las personas señaladas en las fracciones II y III del artículo 22 de este Código que no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa equivalente al monto de la contribución omitida, sin que en ningún caso este importe sea inferior de $89,882.00
+En el caso de las personas señaladas en las fracciones II y III del artículo 22 de este Código que no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa equivalente al monto de la contribución omitida, sin que en ningún caso este importe sea inferior de $92,885.00.
 
 ###### ARTICULO 479.
 
 En el caso de que las personas a que se refiere el artículo 98 de este Código, no cumplan con las disposiciones establecidas en él, se les impondrán las multas siguientes:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. De $10,172.50 a $30,515.00 por las comprendidas en la fracción I;
+I. De $10,512.00 a $31,535.00 por las comprendidas en la fracción I;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II. De $24,250.50 a $72,750.50 por las comprendidas en la fracción II, y
+II. De $25,061.00 a $75,181.00 por las comprendidas en la fracción II, y
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. De $93,388.00 a $280,164.50 por las comprendidas en la fracción III.
+III. De $96,508.00 a $289,526.00 por las comprendidas en la fracción III.
 
 ###### ARTICULO 480.
 
@@ -13270,103 +13638,103 @@ A quienes cometan las infracciones que a continuación se señalan, se les impon
 
 I. Por practicar, encubrir o consentir que se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, así como realizar modificaciones o manipulaciones a los ramales de las tuberías de distribución según el diámetro de la instalación:
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de la Multa
+DIÁMETRO DE LA MULTA
 
-Instalación
+INSTALACIÓN
 
-Expresada en De A
+EXPRESADA EN DE A
 
-Milímetros
+MILÍMETROS
 
-HASTA 13 $5,752.36 $11,506.40
+HASTA 13 $5,944.49 $11,890.71
 
-HASTA 19 $6,868.78 $13,741.82
+HASTA 19 $7,098.20 $14,200.80
 
-HASTA 26 $8,584.48 $17,138.49
+HASTA 26 $8,871.20 $17,710.92
 
-HASTA 32 $11,422.04 $22,802.97
+HASTA 32 $11,803.54 $23,564.59
 
-HASTA 39 $14,853.46 $29,676.42
+HASTA 39 $15,349.57 $30,667.61
 
-HASTA 51 $18,250.81 $36,888.56
+HASTA 51 $18,860.39 $38,120.64
 
-HASTA 64 $21,210.50 $43,373.25
+HASTA 64 $21,918.93 $44,821.92
 
-DE 65 EN ADELANTE $21,687.47 $56,590.41
+DE 65 EN ADELANTE $22,411.83 $58,480.53
 
 Asimismo, por practicar, encubrir o consentir que se lleven a cabo instalaciones de albañal y descargas industriales, independientemente de cubrir el monto de los trabajos necesarios, reparar los daños que se llegarán a ocasionar a la infraestructura, así como los daños al medio ambiente de acuerdo a la normatividad aplicable.
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Diámetro de la Multa
+DIÁMETRO DE LA MULTA
 
-Instalación
+INSTALACIÓN
 
-Expresada en De A
+EXPRESADA EN DE A
 
-Milímetros
+MILÍMETROS
 
-HASTA 150 $4,957.73 $9,917.89
+HASTA 150 $5,123.32 $10,249.15
 
-HASTA 200 $5,187.65 $10,372.48
+HASTA 200 $5,360.92 $10,718.92
 
-HASTA 250 $5,866.96 $11,735.61
+HASTA 250 $6,062.92 $12,127.58
 
-HASTA 300 $6,611.24 $13,222.20
+HASTA 300 $6,832.06 $13,663.82
 
-HASTA 380 $8,007.21 $16,014.51
+HASTA 380 $8,274.65 $16,549.39
 
-HASTA 450 $9,693.24 $19,383.00
+HASTA 450 $10,016.99 $20,030.39
 
-DE 451 EN ADELANTE $25,768.83 $51,535.24
+DE 451 EN ADELANTE $26,629.51 $53,256.52
 
-(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)
+(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-II. Por comercializar el agua suministrada por la Ciudad de México a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $8,583.31 a $17,139.62; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de … $17,139.62 a $34,264.28;
+II. Por comercializar el agua suministrada por la Ciudad de México a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $8,869.99 a $17,712.08; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $17,712.08 a $35,408.71;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $5,762.63 a $17,174.08, tratándose de tomas de uso doméstico y de $133,936.80 a $267,839.14, tratándose de tomas de uso no doméstico sin perjuicio del pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal. En el caso de aguas de uso mixto, si el consumo de agua del bimestre en que fue detectada la colocación del mecanismo succionador fuera menor o igual a 70 m3, se aplicará la multa correspondiente a la de tomas de uso doméstico, y si el consumo resultara mayor a dicho volumen, se le aplicará la multa correspondiente a la de tomas de uso no doméstico;
+III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $5,955.10 a $17,747.69, tratándose de tomas de uso doméstico y de $138,410.29 a $276,784.97, tratándose de tomas de uso no doméstico sin perjuicio del pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal. En el caso de aguas de uso mixto, si el consumo de agua del bimestre en que fue detectada la colocación del mecanismo succionador fuera menor o igual a 70 m3, se aplicará la multa correspondiente a la de tomas de uso doméstico, y si el consumo resultara mayor a dicho volumen, se le aplicará la multa correspondiente a la de tomas de uso no doméstico;
 
 IV. A quien omita solicitar la instalación o renovación de su medidor en los términos del artículo 176 de este Código, destruya, altere o inutilice los aparatos medidores o sus aditamentos o viole los sellos de los mismos:
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-a) Tratándose de tomas de agua potable para uso doméstico de $1,406.58 a $5,158.97;
+a). Tratándose de tomas de agua potable para uso doméstico de $1,453.56 a $5,331.28;
 
-> <small>(REFORMADO EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Tratándose de tomas de agua de uso no doméstico de $5,629.31 a $35,196.01;
+b). Tratándose de tomas de agua de uso no doméstico de $5,817.33 a $36,371.56;
 
 c) En el caso de inmuebles que cuenten con tomas de agua de uso doméstico y no doméstico, se aplicará la sanción correspondiente al uso del medidor que se encuentre dañado.
 
 Para los efectos de esta fracción, se considera alteración, entre otros supuestos, el hecho de que se coloque cualquier dispositivo que impida medir correctamente el consumo de agua. Se presume que la alteración es accidental cuando el contribuyente lo comunique a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra, salvo prueba en contrario;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por no presentar los avisos a que se refiere el artículo 176, fracción VII, de este Código, la multa será de $2,311.34 a $4,633.18 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $4,633.18 a $9,260.38 para diámetros superiores;
+V. Por no presentar los avisos a que se refiere el artículo 176, fracción VII, de este Código, la multa será de $2,388.54 a $4,787.93 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $4,787.93 a $9,569.68 para diámetros superiores;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $853.85 a $1,698.69;
+VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $882.37 a $1,755.43;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por derramar o arrojar o depositar azolve, cascajo, concreto o cualquier desecho sólido susceptible de sedimentarse y obstruir los conductos, coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $32,847.20 a $46,930.98;
+VII. Por derramar o arrojar o depositar azolve, cascajo, concreto o cualquier desecho sólido susceptible de sedimentarse y obstruir los conductos, coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $33,944.30 a $48,498.47;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. A los usuarios que practiquen, encubran o consientan que se lleven a cabo instalaciones o modificaciones de tomas tipo cuello de garza para el abastecimiento de agua potable o agua residual tratada, sin la autorización respectiva de la autoridad responsable de la operación hidráulica, se les impondrá una multa de $56,789.04 a $113,993.00;
+VIII. A los usuarios que practiquen, encubran o consientan que se lleven a cabo instalaciones o modificaciones de tomas tipo cuello de garza para el abastecimiento de agua potable o agua residual tratada, sin la autorización respectiva de la autoridad responsable de la operación hidráulica, se les impondrá una multa de $58,685.79 a $117,800.37;
 
-> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 23 DE DICIEMBRE DE 2019) (REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)
 
-IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará con una multa de $117,382.89 a $234,746.29, sin perjuicio de la aplicación de sanciones previstas por la Ley de Salud para el Distrito Federal y la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México;
+IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará con una multa de $121,303.48 a $242,586.82, sin perjuicio de la aplicación de sanciones previstas por la Ley de Salud para el Distrito Federal y la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México;
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Al usuario que se reconecte al servicio hidráulico y se encuentre éste restringido o suspendido, ya sea en el cuadro donde se aloja el medidor o en la tubería que se encuentra en la vía pública, retire el engomado, rompa el sello o abra la válvula del lugar donde se ejecutó la restricción o suspensión, se le aplicará una multa de $5,738.66 a $265,512.82. Para imponer la multa, se tomará en consideración el tipo de usuario y la reincidencia en la conducta, y
+X. Al usuario que se reconecte al servicio hidráulico y se encuentre éste restringido o suspendido, ya sea en el cuadro donde se aloja el medidor o en la tubería que se encuentra en la vía pública, retire el engomado, rompa el sello o abra la válvula del lugar donde se ejecutó la restricción o suspensión, se le aplicará una multa de $5,930.34 a $274,380.95. Para imponer la multa, se tomará en consideración el tipo de usuario y la reincidencia en la conducta, y
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -13378,13 +13746,13 @@ XI. A quienes desperdicien el agua tratándose de uso doméstico de 400 a 700 ve
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, ya sea por virtud de una resolución administrativa o jurisdiccional emitida por autoridad competente, se podrá imponer al notificador, actuario o personal habilitado que la hubiere practicado, una multa mínima de 30 veces el valor diario de la Unidad de Medida y Actualización vigente y hasta el 50% de la cantidad consignada en el documento a diligenciar.
 
-### CAPITULO II. De los Delitos Cometidos por Servidores Públicos
+### CAPITULO VII. Del Destino de las Sanciones Fiscales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 482.
 
-A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $15,260.50 a $30,515.00.
+A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $15,770.00 a $31,535.00.
 
 I. Oponerse a que se practique la visita en el domicilio fiscal;
 
@@ -13398,9 +13766,9 @@ IV. No conservar la contabilidad o parte de ella, así como la correspondencia q
 
 V. Proporcionar a las autoridades fiscalizadoras documentación falsa o indebida en la que conste el cumplimiento de obligaciones fiscales.
 
-### CAPITULO III. De la Defraudación Fiscal
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 483.
 
@@ -13424,13 +13792,17 @@ El Jefe de Gobierno, a través de la persona titular de la Secretaría, deberá 
 
 ## TITULO CUARTO. DE LOS DELITOS
 
-### CAPITULO IV. De los Delitos Relacionados con Inmuebles
+### CAPITULO II. De los Delitos Cometidos por Servidores Públicos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 484.
 
-Para proceder penalmente por los delitos fiscales previstos en este Título, será necesario que la Procuraduría Fiscal formule la denuncia, querella o su equivalente, a la que adjuntará la determinación del crédito fiscal en los supuestos legales que procedan, excepto en aquellos en que participen servidores públicos en ejercicio de sus funciones o con motivo de ellas, en cuyo caso cualquiera podrá denunciar los hechos ante el Ministerio Público.
+Para proceder penalmente por los delitos fiscales previstos en este Título, será necesario que la Procuraduría Fiscal formule la denuncia, querella o su equivalente, a la que adjuntará la determinación del crédito fiscal en los supuestos legales que procedan.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En los delitos cometidos por servidores públicos en ejercicio de sus funciones o con motivo de ellas, cualquiera podrá denunciar los hechos ante el Ministerio Público.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -13504,9 +13876,9 @@ La acción penal en los delitos fiscales a que se refiere este Código, prescrib
 
 Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Penal para el Distrito Federal y el Código de Procedimientos Penales para el Distrito Federal o el Código Nacional de Procedimientos Penales, según corresponda de conformidad con las disposiciones aplicables.
 
-### CAPITULO V. De los Delitos Relacionados con el Suministro de Agua Potable
+### CAPITULO III. De la Defraudación Fiscal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 493.
 
@@ -13548,7 +13920,7 @@ A juicio de la autoridad jurisdiccional, además se decretará la destitución y
 
 Al servidor público que en ejercicio de sus funciones o con motivo de ellas, contravenga la normatividad aplicable, respecto al resguardo, registro, control, administración, recepción, almacenaje, distribución de formas valoradas y numeradas, calcomanías, órdenes de cobro, recibos de pago, placas, tarjetones o cualquier otro medio de control fiscal, así como de los títulos de crédito o valores utilizados para el pago de ingresos que tenga derecho a recaudar la Ciudad de México, se le impondrá sanción de tres meses a tres años de prisión.
 
-### CAPITULO VI. De los Delitos Relacionados con los Padrones de Contribuyentes
+### CAPITULO IV. De los Delitos Relacionados con Inmuebles
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -13594,9 +13966,9 @@ VII. Presenten ante las autoridades fiscales avalúos vinculados con las contrib
 
 VIII. Omitir poner a la venta en taquilla al público en general, aquellos boletos con valor nominal, a que se refiere el artículo 141, fracción VIII, de este Código.
 
-### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
+### CAPITULO V. De los Delitos Relacionados con el Suministro de Agua Potable
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 497.
 
@@ -13614,9 +13986,9 @@ Los delitos previstos en este artículo se sancionarán con prisión de tres mes
 
 Las sanciones previstas en este artículo, sólo se aplicarán a los propietarios o poseedores de inmuebles de uso habitacional, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
 
-### CAPITULO VIII. De los Delitos de Falsificación en Materia Fiscal
+### CAPITULO VI. De los Delitos Relacionados con los Padrones de Contribuyentes
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 498.
 
@@ -13654,9 +14026,9 @@ Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este 
 
 ARTICULO 498 BIS.- (DEROGADO, G.O. 31 DE DICIEMBRE DE 2012)
 
-### CAPITULO IX. De los Delitos de Asociación Delictuosa en Materia Fiscal
+### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 499.
 
@@ -13674,6 +14046,10 @@ II. No rinda los informes a que está obligado conforme a este Código, o lo hag
 
 III. Desocupe el lugar donde se hubiera iniciado un procedimiento de comprobación o verificación, sin dar aviso a la autoridad fiscal encargada de llevarlo a cabo o después de la notificación de una orden de visita y antes de que transcurra un año contado a partir de dicha notificación, o bien después de que se le hubiese notificado un crédito fiscal y antes de que éste se haya garantizado o pagado o quedado sin efectos.
 
+### CAPITULO VIII. De los Delitos de Falsificación en Materia Fiscal
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 500.
 
 Se impondrá sanción de uno a seis años de prisión al depositario o interventor designado por las autoridades fiscales de la Ciudad de México que, con perjuicio del fisco de la Ciudad de México, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente; cuando exceda, la sanción será de tres a nueve años de prisión.
@@ -13683,6 +14059,10 @@ Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositari
 > <small>(ADICIONADO, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
 Tratándose del ejecutado o tercero que no acredite legalmente el uso del inmueble rematado, cuando se les haya requerido la desocupación y/o entrega en términos de lo dispuesto por el artículo 411 de este Código, se sancionará con prisión de tres meses a dos años de prisión.
+
+### CAPITULO IX. De los Delitos de Asociación Delictuosa en Materia Fiscal
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 501.
 
@@ -21889,3 +22269,817 @@ ARTÍCULO TRIGÉSIMO QUINTO.- A más tardar el 30 de enero de 2020, la Jefa de G
 Los porcentajes de condonación deberán aplicarse con base en la afectación del referido inmueble y, en consideración a ello, se otorgará, el 75% o 100% de la condonación, respectivamente.
 
 ARTÍCULO TRIGÉSIMO SEXTO.- Los notarios podrán presentar para inscripción en el Registro Público de la Propiedad y de Comercio a más tardar el 31 de enero de 2020, el o los testimonios respecto de los actos jurídicos relacionados con adquisición o transmisión de inmuebles con las reducciones a que se refieren los artículos 275 Bis y 275 Ter, en el caso de que los contribuyentes hayan obtenido la constancia expedida por la Dirección General de Regularización Territorial en el año 2019 y que los derechos correspondientes hubieran sido pagados a más tardar el último día de diciembre del mismo año.
+
+G.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de enero de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Decreto. La Secretaría será responsable de modificar las disposiciones reglamentarias y normativas correspondientes para hacerlas congruentes con los preceptos contenidos en el presente Código; en tanto no se actualicen los mismos, se aplicará lo establecido en este ordenamiento y las disposiciones que no se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Cuando la autoridad fiscal determine o liquide el Impuesto Predial, omitido o sus diferencias, causado por el otorgamiento del uso o goce temporal de inmuebles, considerará únicamente los valores unitarios del suelo y construcción emitidos por la entonces Asamblea Legislativa del Distrito Federal, vigentes en el año que se generó el Impuesto.
+
+El beneficio previsto en este artículo no da derecho a devolución o compensación alguna de las cantidades que se hayan pagado con anterioridad.
+
+###### ARTÍCULO QUINTO.
+
+Para el ejercicio fiscal 2021, la persona titular de la Jefatura de Gobierno deberá emitir a más tardar el 15 de enero, el programa general de subsidios al Impuesto Predial a que se refiere el artículo 130 de este Código, tratándose de inmuebles de uso habitacional. Dicho programa deberá contener de forma clara y precisa los requisitos y circunstancias particulares que deben cumplir los contribuyentes para acceder a los beneficios fiscales, con el objetivo de garantizar el derecho a la vivienda consagrado en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y 9°, apartado E de la Constitución Política de la Ciudad de México. Dicho subsidio se otorgará a partir del 1° de enero de 2021.
+
+El programa mencionado en el párrafo anterior también deberá establecer un subsidio al Impuesto Predial para los contribuyentes que se ubiquen en el supuesto a que se refiere el párrafo cuarto del artículo 127 de este Código, a fin de que se subsidie la diferencia que exista entre el Impuesto determinado conforme a valor de mercado y aquel que corresponda conforme al valor catastral mencionado en los párrafos segundo y quinto del artículo 127 del citado Código. Dicho subsidio se otorgará a partir del 1° de enero del 2021, y hasta en tanto la Secretaría y el Congreso den cumplimiento a lo dispuesto en el párrafo segundo del artículo Sexto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal del Distrito Federal, publicado en la entonces Gaceta Oficial del Distrito Federal el 31 de diciembre de 2013.
+
+###### ARTÍCULO SEXTO.
+
+Para el ejercicio fiscal 2021, se aplicará una reducción equivalente al 50% del Impuesto sobre Adquisición de Inmuebles previsto en el Libro Primero, Título Tercero, Capítulo I del Código Fiscal de la Ciudad de México, únicamente en caso de que la adquisición se derive de una sucesión por herencia, siempre y cuando se actualice alguno de los supuestos previstos en el párrafo tercero, de la fracción I, del artículo 115 del mismo Código.
+
+###### ARTÍCULO SÉPTIMO.
+
+Tratándose de inmuebles en proceso de construcción a que hace referencia el artículo 132 de este Código, el Impuesto correspondiente se causará conforme se realicen las situaciones jurídicas o de hecho previstas por las disposiciones fiscales vigentes al momento de su nacimiento, a menos que el contribuyente manifieste su voluntad expresa de acogerse a las disposiciones en vigor contenidas en este Código al momento por estimarlas más favorables.
+
+###### ARTÍCULO OCTAVO.
+
+A más tardar el 29 de enero de 2021, la persona titular de la Jefatura de Gobierno, emitirá un programa de Condonación del Impuesto Predial a los propietarios o poseedores de inmuebles ubicados en las colonias de la Ciudad de México que presenten daños estructurales ocasionados por grietas y/o hundimientos diferenciados, y cuenten con opinión técnica emitida por la Secretaría de Gestión Integral de Riesgos y Protección Civil respecto al inmueble al que se aplicará la condonación.
+
+Los porcentajes de condonación deberán aplicarse con base en la afectación del referido inmueble, determinada por la Secretaría de Gestión Integral de Riesgos y Protección Civil, a través de una opinión técnica que deberá señalar si es un inmueble de bajo, mediano o alto riesgo y, en consideración a ello, se otorgará, el 50%, 75% o 100% de la condonación, respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+A más tardar el 15 de enero de 2021, la persona titular de la Jefatura de Gobierno deberá emitir un Acuerdo de Carácter General de Subsidio al Impuesto sobre Tenencia o Uso de Vehículos a que se refiere este Código, para los tenedores o usuarios de vehículos siguientes:
+
+I. Personas físicas, o
+
+II. Personas morales sin fines de lucro, siguientes:
+
+a) Sindicatos obreros y los organismos que los agrupen;
+
+b) Asociaciones patronales;
+
+c) Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas, pesqueras o silvícolas, así como los organismos que las reúnan;
+
+d) Colegios de profesionales y los organismos que los agrupen;
+
+e) Asociaciones civiles y sociedades de responsabilidad limitada de interés público que administren en forma descentralizada los distritos o unidades de riego, previa la concesión y permiso respectivo;
+
+f) Instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de la Ley del Impuesto sobre la Renta, que tengan como beneficiarios a personas, sectores y regiones de escasos recursos; que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo o problemas de discapacidad, dedicadas a las siguientes actividades:
+
+1. La atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda;
+
+2. La asistencia o rehabilitación médica o a la atención en establecimientos especializados;
+
+3. La asistencia jurídica, el apoyo y la promoción, para la tutela de los derechos de los menores, así como para la readaptación social y familiar de personas que han llevado a cabo conductas ilícitas;
+
+4. La rehabilitación de alcohólicos y farmacodependientes;
+
+5. La ayuda para servicios funerarios;
+
+6. Orientación social, educación o capacitación para el trabajo;
+
+7. La promoción de la participación organizada de la población en las acciones que mejoren sus propias condiciones de subsistencia en beneficio de la comunidad, y
+
+8. Apoyo en la defensa y promoción de los derechos humanos;
+
+g) Sociedades cooperativas de consumo;
+
+h) Organismos que conforme a la normatividad aplicable agrupen a las sociedades cooperativas, ya sea de productores o de consumidores;
+
+i) Sociedades mutualistas y Fondos de Aseguramiento Agropecuario y Rural, que no operen con terceros, siempre que no realicen gastos para la adquisición de negocios, tales como premios, comisiones y otros semejantes;
+
+j) Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por decreto presidencial o por ley, cuyo objeto sea la enseñanza;
+
+k) Sociedades o asociaciones de carácter civil dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas;
+
+l) Asociaciones o sociedades civiles, organizadas sin fines de lucro y autorizadas para recibir donativos, dedicadas a las siguientes actividades:
+
+1. La promoción y difusión de música, artes plásticas, artes dramáticas, danza, literatura, arquitectura y cinematografía, conforme a la Ley que crea al Instituto Nacional de Bellas Artes y Literatura, así como a la Ley Federal de Cinematografía;
+
+2. El apoyo a las actividades de educación e investigación artísticas de conformidad con lo señalado en el inciso anterior;
+
+3. La protección, conservación, restauración y recuperación del patrimonio cultural de la nación, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y la Ley General de Bienes Nacionales; así como el arte de las comunidades indígenas en todas las manifestaciones primigenias de sus propias lenguas, los usos y costumbres, artesanías y tradiciones de la composición pluricultural que conforman el país;
+
+4. La instauración y establecimiento de bibliotecas que formen parte de la Red Nacional de Bibliotecas Públicas de conformidad con la Ley General de Bibliotecas, y
+
+5. El apoyo a las actividades y objetivos de los museos dependientes de la Secretaría de Cultura de la Administración Pública Federal;
+
+m) Las instituciones o sociedades civiles, constituidas únicamente con el objeto de administrar fondos o cajas de ahorro, y aquéllas a las que se refiera la legislación laboral, así como las sociedades cooperativas de ahorro y préstamo a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo;
+
+n) Asociaciones de padres de familia constituidas y registradas en los términos del Reglamento de Asociaciones de Padres de Familia de la Ley General de Educación;
+
+ñ) Sociedades de gestión colectiva constituidas de acuerdo con la Ley Federal del Derecho de Autor;
+
+o) Asociaciones o sociedades civiles organizadas con fines políticos, deportivos o religiosos;
+
+p) Asociaciones o sociedades civiles que otorguen becas, a que se refiere el artículo 83 de la Ley del Impuesto sobre la Renta;
+
+q) Asociaciones civiles de colonos y las asociaciones civiles que se dediquen exclusivamente a la administración de un inmueble de propiedad en condominio;
+
+r) Las sociedades o asociaciones civiles, organizadas sin fines de lucro que se constituyan y funcionen en forma exclusiva para la realización de actividades de investigación o preservación de la flora o fauna silvestre, terrestre o acuática, dentro de las áreas geográficas definidas que señale el Servicio de Administración Tributaria mediante reglas de carácter general, así como aquellas que se constituyan y funcionen en forma exclusiva para promover entre la población la prevención y control de la contaminación del agua, del aire y del suelo, la protección al ambiente y la preservación y restauración del equilibrio ecológico. Dichas sociedades o asociaciones deberán cumplir con los requisitos señalados en el artículo 82 de la Ley del Impuesto sobre la Renta, salvo lo dispuesto en la fracción I del mismo artículo, para ser consideradas como instituciones autorizadas para recibir donativos en los términos de la misma Ley, y
+
+s) Las asociaciones y sociedades civiles, sin fines de lucro, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales. Dichas asociaciones y sociedades deberán cumplir con los requisitos señalados en el artículo 82 de la Ley del Impuesto sobre la Renta, salvo lo dispuesto en la fracción I del mismo artículo.
+
+El porcentaje de subsidio a aplicar será el que corresponda de acuerdo a la siguiente:
+
+TABLA
+
+Valor del Vehículo Subsidio %
+
+Hasta $250,000.00 100%
+
+Serán requisitos para la aplicación de este subsidio que el contribuyente se encuentre al corriente en el pago de:
+
+a) Del impuesto sobre tenencia derivado de la Ley del Impuesto sobre Tenencia o Uso de Vehículos publicada en el Diario Oficial de la Federación el 30 de diciembre de mil novecientos ochenta que le sean exigibles o bien;
+
+b) Del Impuesto sobre Tenencia o Uso de Vehículos generado por los vehículos a que se refiere el artículo 161 BIS 16 y que le sean exigibles;
+
+c) Que, al momento de aplicar el subsidio citado, cubra los derechos de refrendo por la vigencia anual de placas de matrícula que correspondan al ejercicio, y
+
+d) Que el valor del vehículo incluyendo el Impuesto al Valor Agregado, una vez aplicado el factor de depreciación al que hacen referencia los artículos 161 Bis 13, tratándose de vehículos particulares, 161 Bis 12 cuando se refiera a vehículos de carga o servicios públicos y 161 Bis 15 cuando se trate de motocicletas que no excedan de $250,000.00.
+
+También podrán beneficiarse de este subsidio, los contribuyentes cuyos vehículos sean adquiridos después de los primeros tres meses del ejercicio fiscal, siempre y cuando reúnan los requisitos establecidos en los incisos anteriores y cubran los derechos de control vehicular en un plazo no mayor a quince días hábiles a partir de la fecha en que se dé el hecho generador del Impuesto sobre Tenencia o Uso de Vehículos.
+
+Este subsidio se aplicará del 01 de enero al 31 de marzo de 2021.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e implementación del Sistema por el cual se sustanciará el Procedimiento Resarcitorio en Línea a que se refiere el Capítulo II, del Título Segundo, del Libro Cuarto de este Código, para efectos de que inicie su operación en los términos que señale la propia Secretaría.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las disposiciones relativas a la operación del Capítulo II, del Título Segundo, del Libro Cuarto de este Código, se sujetarán a lo establecido en la normatividad que para tal efecto publique la Secretaría.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Tratándose del Impuesto sobre Tenencia o Uso de Vehículos, en los casos de vehículos adquiridos por Extinción de Dominio, el valor total del vehículo será determinado por la Secretaría, de conformidad con los valores mínimos y máximos correspondiente al vehículo.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se otorgará una condonación en el pago de los Derechos por el Suministro de Agua a partir del año 2016, a los usuarios de uso doméstico o uso doméstico y no doméstico simultáneamente (mixto), así como a los mercados y concentraciones públicas que hayan recibido el suministro de agua y que este haya sido insuficiente para satisfacer las necesidades básicas del usuario.
+
+Para efectos de lo anterior, el Sistema de Aguas y los órganos político-administrativos de las demarcaciones territoriales correspondientes elaborarán a más tardar el 31 de marzo de 2021, el dictamen técnico a fin de que la autoridad fiscal publique las zonas en que se aplicará el beneficio.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+A los contribuyentes de los Derechos por el Suministro de Agua en sistema medido, de uso doméstico o uso doméstico y no doméstico simultáneamente (mixto), que reciban el servicio por tandeo, se les aplicará por toma, la cuota fija que corresponda, conforme a lo establecido en la tarifa prevista en el artículo 172 de este Código, en tanto se regulariza el suministro. Asimismo, para acceder a este beneficio no será necesaria la instalación ni la compra del medidor.
+
+Asimismo, a estos contribuyentes, para efectos de la conexión a las redes de agua y drenaje o su regularización, se les aplicará un descuento del 95% sobre el pago que deban efectuar por los derechos establecidos en la fracción I, numeral 1 del artículo 182 de este Código.
+
+El Sistema de Aguas y los órganos político-administrativos de las demarcaciones territoriales correspondientes elaborarán a más tardar el 31 de marzo de 2021, el dictamen técnico a fin de que la autoridad fiscal publique las zonas en que se aplicará el beneficio.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para el ejercicio fiscal 2021, los interesados en regularizar su toma clandestina de agua o drenaje de uso doméstico y uso doméstico y no doméstico simultáneamente (mixto) que acudan de manera espontánea ante el Sistema de Aguas, y a efecto de promover la cultura de la regularización de servicios, se les condonará el pago de los derechos por el suministro de agua a que se refiere el artículo 81, así como las multas y recargos que establece este Código y la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México en sus artículos 110, 111, 112, 113 y 114; estando obligados únicamente a realizar el pago correspondiente a los derechos por instalación de medidor y armado de cuadro, previstos en el artículo 181 de este Código, dicho pago se incluirá en la boleta de cobro durante un plazo máximo de 18 bimestres posteriores a la instalación del medidor, o bien, el usuario podrá efectuar el pago en una sola exhibición.
+
+En cuanto a la documentación que deberán presentar, se atenderá a lo establecido en los lineamientos que para tal efecto emita el Sistema de Aguas, además del comprobante del pago referido en este artículo ante el Sistema de Aguas.
+
+Lo anterior será aplicable siempre que la toma que se pretende regularizar tenga un diámetro no mayor a 13 mm y que esta no se encuentre en suelo de conservación.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Aquel contribuyente o usuario de toma de agua que cuente con medidor de consumo instalado y que presuma la existencia de fugas en sus instalaciones hidráulicas localizadas al interior del predio y posteriores al medidor, podrá solicitar la condonación parcial del pago de Derechos por el Suministro de Agua, haciendo del conocimiento de la autoridad competente la existencia de la misma, para lo cual deberá acudir ante las oficinas de atención al público.
+
+El Sistema de Aguas podrá realizar, dentro de los cinco días hábiles posteriores al día en que se reciba la petición, una visita de inspección para determinar la existencia o no de la fuga. Una vez reparada la fuga por parte del contribuyente o usuario, este procederá a solicitar a la propia autoridad la condonación parcial del monto de la fuga, que será aplicable para el bimestre en que se haya reportado, así como a los dos bimestres inmediatos anteriores si es que fueron afectados por la fuga, sin importar que estos no correspondan al ejercicio fiscal vigente, siempre y cuando sean consecutivos. La condonación parcial se aplicará sobre el excedente del consumo promedio en los porcentajes que a continuación se indican:
+
+a) Bimestre en que se reporte: 75%
+
+b) Primer bimestre anterior al reporte: 55%
+
+c) Segundo bimestre anterior al reporte: 35%
+
+Si de la visita realizada por la autoridad no se desprende la existencia de fuga alguna, no habrá derecho a la condonación prevista. El Sistema de Aguas será la autoridad encargada de la emisión de los lineamientos pertinentes.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Para el ejercicio fiscal 2021, no estarán obligados al pago de los Derechos por el Suministro de Agua previstos en el artículo 172 de este Código, aquellos usuarios en cuyo domicilio se encuentre instalado un comedor popular, comedor público o comedor comunitario, perteneciente a los Programas de la Ciudad de México.
+
+Para efectos del cumplimiento de este precepto, el usuario acreditado por el Gobierno de la Ciudad de México en cualquiera de los Programas de comedores deberá presentar la constancia emitida por autoridad competente, que certifique que se encuentra operando un comedor del Gobierno de la Ciudad de México.
+
+En caso de tener adeudos por este concepto, estos le serán reducidos en un 100%, siempre y cuando demuestre que en esos bimestres ya se encontraba instalado y en operación el comedor.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Para los efectos de lo dispuesto en el artículo 172, fracción V, de este Decreto, la reclasificación de toma de agua tendrá efectos retroactivos a partir del primer bimestre de 2016, si derivado de esa clasificación errónea, se generaron adeudos no cubiertos por el propietario o usuario de la toma.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+Para el ejercicio fiscal 2021, los derechos previstos en el artículo 182, fracción IV de este Código se pagarán a razón de:
+
+Diámetro de Entrada de Toma Actual (Milímetros) Diámetro de Entrada de Toma Solicitada (Milímetros) Cuota a Pagar en Pesos*
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 21 DE DICIEMBRE DE 2020, PÁGINA DE LA 75 A LA 76.]</small>
+
+###### ARTÍCULO VIGÉSIMO.
+
+En tanto la Secretaría publique los horarios a que se refiere el artículo 259 de este Código, el horario de funcionamiento de los parquímetros será de lunes a viernes de 8:00 a 20:00 horas.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Para los efectos de emisión de valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 129 del Código, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas que se indican:
+
+DEFINICIONES
+
+I. REGIÓN: Es una circunscripción convencional del territorio de la Ciudad de México determinada con fines de control catastral de los inmuebles, representada con los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, y tres dígitos más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
+
+III. COLONIA CATASTRAL: Es una porción determinada de territorio continuo de la Ciudad de México que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características, exclusividad y valor comercial. Existen tres tipos de colonia catastral: Área de valor, Enclave de valor y Corredor de valor.
+
+a) Colonia catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
+
+Cada área está identificada con la letra A, seguida de seis dígitos, correspondiendo los dos primeros a la Alcaldía respectiva, los tres siguientes a un número progresivo y el último a un dígito clasificador de la colonia catastral.
+
+Dicha clasificación es la siguiente:
+
+0: Colonia catastral que corresponde a áreas periféricas de valor bajo con desarrollo incipiente, con usos del suelo que están iniciando su incorporación al área urbana y con equipamientos y servicios dispersos.
+
+1: Colonia catastral que corresponde a áreas periféricas o intermedias de valor bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y con equipamientos y servicios semi dispersos y de pequeña escala.
+
+2: Colonia catastral que corresponde a áreas intermedias de valor medio bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y/o incipiente mezcla de usos y con equipamientos y servicios semi dispersos y de regular escala.
+
+3: Colonia catastral que corresponde a áreas intermedias de valor medio con cierto proceso de transición o en consolidación, con usos del suelo eminentemente habitacionales y/o mezcla de usos y con equipamientos y servicios semi concentrados y de regular escala.
+
+4: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, con usos de suelo habitacional y/o mixtos y nivel socioeconómico de medio a medio alto.
+
+5: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacionales y/o mixtos y nivel socioeconómico de medio alto a alto.
+
+6: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacional y/o mixtos y nivel socioeconómico de alto a muy alto.
+
+7: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de pequeña escala significativa, usos de suelo preponderantemente comercial y de servicios y nivel socioeconómico de medio bajo a alto.
+
+8: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de diversas escalas y con usos de suelo eminentemente industrial.
+
+9: Colonia catastral que corresponde a áreas ubicadas en el suelo de conservación, con usos agrícola, forestal, pecuario, de reserva ecológica y/o explotación minera entre otros, con nulos o escasos servicios y equipamiento urbano distante.
+
+b) Colonia catastral tipo enclave de valor: Porción de manzanas o conjunto de lotes de edificaciones de uso habitacional, que cualitativamente se diferencian plenamente del resto de lotes o manzanas del área en que se ubica en razón de que, no obstante que comparten una infraestructura y equipamiento urbanos generales con las mencionadas áreas, cuentan con características internas que originan que tengan un mayor valor unitario de suelo que el promedio del área, como son la ubicación en áreas perfectamente delimitadas, el acceso restringido a su interior, que cuentan con vigilancia privada, mantenimiento privado de áreas comunes, vialidades internas y alumbrado público y/o privado.
+
+El valor por metro cuadrado de suelo del enclave se encuentra contenido en el presente Código Fiscal.
+
+Cada enclave de valor está identificada con la letra E, seguida de dos dígitos que corresponden a la Alcaldía, y una literal progresiva.
+
+Quedan exceptuados como colonia catastral tipo enclave de valor, los inmuebles donde se ubiquen viviendas de interés social y/o popular.
+
+c) Colonia catastral tipo corredor de valor: Conjunto de inmuebles colindantes con una vialidad pública de la Ciudad de México que por su mayor actividad económica repercute en un mayor valor comercial del suelo respecto del predominante de la zona, independientemente de su acceso o entrada principal de los inmuebles. El valor por metro cuadrado del suelo del corredor de valor se encuentra contenido en el presente Código Fiscal.
+
+Cuando un inmueble colinde con más de una vialidad pública considerada como corredor de valor, en términos del párrafo anterior, el valor por metro cuadrado del suelo a aplicar será el valor del corredor de valor que resulte más alto.
+
+Cada corredor está identificado con la letra "C", seguida de dos dígitos, que corresponden a la Alcaldía, y una literal progresiva.
+
+IV. TIPO: Corresponde a la clasificación de las construcciones, considerando el uso al que se les dedica y el rango de niveles de la construcción, de acuerdo con lo siguiente:
+
+Para efectos de la clasificación de las construcciones se entenderá por cuerpo estructural al conjunto de cimentación, elementos verticales y horizontales, es decir, muros de carga, marcos rígidos y/o mixtos, entrepisos, cubiertas, acabados e instalaciones propias del cuerpo.
+
+El rango de nivel será único para todos los usos comprendidos dentro de un mismo cuerpo estructural.
+
+Ejemplos de espacios complementarios a usos principales: escaleras, zona de elevadores, vestíbulos, salas de capacitación, auditorios, archivo, bodegas, cuarto de máquinas, cuarto de mantenimiento, cuarto para papelería, cuarto de basura, sanitarios, regaderas y vestidores, comedor, gimnasio, consultorio, entre otros.
+
+En el caso de un cuerpo estructural, cuyo aprovechamiento genérico corresponda a las claves (NH) No habitacional o (M) Mixto y que contenga áreas para estacionamiento cubierto, estas últimas se clasificarán como K.
+
+Los usos (A) Abasto e (I) Industria solo podrán aplicarse en cuerpos estructurales completos tipo nave industrial.
+
+Para cada cuenta catastral, se deberán considerar la totalidad de superficies construidas, cubiertas y descubiertas contenidas en ella según aplique.
+
+En los casos que en una cuenta catastral se encuentren varios cuerpos de edificios claramente separados, el valor total de la construcción se obtendrá de la suma del valor de cada uno de ellos, los cuales se calcularán en forma independiente.
+
+a) Uso: Corresponde al aprovechamiento genérico que tiene el inmueble y se clasifica en habitacional y no habitacional. (H) Habitacional.- Se refiere a las edificaciones en donde residen individual o colectivamente las personas o familias y comprende todo tipo de vivienda, a la que se incluyen los cuartos de servicio, patios, andadores, estacionamientos, cocheras y todas las porciones de construcción asociadas a dichas edificaciones. También se incluyen orfanatos, asilos, casas cuna, conventos y similares.
+
+Cuando un cuerpo estructural no se encuentre asociada al uso habitacional, se clasificará de acuerdo a las características de uso, rango de niveles, clase y edad que le corresponda.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio las unidades de construcción privativas y las áreas de uso común que les correspondan en función del indiviso y que se establezcan en el referido régimen, se clasificarán conforme a las características que el mismo régimen establezca.
+
+(NH) No Habitacional.- Se refiere a todo inmueble que no se ubique en el supuesto anterior y que para efectos de determinar su tipo se divide en:
+
+i. Construcciones que cuentan con cubiertas o techos (completos o semi completos).
+
+L: Hotel. D: Deporte. C: Comercio. O: Oficina. S: Salud. Q: Cultura. E: Educación. A: Abasto. I: Industria. K: Comunicaciones.
+
+(L) Hotel.- Se refiere a las edificaciones destinadas a prestar servicio de alojamiento temporal, comprendiendo hoteles, moteles, casas de huéspedes, albergues y similares, incluye los espacios complementarios a este uso.
+
+(D) Deporte y Espectáculos.- Se refiere a aquellas edificaciones e instalaciones en donde se practican ejercicios de acondicionamiento físico y/o se realicen y se presenten todo tipo de espectáculos, tales como: centros deportivos, clubes, pistas, canchas, gimnasios, balnearios, albercas públicas y privadas, academias de acondicionamiento físico y artes marciales, estadios, autódromos, plazas taurinas, arenas de box y luchas, velódromos, campos de tiro, centros de equitación y lienzos charros, pistas de hielo, así como instalaciones donde se lleven a cabo conciertos, incluye los espacios complementarios a este uso.
+
+(C) Comercio.- Se refiere a las edificaciones destinadas a la prestación o contratación de servicios o la comercialización o intercambio de artículos de consumo y en general cualquier mercadería, tales como: tiendas, panaderías, farmacias, boticas, droguerías, veterinarias, tiendas de auto servicio, tiendas departamentales, centros comerciales, venta de materiales de construcción y electricidad, ferreterías, madererías, vidrierías, venta de materiales y pinturas, renta y venta de artículos, maquinaria, refacciones, llantas, salas de belleza, peluquerías, tintorerías, sastrerías, baños, instalaciones destinadas a la higiene física de las personas, sanitarios públicos, saunas y similares, laboratorios fotográficos, servicios de limpieza y mantenimiento de edificios, servicios de alquiler, suministro de combustible para vehículos, para uso doméstico, o industrial, tales como: gasolineras y en general todo tipo de comercios. También incluye a las edificaciones destinadas al consumo de alimentos y bebidas, entre otros: restaurantes, cafeterías, fondas, cantinas, bares, cervecerías, pulquerías, videobares, centros nocturnos, salas de fiesta y, centros de convenciones, entre otros, incluye los espacios complementarios a este uso.
+
+(O) Oficina.- Se refiere a aquellas edificaciones destinadas al desarrollo empresarial, público o privado, tales como: oficinas empresariales, corporativas, de profesionistas, sucursales de banco, casas de cambio, oficinas de gobierno, representaciones exclusivas para ese uso y sus accesorios, instalaciones destinadas a la seguridad del orden público y privado, agencias funerarias, de inhumaciones, mausoleos y similares, incluye los espacios complementarios a este uso.
+
+(S) Salud.- Se refiere a aquellas edificaciones destinadas a la atención, diagnóstico, tratamiento y rehabilitación de las personas afectadas por enfermedades o accidentes, tales como: unidades médicas, clínicas, hospitales, sanatorios, maternidades, laboratorios clínicos y radiológicos, consultorios, despachos médicos de diagnóstico, centros de tratamiento de enfermedades crónicas y similares, incluye los espacios complementarios a este uso.
+
+(Q) Cultura.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades culturales, tales como: salas de lectura, hemerotecas, galerías de arte, museos, centros de exposición de arte, planetarios, observatorios, teatros, cines, cinetecas, casas de cultura, academias de danza, música, pintura y similares. Así como, las edificaciones destinadas a las actividades de culto religioso, comprende templos, capillas, iglesias, sinagogas, mezquitas y similares, incluye los espacios complementarios a este uso.
+
+(E) Educación.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades de enseñanza: guarderías, jardines de niños, básica, media, escuelas técnicas, superior, postgrado, especial y de enseñanza e investigación, especializadas y similares, incluye los espacios complementarios a este uso.
+
+(A) Abasto.- Se refiere a las edificaciones e instalaciones públicas y privadas destinadas al almacenamiento, tales como: centros de acopio y transferencia de productos perecederos y no perecederos, bodegas, silos, tolvas, almacén de granos, de huevo, de lácteos, de abarrotes, centrales y módulos de abasto, rastros, frigoríficos, obradores, mercados e instalaciones similares.
+
+(I) Industria.- Se refiere a cualquier instalación o edificación destinada a ser fábrica o taller, relacionada con la industria extractiva, manufacturera y de transformación, de ensamble, de bebidas, de alimentos, agrícola, pecuaria, forestal, textil, calzado, siderúrgica, metalmecánica, automotriz, química, televisiva, cinematográfica, electrónica y similares. También incluye las instalaciones para el almacenamiento de maquinaria, materias primas y productos procesados, así como aquellas destinadas al alojamiento de equipos e instalaciones relacionadas con los sistemas de agua potable, drenaje, energía eléctrica, servicios de limpia, disposición de desechos sólidos y similares. Asimismo, se incluyen las edificaciones e instalaciones destinadas a prestar servicios de reparación y conservación de bienes muebles y herramientas, tales como: talleres de reparación, lubricación, alineación y balanceo de vehículos, maquinaria, lavadoras, refrigeradores, bicicletas, de equipo eléctrico, vulcanizadoras, carpinterías, talleres de reparación de muebles y similares.
+
+(K) Comunicaciones.- Se refiere a las edificaciones o instalaciones destinadas a transmitir o difundir información, hacia o entre las personas, incluye las edificaciones o instalaciones destinadas al traslado de personas o bienes, así como a los espacios reservados para el resguardo y servicio de vehículos y similares, tales como: correos, telégrafos, teléfonos, estaciones de radio, televisión y similares, terminales de autobuses urbanos, taxis, peseros, terminales y estaciones de autobuses foráneos y de carga, estacionamientos cubiertos, ya sean públicos o privados, encierros e instalaciones de mantenimiento de vehículos, terminales aéreas, helipuertos (caso particular que no se considera como PE), estaciones de ferrocarril, embarcaderos, muelles y demás edificios destinados a la actividad del transporte.
+
+ii. Construcciones que no poseen cubiertas o techos: PE: Estacionamientos, patios, plazuelas, terrazas y parques. PC: Canchas deportivas. J: Jardines. P: Panteones. Se refieren a construcciones habilitadas directamente sobre el terreno o sobre estructuras y que conforman pavimentos o áreas verdes para los usos señalados.
+
+iii. Inmueble sin construcciones (W), aquél que no tenga construcciones permanentes o que teniéndolas su superficie, sea inferior a un 10% a la del terreno, a excepción de:
+
+a) Los inmuebles que se ubiquen en zonas primarias designadas para la protección o conservación ecológica, y en las zonas secundarias denominadas áreas verdes y espacios abiertos, de acuerdo con la zonificación establecida en los Programas Territoriales o Parciales de la Ciudad de México. Si un predio no se encuentra en su totalidad en dichas zonas, únicamente se aplicará la reducción a la superficie afectada a que se refieren los numerales 1 y 2 de la fracción III, del artículo 130 de este Código;
+
+b) Los inmuebles que pertenezcan a instituciones educativas, culturales o de asistencia privada;
+
+c) Los campos deportivos o recreativos acondicionados y funcionando como tales;
+
+d) Los estacionamientos públicos debidamente autorizados y en operación;
+
+e) Los inmuebles cuya construcción sea inferior a un 10% de la superficie del terreno y que sean utilizados exclusivamente como casa-habitación por el contribuyente y que cuente con los espacios y servicios propios del uso habitacional; o
+
+f) Otros inmuebles que sean efectivamente utilizados conforme a la autorización que hubiese otorgado la autoridad competente, misma que deberá ser renovada para presentarse ante la autoridad por ejercicio fiscal.
+
+(M) Mixto.- Cuando el inmueble se destine conjuntamente a uso habitacional y no habitacional o cuando tenga dos o más usos no habitacionales.
+
+b) Rango de niveles: Corresponde al número de plantas cubiertas y descubiertas de la construcción a partir del primer nivel utilizable o edificado en el predio en que se ubique.
+
+En cuerpos estructurales o inmuebles donde existan espacios con grandes alturas cubiertas, sin distinción de niveles, se deberá establecer que cada 3.00 metros de altura equivale a un nivel. En espacios que cuenten con gradas y/o butaquerías para mejorar la visibilidad hacia la parte frontal del recinto, la altura deberá medirse del punto más bajo al punto más alto del cuerpo estructural.
+
+En los casos que en una cuenta catastral se encuentren varios cuerpos de edificios claramente separados, el valor total de la construcción se obtendrá de la suma del valor de cada uno de ellos, los cuales se calcularán en forma independiente.
+
+Cuando el nivel más alto de un edificio tenga un porcentaje de construcción menor al 20% de la planta cubierta anterior, el rango de nivel del inmueble se determinará sin tomar en cuenta el último nivel. Asimismo, cuando el nivel más bajo de un edificio tenga un porcentaje de construcción menor al 20% de la planta cubierta inmediata superior, el rango de nivel del inmueble se determinará sin tomar en cuenta el primer nivel.
+
+El rango de nivel se considerará conforme a la siguiente edificación.
+
+Clave Descripción
+
+01 Superficies construidas descubiertas. Aplica sólo
+
+para aquellas desplantadas directamente sobre
+
+el terreno.
+
+02 De 1 a 2 niveles o bien, si no existe una clara
+
+distinción de ellos y la construcción tenga una
+
+altura hasta de 6.00 metros.
+
+05 De 3 a 5 niveles o bien, si no existe una clara
+
+distinción de ellos y la construcción tenga una
+
+altura de 6.01 metros a 15.00 metros.
+
+10 De 6 a 10 niveles.
+
+15 De 11 a 15 niveles.
+
+20 De 16 a 20 niveles.
+
+99 De 21 a más niveles.
+
+RU
+
+RANGO ÚNICO Otras.
+
+V. CLASE: Es el grupo al que pertenece una porción de construcción de acuerdo con las características propias de sus espacios, servicios, estructuras y acabados, la cual tiene asignado un valor unitario de construcción.
+
+La clase será única por tipo.
+
+Para determinar la clase de construcción a que pertenece cada edificación, se procederá conforme a lo siguiente:
+
+En primer término se debe considerar el uso genérico del inmueble, identificándolo como habitacional o no habitacional; posteriormente se ubica de manera específica en la "Matriz de Características" para determinar la clase que aplica para el uso de que se trate.
+
+Selección de elementos en la "Matriz de Características".
+
+Cada "Matriz de Características" se compone de apartados en los cuales se consideran distintos elementos de la construcción. Por lo que se deberá seleccionar un solo elemento de los siete que componen cada columna, y así sucesivamente, para cada columna que integra esta matriz.
+
+Determinación de puntos y clase en la "Matriz de Puntos".
+
+Se deberá identificar los puntos que correspondan a cada elemento seleccionado en la matriz de características. Hecho lo anterior, los puntos se anotarán en el renglón denominado "Puntos Elegidos", y se deberán sumar los puntos de este renglón, ubicando el resultado en el cuadro "Total de Puntos".
+
+Finalmente, el total de puntos se ubicará dentro de algún rango de la "Tabla de Puntos", determinándose de esa manera la clase a la cual pertenece la construcción del inmueble.
+
+a) HABITACIONAL
+
+En el caso de que el uso genérico del inmueble sea habitacional, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: Habitacional y se utilizan los puntos aplicables en la "Matriz de Puntos" para determinar clases de construcción de Uso: Habitacional, conforme al procedimiento señalado en esta fracción.
+
+Para vivienda multifamiliar, la superficie de construcción que se debe considerar como referencia para determinar la clase, es la que resulte de dividir la superficie total, incluyendo las áreas de uso común, entre el número de unidades familiares.
+
+No se consideran en este caso los inmuebles sujetos a régimen condominal.
+
+Para el cálculo de la matriz de los inmuebles sujetos a régimen de propiedad en condominio, deberán considerar como superficie de construcción la que resulte de sumar las áreas privativas más la parte proporcional de área común que le correspondan de acuerdo a su indiviso y que se encuentren en el mismo cuerpo constructivo.
+
+MATRÍZ DE CARACTERÍSTICAS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO HABITACIONAL
+
+Anexo 1
+
+MATRÍZ DE PUNTOS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO HABITACIONAL
+
+Anexo 1-A
+
+b) NO HABITACIONAL
+
+Cuando un inmueble construido originalmente para uso habitacional se destine a Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: No Habitacional (Casa habitación adaptada para oficina, hotel, comercio, salud, educación y/o comunicaciones) conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERÍSTICAS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: CASA HABITACIÓN ADAPTADA PARA OFICINA, HOTEL, COMERCIO, SALUD, EDUCACIÓN Y/O COMUNICACIONE
+
+Anexo 2
+
+MATRIZ DE PUNTOS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: CASA HABITACIÓN ADAPTADA PARA OFICINA, HOTEL, COMERCIO, SALUD, EDUCACIÓN Y/O COMUNICACIONES
+
+Anexo 2-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, para la determinación de la clase se aplica la "Matriz de Características" para determinar clases de construcción de Uso: no habitacional (Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERÍSTICAS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: OFICINAS, HOTELES, COMERCIO, SALUD, EDUCACIÓN Y/O COMUNICACIONES
+
+Anexo 3
+
+MATRIZ DE PUNTOS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: OFICINAS, HOTELES, COMERCIO, SALUD, EDUCACIÓN Y/O COMUNICACIONES
+
+Anexo 3-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito para el que fue construido, tratándose de Industria, Abasto y/o Cultura, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: no habitacional (Industria, Abasto y/o Cultura), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERÍSTICAS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: INDUSTRIA, ABASTO Y/O CULTURA
+
+Anexo 4
+
+MATRIZ DE PUNTOS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: INDUSTRIA, ABASTO Y/O CULTURA
+
+Anexo 4-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Deportes, para la determinación de la clase se aplica la "Matriz de Características" para determinar clases de construcción de uso no habitacional (Deportes), conforme al procedimiento señalado en esa fracción.
+
+MATRIZ DE CARACTERÍSTICAS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: DEPORTE
+
+Anexo 5
+
+MATRIZ DE PUNTOS PARA DETERMINAR CLASES DE CONSTRUCCIONES DE USO NO HABITACIONAL: DEPORTE
+
+Anexo 5-A
+
+Para los efectos de la determinación de las clases de construcción y la aplicación de las Matrices de Características y Puntos para determinar Clases de Construcción señaladas en este artículo, se entenderá por:
+
+ESPACIOS:
+
+Sala: Es el cuarto de estar en una casa o vivienda.
+
+Comedor: Es un cuarto de la vivienda destinado para ingerir alimentos.
+
+Cocina: Cuarto de la vivienda utilizado para cocinar o calentar los alimentos con o sin muebles tipo cocina integral.
+
+Recámara: Es el cuarto de la vivienda destinado a dormir y al descanso de sus habitantes.
+
+Cuarto de servicio: Es un cuarto adicional de la vivienda generalmente aislado del resto de la casa, que se ocupa para el alojamiento del servicio doméstico.
+
+Cuarto de lavado y planchado: Es un cuarto adicional de la vivienda destinado para el alojamiento de los bienes muebles destinados a la limpieza y conservación de las prendas de vestir.
+
+Estudio: Es un cuarto adicional de la vivienda destinado al esparcimiento y/o desarrollo de actividades académicas, como son una biblioteca o la sala de televisión.
+
+Gimnasio: Cuarto adicional de la vivienda para realizar ejercicios gimnásticos o deportivos.
+
+Cajones de estacionamiento: Son los espacios asignados para el resguardo de vehículos.
+
+Espacios adicionales: Consiste en espacios tales como salón de juegos, salas de proyección, bar, cava y salón de fiestas.
+
+Unidad Familiar: Espacio de vivienda destinado al uso de un individuo, pareja o familia.
+
+Vivienda Familiar: Conjunto de unidades familiares, incluyendo áreas de uso común.
+
+Ejemplo: vecindades.
+
+SERVICIOS:
+
+Baño: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera.
+
+W.C. en barro y/o letrina sin conexión de agua corriente: Servicios deficientes, espacios mínimos para el aseo personal, regularmente ubicado fuera del cuerpo principal del inmueble, frecuentemente de uso común para varias unidades familiares, mobiliario con alguno de los servicios básicos (wc, lavabo, regadera), en algunos casos con construcción de tipo provisional o incompleta, con y/o sin instalaciones hidráulicas y sanitarias aparentes, fosa séptica, letrina forjada de diversos materiales como barro, tabique, ladrillo, madera, metálico, etc. y/o wc de porcelana.
+
+Muebles tipo "A": Servicios básicos semi completos, habitualmente ubicados en espacios reducidos y dentro del cuerpo principal de construcción, espacio para el aseo personal regularmente conformado por 1 baño, con instalaciones hidrosanitarias ocultas y/o visibles, mobiliario con algunos de los servicios básicos (wc, lavabo, regadera, calentador de agua de leña y/o gas).
+
+Muebles tipo "B": Servicios completos, espacio para el aseo personal regularmente conformado por 1 y/o 1 1/2 baños, con instalaciones hidrosanitarias ocultas, con mobiliario completo (wc, lavabo con o sin gabinete, regadera, calentador de agua, gas automático para un servicio), con o sin cancel de aluminio de hasta de 51 mm y acrílico o vidrio hasta de 5 mm.
+
+Muebles tipo "C": Servicios completos con algún accesorio adicional área de blancos, espacio para el aseo personal regularmente conformado por 2 baños completos o más, con instalaciones hidrosanitarias ocultas, con mobiliario completo (wc, lavabo con o sin gabinete de madera o forjados, ovalines de cerámica o cristal, regadera de tipo teléfono, tina con o sin hidromasaje, calentador de agua automático hasta dos servicios), cancel con perfiles de aluminio esmaltado de hasta de 75 mm con cristal de 6 mm o cancel de vidrio templado de 6 mm.
+
+Muebles tipo "D": Servicios completos con accesorios y espacios adicionales vestidores, espacio para el aseo personal regularmente conformado por 3 o más baños completos y más de un 1/2 baños para visitas con guardarropa, con instalaciones hidrosanitarias ocultas, con mobiliario completo (wc, lavabo con o sin gabinete de madera o forjado, ovalines de cerámica o cristal, regadera de tipo teléfono, tina con o sin hidromasaje, calentador de agua de paso tipo dúplex), canceles con perfiles de aluminio esmaltado hasta de 75 mm con cristal grabado o esmerilado o canceles con cristal templado grabado de 9 mm de espesor o muros divisorios de muroblock de vidrio.
+
+Muebles tipo "E": Servicios completos en demasía, con accesorios adicionales y espacios adicionales vestidores, área de vapor, espacio para el aseo personal regularmente conformado por 3 o más baños completos y más de un 1/2 baño, con instalaciones hidrosanitarias ocultas, con mobiliario completo (wc una pieza, lavabo con o sin gabinete de madera o forjado, ovalines de cerámica o cristal, sobre mesetas y cubiertas de laminados naturales finos, regadera de tipo teléfono, tina con o sin hidromasaje, estación de vapor caldera, todos de calidades especiales, canceles con cristal templado, biselado de 12 mm de espesor o muros divisorios de muroblock de vidrio de color).
+
+Muebles tipo "F": Servicios completos en demasía, con accesorios adicionales y espacios adicionales vestidores, área de vapor, espacio para el aseo personal regularmente conformado por 3 o más baños completos y más de un 1/2 baño, con instalaciones hidrosanitarias ocultas, con mobiliario completo (wc de lujo o una pieza, lavabo con o sin gabinete de madera, forjado y con cubiertas de laminados naturales finos, regadera de tipo teléfono, tina con o sin hidromasaje, pueden contar con jacuzzi o sauna, estación de vapor caldera, todos de calidades especiales y con sensores ópticos especiales, canceles con cristal templado, biselado de 12 mm de espesor o muros divisorios de muroblock de vidrio de color y/o con iluminación interna y ambiente controlado).
+
+Muebles tipo "G": En color blanco, en porcentaje de color de 2a, accesorios completos de cerámica o aluminio natural de fabricación nacional.
+
+Muebles tipo "H": Baño de color, en porcentaje blancos, calidad regular del país, accesorios porcelana, manerales y regaderas metálicos cromados de calidad regular.
+
+Muebles tipo "I": Baño de color de buena calidad del país, en porcentaje importado, con accesorios, manerales y regaderas de metal cromado y acrílico buena calidad, lavabo con gabinete del país o con pedestal de mármol buena calidad, tina con o sin hidromasaje.
+
+Muebles tipo "J": Baño de color de buena calidad del país, en porcentaje importados, con accesorios, manerales y regaderas de metal cromado y acrílico buena calidad, lavabo con gabinete y placa de mármol importado, ovalín con pedestal de mármol buena calidad, wc de una pieza.
+
+Muebles tipo "K": Baño de color de calidad muy buena de importación, con accesorios, manerales y regaderas de metal importado, lavabo con gabinete de maderas finas, placa de mármol en porcentaje importados y ovalín de porcelana decorada, wc de una pieza, tina con o sin hidromasaje.
+
+Muebles tipo "L": Baño de color calidad excelente de importación, con accesorios, manerales y regaderas de metal importados automáticos inteligentes, lavabo con gabinete de maderas finas, placa de mármol en porcentaje importados y ovalín de porcelana decorada, wc de una pieza automático de excelente calidad, tina con o sin hidromasaje, pueden contar con Jacuzzi o sauna, estación de vapor.
+
+ESTRUCTURA:
+
+Estructura: Armazón de hierro, madera o concreto armado que soporta una construcción.
+
+Muros de carga: Obra de albañilería levantada en posición vertical, para cerrar un espacio y sostener entrepisos o cubiertas, cuya función principal es soportar la estructura.
+
+Marco rígido: Elemento estructural conformado por una trabe, una contratrabe y dos o más columnas.
+
+Losa: Superficie llana compacta de concreto armado, que se encarga de separar horizontalmente un nivel o piso.
+
+Concreto: Mezcla compuesta de piedras menudas, cemento y arena que se emplea en la construcción por su gran dureza y resistencia.
+
+Concreto armado: Mezcla de concreto reforzada con una armadura de barras de hierro o acero.
+
+Losa maciza: Losa de concreto armado de 10 cm. de espesor, con refuerzo de varillas en ambas direcciones.
+
+Losa reticular: Sistema de trabes entrecruzadas formando retículas o huecos que aligeran o disminuyen el peso de una losa, reduciendo la cantidad de concreto mediante la colocación de casetones.
+
+Losa aligerada: Tipo de losa en la que parte del concreto se remplaza por otros materiales librando claros más largos.
+
+Entrepisos: Losas intermedias.
+
+Columna: Soporte cilíndrico o rectangular para sostener entrepisos y/o techumbres.
+
+Mampostería: Sistema constructivo realizado con piedras desiguales, ajustadas y unidas con mortero de cal y arena.
+
+Tabique: Masa de arcilla cocida de tamaño y grosor variable. Cuando es delgado se denomina ladrillo, cuando es grueso, tabique.
+
+Adobe: Ladrillo o tabique de barro sin cocer, secado al sol.
+
+Cubierta: Losa superior y exterior de una construcción.
+
+Viga: Barra gruesa de metal, madera o concreto armado que se usa como elemento de soporte horizontal.
+
+Volados: Techo que en su longitud sólo tiene apoyo en uno de sus lados o costados.
+
+Claros: Espacio que existe entre elementos verticales de carga (muros o columnas).
+
+Claro largo: Distancia longitudinal a los ejes de carga entre dos puntos de apoyo.
+
+Claro Corto: Distancia transversal a los ejes de carga entre dos puntos de apoyo.
+
+Cemento: Mezcla de arcilla molida y materiales calcáreos en polvo que, en contacto con el agua, se solidifica y endurece. Se utiliza como adherente y aglutinante en la construcción.
+
+Acero: Aleación de hierro y carbono, en diferentes proporciones, que adquiere con el temple gran dureza y elasticidad.
+
+Elementos prefabricados: Estructuras o elementos de acero y concreto previamente armados o colocados.
+
+Graderías: Asiento colectivo a manera de escalón corrido en teatros y estadios.
+
+ACABADOS:
+
+Acabado: Perfeccionamiento final de una obra.
+
+Yeso: Sulfato de calcio hidratado, compacto o terroso, generalmente blanco, que tiene la propiedad de endurecerse rápidamente cuando se amasa con agua, y se emplea en la construcción y en la escultura.
+
+Plafón: Cielo falso que se utiliza de forma estética, acústica o por tener facilidad de acceso a las instalaciones de un área determinada.
+
+Pisos: Referido a los materiales de construcción empleado en el terminado o calidad de las áreas de circulación del inmueble.
+
+Pasta: Masa moldeable hecha con cualquier material para decorar muros.
+
+Alfombra: Tejido de lana o de otras materias con que se cubre el piso de las habitaciones y escaleras.
+
+Aplanado: Recubrimiento de las construcciones para el que se utilizan, básicamente como materiales una mezcla de cal y arena, sirve para proteger las superficies.
+
+Firme: Capa de concreto simple o concreto pobre que sirve para recibir y dar resistencia al piso terminado.
+
+Firme de concreto simple: Capa sólida de concreto.
+
+Firme de concreto simple pulido: Capa sólida de concreto pulido.
+
+Firme de concreto escobillado: Capa de concreto reforzado con una malla electrosoldada de acero de alta resistencia y terminado con escoba.
+
+Precolado de concreto: Piezas de concreto previamente armado.
+
+Linóleum: Papel plastificado para cubrir pisos presentado en rollos para su colocación.
+
+Mosaico: Técnica artística de decoración que se forma pegando sobre un fondo de cemento pequeñas piezas de piedra, vidrio o cerámica de diversos colores y diseños.
+
+Terrazo: Pavimento formado por trozos de mármol aglomerados con cemento y superficie pulida.
+
+Pulido: Alisar o dar tersura y lustre a una cosa.
+
+Parquet: Recubrimiento para suelos de interior, formado por listones muy pequeños de madera dispuestos en formas geométricas.
+
+Duela: Piso compuesto por tablas de madera maciza en tiras colocadas en un sentido largo.
+
+Deck: Recubrimiento para suelo de exterior, formado por listones de madera, aglomerado de polímeros.
+
+Duela laminada: Se trata de un piso de imitación compuesto por PVC con un terminado de papel fotográfico sobre aglomerado.
+
+Loseta: Pieza pequeña, generalmente de cerámica, que se pone en las paredes o en el suelo.
+
+Azulejo: Ladrillo pequeño vidriado, de diferentes colores, que se usa para cubrir suelos, paredes o en la decoración. Existen dos tipos: el industrializado o hecho a máquina, y el decorado a mano que se le considera de valor mayor.
+
+Perfil: Sección de forma determinada de acero laminado, hierro, o PVC que se usa para sostener una placa de vidrio o cualquier otro material.
+
+Aluminio: Metal de color y brillo similares a los de la plata, ligero, maleable y buen conductor del calor y de la electricidad.
+
+Esmalte: Laca cosmética que cubre y protege diversos materiales (por ejemplo: madera y aluminio).
+
+Cancel: Armazón vertical de madera, hierro u otro material, que divide espacios en un cuarto de baño.
+
+Placa: Plancha o película de metal u otra materia, en general rígida que cubre una superficie.
+
+Cristal: Material cristalino y traslúcido.
+
+Cristal acústico: Cristal con aislante de ondas sonoras.
+
+Cristal térmico: Cristal que conserva la temperatura.
+
+Lámina: Plancha delgada de metal u otro material, porción de cualquier materia extendida en superficie y de poco grosor.
+
+Fachada: Aspecto exterior de la construcción.
+
+Piso: Pavimento natural o artificial de habitaciones, calles y caminos.
+
+Pavimento: Superficie que se hace para que el piso esté sólido y llano.
+
+Llano: Superficie sin altos ni bajos.
+
+Sólido: Macizo, denso y fuerte.
+
+Pintura: Color preparado con fines cosméticos en acabados.
+
+Recubrimientos tipo estuco: Pasta de cal, yeso y agua de acabado terso y fino. Se aplica como revestimiento o en relieves ornamentales.
+
+Ventana: Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilación compuesta por un armazón y cristales con que se cierra esa abertura.
+
+Aglomerado: Material que consiste en planchas compuestas por trozos de madera prensados y endurecidos.
+
+Mármol: Roca compuesta sobre todo de calcita, muy abundante en la naturaleza y utilizada en la construcción.
+
+Maderas Finas: Fresno, Roble, Cedro, Bambú.
+
+Acabado aparente común: Acabado sin algún tipo de tratamiento.
+
+Acabado aparente artesanal: Acabado con tratamiento final de manera estilizada y/o con mano de obra especializada.
+
+Materiales de nueva generación: Materiales con innovación técnica, tecnológica y/o sustentable. (ejemplos: pisos digitales, recubrimientos en 3D, muros verdes, etc.)
+
+> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 89 A LA 98.]</small>
+
+VI.
+
+AVALÚO COMERCIAL: El dictamen técnico practicado por persona autorizada o registrada ante la autoridad fiscal, que permite estimar el valor comercial de un bien inmueble, con base en su uso, características físicas, además de las características urbanas de la zona donde se ubica, así como en la investigación, análisis y ponderación del mercado inmobiliario, y que contenido en un documento o archivo electrónico que reúna los requisitos mínimos de forma y contenido establecidos en el Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, sirve como base gravable para el pago de alguna de las contribuciones establecidas en el Código.
+
+AVALÚO CATASTRAL: El dictamen técnico practicado por persona autorizada o registrada ante la autoridad fiscal, que sirve para apoyar al contribuyente para solicitar la modificación de datos catastrales y permite determinar el valor catastral de un bien inmueble con base en sus características físicas (uso, tipo, clase, edad, instalaciones especiales, obras complementarias y elementos accesorios) aplicando los valores unitarios de suelo y construcción, que el Congreso emite en el Código Fiscal que aplique.
+
+NORMAS DE APLICACIÓN
+
+1. Para la aplicación de la Tabla de Valores Unitarios de Suelo a un inmueble específico, se determinará primero la Alcaldía a que corresponda. Según su ubicación se constatará si se encuentra comprendido dentro de la Tabla de Colonia Catastral de tipo Enclave o de tipo Corredor, de ser alguno de estos casos le corresponderá al inmueble el valor unitario por metro cuadrado respectivo. En caso contrario se determinará la región con los tres primeros dígitos del número de cuenta catastral y su Manzana con los tres siguientes dígitos del mismo número de cuenta, a los cuales deberá corresponder una Colonia Catastral de tipo Área con un valor unitario por metro cuadrado. El valor unitario que haya correspondido se multiplicará por el número de metros cuadrados de terreno, con lo que se obtendrá el valor total del suelo del inmueble.
+
+2. Para la aplicación de la Tabla de Valores Unitarios de las Construcciones, se considerarán las superficies cubiertas o techos y las superficies que no posean cubiertas o techos, según sea el caso. Para determinar el valor de la construcción se clasificará el inmueble en el tipo y clase que le correspondan: con este tipo y clase se tomará el valor unitario de la construcción, establecidos en la Tabla de Valores Unitarios de las Construcciones y se multiplicará por los metros cuadrados de la construcción, con lo que se obtendrá el valor total de la edificación.
+
+Para la determinación del valor de la construcción de un inmueble de uso habitacional unifamiliar se considerarán todos los espacios cubiertos propios de este uso incluyendo, entre otros, los cuartos de servicio, patios, cajón de estacionamiento, cocheras.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio, se considerará, además, la parte proporcional de las áreas comunes que les corresponde conforme a su indiviso. Estas áreas comunes se considerarán como uso habitacional si están en el mismo cuerpo constructivo, si están separadas estructuralmente serán clasificadas de acuerdo a sus usos, rangos de nivel, clases y edades, se considerará cada uso cubierto y descubierto según aplique.
+
+El valor total de la construcción de inmuebles de uso habitacional sujetos a régimen de propiedad en condominio se obtendrá de la suma del valor de la construcción privativa y el valor de la construcción común.
+
+En los inmuebles de uso no habitacional, se considerará cada uso cubierto y descubierto según aplique se determinará su tipo y clase que le corresponda. Los inmuebles en esta situación deberán determinar el valor de la construcción con la suma total de cada una de ellas.
+
+Para el inmueble que cuenta con distintos usos, incluso habitacional, cuando las personas residan de manera ocasional o para resguardar dichos inmuebles, se debe tomar el valor de cada una y sumarse a las restantes para así obtener el valor total de la construcción.
+
+Al resultado obtenido se le aplicará una reducción según el número de años transcurridos desde que se terminó la construcción o desde la última remodelación que hubiere afectado a por lo menos un 30% de la superficie construida considerando todas las plantas del inmueble, en razón del 0.8% para cada año transcurrido, sin que en ningún caso se descuente más del 40%. Si los inmuebles tuvieran porciones de construcción con diferentes fechas de terminación, la reducción procederá por cada porción, según el número de años transcurridos desde que se terminó cada una de ellas.
+
+3. Cuando el inmueble cuente con instalaciones especiales, elementos accesorios u obras complementarias, el valor resultante de aplicar lo señalado en el numeral 2, se incrementará en 8%.
+
+Instalaciones especiales, aquellas que se consideran indispensables o necesarias para el funcionamiento operacional del inmueble de acuerdo a su uso específico, tales como, elevadores, escaleras electromecánicas, equipos de calefacción o aire lavado, sistema hidroneumático, equipos contra incendio.
+
+Elementos accesorios, son aquellos que se consideran necesarios para el funcionamiento de un inmueble de uso especializado, que sí se convierten en elementos característicos del bien analizado como: caldera de hoteles y baños públicos, espuela de ferrocarril en industrias, pantalla en un cinematógrafo, planta de emergencia en un hospital, butacas en una sala de espectáculos, entre otros.
+
+Obras complementarias, son aquellas que proporcionan amenidades o beneficios al inmueble como son: bardas, celosías, andadores, marquesinas, cisternas, equipos de bombeo, gas estacionario, entre otros.
+
+4. El valor del suelo del inmueble, de sus construcciones y de sus instalaciones especiales, según sea el caso, se sumarán para obtener el valor catastral del inmueble.
+
+La autoridad fiscal, mediante reglas de carácter general dará a conocer lo relativo a lo dispuesto en el párrafo anterior, en lenguaje llano y mediante folletos ejemplificativos.
+
+5. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
+
+> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 101 A LA 248.]</small>
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Para los efectos de dar a conocer el nivel de desarrollo al que pertenecen las manzanas, para efectos de otorgar un subsidio a los usuarios de los derechos por el suministro de uso doméstico, así como doméstico y no doméstico simultáneamente (mixto) en la Ciudad de México a que se refiere el artículo 172 del Código, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas de aplicación que se indican:
+
+DEFINICIONES
+
+I. ÍNDICE DE DESARROLLO (ID). Construcción estadística que mediante variables de tipo socioeconómico derivadas de información oficial, permite diferenciar territorialmente a la población de la Ciudad de México de acuerdo a su nivel de desarrollo económico, agregando la información a nivel manzana. Las manzanas, en su conjunto, son clasificadas en cuatro distintos tipos: popular, bajo, medio, alto; de acuerdo al valor que para cada una de ellas arroja este índice.
+
+II. REGIÓN. Circunscripción convencional del territorio de la Ciudad de México determinada con fines de control catastral de los inmuebles, representada por los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+III. MANZANA. Es un segmento de la región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta catastral.
+
+IV. MANZANA CON ID POPULAR. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener los niveles de desarrollo más bajos de la Ciudad. En esta categoría se agrupa, además, las manzanas que se encuentran dentro de la zona rural de la Ciudad de México.
+
+V. MANZANA CON ID BAJO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener niveles de desarrollo bajo de la Ciudad.
+
+VI. MANZANA CON ID MEDIO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener niveles de desarrollo medio de la Ciudad.
+
+VII. MANZANA CON ID ALTO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener los más altos niveles de desarrollo de la Ciudad.
+
+NORMAS DE APLICACIÓN
+
+1. Para el establecimiento del subsidio otorgado a los usuarios del suministro doméstico de agua a que hace referencia el artículo 172 del Código, se determinará primero la alcaldía a la que corresponda la toma del usuario.
+
+2. Posteriormente se identificará la región-manzana a la que pertenece mediante los seis primeros dígitos de la cuenta catastral que corresponde al inmueble de uso doméstico, así como doméstico y no doméstico simultáneamente (mixto), donde se encuentra la toma.
+
+3. Al identificar la región-manzana dentro de la Alcaldía se observará el tipo de manzana al que pertenece y ese remitirá, de manera directa, al subsidio que le corresponde al usuario de la toma de acuerdo al artículo 172 del Código.
+
+> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 250 A LA 378.]</small>
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+Tratándose del trámite de actualización de datos catastrales mediante avalúo no operará durante el ejercicio fiscal 2021 la resolución afirmativa ficta a que se refiere el artículo 55 de este Código.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+La Secretaría, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e implementación del Sistema por el cual se sustanciará el procedimiento e-Revocación, para efectos de que inicie su operación en los términos que señale la propia Secretaría.
+
+Una vez que inicie la operación de dicho Sistema, previo aviso que se publique en la Gaceta Oficial de la Ciudad de México, se derogará el Título Tercero, del Libro Tercero del Código Fiscal de la Ciudad de México y entrará en vigor el Título Tercero BIS, del Libro Tercero del mismo Código.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Los recursos de revocación interpuestos antes de la entrada en vigor del Título Tercero BIS, del Libro Tercero del Código Fiscal de la Ciudad de México, se deberán concluir con las disposiciones vigentes al momento de su interposición.
+
+###### ARTÍCULO VIGÉSIMO SEXTO.
+
+Para efectos del segundo párrafo del artículo Vigésimo Cuarto Transitorio del presente Decreto, los contribuyentes podrán optar por desistirse de los recursos de revocación, así como de los juicios tramitados ante el Tribunal de Justicia Administrativa de la Ciudad de México y de los Juicios de Amparo interpuestos ante el Poder Judicial de la Federación, que se encuentren pendientes de resolución, para tramitar ante la Procuraduría Fiscal de la Ciudad de México un convenio de conciliación, a efecto de obtener los beneficios de la condonación del 100% de multas y recargos, siempre que se demuestre que la resolución impugnada contiene violaciones a las disposiciones fiscales.
+
+En caso de no haberse comprobado que las resoluciones impugnadas contienen violaciones a las disposiciones fiscales, pero los contribuyentes deseen obtener los beneficios de la condonación, podrán solicitar la adopción de un convenio de conciliación; en estos supuestos, se autoriza a la Procuraduría Fiscal de la Ciudad de México para que determine el porcentaje de condonación de las multas y los recargos, para lo cual apreciará las circunstancias particulares de cada caso.
+
+De igual manera, los contribuyentes a los que se les hubiese incoado un procedimiento administrativo de ejecución, por adeudos correspondientes a créditos fiscales, que no deriven de procedimientos resarcitorios o de créditos fiscales distintos a los determinados por las autoridades fiscales señaladas en el artículo 7° del Código Fiscal de la Ciudad de México, podrán solicitar la adopción de un convenio conciliatorio, a fin de obtener los beneficios de dicho convenio; en estos supuestos, se autoriza a la Procuraduría Fiscal de la Ciudad de México, para que determine el porcentaje de condonación de las multas y los recargos, para lo cual apreciará las circunstancias particulares de cada caso.
+
+###### ARTÍCULO VIGÉSIMO SÉPTIMO.
+
+Una vez que entre en vigor el Título Tercero BIS, del Libro Tercero del Código Fiscal de la Ciudad de México, toda referencia realizada al Recurso de Revocación se entenderá hecha al Procedimiento de e-Revocación.
+
+###### ARTÍCULO VIGÉSIMO OCTAVO.
+
+Las disposiciones relativas a la operación del Título Tercero BIS, del Libro Tercero, del Código Fiscal de la Ciudad de México se sujetarán a lo establecido en la normatividad que para tal efecto publique la Secretaría.
+
+###### ARTÍCULO VIGÉSIMO NOVENO.
+
+La reforma al artículo 7 de la Ley de Justicia Administrativa de la Ciudad de México, iniciará su vigencia una vez que se cumpla con lo establecido en el artículo Vigésimo Cuarto Transitorio del presente Decreto.
+
+ARTÍCULO TRIGÉSIMO.- Los usuarios con Uso Doméstico obligados al pago de los Derechos por el Suministro de Agua que provea la Ciudad de México, ubicados en las colonias que determine el Sistema de Aguas de la Ciudad de México que durante el primero, segundo y tercer bimestre del año, registren un consumo superior a los 60,000 litros, deberán pagar un 35% adicional respecto a la tarifa que corresponda del artículo 172 del Código Fiscal de la Ciudad de México.
+
+Para efectos del párrafo anterior, el citado Sistema de Aguas deberá publicar a más tardar el 22 de enero de 2021 el referido listado de colonias.
+
+ARTÍCULO TRIGÉSIMO PRIMERO.- Las reformas a los artículos 269 y 287 del Presente Decreto, entrarán en vigor, el día en que así lo haga la Ley para el Fomento, la Promoción y el Desarrollo del Cine Mexicano, así como la Ley de Filmaciones de la Ciudad de México.
+
+En tanto eso no ocurra, las disposiciones vigentes serán las siguientes:
+
+###### ARTÍCULO 269.
+
+Por la expedición del Permiso de Filmación en la vía pública, se pagarán derechos por día conforme a las siguientes cuotas:
+
+a) Filmación en vías ciclistas……………………………………………………………………………….. $985.00
+
+b) Filmación en vías de tránsito peatonal ……………………………………………………….………… $985.00
+
+c) Filmación en vías de tránsito vehicular …………………………………………………….………… $4,913.00
+
+d) Derogado.
+
+e) Filmación urgente en vías de tránsito vehicular …………………………………………..………….. $9,825.00
+
+f) Modificación de Permiso ………………………………………………………………..……………… $985.00
+
+g) Prórroga de Permiso …………………………………………………………………………………….. $985.00
+
+El pago de los derechos previstos en este artículo aumentará en cincuenta por ciento, cuando la filmación solicitada se lleve a cabo en el perímetro vial conformado por Eje Central Lázaro Cárdenas, José María Izazaga y su continuación San Pablo, Anillo de Circunvalación y su continuación Vidal Alcocer, Peña y Peña y su continuación Apartado y República de Perú; así como en el perímetro vial constituido por Avenida Hidalgo, Doctor Mora, Avenida Juárez y Eje Central Lázaro Cárdenas.
+
+Un cincuenta por ciento de los derechos correspondientes a este artículo se destinarán para la operación de la Comisión de Filmaciones de la Ciudad de México y, el otro cincuenta por ciento será destinado al patrimonio del Fideicomiso para la Promoción y Desarrollo del Cine Mexicano en el Distrito Federal.
+
+No se generará el cobro de los derechos establecidos en este artículo a los estudiantes de la Ciudad de México, debidamente acreditados, que lleven a cabo producciones cinematográficas en términos de la ley de la materia.
+
+###### ARTÍCULO 287.
+
+Las personas que lleven a cabo producciones cinematográficas mexicanas, tendrán derecho a una reducción del 80% respecto de los derechos a que refiere el artículo 269, incisos c) y e).
+
+Para obtener la reducción a que refiere este artículo, los contribuyentes deberán acreditar que su producción cinematográfica es 100% mexicana, a través de la constancia que para tal efecto expida la Comisión de Filmaciones de la Ciudad de México.
+
+ARTÍCULO TRIGÉSIMO SEGUNDO.- A más tardar el 31 de marzo de 2021, la persona titular de la Jefatura de Gobierno de la Ciudad de México, emitirá un programa para otorgar un subsidio del 50% en las tarifas establecidas en el artículo 181, Apartado A, fracción I, inciso a), fracción III, inciso a), y fracción IV, inciso a), así como las determinadas en el Apartado B, fracción I, inciso a), del Código Fiscal, para beneficiar a personas que habiten en inmuebles de uso doméstico y mixto, situados en las manzanas de tipo popular y bajo.
+
+ARTÍCULO TRIGÉSIMO TERCERO.- Para el Ejercicio Fiscal 2021, la persona titular de la Jefatura de Gobierno deberá emitir a más tardar el 29 de enero, una resolución de carácter general en la cual se otorgue un subsidio respecto a la cuota que resulte de la tarifa que corresponda del artículo 172 del Código Fiscal de la Ciudad de México, a favor de aquellos usuarios con toma de Uso No Doméstico, clasificados como mercados públicos, concentraciones, micro y/o pequeñas empresas, que durante el ejercicio fiscal 2021 registren un consumo de hasta 30,000 litros por bimestre.
+
+ARTÍCULO TRIGÉSIMO CUARTO.- A más tardar el 29 de enero de 2021, la Jefa de Gobierno emitirá un programa de Condonación del Impuesto Predial y de los Derechos por el Suministro de Agua, a los propietarios o poseedores de inmuebles que presenten daños ocasionados por las obras de construcción del Tren Interurbano denominado "Tren Toluca-Valle de México."
+
+Los porcentajes de condonación deberán aplicarse con base en la afectación del referido inmueble y, en consideración a ello, se otorgará, el 75% o 100% de la condonación, respectivamente.
+
+ARTÍCULO TRIGÉSIMO QUINTO.- A más tardar el 29 de enero de 2021, la Jefa de Gobierno emitirá una resolución de carácter general por medio de la cual se condonará total o parcialmente el pago del Impuesto Predial y de los Derechos por el Suministro de Agua, del ejercicio fiscal 2016 a la fecha, a favor de las personas propietarias o poseedoras de inmuebles ubicados en las colonias Primera Victoria, Minas de Cristo y Cove, de la Alcaldía Álvaro Obregón, que presenten daños ocasionados por las obras de ampliación de la Línea 12 del Sistema de Transporte Colectivo Metro.
+
+Los porcentajes de condonación deberán aplicarse con base en la afectación de cada inmueble y en consideración a ello, se otorgará, el 75% o 100% de la condonación, respectivamente.
+
+Para efectos de determinar las viviendas afectadas, se deberán tomar en cuenta las que, cumpliendo el requisito de ubicación mencionado en el párrafo primero de este artículo, se ubiquen en el trazo de la construcción o, en su defecto, se encuentren descritas en el Acuerdo Conciliatorio 01/2018, provisto por la Comisión de Derechos Humanos de la Ciudad de México.
+
+La resolución a que hace referencia este artículo deberá establecer el mecanismo de acceso a la condonación, no pudiendo solicitar mayores requisitos y documentos que los que ya obren en poder de las personas afectadas, derivado de las gestiones oficiales que han realizado para resolver el problema.
+
+ARTÍCULO TRIGÉSIMO SEXTO.- Los notarios podrán presentar para inscripción en el Registro Público de la Propiedad y de Comercio a más tardar el 29 de enero de 2021, el o los testimonios respecto de los actos jurídicos relacionados con adquisición o transmisión de inmuebles con las reducciones a que se refieren los artículos 275 Bis y 275 Ter, en el caso de que los contribuyentes hayan obtenido la constancia expedida por la Dirección General de Regularización Territorial en el año 2020 y que los derechos correspondientes hubieran sido pagados a más tardar el último día de diciembre del mismo año.
+
+ARTÍCULO TRIGÉSIMO SÉPTIMO.- Las personas a las que se refiere el artículo 156 BIS, deberán presentar dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el aviso de los contratos a que hace mención dicho artículo, vigentes al 01 de enero de 2021, independientemente de la fecha de celebración o modificación de los mismos.
