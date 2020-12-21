@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2020-11-04"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -95,7 +97,9 @@ II.- La atención materno-infantil;
 
 III.- La prestación de servicios de planificación familiar;
 
-IV.- La salud mental;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV.- La salud mental, de conformidad a la Ley de Salud Mental del Estado de Quintana Roo y las disposiciones legales aplicables;
 
 V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
@@ -963,69 +967,33 @@ En materia de planificación familiar, las acciones de información y orientaci�
 
 El Gobierno del Estado, coadyuvará con la Secretaría de Salud del Ejecutivo Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ### CAPITULO VII. SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
 ###### ARTICULO 66.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basa en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, la Secretaría de Salud del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades federales, estatales y municipales competentes en la materia, fomentarán y apoyarán:
-
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
-
-II.- La difusión de las orientaciones para la promoción de la salud mental;
-
-III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias, y
-
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-IV.- La implementación de programas para la prevención del suicidio, y
-
-V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 67-A.
 
-La Secretaría de Salud del Gobierno del Estado formulará el Programa Estatal contra el Suicidio, el cual contendrá la política pública para prevenir el problema social del suicidio y desarrollará lo siguiente:
-
-I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
-
-II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
-
-III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias, y
-
-IV. Coordinación con la Secretaría de Educación del Estado, para integrar información sobre posibles casos de depresión detectados en las escuelas.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 68.
 
-La atención de las enfermedades mentales comprende:
-
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
-
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 69.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
-
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones de atención médica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 1998)</small>
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 70.
 
-El Gobierno del Estado, conforme a las normas oficiales que establezca la Secretaría de Salud del Ejecutivo Federal, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
-
-A estos efectos, se establecerá la coordinación necesaria entre las Autoridades Sanitarias, Judiciales, Administrativas y otras, según corresponda.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -3862,3 +3830,13 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 064 POR EL QUE SE EXPIDE LA LEY DE SALUD MENTAL DEL ESTADO DE QUINTANA ROO, Y POR EL QUE REFORMA LA FRACCIÓN IV DEL APARTADO A DEL ARTÍCULO 5 Y SE DEROGA EL CAPÍTULO VII DENOMINADO "SALUD MENTAL" COMPRENDIDO POR LOS ARTÍCULOS 66; 67; 67-A; 68; 69, Y 70, DEL TÍTULO TERCERO DENOMINADO "PRESTACIÓN DE LOS SERVICIOS DE SALUD" DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Secretaría de Salud contará con un plazo de noventa días hábiles siguientes a la entrada en vigor de la ley para convocar e instalar el Consejo Estatal de Salud Mental. Este Consejo tendrá noventa días hábiles siguientes a la entrada en vigor de la ley para emitir el Reglamento de esta ley y las modificaciones reglamentarias que correspondan.
+
+TERCERO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos para el ejercicio anual vigente, instrumentará las acciones establecidas en la presente Ley.
