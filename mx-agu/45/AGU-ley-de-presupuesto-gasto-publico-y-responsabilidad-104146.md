@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2020-01-15"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUSCALIENTES EL 15 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -1001,7 +999,13 @@ Las Reasignaciones Presupuestarias podrán ser:
 
 I. Reasignaciones Presupuestarias Internas: Son aquellas que permiten realizar movimientos dentro de un mismo capítulo en diferentes partidas, las cuales quedan bajo responsabilidad de las Dependencias del Ejecutivo o Entidades del Ejecutivo, ya que se realizan de manera directa por las unidades que dentro de su estructura orgánica lleven a cabo funciones administrativas o financieras, son denominadas como Reasignaciones por Dependencia o Entidad en el sistema de contabilidad gubernamental respectivo.
 
-II. Reasignaciones presupuestarias externas: Son aquellas que permiten realizar movimientos entre los diferentes meses, proyectos, capítulos, tipo de gasto y objetos del gasto dentro de una misma o diferente ejecutora, que las Dependencias o Entidades del Ejecutivo presentan ante la Secretaría para autorización, las cuales deberán quedar registradas en el sistema de contabilidad gubernamental respectivo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+II. Reasignaciones presupuestarias externas: Son aquellas que permiten realizar movimientos entre los diferentes meses, proyectos, capítulos, tipo de gasto y objetos del gasto dentro de una misma o diferente ejecutora, que las Dependencias del Ejecutivo presentan ante la Secretaría para autorización, las cuales deberán quedar registradas en el sistema de contabilidad gubernamental respectivo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de las reasignaciones presupuestarias externas que pretendan realizar las Entidades del Ejecutivo, mismas que provengan de sus asignaciones presupuestales autorizadas y que de acuerdo con el calendario de ministración aún no hayan sido transferidas por parte de la Secretaría, se presentará ante ésta la solicitud de reasignación para su autorización. Dicha autorización no será requerida para el caso de aquellas reasignaciones presupuestarias externas de recursos que ya hubieren sido transferidos a las Entidades del Ejecutivo, o aquellos provenientes de sus ingresos propios, debiendo únicamente someterlas para aprobación a su Órgano de Gobierno conforme a la fracción II del Artículo 41 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, cumpliendo en todo caso con lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1023,11 +1027,17 @@ I.- De los diversos conceptos en los términos de los Artículos 41 y 49 de la L
 
 II.- En su caso, de los Ingresos Excedentes derivados de Ingresos de libre disposición que se destinen en los términos del Inciso b) de la Fracción II del Artículo 40 Bis de la Ley, por parte de las Dependencias del Ejecutivo y Entidades del Ejecutivo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles; y
+III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles;
 
-IV.- Del ejercicio de los derechos que como fideicomisario tiene el Gobierno del Estado en los fideicomisos públicos considerados como Entidades del Ejecutivo, que no se encuentren previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV.- Del ejercicio de los derechos que como fideicomisario tiene el Gobierno del Estado en los fideicomisos públicos considerados como Entidades del Ejecutivo, que no se encuentren previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V.- De los recursos que el Comité Técnico del Fondo de Inversiones Público Productivas y Programas Prioritarios determine retornar al Fondo de Estabilización.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1097,17 +1107,41 @@ VI.- Disponer y/o transferir los recursos del Fondo de Estabilización en los t�
 
 Se crea el Fondo de Inversiones Público Productivas y Programas Prioritarios, a que hace referencia el Artículo 49 Ter, Fracción III, inciso b) de esta Ley, mismo que tiene por objeto disponer de los recursos para el desarrollo de proyectos o programas a través de las Dependencias del Ejecutivo, Entidades del Ejecutivo y fideicomisos no considerados como parte de las Entidades del Ejecutivo.
 
-La administración y operación de los recursos de este fondo, será a través del Comité Técnico, a que hace referencia el Artículo 49 Septies de la presente Ley, los cuales a su vez, serán ejecutados por las Dependencias del Ejecutivo, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo, responsables de la ejecución de los proyectos o programas de Inversiones Públicos (sic) Productivas o Programas Prioritarios.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+La administración y operación de los recursos de este fondo, será a través del Comité Técnico, a que hace referencia el Artículo 49 Septies de la presente Ley, los cuales a su vez, serán ejecutados por las Dependencias del Ejecutivo, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo, responsables de la ejecución de los proyectos o programas de Inversiones Público Productivas o Programas Prioritarios.
 
-###### Artículo 49 Septies.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-El Fondo de Inversiones Pública (sic) Productivas y Programas Prioritarios, tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
+Los recursos de este fondo se constituirán como fuente de financiamiento para el desarrollo de proyectos o programas aprobados por el Comité Técnico, independientemente de la denominación que se otorgue en la ley que rija su contratación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los recursos dispuestos deberán encontrarse vinculados a obligaciones formales de pago a más tardar el último día del ejercicio fiscal en que se constituyan los recursos de este fondo, debiendo concluirse su ejercicio durante el año inmediato siguiente al de su constitución.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que no se encuentren vinculados a obligaciones de pago en la fecha a que se refiere el párrafo anterior, se deberán retornar al Fondo de Estabilización para su aplicación en forma indistinta a los destinos precisados en las Fracciones I y III, inciso a) del Artículo 49 Ter de esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+De igual manera se podrán retornar al Fondo de Estabilización los recursos que no se encuentren comprometidos para proyectos y programas conforme a los fines de este fondo, con el propósito de dar atención en cualquier tiempo a la caída de ingresos federales, en los casos en que el saldo objetivo de la cuenta específica a que se refiere la Fracción I del Artículo 49 Ter de esta Ley, resulte insuficiente para compensar y darle cobertura a los ingresos del Gobierno del Estado, derivado de menores entregas del Fondo General de Participaciones y del Fondo de Estabilización de los Ingresos de las Entidades Federativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 49 Septies.
+
+El Fondo de Inversiones Público Productivas y Programas Prioritarios, tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 I. El Titular de la CPLAP, quien lo presidirá;
 
-II. El Titular de la Secretaría, quien será el Secretario Técnico del Comité;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+II. El Titular del área jurídica de la CPLAP, quien será el Secretario Técnico del Comité;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 III. El Titular de la Secretaría General de Gobierno;
 
@@ -1115,11 +1149,23 @@ III. El Titular de la Secretaría General de Gobierno;
 
 IV. El Titular de la Secretaría de Finanzas;
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 V. El Titular de la Contraloría del Estado; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 VI. El Titular de la Secretaría de Administración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Todos los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Técnico del Comité y el Titular de la Contraloría del Estado, quienes solo tendrán derecho a voz.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo serán emitidas y aprobadas por el Comité Técnico.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación de la CPLAP a través de dictamen técnico.
 
@@ -1614,3 +1660,15 @@ El Comité Técnico a que se refiere el Artículo 49 Septies, deberá quedar ins
 ###### ARTÍCULO SEXTO.
 
 Una vez instalado el Comité Técnico a que hace referencia el Artículo 49 Septies, deberá emitir en un plazo no mayor a 180 días naturales, las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para su adecuado funcionamiento.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 442.- REFORMAS Y ADICIONES A LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Técnico a que hace referencia el Artículo 49 Septies, deberá realizar en un plazo no mayor a 90 días naturales las modificaciones necesarias a las reglas de operación, lineamientos y demás disposiciones que hubiese emitido con anterioridad a la entrada en vigor de este Decreto.
