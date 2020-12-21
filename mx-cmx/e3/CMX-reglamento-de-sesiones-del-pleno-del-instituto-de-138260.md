@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-pleno-del-instituto-de-138260"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-23"
-last_updated: "2019-09-23"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-09-13"
 
 REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE DICIEMBRE DE 2020.
 
 Reglamento publicado al Número 183 de la Gaceta Oficial de la Ciudad de México, el lunes 23 de septiembre de 2019.
 
@@ -178,13 +178,25 @@ XX. Sesión Extraordinaria: Es la que se celebra fuera de los periodos estableci
 
 XXI. Sesión Ordinaria: Es la que se celebra semanalmente conforme a los periodos establecidos en el calendario que para tal caso aprueba el Pleno;
 
-XXIII (SIC). Solicitud de Recusación: Solicitud escrita, fundada y motivada que formula alguna persona con interés jurídico en algún medio de impugnación o acuerdo, respecto de una o más Comisionadas y Comisionados para que se abstenga de conocer del asunto respectivo y/o actuar en éste, en términos de los artículos 28, 29 y 30 del Reglamento Interior;
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXIII (SIC). Voto Concurrente: Posicionamiento por escrito a través del cual se expresa el desacuerdo con uno o varios resolutivos y sus efectos, o bien, solo con la parte argumentativa, de la resolución o acuerdo respectivo que se someta a consideración del Pleno;
+XXIII (SIC). Sesión Solemne: Es la que se celebra bajo algún acto protocolario o diplomático por ubicarse en los supuestos que establece el presente Reglamento.
 
-XXIV. Voto particular: Posicionamiento por escrito mediante el cual alguna persona integrante del Pleno expresa su desacuerdo respecto de la decisión tomada por la mayoría, relativo al sentido del proyecto que se someta a consideración;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXV. Voto razonado: Manifestaciones por escrito que emite alguna persona integrante del Pleno en ausencia justificada, respecto de los asuntos listados en el orden del día, en términos de la fracción VIII del artículo 65 de la Ley de Transparencia, mismas que constarán en el acta como anexo, pero que no serán consideradas para los efectos de la votación que se tome en los proyectos.
+XXIV. Solicitud de Recusación: Solicitud escrita, fundada y motivada que formula alguna persona con interés jurídico en algún medio de impugnación o acuerdo, respecto de una o más Comisionadas y Comisionados para que se abstenga de conocer del asunto respectivo y/o actuar en éste, en términos de los artículos 28, 29 y 30 del Reglamento Interior;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXV. Voto Concurrente: Posicionamiento por escrito a través del cual se expresa el desacuerdo con uno o varios resolutivos y sus efectos, o bien, solo con la parte argumentativa, de la resolución o acuerdo respectivo que se someta a consideración del Pleno;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Voto particular: Posicionamiento por escrito mediante el cual alguna persona integrante del Pleno expresa su desacuerdo respecto de la decisión tomada por la mayoría, relativo al sentido del proyecto que se someta a consideración;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXVII. Voto razonado: Manifestaciones por escrito que emite alguna persona integrante del Pleno en ausencia justificada, con excepción de las sesiones solemnes, respecto de los asuntos listados en el orden del día, en términos de la fracción VIII del artículo 65 de la Ley de Transparencia, mismas que constarán en el acta como anexo, pero que no serán consideradas para los efectos de la votación que se tome en los proyectos.
 
 ###### Artículo 4.
 
@@ -208,7 +220,9 @@ I. Aprobar el proyecto de orden del día;
 
 II. Acordar los recesos;
 
-III. Acordar que la celebración de las sesiones ordinarias y extraordinarias se lleve a cabo en una sede diferente;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III. Acordar que la celebración de las sesiones ordinarias y extraordinarias, así como las solemnes se lleven a cabo en una sede diferente o vía remota;
 
 IV. Determinar la procedencia de la recusación de las Comisionadas o Comisionados cuando sea requerida por una de las partes involucradas en un acuerdo o medio de impugnación a través de una Solicitud de Recusación;
 
@@ -224,13 +238,17 @@ De la Comisionada Presidenta o el Comisionado Presidente
 
 Corresponden a la Comisionada Presidenta o el Comisionado Presidente las siguientes funciones:
 
-I. Convocar a sesiones ordinarias y extraordinarias del Pleno, con el auxilio de la persona titular de la Secretaría Técnica;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+I. Convocar a sesiones ordinarias, extraordinarias o solemnes del Pleno, con el auxilio de la persona titular de la Secretaría Técnica;
 
 II. Presidir, conducir y participar, con voz y voto, en las sesiones del Pleno;
 
 III. Asegurar los apoyos institucionales necesarios para la buena marcha de las sesiones del Pleno y para hacer frente a cualquier eventualidad que obstaculice su desarrollo;
 
-IV. Instruir a la persona titular de la Secretaría Técnica a que garantice las condiciones indispensables y necesarias para el desarrollo de las sesiones del Pleno, en el supuesto de que por fuerza mayor o caso fortuito, tengan que celebrarse fuera de las instalaciones del Instituto;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV. Instruir a la persona titular de la Secretaría Técnica a que garantice las condiciones indispensables y necesarias para el desarrollo de las sesiones del Pleno, en el supuesto de que, por fuerza mayor o caso fortuito tengan que celebrarse fuera de las instalaciones del Instituto o a través de la vía remota;
 
 V. Verificar, por conducto de la persona titular de la Secretaría Técnica, el quórum de asistencia de las Comisionadas y los Comisionados en la sesión del Pleno;
 
@@ -288,7 +306,9 @@ De las Comisionadas y Comisionados en el Pleno
 
 Corresponden a las Comisionadas y Comisionados, las siguientes funciones:
 
-I. Solicitar a la Comisionada Presidenta o el Comisionado Presidente, al menos con otros dos Comisionados y/o Comisionadas, la celebración de una sesión extraordinaria de conformidad con el artículo 64 de la Ley de Transparencia;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+I. Solicitar a la Comisionada Presidenta o el Comisionado Presidente, al menos con otros dos Comisionados y/o Comisionadas, la celebración de una sesión extraordinaria de conformidad con el artículo 64 de la Ley de Transparencia, así como proponerle la celebración de una sesión solemne, en los casos que establezca el presente Reglamento;
 
 II. Participar en las sesiones con voz y voto;
 
@@ -390,7 +410,9 @@ Tipos de sesiones, lugar y día para su celebración
 
 Las sesiones del Pleno pueden ser ordinarias o extraordinarias, las cuales podrán tener el carácter de permanentes, previa aprobación del Pleno.
 
-Las sesiones se llevarán a cabo en la sede del Instituto salvo que, por causas justificadas, el Pleno acuerde que se lleve a cabo en un lugar distinto y en la convocatoria se señale el mismo.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las sesiones se llevarán a cabo en la sede del Instituto o a través de la vía remota salvo que, por causas justificadas, el Pleno acuerde que se lleve a cabo en un lugar distinto y en la convocatoria se señale el mismo.
 
 Las sesiones ordinarias del Pleno se celebrarán semanalmente, de acuerdo con el calendario que éste apruebe, y serán convocadas por la Comisionada Presidenta o el Comisionado Presidente con auxilio de la Secretaría Técnica.
 
@@ -402,17 +424,27 @@ Las convocatorias a las sesiones extraordinarias deben ser enviadas, al menos co
 
 De estimarse conveniente, la Comisionada Presidenta o el Comisionado Presidente por sí o a propuesta de cualquier Comisionado o Comisionada, podrá someter a consideración del Pleno declararse en sesión permanente, para la cual no habrá un límite establecido. En estos casos, se podrán decretar los recesos que fueren necesarios.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El pleno podrá celebrar sesiones solemnes para la elección de la Comisionada o Comisionado Presidente, en términos del artículo 44 de la Ley de Transparencia; para la despedida y toma de posesión de las personas Comisionadas ciudadanas que concluyan o inicien dicho encargo; para conmemorar sucesos históricos o efemérides; para otorgar reconocimientos y premiaciones; para recibir a personas invitadas distinguidas, académicas, servidoras públicas e investigadoras; tributar homenaje a personas ilustres y, para los casos que el Pleno considere que deben tener tal carácter.
+
 ### CAPÍTULO IV. DE LAS CONVOCATORIAS Y EL ORDEN DEL DÍA DE LAS SESIONES
 
 ###### Artículo 10.
 
 Convocatorias
 
-La convocatoria a la sesión de que se trate deberá consignar la fecha, la hora y el lugar en que la misma se celebrará, y la mención de si es ordinaria o extraordinaria.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+La convocatoria a la sesión de que se trate deberá consignar la fecha, la hora y el lugar en que la misma se celebrará o si se llevará vía remota y la mención de si es ordinaria, extraordinaria o solemne.
 
 Las convocatorias a las sesiones ordinarias deberán ser notificadas por escrito a las personas integrantes del Pleno al menos con tres días hábiles de anticipación a la fecha de celebración de la sesión a la que se convoque. Los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión deberán ser remitidos el mismo día en que se notifique la convocatoria y, de manera excepcional, al día hábil siguiente.
 
 Las convocatorias a las sesiones extraordinarias deberán ser notificadas al menos con veinticuatro horas de anticipación a su celebración, junto con los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las convocatorias a las sesiones solemnes deberán ser notificadas a las personas integrantes del Pleno al menos con tres días hábiles de anticipación, no obstante, cuando el caso y la urgencia así lo amerite se podrá convocar con al menos veinticuatro horas de anticipación a su celebración, junto con la propuesta donde se justifica el caso.
 
 ###### Artículo 11.
 
@@ -473,6 +505,14 @@ El retiro permanente de cualquier Comisionado o Comisionada de la sesión del Pl
 Para efectos del voto razonado previsto en el artículo 65, fracción VIII, de la Ley de Transparencia, las manifestaciones que por escrito se realicen, deberán ser presentadas a la Secretaría Técnica con al menos veinticuatro horas de anticipación a la sesión respectiva, mismas que constarán en el acta como anexo, y, en ningún caso afectarán la votación respectiva.
 
 De manera excepcional, en caso de que la persona integrante del pleno tuviera que ausentarse por causa justificada y hubiere asuntos de urgente resolución a cargo de su ponencia, éstos deberán ser returnados por estricto y orden alfabético a la Comisionada o el Comisionado que corresponda, mismo que se convertirá en Ponente de dichos asuntos.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Cuando alguno de los Comisionados y Comisionadas no pueda asistir a alguna sesión solemne notificará a la Secretaría Técnica sin la obligación de justificar la causa de la ausencia.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Asimismo, para el caso de las sesiones solemnes, no aplicará lo previsto en el artículo 65 fracción VIII de la Ley de Transparencia.
 
 ###### Artículo 17.
 
@@ -626,15 +666,33 @@ En el curso de las deliberaciones, las Comisionadas y los Comisionados se absten
 
 Las oradoras u oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas para tal efecto en el presente Reglamento de Sesiones o para conminarle a que se conduzca dentro de los supuestos previstos por este ordenamiento reglamentario.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 31.
 
-Intervención de las personas invitadas a la Sesión del Pleno
+De las sesiones solemnes y de la intervención de las personas invitadas a las sesiones del Pleno
 
-Las personas integrantes del Pleno podrán durante la sesión, solicitar a la Comisionada Presidenta o el Comisionado Presidente otorgue la palabra a una persona invitada, que consideren pueda coadyuvar en el desahogo de algún punto del orden del día de la sesión.
+Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta, debiendo celebrarse en la fecha y hora señalada en la misma y, de manera enunciativa mas no limitativa, podrán realizarse bajo el siguiente formato:
 
-La Comisionada Presidenta o el Comisionado Presidente podrá otorgar la palabra a una persona invitada, a solicitud de alguna Comisionada o algún Comisionado; y en el transcurso de la discusión, será posible que cualquiera de las personas integrantes del Pleno le requiera, informe o aclare alguna cuestión relacionada con los asuntos en discusión.
+I. Lista de asistencia;
 
-A propuesta de alguna Comisionada o algún Comisionado y con la aprobación previa del Pleno, se podrá invitar a cualquier persona servidora pública del Instituto, para tratar algún asunto comprendido en el orden del día, sin que éste haya sido previamente resuelto.
+II. Lectura del orden del día;
+
+III. Bienvenida a las personas servidoras públicas, personas invitadas distinguidas y/o galardonadas;
+
+IV. En los casos de premiación o reconocimiento, se expondrán los motivos del otorgamiento por la o el Comisionado Presidente o por la o el Comisionado ciudadano que este designe;
+
+V. Uso de la voz de las Comisionadas y Comisionados, cuando así lo estimen.
+
+VI. Podrán hacer uso de la voz las personas galardonadas, invitadas, distinguidas, académicas, servidoras públicas o investigadoras, cuando el Pleno así lo estime;
+
+VII. Cierre de Sesión.
+
+Las personas integrantes del Pleno podrán durante cualquier sesión, solicitar a la Comisionada Presidenta o el Comisionado Presidente otorgue la palabra a una persona invitada, que consideren pueda coadyuvar en el desahogo de algún punto del orden del día de la sesión.
+
+La Comisionada Presidenta o el Comisionado Presidente podrá otorgar la palabra a una persona invitada, a solicitud de alguna Comisionada o algún Comisionado y, en el transcurso de la discusión será posible que cualquiera de las personas integrantes del Pleno le requiera, informe o aclare alguna cuestión relacionada con los asuntos en discusión.
+
+A propuesta de alguna Comisionada o algún Comisionado y con la aprobación previa del Pleno, se podrá invitar a cualquier persona servidora pública del Instituto, para tratar algún asunto comprendido en el orden del día, sin que este haya sido previamente resuelto.
 
 ###### Artículo 32.
 
@@ -654,11 +712,13 @@ Grabación de la sesión
 
 La Secretaría Técnica deberá llevar a cabo las acciones necesarias para que, de cada sesión pública de Pleno, se realice una grabación en video y audio. Lo anterior, no obstará para que durante la sesión respectiva se transmita en tiempo real su desarrollo en el sitio de Internet del Instituto y/o por las redes sociales oficiales del mismo.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
 De la Publicidad de las sesiones
 
-Las sesiones ordinarias y extraordinarias del Pleno serán públicas y las versiones estenográficas y registros electrónicos correspondientes serán publicados en el sitio de internet del Instituto. Los acuerdos y resoluciones serán publicadas de conformidad con la normativa al efecto aplicable.
+Las sesiones ordinarias, extraordinarias y solemnes del Pleno serán públicas y las versiones estenográficas y registros electrónicos correspondientes serán publicados en el sitio de internet del Instituto. Los acuerdos y resoluciones serán publicadas de conformidad con la normativa aplicable.
 
 Las versiones estenográficas de todas las resoluciones que tome el Pleno son públicas, salvo que en el caso particular exista disposición contraria en la ley.
 
@@ -859,3 +919,25 @@ Primero. El presente Reglamento de Sesiones entrará en vigor al día de su apro
 Segundo. Se abroga el Reglamento de Sesiones del Pleno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, aprobado en Sesión Extraordinaria celebrada el quince de noviembre de dos mil once y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
 
 Tercero. Para su mayor difusión publíquese en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet de este Instituto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día de su aprobación por el Pleno del Instituto.
+
+SEGUNDO. Publíquese para mayor difusión en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet de este Instituto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 21 DE DICIEMBRE DE 2020.]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
+
+Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica: http://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-05-11-2083.pdf.
+
+Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
+
+## TRANSITORIO
+
+ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
