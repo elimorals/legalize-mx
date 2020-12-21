@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2020-12-14"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -969,9 +969,11 @@ Las modalidades que se consignen en este Capítulo tienen como propósito fundam
 
 I.- Durante el período del embarazo, no realizarán trabajos que impliquen un esfuerzo que ponga en peligro su salud o la de su hijo;
 
-II.- Gozarán forzosamente de doce semanas de descanso, debiendo percibir su salario íntegro, conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Las doce semanas a que se refiere esta fracción podrán ser aplicadas optativamente por la trabajadora seis semanas antes de la fecha fijada para el parto y seis semanas después del mismo, o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan y siempre y cuando el médico autorizado por la dependencia lo certifique o nazca su hijo, en el segundo supuesto, las doce semanas empezarán a contar a partir del día laboral siguiente al nacimiento del hijo o de la fecha en que el médico indique que la trabajadora deberá descansar durante el período de las seis semanas previas al parto;
+II.- Gozarán forzosamente de catorce semanas de descanso, debiendo percibir su salario íntegro, conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo.
+
+Las catorce semanas a que se refiere esta fracción podrán ser aplicadas optativamente por la trabajadora siete semanas antes de la fecha fijada para el parto y siete semanas después del mismo, o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan y siempre y cuando el médico autorizado por la dependencia lo certifique o nazca su hijo, en el segundo supuesto, las catorce semanas empezarán a contar a partir del día laboral siguiente al nacimiento del hijo o de la fecha en que el médico indique que la trabajadora deberá descansar durante el período de las siete semanas previas al parto;
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, en estos casos tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
 
@@ -983,7 +985,9 @@ V.- A regresar al puesto que desempeñaban, siempre y cuando no haya transcurrid
 
 VI.- A que se computen en su antigüedad los períodos de descanso para efectos del nacimiento.
 
-Las trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de doce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la trabajadora por la autoridad competente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de catorce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la trabajadora por la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -2260,3 +2264,11 @@ P.O. 14 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 438.- SE REFORMA EL ARTÍCULO 58 BIS DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
