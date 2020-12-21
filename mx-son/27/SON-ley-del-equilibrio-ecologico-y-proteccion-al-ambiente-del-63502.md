@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2020-11-17"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -3133,9 +3133,19 @@ Los inspectores estatales o municipales también tendrán facultades para determ
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y demás disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por la Procuraduría, en asuntos de competencia del Estado y sin perjuicio de las atribuciones que la presente Ley otorga expresamente a la Comisión, y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
 
-I.- Amonestación con apercibimiento;
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II.- Multa por el equivalente de veinte a veinte mil unidades de medida y actualización establecidas para un día, de acuerdo a la Unidad de Medida y Actualización (UMA), del año en que se impone;
+I.- Amonestación con apercibimiento en los siguientes casos:
+
+a) Al servidor público que consienta la realización de una obra de las enumeradas en el artículo 26 de la presente Ley, sin contar con la autorización de impacto ambiental, a pesar de que el área de inspección y vigilancia se lo haya notificado.
+
+En caso de reincidencia, el servidor público será destituido de su cargo.
+
+b) En los demás casos que así lo determine la presente Ley.
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+II.- Multa por el equivalente de cien a veinticinco mil unidades de medida y actualización establecidas para un día, de acuerdo a la Unidad de Medida y Actualización (UMA), del año en que se impone;
 
 III.- Clausura temporal o definitiva, parcial o total:
 
@@ -3172,6 +3182,14 @@ Cuando la gravedad de la infracción lo amerite, la Procuraduría o los ayuntami
 > <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 Aquellos establecimientos de consumo de alimentos y bebidas, tanto fijos como ambulantes, que promuevan el uso de popotes de plástico, serán sancionados con lo dispuesto en la fracción II de este artículo.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Se clausurará temporalmente cualquiera de las obras enumeradas en el artículo 26 de la presente Ley, cuando la persona física o moral las haya iniciado sin contar previamente con el estudio de impacto ambiental expedido por la autoridad competente, así mismo se le impondrá una multa equivalente de quinientas a mil quinientas unidades de medida y actualización establecidas para un día, de acuerdo a la Unidad de Medida y Actualización (UMA), del año en que se impone.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Entre tanto no se pague la sanción señalada en el párrafo que antecede, no se podrá levantar la clausura de la obra y tampoco se podrá otorgar el estudio de impacto ambiental.
 
 ###### ARTÍCULO 197.
 
@@ -3596,3 +3614,11 @@ B.O. 17 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
