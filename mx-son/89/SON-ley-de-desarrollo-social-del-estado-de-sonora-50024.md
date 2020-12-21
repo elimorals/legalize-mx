@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-social-del-estado-de-sonora-50024"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-30"
-last_updated: "2017-04-12"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2006.
 
@@ -579,6 +579,10 @@ La instrumentación y ejecución de programas, proyectos, acciones e inversiones
 
 Las dependencias del gobierno estatal y los municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social y sus reglas de operación, a través de medios de comunicación masivos accesibles a la población, en un plazo no mayor a treinta días a partir de la aprobación de sus presupuestos de egresos anuales. Tal publicación deberá realizarse también, en el caso de los municipios, en la lengua de la etnia residente en su jurisdicción territorial cuando sea el caso.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las reglas de operación mencionadas en el párrafo anterior, deben ser sensibles a las condiciones de los grupos vulnerables de la sociedad, por lo que deben de priorizar y garantizar el fácil acceso de los mismos a los programas correspondientes, atendiendo a la condición vulnerable del beneficiario.
+
 ### CAPÍTULO II. DEL FINANClAMIENTO Y EL GASTO
 
 ###### ARTÍCULO 39.
@@ -824,3 +828,15 @@ La integración a que se refiere el artículo 12 BIS 2 deberá formalizarse dent
 ###### ARTÍCULO TERCERO.
 
 El Reglamento de la Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias deberá publicarse en el Boletín Oficial del Gobierno del Estado dentro de los 60 días naturales a partir de la entrada en vigor de este Decreto.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156, QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 38 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias del gobierno estatal y los municipios dentro del plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, deberán de modificar las reglas de operación de sus programas operativos de desarrollo social de conformidad a lo previsto en el párrafo segundo del artículo 38 de este Decreto.
