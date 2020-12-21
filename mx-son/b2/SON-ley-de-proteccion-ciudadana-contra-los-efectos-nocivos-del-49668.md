@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-ciudadana-contra-los-efectos-nocivos-del-4966
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-06"
-last_updated: "2017-08-03"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE PROTECCION CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
-LEY DE PROTECCION CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
+LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección III al Número 19 del Boletín Oficial del Estado de Sonora, el lunes 6 de marzo de 2006.
 
@@ -73,9 +73,17 @@ Los locales cerrados en que se vendan alimentos para su consumo inmediato, los h
 
 Los encargados de los mencionados establecimientos deberán impedir la presencia de menores de edad, solos o acompañados, en las áreas reservadas para fumadores.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 6.
 
-Las áreas a que se refiere el artículo anterior deberán estar señalizadas de modo claro a la vista del público y contar con un sistema eficiente para la extracción de humos.
+Las áreas a que se refiere el artículo anterior deberán estar señalizadas de modo claro a la vista del público, contar con un sistema eficiente para la extracción de humos y contar con contenedores para depositar las colillas de cigarro.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+Las dependencias y entidades de los tres Poderes del Estado, de los Órganos Autónomos y de los Ayuntamientos del Estado de Sonora, deberán colocar en el exterior de sus instalaciones y en los lugares destinados para fumar, contenedores especiales para depósito de colillas de cigarro.
 
 ### CAPITULO III. DE LOS ESTABLECIMIENTOS EN QUE SE PROHIBE FUMAR
 
@@ -97,9 +105,11 @@ V.- Instituciones educativas, públicas y privadas, de educación inicial, jardi
 
 Los establecimientos y vehículos a que se refiere el artículo anterior deberán contar con señalización fácilmente visible que indique la prohibición de fumar.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Quedan excluidos de la prohibición establecida en el artículo 7 los establecimientos de acceso exclusivo a mayores de edad, siempre y cuando cuenten con ventilación apropiada y un sistema eficiente de extracción de humos. La autoridad promoverá, en los referidos establecimientos, la delimitación de áreas para no fumadores y la instalación y operación de establecimientos exclusivos para mayores de edad donde se prohíba fumar.
+Quedan excluidos de la prohibición establecida en el artículo 7 de esta Ley los establecimientos de acceso exclusivo a mayores de edad, siempre y cuando cuenten con ventilación apropiada, un sistema eficiente de extracción de humos y contar con contenedores para depositar las colillas de cigarro. La autoridad promoverá, en los referidos establecimientos, la delimitación de áreas para no fumadores y la instalación y operación de establecimientos exclusivos para mayores de edad donde se prohíba fumar.
 
 ### CAPITULO IV. DE LAS ACTIVIDADES DE PROMOCION
 
@@ -171,9 +181,17 @@ V.- No realizar las adecuaciones necesarias para definir y separar áreas reserv
 
 VI.- No señalizar las áreas reservadas para fumadores en los establecimientos a que se refiere esta ley;
 
-VII.- Impedir u obstaculizar la realización de los actos que tengan por objeto verificar el cumplimiento de las disposiciones de esta ley; y
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Permitir, los encargados de los establecimientos, la presencia de menores de edad en las áreas reservadas para fumadores.
+VII.- Impedir u obstaculizar la realización de los actos que tengan por objeto verificar el cumplimiento de las disposiciones de esta Ley;
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Permitir, los encargados de los establecimientos, la presencia de menores de edad en las áreas reservadas para fumadores; y
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX.- Arrojar o tirar colillas de cigarro en la vía pública, áreas comunes, parques o sitios no autorizados para tales efectos.
 
 ###### Artículo 17.
 
@@ -209,11 +227,11 @@ IV.- La reincidencia, si es el caso.
 
 Las violaciones a esta ley serán sancionadas administrativamente por la Secretaría de Salud Pública o las dependencias municipales, según sea el caso, en los términos de la distribución de funciones que se definan en los convenios previstos por el artículo 11 de esta ley.
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 20.
 
-Se sancionará con apercibimiento la primera vez y con multa equivalente de uno a cinco Unidades de Medida y Actualización la siguiente ocasión, a quienes realicen la acción prohibida por la fracción III del artículo 16.
+Se sancionará con apercibimiento la primera vez, con multa equivalente de uno a cinco Unidades de Medida y Actualización, y lo dispuesto en la fracción IV del artículo 17 de esta Ley, la siguiente ocasión, a quienes realicen las acciones prohibidas por las fracciones III y IX del artículo 16 de esta Ley.
 
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -352,3 +370,19 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 161, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la publicación del presente Decreto, el Ejecutivo del Estado y los Ayuntamientos realizarán la actualización y armonización necesaria de los reglamentos aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 60 días siguientes a la publicación de la normatividad indicada en el Transitorio Segundo, por medio del Ejecutivo Estatal, se colocarán contenedores en los espacios públicos de acuerdo con la suficiencia presupuestal que para tal efecto se tenga.
