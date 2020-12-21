@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-12-07"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,29 @@ state: "AGU"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE INGRESOS DEL MUNICIPIO DE CRUILLAS, TAMAULIPAS, PARA EL EJERCICIO FISCAL 2025.
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
-Ley publicada en el Número 45 Extraordinario del Periódico Oficial del Estado de Tamaulipas, el sábado 28 de diciembre de 2024.
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE DICIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 428 PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2020.]</small>
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMAS DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO “VER IMAGEN PDF”; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
-POR LOS SERVICIOS DE PLANIFICACIÓN, URBANIZACIÓN Y PAVIMENTACIÓN
+LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+
+La LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+
+Decreto Número 366
 
 ###### ARTÍCULO ÚNICO.
 
-Se crea la Ley de Protección a los Animales para el Estado de Nuevo León, para quedar en los siguientes términos:
+Se aprueba la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, para quedar bajo los siguientes términos:
 
-LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE NUEVO LEÓN
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1°.
 
@@ -89,17 +93,27 @@ VI. Asegurar la concurrencia, alineación y optimización de recursos e instrume
 
 VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres; y
+VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia.
+IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+
+X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+
+XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 3°.
 
-La violencia de género contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
+La violencia contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
 
 I. La violencia doméstica;
 
@@ -141,13 +155,17 @@ XVII. La imagen estereotipada de la mujer que presentan los medios de comunicaci
 
 XVIII. La invisibilización de la participación de las mujeres en la construcción de nuestra sociedad;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Difundir o publicar sin consentimiento mediante cualquier medio tecnológico, imágenes o grabaciones con contenido erótico o sexual obtenidas con o sin autorización de quien sufre la afectación; y
+XIX. La difusión o publicación a través de cualquier medio tecnológico, de imágenes o grabaciones con contenido erótico o sexual, o que sin tener expresamente este contenido, se use o manipule con estos fines, sin autorización de quien sufre la afectación;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XX. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXI. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 ###### Artículo 4°.
 
@@ -189,15 +207,15 @@ Todas las medidas que se deriven de la presente Ley, garantizarán la prevenció
 
 El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentradas y paraestatales, y en general todas las entidades públicas, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
-### CAPITULO II. DE LA PROTECCIÓN A LOS ANIMALES
+### CAPÍTULO II. De los Tipos de Violencia de Género Contra las Mujeres y de los Ámbitos en que se Presenta
 
 ###### Artículo 8°.
 
 Los tipos de violencia de género contra las mujeres son:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-I. La violencia psicológica: Es cualquier acción u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluaciones, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación o anulación de su autoestima e incluso al suicidio, así mismo la conducta descrita por la Fracción XIX del Artículo 3º de la presente Ley;
+I. La violencia psicológica: Es cualquier acción u omisión contra su estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celos, insultos, humillaciones, devaluaciones, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricciones o amenazas, así como las acciones descritas en la fracción XIX del artículo 3° de la presente Ley;
 
 II. La violencia física: Es todo acto que inflige daño no accidental, usando la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones, ya sean internas, externas o ambas;
 
@@ -239,13 +257,17 @@ i) Retener a la mujer o al producto de la concepción en los centros de salud o 
 
 VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-VIII. Violencia Política de Genero: Como cualquier acción u omisión, que basada en el género de una persona; tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos; o bien afectar la equidad en los procesos electorales locales; y
+VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo, en los términos precisados en el Código Electoral para el Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-IX. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+X. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -269,381 +291,373 @@ V. En espacios públicos.
 
 ###### Artículo 10.
 
-Toda persona que sea propietaria, esté encargada o posea un animal debe procurarle alimentación y cuidados apropiados, así como los tratamientos veterinarios preventivos y correctivos y atender las enfermedades propias de la especie, y tiene las siguientes obligaciones:
-
-I. Proporcionarle un recipiente para comida y otro para agua y en su caso la cantidad de alimento necesario según la especie y raza; el agua deberá de proporcionarse según su especie, raza y los hábitos del animal, debiendo ser la necesaria para ingestión o para satisfacer las necesidades instintivas, metabólicas y fisiológicas de su cuerpo;
-
-II. Proporcionarle una morada o casa adecuada en dimensiones, de acuerdo a la especie, raza y tamaño del animal que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione daño, sufrimiento o tensión;
-
-III. Proporcionarle un área de estancia adecuada en dimensiones, de acuerdo al tamaño, especie y raza del animal, que le permita tener movimiento libre para ejercitar adecuadamente todas las partes de su cuerpo, en todas direcciones de acuerdo a su instinto y a su hábitat, en donde no se ponga en riesgo la integridad física y se altere su desarrollo natural; queda prohibido tener permanentemente animales en jaulas pequeñas de exhibición y de viaje que no les permitan moverse libremente;
-
-IV. Proporcionar al animal los tratamientos veterinarios para que desarrolle una condición saludable y no represente un reservorio de parásitos que contamine otros animales o que cause una zoonosis; la tenencia de cualquier animal obliga a la inmunización correspondiente contra toda enfermedad transmisible, y debe avisarse de forma inmediata la existencia de alguna enfermedad o comportamiento anormal del animal, al veterinario o autoridades sanitarias más cercanas;
-
-V. Proporcionar la higiene necesaria en cuerpo y área de estancia, debiendo recoger las descargas como excremento, pelo o plumas y depositarlos en los recipientes de basura del servicio de recolección; las aguas residuales que se generen en el área de estancia deberán de conducirse a la red de drenaje sanitario; se prohíbe arrojar las descargas y las aguas residuales de limpieza a la vía pública o lotes baldíos; y los gatos domésticos deberán contar con areneros en su área de estancia; y
-
-VI. Proporcionar al animal la compañía y el paseo necesario para ejercitarse, según su especie o raza, así como tomar las medidas de seguridad necesarias para no poner en riesgo a las personas.
+La violencia de género contra las mujeres en el ámbito doméstico, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
 
 ###### Artículo 11.
 
-Queda sujeto a sanción cualquier acto de maltrato hacia un animal, ya sea intencional o culposamente.
+La violencia de género contra las mujeres en el ámbito laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica. Consiste en un acto o una omisión de abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra el principio de igualdad.
 
-Para los efectos de la aplicación de esta Ley, se entenderán por actos de maltrato a los animales los siguientes:
+Puede consistir en un solo evento dañino o en una serie de eventos, cuya suma produce el daño.
 
-I. Los actos u omisiones carentes de un motivo razonable o legítimo y que sean susceptibles de causar a un animal dolores o sufrimientos considerables o que afecten gravemente su salud;
-
-II. El torturar o golpear a un animal por maldad, brutalidad, o grave negligencia;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-III. El descuidar la morada y las condiciones de movilidad, higiene y albergue de un animal a un punto tal que esto pueda causarle angustia, hambre, sed, o bien que atente contra la salud y bienestar, y el tener sujeto o amarrado a un animal de forma temporal, o permanente;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Los actos contra natura efectuados por un ser humano a un animal, así como la muerte producida utilizando un medio que prolongue la agonía del animal, causándole sufrimientos innecesarios;
-
-V. Cualquier mutilación orgánicamente grave, que no se efectúe por necesidad y bajo el cuidado de un Médico Veterinario o persona con conocimientos técnicos en la materia;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VI. Toda privación de aire, luz, alimento, bebida o espacio suficiente que cause o pueda causar daño a la vida normal de un animal; o mantener animales en áreas donde no puedan moverse en todas direcciones o en pasillos o lugares obstruidos;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VII. El abandono deliberado en la vía pública y en lugares de alto riesgo y peligro para su supervivencia;
-
-VIII. La destrucción intencional de huevos de aves con fin distinto al consumo;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-IX. El suministrar a los animales de forma intencional o negligente, sustancias u objetos que causen o puedan causar daños al animal; y
-
-X. Las demás que determine la presente Ley o su Reglamento.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### Artículo 12.
 
-Toda persona que se dedique a la exhibición, cría o comercialización de animales, está obligada a valerse de los medios y procedimientos más adecuados, a fin de que los animales en su desarrollo reciban buen trato de acuerdo a los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie.
+Constituye violencia de género contra las mujeres en el ámbito laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en las leyes y todo tipo de discriminación por razón de género.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 13.
 
-Los vehículos de tracción animal no podrán ser cargados con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones de los animales que se empleen.
+Constituye violencia de género contra las mujeres en el ámbito académico, aquellas conductas que se lleven a cabo dentro de las instituciones educacionales y que dañen la autoestima de las alumnas o docentes con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, las cuales son infligidas por personal académico, administrativo o el alumnado dentro de un plantel educacional.
 
 ###### Artículo 14.
 
-Esta Ley sancionará la utilización para el transporte de carga o tiro, sin causa justificada, de hembras en el período próximo al parto, entendiéndose por éste, el último tercio de la gestación.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+La violencia de género contra las mujeres en el ámbito social, comprende los actos individuales o colectivos que transgreden sus derechos fundamentales y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
 ###### Artículo 15.
 
-Los animales en condiciones fisiológicas no aptas, como desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones que les produzcan sufrimiento, no podrán ser utilizados para tiro, carga o monta.
+La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado o de los Municipios que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+En los Poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes estatal y municipal, a través de los cuales se lleve a cabo el ejercicio del servicio público, todos los servidores públicos tienen la obligación de salvaguardar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política de género.
 
 ###### Artículo 16.
 
-Los animales que se empleen para tirar de carretas, arados o cualquier otro objeto, deberán ser uncidos, sin maltrato y evitando que se lesionen.
+El Estado debe garantizar a las mujeres la erradicación de la violencia social e institución a través de:
 
-### CAPITULO III. DEL MALTRATO A LOS ANIMALES
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
+
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, así como el Código Penal para el Estado de Aguascalientes y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
+
+### CAPÍTULO III. De la Prevención, Atención y Sanción
 
 ###### Artículo 17.
 
-Las disposiciones contenidas en este capítulo se aplicarán en lo conducente a los animales de silla.
+La prevención que en el Estado se realice tendrá como objetivo lograr que la sociedad visualice todo tipo de violencia de género contra las mujeres como un evento antisocial, un problema de derechos humanos, de salud pública y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones educativas en los ámbitos sociocultural, familiar e individual.
 
 ###### Artículo 18.
 
-Para la realización de algún experimento con animales, se requiere la autorización correspondiente, la cual será expedida por las autoridades sanitarias del Estado.
-
-Para obtener tales autorizaciones se deberá demostrar:
-
-a) Que la naturaleza del experimento es en beneficio de la investigación científica o docente;
-
-b) Que los resultados experimentales deseados no pueden obtenerse por otros procedimientos o alternativas;
-
-c) En su caso, que las experiencias que se desean obtener son necesarias para la prevención, control, diagnóstico o tratamiento de enfermedades que afecten al hombre o a los animales;
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-d) Que los experimentos sobre animales vivos no puedan ser substituidos por esquemas, dibujos, películas, fotografías, videocintas, programas informáticos, o cualquier otro procedimiento análogo; y
-
-e) Que la persona que realice el experimento cuenta con la acreditación y competencia necesaria para ello. Las operaciones quirúrgicas experimentales de animales vivos en escuelas del sistema educativo estatal o nacional deberán ser supervisadas por un médico veterinario o por persona que cuente con los conocimientos técnicos necesarios.
+La atención que se proporcione a las mujeres víctimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
 
 ###### Artículo 19.
 
-Los animales sujetos a experimentos de vivisección deberán ser insensibilizados, curados y alimentados en forma debida antes y después de la intervención. Si las heridas son de consideración o implican mutilación grave, el animal será sacrificado al término de la operación.
+Los Núcleos de Atención Integral podrán proporcionarán (sic) los siguientes servicios:
+
+I. Asesoría jurídica;
+
+II. Gestión de protección para la víctima, testigos y denunciantes;
+
+III. Seguimiento de indagatorias y procesos:
+
+IV. Atención médica;
+
+V. Tratamiento psicológico especializado a las víctimas, directas e indirectas;
+
+VI. Intervención especializada de trabajadoras sociales;
+
+VII. Gestión de empleo y vivienda;
+
+VIII. Canalización de personas violentas para modificar conductas; y
+
+IX. Ludoteca.
 
 ###### Artículo 20.
 
-Las intervenciones quirúrgicas en animales y la práctica de técnicas reproductivas por extracción de semen a través de electroeyaculador, inseminación artificial, transferencia de embriones y sexado, así como división de los mismos se llevarán a cabo por personal profesional con título de medicina veterinaria, o por quien posea los conocimientos técnicos requeridos.
+Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres víctimas de violencia de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su caso, los señalados en el Artículo anterior.
 
 ###### Artículo 21.
 
-Salvo las excepciones que señale la legislación, queda prohibido el cometer actos susceptibles de ocasionar la muerte, mutilación o modificación negativa de los instintos naturales de los animales. Esta prohibición no comprende la muerte de animales destinados al consumo humano.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### Artículo 22.
 
-La cría, enajenación y exhibición de animales vivos será realizada en locales e instalaciones adecuadas, a cargo de un responsable, en las que sea posible brindar a los animales un correcto cuidado, manutención y protección, respetando las Normas Oficiales Mexicanas que correspondan y seguridad y además:
-
-I. Deberán de contar con Certificado de Salud de cada uno de los animales;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-II. La cría, enajenación y exhibición de animales deberá desarrollarse en instalaciones cuyo uso de suelo no sea de uso habitacional. El establecimiento o local donde se realicen dichas actividades, deberá contar con la autorización de uso de suelo o uso de la edificación, según corresponda, así como con los demás permisos y autorizaciones que resulten aplicables;
-
-III. Deberá de contar con un registro de la procedencia de cada uno de los animales de exhibición, cría o venta;
-
-IV. Deberá de entregar una guía informativa para el comprador, de cada uno de los animales que salgan del recinto de cría, enajenación o exhibición; y
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-V. La Secretaria, en el ámbito de su competencia, establecerá un registro de personas físicas y morales que se dediquen a la cría, enajenación y exhibición de animales domésticos, de conformidad al procedimiento de inscripción que la misma establezca mediante acuerdo administrativo, la inscripción a dicho Registro es de carácter obligatorio, y se renovará cada dos años.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+Los Núcleos de Atención Integral y los Refugios contarán con una persona responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. El personal deberá contar con el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia de género contra las mujeres.
 
 ###### Artículo 23.
 
-Para la cría, enajenación y exhibición de animales en locales comerciales o de cualquier índole, se requiere el permiso de la autoridad competente en materia de salud en el ámbito estatal, así como estar debidamente inscrito en el registro al que se refiere el artículo anterior, sin perjuicio de lo que establezcan los reglamentos municipales.
-
-Queda prohibida la venta de animales en la vía pública. Los animales en exhibición y a la venta en tiendas de mascotas y similares, no deberán de permanecer de manera continua, por periodos de más de 20-veinte días en jaulas.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+La atención a personas que ejercen violencia de género contra las mujeres se proporcionará a través de Centros Reeducativos, será gratuita y especializada, y tenderá a transformar la práctica de la violencia en las relaciones de género.
 
 ###### Artículo 24.
 
-Para la venta de un animal vivo se requiere que se entregue una guía informativa al comprador, y que ésta se realice a personas mayores de dieciocho años, a menos que estén acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor por el menor, de la adecuada subsistencia y trato para el animal.
+La atención que reciba la victima de violencia de género y la persona que la ejerce no será proporcionada por la misma persona ni en el mismo lugar. No se obligará a las personas involucradas a que se les proporcione terapia de pareja y en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
 ###### Artículo 25.
 
-El traslado de los animales deberá hacerse bajo las siguientes condiciones:
+Los casos de violencia de género contra las mujeres y las causas que tengan relación o que se originen de ella, no serán sometidos a procedimientos de mediación y conciliación, ni a ningún otro mecanismo alternativo de solución de conflictos.
 
-I. El transporte por acarreo o en cualquier tipo de vehículo deberá hacerse en todo momento con los procedimientos más adecuados que no entrañen maltrato, fatiga extrema, inseguridad, condiciones no higiénicas o carencia de descanso, bebida o alimento a los animales;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
 
-II. Queda prohibido trasladar animales arrastrándolos suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles y tratándose de aves, con las alas cruzadas;
+### CAPÍTULO III BIS. De la Violencia Feminicida y de la Alerta de Violencia de Género Contra las Mujeres
 
-III. Para el transporte de cuadrúpedos, se procurará el empleo de vehículos apropiados para su protección. Tratándose de animales más pequeños, las cajas o huacales deberán tener ventilación y amplitud apropiada y su construcción deberá ser lo suficientemente sólida, como para resistir, sin deformarse por el peso de otras cajas que se coloquen encima;
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
-IV. Las operaciones de carga y descarga deberán hacerse sin maltrato a los animales;
+Artículo 25 bis.- Por Violencia Feminicida se entiende la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar a la impunidad tanto social como del Estado y probablemente culminar en homicidio, así como en otras formas de muerte violenta de mujeres.
 
-V. En el caso de animales transportados que fueron detenidos en su camino o arribo al lugar destinado por complicaciones accidentales, fortuitas o administrativas, deberá proporcionárseles alojamiento amplio y ventilado, abrevaderos y alimentos hasta que sea solucionado el conflicto y pueda proseguir el traslado;
+En los casos de feminicidio cometidos en la entidad, se aplicarán las sanciones previstas en el Código Penal del Estado de Aguascalientes.
 
-VI. Los vagones de transporte deberán contar con ventilación adecuada, debiendo ser limpiados y desinfectados después de cada movilización; y
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
-VII. Las demás que establecen las normas aplicables.
+Artículo 25 ter.- Por Alerta de Violencia de Género se entiende el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la Violencia Feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y tendrá como objetivo fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, para lo cual el Estado deberá realizar las acciones previstas en el Artículo 23 de la Ley General.
 
-### CAPITULO IV. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
+La declaratoria de Alerta de Violencia de Género se emitirá de conformidad con lo previsto en los Artículos 24 y 25 de la Ley General.
 
-### CAPITULO V. DE LA REALIZACIÓN DE EXPERIMENTOS Y OPERACIONES QUIRÚRGICAS A LOS ANIMALES
+El Poder Ejecutivo del Estado recibirá, a través de la Secretaría General de Gobierno, la notificación de la declaratoria de Alerta de Violencia de Género contra las mujeres que dicte el Gobierno Federal, debiéndose informar al Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 quater.- El Agravio Comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado, incluso de procedimientos y trámites administrativos.
+
+En caso de existir Agravio Comparado, las autoridades competentes deberán realizar los ajustes normativos necesarios para subsanarlo.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el Artículo 26 de la Ley General.
+
+### CAPÍTULO IV. De las Órdenes de Protección
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 26.
 
-El sacrificio de los animales destinados al consumo, se realizará de acuerdo a las autorizaciones que expidan las autoridades sanitarias, la Agencia o el Municipio, según corresponda.
+Las órdenes de protección tienen como propósito prevenir, interrumpir o impedir la consumación de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una orden dictada por la autoridad judicial competente.
+
+Las órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos de delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
 
 ###### Artículo 27.
 
-Los derechos por los servicios de planificación, urbanización y pavimentación, se causarán y liquidarán conforme a lo siguiente:
+Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles y podrán ser:
 
-CONCEPTO TARIFA
+I. Orden de salida obligatoria o desocupación de la persona violenta del domicilio conyugal o en el que hayan estado conviviendo o tenga su residencia la víctima, independientemente de la acreditación de la propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
 
-I. a IX. […]
+II. Prestar apoyo a la víctima, y en su caso, facilitar los medios para trasladarla son sus familiares o conocidos dejándola en resguardo de los mismos para evitar el contacto con el agresor, hasta el momento en el que el juez determine su situación jurídica;
 
-X. (DEROGADA, P.O. 10 DE ABRIL DE 2025)
+III. Orden de reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad,
 
-XI. a XX. [...]
+IV. Orden al probable responsable de abstenerse de molestar o intimidar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+
+V. Orden al probable responsable de no aproximarse al domicilio, lugar de trabajo, de estudios, domicilio de ascendientes y descendientes o cualquier otro sitio que sea frecuentado por la víctima;
+
+VI. Orden de retención y guarda de armas de fuego propiedad de la persona violenta o de alguna institución privada de seguridad, independientemente de si las mismas se encuentran registradas conforme a la normatividad de la materia;
+
+Es aplicable lo anterior, a las armas punzo cortantes y cortocontundentes que en independencia de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+
+VII. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+VIII. Orden de uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
+
+IX. Orden de acceso al domicilio común, de autoridades policíacas o de personas que auxilien a la víctima, para tomar sus pertenencias personales y las de sus hijas e hijos;
+
+X. Orden de entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+
+XI. Orden de auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre ésta en el momento de solicitar el auxilio;
+
+XII. Suspensión temporal a la persona violenta del régimen de visitas y convivencia con sus descendientes, en caso de que la violencia se ejerciera en contra de éstos;
+
+XIII. Prohibición a la persona violenta de enajenar, hipotecar, disponer, ocultar o trasladar bienes propios de la víctima o bienes comunes;
+
+XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar sus obligaciones alimentarías; y
+
+XV. Obligación alimentaría provisional e inmediata.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+En todo caso, serán consideradas de emergencia las órdenes de protección que se tramiten con motivo de violencia sexual y cuando la víctima de cualquier tipo de violencia sea menor de dieciocho años, por lo que deberán expedirse por el Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+A quien omita aplicar o incumpla una orden de protección, se le impondrán las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes o en la Legislación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 28.
 
-El sacrificio de un animal no destinado al consumo humano solo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que se constituyan en amenaza para la salud; la economía; la seguridad de peatones, ciclistas y conductores en calles, carreteras, autopistas y caminos del Estado; o los que por exceso de su especie signifiquen un peligro grave para la sociedad. El sacrificio obligatorio, por razón de sanidad animal o salud pública, se efectuara de forma rápida e indolora, y siempre en locales aptos para esos fines. Salvo por motivos de fuerza mayor o peligro inminente ningún animal podrá ser sacrificado en la vía pública.
+El Ministerio Público, o, en su caso, los jueces de lo penal, civil, familiar y jueces mixtos, otorgarán las órdenes emergentes o preventivas, las cuales estarán debidamente fundadas y motivadas y tomarán en consideración:
+
+I. El riesgo o peligro existente;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+II. La seguridad de la víctima, o víctimas indirectas; y
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2010)</small>
+
+III. Demás elementos de convicción con que se cuente.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 29.
 
-Los propietarios, encargados o administradores de expendios de animales o rastros, deberán sacrificar inmediatamente a los animales que por cualquier causa se hubiesen enfermado o lesionado gravemente y esto les ocasione sufrimiento o agonía, o represente un peligro para la salud o seguridad de las personas.
+Corresponde al Ministerio Público y jueces mixtos, de lo penal, civil y familiar, emitir las órdenes de protección y la determinación de medidas similares en sus resoluciones o sentencias, lo anterior con motivo de los procesos que al respecto se ventilen; dichas órdenes serán cumplimentadas por la Policía Ministerial y la Policía Preventiva.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 30.
 
-Los animales abandonados o perdidos cuyo dueño se ignore, se reputarán como mostrencos para todos los efectos legales y deberán ser retenidos y custodiados por las autoridades en lugares adecuados, o bien, si así procede, entregados a las sociedades protectoras de animales.
+Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de las víctimas de los hijos o las hijas, de las personas que convivan con ellas o se encuentren sujetas a su guarda o custodia, de las o de los responsables de los Núcleos de Atención Integral, y de los Refugios, o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima o víctimas indirectas.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+En toda orden de protección que se expida deberán ponerse a disposición de la autoridad, las personas que ejercen Violencia de Género.
 
-En caso de abandono deliberado de un animal, por su propietario, poseedor o encargado, por negligencia o imprudencia y estando en riesgo su salud, la Secretaría, comprobando los hechos y con los testigos correspondientes, podrá girar una orden de aseguramiento precautorio del animal, bajo el procedimiento legal que corresponda. Los animales asegurados, deberán de ser retenidos en los Centros de los que dispongan las autoridades correspondientes. La persona que desee recuperar al animal, deberá pagar la sanción correspondiente, así como los gastos de traslado y manutención del animal, durante el periodo de aseguramiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-La captura de animales que se realice por motivos de salud o porque éstos deambulen sin dueño aparente y sin placa de identidad o de vacunación antirrábica se efectuará únicamente a través y bajo la supervisión de las autoridades sanitarias estatales o municipales, y por personas específicamente adiestradas y debidamente equipadas para tal efecto, quienes evitarán cualquier acto de maltrato hacia los animales.
+Artículo 30 bis.- La orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para celebrar audiencia de pruebas y alegatos; cuando la orden de protección sea otorgada por el Ministerio Público, éste remitirá el expediente al juez competente para que realice la notificación de referencia y dé el trámite previsto en el presente Artículo.
 
-Un animal capturado podrá ser reclamado por su dueño dentro de los cinco días siguientes, exhibiendo para su recuperación el documento que acredite su propiedad o posesión o haciendo uso de otros medios que la prueben. En caso de que el animal no sea reclamado en el tiempo establecido, las autoridades podrán sacrificarlo o entregarlo a las sociedades protectoras de animales.
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios los ordenamientos procesales de la materia en que se dicten las medidas.
 
-### CAPITULO VI. DE LA CRÍA, ENAJENACIÓN Y EXHIBICIÓN DE ANIMALES
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque la orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima, en la resolución se podrá:
 
-###### Articulo 31.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-La Secretaria podrá celebrar acuerdos con las sociedades protectoras de animales legalmente constituidas para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados, así como a los que sean asegurados por alguno de los supuestos establecidos en esta Ley.
+I. Prolongar las órdenes de protección de emergencia o preventivas hasta por sesenta días naturales; o
 
-La Secretaria deberá llevar un registro de las asociaciones legalmente constituidas dedicadas a la protección, la conservación y eliminación del maltrato de animales, y promoverá su participación en las acciones gubernamentales que implementen, relacionadas con la defensa y protección de los mismos.
+II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que determine el juez.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+
+El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer violentada.
+
+### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
+
+###### Artículo 31.
+
+El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la erradicación de la violencia de género contra las mujeres.
 
 ###### Artículo 32.
 
-Es responsable de las faltas previstas en esta Ley cualquier persona que participe en la ejecución de las mismas o induzca directa o indirectamente a cometerlas. Los padres o quienes ejerzan la patria potestad o tutela de los menores de edad o incapaces, serán responsables de las faltas que éstos cometan.
+Son materia de coordinación entre el Gobierno del Estado y los Municipios:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+I. La prevención de la violencia de género contra las mujeres y la atención especializada de sus víctimas;
+
+II. La capacitación del personal encargado de su prevención y atención;
+
+III. La reeducación de las personas que la ejercen;
+
+IV. El suministro, intercambio y sistematización de todo tipo de información en la materia;
+
+V. Acciones conjuntas para la protección de las mujeres, niñas y niños víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
+
+VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
 ###### Artículo 33.
 
-La Secretaría es la autoridad competente para imponer las sanciones previstas en esta Ley.
+Son instancias de coordinación en materia de erradicación de la violencia de género contra las mujeres:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+I. El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres; y
 
-De existir riesgo inminente para los animales o se pueda poner en peligro su vida, debido a actos de crueldad o maltrato hacia ellos, la Secretaría, en forma fundada y motivada, podrá ordenar alguna de las siguientes medidas de seguridad:
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-I. Aseguramiento precautorio de los animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-II. Clausura temporal de los establecimientos, instalaciones, servicios, o lugares donde se celebren espectáculos públicos con animales donde no se cumpla con las Leyes, Reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales, así como con los preceptos legales aplicables; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-III. Clausura definitiva, cuando exista reincidencia en los casos en los que haya motivado una clausura temporal o cuando se trate de hechos o actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por esta Ley.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
-
-Asimismo, la Secretaria podrá ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
-
-Cualquier persona podrá denunciar por escrito el incumplimiento de esta Ley y la autoridad encargada de aplicarla, estará obligada a rendir un informe sobre las denuncias formuladas en un término no mayor de quince días hábiles a partir de la fecha de su presentación. El incumplimiento de esta disposición será sancionado administrativamente en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+II. Los Consejos Municipales para la Erradicación de la Violencia de Género contra las Mujeres.
 
 ###### Artículo 34.
 
-Para efectos de esta Ley se consideran infracciones:
+Las políticas, lineamientos y acciones de coordinación, se llevarán a cabo mediante la suscripción de los convenios respectivos.
 
-I. Abandonar voluntariamente a un animal, el propietario, poseedor o encargado del mismo, cuando dicho animal cause un daño a terceros;
+El Gobierno del Estado integrará los instrumentos de información del Sistema Estatal, para cuyo efecto se establecerá la base de datos correspondiente. El Reglamento de la Ley determinará los indicadores que permitan el monitoreo de las tendencias socio-jurídicas del fenómeno y de la aplicación de la Ley.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-II. Realizar uno o varios actos de los señalados en el Artículo 11 fracción III y VI y no obtener autorización de la Agencia para poseer un animal peligroso o no colocar los avisos que alerten del riesgo sobre los mismos una vez obtenida la autorización;
-
-III. Realizar una o varias de las acciones señaladas en los artículos 7 y 8 de esta Ley;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-IV. No proporcionar, el propietario o encargado de los lugares de recreación, exhibición y cautiverio de animales, locales adecuados que permitan libertad de movimiento al animal, condiciones de seguridad e higiene, así como las condiciones de hábitat según su especie;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-V. Realizar uno o varios de los actos señalados en el artículo 11 fracciones I, II, IV y V de esta Ley;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VI. El abandono deliberado de un animal en la vía pública y en lugares de alto riesgo y peligro para su supervivencia;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-VII. Realizar uno o varios de los actos señalados en el artículo 11 fracciones VII, VIII y IX;
-
-VIII. Cargar vehículos de tracción animal con un peso excesivo o desproporcionado, teniendo en cuenta las condiciones del animal que se emplee; utilizar para el transporte de carga, tiro o monta a animales en condiciones fisiológicas no aptas, o a hembras en periodo próximo al parto sin causa justificada; o no uncir o uncir con maltrato a un animal que se emplee para tiro;
-
-IX. Realizar algún experimento con uno o varios animales sin obtener la autorización a que se refiere el artículo 18 primer párrafo de esta Ley;
-
-X. No insensibilizar previamente al animal que sea usado para experimentación de vivisección, no curarlo y alimentarlo en forma debida antes y después de la intervención o no sacrificar al animal al término de la operación si las heridas son de consideración o implican mutilación grave;
-
-XI. Realizar una persona que no cuente con título de medicina veterinaria o que no posea los conocimientos técnicos requeridos, intervenciones quirúrgicas en un animal o la realización de técnicas reproductivas por extracción de semen a través de electroeyaculador, inseminación artificial, transferencia de embriones y sexado o división de embriones;
-
-XII. Cometer actos dolosos susceptibles de ocasionar la muerte, mutilación o la modificación negativa de los institutos (sic) naturales de un animal sin caer en los supuestos de salvedad referidos en el artículo 21 de esta Ley;
-
-XIII. Trasladar animales contraviniendo cualquiera de los supuestos del artículo 25 fracciones I, II, III, IV y VI de esta Ley;
-
-XIV. Cuando existan las posibilidades físicas y materiales de realizarlo, no proporcionar alojamiento amplio y ventilado, abrevaderos o alimentos a los animales que al ser transportados fueron detenidos en su camino o arribo al lugar destinado por complicaciones accidentales, fortuitas o administrativas;
-
-XV. Sacrificar animales destinados al consumo sin obtener la autorización a que se refiere el artículo 26 de esta Ley o realizarlo contraviniendo los términos de dicha autorización;
-
-XVI. Permitir los propietarios, administradores o encargados de rastros o salas de sacrificio, la presencia de menores de 10 años antes, durante y después del sacrificio de cualquier animal;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XVII. Sacrificar a un animal para no destinarlo al consumo humano por alguna causa no especificada en el artículo 28 de esta Ley o bien sacrificar a un animal en la vía pública sin que medie motivo de fuerza mayor o peligro inminente;
-
-XVIII. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de animales o rastros, al animal que por cualquier causa se hubiese lesionado gravemente y esto ocasione sufrimiento o agonía o represente un peligro para la salud o seguridad de las personas;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XIX. Vender animales en la vía pública;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XX. Omitir alguna de las disposiciones contenidas en el artículo 22 de esta Ley; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXI. Incumplir las disposiciones establecidas en los artículos 23 y 24 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
-
-### CAPITULO VII. DEL TRASLADO DE LOS ANIMALES
+### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 35.
 
-A quienes infrinjan la presente Ley, se aplicaran las sanciones siguientes:
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-a).- Apercibimiento o amonestación pública o privada.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-b).- Multa de 10 a 10,000 cuotas de salario mínimo general vigente en el Estado a la fecha en que se cometa la infracción.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-c).- Arresto administrativo hasta por 36 horas, en los casos de reincidencia, además de la correspondiente sanción económica.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-d).- El aseguramiento precautorio de los animales que se encuentren en la realización de los eventos señalados en el Artículo 8, por la autoridad correspondiente.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-e).- El decomiso de los animales, a quien contravenga lo dispuesto en la fracción XIX del Artículo 34.
-
-f).- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2006)
-
-Por cuota se entenderá el monto de un día de salario mínimo vigente en el lugar en que se cometa la infracción.
-
-Para imponer las sanciones la autoridad considerará la gravedad de la conducta, los daños y perjuicios causados; la intención con la cual fue cometido y los antecedentes, circunstancias y situación socioeconómica del infractor.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres es la instancia normativa y de evaluación de las políticas públicas en la materia.
 
 ###### Artículo 36.
 
-Cuando el infractor compruebe que el daño causado fue realizado en forma imprudencial, la autoridad administrativa que conozca del caso podrá reducir la sanción administrativa hasta un cincuenta por ciento. No se aplicará sanción en el supuesto del artículo 34 fracción XII de esta Ley cuando éste se cometa en forma imprudencial.
+El Consejo se conformará por:
 
-La violación de las disposiciones de esta Ley por parte de quien ejerza la profesión de Médico Veterinario o Médico Zootecnista, independientemente de la responsabilidad civil, penal o administrativa en la que incurra, ameritará aumento de la multa hasta en un treinta por ciento.
+I. El Gobernador Constitucional del Estado, quien fungirá como Presidente Honorario;
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+II. El titular de la Secretaria General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
 
-La reincidencia en cualquiera de las infracciones a esta Ley, ameritará aumento de la multa hasta por el doble de la sanción pecuniaria correspondiente, sin menoscabo de la aplicación de un arresto administrativo hasta por 36 horas.
+III. Un representante de la Secretaría de Finanzas;
+
+IV. Un representante de la Secretaria de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+V. Un representante de la Secretaría de Desarrollo Social;
+
+VI. Un representante de la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VII. Un representante de la Coordinación General de Planeación y Proyectos;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VIII. Un representante de la Fiscalía General del Estado;
+
+IX. Un representante del Instituto de Educación del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+X. Un representante del Instituto de Servicios de Salud del Estado;
+
+XI. Una representante del Instituto Aguascalentense de las Mujeres;
+
+XII. Un representante del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+XIII. Un representante del Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+XIV. Un representante del Instituto Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XV. Un representante de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+XVI. Tres representantes de organizaciones civiles especializadas en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2018)</small>
+
+XVII. Un representante del Supremo Tribunal de Justicia del Poder Judicial del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2018)</small>
+
+XVIII. Dos representantes de instituciones de investigación especializados en la materia.
 
 ###### Artículo 37.
 
-Contra las resoluciones que impongan una sanción procederá el recurso de inconformidad ante la Secretaría, mismo que deberá interponerse dentro de los cinco días hábiles siguientes a la fecha de su notificación.
-
-El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada.
+Para su adecuado funcionamiento, el Consejo se auxiliará de una Coordinadora General.
 
 ###### Artículo 38.
 
-El recurso se interpondrá por escrito y firmado, debiéndose señalar el nombre y domicilio del promovente y los agravios, adjuntando las pruebas de que se disponga, así como la constancia que acredite la personalidad del promovente.
-
-Las pruebas aportadas deberán estar relacionadas con los hechos señalados en el recurso.
+El funcionamiento del Consejo y todo lo relacionado con su régimen interno deberá determinarse en el Reglamento de la Ley.
 
 ###### Artículo 39.
 
-La autoridad radicará el recurso en un plazo de cinco días hábiles y fijará fecha para el desahogo de las pruebas que se hayan aceptado como procedentes.
+El Consejo, como órgano colegiado, tendrá a su cargo las siguientes atribuciones:
+
+I. Participar en la elaboración del Proyecto del Programa Estatal;
+
+II. Evaluar su cumplimiento;
+
+III. Proponer el establecimiento de lineamientos técnicos y administrativos que faciliten la ejecución del Programa Estatal;
+
+IV. Determinar las atribuciones complementarias que ejercerá la Coordinadora General;
+
+V. Convenir con los Ayuntamientos del Estado, la participación que les corresponda para la realización del objeto de esta Ley; y
+
+VI. Las demás que le señale la presente Ley y ordenamientos aplicables.
 
 ###### Artículo 40.
 
-Transcurrida la fecha para el desahogo de las pruebas, la autoridad deberá resolver el recurso en un plazo de 15 días hábiles.
+El Gobernador del Estado, como Presidente Honorario del Consejo, expedirá el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y propondrá en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar su cumplimiento. Dicho Programa se publicará en el Periódico Oficial del Estado.
 
 ###### Artículo 41.
 
@@ -713,9 +727,9 @@ La Coordinadora General podrá invitar a cualquier persona que por sus conocimie
 
 Para la debida coordinación y desarrollo de las actividades para la erradicación de la violencia de género contra las mujeres en el Estado, podrán formar consejos municipales, mismos que se organizarán atendiendo las características de cada lugar.
 
-### CAPITULO VIII. DEL SACRIFICIO DE LOS ANIMALES
+### CAPÍTULO VII
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres.
 
 ###### Artículo 46.
 
@@ -769,11 +783,11 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ma
 
 XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Informar del uso de tecnologías de la información, para evitar la grabación transmisión y manipulación de imágenes sexuales o eróticas distribuidas sin consentimiento de quien sufre la afectación.
+XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación.
 
-### CAPITULO IX. DE LOS ANIMALES ABANDONADOS
+### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 49.
 
@@ -1309,15 +1323,27 @@ V. Los demás asuntos que en materia de violencia de género contra las mujeres 
 
 Corresponde al Instituto Estatal Electoral, en el ámbito de su competencia:
 
-I. Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
+I.- Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
 
-II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+II.- Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
 
-III. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+III.- Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
 
-IV. Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-V. Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
+IV.- Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+V.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VI.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VII.- Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
 
 TRANSITORIOS:
 
@@ -1500,3 +1526,27 @@ P.O. 9 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 117.- SE REFORMA EL ARTÍCULO 2° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244.- ARTÍCULO PRIMERO.- SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 3°; LA FRACCIÓN I, VIII Y IX DEL ARTÍCULO 8°; LA FRACCIÓN XV DEL ARTÍCULO 36; Y LA FRACCIÓN XIV DEL ARTÍCULO 48; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXI AL ARTÍCULO 3° Y LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 181, Y SE ADICIONA EL ARTÍCULO 181 B DEL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 428.- REFORMAS Y ADICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
