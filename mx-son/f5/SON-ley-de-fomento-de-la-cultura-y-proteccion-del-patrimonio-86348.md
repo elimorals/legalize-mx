@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-de-la-cultura-y-proteccion-del-patrimonio-86348"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-01"
-last_updated: "2017-08-03"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 1 de diciembre de 2011.
 
@@ -285,6 +285,8 @@ En materia cultural y artística las autoridades propiciarán la formación de c
 
 También estimularán la creación de organismos privados, sociedades, asociaciones y fideicomisos que coadyuven al fomento cultural y a la protección del Patrimonio Cultural en todos sus órdenes, promoviendo la prestación de servicios culturales y la denuncia ciudadana sobre cualquier actividad que pueda dañar los bienes culturales.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
 El Instituto y los municipios, dentro del ámbito de sus respectivas competencias, desarrollarán las acciones necesarias para investigar, conservar, proteger, fomentar, formar, capacitar, enriquecer y difundir el patrimonio cultural en todas sus manifestaciones.
@@ -293,11 +295,75 @@ Para el logro de dicho objetivo, se coordinará con los museos, universidades, a
 
 El Ayuntamiento de cada Municipio consultará a críticos y especialistas sobre la calidad de la obra plástica que se proponga integrar al ámbito urbano, en plazas, jardines y edificios públicos, y que estará de manera permanente a la vista de los ciudadanos influyendo en la formación y reafirmación de valores cívicos y estéticos.
 
-El Ayuntamiento de cada Municipio deberá designar al Cronista Municipal, para que sea coadyuvante en las tareas señaladas en el párrafo primero del presente artículo.
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Además de lo anterior, es obligación del Cronista Municipal, investigar, conservar, proteger, y enriquecer la información relacionada a los acontecimientos históricos y al Patrimonio Cultural tangible e intangible de su Municipio; además de ser asesor y fuente de información en estos temas, para todos los ciudadanos que se lo soliciten.
+###### ARTÍCULO 19 Bis.
 
-El nombramiento del Cronista Municipal será vitalicio y apolítico, y tendrá derecho a los estímulos económicos que determine el Ayuntamiento que corresponda. Sólo podrá ser removido en caso de que incumpla notoriamente y de manera reiterada con las obligaciones señaladas en este artículo.
+Cada Municipio del Estado, deberá contar con un Cronista, el cual tendrá las (sic) función de investigar, conservar, proteger, y enriquecer la información relacionada a los acontecimientos históricos y al Patrimonio Cultural tangible e intangible de su Municipio; además de ser asesor y fuente de información en estos temas, para todos los ciudadanos que se lo soliciten.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 19 Bis 1.
+
+Para ser Cronista Municipal se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento en pleno uso de sus derechos políticos y civiles;
+
+II.- Tener arraigo e identidad con el Municipio;
+
+III.- Ser persona de reconocida probidad y honradez y no haber sido condenado por la comisión de un delito grave;
+
+IV.- Presentar currículo o semblanza meritoria para ser Cronista Municipal;
+
+V.- Haberse distinguido por sus conocimientos, publicaciones e interés sobre el desarrollo histórico de la ciudad y el municipio;
+
+VI.- Haber publicado trabajos sobre la historia del municipio;
+
+VII.- Ser un empeñoso investigador de su comunidad; y
+
+VIII.- Cumplir o haber cumplido funciones públicas en el registro de la crónica y el rescate de los hechos históricos, sea por nombramiento oficial o por simple reconocimiento de la comunidad.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 19 Bis 2.
+
+El cargo de Cronista Municipal será vitalicio e inamovible, apolítico y no estará sujeto a movimientos de esta naturaleza, salvo que medie cualquiera de las siguientes circunstancias:
+
+I.- Renuncia irrevocable;
+
+II.- Fallecimiento;
+
+III.- Enfermedad incapacitante o lesiones que impidan el cumplimiento de su cometido y en su caso pasará a ser Cronista Honorario; y
+
+IV.- Ausencia prolongada mayor de seis meses del Municipio.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 19 Bis 3.
+
+La designación del Cronista en cada Municipio se realizará de conformidad al siguiente procedimiento:
+
+I.- El Presidente Municipal deberá emitir una Convocatoria, la cual deberá ser publicada en el portal oficial de internet del Municipio, así como en el periódico oficial de mayor circulación en la región, la cual contendrá los requisitos que deberán reunir los aspirantes a ocupar el cargo de Cronista Municipal.
+
+Podrá exceptuarse la publicación de la Convocatoria en el portal oficial de internet, en aquellos municipios que no cuenten con un portal oficial, la convocatoria podrá publicarse en plaza (sic) públicas, bibliotecas o en los estrados del Municipio;
+
+II.- Los aspirantes tendrán un plazo de 10 días hábiles para registrarse ante la dependencia encargada del área cultural del municipio;
+
+III.- Vencido el plazo de registro, el Ayuntamiento tendrá 5 días hábiles para entrevistar a los aspirantes, de los cuales elegirá a 3 candidatos los cuales deberán ser citados a comparecer a la sesión ordinaria de cabildo a celebrarse a los 2 días posteriores de que culminen las entrevistas; y
+
+IV.- El Cronista Municipal deberá ser elegido por el voto de las dos terceras partes de los integrantes presentes en la sesión del Ayuntamiento, en donde se le tomará la protesta correspondiente.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 19 Bis 4.
+
+El Cronista Municipal dependerá directamente de la Presidencia Municipal, quien deberá percibir un sueldo decoroso y gozará además de las prestaciones sociales que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 19 Bis 5.
+
+Los Ayuntamientos, deberán de asignar en cada ejercicio fiscal una partida presupuestal suficiente para que los Cronistas Municipales cuenten con los recursos financieros, humanos y materiales suficientes para llevar a cabo las funciones señaladas en el artículo 19 Bis de la presente Ley.
 
 ### CAPÍTULO VI. DE LOS PRESTADORES DE SERVICIOS CULTURALES
 
@@ -812,3 +878,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 154, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En aquellos Municipios en los que no haya Cronistas, los Presidentes Municipales en el Estado, deberán de emitir la convocatoria a que hace referencia el artículo 19 Bis 3, dentro del plazo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
