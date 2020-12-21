@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2020-01-29"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -377,9 +377,17 @@ V. Implementar y coordinar las acciones que se requieran para evaluar el desarro
 
 VI. Promover en coordinación con las dependencias de la Administración Pública Estatal y municipal, conforme a sus competencias y atribuciones, la implementación de políticas y programas de educación y capacitación;
 
-VII. Elaborar y establecer indicadores para evaluar la cobertura e impacto de programas y acciones en apoyo a personas Adultas Mayores; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Las demás que le confieran otros ordenamientos jurídicos.
+VII. Elaborar y establecer indicadores para evaluar la cobertura e impacto de programas y acciones en apoyo a personas Adultas Mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII. En situaciones de emergencia sanitaria, ambiental o catástrofe, se dispondrá de un fondo de contingencias para apoyar a la población adulta mayor; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE SALUD DEL ESTADO DE NUEVO LEÓN
 
@@ -1160,3 +1168,13 @@ Primero.- El presente Decreto entrara en vigor el día 1° de enero de 2020.
 Segundo.- El Instituto Estatal de las Personas Adultas Mayores, tendrá 90 días a partir de haber entrado en vigor el presente Decreto para analizar, planear, diseñar e implementar las políticas públicas orientadas al uso de nuevas tecnologías para las personas adultas mayores.
 
 Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10 y 13 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 388. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 11 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado de Nuevo León, destinará los recursos necesarios en el proyecto de presupuesto de egresos 2021.
+
+TERCERO.- El Poder Ejecutivo podrá llevar a cabo la entrega de dicho apoyo a través de un Convenio de Colaboración entre sus diversas áreas de la Administración Pública Estatal y con base en su información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores, que se encuentren catalogadas de necesidad de apoyo por su salud a causa de una emergencia sanitaria.
