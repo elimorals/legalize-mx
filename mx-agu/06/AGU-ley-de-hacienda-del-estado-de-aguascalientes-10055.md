@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2019-12-16"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -51,17 +51,17 @@ LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto regular la Hacienda Pública del Estado y la totalidad de sus ingresos que por cualquier concepto perciba en términos de las disposiciones legales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 2°.
 
-Para cubrir el gasto público y las demás obligaciones a su cargo, el Estado percibirá en cada ejercicio fiscal los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, ingresos provenientes de financiamientos, e ingresos extraordinarios establecidos en la Ley de Ingresos.
+Para cubrir el gasto público y las demás obligaciones a su cargo, el Estado percibirá en cada ejercicio fiscal los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, ingresos provenientes de financiamientos, e ingresos extraordinarios establecidos en la Ley de Ingresos del Estado de Aguascalientes, para el ejercicio fiscal del año correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 3°.
 
-Las personas físicas y morales están obligadas al pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos, conforme a las disposiciones de esta Ley y de la Ley de Ingresos.
+Las personas físicas y morales están obligadas al pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos, conforme a las disposiciones de esta Ley y de la Ley de Ingresos del Estado de Aguascalientes, para el ejercicio fiscal del año correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -993,11 +993,11 @@ III.- Tractores destinados a actividades agrícolas.
 
 #### SECCION SEPTIMA. Del Padrón Vehicular del Estado de Aguascalientes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 36.
 
-El Padrón Vehicular del Estado será electrónico y formará parte del Registro de Contribuyentes del Estado; estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Vialidad del Estado de Aguascalientes deban de portar placas de circulación asignadas por el Gobierno del Estado.
+El Padrón Vehicular del Estado será electrónico y formará parte del Registro de Contribuyentes del Estado; estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Movilidad del Estado de Aguascalientes deban de portar placas de circulación asignadas por el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2325,19 +2325,23 @@ II.- Indemnizaciones por riesgos o enfermedades profesionales;
 
 III.- Pensiones y jubilaciones en casos de invalidez, vejez, cesantía y muerte;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV.- Indemnizaciones y primas de retiro por rescisión o terminación de la relación laboral que corresponden a las que se obtengan por concepto de primas de antigüedad, retiro e indemnización u otros pagos, así como los obtenidos con cargo a la subcuenta del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a la cuenta individual del sistema de ahorro para el retiro, prevista en la ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de la subcuenta del seguro del retiro, de la subcuenta de retiro, cesantía en edad avanzada y vejez de la cuenta individual del sistema de ahorro para el retiro. Los años de servicio serán los que hubiera considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo, por el excedente se pagará el impuesto en los términos de la ley de Hacienda;
+IV.- Indemnizaciones y primas de retiro por rescisión o terminación de la relación laboral que corresponden a las que se obtengan por concepto de primas de antigüedad, retiro e indemnización u otros pagos, así como los obtenidos con cargo a la subcuenta del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a la cuenta individual del sistema de ahorro para el retiro, prevista en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, hasta por el equivalente a noventa veces el salario mínimo general del área geográfica del contribuyente por cada año de servicio o de contribución en el caso de la subcuenta del seguro del retiro, de la subcuenta de retiro, cesantía en edad avanzada y vejez de la cuenta individual del sistema de ahorro para el retiro. Los años de servicio serán los que hubiera considerado para el cálculo de los conceptos mencionados. Toda fracción de más de seis meses se considerará un año completo, por el excedente se pagará el impuesto en los términos de la ley de Hacienda;
 
 V.- Pagos por gastos funerarios;
 
 VI.- Gastos de representación y viáticos erogados por cuenta del patrón, comprobados en los mismos términos que para su deducibilidad exija la Ley del Impuesto sobre la Renta;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón, las cuotas que en términos de ley le corresponde cubrir al patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) y las aportaciones al ISSSTE.
+VII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón, las cuotas que en términos de ley le corresponde cubrir al patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) y las aportaciones al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 En los conceptos señalados en las Fracciones IX, X y XIV, cuando el importe de las referidas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base del objeto del impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Para efectos de la presente regla, el salario base corresponde al total de las percepciones que reciban los trabajadores por la aportación de su trabajo personal;
 
@@ -2821,7 +2825,9 @@ I.- Cuando los derechos deban pagarse por anualidades, mensualidades o periodos 
 
 II.- Cuando el servicio se preste después de iniciado el periodo de que se trate, el pago correspondiente a la fracción de dicho periodo, se efectuará en forma proporcional a los días en que se otorgue el servicio, en el plazo que resulte aplicable en términos de la fracción que antecede;
 
-III.- En los casos en los que el derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija, ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas y Administración, las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III.- En los casos en los que el derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija, ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas del Estado las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 31 DE DICIEMBRE DE 2005)
 
@@ -2899,45 +2905,35 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 78], P.O. 31 DE DICIEMBRE DE 2005)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 83.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado, por concepto de:
+Se consideran aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, ingresos derivados de financiamientos y de los que obtengan los organismos públicos descentralizados y las empresas de participación estatal mayoritaria, por concepto de:
 
-I.- Participaciones Federales al Estado;
+I.- Multas;
 
-II.- Participaciones Federales a Municipios;
+II.- Indemnizaciones no fiscales;
 
-III.- Aportaciones del Gobierno Federal y de terceros a Programas de Desarrollo;
+III.- Reintegros;
 
-IV.- Subsidios;
+IV.- Donativos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+V.- Herencias y legados;
 
-V.- Multas no fiscales y multas por incumplimiento de las obligaciones fiscales distintas a las obligaciones de pago;
+VI.- Bienes vacantes;
 
-VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+VII.- Tesoros ocultos;
 
-VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+VIII.- Fianzas carcelarias que se hagan efectivas;
 
-VIII.- Donativos;
+IX.- Uso o enajenación de bienes muebles, inmuebles e intangibles;
 
-IX.- Herencias y legados;
+X.- Administración de Impuestos Municipales; y
 
-X.- Bienes vacantes;
-
-XI.- Tesoreros ocultos;
-
-XII.- Reintegros;
-
-XIII.- Fianzas carcelarias que se hagan efectivas;
-
-XIV.- Administración de Impuestos Municipales;
-
-XV.- Indemnizaciones;
-
-XVI.- Otros no especificados.
+XI.- Otros no especificados.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2995,19 +2991,51 @@ III.- Los que perciba el Estado por concepto de los accesorios de las contribuci
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 87.
 
-La hacienda estatal percibirá los ingresos por venta de bienes y servicios, de los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal y gobierno central por sus actividades de producción y/o comercialización, provenientes de los siguientes conceptos:
+La hacienda estatal percibirá los ingresos por venta de bienes y prestación de servicios, de los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos, provenientes de los siguientes conceptos:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I. Ingresos por ventas de bienes y servicios producidos por organismos descentralizados;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 II. Ingresos de operación de entidades paraestatales empresariales;
 
-III. Ingresos por ventas de bienes y servicios producidas en establecimientos del gobierno central; y
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 IV. La operación de resultados de establecimientos, empresas del Estado, organismos públicos descentralizados, órganos autónomos y órganos desconcentrados que realicen funciones de derecho privado.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+## TITULO NOVENO. DE LAS PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+### CAPITULO UNICO. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 88.
+
+Son los ingresos que recibe el Estado y los Municipios por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
+
+Quedan comprendidos dentro de esta clasificación, lo (sic) siguientes:
+
+I.- Participaciones: Son los ingresos que recibe el Estado y los Municipios que derivan de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes.
+
+II.- Aportaciones: Son los ingresos que recibe el Estado y los Municipios previstos en la Ley de Coordinación Fiscal, cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la legislación aplicable en la materia.
+
+III.- Convenios: Son los ingresos que reciben el Estado y los Municipios derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la Federación, el Estado y los Municipios.
+
+IV.- Incentivos Derivados de la Colaboración Fiscal: Son los ingresos que recibe el Estado y los Municipios derivado del ejercicio de facultades delegadas por la Federación mediante la celebración de convenios de colaboración administrativa en materia fiscal; que comprenden las funciones de recaudación, fiscalización y administración de ingresos federales y por las que a cambio reciben incentivos económicos que implican la retribución de su colaboración.
+
+V.- Fondos Distintos de Aportaciones: Son los ingresos que recibe el Estado y los Municipios derivados de fondos distintos de aportaciones y previstos en disposiciones específicas.
 
 ## TRANSITORIOS
 
@@ -3328,3 +3356,11 @@ El presente Decreto entrará en vigor el 01 de enero del año dos mil veinte.
 ###### ARTICULO SEGUNDO.
 
 La tasa a que se refiere el Artículo 67 de la Ley de Hacienda del Estado de Aguascalientes será aplicable durante los ejercicios fiscales de 2020 y 2021. A partir de los ejercicios subsecuentes la tasa aplicable al Impuesto Sobre Nómina será del 2%.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 441.- REFORMAS Y ADICIONES A LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
