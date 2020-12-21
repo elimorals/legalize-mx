@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2020-04-06"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -131,9 +131,11 @@ El Gobernador del Estado expedirá los acuerdos, lineamientos, órdenes, reglame
 
 En el reglamento interior de cada una de las dependencias y entidades, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias, entre otros aspectos administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-El Gobernador del Estado es libre de nombrar y remover a los servidores públicos de la administración pública estatal, con las salvedades que establezcan las leyes relativas.
+El Gobernador del Estado es libre de nombrar y remover a los servidores públicos de la administración pública estatal, con las salvedades que establezcan las leyes relativas, observando el principio de paridad de género.
 
 El Gobernador del Estado está facultado para conceder licencia a los titulares de las dependencias a las que se refiere el artículo 16 y designar a quien deba sustituirlos en casos de ausencias temporales o accidentales.
 
@@ -258,6 +260,10 @@ XXI. Fiscalía General del Estado de Campeche.
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 Las dependencias señaladas en el presente artículo podrán ser denominadas Secretarías de la Administración Pública del Estado o Secretarías del Poder Ejecutivo del Estado; las cuales tendrán igualdad de rango y entre ellas no habrá preeminencia alguna, salvo el caso de la Secretaría General de Gobierno que coordinará y supervisará los asuntos encomendados a las demás dependencias.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En la designación de titulares de las dependencias a que se refiere este artículo deberá tomarse en consideración el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2536,3 +2542,13 @@ P.O. 6 DE ABRIL DE 2020.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 171 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 9 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 16 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las designaciones de los titulares de las dependencias de la Administración Pública Estatal hechas con anterioridad a la entrada en vigor del presente decreto mantendrán su validez.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
