@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2020-09-29"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -159,7 +159,9 @@ VIII. Legalidad: Regular la planeación, diseño, operación, construcción y ex
 
 IX. Exigibilidad: Proporcionar al ciudadano los medios eficientes que le permitan exigir el ejercicio de su derecho a la movilidad en un marco de legalidad y rendición de cuentas, conforme a la distribución de competencias derivadas de esta Ley.
 
-X. Accesibilidad: Condición esencial de los servicios públicos que permite en cualquier espacio o ambiente exterior o interior el fácil desplazamiento por parte de toda la población.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2020)</small>
+
+X. Accesibilidad: Condición esencial de los servicios públicos y de transporte que permite en cualquier espacio o ambiente exterior o interior el fácil desplazamiento por parte de toda la población, particularmente para personas con discapacidad o con movilidad limitada.
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES EN MATERIA DE MOVILIDAD
 
@@ -617,11 +619,17 @@ Clasificación del Servicio de Transporte Público. El Servicio se clasifica en:
 
 I. De pasajeros:
 
-a) Masivo o de alta capacidad, se presta en vías específicas con rodamiento especializado o en vías confinadas, con equipo vehicular con capacidad de transportación de más de cien personas a la vez, con vehículos especiales, cuyo control y operación se realiza mediante el uso de tecnologías.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2020)</small>
 
-b) Colectivo de mediana capacidad, se presta en rutas determinadas con vehículos de capacidad media que pueden transportar más de veinticinco y hasta cien personas a la vez, pudiendo ser operado en carriles confinados con estaciones de ascenso y descenso y mediante el uso de tecnologías.
+a) Masivo o de alta capacidad, se presta en vías específicas con rodamiento especializado o en vías confinadas, con equipo vehicular con capacidad de transportación de más de cien personas a la vez, con vehículos especiales, cuyo control y operación se realiza mediante el uso de tecnologías, aplicando el principio de accesibilidad.
 
-c) Colectivo de baja capacidad, se presta en rutas determinadas con vehículos de capacidad baja que pueden transportar hasta veinticinco personas a la vez, pudiendo ser operado en carriles confinados con estaciones de ascenso y descenso determinadas y mediante el uso de tecnologías.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2020)</small>
+
+b) Colectivo de mediana capacidad, se presta en rutas determinadas con vehículos de capacidad media que pueden transportar más de veinticinco y hasta cien personas a la vez, pudiendo ser operado en carriles confinados con estaciones de ascenso y descenso y mediante el uso de tecnologías, aplicando el principio de accesibilidad.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2020)</small>
+
+c) Colectivo de baja capacidad, se presta en rutas determinadas con vehículos de capacidad baja que pueden transportar hasta veinticinco personas a la vez, pudiendo ser operado en carriles confinados con estaciones de ascenso y descenso determinadas y mediante el uso de tecnologías, aplicando el principio de accesibilidad.
 
 d) Individual, se presta en vehículos tipo sedán con cinco puertas, con capacidad máxima de cinco personas, denominados taxis, que no pueden realizar servicio colectivo, ni de mensajería o paquetería.
 
@@ -1076,3 +1084,11 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 5 Y LOS INCISOS A), B), Y C) DE LA FRACCIÓN I, DEL ARTÍCULO 34 DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
