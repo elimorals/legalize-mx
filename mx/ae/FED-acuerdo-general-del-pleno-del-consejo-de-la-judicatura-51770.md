@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2020-11-27"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,9 @@ issue_date: "2006-08-09"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ENERO DE 2021 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1635,7 +1633,9 @@ En caso de que el funcionario público no cumpla con los objetivos establecidos 
 
 Anualmente se entregará la Distinción al Mérito Judicial Ignacio L. Vallarta, a un Juez de Distrito, a un Magistrado de Circuito de Tribunal Unitario y a un Magistrado de Circuito de Tribunal Colegiado, en reconocimiento a sus méritos en la carrera judicial.
 
-La distinción se entregará sólo en una ocasión en el cargo de Juez de Distrito o en el de Magistrado de Circuito, y consistirá en una medalla de oro conmemorativa.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELATIVO A LAS CARACTERÍSTICAS DE LA MEDALLA DE DISTINCIÓN AL MÉRITO JUDICIAL IGNACIO L. VALLARTA, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
+
+La distinción se entregará sólo en una ocasión en el cargo de Juez de Distrito o en el de Magistrado de Circuito, y consistirá en una medalla conmemorativa con las características que apruebe el Pleno a propuesta de la Comisión de Carrera Judicial.
 
 ###### Artículo 140.
 
@@ -2524,3 +2524,11 @@ DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en 
 DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
 
 DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELATIVO A LAS CARACTERÍSTICAS DE LA MEDALLA DE DISTINCIÓN AL MÉRITO JUDICIAL IGNACIO L. VALLARTA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
