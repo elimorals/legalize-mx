@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2020-09-11"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -165,7 +165,9 @@ Sujeto
 
 Son sujetos de este impuesto, todas las personas físicas y morales que adquieran, por cualquier título, vehículos de motor o remolques, ya sea en forma habitual o esporádica.
 
-Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores, por sus siglas INAPAM, o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física permanente que le impida desplazarse por sí mismo o que para hacerlo requiera de algún aparato, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente, mediante el original y copia de la documentación respectiva.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores, por sus siglas INAPAM, o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física permanente que le impida desplazarse por sí mismo o que para hacerlo requiera de algún aparato, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente, mediante el original de la documentación respectiva.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -437,9 +439,11 @@ En caso de incumplimiento, será considerado responsable solidario del pago del 
 
 Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 46 del Código Fiscal del Estado de Querétaro, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+La Federación, las Entidades Federativas, la Ciudad de México, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
 ###### Artículo 26.
 
@@ -1565,6 +1569,8 @@ La autoridad fiscal podrá verificar el cumplimiento de las obligaciones en mate
 
 Los juegos de placas de demostración deberán portarse simultáneamente y utilizarse exclusivamente en vehículos destinados para prueba o demostración dentro del territorio del Estado de Querétaro. El uso en contravención a lo aquí establecido, dará lugar a que la autoridad fiscal requiera la devolución de los juegos de placas que correspondan, independientemente de las sanciones que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ## Título Cuarto. De los Derechos
 
 ### Capítulo Tercero. Por los servicios prestados por el Archivo General de Notarías
@@ -2001,6 +2007,10 @@ Por el servicio de consulta remota al sistema de información del Registro Públ
 
 Los usuarios que utilicen el equipo de cómputo que ponga a disposición del público en general el Registro Público de la Propiedad y el Comercio, para consultar los antecedentes registrales que obran en dicho Registro, no estarán obligados al pago de los derechos a que se refiere este artículo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Tampoco estarán obligados al pago de los derechos previstos en este numeral, los usuarios que utilicen los sistemas que el Registro Público de la Propiedad y del Comercio habilite para consulta de antecedentes registrales que obran en el mismo, bajo modalidades distintas a las señaladas en los párrafos precedentes.
+
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 ###### Artículo 109.
@@ -2223,9 +2233,17 @@ IV. Cuando el solicitante del deslinde catastral, debidamente citado, en la dili
 
 V. Cuando derivado del deslinde catastral se detecten diferencias en cuanto a la superficie del bien objeto del mismo manifestada al inicio de dicho trámite, el contribuyente deberá pagar la cantidad correspondiente a la diferencia entre los derechos pagados inicialmente y los efectivamente causados conforme a la superficie derivada de la realización del procedimiento;
 
-VI. Cuando una vez concluido el procedimiento de deslinde catastral sea necesario realizar alguna modificación al plano resultante del mismo, con motivo de pronunciamiento, opinión técnica o resolución de autoridad competente, el solicitante deberá pagar la cantidad correspondiente al 20 por ciento sobre el monto de los derechos establecidos en la fracción I del presente artículo, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco o en suspenso a solicitud del interesado, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo.
+VI. Cuando una vez concluido el procedimiento de deslinde catastral sea necesario realizar alguna modificación al plano resultante del mismo, con motivo de pronunciamiento, opinión técnica o resolución de autoridad competente, el solicitante deberá pagar la cantidad correspondiente al 20 por ciento sobre el monto de los derechos establecidos en la fracción I del presente artículo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII. Cuando el interesado solicite la suspensión de un procedimiento de deslinde catastral, por cada solicitud subsecuente a la primera hasta la sexta, se pagarán 23 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -2383,7 +2401,13 @@ De más de 500000 983.52 1200 m2 hasta llegar a 1000000 m2
 
 De más de 1000000 1504.35 1600 m2 excedentes
 
-IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo externo que ocasionara una nueva revisión, pagará 20 UMA por la misma. El topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo externo que ocasionará una nueva revisión, pagará 20 UMA por la misma. El topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Cuando derivado de la elaboración del plano catastral a que se refiere el presente artículo, se detecten diferencias en cuanto a la superficie del bien objeto del mismo manifestada al inicio de dicho trámite, el contribuyente deberá pagar la cantidad correspondiente a la diferencia entre los derechos pagados inicialmente y los efectivamente causados conforme a la superficie derivada de la elaboración de dicho plano.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2442,6 +2466,10 @@ digital estándar, píxel de 40 cm. 1:5000 25
 Colonia en formato digital
 
 dxf o shape. 1:1000 37.5
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Se exceptúa del pago de los derechos previstos en el apartado de carta catastral con división predial en formato digital dxf o shape, cuando el servicio respectivo sea solicitado por las dependencias u organismos federales, estatales o municipales encargados de la elaboración de proyectos y ejecución de obras de infraestructura, siempre que proporcionen las características de la obra específica y el trazo o polígono geo-referenciado de la misma, en el formato digital dxf o shape.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2619,7 +2647,9 @@ Por los servicios catastrales relativos a fraccionamientos y condominios, se cau
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
 
-En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, así como la pre-asignación de claves catastrales para cualquiera de dichos desarrollos inmobiliarios, se causará y pagará un derecho de 3.75 UMA por cada revisión subsecuente que se requiera.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, se causará y pagará un derecho de 3.75 UMA por cada revisión subsecuente que se requiera.
 
 En caso de que no sea posible realizar el alta del fraccionamiento, unidad condominal o condominio debido a la inconsistencia en algún documento presentado o a que la información registrada en los archivos catastrales no coincida con la presentada; por la subsecuente revisión del expediente se causará el 50 por ciento de los derechos que por dichos conceptos establece el presente artículo.
 
@@ -2657,9 +2687,9 @@ No estarán obligadas al pago del derecho a que se refiere esta fracción, las a
 
 IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 6.25 UMA y por cada foja excedente, el 0.125 UMA;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los valuadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos valuadores, el 1.25 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 2.5 UMA.
+V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los valuadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos valuadores, el 1 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 2.5 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -2679,9 +2709,9 @@ VI. Por la expedición del archivo digital del área de dibujo del plano de leva
 
 Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. Por la modificación y certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, el 25 por ciento de los derechos causados por el deslinde catastral correspondiente. La modificación, rectificación o aclaración respectiva se deberá manifestar en un plazo máximo de un mes calendario posterior a la fecha de haber concluido el procedimiento de deslinde el trabajo;
+VII. Por la modificación y certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, el 25 por ciento de los derechos causados por el deslinde catastral correspondiente. La modificación, rectificación o aclaración respectiva se deberá manifestar en un plazo máximo de seis meses calendario posteriores a la fecha de haber concluido el procedimiento de deslinde;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -2705,9 +2735,9 @@ XI. Por el alta de predios producto de subdivisión para una fracción y resto d
 
 XII. Por la aplicación de deméritos a solicitud del interesado, 3.75 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XII BIS. Por la revisión de valor catastral o el valor unitario de suelo asignado a un predio, presentada por el propietario o su representante, 3.75 UMA;
+XII. BIS. Por la revisión de valor catastral asignado a un predio o el valor unitario de suelo provisional asignado a un desarrollo inmobiliario, solicitada por el propietario o su representante, 3.75 UMA;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -3057,9 +3087,29 @@ certificadas de documentos. Primera hoja 0.625
 
 Hoja adicional 0.25
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 140 Bis.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+Por los servicios prestados por la Dirección Estatal de Archivos, se causarán y pagarán los siguientes derechos:
+
+CONCEPTO UMA
+
+Transcripción paleográfica de textos jurídicos, eclesiásticos o
+
+de cualquier otra naturaleza, de los siglos XVI al XIX, escritos
+
+en español antiguo, o con latinismos, por hoja. 1.15
+
+Corrección de estilo en traducciones y/o interpretaciones de
+
+textos antiguos o modernos, de los siglos XVI al XIX, por página. 0.09
+
+Reprografía documental, consistente en la conversión de un
+
+documento físico en un archivo o imagen digital, a través de
+
+escáner o fotografía, por página. 0.011
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3077,15 +3127,15 @@ Otras publicaciones, por palabra. 0.075
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 142.
 
-Por los servicios prestados por la Dirección Estatal del Registro Civil y que en su caso, serán cobrados por los municipios cuando éstos organicen el Registro Civil, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por la Dirección Estatal del Registro Civil y que, en su caso, serán cobrados por los municipios cuando éstos organicen el Registro Civil, se causarán y pagarán los siguientes derechos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2015, PÁGINA 27061.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2016, PÁGINA 16471; P.O. 19 DE DICIEMBRE DE 2018, PÁGINA 42786.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2016, PÁGINA 16471; P.O. 19 DE DICIEMBRE DE 2018, PÁGINA 42786; P.O. 21 DE DICIEMBRE DE 2020, PÁGINA 30905]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3293,7 +3343,7 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 ### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 145.
 
@@ -3346,6 +3396,8 @@ Por la expedición de la constancia de no inhabilitación a favor de las persona
 Por los servicios prestados por la Secretaría de Seguridad Ciudadana, en materia de seguridad privada, se causarán y pagarán los derechos correspondientes, conforme a lo siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28575.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 21 DE DICIEMBRE DE 2020, PÁGINA 30906]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3461,9 +3513,9 @@ Constancia de instructor de manejo 2
 
 Autorización de vehículo para impartir clases de manejo 1
 
-### Capítulo Décimo Cuarto. Por los servicios prestados por el Tribunal Superior de Justicia
+### Capítulo Décimo Cuarto. Por los Servicios Prestados por el Poder Judicial
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 154.
 
@@ -3625,7 +3677,9 @@ En el supuesto de que no se cuente con documento idóneo del que se desprenda el
 
 Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando éste haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
 
-II. Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento donde conste quién es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el trámite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original y copia de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+II. Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento donde conste quién es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el trámite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -3641,7 +3695,9 @@ V. Para el caso de vehículos inscritos en otra entidad federativa se deberá en
 
 Tratándose de robo o extravío de una o ambas placas, deberá exhibirse denuncia presentada ante la autoridad investigadora competente;
 
-VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acrediten la legal estancia del vehículo en el país o, en su caso, copia certificada emitida por las autoridades aduaneras, así como acreditar el cumplimiento de los requisitos que establezcan las disposiciones federales aplicables al caso en particular;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acrediten la legal estancia del vehículo en el país en el régimen de importación definitiva o, en su caso, copia certificada emitida por las autoridades aduaneras, así como acreditar el cumplimiento de los requisitos que establezcan las disposiciones federales aplicables al caso en particular;
 
 VII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2018)
 
@@ -3689,7 +3745,7 @@ B. Para la obtención de placas para vehículos destinados al transporte de pers
 
 ###### Artículo 161.
 
-Si el vehículo que se pretende registrar en el Padrón Vehicular Estatal, se encuentra en arrendamiento, el arrendatario, además de cumplir con los requisitos contemplados en el artículo 158 de esta Ley, deberá exhibir en original y copia el contrato donde se especifique el nombre y domicilio de los contratantes y el objeto del mismo.
+Si el vehículo que se pretende registrar en el Padrón Vehicular Estatal, se encuentra en arrendamiento, el arrendatario, además de cumplir con los requisitos contemplados en el artículo 158 de esta Ley, deberá exhibir original del contrato donde se especifique el nombre y domicilio de los contratantes y el objeto del mismo.
 
 ###### Artículo 162.
 
@@ -3721,11 +3777,13 @@ Las bajas de vehículos señaladas en las fracciones III, IV, V y VI, no causar�
 
 Las autoridades fiscales no autorizarán movimientos en el Padrón Vehicular Estatal, sin haberse cerciorado de que no existan adeudos por concepto del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal y/o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 164.
 
-Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original y copia de la misma.
+Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
+
+Lo dispuesto en el párrafo anterior, únicamente resultará aplicable respecto de los derechos contemplados por el artículo 157, causados con posterioridad a la adquisición de las calidades a que se refiere este artículo.
 
 ### Capítulo Décimo Quinto. Por los servicios prestados por la Oficialía Mayor
 
@@ -3765,31 +3823,35 @@ En el supuesto de que la autoridad posea la información en medio electrónico y
 
 Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a 1.25 UMA.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ### Capítulo Décimo Sexto. Por los servicios prestados por Otras Autoridades Administrativas
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 166.
 
-Por los servicios prestados por el Tribunal Superior de Justicia solicitados por los particulares, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por el Poder Judicial solicitados por los particulares, se causarán y pagarán los siguientes derechos:
 
 CONCEPTO UMA
 
-Búsqueda de información del archivo, por cada
+Búsqueda de información del archivo, por cada periodo a buscar. 0.00
 
-periodo a buscar. 0.00
+Extracción o desglose de la documentación solicitada para
 
-Extracción o desglose de la documentación solicitada
+fotocopiado, por periodo. 0.00
 
-para fotocopiado, por periodo. 0.00
+Fotocopia simple tamaño carta o digitalización, por cada hoja. 0.0125
 
-Fotocopia simple tamaño carta o digitalización,
+Fotocopia simple tamaño oficio o digitalización, por cada hoja. 0.0187
 
-por cada hoja. 0.0125
+Elaboración de dictamen psicológico 3.00
 
-Fotocopia simple tamaño oficio o digitalización,
+Copias certificadas en Segunda Instancia 1.25
 
-por cada hoja. 0.0187
+Copias certificadas en Primera Instancia 0.25
+
+Copias certificadas en Juzgados Menores 0.25
 
 Para los efectos de este artículo, se entiende por:
 
@@ -3801,13 +3863,7 @@ Se exceptúa del pago de los derechos por búsqueda de información del archivo,
 
 En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
 
-Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a 1.25 UMA.
-
 ### Capítulo Décimo Séptimo. Por los servicios prestados por el Estado en Materia de Transporte Público
-
-###### Artículo 172 Bis.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 167.
 
@@ -3927,7 +3983,7 @@ General 2.8875
 
 Menores de 12 años y personas adultas mayores: 2.3125
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 169 Bis.
 
@@ -3935,13 +3991,17 @@ Por el uso y aprovechamiento de los bienes del Querétaro Centro de Congresos, s
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28577 A LA 28580.]</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 30908 A LA 30910]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 169 Ter.
 
 Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, se causarán y pagarán, por evento, los siguientes derechos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28580 A LA 28582.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 30911 A LA 30912]</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -3985,7 +4045,7 @@ Cuando la información objeto de la petición se encuentre en sistemas informát
 
 Los costos de envío, incluidos los de embalaje, para la entrega de la información, por concepto de servicios de correo certificado o mensajería, tratándose de solicitudes formuladas en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, deberán ser cubiertos por los solicitantes, haciendo de conocimiento a la Unidad de Transparencia los servicios que hayan contratado, para proceder con el envío respectivo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 172 Bis.
 
@@ -4000,6 +4060,14 @@ Galería de la Secretaría de la Juventud, por día 17.75
 Salón “Co-working”, por día 2.37
 
 Salón “Co-working”, por mes 35.51
+
+Salón Conocimiento, por día 15
+
+Cabina de radio, por día 40
+
+Cabina de TV, por día 40
+
+Sala de juntas, por día 3
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -5098,3 +5166,113 @@ P.O. 11 DE SEPTIEMBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2021.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2021, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+II. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, no se causarán los derechos correspondientes;
+
+III. No se causarán los derechos previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, durante el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, por la prestación de los siguientes servicios:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales.
+
+IV. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+V. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2020, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2016 y anteriores;
+
+VI. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
+
+VII. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+VIII. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016, 2017, 2018, 2019 y 2020 continuarán vigentes hasta el 31 de marzo de 2022.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes al ejercicio fiscal 2021, que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, exhibirán la representación impresa del comprobante fiscal digital respectivo;
+
+IX. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+X. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+
+XI. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XIII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XIV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
+
+XVI. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
