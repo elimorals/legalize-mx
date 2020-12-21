@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2019-12-18"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A PARTIR DEL DÍA 1 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -219,31 +219,61 @@ Para efectos de esta Ley, en singular o plural se entenderá por:
 
 I. Código. Código Fiscal del Estado de Quintana Roo;
 
-II. Días. Días hábiles;
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2020)
 
-III. Estado. El Estado Libre y Soberano de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-IV. Ley. Ley de Hacienda del Estado de Quintana Roo;
+III. Dependencias: Las previstas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y sus órganos desconcentrados;
 
-V. Persona física. Individuo que realiza las situaciones jurídicas o de hecho previstas en la presente Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VI. Persona moral. Agrupación de personas que se unen con un fin determinado; pudiendo adoptar las formas siguientes: sociedades mercantiles, civiles, políticas, religiosas, asociaciones, sociedades cooperativas; los Poderes Federales y Estatales, los Municipios, los organismos descentralizados, organismos autónomos, fideicomisos de gobierno, dependencias, órganos desconcentrados y demás entidades de carácter público creadas mediante ley o decreto federal, estatal o municipal;
+IV. Entidades Paraestatales: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
 
-VII. SATQ. Servicio de Administración Tributaria del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Secretaría. Secretaría de Finanzas y Planeación;
+V. Estado: El Estado Libre y Soberano de Quintana Roo;
 
-IX. UMA. Valor diario de la Unidad de Medida y Actualización, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Unidad Económica. Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
+VI. Ley: Ley de Hacienda del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VII. Persona física: Individuo que realiza las situaciones jurídicas o de hecho previstas en la presente Ley;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII. Persona moral: Agrupación de personas que se unen con un fin determinado; pudiendo adoptar las formas siguientes: sociedades mercantiles, civiles, políticas, religiosas, asociaciones, sociedades cooperativas; los Poderes Federales y Estatales, los Municipios, los organismos descentralizados, organismos autónomos, fideicomisos de gobierno, dependencias, órganos desconcentrados y demás entidades de carácter público creadas mediante ley o decreto federal, estatal o municipal;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. SATQ: Servicio de Administración Tributaria del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+X. Secretaría: Secretaría de Finanzas y Planeación;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XI. Turista: Las personas extranjeras que viajen temporalmente fuera de su lugar de residencia habitual, transitan o llegan al territorio estatal y utilizan alguno de los servicios turísticos a que se refiere la Ley General de Turismo y la Ley de Turismo del Estado de Quintana Roo.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII. UMA: Valor diario de la Unidad de Medida y Actualización, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XIII. Unida Económica: Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
 
 ###### Artículo 6.
 
 La aplicación e interpretación para efectos administrativos de la presente Ley es competencia de la Secretaría, por sí o (sic) través del SATQ.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Para los casos no previstos en las disposiciones de esta Ley, se aplicará de forma complementaria lo dispuesto en el Código y su Reglamento, (sic) Ley del Servicio de Administración Tributaria del Estado de Quintana Roo y su Reglamento Interior; se aplicará supletoriamente, el Código Fiscal de la Federación y su Reglamento, y en su defecto, las del Código de Comercio y del Derecho común.
+Para los casos no previstos en las disposiciones de esta Ley, se aplicará de forma supletoria lo dispuesto en el Código y su Reglamento, (sic) Ley del Servicio de Administración Tributaria del Estado de Quintana Roo y su Reglamento Interior, el Código Fiscal de la Federación y su Reglamento, y en su defecto, las del Código de Comercio y del Derecho común.
 
 ###### Artículo 8.
 
@@ -401,9 +431,11 @@ Para efectos de este artículo, se considera que la casa-habitación del contrib
 
 Del Objeto
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-Es objeto de este impuesto la enajenación de bienes dados en prenda no recuperados por el deudor prendario derivados de contratos u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes o autoridades financieras, ofertados por personas físicas, jurídicas o unidades económicas en el Estado.
+Es objeto de este impuesto la enajenación de bienes dados en prenda no recuperados por el deudor prendario derivados de contratos u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes o autoridades financieras, ofertados por personas físicas, morales o unidades económicas en el Estado.
 
 De los Sujetos
 
@@ -803,11 +835,13 @@ III. Los consignatarios o comisionistas en cualquier operación de vehículos au
 
 De la Base
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 55.
 
-Será base de este impuesto, el importe que resulte mayor entre el precio pactado por los particulares y el determinado aplicando las tablas de los factores de depreciación y la actualización previstas en la Sección Única, Capítulo II del Título II de la presente Ley.
+Será base de este impuesto, el importe que resulte mayor entre el precio pactado por los particulares y el determinado aplicando las tablas de los factores de depreciación y la actualización previstas en los artículos 44, 45 y 46 de la presente Ley.
 
-Tratándose de vehículos de motor usados cuyo año modelo de antigüedad corresponda a diez o más años a la fecha en que se realice su adquisición como vehículo nuevo, será aplicable para la determinación de la base los factores de depreciación y la actualización correspondiente a los nueve años de antigüedad previstos en la Sección Única, Capítulo II del Título II de la presente Ley para el pago del Impuesto Sobre Uso o Tenencia Vehicular.
+Tratándose de vehículos de motor usados cuyo año modelo de antigüedad corresponda a diez o más años a la fecha en que se realice su adquisición como vehículo nuevo, será aplicable para la determinación de la base los factores de depreciación y la actualización correspondiente a los nueve años de antigüedad previstos en el artículo 46 de la presente Ley.
 
 De la Tasa
 
@@ -973,6 +1007,56 @@ XI. Ingresarán también por este concepto las recuperaciones de créditos otorg
 
 XII. Otros diversos de los señalados en las fracciones anteriores que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 71
+
+Bis. Por el uso de las instalaciones del inmueble denominado "Centro Social Andrés Quintana Roo", conocido como "SALÓN BELLAVISTA", y del inmueble denominado "SALÓN KOHUNLICH", ambos ubicados en el boulevard bahía de la ciudad de Chetumal, se pagará un importe de acuerdo a las condiciones y cuotas establecidas en las siguientes tablas:
+
+I. CENTRO SOCIAL ANDRÉS QUINTANA ROO, "SALÓN BELLAVISTA"
+
+TIPO DE EVENTO UMA
+
+a) General 86.84
+
+b) Sociedad civil con fines de lucro 62.03
+
+c) Sociedad civil sin fines de lucro 43.42
+
+d) Eventos escolares y privados de trabajadores 37.22
+
+e) Eventos cívicos y de instituciones públicas Exento
+
+II. SALÓN KOHUNLICH
+
+TIPO DE EVENTO UMA
+
+a) General 49.62
+
+b) Sociedad civil con fines de lucro 31.01
+
+c) Sociedad civil sin fines de lucro 21.09
+
+d) Eventos escolares y privados de trabajadores 12.4
+
+e) Eventos cívicos y de instituciones públicas Exento
+
+Se entenderá por tipo de evento, para efectos del contenido de las fracciones I y II de este artículo, lo siguiente:
+
+General: Eventos, festejos y celebraciones de carácter particular o ajeno a la actividad institucional de un órgano público.
+
+Sociedad civil con fines de lucro: Asociaciones civiles legalmente constituidas que lleven a cabo eventos relacionados con su objeto social y cuya finalidad sea recaudar fondos.
+
+Sociedad civil sin fines de lucro: Asociaciones civiles legalmente constituidas que lleven a cabo eventos relacionados con su objeto social y que sea abierto y gratuito al público.
+
+Eventos escolares: Son aquellos cuya realización sea para beneficio directo de la comunidad estudiantil sin fines de lucro.
+
+Eventos Privados de trabajadores: Eventos personales de los trabajadores o su cónyuge o hijos, considerando que esta tarifa aplicará únicamente una vez por año para cualquier miembro de su familia. En los eventos posteriores, el costo será el señalado como evento general.
+
+En todo caso deberá acreditar ser trabajador activo o jubilado del Gobierno del Estado.
+
+Eventos cívicos y de instituciones públicas: Eventos organizados por instituciones de carácter público del ámbito estatal, federal o municipal, que esté considerado en el calendario cívico o que se encuentre relacionado con el ejercicio de sus facultades, siempre y cuando no tenga fines de lucro.
+
 ### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
 
 ###### Artículo 72.
@@ -992,6 +1076,20 @@ Son los ingresos que se perciben por funciones de derecho público, cuyos elemen
 ###### Artículo 74.
 
 Son los ingresos que percibe el Estado por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 74
+
+Bis. Las personas turistas que ingresen al Estado de Quintana Roo pagarán el aprovechamiento a que se refiere el presente artículo por el Uso y Aprovechamiento de bienes de dominio público y beneficios derivados del ejercicio de las funciones de derecho público del Estado de Quintana Roo.
+
+El aprovechamiento se fijará a razón de una cuota de 2.5 veces el valor diario de la UMA, y se causará al momento en que la persona turista ingrese al territorio del Estado de Quintana Roo.
+
+El aprovechamiento deberá ser enterado a la autoridad fiscal por las personas turistas que ingresen al Estado de Quintana Roo, utilizando las formas autorizadas por el SATQ a través de los mecanismos que al efecto emita el SATQ.
+
+El SATQ a través de (sic) Reglas de Carácter General determinará el mecanismo de recaudación y entero del aprovechamiento referido.
+
+Los retenedores de este aprovechamiento deberán enterarlo de conformidad con lo dispuesto por el artículo 9 de la presente Ley, a más tardar el día 17 del mes siguiente a aquél en que se causó.
 
 ### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1138,3 +1236,15 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECIOCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 074 POR EL QUE SE REFORMAN, DEROGA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. Con excepción de lo previsto en el artículo 74-Bis, el presente decreto entrará en vigor el primer día del mes de enero del año 2021, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Lo dispuesto por el artículo 74-Bis, del presente Decreto, entrara en vigor el día primero del mes de abril del año dos mil veintiuno.
+
+TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
