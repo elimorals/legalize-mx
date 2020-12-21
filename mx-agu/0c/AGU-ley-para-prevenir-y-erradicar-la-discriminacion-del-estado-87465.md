@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2019-10-14"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -137,13 +137,17 @@ XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia 
 
 XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXXIV. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física; y
+XXXIV. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento, de la Ley para la protección de la niñez y la adolescencia del Estado de Aguascalientes, de la Ley para la protección especial de los adultos mayores del Estado de Aguascalientes y la Ley de acceso de las mujeres a una vida libre de violencia.
+XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento, de la Ley para la protección de la niñez y la adolescencia del Estado de Aguascalientes, de la Ley para la protección especial de los adultos mayores del Estado de Aguascalientes y la Ley de acceso de las mujeres a una vida libre de violencia; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXXVI.- El no garantizar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención especializada en lenguaje de señas para las personas que así lo requieran, o carecer de los señalamientos e información que utilice el lenguaje del sistema de escritura braille.
 
 ###### ARTÍCULO 6º.
 
@@ -430,3 +434,19 @@ P.O. 14 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 439.- REFORMAS A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad, deberá cumplir lo establecido en el Artículo 7° Fracción XII del presente Decreto, a más tardar dentro de los 180 días siguientes a la publicación de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A más tardar, a los 365 días siguientes a la publicación del presente Decreto, se deberá brindar la atención especializada a personas con discapacidad en las instituciones obligadas, en caso de que no se cuente con esto se considerará una práctica discriminatoria de acuerdo a la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes.
