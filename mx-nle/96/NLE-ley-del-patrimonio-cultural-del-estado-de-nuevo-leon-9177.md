@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2018-05-11"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -49,13 +49,21 @@ El patrimonio cultural del Estado está constituído por bienes históricos y ar
 
 Para los efectos del artículo anterior se entiende por:
 
-I. Bienes históricos: Todos los bienes muebles e inmuebles que se encuentren vinculados a la historia social, política económica, cultural y religiosa del Estado, o que hayan adquirido con el tiempo valor cultural, así como aquellos relacionados con la vida de un personaje de la historia del Estado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+I. Bienes históricos: Todos los bienes muebles e inmuebles, recursos naturales que se encuentren vinculados a la historia social, política económica, cultural y religiosa del Estado, o que hayan adquirido con el tiempo valor cultural, así como aquellos relacionados con la vida de un personaje de la historia del Estado.
 
 II. Bienes artísticos: Los muebles e inmuebles que posean valores estéticos permanentes, y las obras y archivos literarios musicales y fotográficos cuya importancia o valor sean de interés para el arte en el Estado.
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 III. Bienes Deportivos: Los muebles e inmuebles que posean valores estéticos permanentes, cuya importancia o valor sean de interés para el Deporte en el Estado.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III Bis DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III Bis. GRABADOS INUSUALES EN PIEDRA CALIZA: BIENES HISTÓRICOS CONSISTENTES EN PIEZAS O FRAGMENTOS CON GRABADOS INUSUALES, DE SERES VIVOS QUE HABITARON EL PLANETA EN LA ÉPOCA CRETÁCICA, SUSTRAÍDAS DE ROCAS SEDIMENTARIAS CALIZAS CUYO GRABADO CONTIENE CARBONATO DE CALCIO, SALVO AQUELLOS QUE SEAN CONSIDERADOS FÓSILES POR LA LEGISLACIÓN APLICABLE EN LA MATERIA;
 
 IV. Zonas protegidas: Las áreas territoriales que sea interés del Estado proteger jurídicamente por su significado histórico, artístico, típico, pintoresco o de belleza natural, para evitar, detener o reparar el deterioro causado por agentes naturales o por el hombre.
 
@@ -109,9 +117,17 @@ IV.- La Secretaría de Obras Públicas;
 
 V.- Los Ayuntamientos;
 
-VI.- Las Juntas de protección y Conservación; y
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020
 
-VII.- Las demás autoridades estatales y municipales en lo que respecta a sus competencias.
+VI.- Las Juntas de protección y Conservación;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020
+
+VII.- El Consejo para la Cultura y las Artes de Nuevo León; y
+
+(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020
+
+VIII.- Las demás autoridades estatales y municipales en lo que respecta a sus competencias.
 
 ###### ARTICULO 9o.
 
@@ -119,9 +135,19 @@ Son órganos de apoyo para la aplicación de esta Ley;
 
 I.- Los Patronatos Locales Prodefensa del Patrimonio Cultural:
 
-II.- Los Comités Técnicos de Protección, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-III.- Los demás a los que las disposiciones jurídicas les den ese carácter.
+II.- Los Comités Técnicos de Protección;
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III.- EL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES; Y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV.- Los demás a los que las disposiciones jurídicas les den ese carácter.
 
 ###### ARTICULO 10o.
 
@@ -245,11 +271,47 @@ VI.- Los demás que le encomienden las disposiciones legales.
 
 Podrá haber un Comité Técnico de protección en cada una de las cabeceras de los Municipios, integrado cuando menos por seis personas designadas por el Gobernador, entendidas en urbanismo, arte, historia, arquitectura y en conservación y restauración de monumentos.
 
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020
+
+### CAPITULO V BIS. DEL COMITE CIENTIFICO DE GRABADOS INUSUALES
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 24o BIS.- Se crea el Comité Científico de Grabados Inusuales, como un órgano técnico del Consejo para la Cultura y las Artes de Nuevo León, especializado en ciencias de la tierra, con el fin de promover el estudio y registro como patrimonio estatal de grabados inusuales de rocas caliza (sic) con valor histórico que contengan carbonato de calcio.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 24o BIS 1.- El Comité Científico de Grabados Inusuales será de carácter honorifico y estará integrado por cinco ciudadanos nombrados por el Consejo para la Cultura y las Artes de Nuevo León, previa convocatoria pública, nombrando a un presidente, un secretario, y tres vocales, de los cuales uno de ellos deberá ser nombrado a propuesta del Instituto Nacional de Antropología e Historia, y quienes deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
+
+II. Contar con título y cedula profesional en ciencias de la tierra, biología, paleontología, o materias afines;
+
+III. Contar con publicaciones en revistas científicas sobre ciencias de la tierra, biología, paleontología, o materias afines; y
+
+IV. Ser avalado mediante una carta de recomendación por una institución académica o científica especializada en ciencias de la tierra, biología, paleontología, o materias afines, señalando el conocimiento con el que cuenta el ciudadano.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 24o BIS 2.- Son facultades del Comité Científico de Grabados Inusuales:
+
+I. Determinar los puntos estratégicos dentro del Estado de Nuevo León en donde se presuman existan las rocas con los grabados inusuales con valor histórico que contengan carbonato de calcio;
+
+II. Promover la realización de los trabajos de excavación en las Minas y/o predios con las herramientas y equipo especializado para lograr el rescate de las rocas;
+
+III. Investigar y evaluar el contenido de los grabados inusuales encontrados en las rocas que contengan carbonato de calcio con valor histórico;
+
+IV. Informar al Consejo para la Cultura y las Artes de Nuevo León sobre la factibilidad para la declaratoria correspondiente y registro de grabados inusuales en rocas que contengan carbonato de calcio con valor histórico, así como su destino; y
+
+V. Coordinarse con las Juntas de Protección y Conservación del Patrimonio Cultural para el ejercicio de las atribuciones establecidas en el presente artículo.
+
 ### CAPITULO VI. ADSCRIPCION DE BIENES AL PATRIMONIO CULTURAL
-
-### CAPITULO VII
-
-REPRODUCCIONES:
 
 ###### ARTICULO 25o.
 
@@ -259,9 +321,11 @@ Previamente, de acuerdo con el procedimiento administrativo establecido en el re
 
 La declaratoria se pronunciará dentro de los 30 días siguientes a la expiración del término de que trata el párrafo anterior.
 
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020
+
 ###### ARTICULO 26o.
 
-Los bienes muebles e inmuebles declarados adscritos al patrimonio cultural, estarán sujetos a la protección jurídica del Estado, únicamente en lo que respecta a su valor cultural, sin importar quienes sean sus propietarios o poseedores.
+Los bienes muebles, inmuebles, recursos naturales declarados adscritos al patrimonio cultural, estarán sujetos a la protección jurídica del Estado, únicamente en lo que respecta a su valor cultural, sin importar quienes sean sus propietarios o poseedores.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -323,7 +387,9 @@ Si el daño fuere irreparable, el responsable resarcirá al Estado de los daños
 
 En los casos del artículo anterior, serán solidaria y mancomunadamente responsables, quien haya ordenado las obras y el contratista o encargado de ejecutarlas.
 
-### CAPITULO VIII. INTERCAMBIO
+### CAPITULO VII
+
+REPRODUCCIONES:
 
 ###### ARTICULO 35o.
 
@@ -347,11 +413,15 @@ Las instituciones oficiales tendrán preferencia en la reproducción de bienes c
 
 Toda reproducción de bien cultural se hará previo juicio del Comité Técnico de protección, que decida sobre la conveniencia o inconveniencia de la copia, sobre el valor científico del original y sobre el medio de emplear.
 
-### CAPITULO IX. ZONAS PROTEGIDAS
+### CAPITULO VIII. INTERCAMBIO
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 40o.
 
-Los bienes que haya sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por corto plazo y con fines de intercambio cultural, mediante autorización expresa del Gobernador y previo informe de la Junta de Protección y Conservación apoyada por opinión del Comité Técnico de Protección.
+Los bienes que haya (sic) sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por corto plazo y con fines de intercambio cultural, mediante autorización expresa del Gobernador y previo informe de la Junta de Protección y Conservación apoyada por la opinión del Comité Técnico de Protección, O EN SU CASO DEL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES PARA LOS EFECTOS DE LO ESTABLECIDO EN EL CAPÍTULO V BIS DE LA PRESENTE LEY. SE EXCEPTÚAN DE LO ANTERIOR, LOS FÓSILES REGULADOS POR LA LEGISLACIÓN FEDERAL APLICABLE A LA MATERIA.
 
 ###### ARTICULO 41o.
 
@@ -361,9 +431,7 @@ Los bienes adscritos al patrimonio cultural no podrán ser exportados ni podrán
 
 El Gobierno del estado podrá celebrar convenios con los gobiernos de otros Estados para asegurar la recuperación de los bienes adscritos al patrimonio cultural que hubiesen salido del territorio de Nuevo León.
 
-### CAPITULO X. REGISTRO PUBLICO, INVENTARIO Y
-
-CATALOGO DEL PATRIMONIO CULTURAL
+### CAPITULO IX. ZONAS PROTEGIDAS
 
 ###### ARTICULO 43o.
 
@@ -427,9 +495,9 @@ El acceso a los monumentos y fincas que se encuentren dentro de las zonas proteg
 
 La Junta vigilará que los giros establecidos dentro de las zonas protegidas, guarden las condiciones necesarias de limpieza y aspecto, respetando los elementos ornamentales y arquitectónicos.
 
-### CAPITULO XI
+### CAPITULO X. REGISTRO PUBLICO, INVENTARIO Y
 
-VALORES CULTURALES.
+CATALOGO DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 55.
 
@@ -444,6 +512,12 @@ Las personas físicas o morales, deberán inscribir en el Registro del Patrimoni
 ###### ARTICULO 57.
 
 La inscripción en los registros se hará de oficio o a petición de parte interesada. Para proceder a la inscripción de oficio, deberá previamente notificarse en forma personal al interesado. En caso de ignorarse su nombre y domicilio, surtirá efectos de notificación personal la publicación de ésta en el Periódico Oficial del Estado.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 57 BIS.- Para la solicitud de inscripción de los bienes históricos del artículo 4, fracción III Bis, se hará de oficio y se requerirá de la opinión sobre la factibilidad por parte del Comité Científico de Grabados Inusuales. Se exceptúan de lo anterior, los fósiles regulados por la legislación federal aplicable a la materia.
 
 ###### ARTICULO 58.
 
@@ -485,9 +559,9 @@ N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECR
 
 Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos respectivos, de los cuales la Secretaría de Desarrollo Social del Estado llevará un registro.
 
-### CAPITULO XII
+### CAPITULO XI
 
-SANCIONES:
+VALORES CULTURALES.
 
 ###### ARTICULO 65.
 
@@ -507,9 +581,9 @@ N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECR
 
 La Secretaría de Desarrollo Social del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
 
-### CAPITULO XIII. DEL FONDO
+### CAPITULO XII
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+SANCIONES:
 
 ###### ARTICULO 69.
 
@@ -594,6 +668,10 @@ I.- Los propietarios de los inmuebles involucrados en las citadas violaciones; y
 II.- Quienes ordenen o hayan ordenado las acciones constitutivas de la violación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2018)</small>
+
+### CAPITULO XIII. DEL FONDO
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 83.
 
@@ -696,3 +774,17 @@ Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del pr
 Cuarto.- El Fideicomiso deberá constituirse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
 
 Quinto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesorería General del Estado, además de observar los criterios y bases a que refiere el artículo 85 de (sic) Ley del Patrimonio Cultural del Estado de Nuevo León del presente Decreto, fijará los lineamientos y las reglas de operación de Fideicomiso antes del lanzamiento de la convocatoria.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 382. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4o, LAS FRACCIONES VI Y VII DEL ARTÍCULO 8o, LAS FRACCIONES II Y III DEL ARTÍCULO 9o, LOS ARTÍCULOS 26o y 40o; Y SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 4o, LA FRACCIÓN VIII DEL ARTÍCULO 8o, LA FRACCIÓN IV DEL ARTÍCULO 9o, EL CAPÍTULO V BIS DENOMINADO "DEL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES" CON LOS ARTÍCULOS 24 BIS, 24 BIS 1, 24 BIS 2, Y EL ARTÍCULO 47 BIS, TODOS DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO SEGUNDO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SEGUNDO.- El Consejo para la Cultura y las Artes de Nuevo León deberá emitir la convocatoria pública PARA INTEGRAR AL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+(NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO TERCERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+TERCERO.- El Consejo para la Cultura y las Artes de Nuevo León, emitirá los lineamientos PARA EL FUNCIONAMIENTO DEL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES.
