@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2019-12-30"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -53,9 +55,9 @@ La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-I. ANFITRIÓN. Persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración en forma total o parcial, de manera permanente o eventual a través de plataforma digital;
+I. ANFITRIÓN. Nombre que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración, en forma total o parcial, de manera permanente o eventual, a través de una plataforma digital.
 
 II. CÓDIGO. El Código Fiscal del Estado de Quintana Roo.
 
@@ -65,9 +67,13 @@ IV. IMPUESTO. El Impuesto al Hospedaje.
 
 V. LEY. La Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
 
-VI. PLATAFORMA DIGITAL. Es la aplicación tecnológica mediante la cual la persona física o moral administradora, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, que permite a los usuarios contratar servicios de hospedaje con terceros.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VII. PRESTADOR DE SERVICIO DE HOSPEDAJE. La persona física o moral que directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas de servicios turísticos y/o tiempos compartidos, subagencia o de cualquier tipo, con motivo de los actos o negocios jurídicos que celebre, preste el servicio de hospedaje.
+VI. PLATAFORMA TECNOLÓGICA O DIGITAL: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, permitiendo contratar los servicios ofrecidos por el prestador de servicio de hospedaje.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VII. PRESTADOR DE SERVICIO DE HOSPEDAJE. La persona física o moral que preste el servicio de hospedaje en inmuebles de su propiedad, posesión o administración en forma total o parcial, de manera permanente o eventual, ya sea directamente al usuario o a través de agencias operadoras mayoristas, agencias de viajes minoristas de servicios turísticos y/o tiempos compartidos, subagencia, plataformas digitales o de cualquier nombre con el que se denomine, con motivo de los actos o negocios jurídicos que celebre sobre los mismos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -77,13 +83,17 @@ VIII. SATQ. Servicio de Administración Tributaria del Estado de Quintana Roo.
 
 IX. SECRETARÍA. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. SERVICIO DE HOSPEDAJE. La prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación económica.
+X. SERVICIO DE HOSPEDAJE. La prestación de alojamiento o albergue temporal de personas, denominadas usuarios, a cambio de una contraprestación económica.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 XI. UNIDAD ECONÓMICA. Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII. USUARIO. Persona física o moral que contrata y/o paga los servicios de hospedaje.
 
 ###### ARTÍCULO 3.
 
@@ -91,11 +101,11 @@ La recaudación y administración del impuesto es de la competencia de la Secret
 
 ## TÍTULO II. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 4.
 
-Es objeto de este impuesto el pago por servicios de hospedaje que otorguen:
+Es objeto del impuesto al hospedaje establecido en esta ley, los servicios de hospedaje que presten las personas físicas y las morales dentro del territorio del Estado de Quintana Roo, que otorguen:
 
 I. Hoteles, moteles, mesones, posadas, hosterías;
 
@@ -151,23 +161,21 @@ Cuando el servicio de hospedaje se brinde a través de un anfitrión, este deber
 
 Las plataformas digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento con el carácter de retenedor.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Cuando se lleve a cabo la inscripción a que se refiere este párrafo, las plataformas digitales deberán designar ante el SATQ un representante legal y proporcionar un domicilio en el territorio del Estado de Quintana Roo, para efectos de notificación y vigilancia del cumplimiento de las obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+El SATQ dará a conocer en su página de Internet y en el Periódico Oficial del Estado de Quintana Roo, durante el mes de marzo de cada ejercicio fiscal, la lista de plataformas digitales que se encuentren inscritos (sic) en el Registro Estatal de Contribuyentes o tengan renovación vigente.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 Para tal efecto, la plataforma digital que intervenga en el cobro de las contraprestaciones por servicio de hospedaje, deberá proporcionar a la Secretaría su Padrón de Anfitriones con base a las reglas que al efecto emita ésta, debiendo emitir una constancia de manera individual a sus anfitriones del cumplimento de esta obligación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
 ###### ARTÍCULO 7
 
-Bis. No estarán obligados a cumplir lo previsto en el segundo párrafo del artículo anterior, los anfitriones que brinden servicios de hospedaje, siempre y cuando cumplan con lo siguiente:
-
-I. Acreditar que es residente permanente del inmueble, y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-II. Que el ingreso mensual obtenido por la prestación del servicio no exceda de 120 veces el valor diario de la Unidad de Medida y Actualización por inmueble.
-
-Lo anterior no lo exime del pago del impuesto a que se refiere la presente Ley.
+Bis. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ## TÍTULO IV. DE LA TASA Y LA BASE
 
@@ -328,3 +336,11 @@ P.O. 30 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor a partir del día 1 de enero de 2020.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 072, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2021, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
