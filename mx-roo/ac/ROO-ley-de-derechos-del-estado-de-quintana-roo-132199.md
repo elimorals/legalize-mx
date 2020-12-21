@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-12-18"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -54,6 +54,10 @@ LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 ###### Artículo 1.
 
 La presente Ley es de orden público, observancia general y obligatoria para el Estado de Quintana Roo y tiene por objeto regular el cobro de los derechos que se causen por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta éste, en sus funciones de derecho público, a través de las Dependencias y órganos desconcentrados del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los derechos denominados en la Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
 
 ###### Artículo 2.
 
@@ -115,9 +119,11 @@ Cuando se concesione o autorice que la prestación de un servicio que grava esta
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-Cuando no se cubra el pago de los derechos en los plazos previstos en la presente Ley, el monto de los mismos se actualizará conforme a lo previsto en el artículo 20 del Código Fiscal del Estado de Quintana Roo.
+Cuando no se cubra el pago de los derechos en los plazos previstos en la presente Ley, el monto de los mismos se actualizará conforme a lo previsto en los artículos 20 y 22 del Código Fiscal del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -140,6 +146,10 @@ VII. SATQ: Servicio de Administración Tributaria del Estado de Quintana Roo;
 VII. Secretaría: Secretaría de Finanzas y Planeación, y
 
 VIII. UMA: Valor Diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. Derechos: Son las contribuciones establecidas en la Ley, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley de Derechos del Estado de Quintana Roo. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -301,15 +311,33 @@ V. No especificado. 3.50
 
 VI. Constancia de inexistencia de registro. 3.50
 
-VII. Aclaración administrativa. 4.50
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII. Anotación marginal. 1.00
+VII. Constancia de extemporaneidad. 2.00
 
-IX. Autorización de registro extemporáneo. 2.75
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X. Por la expedición de fotocopias de actos
+VIII. Aclaración administrativa. 4.50
 
-registrados certificados 0.50
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. Anotación marginal. 1.00
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+X. Autorización de registro extemporáneo. 2.75
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XI. Por la expedición de fotocopias de actos
+
+registrados certificados. 0.50
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII. Reposición de los Actos del Estado 2.00
+
+Civil de las personas.
 
 ###### Artículo 20.
 
@@ -465,9 +493,9 @@ En los casos de desastres naturales o programas de regularización como matrimon
 
 Durante las campañas realizadas por el Registro Civil con motivo de días conmemorativos, por la expedición de copia certificada del acta de nacimiento local, procederá la exención de su cobro.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Cuando se trate de personas de escasos recursos, previa aplicación del estudio socioeconómico correspondiente, se exentará del pago de derechos que se causen por la expedición de actas certificadas de nacimiento, constancias de inexistencia de registro y rectificación y/o aclaración de actas con anotación marginal, siempre y cuando sea bajo el amparo de alguno de los programas institucionales a través de la Dirección General del Registro Civil o el Sistema Estatal para el Desarrollo Integral de la Familia.
+Cuando se trate de personas de escasos recursos, previa aplicación del estudio socioeconómico correspondiente, se exentará del pago de derechos que se causen por la expedición de actas certificadas de nacimiento, matrimonio, divorcio, constancias de inexistencia de registro y rectificación y/o aclaración de actas con anotación marginal, siempre y cuando sea bajo el amparo de alguno de los programas institucionales a través de la Dirección General del Registro Civil o el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 25.
 
@@ -527,9 +555,15 @@ III. Por solicitud de asiento de presentación de aviso preventivo con vigencia 
 
 IV. Por la expedición de copias certificadas relativas a los actos que obren en el programa informático por hoja. 2.00
 
-V. Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio. 5.00
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-Para la aplicación del presente inciso (sic), el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
+V. Por expedición de cada certificado de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada. 5.00
+
+El solicitante deberá especificar la forma en que requiera el certificado:
+
+a) Por nombre: en el que se certificarán los folios que reporte el sistema por dicho nombre.
+
+b) Por folio: en el que se certificarán los actos que reporte el sistema por dicho folio.
 
 VI. Por expedición de constancias de asiento registral por folio 5.00
 
@@ -595,7 +629,9 @@ I. Inserción de publicaciones
 
 a) Edición ordinaria por página (tamaño de letra 10, interlineado 1.5) 9.00
 
-b) Edición extraordinaria por página (tamaño de letra 10, interlineado 1.5) 16.00
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+b) Edición extraordinaria por página (tamaño de letra 10, interlineado 1.5) 12.00
 
 c) Gráficos, mapas, planos, croquis en ambas ediciones.
 
@@ -779,7 +815,9 @@ Bis.Por los servicios que preste la Dirección General de Licencias de Bebidas A
 
 CONCEPTO TARIFA
 
-EXPEDICIÓN DE LICENCIAS. UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+1. EXPEDICIÓN DE LICENCIAS. UMA
 
 I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 3,624.00
 
@@ -791,11 +829,21 @@ IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al may
 
 V. Bodega o almacén de bebidas alcohólicas como sucursal sin venta directa al público. SIN COSTO
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio. 2,898.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VII. Servicio en línea y/o a domicilio para su distribución al mayoreo. 5,072.00
+
 Para la expedición de licencias únicas, se pagará la tarifa correspondiente por cada giro o establecimiento, que incluya esta licencia.
 
 CONCEPTO TARIFA
 
-CAMBIO DE PROPIETARIO. UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+2. CAMBIO DE PROPIETARIO. UMA
 
 I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 604.00
 
@@ -805,9 +853,19 @@ III. Venta de bebidas alcohólicas en envase cerrado; 483.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 604.00
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Servicio en línea y/o a domicilio. 483.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 604.00
+
 CONCEPTO TARIFA
 
-CAMBIO DE DOMICILIO UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+3. CAMBIO DE DOMICILIO. UMA
 
 I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 363.00
 
@@ -817,15 +875,25 @@ III. Venta de bebidas alcohólicas en envase cerrado; 289.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 363.00
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Servicio en línea y/o a domicilio. 289.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 363.00
+
 El derecho por cambio de giro corresponderá a la diferencia entre el costo del giro autorizado y el giro solicitado.
 
 Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario un derecho equivalente a:
 
 CONCEPTO TARIFA
 
-COMODATO UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 237.00
+4. COMODATO. UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 237.00
 
 II. Venta de bebidas alcohólicas en envase abierto o al copeo; 355.00
 
@@ -833,13 +901,23 @@ III. Venta de bebidas alcohólicas en envase cerrado; 118.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 307.00
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Servicio en línea y/o a domicilio. 118.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 307.00
+
 Las licencias de bebidas alcohólicas se deberán refrendar anualmente en la Secretaría, dentro de los primeros dos meses del año, de acuerdo con las tarifas siguientes:
 
 CONCEPTO TARIFA
 
-REFRENDO UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-l. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 213.00
+5. REFRENDO. UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 213.00
 
 II. Venta de bebidas alcohólicas en envase abierto o al copeo; 319.00
 
@@ -847,9 +925,19 @@ III. Venta de bebidas alcohólicas en envase cerrado; 106.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 276.00
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Servicio en línea y/o a domicilio. 106.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 276.00
+
 CONCEPTO TARIFA
 
-PERMISOS ESPECIALES. UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+6. PERMISOS ESPECIALES. UMA
 
 I. Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados souvenirs; 240.00
 
@@ -859,7 +947,9 @@ III. Servicio público especializado. 110.00
 
 CONCEPTO TARIFA
 
-PERMISO PROVISIONAL UMA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+7. PERMISO PROVISIONAL. UMA
 
 I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos. 100.00
 
@@ -869,7 +959,21 @@ III. Venta de bebidas alcohólicas en envase cerrado; 80.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 150.00
 
-OTROS CONCEPTOS UMA
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. Servicio en línea y/o a domicilio. 80.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 150.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+CONCEPTO TARIFA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+8. OTROS CONCEPTOS. UMA
 
 I. Renovación 40.00
 
@@ -951,6 +1055,10 @@ Los derechos por dotación de placas a que se refiere esta fracción deberán pa
 
 Los derechos por canje de placas deberán pagarse los primeros tres meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Con el fin de evitar la falsificación, adulteración o empleo indebido de las placas vehiculares, durante cada canje de placas, los contribuyentes deberán hacer entrega de las placas vehiculares que ya no tienen un uso oficial o su vigencia ha fenecido de conformidad con la Norma Oficial Mexicana NOM-001-SCT-2-2016, las cuales quedarán bajo resguardo y control de la Secretaría para su posterior destrucción.
+
 CONCEPTO UMA
 
 III. Derechos por control vehicular por refrendo:
@@ -986,6 +1094,10 @@ CONCEPTO UMA
 VII. Por la expedición de historial de pagos 2.00
 
 VIII. Por la búsqueda de registro vehicular en otras entidades federativas 2.00
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX. Expedición de Constancia de Registro Vehicular. 3.00
 
 ###### Artículo 44.
 
@@ -1049,7 +1161,9 @@ III. Por el análisis y calificación de documentos para la modificación o canc
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+#### SECCIÓN SÉPTIMA. SERVICIOS DE ALMACENAJE
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 50.
 
@@ -1253,9 +1367,7 @@ XIII. Constancia de Actualización de datos catastrales 8.00
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
 ###### Artículo 51
 
@@ -1295,6 +1407,28 @@ Pagarán el 50% de los derechos a que se refiere este artículo las personas may
 
 Estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en México, los domingos.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 51
+
+Ter. Por el almacenaje a que se refieren el último párrafo de los artículos 184 y 192, así como el tercer párrafo del artículo 192-Bis del Código Fiscal del Estado de Quintana Roo, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 51
+
+Quater. La cuota por día de los derechos de almacenaje previstos en el artículo 51-Ter de esta Ley es de 0.50 el valor diario de la UMA.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 51
+
+Quinquies. Los interesados dispondrán de tres días hábiles para el retiro de sus bienes muebles, contados a partir de la fecha en que hubieran pagado los derechos de almacenaje. Transcurrido dicho término sin haber retirado los bienes muebles, se cubrirán estos derechos por todo el tiempo que continúe el almacenaje, a partir del día siguiente a aquél en que se efectuó el pago, hasta el momento en que se retiren.
+
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
@@ -1313,13 +1447,11 @@ Estarán exentos del pago de este derecho los visitantes nacionales y extranjero
 
 #### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
 
+### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
+
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
-
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 52.
 
@@ -1395,7 +1527,7 @@ Inmobiliario 15.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 54.
 
@@ -1559,7 +1691,7 @@ Contratistas del Estado de Quintana Roo. 10.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 56.
 
@@ -1783,7 +1915,7 @@ II. Análisis y calificación para emitir la congruencia de uso de suelo de los 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 61.
 
@@ -1885,11 +2017,67 @@ f) Estudiantes con credencial vigente, Profesores
 
 e Investigadores de la Universidad de Quintana Roo Exentos
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+III. RESERVA ECOLÓGICA ESTATAL “LAGUNA MANATÍ”.
+
+1. Admisión
+
+a) Nacionales (Excepto quintanarroenses) 0.2302
+
+b) Extranjeros. 0.5755
+
+c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
+
+2. Prestadores de Servicios
+
+a) Por autorización anual a prestadores de servicios náuticos, acuático-recreativo, de bajo impacto. 4.6041
+
+b) Por ingreso diario a zonas de aprovechamientos de bajo impacto; pesca deportiva, pesca de liberación y/o actividades similares en las épocas establecidas. 8.0571
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IV. SANTUARIO DEL MANATI (BAHÍA DE CHETUMAL).
+
+1. Admisión
+
+a) Nacionales (Excepto quintanarroenses) 0.2302
+
+b) Extranjeros. 0.5755
+
+c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
+
+2. Otros Servicios
+
+a) Por autorización anual a prestadores de servicios Ecoturísticos, turismo alternativo y/o similares. 5.1796
+
+b) Por concepto de ingreso diario en zonas de aprovechamiento de bajo impacto, pesca deportiva, pesca de liberación y/o similares en las épocas establecidas. 4.6041
+
+c) Por concepto de provisión anual de servicios ecosistémicos únicamente para establecimientos fijos o móviles que opera con fines de lucro dentro del ANP. 57.5508
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+V. PARQUE LAGUNA DE BACALAR.
+
+1. Admisión
+
+a) Nacionales (Excepto quintanarroenses) 0.2302
+
+b) Extranjeros. 0.5755
+
+c) Menores de 8 años. Mayores de 65 años y personas con discapacidad. EXENTOS
+
+2. Otros servicios
+
+a) Por servicios de campamento por noche. 0.3453
+
+b) Servicio a Automóvil Particular. 0.1151
+
+c) Servicio público/Vans. 0.5755
+
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 62.
 
@@ -1911,7 +2099,9 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 63.
 
@@ -1919,7 +2109,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 64.
 
@@ -1961,7 +2151,7 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 66.
 
@@ -2005,7 +2195,7 @@ XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 67.
 
@@ -2023,7 +2213,7 @@ III. Peritos valuadores. 17.25
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 68.
 
@@ -2047,7 +2237,7 @@ Los servicios médicos asistenciales que se otorguen a la población abierta se 
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 70.
 
@@ -2065,7 +2255,7 @@ Los servicios médicos asistenciales que se otorguen a la población abierta se 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 72.
 
@@ -2077,7 +2267,7 @@ Por el análisis de la documentación para participar en la designación de desp
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 73
 
@@ -2213,13 +2403,47 @@ APARTADO A
 
 EMPRESAS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 76.
 
-Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos con base a la tarifa siguiente:
+Por los servicios que otorga la Secretaría de Seguridad Pública por el análisis y calificación del registro de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada, se causarán los siguientes derechos con base a las tarifas siguientes:
 
-a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 260.00 UMA, y
+CONCEPTO UMA
 
-b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180.00 UMA.
+I. Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de acuerdo al tipo de servicio:
+
+a) Servicio de vigilancia en inmuebles e instalaciones; 209.5
+
+b) Servicio de traslado y custodia de fondos y valores; 209.5
+
+c) Servicio de Operación de equipo y sistemas electrónicos; 210.7
+
+d) Servicio de traslado y protección de personas; 199.6
+
+e) Servicio de Seguridad Privada Interna, y 199.6
+
+f) Servicios de sistemas de prevención y responsabilidades. 199.6
+
+II. Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de acuerdo al tipo de servicio:
+
+a) Servicio de vigilancia en inmuebles e instalaciones; 145.0
+
+b) Servicio de traslado y custodia de fondos y valores; 145.0
+
+c) Servicio de Operación de equipo y sistemas electrónicos; 146.0
+
+d) Servicio de traslado y protección de personas; 138.1
+
+e) Servicio de seguridad privada interna, y; 138.1
+
+f) Servicio de sistemas de prevención y responsabilidades. 138.1
+
+III. Por análisis y calificación para el registro de clave única de identificación permanente de cada elemento de seguridad privada. 2.50
+
+IV. Por análisis y calificación para la actualización anual de la clave única de identificación permanente de cada elemento de seguridad privada. 1.50
+
+V. Otros servicios. 35.50
 
 APARTADO B
 
@@ -2263,11 +2487,241 @@ CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88.00 UMA por persona.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+APARTADO E
+
+ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 82
+
+Bis. Por los servicios de capacitación, adiestramiento y certificación, dirigida a los cuerpos de seguridad pública estatal y municipal, personal de custodia, policía ministerial, peritos, guías técnicos, personal de ayudantía y personal de seguridad privada, que presta la Secretaría de Seguridad Pública a través de la Academia Estatal de Seguridad Pública, se causarán derechos conforme a la tarifa siguiente:
+
+CONCEPTO UMA
+
+I. Programas de Formación Inicial Costo por elemento
+
+1) Formación Inicial para Policía Preventivo
+
+de Nuevo Ingreso. 483.4
+
+2) Formación Inicial para Policía Preventivo
+
+en Activo. 264.7
+
+3) Formación Inicial para Policía de
+
+Investigación. 345.3
+
+4) Formación Inicial para Ministerios Públicos. 345.3
+
+5) Formación Inicial para Perito. 345.3
+
+6) Formación Inicial para Custodios. 368.2
+
+II. Programas de Formación Continua. Costo por elemento
+
+1) Competencias Básicas de la Función Policial. 42.3
+
+2) Actualización de Estrategia Policial. 76.7
+
+3) Derechos Humanos. 46.00
+
+4) Marco Legal Policial. 46.00
+
+5) Informe Policial Homologado. 46.00
+
+6) Cadena de Custodia. 46.00
+
+7) Preservación del Lugar de los Hechos. 46.00
+
+8) Manual Básico del Policía Preventivo. 46.00
+
+9) Nuevo Modelo Policial. 46.00
+
+10) Ética Policial. 46.00
+
+11) Prevención del Delito. 46.00
+
+12) Técnicas de Investigación Policial. 46.00
+
+13) Uso Legítimo de la Fuerza. 46.00
+
+14) Uso Racional de la Fuerza, por elemento. 46.00
+
+15) Manejo de Estrés. 46.00
+
+16) Manejo y Solución de Conflictos. 46.00
+
+17) Proximidad Social. 46.00
+
+18) Adiestramiento Básico en Armamento y Tiro. 46.00
+
+19) Operación Táctica del Vehículo Policial. 46.00
+
+20) Técnicas de Defensa Policial. 46.00
+
+21) Registro de Personas. 46.00
+
+22) Técnica de Operación y procedimientos de
+
+Revisión. 46.00
+
+23) Técnica de Control y Conducción de
+
+Detenidos. 46.00
+
+24) Redacción de Informes Policiales. 46.00
+
+25) Manejo de casos. 46.00
+
+26) Acondicionamiento Físico. 90.2
+
+27) Disciplina. 90.2
+
+28) Hechos de Tránsito Terrestre. 90.2
+
+29) Asertividad y Negociación Policial. 90.2
+
+30) Manejo de Conflicto. 90.2
+
+31) Comunicación Oral. 90.2
+
+32) Lenguaje Corporal. 90.2
+
+33) Integración de Equipos de Trabajo. 90.2
+
+34) Investigación e Identificación de Vehículos
+
+Robados. 90.2
+
+35) Narcomenudeo. 90.2
+
+36) Técnicas de Entrevista e Interrogatorio. 90.2
+
+37) Sistema de Justicia para Adolescentes. 90.2
+
+38) Argumentación Jurídica. 90.2
+
+39) Teoría del Delito. 90.2
+
+40) Teoría del caso. 90.2
+
+41) Operación de Equipos de Radiocomunicación. 90.2
+
+42) Manejo del Bastón Policial. 90.2
+
+43) Relaciones Humanas. 45.12
+
+44) Comunicación. 45.12
+
+45) Integración Grupal. 45.12
+
+46) Formación de instructores. 45.12
+
+47) Psicología Policial. 45.12
+
+48) Negociación. 45.12
+
+49) Orientado a Resultado. 45.12
+
+50) Liderazgo policial. 45.12
+
+51) Normatividad Específico. 45.12
+
+52) Sistema Penal Acusatorio. 146.6
+
+53) Medios Alternativos de Justicia. 138.00
+
+54) Grupo Táctico. 138.00
+
+55) La Prueba Pericial en el Sistema Penal
+
+Acusatorio. 138.00
+
+56) Sensibilización del Juicio Oral. 138.00
+
+57) Intervención Policial y Uso Táctico de
+
+Armamento (swat). 138.00
+
+58) Operaciones Especiales de Reacción. 138.00
+
+59) Detección y conducción de vehículos robados. 138.00
+
+60) Armamento y Tiro Policial. 138.00
+
+61) Diseño de Operativos Especiales. 138.00
+
+62) Policía de Proximidad con Perspectiva de
+
+Género. 138.00
+
+63) Inteligencia para el Combate al
+
+narcomenudeo. 138.00
+
+64) Investigación de Delitos. 138.00
+
+65) Conducción de Reos y Detección de Droga. 138.00
+
+66) Grupos Tácticos de Reacción Penitenciaria. 138.00
+
+67) Criminología en el Sistema Penitenciario. 138.00
+
+68) Oratoria y Redacción en los Juicios Orales. 138.00
+
+69) Metodología de la Investigación Policial. 138.00
+
+70) Investigación sobre el Crimen Organizado. 138.00
+
+71) Bases Metodológicas para la Proximidad
+
+Social. 138.00
+
+72) Diplomado para Mandos Medios. 138.00
+
+73) Sistema Penal Acusatorio para Mandos. 146.6
+
+74) Desarrollo de Habilidades Directivas. 135.4
+
+75) Integración de Trabajo en Equipo. 135.4
+
+76) Diplomado en Seguridad Penitenciaria. 135.4
+
+77) Administración de la Seguridad Pública. 135.4
+
+78) Formador de Formadores. 135.4
+
+79) Planeación Táctica Operativa. 135.4
+
+80) Planeación y Control Policial. 135.4
+
+81) Habilidades Gerenciales para Mandos. 135.4
+
+82) Gestión y Administración Policial. 135.4
+
+83) Toma de decisiones. 135.4
+
+84) Nuevo Modelo Policial para Mandos. 135.4
+
+85) Comunicación y Lenguaje. 135.4
+
+86) Diplomado en Juicios Orales. 135.4
+
+87) Liderazgo y Ética Policial. 135.4
+
+88) Evaluación de las Competencias Básicas
+
+Policiales. 9.67
+
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 83.
 
@@ -2275,7 +2729,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 84.
 
@@ -2283,7 +2737,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 85.
 
@@ -2291,7 +2745,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 86.
 
@@ -2299,7 +2753,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 87.
 
@@ -2307,7 +2761,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 88.
 
@@ -2315,7 +2769,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 89.
 
@@ -2323,7 +2777,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 90.
 
@@ -2331,7 +2785,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 91.
 
@@ -2339,7 +2793,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 92.
 
@@ -2347,7 +2801,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 93.
 
@@ -2355,7 +2809,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 94.
 
@@ -2363,7 +2817,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 95.
 
@@ -2371,7 +2825,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 96.
 
@@ -2379,7 +2833,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 97.
 
@@ -2387,7 +2841,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 98.
 
@@ -2395,7 +2849,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 99.
 
@@ -2403,7 +2857,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 100.
 
@@ -2411,7 +2865,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 101.
 
@@ -2427,7 +2881,7 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 104.
 
@@ -2439,13 +2893,15 @@ Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 106.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
 
 ###### Artículo 107.
 
@@ -2627,6 +3083,8 @@ VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por ca
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
+En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación, Oposición y Portabilidad), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
+
 En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
@@ -2654,6 +3112,10 @@ Cualquier institución pública estatal no prevista en la presente ley, que pres
 ###### Artículo 123.
 
 Son las contribuciones derivadas por contraprestaciones no incluidas en los tipos anteriores, de conformidad con la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+De igual forma, se consideran otros derechos, los relativos a la expedición de copias y legalizaciones para aquellas dependencias y órganos desconcentrados del poder ejecutivo que no establezcan una cuota específica dentro de la presente Ley, se causarán los siguientes derechos con base a la tarifa siguiente:
 
 CONCEPTO UMA
 
@@ -2862,3 +3324,11 @@ Para los efectos de coordinación con las Entidades, se considerarán derechos, 
 También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros. Cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 SÉPTIMO. Los conceptos y tarifas previstas en el Capítulo II, Título II de esta Ley, que se derogan en el presente Decreto, podrán ser utilizados por las Entidades Paraestatales y Fideicomisos para auxiliarse en el cobro de los servicios que presten en concepto de ingresos propios, hasta el 31 de enero de 2020.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 075 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1° de enero de 2021, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
