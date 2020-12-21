@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2019-04-22"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -118,6 +118,14 @@ e. Que no hayan sido sancionados, durante el último año, por actos relacionado
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
 X. Seguridad Técnica: Conjunto de disposiciones que tutelan la vida e integridad corporal humana, así como el estado del equipo, enlaces de comunicación y demás condiciones de funcionamiento mecánico, tratándose de seguridad mínima, en los servicios de empresas con giro de venta, consumo y/o distribución de bebidas alcohólicas, y en general servicios y procedimientos mínimos para garantizar y obtener una imagen gravada, o su interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo" conforme a los protocolos de seguridad interna para validación de la Secretaría de Seguridad, y los requisitos, perfiles y estándares del personal de seguridad privada para operar los protocolos.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XI. Venta en línea y/o a domicilio: Venta de bebidas alcohólicas por parte del titular de una licencia a un consumidor a través de una plataforma tecnológica o digital o llamada telefónica, que puede incluir el envío de éstas hasta su domicilio.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII. Plataforma tecnológica o digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se pueden descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que, para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, comprar y vender bebidas alcohólicas en la modalidad "en línea y/o a domicilio".
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -256,6 +264,10 @@ En todos los casos se deberá dar aviso a través de los medios de comunicación
 ###### ARTÍCULO 11.
 
 La Licencia de Bebidas Alcohólicas en lo general será personal e inembargable. Podrá ser transferible a un tercero cuando el titular de la Licencia solicite por escrito este acto al Ejecutivo, y sea autorizado a través de la Secretaría mediante un documento de carácter oficial que será emitido cuando se hayan satisfecho los requisitos que se establecen en el Artículo 12, y a lo señalado en la fracción III del Artículo 9 de la presente Ley, así como lo que estipule el Reglamento de la misma, y toda vez que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la Licencia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Los titulares de licencia de venta de bebidas alcohólicas en envase cerrado que opten por vender bebidas alcohólicas en la modalidad “en línea y/o a domicilio” deberán solicitar su licencia adicional, misma que estará vinculada a la licencia principal y sujeta a las mismas restricciones. La licencia de venta en línea y/o a domicilio será otorgada previo pago de los derechos correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -535,6 +547,12 @@ b) Restaurante bar: en horario ordinario, de lunes a domingo de las 10:00 horas 
 
 c) Bar: en horario ordinario de lunes a domingo de las 11:00 horas a las 23:00 horas y en horario extraordinario, de lunes a domingo de las 23:00 horas a las 04:00 horas del día siguiente.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 25
+
+TER.- Los establecimientos señalados en las fracciones I, II, III, IV, V y VI del inciso a) del artículo 25 que cuenten con una licencia de bebidas alcohólicas podrán solicitar una licencia para la venta de bebidas alcohólicas en línea y/o a domicilio, la cual será otorgada previo pago del derecho correspondiente.
+
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
@@ -605,6 +623,10 @@ VI.- No permitir el consumo dentro de los límites del establecimiento, estacion
 
 VII.- Será responsable solidario de las contribuciones causadas por el comodatario, conforme a lo dispuesto en el Código Fiscal del Estado.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Llevar un registro y/o bitácora para las ventas en línea y/o a domicilio, con base en lo previsto por el Reglamento de esta Ley.
+
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
@@ -659,9 +681,7 @@ III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a pe
 
 IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley u otras que lo prohíban expresamente;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-V.- Cuando la venta de bebidas alcohólicas al público en general se realice vía telefónica y/o cualquier otro medio electrónico o de comunicación y se otorgue el servicio de entrega a domicilio.
+V.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -702,6 +722,14 @@ XX.- No tener la licencia de bebidas alcohólicas, el permiso o la autorización
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
 XXI.- No contar con el Dictamen de Anuencia, y sus refrendos correspondientes, cuando le sea aplicable.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXII.- Expender bebidas alcohólicas en línea y/o a domicilio sin contar con la licencia correspondiente, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XXIII.- No contar con el registro y/o bitácora a que hace referencia el artículo 29 fracción VIII de la presente Ley.
 
 #### SECCIÓN SEGUNDA. DE LA IMPOSICIÓN DE LAS SANCIONES
 
@@ -771,9 +799,9 @@ Se aplicarán las sanciones por violaciones a la presente ley conforme a lo sigu
 
 I.- Multa de quinientas hasta mil veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones I, II, IV y X de esta Ley.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-II.- Multa de cuatrocientas hasta ochocientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones V, VI, VII, VIII, XIV y XV de esta Ley.
+II.- Multa de cuatrocientas hasta ochocientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones VI, VII, VIII, XIV, XV y XXII de esta Ley.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -809,7 +837,9 @@ Se establece la clausura como una sanción tendiente a suspender o cancelar el f
 
 La clausura será temporal o definitiva y se impondrá en los siguientes casos:
 
-I.- Hasta por treinta días cuando se hayan cometido alguna de las infracciones previstas en las fracciones I, IV, V, VI, IX, XIII, XIV, XV, XVII y XVIII del Artículo 32 de esta Ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+I.- Hasta por treinta días cuando se hayan cometido alguna de las infracciones previstas en las fracciones I, IV, VI, IX, XIII, XIV, XV, XVII y XVIII del artículo 32 de esta Ley;
 
 II.- Hasta por 45 días por reincidir en segunda ocasión a las infracciones señaladas en la presente ley;
 
@@ -1402,3 +1432,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se dejan sin efectos todos los Decretos, Reglamentos, Acuerdos, Circulares y demás disposiciones normativas de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Cuando en otras disposiciones se haga referencia a Patentes, Licencias y Permisos para la Venta de Bebidas Alcohólicas, se entenderá que se trata de la Licencia de Bebidas Alcohólicas que regula la presente Ley.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 076 POR EL QUE SE REFORMAN, ADICIONAN Y SE DEROGA DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2021.
+
+SEGUNDO. Se derogan aquellas disposiciones de igual o inferior jerarquía que se opongan al presente decreto.
+
+TERCERO. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto se realizará la reforma correspondiente al Reglamento de esta ley.
