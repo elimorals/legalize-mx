@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2019-11-11"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -119,6 +119,14 @@ Las personas con discapacidad gozarán de todos los derechos que reconoce la Con
 
 Las medidas contra la discriminación tienen como finalidad prevenir o corregir el que una persona con discapacidad sea restringida injustamente del ejercicio de un derecho, de manera directa o indirecta, y consisten en la prohibición de conductas que tengan por objeto o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, incomunicado, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Es obligación de las dependencias y entidades del Poder Ejecutivo, el Poder Legislativo y Judicial, Organismos Constitucionales Autónomos y Municipios, contar con personal especializado en la utilización del lenguaje de señas para atender a las personas que así lo requieran. De igual manera es obligación de las mismas contar con señalamientos e información que utilice lenguaje del sistema de escritura Braille.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+De igual manera, los organismos públicos señalados en el párrafo anterior, procurarán que las Campañas de Comunicación Social se transmitan en versiones y formatos accesibles para personas con discapacidad; y las Campañas de Comunicación Social deberán considerar el uso de la Lengua de Señas Mexicanas por medio de un intérprete, subtitulase (sic), así como de textos o tecnologías que permitan el acceso a los contenidos de Comunicación Social en televisión o medios electrónicos a las personas con discapacidad auditiva.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 5°.
@@ -173,13 +181,17 @@ VIII.- Suscribir acuerdos y convenios de coordinación y concertación, con las 
 
 IX.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-X.- Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad; y
+X.- Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XI.- Promover campañas de comunicación efectivas de sensibilización pública en los medios, destinada a fomentar actitudes receptivas respecto de los derechos de las personas con discapacidad, y a promover percepciones positivas y una mayor conciencia social respecto de las características propias de las personas con discapacidad.
+XI.- Promover campañas de comunicación efectivas de sensibilización pública en los medios, destinada (sic) a fomentar actitudes receptivas respecto de los derechos de las personas con discapacidad, y a promover percepciones positivas y una mayor conciencia social respecto de las características propias de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XII.- Suscribir convenios de coordinación con instituciones públicas o privadas, para capacitar al personal de las dependencias y entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Constitucionales Autónomos y Municipios, en la utilización del lenguaje de señas para atender a las personas que así lo requieran.
 
 ###### ARTICULO 8º.
 
@@ -938,3 +950,19 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 439.- REFORMAS A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad, deberá cumplir lo establecido en el Artículo 7° Fracción XII del presente Decreto, a más tardar dentro de los 180 días siguientes a la publicación de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A más tardar, a los 365 días siguientes a la publicación del presente Decreto, se deberá brindar la atención incluyente especializada a personas con discapacidad en las instituciones obligadas, en caso de que no se cuente con esto se considerará una práctica discriminatoria de acuerdo a la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes.
