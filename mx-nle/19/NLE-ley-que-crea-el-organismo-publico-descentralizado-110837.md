@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-110837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2015-12-16"
+last_updated: "2020-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO REGIMEN DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NUMERO 391, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de diciembre de 2015.
 
@@ -310,3 +312,31 @@ LA C. SECRETARIA DE DESARROLLO SOCIAL
 LUZ NATALIA BERRÚN CASTAÑÓN
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 391 QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+###### ARTÍCULO PRIMERO
+
+La LXXV Legislatura del H. Congreso del Estado, determina abrogar el Decreto No. 037, publicado en el Periódico Oficial del Estado de fecha 16 de diciembre de 2015, el cual contiene la Ley por la que se crea el Organismo Público Descentralizado denominado Régimen de Protección Social en Salud.
+
+###### ARTÍCULO SEGUNDO
+
+En cumplimiento al artículo anterior, se abroga la Ley por la que se crea el Organismo Público Descentralizado denominado Régimen de Protección Social en Salud.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 391. LA LXXV LEGISLATURA DEL H. CONGRESO DEL ESTADO, DETERMINA ABROGAR EL DECRETO NO. 037, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 16 DE DICIEMBRE DE 2015, EL CUAL CONTIENE LA LEY POR LA QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: El Ejecutivo del Estado, por conducto de la Contraloría y Transparencia Gubernamental, llevará a cabo el procedimiento de entrega recepción de los bienes y expedientes del Organismo Público Descentralizado denominado Régimen de Protección Social en Salud.
+
+TERCERO: Respecto del patrimonio del Organismo que se extingue, los recursos materiales asignados, adscritos y adquiridos por cualquier medio, se transferirán íntegramente de inmediato a Servicios de Salud de Nuevo León, Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, a las áreas que indique el Titular de la Secretaría de Salud, en su carácter de dependencia Coordinadora del Sector a Nivel Estatal, y sin que se tenga previsto ningún incremento en su estructura o administración con costo para el Estado.
+
+CUARTO: Los remanentes de los recursos financieros que hayan sido asignados por cualquier medio al Organismo Público Descentralizado Régimen de Protección Social en Salud, serán puestos a disposición de la Secretaría de Finanzas y Tesorería General del Estado, una vez que hayan sido totalmente cubiertas las obligaciones civiles, mercantiles, laborales, financieras y las de la naturaleza jurídica que corresponda, que permitan la continuidad del procedimiento relativo a la extinción de la Entidad. Lo anterior, de conformidad a lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+QUINTO: Los derechos laborales de los servidores públicos adscritos al Organismo que se extingue serán absolutamente respetados y garantizados conforme a la Ley,
+
+SEXTO: Los trámites de índole administrativo, financiero o legal, incluyendo los procesos de fiscalización formalmente iniciados y que guarden relación con la revisión a la cuenta pública que corresponda, que se encuentren en proceso a la fecha de entrada en vigor del presente Decreto, serán asumidos íntegramente por Servicios de Salud de Nuevo León, Organismo Público Descentralizado.
