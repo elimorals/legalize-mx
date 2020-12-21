@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2019-10-03"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -334,6 +334,12 @@ Las instituciones educativas, con base a la normatividad aplicable, emitirán di
 ###### Artículo 20.
 
 El servicio social de los estudiantes se llevará a cabo de conformidad con los programas que al efecto establezcan las instituciones educativas, correspondiendo a éstas la supervisión y acreditación del servicio social, para los efectos que señala la presente ley y su reglamento.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+Artículo 20 BIS.- En el caso de los estudiantes de los niveles de técnico, técnico superior y licenciatura que cursen materias, especialidades o carreras relacionadas con las ramas de artes y humanidades o comunicación podrán acreditar su servicio social mediante la realización de actividades artísticas y culturales en los centros de salud, clínicas y hospitales a cargo de la Secretaría de Salud Pública o del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, esto, a fin de contribuir con estas actividades preferentemente en la mejora física y emocional de las personas que se encuentran hospitalizadas o reciben tratamiento principalmente por enfermedades cardiovasculares, neurológicas o contra el cáncer.
+
+La Secretaría de Salud Pública del Estado y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, capacitarán en aspectos básicos a los estudiantes para que puedan interactuar con los pacientes y definirán los espacios y horarios más convenientes para llevar a cabo estas actividades artísticas y culturales mediante consulta al personal médico, mientras que las Instituciones Educativas elaborarán las reglas y programas necesarios para que de los estudiantes que cursen materias, especialidades o carreras relacionadas con las ramas de artes y humanidades o comunicación acrediten su servicio social de acuerdo a lo establecido en el presente artículo.
 
 ###### Artículo 21.
 
@@ -650,3 +656,11 @@ B.O. 3 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 152, QUE ADICIONA UN ARTICULO 20 BIS A LA LEY DE PROFESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
