@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-5-de-junio-que-regula-la-prestacion-de-95221"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2017-08-03"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Secc. II del Boletín Oficial del Estado de Sonora, el jueves 18 de julio del 2013.
 
@@ -527,9 +527,21 @@ XI.- Colaborar con las autoridades para facilitar las tareas de vigilancia e ins
 
 XII.- Informar oportunamente a la autoridad correspondiente, cualquier situación que pueda poner en riesgo la integridad física, emocional, mental o la seguridad jurídica de las niñas y niños;
 
-XIII.- Mantener una matrícula de reserva equivalente al diez por ciento del total de su capacidad, para efecto de cubrir las reubicaciones derivadas de la sanción a la que se refiere el artículo 74 de esta Ley; y
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XIV.- Las demás obligaciones que éste u otros ordenamientos legales establezcan.
+XIII.- Mantener una matrícula de reserva equivalente al diez por ciento del total de su capacidad, para efecto de cubrir las reubicaciones derivadas de la sanción a la que se refiere el artículo 74 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Instalar equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, sin vulnerar los derechos de las niñas y niños consagrados en la legislación vigente.
+
+El propietario, encargado o administrador de un Centro de Desarrollo Integral Infantil, que no tenga en funcionamiento los equipos o sistemas tecnológicos a los que se hace referencia en el párrafo anterior, será acreedor de la sanción que señala el artículo 72 Bis de la presente Ley.
+
+La operación de los equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos deberán operar de conformidad a lo dispuesto en el Reglamento de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+XV.- Las demás obligaciones que éste u otros ordenamientos legales establezcan.
 
 ### CAPÍTULO IX. DE LOS USUARIOS DE LOS SERVICIOS DE LOS CENTROS DE DESARROLLO INTEGRAL INFANTIL
 
@@ -797,6 +809,12 @@ V.- Realizar, por parte del personal de los Centros de Desarrollo Integral Infan
 
 VI.- Incumplir con cualquier requisito que para el funcionamiento se prevé en la presente Ley y en su Reglamento, de acuerdo a las modalidades y tipos de los Centros de Desarrollo Integral Infantil.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 72 BIS. - El propietario, encargado o administrador de un Centro de Desarrollo Integral Infantil, que no tenga en funcionamiento los equipos o sistemas tecnológicos a los que se hace referencia el artículo 39, fracción XIV de la presente Ley, se le aplicará una multa equivalente de 250 a 500 veces el valor diario de la Unidad de Medida y Actualización del año en que se impone.
+
+La multa será considerada crédito fiscal para efecto de que la Secretaría de Hacienda realice a través del área recaudadora el procedimiento económico coactivo para su cobro.
+
 ###### ARTÍCULO 73.
 
 Las sanciones consistentes en multa se harán efectivas por la Secretaría de Hacienda o la Tesorería Municipal, según corresponda, mediante el procedimiento administrativo de ejecución, en los términos previstos por la normatividad aplicable.
@@ -817,9 +835,17 @@ V.- El incumplimiento de los estándares mínimos de calidad y seguridad;
 
 VI.- El descuido por parte del personal que ponga en peligro la salud o la integridad física o psicológica de niñas y niños;
 
-VII.- En caso de pérdida de la vida o la existencia de lesiones graves en una niña o niño, en tanto se deslinde la responsabilidad al Centro de Desarrollo Integral Infantil o personal relacionado con el mismo; o
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Cuando se presenten hechos o actos de violencia física o psicológica en una niña o niño por parte del personal del Centro de Desarrollo Integral Infantil.
+VII.- En caso de pérdida de la vida o la existencia de lesiones graves en una niña o niño, en tanto se deslinde la responsabilidad al Centro de Desarrollo Integral Infantil o personal relacionado con el mismo;
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Cuando se presenten hechos o actos de violencia física o psicológica en una niña o niño por parte del personal del Centro de Desarrollo Integral Infantil; o
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+
+IX.- Cuando no se instalen los equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos en los Centro de Desarrollo Integral Infantil. La suspensión durará entre tanto los propietarios o los responsables de dicho centro no haga las instalaciones.
 
 En el supuesto contemplado en este artículo, una vez agotados los procedimientos administrativos o judiciales a que hubiere lugar, si se determina que existe responsabilidad para el Centro de Desarrollo Integral Infantil que haya causado la suspensión de actividades, éste deberá responder por los gastos que en su caso, hubieren erogado los padres de familia o tutores usuarios para la reubicación de los menores en otros centros.
 
@@ -922,3 +948,23 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 157, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY 5 DE JUNIO QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Centros de Desarrollo Integral Infantil en el Estado, contarán con un plazo de 120 días naturales para instalar los equipos o sistemas tecnológicos para la captación grabación de imágenes o sonidos a los que hace referencia la fracción XIV del artículo 39 del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Concluido el plazo señalado en el artículo anterior, la autoridad competente deberá realizar visitas de verificación a los Centros del Desarrollo Integral Infantil, a fin de constatar que los mismos cuenten con la instalación de equipos o sistemas tecnológicos para la captación grabación de imágenes o sonidos.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Ejecutivo del Estado, deberá de actualizar el Reglamento de la Ley 5 de junio que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Sonora, dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto.
