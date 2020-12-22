@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2020-10-05"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASI COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -219,29 +221,17 @@ IV. Fallecimiento de cónyuge, concubina o concubinario, de ascendiente o descen
 
 ARTICULO 17 TER.- La servidora pública o el servidor público, deberán presentar por triplicado en la Dirección de Administración, la solicitud, con la documentación soporte, para su aprobación. Una vez que dicha área autorice el otorgamiento de la licencia, ésta lo hará del conocimiento al Titular del órgano de adscripción de la peticionaria o peticionario.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 17 QUATER.- La licencia por paternidad, se otorgará por diez días laborables consecutivos, contados a partir del día del nacimiento de la hija o hijo.
+ARTICULO 17 QUATER.- La licencia por paternidad, se otorgará por dos semanas antes del parto y seis semanas después del día del nacimiento de la hija o hijo. La solicitud deberá ser presentada enseguida del nacimiento o al día siguiente, anexando la constancia de nacimiento expedida por el centro de salud público o privado, que acredite su paternidad.
 
-La solicitud deberá ser presentada enseguida del nacimiento o al día siguiente, anexando la constancia de nacimiento expedida por el centro de salud público o privado, que acredite su paternidad.
+La licencia de paternidad será en todo momento intransferible e irrenunciable.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+ARTICULO 17 QUINQUIES.- (DEROGADO, P.O. 22 DE DICIEMBRE DE 2020)
 
-ARTICULO 17 QUINQUIES.- Para cuidados paternos, los servidores públicos, podrán solicitar una ampliación de la licencia, bajo las circunstancias y periodos siguientes:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
-I. En caso de enfermedad grave de la hija o hijo, recién nacido, así como de complicaciones graves de salud, que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días laborables continuos;
-
-II. En caso de parto múltiple, la licencia de paternidad, podrá extenderse por cinco días laborales continuos;
-
-III. En caso de que durante los primeros quince días, posteriores al parto, la madre fallezca, el servidor público, podrá solicitar licencia, por diez días laborables, adicionales al periodo correspondiente a su licencia de paternidad;
-
-En el caso de la fracción III, se deberá presentar ante el Titular de la Dirección de Administración del órgano de su adscripción, la ampliación de licencia, anexando copia certificada del acta de defunción.
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-ARTICULO 17 SEXIES.- La licencia por adopción procede cuando se adopte individualmente o en pareja y será de diez días laborables.
-
-Para tal efecto, la servidora o el servidor público, deberán informar al área de su adscripción y presentar ante la Dirección de Administración, la documentación que acredite la adopción.
+ARTICULO 17 SEXIES.- La licencia por adopción procede cuando se adopte individualmente o en pareja y será de seis semanas. Para tal efecto, la servidora o el servidor público, deberán informar al área de su adscripción y presentar ante la Dirección de Administración, la documentación que acredite la adopción.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1374,3 +1364,9 @@ P.O. 5 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 519 QUE ADICIONA EL ARTÍCULO 138 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir de los 30 días siguiente (sic) de su publicación en el Periódico Oficial del Estado de Hidalgo.
