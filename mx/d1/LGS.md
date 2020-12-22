@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2020-12-04"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -370,9 +370,9 @@ XII.- Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIII.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2020)</small>
 
-XIII Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+XIII Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
 
 XIV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
 
@@ -5470,6 +5470,26 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 272 Bis 4.
+
+Las instituciones públicas que forman parte del Sistema Nacional de Salud podrán integrar la cirugía bariátrica como tratamiento de la obesidad mórbida y sus comorbilidades, de conformidad con las disposiciones jurídicas aplicables.
+
+Los candidatos a cirugía bariátrica deberán cumplir con los criterios de selección, de acuerdo a las normas y protocolos de salud en la materia.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 272 Bis 5.
+
+Las instituciones de salud pública y privada, así como los establecimientos autorizados que practiquen la cirugía bariátrica, procurarán contar con la infraestructura multidisciplinaria adecuada para dichos procedimientos de alta complejidad, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 272 Bis 6.
+
+Los establecimientos que presten servicios que ofrezcan cirugía bariátrica, sin apego a lo dispuesto en la presente Ley y en las disposiciones jurídicas aplicables, serán sancionados en términos del artículo 420 de la presente Ley.
+
 ### CAPITULO XIII. Importación y exportación
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
@@ -9321,3 +9341,13 @@ D.O.F. 4 DE DICIEMBRE DE 2020.
 Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto de Salud para el Bienestar instruirá a la institución fiduciaria del Fondo de Salud para el Bienestar para que, a más tardar el 1 de abril de 2021, concentre en la Tesorería de la Federación la cantidad de hasta treinta y tres mil millones de pesos del patrimonio de ese Fideicomiso, de conformidad con las disposiciones jurídicas aplicables.
+
+D.O.F. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, PARA PREVENIR EL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS DE LA CONDUCTA ALIMENTARIA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Salud contará con un plazo no mayor a 180 días para emitir las disposiciones jurídicas que se deriven del presente Decreto.
+
+Tercero.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
