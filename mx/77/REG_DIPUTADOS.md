@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2019-12-18"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3540,25 +3540,21 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 
 ### CAPITULO II. De las Distinciones de la Cámara
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 261.
 
-1. La Cámara otorgará la Medalla Eduardo Neri - Legisladores de 1913, de conformidad con lo que establece el decreto de su creación, así como el Reglamento que regula su entrega.
+1. La Cámara otorgará la Medalla “Eduardo Neri-Legisladores de 1913”, al ciudadano o ciudadana cuyos actos cívicos o políticos se distingan por servir a la colectividad nacional y a la República.
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+2. La Cámara otorgará la Medalla de Honor “Gilberto Rincón Gallardo”, de la H. Cámara de Diputados, al ciudadano o ciudadanos mexicanos u organización de la sociedad civil, que por su actuación y trayectoria destaque por el fomento, la protección e impulso por la inclusión y defensa de los derechos humanos de las personas con discapacidad.
 
-2. La Cámara otorgará anualmente la Medalla de Honor Gilberto Rincón Gallardo de la H. Cámara de Diputados, de conformidad con lo que estable (sic) el Decreto de su institución, así como su Reglamento.
+3. La Cámara otorgará la Medalla de Reconocimiento al Mérito Deportivo a ciudadanos nacionales, destacados por su actuación y trayectoria en el deporte mexicano, o a aquellos destacados por el fomento, la protección o el impulso del deporte social.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+4. La Cámara otorgará la Medalla "Sor Juana Inés de la Cruz", para reconocer y premiar a las mujeres que hayan incidido y destacado en la lucha social, cultural, política, científica y económica a favor de los derechos humanos de las mujeres y de la igualdad de género.
 
-3. La Cámara otorgará anualmente la medalla de reconocimiento al mérito deportivo a ciudadanos nacionales, destacados por su actuación y trayectoria en el deporte mexicano, o a aquellos destacados por el fomento, la protección o el impulso del deporte social, de conformidad con lo que establece el decreto de su creación, así como el Reglamento que regula su entrega.
+5. La Cámara otorgará la Medalla “Francisco Toledo”, para reconocer y premiar a la o el artista comprometido socialmente, que haya contribuido con su obra o acciones en la formación, defensa, conservación, rescate y difusión del patrimonio natural, cultural y artístico de México.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
-
-4. La Cámara otorgará anualmente la medalla "Sor Juana Inés de la Cruz", para reconocer y premiar a las mujeres que hayan incidido y destacado en la lucha social, cultural, política, científica y económica a favor de los derechos humanos de las mujeres y de la igualdad de género, de conformidad con lo que establece el Decreto de su creación, así como el Reglamento que regule su entrega.
-
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2019)</small>
-
-5. La Cámara otorgará anualmente la Medalla “Francisco Toledo”, para reconocer y premiar a la o el artista comprometido socialmente, que haya contribuido con su obra o acciones en la formación, defensa conservación, rescate y difusión del patrimonio natural, cultural y artístico de México.
+6. Dichas distinciones se entregarán de conformidad con el Decreto de creación respectivo y el Reglamento que regula la entrega de medallas.
 
 ###### Artículo 262.
 
@@ -4177,3 +4173,9 @@ D.O.F. 18 DE DICIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La Cámara de Diputados contará con un plazo de noventa días contados a partir de la entrada de (sic) vigor del presente Decreto para expedir el Reglamento que regula la entrega de esta condecoración.
+
+D.O.F. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE DISTINCIONES DE LA CÁMARA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
