@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2020-05-29"
+last_updated: "2020-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1169,7 +1169,9 @@ b) Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la
 
 c) Procurar la seguridad pública en el territorio municipal; y
 
-d) Intervenir en los términos de las leyes de la materia, en la formulación y aplicación de los programas de transporte público de pasajeros, cuando afecten su ámbito territorial.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+d) Intervenir en los términos de las leyes de la materia, en la formulación y aplicación de los programas de transporte público de pasajeros que le corresponde.
 
 IV. En materia de Hacienda Pública Municipal:
 
@@ -1228,6 +1230,8 @@ m) Establecer el Sistema Municipal de Protección de los Derechos de Niñas, Ni�
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
 
 n) Elaborar y aprobar su programa municipal de protección de niñas, niños y adolescentes y participar en el diseño del Programa Local.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 VI. Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
@@ -1923,7 +1927,9 @@ Obligatoriedad del Plan y los Programas
 
 El Plan Municipal de Desarrollo, el Programade (sic) Gobierno Municipal y los programas derivados de este último, serán obligatorios para las dependencias y entidades de la administración pública municipal.
 
-El incumplimiento a lo señalado en el párrafo anterior, será sancionado en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+El incumplimiento a lo señalado en el párrafo anterior, será sancionado en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 Información sobre la ejecución del Plan y los Programas
 
@@ -2201,25 +2207,37 @@ Los titulares de las dependencias señaladas en el artículo anterior, deberán 
 
 Causales de destitución
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 126.
 
-Los titulares de las dependencias señaladas en el artículo 124 de esta Ley, sólo podrán ser destituidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establece la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
+Los titulares de las dependencias señaladas en el artículo 124 de esta Ley, serán destituidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establecen la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
-Para que sea procedente la destitución, de los titulares contenidos en las fracciones I, II y III del artículo 124, deberá observarse lo siguiente:
+I. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2020)
 
-I. Cuando la propuesta la formule el Presidente Municipal, se requerirá para su aprobación la mayoría simple del Ayuntamiento; y
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2020)
 
-II. Cuando la propuesta sea formulada por la mayoría simple del Ayuntamiento, se requerirá para su aprobación la mayoría absoluta del mismo.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+Causales de remoción
+
+Artículo. 126-1. Cuando el presidente municipal, o la mayoría del Ayuntamiento, proponga la remoción de los titulares de las dependencias contenidas en las fracciones I y II, del artículo 124, se requerirá mayoría simple del Ayuntamiento para su procedencia.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 Requisitos para ser secretario del ayuntamiento
 
 ###### Artículo 127.
 
-El titular de la Secretaría del Ayuntamiento, el que sin ser miembro del mismo, deberá cubrir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser de preferencia licenciado en Derecho o su equivalente académico.
+El titular de la Secretaría del Ayuntamiento deberá contar con los siguientes requisitos:
+
+I. Deberá ser ciudadano mexicano, preferentemente guanajuatense, con pleno goce de sus derechos civiles y políticos, y con residencia efectiva en el estado no menor a tres años previos a su designación;
+
+II. Poseer, al día de su nombramiento título profesional, preferentemente ser licenciado en Derecho o su equivalente académico con la antigüedad mínima en su ejercicio de tres años; y
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año, pero, si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 Atribuciones del secretario del ayuntamiento
 
@@ -2255,11 +2273,19 @@ XI. Las demás que les confiere esta u otras leyes, reglamentos, bandos municipa
 
 Las cartas de origen se expedirán en atención a los requisitos establecidos por la Secretaría de Relaciones Exteriores.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
 Requisitos para ser tesorero municipal
 
 ###### Artículo 129.
 
-El titular de la Tesorería Municipal, el que sin ser miembro del Ayuntamiento, deberá cumplir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser de preferencia profesional en las áreas económicas, contables o administrativas.
+El titular de la Tesorería Municipal deberá contar con los siguientes requisitos:
+
+I. Deberá ser ciudadano mexicano, preferentemente guanajuatense, con pleno goce de sus derechos civiles y políticos, y con residencia efectiva en el estado no menor a tres años previos a su designación;
+
+II. Poseer, al día de su nombramiento, título profesional en las áreas económicas, contables o administrativas o su equivalente académico con la antigüedad mínima en su ejercicio de tres años; y
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año, pero, si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 Atribuciones del tesorero municipal
 
@@ -2553,7 +2579,9 @@ Es obligación de los titulares de las dependencias y entidades de la administra
 
 El contralor y los servidores públicos de la contraloría que intervengan en la verificación y acompañamiento de procesos administrativos de las distintas entidades y dependencias de la administración municipal, son corresponsables de las acciones u omisiones realizadas en contravención de la ley, cuando habiendo participado en el proceso no hubiesen formulado en tiempo observaciones o bien, hubiesen validado los actos contrarios a derecho.
 
-El contralor y los servidores públicos de la contraloría tendrán responsabilidad de su actuar conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+El contralor y los servidores públicos de la contraloría tendrán responsabilidad de su actuar conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
 
@@ -2635,11 +2663,13 @@ Para el nombramiento o la ratificación de los delegados y subdelegados municipa
 
 Para efecto de formular, la propuesta de delegados y subdelegados municipales, el Presidente Municipal podrá optar por realizar una consulta pública previa a los habitantes de la delegación, cuya metodología deberá aprobarse por el Ayuntamiento. En el supuesto de que el presidente en su propuesta atienda al resultado de la consulta, la aprobación será por mayoría simple del Ayuntamiento.
 
-Los delegados y subdelegados municipales durarán en su cargo tres años, salvo renuncia o destitución por cualquiera de las causas establecidas en el artículo 126 de esta Ley, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2020)</small>
 
-I. Cuando la propuesta de destitución la formule el Presidente Municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+Los delegados y subdelegados municipales durarán en su cargo tres años, salvo renuncia o destitución.
 
-II. Cuando la propuesta de destitución sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
+I. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2020)
+
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -4179,19 +4209,9 @@ Restricción para ejercer como abogado
 
 Los jueces, los secretarios de estudio y cuenta y los actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
 
-Faltas administrativas graves
-
 ###### Artículo 250.
 
-Además de lo previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, se consideran faltas administrativas graves en que pueden incurrir los jueces administrativos municipales las siguientes:
-
-I. Impedir material e intencionalmente que las partes ejerzan en los procedimientos administrativos, los derechos que les correspondan;
-
-II. Desatender o retrasar injustificada y generalizadamente la iniciación, tramitación o resolución de los asuntos a su cargo;
-
-III. Faltar a la verdad en los informes que rindan o en los datos que proporcionen o asienten en constancias, certificaciones y diligencias; y
-
-IV. Obstaculizar la práctica de diligencias.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2020)
 
 Previsión presupuestaria
 
@@ -4205,23 +4225,43 @@ Nombramiento y destitución de jueces
 
 Los jueces administrativos municipales serán nombrados por el Ayuntamiento, por mayoría calificada, de entre la terna que presente el presidente municipal, previa convocatoria pública y únicamente podrán ser removidos en los términos del artículo 126 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado como juez administrativo municipal el que obtenga la mayoría.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+El mecanismo de convocatoria pública se establecerá en el reglamento del Ayuntamiento y deberá garantizar la participación de los ciudadanos en particular y de la sociedad civil organizada.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+La información que se genere con motivo de la integración de la terna, es información pública.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+La violación al procedimiento de designación de los Jueces Administrativos Municipales estará afectada de nulidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
 Requisitos para ser juez, secretario y actuario
 
 ###### Artículo 253.
 
-Los jueces administrativos municipales, secretarios de estudio y cuenta y actuarios deberán contar con los siguientes requisitos:
+Los jueces administrativos municipales y secretarios de estudio y cuenta deberán contar con los siguientes requisitos:
 
-I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+I. Tener ciudadanía mexicana, preferentemente guanajuatense, con pleno goce de sus derechos civiles y políticos y con residencia efectiva en el estado no menor de tres años anteriores a la fecha de designación;
 
-II. Contar con título profesional de licenciado en derecho o su equivalente académico legalmente expedido por la institución facultada para ello, con por lo menos dos años de práctica profesional o docencia en materia administrativa o fiscal;
+II. Poseer, al día de su nombramiento, título profesional de licenciado en derecho o su equivalente académico legalmente expedido por autoridad o institución facultada para ello, y con la antigüedad mínima en su ejercicio de tres años;
 
-III. Gozar de buena reputación y ser de reconocida honradez;
+III. Contar con experiencia profesional de cuando menos dos años en materia administrativa o fiscal;
 
-IV. No haber sido condenado por delito intencional que amerite pena privativa de libertad por más de un año; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará imposibilitado para el cargo, cualquiera que haya sido la pena; y
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año, pero, si se tratare de robo, fraude, falsificación, abuso de confianza o enriquecimiento ilícito cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
-V. Preferentemente haber cursado la especialidad en justicia administrativa, debiendo acreditarlo con la constancia respectiva.
+V. Preferentemente haber cursado especialidad o maestría en materia administrativa, debiendo acreditarlo con la constancia respectiva; y
 
-Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de la práctica profesional.
+VI. No haber sido integrante del Ayuntamiento saliente.
+
+Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de lo señalado en la fracción III, así como la antigüedad mínima en ejercicio de la profesión, indicada en la fracción II, será de dos años.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2020)</small>
 
@@ -4652,3 +4692,23 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo. Las disposiciones del artículo 141-1, del presente decreto, serán aplicables a partir de la administración municipal periodo 2021- 2024.
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 245 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO AL ARTÍCULO 126 Y EL CUARTO PÁRRAFO AL ARTÍCULO 141; SE ADICIONA EL ARTÍCULO 126-1 Y SE DEROGAN EL SEGUNDO PÁRRAFO Y LAS FRACCIONES I Y II AL ARTÍCULO 126 Y LAS FRACCIONES I Y II AL ARTÍCULO 141 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 246 POR EL QUE SE REFORMAN LOS ARTÍCULOS 76 FRACCIÓN 111 (SIC), INCISO D Y FRACCIÓN VI, 105 SEGUNDO PÁRRAFO, 127, 129, 140 TERCER PÁRRAFO Y 253; SE ADICIONAN AL ARTÍCULO 252 LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO; Y SE DEROGA EL ARTÍCULO 250 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
