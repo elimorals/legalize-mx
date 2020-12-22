@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2020-06-09"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1329,21 +1329,37 @@ Artículo 64 F.- En caso de licencia otorgada al Presidente Municipal por más d
 
 Artículo 64 G.- La licencia otorgada al Presidente Municipal por más de 60 días y las indefinidas, serán cubiertas por un Presidente Municipal Interino, electo por mayoría simple de votos de entre los integrantes del Cabildo.
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2020)</small>
 
-Artículo 64 H.- El Ayuntamiento procederá a nombrar por mayoría absoluta de votos un Presidente Municipal Sustituto de entre los integrantes del Cabildo, en los siguientes supuestos:
+Artículo 64 H.- El Ayuntamiento procederá a nombrar por mayoría absoluta de votos a una Presidenta o un Presidente Municipal Sustituto de entre los integrantes del Cabildo, observando la normatividad en materia de paridad de género, en los siguientes supuestos:
+
+> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
 I.- Por incapacidad permanente total, muerte o falta absoluta del Presidente Municipal;
 
+> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+
 II.- Por estado de interdicción declarado en sentencia judicial;
+
+> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
 III.- Por revocación de mandato; y
 
+> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+
 IV.- Por declaración de procedencia, en cuyo caso el Presidente Municipal sustituto, desempeñará la función durante el transcurso del juicio, hasta que se dicte sentencia firme. Si ésta fuere condenatoria, el presidente municipal sustituto, concluirá el período correspondiente.
+
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 Cuando se actualice cualquiera de los supuestos anteriores, el Secretario Municipal convocará, dentro de las 48 horas siguientes, a sesión extraordinaria del Ayuntamiento, la que se ocupará única y exclusivamente del nombramiento del Presidente Municipal Sustituto a propuesta de los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones.
 
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+
 Por falta absoluta se entenderá la ausencia definitiva por más de 30 días del Presidente Municipal sin mediar licencia y sin conocerse la ubicación del mismo. En caso de que el Presidente Municipal ausente desee regresar a su cargo, lo solicitará al Cabildo aportando las pruebas que pretenda justificar su ausencia, si el Cabildo califica como justificada la misma, este deberá reintegrarse en la próxima sesión que sea convocada.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2020)</small>
+
+Por paridad de género vertical se entenderá como la conformación de un cabildo de forma equilibrada y equitativa entre mujeres y hombres de manera alternada, es decir si un género ocupa el cargo de Síndico Municipal, entonces, otro género distinto a ese ocupará el cargo de Presidente Municipal Sustituto.
 
 ### CAPÍTULO III. DEL CONCEJO MUNICIPAL
 
@@ -3674,3 +3690,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Segundo.- Derogación Expresa
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente decreto.
+
+D.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 317/2020 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
