@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2020-07-22"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -513,7 +513,9 @@ El Presidente de la Mesa Directiva integrará el proyecto del Orden del día de 
 
 Tendrán prioridad aquellos asuntos que impliquen un mayor interés público y los que por término constitucional, legal o reglamentario, requieran discusión y votación inmediata en el Pleno.
 
-Se notificará vía electrónica a los diputados el Orden del día y lo pondrá a disposición en la página electrónica oficial del Poder Legislativo, adjuntando los documentos correspondientes, a más tardar a las 22:00 horas del día anterior de cada Sesión.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2020)</small>
+
+El Orden del día de las sesiones y los documentos que correspondan, se notificará vía electrónica a las y los diputados y se pondrán a disposición en la Gaceta Parlamentaria, cuando menos 24 horas antes de las sesiones del Pleno. Para el cumplimiento del referido plazo no se contarán días inhábiles. Asimismo, el Orden del día, sólo podrá ser modificado por el Presidente o Presidenta de la Mesa Directiva antes del inicio de la sesión.
 
 ###### Artículo 55.
 
@@ -597,9 +599,9 @@ El Presidente del Congreso deberá informar al Pleno cuando realice una modifica
 
 Las actas de cada sesión deberán contener la fecha y el lugar en que se verifique la sesión, el sumario, una relación sucinta de lo acontecido en el orden en que se desarrollen, así como los nombres y firmas de los que presidan la Mesa Directiva o la Diputación Permanente, misma que se consignará íntegra y textualmente al Diario de los Debates.
 
-> <small>(REFORMADO, D.O. 9 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2020)</small>
 
-La Secretaría General, elaborará una síntesis del acta de cada sesión de los períodos ordinarios y extraordinarios, la cual deberá ser enviada a los correos institucionales de los diputados cuando menos el día anterior a la siguiente sesión del Pleno, e incluida en el sistema electrónico de la sesión en la que deba de ser sometida a discusión y votación. Se podrá dar lectura a la síntesis antes señalada, cuando sea solicitado por algún diputado y aprobado por el Pleno del Congreso.
+La Secretaría General, elaborará una síntesis del acta de cada sesión de los períodos ordinarios y extraordinarios, la cual deberá ser enviada vía electrónica a las y los diputados; y publicada en la Gaceta Parlamentaria, cuando menos 24 horas antes de la siguiente sesión del Pleno. Asimismo, deberá ser incluida en el sistema electrónico de la sesión en la que deba de ser sometida a discusión y votación. Se podrá dar lectura a la síntesis antes señalada, cuando sea solicitado por alguna diputada o diputado y aprobado por el Pleno del Congreso. Para el cumplimiento del referido plazo no se contarán días inhábiles.
 
 Cuando por falta de quórum no se verifique una sesión, el Secretario General levantará constancia que deberán firmar los diputados que hubieren asistido.
 
@@ -618,6 +620,10 @@ En el caso de las actas de las sesiones solemnes y de la última sesión de la L
 ###### Artículo 68.
 
 El derecho de iniciativa es irrestricto, pero en el caso de las que presenten los diputados, su turno se sujetará a los requisitos y trámites establecidos en este Reglamento.
+
+> <small>(ADICIONADO, D.O. DE 22 DE DICIEMBRE DE 2020)</small>
+
+Cuando alguna diputada o diputado solicite adherirse y suscribir alguna iniciativa presentada por otra u otro diputado, se le preguntará a ésta o éste, según sea el caso, quien podrá aceptarla, y en su caso, solicitar al Presidente de la Mesa Directiva se recabe la firma respectiva de la o el adherente y darle el trámite correspondiente.
 
 El derecho de iniciativa comprende también el derecho a retirarla, éste lo podrá ejercer sólo el autor, desde el momento de su admisión y hasta antes de que la comisión o comisiones a las que se haya turnado acuerden un dictamen o antes de que se tenga por precluida la facultad para dictaminar.
 
@@ -771,6 +777,12 @@ El proyecto aprobado, podrá modificarse, para hacer las correcciones de técnic
 
 Todo trámite dictado por el Presidente de la Mesa Directiva, puede ser reclamado por cualquier Diputado, y se sujetará en este caso al voto del Congreso.
 
+> <small>(ADICIONADO, D.O. DE 22 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 81 Bis.
+
+Se podrá ordenar la reposición de un trámite dictado, siempre y cuando, exista alguna duda en el cómputo de la votación del mismo; lo anterior, a solicitud de la Junta de Gobierno y Coordinación Política en acuerdo con la Presidencia de la Mesa Directiva.
+
 ###### Artículo 82.
 
 Los documentos con que se dé cuenta al Congreso, serán tramitados de la manera siguiente:
@@ -799,17 +811,27 @@ Cuando los Dictámenes contengan en su parte resolutiva acuerdos, se sujetarán 
 
 Las solicitudes suspensivas de las discusiones serán puestas a debate, consultándose previamente al Pleno si se toman en consideración; si no hubiere mayoría de votos por la afirmativa, se entenderán desechadas.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 83.
 
-Los dictámenes para ser tramitados ante el Pleno deberán ser presentados a la Secretaría de la Mesa Directiva o a la Secretaría General, un día anterior a la celebración de la sesión.
+Los dictámenes para ser tramitados ante el Pleno deberán ser presentados a la Secretaría de la Mesa Directiva o a la Secretaría General, cuando menos 48 horas anteriores a la celebración de la sesión. Para el cumplimiento del referido plazo no se contarán días inhábiles.
+
+Sin perjuicio del plazo anterior, cuando se presente algún tema de carácter urgente o relevante, el Presidente o la Presidenta de la Mesa Directiva podrá incluir en el Orden del Día el asunto que se trate.
 
 ###### Artículo 84.
 
 La dispensa de trámite, consistirá en la omisión de la lectura preceptuada por este ordenamiento y demás trámites legislativos, por lo que se consultará al Pleno del Congreso si la concede; en ningún otro caso podrá ponerse a discusión un proyecto de Ley o de Decreto, sin haberse satisfecho el requisito del artículo 36 de la Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 85.
 
-No podrá ser puesto a discusión ningún proyecto de Ley o Decreto sin que previamente se hayan distribuido a los diputados, a más tardar el día anterior a la sesión en que la discusión vaya a celebrarse.
+No podrá ser puesto a discusión ningún proyecto de Ley o Decreto sin que previamente se hayan distribuido entre las y los diputados, a más tardar 48 horas anteriores a la sesión en que la discusión vaya a realizarse. Para el cumplimiento del referido plazo no se contarán días inhábiles.
+
+> <small>(ADICIONADO, D.O. DE 22 DE DICIEMBRE DE 2020)</small>
+
+Sin perjuicio del plazo anterior, cuando se presente algún tema de carácter urgente o relevante, a criterio del Presidente o la Presidenta de la Mesa Directiva se podrá incluir en el Orden del Día el asunto que se trate.
 
 La Secretaría General realizará la distribución de los proyectos señalados en el párrafo anterior, mediante vía o página electrónica del Congreso, correo electrónico, medios magnéticos o copias simples.
 
@@ -1061,9 +1083,11 @@ Para convocar a la sesión de instalación, los diputados que integran la Comisi
 
 Los diputados podrán formar parte simultáneamente de dos o más comisiones, y participar en las demás sin derecho a voto.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 126.
 
-Las sesiones de trabajo de las comisiones serán públicas, pudiendo ser privadas previa calificación y acuerdo de sus integrantes. En las sesiones, los asistentes deberán guardar el orden y decoro debidos.
+Las sesiones de trabajo de las comisiones serán públicas, pudiendo ser privadas previa calificación y acuerdo de sus integrantes. En las sesiones, los asistentes deberán guardar el orden y decoro debidos. Cuando dentro de ellas se acuerde un receso, su Presidente deberá señalar lugar, día y hora para su reanudación.
 
 ###### Artículo 127.
 
@@ -2004,3 +2028,11 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Artículo segundo. Se instruye al Director General de Administración y Finanzas del Honorable Congreso del Estado de Yucatán para que un plazo no mayor a 15 días, contados a partir de la entrada en vigor de este decreto para que presente a la Junta de Gobierno y Coordinación Política y a la Presidencia de la Mesa Directiva, la plataforma tecnológica que habrá de funcionar para las sesiones a las que se refiere este decreto.
 
 Artículo tercero. La Secretaría General y la Dirección de Administración y Finanzas del Poder Legislativo en conjunto con el área encargada del sistema informático legislativo deberán realizar, periódicamente, simulacros de Sesiones Fuera del Recinto Legislativo mediante el uso de las tecnologías de la información y la comunicación a efecto de mantener actualizadas a las y los diputados en el uso y metodología de las mismas.
+
+D.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 317/2020 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día 1 de febrero del año 2021.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
