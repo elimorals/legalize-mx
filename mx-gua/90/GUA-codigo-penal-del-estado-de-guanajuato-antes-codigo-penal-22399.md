@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2020-11-05"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -171,9 +171,9 @@ X.- Daños dolosos previsto por el artículo 211.
 
 XI.- Daños dolosos previsto por el artículo 212.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
-XII.- Extorsión previsto por el artículo 213.
+XII.- Extorsión previsto por los artículos 213 y 213 Bis.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -1477,6 +1477,12 @@ Cuando las lesiones sean calificadas, se aumentará la punibilidad de la mitad d
 
 a.- Al responsable de lesiones en contra de servidores públicos que desempeñen funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal, de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 150
+
+b.- Al responsable de lesiones en contra de personal profesional, técnico o auxiliar adscrito al sistema de salud, que presten sus servicios durante las declaratorias de contingencia o emergencia sanitaria formuladas por autoridad competente, se le aumentará la punibilidad en un tercio del mínimo a un tercio del máximo de la que correspondería de acuerdo con los artículos 143, 144, 145, 146, 147, 148 y 149 de este Código.
+
 > <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 27 DE MARZO DE 2009)</small>
 
 ###### Articulo 151.
@@ -2365,7 +2371,7 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO VII. EXTORSIÓN
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 206.
 
@@ -2447,7 +2453,33 @@ Cuando el daño se cause por incendio, inundación o explosión, la punibilidad 
 
 ###### Artículo 213.
 
-A quien obtenga un provecho indebido obligando a otra persona por medio de la violencia a dar, hacer o dejar de hacer algo en su perjuicio o en el de tercero, se le aplicará de uno a diez años de prisión y de diez a cien días multa.
+A quien obtenga un provecho indebido para sí o para otro obligando a otra persona por medio de la violencia a dar, hacer, dejar de hacer o tolerar algo en su perjuicio o en el de tercero, se le aplicará de cuatro a quince años de prisión y de cuarenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 213 Bis.
+
+La punibilidad señalada en el artículo que antecede se aumentará de una mitad del mínimo a una mitad del máximo, si en la extorsión concurre cualquiera de las siguientes circunstancias:
+
+I.- Se cometa por dos o más personas.
+
+II.- El sujeto activo se ostente como miembro de un grupo delictivo, independientemente de la existencia o no del mismo.
+
+III.- El sujeto activo se encuentre recluido en un centro de prevención o de reinserción social.
+
+IV.- El sujeto activo solicite un beneficio por concepto de cobro de cuotas de cualquier índole.
+
+V.- El delito se cometa en contra de una persona menor de dieciocho años o mayor de sesenta años de edad; o persona que no tiene capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
+
+VI.- El sujeto activo se encuentre ligado por vínculos de confianza, sentimental, laboral, de parentesco, de estrecha amistad, de negocios o por cualquier relación análoga con la víctima.
+
+VII.- El sujeto activo sea, haya sido o se ostente como integrante de alguna institución de seguridad pública, procuración o impartición de justicia, o de ejecución de penas.
+
+VIII.- El sujeto activo sea, haya sido o se ostente como servidor público, y haya utilizado los medios o circunstancias derivadas por el ejercicio de sus funciones, para la comisión del delito.
+
+IX.- Se utilice arma de fuego.
+
+Si el responsable del delito de extorsión es servidor público y lo comete en ejercicio de sus funciones, se impondrá además la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -3695,7 +3727,7 @@ La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesad
 
 ### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 284.
 
@@ -3903,13 +3935,43 @@ Tratándose de los delitos establecidos en los artículos 291 y 292, el trabajo 
 
 ###### Artículo 297.
 
-Al que dolosamente cause la muerte de un animal vertebrado, se le impondrá de diez a cien días multa y de sesenta a ciento ochenta jornadas de trabajo en favor de la comunidad.
+Al que dolosamente cause la muerte de un animal vertebrado, se le impondrá de seis meses a dos años de prisión y de sesenta a trescientos días multa.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal, previo a su muerte, las penas se aumentarán hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de perros, si la muerte es causada por actividades de exhibición, espectáculo o pelea, la pena se incrementará hasta en dos tercios de la pena prevista en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 298.
 
-Al que dolosamente cause la mutilación orgánicamente grave de un animal vertebrado, se le impondrá de cinco a cincuenta días multa y de treinta a noventa jornadas de trabajo en favor de la comunidad.
+Al que dolosamente cause la mutilación orgánicamente grave de un animal vertebrado, se le impondrá de dos a seis meses de prisión y de veinte a sesenta días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 298
+
+a.- Se impondrá pena de seis meses a cinco años de prisión y de doscientos a dos mil días multa a quien:
+
+I.- Posea, entrene, compre o venda perros con la finalidad de involucrarlos en cualquier exhibición, espectáculo o actividad que involucre pelea entre perros.
+
+II.- Organice, promueva, anuncie, patrocine o venda entradas para asistir a cualquier exhibición, espectáculo o actividad que involucre pelea entre perros.
+
+III.- Posea o administre una propiedad en la que se realicen peleas entre perros con conocimiento de dicha actividad.
+
+IV.- Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculos o actividad que involucre una pelea entre perros.
+
+A quien asista como espectador a cualquier exhibición, espectáculo o actividad que implique una pelea entre perros, se le impondrá un tercio del mínimo a un tercio del máximo de la pena prevista en este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 298
+
+b.- A quien abandone a un animal doméstico poniendo en riesgo su vida o integridad, se le impondrá de seis meses a un año de prisión y de cien a doscientos días multa.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
@@ -4282,3 +4344,27 @@ P.O. 5 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 232 POR EL QUE SE REFORMAN EL ARTICULO 214-A, FRACCIÓN III; Y LA DENOMINACIÓN DEL TÍTULO CUARTO, DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO; Y SE ADICIONA UN CAPÍTULO V, DENOMINADO DELITOS INFORMÁTICOS, AL TÍTULO CUARTO, DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO, INTEGRADO POR LOS ARTÍCULOS 235 TER Y 235 TER-A, AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 248 POR EL QUE SE REFORMAN LOS ARTÍCULOS 297 Y 298; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 297, Y LOS ARTÍCULOS 298-A Y 298-B, AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento en que se cometió el hecho delictuoso.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 249 POR EL QUE SE ADICIONA UN ARTÍCULO 150-B AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento en que se cometió el hecho delictuoso.
+
+P.O. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 250 POR EL QUE SE REFORMAN LOS ARTÍCULOS 11, FRACCIÓN XII Y 213; Y SE ADICIONA EL ARTÍCULO 213 BIS DENTRO DEL CAPÍTULO VII DEL TÍTULO QUINTO DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento en que se cometió el hecho delictuoso.
