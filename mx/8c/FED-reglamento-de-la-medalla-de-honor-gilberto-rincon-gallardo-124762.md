@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-medalla-de-honor-gilberto-rincon-gallardo-1247
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-12-12"
-last_updated: "2017-12-12"
+last_updated: "2020-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124762&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-05"
 ---
 # REGLAMENTO DE LA MEDALLA DE HONOR GILBERTO RINCON GALLARDO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA LA ENTREGA DE LAS MEDALLAS QUE OTORGA LA CÁMARA DE DIPUTADOS; Y SE REFORMAN LOS DECRETOS DE CREACIÓN DE LAS MEDALLAS AL MÉRITO CÍVICO EDUARDO NERI, LEGISLADORES DE 1913; DE HONOR GILBERTO RINCÓN GALLARDO Y SOR JUANA INÉS DE LA CRUZ, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA MEDALLA DE HONOR GILBERTO RINCÓN GALLARDO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de diciembre de 2017.
 
@@ -240,3 +242,27 @@ Segundo.- El presente Reglamento de la Medalla de Honor Gilberto Rincón Gallard
 Tercero.- Cuando surja un hecho o acto no previsto por este Reglamento, la Mesa podrá acordar lo conducente para dar certeza al proceso.
 
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.- Ciudad de México, a 5 de diciembre de 2017.- Dip. Martha Hilda González Calderón, Vicepresidenta.- Rúbrica.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA LA ENTREGA DE LAS MEDALLAS QUE OTORGA LA CÁMARA DE DIPUTADOS; Y SE REFORMAN LOS DECRETOS DE CREACIÓN DE LAS MEDALLAS AL MÉRITO CÍVICO EDUARDO NERI, LEGISLADORES DE 1913; DE HONOR GILBERTO RINCÓN GALLARDO Y SOR JUANA INÉS DE LA CRUZ”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan los siguientes reglamentos:
+
+I. Reglamento de la Medalla de Honor Gilberto Rincón Gallardo, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2017;
+
+II. Reglamento de la Medalla de Reconocimiento al Mérito Deportivo, publicado en el Diario Oficial de la Federación el 28 de diciembre de 2016, y
+
+III. Reglamento de la Medalla “Sor Juana Inés de la Cruz”, publicado en el Diario Oficial de la Federación el 8 de mayo de 2018.
+
+Tercero.- Se derogan todas las disposiciones del Reglamento de la Medalla al Mérito Cívico “Eduardo Neri, Legisladores de 1913”, publicado en el Diario Oficial de la Federación el 17 de febrero de 2009, con excepción del artículo Quinto Transitorio adicionado mediante Decreto publicado en el Diario Oficial de la Federación el 10 de noviembre de 2020, mismo que subsistirá hasta la entrega de dicho reconocimiento.
+
+Cuarto.- La Secretaría General dispondrá lo necesario para que en el Museo Legislativo “Sentimientos de la Nación” se establezca la placa conmemorativa a la que hace referencia el artículo 22 de este Reglamento, la cual llevará inscritos los nombres de todas y todos los galardonados con las Medallas, hasta la fecha de su develación y posteriormente se deberá inscribir el nombre de las y los galardonados sucesivos.
+
+Quinto.- Las Medallas Sor Juana Inés de la Cruz y Reconocimiento al Mérito Deportivo de la LXIV Legislatura se entregarán en las fechas y plazos establecidas (sic) en las convocatorias expedidas para el 2021 y de conformidad con el resolutivo cuarto y quinto del Acuerdo relativo a los procesos de entrega de las distinciones que otorga la Cámara de Diputados, respecto del segundo y Tercer Año de Ejercicio de la LXIV Legislatura, aprobado por el Pleno el 11 de noviembre de 2020. Para la adquisición de las Medallas y la difusión correspondiente se estará a lo establecido en los artículos 9o., 22 y 25 del presente Reglamento.
+
+Sexto.- El presente Reglamento en ningún caso podrá ser reformado, derogado o abrogado por acuerdos parlamentarios.
