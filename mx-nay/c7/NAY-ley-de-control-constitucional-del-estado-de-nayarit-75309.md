@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-control-constitucional-del-estado-de-nayarit-75309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2020-11-26"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2020.]</small>
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 2 de junio de 2010.
 
@@ -909,9 +909,9 @@ Ningún juicio para la protección de derechos fundamentales podrá archivarse s
 
 ### Capítulo VI. Del Recurso de Apelación en Materia de Responsabilidades Administrativas
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 23 DE DICIEMBRE DE 2020)
 
-Artículo 107 bis.- La Sala Constitucional conocerá y resolverá de los recursos de apelación que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas en Materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa del Estado de Nayarit.
+Artículo 107 bis.- La Sala Constitucional conocerá y resolverá de los recursos de apelación que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas en Materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa de Nayarit.
 
 Los responsables o los terceros, la Secretaría de la Contraloría General, los Órganos Internos de control de los entes públicos del Estado o la Auditoría Superior del Estado de Nayarit, promoverán el recurso de apelación mediante escrito ante la Sala Especializada del Tribunal de Justicia Administrativa que emitió la resolución, dentro del término de quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
 
