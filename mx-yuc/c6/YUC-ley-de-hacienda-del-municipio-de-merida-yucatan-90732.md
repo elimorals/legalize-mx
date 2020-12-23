@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2019-12-30"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -701,7 +701,9 @@ Las multas por infracciones a las disposiciones municipales sean éstas de cará
 
 Cuando en la presente Ley se haga mención de la sigla “U.M.A.” dicho término se entenderá como la unidad de medida y actualización, que estuviese vigente en el momento en que se determine una contribución o un crédito fiscal.
 
-## TITULO SEGUNDO. DE LOS CONCEPTOS DE INGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+## TITULO SEGUNDO. DE LOS CONCEPTOS DE INGRESOS
 
 ### CAPÍTULO I. IMPUESTOS
 
@@ -809,7 +811,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1225,9 +1227,9 @@ IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-VI.- La donación entre consortes, ascendientes y descendientes en línea directa, con la comprobación del parentesco respectivo en original o copia certificada ante la Dirección de Finanzas y Tesorería Municipal.
+VI.- La donación entre consortes, ascendientes y descendientes en línea directa.
 
 De la base
 
@@ -1511,7 +1513,9 @@ Los derechos que establece esta Ley se pagarán por los servicios que preste el 
 
 Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
-#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Segunda. De los Servicios que presta la Dirección de Desarrollo Urbano
 
 De los sujetos
 
@@ -1941,9 +1945,11 @@ d) Zona 4. Conservación de los Recursos Naturales
 
 6. Licencia para demolición y/o desmantelamiento distinta a la señalada en el numeral 2 de esta fracción 0.09 Metro cuadrado
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
 7. Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. Por colocación por unidad.
 
-1,100 Licencia
+2,500 Licencia
 
 > <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO DE LA FRACCIÓN IV, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2029,13 +2035,185 @@ VII.- Validación de planos 0.25 Por plano
 
 VIII.- Emisión de dictamen técnico
 
-1. Zona 1. Consolidación Urbana 3.75 Constancia
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-2. Zona 2. Crecimiento Urbano 10 Constancia
+1. Zona 1. Consolidación Urbana
 
-3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
+a) Por 2 unidades de propiedad exclusiva,
+
+se pagará 3.75 Constancia
+
+> <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+b) De 3 hasta 40 unidades de propiedad
+
+exclusiva:
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+1) Por las primeras 2 unidades de propiedad
+
+exclusiva, se pagará 3.75
+
+Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+2) Por cada unidad de propiedad exclusiva
+
+adicional, hasta 40 unidades, se pagará
+
+por cada una 1
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+c) De 41 hasta 100 unidades de propiedad
+
+exclusiva, se pagará 50 Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+d) De 101 unidades de propiedad exclusiva
+
+en adelante, se pagará 65 Constancia
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+2. Zona 2. Crecimiento Urbano
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+a) Por 2 unidades de propiedad exclusiva,
+
+se pagará 10 Constancia
+
+> <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+b) De 3 hasta 40 unidades de propiedad
+
+exclusiva:
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+1) Por las primeras 2 unidades de propiedad
+
+exclusiva, se pagará 10
+
+Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+2) Por cada unidad de propiedad exclusiva
+
+adicional, hasta 40 unidades, se pagará
+
+por cada una 1
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+c) De 41 hasta 100 unidades de propiedad
+
+exclusiva, se pagará 65 Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+d) De 101 unidades de propiedad exclusiva
+
+en adelante, se pagará 85 Constancia
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+3. Zona 3. Regeneración y Desarrollo
+
+Sustentable
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+a) Por 2 unidades de propiedad exclusiva,
+
+se pagará 25 Constancia
+
+> <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+b) De 3 hasta 40 unidades de propiedad
+
+exclusiva:
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+1) Por las primeras 2 unidades de propiedad
+
+exclusiva, se pagará 25
+
+Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+2) Por cada unidad de propiedad exclusiva
+
+adicional, hasta 40 unidades, se pagará
+
+por cada una 1
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+c) De 41 hasta 100 unidades de propiedad
+
+exclusiva, se pagará 85 Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+d) De 101 unidades de propiedad exclusiva
+
+en adelante, se pagará 100 Constancia
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+4. Zona 4. Conservación de los Recursos
+
+Naturales
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+a) Por 2 unidades de propiedad exclusiva,
+
+se pagará 50 Constancia
+
+> <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+b) De 3 hasta 40 unidades de propiedad
+
+exclusiva:
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+1) Por las primeras 2 unidades de propiedad
+
+exclusiva, se pagará 50
+
+Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+2) Por cada unidad de propiedad exclusiva
+
+adicional, hasta 40 unidades, se pagará
+
+por cada una 1
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+c) De 41 hasta 100 unidades de propiedad
+
+exclusiva, se pagará 110 Constancia
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+d) De 101 unidades de propiedad exclusiva
+
+en adelante, se pagará 150 Constancia
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VIII, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2589,7 +2767,9 @@ IX.- Otros certificados o constancias no señalados en forma expresa en el Capí
 
 El Director de Finanzas y Tesorero Municipal, podrá disminuir las cuotas señaladas en las fracciones II y IV del artículo 87 de esta sección, tratándose de personas de escasos recursos, previo estudio socioeconómico que para tal efecto realice la Secretaría Municipal.
 
-#### Sección Sexta. De los derechos por los servicios que presta la Dirección del Catastro del Municipio
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Sexta. De los derechos por los servicios que presta la Dirección de Catastro del Municipio
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2705,6 +2885,10 @@ j) Rectificación de medidas 4.0
 
 k). Oficio de avalúo catastral 5.0
 
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+l). Diligencia de perito empadronado 1.0
+
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
 IV.- Por la expedición de Cédula Catastral:
@@ -2731,15 +2915,21 @@ c).- Hasta 105 x 90 centímetros (Ploter) 20.0
 
 VII.- Por cada diligencia de verificación:
 
-a).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, no inscripción, mejora o demolición de construcción, rectificación de medidas, medidas físicas de construcción, colindancias de predios, o marcajes en predios comprendidos en las secciones de la 1 a la 30 6.0
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-b).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, no inscripción, mejora o demolición de construcción, rectificación de medidas, medidas físicas de construcción, colindancias de predios, o marcajes en predios comprendidos en las secciones de la 31 a la 50 8.0
+a).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, medidas físicas, colindancias de predios, altimetría o marcajes en predios comprendidos en las secciones de la 1 a la 30 6.0
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+b).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, medidas físicas, colindancias de predios, almetría, o marcajes en predios comprendidos en las secciones de la 31 a la 50 8.0
 
 c).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 20.0
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, metro lineal o punto posicionado geográficamente, conforme a lo siguiente:
+VIII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, metro lineal o punto posicionado geográfica o altimétricamente, conforme a lo siguiente:
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
 a).- De Terreno:
 
@@ -2763,15 +2953,23 @@ De 120,000.01 m2 a 150,000.00 m2, por m2 0.0023
 
 De 150,000.01 m2 en adelante, por m2 0.0021
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+
 b).- De Construcción:
 
 De hasta 50.00 m2 0.00
 
 De 50.01 m2 en adelante, por m2 excedente 0.014
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+
 c) Por la localización del predio y determinación de sus vértices, por cada metro lineal con base a la distancia existente desde el punto de referencia catastral más cercano al predio solicitado 0.081 por cada metro lineal
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+
 d) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S.) 16.0
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
 e) En el caso de localización de predios y determinación de sus vértices, se cobrará adicionalmente a la superficie del predio, lo siguiente:
 
@@ -2779,9 +2977,21 @@ e) En el caso de localización de predios y determinación de sus vértices, se 
 
 2.- Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.081
 
-Tratándose de trabajos de topografía para desarrollos inmobiliarios que se requieran para la diligencia de verificación de medidas físicas y/o para el proyecto de división del predio en que se constituirá el desarrollo inmobiliario, se podrá pagar una cuota equivalente al 40% de los derechos establecidos en el inciso a) siempre que haya acreditado el proyecto del desarrollo inmobiliario exhibiendo la Licencia o Factibilidad de uso de suelo de Desarrollo Inmobiliario expedida por la Dirección de Desarrollo Urbano del Municipio de Mérida.
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Tratándose de trabajos de topografía elaborados por topógrafos empadronados a la Dirección de Catastro del Municipio de Mérida, y que se requieran para la diligencia de verificación de medidas físicas y/o para el proyecto de división del predio, se pagará una cuota equivalente al 50% de los derechos establecidos en el inciso a).
+f). Por la medición y procesamiento de cada punto altimétrico en el terreno 1.0
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de trabajos de topografía para desarrollos inmobiliarios que se requieran para la diligencia de verificación de medidas físicas y/o para el proyecto de división del predio en que se constituirá el desarrollo inmobiliario, se podrá pagar una cuota equivalente al 40% de los derechos establecidos en el inciso a) de la presente fracción siempre que haya acreditado el proyecto del desarrollo inmobiliario exhibiendo la Licencia o Factibilidad de uso de suelo de Desarrollo Inmobiliario expedida por la Dirección de Desarrollo Urbano del Municipio de Mérida.
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de trabajos de topografía elaborados por topógrafos empadronados a la Dirección de Catastro del Municipio de Mérida, y que se requieran para la diligencia de verificación de medidas físicas y/o para el proyecto de división del predio, se pagará una cuota equivalente al 50% de los derechos establecidos en el inciso a) de la presente fracción.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de trabajos de topografía elaborados por topógrafos empadronados a la Dirección de Catastro del Municipio de Mérida y que se requieran para la diligencia de verificación de altimetría, se pagará una cuota equivalente al 50% de los derechos establecidos en los incisos d) y f) de la presente fracción.
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -2801,11 +3011,11 @@ El derecho al que se refiere el inciso a) de la fracción IV del artículo 89, s
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas cuya superficie sea utilizada plenamente para la producción agrícola o ganadera.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 92.
 
-Los deslindes o marcajes y las divisiones causarán derechos de conformidad con lo establecido en la fracción VIII del artículo 89, con excepción de lo dispuesto en el artículo anterior.
+Los deslindes o marcajes, las divisiones y las diligencias de verificación de altimetría causarán derechos de conformidad con lo establecido en la fracción VIII del artículo 89, con excepción de lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -3677,13 +3887,13 @@ II.- Por automóviles o camionetas $ 10.00 por hora
 
 III.- Por otros vehículos de mayor capacidad de carga. $15.00 por hora
 
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-IV.- Por el extravío del ticket del estacionamiento se cobrará 2 U.M.A.
+IV.- Por el extravío del ticket de entrada al estacionamiento se cobrará 2 U.M.A.
 
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-V.- Por el extravío de la tarjeta de salida del estacionamiento se cobrará 1 U.M.A.
+V.- Por el extravío del recibo de salida del estacionamiento se cobrará 1 U.M.A.
 
 Por la primera hora de uso de estacionamiento o fracción de esta se cobrarán las cuotas establecidas en el párrafo anterior. Posterior a la primera hora, se cobrará el equivalente al 50% de la cuota establecida, según sea el caso, por fracciones de tiempo de hasta media hora.
 
@@ -5938,3 +6148,123 @@ metro cuadrado 8.0 U.M.A.
 IX.- Por el registro de cambio de titular y su correspondiente expedición de título de derecho de uso a perpetuidad o por uso temporal a quince años, cuando haya sido adquirida por herencia, legado o mandato judicial 3.5 U.M.A.
 
 XIV.- Por la corrección de datos en los registros de derechos de uso y su correspondiente expedición de título de derecho de uso a perpetuidad o por uso temporal a quince años 1.0 U.M.A.
+
+D.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 320/2020 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el uno de enero del año dos mil veintiuno, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2021 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2021, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Apoyo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2021, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2021, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2021, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2021.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2021, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2021 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2021, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2020.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2021 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+En el ejercicio fiscal 2021 el importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, no podrá exceder de la cantidad a cargo que les haya correspondido durante el ejercicio fiscal 2020, efectuando este comparativo solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+A partir del ejercicio fiscal 2022 el importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, no podrá exceder de un 4% del que les haya correspondido durante el ejercicio fiscal inmediato anterior para los predios cuyo valor catastral sea menor o igual a $500,000.00 y para los predios cuyo valor catastral sea superior a $500,000.00 el impuesto predial base valor catastral no podrá exceder de un 10% del que les haya correspondido durante el ejercicio fiscal inmediato anterior. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en los dos párrafos que anteceden:
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, hayan aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 47 de esta Ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el cálculo establecido en el artículo 47 de esta Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2021, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
