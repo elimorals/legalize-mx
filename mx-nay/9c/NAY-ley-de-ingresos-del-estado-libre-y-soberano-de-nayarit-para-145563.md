@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-145
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-07"
-last_updated: "2020-12-07"
+last_updated: "2020-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL VEINTIUNO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2020 Y EL 2 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 2021
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2020.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el lunes 7 de diciembre de 2020.
 
@@ -52,6 +52,8 @@ LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 
 Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal del primero de enero al treinta y uno de diciembre del año dos mil veintiuno, serán los que se obtengan por los conceptos y cantidades estimadas que a continuación se enumeran de conformidad con el Clasificador por Rubros de Ingresos:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN TERCERA DEL P.O. DE 7 DE DICIEMBRE DE 2020, PÁGINAS DE LA 2 A LA 7.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATA EN TABLA EN LA SECCIÓN DÉCIMA DEL P.O. DE 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 6 A LA 9.]</small>
 
 ## TÍTULO SEGUNDO. IMPUESTOS
 
@@ -1027,6 +1029,12 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 
 > <small>[N. DE E. VÉASE ANEXO 1 EN LA SECCIÓN TERCERA DEL P.O. DE 7 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 88.]</small>
 
+> <small>[N. DE E. VÉASE FE DE ERRATA A ANEXO 1 EN LA SECCIÓN DÉCIMA DEL P.O. DE 23 DE DICIEMBRE DE 2020, PÁGINA 11.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 2 EN LA SECCIÓN TERCERA DEL P.O. DE 7 DE DICIEMBRE DE 2020, PÁGINAS DE LA 89 A LA 94.]</small>
 
+> <small>[N. DE E. VÉASE FE DE ERRATA A ANEXO 2 EN LA SECCIÓN DÉCIMA DEL P.O. DE 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 17 A LA 21.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 3 EN LA SECCIÓN TERCERA DEL P.O. DE 7 DE DICIEMBRE DE 2020, PÁGINAS DE LA 95 A LA 116.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATA A ANEXO 3 EN LA SECCIÓN DÉCIMA DEL P.O. DE 23 DE DICIEMBRE DE 2020, PÁGINA 22 Y DE LA 29 A LA 35.]</small>
