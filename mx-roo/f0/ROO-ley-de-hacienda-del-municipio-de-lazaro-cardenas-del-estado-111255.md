@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2019-08-09"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -69,9 +69,11 @@ Los ingresos municipales deberán determinarse, liquidarse y recaudarse; y la fa
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos a que se refiere esta ley, es competencia de la Tesorería Municipal de Lázaro Cárdenas, sus Dependencias, Direcciones, Unidades Administrativas y Auxiliares, en los términos previstos por sus respectivos Reglamentos Interiores.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-Para efecto de mejor comprensión, cuando en esta Ley se mencione S.M.G., se entenderá como Salario Mínimo General Vigente, diario, que corresponda al Estado de Quintana Roo.
+Para efecto de mejor comprensión, cuando en esta Ley se mencione U.M.A., se entenderá como Unidad de Medida y Actualización.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -157,11 +159,13 @@ En caso que haya sido cubierto el pago del Impuesto Predial antes de la formaliz
 
 En caso que haya sido cubierto el pago del impuesto predial antes de cualquier modificación en el inmueble, se aplicará la parte proporcional a la unidad privativa, conforme a lo establecido en el artículo 14 de esta Ley, debiendo cubrir el impuesto predial correspondiente a partir del siguiente bimestre del ejercicio fiscal en curso.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 14.
 
 El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con las siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 55.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 100.]</small>
 
 #### SECCIÓN IV. PAGO DEL IMPUESTO
 
@@ -191,7 +195,9 @@ IV. La propiedad comunal ejidal, parcelaria, cuando éstos pertenezcan a ejidata
 
 Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal, se faculta al Ayuntamiento a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectué antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, hasta un 15% de descuento del total del importe, previo acuerdo del Ayuntamiento.
 
-Cuando el contribuyente sea una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o del INSEN, el Ayuntamiento podrá conceder un descuento hasta del 50% del total del importe señalado en el artículo 14 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Cuando el contribuyente sea una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o del INSEN, el Ayuntamiento podrá conceder un descuento hasta del 50% del total del importe señalado en el artículo 14 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil U.M.A. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
 
 El Ayuntamiento, en las situaciones de emergencia derivadas de desastres naturales, declaradas por el Titular del Ejecutivo del Estado, podrá conceder estímulos fiscales a los contribuyentes hasta de un 50% del monto del impuesto predial, cuando éste sea cubierto en una sola emisión, por anticipado y cubra todo el año, y sea enterado en la Tesorería Municipal antes del 31 de diciembre del año de la contingencia, y hasta un 25% del total del importe, si el pago se realiza en los meses de enero y febrero del año siguiente.
 
@@ -245,11 +251,13 @@ Previo a que los boletos sellados le sean entregados, el contribuyente deberá e
 
 En el caso de máquinas expendedoras de boletos, estas deberán contar con un sistema que permita conocer de manera segura el número de boletos expedidos; el contribuyente deberá de dar acceso al personal de la Tesorería Municipal para su revisión, así como proporcionarle todas las facilidades para este efecto, incluyendo personal capacitado para operar las mencionadas máquinas.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 27.
 
 Este impuesto se causará de acuerdo con la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 61.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 101 A LA 102.]</small>
 
 ###### Artículo 28.
 
@@ -327,13 +335,15 @@ Es objeto de este impuesto la propiedad o posesión de vehículos que no consume
 
 Son sujetos de este impuesto las personas físicas, o morales o unidades económicas que sean propietarios o poseedores de los vehículos materia de este impuesto.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 33.
 
 El pago de este impuesto, se causará anualmente de conformidad con la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 66.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 102.]</small>
 
-Si el período de circulación del vehículo es menor de un semestre, sólo causará el 50% de las cuotas anteriores
+Si el período de circulación del vehículo es menor de un semestre, sólo causará el 50% de las cuotas anteriores.
 
 ###### Artículo 34.
 
@@ -383,19 +393,35 @@ IV. Tratándose de apuestas y juegos permitidos, el monto total que se reciba, r
 
 V. Tratándose de entrega de comprobantes, billetes o cualquier otro comprobante que permita participar en rifas, sorteos y concursos de manera gratuita, se considerará como base para el cálculo de este impuesto la que se establece en la fracción II de este artículo.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 38.
 
 Este impuesto se calculará aplicando a la base la tasa correspondiente de acuerdo a la siguiente:
 
 TARIFA
 
-I. Sobre los ingresos obtenidos por premios derivados de loterías, rifas, sorteos y concursos: 6%
+I. Sobre los ingresos obtenidos por premios derivados de 6% U.M.A.
 
-II. Sobre los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o concursos de todo tipo: 10%
+loterías, rifas, sorteos y concursos:
 
-III. El 6% de la base a que se refiere la fracción IV del artículo 37 cuando se trate de apuestas y juegos permitidos, y
+II. Sobre los ingresos obtenidos por la enajenación de 10% U.M.A.
 
-IV. El 5% de la base a que se refiere la fracción V del artículo 37, cuando se trate de comprobantes, billetes o cualquier otro comprobante que permita participar en rifas, sorteos y concursos de manera gratuita.
+billetes y demás comprobantes que permitan participar en
+
+loterías, rifas, sorteos o concursos de todo tipo:
+
+III. El 6% de la base a que se refiere la fracción IV del artículo
+
+37 cuando se trate de apuestas y juegos permitidos, y
+
+IV. El 5% de la base a que se refiere la fracción V del artículo
+
+37, cuando se trate de comprobantes, billetes o cualquier
+
+otro comprobante que permita participar en rifas, sorteos y
+
+concursos de manera gratuita.
 
 ###### Artículo 39.
 
@@ -429,17 +455,19 @@ Es objeto de este impuesto la actuación de músicos, cantantes y artistas profe
 
 Son sujetos de este impuesto las personas que lleven a cabo las actividades a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 43.
 
 El impuesto se causará de conformidad con la siguiente:
 
 TARIFA
 
-I. Conjuntos musicales por elemento,
+I. Conjuntos musicales por elemento, cada día 4 U.M.A.
 
-cada día de actuación de 0.5 hasta 4.0 S.M.G.
+de actuación:
 
-II. Solistas por cada día de función De 0.5 hasta 4.0 S.M.G.
+II. Solistas por cada día de función: 4 U.M.A.
 
 ###### Artículo 44.
 
@@ -583,83 +611,83 @@ Están exentos del pago de derechos de cooperación, el Municipio, el Estado y l
 
 #### SECCIÓN I. DERECHOS POR CONTROL VEHICULAR
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 54.
 
 Todos los servicios que proporcione la Dirección de Tránsito, en el ámbito de competencia del Municipio, causarán los derechos con arreglo a lo siguiente:
 
 I. Vehículos que se matriculen y registren en las Oficinas del Estado.
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 81 A LA 82.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 104.]</small>
 
 II. Derechos de control vehicular:
 
-a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 S.M.G., cualquiera que sea el mayor;
+a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 U.M.A., cualquiera que sea el mayor;
 
-b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.0 S.M.G., cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7.0 S.M.G., cualquiera que sea el mayor;
+b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6 U.M.A., cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7 U.M.A., cualquiera que sea el mayor;
 
 c) Para automóviles y camionetas en servicio público:
 
-1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 S.M.G., cualquiera que sea el mayor, y
+1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente u 8 U.M.A., cualquiera que sea el mayor, y
 
-2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 17 S.M.G., cualquiera que sea mayor.
+2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 17 U.M.A., cualquiera que sea mayor.
 
 d) Para camiones de servicio público local:
 
-1. Hasta de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 8.0 S.M.G., cualquiera que sea el mayor, y
+1. Hasta de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente u 8 U.M.A., cualquiera que sea el mayor, y
 
-2. Más de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 11.5 S.M.G., cualquiera que sea el mayor.
+2. Más de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente u 11.5 U.M.A., cualquiera que sea el mayor.
 
-e) Para autobuses de servicio local: 11.0 S.M.G.
+e) Para autobuses de servicio local: 11 U.M.A.
 
-f) Para autobuses particulares, un 50% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.3 S.M.G., cualquiera que sea mayor
+f) Para autobuses particulares, un 50% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.3 U.M.A., cualquiera que sea mayor.
 
-g) Para remolques: 3.0 S.M.G.
+g) Para remolques: 3 U.M.A.
 
-h) Para motocicletas, cada año
+h) Para motocicletas, cada año.
 
-1. Particulares: 1.0 S.M.G.
+1. Particulares: 1 U.M.A.
 
-2. Arrendadora: 2.2 S.M.G.
+2. Arrendadora: 2.2 U.M.A.
 
-i) Para bicicletas, cada año
+i) Para bicicletas, cada año.
 
-1. Particulares: 1.0 S.M.G.
+1. Particulares: 1 U.M.A.
 
-2. Servicio público: 2.2 S.M.G.
+2. Servicio público: 2.2 U.M.A.
 
-j) Para triciclos cada año
+j) Para triciclos, cada año.
 
-1. Particulares: 1.0 S.M.G.
+1. Particulares: 1 U.M.A.
 
-2. Servicio público: 2.2 S.M.G.
+2. Servicio público: 2.2 U.M.A.
 
-k) Para carros de tracción animal 1.0 S.M.G.
+k) Para carros de tracción animal: 1 U.M.A.
 
-l) Para carros de mano 1.0 S.M.G.
+l) Para carros de mano: 1 U.M.A.
 
-m) Para demostración, permisos provisionales para circulación de vehículos con vigencia de 15 días 3.0 S.M.G.
+m) Para demostración, permisos provisionales para circulación de vehículos con vigencia de 15 días: 3 U.M.A.
 
-n) Por expedición de tarjetas de circulación 0.5 S.M.G.
+n) Por expedición de tarjetas de circulación: 0.5 U.M.A.
 
-o) Por refrendo de calcomanía identificadora de placas un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 2.0 S.M.G., cualquiera que sea el mayor
+o) Por refrendo de calcomanía identificadora de placas un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 2 U.M.A., cualquiera que sea el mayor.
 
-p) Por placas de demostración 6.3 S.M.G.
+p) Por placas de demostración: 6.3 U.M.A.
 
 Tratándose de derecho vehicular del inciso a) al n) deberán pagar en un plazo de 30 días; en el caso del inciso o) el plazo de pago será los primeros tres meses de cada año.
 
 III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 85 A LA 86.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 108.]</small>
 
-Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
+Permiso provisional para manejar sin licencia por 30 días: 1 U.M.A.
 
 Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento de la tarifa a que se refiere esta fracción.
 
-IV. Por arrastre de grúa en hechos de tránsito: 8.3. S.M.G.
+IV. Por día de estancia de vehículos en el corralón: 0.4 U.M.A.
 
-V. Por día de estancia de vehículos en el corralón: 0.4 S.M.G.
-
-VI. Por aplicación del examen médico y de competencia para conducir vehículos de motor: 2.5 S.M.G
+V. Por aplicación del examen médico y de competencia para conducir vehículos de motor: 2.5 U.M.A.
 
 #### SECCIÓN II. REGISTRO DE VEHÍCULOS
 
@@ -709,11 +737,13 @@ Quedan exceptuados del pago de los derechos a que se refiere este capítulo, los
 
 Se entiende por este derecho la prestación por la validez jurídica que por su carácter de autoridad y de la fe pública que ostentan, pueden otorgar los Oficiales del Registro Civil en los distintos actos que determinan el estado civil de los habitantes del Municipio y por la certificación de documentos que obran en sus archivos.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 63.
 
 Los derechos por los servicios que presta el Registro Civil, se pagarán de acuerdo con las cuotas que señala la siguiente:
 
-[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 89 A LA 92.
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 109 A LA 111.]</small>
 
 Los derechos señalados en los incisos i), j), y k) de esta fracción, se causarán con la expedición por cada copia certificada del acto correspondiente.
 
@@ -735,27 +765,33 @@ Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 ### CAPÍTULO IV. SERVICIOS EN MATERIA DE DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 67.
 
-Es objeto de este derecho, el estudio y en su caso, la expedición de toda licencia de construcción, sus refrendos y terminación, con independencia a que dichas obras sean o no ejecutadas. Su expedición se realizará previo el pago de derechos en base a los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente de acuerdo a la tipología y aplicando la siguiente:
+Es objeto de este derecho, el estudio y en su caso, la expedición de toda licencia de construcción, sus refrendos y terminación, con independencia a que dichas obras sean o no ejecutadas. Su expedición se realizará previo el pago de derechos con base a los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente de acuerdo a la tipología y aplicando la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 93 A LA 94.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 112 A LA 113.]</small>
 
-Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de 360 días y las comprendidas en la fracción II, por los plazos que fijen (sic) el Ayuntamiento, los que no serán menores que el anterior.
+Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de 360 días y las comprendidas en la fracción II, por los plazos que fije el Ayuntamiento, los que no serán menores que el anterior.
 
-III. Fraccionamiento de terreno: Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
+I. Fraccionamiento de terreno: Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
 
-El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los términos del párrafo anterior.
+II. El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los términos del párrafo anterior.
 
 Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción II, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 68.
 
-La ejecución de toda obra sin licencia respectiva, se sancionará de 3 a 100 S.M.G., multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
+La ejecución de toda obra sin licencia respectiva, se sancionará de 100 U.M.A., multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
 
 ###### Artículo 69.
 
 Se requerirá de licencia para las obras de reparación de edificios, así como para cualquier demolición, excavación, relleno, reconstrucción o ampliación. No requerirán de licencia o autorización las acciones de conservación y mantenimiento de edificios.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 70.
 
@@ -763,13 +799,21 @@ Las licencias de demolición se conferirán previa expedición de las autorizaci
 
 TARIFA
 
-I. Cuando se trata de casa-habitación cualquiera que sea su tipo por m² 0.15 S.M.G.
+I. Cuando se trata de casa-habitación 0.15 U.M.A.
 
-II. Tratándose de construcciones destinadas a fines distintos a lo señalado en el inciso anterior, se cobrará por m² 0.30 S.M.G
+cualquiera que sea su tipo por m2:
+
+II. Tratándose de construcciones destinadas 0.30 U.M.A.
+
+a fines distintos a los señalados en el inciso
+
+anterior, se cobrará por m2:
 
 ###### Artículo 71.
 
 Por la regularización de licencias para obras de construcción, reconstrucción, ampliación y demolición, se pagará el importe hasta 3 veces de la tarifa correspondiente prevista en el artículo 67.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 72.
 
@@ -779,25 +823,25 @@ TARIFA
 
 I. Por la autorización del régimen de propiedad en condominio por tipo de construcción:
 
-a) Interés social EXENTO
+a) Interés social: EXENTO
 
-b) Medio por unidad privativa 6 S.M.G.
+b) Medio por unidad privativa: 6 U.M.A.
 
-c) Residencial por unidad privativa 8 S.M.G.
+c) Residencial por unidad privativa: 8 U.M.A.
 
-d) Comercial en Zona Hotelera por unidad privativa 10 S.M.G.
+d) Comercial en Zona Hotelera por unidad privativa: 10 U.M.A.
 
 II. Por la autorización subdivisión o fraccionamiento de predios de tipo general:
 
-a) Cuando resulten 2 lotes: 4.60 S.M.G
+a) Cuando resulten 2 lotes: 4.60 U.M.A.
 
-b) Cuando resulten más de 2 lotes, por cada lote excedente: 4.03 S.M.G.
+b) Cuando resulten más de 2 lotes, por cada lote excedente: 4.03 U.M.A.
 
 III. Por la fusión de predios en general:
 
-a) Por la fusión de 2 lotes 4.60 S.M.G.
+a) Por la fusión de 2 lotes: 4.60 U.M.A.
 
-b) Por cada lote que exceda de 2: 4.03 S.M.G.
+b) Por cada lote que exceda de 2: 4.03 U.M.A
 
 ### CAPÍTULO V. DE LAS CERTIFICACIONES
 
@@ -805,19 +849,29 @@ b) Por cada lote que exceda de 2: 4.03 S.M.G.
 
 Se entiende por certificación, a la legalización de documentos solicitados al Ayuntamiento, en los que se hagan constar hechos o actos de sus habitantes o de aquellos que accidentalmente han residido dentro del territorio del Municipio, así como de los expedientes y documentos públicos que obran en sus archivos y/o registros.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 74.
 
 Las certificaciones o legalizaciones de documentos a que se hace referencia en el artículo anterior, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. Legalización de firmas: 1.0 S.M.G.
+I. Legalización de firmas: 1 U.M.A.
 
-II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, incluyendo copias certificadas del registro civil 2.0 S.M.G.
+II. Expedición de certificados de algún hecho ocurrido en 2 U.M.A.
 
-III. Expedición de coplas certificadas de constancias existentes en los archivos del Municipio, por cada hoja. 0.10 S.M.G.
+presencia de la autoridad, incluyendo copias certificadas del
 
-IV. Por expedición de certificados expedidos por la Tesorería Municipal: 1.0 S.M.G.
+registro civil:
+
+III. Expedición de copias certificadas de constancias 0.10 U.M.A.
+
+existentes en los archivos del Municipio, por cada hoja:
+
+IV. Por expedición de certificados expedidos por la 1 U.M.A.
+
+Tesorería Municipal:
 
 ###### Artículo 75.
 
@@ -837,11 +891,13 @@ IV. Las de supervivencia de pensionistas de la Federación y los Estados y las q
 
 Se entiende por este derecho la prestación de los servicios de vigilancia, administración, limpieza, reglamentación y otros, de los predios propiedad del Ayuntamiento destinados a la inhumación de cadáveres, así como la autorización para efectuar las exhumaciones.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 77.
 
 Por los servicios de Panteones que preste el Municipio, se cobrarán los derechos conforme a la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 99 A LA 101.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 116 A LA 117.]</small>
 
 ###### Artículo 78.
 
@@ -863,13 +919,15 @@ El Municipio concederá las licencias para las exhumaciones y traslado de cadáv
 
 ### CAPÍTULO VII. ALINEAMIENTOS DE PREDIOS, CONSTANCIA DEL USO DEL SUELO NÚMERO OFICIAL, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 82.
 
 Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios antes de que se ejecuten las obras de construcción, ampliación y reconstrucción para los que se requiera licencia.
 
 Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que fijan la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 103 A LA 106.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 118 A LA 121.]</small>
 
 Artículo 84 (SIC).- Concluido el plazo que establece el artículo anterior, los alineamientos podrán refrendarse en los términos y bajo las condiciones siguientes:
 
@@ -877,7 +935,9 @@ I. Por los tres meses siguientes, dichas Oficinas refrendarán los alineamientos
 
 II. Concluidos los tres meses de este último refrendo, no podrá concederse otro, debiendo presentarse nueva solicitud y cubrirse el importe íntegro del derecho correspondiente;
 
-III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 S.M.G.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 U.M.A.
 
 ### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
@@ -921,11 +981,13 @@ IV. Autorización expedida por la Dirección de Protección Civil Municipal o la
 
 Asimismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 85 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 88.
 
 El pago de los derechos por licencia de funcionamiento en los casos de apertura o refrendo anual de los ya establecidos, se efectuarán conforme a la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 110 A LA 116.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 122 A LA 126.]</small>
 
 ###### Artículo 89.
 
@@ -935,21 +997,31 @@ Simultáneamente al requerimiento la autoridad impondrá la sanción que corresp
 
 ### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 90.
 
 La autorización para el funcionamiento de establecimientos comerciales fuera del horario normal que fijen los reglamentos, causarán diariamente derechos por cada hora extraordinaria, como sigue:
 
-I. Clubes, centros nocturnos, bares, cabarets y discotecas, en que se expendan bebidas alcohólicas: De 15.0 a 30.0 S.M.G.
+I. Clubes, centros nocturnos, bares, cabarets y 30 U.M.A.
 
-II. Restaurantes, fondas, loncherías, minisúper y demás en que se expendan bebidas alcohólicas: De 2.5 a 10.0 S.M.G.
+discotecas, en que se expendan bebidas alcohólicas:
 
-III. Otros establecimientos que vendan alimentos sin bebidas alcohólicas, excepto cerveza: De 0.3 a 1.0 S.M.G.
+II. Restaurantes, fondas, loncherías, minisúper y 10 U.M.A.
+
+demás en que se expendan bebidas alcohólicas:
+
+III. Otros establecimientos que vendan alimentos 1 U.M.A.
+
+sin bebidas alcohólicas, excepto cerveza:
 
 ###### Artículo 91.
 
 El derecho por horas extraordinarias a que se refiere el artículo anterior, será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
 
 ### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 92.
 
@@ -959,35 +1031,41 @@ TARIFA
 
 Por cabeza:
 
-I. Ganado vacuno hasta 1.4 S.M.G.
+I. Ganado vacuno hasta 1.4 U.M.A.
 
-II. Ganado porcino hasta 0.8 S.M.G.
+II. Ganado porcino hasta 0.8 U.M.A.
 
-III. Ganado lanar o cabrío hasta 0.2 S.M.G.
+III. Ganado lanar o cabrío hasta 0.2 U.M.A.
 
-IV. Aves hasta 0.2 S.M.G.
+IV. Aves hasta 0.2 U.M.A.
 
-Considerando las necesidades de industriales, empacadoras, empresas, asociaciones de productores y otras personas físicas y morales, que necesitan sacrificar sus propios animales, o para insumo de procesos industriales, este servicio podrá ser concesionado a particulares, previa autorización otorgada por el Ayuntamiento, garantizando desde luego la salud pública.
+Considerando las necesidades industriales, empacadoras, empresas, asociaciones de productores y otras personas físicas y morales, que necesitan sacrificar sus propios animales, o para insumo de procesos industriales, este servicio podrá ser concesionado a particulares, previa autorización otorgada por el Ayuntamiento, garantizando desde luego la salud pública.
 
-Los rastros o mataderos de particulares que obtengan del Ayuntamiento, la concesión para su establecimiento y operación, cubrirá (sic) en forma mensual o anual, el importe que se fije en la misma.
+Los rastros o mataderos de particulares que obtengan del Ayuntamiento, la concesión para su establecimiento y operación, cubrirá en forma mensual o anual, el importe que se fije en la misma.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-El ganado sea (sic) introducido al rastro para su sacrificio, deberá ser inspeccionado antes y posteriormente por las autoridades sanitarias, y pagando por este servicio la siguiente:
+El ganado que sea introducido al rastro para su sacrificio, deberá ser inspeccionado antes y posteriormente por las autoridades sanitarias, y pagando por este servicio la siguiente:
 
 TARIFA
 
-Por cabeza
+Por cabeza:
 
-I. Ganado vacuno hasta 0.6 S.M.G.
+I. Ganado vacuno hasta 0.6 U.M.A.
 
-II. Ganado porcino hasta 0.4 S.M.G.
+II. Ganado porcino hasta 0.4 U.M.A.
 
-III. Ganado lanar o cabrío hasta 0.2 S.M.G.
+III. Ganado lanar o cabrío hasta 0.2 U.M.A.
 
-IV. Aves hasta 0.03 S.M.G.
+IV. Aves hasta 0.03 U.M.A.
 
-### CAPÍTULO XII (SIC). DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 94.
 
@@ -995,21 +1073,23 @@ El traslado de animales sacrificados en los rastros, en vehículos de dichos est
 
 TARIFA
 
-Por cabeza
+Por cabeza:
 
-I. Ganado bovino hasta 1.0 S.M.G.
+I. Ganado vacuno hasta 1 U.M.A.
 
-II. Ganado porcino hasta 0.3 S.M.G.
+II. Ganado porcino hasta 0.3 U.M.A.
 
-III. Ganado no comprendido en las fracciones anteriores: hasta 0.6 S.M.G.
+III. Ganado no comprendido en las
 
-IV. Aves hasta 0.03 S.M.G.
+fracciones anteriores hasta 0.6 U.M.A.
+
+IV. Aves hasta 0.03 U.M.A.
 
 En tanto se adquieren los vehículos para atender las necesidades de la distribución, estos servicios podrán ser objeto de concesión a particulares, previo contrato celebrado con el Ayuntamiento, siempre que el servicio prestado les garantice la salud pública.
 
 Por la concesión del derecho de traslado o acarreo, el concesionario cubrirá anualmente por este concepto el importe que se le fije, de acuerdo al convenio celebrado.
 
-### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
+### CAPÍTULO XII. DEPOSITO DE ANIMALES EN CORRALES MUNICIPALES
 
 ###### Artículo 95.
 
@@ -1019,35 +1099,41 @@ El pago de este derecho se origina por la guarda de animales depositados en los 
 
 Los dueños de los animales depositados en los corrales municipales no podrán retirarlos mientras no hayan cubierto el entero correspondiente a la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 97.
 
-Los derechos por esta prestación se cubrirán independientemente de los gastos que origine la manutención de los animales de acuerdo a la siguiente:
+Los derechos por esta prestación se cubrirán independientemente de los gastos que origine la manutención de los animales de acuerdo a la siguiente tabla:
 
 TARIFA
 
-Por cabeza:
+I. Ganado vacuno y equino cada una hasta 0.7 U.M.A.
 
-I. Ganado vacuno y equino, cada una 0.7 S.M.G.
+II. Ganado porcino hasta 0.3 U.M.A.
 
-II. Ganado porcino 0.3 S.M.G.
+III. Ganado lanar o cabrío hasta 0.2 U.M.A.
 
-III. Ganado lanar o cabrío 0.2 S.M.G.
+IV. Aves hasta 0.3 U.M.A.
 
-IV. Aves 0.3 S.M.G.
-
-### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
 
 ###### Artículo 98.
 
 Los propietarios de dos o más cabezas de ganado, están obligados a presentar su registro, en enero de cada año, ante la Tesorería Municipal, su fierro marcador o las señales que identifiquen a los animales de su propiedad y a exhibir los títulos que amparen dichos fierros o señales.
 
-El derecho que se pagará por el Registro de Fierros, será de: 3.0 S.M.G.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+El derecho que se pagará por el Registro de Fierros, será de: 3 U.M.A.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 99.
 
-Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagará 1.5 S.M.G.
+Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagará 1.5 U.M.A.
 
-### CAPÍTULO XV. ANUNCIOS
+### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 100.
 
@@ -1055,13 +1141,13 @@ La expedición de certificados de vecindad, de residencia y de morada conyugal, 
 
 TARIFA
 
-I. De vecindad 2.0 S.M.G.
+I. De vecindad hasta 2 U.M.A.
 
-II. De residencia 1.0 S.M.G.
+II. De residencia hasta 1 U.M.A.
 
-III. De morada conyugal 2.0 S.MG.
+III. De morada conyugal hasta 2 U.M.A.
 
-### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
+### CAPÍTULO XV. ANUNCIOS
 
 ###### Artículo 101.
 
@@ -1077,11 +1163,13 @@ El pago de los derechos correspondientes se realizará en la Tesorería Municipa
 
 Serán responsables solidarios del pago de este derecho, los propietarios de los predios, o fincas en donde se fijen anuncios o carteles, o se lleve a cabo la publicidad. También serán responsables solidarios las personas físicas o morales que fijen los anuncios, o lleven a cabo la publicidad.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 104.
 
 Por la expedición de licencias, permisos o autorizaciones que otorguen las autoridades facultadas para estos efectos, de acuerdo al Reglamento de Anuncios del Municipio, se deberán pagar derechos de acuerdo a la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 123.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 131 A LA 132.]</small>
 
 ###### Artículo 105.
 
@@ -1093,11 +1181,13 @@ II. Las que realicen las entidades gubernamentales en sus funciones de derecho p
 
 III. Los manifiestos públicos o sindicales, los anuncios de venta o de alquiler de inmuebles, las solicitudes relativas a trabajos, o avisos en las puertas de los templos de culto.
 
-### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
+### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
 
 ###### Artículo 106.
 
 Pagarán este derecho las personas físicas o morales que sean propietarios o poseedores de los autobuses de pasajeros en rutas establecidas, urbanas y suburbanas.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 107.
 
@@ -1105,19 +1195,23 @@ Solamente por concesión de permiso de ruta expedido por el Ayuntamiento en tér
 
 TARIFA
 
-I. Concesiones de permiso de ruta
+l. Concesiones de permiso de ruta
 
-a) Autobuses urbanos por unidad: 18.0 S.M.G.
+a) Autobuses urbanos por unidad: 18 U.M.A.
 
-b) Autobuses suburbanos por unidad: 15.0 S.M.G.
+b) Autobuses suburbanos por unidad: 15 U.M.A.
 
-II. Por sustitución de la concesión de permiso de ruta por cambio de vehículos: De 1.0 S.M.G. a 19.0 S.M.G.
+II. Por sustitución de la concesión de permiso de 19 U.M.A.
 
-III. Permiso temporal a vehículos no concesionados por reparación de la unidad, diariamente: 1.0 S.M.G.
+ruta por cambio de vehículos:
 
-IV. Modificación temporal a la concesión del permiso de ruta, diariamente por unidad
+III. Permiso temporal a vehículos no concesionados 1 U.M.A.
 
-1.0 S.M.G.
+por reparación de la unidad, diariamente:
+
+IV. Modificación temporal a la concesión del 1 U.M.A.
+
+permiso de ruta, diariamente por unidad
 
 ###### Artículo 108.
 
@@ -1127,7 +1221,7 @@ Este derecho debe ser cubierto a la Tesorería Municipal contra el otorgamiento 
 
 Las concesiones de permisos de ruta, deberán ser supervisadas por las autoridades municipales y los propietarios, poseedores o chóferes de los vehículos a quienes se otorgó el permiso, deberán mostrarlo a las autoridades competentes cuando estas lo requieran.
 
-### CAPÍTULO XVIII. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO XVII. LIMPIEZA DE SOLARES BALDÍOS
 
 ###### Artículo 110.
 
@@ -1137,21 +1231,25 @@ Los propietarios o poseedores de solares o predios baldíos y con construcciones
 
 Si los propietarios o poseedores de solares o predios referidos no cumplieran con la disposición anterior, el Municipio, por conducto de la Dependencia competente realizará la limpieza o en su caso construirá las bardas necesarias para delimitar el mismo.
 
-La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbado. En caso de no cumplirse el artículo 110, o con el requerimiento formulado por la autoridad, esta podrá por si mismas (sic) o mediante la contratación de terceros efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles están obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una multa de 3.0 a 20 S.M.G. del importe determinado a pagar.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbado. En caso de no cumplirse el artículo 110, o con el requerimiento formulado por la autoridad, esta podrá por si mismas (sic) o mediante la contratación de terceros efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles están obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una multa de 20 U.M.A. del importe determinado a pagar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 112.
 
-Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los derechos por cada metro cuadrado, de 0.12 S.M.G.
+Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los derechos por cada metro cuadrado, de 0.12 U.M.A.
 
 El pago de las obligaciones establecidas, deberán de ser realizadas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación, mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo, o en su caso, las aprobadas por la autoridad fiscal municipal.
 
-### CAPÍTULO XIX. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
+### CAPÍTULO XVIII. SERVICIOS DE INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 113.
 
 El Municipio cobrará este servicio en la forma y términos que para el efecto establezca el ordenamiento legal correspondiente.
 
-### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
+### CAPÍTULO XIX. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 114.
 
@@ -1161,21 +1259,29 @@ Es objeto de este derecho el servicio especial prestado por convenio o contrato 
 
 Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policiaco.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 116.
 
 Este derecho se causará y pagará en la Tesorería Municipal, a más tardar el día hábil siguiente a la firma del convenio, de acuerdo a la siguiente:
 
 TARIFA
 
-I. Por el servicio de 24 horas de labores por 24 horas de descanso de un policía raso, mensualmente pagarán 138 S.M.G.
+l. Por el servicio de 24 horas de labores por 24 horas
 
-II. Por el servicio de 24 horas de labores por 24 Horas de descanso que preste un policía segundo, mensualmente pagarán: 207 S.M.G.
+de descanso de un policía raso, mensualmente pagarán 138 U.M.A.
+
+II. Por el servicio de 24 horas de labores por 24 Horas
+
+de descanso que preste un policía segundo,
+
+mensualmente pagarán: 207 U.M.A.
 
 ###### Artículo 117.
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las Oficinas de la Tesorería Municipal indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
+### CAPÍTULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
 
 ###### Artículo 118.
 
@@ -1197,13 +1303,15 @@ Son sujetos por deuda ajena y responsabilidad solidaria del pago de derechos a q
 
 El Ayuntamiento podrá concertar con las organizaciones, empresarios y ciudadanos causahabientes las condiciones de pago de estos derechos, fijándoles las condiciones de pago en atención a su capacidad económica.
 
-El Ayuntamiento, propondrá a la Legislatura del Estado, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación de los servicios a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+El Ayuntamiento, propondrá a la Legislatura del Estado, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación de los servicios a que se refiere este artículo.
 
 Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes.
 
 Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en la Tesorería Municipal correspondiente dentro del mes de enero, y febrero de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
 
-### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
+### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
 
 ###### Artículo 119.
 
@@ -1225,19 +1333,21 @@ II. Para los establecimientos descritos en la fracción II del artículo anterio
 
 Los pagos se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
-### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
+### CAPÍTULO XXII. USO DE LA VÍA PÚBLICA O DE OTROS BIENES DE USO COMÚN
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 122.
 
 Para el uso de la vía pública para el ejercicio de una actividad lucrativa de cualquier naturaleza, se causarán los siguientes derechos:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA DE LA 131 A LA 132.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 135 A LA 136.]</small>
 
 Los tráilers que tengan más de una caja, se les cobrará el 50% adicional a las tarifas antes señaladas.
 
 Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrán solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
 
-### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
 
 ###### Artículo 123.
 
@@ -1251,25 +1361,23 @@ III. Los peritos valuadores;
 
 IV. Los promotores de tiempo compartido.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 124.
 
 Los derechos a que se refiere el artículo anterior, se pagarán de acuerdo a la siguiente:
 
 TARIFA
 
-I. Para los vendedores de tiempo
+l. Para los vendedores de tiempo compartido 50 U.M.A. por mes
 
-compartido De 10.0 a 50.0 S.M.G. por mes
+II. Para los directores responsables de la 50 U.M.A. por año
 
-II. Para los directores responsables de la
+construcción de obras
 
-construcción de obras De 10.0 a 50.0 S.M.G. por año
+III. Para los peritos valuadores 50 U.M.A. por año
 
-III. Para los peritos valuadores De 10.0 a 50.0 S.M.G. por año
-
-IV. Para los promotores de tiempos
-
-compartidos De 10.0 a 50.0 S.M.G. por año
+IV. Para los promotores de tiempos compartidos 50 U.M.A. por año
 
 ###### Artículo 125.
 
@@ -1279,7 +1387,7 @@ Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ord
 
 Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el Ayuntamiento considere.
 
-### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
 ###### Artículo 127.
 
@@ -1287,7 +1395,9 @@ Por la verificación, control y fiscalización que las leyes en la materia encom
 
 La Tesorería Municipal al hacer el pago de las estimaciones de obra que le corresponda, retendrá el derecho a que se refiere el párrafo anterior y registrara el 50 por ciento de todo lo recaudado por este concepto a favor de la partida presupuestal de la respectiva Contraloría Municipal para su aplicación a gastos inherentes a sus operaciones de verificación y control de la Obra Pública Municipal. El restante 50 por ciento de todo lo recaudado por este concepto será transferido por la Tesorería Municipal al Órgano Superior de Fiscalización del Estado, el cual lo integrara al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-### CAPÍTULO XXVII (SIC). DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
+### CAPÍTULO XXV. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 128.
 
@@ -1295,31 +1405,33 @@ Por los servicios que presta el Municipio en materia de ecología y protección 
 
 TARIFA
 
-I. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 S.M.G. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
+I. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 U.M.A. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-II. Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir el equivalente a 2.5 S.M.G.
+II. Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir el equivalente a 2.5 U.M.A.
 
-III. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 S.M.G. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
+III. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 U.M.A. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
 
-IV. Por la expedición del permiso de Operación, el solicitante deberá cubrir el equivalente a 10 S.M.G.
+IV. Por la expedición del permiso de Operación, el solicitante deberá cubrir el equivalente a 20 U.M.A.
 
-V. Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 10S.M.G (SIC)
+V. Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 15 U.M.A.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 129.
 
 Por el registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción y venta de animales, se causarán los derechos conforme a las siguientes:
 
-I. Por el registro de establecimientos comerciales de
+I. Por el registro de establecimientos comerciales de venta de animales: 10 U.M.A.
 
-venta de animales 10.0 S.M.G
+II. Por el registro de establecimientos de cría de animales: 10 U.M.A.
 
-II. Por el registro de establecimientos de cría de animales 10.0 S.M.G.
+III. Por el registro a Prestadores de Servicios vinculados con el Manejo, Producción y Venta de Animales: 10 U.M.A.
 
-III. Por el registro a Prestadores de Servicios vinculados
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-con el Manejo, Producción y Venta de Animales 10.0 S.M.G.
+### CAPÍTULO XXVI. SERVICIOS PRESTADOS POR LA AUTORIDAD MUNICIPAL DE PROTECCIÓN CIVIL
 
-### CAPÍTULO XXVIII. DE LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE ZONA FEDERAL MARÍTIMO TERRESTRE
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 130.
 
@@ -1327,27 +1439,25 @@ Causará derechos los servicios prestados por la autoridad municipal de Protecci
 
 TARIFAS
 
-I. Por el servicio de asesoría técnica 2.0 S.M.G
+I. Por el servicio de asesoría técnica 2 U.M.A
 
-II. Por el servicio de registro 4.0 S.M.G
+II. Por el servicio de registro 4 U.M.A
 
-III. Por la certificación 5.0 S.M.G.
+III. Por la certificación 5 U.M.A.
 
-IV. Por la autorización de giros cuya actividad
+IV. Por la autorización de giros cuya actividad sea 10 U.M.A.
 
-sea considerada de riesgo de conformidad
+considerada de riesgo de conformidad a lo dispuesto
 
-a lo dispuesto por el artículo 86, fracción VI
+por el artículo 86, fracción VI de esta Ley
 
-de esta Ley 10.0 S.M.G.
+V. Por revalidación anual de registro 10 U.M.A.
 
-V. Por revalidación anual de registro 10.0 S.M.G.
+VI. Otros servicios no precisados en este artículo 7 U.M.A.
 
-VI. Otros servicios no precisados en este articulo 7.0 S.M.G.
+### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
 
-### CAPÍTULO XXIX. DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 131.
 
@@ -1357,27 +1467,29 @@ I. Por la expedición de documentos en copia simple:
 
 a) De una a cinco fojas no se causará derecho alguno.
 
-b) De seis fojas en adelante 0.025 S.M.G. por cada una.
+b) De seis fojas en adelante 0.025 U.M.A. por cada una.
 
-II. Por la expedición de videocintas 2.00 S.M.G. por cada una.
+II. Por la expedición de videocintas 2 U.M.A. por cada una.
 
-III. Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
+III. Por la expedición de disco compacto 1 U.M.A. por cada uno.
 
-Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
+Tratándose de lo dispuesto en las fracciones I, II y III, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPÍTULO XXVIII. DE LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE ZONA FEDERAL MARÍTIMO TERRESTRE
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 132.
 
-Todos los servicios que proporcione la Dirección de Zona Federal Marítimo
+Todos los servicios que proporcione la Dirección de Zona Federal Marítimo Terrestre, causarán los derechos con arreglo a lo siguiente:
 
-Terrestre, causarán los derechos con arreglo a lo siguiente:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS 138 A LA 139.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 140 A LA 141.]</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+### CAPÍTULO XXIX. DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 132 Bis.
 
@@ -1393,55 +1505,61 @@ Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios
 
 Tratándose de los visitantes que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Quedan exentos del pago de este derecho:
+
+a) Las personas que presenten alguna discapacidad.
+
+b) Los visitantes que acrediten su residencia en el Estado de Quintana Roo a través de identificación oficial.
+
+c) Quedan exentos del pago de este derecho los visitantes que acrediten, mediante identificación oficial ser ciudadano quintanarroense.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 132 Quáter.
 
-El pago del derecho de saneamiento ambiental se causará en razón del 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+El pago del derecho de saneamiento ambiental se causará en razón del 0.23 U.M.A. por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
 
-Tratándose de los visitantes a la parte insular del Municipio, que no se hospeden, el pago será del 20% del valor correspondiente a la Unidad de Medida y Actualización diaria, el cual se enterará a la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio.
+Tratándose de los visitantes, que no se hospeden, en algún establecimiento de los referidos en el artículo 132 TER, el pago será de 0.23 U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, o en su caso a través del modulo que asigne la tesorería municipal para recibir el derecho.
 
-En el caso de los visitantes a la parte insular que utilicen el medio de transporte marítimo, además de cubrir el pago establecido en el párrafo anterior, deberán cubrir un pago correspondiente al 10% del valor correspondiente a la Unidad de Medida y Actualización diaria, al momento de hospedarse en cualquiera de los establecimientos previstos en el artículo 132 TER de esta Ley.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 132 Quinquies.
 
-Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información e importe total de las retenciones por este concepto, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
 ###### Artículo 132 Sexies.
 
-Quedan exentos del pago de este derecho los visitantes que acrediten, mediante identificación oficial ser ciudadanos quintanarroenses.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO III. MERCADOS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 133.
 
-La venta de bienes muebles e inmuebles pertenecientes al Municipio solo podrá llevarse a cabo en subasta pública al mejor postor.
-
-La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por el avalúo pericial ordenado por el Ayuntamiento.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ###### Artículo 134.
 
-Sólo podrán explotarse los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado y el producto se fijará y cobrará de conformidad con el contrato o la concesión respectiva, siempre tomando en consideración el valor comercial de la operación.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ###### Artículo 135.
 
-Con los mismos requisitos señalados en el artículo 126 se podrá dar en pago de crédito u obligaciones a cargo del Municipio, los bienes pertenecientes a la Hacienda Municipal que hubieran sido previamente desincorporados, cumpliendo para tal efecto, con las disposiciones previstas en la Ley de los Municipios del Estado de Quintana Roo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ###### Artículo 136.
 
-En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule entre las condiciones conforme a las cuales deba llevarse a cabo, que el precio, o parte de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ###### Artículo 137.
 
-Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO II. BIENES MOSTRENCOS
 
 ###### Artículo 138.
 
@@ -1451,15 +1569,17 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO III. MERCADOS
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 140.
 
 Por locales en los mercados y otros sitios, será pagada una renta mensual de acuerdo a la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS 142 A LA 143.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 143 A LA 145.]</small>
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 141.
 
@@ -1469,13 +1589,13 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 143.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO VI (SIC). VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 144.
 
@@ -1483,35 +1603,81 @@ El Ayuntamiento podrá obtener ingresos para su hacienda mediante la venta de lo
 
 ### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 145.
 
-Los productos no especificados en este capítulo, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición, inclusive la reposición de documento extraviado de licencias de funcionamiento, la tarifa será de 2.00 S.M.G.
+Los productos no especificados en este capítulo, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición, inclusive la reposición de documento extraviado de licencias de funcionamiento, la tarifa será de 2 U.M.A.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO VIII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 146.
 
 El Ayuntamiento podrá obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 147.
 
-Los productos no especificados en este capítulo, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición, inclusive la reposición de documento extraviado de licencias de funcionamiento, la tarifa será de 2.00 S.M.G.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. APROVECHAMIENTOS
 
 ###### Artículo 148.
 
 Son aprovechamientos, los ingresos que correspondan a las funciones de derecho público del Municipio, derivados de rezagos, multas, recargos, gastos de ejecución, indemnizaciones y otros (sic) éstos perciban y cuya naturaleza no sea clasificable como impuesto, derecho, producto, participaciones o aportaciones federales e ingresos extraordinarios.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. VENTA O EXPLOTACIÓN DE BIENES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 148 Bis.
+
+La venta de bienes muebles e inmuebles pertenecientes al Municipio solo podrá llevarse a cabo en subasta pública al mejor postor.
+
+La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por el avalúo pericial ordenado por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 148 Ter.
+
+Sólo podrán explotarse los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado y el producto se fijará y cobrará de conformidad con el contrato o la concesión respectiva, siempre tomando en consideración el valor comercial de la operación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 148 Quáter.
+
+Con los mismos requisitos señalados en el artículo 126 se podrá dar en pago de crédito u obligaciones a cargo del Municipio, los bienes pertenecientes a la Hacienda Municipal que hubieran sido previamente desincorporados, cumpliendo para tal efecto, con las disposiciones previstas en la Ley de los Municipios del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 148 Quinquies.
+
+En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule entre las condiciones conforme a las cuales deba llevarse a cabo, que el precio, o parte de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 148 Sexies.
+
+Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+## TÍTULO SEXTO. PARTICIPACIONES
+
 PARTICIPACIONES
 
 ### CAPÍTULO ÚNICO
-
-## TÍTULO SÉPTIMO (SIC). APORTACIONES FEDERALES
 
 ###### Artículo 149.
 
@@ -1523,11 +1689,17 @@ La Tesorería Municipal deberá ajustar sus procedimientos de cobro, liquidació
 
 Como participaciones del Estado se entienden aquellos ingresos que el Estado entrega al Municipio, deducibles de sus propios ingresos y que se regulan conforme a las disposiciones que al efecto establecen las leyes fiscales del Estado o la Legislatura local.
 
-## TÍTULO OCTAVO. OTROS INGRESOS
+## TÍTULO SÉPTIMO (SIC). APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 151.
 
 Son ingresos que percibirá el Municipio en forma independiente y adicional a las participaciones que obtienen de la Federación, con base en las estimaciones que se tengan de la recaudación Federal participable, denominados Fondo de Aportaciones para la Infraestructura Social Municipal, cuyo destino será exclusivamente para financiar obras, acciones sociales básicas e inversiones que beneficien directamente a sectores de su población en condiciones de rezago social y de pobreza extrema.
+
+## TÍTULO OCTAVO. OTROS INGRESOS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 152.
 
@@ -1640,3 +1812,53 @@ P.O. 9 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día 1° de enero del año 2020, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 081, POR EL QUE SE REFORMAN, DEROGAN, Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- En tanto el Estado y el Municipio permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
+
+A. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de internet, televisión, radio, periódicos y revistas.
+
+B. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C. Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D. Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C) de este artículo.
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado y al Municipio.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y del Municipio para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+TERCERO.- Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
+
+CUARTO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente decreto.
