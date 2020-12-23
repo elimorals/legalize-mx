@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2020-10-01"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -323,7 +323,9 @@ c) No ser titular de la Secretaría Ejecutiva, dirección ejecutiva o integrante
 
 d) No ser consejera o consejero del Instituto, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
 
-e) No ser titular de alguna Secretaría de la Administración Pública Estatal, Fiscalía General del Estado, Magistrada o Magistrado del Poder Judicial, Presidencia Municipal, Sindicatura o Regiduría, integrante de las Legislaturas federal o local, Consejera o Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo un día antes del inicio de la precampaña que corresponda. Las integrantes y los integrantes de las Diputaciones del Congreso del Estado, no requerirán separarse de sus funciones cuando busquen la reelección del cargo; así mismo las y los titulares de sindicaturas y regidurías tampoco requerirán separarse de sus funciones a menos de que contiendan al cargo de titular de la Presidencia Municipal, para lo cual deberán pedir licencia en los términos de la presente fracción;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+e) No ser titular de alguna Secretaría de la Administración Pública Estatal, Fiscalía General del Estado, Magistrada o Magistrado del Poder Judicial, Presidencia Municipal, Sindicatura o Regiduría, integrante de las Legislaturas federal o local, Consejera o Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo un día antes del inicio de la precampaña que corresponda. Las integrantes y los integrantes de las Diputaciones del Congreso del Estado y las y los titulares de las Presidencias Municipales no requerirán separarse de sus funciones cuando busquen la reelección del cargo. Las y los titulares de sindicaturas y regidurías tampoco requerirán separarse de sus funciones a menos de que contiendan al cargo de titular de la Presidencia Municipal, para lo cual deberán pedir licencia en los términos de la presente fracción;
 
 f) Presentar ante el Instituto la declaración patrimonial, fiscal y de no conflicto de intereses;
 
@@ -6580,3 +6582,15 @@ Los procedimientos administrativos y jurisdiccionales que estuvieran pendientes 
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 904.- SE REFORMA EL INCISO E) DEL NUMERAL 1 DEL ARTÍCULO 10 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Presente Reforma será aplicable de manera retroactiva al 1 de octubre del 2020 en cumplimiento de lo dictado en la sentencia correspondiente a la Acción de Inconstitucionalidad AIL-7/2020 dictada por el Pleno del Tribunal Superior de Justicia en su carácter de Tribunal Constitucional Local.
