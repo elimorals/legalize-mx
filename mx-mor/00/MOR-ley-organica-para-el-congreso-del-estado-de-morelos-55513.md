@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2020-10-22"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1001,9 +1001,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 23. Transparencia, Protección de Datos personales y Anticorrupción;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-24. De la Familia;
+24. Familia y Derechos de la Niñez;
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1021,7 +1021,7 @@ Las Comisiones Ordinarias serán las siguientes:
 
 29. Transparencia, Protección de Datos personales y Anticorrupción.
 
-30. Familia.
+30. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 31. Atención a la Diversidad Sexual.
 
@@ -1527,29 +1527,69 @@ VI. Representar al Congreso del Estado ante los organismos gubernamentales del s
 
 VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Artículo 83 Quintus.- Corresponde a la Comisión de la Familia:
+Artículo 83 Quintus.- Corresponde a la Comisión de la Familia y Derechos de la Niñez:
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
 
 I. Conocer y dictaminar las iniciativas que en materia de Derecho Familiar se presenten;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
 II. Establecer mecanismos de participación de todos los integrantes de la sociedad para promover el respeto y reconocimiento de la familia;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
 
 III. Promover y organizar foros de consulta, para conocer la opinión de la sociedad, de las asociaciones civiles y de los especialistas en la materia, a fin de plantear reformas legislativas necesarias para el beneficio de las familias de la entidad;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
 IV. Implementar mecanismos de comunicación y coordinación con las instancias gubernamentales en la materia, para coadyuvar con el desarrollo e implementación de políticas en favor de la familia;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
 
 V. Promover estudios y diagnósticos de investigación relacionados con la familia, como instrumentos de consulta y apoyo en la creación y diseño de las políticas públicas en la materia;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+
 VI. Dar impulso a políticas públicas que incidan en forma eficiente y eficaz en la cultura de convivencia y respeto a la familia y su integración, así como de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
 
 VII. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia, para el fortalecimiento y atención de los problemas sociales que competen a dicho Sistema;
 
-VIII. Conocer y opinar sobre los asuntos relacionados con el interés superior de la niñez;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-IX. Fomentar los valores familiares y su fortalecimiento, y;
+VIII. Conocer, opinar y proponer sobre los asuntos relacionados con el interés superior de la niñez y sus derechos;
 
-X. Todos aquellos asuntos en la materia que se (sic) sean turnados.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+IX. Dictaminar las iniciativas de ley o de reforma, las proposiciones con punto de acuerdo y las minutas pendientes o generadas en la actual legislatura, turnadas a la comisión garantizando, en acatamiento a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en lo referente a que los niños y niñas gozarán de los derechos humanos reconocidos en dicha Constitución y en los tratados internacionales de los que el Estado mexicano sea parte ponderando el intereses superior de la niñez y el derecho que tiene el padre, madre o tutor de elegir el tipo de educación que impartan a sus hijas e hijos;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+X. Presentar las proposiciones con punto de acuerdo, las iniciativas de ley y los dictámenes que permitan promover una legislación a favor del principio del Interés Superior de la Niñez previsto en la Constitución Política de los Estados Unidos Mexicanos y en la Convención sobre los Derechos del Niño;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XI. Dar seguimiento a los asuntos remitidos por la Comisión Permanente;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XII. Promover el desarrollo y la aplicación de mecanismos para la rendición de cuentas y la evaluación de resultados de las acciones del Ejecutivo estatal y los municipios a favor de las niñas niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XIII. Mantener comunicación y vínculos con la comunidad internacional y los organismos internacionales e instituciones nacionales que tutelan los derechos humanos de las niñas y niños, aprovechando la experiencia y buenas prácticas;
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA, ANTES FRACCIÓN IX], P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XIV. Fomentar los valores familiares y su fortalecimiento, y;
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA, ANTES FRACCIÓN X], P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XV. Todos aquellos asuntos en la materia que se (sic) sean turnados.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -3034,3 +3074,15 @@ SEGUNDA.- El presente Decreto iniciará su vigencia a partir de la aprobación p
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
 
 CUARTA.- Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS VEINTICUATRO.- POR EL QUE SE REFORMA EL NUMERAL 24 PARA CAMBIAR LA DENOMINACIÓN DE LA COMISIÓN DE LA FAMILIA, POR COMISIÓN DE LA FAMILIA Y DERECHOS DE LA NIÑEZ Y SE DEROGA EL NUMERAL 30, AMBOS DEL ARTÍCULO 59, ASIMISMO SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN VIII DEL ARTÍCULO 83 QUINTUS, Y SE ADICIONAN A ESTE MISMO ARTÍCULO ATRIBUCIONES EN MATERIA DE ATENCIÓN DE ASUNTOS DE LA NIÑEZ, TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
