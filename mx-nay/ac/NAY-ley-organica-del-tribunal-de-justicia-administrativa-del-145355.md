@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-tribunal-de-justicia-administrativa-del-145355
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-26"
-last_updated: "2020-11-26"
+last_updated: "2020-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 23 DE DICIEMBRE DE 2020.]</small>
 
 Ley publicada en la Sección Décima Séptima al Número 100 del Periódico Oficial del Estado de Nayarit, el jueves 26 de noviembre de 2020.
 
@@ -37,7 +37,9 @@ Que el H. Congreso Local, se ha servido dirigirme para su promulgación, la sigu
 
 El Congreso del Estado Libre y Soberano de Nayarit representado por su XXXII Legislatura, decreta:
 
-LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
 ## Título Primero. Disposiciones Generales
 
