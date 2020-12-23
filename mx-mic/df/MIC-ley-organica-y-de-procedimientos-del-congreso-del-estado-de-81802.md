@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-11-19"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1049,7 +1049,9 @@ II. Los relativos a la protección del patrimonio cultural, artístico, document
 
 III. Los relacionados con la promoción, fomento y difusión de las actividades culturales y recreativas;
 
-IV. Lo concerniente a la rendición de honores a la memoria de los michoacanos que hayan prestado servicios de importancia al Estado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+IV. Lo concerniente a la rendición de honores en vida o a la memoria de personas que hayan prestado servicios de importancia a la Nación, al Estado de Michoacán o sus municipios;
 
 V. La legislación en materia de promoción de las bellas artes, manifestaciones artísticas y culturales, así como de patrimonio cultural;
 
@@ -3073,9 +3075,9 @@ V. El Presidente someterá a consideración del Pleno en votación nominal, si e
 
 En caso de aprobarse, se iniciará la discusión y votación en términos de la presente Ley; de lo contrario, el Presidente del Congreso turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen; y,
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-VI. Si durante la discusión se propone la modificación al texto del proyecto de acuerdo, el Presidente preguntará al proponente si acepta las modificaciones. De aceptar, el Presidente ordenará a un Secretario de la mesa dar lectura a la propuesta de modificación; posteriormente someterá para su aprobación si el asunto se encuentra suficientemente discutido, de resultar aprobado se someterá para su aprobación, en votación económica el proyecto de acuerdo con las modificaciones propuestas. En caso de que el proponente no acepte en sus términos las modificaciones, el Presidente lo someterá para su aprobación, en votación económica en los términos presentados y hará la declaratoria que resulte.
+VI. Si durante la discusión se propone la modificación a la exposición de motivos o al texto de la propuesta de acuerdo, el Presidente del Congreso consultará al Pleno en votación económica si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con la modificación y se someterá para su aprobación, en votación económica. En caso de que no acepten las modificaciones propuestas, el Presidente del Congreso lo someterá para su aprobación, en votación económica, en los términos presentados y hará la declaratoria que resulte.
 
 ###### ARTÍCULO 237.
 
@@ -4200,3 +4202,27 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 377.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 70 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 381 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 236 BIS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
