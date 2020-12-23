@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2019-11-27"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "MOR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 242 PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -347,7 +345,9 @@ XXXII. A trabajar de forma colectiva con otras víctimas para la defensa de sus 
 
 XXXIII. A participar con espacios colectivos donde se proporcione el apoyo individual o colectivo que le permita relacionarse con otras víctimas;
 
-XXXIV. Toda comparecencia ante el órgano investigador, el juez o tribunal, organismo público de protección de los derechos humanos, o ante cualquiera otra autoridad o perito que requiera la presencia de la Víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo o la normativa aplicable;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XXXIV. Toda ausencia a su fuente de trabajo por motivo de comparecencia o trámite ante el órgano investigador, juez, tribunal o cualquier oficina gubernamental o de carácter privado, cuando sea necesaria su presencia, se considerará justificada para efectos escolares y laborales, en este último caso cuando se trate de trabajadores al servicio del estado de Morelos, teniendo el derecho a gozar de la totalidad de los emolumentos a que se refiere la Ley del Servicio Civil del Estado de Morelos u otra normativa aplicable, según corresponda;
 
 XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes; de los intervinientes o colaboradores en un procedimiento penal; así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la normativa aplicable;
 
@@ -355,7 +355,11 @@ XXXVI. Tener acceso ágil, eficaz y transparente a los fondos de ayuda federal y
 
 XXXVII. A recibir la protección de su identidad, datos personales y confidencialidad, y
 
-XXXVIII. Los demás señalados por la Constitución, los Tratados Internacionales, la Ley General, las normas federales y locales.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII. Al pago íntegro de los días en que el trabajador al servicio del estado de Morelos se haya ausentado de su fuente laboral, con motivo de algún hecho delictivo del que haya sido víctima, siempre y cuando justifique ante el patrón la inasistencia con las constancias respectivas, lo anterior en términos de la fracción XXXII del artículo 110 de la presente Ley, y
+
+XXXIX. Los demás señalados por la Constitución, los Tratados Internacionales, la Ley General, las normas federales y locales.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1787,7 +1791,11 @@ XXX. Celebrar convenios de coordinación, colaboración y concertación con las 
 
 XXXI. Elaborar un programa de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el Registro Estatal de Víctimas. Las entidades encargadas de recibir y tramitar la inscripción de datos en el Registro garantizarán la implementación de este programa a nivel estatal y municipal, y
 
-XXXII. Las demás que le confiera la presente Ley y su Reglamento, el Estatuto Orgánico y demás normativa aplicable.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Emitir justificantes escolares o laborales, en este último caso tratándose de trabajadores al servicio del estado de Morelos, en favor de las víctimas; las cuales deberán incluir el número de la carpeta de investigación, motivo de la inasistencia, periodo de justificación y firma del titular de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos o servidor público autorizado para tal efecto, pudiendo ser sancionado en términos de la Ley de Responsabilidades Administrativas para el Estado de Morelos, en caso de incurrir en alguna falta, y
+
+XXXIII. Las demás que le confiera la presente Ley y su Reglamento, el Estatuto Orgánico y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -3060,3 +3068,11 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y SIETE. POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 7 Y SE ADICIONAN LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 7 Y LA FRACCIÓN XXXII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 110, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; ASÍ TAMBIÉN SE REFORMAN LA FRACCIÓN X, DEL ARTÍCULO 43 Y LA FRACCIÓN XIV DEL ARTÍCULO 44 AMBOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
