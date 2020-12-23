@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2020-01-10"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -479,7 +479,13 @@ En ningún caso los intereses a cargo del fisco estatal excederán de los que se
 
 Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes derivan de contribuciones distintas o de otros créditos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
 
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades compensadas indebidamente, actualizadas por el periodo transcurrido desde el mes en que se efectuó la compensación indebida, hasta aquel en que se haga el pago del monto de la compensación indebidamente efectuada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 23 de este Código, aun en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos hayan quedado firmes por cualquier causa. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
 
 ###### ARTICULO 26.
 
@@ -488,6 +494,10 @@ Los contribuyentes obligados a pagar mediante declaración periódica podrán ac
 En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
 
 Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Cuando sin tener derecho a ello se acredite contra el pago de contribuciones estatales un estímulo fiscal, o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales exigirán el pago de las contribuciones omitidas actualizadas y de los accesorios legales que correspondan.
 
 ###### ARTICULO 27.
 
@@ -555,33 +565,37 @@ IV. Liquidación, fusión o escisión.
 
 V. Apertura o liquidación de la sucesión.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-VI. Cierre de establecimientos o locales.
+VI. Cierre de establecimientos, locales o sucursales.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VII. Cesación total de operaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+VIII. Apertura de establecimientos o sucursales.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+IX. Suspensión de actividades.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+X. Reanudación de actividades.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Cuando un mismo contribuyente tenga diversos giros, sucursales o locales, deberá registrar cada uno por separado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Las autoridades fiscales competentes expedirán, dentro de los 45 días siguientes a la fecha de presentación de la solicitud de registro, la constancia de registro. Los contribuyentes deberán colocarlas en lugar visible en sus establecimientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Mientras las constancias de registro no sean canceladas por autoridad competente, tendrán duración y vigencia indefinida y no requerirán ser renovadas. Cuando se cancele la constancia de registro, el interesado deberá entregarla en la oficina de la autoridad fiscal competente en razón de su domicilio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -675,17 +689,25 @@ Las declaraciones, avisos, solicitudes de inscripción en el registro de contrib
 
 Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de Registro Estatal de Contribuyentes, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos.
 
-###### ARTICULO 32.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Las declaraciones que presenten los contribuyentes serán definitivas y se podrán modificar por el propio contribuyente, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
+###### ARTÍCULO 32.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Las declaraciones que presenten los contribuyentes serán definitivas y solo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales autorizadas por las autoridades fiscales, debiéndose pagar las multas que establece el citado artículo 75.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para los efectos del registro estatal de contribuyentes. Tratándose de las declaraciones de pago mensual, los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar, saldo a favor o cuando no resulte cantidad a pagar con motivo de la aplicación de compensación de estímulos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Cuando no exista impuesto a pagar, ni saldo a favor por alguna de las obligaciones que deban cumplir, en declaraciones normales o complementarias, los contribuyentes deberán informar a las autoridades fiscales las razones por las cuales no se realiza el pago.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
 
@@ -728,6 +750,14 @@ Los particulares tendrán derecho al otorgamiento de subsidios o estímulos prev
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 La Secretaría de Finanzas a través de la Administración Fiscal General deberá abstenerse de aplicar los subsidios o estímulos fiscales a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan la obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se considerarán comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquel en que la autoridad les notifique la irregularidad detectada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Los proveedores a quienes se les adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante, la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que se obtiene a través de la página de internet que señalen las autoridades fiscales estatales.
 
 ## TITULO III. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -1601,19 +1631,17 @@ Asimismo, cuando por un acto o una omisión se infrinjan diversas disposiciones 
 
 VI. En el caso de que la multa se pague dentro de los 15 días siguientes a la fecha en que surta efectos la notificación al infractor de la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
-###### ARTICULO 69.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+###### ARTÍCULO 69.
 
-I. El 40% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine las contribuciones que omitió;
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 55% al 75% de las contribuciones omitidas.
 
-II. Del 50% al 100% de las contribuciones omitidas, en los demás casos.
+Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción IV del artículo 47 de este Código, según sea el caso, se aplicará la multa equivalente al 20% de las contribuciones omitidas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará la multa equivalente al 30% de las contribuciones omitidas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que aprueben las autoridades fiscales.
+El pago de las multas en los términos del segundo y tercer párrafos de este artículo, se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Administración Fiscal General del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 70.
 
@@ -1709,6 +1737,10 @@ I. No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones
 
 II. No pagar contribuciones dentro de los plazos que establecen las disposiciones fiscales.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+III. Acreditar contra el pago de contribuciones estatales a su cargo, un estímulo fiscal, sin tener derecho a ello.
+
 ###### ARTICULO 75.
 
 A quien cometa las infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo anterior, se impondrán las siguientes multas:
@@ -1741,6 +1773,10 @@ d) Tratándose de la presentación de declaraciones, solicitudes, avisos, consta
 
 II. Tratándose de la señalada en la fracción II, del 10% al 20% de las contribuciones no pagadas.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+III. Tratándose de la señalada en la fracción III, de 100 a 1000 veces el valor diario de la unidad de medida y actualización, vigente al momento en que se incurra en la infracción. Esta sanción, se impondrá con independencia de las sanciones penales a que se haga acreedor el contribuyente que realice la infracción administrativa que se sanciona en la presente fracción.
+
 ###### ARTICULO 76.
 
 Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las siguientes:
@@ -1749,11 +1785,11 @@ I. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar 
 
 II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 77.
+###### ARTÍCULO 77.
 
-Se impondrá una multa de 20 a 30 veces el valor diario de la unidad de medida y actualización, a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo anterior.
+Se impondrá una multa de 4 a 8 veces el valor diario de la unidad de medida y actualización elevada al mes, a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo anterior.
 
 ###### ARTICULO 78.
 
@@ -3070,3 +3106,19 @@ b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (si
 c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 905.- SE REFORMAN (SIC) EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25, LA FRACCIÓN VI AL ARTÍCULO 28, EL PRIMER PÁRRAFO AL ARTÍCULO 32, EL ARTÍCULO 69, EL ARTÍCULO 77; Y SE ADICIONAN (SIC) EL PÁRRAFO TERCERO AL ARTÍCULO 25, EL CUARTO PÁRRAFO AL ARTÍCULO 26, LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 28, LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 32, LOS PÁRRAFOS SÉPTIMO Y OCTAVO AL ARTÍCULO 32-A, LA FRACCIÓN III AL ARTÍCULO 74 Y LA FRACCIÓN III AL ARTÍCULO 75, DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
