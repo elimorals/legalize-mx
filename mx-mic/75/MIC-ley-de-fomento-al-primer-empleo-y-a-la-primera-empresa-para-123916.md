@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-al-primer-empleo-y-a-la-primera-empresa-para-123
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-13"
-last_updated: "2019-08-01"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO AL PRIMER EMPLEO Y A LA PRIMERA EMPRESA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 13 de octubre de 2017.
 
@@ -231,19 +231,25 @@ El Padrón de Beneficiarios de los Programas del Primer Empleo y la Primera Empr
 
 El Instituto de la Juventud es el órgano competente de crear y administrar el Padrón Único de Registro de los beneficiarios de los Programas del Primer Empleo y la Primera Empresa, así como de inscribir a los solicitantes al padrón conforme a los procedimientos que para tal efecto disponga.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-El Instituto de la Juventud informará mensualmente a la Secretaría de Finanzas y Administración sobre los registros al Padrón de Beneficiarios a fin de que la Secretaría realice los ajustes correspondientes al estímulo fiscal de los contribuyentes que cumplan con los requisitos para su obtención.
+El Instituto de la Juventud informará mensualmente a la Secretaría de Finanzas y Administración y al Congreso del Estado, sobre los registros al Padrón de Beneficiarios a fin (sic) que la Secretaría realice los ajustes correspondientes al estímulo fiscal de los contribuyentes que cumplan con los requisitos para su obtención. Asimismo, informar de forma semestral sobre el número de jóvenes que fueron contratados en las ferias estatales del empleo, las empresas que participaron y las vacantes que fueron ofertadas.
 
 ### CAPÍTULO VI. DISPOSICIONES COMUNES DEL PRIMER EMPLEO Y PRIMERA EMPRESA
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-El Instituto de la Juventud, enviará de manera anual al Congreso del Estado de Michoacán de Ocampo, un informe de los resultados que surjan de la aplicación de la presente Ley.
+El Instituto de la Juventud, enviará de manera anual al Congreso del Estado de Michoacán de Ocampo, un informe de los resultados que surjan de la aplicación de la presente Ley. Además, entregará detalladamente en que se gastó el presupuesto aprobado para la realización de las Ferias Estatales del Primer Empleo y la Primera Empresa.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-La Secretaría de Desarrollo Económico en coordinación con el Instituto de la Juventud celebrará de manera anual la Feria Estatal del Primer Empleo y la Primera Empresa, con modalidad itinerante por todo el Estado.
+La Secretaría de Desarrollo Económico en coordinación con el Instituto de la Juventud celebrará de manera semestral la Feria Estatal del Primer Empleo y la Primera Empresa, con modalidad itinerante por todo el Estado, en colaboración con los ayuntamientos, procurando que las vacantes estén relacionadas con el perfil profesional de los jóvenes solicitantes.
 
 ###### Artículo 23.
 
@@ -253,9 +259,11 @@ La Secretaría de Desarrollo Económico en coordinación con el Instituto de la 
 
 La Secretaría de Finanzas y Administración, al elaborar su proyecto de presupuesto, establecerá el monto total estimado para los beneficios y apoyos a aplicar en el siguiente ejercicio fiscal con motivo de la presente Ley así como la partida presupuestaria suficiente para los esquemas de financiamiento a las personas físicas y morales que contraten jóvenes en esta modalidad.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Finanzas y Administración deberá constituir un fondo de reserva dedicado exclusivamente a garantizar los esquemas de beneficios y apoyos derivados de la presente Ley.
+La Secretaría de Finanzas y Administración deberá constituir un fondo de reserva dedicado exclusivamente a garantizar los esquemas de beneficios y apoyos derivados de la presente Ley. Asimismo, se enviará al Congreso del Estado un informe anual del estado que guarda dicho fondo.
 
 ### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
 
@@ -302,3 +310,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos correspondientes.
 
 TERCERO. La Secretaría de Desarrollo Económico del Gobierno del Estado contará con un término de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto para su cumplimiento. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho efectos, podrá auxiliarse de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 369.- SE REFORMAN LOS ARTÍCULOS 20, 21, 22 Y 25 DE LA LEY DE FOMENTO AL PRIMER EMPLEO Y A LA PRIMERA EMPRESA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El titular del Instituto de la Juventud de Michoacán por única ocasión, tendrá un plazo no mayor a treinta días hábiles a partir de la publicación del presente Decreto, para enviar al Congreso del Estado, el Padrón Único de Beneficiarios de los Programas del Primer Empleo y la Primera Empresa.
+
+TERCERO. El titular de la Secretaría de Finanzas y Administración por única ocasión, tendrá un plazo no mayor a treinta días hábiles a partir de la publicación del presente Decreto, para enviar al Congreso del Estado, la situación que guarda el Fondo establecido en la Ley de Fomento al Primer Empleo y a la Primera Empresa para el Estado de Michoacán de Ocampo y sus Municipios.
