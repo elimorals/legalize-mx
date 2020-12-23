@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2019-12-27"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -569,13 +569,17 @@ EN EL CASO DE PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 150 UMAS, ESTOS
 
 DEL PAGO
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 48.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro de (sic) primer mes, de cada año.
+El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro del primer mes, de cada año.
 
 Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante el mes de enero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto y de hacerlo durante el mes de febrero gozará de un descuento del 5%.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Artículo 48 bis.- El Impuesto Predial, al momento de su determinación, no podrá exceder de un 5% del que haya correspondido durante el Ejercicio Fiscal anterior para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el mismo no podrá exceder de un 10 % del que haya correspondido durante el ejercicio fiscal anterior. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
 
 EXENCIONES
 
@@ -781,9 +785,11 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2% a la base señalada en el artículo 59 de esta ley.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 3% a la base señalada en el artículo 59 de esta ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
@@ -923,13 +929,9 @@ La Tesorería Municipal tendrá facultad para suspender o intervenir la venta de
 
 ## TÍTULO CUARTO. DERECHOS
 
-CAPTULO (SIC) I
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Disposiciones Comunes
-
-### CAPÍTULO II. De los Servicios que Presta la Dirección de Desarrollo Urbano
-
-DE LOS SUJETOS
+### CAPÍTULO I. Disposiciones Comunes
 
 ###### Artículo 74.
 
@@ -955,7 +957,9 @@ No serán exigibles los impuestos y derechos a que se refiere la presente ley, c
 
 Los derechos que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán. De igual manera, podrán establecerse programas permanentes o temporales de apoyo a deudores previo acuerdo de Cabildo que señale los requisitos y condiciones para otorgar las respectivas disminuciones.
 
-### CAPÍTULO III. Otros Servicios Prestados por el Ayuntamiento
+### CAPÍTULO II. De los Servicios que Presta la Dirección de Desarrollo Urbano
+
+DE LOS SUJETOS
 
 ###### Artículo 79.
 
@@ -1035,13 +1039,17 @@ Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 83.
 
 La tarifa del derecho por el servicio mencionado, se pagará en pesos mexicanos, conforme a la siguiente tabla:
 
 I.- Licencia de construcción, por metro cuadrado
 
-Tipo y clase de construcción UMAS
+Tipo y clase de UMAS
+
+Construcción
 
 a).- Tipo A, Clase 1 0.13
 
@@ -1085,7 +1093,9 @@ IV.- Constancia de alineamiento, 0.12 U M A S x metro lineal de frente o frentes
 
 V.- Constancia de unión y división de inmueble por metro cuadrado de terreno:
 
-Tipo y clase de construcción UMAS
+Tipo y clase de UMAS
+
+Construcción
 
 a).- Tipo A, Clase 1 0.12
 
@@ -1103,45 +1113,119 @@ g).- Tipo B, Clase 3 0.19
 
 h).- Tipo B, Clase 4 0.25
 
-VI.- Licencia para construir bardas o colocar pisos, 0.10 UMAS por metro cuadrado
+VI.- Licencia para construir bardas o colocar pisos, 0.10 UMAS por metro cuadrado.
 
-VIII (SIC).- Licencias para efectuar excavaciones, 0.27 UMAS por metro cuadrado.
+VII.- Licencias para efectuar excavaciones, 0.27 UMAS por metro cuadrado.
 
-IX.- Licencia para realizar demolición; 0.12 UMAS por metro cuadrado.
+VIII.- Licencia para realizar demolición; 0.12 UMAS por metro cuadrado.
 
-X.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones; 0.56 UMAS por metro lineal.
+IX.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones; 0.56 UMAS por metro lineal.
 
-XI.- Constancia de régimen de Condominio; 0.62 UMAS por predio, departamento o local.
+X.- Constancia de régimen de Condominio; 0.62 UMAS por predio, departamento o local.
 
-XII.- Constancia para Obras de Urbanización; 0.25 UMAS por metro cuadrado de vía pública.
+XI.- Constancia para Obras de Urbanización; 0.25 UMAS por metro cuadrado de vía pública.
 
-XIII.- Sellado de planos 0.74 UMAS por el servicio.
+XII.- Sellado de planos 0.74 UMAS por el servicio.
 
-XIV.- Revisión de planos para tramites de uso de suelo; 0.62 UMAS por plano
+XIII.- Revisión de planos para tramites de uso de suelo; 0.62 UMAS por plano
 
-XV.- Certificado de Seguridad para el uso de Explosivos; 0.62 UMAS por el servicio.
+XIV.- Certificado de Seguridad para el uso de Explosivos; 0.62 UMAS por el servicio.
 
-XVI.- Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo; 6 UMAS por metro lineal en vialidades.
+XV.- Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo; 6 UMAS por metro lineal en vialidades.
 
-XVII.- Autorización de instalación de antenas en inmuebles o mobiliario urbano; 200 UMAS por antena.
+XVI.- Autorización de instalación de antenas en inmuebles o mobiliario urbano; 200 UMAS por antena.
 
-XVII (SIC).- Permiso por construcción de fraccionamientos 0.50 UMAS por metro cuadrado.
-
-> <small>(ADICIONADA [N. DE E. CON SUS APARTADOS], D.O. 27 DE DICIEMBRE DE 2019)</small>
-
-XVIII.- Adicionalmente a los derechos y permisos ya establecidos en el presente artículo, cuando se trate de desarrollos inmobiliarios y fraccionamientos se deberán pagar los derechos siguientes:
+XVII.- Adicionalmente a los derechos y permisos ya establecidos en el presente artículo, cuando se trate de desarrollos inmobiliarios y fraccionamientos se deberán pagar los derechos siguientes:
 
 A. Revisión previa de proyecto de lotificación de fraccionamientos
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 16 A LA 17.]</small>
+Concepto UMA´s UNIDAD
+
+a) Por la segunda revisión 3 Revisión
+
+b) A partir de la tercera revisión 0 Revisión
+
+1) De fraccionamientos de hasta 1
+
+hectárea 5 Revisión
+
+2) De fraccionamientos de más de 1
+
+hectárea hasta 5 hectáreas 10 Revisión
+
+3) De fraccionamientos de más de 5
+
+hectárea (sic) hasta 10 hectáreas 15 Revisión
+
+4) De fraccionamientos de más de 10
+
+hectáreas 20 Revisión
 
 B. Licencia de urbanización por servicios básicos
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINA 17.]</small>
+Concepto UMA´s UNIDAD
+
+a) Zona 1. Consolidación urbana 0.02 Metro cuadrado
+
+b) Zona 2, Crecimiento urbano 0.04 Metro cuadrado
+
+c). Autorización de instalación subterránea o
+
+aérea de ductos o conductores para la
+
+explotación de servicios digitales u otros de
+
+cualquier tipo 0.20 Metro cuadrado
 
 C. Autorización de la Constitución de Desarrollo Urbano
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 17 A LA 18.]</small>
+Concepto UMA´s UNIDAD
+
+1. Zona 1. Consolidación Urbana
+
+a). Hasta 10,000 metros cuadrados 53 Autorización
+
+b). De 10,000 hasta 50,000 metros
+
+cuadrados 60 Autorización
+
+c). De 50,000 hasta 100,000 metros
+
+cuadrados 68 Autorización
+
+d). De 100,000 hasta 150,000 metros
+
+cuadrados 75 Autorización
+
+e). De 150,000 hasta 200,000 metros
+
+cuadrados 113 Autorización
+
+f). Más de 200,000 metros
+
+cuadrados 150 Autorización
+
+2. Zona 2. Crecimiento Urbano
+
+a). Hasta 10,000 metros cuadrados 140 Autorización
+
+b). De 10,000 hasta 50,000 metros
+
+cuadrados 160 Autorización
+
+c). De 50,000 hasta 100,000 metros
+
+cuadrados 180 Autorización
+
+d). De 100,000 hasta 150,000 metros
+
+cuadrados 200 Autorización
+
+e). De 150,000 hasta 200,000 metros
+
+cuadrados 300 Autorización
+
+f). Más de 200,000 metros cuadrados 400 Autorización
 
 DE LAS EXENCIONES
 
@@ -1181,9 +1265,7 @@ Lo dispuesto en este artículo, no libera a los responsables de las obras o de l
 
 Son responsables solidarios del pago de estos derechos, los ingenieros, contratistas, arquitectos y/o encargados de la realización de las obras.
 
-### CAPÍTULO IV. Derechos por Servicio de Rastro
-
-DE LOS SUJETOS
+### CAPÍTULO III. Otros Servicios Prestados por el Ayuntamiento
 
 ###### Artículo 87.
 
@@ -1191,7 +1273,9 @@ Las personas físicas y morales que soliciten los servicios que a continuación 
 
 Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a 0.20 de un UMAS vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa.
 
-### CAPÍTULO V. De los Derechos por los Servicios que Presta el Catastro Municipal
+### CAPÍTULO IV. Derechos por Servicio de Rastro
+
+DE LOS SUJETOS
 
 ###### Artículo 88.
 
@@ -1279,7 +1363,7 @@ El Ayuntamiento a través de sus órganos administrativos podrá autorizar media
 
 En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez unidades de medida y actualización. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
-### CAPÍTULO VI. De los Derechos por el Uso y Aprovechamiento de los Bienes De Dominio Público del Patrimonio Municipal
+### CAPÍTULO V. De los Derechos por los Servicios que Presta el Catastro Municipal
 
 ###### Artículo 92.
 
@@ -1311,7 +1395,9 @@ d) Fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una 6.2
 
 III.- Por expedición de oficios de:
 
-a) División (por cada parte) 0.62
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+a) División (por cada parte) 0.90
 
 b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura 1.12
 
@@ -1367,7 +1453,15 @@ De un valor de $ 20,001.00 A $ 80,000.00 7.26
 
 De un valor de $ 80,001.00 A En adelante 9.68
 
-Artículo 96 (sic).- Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con los siguientes costos en UMAS:
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 95.
+
+En términos del primer párrafo del artículo anterior, por validación de planos presentados por dibujantes registrados en el padrón municipal se pagará una cuota de: 0.25 UMAS.
+
+###### Artículo 96.
+
+Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con los siguientes costos en UMAS:
 
 I.- Hasta 160,000 metros cuadrados 11.29 por metros cuadrados
 
@@ -1387,11 +1481,13 @@ II.- Tipo habitacional 3.10 por departamento
 
 Quedan exentas del pago de los derechos que establecen esta sección, las instituciones públicas.
 
-### CAPÍTULO VII. Derechos por Servicio de Limpia
+### CAPÍTULO VI. De los Derechos por el Uso y Aprovechamiento de los Bienes De Dominio Público del Patrimonio Municipal
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 99.
 
-Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público y privado municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o lo (sic) hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques instalaciones recreativas, museos, bibliotecas y en general que usen o aprovechen los bienes del domino público y privado municipal.
+Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público y privado municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques instalaciones recreativas, museos, bibliotecas y en general que usen o aprovechen los bienes del domino público y privado municipal.
 
 ###### Artículo 100.
 
@@ -1455,7 +1551,7 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-### CAPÍTULO VII. Derechos por Servicio de Recolecta de Basura
+### CAPÍTULO VII. Derechos por Servicio de Limpia
 
 ###### Artículo 105.
 
@@ -1471,9 +1567,11 @@ Servirá de base para realizar el cobro del derecho de los servicios de limpieza
 
 I.- La superficie total del predio que deba limpiarse, a solicitud del propietario 0.6 UMAS por m2.
 
-II.- Cuando la Dirección de Servicios Públicos Municipales determine la limpieza de un predio baldío, después de haberse agotado el procedimiento procesal administrativos (sic), conforme al reglamento municipal correspondiente, la cantidad de 0.12 por m2.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO VIII. Derechos por Licencias y Permisos
+II.- Cuando la Dirección de Servicios Públicos Municipales determine la limpieza de un predio baldío, después de haberse agotado el procedimiento procesal administrativo, conforme al reglamento municipal correspondiente, la cantidad de 0.12 por m2.
+
+### CAPÍTULO VII. Derechos por Servicio de Recolecta de Basura
 
 ###### Artículo 108.
 
@@ -1485,7 +1583,7 @@ El derecho por el uso del relleno sanitario del Municipio de Motul, para los rec
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
-### CAPÍTULO IX. Derechos por Servicio de Panteones
+### CAPÍTULO VIII. Derechos por Licencias y Permisos
 
 ###### Artículo 110.
 
@@ -1535,9 +1633,11 @@ b) Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagarán el 
 
 c) Establecimientos mayores a 150 metros cuadrados, pagarán el equivalente a 200 UMAS.
 
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 114.
 
-Todo establecimiento, negocio y/o empresa en general, sean estas comerciales, industriales, de servicios o cualquier otro giro, que no esté relacionados (sic) con la venta de bebidas alcohólicas, deberán:
+Todo establecimiento, negocio y/o empresa en general, sean estas comerciales, industriales, de servicios o cualquier otro giro, que no estén relacionadas con la venta de bebidas alcohólicas, deberán:
 
 I.- Pagar el derecho para el otorgamiento de la correspondiente licencia del uso del suelo y de funcionamiento, este deberá ser cubierto hasta 30 días posteriores al inicio de actividades.
 
@@ -1545,11 +1645,9 @@ II.- Pagar anualmente el derecho correspondiente a la renovación de las licenci
 
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en unidad de medida y actualización para su cobro:
 
-CATEGORIZACIÓN DE LOS GIROS DERECHO DE INICIO DERECHO DE
+CATEGORIZACIÓN DE LOS DERECHO DE INICIO DERECHO DE
 
-COMERCIALES DE FUNCIONAMIENTO RENOVACIÓN
-
-ANUAL
+GIROS COMERCIALES DE FUNCIONAMIENTO RENOVACIÓN ANUAL
 
 MICRO ESTABLECIMIENTO 5 UMAS 2 UMAS
 
@@ -1557,37 +1655,37 @@ Expendios de Pan, Tortilla, Refrescos, Paletas, Helados, de Flores. Loncherías,
 
 PEQUEÑO ESTABLECIMIENTO 10 UMA 3 UMA
 
-Tienda de Abarrotes, Tienda de Regalo. Fonda, Cafetería. Carnicerías, Pescaderías y Pollerías. Taller y Expendio de Artesanías. Zapaterías. Tlapalerías, Ferreterías y Pinturas. Imprentas, Papelerías, Librerías y Centros de Copiado Video Juegos, Ópticas, Lavanderías. Talleres Automotrices Mecánicos, Hojalatería, Eléctrico, Refaccionarias y Accesorios. Herrerías, Tornerías, Llanteras, Vulcanizadoras. Tienda de Ropa, Rentadoras de Ropa. Sub agencia de refrescos. Venta de Equipos Celulares, Salas de Fiestas Infantiles, Alimentos Balanceados y Cereales. Vidrios y Aluminios. Video Clubs en General. Academias de Estudios Complementarios. Molino - Tortillería. Talleres de Costura, Cocina económica de 2 a 3 repartidores, Estacionamiento de 1 a 500 m2, Estética mediana, Fábrica de paletas semi industrial. Lavadero de vehículos, Miscelanea pequeña, Mudanzas, Fletes, Novedades, Peluquerías, Pizzería básica con repartidor, Santería y derivados, Taquerías grandes, Tiendas desechables y Voceo publicitario.
+Tienda de Abarrotes, Tienda de Regalo. Fonda, Cafetería. Carnicerías, Pescaderías y Pollerías. Taller y Expendio de Artesanías. Zapaterías. Tlapalerías, Ferreterías y Pinturas. Imprentas, Papelerías, Librerías y Centros de Copiado Video Juegos, Ópticas, Lavanderías. Talleres Automotrices Mecánicos, Hojalatería, Eléctrico, Refaccionarias y Accesorios. Herrerías, Tornerías, Llanteras, Vulcanizadoras. Tienda de Ropa, Rentadoras de Ropa. Sub agencia de refrescos. Venta de Equipos Celulares, Salas de Fiestas Infantiles, Alimentos Balanceados y Cereales. Vidrios y Aluminios. Video Clubs en General. Academias de Estudios Complementarios. Molino – Tortillería. Talleres de Costura, Cocina económica de 2 a 3 repartidores, Estacionamiento de 1 a 500 m2, Estética mediana, Fábrica de paletas semi industrial. Lavadero de vehículos, Miscelanea pequeña, Mudanzas, Fletes, Novedades, Peluquerías, Pizzería básica con repartidor, Santería y derivados, Taquerías grandes, Tiendas desechables y Voceo publicitario.
 
 MEDIANO ESTABLECIMIENTO 20 UMA 6 UMA
 
-Mini súper, Mudanzas. Lavadero de Vehículos, Cafetería-Restaurant. Farmacias, Boticas, Veterinarias y Similares. Panadería (artesanal). Estacionamientos. Agencias de Refrescos. Joyerías en General. Ferro tlapalería y Material Eléctrico. Tiendas de Materiales de Construcción en General. Centros de Servicios Varios. Oficinas y Consultorios de Servicios Profesionales, Aserraderos, Carnicería Grande, Carpintería Grande, Casa de Empeños, Centro de Copiados Grandes, Escuela De Artes y Manualidades, Estacionamiento de 501 a 800 M2, Estancia Infantil Particular, Estética Grande, Ferretería y Pinturas Grandes, Gimnasios Grandes, Imprenta Mediana, Notarias y Despacho Jurídico, Óptica Grande, Peletería Grande, Pollería Grande, Pizzería con Repartidor, Purificadora De Agua, Rancho de Producción Primaria, Refaccionaria y Accesorios Grandes, Sala De Fiestas Grandes, Taller Automotriz Mecánico o Eléctrico Grande, Taller de costura mayor (sic) 20 personas, Tienda de desechables grande, Tienda de regalos y novedades, Tienda de ropa departamental o Boutique, Tlapalería mediana, Zapatería grande, Veterinarias y similares.
+Mini súper, Mudanzas. Lavadero de Vehículos, Cafetería-Restaurant. Farmacias, Boticas, Veterinarias y Similares. Panadería (artesanal). Estacionamientos. Agencias de Refrescos. Joyerías en General. Ferro tlapalería y Material Eléctrico. Tiendas de Materiales de Construcción en General. Centros de Servicios Varios. Oficinas y Consultorios de Servicios Profesionales, Aserraderos, Carnicería Grande, Carpintería Grande, Casa de Empeños, Centro de Copiados Grandes, Escuela De Artes y Manualidades, Estacionamiento de 501 a 800 M2, Estancia Infantil Particular, Estética Grande, Ferretería y Pinturas Grandes, Gimnasios Grandes, Imprenta Mediana, Notarias y Despacho Jurídico, Óptica Grande, Peletería Grande, Pollería Grande, Pizzería con Repartidor, Purificadora De Agua, Rancho de Producción Primaria, Refaccionaria y Accesorios Grandes, Sala De Fiestas Grandes, Taller Automotriz Mecánico o Eléctrico Grande, Taller de costura mayor de 20 personas, Tienda de desechables grande, Tienda de regalos y novedades, Tienda de ropa departamental o Boutique, Tlapalería mediana, Zapatería grande, Veterinarias y similares.
 
 ESTABLECIMIENTO GRANDE 50 UMA 15 UMA
 
 Súper, Panadería (Fabrica), Centros de Servicio Automotriz. Servicios para Eventos Sociales. Salones de Eventos Sociales. Bodegas de Almacenamiento de cualquier producto en General. Compraventa de Motos y Bicicletas. Compra venta de Automóviles. Salas de Velación y Servicios Funerarios. Fábricas y Maquiladoras de hasta 15 empleados, Escuela de manejo y giros alternos, Estacionamiento mayores a 800 m2, Estancia preescolar y particular, Financieras, Plaza de toros y similares, Hoteles hasta 19 cuartos, Inmobiliaria, Lavadero de vehículos macro, Panadería semi industrial.
 
-PEQUEÑA EMPRESA COMERCIAL, 100 UMA 40 UMA
+PEQUEÑA EMPRESA COMERCIAL,
 
-INDUSTRIAL O DE SERVICIO
+INDUSTRIAL O DE SERVICIO 100 UMA 40 UMA
 
 Hoteles a partir de 20 cuartos, Posadas y Hospedajes, Clínicas y Hospitales. Casa de Cambio, Cinemas. Escuelas particulares de educación básica, educación medio superior y superior, Fábricas y Maquiladoras de hasta 15 empleados. Mueblería, Parque acuático y Artículos para el Hogar.
 
-MEDIANA EMPRESA COMERCIAL, 250 UMA 100 UMA
+MEDIANA EMPRESA COMERCIAL,
 
-INDUSTRIAL O DE SERVICIO
+INDUSTRIAL O DE SERVICIO 250 UMA 100 UMA
 
 Bancos, Gasolineras, Fábricas de Bloques e insumos para construcción. Gaseras. Agencias de Automóviles Nuevos. Fábricas y Maquiladoras de hasta 50 empleados. Tienda de Artículos Electrodomésticos, Muebles, Línea Blanca, Estaciones y/o Terminales de transporte público, Gasolineras, Inmuebles con antenas de telefonía, Sistema de comunicación con antenas de hasta 10 m de altura, Sistema de comunicación por antena receptora.
 
-GRAN EMPRESA COMERCIAL 500 UMA 200 UMA
+GRAN EMPRESA COMERCIAL
 
-INDUSTRIAL O DE SERVICIO
+INDUSTRIAL O DE SERVICIO 500 UMA 200 UMA
 
 Súper Mercado y/o Tienda Departamental, Sistemas de Comunicación Por Cable. Fábricas, Maquiladoras Industriales y Sistema de comunicación con antenas de 10 hasta 50 m de altura.
 
-MEGA EMPRESA COMERCIAL, 745 UMA 745 UMA
+MEGA EMPRESA COMERCIAL,
 
-INDUSTRIAL O DE SERVICIO
+INDUSTRIAL O DE SERVICIO 745 UMA 745 UMA
 
 Parque de celdas solares, Parque eólico.
 
@@ -1683,15 +1781,17 @@ comercial en la cabecera y las comisarias,
 
 mediante vehículo de tracción humana o animal
 
-### CAPÍTULO X. Derechos por Servicios de Vigilancia y Uso de las Vialidades para Fines Distintos y, de Carga y Descarga de Materiales y Productos
+### CAPÍTULO IX. Derechos por Servicio de Panteones
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 120.
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa en UMAS:
 
-I.- Por renta de bóvedas del Ayuntamiento 14.5
+I.- Por renta de bóvedas del Ayuntamiento por un período
 
-por un período de 2 años
+de 2 años 14.5
 
 II.- Por empadronamiento 1
 
@@ -1699,7 +1799,9 @@ III.- Por uso de fosa común 2
 
 IV.- Cambio de concesionario 5.5
 
-V.- Por construcción y remodelación por metro cuadrado 1
+V.- Por construcción y remodelación por metro
+
+Cuadrado 1
 
 VI.- Por inhumación 7.5
 
@@ -1709,37 +1811,39 @@ VIII.- Por concesión de terreno a perpetuidad
 
 de 2.40 por 1.20 metros 100
 
-IX.- Por concesión de terreno de 1.00 por 1.00 metros 50
+IX.- Por concesión de terreno de 1.00 por
 
-X.- Por concesión de terreno en las comisarías 32
+1.00 metros 50
 
-de Ucí y Kiní de 2.40 por 1.20 Metros (Para bóveda)
+X.- Por concesión de terreno en las comisarías
 
-XI.- Por concesión de terreno en las comisaría (sic) 16
+de Ucí y Kiní de 2.40 por 1.20 Metros
 
-de Ucí y Kiní de 1 por 1 metros
+(Para bóveda) 32
 
-Metros (Osario)
+XI.- Por concesión de terreno en las comisarías
+
+de Ucí y Kiní de 1 por 1 metros Metros (Osario) 16
 
 XII.- Por servicios en las demás comisarías se pagará:
 
-) (sic) Por inhumación 2
+a) a) (sic) Por inhumación 2
 
-) (sic) Por Exhumación 0.50
+b) b) (sic) Por Exhumación 0.50
 
-) (sic) Por uso de la fosa común 1
+c) c) (sic) Por uso de la fosa común 1
 
-XIII.- Derecho de mantenimiento de áreas comunes 1.5
+XIII.- Derecho de mantenimiento de áreas
 
-por concesión a perpetuidad se pagará anualmente
+comunes por concesión a perpetuidad se
 
-por fosa
+pagará anualmente por fosa 1.5
 
-b) (sic) Por exhumación 0.70
+a) Por exhumación 0.70
 
-c) Por uso de la fosa común 1.5
+b) Por uso de la fosa común 1.5
 
-### CAPÍTULO XI. Otros Servicios Prestados por el Ayuntamiento
+### CAPÍTULO X. Derechos por Servicios de Vigilancia y Uso de las Vialidades para Fines Distintos y, de Carga y Descarga de Materiales y Productos
 
 ###### Artículo 121.
 
@@ -1893,7 +1997,17 @@ materiales y
 
 suministros
 
-### CAPÍTULO XII. Derechos por los Servicios de la Unidad de Transparencia del Ayuntamiento de Motul
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REPUBLICADO], D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO XI. Otros Servicios Prestados por el Ayuntamiento
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Artículo 121 bis 2.- El municipio recaudará por los servicios prestados por la Dirección de Protección Civil los derechos enumerados en la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 23 DE DICIEMBRE DE 2020, PÁGINA 14.]</small>
+
+La emisión de la constancia relativa a la determinación de riesgo mencionada en el numeral 7 de la tabla anterior, será requisito para la obtención de la licencia de funcionamiento que otorgue el ayuntamiento para la apertura de negocios de cualquier tipo, así como su renovación en años impares.
 
 ###### Artículo 122.
 
@@ -1981,21 +2095,7 @@ XXXIII. CERTIFICADO MEDICO 0.30
 
 Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipo para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de 300 UMAS.
 
-### CAPÍTULO XIII. Derechos por Servicio de Alumbrado Público
-
-Artículo 122 D.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
-
-Artículo 122 E.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
-
-Artículo 122 F.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
-
-Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
-
-Artículo 122 G.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 122 F en su primer párrafo.
-
-Artículo 122 H.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
-
-Artículo 122 I.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
+### CAPÍTULO XII. Derechos por los Servicios de la Unidad de Transparencia del Ayuntamiento de Motul
 
 ###### Artículo 122-B.
 
@@ -2019,95 +2119,129 @@ IV.- Por Unidad USB de hasta 8 Gigabytes (GB),
 
 proporcionada por la unidad de transparencia. 150.00 Pesos
 
+### CAPÍTULO XIII. Derechos por Servicio de Alumbrado Público
+
+Artículo 122 D.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+Artículo 122 E.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+Artículo 122 F.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+Artículo 122 G.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 122 F en su primer párrafo.
+
+Artículo 122 H.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+Artículo 122 I.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
+
 ### CAPITULO XIV. De los Derechos Relacionados con el Suministro Publico de Agua Potable
 
 Artículo 122 J.- Son sujetos de los derechos relacionados con el servicio público de suministro de agua potable, el propietario, usufructuarios o poseedores de predios rústicos o urbanos del municipio, interesados en su contratación.
 
 Artículo 122 K.- Es objeto de los derechos que a continuación se describen, la prestación del servicio público del suministro de agua potable a los habitantes del municipio, para el uso doméstico o comercial.
 
-Artículo 122 L.- Los servicios relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en UMAS, y son:
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
-CONCEPTO TARIFA DESDE 1 M3 TARIFA DE 21 M3
+ARTICULO 122 L.- Los servicios relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en UMAS, y son:
 
-HASTA 20 M3 EN ADELANTE
+CONCEPTO TARIFA DESDE 1 M3 TARIFA DE 21 M3 EN
 
-I.- Servicio mensual de
+HASTA 20 M3 ADELANTE
 
-suministro de agua potable
+I.- Servicio mensual de suministro de
 
-para uso doméstico en
+agua potable para uso doméstico en
 
-cabecera con medidor 0.35 0.025 por M3
+cabecera con medidor. 0.35 0.025 por M3
 
-II.- Servicio mensual de
+II.- Servicio mensual de suministro de
 
-suministro de agua potable
+agua potable para uso doméstico en
 
-para uso doméstico en
+cabecera sin medidor. 0.37 No aplica
 
-cabecera sin medidor 0.37 No aplica
+III.- Servicio mensual de suministro de
 
-III.- Servicio mensual de
+agua potable para uso comercial en
 
-suministro de agua potable
+cabecera con medidor para giros
 
-para uso comercial en
+comerciales en la categoría de micro
 
-cabecera con medidor. 0.77 0.03 por M3
+establecimiento y pequeño
 
-IV.- Servicio mensual de
+establecimiento de acuerdo a la
 
-suministro de agua potable
+fracción III del artículo 114 de la
 
-para uso doméstico y
+presente ley. 0.77 0.03 por M3
+
+IV.- Servicio mensual de suministro de
+
+agua potable para uso comercial en
+
+cabecera con medidor para giros
+
+contenidos en la categoría de
+
+mediano establecimiento,
+
+establecimiento grande, pequeña,
+
+mediana, gran y mega empresa
+
+comercial, industrial o de servicio de
+
+acuerdo a la fracción III del artículo
+
+114 de la presente ley. 10.44 0.07 por M3
+
+V.- Servicio mensual de suministro de
+
+agua potable para uso doméstico y
 
 comercial en comisarías. 0.25 No aplica
 
 CONCEPTO TARIFA
 
-IV (SIC).- Expedición de constancia
+VI.- Expedición de constancia de
 
-de inexistencia del servicio,
+inexistencia del servicio, de no
 
-de no adeudo o de cambio de
+adeudo o de cambio de propietario. 0.62
 
-propietario 0.62
+VII.- Contrato de instalación de toma
 
-V.- Contrato de instalación de
+nueva de agua para uso doméstico en
 
-toma nueva de agua para uso
+cabecera. 14
 
-doméstico en cabecera. 14
+VIII.- Contrato de instalación de toma
 
-VI.- Contrato de instalación de
+nueva de agua para uso comercial en
 
-toma nueva de agua para uso
+cabecera. 23
 
-comercial en cabecera. 23
+IX.- Contrato de instalación de toma
 
-VII.- Contrato de instalación de
+nueva de agua para uso doméstico y
 
-toma nueva de agua para uso
+comercial en comisarías. 7
 
-doméstico y comercial en
+X.- Servicio de reconexión de toma de
 
-comisarías. 7
+agua en la cabecera. 2.5
 
-VIII.- Servicio de reconexión de
+XI.- Servicio de reconexión de toma de
 
-toma de agua en la cabecera 2.5
-
-IX.- Servicio de reconexión de
-
-toma de agua en comisarias 1.25
+agua en comisarías. 1.25
 
 En el caso del servicio de suministro de agua potable para uso domiciliario en comisarías, el sistema municipal de agua potable y alcantarillado de Motul en coordinación con la autoridad auxiliar, podrá modificar la tarifa expresada en la fracción III del presente artículo, ajustándose al consumo de energía eléctrica en los subsistemas de agua potable de cada localidad, sin exceder en ningún caso la tarifa expresada en la misma fracción.
 
-### CAPÍTULO ÚNICO. De los Sujetos
-
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO ÚNICO. De la Clasificación
+### CAPÍTULO ÚNICO. De los Sujetos
 
 ###### Artículo 123.
 
@@ -2115,7 +2249,9 @@ Son sujetos obligados al pago de las contribuciones de mejoras las personas fís
 
 Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
 
-I.- Los predios exteriores, que colinden con la calle en la que se hubiese (sic) ejecutado las obras.
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+I.- Los predios exteriores, que colinden con la calle en la que se hubiesen ejecutado las obras.
 
 II.- Los predios interiores, cuyo acceso al exterior, fuere por la calle en donde se hubiesen ejecutado las obras.
 
@@ -2149,9 +2285,11 @@ El objeto de la contribución de mejoras, es el beneficio diferencial que obteng
 
 DE LA CUOTA UNITARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 126.
 
-Para calcular el importe de las contribuciones de mejoras, el costo de la obra comprenderán (sic) los siguientes conceptos:
+Para calcular el importe de las contribuciones de mejoras, los costos de la obra comprenderán los siguientes conceptos:
 
 I.- El costo del proyecto de la obra.
 
@@ -2237,7 +2375,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO I. De las Multas Administrativas
+### CAPÍTULO ÚNICO. De la Clasificación
 
 ###### Artículo 135.
 
@@ -2257,7 +2395,13 @@ DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
 Los arrendamientos y las enajenaciones de bienes muebles e inmuebles propiedad del municipio se llevará a cabo conforme a la Ley Gobierno de los Municipios y la de Bienes, ambas del Estado de Yucatán.
 
-A que el arrendamiento de bienes se refiere la fracción II (sic) del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago. Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+
+> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
 DE LA EXPLOTACIÓN
 
@@ -2293,7 +2437,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO I. De las Multas Administrativas
 
 ###### Artículo 143.
 
@@ -2303,7 +2447,13 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los con
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas multas fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
-## TÍTULO OCTAVO. PROCEDIMIENTO ADMINISTRATIVO DE JECUCIÓN (SIC), ORDENAMIENTO APLICABLE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+## TÍTULO OCTAVO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+
+> <small>(ADICIONADO EPÍGRAFE, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+ORDENAMIENTO APLICABLE
 
 ###### Artículo 145.
 
@@ -2371,11 +2521,13 @@ IV.- .45 Empleados del Departamento Generados.
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
-### CAPÍTULO II. Infracciones y Sanciones de los Responsables
+### CAPÍTULO I. Generalidades
 
 ###### Artículo 149.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+### CAPÍTULO II. Infracciones y Sanciones de los Responsables
 
 ###### Artículo 150.
 
@@ -2391,7 +2543,9 @@ Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conoz
 
 Son infracciones:
 
-a).- La falta de presentación o la presentación extemporáneo (sic) de los avisos o manifestaciones que exige esta ley.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+a).- La falta de presentación o la presentación extemporánea de los avisos o manifestaciones que exige esta ley.
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y de Comercio del Estado y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
@@ -2405,7 +2559,9 @@ f).- La ocupación de la vía pública, con el objeto de realizar alguna activid
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autorización respectiva.
 
-h).- Cuando, sin cubrir el derecho previsto en el artículo 121 BIS de la presente ley, se utilicen la (sic) vías públicas para transporte y maniobras de carga y descarga.
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+
+h).- Cuando, sin cubrir el derecho previsto en el artículo 121 BIS de la presente ley, se utilicen las vías públicas para transporte y maniobras de carga y descarga.
 
 ###### Artículo 153.
 
@@ -2480,3 +2636,9 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 318/2020 POR EL QUE SE MODIFICA LA LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN”.]
+
+Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
