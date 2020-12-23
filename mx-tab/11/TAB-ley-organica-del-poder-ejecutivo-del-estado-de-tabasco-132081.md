@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-132081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-28"
-last_updated: "2018-12-28"
+last_updated: "2020-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario al Número 133 del Periódico Oficial del Estado de Tabasco, el viernes 28 de diciembre de 2018.
 
@@ -191,7 +191,9 @@ II. Administrar y coordinar los sistemas de programación, información y evalua
 
 III. Proponer al Gobernador, proyectos de iniciativas y decretos de reforma y actualización de las leyes, reglamentos y demás disposiciones jurídicas, cuya materia corresponda a sus atribuciones, previa consulta a la Coordinación General de Asuntos Jurídicos;
 
-IV. Instrumentar los respectivos manuales de organización, de procedimientos y de servicios al público, necesarios para su funcionamiento; los cuales deberán contener información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, sobre los sistemas de comunicación y coordinación, así como de los principales procedimientos administrativos que se realicen en cada Dependencia. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización deberán publicarse en el Periódico Oficial del Estado de Tabasco, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, tanto en las páginas oficiales de cada Dependencia en Internet, como a través del registro electrónico que opera la Coordinación General de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+IV. Instrumentar los respectivos manuales de organización y de procedimientos, necesarios para su funcionamiento; los cuales deberán contener información sobre la estructura orgánica de la Dependencia y las funciones de sus unidades administrativas, los sistemas de comunicación y coordinación, así como de los principales procedimientos administrativos que se realicen en cada Dependencia. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización deberán publicarse en el Periódico Oficial del Estado de Tabasco y los manuales de procedimientos deberán estar disponibles para consulta de los usuarios y de los servidores públicos, en las páginas web oficiales de cada Dependencia y en el registro electrónico que opera la Coordinación General de Asuntos Jurídicos;
 
 V. Realizar análisis e informes sobre los requerimientos y el comportamiento del gasto público de la Dependencia y sector bajo su responsabilidad, así como colaborar, en el ámbito de su competencia, en la instrumentación del anteproyecto de presupuesto de egresos, para su análisis correspondiente y su vinculación con los proyectos de presupuesto de ingresos y de gasto público;
 
@@ -229,9 +231,11 @@ XXI. Las demás que le encomiende el Gobernador, las leyes y reglamentación vig
 
 ### CAPÍTULO SEGUNDO. De la Gubernatura
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-La Gubernatura del Estado, se conformará con las unidades administrativas siguientes: la Representación del Gobierno del Estado en la Ciudad de México, la Secretaría Técnica y de Seguimiento Gubernamental, la Unidad de Impulso a Proyectos Estratégicos, la Secretaría Particular, la Coordinación General Ejecutiva de la Gubernatura; la Coordinación General de Centros Integradores y la Coordinación General de Vinculación con el Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET) además de las que determine el Gobernador en ejercicio de sus facultades.
+La Gubernatura del Estado, se conformará con las unidades administrativas siguientes: la Representación del Gobierno del Estado en la Ciudad de México, la Secretaría Técnica y de Seguimiento Gubernamental, la Secretaría Particular, la Coordinación General Ejecutiva de la Gubernatura; la Coordinación General de Centros Integradores y la Coordinación General de Vinculación con el Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET), además de las que determine el Gobernador en ejercicio de sus facultades.
 
 ###### ARTÍCULO 16.
 
@@ -285,7 +289,9 @@ VIII. Proponer al Gobernador la elaboración de estudios, investigaciones, así 
 
 IX. Presentar, debidamente sustentados, asuntos de relevancia a la consideración de los gabinetes especializados, con el objetivo de apoyar sus trabajos generales o específicos, así como el cumplimiento de sus acuerdos;
 
-X. Coadyuvar con la Secretaría de Finanzas y la Unidad de Impulso al Desarrollo y a Proyectos Estratégicos en las actividades propias del proceso de captación y sistematización de la información de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública Estatal, para la integración del Informe de Gobierno;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+X. Coadyuvar con la Secretaría de Finanzas en las actividades propias del proceso de captación y sistematización de la información de las dependencias, órganos desconcentrados y entidades paraestatales de la administración pública estatal, para la integración del Informe de Gobierno;
 
 XI. Asistir al Gobernador en coordinación con la Secretaría Particular, en su agenda y gestiones con instituciones, organismos, agencias de desarrollo y otras instancias de carácter regional, nacionales o del extranjero, así como en temas de índole interinstitucional y en comisiones especiales;
 
@@ -297,41 +303,7 @@ XIV. Las demás que en relación con su competencia le señale el Gobernador.
 
 ###### ARTÍCULO 18.
 
-Es competencia de la Unidad de Impulso a Proyectos Estratégicos:
-
-I. Planear, diseñar y llevar el seguimiento de los proyectos estratégicos, competitivos y sustentables que impulsen el desarrollo estatal que le instruya el Gobernador del Estado;
-
-II. Regular, conducir, coordinar, y evaluar los proyectos estratégicos estatales, de conformidad con la legislación y demás ordenamientos legales correspondientes, en la esfera de su competencia;
-
-III. Coordinar funcionalmente a las dependencias y entidades estatales que participen en los proyectos estratégicos;
-
-IV. Realizar ante las autoridades de los distintos órdenes de gobierno, las gestiones que sean necesarias para iniciar, ejecutar o concluir las acciones complementarias de los proyectos encomendados por el Gobernador;
-
-V. Llevar puntual seguimiento a los acuerdos, compromisos y en general a los asuntos relacionados con los proyectos estratégicos que estén bajo su coordinación funcional;
-
-VI. Realizar, promover y evaluar las investigaciones, estudios y proyectos de carácter económico y social que se requieran para sustentar el desarrollo regional del Estado en el mediano y largo plazos;
-
-VII. Promover la coordinación y congruencia regional de los programas estatales y municipales derivados del Plan Estatal de Desarrollo;
-
-VIII. Colaborar en los trabajos para la elaboración del Anteproyecto de Presupuesto de Egresos, desde la perspectiva regional y de proyectos estratégicos, para asegurar su congruencia con el Plan Estatal de Desarrollo y con sus respectivos y (sic) programas;
-
-IX. Colaborar con el Comité de Planeación para el Desarrollo de Tabasco, en la elaboración y gestión de los planes y programas de carácter estratégico regional o especial que señale el Gobernador, tomando en cuenta las propuestas que al efecto realicen las dependencias, entidades y órganos de la Administración Pública Estatal y los Ayuntamientos;
-
-X. Fungir como Secretario Técnico del Comité de Planeación para el Desarrollo del Estado de Tabasco en términos de las disposiciones aplicables en esta materia;
-
-XI. Atender en el Comité de Planeación para el Desarrollo del Estado de Tabasco, la coordinación de programas y acciones derivadas de los programas regionales y estratégicos que realicen las dependencias federales en la Entidad;
-
-XII. Coordinar la formulación de los estudios y proyectos ejecutivos que le señale el Gobernador, para someterlos a su consideración;
-
-XIII. Apoyar a las Dependencias y Entidades en la gestión de los programas de desarrollo regional o estratégico convenidos con la Administración Pública Federal o los Municipios de la Entidad; así como proporcionar a estos últimos, cuando así lo soliciten, asesoría y apoyo técnico en la elaboración y evaluación de planes, programas y proyectos de inversión, del mismo tipo;
-
-XIV. Colaborar con la Secretaría de Finanzas a fin de que la programación del presupuesto de inversiones se canalice hacia los proyectos estratégicos definidos en el Plan Estatal de Desarrollo que el Gobernador determine;
-
-XV. Facilitar, dentro del ámbito de su competencia, la participación de los sectores privado y social en la ejecución de los proyectos de inversión estratégica identificados en el Plan Estatal de Desarrollo;
-
-XVI. Requerir, recibir informes y evaluar la ejecución de programas y proyectos de carácter regional o estratégico, así como propuestas de inversión, de este tipo, provenientes de los organismos públicos descentralizados y desconcentrados para dar cuenta al Gobernador; y
-
-XVII. Las demás que en relación con su competencia le señale el Gobernador.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
 ###### ARTÍCULO 19.
 
@@ -445,13 +417,13 @@ III. Participar y llevar el seguimiento de los convenios que el Gobernador suscr
 
 IV. Establecer los mecanismos de concertación con los sectores social y privado para su incorporación al desarrollo de la entidad;
 
-V. Integrar con la Secretaría de la Función Pública, el Consejo Estatal de Evaluación en términos de lo dispuesto en la Ley de Planeación y demás disposiciones aplicables;
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2020)
 
-VI. Revisar y en su caso autorizar las propuestas de programas y proyectos que determine el Gobernador y que deban contemplarse en el Presupuesto de Egresos del Estado;
+VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2020)
 
-VII. Coordinar con la Secretaría de Finanzas la formulación, ejecución y evaluación del Plan Estatal de Desarrollo y asegurar su vinculación con las políticas de ingresos y egresos, procurando la congruencia con las políticas que sobre esta materia haya dictado la
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-Federación. Asimismo, coordinar la formulación e instrumentación del Programa Financiero del Estado o su equivalente;
+VII. Coordinar con la Secretaría de Finanzas la formulación y ejecución del Plan Estatal de Desarrollo y asegurar su vinculación con las políticas de ingresos y egresos, procurando la congruencia con las políticas que sobre esta materia haya dictado la Federación. Asimismo, coordinar la formulación e instrumentación del Programa Financiero del Estado o su equivalente.
 
 VIII. Conducir, en el Comité de Planeación para el Desarrollo del Estado de Tabasco, los trabajos para la coordinación y supervisión de los programas y las acciones que se deriven de los programas de las dependencias federales;
 
@@ -613,7 +585,9 @@ V. Auxiliar a las autoridades federales y municipales que soliciten apoyo en el 
 
 VI. Proporcionar a la Secretaría de Gobierno la información para que esta publique y actualice una página electrónica específica en la cual se registren los datos generales de las personas reportadas como desaparecidas en coordinación con las autoridades federales competentes. La información deberá ser pública y permitir que la población pueda aportar información sobre el paradero de las mismas;
 
-VII. Organizar, coordinar, fortalecer y operar el Centro de Comunicaciones, Cómputo, Control y Comando (C4);
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+VII. Organizar, coordinar, fortalecer y operar el Centro de Mando y Comunicaciones;
 
 VIII. Coordinar y establecer mecanismos para contar oportunamente con información estratégica de seguridad pública estatal y nacional;
 
@@ -621,7 +595,9 @@ IX. Presidir el Sistema Estatal de Seguridad Pública;
 
 X. Intervenir en el marco del Sistema Estatal de Seguridad Pública, y de las leyes aplicables, en lo concerniente a las materias de seguridad pública, prevención del delito y reinserción social y tránsito del Estado en un marco de gobernabilidad, legalidad y respeto a las garantías constitucionales;
 
-XI. Organizar, dirigir, administrar y supervisar los cuerpos policiales o de seguridad pública estatal, acorde a las facultades que al respecto establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como prestar el auxilio de la fuerza pública cuando lo requieran las Depedencias (sic) y Entidades y los Poderes del Estado, de conformidad con la legislación y normatividad aplicable; igualmente garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, sin perjuicio de las atribuciones de las policías preventivas municipales;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XI. Organizar, dirigir, administrar y supervisar los cuerpos policiales o de seguridad pública estatal, acorde a las facultades que al respecto establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como prestar el auxilio de la fuerza pública cuando lo requieran las Dependencias y Entidades, y los Poderes del Estado, de conformidad con la legislación y normatividad aplicable; igualmente garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, sin perjuicio de las atribuciones de las policías preventivas municipales;
 
 XII. Instrumentar, operar, registrar y actualizar, en coordinación con la Secretaría de Gobierno, la Fiscalía General del Estado, y las autoridades federales competentes, las investigaciones, estadísticas y mapas delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
@@ -633,7 +609,9 @@ XV. Colaborar con las autoridades federales, en los términos de las leyes relat
 
 XVI. Atender, oportuna y eficazmente, las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones, y fomentar la participación ciudadana en la formulación de los programas estatales de seguridad pública, prevención del delito, reinserción social y tránsito;
 
-XVII. Organizar, dirigir y administrar el Colegio de Policía y el servicio civil de carrera de la policía a su cargo, proveyendo lo necesario para la capacitación, profesionalización y especialización de los cuerpos policiales, en su caso, brindar la atención a las solicitudes de los Ayuntamientos en la materia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XVII. Organizar, dirigir y administrar la Academia de Policía y el Servicio de Carrera Policial, proveyendo lo necesario para la capacitación, profesionalización y especialización de los cuerpos policiales, y en su caso, brindar la atención a las solicitudes de los Ayuntamientos en la materia;
 
 XVIII. Organizar, coordinar y operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
 
@@ -645,7 +623,9 @@ XXI. Atender, conforme a los tratados, acuerdos y disposiciones jurídicas aplic
 
 XXII. Participar, dentro del marco del Sistema Estatal de Seguridad Pública, en la organización, que en el ámbito del Poder Ejecutivo a éste le competa, en materia de prevención y reinserción social así como la regulación de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento a inimputables. Así como, también aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente, cuando lo haya determinado la autoridad judicial competente;
 
-XXIII. Administrar, operar y mantener !a (sic) seguridad de los reclusorios y centros de reinserción social del Estado, así como los correspondientes a los Centros de internamiento para adolescentes. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Administrar, operar y mantener la seguridad de los reclusorios y centros de reinserción social del Estado, así como los correspondientes a los Centros de internamiento para adolescentes. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
 
 XXIV. Proporcionar antecedentes penales a las autoridades competentes y expedir, previa solicitud, constancias de los mismos a personas con interés jurídico, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
 
@@ -677,13 +657,17 @@ V. Custodiar los documentos que constituyan valores, fondos, acciones y demás d
 
 VI. Asegurar la congruencia e interrelación de los procesos de programación, presupuestación, información, evaluación, organización, desarrollo y control, en la Administración Pública del Estado;
 
-VII. Coordinar la formulación, ejecución y evaluación del Plan Estatal de Desarrollo y asegurar su vinculación con las políticas de ingresos y egresos, procurando la congruencia con las políticas que sobre esta materia haya dictado la Federación. Asimismo, coordinar la formulación e instrumentación del Programa Financiero del Estado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+VII. Coordinar la formulación y ejecución del Plan Estatal de Desarrollo y asegurar su vinculación con las políticas de ingresos y egresos, procurando la congruencia con las políticas que sobre esta materia haya dictado la Federación. Asimismo, coordinar la formulación e instrumentación del Programa Financiero del Estado;
 
 VIII. Fungir como representante del Estado ante la Secretaría de Hacienda y Crédito Público y el Sistema Nacional de Coordinación Fiscal, así como ejercer las atribuciones que al Estado le confieren el Convenio de Adhesión y sus anexos; Además, cuidar que se paguen correctamente las participaciones, aportaciones y demás recursos que corresponda a los municipios del Estado;
 
 IX. Proponer e instrumentar proyectos de leyes y disposiciones fiscales de la Entidad, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos;
 
-X. Formular y presentar al Gobernador los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa Financiero del Estado, de acuerdo a la Ley Estatal de Presupuesto, Contabilidad y Gasto Público;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+X. Formular y presentar al Gobernador los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa Financiero del Estado, de acuerdo a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios;
 
 XI. Formular y presentar al Gobernador los proyectos de Ley de Ingresos y de Presupuesto de Egresos, o de sus modificaciones y ajustes, de acuerdo con la legislación y normatividad aplicable;
 
@@ -1155,7 +1139,9 @@ XI. Gestionar, promover y ejecutar los convenios de colaboración que en materia
 
 XII. Concertar, fomentar y ejecutar, con los Sectores Público, Privado y Social, acciones tendientes a mejorar el estado nutricional de la población; así como realizar los estudios sobre la situación alimentaria de los habitantes del Estado y de los nutrientes que puedan complementar su alimentación, en atención a las nuevas condiciones nutricias, hábitos alimenticios, transición epidemiológica y evolución demográfica;
 
-XIII. Vigilar, en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, los asilos e instituciones de beneficencia pública del Gobierno del Estado. De igual forma verificar que los particulares que operan centros de beneficencia cumplan con los propósitos para los que fueron creados;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XIII. Vigilar, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, los asilos e instituciones de beneficencia pública del Gobierno del Estado. De igual forma verificar que los particulares que operan centros de beneficencia cumplan con los propósitos para los que fueron creados;
 
 XIV. Colaborar, con las autoridades laborales, en la instrumentación, difusión y evaluación de las normas existentes en materia de higiene y seguridad en el trabajo;
 
@@ -1193,7 +1179,9 @@ I. Planear y regular el uso adecuado de las comunicaciones terrestres y de los t
 
 II. Actuar en materia de movilidad y transporte, según las atribuciones que le otorga este artículo, de acuerdo con las disposiciones conenidas (sic) en el inciso h) fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y en estricta coordinación con las autoridades municipales;
 
-III. Vigilar la observancia y aplicación de la Ley de Transportes para el Estado de Tabasco, la Ley General de Tránsito y Vialidad del Estado de Tabasco, y demás ordenamientos aplicables; así como formular y ejecutar los programas de transporte y vialidad de la Entidad;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+III. Vigilar la observancia y aplicación de la Ley de Movilidad para el Estado de Tabasco, la Ley General de Tránsito y Vialidad del Estado de Tabasco, y demás ordenamientos aplicables; así como formular y ejecutar los programas de transporte y vialidad de la Entidad;
 
 IV. Proponer al Gobernador las políticas y programas relativos a las comunicaciones y transportes en la Entidad;
 
@@ -1269,7 +1257,9 @@ XXXVIII. Las demás que se prevean en otras disposiciones o le sean encomendadas
 
 A la Secretaría para el Desarrollo Económico y la Competitividad le corresponde el despacho de los siguientes asuntos:
 
-I. Promover, desarrollar, dirigir, fomentar, coordinar y vigilar conforme a la legislación aplicable, la ejecución de las políticas y los programas de desarrollo económico, de acuerdo con el Plan de Desarrollo Integral del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+I. Promover, desarrollar, dirigir, fomentar, coordinar y vigilar la ejecución de las políticas y los programas de desarrollo económico, de conformidad con la legislación aplicable;
 
 II. Promover la competitividad y el incremento de la productividad en las actividades económicas del Estado;
 
@@ -1315,7 +1305,9 @@ XXII. Promover, orientar y estimular el desarrollo y modernización del sector e
 
 XXIII. Organizar y conducir el Consejo Estatal para la Competitividad, para que apoye en el estudio e instrumentación de las políticas y estrategias generales para la promoción nacional e internacional de Tabasco. También para fomentar y apoyar el comercio exterior; y plantear al Gobernador las estrategias, programas y proyectos prioritarios para promover integralmente al Estado. De igual forma para proceder a la instrumentación de los programas y proyectos prioritarios que hubiere aprobado y mantenerlo informado sobre los avances y resultados en la materia;
 
-XXIV. Proponer a la Secretaría de Finanzas, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades comerciales, turísticas, de servicios, industriales, agropecuarias, acuícola, de aprovechamiento forestal y de empleo en la Entidad, en congruencia con lo dispuesto en la Ley de Fomento Económico del Estado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Proponer a la Secretaría de Finanzas, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades comerciales, turísticas, de servicios, industriales, agropecuarias, acuícolas, de aprovechamiento forestal y de empleo en la entidad, en congruencia con lo dispuesto en la Ley para el Desarrollo Económico Sostenible del Estado de Tabasco;
 
 XXV. Actuar como dependencia coordinadora y fungir de enlace con las Cámaras, Asociaciones y Representaciones del Sector Empresarial, con la Banca de Desarrollo, Cooperativas, Sector Social y otras instancias que coadyuven al desarrollo económico del Estado;
 
@@ -1803,9 +1795,11 @@ XXXII. Las demás que se prevean en otras disposiciones o le sean encomendadas p
 
 ### CAPÍTULO ÚNICO. De las Entidades de la Administración Pública Paraestatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 46.
 
-Son Entidades Paraestatales, cualquiera que sea la estructura legal que adopten, las Entidades creadas por Ley, por Decreto o por Acuerdo y que cuenten con personalidad jurídica y patrimonio propios. Para la atención de los aspectos prioritarios del Estado y el despacho de los asuntos del orden administrativo y formando parte de la Administración Pública, el Gobernador se auxiliará de:
+Son Entidades Paraestatales, cualquiera que sea la estructura legal que adopten, las Entidades que cuenten con personalidad jurídica y patrimonio propios. Para la atención de los aspectos prioritarios del Estado y el despacho de los asuntos del orden administrativo y formando parte de la administración pública, el Gobernador se auxiliará de:
 
 I. Organismos Descentralizados;
 
@@ -1924,3 +1918,19 @@ SECRETARIO DE GOBIERNO.
 LIC. AGUSTÍN GARCÍA MENDOZA.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 279 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14 FRACCIÓN IV, 15, 17 FRACCIÓN X, 22 FRACCIÓN VII, 31 FRACCIONES VII, XI, XVII Y XXIII, 32 FRACCIONES VII Y X, 36 FRACCIÓN XIII, 37 FRACCIÓN III, 38 FRACCIONES I Y XXIV, Y 46 PÁRRAFO PRIMERO; Y SE DEROGAN EL ARTÍCULO 18, Y LAS FRACCIONES V Y VI DEL ARTÍCULO 22; TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2021.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo del Estado nombrará al servidor público que fungirá como secretario técnico del Comité de Planeación para el Desarrollo de Tabasco.
+
+CUARTO. Los recursos materiales y presupuestales, así como los activos y pasivos que tenía a su cargo la Unidad de Impulso a Proyectos Estratégicos, se incorporarán en lo conducente a la Unidad de Administración y Finanzas de la Gubernatura, de conformidad con las disposiciones legales, administrativas y presupuestales aplicables.
+
+QUINTO. La Comisión Técnica para la implementación de la Ley Orgánica del Poder Ejecutivo, realizará las adecuaciones legales y administrativas necesarias para el debido cumplimiento del presente Decreto.
