@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2017-12-26"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -79,9 +79,13 @@ Para los efectos de esta Ley, se entienden como servicios de asistencia social e
 
 Son participantes y sujetos de atención de los servicios de asistencia social, preferentemente los siguientes:
 
-I. Menores en estado de abandono, desamparo, desnutrición, o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-II. Menores infractores;
+I. Las niñas, niños y adolescentes expósitos, en estado de abandono, desamparo, desnutrición, o sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+II. Adolescentes que estén sujetos a proceso penal y a quienes se les haya impuesto una medida cautelar de las previstas en la Ley de la materia, entendiéndose por adolescentes aquellos que se ajusten a alguno de los tres grupos etarios previstos en el mismo ordenamiento;
 
 > <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
 
@@ -114,6 +118,24 @@ XI. Familiares que dependan económicamente de quienes se encuentran detenidos p
 XII. Habitantes marginados del medio rural o del urbano, que carezcan de lo indispensable para su subsistencia; y,
 
 XIII. Personas afectadas por desastres.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 5° BIS. Los sujetos de atención de los servicios de asistencia social, tendrán los siguientes derechos:
+
+I. Recibir un trato de calidad y en tiempo oportuno con fin de respetar el marco del desarrollo humano y los derechos humanos;
+
+II. Gozar de acceso a los servicios y programas de asistencia social, teniendo en especial consideración el principio de equidad de género;
+
+III. Recibir respeto a todos y cada uno de los derechos humanos y garantías individuales plasmadas en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Leyes Federales, la Constitución Política del Estado de Michoacán de Ocampo y demás legislación local de la materia;
+
+IV. Que se garantice el acceso a la información de los programas y servicios en materia de asistencia social, de conformidad a la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo;
+
+V. Recibir el servicio y apoyos en materia de asistencia social, conforme a la norma y lineamientos que rigen los programas asistenciales;
+
+VI. Presentar peticiones, quejas denuncias y/o querellas, a través de su representante legal o tutor que le sea asignado o designado, ante la autoridad competente que deba conocer del caso para el cumplimiento de la presente ley; y,
+
+VII. Es responsabilidad del Estado, el implementar políticas públicas a nivel estatal y municipal, tendientes a la detección oportuna de las conductas de maltrato a las niñas, niños y adolescentes en el seno familiar, así como cualquier tipo de conductas de maltrato psicológico, físico, sexual, emocional, patrimonial ocasionadas por el mismo medio socioeconómico donde se desarrollan.
 
 ###### ARTICULO 6o.
 
@@ -596,3 +618,11 @@ P.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 423 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1°, 3°, 29 FRACCIÓN IV Y 34 FRACCIONES I, II Y IV; Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 9°, DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 5º Y SE ADICIONA EL ARTÍCULO 5º BIS DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
