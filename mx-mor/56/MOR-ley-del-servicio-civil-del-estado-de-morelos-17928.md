@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2020-11-04"
+last_updated: "2020-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -563,9 +563,9 @@ VIII.- La evaluación de su desempeño laboral y el otorgamiento de estímulos y
 
 IX.- La capacitación permanente para elevar sus condiciones de vida y eficiencia en la prestación del servicio;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
-X.- La justificación de sus faltas de asistencia dentro de los plazos y conforme a los procedimientos establecidos en el reglamento que rige;
+X.- Que le sean justificadas las ausencias a su fuente de trabajo, dentro de los plazos y conforme a los procedimientos establecidos por el patrón; así como aquellas faltas en caso de comparecencia con motivo de algún trámite ante el órgano investigador, juez, tribunal o cualquier oficina gubernamental o de carácter privado, ante la cual sea necesaria su presencia, cuando fueren víctimas de algún delito, debiéndolo acreditar con las constancias respectivas;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -645,7 +645,9 @@ XII.- Cubrir la reparación del daño que intencionalmente cause a los bienes qu
 
 XIII.- Registrar y actualizar su domicilio particular dentro de los diez días siguientes a aquel en que ocurra el cambio, en su centro de trabajo y en la dirección de personal o unidad administrativa correspondiente;
 
-XIV.- Comparecer ante la autoridad competente que lo requiera, cuando se trate de declarar acerca de hechos propios o que le consten o cuando haya intervenido en el levantamiento de actas administrativas conforme a lo previsto en esta Ley; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Comparecer ante la autoridad, institución u oficina gubernamental que lo requiera, para declarar sobre hechos propios o que le consten; también en caso de ser víctima de algún delito, o cuando haya intervenido en el levantamiento de actas administrativas conforme a lo previsto en esta Ley; y,
 
 XV.- Las demás que le señalen otras disposiciones legales aplicables.
 
@@ -1794,3 +1796,11 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y SIETE. POR EL QUE SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 7 Y SE ADICIONAN LA FRACCIÓN XXXVIII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 7 Y LA FRACCIÓN XXXII RECORRIÉNDOSE LA ACTUAL DEL ARTÍCULO 110, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; ASÍ TAMBIÉN SE REFORMAN LA FRACCIÓN X, DEL ARTÍCULO 43 Y LA FRACCIÓN XIV DEL ARTÍCULO 44 AMBOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
