@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-del-centro-de-ciencias-de-sinaloa-128733"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-25"
-last_updated: "2018-05-25"
+last_updated: "2020-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DEL CENTRO DE CIENCIAS DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DEL CENTRO DE CIENCIAS DE SINALOA, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CENTRO DE CIENCIAS DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 25 de mayo de 2018.
 
@@ -596,3 +598,17 @@ Miembro Propietario
 Propuestas de Mejora
 
 Todo el personal que labora en el Centro de Ciencias de Sinaloa está cordialmente invitado a presentar sugerencias e ideas que nos ayuden a continuar mejorando nuestro Código de Conducta a través del Comité de Ética.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 23 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL CENTRO DE CIENCIAS DE SINALOA”.]
+
+PRIMERO.- El presente Código de Conducta del Centro de Ciencias de Sinaloa, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial “El Estado de Sinaloa”; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial “El Estado de Sinaloa”, el presente Código deberá de difundirse y publicarse, en la página de internet institucional del Centro de Ciencias de Sinaloa.
+
+TERCERO.- las Áreas del Centro de Ciencias de Sinaloa a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO.- Se abroga el Código de Conducta del Centro de Ciencias de Sinaloa, publicado en el Periódico Oficial del Estado de Sinaloa, de fecha 25 de Mayo del Dos mil dieciocho.
