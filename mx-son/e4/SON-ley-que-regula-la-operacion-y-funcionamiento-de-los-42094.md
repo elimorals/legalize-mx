@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-06-27"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 27 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -292,6 +290,20 @@ Los permisos para esa actividad preferentemente se otorgarán a aquellas negocia
 > <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
 
 XIII Bis.- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación Sonorense.- La persona física o moral dedicada a la transportación de bebidas alcohólicas cuya fabricación se realiza en el Estado de Sonora por fabricantes que cuenten con licencia vigente en los giros Fábrica de Producto Regional Típico y Fábrica de Cerveza Artesanal contemplados en esta ley.
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XIII Bis 1.- PORTEADORA POR APLICACIÓN. La persona física o moral dedicada a la transportación de bebidas con contenido alcohólico derivadas de una operación de compra venta por medio de una aplicación digital debidamente registrada y que dicha transportación se lleve a cabo dentro de la demarcación territorial o asentamiento urbano en que se encuentre el expendedor.
+
+Los permisos para la actividad señalada en el párrafo anterior, se otorgarán exclusivamente a todas aquellas personas o negociaciones que, además de encontrarse inscritos en el Registro Estatal de Contribuyentes a que se refiere el artículo 33 del Código Fiscal del Estado, utilicen cualquier tipo de aplicaciones digitales para que el consumidor final pueda solicitarles la prestación de los servicios de transportación a que se refiere esta fracción, siempre y cuando la cantidad de litros de bebidas alcohólicas adquiridos mediante la aplicación digital, no supere la establecida en el artículo 51 de la presente ley.
+
+El producto que se adquiera por medio de aplicación deberá ser entregado únicamente en el domicilio en que fue solicitado el servicio y por ningún motivo se deberá realizar la entrega de bebidas con contenido alcohólico a los menores de 18 años de edad, y para tal efecto deberá de cumplir por lo dispuesto en el artículo 20 fracción I, de este ordenamiento.
+
+En caso de presentarse alguna infracción a la presente ley, serán corresponsables el titular de la aplicación y quien físicamente lleve a cabo la transportación.
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XIII Bis 2.- CENTROS DE CONSUMO.- La persona física o moral dedicada a las actividades tales como cafés, spa, boutique, salones de belleza y/o similares, donde su actividad preponderante es diversa al consumo de bebida alcohólica y que puede proporcionar al cliente como máximo 2 bebidas con contenido alcohólico únicamente para su consumo inmediato en el establecimiento, y en el caso de los que su actividad esencial sea la venta y consumo de café éste se podrá complementar con licor también para consumo inmediato.
 
 XIV.- Autorizaciones eventuales por tiempo determinado que otorgue el Ejecutivo del Estado por conducto de la Secretaría, para la venta o consumo de bebidas con contenido alcohólico, con fines determinados, tales como muestras, degustación y otros, en aquellos lugares que considere convenientes y sin que esta circunstancia implique la autorización de una licencia definitiva.
 
@@ -1746,3 +1758,19 @@ B.O. 13 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero del año 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
