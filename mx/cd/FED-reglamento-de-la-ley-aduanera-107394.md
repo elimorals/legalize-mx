@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-aduanera-107394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-04-20"
-last_updated: "2017-12-22"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107394&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ REGLAMENTO DE LA LEY ADUANERA
 
 TEXTO ORIGINAL.
 
-ÚLTIMA ACTUALIZACIÓN POR ANEXO EXPEDIDO POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA ACTUALIZACIÓN POR ANEXO EXPEDIDO POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 20 de abril de 2015.
 
@@ -1381,11 +1381,11 @@ Para efectos del artículo 98 de la Ley, en las importaciones si con motivo del 
 
 En los supuestos a que se refiere el párrafo anterior, las Autoridades Aduaneras procederán a determinar los créditos fiscales que correspondan, conforme a lo previsto en los artículos 98 y 152 de la Ley.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
 
 ###### Artículo 144.
 
-Para efectos del artículo 100, fracción II de la Ley, las empresas que hayan realizado importaciones con un valor superior a $120,139,530.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente:
+Para efectos del artículo 100, fracción II de la Ley, las empresas que hayan realizado importaciones con un valor superior a $133,859,460.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente:
 
 I. Realizar el pago del derecho que corresponda conforme a la Ley Federal de Derechos;
 
@@ -2292,3 +2292,7 @@ Dado en la Residencia del Poder Ejecutivo Federal, Ciudad de México, Distrito F
 D.O.F. 22 DE DICIEMBRE DE 2017.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 24 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]</small>
