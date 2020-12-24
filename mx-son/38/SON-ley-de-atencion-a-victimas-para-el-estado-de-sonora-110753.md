@@ -4,7 +4,7 @@ identifier: "SON-ley-de-atencion-a-victimas-para-el-estado-de-sonora-110753"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2020-03-05"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE ATENCION A VICTIMAS PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -1485,6 +1487,12 @@ Al año de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Esta
 
 El Congreso podrá solicitar la comparecencia del titular de la Comisión Ejecutiva Estatal para que presente el informe correspondiente.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO OCTAVO.
+
+Durante la vigencia de una declaratoria de emergencia, contingencia sanitaria, epidemiológica, desastre o cualquier otra medida urgente encaminada a la conservación de la vida, salud o supervivencia humana en general las obligaciones a que refiere la presente Ley, entre otras, la relativa al artículo 13 Bis, fracción I de este cuerpo normativo, se suspenderá hasta que exista un balance presupuestal que permita retomar su vigencia y ejecución.
+
 B.O. 5 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA".]
@@ -1496,3 +1504,19 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado contará con 180 días naturales, a partir de la entrada en vigor del presente Decreto, para integrar los Registros a que se hace referencia en el mismo.
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 BIS-8 de la Ley de Hacienda del Estado.
