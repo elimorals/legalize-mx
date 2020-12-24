@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-11-21"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -823,13 +823,17 @@ XII. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
 XIII. El desarrollo y fortalecimiento de programas en materia de prevención y control de las enfermedades de los hombres y, específicamente, de la próstata;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 XIV. Coadyuvar en la detección y prevención oportuna del cáncer de mama, mediante acciones de información que orienten sobre la responsabilidad del autocuidado, a fin de disminuir la prevalencia de los factores de riesgo entre la población;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 XV. La atención y asistencia del personal de salud que por sus funciones sufra algún deterioro, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XV (SIC). Coadyuvar en la detección y prevención oportuna del cáncer infantil mediante lo siguiente: en la medida de las capacidades presupuestales, realizar acciones de información sobre la importancia de la atención temprana; y realizar acciones de coordinación y mejora regulatoria para optimizar la canalización de pacientes diagnosticados hasta la atención especializada, y
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
@@ -963,11 +967,21 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 La Secretaría de Salud del Estado y los ayuntamientos, podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 36.
 
-La Secretaría de Salud del Estado, en el ámbito de su respectiva competencia, y en coordinación con las autoridades educativas, capacitarán y vigilarán el ejercicio de profesionales, técnicos y auxiliares de la salud, para que la prestación de los servicios se proporcione con perspectiva de género, no discriminación y de acuerdo a la NOM-046-SSA2- 2005, Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención; y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia cuando se trate de atención y tratamiento a víctimas de violencia de género.
+La Secretaría de Salud del Estado, en el ámbito de su respectiva competencia, y en coordinación con las autoridades educativas, capacitarán y vigilarán el ejercicio de profesionales, técnicos y auxiliares de la salud, para que la prestación de los servicios que proporcione, cuando se trate de atención y tratamiento a víctimas de violencia de género, se realicen con:
+
+I. Perspectiva de género;
+
+II. No discriminación y conforme a la NOM-046-SSA2-2005;
+
+III. Observancia de los criterios para la prevención y atención contra la violencia familiar, sexual y hacia las mujeres, y
+
+IV. Cumplimiento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+El incumplimiento de los criterios y ordenamientos legales citados, dará pauta a que la persona afectada por dichas conductas las denuncie ante la autoridad competente, quien podrá imputarle al actor, según el caso, responsabilidad penal, civil, administrativa o ética disciplinaria, previa observancia del derecho de defensa y los principios del debido proceso.
 
 ###### ARTICULO 37.
 
@@ -1115,9 +1129,11 @@ IV. La promoción de la integración y el bienestar familiar, fomentando la resp
 
 V. Establecer, garantizar y divulgar del derecho de todas las mujeres a estar acompañadas por una persona de su confianza, durante el trabajo de parto y el postparto, con fines de apoyo psicológico.
 
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 51 BIS. Los servicios de salud a que hace referencia el artículo 29 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+###### ARTICULO 51.
+
+BIS. Los servicios de salud a que hace referencia el artículo 29 de la presente Ley, presentarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas deberán recibirla de manera prioritaria e inmediata, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2020)</small>
 
@@ -3595,9 +3611,17 @@ VII. Canalizar a los centros de atención médica a las personas agredidas, para
 
 VIII. El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios, o cuando éstos así lo soliciten;
 
-IX. Realizar las investigaciones y programas necesarios para el control de la rabia y de otras zoonosis, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-X. En coordinación con las autoridades municipales, capacitar al personal para la captura de animales agresores y callejeros.
+IX. Realizar las investigaciones y programas necesarios para el control de la rabia y de otras zoonosis;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+X. En coordinación con las autoridades municipales, capacitar al personal para la captura de animales agresores y callejeros, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XI. En caso de que los animales callejeros capturados cuenten con buena salud, y no sean reclamados por su propietario, serán esterilizados y podrán ser otorgados para su adopción a asociaciones protectoras de animales constituidas legalmente que lo soliciten, y que se comprometan a su cuidado y protección.
 
 ###### ARTICULO 322.
 
@@ -4710,5 +4734,13 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0816.- SE REFORMA (SIC) LOS ARTÍCULOS 91 EN SU FRACCIÓN I Y 96 EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1104.- SE REFORMA LOS ARTÍCULOS 25, 36, 51 BIS Y 321; Y ADICIONA A LOS ARTÍCULOS 25 Y 321 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
