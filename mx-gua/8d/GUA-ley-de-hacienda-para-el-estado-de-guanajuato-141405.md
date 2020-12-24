@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -137,19 +137,25 @@ XV. Pagos en bienes y servicios, incluyendo la casa habitación, además de aque
 
 XVI. Cualquier otra diferente a las señaladas en esta disposición que se entregue a cambio del trabajo personal subordinado, independientemente de la denominación que se le otorgue.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Sujetos obligados
 
 ###### Artículo 7.
 
-Son sujetos de este impuesto las personas físicas y morales que realicen erogaciones a que se refiere el artículo anterior, así como las unidades económicas cuando por su conducto se realicen los pagos referidos, cuando su domicilio o el de sus locales, establecimientos, agencias o sucursales, se ubique en el territorio del Estado o cuando el servicio se preste dentro del mismo.
+Son sujetos de este impuesto las personas físicas y morales que realicen erogaciones a que se refiere el artículo anterior, cuando su domicilio fiscal o el de sus locales, establecimientos, agencias o sucursales, se ubique en el territorio del estado o cuando el servicio se preste dentro del mismo.
+
+Así como las personas físicas, morales o unidades económicas cuando por su conducto se realicen las erogaciones a que se refiere el artículo anterior, cuando su domicilio o el de sus locales, establecimientos, agencias o sucursales, se ubique en el territorio del Estado o cuando el servicio se preste dentro del mismo.
 
 La Federación, el Estado, los Municipios, sus entidades paraestatales, paramunicipales, y los organismos autónomos, están obligados al pago de este impuesto.
 
-Están obligadas a retener y enterar este impuesto, las personas físicas, morales y unidades económicas que contraten la prestación de servicios de contribuyentes, cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición trabajadores, siempre que el servicio personal se preste en el territorio de esta Entidad Federativa.
+Están obligadas a retener y enterar este impuesto a más tardar el día veintidós del mes siguiente al que corresponda el impuesto, las personas físicas, morales y unidades económicas que reciban servicios de personas físicas o, morales o unidades económicas, cuyo domicilio esté ubicado fuera o dentro del territorio del estado, cuando pongan a disposición del contratante, personal que desempeñe sus funciones en las instalaciones del contratante o fuera de estas, estén o no bajo la dirección, supervisión, coordinación o dependencia del contratante, independientemente de la denominación que se le dé a la obligación contractual, siempre que el servicio se preste en el territorio de esta entidad federativa. El prestador de servicios determinará el impuesto a retener y lo desglosará en el Comprobante Fiscal Digital por Internet que para estos efectos expida.
 
-En estos casos, los sujetos obligados deberán entregar a la persona física o moral o unidad económica de que se trate, la constancia de retención correspondiente.
+Cuando el prestador de servicios tenga su domicilio fiscal dentro del territorio del estado y se encuentre inscrito ante el Registro Estatal de Contribuyentes, las personas físicas, morales y unidades económicas que hayan contratado la prestación de servicios de estos contribuyentes, podrán no retener el impuesto previa solicitud por escrito del prestador de servicios en la que manifieste que enterará la contribución por cuenta propia; circunstancia que deberá informarse al SATEG.
 
-Son responsables solidarios con los contribuyentes de este impuesto, las personas físicas y morales que contraten la prestación de servicios, cuando las prestadoras de servicios no cumplan con su obligación del pago del Impuesto Sobre Nóminas.
+En caso de que el prestador de servicios no determine el impuesto a retener, las personas físicas, morales y unidades económicas que contraten la prestación de servicios de contribuyentes, podrán tomar como base del impuesto a retener, el monto que establezca el Comprobante Fiscal Digital por Internet emitido por el prestador de servicios antes del Impuesto al Valor Agregado, multiplicado por el 90 por ciento.
+
+Los sujetos obligados deberán entregar a la persona física o moral o unidad económica de que se trate, la constancia de retención correspondiente.
 
 Base del impuesto
 
@@ -183,7 +189,9 @@ IX. Las prestaciones de servicio de comedor, bono de transporte, uniformes de tr
 
 X. Primas de seguros por gastos médicos o de vida;
 
-XI. Las despensas en dinero o en especie, cuando su monto no rebase el cuarenta por ciento del valor diario de la Unidad de Medida y Actualización; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XI. Los pagos de despensa ya sea en dinero, especie o vales, cuando su monto no rebase el 40 por ciento del valor diario de la Unidad de Medida y Actualización; y
 
 XII. Las cantidades otorgadas por el patrón para fines sociales o sindicales.
 
@@ -191,11 +199,13 @@ Para que los conceptos mencionados en las fracciones anteriores se excluyan de l
 
 Los excedentes del límite previsto en la fracción XI se integrarán a la base de cálculo de este impuesto.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Tasa del impuesto
 
 ###### Artículo 10.
 
-Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos.
+Este impuesto se determinará de acuerdo con la tasa del 3 por ciento.
 
 Causación del impuesto
 
@@ -303,7 +313,9 @@ Procedimiento de la determinación presuntiva
 
 El procedimiento para determinar presuntivamente el Impuesto Sobre Nóminas a pagar será el siguiente:
 
-I. La base determinada conforme al artículo anterior se multiplicará por la tasa aplicable prevista en la Ley de Ingresos, para el periodo o periodos calculados; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+I. La base determinada conforme al artículo anterior se multiplicará por la tasa prevista en el artículo 10 de la presente Ley, para el periodo o periodos calculados; y
 
 II. En caso de que el contribuyente hubiere realizado pagos por el periodo o periodos calculados, éstos se restarán al resultado obtenido en la fracción anterior.
 
@@ -315,7 +327,9 @@ Aplicabilidad del régimen simplificado del Impuesto sobre Nóminas
 
 Las personas que tributen en el Régimen de Incorporación Fiscal, al que hace referencia la Sección II, Capítulo II, Título IV de la Ley del Impuesto Sobre la Renta que efectúen pagos a los que se refiere el artículo 6 de esta Ley, podrán optar por pagar el Impuesto Sobre Nóminas conforme a lo siguiente:
 
-I. El impuesto se determinará por el producto del número total de personas por las que el contribuyente realizó erogaciones, por el salario mínimo vigente, por sesenta días. A dicho resultado se le aplicará la tasa establecida en la Ley de Ingresos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRARRO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+I. El impuesto se determinará por el producto del número total de las personas por las que el contribuyente realizó erogaciones, por el salario mínimo vigente, por sesenta días. A dicho resultado se le aplicará la tasa establecida en el artículo 10 de la presente Ley.
 
 Para la determinación de este impuesto, se considerará para el cómputo del número de personas que percibieron erogaciones aquellos que por lo menos hayan laborado treinta días con el sujeto obligado de este impuesto; y
 
@@ -343,7 +357,9 @@ II. Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en
 
 III. Por la realización de actividades empresariales:
 
-a) Régimen General; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+a) Del Régimen General, incluyendo los ingresos por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares;
 
 b) Régimen de Incorporación Fiscal;
 
@@ -399,11 +415,13 @@ Para los efectos de esta Sección se entenderá por ingresos por la prestación 
 
 Se entiende que los ingresos por la prestación de un servicio personal independiente, los obtiene en su totalidad quien presta el servicio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Normatividad supletoria del impuesto
 
 ###### Artículo 24.
 
-En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+En lo relativo a los ingresos, deducciones y pérdidas fiscales, se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y Capítulo II, Sección I, del Título IV de la Ley del Impuesto sobre la Renta.
 
 Presentación de declaración y pago
 
@@ -411,25 +429,39 @@ Presentación de declaración y pago
 
 Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el impuesto declarado.
 
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa del 5 por ciento.
 
 Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
 Contra el pago provisional determinado conforme a este artículo, se acreditan los pagos provisionales y, en su caso, el impuesto retenido del mismo ejercicio efectuados con anterioridad.
 
-Cuando los contribuyentes presten servicios profesionales a personas morales residentes en el Estado, éstas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa establecida para dicho tributo en la Ley de Ingresos, sin deducción alguna, dichas retenciones deberán reflejarse en el Comprobante expedido conforme a la legislación fiscal aplicable que emita la persona física sujeta a este impuesto y enterarse en el mismo periodo que se establece para el pago de este impuesto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Cuando los contribuyentes presten servicios profesionales a personas morales con domicilio fiscal dentro del territorio del Estado de Guanajuato, y aquéllos tengan domicilio fiscal dentro del mismo, la retención por parte de las personas morales a que hace referencia el presente artículo, se hará por el cincuenta por ciento del monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos, sin deducción alguna.
+Cuando los contribuyentes presten servicios profesionales a personas morales residentes en el Estado, éstas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa prevista en el párrafo segundo del presente artículo, sin deducción alguna.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Cuando los contribuyentes presten servicios profesionales a personas morales con domicilio fiscal dentro del territorio del estado de Guanajuato, y aquéllos tengan domicilio fiscal dentro del mismo, la retención por parte de las personas morales a que hace referencia el presente artículo, se hará por el 50 por ciento del monto que resulte de aplicar la tasa prevista en el párrafo segundo del presente artículo, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Las retenciones de los párrafos anteriores deberán reflejarse en el comprobante expedido conforme a la legislación fiscal aplicable que emita la persona física sujeta a este impuesto y enterarse en el mismo periodo que se establece para el pago de este impuesto.
 
 Las personas que efectúen las retenciones a que se refiere el presente artículo deberán presentar declaración a más tardar el día veintiocho de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. A la utilidad fiscal que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y, en su caso, el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. A la utilidad fiscal que se obtenga se le aplicará la tasa prevista en el párrafo segundo del presente artículo. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y, en su caso, el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
 Determinación y entero por la prestación eventual de servicios profesionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales dentro del territorio del Estado, cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán dentro de los quince días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
+Quienes en el ejercicio fiscal obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales dentro del territorio del Estado, cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa prevista en el párrafo segundo de artículo 25 de la presente Ley, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán dentro de los quince días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
 
 Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
 
@@ -479,17 +511,27 @@ Presentación de declaración y pago
 
 Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio correspondiente, mediante declaración, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago.
 
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, acreditándose el impuesto retenido durante el periodo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa del 5 por ciento, acreditándose el impuesto retenido durante el periodo.
 
 Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
 Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
 
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del Estado de Guanajuato, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al cincuenta por ciento del monto que resulte de aplicar la tasa establecida para dicho tributo en la Ley de Ingresos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de este impuesto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del estado de Guanajuato, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al 50 por ciento del monto que resulte de aplicar la tasa prevista en el párrafo segundo del presente artículo, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La retención deberá reflejarse en el comprobante expedido conforme a la legislación fiscal aplicable que emita la persona física sujeta a este impuesto y enterarse en el mismo periodo que se establece para el pago de este impuesto.
 
 Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración a más tardar el día veintiocho de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. A la utilidad fiscal que se obtenga, se le aplicará la tasa que establezca anualmente la Ley de Ingresos. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. A la utilidad fiscal que se obtenga, se le aplicará la tasa prevista en el párrafo segundo del presente artículo. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
 Obligaciones de los contribuyentes
 
@@ -517,15 +559,23 @@ Objeto y sujetos del impuesto
 
 Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que obtengan ingresos derivados de la realización de actividades empresariales.
 
-Cuando una persona física tenga establecimientos, sucursales o agencias, en dos o más Entidades Federativas, únicamente deberá pagar en este Estado el impuesto que corresponda. Para determinar el impuesto a que se refiere esta Sección, se deberá considerar la suma de la utilidad gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre éstos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Las personas físicas no residentes en el Estado que tengan uno o varios establecimientos permanentes en el mismo, pagarán el impuesto cedular en los términos de esta Sección por los ingresos atribuibles a los mismos, derivados de las actividades empresariales.
+Adicionalmente están obligadas al pago del impuesto establecido en esta Sección, los contribuyentes personas físicas con actividades empresariales que enajenen bienes o presten servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares que presten los servicios a que se refiere la fracción II del artículo 18-B de la Ley del Impuesto al Valor Agregado, por los ingresos que generen a través de los citados medios por la realización de las actividades mencionadas, incluidos aquellos pagos que reciban por cualquier concepto adicional a través de los mismos.
+
+Cuando una persona física tenga establecimientos, sucursales o agencias, en dos o más entidades federativas, únicamente deberá pagar en este estado el impuesto que corresponda. Para determinar el impuesto a que se refiere esta Sección, se deberá considerar la suma de la utilidad gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre éstos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Las personas físicas no residentes en el estado que tengan uno o varios establecimientos permanentes en el mismo pagarán el impuesto cedular en los términos de esta Sección por los ingresos atribuibles a los mismos, derivados de las actividades empresariales.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 Normatividad supletoria del impuesto
 
 ###### Artículo 33.
 
-En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales, y Capítulo II, Secciones I, II y III, del Título IV de la Ley del Impuesto sobre la Renta.
 
 Presentación de declaración y pago
 
@@ -535,7 +585,9 @@ Los contribuyentes a que se refiere el artículo 32 de esta Ley, efectuarán pag
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido.
 
-Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Al resultado que se obtenga se le aplicará la tasa del 5 por ciento.
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
@@ -543,13 +595,17 @@ Los pagos mensuales efectuados conforme a este artículo, también serán acredi
 
 Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. A la utilidad fiscal que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, mediante las formas y medios que para tal efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. A la utilidad fiscal que se obtenga se le aplicará la tasa prevista en el párrafo tercero del presente artículo. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, mediante las formas y medios que para tal efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 Régimen de Incorporación Fiscal
 
 ###### Artículo 35.
 
-Los contribuyentes que realicen exclusivamente actividades empresariales, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2'000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular.
+Los contribuyentes que realicen exclusivamente actividades empresariales, establecidas en el artículo 32, primer párrafo, de esta Ley, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2'000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular.
 
 Cálculo y Entero del Impuesto bajo el Régimen de Incorporación Fiscal
 
@@ -559,7 +615,9 @@ Los contribuyentes a que se refiere el artículo anterior, calcularán y enterar
 
 Para determinar el impuesto, los contribuyentes a que se refiere el artículo anterior considerarán los ingresos cuando se cobren efectivamente y deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos.
 
-A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa que establezca anualmente la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa prevista en el artículo 34, párrafo tercero de la presente Ley.
 
 El impuesto que se determine se podrá disminuir conforme a los porcentajes y de acuerdo al número de años que tengan tributando en el régimen previsto en el artículo 35, conforme a la tabla siguiente:
 
@@ -583,13 +641,83 @@ II. Llevar los libros, registros, documentación que establezcan las leyes fisca
 
 Tratándose de los contribuyentes a que se refiere el artículo 32 de esta Ley, deberán presentar sus declaraciones provisionales e informativa anual. Los contribuyentes que tributen conforme al artículo 35 deberán presentar sus declaraciones bimestrales.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Retención de los ingresos por plataformas
+
+###### Artículo 37-A.
+
+Los contribuyentes personas físicas con actividades empresariales a que hace referencia el artículo 32, segundo párrafo, de esta Ley, adicional a lo establecido en el artículo 34, se sujetarán a lo dispuesto en el presente artículo.
+
+El impuesto a que se refiere el párrafo anterior se pagará mediante retención que efectuarán las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el estado, así como las entidades o figuras jurídicas extranjeras que proporcionen, de manera directa o indirecta, el uso de las citadas plataformas tecnológicas, aplicaciones informáticas y similares.
+
+La retención se deberá efectuar sobre el total de los ingresos que efectivamente perciban las personas físicas por conducto de los citados medios a que se refiere el segundo párrafo de este artículo sin incluir el Impuesto al Valor Agregado. Esta retención tendrá el carácter de pago provisional. Al monto total de los ingresos mencionados se le aplicará las tasas de retención de conformidad con lo siguiente:
+
+I. Tratándose de prestación de servicios de transporte terrestre de pasajeros y de entrega de bienes la retención se hará por el 2.1 por ciento;
+
+II. Tratándose de prestación de servicios de hospedaje la retención se hará por el 4 por ciento; y
+
+III. Tratándose de enajenación de bienes y prestación de servicios la retención se hará por el 1 por ciento.
+
+Los contribuyentes que únicamente obtengan ingresos establecidos en el primer párrafo de este artículo y en el ejercicio inmediato anterior no hayan excedido de $300,000.00 de ingresos, podrán considerar la retención efectuada en términos del párrafo segundo de este artículo como pago definitivo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Obligaciones de los retenedores
+
+###### Artículo 37-B.
+
+Las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el estado, así como las entidades o figuras jurídicas extranjeras a que se refiere el artículo 37-A, segundo párrafo de esta Ley, tendrán las siguientes obligaciones:
+
+I. En el caso de residentes en el extranjero sin establecimiento permanente en el estado y de entidades o figuras jurídicas extranjeras, deberán cumplir con la obligación prevista en los siguientes incisos:
+
+a) Inscribirse en el Registro Estatal de Contribuyentes ante el SATEG. La inscripción en el registro se realizará dentro de los treinta días naturales siguientes contados a partir de la fecha en que se proporcionen por primera vez los servicios digitales a un receptor ubicado en territorio del estado;
+
+b) Designar ante el SATEG cuando se lleve a cabo la inscripción en el registro a que se refiere el inciso a, un representante legal y proporcionar un domicilio en territorio del estado para efectos de notificación y vigilancia del cumplimiento de las obligaciones fiscales;
+
+c) Tramitar su firma electrónica certificada, conforme a lo dispuesto por el artículo 35, octavo párrafo, del Código; y
+
+d) Enterar la retención mediante declaración electrónica a más tardar el día veintidós del mes siguiente a aquél en el que se hubiese efectuado.
+
+II. Proporcionar comprobantes fiscales a las personas físicas a las que se les hubiera efectuado la retención a que se refiere el artículo 37-A de esta Ley, en los que conste el monto del pago y el impuesto retenido, a más tardar dentro de los cinco días siguientes al mes en que se efectúe la retención, los cuales deberán estar acompañados de la información que señale el SATEG mediante disposiciones de carácter general.
+
+III. Proporcionar al SATEG la información, que se lista a continuación, de sus prestadores de servicios, en cuyas operaciones hayan actuado como intermediarios, aun cuando no hayan efectuado el cobro de la contraprestación:
+
+a) Nombre completo;
+
+b) Clave en el Registro Estatal de Contribuyentes;
+
+c) Clave única de registro de población;
+
+d) Domicilio fiscal;
+
+e) Institución financiera y clave interbancaria estandarizada en la cual se reciben los depósitos de los pagos; y
+
+f) Monto de las operaciones celebradas con su intermediación durante el período de que se trate por cada prestador de servicios.
+
+IV. La información deberá presentarse mensualmente a más tardar el día diez del mes siguiente al que se trate; y
+
+V. Conservar como parte de su contabilidad la documentación que demuestre que efectuaron la retención y entero del impuesto cedular correspondiente.
+
+Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las disposiciones de carácter general que para tal efecto emita el SATEG.
+
+El SATEG podrá incorporar al Registro Estatal de Contribuyentes, a los sujetos obligados en los términos de los artículos 37-A y el presente artículo, que tenga registrados el Servicio de Administración Tributaria, en términos de la colaboración en la materia.
+
 ###### Artículo 38.
 
 Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por la enajenación de bienes inmuebles que se ubiquen en el territorio del Estado de Guanajuato, con independencia de que el contribuyente tenga su domicilio fiscal fuera del mismo.
 
-Tratándose de exenciones, no se pagará el impuesto por enajenación de bienes inmuebles cuando se trate de venta de casa habitación de conformidad con el artículo 93, fracción XIX, inciso a de la Ley del Impuesto Sobre la Renta.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Tratándose de las deducciones, se estará a lo regulado por el artículo 43 de la Ley del Impuesto al Valor Agregado.
+Tratándose de exenciones, no se pagará el impuesto por enajenación de bienes inmuebles cuando se trate de enajenación de casa habitación y de derechos parcelarios, de conformidad con el artículo 93, fracciones XIX, inciso a y XXVIII de la Ley del Impuesto sobre la Renta, respectivamente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+En lo relativo a las deducciones del impuesto cedular, se atenderá a lo previsto en la Sección I del Capítulo IV y Capítulo X del Título IV, de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de personas físicas que obtengan ingresos derivados de la realización de actividades empresariales y a su vez por la enajenación de bienes inmuebles afectos a dichas actividades, estarán a lo dispuesto en la Sección IV de este Capítulo.
 
 Ingresos por enajenación de bienes inmuebles
 
@@ -619,23 +747,29 @@ b) En el acto en el que el fideicomitente ceda sus derechos si entre estos se in
 
 VII. La transmisión de dominio de un bien inmueble tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
 
-En los casos de permuta entre bienes inmuebles se considerará que hay dos enajenaciones y para efecto de la causación del presente impuesto se considerará como sujeto obligado el que obtenga el bien de mayor valor.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+En los casos de permuta entre bienes inmuebles se considerará que hay dos enajenaciones.
 
 Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no pueda determinarse la contraprestación, se atenderá al valor de avalúo practicado por persona autorizada por las autoridades fiscales.
 
 No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Base del impuesto
 
 ###### Artículo 40.
 
-La base gravable de este impuesto será el monto de la ganancia obtenida por la enajenación de inmuebles ya sea en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación de inmuebles, en términos de lo establecido en el artículo 39 de la presente Ley.
+La base gravable de este impuesto será el monto de la ganancia obtenida de la diferencia entre los ingresos por enajenación de bienes inmuebles ya sea en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación de inmuebles, en términos de lo establecido en el artículo 39 y las deducciones establecidas en el artículo 38, tercer párrafo de la presente Ley.
 
 Determinación y tasa del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 41.
 
-El pago de este impuesto se efectuará por cada una de las operaciones que realicen los sujetos obligados, de acuerdo a la tasa que se establezca en la Ley de Ingresos, y se enterará mediante declaración que se presentará dentro de los quince días hábiles siguientes a la fecha de enajenación.
+El pago de este impuesto se efectuará por cada una de las operaciones que realicen los sujetos obligados, de acuerdo a la tasa del 5 por ciento, y se enterará mediante declaración que se presentará dentro de los quince días hábiles siguientes a la fecha de enajenación.
 
 En el caso de operaciones consignadas en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad, calcularán y enterarán el impuesto a que se refiere esta Sección en las oficinas autorizadas mediante declaración que se presentará dentro de los quince días hábiles siguientes a la fecha en la que se firme la escritura.
 
@@ -667,11 +801,13 @@ Base del impuesto
 
 La base para el pago de este impuesto será el precio más alto que resulte entre el valor de la operación y el que fije el SATEG en las tablas de valores que anualmente autorice para este efecto, y que deberá expedir durante el primer trimestre del ejercicio fiscal, tomando como referencia los precios comerciales de compra que rijan entre los comerciantes del ramo, o el que determine el propio SATEG mediante avalúo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Causación y tasa del impuesto
 
 ###### Artículo 46.
 
-Este impuesto se causará y liquidará a la tasa que establezca anualmente la Ley de Ingresos, sobre la base gravable determinada conforme al artículo que antecede.
+Este impuesto se causará y liquidará a la tasa del 2 por ciento, sobre la base gravable determinada conforme al artículo que antecede.
 
 Presentación de declaración y pago
 
@@ -703,9 +839,11 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 Determinación del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 51.
 
-Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos sobre la base gravable, constituida por el monto total del ingreso obtenido por los premios correspondientes a cada boleto o billete entero, sin deducción alguna.
+Este impuesto se determinará de acuerdo con la tasa del 6 por ciento, sobre la base gravable, constituida por el monto total del ingreso obtenido por los premios correspondientes a cada boleto o billete entero, sin deducción alguna.
 
 Los organismos descentralizados, sus sucursales o expendios autorizados, a que se refiere el artículo 49 de esta Ley, retendrán el impuesto causado y lo enterarán al SATEG, mediante declaración mensual en el formato autorizado, que deberán presentar dentro de los quince días del mes siguiente a aquél al que corresponda el pago en la que se señalarán los datos relativos a la identificación de los premios pagados y el impuesto retenido en el territorio del Estado.
 
@@ -751,11 +889,13 @@ Para los efectos del párrafo anterior, el prestador del servicio de hospedaje d
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido será base del impuesto, el monto de los pagos que se reciban por cuotas, considerando únicamente el importe desglosado del servicio de hospedaje.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Determinación del impuesto
 
 ###### Artículo 55.
 
-Este impuesto se causará y liquidará, aplicando a la base gravable a que se refiere el artículo anterior, la tasa que establezca anualmente la Ley de Ingresos.
+Este impuesto se causará y liquidará, aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 4 por ciento.
 
 Causación de la contribución
 
@@ -973,9 +1113,33 @@ Determinación del impuesto
 
 El impuesto Sobre Tenencia o Uso de Vehículos se calculará como a continuación se indica:
 
-Todos los vehículos, incluidas motocicletas contarán con un monto exento de $500,000.00. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa correspondiente prevista en la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-En la aplicación de las tasas establecidas en la Ley de Ingresos, se tendrá como resultado, el impuesto causado en el año calendario en que el vehículo se considera como nuevo, como aquel que corresponde al año modelo, en los términos de las fracciones I, VI y VIII del artículo 63 de esta Ley. En los años posteriores a los antes señalados, el impuesto causado en el año de cálculo se obtendrá de multiplicar el monto obtenido de las fracciones anteriores por el factor que indica la siguiente tabla de disminución anual:
+Todos los vehículos, incluidas motocicletas contarán con un monto exento de $500,000.00. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa que le corresponda conforme a la siguiente tabla:
+
+Límite inferior Límite superior Tasa para aplicarse
+
+resultante de resultante de sobre el excedente
+
+disminuir al disminuir al valor al monto exento
+
+valor total del total del vehículo
+
+vehículo el el monto exento
+
+monto exento
+
+$0.01 $500,000.00 3 por ciento
+
+$500,000.01 $1,000,000.00 4 por ciento
+
+$1,000,000.01 $1,500,000.00 5 por ciento
+
+$l,500,000.01 En adelante 6 por ciento
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+En la aplicación de las tasas anteriores, se tendrá como resultado, el impuesto causado en el año calendario en que el vehículo se considera como nuevo, como aquel que corresponde al año modelo, en los términos de las fracciones I, VI y VIII del artículo 63 de esta Ley. En los años posteriores a los antes señalados, el impuesto causado en el año de cálculo se obtendrá de multiplicar el monto obtenido de las fracciones anteriores por el factor que indica la siguiente tabla de disminución anual:
 
 Año de Cálculo Factor Aplicable al Impuesto
 
@@ -1023,11 +1187,13 @@ Base del impuesto
 
 La base de este impuesto será el precio percibido por la venta final disminuyendo los impuestos al Valor Agregado y Especial sobre Producción y Servicios.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 Causación y determinación del impuesto
 
 ###### Artículo 73.
 
-Este impuesto se causará en el momento en el que efectivamente se perciban los ingresos y sobre el monto que de ellos se obtenga y se determinará de acuerdo a la tasa que se establezca en la Ley de Ingresos.
+Este impuesto se causará en el momento en el que efectivamente se perciban los ingresos y sobre el monto que de ellos se obtenga y se determinará de acuerdo a la tasa del 4.5 por ciento.
 
 No traslación del impuesto
 
@@ -1127,13 +1293,17 @@ Causas de excepción para el registro vehicular
 
 No se dará de alta ni se proporcionarán placas metálicas y tarjetas de circulación a vehículos de motor que se encuentren en los siguientes casos:
 
-I. No inscritos en el Registro Estatal de Vehículos, o no comprueben su inscripción;
+I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
 
-II. Aquéllos respecto de los cuales no se acredite haber cubierto los impuestos y derechos estatales que se causen;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
 
-III. Aquellos respecto de los cuales no se exhiba la documentación que acredite la propiedad o legítima posesión y, en su caso, el título, concesión o permiso para explotar el servicio público de transporte expedido en los términos de Ley; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-IV. Cuando los propietarios o legítimos poseedores tengan adeudos con el fisco del Estado de vehículos inscritos en el Registro Estatal de Vehículos, hasta que estos se hayan cubierto.
+III. Aquellos respecto de los cuales no se exhiba la documentación que acredite la propiedad o legítima posesión del vehículo a registrar; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+IV. Cuando los propietarios o legítimos poseedores tengan adeudos con el fisco del estado de vehículos inscritos en el padrón vehicular estatal, hasta que estos se hayan cubierto.
 
 Avisos en materia vehicular
 
@@ -1159,7 +1329,9 @@ VIII. Recuperación de vehículo robado; y
 
 IX. Baja ocasionada por destrucción o desarme.
 
-Los avisos anteriores se presentarán dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, mediante las formas o medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, con excepción del aviso de cambio de domicilio, el cual deberá de presentarse dentro de los treinta días siguientes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los avisos anteriores se presentarán dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, mediante las formas o medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
 
 Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el fisco del Estado y devolver las placas metálicas y tarjeta de circulación respectiva.
 
@@ -1207,11 +1379,9 @@ Actualización del pago de las contribuciones de mejoras por obras públicas
 
 Las personas físicas y las morales que usen las carreteras y puentes estatales de cuota en operación pagarán derechos conforme a las tarifas que al efecto establezca la Ley de Ingresos.
 
-Comunicación de la tarifa del peaje
-
 ###### Artículo 89.
 
-La Secretaría, deberá fijar en lugares visibles para los usuarios de las citadas vías de comunicación, la tarifa vigente para el pago de los derechos correspondientes por el uso de carreteras y puentes estatales de cuota. Asimismo, podrá proponer la celebración de convenios, y efectuar promociones para el pago de dichos derechos.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2020)
 
 Recaudación
 
@@ -1574,3 +1744,17 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 300 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto iniciará su vigencia el 1 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las tasas contenidas en el artículo 2 de la Ley de Ingresos del Estado de Guanajuato para el Ejercicio Fiscal de 2020 se mantendrán vigentes hasta el 31 de diciembre de 2020.
+
+La tasa del Impuesto sobre Nóminas contenida en el artículo 10, entrará en vigor el 1 de enero de 2022. Durante el ejercicio fiscal de 2021 se aplicará la tasa del 2.3 por ciento.
+
+Artículo Tercero. Las disposiciones de los artículos 37-A y 37-B contenidas en el presente Decreto entrarán en vigor el 1 de abril de 2021, periodo en el cual el Servicio de Administración Tributaria del Estado de Guanajuato, SATEG deberá emitir las disposiciones de carácter general acorde a lo establecido en el artículo 37-B y realizar las adecuaciones de tipo operativo.
