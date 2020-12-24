@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2020-08-20"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -301,7 +301,9 @@ II. Proveerse a su costa de protocolo y sello. Esta disposición no será aplica
 
 III. Registrar el sello, su firma y rúbrica o media firma, ante los organismos a que se refiere el segundo párrafo del artículo 27 de esta Ley; esta misma obligación tendrán que repetirla cada cinco años, para lo cual la Dirección del Notariado proveerá lo conducente;
 
-IV. Cubrir en efectivo u otorgar fianza personal o de compañía legalmente autorizada, a favor del Gobierno del Estado, por el término de un año, o bien constituir hipoteca, por la cantidad que resulte de multiplicar por quinientos el importe del salario mínimo general diario en el Estado, vigente en la fecha de la expedición de la misma. Dicha garantía deberá mantenerse vigente y actualizarse a su vencimiento cada año, modificándose en la misma forma en que se haya modificado en esa fecha el salario mínimo, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+IV. Cubrir en efectivo u otorgar fianza personal o de compañía legalmente autorizada, a favor del Gobierno del Estado, por el término de un año, o bien constituir hipoteca, por la cantidad que resulte de multiplicar por setecientos diez el importe de la Unidad de Medida y Actualización vigente en la fecha de la expedición de la misma. Dicha garantía deberá mantenerse vigente y actualizarse a su vencimiento cada año, modificándose en la misma forma en que se haya modificado en esa fecha la Unidad de Medida y Actualización, y
 
 V. Establecer la oficina para el desempeño de su cargo por lo que respecta a los titulares, iniciar funciones y dar aviso de dicha circunstancia al titular del Poder Ejecutivo del Estado y a la Secretaría del Colegio de Notarios.
 
@@ -1746,3 +1748,11 @@ P.O. 20 DE AGOSTO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1106.- SE REFORMA EL ARTÍCULO 31 EN SU FRACCIÓN IV, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
