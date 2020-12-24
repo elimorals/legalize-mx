@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-286-de-control-vehicular-para-el-estado-de-sonora-13
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2018-09-27"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 27 de septiembre de 2018.
 
@@ -127,6 +127,22 @@ XXXIV.- Vehículo Nuevo: todo aquel vehículo que es enajenado por primera ocasi
 
 XXXV.- Vehículo Usado: todo aquel no comprendido como vehículo nuevo.
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXVI.- Licencia de Conducir: Documento físico y/o digital expedido por la autoridad competente, que autoriza a personas a conducir vehículo, ambas tendrán la misma validez legal y se le aplicarán las mismas disposiciones jurídicas.
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXVII.- Agencias y/o Sub Agencias Fiscales: Centros de Atención al Contribuyente de la Secretaría.
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII.- Auto Antiguo: Vehículos que tienen un mínimo de treinta años contados a partir de su año modelo, que conserven sus características originales o cuenten con al menos un ochenta por ciento de sus partes originales y cumplan con las disposiciones de la Ley y el presente Reglamento.
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXIX.- Comprobante Fiscal de origen: es el comprobante fiscal emitido por primera vez donde se consigna la venta del vehículo.
+
 ###### ARTÍCULO 4.
 
 Para que un vehículo circule en territorio del Estado es obligatorio que cuente con los elementos de identificación vehicular vigentes o permiso para circular sin placas, ya sea que éstos sean emitidos por el Estado, por las demás Entidades Federativas o por la Federación.
@@ -219,7 +235,17 @@ V.- Recibo de pago de impuesto predial del ejercicio vigente; y
 
 VI.- Contrato de arrendamiento, adjuntando último recibo de pago que reúna requisitos fiscales.
 
-En todos los casos, el documento de que se trate deberá contener la Localidad y el Municipio del Estado, y no tener una antigüedad de expedición mayor a 3 meses.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+En todos los casos, el documento de que se trate deberá de contener la localidad donde radica y el municipio del Estado, deberá estar a nombre del interesado y no tener una antigüedad de expedición mayor a 3 meses.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Si el comprobante de domicilio es de una tercera persona se deberá comprobar la relación de parentesco con Acta de Nacimiento en caso de papá, mamá, hermano(a), hijo(a), abuelo(a) o Acta de Matrimonio en caso de cónyuge.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Si el comprobante de domicilio que presenta el contribuyente no está a su nombre pero el domicilio coincide con el de su identificación oficial, podrá utilizarlo sin necesidad de comprobar el vínculo familiar, adjuntando copias de INE y comprobante de domicilio al expediente del trámite a realizar.
 
 ## TÍTULO SEGUNDO
 
@@ -801,9 +827,11 @@ III.- Cuando se compruebe que el solicitante ha sido previamente calificado de c
 
 IV.- Cuando a juicio debidamente fundado de la autoridad correspondiente, represente un peligro para la seguridad o bienestar general, el que esa persona conduzca un vehículo de motor en la vía pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 43.
 
-Las licencias a que se refiere el artículo 37de (sic) esta Ley, serán expedidas por la Secretaría, en las formas oficiales impresas para el efecto y tendrán la vigencia que en las mismas se establezcan y contendrán:
+Las licencias a que se refieren los artículos 37 y 38 de esta Ley, serán expedidas por la Secretaría, en los formatos oficiales impresos y/o digitales, de conformidad con los lineamientos que la Secretaría para el efecto expida, y tendrán la vigencia que en las mismas se establezcan y contendrán:
 
 A) Nombre completo del conductor;
 
@@ -859,7 +887,7 @@ Z) Firma del conductor;
 
 AA) Código Qr;
 
-BB) Código PDF 417;
+BB) (DEROGADO, B.O. 24 DE DICIEMBRE DE 2020)
 
 CC) Código de barras; y
 
@@ -1118,3 +1146,21 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los treinta días del mes de julio del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
