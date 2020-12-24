@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2019-12-30"
+last_updated: "2020-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -195,11 +195,13 @@ I. 50% en razón directa al número de contribuyentes por Municipio que se tenga
 
 II. 50% en razón directa a la recaudación del impuesto predial y derechos por el suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Los municipios recibirán mensualmente los anticipos de este fondo.
 
-El fondo a que se refiere este artículo se distribuirá en forma trimestral, a los municipios, a través de pagos definitivos.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Adicionalmente, recibirán en forma trimestral las diferencias que se determinen, así como el ajuste anual del ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -536,3 +538,9 @@ b) El 50% restante entre todos los municipios, en razón proporcionalmente inver
 Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración pondrá a disposición de los municipios el convenio al que hace referencia el artículo 19 de la presente Ley para su firma en su caso, a más tardar el último día hábil del mes de enero de 2020.
 
 Artículo Quinto. Para los efectos del artículo 20 de la presente Ley, los recursos previstos en la fracción I se entenderán a los derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas, que recaude el Estado por obligaciones correspondientes al periodo del 1 de enero de 2020 y hasta la entrada en vigor de la Ley de Bebidas Alcohólicas para el Estado de Guanajuato y sus Municipios.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 5-A, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
