@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2020-01-30"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -117,11 +115,13 @@ En el supuesto de la administración por un tercero, persona física o moral al 
 
 La tasa del impuesto será del 2% sobre el valor de las contraprestaciones que los contribuyentes perciban por los servicios de hospedaje.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-El impuesto a que se refiere el presente Capítulo se calculará por mes de calendario. Los sujetos obligados realizarán el pago a más tardar el día 20 del mes siguiente a aquél en que se causó, mediante declaración mensual en las formas aprobadas por la Secretaría de Hacienda, que deberán presentar en la oficina recaudadora que corresponda al domicilio en donde se hayan proporcionado los servicios.
+El impuesto a que se refiere el presente Capítulo se calculará por mes de calendario. Los sujetos obligados realizarán el pago a más tardar el día 20 del mes siguiente a aquél en que se causó, mediante declaración mensual en las formas aprobadas por la Secretaría de Hacienda, que deberán presentar en la oficina recaudadora que corresponda al domicilio en donde se hayan proporcionado los servicios o mediante el portal implementado por la Secretaría de Hacienda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 El caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes, por los que se presentará una sola declaración.
 
@@ -129,7 +129,9 @@ El caso de que un contribuyente cuente con dos o más inmuebles para servicios d
 
 Tratándose de la administración por un tercero bajo cualquier modalidad o de los servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido, deberá presentar la declaración a que se refiere este artículo e informar al reverso de la misma los datos de sus contratantes.
 
-Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al Registro Estatal de Contribuyentes o de suspensión temporal de actividades.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes que dejen de causar este impuesto, presentarán ante la oficina recaudadora que le corresponda o mediante el portal implementado por la Secretaría, la declaración correspondiente sin impuesto a cargo, anotando "0" (cero) en el renglón o renglones de dicha declaración. Cuando el periodo de no causación excede de 6 meses deberá presentar el aviso de disminución o suspensión de obligaciones fiscales.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2309,6 +2311,10 @@ c) (DEROGADO, B.O. 24 DE DICIEMBRE DE 2018)
 
 d) (DEROGADO, B.O. 24 DE DICIEMBRE DE 2018)
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El beneficio establecido en la presente fracción, tendrá una vigencia de doce meses a partir de la contratación.
+
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
@@ -2383,9 +2389,9 @@ El otorgamiento del estímulo en el pago del impuesto a que se refiere el presen
 
 El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Se otorga un estímulo fiscal a las micros, pequeñas, medianas y grandes empresas establecidas en el Estado que hayan generado empleos en los últimos 12 meses, o que vayan a generar empleo en el ejercicio fiscal de que se trate, equivalente al 13.8% del Impuesto sobre Remuneraciones al Trabajo Personal que se cause, el cual se disminuirá contra el propio impuesto, en la misma declaración del período al que corresponda el pago, en ese sentido los impuestos estatales causados por el pago de este impuesto sobre Remuneración al Trabajo Personal serán determinados una vez aplicando el estímulo.
+Se otorga un estímulo fiscal a las micros, pequeñas, medianas y grandes empresas establecidas en el Estado que hayan generado empleos en los últimos 12 meses, o que vayan a generar empleo en el ejercicio fiscal de que se trate, equivalente al 13.8% del Impuesto sobre Remuneraciones al Trabajo Personal que se cause, el cual se disminuirá contra el propio impuesto, en la misma declaración del período al que corresponda el pago.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2419,9 +2425,7 @@ El beneficio fiscal establecido en el presente artículo se aplicará única y e
 
 El beneficio fiscal señalado en el presente artículo, no será acumulable con otras reducciones o estímulos relacionados con el Impuesto sobre las Remuneraciones al Trabajo del Personal, ni dará derecho a devolución o compensación alguna.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-Las empresas que no se ubiquen en los supuestos señalados en el presente artículo, podrán tener el presente beneficio, únicamente en el caso de que hayan realizado inversiones en activos fijos que representen un incremento de un 10% en el valor de los mismos, tomando como base para su cálculo, el valor de los activos al último día del ejercicio fiscal inmediato anterior y su aumento al último día del ejercicio fiscal siguiente, o bien que durante el ejercicio de que se trate realicen inversiones en activos fijos con las cuales vayan a incrementar el valor de los mismos en un 10% en comparación con el mismo mes del ejercicio anterior.
+> <small>(DEROGADO DÉCIMO SÉPTIMO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -3331,9 +3335,9 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Tercero Bis 2. Aportación Voluntaria para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos
+### Capítulo III Bis 2. Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos
 
-> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 292 Bis
 
@@ -3347,11 +3351,13 @@ La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Es
 
 El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Congreso del Estado, mediante el cual detalle el monto total de los recursos que le fueron transferidos por el Ejecutivo del Estado, a través de la Secretaría de Hacienda, por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior, así como el desglose de los conceptos en los cuales fueron erogados los recursos, precisando el concepto y el monto erogado en cada caso particular, anexando, además, la factura en PDF, XML y CFDI o cualquier otro formato de comprobación que mediante Reglas de Carácter General establezca la autoridad tributaria federal que justifique cada erogación hecha con dichos recursos. El informe deberá presentarse a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE MARZO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 292 Bis
 
-6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se podrá cobrar una aportación voluntaria con cargo al contribuyente, en caso de aceptarlo, por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
+6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se causará una cuota adicional en cantidad de $50.00 pesos por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
 
 Para los efectos del cobro de esta aportación voluntaria, únicamente habrá de incluirse en los servicios siguientes:
 
@@ -3361,27 +3367,31 @@ b).- Por revalidación de placas de circulación; y
 
 c).- Por expedición de licencias y permisos de conducir.
 
-> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ### Capítulo Cuarto. Otras Contribuciones
 
 ###### Artículo 292 Bis
 
-7.- No podrá recaudarse la aportación voluntaria a que se refiere este capítulo, en los pagos que se realicen por los siguientes conceptos:
-
-Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente, para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los consejos estatales o municipales, para la integración de las personas con discapacidad.
+7.- No causará la cuota adicional a que se refiere este capítulo, en los pagos que se realicen por los siguientes conceptos:
 
 > <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
 
+Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente, para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los consejos estatales o municipales, para la integración de las personas con discapacidad.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 292 Bis
 
-8.- Toda la recaudación que por concepto de esta aportación voluntaria se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
+8.- Toda la recaudación que por concepto cuota adicional se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
 
-De los recursos que se recauden por la presente aportación voluntaria en los municipios con población mayor a cien mil habitantes, el 100% se entregará a patronatos de los cuerpos de bomberos del ayuntamiento donde se originó el recurso.
+La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de los cuerpos de Bomberos correspondiente al ejercicio inmediato anterior.
 
-El 100% de los recursos recaudados en los municipios con población menor a cien mil habitantes se entregarán al cuerpo o cuerpos de bomberos del municipio donde se originó la recaudación.
+De los recursos que se recauden por la presente contribución, el 100% se entregará a patronatos de los cuerpos de bomberos de los ayuntamientos del Estado, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
 
 En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconocido, se procederá a la repartición del recurso económico de manera proporcional al número de elementos que integre cada cuerpo de bomberos.
+
+En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
 
 El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
 
@@ -3759,6 +3769,22 @@ y).- Boutique de cerveza artesanal de productores que tengan su principal establ
 
 z).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $90,000.00
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+aa).- Porteadora por aplicación $1,200.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+bb).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora Exento.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+cc).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora Exento.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+dd).- Centros de consumo $4,500.00
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
@@ -3858,6 +3884,14 @@ u).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricaci
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 v) Fábricas de producto vitivinícolas y sus derivados. $10,000.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+w).- Porteadora por aplicación $1.200.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+x).- Centros de consumo $4,500.00
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4042,6 +4076,18 @@ v).- Auto Servicio de Productos Típicos Regionales. $3,000.00
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 w).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación. $3,000.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+x).- Porteadora por aplicación $1,200.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+y).- Centros de consumo $4,500.00
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+IX.- Los giros Centro de evento o salón de baile y Centro deportivo o recreativo, cuyas licencias se encuentren en áreas rurales con un núcleo de población inferior a 10,000 habitantes, causarán el derecho por el pago de revalidación y canje del 20 por ciento del costo por revalidación y canje de las licencias del mismo giro que se encuentren en núcleos de población superior a 10,000 habitantes.
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -4263,15 +4309,19 @@ b).- Copia certificada $50.00
 
 Penales, por cada uno. $ 70.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-10.- Expedición de constancia de no adeudo fiscal o inscripción sin obligaciones en el Registro Estatal de Contribuyentes o bien de opinión de situación fiscal del contribuyente:
+10.- Expedición de constancia de no adeudo fiscal o inscripción sin obligaciones en el Registro Estatal de Contribuyentes:
 
-a).- Por expedición de constancia de no adeudo fiscal o inscripción sin obligaciones en el Registro Estatal de Contribuyentes $143.00
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-b).- Opinión sobre situación fiscal para fines de licitaciones estatales $240.00
+a).- Por expedición de constancia de no adeudo fiscal o inscripción sin obligaciones en el Registro Estatal de Contribuyentes $205.00
 
-Las Constancias a que se refiere este numeral tendrán una vigencia de treinta días naturales a partir de la fecha de emisión.
+b).- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La constancia a que se refiere este numeral tendrá una vigencia de treinta días naturales a partir de la fecha de emisión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4333,7 +4383,11 @@ c).- Permiso de Operación de Casa de Empeño. Gratuita
 
 d).- Reposición de la constancia de Permiso de Operación de Casa de Empeño, a petición del solicitante. $ 244.00
 
-e).- Revalidación trianual, que deberá solicitarse en los primeros cuatro meses del año de que se trate. Gratuita
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+e).- Revalidación trianual $385.00
+
+La revalidación trianual será gratuita si se tramita durante los primeros cuatro meses del año de que se trate.
 
 f).- Reposición de la constancia de revalidación trianual a petición del solicitante. $ 244.00
 
@@ -4391,11 +4445,11 @@ b).- Si el informe se remite fuera de la Ciudad de Hermosillo, Sonora $294.00.
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-7.- Por la recepción del protocolo notarial, que comprende libros y apéndices para su guarda y custodia, por cada uno de ellos ya sea por antigüedad o por cierre de Notaría $200.00
+7.- Por la recepción del protocolo notarial, que comprende libros y apéndices para su guarda y custodia, por cada uno de ellos ya sea por antigüedad o por cierre de Notaría $100.00
 
-A quienes entreguen los apéndices de los libros con apego a los lineamientos técnicos del empastado y encuadernado que emita la Secretaría de Gobierno, por conducto de la Dirección General de Notarías, se aplicará un estímulo del 50% sobre la tarifa base, en la recepción y guarda de los apéndices que integran los libros del protocolo notarial.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -5693,6 +5747,14 @@ matrimonio y defunción, causarán una cuota de: $860.00
 
 7.- Por la expedición de certificado de inexistencia respectivo, en las Oficialías del Registro Civil en el Estado. $115.00
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+8.- Por la búsqueda que se efectué para localización de deudor alimentario moroso $150.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+9.- Por la expedición de certificado de deudor alimentario moroso $150.00
+
 El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo estudio socioeconómico, podrá autorizar la exención de los derechos a que se refieren los puntos 1 y 6 de la fracción I de este artículo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
@@ -6351,9 +6413,7 @@ técnicos, universitarios y tecnológicos. $140.00
 
 14.- Registro de colegio de profesionistas. $3,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-15.- Registro de titulo profesional. Gratuito
+15.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -7065,6 +7125,10 @@ a).- Sin alumbrado. $350.00
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
+
 > <small>(ADICIONADA [N. DE E. CON SU NUMERAL E INCISOS], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 XI.- Arrendamiento del Teatro Auditorio del Colegio de Bachilleres del Estado de Sonora (COBACH).
@@ -7079,6 +7143,10 @@ c).- Máximo 12 horas por día. $18,000.00
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
+
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 XII.- Renta de Teatro de la Ciudad de la Casa de la Cultura.
@@ -7088,6 +7156,10 @@ XII.- Renta de Teatro de la Ciudad de la Casa de la Cultura.
 2.- Por hora adicional. $3,662.00
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
 XIII.- (DEROGADA, B.O. 27 DE DICIEMBRE DE 2019)
 
@@ -7147,6 +7219,10 @@ El costo estará sujeto al recurso que la Federación les asigne para la profesi
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
+
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 XV.- Fondo Estatal para la Modernización del Transporte (FEMOT).
@@ -7168,6 +7244,10 @@ b).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 c).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -7196,6 +7276,10 @@ Servicios de Peaje:
 En las casetas de cobro se publicarán a la vista de los usuarios los tarifarios con las tarifas vigentes que se autoricen por la Secretaría de Comunicaciones y Transportes y sean debidamente publicadas en los diarios y boletines oficiales respectivos.
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -7331,17 +7415,29 @@ f) 100% ................................................ $20,000.00
 
 *ICNAE: Índice de Cumplimiento Normativo Ambiental Estatal
 
-9.- Expedición y revalidación de licencias para la crianza y comercialización de perro, gastos (sic) y otros animales de compañía:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-a) Pequeño (10 a 20 jaulas, peceras y/o contendores) ...... $6,000.00
+9.- Expedición y revalidación de licencias para la crianza y comercialización de perros, gatos y otros animales de compañía:
 
-b) Mediana (11 a 20 jaulas, peceras y/o contendores) ..... $12,000.00
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-c) Grande (21 o más jaulas, peceras y/o contendores) ..... $20,000.00
+a) Pequeño (1 a 10 jaulas, peceras y/o contenedores) ...... $6,000.00
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+b) Mediana (11 a 20 jaulas, peceras y/o contenedores) ...... $12,000.00
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+c) Grande (21 o más jaulas, peceras y/o contenedores) ...... $20,000.00
 
 10.- Copia certificada de documentos que obran en los expedientes de la Procuraduría Ambiental del Estado de Sonora por hoja ..... $145.00
 
 11.- Copia simple de documentos que obran en los expedientes de la Procuraduría Ambiental por hoja ............................. $59.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -8218,3 +8314,19 @@ B.O. 27 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
