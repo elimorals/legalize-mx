@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-11-17"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -665,9 +665,15 @@ III. Cuando se compruebe que el solicitante tiene el hábito de consumir estupef
 
 Las licencias y placas para conducir expedidas por las autoridades de otros estados o países donde exista reciprocidad, tendrán la misma validez que las expedidas conforme a esta Ley, siempre y cuando sean oficiales.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 43.
 
-Los elementos de seguridad pública del Estado y los agentes de tránsito municipales, podrán retener licencias, tarjetas de circulación, placa, así como inmovilizar o arrastrar vehículos, en los casos previstos en esta Ley.
+Los elementos de seguridad pública del Estado, y los agentes de tránsito municipales, sólo podrán retener licencias, y/o tarjetas de circulación, así como inmovilizar o arrastrar vehículos, en los casos previstos en esta Ley.
+
+Sin perjuicio de lo anterior, no se podrán retener dichos documentos o inmovilizar o arrastrar vehículos, con la finalidad de conseguir la garantía del pago de una multa, salvo lo dispuesto por los artículos, 44, 46, y 87 de esta Ley.
+
+En ningún caso los elementos de seguridad pública del Estado y los agentes de tránsito municipales, podrán retener o quitar las placas de los vehículos.
 
 ### Capítulo III. De la Retención, Suspensión y Cancelación de las Licencias
 
@@ -675,11 +681,15 @@ Los elementos de seguridad pública del Estado y los agentes de tránsito munici
 
 Las licencias de conducir podrán retenerse en los siguientes casos:
 
-I. En la comisión de algún delito, siempre y cuando éste se configure o mantenga estrecho vínculo con el hecho de tránsito de que se trate;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-II. Cuando el conductor, siendo precedente (sic) de otro Estado o país, no garantice el cumplimiento del pago de las infracciones en que incurra, y
+I. En la comisión de algún delito, siempre y cuando éste se configure o mantenga estrecho vínculo con el hecho de tránsito de que se trate, y
 
-III. En los casos señalados en el reglamento de esta Ley, por infracciones en las vías estatales, y en los supuestos contenidos en reglamentos de tránsito municipales por infracciones cometidas dentro su territorio.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+II. Cuando el conductor, siendo procedente de otro Estado o país, no garantice el cumplimiento del pago de las infracciones en que incurra.
+
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 45.
 
@@ -705,17 +715,23 @@ Cuando se retenga una licencia se deberá proceder de la siguiente forma:
 
 I. Tratándose del supuesto previsto en la fracción I del artículo 44 de esta Ley, deberá remitirse al Ministerio Público del fuero común o federal, inclusive, en los términos que disponga la legislación de la materia. En este caso, la devolución de la licencia deberá hacerse por conducto de la autoridad ministerial correspondiente, y
 
-II. En los supuestos previstos en las fracciones II y III del artículo 44 de esta Ley, las licencias retenidas deberán ser remitidas de inmediato al área competente, para recibir el pago de la multa impuesta, conjuntamente con la boleta de infracción y sanción correspondiente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+II. En el supuesto previsto en la fracción II del artículo 44 de esta Ley, las licencias retenidas deberán ser remitidas de inmediato al área competente, para recibir el pago de la multa impuesta, conjuntamente con la boleta de infracción y sanción correspondiente.
 
 a) En este caso, la licencia se devolverá al conductor previo pago de la multa y, en su caso, los gastos que procedan.
 
-b) En caso de que el conductor impugne el levantamiento de la boleta de infracción y la multa impuesta, la licencia se devolverá al interesado cuando lo ordene la autoridad que conoce del recurso administrativo o del juicio contencioso administrativo, en los términos de esta Ley, o de la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-c) En caso de que la boleta de infracción y multa se hayan impugnado ante el Tribunal de lo Contencioso Administrativo del Estado, se podrá conceder la suspensión con efectos restitutorios a que se refiere el artículo 102 de la Ley de Justicia Administrativa del Estado de San Luis Potosí, para el efecto de que se devuelva la licencia al conductor, la que surtirá sus efectos hasta el momento en que se garantice el interés fiscal en los términos del artículo 105 de la citada Ley.
+b) En caso de que el conductor impugne el levantamiento de la boleta de infracción y la multa impuesta, la licencia se devolverá al interesado cuando lo ordene la autoridad que conoce del recurso administrativo o del juicio contencioso administrativo o de nulidad, en los términos de esta Ley, o del Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+c) En caso de que la boleta de infracción y multa se hayan impugnado ante el Tribunal Estatal de Justicia Administrativa, se podrá conceder la suspensión con efectos restitutorios a que se refiere el artículo 263 del Código Procesal Administrativo para el Estado de San Luis Potosí, para el efecto de que se devuelva la licencia al conductor, la que surtirá sus efectos hasta el momento en que se garantice el interés fiscal en los términos del citado Código.
 
 En el supuesto de que el conductor no cuente con licencia de conducir, se podrá retener la tarjeta de circulación.
 
-Lo anterior es sin perjuicio de lo dispuesto por el párrafo primero del citado artículo 105 de la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 47.
 
@@ -1177,9 +1193,9 @@ I. Multa, y
 
 II. Suspensión temporal o cancelación de los derechos derivados de licencias o permisos especiales para conducir vehículos de motor.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Si el infractor fuere jornalero, obrero o trabajador, sólo podrá ser sancionado con una multa que no exceda del importe de un salario mínimo diario vigente en la Entidad; en el caso de los trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+Si el infractor fuere jornalero, trabajador o persona no asalariada, sólo podrá ser sancionado con una multa que no exceda del importe de una vez la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
 
@@ -1347,19 +1363,21 @@ En su caso, las autoridades recaudadoras correspondientes, están obligadas a pr
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 99.
 
-Cuando la autoridad demandada en un juicio contencioso administrativo sea un elemento de seguridad pública del Estado, un agente de tránsito municipal, o bien un elemento operativo competente en los términos de los reglamentos municipales, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad a que se refieren los artículos 35 y 64 fracción I de la Ley de Justicia Administrativa del Estado de San Luis Potosí, será la credencial que se expida en los términos del artículo 34 de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
+Cuando la autoridad demandada en un juicio contencioso administrativo o juicio de nulidad sea un elemento de seguridad pública del Estado, un agente de tránsito municipal, o bien un elemento operativo competente en los términos de los reglamentos municipales, y el acto impugnado sea una boleta de infracción o documento con que se justifique la personalidad a que se refieren los artículos 219 y 220 del Código Procesal Administrativo para el Estado de San Luis, será la credencial que se expida en los términos del artículo 34 de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí, de la que deberán acompañar copia certificada por el titular de la corporación, o persona competente para certificar documentos.
 
 ## TITULO DECIMO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 100.
 
-Los interesados afectados por los actos y resoluciones de las autoridades administrativas, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán, a su elección, interponer el recurso de revisión previsto por esta Ley, o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+Los interesados afectados por los actos y resoluciones de las autoridades administrativas, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán, a su elección, interponer el recurso de revisión previsto por esta Ley, o intentar el juicio de nulidad ante el Tribunal Estatal de Justicia Administrativa.
 
 ###### ARTICULO 101.
 
@@ -1517,9 +1535,11 @@ Cuando haya de tenerse en cuenta nuevos hechos o documentos que no obren en el e
 
 No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 117.
 
-Contra la resolución que recaiga al recurso de revisión procede el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+Contra la resolución que recaiga al recurso de revisión procede el juicio de nulidad ante el Tribunal Estatal de Justicia Administrativa.
 
 ## TRANSITORIOS
 
@@ -1810,5 +1830,13 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0810.- SE REFORMA EL ARTÍCULO 36 EN SU FRACCIÓN III, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1105.- SE REFORMA LOS ARTÍCULOS 43, 44, 46, 84, 99, 100 Y 117; Y DEROGA DE LOS ARTÍCULOS 44 LA FRACCIÓN III Y 46 SU AHORA PÁRRAFO ÚLTIMO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
