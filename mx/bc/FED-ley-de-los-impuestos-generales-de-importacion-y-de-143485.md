@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2020-07-01"
+last_updated: "2020-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,6 +19,8 @@ issue_date: "2020-07-01"
 abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
+
+> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
@@ -60423,3 +60425,11 @@ SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerd
 Ciudad de México, a 29 de junio de 2020.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES
+
+> <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 24 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, EL DECRETO PARA EL APOYO DE LA COMPETITIVIDAD DE LA INDUSTRIA AUTOMOTRIZ TERMINAL Y EL IMPULSO AL DESARROLLO DEL MERCADO INTERNO DE AUTOMÓVILES, EL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL Y LOS DIVERSOS POR LOS QUE SE ESTABLECEN ARANCELES-CUPO”.]</small>
