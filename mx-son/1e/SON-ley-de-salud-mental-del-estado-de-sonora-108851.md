@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-mental-del-estado-de-sonora-108851"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-16"
-last_updated: "2019-06-19"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SON"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 16 de diciembre de 2013.
 
@@ -922,6 +922,12 @@ Los módulos de Atención en Salud Mental y el Sistema de Información, Vigilanc
 
 Las Unidades de Atención Ambulatoria Inmediata y las Unidades de Hospitalización de Corta Estancia deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante la vigencia de una declaratoria de emergencia, contingencia sanitaria, epidemiológica, desastre o cualquier otra medida urgente encaminada a la conservación de la vida, salud o supervivencia humana en general las obligaciones a que refiere la presente Ley, entre otras, la relativa al artículo 59 de este cuerpo normativo, se suspenderá hasta que exista un balance presupuestal que permita retomar su vigencia y ejecución.
+
 Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.
 
 SUFRAGIO EFECTIVO. NO REELECCION.
@@ -957,12 +963,6 @@ ROBERTO ROMERO LÓPEZ
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 9 DE JUNIO DE 2016.
-
-###### ARTÍCULO SÉPTIMO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-B.O. 19 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59, QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA”.]
 
@@ -1002,6 +1002,12 @@ El recurso humano, material y financiero de la Dirección General de Salud Menta
 
 Los derechos de los trabajadores de la Dirección General de Salud Mental y Adicciones serán respetados conforme a las disposiciones de la Ley del Servicio Civil del Estado de Sonora.
 
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 19 DE JUNIO DE 2019.
+
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 38, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA Y A LA LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES EN EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
@@ -1009,3 +1015,19 @@ Los derechos de los trabajadores de la Dirección General de Salud Mental y Adic
 El presente Decreto entrará en vigor el día 01 de enero de 2020, previa su publicación en el Boletín Oficial del Estado de Sonora.
 
 Con el objeto de dar cumplimiento a lo dispuesto en el presente Decreto, la Secretaría de Salud Pública deberá establecer los recursos suficientes dentro del proyecto de su presupuesto de egresos para el ejercicio fiscal 2020 y subsiguientes.
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
