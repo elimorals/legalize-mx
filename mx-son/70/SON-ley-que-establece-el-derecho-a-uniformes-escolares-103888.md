@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-el-derecho-a-uniformes-escolares-103888"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2015-01-26"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 26 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número 45 Secc. II del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -103,8 +101,34 @@ El ejercicio de los recursos asignados motivos de la presente Ley, se deberá de
 
 Se otorga un plazo de 90 días naturales a partir de la publicación de la presente ley para que el Poder Ejecutivo emita el reglamento correspondiente a que alude el artículo 7° de esta Ley.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO QUINTO.
+
+Durante la vigencia de una declaratoria de emergencia, contingencia sanitaria, epidemiológica, desastre o cualquier otra medida urgente encaminada a la conservación de la vida, salud o supervivencia humana en general las obligaciones a que refiere la presente Ley, entre otras, la relativa al artículo 3o. de este cuerpo normativo, se suspenderá hasta que exista un balance presupuestal que permita retomar su vigencia y ejecución.
+
+En el supuesto del párrafo anterior, se procurará dentro de los esquemas prioritarios de atención ante dichos supuestos de emergencia, la atención prioritaria de alumnas y alumnos, así como de la plantilla de maestras y maestros del sector educativo público.
+
 Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SUFRAGIO EFECTIVO, NO REELECCIÓN. Hermosillo, Sonora, 06 de noviembre de 2014.- C. LUIS ALEJANDRO GARCÍA ROSAS, DIPUTADO PRESIDENTE.- C. CARLOS E. NAVARRO LÓPEZ, DIPUTADO SECRETARIO.- C. JOSÉ L. VILLEGAS VÁSQUEZ, DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintisiete días del mes de noviembre del año dos mil catorce.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recauden con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 Bis-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
