@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2018-04-11"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -251,6 +251,10 @@ Los grupos anteriores comprenden los niveles de homólogo o cualquier otro equiv
 
 La Comisión autorizará los niveles, dentro de estos grupos, que serán de libre designación. Éstos no deberán cumplir con los requisitos de reclutamiento, selección y evaluación que establece este Estatuto y no formarán parte del Sistema.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
+Las plazas de los grupos a que se refiere este artículo y que se encuentren adscritas al Órgano Interno de Control del Instituto no formarán parte del Sistema y en consecuencia serán de libre designación por lo que no deberán cumplir con los requisitos de reclutamiento, selección y evaluación que establece este Estatuto.
+
 ###### Artículo 11.
 
 Los servidores públicos de libre designación y los trabajadores con plaza presupuestal de base del Instituto tendrán acceso a este Subsistema sujetándose a los procedimientos de reclutamiento, selección y nombramiento previstos en este ordenamiento y en sus disposiciones normativas.
@@ -399,9 +403,11 @@ Los programas de capacitación tendrán como propósito que los Servidores Públ
 
 La capacitación se integrará con cursos obligatorios y optativos que deberán estar vinculados a las funciones o necesidades de desarrollo del puesto. Los cursos deberán ser aprobados por los Servidores Públicos Profesionales de Carrera y su calificación formará parte de la evaluación para su permanencia en el Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Los Servidores Públicos Profesionales de Carrera para su inscripción en los programas de capacitación optativos con el fin de desarrollar su perfil profesional, deberán contar con la autorización del Titular de la Unidad Administrativa de su adscripción.
+Los Servidores Públicos Profesionales de Carrera para su inscripción en los programas de capacitación optativos con el fin de desarrollar su perfil profesional, deberán contar con la autorización del Titular de la Unidad Administrativa y Coordinación Estatal de su adscripción.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
@@ -413,11 +419,11 @@ El Instituto podrá celebrar convenios con instituciones educativas, centros de 
 
 El Instituto podrá también celebrar convenios de intercambio de Servidores Públicos Profesionales de Carrera con instituciones afines en el país o en el extranjero para llevar a cabo proyectos de investigación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Los Servidores Públicos Profesionales de Carrera que hayan obtenido una beca por parte de una Institución pública o privada, o que por su cuenta se paguen estudios de posgrado relacionados con su función, se les otorgarán las facilidades necesarias por el Titular de la Unidad Administrativa de su adscripción, siempre y cuando no sea en demérito de su desempeño laboral o de las actividades de la Unidad Administrativa en la se encuentran adscritos, asimismo, el Instituto, de acuerdo a la disponibilidad presupuestal, podrá apoyar mediante el otorgamiento de viáticos y pasajes dentro del Territorio Nacional a aquéllos que así lo soliciten y previa autorización del Titular de la Unidad Administrativa de su adscripción.
+Los Servidores Públicos Profesionales de Carrera que hayan obtenido una beca por parte de una Institución pública o privada, o que por su cuenta se paguen estudios de posgrado relacionados con su función, se les otorgarán las facilidades necesarias por el Titular de la Unidad Administrativa o Coordinación Estatal de su adscripción, siempre y cuando no sea en demérito de su desempeño laboral o de las actividades de la Unidad Administrativa o Coordinación Estatal en la que se encuentran adscritos, asimismo, el Instituto, de acuerdo a la disponibilidad presupuestal, podrá apoyar mediante el otorgamiento de viáticos y pasajes dentro del Territorio Nacional a aquéllos que así lo soliciten y previa autorización del Titular de la Unidad Administrativa o Coordinación Estatal de su adscripción.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -469,9 +475,11 @@ La aprobación de las evaluaciones del desempeño de manera satisfactoria o supe
 
 Los Estímulos.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-Para el otorgamiento de Estímulos a los Servidores Públicos Profesionales de Carrera, derivados de un desempeño destacado, la Comisión atendiendo el cumplimiento de las funciones y metas del Instituto, establecerá el tipo de evaluación y criterios que se requieran de acuerdo con el perfil del puesto, los métodos y procedimientos necesarios para ello, y fijará la periodicidad de la evaluación de acuerdo al cargo de los Servidores Públicos Profesionales de Carrera, sin menoscabo de la operación de las Unidades Administrativas.
+Para el otorgamiento de Estímulos a los Servidores Públicos Profesionales de Carrera, derivados de un desempeño destacado, la Comisión atendiendo el cumplimiento de las funciones y metas del Instituto, establecerá el tipo de evaluación y criterios que se requieran de acuerdo con el perfil del puesto, los métodos y procedimientos necesarios para ello, y fijará la periodicidad de la evaluación de acuerdo al cargo de los Servidores Públicos Profesionales de Carrera, sin menoscabo de la operación de las Unidades Administrativas o Coordinaciones Estatales.
 
 ###### Artículo 36.
 
@@ -635,13 +643,19 @@ III. Para ocupar temporalmente otra plaza dentro del Instituto.
 
 IV. Para realizar proyectos de investigación en Instituciones Académicas, Organismos Internacionales o Instituciones relacionadas con las actividades del Instituto, ya sea en el país o en el extranjero.
 
-Las licencias para resolver situaciones extraordinarias podrán otorgarse en cualquier momento y deberán ser aprobadas por el Titular de la Unidad Administrativa de adscripción. Esta licencia será sin goce de sueldo y no será mayor a seis meses.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
+Las licencias para resolver situaciones extraordinarias podrán otorgarse en cualquier momento y deberán ser aprobadas por el Titular de la Unidad Administrativa o Coordinación Estatal de adscripción. Esta licencia será sin goce de sueldo y no será mayor a seis meses.
 
 Las licencias por motivos académicos y para ocupar temporalmente otra plaza dentro del Instituto deberán ser aprobadas por la Comisión del Servicio Profesional de Carrera.
 
-Las licencias por motivos académicos sin beca se otorgarán sin goce de sueldo, sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos seis meses en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa de adscripción, no será mayor de un año y deberá ser aprobada por la Comisión.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
-Las licencias por motivos académicos con beca sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos un año en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa de adscripción y deberá ser aprobada por la Comisión.
+Las licencias por motivos académicos sin beca se otorgarán sin goce de sueldo, sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos seis meses en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa o Coordinación Estatal de adscripción, no será mayor de un año y deberá ser aprobada por la Comisión.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
+Las licencias por motivos académicos con beca sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos un año en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa o Coordinación Estatal de adscripción y deberá ser aprobada por la Comisión.
 
 Sólo se podrán autorizar al Servidor Público Profesional de Carrera en términos del Artículo 30 de este Estatuto, por un tiempo igual al que duren sus estudios de especialización.
 
@@ -793,11 +807,11 @@ II. Falte alguno de los requisitos señalados en los artículos 47, fracciones I
 
 III. Se promueva en contra de criterios de evaluación.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 49.
 
-El Titular de la DGARH a través de la Dirección de Servicio Profesional de Carrera, podrá solicitar a las unidades administrativas que hayan intervenido en los procesos a que se refieren el artículo 45, dentro del plazo de cinco días hábiles, rindan los informes que se estimen pertinentes, y remitan la documentación que obre en sus archivos, para resolver el recurso de que se trate. Una vez rendido el informe y cuando lo considere pertinente, la DGARH podrá solicitar a las Unidades Administrativas aclaraciones o información que resulte necesaria para resolver los recursos.
+El Titular de la DGARH a través de la Dirección de Servicio Profesional de Carrera, podrá solicitar a las Unidades Administrativas o Coordinaciones Estatales que hayan intervenido en los procesos a que se refieren el artículo 45, dentro del plazo de cinco días hábiles, rindan los informes que se estimen pertinentes, y remitan la documentación que obre en sus archivos, para resolver el recurso de que se trate. Una vez rendido el informe y cuando lo considere pertinente, la DGARH podrá solicitar a las Unidades Administrativas o Coordinaciones Estatales aclaraciones o información que resulte necesaria para resolver los recursos.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -871,9 +885,13 @@ La interposición del recurso de reconsideración, tendrá como efecto la suspen
 
 La resolución del recurso tendrá por objeto:
 
-I. Confirmar el resultado de la etapa impugnada y ordenar la reanudación del proceso; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
-II. Revocar el acto impugnado, con el efecto de modificar el resultado de la etapa correspondiente y ordenar la reanudación del proceso.
+I. Confirmar el resultado de la etapa impugnada y ordenar la reanudación del proceso;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
+II. Revocar el acto impugnado, con el efecto de modificar el resultado de la etapa correspondiente y ordenar la reanudación del proceso, y
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 11 DE ABRIL DE 2018)</small>
 
@@ -980,3 +998,11 @@ D.O.F. 11 DE ABRIL DE 2018.
 PRIMERO.- La reforma al presente Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los trámites que en el marco del Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía se encuentren en proceso de atención, serán concluidos conforme a las presentes reformas.
+
+D.O.F. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedarán a salvo los derechos laborales del personal adscrito al Órgano Interno de Control del Instituto que a la entrada en vigor del presente Acuerdo sea parte del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía, por lo que continuarán siendo parte del mismo.
