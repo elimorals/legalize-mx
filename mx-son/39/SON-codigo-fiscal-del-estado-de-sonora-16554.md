@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2020-01-30"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -124,6 +122,10 @@ La recaudación, administración, determinación y cobranza provenientes de todo
 Las autoridades fiscales del Estado de Sonora ejercerán su competencia en el territorio del Estado de Sonora, conforme lo precisa este Código, demás leyes, el Reglamento Interior de la Secretaría de Hacienda que expida el Gobernador del Estado y demás disposiciones jurídicas aplicables.
 
 La Administración Pública Estatal, centralizada y paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, de conformidad con las disposiciones de este Código y las Leyes de Hacienda del Estado y Municipal. Igual obligación tendrán los Municipios del estado cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Cuando las autoridades fiscales del Estado hayan celebrado convenio con los Municipios para la administración de contribuciones municipales, serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales municipales. En contra de los actos que realicen cuando actúen de conformidad con lo dispuesto en este párrafo, sólo procederán los recursos y medios de defensa que establezcan las leyes municipales.
 
 ###### ARTÍCULO 6º.
 
@@ -229,9 +231,33 @@ IX.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
 
 X.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-XI.- Los socios, accionistas o asociados, respecto de las contribuciones que se hubieran causado por la sociedad o asociación cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizado con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c), d) y e) de la fracción IV de este artículo;
+XI.- Los socios, accionistas o asociados, respecto de las contribuciones que se hubieran causado por la sociedad o asociación cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizado con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c), d) y e) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La responsabilidad solidaria a que se refiere el párrafo anterior se calculará multiplicando el porcentaje de participación que haya tenido el socio o accionista en el capital social suscrito al momento de la causación, por la contribución omitida, en la parte que no se logre cubrir con los bienes de la empresa.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La responsabilidad a que se refiere esta fracción únicamente será aplicable a los socios o accionistas que tengan o hayan tenido el control efectivo de la sociedad, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Se entenderá por control efectivo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+a) Imponer decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+b) Mantener la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+c) Dirigir la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -697,7 +723,9 @@ Tratándose del aviso a que aluden las fracciones IV y VI del artículo anterior
 
 Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
 
-I.- Llevarán los sistemas y registros contables que señale este Código;
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+I.- Llevarán los libros, sistemas y registros contables que señale este Código;
 
 II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
 
@@ -713,9 +741,9 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
-(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los libros, sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, estados de cuenta, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales, la que acredite sus ingresos y deducciones, y la que obliguen otras leyes.
 
 ###### ARTÍCULO 39.
 
@@ -995,9 +1023,9 @@ Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcion
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-I.- Constar por escrito en documento impreso o digital ambos con sello oficial.
+I.- Constar por escrito en documento impreso o digital.
 
 Tratándose de actos administrativos que consten en documentos digitales la notificación personal se hará por medios electrónicos y con la firma digital del funcionario competente.
 
@@ -1189,7 +1217,9 @@ V.- Proceder a la verificación física de toda clase de bienes, incluso durante
 
 VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
-VII.- Allegarse las pruebas necesarias para formular la querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la Secretaría de Finanzas, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público del fuero común, en los términos del Código Estatal de Procedimientos Penales;
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+VII.- Allegarse de las pruebas necesarias para formular la querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de las policías estatales; y la Secretaría de Hacienda, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público del fuero común, en los términos del Código Nacional de Procedimientos Penales;
 
 > <small>(REFORMADA PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1222,6 +1252,14 @@ f).- Si con motivo de la visita domiciliaria a que se refiere este artículo, la
 IX.- Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad o que sea obtenida a través de cualquier autoridad ya sea de carácter federal, estatal o municipal, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Las autoridades fiscales que estén ejerciendo algunas de las facultades previstas en las fracciones II, III y IX de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquel, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial, el oficio de observaciones o la resolución definitiva en el caso de revisiones electrónicas, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1285,11 +1323,17 @@ III. Al iniciarse la visita en el domicilio fiscal los visitadores que en ella i
 
 Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
+
 IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes para solicitarles practiquen otras visitas para comprobar hechos relacionados con las que estén practicando.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 57.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
 Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autoricen las disposiciones fiscales federales, deberán poner a disposición de los visitadores estatales el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
 
@@ -2269,9 +2313,19 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 100.
 
-La acción penal en los delitos fiscales a que se refiere este Código, prescribirá en tres años contados a partir del día en que la Secretaría de Finanzas tenga conocimiento del delito y del delincuente, y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito.
+El derecho a formular querella de la Secretaría de Hacienda precluye y, por lo tanto, se extingue la acción penal, en cinco años, que se computarán a partir de la comisión del delito. Este plazo será continuo y en ningún caso se interrumpirá.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La acción penal en los delitos fiscales prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala este Código para el delito de que se trate, pero en ningún caso será menor de cinco años.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Con excepción de lo dispuesto por los artículos 100 y 101, del Código Penal del Estado de Sonora, la acción penal en los delitos fiscales prescribirá conforme a las reglas aplicables previstas por dicho Código.
 
 ###### ARTÍCULO 101.
 
@@ -2517,6 +2571,10 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervinientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
+
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
@@ -2627,6 +2685,10 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Toda notificación personal, realizada con quien deba entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces la Unidad de Medida y Actualización vigente.
+
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 128.
@@ -2649,9 +2711,11 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la Secretaría de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 130.
 
-Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
+Los contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos previstos en los artículos 85 y 131 de este Código, en alguna de las formas siguientes:
 
 I.- Depósito de dinero en las instituciones de crédito autorizadas para tal efecto;
 
@@ -2662,6 +2726,10 @@ III.- Fianza otorgada por institución autorizada, la que no gozará de los bene
 IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
 V.- Embargo en la vía administrativa;
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+VI.- Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Hacienda.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -2699,13 +2767,23 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en deposito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenara su aplicación por la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 133.
 
-No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los quince días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiere intentado recurso administrativo o juicio. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aun cuando se trate de fianza otorgada por compañía autorizada.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de quince días siguientes a la fecha en que surta efectos su notificación. Si a más tardar al vencimiento de los citados plazos se acredita ante la autoridad ejecutora la impugnación realizada, mediante copia sellada del escrito en el que se hubiere intentado el juicio y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aun cuando se trate de fianza otorgada por compañía autorizada.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con la actualización y los recargos correspondientes. El procedimiento administrativo quedara suspendido hasta que se haga saber la resolución definitiva que hubiera recaído en el recurso o juicio.
+Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación previsto en este Código, no estará obligado a exhibir la garantía correspondiente, sino en su caso, hasta que sea resuelto el medio de defensa señalado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Para efectos del párrafo anterior, el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación; para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con la actualización y los recargos correspondientes.
 
 El procedimiento administrativo quedara suspendido hasta que se haga saber la resolución definitiva que hubiera recaído en el recurso o juicio.
 
@@ -3085,15 +3163,21 @@ b).- Bienes que ya reportaren cualquier gravamen real.
 
 #### Sección III. De la Intervención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 155.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaria, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 164, 165 y 166 de este Código. Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador.
 
 La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+El ejecutor podrá colocar sellos o marcas oficiales con los que se identifiquen los bienes embargados, lo cual se hará constar en el acta a que se refieren el segundo párrafo del artículo 152 de este Código.
 
 El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
 
@@ -4490,3 +4574,19 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 168, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, LA LEY DE HACIENDA DEL ESTADO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LA LEY QUE ESTABLECE EL DERECHO A UNIFORMES ESCOLARES GRATUITOS A ALUMNAS Y ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE NIVEL BÁSICO EN EL ESTADO DE SONORA, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA, EL DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SONORA, LA LEY DE EQUILIBRIO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2021, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 BIS-8 de la Ley de Hacienda del Estado.
