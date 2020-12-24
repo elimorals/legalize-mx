@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-139586"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2019-12-23"
-last_updated: "2020-07-29"
+last_updated: "2020-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139586&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-23"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Presupuesto publicado en el Número 247 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -518,51 +518,49 @@ Heroico Cuerpo de Bomberos 1,200,000,000
 
 SUMA ENTIDADES: 54,884,158,682
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-Conforme a la estimación de ingresos contemplada para el ejercicio 2020, las asignaciones presupuestales que se prevén para los Órganos de Gobierno importan la cantidad de 8,915,568,353 de pesos, y para los Órganos Autónomos la cantidad de 4,473,374,334 de pesos. La integración de dichas cantidades es la siguiente:
+Conforme a la estimación de ingresos contemplada para el ejercicio 2020, las asignaciones presupuéstales que se prevén para los Órganos de Gobierno importan la cantidad de 8,915,568,353 de pesos, y para los Órganos Autónomos la cantidad de 4,473,374,334 de pesos.
 
-ÓRGANOS DE GOBIERNO Y
+Derivado que se presenta una disminución en los ingresos de manera concurrente con la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), y con fundamento en el Artículo 23 Bis de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, se aprueba disminuir en 380,689,050.23 pesos la previsión para los Órganos de Gobierno; y en 16,233,211.83 pesos la previsión para los Órganos Autónomos.
 
-ÓRGANOS AUTÓNOMOS MONTO
+La integración aprobada de transferencias a los Órganos de Gobierno y Autónomos es la siguiente:
 
-SUMA ÓRGANOS DE GOBIERNO: 8,915,568,353
+ÓRGANOS DE GOBIERNO Y ÓRGANOS AUTÓNOMOS MONTO
 
-Congreso de la Ciudad de México 1,766,054,290
+SUMA ÓRGANOS DE GOBIERNO: 8,534,879,302.77
 
-Auditoría Superior 518,094,775
+Congreso de la Ciudad de México 1,766,054,290.00
 
-Tribunal Superior de Justicia 6,401,904,406
+Auditoría Superior 518,094,775.00
 
-Consejo de la Judicatura 229,514,882
+Tribunal Superior de Justicia 6,037,196,546.33
 
-SUMA ÓRGANOS AUTÓNOMOS: 4,473,374,334
+Consejo de la Judicatura 213,533,691.44
 
-Tribunal de Justicia Administrativa 515,046,942
+SUMA ÓRGANOS AUTÓNOMOS: 4,457,141,122.17
 
-Junta Local de Conciliación
+Tribunal de Justicia Administrativa 515,046,942.00
 
-y Arbitraje 470,989,790
+Junta Local de Conciliación y Arbitraje 462,524,631.67
 
-Comisión de Derechos Humanos 435,447,554
+Comisión de Derechos Humanos 435,447,554.00
 
-Instituto Electoral 1,275,479,792
+Instituto Electoral 1,275,479,792.00
 
-Tribunal Electoral 250,949,214
+Tribunal Electoral 243,181,160.50
 
-Universidad Autónoma de la
+Universidad Autónoma 1,342,012,682.00
 
-Ciudad de México 1,342,012,682
+Instituto de Transparencia, Acceso a la Información 183,448,360.00
 
-Instituto de Transparencia,
+Pública, Protección de Datos Personales y Rendición
 
-Acceso a la Información Pública,
+de Cuentas
 
-Protección de Datos Personales y
-
-Rendición de Cuentas 183,448,360
-
-SUMA ÓRGANOS DE GOBIERNO Y AUTÓNOMOS: 13,388,942,687
+SUMA ÓRGANOS DE GOBIERNO Y AUTÓNOMOS: 12,992,020,424.94
 
 ###### Artículo 11.
 
@@ -1089,3 +1087,13 @@ Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Para dar cumplimiento a lo dispuesto por el artículo Vigésimo Transitorio del presente Decreto, en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2021 que la Jefa de Gobierno de la Ciudad de México remita al Congreso de la Ciudad de México, se deberán identificar y diferenciar los rubros correspondientes a los montos del Presupuesto Participativo 2020 y 2021.
+
+G.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 10 DEL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2020".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La presente reforma es sin perjuicio de las adecuaciones presupuestarias autorizadas de forma previa por los Órganos de Gobierno y Órganos Autónomos.
