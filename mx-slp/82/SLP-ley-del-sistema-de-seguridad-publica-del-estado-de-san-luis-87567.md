@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-11-17"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1406,6 +1406,10 @@ Los aspirantes que ingresen a las instituciones de seguridad pública, deberán 
 ###### ARTICULO 80.
 
 El Gobierno del Estado debe contar con su Centro de Evaluación y Control de Confianza, el cual estará certificado de conformidad a la Ley General del Sistema de Seguridad Pública, y la presente Ley; en dicho centro se aplican las evaluaciones integrales de psicología, entorno social y económico, médico, toxicológico, y de polígrafo o diferenciado, al personal de seguridad pública. Su titular dependerá del Ejecutivo y será nombrado o removido por el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los resultados de los procesos de evaluación y los expedientes integrados serán confidenciales, salvo en aquellos casos en que deban presentarse por requerimiento de autoridades en procedimientos administrativos o judiciales.
 
 ###### ARTICULO 81.
 
@@ -2888,3 +2892,11 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1107.- SE ADICIONA AL ARTÍCULO 80 EL PÁRRAFO SEGUNDO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
