@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2020-12-18"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -369,6 +369,10 @@ El Estado establecerá un sistema de becas para las y los estudiantes de todos l
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural del país. La Ley establecerá la concurrencia de la Federación, entidades federativas, Municipios y demarcaciones territoriales de la Ciudad de México, para esos efectos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -2640,9 +2644,9 @@ XXIX-Ñ.- Para expedir leyes que establezcan las bases sobre las cuales la Feder
 
 XXIX-O.- Para legislar en materia de protección de datos personales en posesión de particulares.
 
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
-XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia de los que México sea parte;
+XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, así como en materia de formación y desarrollo integral de la juventud, cumpliendo con los tratados internacionales de la materia de los que México sea parte;
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -8679,3 +8683,13 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Congreso de la Unión deberá expedir, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Ley General en Materia de Movilidad y Seguridad Vial.
 
 Tercero.- El Congreso de la Unión deberá armonizar, en lo que corresponda, y en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor de la Ley a que se refiere el artículo anterior, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, de acuerdo con lo dispuesto en el presente Decreto y la referida Ley.
+
+D.O.F. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADOS LOS ARTÍCULOS 4o. Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUVENTUD”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión deberá expedir la Ley General en materia de Personas Jóvenes, en el plazo de un año, a partir de la publicación del presente Decreto.
+
+Tercero. Las Legislaturas de las entidades federativas, realizarán las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto, dentro de los 180 días siguientes a la expedición de la Ley General en materia de Personas Jóvenes.
