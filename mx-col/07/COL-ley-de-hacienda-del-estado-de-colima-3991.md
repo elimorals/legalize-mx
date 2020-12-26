@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2019-12-28"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1865,13 +1865,35 @@ a) Permiso de operación de transporte público:
 
 5.3.- Grúas de arrastre o salvamento 40.000
 
-b) Autorizaciones, permisos y renovaciones de permisos a Empresas de Redes de Acceso y Gestión de la Demanda de Transporte Público:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-1.- Autorización de operación de Empresas de Redes de Acceso y Gestión de la Demanda de Transporte Público (Hasta por cuatro años) 220.000
+b) Autorizaciones, permisos y prórrogas de permisos a empresas de redes de acceso y gestión de la demanda de transporte, para operar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas:
 
-2.- Permiso de operación de servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (Hasta por cuatro años) 30.000
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-3.- Renovación anual de permiso de operación de servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo 25.000
+1.- Pago de derechos por análisis, y en su caso, autorización del permiso de operación como empresa de redes de acceso y gestión de la demanda de transporte (hasta por cuatro años). 220.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+2.- Pago de derechos por análisis, y en su caso, autorización de la renovación del permiso de operación del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (hasta por un año). 30.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+3.- Pago de derechos por análisis, y en su caso, autorización de prórroga del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+4.- Pago de derechos por análisis, y en su caso, autorización del refrendo anual del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+La negativa del permiso de operación, su prórroga o la renovación, según sea el caso, implica la pérdida del pago de los derechos por el análisis y autorización del permiso de operación correspondiente. En caso de renovación, cancelación, suspensión o extinción del respectivo permiso de operación, el pago de derechos que se hubiere realizado no será reembolsable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+5.- Conforme a lo establecido en el artículo 177, así como de los artículos 63, párrafos 1 y 2, fracción VII, 176 párrafos 1 y 2, 183 párrafo 1, fracciones IX y X de la Ley de Movilidad Sustentable para el Estado de Colima, y los relativos en su correspondiente reglamentación, las empresas de redes de acceso y gestión de la demanda de transporte por cada viaje del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas realizado mediante la aplicación deberá aportar el 1.5% del total de los servicios al Fondo de Movilidad.
+
+La aportación que establece el anterior numeral 6, deberá cubrirse dentro de los 10 días siguientes al mes vencido en la forma y términos establecidos en la Ley de Movilidad Sustentable para el Estado de Colima o el Reglamento respectivo.
 
 c) Permisos de explotación de infraestructura de transporte;
 
@@ -4449,13 +4471,15 @@ urbanizar o construir varios lotes a la vez, el pago del derecho se
 
 realizará por cada lote.
 
-IX.- Por la inscripción de la constitución del patrimonio de la familia
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IX. Por la inscripción de la constitución del patrimonio de la familia
 
 y de las informaciones ad-perpetuam, se pagará la tasa del 0.3 %
 
 sobre el valor que resulte mayor entre el catastral y el de avalúo
 
-bancario, sin que el mínimo sea inferior a 6.000
+bancario, sin que el mínimo sea inferior a 0.00
 
 X.- Inscripción de compraventa de bienes muebles, sobre el valor
 
@@ -6600,3 +6624,11 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día 1º de enero d
 SEGUNDO.- Respecto del Fondo que se crea con motivo de la adición del numeral I BIS, del artículo 62 BIS 1, de la Ley de Hacienda para el Estado de Colima, el Poder Ejecutivo de la Entidad deberá informar al H. Congreso del Estado de Colima por conducto de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, durante el mes inmediato posterior al envío de manera trimestral de los ingresos generados y destinados al Fondo para la Modernización del Instituto para el Registro del Territorio del Estado de Colima, los montos correspondientes a esa transferencia.
 
 TERCERO.- Respecto del Fondo que se crea con motivo de la reforma al numeral 76, de la Ley de Hacienda para el Estado de Colima, el Poder Ejecutivo de la Entidad deberá informar al H. Congreso del Estado de Colima por conducto de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, durante los meses de febrero y agosto de cada ejercicio fiscal, los importes equivalente (sic) al 50% que se destinará al fondo especial para el fortalecimiento tecnológico, para capacitación del personal y actualizaciones que por ejercicio de las atribuciones y funciones que requiera la Dirección General de Ingresos, de la Secretaría de Planeación y Finanzas.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL ”DECRETO NÚM. 345 POR EL QUE SE REFORMA EL ARTÍCULO 55 B, FRACCIÓN V, INCISO B); ASÍ COMO LA FRACCIÓN IX, DEL ARTÍCULO 62 BIS 1, AMBOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día 01 del mes de enero del año 2021, previa su publicación en el Periódico Oficial “El Estado de Colima”.
