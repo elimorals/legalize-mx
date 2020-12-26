@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2018-10-31"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -145,7 +145,9 @@ VIII. El apoyo a la educación y capacitación para el trabajo de personas con c
 
 IX. La prevención de discapacidades y su rehabilitación en centros especializados;
 
-X. La orientación nutricional y la alimentación subsidiaria, a personas en vulnerabilidad, familias de escasos recursos y a población de zonas marginadas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+X. La orientación nutricional y la alimentación subsidiaria, a personas en vulnerabilidad, familias de escasos recursos y a población de zonas marginadas; así como estudiantes de nivel preescolar, primaria, secundaria y media superior de escuelas públicas a través de desayunos escolares de acuerdo a la disposición presupuestal.
 
 XI. La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
@@ -183,9 +185,9 @@ VI. Coordinar, evaluar y dar seguimiento a los servicios de asistencia social qu
 
 VII. Realizar investigaciones sobre las causas y efectos de los problemas de asistencia social;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-VIII. Celebrar convenios de colaboración con la Secretaría de Educación del Gobierno del Estado; la Comisión para la Administración de las Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas, el Organismo y los DIF Municipales, para emprender acciones coordinadas, a fin de lograr la permanencia en la institución escolar del alumno menor de edad;
+VIII. Celebrar convenios de colaboración con la Secretaría de Educación del Gobierno del Estado; la Comisión para la Administración de las Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas, el Organismo y los DIF Municipales, para emprender acciones coordinadas, a fin de lograr la permanencia en la institución escolar del alumno de niveles prescolar, primaria, secundaria y media superior;
 
 > <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1478,3 +1480,11 @@ P.O. 31 DE OCTUBRE DE 2018.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 412.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
