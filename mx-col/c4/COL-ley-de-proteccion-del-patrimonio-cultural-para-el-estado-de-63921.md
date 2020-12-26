@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-639
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-11"
-last_updated: "2016-11-22"
+last_updated: "2020-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE COLIMA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2008.
 
@@ -658,3 +660,23 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 380 POR EL QUE SE APRUEBA LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE COLIMA Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente Ley entrará en vigor, al día 1° de enero del 2021 posteriormente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Protección del Patrimonio Cultural para el Estado de Colima, aprobado mediante Decreto No. 377 el 07 de octubre de 2008, así también se derogan todas las disposiciones que se opongan a esta Ley.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría de Cultura contará con un término de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para integrar y publicar el Inventario del Patrimonio Cultural del Estado de Colima, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días hábiles, contados a partir de la entrada en vigor del presente decreto, para instituir un Comité de Información del Patrimonio Cultural del Estado.
+
+SEXTO. A partir del ejercicio fiscal 2022, se deberán hacer las previsiones y adecuaciones presupuestales necesarias, y en los subsecuentes, para el cumplimiento de las obligaciones establecidas en este Decreto.
+
+SÉPTIMO. Los bienes que se encuentren protegidos por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al Inventario del Patrimonio Cultural en los términos de la presente Ley.
+
+OCTAVO. Los Ayuntamientos del Estado, por conducto de sus respectivos cabildos, deberán expedir sus reglamentos respectivos, o realizar las reformas y adiciones conforme a la presente Ley, en su caso, en un plazo no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto.
