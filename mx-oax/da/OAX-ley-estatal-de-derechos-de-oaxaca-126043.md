@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2019-12-24"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -165,7 +165,7 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15; Y 26 DE DICIEMBRE DE 2020, PÁGINA 15.]</small>
 
 ###### Artículo 12.
 
@@ -259,7 +259,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 6; Y 26 DE DICIEMBRE DE 2020, PÁGINA 15.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -273,7 +273,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 6 A LA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 6 A LA 7; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 15 A LA 16.]</small>
 
 ###### Artículo 20.
 
@@ -325,7 +325,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 17 A LA 18.]</small>
 
-Los servicios públicos antes enlistados, se entenderán referidos a una toma o descarga, en tanto que las solicitudes se consideran por un solo trámite. Adicional a la cuota señalada en el inciso c) y d), se causará los derechos que resulten de la inspección, emitiendo el presupuesto para llevar a cabo los trabajos necesarios que se requieran para el otorgamiento del servicio solicitado.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINA 16.]</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Los servicios públicos antes enlistados, se entenderán referidos a una toma o descarga, en tanto que las solicitudes se considerarán por un solo trámite. Adicional a la cuota señalada en el inciso c), d) y e) se causarán los derechos que resulten de la inspección, señalando al solicitante el monto adicional que debe cubrir por concepto de derechos para llevar a cabo los trabajos necesarios que se requieran para el otorgamiento del servicio solicitado.
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 18.]</small>
 
@@ -357,11 +361,15 @@ No. Concepto Número de UMA
 
 Renovación
 
-I Expedición de títulos de
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-concesión para el
+I Expedición de títulos de concesión
 
-servicio público colectivo: 236.50 30.00
+para el servicio público de transporte
+
+de pasajeros en la modalidad
+
+colectivo: 236.50 30.00
 
 II Expedición de títulos de
 
@@ -369,39 +377,55 @@ concesión para el servicio
 
 público de taxi: 236.50 30.00
 
-III Expedición de títulos de
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-concesión para el servicio
+III Expedición de títulos de concesión
 
-público motocarro
+para el servicio público de transporte
 
-o mototaxi: 18.36 10.00
+de pasajeros en la modalidad individual
 
-IV Expedición de títulos de
+motorizado mototaxi: 18.36 15.00
 
-concesión para el servicio
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-público mixto: 198.00 23.00
+IV Expedición de títulos de concesión
 
-V Expedición de títulos de
+para la prestación del servicio público
 
-concesión para el servicio
+de pasajeros en la modalidad de
 
-público de carga general: 198.00 40.00
+colectivo foráneo: 198.00 23.00
 
-VI Expedición de permisos
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-para transporte especial: 23.00
+V Expedición de títulos de concesión
 
-VII Autorización para la
+para el servicio público de transporte
 
-transferencia de derechos
+en la modalidad de carga en general: 198.00 40.00
 
-entre particulares: 65.00
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VI Expedición de permisos para la
+
+prestación del servicio especial
+
+de transporte: 23.00
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VII Autorización para la transferencia
+
+y cesión de derechos de una
+
+concesión: 65.00
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 VIII Integración de expedientes
 
-administrativos: 6.00
+administrativos: 8.00
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -429,17 +453,29 @@ de vehículo de servicio
 
 público: 5.00
 
-XII Autorización anual de
-
-prórroga por antigüedad
-
-de vehículo de servicio
-
-público: 1.00
+XII (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
 
 XIII Expedición de permiso de
 
 ruta o ampliación: 103.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+XIV Autorización anual de prórroga
+
+por antigüedad de vehículo de servicio
+
+público de transporte en las modalidades:
+
+a) Colectivo, urbano, metropolitano,
+
+suburbano y foráneo. 10.00
+
+b)Taxi 8.00
+
+c) Mototaxi 5.00
+
+d) Carga 10.00
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -455,13 +491,13 @@ permisionarios u operadores del servicio
 
 público: 100.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 II Impartición de curso y expedición de
 
 constancias de capacitación
 
-a prestadores de servicios públicos. 5.00
+a prestadores de servicios públicos. 1.00
 
 III (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
@@ -505,9 +541,15 @@ IV Expedición de dictamen de
 
 modificación o ampliación de ruta: 5.00
 
-V Expedición y elaboración de
+V (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
 
-derroteros, por cada uno 2.00
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VI Elaboración y modificación de
+
+derroteros, itinerarios y rutas,
+
+por cada uno. 5.00
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -531,7 +573,7 @@ servicio del transporte público de pasajeros: 5.00
 
 V (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
-VI Asignación o reposición de código "QR": 5.00
+VI (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
 
 VII Expedición de tarjetón de tarifas
 
@@ -545,35 +587,67 @@ Artículo 28 E. Se causarán y pagarán derechos por los servicios públicos que
 
 No. Concepto Número de UMA
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 I Inscripción de concesionarios en el
 
-registro estatal de transporte: 22.50
+registro estatal de transporte: 5.43
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 II Inscripción de operadores del transporte
 
-en el registro estatal de transporte: 3.80
+en el registro estatal de transporte: 1.00
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 III Inscripción de vehículos del servicio
 
-público en el registro estatal de transporte: 7.50
+público en el registro estatal de transporte: 3.46
 
-IV Inscripción de red de rutas tratándose
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-del servicio público de transporte colectivo
+IV Inscripción de itinerarios, horarios y rutas,
 
-en el registro estatal de transporte: 18.60
+tratándose del servicio público de transporte
 
-V. Expedición de la constancia de
+colectivo en el registro estatal de transporte: 1.00
 
-inscripción en el Registro Estatal del
+V. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
 
-Transporte para concesionarios, operadores
+VI (DEROGADA, P.O. 26 DE DICIEMBRE DE 2020)
 
-de transporte público y de vehículos del
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-servicio público: 1.00
+VII. Reposición de holograma de vehículo del
 
-VI Uso de la plataforma electrónica 3.80
+servicio público, inscrito en el Registro
+
+Estatal de Transporte: 3.46
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Artículo 28 F. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia del servicio de transporte colectivo metropolitano CITYBUS OAXACA, de conformidad con las siguientes cuotas:
+
+No. Concepto Pesos
+
+l. Usuario por viaje origen destino dentro del Sistema
+
+a) Tarifa General $8.00
+
+b) Tarifa Estudiante $4.00
+
+c) Tarifa Tercera Edad $4.00
+
+d) Tarifa Persona con Discapacidad $4.00
+
+II. Unidad Número
+
+de UMA
+
+a) Expedición de Tarjeta de Prepago General 0.63
+
+b) Expedición de Tarjeta Prepago Personalizada 0.74
 
 ###### Artículo 29.
 
@@ -597,13 +671,17 @@ d) Dentro de los quince días hábiles siguientes a la fecha de haberse efectuad
 
 ###### Artículo 30.
 
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 30 Bis.
+
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de expedición de licencias, tarjetones, permisos y constancias, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS 17 A LA 18.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5; 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
-
-### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
+### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR DEL ESTADO DE OAXACA
 
 ###### Artículo 31.
 
@@ -611,7 +689,21 @@ Se causarán y pagarán derechos por los servicios públicos que se presten de c
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 26 DE DICIEMBRE DE 2020, PÁGINA 18.]</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 31 Bis
+
+Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas de la Casa de la Cultura Oaxaqueña, de conformidad con las siguientes cuotas:
+
+Concepto Número de UMA
+
+Por mes
+
+l. Aprovechamiento espacio de cafetería 37.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ### CAPÍTULO IX. SECRETARÍA DE DESARROLLO AGROPECUARIO, PESCA Y ACUACULTURA
 
@@ -626,6 +718,8 @@ Se causarán y pagarán derechos por los servicios públicos que se presten de c
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de atención social, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 19 A LA 20.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 18 A LA 19.]</small>
 
 ### CAPÍTULO X. SECRETARÍA DE FINANZAS
 
@@ -665,7 +759,7 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 20 A LA 21.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 20 A LA 21; Y 26 DE DICIEMBRE DE 2020, PÁGINA 19.]</small>
 
 ###### Artículo 37.
 
@@ -707,7 +801,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7; Y 24 DE DICIEMBRE DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7; 24 DE DICIEMBRE DE 2019, PÁGINA 8; Y 26 DE DICIEMBRE DE 2020, PÁGINA 19.]</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -917,7 +1011,7 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Coor
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; Y 24 DE DICIEMBRE DE 2019, PÁGINA 11.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; 24 DE DICIEMBRE DE 2019, PÁGINA 11; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 19 A LA 20.]</small>
 
 ###### Artículo 50.
 
@@ -1051,11 +1145,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen las
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 26 DE DICIEMBRE DE 2020, PÁGINA 20.]</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% y 100% sobre el importe total únicamente en los conceptos señalados en los incisos b), d), e), f), h), i), m) y n) de la fracción I y reinscripción; e incisos b) y d) de la fracción II y reinscripción, del presente artículo.
+Para los incisos b), c Bis), d), e), f) y l) de la fracción I; b), c Bis), d), de la fracción II; el Consejo Académico de cada Universidad, asignará y aplicará porcentajes de beca por servicios públicos que se realicen a los alumnos en los porcentajes del 25%, 50%, 75% y 100% de descuento.
 
 TRANSITORIOS:
 
@@ -1100,3 +1194,13 @@ PRIMERO. Publíquese en el presente Decreto en el Periódico Oficial del Gobiern
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1807.- MEDIANTE EL CUAL SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+Primero. El presente Decreto entrará en vigor el uno de enero de dos mil veintiuno.
+
+Segundo. Publíquese en (sic) el presente Decreto en el Periódico Oficial del Gobierno de Estado de Oaxaca.
+
+Tercero. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
