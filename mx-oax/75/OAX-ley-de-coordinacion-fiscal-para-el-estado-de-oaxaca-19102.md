@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2019-12-24"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -165,6 +165,10 @@ XI. De otros que determine la Ley de Coordinación, en las proporciones en que d
 
 Los Municipios, además de las Participaciones establecidas en la presente Ley recibirán directamente de la Federación las relativas al artículo 2º-A fracciones I y II de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Cuando sea aplicable el monto garantizado del ejercicio 2013 por lo que respecta a los fondos establecidos en las fracciones I, II, III, V, VI y VII, el importe mensual a distribuir para cada fondo, será aquella que se obtenga de dividir entre doce la cantidad total que cada municipio recibió por los mismos conceptos en el ejercicio 2013. Para ello será necesario que la operación se realice por cada uno de los fondos a que se refieren las fracciones señaladas en este párrafo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 6.
@@ -238,6 +242,10 @@ Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derecho
 La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
 
 Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 6E.- La participación que efectivamente reciba el Estado del Impuesto Sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, se distribuirá a los Municipios en una proporción del 20% dentro de los cinco días siguientes a aquel en que el Estado las reciba, con base en los coeficientes determinados para la distribución del Fondo General de Participaciones, señalados en el artículo 6 de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -994,3 +1002,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1806.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 5 Y EL ARTÍCULO 6E, A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA",]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiuno.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Respecto al artículo 6E que regula la participación que efectivamente reciba el Estado del Impuesto Sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, tendrá vigencia hasta la conclusión en los términos de lo establecido en el Acuerdo por el que se modifica el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Oaxaca, suscrito el 02 de abril de 2020, y publicado en el Diario Oficial de la Federación el 08 de mayo de 2020, y darán lugar a las participaciones que correspondan en los términos establecidos en dicho instrumento.
+
+CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente
