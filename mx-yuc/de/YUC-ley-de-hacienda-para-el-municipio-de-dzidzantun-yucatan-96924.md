@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -375,13 +375,11 @@ Las multas por infracciones a las disposiciones municipales sean éstas de cará
 
 DE LOS SALARIOS MÍNIMOS VIGENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-Cuando en la presente Ley se haga mención de las palabras “salarios” o “salarios mínimos” dichos términos se entenderán indistintamente como los (sic) unidades de medidas de actualización vigente, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, la unidad de medida de actualización que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción. Según decreto de fecha 27 de Enero del 2016 publicado en el Diario Oficial de la Federación (DOF) el Decreto por el que se declaran diversas disposiciones reformadas y adicionadas de la Constitución Política de los Estados Unidos Mexicanos (CPEUM) en materia de desindexación del salario mínimo que crea la nueva Unidad de Medida y Actualización (UMA).
+Cuando en la presente Ley se haga mención de las palabras "salarios" o "salarios mínimos" dichos términos se entenderán indistintamente como las unidades de medidas de actualización vigente, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, la unidad de medida de actualización que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción. Según decreto de fecha 27 de Enero del 2016 publicado en el Diario Oficial de la Federación (DOF) el Decreto por el que se declaran diversas disposiciones reformadas y adicionadas de la Constitución Política de los Estados Unidos Mexicanos (CPEUM) en materia de desindexación del salario mínimo que crea la nueva Unidad de Medida y Actualización (UMA).
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -1795,9 +1793,11 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2 % a la base señalada en el artículo 59 de esta Ley.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2.5 % a la base señalada en el artículo 59 de esta Ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
@@ -2725,13 +2725,15 @@ La base para determinar el monto de estos derechos, será el número de metros c
 
 DE LA TASA Y DEL PAGO
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 102.
 
 Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Locatarios fijos $ 50.00 mensuales.
+I.- Locatarios fijos 0.6 UMA por mes
 
-II.- Locatarios semifijos $ 50.00 diario.
+II.- Locatarios semifijos 1 UMA por día
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -2821,73 +2823,65 @@ Las licencias de funcionamiento que se expidan por cualquiera de los conceptos a
 
 Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 113.
 
 La tarifa que se cobrará para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, será la siguiente:
 
-> <small>(REFORMADA [N. DE E. CON SUS FRACCIONES], D.O. 29 DE DICIEMBRE DE 2018)</small>
+Concepto Expedición Revalidación
 
-CONCEPTO EXPEDICIÓN REVALIDACIÓN
+I.- Vinaterías o licorerías 600 UMAS 70 UMAS
 
-I.- Vinaterías o $50,000 $4,000
+II.- Expendios de cerveza 600 UMAS 70 UMAS
 
-licorerías
+III.- Supermercados con departamento
 
-II.- Expendios de $50,000 $4,000
+de licores 600 UMAS 70 UMAS
 
-cerveza
+IV.- Minisúper con venta de bebidas
 
-III.- Supermercados $50,000 $4,000
+alcohólicas 600 UMAS 35 UMAS
 
-con departamento de
+V.- Centros nocturnos y discotecas 600 UMAS 35 UMAS
 
-licores
+VI.- Cantinas y bares 600 UMAS 35 UMAS
 
-IV.- Minisúper con $50,000 $2,000
+VII.- Clubes sociales 600 UMAS 35 UMAS
 
-venta de bebidas
+VIII.- Salones de baile 600 UMAS 35 UMAS
 
-alcohólicas
+IX.- Restaurantes, hoteles y moteles 600 UMAS 35 UMAS
 
-V.- Centros nocturnos $50,000 $2,000
-
-y discotecas
-
-VI.- Cantinas y bares $50,000 $2,000
-
-VII.- Clubes sociales $50,000 $2,000
-
-VIII.- Salones de baile $50,000 $2,000
-
-IX.- Restaurantes, $50,000 $2,000
-
-hoteles y moteles
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114.
 
-Por el otorgamiento de los permisos para luz y sonido, bailes populares y verbenas se causarán y pagarán derecho de $ 300.00 por evento.
+Por el otorgamiento de los permisos para luz y sonido, bailes populares y verbenas se causarán, y pagarán derecho de 4 UMAS por evento.
 
 ###### Artículo 115.
 
 Por el otorgamiento de los permisos para cosos taurinos se causará y pagará el derecho de $ 10.00 por día, por cada uno de los palqueros.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 116.
 
 Todos los establecimientos, negocios y/o empresas en general, sean estas comerciales, industriales, de servicios, o cualquier otro giro, que no estén relacionadas con la venta de bebidas alcohólicas, deberán:
 
-(VÉASE ARCHIVO ANEXO)
+I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente autorización del uso del suelo y funcionamiento, este deberá ser cubierto hasta 30 días posteriores al inicio de actividades.
+
+II.- Pagar anualmente el derecho correspondiente a la renovación dentro de los primeros 60 días de cada año.
+
+III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasada en Unidad de Medida y Actualización (UMA) para su cobro.
+
+> <small>[N. DE E. VÉANSE CUADROS EN EL D.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 12 A LA 14.]</small>
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 117.
 
-Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipos para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de $ 25,000.00.
+Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipos para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de 300 UMA´s.
 
 ###### Artículo 118.
 
@@ -2925,29 +2919,37 @@ cuadrados por cada metro cuadrado o fracción 1 S.M mensual
 
 ### CAPÍTULO IX. Derechos por Servicio de Panteones
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 122.
 
-los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
+Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Inhumaciones en fosas y criptas ADULTOS:
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-a) Por temporalidad de 3 años $ 500.00
+I.- Inhumaciones en fosas y criptas:
 
-b) Adquirida a perpetuidad $ 2,750.00
+a) Por temporalidad de 3 años 51.8 UMAS
 
-c) Refrendo por depósitos de restos a 3 años $ 250.00
+b) (DEROGADO, D.O. 26 DE DICIEMBRE DE 2020)
 
-En las fosas o criptas para niños, las tarifas aplicadas a cada uno de los conceptos serán el 50% de las aplicadas para adultos.
+c) (DEROGADO, D.O. 26 DE DICIEMBRE DE 2020)
 
-II.- Permiso de construcción de cripta o bóveda en los (sic) $ 250.00
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-III.- Exhumación después de transcurrido el término de Ley. $ 250.00
+II.- Permiso de construcción de cripta o bóveda en los Panteones 3 UMAS
 
-IV.- A solicitud del interesado anualmente por mantenimiento
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-se pagará $ 50.00
+III.- Exhumación después de transcurrido el término de Ley. 3 UMAS
 
-V.- Por cada año adicional ya transcurrido el periodo de temporalidad de tres años se pagará la cantidad de: $ 300.00
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IV.- Anualmente se pagara una cuota por mantenimiento de: 1 UMA
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+V.- Por cada año adicional ya transcurrido del periodo de temporalidad de tres años se pagará la cantidad de: 17.3 UMAS, sin que este pueda exceder de 6 años.
 
 ### CAPÍTULO X. Derechos por Servicios de Vigilancia
 
@@ -4049,7 +4051,11 @@ MAN_ANP
 
 ### CAPÍTULO ÚNICO. De los Sujetos
 
-Artículo 127 (SIC).- Son sujetos obligados al pago de las contribuciones de mejoras las personas físicas o morales que sean propietarios, fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier título de los predios beneficiados con obras realizadas por el Ayuntamiento, sin importar si están destinados a casa-habitación, o se trate de establecimientos comerciales, industriales y/o de prestación de servicios.
+> <small>(REFORMADO SU NÚMERO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 128 Bis.
+
+Son sujetos obligados al pago de las contribuciones de mejoras las personas físicas o morales que sean propietarios, fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier título de los predios beneficiados con obras realizadas por el Ayuntamiento, sin importar si están destinados a casa-habitación, o se trate de establecimientos comerciales, industriales y/o de prestación de servicios.
 
 Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
 
@@ -4061,7 +4067,11 @@ En el caso de edificios sujetos a régimen de propiedad en condominio, el import
 
 DE LA CLASIFICACIÓN
 
-Artículo 128 (Sic).- Las contribuciones de mejoras se pagarán por la realización de obras públicas de urbanización consistentes en:
+> <small>(REFORMADO SU NÚMERO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 128 Ter.
+
+Las contribuciones de mejoras se pagarán por la realización de obras públicas de urbanización consistentes en:
 
 I.- Pavimentación;
 
@@ -4084,6 +4094,8 @@ DEL OBJETO
 El objeto de la contribución de mejoras, es el beneficio diferencial que obtengan todos los bienes inmuebles que colinden con las obras y servicios de urbanización mencionados en el artículo anterior, llevados a cabo por el Ayuntamiento.
 
 DE LA CUOTA UNITARIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 130.
 
@@ -4167,9 +4179,11 @@ Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efe
 
 DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCIÓN
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 138.
 
-El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza y que dependa (sic) de él más de tres personas y devengue un ingreso no mayor a dos salarios mínimos vigentes en el Estado de Yucatán.
+El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza y que dependan de él más de tres personas y devengue un ingreso no mayor a dos salarios mínimos vigentes en el Estado de Yucatán.
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
@@ -4193,7 +4207,9 @@ DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
 Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio se llevarán a cabo conforme a la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-A que el (sic) arrendamiento de bienes se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+El arrendamiento de bienes que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
@@ -4279,13 +4295,15 @@ d) Gastos del certificado de libertad de gravamen.
 
 DE LA DISTRIBUCIÓN
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 152.
 
 Los gastos de ejecución mencionados en los artículos 150 y 151 de esta Ley, no serán objeto de exención, disminución, condonación o convenio.
 
 El importe corresponderá a los empleados y funcionarios de la Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
 
-Para el caso de que el ingreso por gastos de ejecución, fueren generados (sic) en el cobro de multas federales no fiscales:
+Para el caso de que el ingreso por gastos de ejecución, fueran generados (sic) en el cobro de multas federales no fiscales:
 
 .10 Tesorero Municipal.
 
@@ -4305,7 +4323,7 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 .20 Notificadores.
 
-.45 Empleados del Departamento Generados (sic).
+.45 Empleados del Departamento en el que se generó.
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
@@ -4422,3 +4440,9 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO".]
+
+Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
