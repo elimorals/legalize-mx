@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2019-12-27"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -60,9 +60,11 @@ El Ayuntamiento de Temax, Yucatán, para cubrir los gastos de su administración
 
 Aportaciones e ingresos extraordinarios que se establecen en esta Ley y en la Ley de Ingresos, en términos de lo dispuesto en la Constitución Política y en la Ley de Gobierno de los Municipios, ambas del Estado de Yucatán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Las (sic) Ley de Ingresos del Municipio de Temax, Yucatán, tendrá una vigencia anual, que iniciará el día uno de enero y concluirá el treinta y uno de diciembre de cada ejercicio fiscal.
+La Ley de Ingresos del Municipio de Temax, Yucatán, tendrá una vigencia anual, que iniciará el día uno de enero y concluirá el treinta y uno de diciembre de cada ejercicio fiscal.
 
 Cuando no se expida la Ley de Ingresos para el ejercicio fiscal que corresponda, continuará vigente la del ejercicio fiscal inmediato anterior.
 
@@ -134,11 +136,13 @@ c) Hipoteca.
 
 d) Prenda.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Respecto de la garantía prendaría, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 Unidades de Media (sic) y Actualización vigentes, al momento de la determinación del crédito.
+Respecto de la garantía prendaría, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 Unidades de Medida y Actualización vigentes, al momento de la determinación del crédito.
 
-En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen (sic) en el Código Fiscal de la Federación y el reglamento de dicho Código.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que se fijen en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
 ### CAPÍTULO V. De las Autoridades Fiscales
 
@@ -1394,7 +1398,9 @@ II.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2018)
 
 III.- Por cada permiso de remodelación 2 días de salario mínimo vigente por M2
 
-IV.- Por cada permiso (sic) ampliación 2 días de salario mínimo vigente por M2
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IV.- Por cada permiso de ampliación 2 días de salario mínimo vigente por M2
 
 V.- Por cada permiso de demolición 2 días de salario mínimo vigente por M2
 
@@ -1410,7 +1416,9 @@ X.- Licencia de uso del suelo 2 días de salario mínimo vigente
 
 XI.- Inspección para el otorgamiento del permiso que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones así como ocupar la vía pública para instalaciones provisionales 2 días de salario mínimo vigente
 
-Quedaría (sic) exentos de pago (sic) este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Quedaran exentos de pago de este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
 
 ###### Artículo 92.
 
@@ -1426,7 +1434,9 @@ III.- La construcción de aceras, fosas sépticas, pozos de absorción, resanes,
 
 El Tesorero Municipal a solicitud escrita del Director de Desarrollo Urbano o del Titular de la Dependencia respectiva, podrá disminuir la tarifa a los contribuyentes de ostensible pobreza, que tengan dependientes económicos. Se considera que el contribuyente es de ostensible pobreza, en los casos siguientes:
 
-I.- Cuando el ingreso familiar del contribuyente es inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitando (sic) de la disminución del monto del derecho, tenga algún dependiente económico.
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+I.- Cuando el ingreso familiar del contribuyente es inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitante de la disminución del monto del derecho, tenga algún dependiente económico.
 
 II.- Cuando el ingreso familiar del contribuyente no exceda de 2 veces el salario mínimo vigente en el Estado de Yucatán y los dependientes de él sean más de dos.
 
@@ -1476,9 +1486,13 @@ IV.- Peso en básculas: 5 UMA Vigente, por cabeza de ganado
 
 V.- Inspección fuera del rastro: 5 UMA Vigente, por cabeza de ganado
 
-La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Temax, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren (sic) por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez Unidades de Medida y Actualización vigentes, por pieza de ganado introducida o su equivalente.
+La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Temax, Yucatán, deberán pasar por la misma. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En el caso de las personas que realicen la introducción de carne en los términos del párrafo anterior, omitieran la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de 1 a 10 Unidades de Medida y Actualización vigentes, por pieza de ganado introducida o su equivalente.
 
 En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
@@ -1730,15 +1744,27 @@ Son sujetos de este derecho las personas físicas o morales que, soliciten y rec
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Por la renta de una fosa en el cementerio (10 años) $ 5,000.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-II.- Por empadronamiento $ 65.00
+I.- Por el derecho de uso de bóvedas
+
+o fosas en los panteones municipales:
+
+a) Uso temporal a tres años: $3,000.00
+
+b) Uso a perpetuidad: $8,000.00
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+II.- Por el derecho de uso a perpetuidad
+
+de osario o cripta en los panteones municipales: $3,000.00
 
 III.- Por uso de fosa común $ 100.00
 
 IV.- Cambio de concesionario $ 1,500.00
 
-V.- Por construcción y remodelación (Por cada permiso)$ 120.00
+V.- Por construcción y remodelación (Por cada permiso) $ 120.00
 
 VI.- Por inhumación $ 200.00
 
@@ -1754,9 +1780,15 @@ b) Por exhumación $ 165.00
 
 c) Por uso de la fosa común $ 60.00
 
-X.- Permiso para construcción de osario $ 150.00
+X.- (DEROGADA, D.O. 26 DE DICIEMBRE DE 2020)
 
-XI.- Por permiso adicional de un año $ 300.00
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+XI.- Por renovación del permiso de uso temporal
+
+de bóvedas o fosas en los panteones municipales,
+
+hasta por un año más: $300.00
 
 ### CAPÍTULO IX. Derechos por Servicios de Vigilancia
 
@@ -1782,9 +1814,11 @@ El pago de este derecho se hará al momento de solicitar el servicio.
 
 ### CAPÍTULO X. Otros Servicios Prestados por el Ayuntamiento
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 123.
 
-Son objeto de este derecho, los servicios prestados por las autoridades municipales, por la expedición (sic) certificados, constancias, derechos para participar en licitaciones y de la venta de formas oficiales impresas, que se realicen en las distintas oficinas o dependencias municipales.
+Son objeto de este derecho, los servicios prestados por las autoridades municipales, por la expedición de certificados, constancias, derechos para participar en licitaciones y de la venta de formas oficiales impresas, que se realicen en las distintas oficinas o dependencias municipales.
 
 ###### Artículo 124.
 
@@ -1896,7 +1930,9 @@ Son sujetos obligados al pago de las contribuciones de mejoras las personas fís
 
 Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
 
-I.- Los predios exteriores, que colinden con la calle en la que se hubiese (sic) ejecutado las obras;
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+I.- Los predios exteriores, que colinden con la calle en la que se hubiesen ejecutado las obras;
 
 II.- Los predios interiores, cuyo acceso al exterior, fuere por la calle en donde se hubiesen ejecutado las obras, o
 
@@ -2295,3 +2331,9 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO”.]
+
+Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
