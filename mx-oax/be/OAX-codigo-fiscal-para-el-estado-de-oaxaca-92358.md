@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2019-12-24"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -167,9 +167,9 @@ VII. El Director de Auditoría e Inspección Fiscal y los Coordinadores de la Di
 
 VIII. Los Auditores, Inspectores, Visitadores, Verificadores, Notificadores, Ejecutores e Interventores;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-IX. El Coordinador de Centros Integrales de Atención al Contribuyente;
+IX. El Coordinador de Centros Integrales de Atención al Contribuyente y los Jefes de la Coordinación a su cargo;
 
 X. Director General del Instituto Catastral del Estado y los Coordinadores de la Dirección a su cargo;
 
@@ -375,7 +375,9 @@ Cuando los contribuyentes o responsables solidarios, no cubran las contribucione
 
 Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que fije anualmente el Congreso del Estado en la Ley de Ingresos; para tal efecto, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediato (sic) superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado.
 
-Los recargos por falta de pago oportuno de contribuciones o aprovechamientos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 117 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo salvo disposición expresa en contrario, los propios recargos, y los gastos de ejecución.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Los recargos por falta de pago oportuno de contribuciones o aprovechamientos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 117 y 118 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo salvo disposición expresa en contrario, los propios recargos, y los gastos de ejecución.
 
 Cuando el pago de las contribuciones o aprovechamientos que sea efectuado por el deudor hubiera sido menor al que corresponda, los recargos sólo se causarán sobre la diferencia. Los pagos efectuados en términos de este párrafo, no liberan a los contribuyentes de las obligaciones que hubieren quedado pendientes después de realizado éste.
 
@@ -385,11 +387,11 @@ Los recargos se causarán por cada mes o fracción que transcurra a partir del d
 
 Las multas y sanciones pecuniarias impuestas por cualquier autoridad sólo se actualizarán en los términos previstos en este artículo, y no causarán recargos, aún cuando deban hacerse efectivas a través del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 25.
 
-Se aceptarán como medios de pago el efectivo en moneda nacional, los cheques de cuenta personal del deudor, cheques certificados o de caja, la transferencia electrónica de fondos a favor de la Secretaría, y la dación de bienes o servicios en los términos que se prevea el Reglamento.
+Se aceptarán como medios de pago el efectivo en moneda nacional, los cheques de cuenta personal del deudor, cheques certificados o de caja, la transferencia electrónica de fondos a favor de la Secretaría, y la dación de bienes o servicios en los términos que prevea el Reglamento.
 
 Se considera transferencia electrónica de fondos, la forma de pago que por instrucción del obligado, a través de la afectación de fondos de su cuenta, se realiza por las instituciones de crédito bancarias a favor de la Secretaría.
 
@@ -573,7 +575,9 @@ Salvo disposición expresa en contrario, cuando las disposiciones fiscales oblig
 
 Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado que confirme el vínculo entre un Firmante y los datos de creación de una Firma electrónica avanzada. En los documentos digitales, una Firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del Firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
-Para los efectos fiscales, los certificados tendrán una vigencia máxima de dos años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Para efectos fiscales, los certificados tendrán la vigencia que para tales efectos se establezca en el Código Fiscal de la Federación, y de acuerdo a lo establecido mediante reglas por el Servicio de Administración Tributaria.
 
 ###### ARTÍCULO 44.
 
@@ -599,57 +603,7 @@ VII. La clave pública del titular del certificado.
 
 ###### ARTÍCULO 46.
 
-Los certificados que emitan las autoridades fiscales quedarán sin efectos cuando:
-
-I. Lo solicite el Firmante;
-
-II. Lo ordene una resolución judicial o administrativa;
-
-III. Fallezca la persona física titular del certificado. En este caso la revocación deberá solicitarse por un tercero legalmente autorizado, quien deberá acompañar el acta de defunción correspondiente;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-IV. Tratándose de personas morales, cuando éstas se disuelvan, liquiden o extingan. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;
-
-V. La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión, respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista;
-
-VI. Transcurra el plazo de vigencia del certificado;
-
-VII. Se pierda o inutilice por daños, el medio electrónico en el que se contengan los certificados;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VIII. Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-IX. Se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica avanzada de la Secretaría;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-X. Detecten que las o los contribuyentes, en un mismo ejercicio fiscal y estando obligados a ello, omitan la presentación de tres o más declaraciones periódicas consecutivas o no consecutivas, previo requerimiento de la autoridad para su cumplimiento;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XI. Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XII. En el ejercicio de sus facultades de comprobación, detecten que el contribuyente no puede ser localizado; éste desaparezca durante el procedimiento, o bien se tenga conocimiento de que los comprobantes fiscales emitidos se utilizaron para amparar operaciones inexistentes, simuladas o ilícitas, y
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XIII. Cuando aún sin ejercer sus facultades de comprobación, detecten la existencia de una o más infracciones previstas en los artículos 268, 269 y 270 de este ordenamiento y la conducta sea realizada por el contribuyente titular del certificado.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Las autoridades fiscales podrán tramitar la cancelación de los certificados, de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo. Cuando las autoridades fiscales revoquen un certificado expedido por ella, se anotará en el mismo la fecha y hora de su revocación. Para los terceros de buena fe, la revocación de un certificado que emitan las autoridades fiscales, surtirá efectos a partir de la fecha y hora que se dé a conocer la revocación en la página electrónica de la Secretaría.
-
-Las solicitudes de revocación a que se refiere este artículo deberán presentarse de conformidad con las Reglas que al efecto establezca la Secretaría.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Los contribuyentes a quienes se les haya dejado sin efectos el certificado de sello digital podrán llevar a cabo el procedimiento que, mediante reglas, determine la autoridad fiscal para subsanar las irregularidades detectadas, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de obtener un nuevo certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de tres días, contado a partir del día siguiente a aquel en que se reciba la solicitud correspondiente.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
 
 ###### ARTÍCULO 47.
 
@@ -1589,13 +1543,19 @@ Si concluida la revisión efectuada en el ejercicio de facultades de comprobaci�
 
 Si la revisión no se concluye en los plazos establecidos en este artículo, se considerará que la devolución solicitada es procedente y la autoridad deberá realizarla dentro de los diez días siguientes a la fecha en que debió concluirse. De no hacerse en este plazo, la autoridad deberá pagar intereses que se calcularán conforme a lo dispuesto en el artículo 68 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 107.
 
-Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y demás reglamentos estatales, y en su caso, determinar la base gravable y establecer en cantidad líquida las contribuciones omitidas y los demás créditos fiscales, así como para comprobar la comisión de infracciones y delitos fiscales, y para proporcionar información a otras autoridades fiscales, están facultadas para:
+Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios, los terceros con ellos relacionados han cumplido con las disposiciones fiscales y aduaneras y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
-I. Rectificar los errores aritméticos que se encuentren en las declaraciones de pago y que originen omisión en el pago de contribuciones, o bien que siendo diversos se presenten en solicitudes o avisos, para lo cual, las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión del que se trate;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
+I.- Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, dependiendo de la forma en que se efectuó el requerimiento, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran a efecto de llevar a cabo su revisión.
 
 III. Practicar visitas domiciliarias a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
@@ -1933,6 +1893,22 @@ VI. Establecer la causa legal de responsabilidad, cuando ésta derive de una res
 
 VII. Ostentar la firma de la autoridad fiscal competente para emitirlo. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica del funcionario competente, la cual tendrá el mismo valor que la firma autógrafa.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Para la emisión y regulación de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Finanzas competentes para la emisión de los actos administrativos a los que alude este numeral, serán aplicables las disposiciones previstas en la Ley de Firma Electrónica Avanzada y el Capítulo Segundo, del Título I denominado "De los Medios Electrónicos" del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+La integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+El Servicio de Administración Tributaria establecerá los medios a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.
+
 Cuando se ignore el nombre de la persona a quién deba ser dirigido, deberán señalarse datos suficientes que permitan su identificación.
 
 ###### ARTÍCULO 123.
@@ -2071,11 +2047,11 @@ Los hechos diferentes a que se refiere el párrafo anterior deberán sustentarse
 
 La orden que se emita en los casos previstos en este artículo deberá ser debidamente motivada respecto el objeto de la revisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 131.
 
-Las autoridades fiscales que al ejercer las facultades de comprobación a que se refieren las fracciones II y III del artículo 107 de este código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará al contribuyente de manera personal, dentro de un plazo máximo de seis meses, contados a partir de que se hubiere notificado el acta final en el caso de visita domiciliaria, o tratándose de las revisiones de la contabilidad de los contribuyentes que se efectué en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo otorgado al contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de la autoridad.
+Las autoridades fiscales que al ejercer las facultades de comprobación a que se refieren las fracciones II y III del artículo 107 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará al contribuyente personalmente, dentro de un plazo que no podrá exceder de seis meses, contado a partir de la fecha en que se levante el acta final de la visita o, de que venza el plazo del contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo a que se refiere la fracción V del artículo 152 de este Código.
 
 El plazo señalado en el párrafo anterior se suspenderá si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad en las oficinas de las propias autoridades, y cuando el contribuyente durante el plazo para emitir la resolución interponga algún medio de defensa, desde la fecha de su interposición y hasta que quede firme la resolución que al mismo hubiere recaído.
 
@@ -2111,9 +2087,11 @@ III. Por instructivo, cuando habiéndose acudido al domicilio de la persona que 
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE NOTIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 134.
 
-Las notificaciones de los actos administrativos se realizarán personalmente cuando se trate de:
+Las notificaciones de los actos administrativos se podrán realizar personalmente o por correo certificado cuando se trate:
 
 I. Citatorios;
 
@@ -2127,9 +2105,11 @@ IV. Actos administrativos que puedan ser recurridos.
 
 Salvo disposición expresa en contrario, los actos administrativos distintos a los señalados en el artículo anterior podrán ser notificados por correo ordinario o telegrama.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 136.
 
-En el caso de notificaciones electrónicas por documento digital, podrán realizarse en el portal electrónico de la Secretaría o mediante correo electrónico institucional, conforme al Reglamento.
+En el caso de notificaciones electrónicas por documento digital a través de medios electrónicos, estas se podrá (sic) llevar a cabo por este medio siempre que no sea (sic) trate de aquellos a los que se refiere el artículo 134 de este Código, para lo cual, podrán realizarse en el portal electrónico de la Secretaría, o mediante correo electrónico institucional, conforme al procedimiento establecido en el Reglamento de esta Ley.
 
 El acuse de recibo consistirá en el documento digital con Firma electrónica que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada, para lo cual cuenta con un plazo de tres días hábiles, ya que en caso de no generar el acuse de recibo previsto en éste párrafo, se entenderá que surte efectos la notificación a partir del cuarto día hábil siguiente a aquel al que le haya sido enviada la notificación electrónica al contribuyente. Para los efectos de este párrafo, se entenderá como Firma electrónica avanzada del particular notificado, la que se genere al utilizar la clave de seguridad que la Secretaría le proporcione en términos de la ley aplicable.
 
@@ -2239,6 +2219,14 @@ VI. Cuando se presenten documentos o libros para desvirtuar los hechos asentados
 
 VII. En caso de actualizarse los supuestos previstos en las fracciones I, III y VII del artículo 153 del presente código, deberán Informar mediante escrito a la autoridad fiscalizadora sobre el inicio y en lo subsecuente la conclusión de dicho acontecimiento, adjuntando las documentales que así lo acrediten.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En el caso de que los visitadores obtengan copias certificadas de la contabilidad deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 149 de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimientos del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.
+
 ###### ARTÍCULO 146.
 
 En la orden de visita domiciliaria además de los requisitos a que se refiere el artículo 122 de este Código, deberá señalarse lo siguiente:
@@ -2253,91 +2241,117 @@ Cuando en el curso de una visita domiciliaria se considere necesario ampliar sus
 
 Las personas designadas para la realización de la visita, podrán actuar de forma conjunta o separada en su desarrollo, sin que esto afecte la validez de la misma; quienes podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo mediante oficio emitido por la autoridad competente. La sustitución, aumento o disminución de las personas que deban efectuar la visita se notificará personalmente al visitado. El personal designado, podrá actuar una vez que se notifique el oficio indicado, pudiendo ser dicho personal quien realice su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 147.
 
-Para el desarrollo de la diligencia de visita domiciliaria las autoridades fiscales, el contribuyente visitado, o la persona con quien se entienda la diligencia, deberán sujetarse a lo siguiente:
+Para el desarrollo de la diligencia de visita domiciliaria las autoridades fiscales, el contribuyente visitado, responsables solidarios, o la persona con quien se entienda la diligencia, deberán sujetarse a lo siguiente:
 
 I. La visita se realizará en el lugar o lugares señalados en la orden de visita;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-II. Si al presentarse los visitadores al lugar donde deba practicarse la diligencia, no encontraren al visitado o su representante legal; dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
+II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+Si el contribuyente presenta aviso de cambio de domicilio después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio manifestado por el contribuyente y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el artículo 17 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
 
-Si el contribuyente presenta aviso de cambio de domicilio después de recibido el citatorio, aun cuando no lo informe a la autoridad fiscalizadora, la visita podrá llevarse a cabo en el nuevo domicilio manifestado por el contribuyente y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que se levante, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el artículo 17 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Cuando después de notificada la orden con una persona distinta de aquélla a quien fue dirigida existiere peligro que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la visita, los visitadores podrán proceder al aseguramiento de contabilidad o de bienes del contribuyente, y
+Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
 
-III. Al notificar la orden de visita domiciliaria en el lugar o lugares señalados en él, los visitadores deberán identificarse ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos de asistencia, y si ésta se niega a designarlos, los visitadores procederán a hacerlo sin que esta circunstancia afecte la legalidad de la diligencia en su integridad.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer a la firma de actas en el lugar en que se esté llevando a cabo la visita, o por manifestar su voluntad de dejar de serlo; en estos casos, los visitadores requerirán a la persona con quien se entienda la diligencia para que designe otros que los sustituyan, y en caso de su negativa para hacerlo, los visitadores los designarán. La sustitución de testigos no invalida los resultados de la visita.
+En los casos en que al presentarse los visitadores al lugar en donde deba practicarse la diligencia, descubran bienes o mercancías cuya importación, tenencia, producción, explotación, captura o transporte deba ser manifestada a las autoridades fiscales o autorizada por ellas, sin que se hubiera cumplido con la obligación respectiva, los visitadores procederán al aseguramiento de dichos bienes o mercancías.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+III. Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos de asistencia, y si ésta se niega a designarlos o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de serlo; en estos casos, los visitadores requerirán a la persona con quien se entienda la diligencia para que designe otros que los sustituyan, y en caso de su negativa para hacerlo o impedimento de los designados, los visitadores los designarán. La sustitución de testigos no invalida los resultados de la visita.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IV. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
 ###### ARTÍCULO 148.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 149.
 
-Las visitas domiciliarias deberán sujetarse a lo siguiente:
+La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
 
-I. El desarrollo del procedimiento y los hechos u omisiones conocidos por los visitadores en el desarrollo de la visita que produzcan el incumplimiento de disposiciones fiscales, deberán hacerse constar en actas parciales, los cuales harán prueba para efectos de las contribuciones a cargo del visitado, de la existencia de los mismos durante el periodo revisado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+I. De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
 
-La autoridad que practique la visita, deberá notificar legalmente al contribuyente la fecha, hora y lugar en que tendrá lugar la continuación de cada una de las actuaciones posteriores al acta de inicio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos deberán levantarse las actas que correspondan cumpliendo con los requisitos de procedimiento establecidos para el inicio de la visita, las cuales se agregarán al acta final de visita, que podrá ser levantada en cualquiera de los lugares visitados.
+II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial cumpliendo al respecto con lo previsto en el artículo 147 fracción II de este Código.
 
-Para el supuesto que una visita haya sido ordenada para realizarse en dos o más lugares, la primera diligencia podrá efectuarse en cualquiera de ellos y se podrá iniciar en cualquiera de los lugares señalados en la orden, con cualesquier persona que se encuentre en ellos. En este supuesto, en el acta que se levante se señalarán el lugar o lugares en que se realizará la visita, y el inicio de los trabajos en cada uno de dichos lugares, podrá realizarse desde el momento de la notificación de la orden.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+III. Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para efectos de esta fracción, se considera que no se impide la realización de actividades cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
 
-Para la realización de las visitas en dos o más lugares, en cada uno de ellos, las personas que con quien o quienes se entienda la diligencia tendrán las obligaciones establecidas en el artículo 145 de este Código;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-III. Durante el desarrollo de la visita, los visitadores podrán asegurar la contabilidad correspondencia o bienes que no estén registrados en contabilidad.
+IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
 
-El aseguramiento de la contabilidad se realizará indistintamente, al sellar o colocar marcas en dichos documentos, bienes o en muebles archiveros y oficinas donde se encuentren, para que previo inventario que se formule, se dejen en calidad de depósito al visitado o la persona con quien se entienda la diligencia; para efectos de la designación de depositario, no se requerirá la aceptación expresa del cargo por parte de la persona designada, y ésta tendrá las obligaciones que a los depositarios corresponden.
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir, cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones
 
-El aseguramiento realizado en términos de lo previsto en esta fracción, no deberá impedir la realización de las actividades del visitado. Se considera que no se afectan las actividades del visitado cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso, y los dos anteriores. No obstante, cuando algunos de los elementos asegurados sean necesarios al visitado para realizar sus actividades, previa solicitud escrita, se le permitirá extraerlos ante la presencia de los visitadores, quienes tratándose de documentos podrán sacar copia de los mismos para su certificación en términos de lo previsto en el artículo 145 de este Código;
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
 
-IV. Los hechos u omisiones relativos al visitado que se conozcan de terceros, deberán hacerse constar en actas parciales que se levantarán ante la persona con quien se entienda la diligencia, y en las cuales se correrá traslado de los hechos u omisiones que teniendo relación con el contribuyente visitado, se hubieren conocido de los terceros;
+Dentro de un plazo no mayor de quince días hábiles contados a partir de la fecha de la última acta parcial, exclusivamente en los casos a que se refiere el párrafo anterior, el contribuyente podrá designar un máximo de dos representantes, con el fin de tener acceso a la información confidencial proporcionada u obtenida de terceros independientes respecto de operaciones comparables que afecte la posición competitiva de dichos terceros. La designación de representantes deberá hacerse por escrito y presentarse ante la autoridad fiscal competente. Se tendrá por consentida la información confidencial proporcionada u obtenida de terceros independientes, si el contribuyente omite designar, dentro del plazo conferido, a los citados representantes. Los contribuyentes personas físicas podrán tener acceso directo a la información confidencial a que se refiere este párrafo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2018)</small>
+Presentada en tiempo y forma la designación de representantes por el contribuyente a que se refiere esta fracción, los representantes autorizados tendrán acceso a la información confidencial proporcionada por terceros desde ese momento y hasta los cuarenta y cinco días hábiles posteriores a la fecha de notificación de la resolución en la que se determine la situación fiscal del contribuyente que los designó. Los representantes autorizados podrán ser sustituidos por única vez por el contribuyente, debiendo éste hacer del conocimiento de la autoridad fiscal la revocación y sustitución respectivas, en la misma fecha en que se haga la revocación y sustitución. La autoridad fiscal deberá levantar acta circunstanciada en la que haga constar la naturaleza y características de la información y documentación consultadas por él o por sus representantes designados, por cada ocasión en que esto ocurra. El contribuyente o sus representantes no podrán sustraer o fotocopiar información alguna, debiéndose limitar a la toma de notas y apuntes.
 
-V. En la última acta parcial que al efecto se levante, deberá hacerse mención expresa de los hechos u omisiones conocidos por las autoridades fiscales en el desarrollo de una visita que pueda entrañar incumplimiento de las disposiciones fiscales, así como de aquellos que se conozcan de terceros. Entre ésta y el levantamiento del acta final de la vista deberán transcurrir cuando menos veinte días, durante los cuales el visitado podrá alegar lo que a su derecho convenga y presentar libros, registros o documentos que desvirtúen los hechos u omisiones asentados en actas. Cuando se trate de dos o más ejercicios revisados, el plazo se ampliará por quince días más a solicitud del contribuyente, siempre que dicha solicitud se presente dentro del plazo original de veinte días. La documentación deberá ser aportada por el visitado mediante escrito en el que se relacionen cada una de las pruebas con los hechos que se pretenden desvirtuar.
+El contribuyente y los representantes designados en los términos de esta fracción serán responsables hasta por un plazo de cinco años contados a partir de la fecha en que se tuvo acceso a la información confidencial o a partir de la fecha de presentación del escrito de designación, respectivamente, de la divulgación, uso personal o indebido, para cualquier propósito, de la información confidencial a la que tuvieron acceso, por cualquier medio, con motivo del ejercicio de las facultades de comprobación ejercidas por las autoridades fiscales. El contribuyente será responsable solidario por los perjuicios que genere la divulgación, uso personal o indebido de la información, que hagan los representantes a los que se refiere este párrafo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+La revocación de la designación de representante autorizado para acceder a información confidencial proporcionada por terceros no libera al representante ni al contribuyente de la responsabilidad solidaria en que puedan incurrir por la divulgación, uso personal o indebido, que hagan de dicha información confidencial.
 
-Si al presentarse los visitadores para el levantamiento del acta final de la vistita no estuviere presente el visitado o su representante legal, se le dejará citatorio para que esté presente a una hora determinada del día siguiente. Si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendiere la diligencia o los testigos no comparecen a firmar el acta; se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+V. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita.
 
-Se tendrán por consentidos los hechos consignados en las actas, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, o no prueba que éstos se encuentran en poder de una autoridad.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-VI. Cuando resulte imposible continuar la visita en el domicilio del visitado, o en la fecha y hora señalada para el levantamiento del acta final el domicilio en que se hubiere señalado se encuentra cerrado y no se pudiere levantar en él, y se cuente con elementos suficientes para ello, las actas en que se haga constar los hechos u omisiones atribuibles al visitado podrán levantarse en las oficinas de la autoridad fiscal. En este caso, deberá notificarse al visitado previamente de esta circunstancia en cualquiera de las formas previstas en este Código, debiéndose notificar en cualquiera de dichas formas, la realización de las etapas subsecuentes del procedimiento de revisión correspondiente. Si la imposibilidad se genera para el levantamiento del acta final, la notificación se podrá realizar por instructivo en los términos de este Código, y
+VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-VII. Las actas parciales que se hubieren levantado, formarán parte del acta final, aun cuando en ésta no se haga mención expresa de dicha circunstancia.
+VII. Las actas parciales se entenderá que forman parte integrante del acta final de la visita, aunque no se señale así expresamente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida, en cuyo caso el plazo original para la conclusión de la visita se ampliará por dos meses más.
+
+En este supuesto, la autoridad deberá comunicar al contribuyente mediante resolución fundada y motivada, el inicio de la reposición del procedimiento.
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IX. Cuando con motivo de la revisión practicada en los términos de este artículo la autoridad fiscal no hubiere detectado hechos u omisiones, lo comunicará al contribuyente mediante oficio de conclusión de la revisión de que fue objeto, debidamente fundado y motivado.
 
 ###### ARTÍCULO 150.
 
-Cuando de la revisión interna que realice la autoridad de las actas de visita y demás documentación relacionadas con ellas, se determine que el procedimiento realizado no se ha ajustado a las disposiciones aplicables y con ello pudieran verse afectados los derechos del contribuyente y la legalidad de la determinación del crédito fiscal resultante, la autoridad, de oficio, podrá por una sola vez, reponer el procedimiento a partir de la violación cometida, en cuyo caso el plazo original para la conclusión de la visita se ampliará por dos meses más.
-
-En este supuesto, la autoridad deberá comunicar al contribuyente mediante resolución fundada y motivada, el inicio de la reposición del procedimiento. Si la autoridad no comunica al contribuyente dicho inicio dentro de los primeros diez meses después de iniciada la revisión, precluirá su derecho para hacerlo.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
 
 ### CAPÍTULO SEGUNDO. DE LA REVISIÓN EN LAS OFICINAS DE LA AUTORIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 151.
 
-Durante el ejercicio del procedimiento de revisión en las oficinas de la autoridad, los contribuyentes, sus representantes, los terceros con ellos relacionados y las personas con quienes se efectúen dichas facultades, tendrán además de las obligaciones que expresamente se señalen en las disposiciones aplicables, las siguientes:
+Durante el ejercicio del procedimiento de revisión en las oficinas de la autoridad, los contribuyentes, sus representantes, responsables solidarios, los terceros con ellos relacionados y las personas con quienes se efectúen dichas facultades, tendrán además de las obligaciones que expresamente se señalen en las disposiciones aplicables, las siguientes:
 
 I. La contabilidad se presentará en el lugar señalado en la solicitud de información y documentación, y en los plazos establecidos en la ley;
 
@@ -2396,6 +2410,10 @@ VI. Cuando durante el plazo para concluir el ejercicio de las facultades de comp
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 VII. Cuando el domicilio del contribuyente permanezca cerrado por un periodo mayor a 15 días naturales consecutivos, por causas ajenas a este, distintas a las contempladas en las fracciones anteriores; en este caso, las facultades de comprobación se suspenderán a partir de la fecha en que el contribuyente de aviso de esta situación y hasta que pueda abrir dicho domicilio y proporcione la documentación comprobatoria correspondiente, en los términos previstos en las reglas que para tal efecto expida la Secretaría.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VIII. Tratándose de lo establecido en el artículo 149, fracción VIII de este Código, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -2517,17 +2535,21 @@ I. La orden deberá reunir los requisitos establecidos en el artículo 146 de es
 
 II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, sucursal, local, o puesto fijo o semifijo en la vía pública, que tengan los contribuyentes dentro del Estado y en ellos se realicen actividades de enajenación, prestación de servicios, contratación u otorgamiento del uso o goce temporal de bienes; o bien, se almacenen mercancías, o se realicen actividades relacionadas con permisos y concesiones, o que sean reguladas en su funcionamiento por la legislación estatal;
 
-III. La diligencia se iniciará con el contribuyente o su representante legal, o en su ausencia, con el encargado o quien se encuentre al frente del lugar visitado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
 
 IV. Al inicio de la visita, los visitadores deberán identificarse con la persona con quien se entienda la diligencia, y requerirle para que designe dos testigos, y si se niega a ello, los testigos serán designados por los propios visitadores, sin que esta circunstancia invalide el resultado de la visita de inspección;
 
 V. Se levantará acta circunstanciada en la que se harán constar los hechos, omisiones o irregularidades que siendo conocidos por los visitadores durante su desarrollo, pudiesen constituirse en infracciones a las leyes fiscales aplicables;
 
-VI. Realizada la visita de inspección, si al cierre del acta de visita domiciliaria, el visitado o la persona con quien se entiende la diligencia o los testigos designados por ésta se niegan a firmar el acta, dicha circunstancia se asentará en la propia acta, sin que se afecte la validez o valor probatorio de la misma, dándose por concluida la visita correspondiente;
+> <small>(REFORMADOA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+VI. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o se niegan a aceptar copia de la misma, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
 
-VII. Si con motivo de la visita se conocen incumplimientos a las disposiciones fiscales, se concederá al contribuyente un plazo de tres días para desvirtuar la comisión de las infracciones que se le imputen, para lo cual deberá presentar las pruebas que a sus intereses convengan.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VII. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -2539,11 +2561,17 @@ VIII. Cuando de las irregularidades conocidas se constituyan hechos por los cual
 
 Los visitados, su representante legal o las personas con quien se entienda la visita de inspección, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición documentos, informes, discos, cintas o cualquier otro medio de almacenamiento de datos que acrediten el cumplimiento de las disposiciones fiscales.
 
-Los visitadores previo cotejo con los originales podrán reproducir documentos, informes, discos, cintas o cualquier otro medio (sic) almacenamiento de datos para que se certifiquen por éstos y sean anexados al acta que se levante con motivo de la visita.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Cuando las autoridades fiscales durante la visita de inspección soliciten de los contribuyentes, documentación para su revisión, estos deberán presentarla de inmediato. Cuando el visitado no ponga a disposición de la autoridad la documentación solicitada, independientemente de las sanciones a que se hubiere hecho acreedor el contribuyente omiso, deberá presentarla en el plazo de tres días, a que se refiere la fracción VIII del artículo anterior.
+Los visitadores, previo cotejo con los originales podrán reproducir documentos, informes, discos, cintas o cualquier otro medio de almacenamiento de datos para que se certifiquen por éstos y sean anexados al acta que se levante con motivo de la visita.
 
-El plazo a que se refiere el párrafo anterior podrá ampliarse a solicitud del interesado, por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse dentro del plazo de tres días a que se refiere la fracción VIII del artículo anterior.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Cuando las autoridades fiscales soliciten a los contribuyentes documentación durante la visita de inspección, estos deberán presentarla de inmediato. Cuando el visitado no ponga a disposición de la autoridad la documentación solicitada, independientemente de las sanciones a que se hubiere hecho acreedor el contribuyente, deberá presentarla en el plazo de tres días hábiles a que se refiere la fracción VII del artículo 160.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+El plazo a que se refiere el párrafo anterior podrá ampliarse a solicitud del interesado, por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse dentro del plazo de tres días a que se refiere la fracción VII del artículo anterior.
 
 Se entiende que la visita de inspección concluye con el levantamiento del acta a que se refiere el artículo anterior.
 
@@ -2551,73 +2579,71 @@ Dentro de un plazo que no excederá de tres meses, las autoridades que hubieren 
 
 En el caso que se hubiere clausurado el establecimiento por existir causa justificada, el levantamiento de dicha clausura estará sujeto a las disposiciones que para ello sean aplicables.
 
-### CAPÍTULO QUINTO. DE LOS PROCEDIMIENTOS PARA LA DETERMINACIÓN PRESUNTIVA DE LA BASE GRAVABLE Y DE LOS INGRESOS PRESUNTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO QUINTO. DE LOS PROCEDIMIENTOS PARA LA DETERMINACIÓN PRESUNTIVA
 
 #### SECCIÓN PRIMERA. DE LA BASE GRAVABLE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 162.
 
-La determinación presuntiva de la base gravable para el pago de contribuciones, se origina por el incumplimiento de las obligaciones formales de los contribuyentes, las cuales en todo caso, son suficientes para impedir a la autoridad fiscal el conocimiento pleno y cierto de las operaciones por ellos realizadas y que son objeto del pago de contribuciones. La determinación y legalidad de las presunciones fiscales, se encuentran sujetas a la existencia de datos ciertos que siendo relativos al contribuyente afectado, establezcan las presunciones necesarias para determinar los actos que siendo desconocidos en virtud de su conducta irregular, a él sean atribuibles. En todo caso, las autoridades fiscales podrán basarse en los siguientes elementos:
+Para la determinación presuntiva de la base del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda para el pago de contribuciones, las autoridades fiscales podrán basarse en los siguientes elementos:
 
 I. Los contenidos en la contabilidad del contribuyente, o los que en su caso debieran formar parte de ella;
 
-II. Los contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación. Las declaraciones del ejercicio que se podrán utilizar son las que el contribuyente hubiere presentado tanto en materia estatal, como en materia federal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-III. La información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones relacionadas con el contribuyente sujeto a la determinación presuntiva, y
+II. Los contenidos en las declaraciones mensuales, provisionales o del ejercicio correspondientes (sic) a cualquier contribución, sea del mismo ejercicio o de cualquier otro. Las declaraciones que se podrán utilizar son las que el contribuyente hubiere presentado tanto en materia de contribuciones estatales, como federales;
 
-IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación, siempre y cuando se encuentre referida a operaciones realizadas por el contribuyente sujeto a determinación presuntiva.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+III. La información proporcionada por terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente, y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación.
 
 ###### ARTÍCULO 163.
 
-Cuando en el desarrollo de sus facultades de comprobación la autoridad advierta cualquiera de las irregularidades que se prevén en el artículo 109 de este Código, deberá darlo a conocer al contribuyente antes del levantamiento de la última acta parcial o de la notificación del oficio de observaciones.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 164.
 
-En caso que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva previstas en el artículo 109 de este Código, y cuando después de haberse realizado el procedimiento establecido en el artículo anterior, no hubiesen subsanado las irregularidades que son causa de determinación presuntiva y no puedan comprobar por el periodo sujeto a revisión, sobre base cierta la base gravable para la determinación de las contribuciones estatales que se generaron a su cargo, se presumirá que sus ingresos derivados de las operaciones realizadas son iguales al resultado de alguna de las operaciones siguientes:
+En caso de que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva previstas en el artículo 109 de este Código, y no puedan comprobar por el periodo objeto de revisión sus ingresos, el valor de la prestación de los servicios y el monto de la prenda por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las operaciones siguientes:
 
-I. Si con base a la contabilidad o documentación del contribuyente, o por información de terceros, se puedan reconstruir las operaciones correspondientes cuando menos treinta días consecutivos, lo más cercano posible al cierre del ejercicio, el ingreso o valor de las operaciones realizadas se determinarán con base en el promedio diario del periodo reconstruido, el que se multiplicará por el número de días que comprenda el periodo sujeto a revisión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+I. Si con base a la contabilidad o documentación del contribuyente, o por información de terceros, se puedan reconstruir las operaciones correspondientes cuando menos treinta días consecutivos, lo más cercano posible al cierre del ejercicio, se determinarán con base en el promedio diario del periodo reconstruido, el que se multiplicará por el número de días que comprenda el periodo sujeto a revisión.
 
 Cuando se trate de la revisión de dos o más ejercicios, la reconstrucción de operaciones a que se refiere esta fracción, estará referida al último de ellos, y servirá como base para la determinación de todos aquéllos que se encuentren sujetos al ejercicio de las facultades de comprobación.
 
-II. Si la contabilidad del contribuyente no permite reconstruir las operaciones a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de los ingresos o valor de las operaciones que se observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el periodo sujeto a revisión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+II. Si la contabilidad del contribuyente no permite reconstruir las operaciones a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de las operaciones que se observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el periodo sujeto a revisión.
 
 Cuando se trate de la revisión de dos o más ejercicios, la observación de operaciones a que se refiere esta fracción, servirá como base para la determinación de todos aquéllos que se encuentren sujetos al ejercicio de las facultades de comprobación.
 
-En el supuesto de esta fracción, la observación de operaciones cuando sea mayor de siete días, deberá serlo por un número que sea múltiplo de siete, y deberá emitirse mandamiento fundado y motivado en el que se señalen los visitadores que llevarán a cabo dicha observación de operaciones, y el periodo por el cual se realizará.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-A los ingresos o valor de las operaciones determinadas presuntivamente por cualquiera de los anteriores procedimientos, les será aplicable la tasa o tarifa establecidas en la Ley Estatal de Hacienda, para el pago de las contribuciones a que se estuviere afectos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Al valor de la prestación de los servicios y el monto de la prenda de las operaciones determinadas presuntivamente por cualquiera de los anteriores procedimientos, les será aplicable la tasa o tarifa establecidas en la Ley Estatal de Hacienda, para el pago de las contribuciones a que se estuviere afecto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 165.
 
-Las autoridades fiscales podrán estimar las erogaciones de los sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal en los siguientes casos:
+Las autoridades fiscales podrán estimar la base del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda considerando además de lo mencionado en el artículo 162 de este Código, lo siguiente:
 
-I. Cuando no presenten sus declaraciones o no lleven los libros o registros a que legalmente están obligados;
+I. La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales estatales y federales;
 
-II. Cuando por los informes que se obtengan se pongan de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante;
+II. La información que conste en los expedientes, documentos o bases de datos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal, y
 
-III. Cuando se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus erogaciones que sirven de base para el cálculo del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
-
-Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta:
-
-a) Las erogaciones realizadas, declaradas en los últimos doce meses;
-
-b) Las manifestaciones presentadas por concepto de Impuesto Sobre la Renta, sobre Productos del Trabajo en los últimos doce meses;
-
-c) La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales estatales;
-
-d) Los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal, y
-
-e) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+III. Otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
 
 #### SECCIÓN SEGUNDA. DE LA BASE PRESUNTA
 
@@ -2723,7 +2749,9 @@ III. El interventor al cierre de la taquilla o después de realizada la rifa, so
 
 IV. El interventor estará facultado para requerir el pago y procederá al embargo de bienes suficientes del sujeto obligado y/o responsable solidario para garantizar el crédito fiscal, o en su caso, hacer efectiva la garantía del interés fiscal otorgada, debiendo el interventor asentar dichas circunstancias en el acta que se levante en el desarrollo de la diligencia, y
 
-V. Las personas físicas, morales o unidades económicas, que organicen, promuevan o representen los eventos, están obligados a permitir y proporcionar cualquier documento o datos que el interventor o interventores, requieran para el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+V. Las personas físicas, morales o unidades económicas, que organicen, promuevan o representen los eventos, están obligados (sic) a permitir y proporcionar cualquier documento o datos que el interventor o interventores, requieran para el desempeño de sus funciones, incluso aquellos que obren en archivos digitales, cuando así se estime necesario.
 
 Las autoridades fiscales del Estado podrán suspender cualquier evento cuando quienes lo organicen, promocionen o representen, se nieguen a permitir que el interventor o interventores vigilen la entrada, determinen o recauden los impuestos respectivos.
 
@@ -2769,9 +2797,9 @@ I. Realizarse mediante un acto de autoridad debidamente fundado y motivado por l
 
 II. Deberán de identificarse los visitadores ante el contribuyente o con la persona con quien se entienda la diligencia, requiriéndole para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide la diligencia aún y cuando los testigos no se encuentren desde el inicio.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-III. Llevar a cabo el levantamiento del acta con el contribuyente o con la persona con quien se entienda la diligencia, indistintamente, en el domicilio fiscal, establecimiento, sucursal y/o local.
+III. Llevar a cabo el levantamiento del acta con el contribuyente, representante legal o con la persona con quien se entienda la diligencia, indistintamente, en el domicilio fiscal, establecimiento, sucursal y/o local.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -3779,6 +3807,14 @@ V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o
 
 VI. Que hayan sido materia de resolución en recurso de revocación, siempre que se trate del mismo acto recurrido, aunque las violaciones sean distintas.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VII. Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VIII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código.
+
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 250.
@@ -3839,11 +3875,11 @@ Si por el enlace de las pruebas rendidas y de las presunciones formadas, las aut
 
 Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, serán aplicables las disposiciones legales que rijan para el juicio contencioso administrativo estatal, a través del cual se puedan impugnar las resoluciones que pongan fin al recurso de revocación, en tanto no se opongan a lo dispuesto en este Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 255.
 
-La resolución al recurso de revocación, deberá dictarse en un término que no excederá de cuarenta y cinco días contados a partir de la fecha de su interposición. El silencio de la autoridad significará que se ha confirmado el acto impugnado. Este plazo se suspenderá cuando el recurrente ejerza el derecho previsto en el último párrafo del artículo 248 de este Código, desde la fecha en que anuncie la presentación de las pruebas, y hasta la fecha en que las presente.
+La resolución al recurso de revocación, deberá dictarse en un término que no excederá de tres meses contados a partir de la fecha de su interposición. El silencio de la autoridad significará que se ha confirmado el acto impugnado. Este plazo se suspenderá cuando el recurrente ejerza el derecho previsto en el último párrafo del artículo 248 de este Código, desde la fecha en que anuncie la presentación de las pruebas, y hasta la fecha en que las presente.
 
 El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
 
@@ -3943,9 +3979,11 @@ Siempre que se omita el pago de una contribución cuya determinación correspond
 
 Para efectos de este artículo, se considera que la notificación surte efectos en el momento en que se realiza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 264.
 
-La Secretaría podrá condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría podrá condonar hasta el 100% las multas por infracciones a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría, mediante reglas de carácter general, establecerá los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
 
 La solicitud de condonación de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia, por tanto, las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
@@ -4542,3 +4580,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1805.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente decreto entrará en vigor el uno de enero de dos mil veintiuno.
+
+SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente decreto, aun cuando no estén expresamente derogadas.
