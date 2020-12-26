@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2019-12-27"
+last_updated: "2020-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -451,13 +451,13 @@ I.- Autoricen el funcionamiento de establecimientos que de manera permanente o t
 
 II.- Autoricen el funcionamiento de plantas generadoras de energía renovable y/o no renovable.
 
-> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-III.- Mismas contribuciones que se señalan en los Capítulos (sic) III de esta ley.
+III.- Aquellas señaladas en el artículo 88 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán se (sic) revalidadas dentro de los primeros dos meses del año siguiente.
+Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán de ser revalidadas dentro de los primeros dos meses del año siguiente.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -793,9 +793,11 @@ XIII.- En los casos de permuta se considerará que se efectúan dos adquisicione
 
 DE LAS EXCEPCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 59.
 
-No se causará el Impuesto Sobre Adquisición de Inmuebles en las adquisiciones que realice (sic) la Federación, los Estados, el Distrito Federal, el Municipio, las Instituciones de Beneficencia Pública, la Universidad Autónoma de Yucatán y en los casos siguientes:
+No se causará el Impuesto Sobre Adquisición de Inmuebles en las adquisiciones que realicen la Federación, los Estados, el Distrito Federal, el Municipio, las Instituciones de Beneficencia Pública, la Universidad Autónoma de Yucatán y en los casos siguientes:
 
 I.- La transformación de sociedades, con excepción de la fusión.
 
@@ -975,19 +977,17 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 70.
 
 La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 0.08, misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior, con excepción de los siguientes espectáculos:
 
 I.- Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero.
 
-> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
-
 II.- En espectáculos de circo, la tarifa será equivalente a 2 UMA por día.
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
-
-III.- En los permisos otorgados con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán 20 UMA por día.
+III.- En los permisos otorgados con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán 29 UMA por día.
 
 DE LA FACULTAD DE DISMINUIR LA TASA
 
@@ -1273,6 +1273,10 @@ III.- Parques eólicos para la generación de energía renovable o no renovable.
 
 IV.- Plantas solares (fotovoltaicas) para la generación de energía renovable o no renovable.
 
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+V.- Antenas de telefonía Celular.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento, todas aquellas personas físicas o morales que deseen abrir o que tengan en funcionamiento, establecimientos en los que se expendan al público bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
@@ -1309,43 +1313,61 @@ Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de 
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 90.
 
-La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
+La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
-I,- Por apertura para venta
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-de bebidas alcohólicas $25,000.00
+I.- Por apertura para venta de bebidas
 
-> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+alcohólicas $25,000.00
 
-II.- Por revalidación para venta
+(REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
 
-de bebidas alcohólicas $6,000.00
+II.- Por revalidación para venta de bebidas
 
-III.- Por permisos eventuales
+alcohólicas $6,000.00
 
-para venta de bebidas
+(REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
 
-alcohólicas $ 1,500.00
+III.- Por permisos eventuales para venta de
 
-IV.- Para la instalación y operación
+bebidas alcohólicas $1,500.00
 
-de Parques eólicos para la
+(REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
 
-generación de energía renovable
+IV.- Para la instalación y/o operación de Parques
 
-o no renovable $ 400,000.00
+eólicos para la generación de energía renovable
 
-> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2019)</small>
+o no renovable $400,000.00
 
-V.- Para la instalación y operación (sic) Plantas fotovoltaicas para la generación de energía renovable o no renovable $600,000.00
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 26 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+V.- Por la instalación y/o operación (sic) Plantas
 
-Artículo 90 A.- El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
+fotovoltaicas para la generación de energía
+
+renovable o no renovable $600,000.00
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VI.- Por la instalación y/o operación de antenas de
+
+telefonía celular $50,000.00 cada una.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+VII.- Por la instalación de ductos, postes para
+
+energía renovables o no renovable $300,000.00
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Artículo 90 A.- El cobro de derechos por el otorgamiento (sic) licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
 
 GIRO EXPEDICION RENOVACION
 
@@ -1471,7 +1493,7 @@ XLVIII.- Compra/venta de frutas y verduras 300 100
 
 XLIX.- Empacadoras de alimentos 7,000.00 4,000.00
 
-LX.- La instalación y operación de
+LX (SIC).- La instalación y operación de
 
 plantas fotovoltaicas para la generación
 
@@ -1481,11 +1503,11 @@ LXI.- Granjas avícolas, porcícolas,
 
 ganaderas de más
 
-de 10 empleados. 15,000.00 10,000.00
+de 10 empleados. 20,000.00 15,000.00
 
 LXII.- Servicios de Sistemas de telefonía
 
-celular 10,000.00 7,000.00
+celular 50,000.00 50,000.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1529,11 +1551,11 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 96.
 
-La tarifa se causara mensualmente a razón de $11.00 por predio en el caso de (sic) inciso I y de $200.00 en el caso del inciso II
+La tarifa se causara mensualmente a razón de $11.00 por predio, en el caso del inciso I y de $200.00, en el caso del inciso II, ambos del artículo anterior.
 
 PAGO
 
@@ -1563,11 +1585,11 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018) (REPUBLICADO, D.O. 27 DE DICIEMBRE DE 2019)
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $ 20.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $20.00 habitacional y $50.00 comercial de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1727,7 +1749,7 @@ En todo caso, se requerirá la licencia correspondiente. El incumplimiento de es
 
 ### Capítulo X. Otros Servicios Prestados por el Ayuntamiento
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 117.
 
@@ -1739,17 +1761,19 @@ A) Por participar en licitaciones 20
 
 B) Certificaciones y constancias
 
-expedidas por el Ayuntamiento .50
+expedidas por el Ayuntamiento .23
 
-C) Venta de formas oficiales .50
+C) Venta de formas oficiales 1
 
 D) Expedición de disco magnético 2
 
 ### Capítulo XI. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 118.
 
-Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques, bibliotecas y en general que usen o aprovechen los bienes del domino (sic) público municipal.
+Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques, bibliotecas y en general que usen o aprovechen los bienes del dominio público municipal.
 
 ###### Artículo 119.
 
@@ -2045,17 +2069,11 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 137.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán acabo (sic) conforme a la Ley de Gobierno de los Municipios de Yucatán.
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
-
-A que el arrendamiento de bienes se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y del Síndico, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
-
-Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a la Ley de Gobierno de los Municipios de Yucatán.
 
 DE LA EXPLOTACIÓN
 
@@ -2314,3 +2332,17 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO”.]
+
+Artículo Primero.- Esta Ley entrará en vigor el día 1 de enero de 2021, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.– Se abroga la Ley de Hacienda del Municipio de Peto, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 23/2018 de fecha 29 de diciembre de 2018.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
+
+## Transitorio
+
+Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
