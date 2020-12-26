@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2019-12-24"
+last_updated: "2020-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -149,9 +149,9 @@ II. Ingresos por la obtención de premios 6 por ciento.
 
 Las personas físicas, morales o unidades económicas que organicen o celebren eventos generadores de premios objeto de este impuesto, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DEL 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-I. Presentar ante la Secretaría o en los Centros Integrales de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar tres días antes de realizarse el evento o espectáculo público:
+I. Presentar ante la Secretaría, en los Centros Integrales de Atención al Contribuyente o en los Módulos de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar cinco días hábiles antes de realizarse el evento o espectáculo público:
 
 a) El aviso en el formato que para tal efecto emita la Secretaría;
 
@@ -173,9 +173,9 @@ Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracci
 
 Cuando los sujetos obligados no garanticen el interés fiscal de conformidad con lo dispuesto por el inciso b) fracción I del presente artículo, la autoridad fiscal podrá suspender la organización o evento, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Los servidores públicos estatales o municipales, al otorgar permisos para la realización de rifas, loterías, sorteos y/o concursos, deberán dar aviso a la Secretaría o a sus Centros Integrales de Atención al Contribuyente, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
+Los servidores públicos estatales o municipales, al otorgar permisos para la realización de rifas, loterías, sorteos y/o concursos, deberán dar aviso a la Secretaría o a sus Centros Integrales de Atención al Contribuyente y Módulos de Atención al Contribuyente, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -205,15 +205,23 @@ Para efectos de este impuesto se entenderá como diversión y espectáculo públ
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 12.
 
-Es base del pago de este impuesto, el monto total de los ingresos obtenidos por la venta de boletos de entrada o participación a las diversiones, espectáculos públicos y derechos de mesa o reservados, cualesquiera que sea la denominación que se les dé, inclusive las de donativos, cooperación o reservación.
+Es base del pago de este impuesto, la cantidad que se cobre por la venta de boletos de entrada o participación a las diversiones, espectáculos públicos y derechos de mesa o reservados, cualquiera que sea la denominación que se les dé, inclusive las de donativos, cooperación o reservación.
 
 En el caso de espectáculos públicos que condicione el acceso a la compra de un artículo en promoción se tomara como base del impuesto el precio comercial del artículo promocionado.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En el supuesto de que los intermediarios encargados de venta de boletos realicen un cargo extra por la impresión o envío de los mismos, este importe formará parte de la base del pago de este impuesto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 13.
 
-Este impuesto se calculará aplicando la tasa del 4 por ciento al monto total de los ingresos obtenidos.
+Este impuesto se calculará aplicando la tasa del 4 por ciento al monto total que se cobre por la venta de boletos de entrada o participación.
 
 ###### ARTÍCULO 14.
 
@@ -337,9 +345,9 @@ Son responsables solidarios de este impuesto los Poderes Legislativo y Judicial,
 
 Los responsables solidarios deberán retener y enterar el impuesto conforme al procedimiento que para tal efecto se establezca en Reglas, debiendo proporcionar a los contribuyentes constancias de retención y comprobante fiscal.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
-Los Contribuyentes que se les haya retenido dicho impuesto lo podrán acreditar al impuesto determinado, siempre y cuando los Gobiernos Federal, Estatal y Municipal, los poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades, Órganos Descentralizados, Auxiliares de Colaboración, Empresas de participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno, hayan enterado la retención de la Secretaría de Finanzas, en el periodo correspondiente.
+Los Contribuyentes que se les haya retenido dicho impuesto lo podrán acreditar al impuesto determinado, siempre y cuando los Gobiernos Federal, Estatal y Municipal, los poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades, Órganos Descentralizados, Auxiliares de Colaboración, Empresas de participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno, hayan enterado la retención ante la Secretaría de Finanzas, en el período correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
@@ -443,9 +451,19 @@ La presentación de las declaraciones a que refiere este artículo se realizará
 
 ### CAPÍTULO CUARTO. SOBRE LAS DEMASÍAS CADUCAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Es objeto del presente impuesto, los remanentes que quedan a favor de los pignorantes y que puestos a disposición de estos últimos no son cobrados a las Casas de Empeño, después de que éstas últimas descuentan del monto de la venta de la prenda, el capital prestado, los intereses devengados y los gastos de almacenaje.
+Es objeto del presente impuesto, el remanente que queda a favor de los pignorantes y que puesto a disposición de estos últimos no son cobrados a las Casas de Empeño, después de que éstas últimas descuentan del monto de la venta de la prenda, el capital prestado, los intereses devengados y los gastos de almacenaje.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+El remanente objeto del impuesto, se considerará percibido a favor de los sujetos obligados, al día siguiente del vencimiento del plazo indicado en los contratos de mutuo con interés y garantía prendaría para el reclamo del saldo a favor del pignorante.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+En caso de no existir estipulación expresa en el contrato a que alude el párrafo anterior, se considerará el plazo de doce meses, contados a partir del día siguiente del remate de la prenda otorgada en garantía para el reclamó del saldo, a favor del pignorante.
 
 ###### ARTÍCULO 30.
 
@@ -458,6 +476,10 @@ Es base de este impuesto, la suma total de las demasías caducas.
 ###### ARTÍCULO 32.
 
 Este impuesto se calculará aplicando a la base la tasa del 10 por ciento.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+Al importe de la determinación presuntiva de los remanentes que quedan a favor de los sujetos obligados, se le aplicará la tasa precisada en párrafo anterior.
 
 ###### ARTÍCULO 33.
 
@@ -1676,5 +1698,15 @@ P.O. 24 DE DICIEMBRE DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinte, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.1809.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiuno.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
