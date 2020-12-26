@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-peto-yucatan-132529"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2020-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE PETO, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE HACIENDA DEL MUNICIPIO DE PETO, YUCATÁN, PUBLICADA EN EL D.O. DE 26 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE PETO, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -1454,3 +1456,21 @@ LICENCIADO JOSÉ ALFONSO LOZANO POVEDA, DIRECTOR DEL DIARIO OFICIAL DEL GOBIERNO
 QUE LAS PRESENTES COPIAS CONSISTENTES DE CIENTO CINCUENTA Y NUEVE FOJAS ÚTILES, SON FIEL REPRODUCCIÓN DEL ORIGINAL QUE TUVE A LA VISTA, DEL SUPLEMENTO II DE LA EDICIÓN NÚMERO 33, 762 DE FECHA 29 DE DICIEMBRE DEL AÑO 2018.-----------
 
 SE EXPIDE LA PRESENTE CERTIFICACIÓN EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.---------
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL MUNICIPIO DE PETO, YUCATÁN”.]
+
+Artículo Primero.- Esta Ley entrará en vigor el día 1 de enero de 2021, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Peto, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 23/2018 de fecha 29 de diciembre de 2018.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
