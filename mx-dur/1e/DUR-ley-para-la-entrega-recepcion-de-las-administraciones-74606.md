@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-entrega-recepcion-de-las-administraciones-74606"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2017-05-11"
+last_updated: "2020-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de noviembre de 2009.
 
@@ -45,9 +45,13 @@ LEY PARA LA ENTREGA-RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MU
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés público y observancia general, y tiene por objeto establecer las normas generales conforme a las cuales los servidores públicos de los Poderes del Estado, los entes autónomos previstos en la Constitución Política del Estado Libre y Soberano de Durango o en las leyes locales, los municipios o aquéllos que administren fondos, bienes y valores públicos, entregarán a quienes los sustituyan al separarse de su empleo, cargo o comisión, los recursos humanos, financieros y materiales, así como los documentos, información y asuntos de su competencia que les hayan sido asignados, para el desempeño de las funciones de su responsabilidad.
+La presente Ley es de interés público y observancia general, y tiene por objeto dar certeza y seguridad jurídica a quienes intervienen en el proceso de entrega recepción, delimitar sus responsabilidades y establecer las normas generales conforme a las cuales los servidores públicos de los Poderes del Estado, los entes autónomos previstos en la Constitución Política del Estado Libre y Soberano de Durango o en las leyes locales, los municipios o aquéllos que administren fondos, bienes y valores públicos, entregarán a quienes los sustituyan al separarse de su empleo, cargo o comisión, los recursos humanos, financieros y materiales, así como los documentos, información y asuntos de su competencia que les hayan sido asignados, para el desempeño de las funciones de su responsabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
@@ -55,11 +59,17 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Acta.- Documento previamente establecido por la Contraloría o los Órganos Internos de Control, según corresponda, en el cual se hace constar de manera circunstanciada el acto de la Entrega-Recepción, señalando las personas que intervienen y la relación de los recursos humanos, materiales y financieros que se entregan y reciben;
 
-II.- Comité de Enlace.- Los servidores públicos designados por el titular del ente que corresponda, con el objetivo de que se coordinen con el Comité Receptor, para los efectos de la Entrega-Recepción final;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-III.- Comité Receptor.- El grupo de personas que tratándose del acto de Entrega-Recepción final, son designados por quien vaya ocupar la titularidad del ente que corresponda, con el objetivo de conocer previamente los recursos y responsabilidades que habrán de recibirse de manera formal;
+II.- Comité de Enlace.- El grupo de personas que tratándose del acto de Entrega-Recepción final, son designados por quien vaya a entregar la titularidad del ente que corresponda, con el objetivo de dar a conocer previamente los recursos y responsabilidades que habrán de entregarse de manera formal;
 
-IV.- Contraloría.- La Secretaría de Contraloría y Modernización Administrativa;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+III.- Comité Receptor.- El grupo de personas que tratándose del acto de Entrega-Recepción final, son designados por quien vaya a ocupar la titularidad del ente que corresponda, con el objetivo de conocer previamente los recursos y responsabilidades que habrán de recibirse de manera formal;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+IV.- Contraloría.- La Secretaría de Contraloría del Estado de Durango;
 
 V.- Dependencias.- Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Durango y que integran la Administración Pública Centralizada, así como las creadas con este carácter general en los ordenamientos municipales;
 
@@ -75,9 +85,9 @@ X.- Órganos Internos de Control.- Las Contralorías Internas de las dependencia
 
 XI.- Marco Normativo.- Todo ordenamiento que regule, ordene, dé transparencia y uniformidad al proceso de Entrega-Recepción;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-XII.- Servidores Públicos.- Los que señala el artículo 175 de la Constitución Política del Estado Libre y Soberano de Durango y el artículo 1 de la presente Ley;
+XII.- Servidores Públicos.- Toda persona física que desempeñe en las dependencias, entes o entidades, algún empleo, cargo o comisión de cualquier naturaleza, por elección, nombramiento o contrato;
 
 XIII.- Sujeto Obligado.- Aquél que sin ser servidor público tenga un cargo honorífico, administre recursos y asuntos públicos;
 
@@ -101,9 +111,11 @@ V.- Los demás que administren recursos públicos y que la naturaleza e importan
 
 El superior jerárquico, la Contraloría u Órganos Internos de Control, podrán determinar que otros servidores públicos por la naturaleza e importancia de las funciones a su cargo, quedarán sujetos a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Los servidores públicos y sujetos obligados involucrados en la ejecución de los trabajos de la Entrega-Recepción, deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia y formalidad en el ejercicio de sus funciones.
+Los servidores públicos y sujetos obligados involucrados en la ejecución de los trabajos de la Entrega-Recepción, deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia y formalidad en el ejercicio de sus funciones, siendo garantes de la veracidad, oportunidad y confiabilidad de la información, sin perjuicio de la responsabilidad que les corresponda por su participación en el proceso de entrega recepción.
 
 ###### Artículo 5.
 
@@ -113,11 +125,25 @@ La Contraloría y los Órganos Internos de Control, quedan facultados para inter
 
 La Contraloría y los Órganos Internos de Control, deberán emitir los formatos y actas que se utilizarán de manera general para el acto de Entrega-Recepción, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango o en la Gaceta Municipal correspondiente.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+Así mismo, tendrán, entre otras, las siguientes atribuciones:
+
+I. Diseñar e implementar el Procedimiento de Entrega-Recepción, para su ámbito de competencia;
+
+II. Dirimir las controversias que se susciten durante los procesos de Entrega-Recepción;
+
+III. Supervisar el cumplimiento de la Entrega-Recepción; y
+
+IV. Promover, en su caso, el inicio de procedimientos de responsabilidad que corresponda.
+
 ###### Artículo 7.
 
 La Entrega-Recepción puede ser:
 
-a) Final.- La que se origine el término e inicio de un ejercicio constitucional o legal de los Entes; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+a) Final.- La que se origine por el término e inicio de un ejercicio constitucional o legal de los Entes; y
 
 b) Intermedia.- Cuando por causas distintas al cambio de administración, se separe el servidor público y/o sujeto obligado de su cargo, empleo o comisión:
 
@@ -133,9 +159,11 @@ I.- Para los servidores públicos o sujetos obligados salientes, la entrega de l
 
 II.- Para los servidores públicos o sujetos obligados entrantes, la recepción de los recursos y demás conceptos a que se refiere el artículo 1 de la presente Ley, constituyendo el punto de partida de su actuación al frente de su nueva responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Para dar cumplimiento a lo establecido en la presente Ley, los servidores públicos y sujetos obligados, deberán mantener permanentemente actualizados sus registros, controles, inventarios y demás documentos relativos a los recursos humanos, financieros y materiales propios de su despacho, a fin de hacer posible la entrega oportuna de los mismos.
+Para dar cumplimiento a lo establecido en la presente Ley, los servidores públicos y sujetos obligados, deberán mantener permanentemente actualizados sus registros, controles, inventarios, estructura orgánica, archivos físicos y electrónicos, y demás documentos relativos a los recursos humanos, financieros y materiales propios de su despacho, a fin de hacer posible la entrega oportuna de los mismos.
 
 El servidor público o sujeto obligado entrante, tendrá la obligación de recibir la documentación antes mencionada, revisar su contenido y hacer del conocimiento de la autoridad que corresponda, de las anomalías que encuentre.
 
@@ -143,9 +171,11 @@ El servidor público o sujeto obligado entrante, tendrá la obligación de recib
 
 La Contraloría o los Órganos Internos de Control, podrán solicitar desde un año antes, la documentación que consideren necesaria para preparar la Entrega-Recepción final.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-El proceso de Entrega-Recepción, inicia con la notificación que reciban la Contraloría o los Organismos Internos de Control, según corresponda, del cambio de un servidor público o sujeto obligado, y concluye con la firma del acta respectiva, la cual deberá ser firmada a más tardar treinta días naturales después del relevo del titular; y tratándose de entregas finales, el tiempo será en días hábiles, sin perjuicio del procedimiento que establece la presente Ley, en el caso de que un servidor público o sujeto obligado saliente sea requerido para que realice las aclaraciones correspondientes.
+El proceso de Entrega-Recepción, inicia con la notificación que reciban la Contraloría o los Organismos Internos de Control, según corresponda, del cambio de un servidor público o sujeto obligado, y concluye con la firma del acta respectiva, la cual deberá ser firmada a más tardar sesenta días naturales después del relevo del titular; y tratándose de entregas finales, el tiempo será en días hábiles, sin perjuicio del procedimiento que establece la presente Ley, en el caso de que un servidor público o sujeto obligado saliente sea requerido para que realice las aclaraciones correspondientes.
 
 ###### Artículo 12.
 
@@ -303,7 +333,9 @@ Para que el acta de Entrega-Recepción tenga validez, deberá reunir, señalar, 
 
 I.- Fecha, lugar y hora en que da inicio el acto de Entrega-Recepción;
 
-II.- Nombre, cargo u ocupación de las personas que intervienen, quienes se identificarán plenamente;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+II.- Nombre, cargo u ocupación de las personas que intervienen, y documentación que acredite su personalidad;
 
 III.- Especificar el asunto u objeto principal del acto de Entrega-Recepción o evento del cual se va a dejar constancia;
 
@@ -479,9 +511,11 @@ Los coordinadores generales designarán por escrito a los coordinadores de área
 
 Para tener acceso, previo al acto formal de Entrega-Recepción a la información de los recursos y las responsabilidades objeto de ésta, los coordinadores de área y sus equipos auxiliares deberán presentar al titular de la dependencia o entidad, el escrito que los acredita como tales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 38.
 
-Los integrantes del Comité Receptor, en coordinación con el Comité de Enlace, podrán conocer, entre otras, lo siguiente: las oficinas del ente de que se trate, el mobiliario y equipo con el cual cuenten y su estado físico, los almacenes, archivos, sistemas, inventarios y el avance de la complementación de la información a que se refiere el artículo 32 de esta Ley, así como la identificación y localización de los bienes y documentos que serán materia de la Entrega-Recepción.
+Constituido el Comité Receptor, en coordinación con el Comité de Enlace, deberá conocer, entre otras, lo siguiente: las oficinas del ente de que se trate, el mobiliario y equipo con el cual cuenten y su estado físico, los almacenes, archivos, sistemas, inventarios y el avance de la complementación de la información a que se refiere el artículo 32 de esta Ley, así como la identificación y localización de los bienes y documentos que serán materia de la Entrega-Recepción.
 
 ###### Artículo 39.
 
@@ -503,9 +537,11 @@ El Gobernador del Estado y los Ayuntamientos salientes, en el ámbito de su comp
 
 Los servidores públicos salientes de las dependencias y entidades de las administraciones públicas estatal o municipales, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-La Entrega-Recepción final de que se trate, deberá realizarse estrictamente de conformidad con lo que establecen los capítulos de esta Ley, así como las normas que para tal efecto expidan la Contraloría o los Órganos Internos de Control de los Ayuntamientos, en el ámbito de sus respectivas competencias.
+La Entrega-Recepción final de que se trate, deberá realizarse estrictamente de conformidad con lo que establece esta Ley, así como las normas que para tal efecto expidan la Contraloría o los Órganos Internos de Control de los Ayuntamientos, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 45.
 
@@ -519,9 +555,11 @@ Los servidores públicos y sujetos obligados, deberán notificar ante la Contral
 
 Para efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, la omisión al presente artículo, será considerada como causa grave.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 47.
 
-En caso de que el servidor público o sujeto obligado entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de treinta días hábiles, contados a partir de la fecha del acto de Entrega-Recepción, deberá hacerlas del conocimiento de la Contraloría o el Órgano Interno de Control, a fin de que sea requerido el servidor público o sujeto obligado saliente y proceda a su aclaración.
+En caso de que el servidor público o sujeto obligado entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de treinta días hábiles, contados a partir de la fecha de la firma del acta de Entrega-Recepción, deberá hacerlas del conocimiento de la Contraloría o el Órgano Interno de Control, a fin de que sea requerido el servidor público o sujeto obligado saliente y proceda a su aclaración.
 
 La Contraloría o el Órgano Interno de Control de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de Entrega-Recepción, citará dentro de los quince días hábiles siguientes, a los servidores públicos o sujetos obligados entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes y que proporcionen la documentación que, en su caso, resultare faltante, levantando un acta circunstanciada, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas.
 
@@ -660,3 +698,15 @@ P.O. 11 DE MAYO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 474.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6; SE REFORMAN LOS ARTÍCULOS 1, 2, FRACCIONES II, III Y IV, 7 INCISO A), 4, 9, 31 FRACCIÓN II, 38, 44 Y 47 DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y LOS MUNICIPIOS DE DURANGO".]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
