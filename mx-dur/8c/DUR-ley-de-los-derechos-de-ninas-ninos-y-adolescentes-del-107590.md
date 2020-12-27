@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2020-11-19"
+last_updated: "2020-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -1381,19 +1381,15 @@ Para el mejor cumplimiento de sus funciones, el Sistema Local podrá constituir 
 
 #### Sección Segunda. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-La Secretaría Ejecutiva es un organismo público descentralizado con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, contará con los recursos que le asigne el presupuesto de Egresos del Estado; sectorizado a la Secretaría General de Gobierno.
+La coordinación operativa del Sistema Local recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva y a través de su titular, ejercerá las siguientes atribuciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-La Secretaría Ejecutiva tiene por objeto operar y coordinar el Sistema Local de Protección, adoptar, articular y consolidar la política estatal en materia de derechos de niñas, niños y adolescentes, acorde a la política nacional, y a través de su titular ejercerá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-I. Administrar y representar legalmente a la Secretaría Ejecutiva;
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
@@ -1409,9 +1405,7 @@ IV. Elaborar el anteproyecto del Programa Local para someterlo a consideración 
 
 V. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Local;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-VI. Eiaborar (sic) y mantener actualizado el Manual de Organización y Operación del Sistema Local de Protección y someterlo a consideración de la junta de Gobierno;
+VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
@@ -1449,29 +1443,21 @@ XV. Fungir como instancia de interlocución con organizaciones de la sociedad ci
 
 XVI. Realizar acciones de supervisión y guía a las dependencias y entidades de la Administración Pública Estatal y Municipal, que presten servicios en materia de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XVII. Expedir el reglamento interior de la Secretaría Ejecutiva y someterlo a consideración de la Junta de Gobierno;
+XVII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
 XVIII. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre niñas, niños y adolescentes a nivel Estatal y Municipal, a fin de orientar políticas públicas, programas, planes y demás acciones a favor de niñas, niños y adolescentes, con el objetivo de llevar a cabo el monitoreo, seguimiento y evaluación de los mismos;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XIX. Proponer los nombramientos de Directores, Coordinadores y Jefes de Departamento ante la Junta de Gobierno; y
+XIX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
 XX. Las demás que le encomiende el Presidente o el Sistema Local de Protección.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-Para la formulación de sus planes y programas, la Secretaría Ejecutiva deberá sujetarse a la Ley de Planeación del Estado de Durango, al Plan Estatal de Desarrollo del Estado de Durango, a los Programas Sectoriales y Regionales que deriven del mismo, a las asignaciones de gasto y financiamiento autorizadas y demás legislación aplicable en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-La Secretaría Ejecutiva tendrá su domicilio legal en la Ciudad de Victoria de Durango, capital del Estado de Durango y podrá establecer oficinas en otros municipios, de acuerdo a su disponibilidad presupuestaria y así autorice la Junta de Gobierno.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 83.
 
@@ -1487,99 +1473,29 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-El Titular de la Secretaría Ejecutiva será nombrado de conformidad con las disposiciones jurídicas de la Ley de Entidades Paraestatales del Estado de Durango, cumpliendo además con los requisitos señalados en el presente artículo.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-Los Titulares de las Áreas que integran la Secretaría Ejecutiva, serán designados a propuesta del Titular de la misma y ratificados por la Junta de Gobierno.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 83 Bis.
 
-La Secretaría Ejecutiva, contará con una Junta de Gobierno y un Secretario Ejecutivo Estatal para su administración.
-
-La Junta de Gobierno, será la autoridad máxima de la Secretaría Ejecutiva; se regirá por lo dispuesto en esta Ley y las demás disposiciones aplicables, y estará integrada de la siguiente manera:
-
-I. Un Presidente, que será el Gobernador del Estado;
-
-II. Un Vicepresidente, que será el Secretario General de Gobierno;
-
-III. Un Secretario Técnico del Consejo, que será el Secretario Ejecutivo Estatal;
-
-IV. Cinco Vocales, que serán los Titulares de:
-
-a. La Dirección del Sistema DIF Estatal;
-
-b. La Secretaría de Finanzas y de Administración del Estado;
-
-c. La Secretaría de Salud del Estado;
-
-d. La Secretaría de Educación del Estado; y
-
-e. La Secretaría de Desarrollo Social.
-
-V. Un comisario Público que será designado por la Secretaría de Contraloría; con derecho a voz pero sin voto.
-
-Los servidores públicos de la Junta de Gobierno tendrán cargo honorífico.
-
-Los suplentes de los integrantes de la Junta de Gobierno, tendrán el nivel de subsecretaría, dirección general o su equivalente y deben ser designados mediante oficio.
-
-En sus decisiones los integrantes tendrán derecho a voz y voto. El Secretario Técnico, tendrá las facultades que le señale el Reglamento Interior.
-
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga su Presidente, el Secretario Técnico o al menos tres de sus integrantes; sesionará válidamente con la asistencia de la mayoría de sus integrantes y serán válidos los acuerdos que se voten por la mayoría de los miembros presentes, teniendo el voto de calidad el Presidente.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
 ###### Artículo 83 Bis 1.
 
-La Junta de Gobierno tendrá las atribuciones siguientes:
-
-I. Aprobar y modificar el Reglamento Interior con base en la propuesta que presente el Secretario Técnico;
-
-II. Aprobar las disposiciones normativas que el Secretario Ejecutivo someta a su consideración en términos de la Ley y su Reglamento;
-
-III. Definir los criterios, prioridades y metas de la Secretaría Ejecutiva que proponga el Secretario Técnico;
-
-IV. Conocer y en su caso, aprobar los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Secretaría Ejecutiva de acuerdo con esta Ley;
-
-V. Recibir los informes que la Secretaría Ejecutiva emita de conformidad con la Ley General;
-
-VI. Aprobar el presupuesto operativo anual; y
-
-VII. Las demás que por su naturaleza jurídica le correspondan.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
 ###### Artículo 83 Bis 2.
 
-El patrimonio de la Secretaria Ejecutiva se integra:
-
-I. Con los recursos que le sean asignados en la Ley de Egresos del Estado;
-
-II. Los bienes muebles e inmuebles que le sean asignados;
-
-III. Las aportaciones, legados, donaciones y demás liberalidades que reciba de las personas físicas o morales de los sectores social, privado, nacional o extranjero; y
-
-IV. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
-
-La Secretaría Ejecutiva, gozará respecto de su patrimonio, de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado. Dichos bienes, así como los actos jurídicos que celebre la Secretaría Ejecutiva, quedarán exentos de toda clase de impuestos y derechos estatales.
-
-La Secretaría Ejecutiva administrará sus recursos propios por medio de sus órganos, de conformidad con las leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
 ###### Artículo 83 Bis 3.
 
-La Junta de Gobierno, a propuesta de su Presidente o cuando menos de la tercera parte de sus miembros, podrá constituir comités o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la Secretaría Ejecutiva, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
 ###### Artículo 83 Bis 4.
 
-Las relaciones obrero-patronales del personal que labore en la Secretaría Ejecutiva se regirán por las disposiciones contenidas en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones legales aplicables
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
 ###### Artículo 84.
 
@@ -1776,5 +1692,73 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se extingue el Organismo Público Descentralizado denominado Secretaría Ejecutiva que forma parte del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto serán concluidos por el titular del órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Gobierno del Organismo Público Descentralizado denominado Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, continuará en funciones hasta que inicie el proceso de liquidación del organismo.
+
+###### ARTÍCULO CUARTO.
+
+La liquidación del Organismo Público Descentralizado denominado Secretaría Ejecutiva que forma parte del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, estará a cargo de un liquidador nombrado por la Secretaría de Finanzas y de Administración del Gobierno del Estado de Durango, para lo cual tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+###### ARTÍCULO QUINTO.
+
+El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo.
+
+II. Someter a dictamen del auditor designado por la Secretaría de Contraloría, los estados financieros inicial y final de liquidación.
+
+III. Informará mensualmente a las Secretarías de Finanzas y de Administración y de Contraloría, sobre el avance y estado que guarde el proceso.
+
+IV. Llevará a cabo la entrega de los bienes propiedad del Organismo Público Descentralizado denominado Secretaría Ejecutiva que forma parte del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial.
+
+V. Transferir en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+VI. Se apegará a los acuerdos que emita el Gobierno del Estado de Durango, mediante los entes gubernamentales que se designen para tal efecto, y
+
+VII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación. El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de un año.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor del presente decreto en el Periódico Oficial del Gobierno del Estado de Durango, se tendrá por concluida la relación jurídico-laboral entre el organismo y los trabajadores de este.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los juicios promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Organismo Público Descentralizado denominado Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables a la Secretaría General de Gobierno.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega recepción del organismo que se extingue mediante el presente decreto.
+
+###### ARTÍCULO NOVENO.
+
+El Titular del Organismo Público Descentralizado denominado Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango, inscribirá la extinción de dicho Organismo en la Dirección del Registro Público de la Coordinación General de Normatividad, Registro y Seguimiento de Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO.
+
+El presente decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro del plazo no mayor a 30 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
