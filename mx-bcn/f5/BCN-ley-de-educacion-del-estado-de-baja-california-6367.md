@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2019-03-15"
+last_updated: "2020-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -2296,3 +2298,33 @@ P.O. 15 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 321 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 14 EN SU FRACCIÓN XXVI Y SE ADICIONA UNA FRACCIÓN XXVII A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 188 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley de Educación del Estado de Baja California, publicada el 29 de septiembre de 1995 en el Periódico Oficial del Estado y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Tercero. La autoridad educativa estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto. Los procedimientos y tramites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva y atendiendo al principio de austeridad, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Quinto. Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 Y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+
+Sexto. Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+Séptimo. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Baja California prevista en el artículo 22 de este Decreto deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo.
+
+Octavo. La integración de los Consejos de Participación Escolar, prevista en el artículo 109 de este Decreto deberá quedar instalada en un plazo no mayor de sesenta días contados a partir del inicio del ciclo escolar 2020-2021.
+
+Noveno. La integración del Consejo Municipal de Participación Escolar, prevista en el artículo 110 de este Decreto deberá quedar instalada en un plazo no mayor de ciento veinte días contados a partir del inicio del ciclo escolar 2020-2021.
+
+Décimo. La autoridad educativa estatal deberá emitir las disposiciones a fin de que el Consejo Estatal de Participación Social, quede instalado en un plazo no mayor de ciento veinte días contados a partir del inicio del ciclo escolar 2020-2021.
+
+Décimo Primero. El Sistema Integral de Formación, Actualización, Capacitación y Superación Profesional para Maestros, previsto en el artículo 81 de este Decreto deberá instalarse antes de finalizar el año 2020.
+
+Décimo Segundo. El Programa Educativo Estatal previsto en el artículo 98 de este Decreto se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la Ley de Educación del Estado de Baja California.
+
+Décimo Tercero. Todas las iniciativas de reforma o adición a la Ley de Educación del Estado de Baja California, que hayan sido presentadas con anterioridad a la emisión del presente Decreto, quedan jurídicamente desestimadas por ministerio de ley, debiéndose estar al contenido del presente Decreto.
