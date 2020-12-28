@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2015-08-03"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -803,7 +803,9 @@ II. La contratación se efectuará para apoyar las funciones de los defensores p
 
 Los profesionistas e instituciones contratadas, deberán rendir los informes que le solicite la Dirección General del Instituto.
 
-El Instituto podrá firmar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades, Centros Hospitalarios del Estado y demás instituciones a fin de asistirse para el cumplimiento de los propósitos de la asesoría y defensa pública.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+El Instituto podrá firmar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades, Centros Hospitalarios del Estado y demás instituciones públicas o privadas, a fin de asistirse para el cumplimiento de los propósitos de la asesoría y defensa pública, incluidos los servicios de traductores e intérpretes necesarios para salvaguardar los derechos de las víctimas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1218,3 +1220,11 @@ La reforma al Artículo 22 BIS entrará en vigor, en la misma fecha en que inici
 ###### ARTICULO SEGUNDO.
 
 Los asuntos en trámite que se relacionen con las Víctimas del Delito dentro del Instituto de Asesoría y Defensoría Pública, continuarán hasta su conclusión por parte de éste.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 448.- REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
