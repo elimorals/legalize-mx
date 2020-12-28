@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-11-20"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -320,6 +320,10 @@ La Secretaría implementará programas especiales, que prevengan y atiendan de f
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 Cuando el ausentismo sea de cinco días consecutivos o siete acumulados en un mes, sin la justificación por escrito del padre, madre o tutor, las escuelas públicas y privadas de nivel básico a través de sus directores deberán informar a la Secretaría, la cual emitirá una Alerta Temprana, que será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes a fin de que en uso de sus atribuciones realicen las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+La autoridad educativa llevará a cabo acciones para garantizar el derecho a la educación para que ninguna institución educativa, de nivel básico, medio superior y superior, previo el cumplimiento de los requisitos aplicables, nieguen el ingreso, permanencia, matrícula o acceso de una estudiante embarazada o lactante, debiendo otorgársele la protección y facilidades apropiadas para su permanencia o reincorporación.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2314,5 +2318,11 @@ P.O. 26 DE OCTUBRE DE 2020.
 P.O. 20 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 377. SE REFORMA POR ADICIÓN DE UNA SECCIÓN 8, DENOMINADA "DE LA EDUCACIÓN A DISTANCIA POR EMERGENCIA SANITARIA O DESASTRE NATURAL" Y LOS ARTÍCULOS 91 BIS Y 91 BIS 1, DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 399. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
