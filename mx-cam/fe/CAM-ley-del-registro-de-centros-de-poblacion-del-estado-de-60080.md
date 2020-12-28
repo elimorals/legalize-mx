@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2020-11-11"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -140,6 +140,8 @@ b) El Ejido de San Agustín Chunhuás.
 c) Los ranchos de Altamira, Chichmuc, Chun-Chaká, Dolores, Nazarero, Pepenché, Refugio, San Antonio, San Diego, San Francisco, San José, San José Xcanchaltún, San Juan, San Rafael, San Román, Santa Bárbara, Santa Rita, Santa Rosa, Sihó, Huayamá, Xnohlán, Quinta Sihó, Chuipul, Santa María y Chunhuás.
 
 A la Sección Municipal de Bécal corresponden:
+
+(REFORMADO (N. DE E. REPUBLICADO), P.O. 28 DE DICIEMBRE DE 2020)
 
 a) La ciudad de Bécal, Cabecera de la Sección.
 
@@ -517,7 +519,9 @@ X-Calumkín.
 
 A la Sección Municipal de Pomuch, corresponden:
 
-a) La villa de Pomuch, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+a) La ciudad de Pomuch, Cabecera de la Sección.
 
 b) El ejido de Zodzil.
 
@@ -724,3 +728,23 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente su publicació
 SEGUNDO.- El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento de la presente ley, en un plazo de 90 días contados a partir de la entrada en vigor de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 206 POR EL QUE “SE REFORMA EL INCISO A) DEL PÁRRAFO TERCERO DE LA FRACCIÓN V DEL ARTÍCULO 9 DE LA LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día 1º de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Notifíquese al H. Ayuntamiento del Municipio de Calkiní en su carácter de promovente de esta declaratoria y en su oportunidad entréguese una copia en pergamino del presente decreto a la H. Junta Municipal de Bécal.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 207 POR EL QUE “SE REFORMA EL INCISO A) DEL PÁRRAFO TERCERO DE LA FRACCIÓN III DEL ARTÍCULO 15 DE LA LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Notifíquese al H. Ayuntamiento del Municipio de Hecelchakán en su carácter de promovente de esta declaratoria y en su oportunidad entréguese una copia en pergamino del presente decreto a la H. Junta Municipal de Pomuch.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
