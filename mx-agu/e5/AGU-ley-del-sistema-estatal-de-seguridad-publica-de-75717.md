@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2020-06-29"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -79,11 +79,17 @@ I.- Salvaguardar los derechos humanos y sus garantías, la preservación del ord
 
 II.- Disminuir y contener la incidencia delictiva, identificando sus factores criminógenos;
 
-III.- Orientar e informar a las víctimas y ofendidos del delito, buscando además que reciban una atención adecuada y oportuna por parte de las instituciones correspondientes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-IV.- Optimizar la labor de las instituciones policiales en el combate a la delincuencia, las conductas antisociales, la prevención y control del delito y de las infracciones administrativas, de tal forma que haga posible abatir la incidencia delictiva en el Estado;
+III.- Orientar e informar a las víctimas y ofendidos del delito, buscando además que reciban una atención adecuada y oportuna por parte de las instituciones correspondientes de conformidad con la Ley de Atención y Protección a la Víctima y Ofendido para el Estado de Aguascalientes;
 
-V.- Colaborar para la plena reinserción social de los sentenciados y la reintegración social de los adolescentes;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+IV.- Optimizar la labor de las instituciones policiales en el combate a la delincuencia, las conductas antisociales, la prevención y control del delito y de las infracciones administrativas, de tal forma que haga posible abatir la incidencia delictiva en el Estado, de conformidad con la Ley de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+V.- Colaborar para la plena reinserción social de los sentenciados y la reintegración social y familiar de los adolescentes;
 
 VI.- Promover que los ciudadanos y la población en general incrementen su confianza en las instituciones que realizan tareas de seguridad pública; y
 
@@ -2578,3 +2584,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 449.- REFORMAS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
