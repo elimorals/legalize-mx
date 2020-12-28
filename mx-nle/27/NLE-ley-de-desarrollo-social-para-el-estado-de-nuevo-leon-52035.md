@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2020-12-04"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -153,9 +153,17 @@ VII. Vigilar que los recursos públicos que se destinan al desarrollo social se 
 
 VIII. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
 
-IX. Determinar las zonas de atención prioritaria en el Estado; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-X. Las demás que señalen las disposiciones legales aplicables.
+IX. Determinar las zonas de atención prioritaria en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+X. Implementar programas sociales permanentes para el establecimiento de guarderías o estancias infantiles para apoyar a las madres y padres trabajadores; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XI. Las demás que señalen las disposiciones legales aplicables
 
 ### CAPÍTULO II. ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -591,6 +599,12 @@ Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos g
 
 P.O. 4 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 390 SE REFORMA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 390 SE REFORMA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial del Estado de Nuevo León.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 389 SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER UNA NUEVA FRACCIÓN XI DEL ARTÍCULO 7º DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN"]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
