@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2018-03-09"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL NÚMERO DEL 9 DE MARZO DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -171,7 +169,9 @@ XXXII. Las demás que se determinen en esta Ley, su Reglamento y otras disposici
 
 La Fiscalía General, es un organismo autónomo del Estado, dotada de personalidad jurídica y patrimonio propio, con autonomía financiera, presupuestal, técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
 
-Contará con capacidad para decidir sobre la ejecución de su presupuesto, determinar su organización interna y funcionamiento mediante el Reglamento Interno que emita. Podrá definir y ejercer en forma autónoma sus partidas presupuestales conforme al presupuesto aprobado, que deberán ser suficientes para la atención de las funciones y adecuado cumplimiento de éstas conforme a lo establecido en esta Ley. El presupuesto de la Fiscalía General no podrá reducirse en términos reales al aprobado en el ejercicio inmediato anterior. Su ejecución seguirá los principios de transparencia y rendición de cuentas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+Contará con capacidad para decidir sobre la ejecución de su presupuesto, determinar su organización interna y funcionamiento mediante el Reglamento Interno que emita. Podrá definir y ejercer en forma autónoma sus partidas presupuestales conforme al presupuesto aprobado, que deberán ser suficientes para la atención de las funciones y adecuado cumplimiento de éstas conforme a lo establecido en esta Ley. El presupuesto de gasto corriente de la Fiscalía General no podrá reducirse en términos reales al aprobado en el ejercicio inmediato anterior. Sin embargo, el Congreso del Estado podrá modificar, por causa justificada y fundada, el monto presupuestado para el gasto de inversión. Su ejecución seguirá los principios de transparencia y rendición de cuentas.
 
 Estará a cargo del Fiscal General, quien será el encargado de su conducción y desempeño, de conformidad con lo dispuesto en esta ley y demás normatividad aplicable.
 
@@ -1278,3 +1278,11 @@ BERNARDO JAIME GONZÁLEZ GARZA
 EL C. SECRETARIO DE ADMINISTRACIÓN
 
 ENRIQUE TORRES ELIZONDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 398. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
