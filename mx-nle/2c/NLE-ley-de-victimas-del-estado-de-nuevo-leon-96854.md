@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-victimas-del-estado-de-nuevo-leon-96854"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-12-11"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de diciembre de 2013.
 
@@ -1079,6 +1079,10 @@ VI. Los mecanismos para adecuar las tareas previstas en casos de emergencia o cu
 
 Se establece el Registro Estatal de Víctimas, como mecanismo administrativo y técnico que soporta los procesos de ingreso, registro y atención a las víctimas del delito y de violaciones de derechos humanos. Tiene como finalidad complementaria generar una base de datos que favorezca identificar, cuantitativa y cualitativamente, los fenómenos delictivos o de violaciones a derechos humanos que inciden en el aumento del número de víctimas, así como aportar elementos para el diseño y evaluación de políticas públicas encaminadas a combatir eficaz y efectivamente dichos fenómenos, a partir del estudio y manejo de información estadística, en beneficio de la sociedad en general y de aquellas personas que, por su perfil y situación particular, potencialmente podrían convertirse en víctimas.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+Artículo 78 BIS.- Respecto a las víctimas indirectas que sean menores de edad y hayan quedado en la orfandad como consecuencia de la comisión del delito de homicidio o feminicidio, se realizará un registro especial que formará parte del Registro Estatal de Víctimas.
+
 ###### Artículo 79.
 
 El Registro dependerá de la Comisión y se alimentará con la información que respecto a las víctimas de delitos del fuero común y de víctimas de violaciones a derechos humanos.
@@ -1512,3 +1516,9 @@ P.O. 11 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 138. LA LXXV LEGISLATURA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN, TIENE POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO NO 138 DE FECHA 14 DE MAYO DEL AÑO 2019; CON FUNDAMENTO EN EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, SE RECHAZAN LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO NÚM. 138. EN RAZÓN DE LO ANTERIOR, SE REFORMA POR ADICIÓN DE DOS PÁRRAFOS, EL ARTÍCULO 46 DEL TÍTULO SEGUNDO, CAPÍTULO V, SECCIÓN LL (SIC), DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 397. SE ADICIONA EL ARTÍCULO 78 BIS A LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
