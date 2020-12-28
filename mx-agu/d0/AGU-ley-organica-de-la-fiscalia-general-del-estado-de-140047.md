@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2020-01-20"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -545,7 +545,15 @@ d) Las que se establezcan en la presente Ley y las demás disposiciones jurídic
 
 LVI. Participar como integrante de la Conferencia Nacional de Procuración de Justicia, el Consejo Estatal de Seguridad Pública, el Sistema de Atención a Víctimas u Ofendidos de Aguascalientes y de todas aquellas instancias cuya participación requiera la ley, dando el debido seguimiento y cumplimiento a los acuerdos emitidos en su seno;
 
-LVII. Resolver los procedimientos de responsabilidad administrativa, seguidos en contra de cualquiera de los servidores públicos que integran el Órgano, de conformidad con lo dispuesto por la presente Ley y demás normatividad aplicable; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+LVII. Resolver los procedimientos de responsabilidad administrativa, seguidos en contra de cualquiera de los servidores públicos que integran el Órgano, de conformidad con lo dispuesto por la presente Ley y demás normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+LVIII. Proporcionar los traductores e intérpretes necesarios para salvaguardar los derechos de las víctimas: y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 LVIII. Las demás que le señalen esta Ley, los reglamentos que de ella emanen y las demás disposiciones jurídicas relativas y aplicables.
 
@@ -2576,3 +2584,13 @@ ERICA PALOMINO BERNAL
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 17 de enero de 2020.- Martin Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 448.- REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
