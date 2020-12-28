@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2019-10-14"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
@@ -124,6 +124,20 @@ II. Comunitario;
 III. Situacional; y
 
 IV. Psicosocial.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+Artículo 7° A.- La prevención social de la violencia y la delincuencia en el ámbito social se llevará a cabo mediante:
+
+I.- Programas integrales de desarrollo social, cultural y económico que no produzcan estigmatización, incluidos los de salud, educación, vivienda, empleo, deporte y desarrollo urbano;
+
+II.- La promoción de actividades que eliminen la marginación y la exclusión;
+
+III.- El fomento de la solución pacífica de conflictos;
+
+IV.- Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad, y
+
+V.- Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación.
 
 ###### Artículo 8º.
 
@@ -548,3 +562,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 447.- REFORMAS A LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
