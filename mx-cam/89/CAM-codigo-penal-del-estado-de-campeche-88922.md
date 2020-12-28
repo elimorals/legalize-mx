@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2020-12-08"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1749,7 +1749,9 @@ Dicha penalidad se aumentará en una mitad en su mínimo y en su máximo, si se 
 
 En los casos señalados en los dos párrafos anteriores se procederá de oficio.
 
-### CAPÍTULO III. VIOLACIÓN A LA INTIMIDAD PERSONAL
+### CAPÍTULO III. VIOLACIÓN A LA INTIMIDAD PERSONAL Y VIOLACIÓN A LA INTIMIDAD SEXUAL
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 170.
 
@@ -1787,35 +1789,73 @@ Se impondrán de dos a cuatro años de prisión y multa de veinte a ciento veint
 
 Las mismas sanciones del artículo anterior se impondrán al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permite, se introduzca furtivamente o con engaño o violencia, o sin permiso de la persona autorizada para darlo, en algún establecimiento o espacio público o privado mientras se encuentre cerrado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 ### CAPÍTULO VI. ASALTO
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-#### SECCIÓN PRIMERA. APREHENSIÓN ILEGAL
+#### SECCIÓN I. VIOLACIÓN A LA INTIMIDAD PERSONAL
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 175.
 
-Sin perjuicio de las sanciones que se impongan por la comisión de otros delitos, se impondrán de dos a cuatro años de prisión y multa de cien a trescientos días de salario a quien, sin consentimiento del otro o sin autorización judicial, en su caso, y para conocer asuntos relacionados con la intimidad de aquél:
+Sin perjuicio de las sanciones que se impongan por la comisión de otros delitos, se impondrán de tres a cinco años de prisión y multa de cien a trescientas Unidades de Medida y Actualización a la persona que, sin consentimiento de otra o sin autorización judicial, en su caso, y para conocer asuntos relacionados con la intimidad de aquélla:
 
-I. Se apodere de documentos u objetos de cualquier clase;
+I. Se apodere de documentos, objetos, imágenes, audios o videos, de cualquier clase, con excepción de los de índoles (sic) sexual; y/o
 
-II. Reproduzca, circule o publique, por cualquier medio, dichos documentos u objetos;
+II. Reproduzca, circule o publique, por cualquier medio, los documentos, objetos, imágenes, audios o videos señalados en la fracción anterior; y/o
 
-III. Utilice medios técnicos para escuchar u observar, transmitir, grabar o reproducir la imagen o el sonido en espacios privados.
+III. Utilice medios técnicos o tecnologías de la información para escuchar u observar, transmitir, grabar o reproducir imágenes, audios o videos en espacios privados, con excepción de aquéllos de índole sexual.
+
+Si la persona fuese servidora o servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción prevista, se procederá a su destitución y la inhabilitación de cinco a diez años para su desempeño en el mismo orden.
 
 Este delito se perseguirá por querella de parte.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN II. VIOLACIÓN A LA INTIMIDAD SEXUAL
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 175 Bis.
+
+Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización.
+
+Así como quien produzca, edite, videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
+
+Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de quinientos a mil Unidades de Medida y Actualización.
+
+Se impondrán las mismas sanciones previstas en el párrafo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
+
+El mínimo y el máximo de la sanción señalada en este artículo se aumentará hasta en una mitad:
+
+I.- Cuando el delito sea cometido por la o el cónyuge, concubinario o concubina, o por cualquier persona con la que la víctima tenga o haya tenido una relación sentimental, afectiva o de confianza;
+
+II.- Cuando el delito sea cometido por una o un servidor público en ejercicio de sus funciones;
+
+III.- Cuando se cometa contra una persona que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo;
+
+IV.- Cuando se obtenga algún tipo de beneficio no lucrativo o con fines lucrativos;
+
+V.- Cuando a consecuencia de los efectos o impacto del delito, la víctima atente contra su integridad o contra su propia vida;
+
+VI.- Cuando la víctima se encuentre en situaciones de vulnerabilidad por su condición económica, social, cultural o étnica;
+
+VII.- Cuando la o el sujeto activo haya obtenido, para tales efectos, dicho material mediante robo o acceso no autorizado o intervención de comunicaciones o de archivos privados, o cualquier otro medio de obtención sin consentimiento de la víctima;
+
+VIII.- Cuando la o el sujeto activo sea ministro de cualquier culto.
+
+Si la persona fuese servidora o servidor público se procederá a la destitución de su empleo, cargo o comisión y a la inhabilitación de cinco a diez años para su desempeño en el mismo orden.
+
+En todo caso, el Ministerio Público o la autoridad judicial, en el ámbito de su competencia, solicitará u ordenará el retiro y eliminación inmediata de la publicación de las imágenes, audios o videos no autorizados a las plataformas o medios de que se tratare, a efectos de salvaguardar la integridad de la víctima.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
 
-#### SECCIÓN SEGUNDA. RETARDO ILEGÍTIMO EN LA ENTREGA DE UN DETENIDO
+#### SECCIÓN PRIMERA. APREHENSIÓN ILEGAL
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
-
-#### SECCIÓN TERCERA. EJERCICIO INDEBIDO DE LA FUNCIÓN INVESTIGADORA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO ÚNICO. REVELACIÓN DE SECRETOS
 
@@ -2737,7 +2777,9 @@ Cuando alguno de los delitos previstos en este Título sea cometido por un servi
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA DIGNIDAD Y EL HONOR DE LAS PERSONAS
 
-### CAPÍTULO II. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPÍTULO II. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O RESISTIRLO
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 244.
 
@@ -2853,23 +2895,29 @@ Las sanciones establecidas en los artículos anteriores se aumentarán en una mi
 
 No se actualizarán los delitos de este Capítulo cuando se trate de programas educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, particulares en el ejercicio profesional, ascendientes en línea recta sin límite de grado, tutores, o quienes ejerzan la patria potestad, siempre que tengan por objeto la educación sexual, la educación sobre la función reproductiva, la prevención de infecciones de transmisión sexual y el embarazo no deseado de adolescentes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 ### CAPÍTULO ÚNICO. DELITOS CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN DE CADÁVERES Y RESTOS HUMANOS
 
 ###### Artículo 260.
 
-Se impondrán de tres a diez años de prisión y multa de cuatrocientos a ochocientos días de salario:
+Se impondrán de cinco a diez años de prisión y multa de cuatrocientas a ochocientas Unidades de Medida y Actualización:
 
-I. A quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas, y obtenga cualquier beneficio distinto al económico;
+I.- A quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
-II. A quien reproduzca, publique, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas, y obtenga cualquier beneficio distinto al económico.
+II.- A quien reproduzca, publique, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
 ###### Artículo 261.
 
 A quien financie, dirija, administre o supervise cualquiera de las actividades previstas en las fracciones del artículo anterior, se le impondrán de cuatro a doce años de prisión y multa de ochocientos a mil doscientos días de salario.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 262.
 
-A quien ofrezca, posea o almacene intencionalmente sin fines de comercialización, el material a que se refieren las fracciones I y II del artículo 260 de este Código, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, se le impondrán de uno a cinco años de prisión y multa de doscientos a quinientos días de salario.
+A quien ofrezca, posea o almacene intencionalmente, el material a que se refieren las fracciones I y II del artículo 260 de este código, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, se le impondrán de tres a cinco años de prisión y multa de doscientas a quinientas Unidades de Medida y Actualización.
+
+La pena se aumentará en una mitad cuando quien ofrezca, posea o almacene intencionalmente dicho material, lo haga con fines de comercialización.
 
 ### CAPÍTULO ÚNICO. PORTACIÓN Y FABRICACIÓN DE ARMAS PROHIBIDAS
 
@@ -3451,7 +3499,7 @@ Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente 
 
 ### CAPÍTULO III. QUEBRANTAMIENTO DE SANCIONES
 
-#### SECCIÓN CUARTA. INCUMPLIMIENTO DE UNA MEDIDA DE PROTECCIÓN
+#### SECCIÓN SEGUNDA. RETARDO ILEGÍTIMO EN LA ENTREGA DE UN DETENIDO
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -3459,9 +3507,9 @@ Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente 
 
 Se impondrán de cuatro a diez años de prisión, multa de cien a ciento cincuenta Unidades de Medida y Actualización, al servidor público que, sin orden de aprehensión librada por la autoridad jurisdiccional competente, detenga a una persona, fuera de los casos de delito flagrante o urgencia, en términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-#### SECCIÓN PRIMERA. PREVARICACIÓN
+#### SECCIÓN TERCERA. EJERCICIO INDEBIDO DE LA FUNCIÓN INVESTIGADORA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 304.
 
@@ -3477,9 +3525,9 @@ Al agente ministerial que reciba a un detenido en flagrante delito por un partic
 
 La misma sanción será impuesta al policía ministerial o de seguridad pública que, al realizar la detención de un imputado en los casos de delito flagrante o casos urgentes, no ponga injustificadamente al detenido a disposición de la autoridad competente sin dilación alguna.
 
-#### SECCIÓN SEGUNDA. EJERCICIO INDEBIDO DE LA FUNCIÓN JUDICIAL
+#### SECCIÓN CUARTA. INCUMPLIMIENTO DE UNA MEDIDA DE PROTECCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 306.
 
@@ -3535,11 +3583,19 @@ A quien cometa los delitos previstos en las fracciones IV, V, VI, VII y IX se le
 
 Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta Unidades de Medida y Actualización al servidor público que dé a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución judicial, sean reservados o confidenciales.
 
+#### SECCIÓN PRIMERA. PREVARICACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
+
 ###### Artículo 308.
 
 El agente del ministerio público a quien corresponda acatar la medida de protección dictada por autoridad jurisdiccional competente a favor de los sujetos en situación de riesgo, que no le diere cabal cumplimiento en los términos y condiciones establecidos en la legislación en la materia, se le impondrá multa de cien a quinientas Unidades de Medida y Actualización.
 
 ### CAPÍTULO IV. REVELACIÓN DE INFORMACIÓN SOBRE SUJETOS EN SITUACIÓN DE RIESGO
+
+#### SECCIÓN SEGUNDA. EJERCICIO INDEBIDO DE LA FUNCIÓN JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2017)</small>
 
 ###### Artículo 309.
 
@@ -4548,5 +4604,15 @@ P.O. 8 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor el 1º de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 158 POR EL QUE “SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO TERCERO PARA QUEDAR COMO “VIOLACIÓN A LA INTIMIDAD PERSONAL Y VIOLACIÓN A LA INTIMIDAD SEXUAL”; LOS ARTÍCULOS 175; 260; 262 Y LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO PARA QUEDAR COMO “PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O RESISTIRLO”, Y SE ADICIONAN LA SECCIÓN I DENOMINADA “VIOLACIÓN A LA INTIMIDAD PERSONAL”, Y LA SECCIÓN II DENOMINADA “VIOLACIÓN A LA INTIMIDAD SEXUAL” AL CAPÍTULO III DEL TÍTULO TERCERO Y UN ARTÍCULO 175 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
