@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-del-desarrollo-estatal-y-regional-del-68780"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-08"
-last_updated: "2013-11-20"
+last_updated: "2020-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "AGU"
 ---
 # LEY DE PLANEACION DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
 
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE PLANEACIÓN DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de junio de 2009.
 
@@ -794,3 +798,77 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de julio de 2021, con excepción de lo señalado en el artículo Décimo Segundo Transitorio, el cual entrará en vigor al día siguiente de la publicación de este Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se abroga la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes de fecha 08 de junio de 2009, así como todas sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Los Planes y Programas expedidos con base en las disposiciones de la Ley que se abroga, continuarán vigentes hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Instituto de Planeación del Estado de Aguascalientes, a más tardar dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Para el inicio de actividades del Instituto de Planeación del Estado de Aguascalientes, su Junta de Gobierno deberá quedar instalada a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Por única ocasión, el Director General del Instituto de Planeación del Estado de Aguascalientes deberá expedir la convocatoria para designar a quienes fungirán como representantes de los Sectores Empresarial, Industrial, Desarrollo Territorial, Ambiental, Social, Salud y Educativo, a más tardar dentro de los quince días siguientes a su nombramiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes y las disposiciones normativas necesarias para el cumplimiento de este Decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+La Junta de Gobierno del Instituto de Planeación del Estado de Aguascalientes deberá expedir el Reglamento Interior de dicho Instituto, dentro de los ciento ochenta días siguientes a su instalación.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos, obligaciones y recursos materiales y financieros pertenecientes y/o asignados a la Coordinación General de Planeación y Proyectos (CPLAP), pasarán a formar parte del Instituto de Planeación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+El Instituto de Planeación del Estado de Aguascalientes, asumirá las relaciones de trabajo del personal que se le transfiera, respetando los derechos laborales que la ley les confiere y hubiesen adquirido en su actual situación.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La transferencia de los expedientes y recursos humanos, materiales y financieros en general que correspondan al Instituto de Planeación del Estado de Aguascalientes en términos de lo dispuesto en la presente Ley, se hará según lo determinen la Contraloría del Estado, la Secretaría de Finanzas y la Secretaría de Administración del Estado de Aguascalientes, de conformidad con los acuerdos administrativos que para tal efecto expidan en el ámbito de su competencia.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Ejecutivo del Estado de Aguascalientes proveerá al Instituto de Planeación del Estado de Aguascalientes, por conducto de la Secretaría de Finanzas, de los recursos necesarios para la instalación y operación del mismo, para lo cual deberá realizar las adecuaciones y reasignaciones que sean requeridas como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2021 y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal 2021.
+
+Asimismo, el Ejecutivo del Estado de Aguascalientes, deberá presentar la Iniciativa de Reforma a la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2021, en la que se incluyan los conceptos de ingresos que correspondan al Instituto de Planeación del Estado de Aguascalientes, con el objeto de que el H. Congreso del Estado lo analice, discuta y en su caso apruebe antes de la entrada en vigor del presente Decreto.
+
+El presupuesto asignado a la Coordinación General de Planeación y Proyectos, una vez que inicie operaciones el Instituto de Planeación del Estado de Aguascalientes, será administrado y ejercido por éste, en uso de su propia estructura administrativa para financiar su gasto de operación y/o gasto de capital de acuerdo a lo dispuesto en los ordenamientos jurídicos aplicables.
+
+Las plazas asignadas a la Coordinación General de Planeación y Proyectos con las que operará durante el primer semestre del año 2021, una vez que inicie funciones el Instituto de Planeación del Estado de Aguascalientes, se transferirán a éste conforme a la estructura orgánica mediante la cual se determine su organización y serán consideradas como plazas de la estructura orgánica descentralizada.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cualquier referencia a la Coordinación General de Planeación y Proyectos en otros ordenamientos legales se entenderá hecha al Instituto de Planeación del Estado de Aguascalientes, de igual forma, los actos administrativos, jurídicos y financieros que se hubieran celebrado por dicha Coordinación General subsistirán en sus términos para que su ejecución, seguimiento y consecución sea realizada por el Instituto de Planeación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las referencias que se hagan en otras disposiciones legales sobre el Plan Sexenal se entenderán realizadas al Plan de Desarrollo del Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá llevar a cabo la inscripción del Instituto de Planeación del Estado de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
