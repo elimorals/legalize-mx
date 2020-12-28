@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2020-12-21"
+last_updated: "2020-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -255,7 +255,7 @@ XI.- Secretaría de Desarrollo Rural y Agroempresarial.- SEDRAE;
 
 XII.- Secretaría de Turismo.- SECTUR;
 
-XIII.- Coordinación General de Planeación y Proyectos.- CPLAP;
+XIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -363,9 +363,17 @@ XXI.- Atender las incidencias de carácter laboral y aplicar las sanciones que c
 
 XXII.- Asesorar a los Ayuntamientos del Estado, cuando así lo soliciten, en la esfera de su competencia;
 
-XXIII.- Designar al coordinador del proceso de reforma regulatoria de la dependencia de que se trate y supervisar el cumplimiento de las obligaciones establecidas por la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-XXIV.- Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+XXIII.- Designar al coordinador del proceso de reforma regulatoria de la dependencia de que se trate y supervisar el cumplimiento de las obligaciones establecidas por la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXIV.- Generar información actualizada, oportuna y confiable sobre las distintas actividades que se realizan por parte de la Dependencia, y en términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXV.- Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
 ###### Artículo 28.
 
@@ -543,11 +551,11 @@ LII.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que 
 
 LIII.- Promover y apoyar el incremento de la calidad y la productividad;
 
-LIV.- Fomentar y apoyar la organización para el trabajo y el autoempleo;
+LIV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2020)
 
 LV.- Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
 
-LVI.- Organizar la Oficina del Servicio Nacional de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas;
+LVI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2020)
 
 LVII.- Establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes, en los términos de la Ley de la materia;
 
@@ -855,7 +863,9 @@ I.- Dirigir, coordinar y controlar la ejecución de las políticas y programas p
 
 II.- Promover el crecimiento económico de las regiones de la Entidad, procurando el desarrollo equilibrado, sustentable y sostenido, considerando las ventajas competitivas respectivas;
 
-III.- Fomentar la creación de fuentes de empleo, y atender y apoyar a la micro, pequeña y mediana empresa; incrementar su competitividad, e impulsar el establecimiento y desarrollo de la industria en el Estado, así como la creación de unidades industriales y centros comerciales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+III.- Fomentar y promover la creación de fuentes de empleo, y atender y apoyar a la micro, pequeña y mediana empresa; incrementar su competitividad, e impulsar el establecimiento y desarrollo de la industria en el Estado, así como la creación de unidades industriales y centros comerciales;
 
 IV.- Evaluar los programas de desarrollo económico del Estado y vigilar su integralidad, a efecto de que beneficien en forma equitativa a las diferentes regiones y sectores de la población, revisando periódicamente los resultados obtenidos;
 
@@ -873,7 +883,9 @@ X.- Participar, en coordinación con las autoridades competentes en la planeaci�
 
 XI.- Organizar, administrar y mantener permanentemente actualizada la información sobre los recursos, características y participantes de las actividades económicas e industriales del Estado;
 
-XII.- Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación General de Planeación y Proyectos para su difusión;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XII.- Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con el Instituto de Planeación del Estado de Aguascalientes para su difusión;
 
 XIII.- Apoyar programas de investigación científica y tecnológica industrial, así como fomentar su divulgación;
 
@@ -911,9 +923,21 @@ XXIX.- Otorgar apoyos y subsidios que se ofrecerán a los emprendedores y MIPYME
 
 XXX.- Operar como organismo intermedio y promotor, ante instituciones y organismos de carácter público y privado, para la gestión de apoyos a las empresas, así como vincular esfuerzos e impulsar la comunicación entre los sectores público, privado y social en los campos de la competitividad y mejora tecnológica de las empresas en el Estado;
 
-XXXI.- Fomentar la vinculación de las empresas con el sector académico y centros de investigación y desarrollo tecnológico; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio, de las atribuciones de otras dependencias.
+XXXI.- Fomentar la vinculación de las empresas con el sector académico y centros de investigación y desarrollo tecnológico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXXII.- Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXXIII.- Organizar la Oficina del Servicio Nacional de Empleo, al efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXXIV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN SEXTA. La Secretaría de Salud
 
@@ -1223,7 +1247,9 @@ IV.- Evaluar la aplicación de las transferencias de fondos a favor de los munic
 
 V.- Coordinar, concertar y ejecutar, conjuntamente con el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, programas especiales para la atención de las personas que se encuentren en estado de marginación, riesgo, vivan discriminación o algún tipo de violencia, para promover un desarrollo económico con sentido social;
 
-VI.- Promover y apoyar, conjuntamente con la Coordinación General de Planeación, mecanismos de financiamiento para el bienestar social y el desarrollo regional, urbano y rural;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+VI.- Promover y apoyar, conjuntamente con el Instituto de Planeación del Estado de Aguascalientes, mecanismos de financiamiento para el bienestar social y el desarrollo regional, urbano y rural;
 
 VII.- Coordinar y ejecutar, conjuntamente con la Secretaría de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas de la tercera edad, en estado de riesgo, de indefensión, o vivan algún tipo de violencia o discriminación;
 
@@ -1271,9 +1297,9 @@ A la Secretaría de Obras Públicas corresponde el despacho de los siguientes as
 
 I.- Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de infraestructura y obras públicas;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-II.- Proyectar, ejecutar, supervisar, vigilar, dirigir, inspeccionar y evaluar las obras públicas y servicios relacionados que determine el Plan Estatal de Desarrollo y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita la Coordinación General de Planeación y Proyectos, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y demás disposiciones aplicables en la materia;
+II.- Proyectar, ejecutar, supervisar, vigilar, dirigir, inspeccionar y evaluar las obras públicas y servicios relacionados que determine el Plan de Desarrollo del Estado y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita el Instituto de Planeación del Estado de Aguascalientes, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios y demás disposiciones aplicables en la materia;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1507,85 +1533,13 @@ XLI.- Atender los recursos que se interpongan contra resoluciones referentes a s
 
 XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 #### SECCIÓN DÉCIMA TERCERA. La Coordinación General de Planeación y Proyectos
 
 ###### Artículo 44.
 
-A la Coordinación General de Planeación y Proyectos corresponde el despacho de los siguientes asuntos:
-
-I.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, y promover las acciones que deriven de su implantación;
-
-II.- Conducir, regular y coordinar el Sistema Estatal de Planeación;
-
-III.- Formular el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la legislación de la materia, y someterlo a la consideración y aprobación del Gobernador del Estado;
-
-IV.- Integrar, priorizar y encauzar la demanda social de obras y acciones al Poder Ejecutivo, en coordinación con la Secretaría de Desarrollo Social;
-
-V.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas estatales, sectoriales, institucionales y regionales, que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado;
-
-VI.- Concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales y cuya ejecución se encomiende a las Dependencias y Entidades o a los Municipios, de conformidad con la legislación, normas y acuerdos que regulen la administración, aplicación y vigilancia de estos recursos;
-
-VII.- Supervisar, en coordinación con la Contraloría del Estado, el complimiento de los programas a que se refiere la fracción anterior y el adecuado ejercicio de los recursos correspondientes;
-
-VIII.- Coordinar el Plan Estratégico;
-
-IX.- Coordinar la planeación de la obra pública de manera conjunta con las Secretarías de Obras Públicas, la de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, y la de Desarrollo Social, y proponerla al Gobernador del Estado;
-
-X.- Orientar a las Dependencias y Entidades de la Administración Pública Estatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidas en el Plan Estatal de Desarrollo;
-
-XI.- Ejecutar acciones que procuren la congruencia de la Planeación en los tres ámbitos de gobierno;
-
-XII.- Coordinar las acciones para la actualización permanente del Plan de Desarrollo del Estado;
-
-XIII.- Coordinar los trabajos de la Asamblea Plenaria, la Comisión Permanente y los Subcomités del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, en los términos que se señalen en la Ley y en el Reglamento Interno del Comité;
-
-XIV.- Ejecutar los acuerdos que le instruya el Comité de Planeación para el Desarrollo del Estado de Aguascalientes;
-
-XV.- Proponer al Comité de Planeación para el Desarrollo del Estado de Aguascalientes la creación de subcomités y grupos de trabajo sectorial, regional, de género y especial;
-
-XVI.- Participar en los comités, comisiones, subcomisiones y órganos de gobierno de los organismos descentralizados, por disposición legal o por instrucción del Gobernador del Estado;
-
-XVII.- Facilitar la celebración de acuerdos de cooperación entre la sociedad y las tres instancias de gobierno y generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación estatal;
-
-XVIII.- Participar en las reuniones de los Comités de Planeación de la Región Centro-Occidente y organismos análogos y, en su caso, en reuniones nacionales;
-
-XIX.- Coordinar el Sistema Estatal de Información y realizar las acciones para el buen funcionamiento del Servicio Estatal de Información Estadística y Geográfica;
-
-XX.- Formular y mantener actualizado el diagnóstico de los requerimientos de desarrollo estatal, regional y municipal, de corto, mediano y largo plazo;
-
-XXI.- Coordinar los proyectos de asociación público-privada regulados por la Ley de la materia, así como los que se realicen con cualquier esquema de asociación para desarrollar proyectos de inversión productiva, investigación aplicada o de innovación tecnológica;
-
-XXII.- Prestar asistencia económico-financiera a las dependencias y entidades de la administración pública estatal y municipal cuando lo requieran;
-
-XXIII.- Dar seguimiento y realizar la evaluación de resultados de las inversiones estratégicas en que participen recursos estatales;
-
-XXIV.- Detectar desviaciones de la aplicación de las inversiones, resultados y consecuencias, respecto a la programación de su instrumentación y los resultados esperados, determinando medidas correctivas y recomendar su aplicación a las dependencias o entidades responsables;
-
-XXV.- Crear el sistema integral de gestión de proyectos, para la ejecución de las políticas públicas estatales, para lo cual llevará a cabo las siguientes actividades:
-
-a) Identificación, acopio y, en su caso, formulación de proyectos;
-
-b) Elaboración de estudios previos de factibilidad técnico-financieros y de validación social de los proyectos, así como de congruencia con el Plan Estatal de Desarrollo;
-
-c) Análisis de las opciones de oportunidad financiera para la ejecución de proyectos; y
-
-d) Gestión de los recursos financieros, estatales, federales, internacionales, públicos o privados;
-
-XXVI.- Mantener informada a la Administración Pública Estatal sobre el inventario de proyectos, las prioridades identificadas y los niveles de viabilidad;
-
-XXVII.- Apoyar a las Dependencias y Entidades en la formulación, seguimiento y evaluación de sus proyectos;
-
-XXVIII.- Formular los proyectos especiales que le encomiende el Gobernador del Estado y participar en su instrumentación, seguimiento y evaluación en los términos que éste le indique;
-
-XXIX.- Coordinar las acciones que la Federación y el Gobierno del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
-
-XXX.- Ejercer las funciones que corresponden al Secretariado Técnico del Consejo Estatal de Población;
-
-XXXI.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño previsto en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, así como las otras atribuciones que con respecto a este Sistema le confiera la legislación aplicable; y
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2020)
 
 #### SECCIÓN DÉCIMA CUARTA. La Coordinación General de Movilidad
 
@@ -1625,7 +1579,9 @@ XV.- Autorizar el derecho de transmisión de concesiones convencionales por caus
 
 XVI.- Analizar y, en su caso, autorizar la variación de las condiciones de la concesión o permiso para la prestación del servicio de transporte público;
 
-XVII.- Coadyuvar con la Coordinación General de Planeación y Proyectos y la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, en la expedición de las normas administrativas a que debe sujetarse la prestación de los servicios de transporte;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XVII.- Coadyuvar con el Instituto de Planeación del Estado de Aguascalientes y la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, en la expedición de las normas administrativas a que debe sujetarse la prestación de los servicios de transporte;
 
 XVIII.- Ejecutar los acuerdos del Gobernador del Estado en materia de movilidad;
 
@@ -1667,7 +1623,9 @@ XXXVI.- Autorizar las tarjetas de prepago o descuento para los usuarios del tran
 
 XXXVII.- Prestar y solicitar cooperación a las autoridades de tránsito federal, y coadyuvar con las autoridades judiciales y administrativas del fuero común y federal;
 
-XXXVIII.- Colaborar con la Coordinación General de Planeación y Proyectos, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII.- Colaborar con el Instituto de Planeación del Estado de Aguascalientes, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
 
 XXXIX.- Coadyuvar en la elaboración de las normas técnicas y administrativas a que deben sujetarse la construcción y operación de obras, instalaciones y programas para la prestación del servicio de transporte de competencia del Gobierno del Estado;
 
@@ -1755,7 +1713,9 @@ XIII.- Vigilar y supervisar que las Dependencias y Entidades de la Administraci�
 
 XIV.- Coordinarse con el Órgano Superior de Fiscalización, conforme al Sistema Estatal de Fiscalización, para el establecimiento de los procedimientos necesarios para el cabal cumplimiento de sus respectivas atribuciones;
 
-XV.- Coordinarse con las Dependencias Públicas Federales competentes para integrar la estructura de la Unidad de Control y Evaluación en la Coordinación General de Planeación y Proyectos, a fin de efectuar a través de ésta, el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+XV.- Coordinarse con las Dependencias Públicas Federales competentes para integrar la estructura de la Unidad de Control y Evaluación en el Instituto de Planeación del Estado de Aguascalientes, a fin de efectuar a través de ésta, el control y evaluación de los recursos que el Ejecutivo Federal transfiera al Estado para su ejercicio;
 
 XVI.- Promover la implantación de órganos de control municipales y apoyar a los respectivos Ayuntamientos en la materia, así como ofrecer asesoría en su operación, a solicitud de los mismos;
 
@@ -2424,3 +2384,97 @@ El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 451.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.- SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de julio de 2021, con excepción de lo señalado en el artículo Décimo Segundo Transitorio, el cual entrará en vigor al día siguiente de la publicación de este Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se abroga la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes de fecha 08 de junio de 2009, así como todas sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Los Planes y Programas expedidos con base en las disposiciones de la Ley que se abroga, continuarán vigentes hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Instituto de Planeación del Estado de Aguascalientes, a más tardar dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Para el inicio de actividades del Instituto de Planeación del Estado de Aguascalientes, su Junta de Gobierno deberá quedar instalada a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Por única ocasión, el Director General del Instituto de Planeación del Estado de Aguascalientes deberá expedir la convocatoria para designar a quienes fungirán como representantes de los Sectores Empresarial, Industrial, Desarrollo Territorial, Ambiental, Social, Salud y Educativo, a más tardar dentro de los quince días siguientes a su nombramiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes y las disposiciones normativas necesarias para el cumplimiento de este Decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+La Junta de Gobierno del Instituto de Planeación del Estado de Aguascalientes deberá expedir el Reglamento Interior de dicho Instituto, dentro de los ciento ochenta días siguientes a su instalación.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos, obligaciones y recursos materiales y financieros pertenecientes y/o asignados a la Coordinación General de Planeación y Proyectos (CPLAP), pasarán a formar parte del Instituto de Planeación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+El Instituto de Planeación del Estado de Aguascalientes, asumirá las relaciones de trabajo del personal que se le transfiera, respetando los derechos laborales que la ley les confiere y hubiesen adquirido en su actual situación.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La transferencia de los expedientes y recursos humanos, materiales y financieros en general que correspondan al Instituto de Planeación del Estado de Aguascalientes en términos de lo dispuesto en la presente Ley, se hará según lo determinen la Contraloría del Estado, la Secretaría de Finanzas y la Secretaría de Administración del Estado de Aguascalientes, de conformidad con los acuerdos administrativos que para tal efecto expidan en el ámbito de su competencia.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Ejecutivo del Estado de Aguascalientes proveerá al Instituto de Planeación del Estado de Aguascalientes, por conducto de la Secretaría de Finanzas, de los recursos necesarios para la instalación y operación del mismo, para lo cual deberá realizar las adecuaciones y reasignaciones que sean requeridas como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2021 y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal 2021.
+
+Asimismo, el Ejecutivo del Estado de Aguascalientes, deberá presentar la Iniciativa de Reforma a la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2021, en la que se incluyan los conceptos de ingresos que correspondan al Instituto de Planeación del Estado de Aguascalientes, con el objeto de que el H. Congreso del Estado lo analice, discuta y en su caso apruebe antes de la entrada en vigor del presente Decreto.
+
+El presupuesto asignado a la Coordinación General de Planeación y Proyectos, una vez que inicie operaciones el Instituto de Planeación del Estado de Aguascalientes, será administrado y ejercido por éste, en uso de su propia estructura administrativa para financiar su gasto de operación y/o gasto de capital de acuerdo a lo dispuesto en los ordenamientos jurídicos aplicables.
+
+Las plazas asignadas a la Coordinación General de Planeación y Proyectos con las que operará durante el primer semestre del año 2021, una vez que inicie funciones el Instituto de Planeación del Estado de Aguascalientes, se transferirán a éste conforme a la estructura orgánica mediante la cual se determine su organización y serán consideradas como plazas de la estructura orgánica descentralizada.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cualquier referencia a la Coordinación General de Planeación y Proyectos en otros ordenamientos legales se entenderá hecha al Instituto de Planeación del Estado de Aguascalientes, de igual forma, los actos administrativos, jurídicos y financieros que se hubieran celebrado por dicha Coordinación General subsistirán en sus términos para que su ejecución, seguimiento y consecución sea realizada por el Instituto de Planeación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las referencias que se hagan en otras disposiciones legales sobre el Plan Sexenal se entenderán realizadas al Plan de Desarrollo del Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá llevar a cabo la inscripción del Instituto de Planeación del Estado de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 452.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Desarrollo Económico, de acuerdo con las necesidades institucionales y el presupuesto asignado, podrá determinar conjuntamente con la Secretaría de Administración las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
