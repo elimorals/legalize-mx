@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2019-12-27"
+last_updated: "2020-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -2125,17 +2125,19 @@ XXIV.- Por los servicios prestados en materia de transporte, de conformidad con 
 
 CONCEPTO Unidades de Medidas
 
-Y Actualización
+y Actualización
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 a) Por el estudio para la solicitud de concesión de
 
 servicio público de transporte de pasajeros y carga
 
-en las modalidades contempladas en los apartados 70
+en las modalidades contempladas en los apartados 42
 
 A y B de la fracción I de los artículos 14 y 15 de la
 
-Ley de transporte del Estado.
+Ley de Transporte del Estado.
 
 b) Por el estudio para la solicitud de concesión de
 
@@ -2157,13 +2159,15 @@ fracción II del artículo 14 de la Ley de Transporte
 
 del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 d) Por el refrendo de una concesión de servicio público
 
-de transporte de pasajeros y carga en las modalidades 50
+de transporte de pasajeros y carga en las modalidades 30
 
 contempladas en los apartados A y B de la fracción I de
 
-los artículos 14 y 15 de la Ley de transporte del Estado:
+los artículos 14 y 15 de la Ley de Transporte del Estado:
 
 e) Por el refrendo de una concesión de servicio público
 
@@ -2181,9 +2185,11 @@ apartado B de la fracción II del artículo 14 de la Ley
 
 de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 g) Por la expedición de un nuevo título de concesión
 
-de servicio público, con motivo del cambio de titular 40
+de servicio público, con motivo del cambio de titular 24
 
 por la incapacidad física o mental, declaración de
 
@@ -2193,7 +2199,7 @@ modalidades contempladas en los apartados A y B
 
 de la fracción I de los artículos 14 y 15 de la Ley de
 
-transporte del Estado:
+Transporte del Estado:
 
 h) Por la expedición de un nuevo título de concesión de
 
@@ -2219,15 +2225,17 @@ contemplada en el apartado B de la fracción II del
 
 artículo 14 de la Ley de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 j) Por el otorgamiento de una concesión de servicio
 
-público de transporte, a solicitud de la parte interesada, 50
+público de transporte, a solicitud de la parte interesada, 30
 
 en las modalidades contempladas en los apartados
 
 A y B de la fracción I de los artículos 14 y 15 de la
 
-Ley de transporte del Estado:
+Ley de Transporte del Estado:
 
 k) Por el otorgamiento de una concesión de servicio
 
@@ -2249,13 +2257,15 @@ la fracción II del artículo 14 de la Ley de Transporte
 
 del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 m) Por la reposición de un título de concesión de servicio
 
-público de transporte en las modalidades contempladas 40
+público de transporte en las modalidades contempladas 24
 
 en los apartados A y B de la fracción I de los artículos 14
 
-y 15 de la Ley de transporte del Estado:
+y 15 de la Ley de Transporte del Estado:
 
 n) Por la reposición de un título de concesión de servicio
 
@@ -2299,9 +2309,11 @@ para la modalidad contemplada en el apartado B de la
 
 fracción II del artículo 14 de la Ley de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 s) Por la tramitación, estudio y diagnóstico de factibilidad
 
-para la autorización de modificación o creación de ruta 25
+para la autorización de modificación o creación de ruta 15
 
 de transporte público en las modalidades contempladas
 
@@ -2309,17 +2321,21 @@ en los apartados A y B de la fracción I del artículo 14 de
 
 la Ley de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 t) Por la modificación o creación de una ruta de transporte
 
-público en las modalidades contempladas en los apartados 25
+público en las modalidades contempladas en los apartados 15
 
 A y B de la fracción I del artículo 14 de la Ley de Transporte
 
 del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 u) Por la expedición o reimpresión de la identificación de
 
-conductor de vehículo de servicio público o mercantil de 17
+conductor de vehículo de servicio público o mercantil de 10
 
 transporte para las modalidades contempladas en las
 
@@ -2377,19 +2393,21 @@ apartado B de la Fracción II del artículo 14 de la
 
 Ley de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 aa) Por la tramitación y expedición de un permiso
 
-temporal de hasta por un año, de un servicio
+temporal, de hasta por un año, de un servicio
 
 de transporte público y mercantil de transporte,
 
-cuando exista una necesidad de servicio inmediata 30
+cuando exista una necesidad de servicio inmediata 18
 
 o emergente. En el caso de que la vigencia de la
 
 autorización sea menor se cobrará la parte
 
-proporcional, para las modalidades contempladas
+proporcional; para las modalidades contempladas
 
 en las fracciones I y III del artículo 14 y las fracciones
 
@@ -2435,9 +2453,11 @@ CONCEPTO Unidades de Medida
 
 y Actualización
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 a) Por la inscripción del concesionario o
 
-permisionario de servicio público y mercantil 10
+permisionario de servicio público y mercantil 6
 
 de transporte, así como por la inscripción del
 
@@ -2449,7 +2469,7 @@ las modalidades contempladas en las fracciones
 
 I y III del artículo 14 y fracciones I y II del artículo
 
-15 de la Ley de transporte del Estado:
+15 de la Ley de Transporte del Estado:
 
 b) Por la inscripción del concesionario o permisionario 2
 
@@ -2479,15 +2499,17 @@ contemplada en el apartado B de la fracción II
 
 del artículo 14 de la Ley de Transporte del Estado:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 d) Por la inscripción de la designación de beneficiarios
 
-por persona física titular de una concesión de servicio 10
+por persona física titular de una concesión de servicio 6
 
 público de transporte, para las modalidades contempladas
 
 en los apartados A y B de la fracción I de los artículos
 
-14 y 15 de la Ley de transporte del Estado:
+14 y 15 de la Ley de Transporte del Estado:
 
 e) Por la inscripción de la designación de beneficiarios
 
@@ -3674,3 +3696,11 @@ SEGUNDO.- La Secretaría de Finanzas, a través de disposiciones administrativas
 TERCERO.- Hasta en tanto se realizan los ajustes a la Ley del Periódico Oficial del Estado de Campeche, para armonizarlo con lo dispuesto en el esta (sic) Ley, seguirán aplicándose las disposiciones contenidas en Capítulo III del Título Cuarto vigentes hasta antes de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE “SE REFORMAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 72 DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero del año 2021, previa publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
