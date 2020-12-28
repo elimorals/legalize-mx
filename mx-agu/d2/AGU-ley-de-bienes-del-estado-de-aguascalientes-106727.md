@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-del-estado-de-aguascalientes-106727"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2018-09-03"
+last_updated: "2020-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE BIENES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -163,9 +163,11 @@ Los bienes del Estado que no están sujetos al régimen de dominio público, o a
 
 Los bienes regulados, se sujetarán al régimen jurídico que dispongan las leyes específicas,
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito para su validez, de que cuando se trate de actos de dominio, éstos sean autorizados por el Congreso del Estado y se lleven a cabo las publicaciones correspondientes en el Periódico Oficial del Estado de conformidad con la presente Ley.
+Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito para su validez, de que cuando se trate de actos de dominio, éstos sean autorizados por el Congreso del Estado, con excepción de lo establecido en el artículo 46 Bis de la presente Ley, y se lleven a cabo las publicaciones correspondientes en el Periódico Oficial del Estado de conformidad con la presente Ley.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -233,9 +235,9 @@ Los Poderes Legislativo y Judicial, así como los Órganos Autónomos a nombre d
 
 I. Adquirir bienes inmuebles con cargo al presupuesto de egresos que tuvieren autorizado o recibirlos en donación, asignarlos al servicio de sus órganos y manejarlos;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-II. Realizar los actos previstos en el artículo 46 de esta Ley, para la disposición de los bienes inmuebles de su propiedad, que no sean útiles para destinarlos al servicio público;
+II. Realizar los actos previstos en el artículo 46 y 46 Bis de esta Ley, para la disposición de los bienes inmuebles de su propiedad, que no sean útiles para destinarlos al servicio público;
 
 III. Emitir el acuerdo administrativo por el que se desincorpore del régimen de dominio público del Estado, aquellos inmuebles que no sean útiles para destinarlos al servicio público;
 
@@ -591,9 +593,11 @@ Cuando la Contraloría, adquiera en los términos del derecho privado un bien in
 
 ### CAPÍTULO CUARTO. De la Disposición de los Bienes Inmuebles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 46.
 
-Los bienes inmuebles en posesión de las Dependencias del Ejecutivo que no sean útiles para destinarlos al servicio público, o que no sean de uso común, podrán:
+Los bienes inmuebles propiedad del Gobierno del Estado que no sean de uso común, podrán ser objeto de los siguientes actos:
 
 I. Enajenarse a título oneroso;
 
@@ -601,7 +605,9 @@ II. Permutarse con el Gobierno Federal, con otras entidades federativas, con los
 
 III. Enajenarse a título gratuito a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
-IV. Donarse, arrendarse, otorgarse en comodato o en usufructo a favor de los Poderes Legislativo y Judicial del Estado; a los Órganos Autónomos; a las Entidades del Ejecutivo, a los fideicomisos públicos; a los municipios del Estado; a instituciones o asociaciones públicas o privadas de salud; beneficencia o asistencia; educativas o culturales; o cuyos fines sean el desarrollo económico; a beneficiarios de algún servicio asistencial público; y a las comunidades agrarias y ejidos, a fin de que utilicen los bienes inmuebles en servicios públicos locales, fines educativos, de asistencia social, o desarrollo económico;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+IV. Donarse o darse en usufructo a favor de los Poderes Federales y Estatales; Órganos Constitucionales Autónomos del ámbito federal y estatal; Entidades Paraestatales Federales y Estatales; Entidades Federativas; Municipios del Estado; Fideicomisos Públicos; instituciones o asociaciones públicas o privadas de salud, beneficencia, asistencia, educativas, culturales o cuyos fines sean el desarrollo económico; beneficiarios de algún servicio asistencial público; comunidades agrarias y ejidos, a fin de que se utilicen acorde al objeto, naturaleza o fines del propio contrato, así como a la del donatario, o usufructuario según corresponda;
 
 V. Transmitirse al patrimonio de Fideicomisos públicos;
 
@@ -609,11 +615,29 @@ VI. Utilizarse en indemnizaciones como pago en especie por las expropiaciones y 
 
 VII. Celebrarse los demás actos de carácter oneroso que se justifiquen en términos de esta Ley o de las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+Para llevar a cabo alguno de los actos señalados en el presente artículo, el interesado deberá presentar solicitud por escrito dirigida al Titular del Poder Ejecutivo del Estado, ante la Contraloría a efecto de que turne a la Dependencia al que dicho bien se encuentre asignado o en resguardo, para que mediante escrito fundado y motivado suscrito por el Titular de la Dependencia de que se trate, dirigido a la Contraloría, manifieste, en su caso, si es factible o no la realización del acto. De ser factible, expresará el beneficio que la celebración del mismo le generaría al Estado, y si la realización de éste, no le afectaría en el desarrollo o cumplimiento de sus objetos y fines, o bien, manifestando que el bien inmueble no está destinado al servicio público al momento de la solicitud.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+En atención al escrito en donde se manifiesta la factibilidad del acto, la Contraloría, será quien determine la procedencia o no de la solicitud en términos de la presente Ley, informando al interesado y a la Dependencia lo conducente. De ser procedente, se emitirá el acuerdo administrativo de desincorporación respectivo, iniciando el procedimiento para la autorización ante el Congreso del Estado previsto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+Respecto de bienes inmuebles propiedad del Gobierno del Estado, que no se encuentren en resguardo o asignado a una Dependencia, será la Contraloría quien determine la procedencia o no de la solicitud de manera fundada y motivada, a efecto de continuar con el procedimiento en términos del párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 46 Bis.
+
+Se podrán arrendar o dar en comodato aquellos bienes inmuebles patrimonio del Estado, a personas físicas o morales, públicas Federales, Estatales o Municipales, o privadas, sin necesidad de llevarse a cabo el procedimiento de autorización ante el Congreso del Estado, debiéndose informar por escrito a la Contraloría de la celebración del contrato, para efectos de control, registro y seguimiento de uso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 47.
 
-De los actos previstos en el artículo anterior, los de dominio requerirán autorización del Congreso del Estado, de conformidad con el Artículo 15 de esta Ley; los de enajenación de bienes inmuebles, señalados en las Fracciones I y VII, se realizarán mediante licitación pública; y, los contemplados en las Fracciones II, III, IV, V y VI, se realizarán a través de adjudicación directa previa acreditación de los supuestos a que se refieren dichas acciones.
+De los actos previstos en el artículo 46 de la presente Ley, los de dominio requerirán autorización del Congreso del Estado, en términos del artículo 27 fracción VI de la Constitución Política del Estado de Aguascalientes y de conformidad con el Artículo 15 de esta Ley; los de enajenación de bienes inmuebles, señalados en las fracciones I y VII, se realizarán mediante licitación pública; y, los contemplados en las fracciones II, III, IV, V y VI, se realizarán a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas acciones.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -765,13 +789,13 @@ Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo
 
 Para efectos de la subasta se considerará postura legal, la que cubra las dos terceras partes del valor base fijado para la licitación. Si en la primera almoneda no hubiere postura legal, se realizará una segunda, deduciendo en ésta un diez por ciento del importe que en la anterior hubiere constituido la postura legal. Si no se lograse la enajenación en la segunda almoneda, se podrán emplear los procedimientos a que se refiere el párrafo siguiente, considerando para tal efecto como valor base la postura legal de esta última almoneda.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-La Contraloría, podrá enajenar bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Contraloría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno del Estado, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+La Contraloría, podrá enajenar bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno del Estado, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
-La Contraloría también podrá, enajenar bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a tres mil días de salario mínimo general vigente en el Estado.
+La Contraloría también podrá, enajenar bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a cinco mil ochocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -972,3 +996,11 @@ Se Derogan todas las disposiciones legales, reglamentarias y administrativas que
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas y administrativas correspondientes.
+
+P.O. 28 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 453.- REFORMAS Y ADICIONES A LA LEY DE BIENES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
