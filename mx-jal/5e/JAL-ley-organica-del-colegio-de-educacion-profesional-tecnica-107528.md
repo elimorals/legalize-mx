@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-educacion-profesional-tecnica-10752
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2019-10-12"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -331,9 +331,11 @@ La Dirección General contará con la estructura técnica administrativa que le 
 
 #### Sección Quinta. De los Directores de los Planteles
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
+Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado Libre y Soberano de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
 
 ###### Artículo 21.
 
@@ -491,7 +493,9 @@ Asimismo, podrá contar con Personal Docente con Funciones de Asesoría Técnica
 
 Las relaciones laborales del Colegio se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
 
-El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 36.
 
@@ -610,3 +614,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27370/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6° FRACCIÓN I INCISO C) DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO 28254/LXII/20 QUE REFORMA LOS ARTÍCULOS 20 Y 35 DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO”.]</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
