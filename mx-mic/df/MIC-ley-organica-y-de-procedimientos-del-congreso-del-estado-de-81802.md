@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-12-23"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -2013,9 +2013,13 @@ III. De asistencia a las Comisiones: a través de los Secretarios Técnicos, qui
 
 IV. De asuntos jurídicos: que comprende la atención y asesoría en los asuntos jurídicos del Poder Legislativo, en sus aspectos consultivo y contencioso, así como la representación legal, cuando así se autorice;
 
-V. De asuntos editoriales: que comprende, la elaboración integral de la versión estenográfica de las sesiones, de la Gaceta Parlamentaria, del Diario de los Debates, memorias, informes y todo tipo de materiales gráficos y magnéticos de carácter legislativo, en conjunto con la Coordinación de Editorial, Biblioteca y Archivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-VI. Del archivo: para la formación, clasificación y custodia de expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos del Congreso y a los legisladores, en conjunto con la Coordinación de Editorial, Biblioteca y Archivo;
+V. De asuntos editoriales: que comprende, la elaboración integral de la versión estenográfica de las sesiones, de la Gaceta Parlamentaria, del Diario de los Debates, en conjunto con la Coordinación de Editorial, Biblioteca y Archivo, así como auxiliar a dicha Coordinación en la elaboración de memorias, informes y todo tipo de materiales gráficos y magnéticos de carácter legislativo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+VI. De la integración y formación de expedientes del pleno y las comisiones, los cuales deberán ser remitidos concluido el proceso legislativo para su archivo, custodia y clasificación a la Coordinación de Editorial, Biblioteca y Archivo, así como en el desahogo de consultas y apoyo documental a los órganos del Congreso y a los legisladores;
 
 VII. De asistencia ciudadana: para la atención, seguimiento y resolución de las demandas de grupos organizados de la sociedad; y,
 
@@ -4226,3 +4230,15 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 385 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 109 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
