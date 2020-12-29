@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2020-12-28"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -441,23 +441,39 @@ VI. Tratamiento psicológico o psiquiátrico.
 
 ### CAPÍTULO I. PRISIÓN
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-La prisión consiste en la privación de la libertad. Ninguna sanción privativa de la libertad que se imponga por la comisión de algún delito podrá ser menor de tres días ni mayor de cincuenta años, con las excepciones que esta ley u otra aplicable prevean. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad ejecutora de las sanciones penales en el Estado, conforme a lo dispuesto en la legislación correspondiente y en la resolución judicial respectiva. La sanción de prisión se sujetará a las reglas siguientes:
+La prisión consiste en la privación de la libertad. Ninguna sanción privativa de libertad que se imponga por la comisión de algún delito podrá ser menor de tres días ni mayor de setenta años, con las excepciones que esta ley u otra aplicable prevean. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad ejecutora de las sanciones penales en el Estado, conforme a lo dispuesto en la legislación correspondiente y en la resolución judicial respectiva. La sanción de prisión se sujetará a las reglas siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 I. Las mujeres cumplirán sus sanciones en lugares separados de los destinados a los hombres;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 II. Los imputados que deban guardar prisión preventiva serán recluidos en sección especial separada de la reservada a los sentenciados;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 III. Toda sanción de prisión será medida en años, meses y días y se computará el tiempo transcurrido en prisión preventiva;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 IV. Si se trata de dos o más sanciones de prisión impuestas en sentencias diferentes, se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 V. Tratándose de los delitos de homicidio doloso en perjuicio de personas provenientes de grupos en situación de vulnerabilidad, especialmente mujeres o menores de edad, deberá imponerse sanción, aun cuando con ello se exceda el máximo de la sanción de prisión;
 
+.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 VI. Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de sanciones y medidas de seguridad, en cualquier grado de participación, deberá imponérseles la sanción que corresponda para cada uno de ellos, aun cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo; y
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 VII. Lo dispuesto en la fracción anterior será aplicable a los exintegrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo, siempre y cuando se trate de los delitos dolosos de homicidio, extorsión, robo, o daños ocasionados mediante incendio, inundación o explosión. En estos casos, podrá aumentarse a la suma total de la sanción impuesta una tercera parte de aquella, aun cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo.
 
@@ -1591,9 +1607,9 @@ VI. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
 VII. Exista o haya existido entre el activo y la víctima una relación de cualquier naturaleza que implique confianza.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientas a mil Unidades de Medida y Actualización.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta y cinco a sesenta y cinco años de prisión y de quinientas a mil Unidades de medida y Actualización. Cuando la víctima sea menor de edad la pena mínima aplicable será de cincuenta y cinco años.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -2595,11 +2611,27 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 Se entiende por violencia familiar la omisión o el acto de poder, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica o sexualmente a cualquier miembro de la familia que cohabite en el mismo domicilio, realizado por quien con él tenga parentesco de consanguinidad o afinidad en línea recta ascendente o descendente sin limitación de grado, parentesco de consanguinidad colateral hasta el cuarto grado, cónyuge, concubina o concubinario, pareja de hecho, por una relación de tutela o curatela, y que tenga por efecto causar daño en cualquiera de las clases señaladas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-Al que cometa este delito se le impondrán de uno a cinco años de prisión, suspensión o pérdida de los derechos de familia y hereditarios y, a criterio de la autoridad jurisdiccional competente, la prohibición de acudir o residir en lugar determinado. En todo caso, se aplicará al victimario un tratamiento psicológico o psiquiátrico, en su caso.
+Al que cometa este delito dentro o fuera del domicilio familiar o del lugar en que cohabiten se le impondrán de dos a seis años de prisión, suspensión o pérdida de los derechos de familia y hereditarios y, a criterio de la autoridad jurisdiccional competente, la prohibición de acudir o residir en lugar determinado. En todo caso, se aplicará al victimario un tratamiento psicológico o psiquiátrico, en su caso. En el caso, de que el agresor sea reincidente, se aumentará en un cuarto la pena privativa de libertad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+La penalidad descrita en el párrafo anterior se aumentará hasta en una tercera parte, en caso de que la víctima sea un adulto mayor.
 
 La educación o formación del menor de edad o incapaz no será, en ningún caso, considerada justificante de maltrato.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Artículo 224 bis.- Se equipara al delito de violencia familiar y se sancionará como tal a quien sin tener parentesco de consanguinidad o afinidad con la víctima, pero que cohabite o conviva con ésta por cuestiones de orden familiar, cometa las conductas establecidas en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Artículo 224 ter.- Cuando la violencia familiar se cometa en presencia de niñas, niños o adolescentes, la pena se aumentará en una cuarta parte.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Artículo 224 quater.- Cuando la violencia familiar se cometa en contra de una mujer que se encuentre en estado de embarazo la pena se aumentará en una mitad.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -4614,5 +4646,15 @@ P.O. 28 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 36, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y EL ARTÍCULO 224, Y SE ADICIONAN LOS ARTÍCULOS 224 BIS, 224 TER Y 224 QUÁTER AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
