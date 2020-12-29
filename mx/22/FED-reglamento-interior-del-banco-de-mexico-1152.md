@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2020-10-02"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -251,21 +251,21 @@ El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría 
 
 Las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrán adscritas las unidades administrativas que señala el presente Reglamento y se auxiliarán, en el cumplimiento de sus funciones de los Subcoordinadores, Titulares de Unidad, Subgerentes y los demás empleados, previstos en la estructura correspondiente, conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
-> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-El Banco contará con un Grupo Interdisciplinario para los efectos de la Ley General de Archivos y demás disposiciones aplicables al Banco en esta materia, el cual estará integrado por las personas titulares de la Secretaría de la Junta de Gobierno, las Direcciones Generales, las Direcciones directamente adscritas al Gobernador o a la Junta de Gobierno, las Unidades de Auditoría y Transparencia, así como las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. La Dirección General de Contraloría y Administración de Riesgos participará en los términos que correspondan al Órgano Interno de Control para los efectos de dicho Grupo. Los integrantes del Grupo Interdisciplinario podrán designar suplentes de conformidad con las Reglas de Operación que al efecto emita ese órgano colegiado.
+El Banco contará con un Grupo Interdisciplinario para los efectos de la Ley General de Archivos y demás disposiciones aplicables al Banco en esta materia, el cual estará integrado por las personas titulares de la Secretaría de la Junta de Gobierno, las Direcciones Generales, las Direcciones de Seguridad y Organización de la Información, Jurídica y de Contabilidad, Planeación y Presupuesto, así como aquellas otras Direcciones directamente adscritas al Gobernador o a la Junta de Gobierno, las Unidades de Auditoría y Transparencia, además de las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. La Dirección General de Contraloría y Administración de Riesgos participará en los términos que correspondan al Órgano Interno de Control para los efectos de dicho Grupo. Los integrantes del Grupo Interdisciplinario podrán designar suplentes de conformidad con las Reglas de Operación que al efecto emita ese órgano colegiado.
 
-> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-El Grupo Interdisciplinario contará con una Secretaría, a cargo de la persona titular de la Dirección de Seguridad y Organización de la Información, y con una Prosecretaría, cuyo titular será designado de conformidad con lo establecido en las Reglas de Operación del propio Grupo.
+El Grupo Interdisciplinario contará con una Secretaría, a cargo de la persona titular de la Dirección de Seguridad y Organización de la Información quien, para la organización y operación de dicho Grupo, contará con las atribuciones indicadas en el artículo 51, párrafo primero, de la Ley General de Archivos y en las Reglas de Operación del propio Grupo. Asimismo, el Grupo contará con una Prosecretaría, cuya persona titular será designada de conformidad con lo establecido en las Reglas de Operación referidas.
 
-> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-El Grupo Interdisciplinario tendrá, además de las señaladas en el presente Reglamento, las atribuciones que señala la propia normatividad en materia de archivos, incluyendo la aprobación del Programa Anual de Desarrollo Archivístico que le presente la Dirección de Seguridad y Organización de la Información, en términos de la normatividad aplicable.
+El Grupo Interdisciplinario tendrá, además de las señaladas en el presente Reglamento, las atribuciones que señala la propia normatividad aplicable en materia de archivos.
 
-> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-El Grupo Interdisciplinario deberá resolver por mayoría de votos y será presidido por la persona titular de la Dirección General de Tecnologías de la Información, quien tendrá voto de calidad. El Grupo deberá rendir a la Junta de Gobierno un informe anual sobre el ejercicio de sus funciones y la implementación del Programa Anual de Desarrollo Archivístico.
+El Grupo Interdisciplinario deberá resolver por mayoría de votos y será presidido por la persona titular de la Dirección General de Tecnologías de la Información, quien tendrá voto de calidad. El Grupo deberá rendir a la Junta de Gobierno un informe anual sobre el ejercicio de sus funciones.
 
 > <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
@@ -519,11 +519,11 @@ VIII. Administrar los servicios de la biblioteca y hemeroteca del Banco.
 
 IX. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá las atribuciones señaladas en los artículos 18 Bis, 28 Bis 1, 29 y 29 Bis de este Reglamento.
+ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá las atribuciones señaladas en los artículos 18 Bis, 28 Bis 1 y 29 de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Ciberseguridad, de Desarrollo de Sistemas, de Infraestructura de Tecnologías de la Información, y de Seguridad y Organización de la Información.
+A esta Dirección General estarán adscritas las Direcciones de Desarrollo de Sistemas, de Infraestructura de Tecnologías de la Información, y de Seguridad y Organización de la Información.
 
 ARTICULO 15 BIS 2.- (DEROGADO, D.O.F. 30 DE MAYO DE 2018)
 
@@ -751,37 +751,35 @@ XII. Realizar publicaciones institucionales y de divulgación del Banco, de acue
 
 ARTICULO 18 BIS.- La Dirección de Seguridad y Organización de la Información tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-I. Promover la generación segura, eficiente y eficaz de la información en las diferentes Unidades Administrativas del Banco y participar en el diseño de los sistemas que permitan compartirla institucionalmente, con el objeto de mejorar las actividades de dichas Unidades.
+I. Establecer, para la adecuada gestión de la información del Banco, normas, lineamientos, prácticas, procedimientos, metodologías, indicadores, así como proponer herramientas informáticas especializadas.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información.
+II. Evaluar la gestión de la información del Banco para identificar e instrumentar acciones de mejora de los elementos normativos, metodológicos, operativos y tecnológicos referidos en la fracción I de este artículo, y brindar apoyo a las unidades administrativas del Banco para fortalecer la gestión y el análisis de su información.
 
 III. (DEROGADA, D.O.F. 26 DE AGOSTO DE 2019)
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-IV. Participar en el análisis, evaluación y recomendación de herramientas de trabajo para optimizar el uso de la infraestructura informática, así como de las políticas, procedimientos y roles para la organización y administración de la información.
+IV. Identificar e instrumentar acciones para robustecer la seguridad de la información del Banco, así como coordinar los programas institucionales que se implementen para tal efecto.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-V. Analizar y proponer programas de capacitación del personal en el uso de nuevas tecnologías y evaluar sus resultados.
+V. Analizar, proponer e instrumentar, en coordinación con la Dirección de Ciberseguridad y con la Dirección de Recursos Humanos, programas institucionales de capacitación del personal del Banco en materia de gestión y seguridad de la información, así como de seguridad informática.
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
-
-VI. Presentar al Comité de Tecnologías y Seguridad de la Información propuestas de políticas y procedimientos para el manejo seguro y eficiente de la información y, en caso de obtener su aprobación, emitir las normas correspondientes.
+VI. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
 
 VII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VIII. Administrar los archivos de concentración e históricos del Banco, para lo cual contará con las atribuciones que la normatividad en materia de archivos les confiere.
+VIII. Administrar los archivos de concentración e histórico del Banco, para lo cual contará con las atribuciones que la normatividad en materia de archivos les confiere.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información.
+IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la gestión de su información.
 
 > <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
@@ -795,37 +793,51 @@ XI. Fungir como área coordinadora de archivos con las atribuciones que la norma
 
 XII. Ejecutar el Programa Anual de Desarrollo Archivístico, incluyendo la capacitación en gestión documental y administración de archivos.
 
-> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XIII. Elaborar y presentar el Programa Anual de Desarrollo Archivístico a que se refiere la normatividad en materia de archivos, al Grupo Interdisciplinario a que se refiere el artículo 4o. del presente Reglamento.
+XIII. Elaborar el Programa Anual de Desarrollo Archivístico a que se refiere la normatividad en materia de archivos y someterlo a la consideración de la persona titular de la Dirección General de Tecnologías de la Información, para su aprobación.
 
-> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XIV. Coordinar los procedimientos de valoración y disposición documental, con base en la normatividad aplicable.
+XIV. Definir y coordinar los procedimientos de valoración y disposición documental, conforme a la legislación y normatividad vigente en materia de archivos.
 
-> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XV. Definir las acciones para proteger la infraestructura de tecnologías de la información y fortalecer el desarrollo seguro de los sistemas del Banco, de conformidad con la estrategia de protección tecnológica institucional.
+XV. Definir e instrumentar las acciones necesarias en materia de seguridad informática para la protección y defensa de la infraestructura tecnológica del Banco, de conformidad con las políticas y lineamientos emitidos al efecto por el Banco.
 
-> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XVI. Implementar, en coordinación con las áreas del Banco que corresponda, las acciones institucionales en materia de seguridad de la información, de conformidad con la estrategia de protección tecnológica institucional.
+XVI. Administrar las herramientas institucionales de protección y defensa informática de la infraestructura tecnológica del Banco, dentro del ámbito de sus atribuciones, de conformidad con las políticas y lineamientos emitidos al efecto por el Banco.
 
-> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XVII. Administrar el sistema de gestión de seguridad de la información de los procesos operativos del Banco.
+XVII. Participar en el diseño, instrumentación y mejora del Sistema de Gestión de Seguridad de Datos Personales, así como en la actualización del documento de seguridad previsto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 > <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 XVIII. Participar en los procesos de selección de tecnologías y mecanismos de seguridad informática del Banco.
 
-> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
-
-XIX. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII del artículo 29 Bis, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de seguridad de la información. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+XIX. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
 XX. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXI. Constituir, custodiar y mantener actualizado, con el apoyo de las unidades administrativas, el inventario de información del Banco y el inventario de datos personales.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXII. Evaluar la seguridad informática de la infraestructura de cómputo, de telecomunicaciones y de sistemas del Banco, determinar el impacto de las vulnerabilidades identificadas, y procurar acciones de mitigación, de conformidad con las políticas y lineamientos en materia de seguridad de la información emitidos por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Analizar las características de seguridad informática de nuevas tecnologías a ser instrumentadas en el Banco, a fin de determinar el impacto en su infraestructura tecnológica, de conformidad con las políticas y lineamientos en materia de seguridad de la información emitidos por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Ejercer las demás facultades que las leyes otorgan al Banco, en materia de gestión de la información y seguridad informática.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -967,17 +979,57 @@ VII. Ejercer las demás facultades que las leyes otorgan al Banco en materia de 
 
 ARTICULO 20 BIS.- La Dirección de Administración de Riesgos tendrá las atribuciones siguientes:
 
-I. Identificar los riesgos relevantes del Banco, proponer criterios, parámetros y métodos para determinar el monto de la exposición de la Institución a dichos riesgos, para su control y seguimiento. Para tal fin, de manera enunciativa y no limitativa, esta Dirección: i) establecerá los criterios y metodologías para identificar, evaluar, controlar y dar seguimiento a los riesgos en que incurre el Banco en la administración de los activos internacionales y en sus operaciones de financiamiento, mediante la adquisición de valores o con garantía de éstos; ii) establecerá los criterios y metodologías para medir y comparar el rendimiento que se obtenga en la administración de los activos internacionales, así como verificar que se cumplan los lineamientos de inversión correspondientes; iii) determinará las fuentes de información de los precios de mercado y, en su caso, las metodologías, para valuar los instrumentos que formen parte de los activos internacionales, así como de los valores que el Banco adquiera o coloque, con propósitos de regulación monetaria o en sus operaciones de mercado y en los Sistemas de Pagos, y iv) establecerá los criterios y metodologías para que, con el personal del Banco encargado de la ejecución de los procesos, se realice la identificación, evaluación, control y seguimiento de los riesgos de crédito, mercado, legal, operacional y de reputación en que incurra el propio Banco, complementando, en su caso, la evaluación y control referidos en el numeral i) de esta fracción;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-II. Registrar de manera integral los principales factores de riesgo a que está expuesto el Banco a partir de los resultados de las atribuciones previstas en la fracción I anterior;
+I. Establecer los criterios, parámetros y metodologías para identificar, evaluar, controlar y dar seguimiento a los riesgos financieros en que incurre el Banco en la administración de los activos internacionales, en las operaciones que el Banco realiza en su carácter de agente financiero del Gobierno Federal, así como en sus operaciones de financiamiento, mediante la adquisición de valores o con garantía de estos y, en general, en todas las operaciones de mercado que realice el propio Banco con valores en moneda nacional o en divisas, así como con metales preciosos.
 
-III. Coordinar la integración y el desarrollo de los programas de continuidad operativa del Banco;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-IV. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con las atribuciones anteriores;
+II. Verificar el cumplimiento de los lineamientos de inversión y de administración de riesgos financieros aplicables a las operaciones referidas en la fracción I de este artículo, así como a la administración y operación de los fideicomisos, mandatos o comisiones que se encomienden al Banco como fiduciario, relacionados con las atribuciones señaladas en esa fracción.
 
-V. Coordinar el sistema institucional de identificación y documentación de procesos, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VI. Promover la cultura de prevención de riesgos en el Banco.
+III. Determinar las fuentes de información de los precios representativos de las condiciones de mercado y, en su caso, los criterios y las metodologías, para calcular el valor de mercado, el rendimiento y los riesgos financieros de las operaciones referidas en la fracción I de este artículo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+IV. Diseñar, en coordinación con la Dirección General de Operaciones de Banca Central, los criterios y lineamientos para llevar a cabo las operaciones referidas en la fracción I de este artículo.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+V. Llevar el registro de los precios de mercado, indicadores de referencia, así como cualquier otro factor necesario para calcular el valor de mercado, el rendimiento y los riesgos financieros a que está expuesto el Banco en las operaciones referidas en la fracción I de este artículo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VI. Coordinar con las unidades administrativas responsables de la ejecución de los procesos correspondientes a las funciones del Banco: i) la identificación y documentación de los procesos institucionales; ii) la identificación, evaluación y actualización de los riesgos no financieros en que incurra el Banco en la ejecución de los procesos y proyectos a su cargo y, en su caso, proponer las acciones de mitigación que correspondan y validar que estas atiendan los riesgos identificados; iii) la identificación de actividades de control relevante para mitigar los riesgos referidos en el inciso ii) anterior, y iv) la clasificación de los procesos con base en su criticidad para efectos de continuidad operativa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VII. Establecer los criterios, parámetros, herramientas y metodologías institucionales para el ejercicio de las atribuciones referidas en la fracción VI anterior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VIII. Desarrollar estrategias, políticas, proyectos y recomendaciones en materia de riesgos no financieros y continuidad operativa respecto de la organización y funcionamiento del Banco.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+IX. Proporcionar asesoría en materia de riesgos a las unidades administrativas del Banco que lo requieran, así como a terceros cuando sea de interés para el propio Banco.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+X. Establecer las políticas y estrategias institucionales en materia de seguros que el Banco requiera contratar, y coordinar, en el ámbito de su competencia, las actividades necesarias para que el Banco lleve a cabo la contratación de dichos seguros, de conformidad con lo previsto en la fracción XI del artículo 27 Bis de este Reglamento, así como dar seguimiento al reporte y atención de los siniestros; administrar las pólizas respectivas, y gestionar, en coordinación con las unidades administrativas correspondientes, las modificaciones a los contratos y pólizas referidas que, en su caso, se requieran.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XI. Coordinar la integración y el desarrollo de los programas de continuidad operativa del Banco, así como la ejecución de simulacros y campañas de difusión en materia de continuidad operativa.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XII. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones respecto de aquellas materias que conforme a este artículo sean de su competencia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XIII. Promover la cultura de prevención de riesgos en el Banco.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
@@ -1199,7 +1251,9 @@ III. Dirigir las funciones que tiene el Banco en su carácter de fiduciario en l
 
 IV. Coadyuvar con las autoridades competentes en las negociaciones tendientes a la obtención de recursos para los fideicomisos de fomento económico;
 
-V. Participar en la atención de autorizaciones, consultas y opiniones relativas a las entidades financieras de desarrollo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+V. Participar en la atención de autorizaciones, consultas y opiniones relativas a los fideicomisos de fomento económico y las entidades financieras de desarrollo;
 
 VI. Colaborar con las autoridades correspondientes en la definición, promoción y aplicación de programas de apoyo financiero, a través de los fideicomisos de fomento económico y de las entidades financieras de desarrollo, así como en la evaluación de su impacto, y
 
@@ -1459,21 +1513,47 @@ V. Administrar los transportes aéreos que requiera el Banco para el desempeño 
 
 ARTICULO 28 BIS 1.- La Dirección de Infraestructura de Tecnologías de la Información tendrá las atribuciones siguientes:
 
-I. Establecer, operar y administrar las infraestructuras de cómputo y de telecomunicaciones, así como realizar los actos para mantenerlas actualizadas, y proporcionar el soporte técnico necesario.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-II. Proporcionar a los órganos colegiados, a sus miembros y a las Unidades Administrativas del Banco, los bienes y servicios que soliciten de acuerdo con la normativa correspondiente, para que establezcan y operen la infraestructura de cómputo y telecomunicaciones que requieran dentro del ámbito de sus atribuciones, así como brindarles el soporte especializado en esta materia.
+I. Diseñar, implementar y administrar las infraestructuras de cómputo y telecomunicaciones del Banco, así como de aquellos sistemas electrónicos que apoyan a la seguridad de los inmuebles o del personal del propio Banco. En ambos casos, realizar las acciones para mantenerlas actualizadas, así como proporcionar el soporte técnico y asesoría necesarios.
 
-III. Diseñar, establecer y administrar los sistemas de cómputo y telecomunicaciones que permitan a las entidades o intermediarios financieros y cuentahabientes del Banco intercambiar información con este último.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y servicios necesarios para apoyar la seguridad del Banco.
+II. Proporcionar, dentro del ámbito de sus atribuciones, los bienes y servicios que soliciten los órganos colegiados, sus miembros y las unidades administrativas del Banco, de acuerdo con la normativa correspondiente.
 
-V. Emitir políticas, lineamientos y estrategias institucionales para establecer, operar y administrar las infraestructuras de cómputo y de telecomunicaciones que se emplean en la provisión de servicios de tecnologías de la información al Banco, así como para el servicio de interconexión a la infraestructura de cómputo y telecomunicaciones que el Banco presta a las entidades o intermediarios financieros y cuentahabientes del propio Banco.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VI. Supervisar el cumplimiento de las disposiciones, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de interconexión a la infraestructura de cómputo y telecomunicaciones del Banco. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+III. Diseñar, implementar y administrar las infraestructuras de cómputo y telecomunicaciones que permitan a las entidades o intermediarios financieros y cuentahabientes del Banco intercambiar información con este último.
+
+IV. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+V. Emitir normas, políticas, lineamientos, prácticas, procedimientos, metodologías, indicadores y estrategias institucionales para diseñar, implementar y administrar las infraestructuras a que se refieren las fracciones I y III del presente artículo.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VI. Supervisar el cumplimiento de las disposiciones señaladas en la fracción IX de este artículo, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en las materias de dichas disposiciones. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
 VII. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VIII. Evaluar los requisitos de autorización de conexión, reconexión y de permanencia en materia de infraestructuras de cómputo y telecomunicaciones de las entidades o intermediarios financieros y cuentahabientes del Banco en su operación con algún sistema del Banco o en su interconexión a las infraestructuras de cómputo y telecomunicaciones de este último o bien, en su participación en los Sistemas de Pagos e Infraestructuras de Mercados, respecto a los elementos establecidos en los incisos i y ii) del último párrafo del artículo 12 Bis de este Reglamento que sean objeto de las disposiciones de carácter general emitidas por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+IX. Participar en la elaboración y, en su caso, expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones en materia de infraestructuras de cómputo y telecomunicaciones utilizadas por las entidades e intermediarios financieros en su operación con algún sistema del Banco o en su interconexión a las infraestructuras de cómputo y telecomunicaciones de este último o bien, en su participación en los Sistemas de Pagos e Infraestructuras de Mercados, respecto a los elementos establecidos en los incisos i y ii) del último párrafo del artículo 12 Bis de este Reglamento que sean objeto de las disposiciones de carácter general emitidas por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+X. Analizar, proponer y desarrollar, en coordinación con la Dirección de Recursos Humanos, la instrumentación de programas institucionales de capacitación del personal del Banco en el ámbito de infraestructuras a que se refiere la fracción I de este artículo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XI. Ejercer las demás facultades que las leyes otorgan al Banco, en el ámbito de infraestructuras a que se refieren las fracciones I y III del presente artículo.
 
 > <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -1483,35 +1563,117 @@ La Dirección de Desarrollo de Sistemas tendrá las atribuciones siguientes:
 
 I. Proporcionar a los órganos colegiados, a sus miembros y a las Unidades Administrativas del Banco, las soluciones informáticas y el soporte que requieran, de acuerdo con la normatividad correspondiente, para la ejecución de sus procesos.
 
-II. Diseñar e implantar los aplicativos y programas que la propia Dirección desarrolla o los que el Banco adquiera, que resuelvan necesidades transversales del Banco, así como planear y realizar los actos necesarios para garantizar su correcto funcionamiento y seguridad.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+II. Diseñar, desarrollar o adquirir, e implantar aplicaciones y sistemas que den solución a necesidades de las unidades administrativas del Banco, y llevar a cabo las tareas de administración tecnológica asociadas a su operación, mantenimiento y seguridad.
 
 III. Emitir políticas, lineamientos y estrategias institucionales para el desarrollo de los sistemas que automatizan los procesos del Banco, así como para los aplicativos y programas que sean adquiridos de terceros.
 
-IV. Presentar al Comité de Tecnologías y Seguridad de la Información propuestas de normatividad interna para el desarrollo de sistemas para el Banco y, en caso de obtener su aprobación, emitir las normas correspondientes.
+IV. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+V. Establecer, operar y administrar las infraestructuras de cómputo y software usadas de manera institucional para la construcción de sistemas de información, así como realizar los actos para mantenerlas actualizadas, y proporcionar el soporte técnico necesario.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VI. Establecer e instrumentar las políticas institucionales en materia de desarrollo seguro de software o evaluación de software desarrollado por terceros, en concordancia con las políticas y lineamientos emitidos al efecto por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VII. Analizar, proponer y desarrollar, en coordinación con la Dirección de Recursos Humanos, la instrumentación de programas institucionales de capacitación del personal del Banco en materia de desarrollo de software.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+VIII. Ejercer las demás facultades que las leyes otorgan al Banco en el ámbito de diseño, desarrollo o adquisición e implantación de aplicaciones informáticas y sistemas.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2018)</small>
 
 ARTICULO 29 BIS.- La Dirección de Ciberseguridad tendrá las atribuciones siguientes:
 
-I. Establecer políticas, lineamientos y estrategias institucionales para fortalecer la seguridad de la información que gestiona el Banco, así como todos los sistemas que soportan la operación y procesos del Banco.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-II. Presentar al Comité de Tecnologías y Seguridad de la Información, propuestas de normatividad interna para fortalecer la seguridad de la información y, en caso de obtener su aprobación, emitir las normas correspondientes.
+I. Establecer políticas, lineamientos y estrategias institucionales para fortalecer la ciberseguridad del Banco, así como todos los sistemas que soportan la operación y procesos del Banco.
+
+II. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
 
 III. Coordinar, a través del Comité de Tecnologías y Seguridad de la Información, la implementación de las políticas y lineamientos establecidos en la fracción I anterior.
 
-IV. Colaborar con las Direcciones de Control Interno y de Administración de Riesgos, respectivamente, en la evaluación y seguimiento de las actividades realizadas por las unidades administrativas en cumplimiento a la normatividad referida en la fracción II anterior.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-V. Evaluar el efecto que tiene en la seguridad de la información, las acciones que tomen las unidades administrativas para instrumentar las políticas y lineamientos referidos de la fracción I anterior.
+IV. Llevar a cabo, en coordinación con las Direcciones de Administración de Riesgos y de Control Interno, según corresponda, la evaluación y seguimiento de las actividades realizadas por las unidades administrativas del Banco en cumplimiento a la normatividad referida en la fracción I anterior. Asimismo, participar con las citadas Direcciones en las acciones relativas al desarrollo y fortalecimiento del sistema de control interno institucional respecto de aquellas materias que conforme a este artículo sean de su competencia.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+V. Evaluar el efecto de las acciones que tomen las unidades administrativas para instrumentar las políticas y lineamientos referidos de la fracción I anterior.
 
 VI. Acceder a cualquier tipo de información del Banco para el ejercicio de la atribución señalada en la fracción IV anterior, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, sistemas y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información relativa sobre declaración de situación patrimonial de servidores públicos del Banco, ni a la referente a los procesos y procedimientos de los mencionados servidores. Asimismo, los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes solo podrán consultarse con autorización previa y por escrito del Gobernador.
 
-VII. Representar al Banco de México en foros especializados y ante otras autoridades, en temas relacionados con seguridad de la información.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VIII. Participar en el diseño, elaboración y, en su caso, expedición de disposiciones en materia de seguridad de la información, aplicables a las entidades e intermediarios financieros en el ámbito de las atribuciones del Banco de México; así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones.
+VII. Representar al Banco de México en foros especializados y ante otras autoridades, en temas relacionados con seguridad de la información, ciberseguridad y ciberresiliencia, así como en los grupos de respuesta a incidentes que coordinan otras autoridades financieras y en los grupos con autoridades de seguridad e infraestructura crítica nacional, previo cumplimiento a lo dispuesto en el artículo 5o. del presente Reglamento.
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-IX. Proporcionar la información y documentación que requiera la Dirección de Seguridad y Organización de la Información para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
+VIII. Participar en la elaboración y, en su caso, expedición de disposiciones; así como en la atención de autorizaciones, consultas y opiniones en materia de ciberseguridad y ciberresiliencia de las entidades e intermediarios financieros en su operación con algún sistema del Banco o en su interconexión a las infraestructuras de cómputo y telecomunicaciones de este último, o bien, en su participación en los Sistemas de Pagos e Infraestructuras de Mercados, respecto a los elementos establecidos en los incisos i) y ii) del último párrafo del artículo 12 Bis de este Reglamento que sean objeto de las disposiciones de carácter general emitidas por el Banco.
+
+IX. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+X. Definir y administrar el programa de ciberseguridad y ciberresiliencia del Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XI. Requerir información en materia de seguridad de la información, ciberseguridad, ciberresiliencia e incidentes de ciberseguridad a las entidades e intermediarios financieros o entidades que operen algún sistema del Banco o en su interconexión a las infraestructuras de cómputo y telecomunicaciones de este último o bien, en su participación en los Sistemas de Pagos e Infraestructuras de Mercados, respecto a los elementos establecidos en los incisos i) y ii) del último párrafo del artículo 12 Bis de este Reglamento que sean objeto de las disposiciones de carácter general emitidas por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XII. Analizar, proponer e instrumentar, en coordinación con la Dirección de Seguridad y Organización de la Información y con la Dirección de Recursos Humanos, programas institucionales de capacitación del personal del Banco en materia de ciberseguridad y ciberresiliencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XIII. Definir la política, protocolos y plan de respuesta a incidentes de ciberseguridad, así como coordinar las acciones de respuesta y recuperación a incidentes que afecten al Banco o al sistema financiero.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XIV. Suscribir acuerdos o convenios de colaboración en materia de ciberseguridad y ciberresiliencia.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XV. Recabar y analizar información de inteligencia relacionada con ciberseguridad, para el cumplimiento de sus atribuciones en términos de este artículo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XVI. Diseñar e instrumentar ejercicios de ciberseguridad o ciberresiliencia con los intermediarios financieros o entidades que operen algún sistema del Banco, así como con las unidades administrativas del Banco que los administren.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XVII. Definir e instrumentar las acciones necesarias en las materias de ciberseguridad y ciberresiliencia, así como dar seguimiento a la corrección o mitigación de las vulnerabilidades informáticas que se identifiquen, de conformidad con las políticas y lineamientos emitidos al efecto por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII de este artículo, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros en las materias de dichas disposiciones. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XIX. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a la fracción anterior.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XX. Evaluar los requisitos de autorización, conexión, reconexión y permanencia en materia de seguridad de la información, ciberseguridad y ciberresiliencia de las entidades e intermediarios financieros y cuentahabientes del Banco en su operación con algún sistema del Banco o en su interconexión a las infraestructuras de cómputo y telecomunicaciones de este último o bien, en su participación en los Sistemas de Pagos e Infraestructuras de Mercados, respecto a los elementos establecidos en los incisos i) y ii) del último párrafo del artículo 12 Bis de este Reglamento que sean objeto de las disposiciones de carácter general emitidas por el Banco.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXI. Elaborar el Programa Anual de Evaluaciones prácticas de seguridad del Banco, en coordinación con la Dirección de Seguridad y Organización de la Información, y coordinar a terceros para evaluar de manera práctica la ciberseguridad de sistemas críticos del Banco, así como la infraestructura tecnológica que los soporta.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXII. Establecer los criterios, parámetros y métodos para la revisión y comprobación del control de tecnologías de la información en el Banco y, en su caso, emitir las recomendaciones que correspondan.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Ejercer las demás facultades que las leyes otorgan al Banco para regular a las entidades e intermediarios financieros en materia de seguridad de la información, ciberseguridad y ciberresiliencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1573,15 +1735,15 @@ Para efectos de las fracciones X y XI de este artículo, el titular de la Unidad
 
 ARTICULO 29 BIS 2.- (DEROGADO, D.O.F. 9 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 30.
 
-La Dirección General de Contraloría y Administración de Riesgos tendrá las atribuciones señaladas en los artículos 20 Bis, 30 Bis, 30 Bis 1 y 30 Bis 3 de este Reglamento, así como aquellas otras que confieran a la Contraloría del Banco las demás disposiciones aplicables.
+La Dirección General de Contraloría y Administración de Riesgos tendrá las atribuciones señaladas en los artículos 20 Bis, 29 Bis, 30 Bis, 30 Bis 1 y 30 Bis 3 de este Reglamento, así como aquellas otras que confieran a la Contraloría del Banco las demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-A la Dirección General de Contraloría y Administración de Riesgos estarán adscritas las Direcciones de Control Interno y de Administración de Riesgos y la Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+A la Dirección General de Contraloría y Administración de Riesgos estarán adscritas las Direcciones de Ciberseguridad, de Control Interno y de Administración de Riesgos y la Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1661,31 +1823,29 @@ XI. Acceder a cualquier tipo de información del Banco, incluyendo la clasificad
 
 El personal de la Dirección de Control Interno que intervenga en aquellos actos relacionados con el control interno, deberá guardar estricta reserva sobre la información y documentos que con motivo de sus funciones conozca, así como de sus actuaciones y observaciones;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción VI del artículo 30 Bis 1. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+XII. Recibir, conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores, contratistas y adquirentes, en contra de las resoluciones de inconformidades previstas en la fracción VI del artículo 30 Bis 1. Corresponderá a la persona titular de la Dirección de Control Interno resolver dicho recurso de revisión;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción VII del artículo 30 Bis 1 del presente Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+XIII. Recibir, conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución del recurso de revisión que interpongan los licitantes, proveedores y contratistas, en contra de las sanciones impuestas por el Banco, a que se refiere la fracción VII del artículo 30 Bis 1 del presente Reglamento. Corresponderá a la persona titular de la Dirección de Control Interno resolver dicho recurso de revisión;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XIV. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción VIII del artículo 30 Bis 1 de este Reglamento. Corresponderá al titular de la Dirección de Control Interno resolver dicho recurso de revisión;
+XIV. Recibir, conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución del recurso de revisión que se interponga en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, en contra de las resoluciones que se emitan respecto de las reclamaciones a que se refiere la fracción VIII del artículo 30 Bis 1 de este Reglamento. Corresponderá a la persona titular de la Dirección de Control Interno resolver dicho recurso de revisión;
 
 XV. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XVI. Llevar los registros de los servidores públicos del Banco que correspondan en términos de la Ley General de Responsabilidades Administrativas y de la Ley General del Sistema Nacional Anticorrupción, así como publicar y mantener actualizada la información de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, para lo cual podrá auxiliarse de las Unidades Administrativas que cuenten con la información correspondiente;
+XVI. Llevar los registros del Banco que correspondan a los sistemas que deban integrarse en términos de la Ley General de Responsabilidades Administrativas y de la Ley General del Sistema Nacional Anticorrupción, así como publicar y mantener actualizada la información de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, para lo cual podrá auxiliarse de las unidades administrativas del Banco que cuenten con la información correspondiente;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XVII. Recibir, registrar, administrar y, en su caso, inscribir en la Plataforma Digital Nacional las declaraciones de situación patrimonial, curricular y de intereses, así como la constancia de presentación de declaración fiscal, que presenten los servidores públicos en términos de las leyes en materia de responsabilidades administrativas de servidores públicos y combate a la corrupción, así como aplicar los procedimientos de verificación y sistemas para dar seguimiento a las referidas declaraciones, de acuerdo con las disposiciones que al respecto emita el Sistema Nacional Anticorrupción y la Comisión de Responsabilidades y, en su caso, informar a las instancias competentes de la omisión de la presentación de las citadas declaraciones, en términos de la legislación aplicable. De no existir anomalías, expedirá la certificación correspondiente, o en caso contrario, informará a la Unidad de Investigación para que esta actúe en el ámbito de sus atribuciones. Las actividades para la verificación y el seguimiento de la situación patrimonial y sobre la posible actualización de conflicto de intereses de los servidores públicos, así como las relativas a la Plataforma Digital Nacional, serán ejecutadas por los trabajadores que designe el Director General de Contraloría y Administración de Riesgos, quienes tendrán el acceso exclusivo a los registros individuales.
+XVII. Recibir, registrar, administrar y, en su caso, inscribir en la Plataforma Digital Nacional del Sistema Nacional Anticorrupción las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal, que presenten los servidores públicos del Banco en términos de las leyes en materia de responsabilidades administrativas de servidores públicos y combate a la corrupción, así como aplicar los procedimientos de verificación y sistemas para dar seguimiento a las referidas declaraciones, de acuerdo con las disposiciones que, al respecto, emita el Sistema Nacional Anticorrupción y la Comisión de Responsabilidades y, en su caso, informar a las instancias competentes de la omisión de la presentación de las citadas declaraciones, en términos de la legislación aplicable. De no existir anomalías, expedirá la certificación correspondiente o, en caso contrario, informará a la Unidad de Investigación para que esta actúe en el ámbito de sus atribuciones. Las actividades para la verificación y el seguimiento de la situación patrimonial y sobre la posible actualización de conflicto de intereses de los servidores públicos del Banco, así como las relativas a la Plataforma Digital Nacional referida, serán ejecutadas por personal adscrito a la Dirección de Control Interno que cuente con facultades para ello, quien tendrá el acceso exclusivo a los registros individuales.
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-Las personas sujetas a presentar declaraciones de situación patrimonial, curricular, de intereses, así como la constancia de presentación de declaración fiscal, serán las que determinen las leyes y las disposiciones aplicables en la materia, conforme a los lineamientos, criterios y demás resoluciones que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+Las personas sujetas a presentar declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal, serán las que determinen las leyes y las disposiciones aplicables en la materia, conforme a los lineamientos, criterios y demás resoluciones que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1695,33 +1855,37 @@ XVIII. Supervisar la ejecución de los procedimientos de contratación pública 
 
 XIX. Resolver, en el ámbito de su competencia, las consultas que le formulen las Unidades Administrativas o los servidores públicos del Banco y emitir las opiniones correspondientes, de conformidad con las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XX. Proponer a la Comisión de Responsabilidades, los Códigos de Ética y de Conducta;
+XX. Proponer a la Comisión de Responsabilidades los Códigos de Ética y de Conducta del Banco, así como la demás normativa en materia de integridad y anticorrupción que sea de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
 XXI. En representación del Órgano Interno de Control, las demás atribuciones que, en materia de promoción, evaluación y fortalecimiento del buen funcionamiento del control interno en los entes públicos, establezcan las leyes respectivas, que no correspondan a la Junta de Gobierno, la Comisión de Responsabilidades, la Unidad de Auditoría y la Dirección Jurídica, para lo cual se podrá auxiliar de las Unidades Administrativas que estime convenientes;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XXII. Emitir recomendaciones a las Unidades Administrativas para el fortalecimiento del control en sus procesos, derivado de las revisiones que realice en el ejercicio de sus atribuciones, así como turnarlas a las áreas competentes para su atención y seguimiento, y
+XXII. Emitir recomendaciones a las unidades administrativas del Banco para el fortalecimiento del control en sus procesos, derivado de las revisiones que realice en el ejercicio de sus atribuciones, así como turnarlas a las áreas competentes para su atención y seguimiento;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Establecer mecanismos para facilitar, a las Unidades Administrativas, la difusión entre su personal de la legislación, políticas y normas que regulan el ejercicio de las atribuciones de estas, así como su cumplimiento.
+XXIII. Establecer mecanismos para facilitar, a las unidades administrativas del Banco, la difusión entre su personal de la legislación, políticas y normas que regulan el ejercicio de las atribuciones de estas, así como su cumplimiento, y
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-Como excepción a lo establecido en el artículo 66, párrafo primero, de este Reglamento, en las ausencias del titular de la Dirección de Control Interno, las atribuciones previstas en las fracciones XII, XIII, XIV, XVI y XVII de este artículo, solamente serán ejercidas por el Director General de Contraloría y Administración de Riesgos.
+XXIV. Expedir las reglas a las que se sujetará la recepción, tramitación y resolución, de manera electrónica, de los procedimientos administrativos a que se refieren las fracciones XII, XIII y XIV del presente artículo, así como I, VI, VII y VIII del artículo 30 Bis 1.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+Como excepción a lo establecido en el artículo 66, párrafo primero, de este Reglamento, en las ausencias de la persona titular de la Dirección de Control Interno, las atribuciones previstas en las fracciones XII, XIII, XIV, XVI y XVII de este artículo, solamente serán ejercidas por la persona titular de la Dirección General de Contraloría y Administración de Riesgos. La sustanciación y resolución por medios electrónicos de los recursos de revisión previstos en las fracciones XII, XIII y XIV de este artículo se regirá por lo establecido en las reglas a que se refiere la fracción XXIV del presente artículo.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 30 BIS 1.- La Gerencia de Control Normativo, contará con las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-I. Recibir y desahogar las solicitudes de conciliación que le presenten los proveedores, contratistas y adquirentes, con motivo de contratos que tengan celebrados con el Banco;
+I. Recibir y desahogar las solicitudes de conciliación, incluso de manera electrónica, que le presenten los proveedores, contratistas y adquirentes, con motivo de contratos que tengan celebrados con el Banco;
 
 II. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
@@ -1731,29 +1895,31 @@ IV. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
 V. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VI. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las inconformidades de los licitantes, proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos. Corresponderá al titular de la Gerencia de Control Normativo resolver las inconformidades citadas;
+VI. Recibir, conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución de las inconformidades de los licitantes, proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos. Corresponderá a la persona titular de la Gerencia de Control Normativo resolver las inconformidades citadas;
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VII. Imponer las sanciones a que se refieren los títulos Cuarto de las Normas del Banco de México en Materia de Adquisiciones y Arrendamientos de Bienes Muebles, así como de Servicios, y Quinto de las Normas del Banco de México en Materia de Obra Inmobiliaria y Servicios Relacionados con la Misma, a licitantes, proveedores y contratistas. Las sanciones a que se refiere esta fracción, serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos;
+VII. Imponer las sanciones, incluso de manera electrónica, a que se refieren los títulos Cuarto de las Normas del Banco de México en Materia de Adquisiciones y Arrendamientos de Bienes Muebles, así como de Servicios, y Quinto de las Normas del Banco de México en Materia de Obra Inmobiliaria y Servicios Relacionados con la Misma, a licitantes, proveedores y contratistas. Las sanciones a que se refiere esta fracción, serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos;
 
-> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-VIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá al titular de la Gerencia de Control Normativo resolver las reclamaciones citadas, y
+VIII. Recibir, conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución de las reclamaciones que se interpongan ante el Banco, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Corresponderá a la persona titular de la Gerencia de Control Normativo resolver las reclamaciones citadas, y
 
-IX. (DEROGADA, D.O.F. 17 DE JULIO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+IX. Expedir constancias y certificar copias de los registros y documentos que sean de su competencia conforme al presente Reglamento o cualquier otra disposición.
 
-En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, VI, VII, y VIII de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+
+En las ausencias de la persona titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, VI, VII, y VIII de este artículo, serán ejercidas de forma individual por la persona titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna. La sustanciación y resolución por medios electrónicos de los procedimientos administrativos previstos en las fracciones I, VI, VII y VIII de este artículo se regirá por lo establecido en las reglas a que se refiere la fracción XXIV del artículo 30 Bis de este Reglamento.
 
 ARTICULO 30 BIS 2.- (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
-ARTICULO 30 BIS 3.- La reclamación y el recurso de revisión que se interpongan en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, se tramitarán aplicando, en lo conducente, el Capítulo IV de este Reglamento.
+ARTICULO 30 BIS 3.- La reclamación y el recurso de revisión que se interpongan en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, se tramitarán aplicando supletoriamente las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo, siempre que estas no se opongan, en lo conducente, a lo previsto en las reglas que al efecto se expidan de conformidad con la fracción XXIV del artículo 30 Bis de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -3028,3 +3194,15 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. Las reformas y adiciones de los artículos 28, fracciones I y II, 43, 44, 46 Bis, 47, 48, 49 y 52, del presente Reglamento, entrarán en vigor una vez que la persona titular de la Dirección Jurídica publique en el Diario Oficial de la Federación la declaratoria de inicio de funciones, a partir de la cual se entenderá que quedan en operación los medios tecnológicos para la tramitación del recurso de reconsideración.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
+
+SEGUNDO. Las reformas de los artículos 30 Bis, fracciones XII, XIII y XIV, y segundo párrafo, así como, 30 Bis 1, fracciones I, VI, VII y VIII, y segundo párrafo, del presente Reglamento, entrarán en vigor una vez que la persona titular de la Dirección de Control Interno publique en el Diario Oficial de la Federación la declaratoria de inicio de funciones, a partir de la cual se entenderá que quedan en operación los medios tecnológicos para la tramitación de los recursos de revisión, así como de los procedimientos administrativos establecidos en dichos preceptos.
+
+TERCERO. Todas las referencias a las unidades administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan cambiado de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las unidades administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
