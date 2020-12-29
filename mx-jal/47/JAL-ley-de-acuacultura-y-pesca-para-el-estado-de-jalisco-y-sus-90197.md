@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2019-12-28"
+last_updated: "2020-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO POR EL ARTÍCULO PRIMERO Y ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO, ESTES ÚLTIMO ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
+
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -2182,3 +2184,13 @@ Asimismo, se faculta a la Secretaría de Agricultura y Desarrollo Rural del Esta
 CUARTO. Los permisos, registros, autorizaciones, certificados y reconocimientos emitidos en los términos de las Leyes que se abrogan o de los preceptos que se derogan, continuarán vigentes y serán reconocidos hasta en tanto concluya el plazo por el que fueron emitidos.
 
 QUINTO. La Junta de Gobierno de la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria en Jalisco se instalará en un periodo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28278/LXII/20 QUE ABROGA LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y SE EXPIDE LA LEY DE ACULTURA (SIC) Y PESCA PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Acuacultura y Pesca para el Estado de Jalisco y sus Municipios contenida en el decreto 24142/LIX/12.
+
+TERCERO. Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos, obligaciones y asuntos en trámite del Instituto de Acuacultura y Pesca del Estado de Jalisco que se extingue pasarán a formar parte de la Secretaría de Agricultura y Desarrollo Rural.
