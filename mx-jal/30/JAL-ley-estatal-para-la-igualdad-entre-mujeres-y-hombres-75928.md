@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2020-04-21"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -693,17 +693,19 @@ Para el sector privado, las medidas de igualdad a que se refiere el artículo an
 
 Los planes de igualdad son un conjunto ordenado de medidas destinadas a alcanzar la igualdad de trato y oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de género.
 
-> <small>(F. DE E., P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 72.
 
-Los planes de igualdad deberán contener, entre otros, objetivos y estrategias específicas a implementar en materia de acceso al empleo, promoción y formación profesional, retribuciones, medidas que contribuyan a la conciliación laboral, personal y familiar, que fomenten la igualdad entre mujeres y hombres, además de la prevención del acoso sexual y la no discriminación.
+Los planes de igualdad deberán contener, entre otros, objetivos y estrategias específicas a implementar en materia de acceso al empleo, promoción y formación profesional, retribuciones, medidas que contribuyan a la conciliación laboral, personal y familiar, que fomenten la igualdad entre mujeres y hombres, además de la prevención y atención del hostigamiento y acoso sexual, y la no discriminación.
 
 Los empleados y demás personal que formen parte de la empresa, conocerán el contenido de los planes de igualdad y colaborarán para la consecución de sus objetivos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 73.
 
-Las empresas deberán promover condiciones de trabajo que eviten el acoso sexual, además de adoptar medidas específicas para su prevención y para dar cauce a las denuncias o reclamaciones que puedan formular quienes hayan sido objeto del mismo.
+Las empresas deberán promover condiciones de trabajo que eviten el hostigamiento y acoso sexual, además de adoptar medidas específicas para su prevención y atención para dar cauce a las denuncias o reclamaciones que puedan formular quienes hayan sido objeto del mismo.
 
 ## TÍTULO IX
 
@@ -910,3 +912,11 @@ P.O. 21 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27857/LXII/20, MEDIANTE EL CUAL SE REFORMA LA NOMENCLATURA DEL CAPÍTULO QUINTO DEL TÍTULO V DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28265/LXII/20 QUE REFORMA LOS ARTÍCULOS 72 Y 73 DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
