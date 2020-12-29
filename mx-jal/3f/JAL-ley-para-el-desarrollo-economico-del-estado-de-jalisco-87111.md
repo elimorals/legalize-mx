@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2019-10-31"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 27384/LXII/19 PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -729,7 +727,9 @@ X. Las demás aplicables en los términos de esta ley y su reglamento.
 
 ###### Artículo 34.
 
-La Junta de Gobierno del Consejo Estatal de Promoción Económica de Jalisco, quedará integrará (sic) por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+La Junta de Gobierno del Consejo Estatal de Promoción Económica de Jalisco, quedará integrada por:
 
 I. El Gobernador del Estado o a quien él designe para sustituirlo, quien lo presidirá, quien contará con derecho a voz y voto;
 
@@ -778,6 +778,10 @@ l. Ayuntamiento de Tlajomulco de Zúñiga;
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ENERO DE 2017)</small>
 
 m. Ayuntamiento de Lagos de Moreno;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+n). Ayuntamiento de El Salto.
 
 IV. Los titulares o su debido acreditado, de las siguientes representaciones del sector privado, quienes contarán con derecho a voz:
 
@@ -1574,3 +1578,9 @@ P.O. 24 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28267/LXII/20 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
