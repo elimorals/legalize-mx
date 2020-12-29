@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2020-10-03"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -1539,7 +1539,9 @@ VII. Participar en el Sistema Municipal de Protección; y
 
 VIII. Las demás que la regulación municipal establezca.
 
-Los Gobiernos municipales publicarán en lugares accesibles el domicilio de las oficinas, los nombres y fotografía de los servidores públicos especializados en la atención de niñas, niños y adolescentes, dentro del programa de primer contacto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Los Gobiernos municipales publicarán en su página oficial de internet, así como en lugares accesibles el domicilio de las oficinas, los nombres y fotografía (sic) de los servidores públicos especializados en la atención de niñas, niños y adolescentes, dentro del programa de primer contacto.
 
 ###### Artículo 101.
 
@@ -1904,5 +1906,11 @@ CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a ca
 P.O. 3 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27759/LXII/19 QUE REFORMA EL ARTÍCULO 65 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28269/LXII/20 QUE REFORMA EL ARTÍCULO 100 DE LA LEY DE LOS DERECHOS DE NIÑAS Y (SIC) NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
