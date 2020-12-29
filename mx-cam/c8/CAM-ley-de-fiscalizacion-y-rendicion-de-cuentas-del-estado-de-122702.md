@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12270
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-13"
-last_updated: "2017-07-13"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Número 0478 del Periódico Oficial del Estado de Campeche, el jueves 13 de julio de 2017.
 
@@ -75,15 +75,25 @@ I. Auditoría Superior del Estado: el órgano técnico de fiscalización del Con
 
 II. Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por las entidades fiscalizadas sujetas a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
 
-III. Autonomía de gestión: la facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+III. Autonomía de gestión: la facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;
 
 IV. Autonomía técnica: la facultad de la Auditoría Superior del Estado para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+IV bis. Boletín Electrónico: El medio de comunicación oficial electrónico, a través del cual se dan a conocer los actos y resoluciones que emite la Auditoría Superior del Estado;
 
 V. Congreso: el Congreso del Estado de Campeche;
 
 VI. Comisión: la Comisión de Enlace en Materia de Fiscalización del Congreso del Estado;
 
 VII. Comisiones Dictaminadoras: las Comisiones de Finanzas y Hacienda Pública y, de Control Presupuestal y Contable;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+VII bis. Correo Electrónico: El servicio vía internet que permite el intercambio de mensajes a través de sistemas de comunicación electrónicos:
 
 VIII. Cuentas Públicas: la Cuenta Pública del Estado y las Cuentas Públicas de los Municipios a que se refiere el artículo 54 fracción XXII de la Constitución Política del Estado de Campeche y cuyo contenido se establece en los artículos 53 y 55 de la Ley General de Contabilidad Gubernamental, respectivamente;
 
@@ -129,6 +139,10 @@ XXVIII. Servicio de Administración Fiscal del Estado: la autoridad fiscal, órg
 
 XXIX. Servidores públicos: los señalados en la Constitución Política del Estado de Campeche y en la Ley General de Responsabilidades Administrativas;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XXIX bis. Sistema Electrónico: El sistema utilizado por la Auditoría Superior del Estado para la fiscalización y práctica de auditorías por medios digitales o electrónicos y mediante el uso de firma electrónica avanzada;
+
 XXX. Tribunal: el Tribunal de Justicia Administrativa; y
 
 XXXI. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
@@ -143,6 +157,10 @@ Tratándose de los informes a que se refieren las fracciones XIX, XX y XXI, del 
 
 La fiscalización de la Cuenta Pública que realiza la Auditoría Superior del Estado se lleva a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Para la fiscalización superior y en las auditorías que se practiquen, la Auditoría Superior del Estado podrá solicitar información y/o documentación, de manera física o por medios electrónicos o digitales, mediante el uso de firma electrónica avanzada y un sistema para la fiscalización y práctica de auditorías por medios digitales o electrónicos que se establezca, entre otros, que serán obligatorios para los Entes Públicos.
+
 ###### Artículo 7.
 
 A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley General de Responsabilidades Administrativas; la Ley General del Sistema Nacional Anticorrupción; la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche; la legislación fiscal vigente en el Estado; y las disposiciones relativas del derecho común, sustantivo y procesal, vigentes en el Estado, en ese orden.
@@ -151,17 +169,25 @@ A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y
 
 La Auditoría Superior del Estado deberá emitir los criterios relativos a la ejecución de auditorías, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley y publicarse en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+La Auditoría Superior del Estado emitirá las Reglas de Carácter General aplicables a los procesos y procedimientos de fiscalización superior por medios electrónicos o digitales, así como la normatividad relativa a los protocolos de seguridad y los demás que para tal efecto se implementen. La información y/o documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
+
 ###### Artículo 9.
 
 Los Entes Públicos facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
 
-Los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan fondos, recursos locales o deuda pública, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Los servidores públicos, así como cualquier entidad fiscalizada, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan fondos, recursos locales o deuda pública, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 De no proporcionar la información, los responsables serán sancionados en los términos de esta Ley, la Ley General de Responsabilidades Administrativas y, en su caso, en términos de la legislación penal aplicable.
 
 Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarlo y no será inferior a cinco días hábiles ni mayor a diez días hábiles contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
 
-La Auditoría Superior del Estado podrá ampliar el plazo hasta por tres días más, derivado de la extensión de los requerimientos de información que haya formulado. Para estos efectos los requeridos, dentro del plazo primigenio, deberán presentar escrito solicitando la ampliación en el que se justifique la circunstancia que haga difícil cumplir con el mismo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+La Auditoría Superior del Estado podrá ampliar el plazo hasta por tres días más, derivado de la extensión de los requerimientos de información que haya formulado. Para estos efectos los requeridos, dentro del plazo primigenio, deberán presentar solicitud de ampliación en el que se justifique la circunstancia que haga difícil cumplir con el mismo.
 
 Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
 
@@ -181,6 +207,10 @@ V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscal
 
 VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado debe citar y oír previamente al presunto infractor y tener en cuenta, en su caso, sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Las notificaciones que se realicen observarán en lo conducente lo señalado en el Capítulo II del Título Décimo de la presente ley; y
+
 VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información a la Auditoría Superior del Estado, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
 Las multas podrán ser impuestas por quien formuló el requerimiento.
@@ -192,6 +222,10 @@ No se entenderá iniciada la revisión y fiscalización de las Cuentas Públicas
 La negativa a entregar información a la Auditoría Superior del Estado, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a esta Ley, la Ley General de Responsabilidades Administrativas y las leyes penales aplicables.
 
 Cuando los servidores públicos o las personas físicas o morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por la legislación penal aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+La Auditoría Superior del Estado podrá requerir, por conducto de sus servidores públicos competentes, la exhibición de los documentos originales en los casos en que se estime necesario realizar el cotejo de los documentos que le hayan sido presentados.
 
 ###### Artículo 12.
 
@@ -349,9 +383,11 @@ XX. Participar en el Sistema Anticorrupción del Estado de Campeche, así como e
 
 XXI. Solicitar a las Entidades Fiscalizadas información del ejercicio en curso, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1 de esta Ley;
 
-XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales, así como también poder solicitar la documentación en copias certificadas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-Esta atribución podrá ser ejercida por el personal comisionado o habilitado para la práctica de auditorías e investigaciones;
+XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia certificada de la información y/o documentación que se tengan a la vista, así como también requerir información y/o documentación en copia certificada.
+
+Sin perjuicio de lo anterior, el personal comisionado o habilitado para la práctica de auditorías e investigaciones podrá certificar la información y/o documentación que se tenga a la vista, previo cotejo con los originales y siempre que le hayan sido exhibidos por las Entidades Fiscalizadas;
 
 XXIII. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado, por conducto de los titulares de las áreas que conforman su estructura orgánica;
 
@@ -371,9 +407,13 @@ La Auditoría Superior del Estado podrá ejercer estas facultades conjunta, indi
 
 Cuando con motivo de sus facultades para revisión y fiscalización, la Auditoría Superior del Estado requiera información y documentación a las Entidades Fiscalizadas o terceros relacionados con ellas, se tendrán los siguientes plazos para su presentación:
 
-I. Los libros y registros que formen parte de su contabilidad, la documentación justificativa y comprobatoria de los ingresos y egresos, así como las bases de datos de sus sistemas de contabilidad y de los sistemas de registro de los ingresos y egresos, requeridos en el curso de una visita domiciliaria, auditoría o investigación, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-II. Tres días hábiles contados a partir del siguiente a aquél en que se le notificó el requerimiento de información y documentación, cuando los documentos sean de los que deba tener en su poder la Entidad Fiscalizada y se los requieran durante el desarrollo de una visita domiciliaria, auditoría o investigación y sean distintos de aquellos a que se refiere la fracción anterior; el mismo plazo aplicará para las copias certificadas que se requieran;
+I. Los libros y registros que formen parte de su contabilidad, la documentación justificativa y comprobatoria de los ingresos y egresos, así como las bases de datos de sus sistemas de contabilidad y de los sistemas de registro de los ingresos y egresos, requeridos en el curso de una visita domiciliaria, auditoría o investigación, deberán presentarse al día hábil siguiente, así como los diagramas y el diseño del sistema de registro electrónico, en su caso;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+II. Tres días hábiles contados a partir del siguiente a aquél en que se le notificó el requerimiento de información y documentación, cuando se trate de aquéllos que deba tener en su poder la Entidad Fiscalizada y se los requieran durante el desarrollo de una visita domiciliaria, auditoría o investigación y sean distintos de aquellos a que se refiere la fracción anterior; el mismo plazo aplicará para las copias certificadas que se requieran;
 
 III. Cinco días hábiles contados a partir del siguiente a aquél en que se le notificó el requerimiento de información y documentación, en los demás casos.
 
@@ -623,7 +663,9 @@ En los convenios que se celebren podrán establecerse los lineamientos técnicos
 
 Para los efectos de lo previsto en el último párrafo de la fracción I del artículo 108 bis de la Constitución Política del Estado de Campeche, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos locales, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar la gestión financiera de las Entidades Fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
 
-Las denuncias podrán presentarse al Congreso, a la Comisión o directamente a la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Las denuncias podrán presentarse al Congreso, a la Comisión o a la Auditoría Superior del Estado directamente, o a través (sic) medios electrónicos o digitales autorizados para tal efecto por estas instancias, respectivamente por lo que corresponde a sus competencias y organización. En este último caso, la respuesta al denunciante se realizará por estos medios de conformidad con las disposiciones aplicables.
 
 ###### Artículo 55.
 
@@ -753,7 +795,9 @@ a). Los documentos que acrediten su personalidad cuando actúe a nombre de otro 
 
 b). La mención de la autoridad administrativa que emitió el acto impugnado;
 
-c). El nombre y firma autógrafa del recurrente;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+c). El nombre y firma del recurrente;
 
 d). El domicilio que señala para oír y recibir notificaciones;
 
@@ -765,9 +809,13 @@ g). La constancia de notificación del acto impugnado, excepto cuando el promove
 
 h). Las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción o resolución recurrida.
 
-Los documentos a que se refieren los incisos anteriores deberán agregarse al escrito de recurso. En caso de que la Auditoría Superior del Estado tenga indicios de que no existen o son falsos, podrá solicitar al recurrente la presentación del original o copia certificada.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la Auditoría Superior del Estado requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de éstos.
+Los documentos a que se refieren los incisos anteriores deberán agregarse al recurso. En caso de que la Auditoría Superior del Estado tenga indicios de que no existen o son falsos, o bien no sean legibles, podrá solicitar al recurrente la presentación del original o copia certificada para su cotejo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la Auditoría Superior del Estado requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y tratándose de los que pueda tener a su disposición, bastará con que acompañe la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de éstos.
 
 II. Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de cinco días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación.
 
@@ -851,7 +899,9 @@ I. Si el interesado afirma conocer el acto administrativo, la impugnación contr
 
 II. En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
 
-III. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la Auditoría Superior del Estado. En este caso, la Auditoría Superior del Estado le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual, el interesado señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la Auditoría Superior del Estado dará a conocer el acto y la notificación por medio de estrados;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+III. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la Auditoría Superior del Estado. En este caso, la Auditoría Superior del Estado le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual, el interesado señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la Auditoría Superior del Estado dará a conocer el acto y la notificación por medio de estrados, o en su caso por medio del Boletín Electrónico;
 
 IV. El recurrente tendrá un plazo de quince días hábiles a partir del siguiente al en que la Auditoría Superior del Estado se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación;
 
@@ -1093,9 +1143,13 @@ XIV. Coordinarse con los órganos internos de control cuando estos deban colabor
 
 XV. Solicitar copia certificada de la información y documentación original, o en su caso, de las constancias que obren en los archivos de las Entidades Fiscalizadas, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
 
-XVI. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales o en su caso, de las constancias que se tengan a la vista, y certificarlas previo cotejo con sus originales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XVII. Expedir copias certificadas de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
+XVI. Obtener durante el desarrollo de las auditorías e investigaciones copia de la información y/o documentos originales o en su caso, de las constancias que se tengan a la vista, y certificarlas previo cotejo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XVII. Expedir copias certificadas de la información y/o documentos que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
 
 XVIII. Grabar en audio o video cualquiera de las reuniones de trabajo y audiencias previstas en esta Ley, previo consentimiento por escrito de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente;
 
@@ -1425,6 +1479,10 @@ Cuando se reciban quejas y denuncias debidamente fundadas del incumplimiento de 
 
 Para el ejercicio de sus funciones se auxiliará en las unidades a que hacen referencia las fracciones XXI y XXII del artículo 91 de esta ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Las quejas y denuncias podrán presentarse a la Auditoría Superior del Estado a través (sic) medios electrónicos o digitales autorizados para tal efecto. En este último caso, la respuesta al denunciante se realizará por estos medios, de conformidad con las disposiciones aplicables.
+
 ## TÍTULO OCTAVO. De la Contraloría Social
 
 ### Capítulo Único
@@ -1432,6 +1490,10 @@ Para el ejercicio de sus funciones se auxiliará en las unidades a que hacen ref
 ###### Artículo 106.
 
 La Auditoría Superior del Estado recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las que podrán ser consideradas en su programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en los Informes Generales. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Las instancias a que se refiere el párrafo anterior podrán presentarse a través de medios electrónicos o digitales autorizados por la Auditoría Superior del Estado para tal efecto.
 
 ## TÍTULO NOVENO. Disposiciones complementarias
 
@@ -1461,27 +1523,35 @@ El importe de las multas será entregado por la Secretaría de Finanzas de la Ad
 
 ### Capítulo II. De las promociones ante la Auditoría Superior del Estado
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 112.
 
 Toda promoción que se presente ante la Auditoría Superior del Estado deberá estar firmada por el interesado o en tratándose de personas morales por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que bastará que imprima su huella digital.
 
+La expresión de la voluntad podrá ser mediante firma autógrafa o firma electrónica avanzada, produciendo ambas los mismos efectos. En la utilización de la firma electrónica avanzada se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
+
 Las promociones deben reunir también los requisitos siguientes:
 
-I. Constar por escrito;
+I.- Constar por escrito;
 
-II. Tener el nombre, la denominación o razón social del promovente; y
+II.- Tener el nombre, la denominación o razón social del promovente; y
 
-III. Domicilio para oír y recibir notificaciones dentro del Estado de Campeche y el nombre de la persona autorizada para recibirlas.
+III.- Domicilio para oír y recibir notificaciones dentro del Estado de Campeche y el nombre de la persona autorizada para recibirlas. Asimismo, deberá señalarse la cuenta de correo electrónico correspondiente para el efecto de que se practiquen las diligencias de notificación mediante Boletín Electrónico cuando el interesado así lo señale, sin que pueda variarse una vez dispuesto.
 
-El domicilio convencional deberá referir el nombre oficial de la calle donde se encuentre, las calles entre las que se ubica, la numeración oficial que le corresponda, la zona, barrio, colonia o fraccionamiento, así como el código postal correspondiente, en el Estado de Campeche; y deberá ser señalado en el primer escrito o promoción que se presente, así como también deberá notificarse el cambio del mismo. En caso de no ser así, las notificaciones se harán personalmente en las oficinas de la Auditoría Superior del Estado, siempre que se presente el interesado dentro de las veinticuatro horas siguientes a la emisión del proveído, acuerdo o resolución, y en caso contrario se harán en la forma prevista por el artículo 125 fracción II de esta Ley.
+El domicilio convencional deberá referir el nombre oficial de la calle donde se encuentre, las calles entre las que se ubica, la numeración oficial que le corresponda, la zona, barrio, colonia o fraccionamiento, así como el código postal correspondiente, en el Estado de Campeche; y deberá ser señalado en el primer escrito o promoción que se presente, así como también deberá notificarse el cambio del mismo. En caso de no ser así, las notificaciones se harán personalmente en las oficinas de la Auditoría Superior del Estado, siempre que se presente el interesado dentro de las veinticuatro horas siguientes a la emisión del proveído, acuerdo o resolución, y en caso contrario se harán en la forma prevista por el artículo 125 fracción II de esta Ley, o bien, mediante Boletín Electrónico cuando se considera y señale una dirección de correo electrónico.
 
-En todo caso se presentarán dos tantos de la promoción, de los cuales uno será devuelto a quien lo presente con el sello de acuse de recibo del área correspondiente.
+En todo caso se presentarán dos tantos de la promoción, de los cuales uno será devuelto a quien lo presente con el sello de acuse de recibo del área correspondiente. Cuando la promoción se presente mediante medios digitales o electrónicos establecidos por la Auditoría Superior del Estado, se enviará al interesado el acuse de recibo correspondiente por la misma vía.
 
 Cuando la firma contenida en las promociones o documentos presentados en la Auditoría Superior del Estado no sea legible o se dude de su autenticidad, se requerirá al promovente para que en un plazo de tres días hábiles se presente a ratificar y reconocer la firma plasmada. El mismo requerimiento podrá realizarse cuando se trate de un documento presentado en copia simple.
 
 ###### Artículo 113.
 
 El horario en que se recibirán las promociones, instancias o escritos de los interesados comprenderá de las 8:30 a las 14:30 horas en días hábiles, exclusivamente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Las promociones que se reciban mediante los sistemas digitales o electrónicos fuera del horario señalado en el párrafo anterior se tendrán por recibidas al día siguiente. El huso horario que se observará será el del centro del país.
 
 ###### Artículo 114.
 
@@ -1521,9 +1591,13 @@ La Auditoría Superior del Estado podrá revisar sus actuaciones y las resolucio
 
 ### Capítulo I. De la ejecución de las auditorías
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 119.
 
-Con independencia de lo señalado por esta ley y demás disposiciones aplicables, la Auditoría Superior del Estado podrá practicar auditorías a través de visitas domiciliarias y revisiones de gabinete, que se llevarán a cabo de conformidad con lo establecido en el presente capítulo.
+Con independencia de lo señalado por esta ley y demás disposiciones aplicables, la Auditoría Superior del Estado podrá practicar auditorías a través de visitas domiciliarias, revisiones de gabinete o visitas de verificación, que se llevarán a cabo de conformidad con los procedimientos establecidos en esta Ley.
+
+Para el cumplimiento de sus funciones la Auditoría Superior del Estado, por conducto de sus servidores públicos competentes, podrá utilizar la firma autógrafa o firma electrónica avanzada en términos de lo señalado en esta Ley y en las disposiciones aplicables.
 
 ###### Artículo 120.
 
@@ -1535,7 +1609,9 @@ II. Señalar la autoridad que la emite, así como el lugar y fecha de emisión;
 
 III. Estar fundada y motivada y expresar el objeto o propósito de que se trate;
 
-IV. Ostentar la firma autógrafa de la autoridad competente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+IV. Ostentar la firma de la autoridad competente;
 
 V. El nombre o nombres de las personas a las que vaya dirigida;
 
@@ -1625,6 +1701,148 @@ V. Cuando la Auditoría Superior del Estado se vea impedida para continuar el ej
 
 Cuando la Auditoría Superior del Estado no notifique los resultados y las observaciones preliminares, o en su caso, el oficio de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita domiciliaria o revisión de gabinete.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-A.
+
+Para cumplir con el objeto de la revisión de la Cuenta Pública, la Auditoría Superior del Estado también podrá llevar a cabo auditorías mediante el procedimiento de visitas de verificación.
+
+Para tal efecto se emitirá la orden de verificación por el Director de Auditoría que corresponda, en la que se precisará el lugar, domicilio, zona, obras, acciones, inversiones, personas, bienes, instalaciones o servicios que han de verificarse, el objeto de la visita, el alcance que deba tener y la norma jurídica que la fundamente.
+
+De la emisión de la orden de verificación se dará aviso por oficio a las Entidades Fiscalizadas cuando menos con un día hábil de anticipación para el efecto de que comparezcan a la misma. La falta de asistencia de representantes de las Entidades Fiscalizadas a la visita de verificación no será impedimento para su desahogo.
+
+Las Entidades Fiscalizadas deberán permitir el acceso y dar facilidades e informes a las personas comisionadas o habilitadas en la orden para el desarrollo de la visita de verificación.
+
+La visita de verificación se llevará a cabo por las personas comisionadas o habilitadas en la forma siguiente:
+
+I.- Al inicar la visita, deberán identificarse con credencial expedida por la entidad de fiscalización y el oficio de comisión respectivo, que los acrediten para desempeñar dicha función, así como la orden de visita de verificación, de la que deberá dejarse copia a la persona con quien se entienda la diligencia.
+
+II.- De toda visita de verificación se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se entienda la diligencia, o designados directamente si aquélla se hubiere negado a proponerlos.
+
+III.- De toda acta se dejará copia a la persona con quien se entienda la diligencia, aunque se niegue a firmarla, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando se haga constar tal circunstancia en la propia acta.
+
+En el acta de la visita de verificación se hará constar:
+
+a) La Entidad Fiscalizada visitada:
+
+b) La hora, el día, el mes y el año en que se inicie y concluya la diligencia;
+
+c) La calle, el número del inmueble, la población o colonia, el Municipio y en su caso Sección Municipal y así como el código postal, o bien, los datos que permitan identificar el lugar en que se practique la visita;
+
+d) El número y la fecha del oficio de comisión y de la orden que la motivó;
+
+e) El nombre y cargo de la persona con quien se entendió la diligencia;
+
+f) El nombre y domicilio de las personas que fungieron como testigos;
+
+g) Los datos relativos a la actuación;
+
+h) La declaración del visitado, si quisiera hacerla; e
+
+i) El nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firma el visitado o su representante legal, ello no afectará la validez del acta, debiéndose asentar la razón relativa.
+
+El visitado, podrá formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella.
+
+Los resultados y las observaciones preliminares se notificarán de acuerdo a lo que establece el Capítulo II del Título Décimo de esta Ley para efectos de lo señalado en el artículo 25 de esta Ley; y
+
+Cuando no hubiera observaciones, la Auditoría Superior del Estado lo hará de conocimiento mediante oficio a la entidad fiscalizada.
+
+En los casos donde la entidad fiscalizada ofrezca documentación y/o información relacionadas los resultados y las observancias preliminares, que no hayan sido presentados en la visita de verificación, la Auditoría Superior del Estado podrá formular las observaciones que correspondan con motivo del estudio de dichos elementos, que serán notificadas a la Entidad Fiscalizada para que formule su solventación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-B.
+
+El procedimiento de auditoría a través de revisiones de gabinete a que se refiere el artículo 123 de esta ley, a juicio de la Auditoría Superior del Estado se podrá realizar de manera presencial o mediante el Sistema Electrónico.
+
+La Auditoría Superior del Estado contará con un Sistema Electrónico, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, requerimientos de información, oficios, aumento o disminución o sustitución de personal, citatorios, actas circunstanciadas, actas de reuniones, resultados finales de auditoría y las observaciones preliminares, dictamenes, acuerdos, informes individuales que contengan acciones, previsiones o recomendaciones, informes generales, así como en su caso cualquier acto que se emita, los cuales constarán en documentos digitales. En estos casos la firma autógrafa se sustituirá por otra forma de expresión de la voluntad que es la Firma Electrónica Avanzada.
+
+Por su parte, las Entidades Fiscalizadas presentarán solicitudes o darán atención a requerimientos de información, suscribirán las actas, de la Auditoría Superior del Estado a través de documentos o archivos digitales certificados enviados a través del Sistema Electrónico o celebrarán los actos que se requieran dentro de los procesos y procedimientos de fiscalización superior. De toda promoción recibida se emitirá el acuse de recibo electrónico correspondiente.
+
+Los procesos y procedimientos de fiscalización que se realicen a través del Sistema Electrónico constarán en expedientes electrónicos.
+
+Estas disposiciones únicamente serán aplicables a las Entidades Fiscalizadas que tengan el carácter de entes públicos de acuerdo con lo previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-C.
+
+Las disposiciones relativas a las auditorías mediante revisiones de gabinete le serán aplicables en lo conducente a la auditoría realizada a través del Sistema Electrónico, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I.- Previo al inicio de la auditoría mediante el Sistema Electrónico, la Auditoría Superior del Estado requerirá por escrito a la Entidad Fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II.- Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior del Estado enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corrobar la autenticidad y correcto funcionamiento de éste;
+
+III.- Los servidores públicos de la Entidad Fiscalizada que se encuentren autorizados para tal efecto harán uso del Sistema Electrónico para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior del Estado;
+
+IV.- Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las Entidades Fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría mediante el Sistema Electrónico;
+
+V.- En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio. Los titulares serán responsables de su uso;
+
+VI.- Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar la fecha y hora en que el servidor público de la Entidad Fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado; y
+
+VII.- Cuando la Auditoría Superior del Estado por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría mediante el Sistema Electrónico, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet de la Auditoría Superior del Estado acompañada de la fundamentación y motivación correspondiente. En caso de que la auditoría pueda ser continuada mediante el procedimiento ordinario de revisión de gabinete a que se refiere el artículo 123 de esta ley, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una mediante el Sistema Electrónico podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación, siendo que esta última opción podrá aplicarse a las visitas domiciliarias y revisiones de gabinete, por lo que se aplicarán en lo conducente sus disposciones particulares a las de este artículo.
+
+En el envío de información y/o documentación electrónica en los procesos de auditoría, así como para la formalización de actas circunstanciadas y citatorios en las auditorías, la Entidad Fiscalizada a través de su representante legal o enlace se sujetará a lo siguiente:
+
+a) Reconocerá como auténtica la información y/o documentación que envié a la Auditoría Superior del Estado a través del Sistema Electrónico, siempre y cuando la firme con su firma electrónica avanzada;
+
+b) Informará oportunamente a la Auditoría Superior del Estado sobre la revocación, pérdida o cualquier otra situación que pueda implicar la reproducción o uso indebido de su firma electrónica avanzada;
+
+c) Informará oportunamente a la Auditoría Superior del Estado, sobre cualquier cambio relacionado con su designación como enlace autorizado o representante de la Entidad Fiscalizada, estándose en todo caso a las responsabilidades en que se incurra de acuerdo a las disposiciones aplicables;
+
+d) Asumirá la responsabilidad por el uso de su firma electrónica avanzada, por persona distinta, o por cualquier mal uso de ésta. El uso de la firma electrónica avanzada conlleva que se le atribuya la autoría de la información que se envíe a través del Sistema Electrónico;
+
+e) Asumirá la responsabilidad de enviar nuevamente a la Auditoría Superior del Estado la información y/o documentación que ésta requiera, cuando sea necesario o cuando no pueda apreciarse su contenido íntegro. En el requerimiento se expresará la causa por la que es necesario que se envíe de nueva cuenta, previniéndolo que de no atender el requerimiento se tendrá por no ofrecida dicha información y/o documentación, y
+
+f) Aceptará que las notificaciones que se realicen a través del Sistema Electrónico se tendrán por legalmente notificadas el mismo día en que consulte dicho sistema electrónico.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-D.
+
+La información y/o documentos que sean ofrecidos por las Entidades Fiscalizadas o interesados ante la Auditoría Superior del Estado, serán clasificados y valorados de acuerdo con las reglas que al respecto se establecen en el Código de Procedimientos Civiles del Estado de Campeche, que se aplicará supletoriamente en lo conducente.
+
+La información y/o documentos que se ofrezcan como pruebas mediante el sistema electrónico deberán exhibirse de forma legible.
+
+Tratándose de información y/o documentos digitales, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los oferentes deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-E.
+
+En las Reglas de Carácter General aplicables al Sistema Electrónico, y la normatividad que se emita por la Auditoría Superior del Estado conforme al segundo párrafo del artículo 8 de esta Ley se incluirán, de manera enunciativa mas no limitativa, los aspectos siguientes:
+
+I. Un apartado relativo a garantizar la seguridad, inalterabilidad, autenticidad, integridad y durabilidad de los expedientes electrónicos;
+
+II. Un apartado de la política de respaldos de información y plan de recuperación ante de (sic) desastres en caso de fallas;
+
+III. Un apartado de la protección de datos personales;
+
+IV. Un apartado del procedimiento de registro y autorización para utilizar el Sistema Electrónico. El Sistema Electrónico registrará los accesos, consultas y operaciones que se realicen;
+
+V. Un apartado de la definición de roles en la utilización del Sistema Electrónico;
+
+VI. Los elementos que reunirá el acuse de recibo electrónico y la constancia de envío de información y/o documentación que se haga a la Auditoría Superior del Estado;
+
+VII. Las reglas que deberán observarse a efecto de poder hacer uso del Sistema Electrónico;
+
+VIII. Un apartado del soporte a los usuarios;
+
+IX. Un apartado sobre lineamientos de uso de correo electrónico;
+
+X. Un apartado sobre las características de los documentos y/o archivos permitidos que se subirán al Sistema Electrónico; y
+
+XI. Los que sean necesarios para cumplir su objeto.
+
+A los procesos y procedimientos de fiscalización superior por medios electrónicos o digitales mediante el Sistema Electrónico son aplicables las disposiciones de la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 124-F.
+
+En la realización de sus funciones, de acuerdo con lo dispuesto en esta Ley, su reglamento y demás disposiciones, el personal de la Auditoría Superior del Estado podrá apoyarse en instrumentos de precisión, lo cual se hará constar en las actuaciones o diligencias que se practiquen.
+
 ### Capítulo II. De las notificaciones y del cómputo de los plazos
 
 ###### Artículo 125.
@@ -1643,17 +1861,25 @@ IV. Por instructivo.
 
 Las notificaciones que deban efectuarse a las autoridades o Entes Públicos se harán siempre por oficio, bastando la presentación del documento en la oficina receptora de correspondencia y la obtención del sello o acuse de recibo correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Lo anterior sin perjuicio de lo señalado en esta Ley respecto de los casos en que procede la notificación mediante Boletín Electrónico.
+
 ###### Artículo 127.
 
 En el caso de las notificaciones por correo certificado con acuse de recibo, la pieza postal deberá ser depositada en el correo y se entenderá como fecha de su realización aquélla asentada en el acuse de recibo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 128.
 
-Tratándose de personas morales, las notificaciones se practicarán a través de persona legalmente facultada para ello, conforme a los medios de representación previstos en las disposiciones aplicables.
+Tratándose de personas morales, las notificaciones se practicarán a través de persona legalmente facultada para ello, conforme a los medios de representación previstos en las disposiciones aplicables, así como de acuerdo con las disposiciones que se señalan en esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 129.
 
-Las notificaciones se realizarán conforme a lo dispuesto en la fracción I del artículo 125 cuando se trate de:
+Sin perjuicio de lo señalado en los artículos de esta Ley que regulan los casos en que procede la notificación mediante Boletín Electrónico, las notificaciones se realizarán conforme a lo dispuesto en la fracción I del artículo 125 cuando se trate de:
 
 I. Citaciones para audiencia, para la práctica de una diligencia relacionada con pruebas, y tratándose de actos que puedan ser recurridos;
 
@@ -1733,13 +1959,99 @@ II. Cuando hubiere oposición al desarrollo de la diligencia; y
 
 III. Cuando habiéndose citado a la persona que debe ser notificada, ésta no lo espera en la fecha y hora señalada en el citatorio para tales efectos, encontrándose cerrado el domicilio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 139.
 
-En toda diligencia de notificación deberá darse lectura del acto o determinación que se notifica.
+En toda diligencia de notificación deberá darse lectura del acto o determinación que se notifica, salvo que se practiquen mediante Boletín Electrónico, caso en el que se estará a las reglas que se establecen en la presente Ley respecto a dicha modalidad.
 
 ###### Artículo 140.
 
 El instructivo contendrá los requisitos establecidos en las fracciones I, II, III y V del artículo 131 de la presente Ley y en él deberá circunstanciarse la diligencia y la razón por la que se procede a formularlo. Este será fijado en lugar visible del domicilio, acompañado del acto o determinación que se manda notificar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 140-A.
+
+Adicionalmente a lo señalado en el artículo 125 respecto a las modalidades de notificación, también podrán realizarse las notificaciones personales mediante el Boletín Electrónico, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse la recepción del mismo en el correo electrónico que se señale para tal efecto mediante un aviso de prueba que se enviará por la Auditoría Superior del Estado. Una vez seleccionada esta modalidad no podrá variarse.
+
+Cuando se opte por el Boletín Electrónico como medio para recibir notificaciones y no se señale correo electrónico o bien, no se valide el aviso de prueba a que se refiere el párrafo anterior o no sea posible el envío del correo electrónico, las ulteriores notificaciones se realizarán por estrados.
+
+Las disposiciones sobre la notificación por Boletín Electrónico no serán aplicables a los procesos y procedimientos de fiscalización por medio digitales o electrónicos mediante el Sistema Electrónico.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 140-B.
+
+Las notificaciones a los particulares y a las Entidades Fiscalizadas deberán realizarse por medio del Boletín Electrónico, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acto o resolución de que se trate en el Boletín Electrónico.
+
+Las notificaciones electrónicas se entenderán realizadas con la sola publicación en el Boletín Electrónico, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
+
+Los interesados y las entidades fiscalizadas, mientras no se haya realizado la notificación por Boletín Electrónico, podrán apersonarse en la Auditoría Superior del Estado para notificarse personalmente. Una vez realizada la notificación por Boletín Electrónico, los interesados y las Entidades Fiscalizadas, cuando esto proceda, deberán acudir a la Auditoría Superior del Estado a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. Los servidores públicos competentes de la Auditoría Superior del Estado, en todos los casos, previo levantamiento de razón, entregarán los traslados de ley.
+
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Electrónico o al día hábil siguiente a aquél en que los interesados o las entidades fiscalizadas sean notificados personalmente en las instalaciones designadas por la Auditoría Superior del Estado, cuando se trate del primer acto en el proceso o procedimiento.
+
+Dicho aviso deberá incluir una síntesis del acuerdo o resolución correspondiente.
+
+Cuando no se señale el correo electrónico no se enviará el aviso a que se refiere el párrafo anterior.
+
+En los casos donde se disponga efectuar la notificación por otra vía, de las previstas en el artículo 125 de la Ley, el servidor público competente de la Auditoría Superior del Estado deberá fundar y motivar dicha decisión.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 140-C.
+
+La lista de acuerdos y resoluciones dictados por las áreas competentes de la Auditoría Superior del Estado se publicarán en el Boletín Electrónico.
+
+En el Boletín Electrónico deberá indicarse la denominación del área o dirección de que se trate, el número de expediente o auditoría, la identificación de los interesados o entidades fiscalizadas a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del acto o resolución. El Boletín Electrónico podrá consultarse en la página electrónica de la Auditoria Superior del Estado.
+
+La información del Boletín Electrónico deberá permitir a los interesados y las entidades fiscalizadas conocer el contenido de la síntesis del acto o resolución, así como las áreas de la Auditoría Superior del Estado ante las cuales podrán imponerse de los mismos para los efectos a que haya lugar.
+
+Los interesados y las entidades fiscalizadas tendrán la obligación de consultar el Boletín Electrónico con la frecuencia necesaria para tener conocimiento de las notificaciones practicadas.
+
+La Auditoría Superior del Estado de Campeche emitirá las disposiciones necesarias o Reglas de Carácter General para regular la implementación y funcionamiento del Boletín Electrónico a través del cual se efectuarán las notificaciones electrónicas. Las disposiciones o Reglas de Carácter General que se emitan deberán contener de manera enunciativa no limitativa los aspectos siguientes:
+
+I. La Guía Básica para el Procedimiento de Notificación Electrónica;
+
+II. Disposiciones relativas al registro, modificación y baja de dirección de correo electrónico;
+
+III. Horario a partir del cual estará disponible el Boletín Electrónico, en días hábiles;
+
+IV. Horario límite para que los servidores públicos competentes de la Auditoría Superior del Estado incorporen notificaciones a realizar en el Boletín Electrónico, previo a su publicación;
+
+V. La herramienta tecnológica o mecanismo para evitar la publicación de notificaciones electrónicas después de la hora en que debieron incorporarse;
+
+VI. La asistencia que se brindará a los usuarios;
+
+VII. Las reglas para la preparación de las síntesis de acuerdos y resoluciones a notificarse;
+
+VIII. Las instrucciones o reglas para el almacenamiento de los archivos que se formulen;
+
+IX. La descripción de los datos que debe indicar el Boletín Electrónico;
+
+X. El lugar o sitio donde podrá consultarse el Boletín Electrónico;
+
+XI. El procedimiento o los casos de atención por caso fortuito, fuerza mayor o falla técnica;
+
+XII. Los criterios de seguridad, mantenimiento, almacenamiento y demás necesarios para el adecuado funcionamiento del Boletín Electrónico;
+
+XIII. Los lineamientos de uso de correo electrónico;
+
+XIV. La definición de roles en la utilización del Boletín Electrónico;
+
+XV. La política de respaldos de información y plan de recuperación ante de desastres en caso de fallas;
+
+XVI. La protección de datos personales; y
+
+XVII. Las demás que sean necesarias para cumplir su objeto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 140-D.
+
+Los servidores públicos competentes en la Auditoría Superior del Estado, responsables de llevar a cabo las notificaciones, deberán asentar razón de las notificaciones por Boletín Electrónico en los expedientes de los procedimientos o auditorías, incluyendo a las notificaciones realizadas con otros procedimientos, agregando a los expedientes las constancias respectivas.
+
+La Auditoría Superior del Estado llevará un archivo con las publicaciones del Boletín Electrónico y hará las certficaciones que correspondan, a través de los servidores públicos competentes.
 
 ###### Artículo 141.
 
@@ -1804,3 +2116,23 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los siete días del mes de julio del año dos mil diecisiete.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 205 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4; LOS PÁRRAFOS SEGUNDO Y PENÚLTIMO DEL ARTÍCULO 9; LA FRACCIÓN XXII DEL ARTÍCULO 21; LAS FRACCIONES I Y II DEL ARTÍCULO 22; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54; EL INCISO C) Y LOS PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN I DEL ARTÍCULO 70; LA FRACCIÓN III DEL ARTÍCULO 76; LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 90; EL ARTÍCULO 112; EL ARTÍCULO 119; LA FRACCIÓN IV DEL ARTÍCULO 120; EL ARTÍCULO 128; EL ARTÍCULO 129; EL ARTÍCULO 139 Y SE ADICIONAN LAS FRACCIONES IV BIS, VII BIS Y XXIX BIS AL ARTÍCULO 4; UN SEGUNDO PÁRRAFO AL ARTÍCULO 6; UN SEGUNDO PÁRRAFO AL ARTÍCULO 8; UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 10; UN TERCER PÁRRAFO AL ARTÍCULO 11; UN SEGUNDO PÁRRAFO AL ARTÍCULO 105; UN SEGUNDO PÁRRAFO AL ARTÍCULO 106; UN SEGUNDO PÁRRAFO AL ARTÍCULO 113; LOS ARTÍCULOS 124-A, 124-B, 124-C, 124-D, 124-E Y 124-F; UN SEGUNDO PÁRRAFO AL ARTÍCULO 126; LOS ARTÍCULOS 140-A, 140-B, 140-C Y 140-D DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el 1° de enero de 2021, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Auditoría Superior del Estado de Campeche realizará las adecuaciones necesarias a las disposiciones reglamentarias correspondientes, a efecto de homologarlas con el contenido del presente decreto.
+
+Tercero.- La Auditoría Superior del Estado de Campeche emitirá las disposiciones a que se refiere el artículo 140-C de la Ley de Fiscalización y Rendición de Cuentas del Estado de Campeche, en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+Cuarto.- La Auditoría Superior del Estado de Campeche emitirá las disposiciones a que se refiere el artículo 8 segundo párrafo de la Ley de Fiscalización y Rendición de Cuentas del Estado de Campeche en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto y una vez que se cuente con el Reglamento de la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche a que se refiere dicha Ley. Una vez cumplido lo anterior, la Auditoría Superior del Estado de Campeche podrá llevar a cabo la implementación del Sistema Electrónico.
+
+La Auditoría Superior del Estado hará de conocimiento a los entes públicos con carácter de entidades fiscalizadas sobre lo previsto en el párrafo anterior.
+
+Quinto.- Las auditorías iniciadas de manera previa a la entrada en vigor de las disposiciones a que se refiere el presente decreto deberán ser concluidas en la modalidad y con apego a las disposiciones con base en las cuales se iniciaron.
+
+Sexto.- Se derogan las disposiciones jurídicas y reglamentarias que se opongan al contenido del presente decreto.
