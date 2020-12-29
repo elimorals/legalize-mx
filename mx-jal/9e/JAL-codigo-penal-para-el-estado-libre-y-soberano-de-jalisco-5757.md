@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-12-08"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2021 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4449,13 +4451,17 @@ V. Detentar, poseer, custodiar, falsificar, alterar, tramitar o efectuar actos t
 
 VI. Trasladar el o los vehículos robados o remarcados de una entidad federativa a otra, o al extranjero;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-VII. Utilizar el o los vehículos automotores robados; y
+VII. Utilizar el o los vehículos automotores robados;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-VIII. La posesión, adquisición, transportación, comercialización o el almacenamiento de cosa mueble robada.
+VIII. La posesión, adquisición, transportación, comercialización o el almacenamiento de cosa mueble robada; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+IX. La sustracción, copia o almacenamiento de información de pago electrónico de servicios o productos a través de internet o aplicaciones móviles o electrónicas sin consentimiento y por cualquier medio proveniente de una transacción económica y que se reflejen como afectación en las tarjeta (sic) o cuentas de instituciones financieras de la víctima.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
@@ -4557,13 +4563,17 @@ XVI. Se cometa dentro de un establecimiento bancario, en una oficina recaudadora
 
 XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo robado sea por el equivalente a cincuenta veces el valor diario de la Unidad de Medida y Actualización o más;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Recaiga sobre autopartes; o
+XVIII. Recaiga sobre autopartes;
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XIX. Se ejecute en la vía pública mediante la utilización de vehículos motorizados o no motorizados que otorguen ventaja al sujeto activo para cometer el delito o para huir.
+XIX. Se ejecute en la vía pública mediante la utilización de vehículos motorizados o no motorizados que otorgue ventaja al sujeto activo para cometer el delito o para huir; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XX. Se cometa dentro de un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo o en las inmediaciones de éstos sobre sus usuarios, así como quien proporcionó información de retiros en efectivo realizado por cuentahabientes y sea robado trabaje o preste auxilio directa o indirectamente en el establecimiento.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -4589,9 +4599,9 @@ III. De cuatro a once años de prisión y multa por el importe de veinte a noven
 
 IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-B) Si interviene alguna de las calificativas que se consignan en las fracciones V, X, XII, XIII, XIV, XV, XVI, XVII y XIX del artículo anterior, la pena será:
+B) Si interviene alguna de las calificativas que se consignan en las fracciones V, X, XII, XIII, XIV, XV, XVI, XVII, XIX y XX del artículo anterior, la pena será:
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -7062,3 +7072,9 @@ P.O. 8 DE DICIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28121/LXII/20 QUE REFORMA LOS ARTÍCULOS 236 Y 236 BIS Y SE ADICIONA LA FRACCIÓN IX Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 234 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
