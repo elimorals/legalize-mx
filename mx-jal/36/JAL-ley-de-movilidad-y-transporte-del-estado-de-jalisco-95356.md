@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2020-10-03"
+last_updated: "2020-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -193,53 +193,61 @@ XII. Comprobante de verificación vehicular: constancia, calcomanía, holograma,
 
 XIII. Instituto: El Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XIV. Kgf: kilogramo fuerza;
+XIV. Interés Público: Utilidad colectiva o común que la ley confiere respecto al goce de los servicios de vialidad, tránsito y transporte. En materia de accidentes de tránsito en donde sólo existan daños materiales en los vehículos de los involucrados será de interés público la liberación de las vialidades;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XV. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
+XV. Kgf: kilogramo fuerza;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XVI. Lineamientos: directrices generales que operan la regulación del transporte de carga en el Área Metropolitana de Guadalajara, emitidos por el Instituto;
+XVI. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XVII. Mapa Funcional: cartografía física y/o digital que señala las vías metropolitanas para la circulación y/u operación de vehículos de transporte de carga;
+XVII. Lineamientos: directrices generales que operan la regulación del transporte de carga en el Área Metropolitana de Guadalajara, emitidos por el Instituto;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+XVIII. Mapa Funcional: cartografía física y/o digital que señala las vías metropolitanas para la circulación y/u operación de vehículos de transporte de carga;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XIX. Permiso: acto administrativo de la Secretaría a través del cual autoriza al particular a realizar, conforme a lo establecido en la Ley y por el tiempo que ésta establece:
+XIX. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XX. Permiso: acto administrativo de la Secretaría a través del cual autoriza al particular a realizar, conforme a lo establecido en la Ley y por el tiempo que ésta establece:
 
 a) La prestación de servicios de transporte que precise la misma ley; o
 
 b) La circulación, conducción u operación de vehículos de manera provisional;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XX. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
+XXI. Prestador del Servicio: Servidor público de la Secretaría, facultado para intervenir en los accidentes de tránsito terrestre en los términos de la Ley de Justicia Alternativa del Estado de Jalisco, con el objeto de solucionar y poner fin al conflicto surgido entre los particulares involucrados, debiendo contar con la certificación correspondiente del Instituto de Justicia Alternativa;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XXI. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
+XXII. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XXII. Secretaría: La Secretaría de Transporte;
+XXIII. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructura, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado; y
+XXIV. Secretaría: La Secretaría de Transporte;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XXIV. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
+XXV. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructura, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XXVI. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
@@ -763,19 +771,41 @@ VIII. Diseñar y establecer el sistema de capacitación en materia de movilidad 
 
 IX. Establecer mecanismos de mediación entre usuarios, concesionarios, permisionarios temporales y particulares a efecto de asegurar la máxima eficacia en la operación de los diferentes sistemas del transporte, para resolver los conflictos que se presenten;
 
-X. Autorizar la instalación de publicidad en todos los vehículos e infraestructura auxiliar de los mismos, que circulen en la vía pública; así como emitir dictamen de aquellos que se instalen en los lugares que impidan la buena conducción u operación de los diversos sistemas de transporte establecidos en esta ley y su reglamento, o que atenten contra la seguridad de los usuarios, transeúntes o conductores de vehículos, y vigilar su cumplimiento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XI. Ejecutar verificaciones técnicas a los vehículos destinados al servicio público de transporte de pasajeros, en términos de lo establecido en las disposiciones aplicables;
+X. Intervenir por conducto de sus prestadores del servicio en la interlocución, conciliación y solución de conflictos surgidos entre particulares con motivo de hechos de tránsito terrestre;
 
-XII. Vigilar y controlar en los términos de lo establecido por esta ley y sus Reglamentos, así como la normatividad aplicable en lo relativo al peso, dimensiones y capacidad a que deban sujetarse los vehículos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XIII. Expedir las licencias para operar o conducir vehículos;
+XI. Emitir por conducto de sus peritos, dictámenes técnicos respecto al deslinde de responsabilidades con motivo de hechos de tránsito terrestre;
 
-XIV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-XV. Actuar en forma coordinada y coadyuvar con la Fiscalía General, y con el Ministerio Público en los casos que señale la ley, y
+XII. Recibir, analizar y resolver las solicitudes de devolución de los vehículos de uso privado y de los vehículos de transporte público en todas sus modalidades, cuando se cumpla con los requisitos definidos en el manual correspondiente.
 
-XVI. Realizar, en general, todas aquellas acciones encomendadas por esta ley, y las demás que se establezcan en otros ordenamientos y normatividad aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XIII. Autorizar la instalación de publicidad en todos los vehículos e infraestructura auxiliar de los mismos, que circulen en la vía pública; así como emitir dictamen de aquellos que se instalen en los lugares que impidan la buena conducción u operación de los diversos sistemas de transporte establecidos en esta ley y su reglamento, o que atenten contra la seguridad de los usuarios, transeúntes o conductores de vehículos, y vigilar su cumplimiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XIV. Ejecutar verificaciones técnicas a los vehículos destinados al servicio público de transporte de pasajeros, en términos de lo establecido en las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XV. Vigilar y controlar en los términos de lo establecido por esta ley y sus Reglamentos, así como la normatividad aplicable en lo relativo al peso, dimensiones y capacidad a que deban sujetarse los vehículos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XVI. Expedir las licencias para operar o conducir vehículos;
+
+> <small>(REFORMADA Y REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XVII. Actuar en forma coordinada y coadyuvar con la Fiscalía General, y con el Ministerio Público en los casos que señale la ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XVIII. Realizar, en general, todas aquellas acciones encomendadas por esta ley, y las demás que se establezcan en otros ordenamientos y normatividad aplicables.
 
 ### Capítulo III. De las atribuciones de los ayuntamientos
 
@@ -3301,11 +3331,17 @@ V. En los supuestos de los artículos 169 fracciones I, II y III de esta ley, cu
 
 VI. Cuando se imponga al conductor, como sanción, el arresto administrativo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 172.
 
-Cuando en un accidente sólo existan daños materiales entre los involucrados o entre éstos y algún tercero afectado en sus bienes y no haya lesionados y personas fallecidas, si los conductores cuentan con licencia, tarjeta de circulación y constancia o póliza de seguro y holograma vigentes, siempre y cuando las partes afectadas celebren convenio y firmen el desistimiento respectivo, no se les incautarán los vehículos siniestrados ni se les levantarán folios de infracción. Se exceptúa de lo anterior cuando se hayan cometido infracciones distintas en forma independiente al accidente.
+Cuando ocurra un accidente de tránsito en el que sólo existan daños materiales en los vehículos de los involucrados, por razones de interés público, la policía vial, los peritos de la Secretaría o los agentes de tránsito municipales marcarán en el piso la posición final en la que quedaron los vehículos participantes en el accidente y podrán utilizar cualquier medio incluso los electrónicos para grabar o fotografiar los vehículos involucrados y en consecuencia ordenarán la liberación de las vialidades.
 
-Si uno o más de los involucrados no portan sus documentos en regla, se procederá a la aplicación del retiro de circulación del vehículo sólo para tales personas.
+Será responsabilidad de la autoridad que conozca del accidente elaborar el acta de liberación de vialidades en donde se asentarán las circunstancias, hechos y actos del mismo, junto con los elementos técnicos y tecnológicos necesarios, para que se determinen las causas que originaron el hecho de tránsito terrestre y permitan emitir, en su caso, el dictamen técnico.
+
+Una vez agotada la intervención del prestador del servicio y no exista acuerdo entre las partes involucradas en los términos de la Ley de Justicia Alternativa del Estado de Jalisco, se procederá a la aplicación del retiro de circulación del vehículo sólo para aquel o aquellos que no cuenten con constancia o póliza de seguro vigente, mismos que serán enviados al depósito autorizado, y la responsabilidad de los daños se determinará conforme lo establezca el Reglamento de la presente Ley.
+
+Cuando existan daños a la propiedad pública federal, estatal o municipal o en propiedad privada de un tercero, la autoridad que conozca del accidente asentará en el acta las circunstancias de estos hechos, debiendo notificar, conforme lo establezca el Reglamento, a los afectados en forma personal o a través de sus representantes para que en un plazo de diez días hábiles comparezcan ante la unidad de mediación administrativa de la Secretaría. Transcurrido el término y no habiendo otra responsabilidad por cumplimentar la Secretaría resolverá la liberación de los vehículos que hubieren sido retenidos.
 
 ###### Artículo 173.
 
@@ -4600,3 +4636,11 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27775/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28120/LXII/20 QUE REFORMA LOS ARTÍCULOS 5, 21 Y 172 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Gobernador Constitucional del Estado de Jalisco dispondrá de noventa días naturales a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco.
