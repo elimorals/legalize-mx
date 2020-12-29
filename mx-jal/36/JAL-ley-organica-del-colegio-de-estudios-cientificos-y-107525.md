@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-estudios-cientificos-y-107525"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2016-05-17"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -325,9 +325,11 @@ La Dirección General contará con la estructura técnica administrativa que le 
 
 #### Sección Quinta. De los Directores de los Planteles
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
+Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado Libre y Soberano de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
 
 ###### Artículo 21.
 
@@ -481,11 +483,13 @@ IV. Personal Administrativo.
 
 Asimismo, podrá contar con Personal Docente con Funciones de Asesoría Técnica Pedagógica y Personal con Funciones de Supervisión, de acuerdo a la estructura que le autorice la Autoridad Educativa Federal y conforme a la Ley General del Servicio Profesional Docente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
 Las relaciones laborales del Colegio se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
 
-El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado de Jalisco.
+El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 35.
 
@@ -592,3 +596,9 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28251/LXII/20 QUE REFORMA LOS ARTÍCULOS 20 Y 34 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
