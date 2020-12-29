@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2020-02-27"
+last_updated: "2020-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -141,6 +141,8 @@ II. Proporcionar un servicio médico competente, con plena independencia profesi
 
 ### Capítulo II. Atribuciones de la Autoridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
 Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
@@ -179,9 +181,15 @@ VIII. Mantener la confidencialidad de la información en toda asistencia y/o tra
 
 IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+En el desarrollo de las acciones señaladas en este artículo, la Secretaría deberá considerar la creación e implementación de los mecanismos, programas o protocolos especializados para la prestación de servicios en materia de salud mental para el personal del sector salud y toda población en general, con el objeto (sic) reducir los niveles de estrés, o depresión o cualquier otra que origine como consecuencia de contingencia, desastres naturales y/o cualquier emergencia sanitaria, determinados por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-La Secretaría buscará dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
+La Secretaría buscará dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre. Así como en los casos de contingencia, desastre y/o cualquier emergencia sanitaria, determinado por la autoridad competente.
 
 ###### Artículo 10.
 
@@ -227,7 +235,7 @@ El internamiento de personas con padecimientos mentales se debe ajustar a princi
 
 el Instituto Jalisciense de Salud Mental, es un órgano administrativo desconcentrado de la Secretaría de Salud Jalisco; presupuestalmente subordinado al Organismo Público Descentralizado Servicios de Salud Jalisco. Dicho Instituto tendrá las funciones que le sean otorgadas por la presente ley y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
@@ -249,31 +257,57 @@ III. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas
 
 IV. Diseñar y ejecutar de manera permanente en los medios de difusión masiva y redes sociales, campañas de promoción y prevención para informar, motivar y orientar a la población sobre los elementos del concepto de salud mental, los estigmas y mitos imperantes, los diversos trastornos mentales existentes, los síntomas que se presentan, y las opciones de atención, en coordinación con las dependencias e instituciones competentes;
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 V. Inducir la disminución en la incidencia del suicidio, mediante su prevención, atención y postvención para su erradicación, a través de las siguientes acciones:
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 a) Elaborar estrategias integrales con enfoque coordinado, interdisciplinario y multisectorial para combatir la problemática del suicidio;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 b) Implementar acciones, considerando la participación interinstitucional con enfoque multidisciplinario, orientados a la prevención, atención, Postvención y erradicación del suicidio;
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 c) Realizar tareas de sensibilización de la población, capacitación y profesionalización de recursos humanos, personal médico, paramédico y, en su caso, quienes atiendan a las personas en crisis, en instituciones gubernamentales y privadas para la detección de las personas con conductas suicidas, su prevención y atención. Postvención;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 d) Diseñar e implementar los procedimientos posteriores a una conducta suicida, para asistir y acompañar a las personas, familia o instituciones vinculadas a la persona que se privó la vida;
 
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019
+
 e) Promover la integración, operación y funcionamiento de organismos consultivos en los que participen instituciones dedicadas a la investigación, y organizaciones civiles;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 f) Instrumentar acciones a través del uso de tecnologías de información y comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio;
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 g) Elaborar y mantener actualizada una guía práctica para la atención del paciente con conducta suicida, garantizando los servicios del primer nivel;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 h) Diseñar un protocolo de intervención para los servicios de emergencia hospitalaria, considerando la coordinación entre las instituciones de servicios de salud del sector público y privado, línea telefónica de emergencia y otros ámbitos comunitarios intervinientes;
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 i) Apoyar, asesorar, llevar registro, así como vigilancia de las instituciones, asociaciones, organizaciones no gubernamentales y profesionales del sector público y privado, que cumplan con los estándares establecidos por la autoridad de aplicación para la prevención, atención y Postvención del suicidio;
 
-j) Implementar un sistema de información estadística que contenga datos de los intentos, así como de suicidios cometidos en la entidad; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-k) Promover los principios de equidad y no discriminación en el acceso y prestación a los servicios de salud de quienes presenten alguna conducta suicida.
+j) Implementar un sistema de información estadística que contenga datos de los intentos, así como de suicidios cometidos en la entidad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+k) La realización de programas específicos de prevención, atención apoyo y seguimiento de la población en general y del personal de sector salud, público o privado que así lo requiera, con el fin de evitar problemas de salud mental derivados (sic) los casos de desastres naturales o emergencias; así como contingencia, desastres y/o cualquier emergencia sanitaria determinado (sic) por la autoridad competente; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+l) Promover los principios de equidad y no discriminación en el acceso y prestación a los servicios de salud de quienes presenten alguna conducta suicida.
 
 ### Capítulo IV. Del Consejo Estatal de Salud Mental
 
@@ -440,3 +474,9 @@ P.O. 27 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28271/LXII/20 QUE REFORMA LOS ARTÍCULOS 8, 9 Y 15 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
