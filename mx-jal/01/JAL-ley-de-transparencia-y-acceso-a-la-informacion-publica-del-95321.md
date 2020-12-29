@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2020-11-07"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -869,7 +869,7 @@ IV. El arancel que corresponda a cada acto notarial; y
 
 V. Aquella que a juicio del Colegio de Notarios del Estado de Jalisco, sea de utilidad para el público y el mejor desempeño de la función notarial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
@@ -901,9 +901,9 @@ VIII. El Boletín Judicial y demás órganos de difusión y publicación oficial
 
 IX. Los acuerdos de trámite llevados ante los órganos judiciales;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-X. Las sentencias definitivas emanadas de cualquier órgano judicial y los convenios del Instituto de Justicia Alternativa, de cuando menos los últimos diez años, protegiendo la información confidencial y reservada;
+X. Las versiones públicas de las sentencias emitidas por cualquier órgano judicial y los convenios del Instituto de Justicia Alternativa.
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -945,11 +945,11 @@ XXIII. La lista de las personas acreditadas como auxiliares de la administració
 
 XXIV. La que establezca el Reglamento Interno de Información Pública del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 11
 
-Bis. Información fundamental-Tribunal Electoral del Estado de Jalisco.
+Bis. Información fundamental- Tribunal Electoral del Estado de Jalisco.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -975,9 +975,9 @@ IV. Las versiones estenográficas de sus sesiones públicas y las actas de sesio
 
 V. El calendario anual de días hábiles;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
-VI. Las sentencias emitidas;
+VI. Las versiones públicas de las sentencias emitidas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -995,25 +995,41 @@ IX. El informe anual de actividades del Instituto de Investigaciones y Capacitac
 
 X. La demás que acuerde su Pleno.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 11
 
 Ter. Información fundamental-Tribunal de Justicia Administrativa del Estado de Jalisco.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 1. Es información fundamental del Tribunal de Justica (sic) Administrativa del Estado (sic) Jalisco:
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 I. La obligatoria para todos los sujetos obligados;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 II. El orden del día de sus sesiones;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 III. Sus acuerdos emitidos;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 IV. Las versiones estenográficas de sus sesiones públicas y las actas de sesiones;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 V. El calendario anual de días hábiles;
 
-VI. Las sentencias emitidas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+VI. Las versiones públicas de las sentencias emitidas; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 VII. La demás que acuerde su Pleno.
 
@@ -4694,3 +4710,11 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 27982/LXII/20 QUE REFORMA LOS ARTÍCULOS 31, 35, 41, 43, 53 Y 58 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, ASÍ COMO EL ARTÍCULO 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28264/LXII/20 QUE REFORMA LOS ARTÍCULOS 11, 11 BIS Y 11 TER DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Con la entrada en vigor del presente decreto, se preserva la obligación derivada del decreto 27853/LXII/20, para la publicación de las sentencias de los últimos diez años anteriores a su entrada en vigor, así como la obligación establecida en el artículo segundo transitorio para su debido cumplimiento.
