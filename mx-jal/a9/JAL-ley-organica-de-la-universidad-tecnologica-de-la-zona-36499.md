@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-la-zona-36499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-30"
-last_updated: "2016-03-08"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Décimo Novena del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 2003.
 
@@ -59,9 +59,11 @@ V. Rector. Titular de la administración de la Universidad.
 
 La Universidad tendrá su domicilio oficial en el municipio de Tlajomulco de Zúñiga, Jalisco.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-La Universidad Tecnológica de la Zona Metropolitana de Guadalajara se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Jalisco; la Ley General de Educación; Ley de Educación del Estado de Jalisco; por la presente Ley, por las bases relativas del Plan Estatal de Desarrollo; por los Reglamentos Universitarios que sus propios órganos expidan y por las demás disposiciones legales que le sean aplicables.
+La universidad Tecnológica de la zona Metropolitana de Guadalajara se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Jalisco; la Ley General de Educación; Ley de Educación del Estado Libre y Soberano de Jalisco; por la presente Ley, por las bases relativas del Plan Estatal de Desarrollo; por los Reglamentos Universitarios que sus propios órganos expidan y por las demás disposiciones legales que le sean aplicables.
 
 ###### Artículo 4.
 
@@ -466,3 +468,9 @@ P.O. 8 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25800/LXI/16 QUE REFORMA EL ARTÍCULO 8° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28252/LXII/20 QUE REFORMA EL ARTÍCULO 3 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
