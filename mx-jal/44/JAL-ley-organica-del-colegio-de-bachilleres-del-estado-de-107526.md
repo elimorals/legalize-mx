@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-bachilleres-del-estado-de-107526"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2015-04-25"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -315,9 +315,11 @@ La Dirección General contará con la estructura técnica administrativa que le 
 
 #### Sección Quinta. De los Directores de los Planteles
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
+Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado Libre y Soberano de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.
 
 ###### Artículo 21.
 
@@ -479,11 +481,13 @@ IV. Personal Administrativo.
 
 Asimismo, podrá contar con Personal Docente con Funciones de Asesoría Técnica Pedagógica y Personal con Funciones de Supervisión, de acuerdo a la estructura que le autorice la Autoridad Educativa Federal y conforme a Ley General del Servicio Profesional Docente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 34.
 
 Las relaciones laborales del Colegio se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
 
-El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado de Jalisco.
+El ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 35.
 
@@ -584,3 +588,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28249/LXII/20 QUE REFORMA LOS ARTÍCULOS 20 Y 34 DE LA LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO".]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
