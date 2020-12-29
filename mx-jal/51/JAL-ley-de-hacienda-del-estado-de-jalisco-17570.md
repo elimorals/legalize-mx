@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2020-02-18"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -73,7 +73,9 @@ b) Impuesto sobre la Adquisición de Vehículos Automotores Usados
 
 c) Impuesto sobre Hospedaje.
 
-d) Impuesto sobre Hospedaje
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+d) Impuesto Sobre Erogaciones de Juegos con Apuestas
 
 3) Impuesto sobre Nóminas y Asimilables
 
@@ -895,17 +897,109 @@ VI. Presentar una declaración, en la forma oficial aprobada, del ejercicio ante
 
 VII. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO NOVENO. Del Impuesto Sobre Erogaciones de Juegos con Apuestas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Del Objeto
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Bis.
+
+Son objeto de este Impuesto las erogaciones efectivamente realizadas por concepto de participación en juegos con apuestas, sorteos o concursos, realizadas en el territorio del Estado de Jalisco.
+
+Para los efectos de este impuesto se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+Se consideran como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+De los Sujetos
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Ter.
+
+Son sujetos del Impuesto las personas físicas o jurídicas que realicen las erogaciones a que refiere el artículo anterior en el territorio del Estado de Jalisco.
+
+Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o jurídicas, cuando no sean ellas quienes reciban los pagos generadores del tributo:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 67 Bis;
+
+II. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 67 Bis;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto; y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este capítulo.
+
+Los operadores, administradores o quienes exploten o patrocinen los juegos referidos en el artículo 67 Bis, deberán registrase ante el Registro Estatal del Contribuyente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+De la Base
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Quáter.
+
+La base del Impuesto será el monto de las erogaciones efectivamente efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 67 Bis, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+De la Tarifa
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Quinquies.
+
+Este impuesto se liquidará aplicando a la base del artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+De la causación
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Sexies.
+
+El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+El impuesto previsto en esta Sección se causará y pagará con independencia de los impuestos a que se refiere el Capítulo séptimo y Capítulo octavo del Título segundo de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Del Pago
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 67 Septies.
+
+El operador del establecimiento o quien reciba el pago donde se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Los pagos mensuales se realizarán mediante la presentación de una declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, en las formas oficialmente aprobadas por la Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco y tendrán el carácter de definitivos.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 67 Ter.
+
 ### CAPITULO UNICO. De los derechos
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
-
-### CAPITULO UNICO. De los productos diversos
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ## TITULO TERCERO. Derechos
 
-### CAPITULO UNICO. De los aprovechamientos
+### CAPITULO UNICO. De los productos diversos
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
@@ -969,13 +1063,9 @@ El servidor público que preste algún servicio por el que se genere el pago de 
 
 ## TITULO CUARTO. Productos
 
-### CAPITULO UNICO
+### CAPITULO UNICO. De los aprovechamientos
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-De las participaciones y aportaciones federales
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 73.
 
@@ -1023,7 +1113,7 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-De los ingresos extraordinarios
+De las participaciones y aportaciones federales
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1063,9 +1153,13 @@ f) Otros aprovechamientos de capital no especificados.
 
 ## TITULO SEXTO. Participaciones y aportaciones federales
 
-### CAPITULO UNICO. De los ingresos por financiamientos
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+De los ingresos extraordinarios
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 76.
 
@@ -1076,6 +1170,10 @@ Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el E
 ## TITULO SEPTIMO. De los ingresos extraordinarios
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO UNICO. De los ingresos por financiamientos
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 77.
 
@@ -1262,3 +1360,13 @@ P.O. 18 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27805/LXII/20 MEDIANTE EL CUAL SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO".]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28277/LXII/20 QUE REFORMA EL ARTÍCULO 1 Y ADICIONA UN CAPÍTULO DENOMINADO "IMPUESTO SOBRE EROGACIONES DE JUEGOS CON APUESTAS", ASÍ COMO LOS ARTÍCULOS 67 BIS AL 67 SEPTIES DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día 01 de enero de 2021, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. El Ejecutivo del Estado de Jalisco, antes del 31 de diciembre de 2020, deberá realizar las adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+Tercero. La tarifa aplicable a la contribución materia del presente decreto será incluida en la Ley de Ingresos del Estado de Jalisco para el Ejercicio Fiscal 2021.
