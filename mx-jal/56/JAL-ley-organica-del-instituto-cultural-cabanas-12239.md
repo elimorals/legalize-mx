@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-12239"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-18"
-last_updated: "1992-09-03"
+last_updated: "2020-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
-LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1992.
+LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 1980.
 
@@ -382,3 +384,23 @@ Artículo Primero. Se deroga el Decreto 5830 que contiene la Ley del Patronato J
 Artículo Segundo. El Instituto Cultural Cabañas se subroga en los Derechos y obligaciones del "Patronato José Clemente Orozco", incluyendo las relaciones con sus servidores públicos.
 
 Artículo Tercero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28279/LXII/20 QUE ABROGA LA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS Y EXPIDE LA NUEVA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga la Ley Orgánica del Instituto Cultural Cabañas, contenida en el decreto número 10351 y publicado en el periódico oficial “El Estado de Jalisco” el 18 de diciembre de 1980.
+
+TERCERO. Se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general, contrarias a esta Ley.
+
+CUARTO. La Junta de Gobierno deberá aprobar el proyecto de Reglamento Interno del Instituto a propuesta del Director General en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. Los contratos, convenios y demás instrumentos jurídicos de los que se desprendan derechos u obligaciones a cargo del Instituto, a la entrada en vigor del presente decreto, seguirán surtiendo sus efectos en los términos que de ellos se desprenda y por el tiempo acordado en los mismos.
+
+SEXTO. La presente Ley no afectará los derechos laborales del personal del Instituto, ni los nombramientos vigentes.
+
+SÉPTIMO. Los procedimientos y demás asuntos en trámite comenzados con anterioridad a la vigencia del presente decreto continuarán sustanciándose en los términos en que inicialmente comenzaron.
+
+OCTAVO. Llévense a cabo las adecuaciones administrativas necesarias para dar cumplimiento al presente decreto.
