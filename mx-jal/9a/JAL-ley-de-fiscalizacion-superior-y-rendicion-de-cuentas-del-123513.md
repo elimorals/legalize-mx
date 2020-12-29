@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2017-10-26"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -79,9 +79,13 @@ VII. Instituir los medios de defensa correspondientes.
 
 1. Para efectos de esta ley se entenderá por:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 I. Auditoría Superior: la Auditoría Superior del Estado de Jalisco;
 
-II. Comisión: la Comisión de Vigilancia del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+II. Comisión: la Comisión de Vigilancia y Sistema Anticorrupción del Congreso del Estado;
 
 III. Cuenta pública: el informe que rinden sobre su gestión financiera las entidades fiscalizables referidas en el artículo 1 de esta ley, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos o activos y pasivos estatales y municipales, durante un ejercicio fiscal comprendido del primero de enero al treinta y uno de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
 
@@ -153,7 +157,9 @@ III. Los Órganos Internos de Control cualquiera que sea su denominación; y
 
 IV. Las autoridades con atribuciones económicas-coactivas.
 
-### Capítulo II. Comisión de Vigilancia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+### Capítulo II. Comisión de Vigilancia y Sistema Anticorrupción
 
 ###### Artículo 6.
 
@@ -177,7 +183,9 @@ VIII. Solicitar en cualquier momento a la Auditoría Superior, la información r
 
 IX. Citar al Auditor Superior y conducir los trabajos del Congreso del Estado relativos a su comparecencia anual en el que presentará su informe respecto de los resultados de las auditorías practicadas en el año, las acciones emprendidas derivadas de su función de fiscalización y de los resultados obtenidos;
 
-X. Recibir a más tardar el primer día hábil del mes de agosto del año que corresponda, el presupuesto de egresos de la Auditoría Superior del Estado, remitirlo a la Comisión de Administración para integrarlo a la unidad presupuestal del Poder Legislativo y remitirlo al Ejecutivo del Estado para su presentación en términos de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+X. Recibir a más tardar el primer día hábil del mes de agosto del año que corresponda, el presupuesto de egresos de la Auditoría Superior del Estado, remitirlo a la Comisión de Administración y Planeación Legislativa para integrarlo a la unidad presupuestal del Poder Legislativo y remitirlo al Ejecutivo del Estado para su presentación en términos de la Constitución Política del Estado;
 
 XI. Recibir, revisar y en su caso, aprobar los informes mensuales, semestrales y anual de la cuenta pública de la Auditoría Superior, para su aprobación por el Congreso del Estado;
 
@@ -389,7 +397,9 @@ XXXVIII. Emitir y publicar su Programa Anual de Auditoría y realizar las audito
 
 XXXIX. Establecer un servicio profesional de carrera, que permita la objetiva y estricta selección de sus integrantes, mediante exámenes de ingreso, permanencia y promoción por oposición, así como su evaluación para la remoción o cese de aquellos que no cumplan con los requisitos para la permanencia en el servicio;
 
-XL. Elaborar su proyecto de presupuesto de egresos anual, que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo y deberá ser remitido antes del primero de agosto de cada año a la Comisión de Administración para su inclusión en el Proyecto de Presupuesto de Egresos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XL. Elaborar su proyecto de presupuesto de egresos anual, que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo y deberá ser remitido antes del primero de agosto de cada año a la Comisión de Administración y Planeación Legislativa para su inclusión en el Proyecto de Presupuesto de Egresos del Poder Legislativo;
 
 XLI. Ejercer autónomamente su presupuesto de egresos, una vez aprobado, con sujeción a las disposiciones aplicables; y
 
@@ -479,6 +489,8 @@ VIII. Aceptar la injerencia de terceros en el ejercicio de sus funciones y por e
 
 ###### Artículo 20.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 1. El Auditor Superior tiene las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior legalmente y con poderes de administración y de pleitos y cobranzas; de suscripción de instrumentos de pago y títulos de crédito, siempre y cuando el vencimiento de éstos no trascienda a su nombramiento, y en caso de que trascienda con la aprobación del Congreso del Estado; apoderado especial en materia laboral, todo lo anterior con las limitaciones que establece esta ley; y puede otorgar poderes sin perder sus facultades;
@@ -517,7 +529,9 @@ XVII. Formular los pliegos de recomendaciones a las entidades auditables que per
 
 XXVIII (SIC). Expedir certificaciones de documentos originales que obren en su archivo;
 
-XIX. Solicitar a la Secretaría de Planeación, Administración y Finanzas, al funcionario encargado de la hacienda municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XIX. Solicitar a la Secretaría de la Hacienda Pública, al funcionario encargado de la hacienda municipal o a la autoridad competente con respecto de las demás entidades auditables el cobro de los créditos fiscales, indemnizaciones y las derivadas de las sanciones administrativas que se impongan en los términos de esta ley;
 
 XX. Ordenar las visitas, inspecciones y revisiones de libros y documentos de las entidades auditables, de conformidad con esta ley;
 
@@ -1464,3 +1478,9 @@ P.O. 26 DE OCTUBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28270/LXII/20 QUE REFORMA LOS ARTÍCULOS 3, 6, 13 Y 20 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
