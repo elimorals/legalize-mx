@@ -1,0 +1,466 @@
+---
+title: "LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS DEL ESTADO DE JALISCO"
+identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-del-estado-de-145735"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2020-12-29"
+last_updated: "2020-12-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145735&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "145735"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "48 SECCION VII"
+reform_count: "1"
+scjn_last_update: "2021-10-30"
+issue_date: "2020-12-15"
+state: "JAL"
+---
+# LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS DEL ESTADO DE JALISCO
+
+LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el martes 29 de diciembre de 2020.
+
+Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
+
+Enrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+
+NÚMERO 28279/LXII/20 EL CONGRESO DEL ESTADO DECRETA:
+
+SE ABROGA LA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS Y EXPIDE LA NUEVA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS.
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley Orgánica del Instituto Cultural Cabañas, para quedar como sigue:
+
+LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El Instituto Cultural Cabañas, es un organismo público descentralizado del Poder Ejecutivo del Estado, sectorizado con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión.
+
+###### Artículo 2.
+
+El Instituto Cultural Cabañas tiene su domicilio legal en Cabañas número 8, colonia Las Fresas, Guadalajara, Jalisco.
+
+###### Artículo 3.
+
+Para los efectos del presente ordenamiento se entiende por:
+
+I. Casa-taller José Clemente Orozco: El inmueble ubicado en Aurelio Aceves número 27, colonia Arcos Vallarta, Guadalajara, Jalisco, propiedad del Gobierno del Estado de Jalisco;
+
+II. Consejo Consultivo: Es el órgano colegiado de apoyo al Organismo, integrado por las personas que cuentan con experiencia y reconocimiento en el campo materia de la presente ley, para emitir opinión profesional, y que realizan funciones de asesoría al Titular del Organismo y/o a la Junta de Gobierno, para la toma de decisiones operativas que afecten el cumplimiento del objeto y fines del Organismo, así como para aprovechamiento óptimo de los recursos;
+
+III. Dirección General: La Dirección General del Instituto Cultural Cabañas;
+
+IV. Instituto: El Instituto Cultural Cabañas;
+
+V. Junta de Gobierno: La Junta de Gobierno del Instituto Cultural Cabañas;
+
+VI. Ley: La Ley Orgánica del Instituto Cultural Cabañas;
+
+VII. Patronato: El patronato del Instituto Cultural Cabañas; y
+
+VIII. Secretaría de Cultura: La Secretaría de Cultura del Gobierno del Estado de Jalisco.
+
+###### Artículo 4.
+
+El Instituto Cultural Cabañas tiene por objeto:
+
+I. Administrar y salvaguardar el inmueble conocido como Hospicio Cabañas y Casa-Taller José Clemente Orozco;
+
+II. Preservar, investigar y divulgar la obra de José Clemente Orozco en el ámbito de su competencia, así como del acervo artístico a cargo del Instituto;
+
+III. Salvaguardar los murales de José Clemente Orozco propiedad del Gobierno del Estado, situados en el Instituto y en la Casa-Taller José Clemente Orozco;
+
+IV. Ejercer las funciones propias de un museo, para lo cual llevará a cabo aquellas actividades que resulten necesarias;
+
+V. Desarrollar actividades que favorezcan el acercamiento de la ciudadanía a las manifestaciones artísticas, así como su estudio, documentación e investigación;
+
+VI. Desarrollar actividades de investigación y producción inherentes a su objeto;
+
+VII. Desarrollar actividades académicas y formativas, señalándose de manera enunciativa más no limitativa: talleres, seminarios, foros, coloquios, conferencias;
+
+VIII. Procurar, en la esfera de su competencia, la permanencia del Hospicio Cabañas en la Lista del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura; y
+
+IX. Los demás que le correspondan de conformidad con otras disposiciones legales y ordenamientos aplicables.
+
+## TÍTULO SEGUNDO. DEL ORGANISMO
+
+### Capítulo I. Atribuciones
+
+###### Artículo 5.
+
+Para el cumplimiento de su objeto, el Instituto tiene las siguientes atribuciones:
+
+I. Conservar, promover, difundir, investigar y exhibir expresiones artísticas y culturales, para lo cual usará la denominación de "Museo Cabañas";
+
+II. Llevar a cabo el cuidado, conservación, restauración y salvaguardia, sin perjuicio de lo que corresponda a otras autoridades y en función de los recursos disponibles de los bienes muebles e inmuebles a su cargo y de aquellos que forman parte de su patrimonio;
+
+III. Fungir como administrador y depositario del inmueble conocido como Casa-Taller José Clemente Orozco;
+
+IV. Conservar, divulgar, enriquecer y fomentar la investigación del acervo artístico a su cargo;
+
+V. Gestionar y administrar recursos provenientes de cualquier fuente lícita para el cumplimiento de su objeto, mediante el desarrollo de actividades correspondientes con sus fines;
+
+VI. Adquirir obra de arte a efecto de acrecentar su acervo;
+
+VII. Fomentar la vinculación con personas físicas y jurídicas, públicas y privadas, nacionales y extranjeras afines, con la finalidad de establecer relaciones que contribuyan al cumplimiento de su objeto;
+
+VIII. Albergar actividades de relevancia cultural para la comunidad jalisciense, que no sean contrarias a sus fines;
+
+IX. Operar y administrar los espacios a su cargo para el fomento, estímulo y difusión de las artes;
+
+X. Diseñar, producir y comercializar líneas de productos alusivos a su objeto; y
+
+XI. Las demás que sean inherentes al cumplimiento de su objeto.
+
+### Capítulo II. Organización del Organismo
+
+###### Artículo 6.
+
+Para el cumplimiento de sus funciones, el Instituto cuenta con los siguientes órganos:
+
+I. La Junta de Gobierno;
+
+II. La Dirección General;
+
+III. El Consejo Consultivo;
+
+IV. El Patronato; y
+
+V. El Órgano de Vigilancia.
+
+#### Sección Primera. De la Junta de Gobierno
+
+###### Artículo 7.
+
+La Junta de Gobierno es el órgano máximo de decisión del Instituto y se integra por:
+
+I. El Titular de la Secretaría de Cultura, quien lo preside;
+
+II. El Director General del Instituto, quien funge como Secretario Técnico de la Junta de Gobierno;
+
+III. El titular de la Secretaría de Educación;
+
+IV. El titular de la Secretaría de la Hacienda Pública;
+
+IV. (SIC) El titular de la Secretaría de Turismo;
+
+VI. El titular de la Contraloría del Estado;
+
+VII. El titular de la Universidad de Guadalajara;
+
+VIII. El titular del Instituto Nacional de Bellas Artes; y
+
+IX. El Presidente de la Comisión de Educación, Cultura y Deporte del Congreso del Estado.
+
+Los titulares de la Junta de Gobierno podrán acreditar un suplente.
+
+###### Artículo 8.
+
+Cada miembro de la Junta de Gobierno tiene voz y voto, a excepción del Secretario Técnico y el titular o suplente de la Contraloría del Estado, los cuales sólo tienen derecho a voz.
+
+###### Artículo 9.
+
+Los integrantes de la Junta de Gobierno desempeñan su cargo de forma honorífica, por lo que no tienen derecho a remuneración derivada de este carácter.
+
+###### Artículo 10.
+
+La Junta de Gobierno puede auxiliarse de personas diversas para el adecuado análisis de los asuntos de su competencia, quienes podrán participar en las sesiones como invitados, con voz, pero sin derecho a voto.
+
+###### Artículo 11.
+
+Son atribuciones de la Junta de Gobierno, además de las previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco para las Juntas de Gobierno, serán las siguientes:
+
+I. Ser el órgano rector del Instituto;
+
+II. Definir las directrices de acción y políticas generales del Instituto, así como procurar y promover el cumplimiento de su objeto;
+
+III. Aprobar las medidas necesarias para conservar el patrimonio artístico y cultural a cargo del Instituto, para lo cual puede auxiliarse de la opinión de especialistas en la materia;
+
+IV. Aprobar los documentos que contengan las directrices de uso y conservación de los bienes inmuebles a cargo del Instituto;
+
+V. Aprobar la estructura orgánica y el reglamento interno del Instituto;
+
+VI. Implementar acciones y estrategias para la consecución de los objetivos del Instituto;
+
+VII. Autorizar la implementación de mecanismos para la obtención de ingresos propios que contribuyan con el objeto del Instituto;
+
+VIII. Autorizar la transmisión de propiedad de los bienes muebles del Instituto que no estén afectos al dominio público en los términos de esta Ley y de las disposiciones aplicables;
+
+IX. Revisar, discutir y, en su caso, aprobar:
+
+a) El presupuesto de ingresos y egresos del Instituto;
+
+b) Los instrumentos de planeación, programación y evaluación, así como otros instrumentos normativos que deban expedirse para el adecuado funcionamiento del Instituto y cuya emisión no corresponda a otra autoridad;
+
+c) Las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios, de acuerdo con las normas aplicables;
+
+d) Las tarifas y cuotas de recuperación para el desarrollo de las actividades del organismo, a propuesta del Director General;
+
+e) Los informes que rindan el Director General y otros servidores públicos del Instituto que sean requeridos para tal efecto por la propia Junta de Gobierno;
+
+f) Los dictámenes de las auditorías practicadas y los estados financieros del Instituto presentados por el Director General;
+
+X. Ordenar la práctica de auditorías contables y administrativas, y solicitar informes a las áreas que integran el Instituto;
+
+XI. Aceptar o repudiar las herencias, legados y donaciones realizadas al Instituto;
+
+XII. Aprobar la integración del Consejo Consultivo; y
+
+XIII. Las demás que se establezcan en otros ordenamientos.
+
+###### Artículo 12.
+
+La Junta de Gobierno sesiona en forma ordinaria de manera trimestral y de forma extraordinaria cuando resulte necesario.
+
+###### Artículo 13.
+
+Corresponde al Director General convocar a las sesiones de la Junta de Gobierno.
+
+###### Artículo 14.
+
+La convocatoria a sesión ordinaria deberá comunicarse con una anticipación mínima de cinco días naturales. Las sesiones extraordinarias podrán convocarse con un día hábil de anticipación. En cada convocatoria se deberá adjuntar la información necesaria para su análisis.
+
+Las sesiones extraordinarias podrán realizarse a solicitud de cualquiera de los miembros de la Junta de Gobierno.
+
+###### Artículo 15.
+
+Para la validez de las sesiones, se requiere que asista la mayoría de los miembros de la Junta de Gobierno, incluyendo al Presidente, para lo cual se determinará la mayoría con la asistencia de la mitad más uno de los Titulares o suplentes acreditados de la Junta de Gobierno.
+
+Cuando este quórum no se integre, puede emitirse una segunda convocatoria en cuyo caso, bastará con la presencia de al menos tres de sus integrantes que asistan a la sesión, entre ellos el Presidente
+
+En las sesiones extraordinarias solo se abordarán los asuntos expresamente previstos en la convocatoria correspondiente.
+
+###### Artículo 16.
+
+Los acuerdos de la Junta de Gobierno se toman por el voto favorable de la mayoría de los miembros presentes y deben constar por escrito en el acta que corresponda a cada sesión. En caso de empate, el Presidente tiene voto de calidad.
+
+#### Sección Segunda. Del Director General
+
+###### Artículo 17.
+
+La Dirección General es el órgano de administración del Instituto y estará a cargo de un titular, el cual será nombrado y removido libremente por el Gobernador del Estado.
+
+###### Artículo 18.
+
+Corresponde a la Dirección General las siguientes atribuciones:
+
+I. Fungir como órgano ejecutivo del Instituto;
+
+II. Representar legalmente al Instituto con las facultades generales y las que requieran cláusula especial conforme a la ley, así como con facultades para actos de administración y para pleitos y cobranzas;
+
+III. Coordinar el cumplimiento de las atribuciones del Instituto de conformidad con lo que corresponda a las áreas que lo integran;
+
+IV. Administrar los recursos financieros, humanos y materiales del Instituto de conformidad con la normatividad aplicable y con lo que, en su caso, disponga la Junta de Gobierno;
+
+V. Designar y remover al personal del nivel inmediato inferior al titular de la Dirección General;
+
+VI. Convocar a las sesiones, ejecutar y dar seguimiento a los acuerdos de la Junta de Gobierno;
+
+VII. Proponer a la Junta de Gobierno y coordinar la ejecución de las acciones necesarias para el acrecentamiento y salvaguardia del patrimonio del Instituto.
+
+VIII. Mantener el control administrativo del acervo artístico del Instituto y autorizar, en su caso, tanto el préstamo como la recepción de obra para propósitos afines con el objeto del Instituto, de lo cual deberá rendir informe a la Junta de Gobierno;
+
+IX. Gestionar la ejecución de las medidas preventivas y las acciones de mantenimiento de los inmuebles a cargo del Instituto, mismas que deberán propiciar la salvaguardia de sus valores patrimoniales;
+
+X. Planear y coordinar actividades artísticas y culturales en los inmuebles a cargo del Instituto;
+
+XI. Establecer el calendario de eventos culturales y de difusión del Instituto;
+
+XII. Promover ante la Junta de Gobierno las medidas que considere convenientes para el mayor rendimiento de los recursos del Instituto;
+
+XIII. Proponer a la Junta de Gobierno las cuotas y tarifas para el acceso a las instalaciones del Instituto, por el uso de sus espacios, y por las demás actividades que realice en cumplimiento de su objeto;
+
+XIV. Autorizar a terceros el uso de espacios al interior del Instituto y de la Casa-taller José Clemente Orozco, con sujeción a las normas y directrices que al efecto apruebe la Junta de Gobierno;
+
+XV. Autorizar las ediciones o reproducciones de las obras que conformen el acervo artístico del Instituto, con sujeción a las leyes en la materia;
+
+XVI. Rendir informe anual de su gestión a la Junta de Gobierno y presentar todos los informes que ésta le requiera;
+
+XVII. Formular y someter a consideración de la Junta de Gobierno el anteproyecto del presupuesto anual del Instituto y las propuestas de ajuste a su plantilla de personal;
+
+XVIII. Presentar a la Junta de Gobierno para su discusión y aprobación los reglamentos, manuales, acuerdos y demás instrumentos normativos, de planeación y de programación que deban expedirse para el adecuado funcionamiento del Instituto;
+
+XIX. Celebrar los actos jurídicos necesarios para el cumplimiento del objeto del Instituto, previa autorización de la Junta;
+
+XX. Promover la creación de mecanismos de participación de la sociedad civil que resulten adecuados y coadyuven al cumplimiento del objeto y atribuciones del Instituto, así como, en su caso, la constitución de un Patronato;
+
+XXI. Conceder al personal del Instituto las licencias cuya autorización no corresponda a la Junta de Gobierno;
+
+XXII. Certificar los documentos que obren en los archivos del Instituto;
+
+XXIII. Encomendar y supervisar la formulación y actualización del catálogo del patrimonio artístico y cultural del Instituto;
+
+XXIV. Delegar las atribuciones que no sean de su exclusivo ejercicio;
+
+XXV. Imponer las medidas disciplinarias al personal del Instituto; y
+
+XXVI. Las demás que le otorguen otras leyes o le asigne la Junta de Gobierno.
+
+###### Artículo 19.
+
+La Dirección General se auxiliará en el cumplimiento de sus atribuciones del personal que conforme la estructura administrativa del Instituto, en los términos de su Reglamento Interno, mismo que debe consignar tanto las áreas adscritas al organismo, como la distribución de atribuciones entre las mismas. La estructura administrativa del Instituto se sujetará al presupuesto de egresos correspondiente.
+
+#### Sección Tercera. Del Consejo Consultivo
+
+###### Artículo 20.
+
+El Instituto contará con un Consejo Consultivo, integrado por cinco personas que cuentan con experiencia y reconocimiento en la materia, que será el órgano auxiliar y de asesoría del organismo, el cual quedará integrado a invitación de la Junta de Gobierno y tendrá las siguientes funciones:
+
+I. Proveer asesoría y consultoría sobre el diseño de programas y acciones que le sean presentado (sic) por la Dirección General;
+
+II. Opinar sobre los objetivos de las exposiciones trazadas del Instituto, con el fin de que sean acordes con la misión y los objetivos de la institución;
+
+III. Analizar, proponer y asesorar a la Junta de Gobierno sobre los objetivos y políticas para el cumplimiento del objeto del Organismo;
+
+IV. Asesorar en la investigación, estudio, difusión y conservación de las colecciones artísticas del Instituto;
+
+V. Realizar diagnósticos, estudios y formular propuestas o recomendaciones acerca del funcionamiento del Organismo;
+
+VI. Emitir opinión acerca de:
+
+a) La aceptación o rechazo de donaciones que se pretendan efectuar a favor del Organismo; y
+
+b) Los proyectos que incluyan en el presupuesto de egresos del Organismo;
+
+VII. Las demás que establezcan los ordenamientos jurídicos aplicables.
+
+El cargo de miembro del Consejo Consultivo será honorífico, y durará tres años, pudiendo ser ratificado por un periodo igual.
+
+El Consejo Consultivo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de la Dirección General, conforme a las disposiciones establecidas para las sesiones de la Junta de Gobierno.
+
+#### Sección Cuarta. Del Patronato
+
+###### Artículo 21.
+
+La Junta de Gobierno con la finalidad de lograr los objetivos del Organismo, podrá constituir un Patronato, integrado por representantes de la sociedad en general que tendrá las siguientes funciones:
+
+I. Gestionar y recabar recursos para el organismo;
+
+II. Promover las actividades planeadas por el Instituto;
+
+III. Coadyuvar en las funciones y difusión del organismo; y
+
+IV. Las demás que establezcan los ordenamientos jurídicos aplicables.
+
+Sin perjuicio en lo dispuesto por la presente ley, los lineamientos de funcionamiento del Patronato se determinarán en el reglamento interno del organismo.
+
+#### Sección Quinta. Del Órgano de Vigilancia
+
+###### Artículo 22.
+
+El Instituto tendrá un órgano de vigilancia en los términos y atribuciones que dispone la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
+
+### Capítulo III. Del Patrimonio
+
+###### Artículo 23.
+
+El patrimonio del Instituto se integrará por:
+
+I. Las aportaciones en numerario, servicios y subsidios que proporcione el Estado;
+
+II. Los muebles, inmuebles, derechos, acervo artístico, legados, donaciones y demás bienes que haya adquirido o que en el futuro obtenga por cualquier título legal;
+
+III. Los ingresos que obtenga por el acceso a sus instalaciones, por el uso de sus espacios, y por las demás actividades que realice en cumplimiento de su objeto y que reporten productos al Instituto;
+
+IV. Los subsidios, aportaciones y apoyos que le sean asignados por la Federación, el Estado o los municipios, o por particulares que coadyuven con su objeto;
+
+V. Los intereses, comisiones y rendimientos de cualquier tipo que obtenga de sus bienes y valores; y
+
+VI. Todos los demás bienes y derechos que le correspondan de acuerdo con sus atribuciones.
+
+###### Artículo 24.
+
+Los bienes que integran el patrimonio cultural artístico e histórico del Instituto se consideran bienes de dominio público y, por tanto, son imprescriptibles e inembargables, no están sujetos a acción reivindicatoria o de posesión alguna y son además inalienables e intransferibles. Lo anterior será aplicable incluso en caso de que el Instituto llegará a extinguirse o a fusionarse.
+
+###### Artículo 25.
+
+El Instituto puede conceder el uso temporal de los bienes bajo su administración, siempre que dicho uso sea compatible con su objeto y con el valor artístico y cultural de dichos bienes.
+
+###### Artículo 26.
+
+La forma y términos de la extinción, en su caso, será de acuerdo al Decreto correspondiente. En caso de extinción del Instituto, el acervo de bienes que constituyan su patrimonio cultural artístico e histórico quedará bajo la custodia y protección de la Secretaría de Cultura del Estado de Jalisco, y deberá destinarse a los fines culturales más adecuados a su naturaleza.
+
+### Capítulo IV. De la Salvaguardia del Hospicio Cabañas
+
+###### Artículo 27.
+
+Es de utilidad pública el acrecentamiento, protección y conservación del patrimonio cultural del Instituto, particularmente de la obra pictórica de José Clemente Orozco, del Hospicio Cabañas y de su permanencia en la Lista del Patrimonio Mundial.
+
+###### Artículo 28.
+
+El Ejecutivo Estatal, el Instituto y en su caso demás entidades competentes, en el ámbito de sus atribuciones, darán cumplimiento a las acciones derivadas de la inscripción del Hospicio Cabañas en la Lista del Patrimonio Mundial.
+
+### Capítulo V. Del Régimen Laboral
+
+###### Artículo 29.
+
+Las relaciones laborales del Instituto se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+## TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley Orgánica del Instituto Cultural Cabañas, contenida en el decreto número 10351 y publicado en el periódico oficial "El Estado de Jalisco" el 18 de diciembre de 1980.
+
+TERCERO. Se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general, contrarias a esta Ley.
+
+CUARTO. La Junta de Gobierno deberá aprobar el proyecto de Reglamento Interno del Instituto a propuesta del Director General en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. Los contratos, convenios y demás instrumentos jurídicos de los que se desprendan derechos u obligaciones a cargo del Instituto, a la entrada en vigor del presente decreto, seguirán surtiendo sus efectos en los términos que de ellos se desprenda y por el tiempo acordado en los mismos.
+
+SEXTO. La presente Ley no afectará los derechos laborales del personal del Instituto, ni los nombramientos vigentes.
+
+SÉPTIMO. Los procedimientos y demás asuntos en trámite comenzados con anterioridad a la vigencia del presente decreto continuarán sustanciándose en los términos en que inicialmente comenzaron.
+
+OCTAVO. Llévense a cabo las adecuaciones administrativas necesarias para dar cumplimiento al presente decreto.
+
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
+
+GUADALAJARA, JALISCO, 10 DE DICIEMBRE DE 2020
+
+Diputada Presidenta
+
+MARA NADIEZHDA ROBLES VILLASEÑOR
+
+(RÚBRICA)
+
+Diputado Secretario
+
+ISMAEL ESPANTA TEJEDA
+
+(RÚBRICA)
+
+Diputado Secretario
+
+CARLOS EDUARDO SÁNCHEZ CARRILLO
+
+(RÚBRICA)
+
+PROMULGACIÓN DEL DECRETO NÚMERO 28279/LXII/20 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE ABROGA LA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS Y EXPIDE LA NUEVA LEY ORGÁNICA DEL INSTITUTO CULTURAL CABAÑAS.
+
+En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 15 del mes de diciembre de 2020.
+
+ENRIQUE ALFARO RAMÍREZ
+
+Gobernador Constitucional del Estado de Jalisco
+
+(RÚBRICA)
+
+JUAN ENRIQUE IBARRA PEDROZA
+
+Secretario General de Gobierno
+
+(RÚBRICA)
