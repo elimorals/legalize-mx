@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-politecnica-de-la-zona-38421"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-10"
-last_updated: "2017-03-16"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -55,9 +55,11 @@ II. Autoridad Educativa. La Secretaría de Educación Pública, a través de la 
 
 III. Coordinación. La Coordinación General de Universidades Politécnicas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-La Universidad Politécnica de la Zona Metropolitana de Guadalajara se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; Constitución Política del Estado Libre y Soberano de Jalisco; Ley de Planeación para el Estado de Jalisco y sus Municipios, Ley General de Educación; Ley de Educación del Estado de Jalisco; la presente Ley, las bases relativas del Plan Estatal de Desarrollo; por los reglamentos universitarios que sus propios órganos expidan y por las demás disposiciones legales que le sean aplicables.
+La Universidad Tecnológica de la zona Metropolitana de Guadalajara se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Jalisco; la Ley General de Educación; Ley de Educación del Estado Libre y Soberano de Jalisco; por la presente Ley, por las bases relativas del Plan Estatal de Desarrollo; por los Reglamentos Universitarios que sus propios órganos expidan y por las demás disposiciones legales que le sean aplicables.
 
 ###### Artículo 4.
 
@@ -546,3 +548,9 @@ P.O. 16 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26292/LXI/17 QUE REFORMA LOS ARTÍCULOS 9º Y 37 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28253/LXII/20 QUE REFORMA EL ARTÍCULO 3 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
