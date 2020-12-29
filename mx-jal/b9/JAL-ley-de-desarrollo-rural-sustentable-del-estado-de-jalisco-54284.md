@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2020-11-21"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -433,7 +433,9 @@ XX. Impulsar y apoyar la generación, transferencia y adopción de tecnología e
 
 XXI. Implementar las medidas de control de sanidad, inocuidad y calidad agropecuaria, de acuerdo a las disposiciones federales y estatales aplicables;
 
-XXII. Promover la producción orgánica y el uso de abonos orgánicos para el mejor manejo y conservación del suelo y agua, para alcanzar una mayor inocuidad;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+XXII. Promover la producción orgánica y el uso de fertilizantes y/o abonos orgánicos para el mejor manejo y conservación del suelo y agua, para alcanzar una mayor inocuidad, además de facilitar la adquisición de éstos a los productores;
 
 XXIII. Organizar y atender el servicio de extensión agropecuaria, con el apoyo de técnicos de la federación, Estado y municipios;
 
@@ -1451,6 +1453,14 @@ La sustentabilidad será criterio rector en el fomento a las actividades product
 
 Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cultivos que garanticen la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores. En el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales de los índices de agostaderos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Asimismo quienes hagan uso productivo de las tierras deberán procurar la utilización de fertilizantes y/o abonos orgánicos y/o biofertilizantes amigables con el ser humano y las demás especies. En caso de la utilización de fertilizantes que se encuentren regulados por alguna Norma Oficial Mexicana, éstos deberán ser utilizados sólo en parcelas cuya ubicación se encuentre fuera de centros poblacionales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+
+Cuando se advierta la existencia de cuerpos de agua, como lagos, ríos, esteros, manantiales, pantanos, manglares, lagunas, océanos, mares y estuarios, además de casas habitación, edificios habitados, cultivos aledaños, escuelas o fincas vecinas, para poder aplicar fertilizantes, plaguicidas y herbicidas administrados por vía aérea, deberá existir una zona de amortiguamiento de al menos 100 metros.
+
 ###### Artículo 133.
 
 El Gobierno Estatal y Municipal fomentará el uso adecuado del suelo de acuerdo con sus características y potencial productivo, así como la tecnología para la conservación y mejoramiento de las tierras y el agua.
@@ -1690,3 +1700,9 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28008/LXII/20 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28266/LXII/20 QUE REFORMA EL ARTÍCULO 22 FRACCIÓN XXII Y ADICIONA UN PÁRRAFO TERCERO Y CUARTO AL ARTÍCULO 132 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
