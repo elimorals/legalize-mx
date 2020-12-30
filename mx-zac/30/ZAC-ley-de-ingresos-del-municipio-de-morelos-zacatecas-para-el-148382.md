@@ -1,0 +1,62 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE MORELOS, ZACATECAS PARA EL EJERCICIO FISCAL 2021"
+identifier: "ZAC-ley-de-ingresos-del-municipio-de-morelos-zacatecas-para-el-148382"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2020-12-30"
+last_updated: "2020-12-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148382&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-zac"
+scjn_id: "148382"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "DECRETO"
+original_gazette_section: "105 SUPLEMENTO 52"
+reform_count: "1"
+scjn_last_update: "2021-12-29"
+issue_date: "2020-12-28"
+municipality: "Morelos"
+municipality_inegi: "32032"
+state: "ZAC"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE MORELOS, ZACATECAS PARA EL EJERCICIO FISCAL 2021
+
+LEY DE INGRESOS DEL MUNICIPIO DE MORELOS, ZACATECAS PARA EL EJERCICIO FISCAL 2021
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Suplemento 52 del número 105 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2020.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO 79.
+
+Se pagarán derechos por permisos para la realización de los siguientes eventos:
+
+I. Celebración de bailes en la cabecera municipal:
+
+UMA diaria
+
+a) Eventos públicos. 20.9675
+
+(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2021, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) EVENTOS PARTICULARES, PRIVADOS. 9.2842
+
+II. Celebración de bailes en las comunidades:
+
+a) Eventos públicos. 17.5392
+
+(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2021, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) EVENTOS PARTICULARES, PRIVADOS. 8.1833
+
+III. Celebración de eventos en el Lienzo Charro:
+
+a) Charreada. 11.1422
+
+b) Rodeo o coleadero. 20.0559
+
+IV. Permiso para cierre de calle. 3.0000
