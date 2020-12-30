@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2020-10-16"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -523,15 +523,21 @@ VIII.- La prevención y el control de las enfermedades transmisibles de atenció
 
 IX.- La prevención y control de las enfermedades bucodentales, visuales y auditivas.
 
-X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-XI.- La atención médica geriátrica a personas mayores de 65 años de edad, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2012)</small>
+XI.- La atención médica geriátrica a personas mayores de 65 años de edad;
 
-XII.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XII.- La prevención, detección, tratamiento y rehabilitación de neoplasias, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
 
 Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
 
@@ -1177,9 +1183,27 @@ I.- La prevención de neoplasias mediante la implementación de campañas perman
 
 II.- La detección oportuna de neoplasias;
 
-III.- El tratamiento de neoplasias, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV.- Las demás que sean necesarias para su debida atención médica.
+III.- El tratamiento de neoplasias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV.- Las tendientes a la rehabilitación física o psicológica por el tratamiento de neoplasias, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V.- Las demás que sean necesarias para su debida atención médica.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 50 OCTIES.- Las acciones dirigidas a la rehabilitación física o psicológica por el tratamiento de neoplasias deberán cubrir:
+
+I.- Cirugías protésicas y reconstructivas de los órganos o tejidos extirpados por tratamiento oncológico;
+
+II.- Terapias físicas de recuperación, y
+
+III.- Terapias de recuperación psicológica.
 
 #### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
@@ -3672,3 +3696,11 @@ P.O. 16 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 196 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19 Y 50 SEPTIES, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 50 OCTIES A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado dará cumplimiento al presente Decreto de conformidad con la viabilidad financiera disponible
