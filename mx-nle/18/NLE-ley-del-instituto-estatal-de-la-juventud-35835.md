@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2017-01-18"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -259,9 +259,15 @@ VII. Difundir y promover los planes, programas, proyectos y acciones que desarro
 
 VIII. Emitir opiniones y recomendaciones al Director General para el mejor ejercicio de las atribuciones del Instituto;
 
-IX. Integrar comisiones o comités para la atención de asuntos específicos; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Las que determine el Reglamento Interior del Instituto y demás disposiciones aplicables.
+IX. Integrar comisiones o comités para la atención de asuntos específicos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+X. Elegir entre sus integrantes a quienes integraran la Junta de Gobierno de la presente Ley; y
+
+XI. Las que determine el Reglamento Interior del Instituto y demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -317,7 +323,9 @@ I. El Titular del Ejecutivo del Estado, quien la presidirá;
 
 II. El Director General del Instituto, quien tendrá el carácter de Secretario de la Junta; y
 
-III. Cinco vocales, que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Los siguientes vocales:
 
 a) El Secretario General de Gobierno;
 
@@ -325,13 +333,25 @@ b) El Secretario de Finanzas y Tesorero General del Estado;
 
 c) El Secretario de Desarrollo Económico;
 
-d) El Secretario de Educación, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-e) El Secretario de Salud.
+d) El Secretario de Educación,
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) El Secretario de Salud, y
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+f) Dos integrantes del Consejo Joven de Participación Ciudadana.
 
 Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo enviar previamente a las sesiones de la Junta de Gobierno, el documento en el que se informe de su designación.
 
 En caso de ausencia del titular del Ejecutivo Estatal, el Director General asumirá el cargo de presidente para esa sesión y nombrará a un secretario de la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los integrantes del Consejo Joven de Participación Ciudadana que formen parte de la Junta de Gobierno se renovarán de manera anual, siendo designados entre el resto de los miembros de dicho Consejo.
 
 ###### Artículo 17.
 
@@ -582,3 +602,13 @@ P.O. 18 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 220. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 21 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 393. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 10, EL ENCABEZADO Y LOS INCISOS D) Y E) DE LA FRACCIÓN III DEL ARTÍCULO 16, Y SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER LA NUEVA FRACCIÓN XI DEL ARTÍCULO 10; EL INCISO F) A LA FRACCIÓN III Y EL PÁRRAFO CUARTO AL ARTÍCULO 16, DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Dependencias del Poder Ejecutivo sujetas al presente Decreto contarán con un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto para la modificación de sus respectivos Reglamentos.
+
+TERCERO.- Los Municipios en un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto, adecuarán sus reglamentos respectivos para el cumplimiento de las disposiciones correspondientes al presente Decreto.
