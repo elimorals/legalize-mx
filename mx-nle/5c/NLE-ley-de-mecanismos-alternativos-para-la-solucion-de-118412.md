@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-mecanismos-alternativos-para-la-solucion-de-118412"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2017-06-28"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 13 de enero de 2017.
 
@@ -697,7 +697,9 @@ Por infracción a las disposiciones de esta Ley, en los términos del artículo 
 
 I. Amonestación por escrito;
 
-II. Multa de cincuenta a cien cuotas, dependiendo de la gravedad de la infracción;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, dependiendo de la gravedad (sic) infracción;
 
 III. III (SIC). Suspensión de uno a seis meses de la certificación para ejercer como facilitador;
 
@@ -727,7 +729,9 @@ Por infracción a las disposiciones de esta Ley, en los términos del artículo 
 
 I. Amonestación por escrito;
 
-II. Multa de cien a quinientas cuotas, dependiendo de la gravedad de la infracción;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Multa de cien a quinientas veces el valor diario de la Unidad de Medida de (sic) Actualización, dependiendo de la gravedad de la infracción;
 
 III. Suspensión de uno a seis meses de la acreditación para ofrecer servicios como centro de mecanismos alternativos;
 
@@ -820,3 +824,9 @@ Segundo.- Los procedimientos cuya tramitación se hubiera iniciado antes de la e
 Tercero.- La aplicación de lo consignado en el Artículo 43 de la presente Ley entrará en vigor de la siguiente manera:
 
 I. Para los asuntos del orden civil, se aplicará a partir del 1 de enero de 2018. Para los asuntos de materia familiar, se aplicará a partir del 2019.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
