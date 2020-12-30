@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2020-12-04"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -1115,6 +1115,10 @@ Cuando se trate de dos o más infracciones cometidas por la misma persona por un
 
 Con excepción de lo establecido en las fracciones L, LI, LII, LIII, LIV y LVII, en caso de reincidencia se aumentará hasta al doble el monto de la multa que corresponda. En caso de incurrir nuevamente en la violación, y tratándose de dueños u operadores de los establecimientos que cuenten con licencia para la venta de bebidas alcohólicas o permisos especiales o sus representantes, administradores o encargados de los establecimientos, se aplicarán las reglas para la clausura temporal o definitiva, de acuerdo con lo establecido en esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 64 BIS.- Para los efectos del presente capítulo, una cuota será el equivalente al valor diario de la Unidad de Medida y Actualización.
+
 ###### ARTÍCULO 65.
 
 Quienes vendan bebidas alcohólicas, sin la licencia o permiso especial correspondiente, serán acreedores además de la multa señalada en la fracción I del artículo 64 del presente ordenamiento, a la clausura definitiva del local comercial donde se realice la actividad. Los inspectores podrán asegurar o retener las bebidas alcohólicas, como medida de seguridad, realizando un inventario previo en la diligencia de inspección. Una vez concluido el procedimiento correspondiente, y previo dictamen de las autoridades de salud de que pueden consumirse, la Tesorería Municipal podrá proceder a la venta en pública subasta de las bebidas alcohólicas aseguradas o retenidas, y su producto será destinado a campañas contra las adicciones o entregado a instituciones civiles en cuyo objeto se encuentre realizar acciones de prevención y combate el abuso del consumo del alcohol u otras adicciones.
@@ -1736,3 +1740,9 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Municipios dispondrán de un plazo de 90 días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos en la materia.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
