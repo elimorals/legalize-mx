@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -317,7 +317,9 @@ III. Prenda, hipoteca o secuestro convencional en la vía administrativa;
 
 IV. Obligación solidaria asumida por un tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V. Embargo en la vía administrativa de negociaciones, bienes muebles e inmuebles, excepto predios rústicos; y
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que sea determinado por las autoridades fiscales.
 
@@ -383,6 +385,10 @@ Las autoridades fiscales para la práctica de requerimientos de documentación, 
 
 Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá notificarse a los particulares y no alterarán el cómputo de plazos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto por el que se establece el Horario Estacional que se aplicará en los Estados Unidos Mexicanos.
+
 ###### ARTÍCULO 29.
 
 Para efectos fiscales se considera enajenación de bienes:
@@ -427,15 +433,31 @@ I. Tengan a su cargo créditos fiscales firmes;
 
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna ·de las formas permitidas por este Código;
 
-III. No se encuentren inscritos en el Registro Estatal o Municipal de Contribuyentes; o
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. No se encuentren inscritos en el Registro Estatal o Municipal de Contribuyentes;
 
 IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que alguna resulte o no cantidad a pagar, esta no haya sido presentada.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V. Estando inscritos en el Registro Estatal de Contribuyentes, se encuentren como no localizados; o
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VI. Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que quede firme la sentencia.
 
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, los adeudos fiscales que tenga a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
 Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al Estado o Municipio para el pago de los adeudos correspondientes.
 
-Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales de la subcontratante.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales de la subcontratante, misma que se obtiene a través de la página de Internet de la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes que requieran obtener la opinión del cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para realizar algún trámite fiscal, así como para las contrataciones por adquisición de bienes, arrendamientos, prestación de servicios y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que establezca la Secretaría de Finanzas a través de las reglas de carácter general.
 
 ### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE PAGO DE LAS CONTRIBUCIONES
 
@@ -727,6 +749,10 @@ c) En el ejercicio de sus facultades de comprobación, detecten que el contribuy
 
 d) Aun sin ejercer sus facultades de comprobación, detecten la existencia de una o más infracciones previstas en los artículos 167, 168, 169 de este ordenamiento, y la conducta sea realizada por el contribuyente titular del certificado.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XI. Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó la presunción de la inexistencia de las operaciones amparadas en tales comprobantes y, por tanto, se encuentra definitivamente en dicha situación, en términos del artículo 120 fracción IX, de este Código.
+
 La Secretaría de Finanzas podrá cancelar sus propios certificados de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo.
 
 Cuando la Secretaría de Finanzas revoque un certificado expedido por ella, se anotará en el mismo la fecha y hora de su revocación.
@@ -757,13 +783,17 @@ El titular del certificado será responsable de las consecuencias jurídicas que
 
 Las personas físicas y morales inscritas en el registro estatal de contribuyentes de la Secretaría de Finanzas tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Finanzas, a través del cual:
 
-I. La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+I. La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrá enviar mensajes de interés;
 
 II Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
 
 Para efectos de la fracción II de este artículo el contribuyente deberá utilizar la firma avanzada que tenga asignada por la Secretaría de Finanzas.
 
-Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por las autoridades fiscales mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. Las autoridades fiscales enviarán por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por las autoridades fiscales a cualquiera de los mecanismos de comunicación que el contribuyente registre de los que se den a conocer mediante reglas de carácter general. Las autoridades fiscales enviarán por única ocasión, mediante cualquiera de los mecanismos elegidos, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -1027,33 +1057,27 @@ Cuando las autoridades fiscales hubiesen iniciado el ejercicio de sus facultades
 
 Asimismo, si después de haberse presentado dos o más declaraciones complementarias a la original, se pretenden presentar otras declaraciones complementarias en las que se modifiquen conceptos que originen el pago de lo indebido del contribuyente o tengan efectos que reduzcan las cargas tributarias de éste, deberá proporcionarse la información y, en su caso, anexarse a éstas los documentos que acrediten la existencia y veracidad de tales operaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 67.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal o municipal de contribuyentes, avisos o informes, ante las autoridades fiscales, lo harán de la manera siguiente:
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal o municipal de contribuyentes, avisos o informes, ante las autoridades fiscales, lo harán a través de los medios electrónicos que siendo aprobados por las autoridades fiscales estatales o municipales, según sea el caso, hayan sido publicados en el Periódico Oficial, Órgano del Gobierno del Estado, debiendo enviar el número de ejemplares, los datos e informes y los documentos, de conformidad a las formas aprobadas por la autoridad fiscal o por la aplicación de leyes que regulen la referida forma de presentación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+I. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-I. A la Secretaría de Finanzas, a través del portal electrónico;
+II. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-II. A las demás autoridades, en las formas impresas que siendo aprobadas por las autoridades fiscales estatales o municipales, según sea el caso, hayan sido publicadas en el Periódico Oficial, Órgano del Gobierno del Estado o en las gacetas municipales, debiendo proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-III. Mediante documento digital cuando así lo establezcan las mencionadas autoridades fiscales.
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 Tratándose de declaraciones que tengan obligación de presentar los contribuyentes ante la Secretaría de Finanzas, aun cuando no exista cantidad a pagar, éstas deberán presentarse invariablemente a través de los medios electrónicos que establezca, mediante reglas de carácter general, la propia Secretaría de Finanzas.
 
-Cuando las formas para la presentación de los avisos e informes que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Periódico Oficial, Órgano del Gobierno del Estado, por las autoridades fiscales a más tardar un mes antes de la fecha en que el contribuyente esté obligado a utilizarlas, los obligados a presentarlas podrán utilizar las últimas formas publicadas por la citada dependencia y, si no existiera forma publicada, las formularán en escrito libre que contenga su nombre, denominación o razón social, domicilio y clave del registro estatal o municipal de contribuyentes según corresponda, así como el periodo y los datos relativos a la obligación que pretendan cumplir; si se trata de obligación de pago, deberá señalarse, además, el monto del mismo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos de suspensión, disminución o cancelación en el registro estatal o municipal de contribuyentes según corresponda.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagar contribuciones, están obligados, en los términos de este artículo, a formular y presentar a nombre de sus representados ante la omisión de éstos, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales. Esta disposición, no releva a los obligados principales de presentar el aviso correspondiente cuando no sea presentado por sus representantes.
 
-En las oficinas autorizadas se recibirán los avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones. Únicamente se podrá rechazar la presentación cuando ésta corresponda hacerse sólo a través de medios electrónicos o cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de registro estatal o municipal de contribuyentes, según corresponda, su domicilio fiscal o no contengan firma del contribuyente o de su representante legal.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso y se omita hacerlo por alguna de ellas, se tendrá por no presentada la declaración o aviso por la contribución omitida.
 
@@ -1063,7 +1087,7 @@ Las personas obligadas a presentar solicitud de inscripción o avisos en los té
 
 Cuando las disposiciones aplicables así lo señalen, los contribuyentes, deberán presentar solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o informes, en documentos digitales con firma electrónica avanzada a través de los medios o formatos electrónicos, enviándolos a las autoridades correspondientes o a las oficinas autorizadas, según sea el caso, debiendo cumplir los requisitos establecidos en los manuales y reglas de operación, los cuales serán publicados en el Periódico Oficial, Órgano del Gobierno del Estado, así como en la página electrónica de la Secretaría de Finanzas y, en su caso, pagar mediante transferencia electrónica de fondos.
 
-Cuando las disposiciones fiscales establezcan que se acompañe un documento distinto a escrituras o poderes notariales, y éste no sea digitalizado, la solicitud o el aviso se podrán presentar en medios impresos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, en las oficinas establecidas por la Secretaría de Finanzas para tales efectos, proporcionando la información necesaria a fin que sea enviada por medios electrónicos a las direcciones electrónicas, correspondientes y, en su caso, ordenando la transferencia electrónica de fondos.
 
@@ -1234,6 +1258,10 @@ III. La acción de devolución no esté prescrita.
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 En caso de contribuciones que se hubieran retenido o recaudado a terceros, la devolución deberá ser solicitada y sólo se efectuará a los contribuyentes a quienes se les hubiera retenido o recaudado la contribución de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Se tendrá por no presentada la solicitud de devolución, en aquellos casos en los que el contribuyente, o bien, el domicilio manifestado por éste, se encuentren como no localizados ante el Registro Federal de Contribuyentes. Cuando se tenga por no presentada la solicitud, la misma no se considerará como gestión de cobro que interrumpa la prescripción de la obligación de devolver.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo, nace cuando dicho acto se anule.
 
@@ -1803,13 +1831,15 @@ El apoyo a que se refiere el párrafo anterior consistirá en efectuar las accio
 
 II. Imponer la multa que corresponda en los términos de este Código;
 
-III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, con excepción de los bienes a que se refiere el artículo 279 y conforme el procedimiento establecido en los artículos 272, 273, 274 y 275 de este Código; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente, responsable solidario o terceros relacionados con ellos, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme el procedimiento establecido en el artículo 113-BIS de este Código; y
 
 IV. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Las autoridades fiscales impondrán las medidas de apremio previstas en las fracciones anteriores en su estricto orden; sin embargo, cuando los contribuyentes responsables solidarios o terceros relacionados con ellos no atiendan las solicitudes de información con los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados o cuando destruyan o alteren la misma, no será aplicable la fracción I.
+Las autoridades fiscales impondrán las medidas de apremio previstas en las fracciones anteriores en su estricto orden; sin embargo, cuando los contribuyentes responsables solidarios o terceros relacionados con ellos no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados o cuando destruyan o alteren la misma, no será aplicable la medida de apremio señalada en la fracción I de este artículo.
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
@@ -1839,7 +1869,9 @@ ARTÍCULO 113 BIS. El aseguramiento precautorio de los bienes o de la negociaci�
 
 I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 112 de este Código, salvo en los casos señalados a continuación:
 
-a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido, o se ignore su domicilio;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a. Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido, o se ignore su domicilio;
 
 b) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes;
 
@@ -1871,11 +1903,15 @@ h) La negociación del contribuyente.
 
 Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
 
-Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en la fracción III del artículo 272 de este Código.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
 
 En el supuesto de que existan varios bienes y el valor del bien a asegurar conforme al orden establecido, exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
 
-Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere la fracción VI de este artículo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
 
 IV. El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo, se realizará conforme lo siguiente:
 
@@ -1901,7 +1937,9 @@ VII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de
 
 En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
 
-a) La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de este artículo;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a) La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de esta fracción;
 
 b) Cuando la solicitud de levantamiento del aseguramiento se realice a través de las Comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio;
 
@@ -2265,9 +2303,11 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales, a m
 
 Sin perjuicio del derecho del contribuyente para desvirtuar los hechos en que se basan las resoluciones, si la negativa del contribuyente implica la afirmación de otro hecho, deberá acreditarlo o, en caso contrario, la presunción de legalidad de los actos de la autoridad referida a los hechos negados, deberá subsistir con plenos efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 135.
 
-Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las manifestaciones, declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación.
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las manifestaciones, declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación, incluidos los estudios y análisis de contaminación obtenidos a través de herramientas tecnológicas.
 
 Se exceptúa de dicha reserva cuando la información sea solicitada por los interesados o sus representantes legales, o en los casos que señalen los ordenamientos fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, al Ministerio Público en sus funciones de investigación y persecución del delito o en el supuesto previsto en el artículo 108 de este Código.
 
@@ -2327,9 +2367,15 @@ III. Al notificar la orden de visita domiciliaria en el lugar o lugares señalad
 
 Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer a la firma de actas en el lugar en que se esté llevando a cabo la visita, o por manifestar su voluntad de dejar de serlo; en estos casos, los visitadores requerirán a la persona con quien se entienda la diligencia para que designe otros que los sustituyan, y en caso de su negativa para hacerlo, los visitadores los designarán. La sustitución de testigos no invalida los resultados de la visita.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar o a recibir la copia del acta, dicha circunstancia se asentará en la misma, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 139.
 
-Los visitados, su representante legal o las personas con quien se entienda la visita, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición la contabilidad y demás documentos o informes que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copia para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas parciales o final que se levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio de almacenamiento de datos que tenga el contribuyente en los lugares visitados y que tengan relación con el cumplimiento de sus obligaciones fiscales.
+Los visitados, su representante legal o las personas con quien se entienda la visita, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición la contabilidad y demás documentos o informes que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copia para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas parciales o final que se levanten con motivo de la visita. También deberán permitir la verificación de bienes, mercancías, suelo, subsuelo o agua, objeto de alguno de los impuestos del Estado, así como de los equipos de medición utilizados para determinar la emisión de sustancias contaminantes y niveles de contaminación de acuerdo con las disposiciones fiscales, y de los documentos, bitácoras, informes, declaraciones en materia ambiental, discos, cintas o cualquier otro medio de almacenamiento de datos que tenga el contribuyente en los lugares visitados y que tengan relación con el cumplimiento de sus obligaciones fiscales; las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes, los cuales quedarán protegidos por la reserva a que se refiere el artículo 135 de este Código.
 
 Cuando los visitados lleven su contabilidad o parte de ella con sistema de registro electrónico, o la microfilmen o graben en discos ópticos o en cualquier otro medio autorizado por las disposiciones aplicables a la contabilidad, deberán poner a disposición de los visitadores cuando ello sea requerido, a sus operadores para que los auxilien en el desarrollo de la visita, así como entregar a la Autoridad Fiscal, los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -2435,15 +2481,21 @@ Para efectos de las visitas domiciliarias de inspección previstas en la fracci�
 
 I. La orden que deberá reunir los requisitos establecidos en el artículo 137 de este Código;
 
-II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, sucursal, local, o puesto fijo o semifijo en la vía pública, que tengan los contribuyentes dentro del Estado y en ellos se realicen actividades de enajenación, prestación de servicios, contratación u otorgamiento del uso o goce temporal de bienes; o bien, se almacenen mercancías, o se realicen actividades relacionadas con permisos y concesiones, o que sean reguladas en su funcionamiento por la legislación estatal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, sucursal, local, oficinas, bodegas, almacenes, depósitos o puesto fijo o semifijo en la vía pública, que tengan los contribuyentes dentro del Estado y en ellos se realicen actividades de enajenación, prestación de servicios, contratación u otorgamiento del uso o goce temporal de bienes, donde se generen hechos imponibles o actos generadores relativos a la contaminación sujeta a alguno de los supuestos de los Impuestos Ecológicos o los lugares donde se realicen actividades administrativas en relación con los mismos; o bien, en lugares donde se almacenen o depositen bienes, mercancías, o se realicen actividades relacionadas con permisos y concesiones, o que sean reguladas en su funcionamiento por la legislación estatal;
 
 III. La diligencia se iniciará con el contribuyente o su representante legal, o en su ausencia, con el encargado o quien se encuentre al frente del lugar visitado;
 
 IV. Al inicio de la visita, los visitadores deberán identificarse con la persona con quien se entienda la diligencia, y requerirle para que designe dos testigos, y si se niega a ello, los testigos serán designados por los propios visitadores, sin que esta circunstancia invalide el resultado de la visita de inspección;
 
-V. Se levantará acta circunstanciada en la que se harán constar los hechos, omisiones o irregularidades que siendo conocidos por los visitadores durante su desarrollo, pudiesen constituirse en infracciones a las leyes fiscales aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Realizada la visita de inspección, si al cierre del acta de visita domiciliaria, el visitado o la persona con quien se entiende la diligencia o los testigos designados por ésta se niegan a firmar el acta, dicha circunstancia se asentará en la propia acta, sin que se afecte la validez o valor probatorio de la misma, dándose por concluida la visita correspondiente;
+V. Se levantará acta o actas circunstanciadas en las que se harán constar los hechos, omisiones o irregularidades que siendo conocidos por los visitadores durante su desarrollo, pudiesen constituirse en infracciones a las leyes fiscales aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VI. Realizada la visita de inspección, si al cierre de cada una de las actas de visita domiciliaria, el visitado o la persona con quien se entiende la diligencia o los testigos designados por ésta se niegan a firmar el acta, dicha circunstancia se asentará en la propia acta, sin que se afecte la validez o valor probatorio de la misma, dándose por concluida la visita correspondiente;
 
 VII. Cuando de las irregularidades conocidas por los visitadores se desprendan sanciones que consistan en la clausura del establecimiento visitado, los visitadores procederán en términos de las disposiciones aplicables a realizar dicha clausura, la cual se levantará en términos de dichas disposiciones cuando exista causa justificada para hacerlo y procederá sin previo apercibimiento al contribuyente, responsable solidario o terceros con ellos relacionados; y
 
@@ -2493,23 +2545,41 @@ V. Que el contador público esté, en el mes de presentación del dictamen, al c
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-ARTÍCULO 146 QUÁTER. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
+###### ARTÍCULO 146 Quáter.
+
+Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción XI del artículo 120 de este Código, revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 I. Se requerirá al contador público que haya formulado el dictamen, lo siguiente:
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 a) Cualquier información que, conforme a este Código y a las reglas de carácter general emitidas por la Secretaría de Finanzas, debiera estar incluida en el Dictamen emitido para efectos de este ordenamiento;
 
-b) La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b. La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público, para lo cual, deberá comparecer ante la autoridad fiscal a fin de realizar las aclaraciones que en ese acto se le soliciten, en relación con los mismos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 c) La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
 
-La revisión a que se refiere esta fracción se llevará a cabo con el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de seis meses contados a partir de que se notifique al contador público la solicitud de información.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+La revisión a que se refiere esta fracción se llevará a cabo con el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de seis meses contados a partir de que se notifique al contador público la solicitud de exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 En caso de que las autoridades fiscales ejerzan las facultades de comprobación con el contribuyente dictaminado en términos de lo establecido de (sic) las fracciones II y III del presente artículo, se considerará concluida la revisión del dictamen al día siguiente de la notificación de la resolución determinativa de crédito fiscal, oficio de conclusión o acta final de corrección al contribuyente dictaminado.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 II. Las autoridades fiscales, podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación, en los supuestos siguientes:
 
@@ -2517,13 +2587,23 @@ a) Habiéndose requerido al contador público que haya formulado el dictamen, la
 
 b) Si estos no se presentan dentro de los plazos que establece el artículo siguiente, o dicha información y documentos son incompletos.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus estados financieros en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 143 de este Código.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el artículo 120 de este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
 
@@ -2544,6 +2624,8 @@ g) Cuando habiendo ejercido la opción a que se refiere el segundo párrafo del 
 h) Cuando el dictamen se haya presentado en forma extemporánea, e
 
 i) Por cada dictamen, que no proporcione la información a que se refiere este Código y las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas o la proporcione de manera incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Tratándose de la revisión de pagos provisionales o definitivos, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.
 
@@ -2799,7 +2881,23 @@ Las autoridades fiscales resolverán de plano la solicitud planteada y en contra
 
 ARTÍCULO 158 TER.- Cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere este Código, y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones o en la resolución provisional, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo. Dicho acuerdo podrá versar sobre uno o varios de los hechos u omisiones consignados y será definitivo en cuanto al hecho u omisión sobre el que verse.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, los contribuyentes podrán solicitar la adopción del acuerdo conclusivo a partir que dé inicio el ejercicio de facultades de comprobación y hasta antes de que se les notifique la resolución que determine el monto de las contribuciones omitidas, siempre que la autoridad revisora ya haya hecho una calificación de hechos u omisiones.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, los contribuyentes podrán solicitar la adopción del acuerdo conclusivo a partir que dé inicio el ejercicio de facultades de comprobación y hasta dentro de los quince días siguientes a aquél en que se haya levantado el acta final, notificado el oficio de observaciones o la resolución provisional, según sea el caso, siempre que la autoridad revisora ya haya hecho una calificación de hechos u omisiones.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+No procederá la solicitud de adopción de un acuerdo conclusivo en los casos siguientes:
+
+I. Respecto a las facultades de comprobación que se ejercen para verificar la procedencia de la devolución de saldos a favor o pago de lo indebido, en términos de lo dispuesto en el artículo 81 de este Código;
+
+II. Respecto del ejercicio de facultades de comprobación a través de compulsas a terceros en términos de las fracciones II, III o VIII del artículo 120 de este Código;
+
+III. Respecto de actos derivados de la cumplimentación a resoluciones o sentencias;
+
+IV. Cuando la solicitud se presente fuera del plazo establecido en el párrafo segundo de este artículo; y
+
+V. Tratándose de contribuyentes que se ubiquen en los supuestos a que se refieren (sic) la fracción IX del artículo 120 de este Código.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3331,13 +3429,21 @@ En la hipoteca, el otorgamiento de la garantía se hará mediante escritura púb
 
 Para los efectos de la fracción III del artículo 190 de este Código, la póliza en que se haga constar la fianza, deberá ser expedida por institución autorizada domiciliada en el Estado y quedar en poder y guarda de las autoridades fiscales. En caso de hacerse exigible dicha póliza se estará a lo dispuesto en el siguiente procedimiento:
 
-I. La autoridad ejecutora requerirá de pago a la afianzadora en el domicilio señalado dentro del Estado, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Si no se realiza el pago dentro de los quince días siguientes a la fecha en que surta efectos la notificación del requerimiento, la autoridad ejecutora solicitará a la Comisión Nacional de Seguros y Fianzas se rematen en la bolsa de valores propiedad de la institución afianzadora, suficientes para cubrir el importe de lo reclamado con sus accesorios respectivos, los que entregará en pago a dicha autoridad.
+I. La autoridad ejecutora requerirá de pago a la institución emisora de pólizas de fianza en el domicilio señalado dentro del Estado, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad.
 
-III. La autoridad ejecutora, informará a la institución afianzadora sobre la solicitud de remate de valores, quien podrá oponerse, únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Para los efectos del párrafo anterior, si la afianzadora exhibe el pago del importe establecido en la póliza más sus accesorios, la autoridad fiscal solicitará a la Comisión Nacional de Seguros y Fianzas, suspender el procedimiento de remate de valores.
+II. Si no se realiza el pago dentro de los quince días siguientes a la fecha en que surta efectos la notificación del requerimiento, la autoridad ejecutora solicitará a la Comisión Nacional de Seguros y Fianzas se rematen en la bolsa de valores propiedad de la institución emisora de pólizas de fianza, suficientes para cubrir el importe de lo reclamado con sus accesorios respectivos, los que entregará en pago a dicha autoridad.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. La autoridad ejecutora, informará a la institución emisora de pólizas de fianza sobre la solicitud de remate de valores, quien podrá oponerse, únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para los efectos del párrafo anterior, si la institución emisora de pólizas de fianza exhibe el pago del importe establecido en la póliza más sus accesorios, la autoridad fiscal solicitará a la Comisión Nacional de Seguros y Fianzas, suspender el procedimiento de remate de valores.
 
 Las cantidades garantizadas deberán pagarse actualizadas por el período comprendido entre la fecha en que se debió efectuar el pago y la fecha en que se paguen dichas cantidades. Asimismo, causarán recargos por conceptos de indemnización al Estado o Municipio por falta de pago oportuno; este concepto deberá insertarse dentro del texto de la póliza de fianza.
 
@@ -3641,7 +3747,9 @@ Para los efectos de esta fracción, no se entenderá que el perjuicio se increme
 
 Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución recaída al recurso hasta que se dicte la sentencia que ponga fin a la controversia. Asimismo, se suspenderá el plazo para dar cumplimiento a la resolución cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
-Los plazos para cumplimiento de la resolución que establece este artículo, empezarán a correr a partir del día hábil siguiente a aquél en el que haya quedado firme la resolución para el obligado a cumplirla.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los plazos para cumplimiento de la resolución que establece este artículo, empezarán a correr a partir de que hayan transcurrido los treinta días para impugnarla, salvo que el contribuyente demuestre haber interpuesto medio de defensa.
 
 ### CAPÍTULO TERCERO. De las Notificaciones
 
@@ -3669,7 +3777,9 @@ II. Extraordinarias.
 
 Son notificaciones ordinarias las que se realicen personalmente, o por mensajería, correo certificado con acuse de recibo, o correo electrónico o buzón electrónico de datos con acuse de recibo; y son extraordinarias, aquéllas que por virtud de causa imputable a la persona que deba ser notificada no puedan realizarse en cualquiera de las formas antes señaladas.
 
-Las notificaciones por mensajería, correo certificado o correo electrónico de datos con acuse de recibo se considerarán notificaciones personales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las notificaciones por mensajería, correo certificado, correo electrónico de datos con acuse de recibo o buzón electrónico de datos con acuse de recibo se considerarán notificaciones personales.
 
 Las notificaciones se realizarán en forma extraordinaria, por las causas y en formas siguientes:
 
@@ -3699,7 +3809,25 @@ Salvo disposición expresa en contrario, los actos administrativos distintos a l
 
 En el caso de notificaciones electrónicas por documento digital, podrán realizarse en el portal electrónico de la Secretaría de Finanzas o mediante correo electrónico institucional, o en el portal electrónico de la autoridad municipal, en caso de que cuenten con él.
 
-El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada, para lo cual cuenta con un plazo de tres días hábiles, ya que en caso de no generar el acuse de recibo previsto en éste párrafo, se entenderá que surte efectos la notificación a partir del cuarto día hábil siguiente a aquel al que le haya sido enviada la notificación electrónica al contribuyente. Para los efectos de este párrafo, se entenderá como firma electrónica avanzada del particular notificado, la que se genere al utilizar la clave de seguridad que la Secretaría de Finanzas le proporcione en términos de la ley aplicable.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo 52 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
 
 La clave de seguridad que hubiere sido asignada en términos del párrafo anterior será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
 
@@ -3737,11 +3865,15 @@ Toda notificación personal que se realice con el afectado por el acto que se no
 
 Cuando los interesados en el ejercicio de sus derechos hubiesen señalado domicilio para recibir notificaciones al iniciar o en el curso de alguna promoción o instancia, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos, las notificaciones correspondientes deberán realizarse en el domicilio señalado para ello, hasta en tanto no designen expresamente otro domicilio para tales efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 230.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará cita torio en el domicilio, sea para que espere a una hora fija del día hábil siguiente que se señale en el mismo o para que acuda a notificarse a las oficinas de las autoridades fiscales dentro del plazo de seis días contado a partir de aquél en que fue dejado el citatorio, o bien, la autoridad comunicará el citatorio de referencia a través del buzón tributario.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia, o para que acuda a notificarse a las oficinas de las autoridades fiscales dentro del plazo de seis días contado a partir de aquél en que fue dejado el citatorio, o bien, la autoridad comunicará el citatorio de referencia a través del buzón tributario.
 
-El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo y del buzón tributario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo y del buzón tributario.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -3759,9 +3891,11 @@ La manifestación tácita o expresa que haga el interesado o su representante le
 
 Las notificaciones realizadas en términos de este artículo se consideran efectuadas el día en que el documento a notificar fue entregado al contribuyente, su representante legal o la persona con quien se entendió la diligencia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 232.
 
-Las notificaciones por estrados se llevarán a cabo con previo acuerdo de la autoridad fiscal y, se harán fijando durante quince días el documento a notificar en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación y en el portal electrónico de la Secretaría de Finanzas o en el portal electrónico de la autoridad municipal en caso de que cuente con ello, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado y publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado y publicado el documento.
+Las notificaciones por estrados se llevarán a cabo con previo acuerdo de la autoridad fiscal y, se harán fijando durante seis días el documento a notificar en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación y en el portal electrónico de la Secretaría de Finanzas o en el portal electrónico de la autoridad municipal en caso de que cuente con ello, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado y publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado y publicado el documento.
 
 ###### ARTÍCULO 233.
 
@@ -4199,13 +4333,37 @@ c) Bienes de fácil descomposición o deterioro o materias inflamables.
 
 El ejecutor deberá señalar preferentemente, bienes que representen una fácil enajenación. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 277.
 
-La inmovilización que proceda como consecuencia del embargo de depósitos o seguros a que se refiere el artículo 275 fracción I del presente Código, así como la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan efectuado hasta por el monto de las aportaciones que se hayan hecho conforme a la Ley de la materia, sólo se (sic) podrá realizarse hasta por el importe del crédito y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos.
+La autoridad fiscal procederá a la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, a excepción de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones efectuadas conforme a la Ley de la materia, de acuerdo con lo siguiente:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+I. Cuando los créditos fiscales se encuentren firmes.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Tratándose de créditos fiscales que se encuentren impugnados y no estén debidamente garantizados, procederá la inmovilización en los siguientes supuestos:
+
+a) Cuando el contribuyente no se encuentre localizado en su domicilio o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro federal de contribuyentes.
+
+b) Cuando no esté debidamente asegurado el interés fiscal o por resultar insuficiente la garantía ofrecida.
+
+c) Cuando la garantía ofrecida sea insuficiente y el contribuyente no haya efectuado la ampliación requerida por la autoridad.
+
+d) Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente para satisfacer el interés fiscal o se desconozca el valor de éstos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Sólo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo a la inmovilización, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
 La autoridad fiscal que haya ordenado la inmovilización, girará oficio a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto que de inmediato se efectúe la inmovilización y se conserven los fondos depositados.
 
-Al recibir la notificación del oficio mencionado en el párrafo anterior por parte de la autoridad fiscal o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según corresponda, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate deberá proceder a inmovilizar y conservar los fondos depositados, notificando dicha situación a la autoridad fiscal, para que ésta, por los medios conducentes, notifique dicha inmovilización al contribuyente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Al tercer día de recibir la notificación del oficio mencionado en el párrafo anterior por parte de la autoridad fiscal o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según corresponda, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate deberá proceder a inmovilizar y conservar los fondos depositados, notificando dicha situación a la autoridad fiscal, para que ésta, por los medios conducentes, notifique dicha inmovilización al contribuyente a más tardar al tercer día siguiente a aquel en que se hubiere notificado la inmovilización por parte de la entidad financiera respectiva.
 
 La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
 
@@ -4267,9 +4425,11 @@ Si no hubieren existido otros bienes sobre los que se haya trabado embargo, y no
 
 Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante la diligencia y se dará aviso a la autoridad correspondiente para que él o los interesados, puedan demostrar su derecho de prelación en el cobro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 282.
 
-Cuando el embargo hubiere recaído sobre créditos en favor del deudor, será notificado directamente por la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+Cuando el embargo hubiere recaído sobre créditos en favor del deudor, será notificado directamente por la oficina ejecutora a los deudores del embargado, y se les requerirá con el objeto de que informen las características de la relación contractual con el contribuyente, apercibidos que de no comparecer en el término de tres días, se les impondrá una multa de conformidad al artículo 168 de éste Código; asimismo, se les requerirá para que no efectúen el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
 Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el registro público de la propiedad y del comercio que corresponda, el jefe de la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura correspondiente el documento en que deba constar el finiquito.
 
@@ -4529,7 +4689,9 @@ Con cada nueva postura que mejore las anteriores, la Secretaría de Finanzas env
 
 Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, se concederán plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
-La Secretaría de Finanzas fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se fincará el remate a favor de quien haya hecho la primera postura recibida.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+La Secretaría de Finanzas fincará el remate a favor de quien haya hecho la mejor postura y efectuado el pago de la postura ofrecida, dentro de los plazos establecidos en los artículos 307 y 308 de este Código. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se fincará el remate a favor de quien haya hecho la primera postura recibida.
 
 Una vez fincado el remate se comunicará a través de la dirección de correo electrónico que se hubiese señalado para participar en la realización de la subasta, el resultado del mismo a los postores que hubieren participado en él, remitiendo el acta que al efecto se hubiere levantado.
 
@@ -4545,9 +4707,11 @@ En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda e
 
 Efectuado el pago total del importe ofrecido por un bien rematado, se comunicará al postor ganador, que deberá solicitar a la autoridad fiscal le indique la fecha y hora en que se realizará la entrega del bien rematado, una vez que hayan sido cumplidas las formalidades a que se refieren los artículos 307 y 308 del Código. El postor ganador podrá solicitar una nueva fecha dentro de los 30 días hábiles siguientes, de entrega en caso de que no le hubiese sido posible acudir a la que hubiere señalado la autoridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 307.
 
-Fincado el remate de bienes muebles se aplicará el depósito del postor adjudicado. Dentro de los tres días siguientes a la fecha del remate, dicho postor deberá enterar mediante transferencia electrónica de fondos que realice conforme a lo que se establezca en Reglas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de la mejora que hubiere realizado.
+Declarado ganador al oferente de la postura más alta, en caso de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, dicho postor deberá enterar mediante transferencia electrónica de fondos que realice conforme a lo que se establezca en Reglas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de la mejora que hubiere realizado.
 
 Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos.
 
@@ -4555,9 +4719,11 @@ A más tardar el sexto día después que el postor adjudicado hubiere realizado 
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 308.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido por el postor adjudicado. Dentro de los diez días siguientes a la fecha del remate, el postor enterará mediante transferencia electrónica de fondos conforme a las Reglas que al efecto expida la Secretaría de Finanzas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras que hubiere realizado.
+Declarado ganador al oferente de la postura más alta, en caso de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará mediante transferencia electrónica de fondos conforme a las Reglas que al efecto expida la Secretaría de Finanzas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras que hubiere realizado.
 
 Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido que si no lo hace, la escritura se emitirá mediante la relatoría de la forma de enajenación respecto del inmueble o negociación adjudicados.
 
@@ -4579,7 +4745,9 @@ Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudica
 
 En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado que no sea de su exclusiva responsabilidad, podrá, dentro del plazo mínimo de quince días y máximo de seis meses contado a partir de la fecha en que hubiere solicitado la entrega de los bienes, requerir a la autoridad fiscal por la cancelación de la operación realizada, y por la entrega del monto pagado por la adquisición de dichos bienes.
 
-La autoridad entregará la cantidad depositada por el postor, actualizada en términos de lo establecido en los artículos 8 y 10 este Código desde la fecha en que se hubiere realizado el depósito de la postura o el pago definitivo, hasta la fecha en que dicha devolución se realice. Si dentro del plazo de dos meses a partir de la solicitud de devolución del depósito, cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, previo acuerdo con el adquirente de los mismos en que así lo acepte, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+La autoridad entregará la cantidad depositada por el postor, en un plazo de dos meses contados a partir de la fecha en que se efectúe la solicitud a que se refiere el párrafo anterior. Si dentro del plazo de dos meses a partir de la solicitud de devolución del depósito, cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, previo acuerdo con el adquirente de los mismos en que así lo acepte, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
 
 En el caso que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
@@ -4605,9 +4773,11 @@ La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora f
 
 Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados, para todos los efectos legales, como bienes no sujetos al régimen del dominio público, hasta en tanto sean destinados o donados para obras o servicios públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 316.
 
-Cuando la traslación de bienes se deba inscribir en el registro público de la propiedad y del comercio, excepto de aquéllos que la ley señale de protocolización necesaria, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho registro. Cuando los bienes trasmitidos fueren muebles, el acta de adjudicación tendrá el carácter de título de propiedad, y en caso de ser varios muebles, la autoridad a petición del adjudicado, expedirá sin costo para el adquirente de los bienes, copias certificadas por cada uno de dichos bienes.
+Cuando la adjudicación de los bienes se deba inscribir en el Registro Público de la Propiedad y del Comercio, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho registro.
 
 Una vez aplicado el producto obtenido por la adjudicación, en los términos del artículo 319 de este Código, el saldo que, en su caso quede pendiente a cargo del contribuyente, en caso que no existan otros bienes sobre los que pueda trabarse embargo, se registrará en una subcuenta especial de créditos incobrables.
 
@@ -4836,3 +5006,19 @@ El resultado de la aplicación de las acciones descritas en el presente artícul
 ###### ARTÍCULO OCTAVO.
 
 Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiuno, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, a más tardar el 31 de marzo de 2021, las reglas de carácter general relativas a la obtención de la opinión del cumplimiento de obligaciones fiscales.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
