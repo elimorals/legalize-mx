@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-alternativa-del-estado-de-guanajuato-31422"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2011-06-21"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de mayo de 2003.
 
@@ -63,35 +63,43 @@ IV.- Invitado: la persona física o jurídica que a petición del solicitante es
 
 V.- Mediables: las personas físicas o jurídicas que aceptan participar en el procedimiento de mediación;
 
-VI.- Sede: cualquiera de las sedes regionales o itinerantes con las que cuente el Centro o el Ministerio Público; y
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII.- Solicitante: las personas físicas o jurídicas que estén en controversia y que acuden ante el Centro o ante el Ministerio Público para iniciar un procedimiento de mediación y conciliación.
+VI.- Mediación y conciliación en línea: realización de los procedimientos de mediación y conciliación a través del uso de video conferencia en tiempo real;
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VII.- Sede: cualquiera de las sedes regionales o itinerantes con las que cuente el Centro; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VIII.- Solicitante: las personas físicas o jurídicas que estén en controversia y que acuden ante el Centro para iniciar un procedimiento de mediación y conciliación.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 1 Ter.
 
-En lo conducente, a falta de regulación suficiente en la presente Ley, son de aplicación supletoria las normas relativas de la legislación civil y penal del Estado.
+En lo conducente, a falta de regulación suficiente en la presente Ley, son de aplicación supletoria las normas relativas de la legislación civil y penal del Estado y la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-Los procedimientos de mediación y conciliación podrán ser realizados en sede judicial o ministerial. En sede judicial estarán a cargo del Centro, a través de los mediadores y conciliadores adscritos a dicho Centro. En sede ministerial serán practicados por los agentes del Ministerio Público mediadores y conciliadores.
+Los procedimientos de mediación y conciliación en sede judicial estarán a cargo del Centro, a través de los mediadores y conciliadores adscritos al mismo.
 
-Los procedimientos de mediación y conciliación referidos en este artículo podrán realizarse en sedes fijas o itinerantes.
+Los procedimientos de mediación y conciliación referidos en este artículo podrán realizarse en sedes fijas, itinerantes o por medio de la mediación y conciliación en línea.
 
 ###### Artículo 3.
 
 La mediación y la conciliación también podrán ser realizadas por los integrantes de instituciones privadas constituidas para proporcionar tales servicios o por personas físicas.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Las instituciones privadas deberán contar con previa autorización; los mediadores y conciliadores privados que realicen sus funciones individualmente o adscritos a las citadas instituciones deberán contar con certificación. Tanto la autorización como la certificación serán otorgadas por el Centro, con base en lo dispuesto por esta Ley y en las normas jurídicas aplicables.
+Las instituciones privadas deberán contar con previa autorización; los mediadores y conciliadores privados que realicen sus funciones individualmente o adscritos a las citadas instituciones deberán contar con certificación y firma electrónica certificada para el caso de la mediación y conciliación en línea. Tanto la autorización como la certificación serán otorgadas por el Centro, con base en lo dispuesto por esta Ley y en las normas jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Para los efectos del párrafo anterior, el Poder Judicial del Estado y la Procuraduría General de Justicia del Estado podrán celebrar convenios de coordinación.
+Para los efectos del párrafo anterior, el Poder Judicial del Estado y la Fiscalía General del Estado deberán celebrar convenios de coordinación.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -99,11 +107,9 @@ Para los efectos del párrafo anterior, el Poder Judicial del Estado y la Procur
 
 En materia civil, el Director del Centro o, en su caso, el Subdirector de la sede correspondiente, podrá elevar a categoría de cosa juzgada los convenios que celebren los interesados en controversia. Si la mediación y conciliación se inició en un asunto sometido a proceso judicial, se deberá remitir el convenio al juez ante quien esté planteado el asunto para los efectos legales correspondientes.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
-
 ###### Artículo 5.
 
-En materia penal, la mediación y la conciliación tendrán el propósito de aplicar la justicia restaurativa; su procedencia y contenido se ajustarán a lo dispuesto por la legislación penal del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -134,6 +140,10 @@ En caso de que los interesados no pudieran llegar por sí mismos a un acuerdo qu
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 La mediación y la conciliación son procedimientos que se podrán realizar sin interrupción en una sola audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Se realizará la mediación y conciliación en línea cuando los interesados así lo acuerden.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -171,11 +181,11 @@ Recibida la solicitud verbal o escrita de uno de los interesados para que el Cen
 
 La audiencia inicial se llevará a cabo con la sola presencia del invitado, quien podrá asistir acompañado de su asesor jurídico o persona de su confianza. En caso de que el solicitante formule petición para estar presente en ella, el Centro resolverá lo conducente.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Cuando el invitado acepte participar en los procedimientos de mediación y conciliación, firmará el formato respectivo o estampará su huella digital, firmando a su ruego otra persona, hecho lo cual se señalará lugar, fecha y hora para la audiencia de mediación y conciliación que se desarrollará en una o varias sesiones, a las que podrán acudir los interesados acompañados de persona de su confianza o de su asesor jurídico, si así lo desean. El Centro informará lo anterior al juzgado correspondiente, en su caso, para efectos de la suspensión de los plazos y términos judiciales, siempre que no se contravengan otras disposiciones legales.
+Cuando el invitado acepte participar en los procedimientos de mediación y conciliación, firmará el formato respectivo o estampará su huella digital, firmando a su ruego otra persona, o tratándose de la mediación y conciliación en línea mediante la firma electrónica certificada, hecho lo cual se señalará lugar, fecha y hora para la audiencia de mediación y conciliación que se desarrollará en una o varias sesiones, a las que podrán acudir los interesados acompañados de persona de su confianza o de su asesor jurídico, si así lo desean. El Centro informará lo anterior al juzgado correspondiente, en su caso, para efectos de la suspensión de los plazos y términos judiciales, siempre que no se contravengan otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -195,19 +205,19 @@ En caso de que los interesados no puedan resolver sus controversias con base en 
 
 Cuando una audiencia no baste para que los interesados lleguen a un acuerdo, se procurará conservar el ánimo de transigir y se les citará a otra u otras audiencias de mediación o conciliación en el plazo más corto posible, tomando en cuenta las actividades del Centro y las necesidades de los interesados.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-En caso de que alguna audiencia concluya con un acuerdo de los interesados, se redactará un convenio que refleje con toda exactitud dicho acuerdo, el cual será firmado por los interesados, para tal efecto, los mediadores y conciliadores oficiales tendrán fe pública para constatar que el convenio celebrado ante ellos contiene la manifestación de voluntad exteriorizada por quienes lo suscriban o estampen su huella digital. Dicho convenio se ratificará ante el Director del Centro o del Subdirector correspondiente. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
+En caso de que alguna audiencia concluya con un acuerdo de los interesados, se redactará un convenio que refleje con toda exactitud dicho acuerdo, el cual será firmado por los interesados, o tratándose de la mediación y conciliación en línea será mediante la firma electrónica certificada, para tal efecto, los mediadores y conciliadores oficiales tendrán fe pública para constatar que el convenio celebrado ante ellos contiene la manifestación de voluntad exteriorizada por quienes lo suscriban o estampen su huella digital. Dicho convenio se ratificará ante el Director del Centro o el Subdirector correspondiente. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+El Director y los Subdirectores del Centro tendrán fe pública para constatar que la ratificación que se realice en su presencia, o mediante la mediación y conciliación en línea, constituye la reiteración de la manifestación de la voluntad real de los intervinientes, así como para expedir copia certificada del convenio, de la ratificación y del acuerdo que lo eleva a la categoría de cosa juzgada, cuando estos documentos fueren solicitados por los interesados o por las autoridades facultadas para ello.
 
-El Director y los Subdirectores del Centro tendrán fe pública para constatar que la ratificación que se realice en su presencia, constituye la reiteración de la manifestación de la voluntad real de los intervinientes, así como para expedir copia certificada del convenio, de la ratificación y del acuerdo que lo eleva a la categoría de cosa juzgada, cuando estos documentos fueren solicitados por los interesados o por las autoridades facultadas para ello.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-El convenio deberá constar por escrito y contendrá:
+El convenio deberá constar por escrito, o por medio electrónico para el caso de la mediación y conciliación en línea, y contendrá:
 
 I.- El lugar y la fecha de su celebración;
 
@@ -229,7 +239,9 @@ En materia penal, los acuerdos restaurativos que se celebren deberán contener l
 
 VI.- La solicitud expresa de los interesados para que el convenio se eleve a la categoría de cosa juzgada;
 
-VII.- La firma o huellas dactilares de quienes lo suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VII.- La firma o huellas dactilares de quienes lo suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar; y tratándose de la mediación y conciliación en línea mediante la firma electrónica certificada;
 
 VIII.- Cuando así lo soliciten los interesados, la firma de los asesores jurídicos o de las personas de confianza que hayan acompañado a los interesados; y
 
@@ -237,9 +249,9 @@ VIII.- Cuando así lo soliciten los interesados, la firma de los asesores juríd
 
 IX.- La firma del mediador o conciliador que haya intervenido en el trámite y el sello oficial.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-El convenio se levantará en el número de ejemplares que sea necesario. Cada uno de estos ejemplares contendrá firmas autógrafas.
+El convenio se levantará en el número de ejemplares que sea necesario. Cada uno de estos ejemplares contendrá firmas autógrafas o, tratándose de la mediación y conciliación en línea mediante la firma electrónica certificada.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -265,43 +277,31 @@ VII.- Por resolución del Director de Centro o del Subdirector de la sede corres
 
 #### SECCIÓN SEGUNDA. PROCEDIMIENTO ANTE EL MINISTERIO PÚBLICO
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
-
 ###### Artículo 17 Bis.
 
-En materia penal, la mediación y la conciliación se realizarán en los siguientes momentos:
-
-I.- Antes de la presentación de la denuncia o querella podrán ser realizadas ante un agente del Ministerio Público mediador y conciliador o por un mediador y conciliador oficial adscrito al Centro, quienes en lo conducente ajustarán su actuación al procedimiento regulado en esta Ley. En el primer caso, el convenio deberá ser ratificado ante un agente del Ministerio Público, quien lo calificará y aprobará; en el segundo supuesto, ante el Subdirector de la sede correspondiente;
-
-II.- Durante el periodo comprendido entre la presentación de la denuncia o la querella y el ejercicio de la acción penal, la mediación y la conciliación se realizará ante un agente del Ministerio Público mediador y conciliador. El convenio deberá ratificarse ante un agente del Ministerio Público a fin de que éste lo califique y, en su caso, lo apruebe;
-
-III.- Durante la etapa procesal comprendida entre el auto de vinculación a proceso y el auto de apertura de juicio oral, la mediación y la conciliación serán practicadas por un mediador y conciliador del Centro o por un mediador y conciliador privado certificado por el mismo. Cuando los interesados celebren un acuerdo restaurativo, éste será ratificado ante el Subdirector de la sede correspondiente del Centro quien remitirá un ejemplar al juzgado correspondiente para que, en su caso, sea calificado y aprobado.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 ###### Artículo 17 Ter.
 
-Cuando el asunto puesto en conocimiento de la Procuraduría General de Justicia, permita ser resuelto a través de los mecanismos alternativos de solución de controversias, en su caso, se extenderá una constancia y se acordará ordenar las invitaciones correspondientes.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 ###### Artículo 17 Quáter.
 
-El Ministerio Público podrá constatar que la ratificación de los convenios que se realicen en su presencia constituye la reiteración de la manifestación de la voluntad real de los intervinientes, así como expedir, cuando así proceda, las copias certificadas del convenio que le fueren solicitadas.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 ###### Artículo 17 Quinquies.
 
-Se aplicarán a esta Sección, en lo conducente, las disposiciones contenidas en la Sección Primera de este Capítulo, así como lo previsto en la Ley Orgánica del Ministerio Público del Estado de Guanajuato y su Reglamento.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 ### CAPÍTULO TERCERO. DE LOS MEDIADORES Y CONCILIADORES
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-Los mediadores y conciliadores podrán ser oficiales o privados. Oficiales son aquellos que se encuentren adscritos al Centro, o sean agentes del Ministerio Público mediadores y conciliadores. Privados son las personas físicas que hayan sido autorizadas mediante una certificación por el Centro para desempeñar estas funciones, las cuales podrán realizar en forma individual o como integrantes de una institución de mediación y conciliación privada.
+Los mediadores y conciliadores podrán ser oficiales o privados. Oficiales son aquellos que se encuentren adscritos al Centro. Privados son las personas físicas que hayan sido autorizadas mediante una certificación por el Centro para desempeñar estas funciones, las cuales podrán realizar en forma individual o como integrantes de una institución de mediación y conciliación privada.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], P.O. 21 DE JUNIO DE 2011)</small>
 
 Los mediadores y conciliadores oficiales deberán reunir los requisitos siguientes:
 
@@ -349,9 +349,7 @@ VIII.- Se excusarán de intervenir en asuntos en los que pudiera verse afectada 
 
 Los mediadores y conciliadores adscritos al Centro, estarán sujetos a la responsabilidad administrativa y, en su caso, a los procedimientos disciplinarios establecidos en la Ley Orgánica del Poder Judicial del Estado de Guanajuato.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2011)</small>
-
-Los agentes del Ministerio Público mediadores y conciliadores estarán sujetos a responsabilidad administrativa y en su caso, a los procedimientos disciplinarios en los términos de la Ley Orgánica del Ministerio Público del Estado de Guanajuato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ### CAPÍTULO CUARTO. DE LOS MEDIABLES Y CONCILIABLES
 
@@ -377,15 +375,15 @@ II.- Conocer al mediador o conciliador designado para intervenir en el trámite 
 
 III.- Solicitar al Director del Centro o, en su caso, al Subdirector de la sede correspondiente, la sustitución del mediador o conciliador cuando exista causa justificada para ello.
 
-En sede ministerial, la solicitud la harán ante el superior jerárquico del agente del Ministerio Público mediador o conciliador;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV.- Intervenir personalmente en todas las audiencias de mediación y conciliación; y
+IV.- Intervenir personalmente o en línea, en todas las audiencias de mediación y conciliación; y
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V.- Asistir a las audiencias de mediación y conciliación acompañados de persona de su confianza o de su asesor jurídico, si lo desean.
+V.- Asistir o participar en línea, en las audiencias de mediación y conciliación, acompañados de persona de su confianza o de su asesor jurídico, si lo desean.
 
 ###### Artículo 23.
 
@@ -465,7 +463,7 @@ El procedimiento ante los mediadores y conciliadores privados se ajustará en lo
 
 Siempre que no se contravengan otras disposiciones legales, en materia civil del fuero común, los procedimientos de mediación y conciliación suspenden todos los plazos y términos judiciales dentro del juicio, a partir del día en que se informe que en dichos procedimientos se haya señalado lugar, fecha y hora para la audiencia de mediación o conciliación, hasta aquél en que se comunique la conclusión de los mismos. Para ambos extremos, el Centro deberá informar al juez lo conducente.
 
-En materia penal, la suspensión operará acorde a lo previsto en la Ley del Proceso Penal para el Estado de Guanajuato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
@@ -502,3 +500,13 @@ El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 
 P.O. 21 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1; 4, PÁRRAFOS PRIMERO Y SEGUNDO; Y 5 DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. Las reformas relativas a la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, contenidas en el Artículo Primero del presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las reformas, adiciones y derogaciones relativas a la Ley de Justicia Alternativa del Estado de Guanajuato, contenidas en el Artículo Segundo del presente Decreto entrarán en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. El Poder Judicial del Estado expedirá el reglamento para la mediación y conciliación en línea a más tardar a los noventa días siguientes al de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
