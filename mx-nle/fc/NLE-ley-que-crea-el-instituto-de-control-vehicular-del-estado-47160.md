@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2019-12-30"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -621,13 +621,21 @@ VII. No acatar la reserva que ésta Ley establece sobre los datos contenidos en 
 
 Las sanciones correspondientes a las infracciones señaladas en el artículo anterior serán como sigue:
 
-I. De 15 a 20 cuotas, a las comprendidas en las fracciones I y II;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. De 10 a 15 cuotas, a las comprendidas en las fracciones IV y V;
+l. De 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I y ll;
 
-III. De 5 a 10 cuotas, a la comprendida en la fracción VI; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. De 100 a 200 cuotas, a las comprendidas en las fracciones III y VII; en el caso de la fracción III se asegurarán los medios de identificación vehicular de que se trate.
+ll. De 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones IV y V;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción VI; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV. De 100 a 200 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y VII; en el caso de la fracción III se asegurarán los medios de identificación vehicular de que se trate.
 
 ### Capítulo IX. De los medios de defensa
 
@@ -711,6 +719,12 @@ Artículo Vigésimo.- Durante el ejercicio fiscal 2020, tratándose de vehículo
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Artículo Vigésimo Primero.- Durante el ejercicio fiscal 2021, tratándose de vehículos cuyo modelo sea 2006 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -780,3 +794,21 @@ P.O. 30 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
 
 Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 423. SE ADICIONA LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO VIGÉSIMO PRIMERO TRANSITORIO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero del año 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
