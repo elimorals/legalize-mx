@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-registro-estatal-de-asesores-inmobiliarios-1177
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-15"
-last_updated: "2016-12-15"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL REGISTRO ESTATAL DE ASESORES INMOBILIARIOS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 15 de diciembre de 2016.
 
@@ -405,15 +405,19 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de 150 a 1,500 cuotas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Multa de 150 a 1,500 veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Suspensión de la Licencia respectiva e inscripción en el Padrón, en su caso, hasta por un año, y
 
 V. Cancelación de la licencia respectiva y de la inscripción en el Padrón.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Se impondrá multa de 150 a 15,000 cuotas a toda persona física o moral que se ostente como Asesor Inmobiliario y que realice operaciones inmobiliarias sin contar con Licencia expedida por la Secretaría, previo análisis particular y teniendo en cuenta las circunstancias contenidas en el artículo 30 de esta Ley.
+Se impondrá multa de 150 a 15,000 veces el valor diario de la Unidad de Medida y Actualización a toda persona física o moral que se ostente como Asesor Inmobiliario y que realice operaciones inmobiliarias sin contar con Licencia expedida por la Secretaría, previo análisis particular y teniendo en cuenta las circunstancias contenidas en el artículo 30 de esta Ley.
 
 Si durante el plazo de un año, se incurre por segunda ocasión en el supuesto a que se refiere el párrafo anterior, se iniciará proceso legal.
 
@@ -602,3 +606,11 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. SECRETARIO DE ECONOMÍA Y TRABAJO
 
 FERNANDO TURNER DÁVILA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
