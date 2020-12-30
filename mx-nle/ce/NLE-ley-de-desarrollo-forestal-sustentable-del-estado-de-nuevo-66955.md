@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-forestal-sustentable-del-estado-de-nuevo-6695
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-07"
-last_updated: "2014-11-19"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de febrero de 2009.
 
@@ -1129,7 +1129,7 @@ Será obligatorio tanto para el Ejecutivo como para los municipios, incluir en s
 
 ###### Artículo 92.
 
-Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, la el Titular del Ejecutivo podrá realizar la declaratoria correspondiente, instrumentando lo necesario a fin de llevarla a cabo, de acuerdo a lo establecido en el Reglamento de esta Ley.
+Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, la el (sic) Titular del Ejecutivo podrá realizar la declaratoria correspondiente, instrumentando lo necesario a fin de llevarla a cabo, de acuerdo a lo establecido en el Reglamento de esta Ley.
 
 ## TÍTULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL SUSTENTABLE
 
@@ -1457,11 +1457,13 @@ IV. Devolución de los recursos económicos.
 
 La imposición de las multas a que se refiere el artículo anterior, la determinará la Corporación y serán aplicadas por la Secretaría de Finanzas y Tesorería General del Estado, en la forma siguiente:
 
-I. Con un equivalente de 10 a 500 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones I, II y III del artículo 125 de esta Ley; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+I. Con un equivalente de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II y III del artículo 125 de esta Ley; y
 
-II. Con el equivalente de 100 a 2,000 veces de salario mínimo vigente en el Estado a quien cometa las infracciones señaladas en las fracciones IV, V, VI, VIl, VIII, IX y X del artículo 125 de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Con el equivalente de 100 a 2,000 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones IV, V, VI, VII, VIII, IX y X del artículo 125 de esta Ley.
 
 ###### Artículo 128.
 
@@ -1672,3 +1674,9 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 19 DE NOVIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
