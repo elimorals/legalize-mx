@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2019-09-25"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -673,9 +673,11 @@ XIII. El que utilice el servicio de los hidrantes públicos para destinarlo a us
 
 Lo anterior sin perjuicio de que las infracciones antes señaladas puedan constituir un delito, en cuyo caso se estará a las sanciones penales relativas, además de la reparación del daño causado, considerándose en su caso, el pago de los servicios utilizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 58.
 
-Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, con multas en su equivalente a días de salario mínimo general diario vigente en el área geográfica en que se cometa, conforme a lo siguiente, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables:
+Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, con multas en su equivalente a Unidades de Medida y Actualización, conforme a lo siguiente, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables:
 
 I. Las infracciones expresadas en las fracciones I, y II, se sancionarán de 8-ocho a 10-diez cuotas.
 
@@ -693,13 +695,17 @@ VII. Las infracciones a que se refieren las fracciones X, XII y XIII, se sancion
 
 VIII. Cualquiera otra infracción se sancionará con 10-diez cuotas.
 
-Para los efectos de esta ley, una cuota equivale a un salario mínimo general diario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para los efectos de esta ley, una cuota equivale al valor diario de la Unidad de Medida y Actualización.
 
 Cuando constituyan un delito los hechos que contravengan las disposiciones de esta Ley y reglamentos, se formulará denuncia o querella según corresponda, ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
 En los casos del servicio público concesionado, los concesionarios no podrán determinar ni aplicar sanción alguna. La infracción correspondiente deberá informarse a la autoridad Estatal o Municipal competente y ésta determinará e impondrá la sanción que proceda.
 
-Las resoluciones que se emitan en materia de sanciones deberán estar fundadas y motivadas. Cuando el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día, y si es trabajador no asalariado, la multa no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las resoluciones que se emitan en materia de sanciones deberán estar fundadas y motivadas. Cuando el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día, y si es trabajador no asalariado, la multa no excederá del equivalente al valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 59.
 
@@ -812,3 +818,9 @@ P.O. 25 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 153. SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 23, 34, Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 43, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, TODOS DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO (SIC); Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 166 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
