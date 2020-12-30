@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2016-01-18"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 18 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -645,6 +643,10 @@ Los Municipios que conforman el Estado de Nuevo León, con base en sus atribucio
 
 Los municipios podrán participar en la elaboración, revisión y seguimiento del Programa Estatal de la Juventud.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los municipios podrán crear Consejos Juveniles Municipales de carácter honorífico, a efectos de dar seguimiento a lo señalado en el párrafo anterior, así como promover políticas públicas que beneficien a los jóvenes en su respectivo territorio.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
@@ -694,3 +696,13 @@ P.O. 14 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 393. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 10, EL ENCABEZADO Y LOS INCISOS D) Y E) DE LA FRACCIÓN III DEL ARTÍCULO 16, Y SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER LA NUEVA FRACCIÓN XI DEL ARTÍCULO 10; EL INCISO F) A LA FRACCIÓN III Y EL PÁRRAFO CUARTO AL ARTÍCULO 16, DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Dependencias del Poder Ejecutivo sujetas al presente Decreto contarán con un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto para la modificación de sus respectivos Reglamentos.
+
+TERCERO.- Los Municipios en un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto, adecuarán sus reglamentos respectivos para el cumplimiento de las disposiciones correspondientes al presente Decreto.
