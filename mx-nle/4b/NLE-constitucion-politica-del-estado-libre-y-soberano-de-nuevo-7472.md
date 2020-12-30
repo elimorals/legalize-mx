@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-11-27"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2081,7 +2081,9 @@ XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado p
 
 XVI.- Turnar al Secretario General de Gobierno, los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio;
 
-XVII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVII.- Dictar los mecanismos y las medidas necesarias para la protección de la economía de las personas, así como garantizar la productividad laboral en todo el Estado en los términos que establezca la ley de la materia;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -5494,3 +5496,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 384. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 433. SE ADICIONA UN TEXTO A LA FRACCIÓN XVII ACTUALMENTE DEROGADA DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
