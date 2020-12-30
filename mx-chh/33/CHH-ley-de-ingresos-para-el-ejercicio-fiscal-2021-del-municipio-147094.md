@@ -1,0 +1,148 @@
+---
+title: "LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2021 DEL MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA"
+identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-2021-del-municipio-147094"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2020-12-30"
+last_updated: "2020-12-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147094&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chh"
+scjn_id: "147094"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "105 FOLLETO ANEXO"
+reform_count: "1"
+scjn_last_update: "2021-01-13"
+issue_date: "2020-12-18"
+municipality: "Nuevo Casas Grandes"
+municipality_inegi: "08050"
+state: "CHH"
+---
+# LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2021 DEL MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA
+
+LEY DE INGRESOS DEL MUNICIPIO DE NUEVO CASAS GRANDES PARA EL EJERCICIO FISCAL DE 2021 DEL ESTADO DE CHIHUAHUA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número 105 del Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 2020.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### Artículo 9.
+
+La tasa adicional para los Impuestos Predio/ y Sobre Traslación de Dominio de Bienes Inmuebles, la cual se cobrará con una sobretasa del 4% aplicable al monto que deberá enterar el contribuyente por dichos impuestos.
+
+La Tasa Adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados, y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, en partes iguales, en los términos del artículo 165 Bis del Código Municipal para el Estado de Chihuahua.
+
+TARIFA
+
+[…]
+
+II. DERECHOS
+
+[…]
+
+3. Por legalización de firmas, certificación y expedición de documentos municipales:
+
+a. Legalización de firmas, certificados y expedición de documentos municipales:
+
+[…]
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DEL SUBAPARTADO a.2.18 DE LA SECCIÓN a DEL NUMERAL 3 DEL APARTADO II DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+a.2.18 POR REPRODUCCIÓN DE LA INFORMACIÓN PREVISTA EN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA.
+
+A) MEDIO DE ALMACENAMIENTO ELECTRÓNICO $20.00
+
+B) COPIA FOTOSTÁTICA SIMPLE C / U $5.00
+
+c) Copia certificada, tamaño carta u oficio $20.00
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DEL SUBAPARTADO a.2.20.14 DE LA SECCIÓN a DEL NUMERAL 3 DEL APARTADO II DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+a.2.20.14 Kermés en área privada $300.00
+
+[…]
+
+a.2.21 Permisos para eventos familiares, cuota diaria:
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DEL SUBAPARTADO a.2.21.1 DE LA SECCIÓN a DEL NUMERAL 3 DEL APARTADO II DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+a.2.21.1 PARA FIESTAS PARTICULARES EN SALONES DE FIESTAS
+
+I. CON AFORO DE HASTA 200 PERSONAS $100.00
+
+II. CON AFORO DE 201 A 500 PERSONAS $250.00
+
+III. CON AFORO DE MÁS DE 500 PERSONAS $500.00
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DEL SUBAPARTADO a.2.21.2 DE LA SECCIÓN a DEL NUMERAL 3 DEL APARTADO II DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+a.2.21.2 PARA FIESTAS EN DOMICILIOS PARTICULARES (EL COBRO DE ESTE DERECHO, SERÁ EXENTO CUANDO NO SE CONSUMA ALCOHOL O CERVEZA EN EL FESTEJO) $50.00
+
+[…]
+
+8. Por los servicios públicos siguientes:
+
+(NOTA: EL 18 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 27/2021 Y SU ACUMULADA 30/2021, DECLARÓ LA INVALIDEZ DEL INCISO a) DEL NUMERAL 8 DEL APARTADO II DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+a) ALUMBRADO PÚBLICO;
+
+EL MUNICIPIO PERCIBIRÁ INGRESOS MENSUAL O BIMESTRALMENTE POR EL DERECHO DE ALUMBRADO PÚBLICO (DAP), EN LOS TÉRMINOS DE LOS ARTÍCULOS 175 Y 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+1.- LOS CONTRIBUYENTES QUE CUENTEN CON CONTRATO DE SUMINISTRO DE ENERGÍA ELÉCTRICA CON LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE), DEBERÁN PAGAR DE ACUERDO A LA SIGUIENTE TABLA, EN CADA RECIBO MENSUAL, POR EL DERECHO DEL ALUMBRADO PÚBLICO, SIMULTÁNEAMENTE EN EL RECIBO QUE EXPIDA DICHO ORGANISMO, EN LOS TÉRMINOS DEL CONVENIO QUE SE ESTABLEZCA CON LA CITADA COMISIÓN PARA TALES EFECTOS.
+
+CUOTA FIJA DAP
+
+TARIFA CUOTA
+
+l. 1 1° 20.00
+
+1.2 DAC 50.00
+
+1.3 02 50.00
+
+1.4 OM 500.00
+
+1.5 HM RESIDENCIAL 50.00
+
+1.6 HM INDUSTRIAL 2,000.00
+
+2.- PARA EL CASO DE LOS TERRENOS BALDÍOS, PREDIOS URBANOS Y SEMIURBANOS Y/O EN DESUSO, QUE NO SON USUARIOS DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, SE ESTABLECE UNA CUOTA DAP, MENSUAL, MISMA QUE DEBERÁ LIQUIDARSE AL VENCIMIENTO DEL PERIODO CORRESPONDIENTE, EN LAS OFICINAS DE LA TESORERÍA MUNICIPAL, CONFORME LAS DISPOSICIONES QUE EXPIDA EL AYUNTAMIENTO.
+
+PARA PREDIOS BALDÍOS URBANOS, SEMIURBANOS Y/O EN DESUSO EL PAGO MENSUAL SERÁ DE $20.00, LOS CUALES SERÁN COBRADOS POR CONDUCTO DE LA TESORERÍA MUNICIPAL.
+
+b) Aseo, recolección y transporte de basura;
+
+1. La recolección de residuos sólidos no peligrosos (basura) doméstica de uno a dos tambos diarios será con un costo para el usuario mensual de $10.00
+
+Para las personas por pago anticipado si este se realiza en los meses de enero y febrero gozarán de un 50% de descuento.
+
+Las personas de la tercera edad, jubilados, pensionados y con discapacidad gozarán de un 50% de descuento en todo el año.
+
+Dicho cobro se aplicará en la boleta anual de predial y/o por convenio celebrado con otra Institución.
+
+2. Los comercios que generen de dos tambos diarios o más estará sujeto a convenio con esta Presidencia Municipal, dependiendo la cantidad y frecuencia de la recolección con un costo mensual de: $65 m3
+
+3. Por el uso del relleno sanitario a los particulares y sobrepasando los 300 kg., tendrá un costo, por kilo, de: $.50
+
+4. Las empresas privadas dedicadas a la recolección de residuos sólidos no peligrosos (basura) pagarán, por kilo: $.50
+
+5. Limpieza de terrenos baldíos por hora máquina: $600.00
+
+derecho por limpieza de predios baldíos y no edificados, y de viviendas, construcciones o edificaciones abandonadas, los servicios de limpieza de los mismos, cuando menos en el exterior, por lo que el Municipio requerirá a los propietarios, a través de las notificaciones respectivas , en caso de incumplimiento el Municipio realizara la limpieza del predio con un cargo adicional a su boleta de predial por el concepto de Derechos de cobro por limpieza de predios baldíos y no edificados, y de viviendas, construcciones o edificaciones abandonadas
+
+Al equivalente del 20% del valor del Impuesto Predial.
+
+El pago no será menor a $350.00
+
+Para el servicio de recolección de basura, se otorgará un 15% de descuento por pago anticipado de todo el año en el mes de enero, y un l0% de descuento en las mismas condiciones en el mes de febrero.
+
+c) Mercados y centrales de abasto;
+
+l. Cuota mensual por metro cuadrado $30.00
