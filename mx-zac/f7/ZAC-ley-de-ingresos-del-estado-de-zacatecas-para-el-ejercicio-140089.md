@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-14008
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-28"
-last_updated: "2020-05-30"
+last_updated: "2020-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2020
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2021, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de diciembre de 2019.
 
@@ -578,3 +580,37 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE MAYO DE 2020.
 
 > <small>[N. DE E. LOS “ANEXOS.- DEL DECRETO 392, QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS DEL EJERCICIO FISCAL 2020”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2021”.]
+
+PRIMERO. La presente Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2021, entrará en vigor el día uno de enero del año dos mil veintiuno; y bajo el principio de reconducción presupuestal estará vigente en tanto no se apruebe su similar del ejercicio fiscal 2022.
+
+SEGUNDO. Se abrogan la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2020, contenida en el Decreto número 303, publicado el 28 de diciembre de 2019, en el Suplemento número 22 al número 104 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, y el Decreto número 392, publicado el 30 de mayo de 2020, en el Suplemento número 3 al número 44 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas; con excepción de lo contenido en el artículo 4 del citado Decreto número 392, por el que además, se extiende su vigencia al 31 de enero del ejercicio fiscal 2021.
+
+Asimismo, se abrogan las disposiciones legislativas y administrativas que se opongan a la presente Ley.
+
+TERCERO. Las instituciones de salud pública, a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Zacatecas, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellas personas que carezcan de recursos para cubrirlos con base en criterios de capacidad contributiva, las disposiciones normativas que regulen directamente a la institución de salud pública y demás factores que permitan adoptar las medidas de compensación necesarias para hacer efectivo el derecho a la salud, como eje de responsabilidad social.
+
+CUARTO. Los ingresos que perciba o recaude el Estado de Zacatecas, se acreditarán mediante el Comprobante Fiscal Digital por Internet (CFDI) o cualquier otra documentación impresa o digital que expida la Secretaría de Finanzas o los Organismos Descentralizados de la Administración Pública Estatal, según el caso conforme a las disposiciones jurídicas aplicables y a las reglas que para esos efectos publique la propia Secretaría de Finanzas.
+
+QUINTO. Las Participaciones y los Fondos de Aportaciones Federales, se presentan con un monto estimado, establecido en el Artículo 1 de esta Ley, los cuales se ajustarán con base en las publicaciones oficiales que para esos efectos realice la Secretaría de Hacienda y Crédito Público.
+
+SEXTO. Por lo que hace al importe a recaudar correspondiente a los impuestos: Por Remediación Ambiental en la Extracción de Materiales; De la Emisión de Gases a la Atmósfera; De la Emisión de Contaminantes al Suelo, Subsuelo y Agua; y Al Depósito o Almacenamiento de Residuos; son montos estimados por lo que, ante las variaciones que pudieran darse durante su recaudación, derivado de su cumplimiento, y las sentencias favorables que se llegasen a dictar por los órganos jurisdiccionales competentes, por adeudos anteriores al ejercicio fiscal 2021, se destinará a lo siguiente:
+
+a. Treinta y cinco por ciento (35%), a cubrir la disminución de Ingresos Propios y Participaciones Federales, con motivo de la afectación económica que ha originado la contingencia de salud que padece el país y el Estado.
+
+b. Treinta y cinco por ciento (35%), a cubrir los pasivos registrados en las cuentas contables provenientes de contribuciones federales y estatales de los Organismos Públicos Descentralizados, los Organismos Autónomos, así como a la deuda de corto y largo plazo.
+
+c. Treinta por ciento (30%), a programas, obras e infraestructura que incentiven el crecimiento económico y empleo del Estado, relacionados con el objeto o destino del gasto a que se refieren los artículos 36 de la Ley de Hacienda del Estado de Zacatecas y 8 de la Ley General de Cambio Climático.
+
+SÉPTIMO. Derivado de las resoluciones o las sentencias dictadas y que se lleguen a dictar por los órganos jurisdiccionales competentes, favorables al Gobierno del Estado, respecto de los impuestos establecidos en el artículo anterior, se faculta al Titular del Ejecutivo del Estado, a través del Titular de la Secretaría de Finanzas, a llevar a cabo acuerdos de pago definitivos respecto de los adeudos de los contribuyentes correspondiente a los ejercicios 2021 y anteriores, los cuales deberán ser ratificados con la intervención de la Comisión de Defensa del Contribuyente, con los efectos a que refiere el artículo 158 bis del Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+Los contribuyentes que no hayan interpuesto algún recurso para controvertir los impuestos establecidos en el Artículo Sexto de estas disposiciones transitorias, y que promuevan ante la Secretaría de Finanzas su petición de autorregularizarse, tendrán los beneficios establecidos en el párrafo anterior.
+
+Los contribuyentes que durante el ejercicio fiscal 2020, hubiesen llevado a cabo los acuerdos establecidos en los párrafos anteriores, gozarán de la validez y beneficios establecidos en el presente artículo.
+
+OCTAVO. Con el propósito de fomentar y estimular el cumplimiento de los contribuyentes, respecto de sus obligaciones por adeudos fiscales y los originados por multas, sanciones impuestas por autoridades no fiscales, que sean provenientes del Estado, queda autorizado el titular de la Secretaría de Finanzas para reducirlas con independencia del ejercicio que lo originó, así como de la actualización, recargos, multas fiscales y no fiscales, y gastos de ejecución ordinarios, en los porcentajes plazos y condiciones que se considere conveniente.
+
+NOVENO. Los datos, cifras y manifestaciones presentadas en los Anexos 1, 2, 3 y 3 A del presente Decreto, son parte integrante de la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2021, en cumplimiento con lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, así como a los lineamientos establecidos por el Consejo Nacional de Armonización Contable (CONAC).
