@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "2018-05-11"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -315,9 +315,11 @@ El CONSEJO procurará establecer mecanismos financieros y fondos económicos de 
 
 Las tarifas, rentas, cuotas de recuperación, contraprestaciones y cobros a que se refiere la fracción III del Artículo 4°, serán aprobadas por el Consejo a propuesta del Presidente o cualquiera de sus miembros.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 17.
 
-El pago de las cuotas por los servicios que preste el CONSEJO no será objeto de exención para los obligados, ya se trate de particulares, dependencias del gobierno federal, estatal o municipales, entidades paraestatales, instituciones educativas o de asistencia pública o privada, excepción hecha de aquéllas expresamente autorizadas por el CONSEJO.
+El pago de las cuotas tasadas en Unidades de Medida y Actualización por los servicios que preste el CONSEJO no será objeto de exención para los obligados, ya se trate de particulares, dependencias del gobierno federal, estatal o municipal, entidades paraestatales, instituciones educativas o de asistencia pública o privada, excepción hecha de aquéllas expresamente autorizadas por el CONSEJO.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2002)</small>
 
@@ -406,3 +408,9 @@ Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del pr
 Cuarto.- El Fideicomiso deberá constituirse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
 
 Quinto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesorería General del Estado, además de observar los criterios y bases a que refiere el artículo 85 de (sic) Ley del Patrimonio Cultural del Estado de Nuevo León del presente Decreto, fijará los lineamientos y las reglas de operación de (sic) Fideicomiso antes del lanzamiento de la convocatoria.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
