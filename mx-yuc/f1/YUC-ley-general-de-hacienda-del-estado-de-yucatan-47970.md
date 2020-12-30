@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2020-04-07"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -129,7 +129,9 @@ Cuando esta ley establezca que el pago de derechos deba realizarse por períodos
 
 La cuota del derecho deberá corresponder al ejercicio fiscal en el que se preste el servicio, en caso contrario, deberá pagarse un diferencial al momento de prestarse el servicio, que será igual al monto del derecho del ejercicio fiscal en el que se preste el servicio menos el monto del derecho del ejercicio en el que se pagó.
 
-La dependencia o servidor público que preste un servicio por el que se deba pagar derechos, procederá a su realización previa presentación, del recibo oficial que acredite su pago. Ningún otro comprobante justifica el pago.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+La dependencia, la entidad o el servidor público que preste un servicio por el que se deba pagar algún derecho, procederá a su realización, previa presentación del comprobante que acredite su pago o previa verificación del pago en los medios que para tal efecto disponga la Agencia de Administración Fiscal de Yucatán, mediante reglas de carácter general. La dependencia, la entidad o el servidor público no podrán prestar el servicio hasta confirmar el pago correspondiente.
 
 El servidor público que preste un servicio por el que se causen derechos, será solidariamente responsable de su pago y se hará acreedor, en su caso, a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que haya sido pagado el derecho generado.
 
@@ -675,7 +677,9 @@ La base a que se refiere el párrafo anterior, se determinará sin incluir la co
 
 ARTÍCULO 27 G.- En caso de que el retenedor hubiera retenido en exceso el importe del impuesto al prestador del servicio de personal, este último podrá solicitar la devolución del pago indebido que proceda, en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán.
 
-De igual manera, el prestador del servicio de personal podrá acreditar el impuesto que le haya sido retenido contra el impuesto a cargo que le corresponda, en los meses siguientes hasta agotarlo o solicitar su devolución. El saldo cuya devolución se solicite no podrá acreditarse en declaraciones posteriores. Para que sea acreditable el impuesto retenido deberá haberse enterado previamente.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+De igual manera, el prestador del servicio de personal podrá acreditar el impuesto que le haya sido retenido contra el impuesto a cargo que le corresponda, hasta agotarlo o solicitar su devolución. El saldo cuya devolución se solicite no podrá acreditarse en declaraciones posteriores. Para que sea acreditable el impuesto retenido deberá haberse enterado previamente.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1441,7 +1445,9 @@ VIII.- Inscripción en el Registro de Contratistas o su revalidación 30.00 UMA
 
 IX.- Por las consultas que se realizan a las autoridades de otras dependencias del estado o de otras entidades federativas para verificar: pagos de contribuciones, legalización de vehículos de procedencia extranjera o alguna otra documentación relativa a trámites de control vehicular 2 UMA
 
-X.- Constancias de no inhabilitación 3 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+X.- Constancias de no inhabilitación 4 UMA
 
 XI.- Reposición de recibos oficiales o recibos de caja 0.25 UMA
 
@@ -1683,15 +1689,21 @@ El servicio de grúa causará derechos de la siguiente forma:
 
 I.- En el interior del anillo periférico de la ciudad de Mérida, considerando todas sus colonias y fraccionamientos:
 
-a) Para vehículos con peso bruto vehicular de hasta de cuatro toneladas 6.00 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a) Para vehículos con peso bruto vehicular de hasta de (sic) cuatro toneladas 7.00 UMA
 
 b) Para vehículos con peso bruto vehicular de más de cuatro toneladas 18.00 UMA
 
 II.- Cuando el recorrido sea fuera del anillo periférico de la ciudad de Mérida:
 
-a) Para vehículos con peso bruto vehicular hasta de cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado 5.01 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Para vehículos con peso bruto vehicular de más de cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado 14.82 UMA
+a) Para vehículos con peso bruto vehicular de hasta cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado 7.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Para vehículos con peso bruto vehicular de más de cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado 18.00 UMA
 
 III.- Por abanderamiento durante el tiempo en que se efectúen las maniobras de salvamento, por hora que dure dicha maniobra: 4.00 UMA
 
@@ -1735,19 +1747,13 @@ ARTÍCULO 56 D.- Por la expedición del holograma de verificación de contaminan
 
 ARTÍCULO 56 E.- Por los servicios que preste la Secretaría de Seguridad Pública, relacionados con el abanderamiento y cierre de vialidades, se causarán derechos conforme a lo siguiente:
 
-I.- Por el abanderamiento de maquinaria u objetos voluminosos 5.00 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-que excedan del peso o de las dimensiones, por cada trabajo
+I.- Por el abanderamiento de maquinaria u objetos voluminosos que excedan del peso o de las dimensiones, por cada trabajo en la vía pública, por cada hora 6.00 UMA
 
-en la vía pública, por cada hora
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II.- Por el cierre parcial o total de la vía de circulación con 4.00 UMA
-
-dispositivos de seguridad vial, por maquinarias o
-
-manipulación de objetos voluminosos o de grandes dimensiones,
-
-por cada trabajo en la vía pública, por cada hora
+II.- Por el cierre parcial o total de la vía de circulación con dispositivos de seguridad vial, por maquinarias o manipulación de objetos voluminosos o de grandes dimensiones, por cada trabajo en la vía pública, por cada hora 6.00 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1995,7 +2001,9 @@ III.- Por la validación de los consultorios psicológicos encargados de la apli
 
 IV.- Por la validación de los laboratorios clínicos encargados de la aplicación de exámenes toxicológicos al personal directivo, administrativo y operativo que laboren en empresas de seguridad privada, se causará un derecho equivalente a 15.00 UMA
 
-V.- Por cada curso de capacitación que se otorgue a los elementos de seguridad privada de manera individual a través del Instituto de Formación Policial de esta secretaría, se causará un derecho equivalente a 7.50 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V.- Por cada curso de capacitación que se otorgue a los elementos de seguridad privada de manera individual a través del Instituto de Formación Policial de esta secretaría, se causará un derecho equivalente a 8.00 UMA
 
 VI.- Por la validación de los centros de capacitación y adiestramiento para el personal directivo, administrativo y operativo que labore en empresas de seguridad privada, se causará un derecho equivalente a 35.00 UMA
 
@@ -2079,15 +2087,7 @@ a) Actas de nacimiento 0.81 UMA
 
 b) Otras certificaciones distintas a las del inciso a) de esta fracción 0.81 UMA
 
-(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XI.- DILIGENCIA ADMINISTRATIVA DE REGISTRO EXTEMPORÁNEO DE NACIMIENTO:
-
-A) DE OCHO A DIECISIETE AÑOS 1.59 UMA
-
-B) DE DIECIOCHO AÑOS EN ADELANTE 2.39 UMA
+XI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2139,7 +2139,9 @@ a) Actas de nacimiento 2.02 UMA
 
 b) Otras certificaciones distintas al inciso a) 2.22 UMA
 
-Los servicios dispuestos en las fracciones II, IV, VII, y VIII, incluyen la expedición de un certificado. El Gobernador, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, V, X, XI y XIII, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los servicios dispuestos en las fracciones II, IV, VII, y VIII, incluyen la expedición de un certificado. El Gobernador, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, V, X y XIII, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2209,9 +2211,9 @@ Por los servicios que preste la Dirección del Registro Público de la Propiedad
 
 I.- Por la calificación de cualquier documento 1.50 UMA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II.- Por cualquier inscripción 9.47 UMA
+II.- Por cualquier inscripción 9.70 UMA
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2221,9 +2223,9 @@ III.- Por la anotación de cualquier aviso 0.90 UMA
 
 IV.- Por la expedición de cualquier constancia 2.80 UMA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V.- Por la expedición de cualquier certificado, por cada predio 9.47 UMA
+V.- Por la expedición de cualquier certificado, por cada predio 9.70 UMA
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2253,13 +2255,29 @@ XI.- Por la inscripción de la copia o constancia del acta de la diligencia de e
 
 XII.- Por la copia certificada de documentos registrales, por cada hoja 0.90 UMA
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII.- Por los predios resultantes de una división o constitución de condominio, por predio 6.50 UMA
+XIII.- Por la inscripción de cada predio resultante de una división o por cada unidad de propiedad exclusiva de un régimen de propiedad en condominio 6.50 UMA
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 XIV.- Por cualquier inscripción, por cada predio en modalidad preferente 28.41 UMA
+
+> <small>(ADICIONADA CON SUS INCISOS, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XV.- Por la búsqueda o consulta de información de bienes por nombre de propietarios, de forma remota, vía electrónica:
+
+a) Por 24 horas 0.46 UMA
+
+b) Por semana 2.90 UMA
+
+c) Por mes 11.16 UMA
+
+d) Por año 101.98 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI.- Por la alerta o aviso inmobiliario anual de movimientos registrales que se efectúen, por cada predio 9.60 UMA
 
 No se causarán los derechos a que se refieren las fracciones I, II, III y VIII de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional; así como tampoco los que se refieren a las fracciones I, II y III en los casos relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda del valor anual de veinticinco unidades de medida y actualización. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
 
@@ -2363,7 +2381,9 @@ De 1'000,000.01 En adelante 60.00 UMA
 
 En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
-Cualquier escritura pública o documento que contenga un contrato o convenio otorgado ante fedatario público, que se refiera o no a cantidad determinada y no esté gravada en este capítulo, causará un derecho de 3.96 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cualquier escritura pública o documento que contenga un contrato o convenio otorgado ante fedatario público que se refiera o no a cantidad determinada y no esté gravada en este capítulo, causará un derecho de 4.50 UMA
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
@@ -2413,11 +2433,17 @@ a) Edictos, circulares, avisos o cualquiera que no pase de diez líneas de colum
 
 b) Cada palabra adicional 0.03 UMA
 
-c) Una plana 13.46 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d) Media plana 6.72 UMA
+c) Una plana 15.00 UMA
 
-e) Un cuarto de plana 3.84 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Media plana 8.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) Un cuarto de plana 5.00 UMA
 
 IV.- Por ejemplar:
 
@@ -2485,9 +2511,9 @@ a) Oficio o revalidación de proyecto de división o unión de predios, por cada
 
 b) Oficio o revalidación de oficio de rectificación de medidas, urbanización y cambio de nomenclatura 1.21 UMA
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Cédulas catastrales 2.13 UMA
+c) Cédulas catastrales 3.5 UMA
 
 d) Constancias y certificados 1.99 UMA
 
@@ -2517,27 +2543,41 @@ IV.- Elaboración de planos:
 
 a) Catastrales a escala sin cuadro de construcción 3.00 UMA
 
-> <small>(REFORMADO [N. DE E. CON SUS CANTIDADES], D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Planos topográficos:
+b) Planos topográficos y por localización:
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 de 0.01 m2 a 9,999 m2 7.20 UMA
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 de 10,000 m2 a 100,000 m2 7.63 UMA
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 de 100,001 m2 a 200,000 m2 9.19 UMA
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 de 200,001 m2 a 300,000 m2 11.44 UMA
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 A partir de 300,001 m2 en adelante, por cada 10,000 m2 excedentes se cobrará 0.38 UMA
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 Cuando se trate del primer plano catastral, se causarán además los derechos previstos en las fracciones V y VI de este artículo, en su caso.
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V.- Por la diligencia de verificación de: medidas físicas, rectificación de medidas, colindancias de predios, no inscripción catastral, estado físico del predio, mejoras en el predio, demolición de construcción, factibilidad de división de predios, factibilidades de unión de predios, urbanización catastral, ubicación de predio, marcación de predio, deslinde de predios, asignación o cambio de nomenclatura o elaboración de planos 4.78 UMA
+V.- Por la diligencia de verificación de medidas físicas, rectificación de medidas, colindancias de predios, no inscripción catastral, estado físico del predio, mejoras en el predio, demolición de construcción, factibilidad de división de predios, factibilidades de unión de predios, urbanización catastral, ubicación de predio, localización de predio, marcación de predio, deslinde de predios, asignación o cambio de nomenclatura o elaboración de planos 4.78 UMA
 
-Cuando en la diligencia de verificación se requiera la marcación del predio, deberá cubrirse adicionalmente el derecho de 10.00 UMA por cada punto posicionado geográficamente (al menos dos puntos).
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando en la diligencia de verificación se requiera el marcaje o la localización del predio, deberá cubrirse adicionalmente el derecho de 10.00 UMA por cada punto posicionado geográficamente (al menos dos puntos).
 
 Más 0.10 UMA por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, sin que el derecho establecido en este párrafo exceda de diecisiete UMA
 
@@ -2648,6 +2688,12 @@ De 90,000.01 m2 a 120,000 m2 30.00 UMA
 De 120,000.01 m2 a 150,000 m2 40.00 UMA
 
 De 150,000.01 m2 en adelante 50.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Por los trabajos de investigación y análisis documental de la información de la Dirección del Catastro y de la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán, cuando se requiera ubicar un predio 6.00 UMA
+
+El derecho establecido en esta fracción es adicional a los derechos previstos en las fracciones IV, V y VI de este artículo.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3023,19 +3069,51 @@ Quedan exentos, los alumnos becados por la secretaría
 
 VI.- Por examen:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 a) De regularización de secundaria y media superior 0.18 UMA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 b) A título de suficiencia de nivel primaria 4.00 UMA
 
-b) (sic) Global a suficiencia de nivel secundaria, por grado 4.00 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Profesional a nivel medio superior 1.00 UMA
+c) Global a suficiencia de nivel secundaria, por grado 4.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Técnico profesional 2.25 UMA
 
 VII.- Por expedición de:
 
-a) Certificado parcial de estudios de nivel medio superior 0.75 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Certificado completo de estudios de nivel medio superior 1.00 UMA
+a) Certificado parcial de estudios de nivel medio superior, distinto del señalado en el inciso c) de esta fracción 0.75 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Certificado completo de estudios de nivel medio superior, distinto del señalado en el inciso d) de esta fracción 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c) Certificado parcial de estudios de escuelas técnicas profesionales 0.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Certificado completo de estudios de escuelas técnicas profesionales 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) Constancia de servicio social 1.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+f) Acta de examen técnico profesional 1.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+g) Título técnico profesional 3.25 UMA
 
 VIII.- Duplicado de:
 
@@ -3048,6 +3126,18 @@ c) Dictamen de revalidación o equivalencia
 1. Inicial, preescolar, primaria o secundaria 1.50 UMA
 
 2. Medio superior 2.20 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Certificado parcial de estudios de escuelas técnicas profesionales 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) Certificado completo de estudios de escuelas técnicas profesionales 1.50 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+f) Acta de examen técnico profesional 2.00 UMA
 
 IX.- Por expedición de constancia de estudios 1.00 UMA
 
@@ -3207,25 +3297,15 @@ X.- Por cada ratificación de autorizaciones otorgadas 26.92 UMA
 
 XI.- Por cada verificación e inspección de áreas, predios y Obras 21.14 UMA
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+XII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
-XII.- Por cada evaluación y resolución de funcionamiento de fuente fija 28.84 UMA
+XIII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+XIV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
-XIII.- Por cada renovación de cédula de operación anual 14.42 UMA
+XV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Por evaluación y resolución del plan de manejo de los residuos de manejo especial 47.00 UMA
-
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XV.- Por evaluación y resolución del proyecto ejecutivo de los residuos de manejo especial 47.00 UMA
-
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XVI.- Por cada verificación e inspección de áreas, predios y obras en materia de gestión de residuos de manejo especial 21.14 UMA
+XVI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3239,63 +3319,155 @@ XVIII.- Por cada verificación e inspección de áreas, predios y obras en mater
 
 XIX.- Por la evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.20 UMA
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XX.- Por cada evaluación y resolución de la licencia ambiental única 75.84 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXI.- Por cada verificación e inspección de áreas, predios y obras en materia de licencia ambiental única 21.14 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXII.- Por cada evaluación y resolución de la modificación del proyecto autorizado por la licencia ambiental única 37.92 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIII.- Por la renovación de la licencia ambiental única 37.92 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIV.- Por la presentación de la cédula de operación anual de la licencia ambiental única 28.84 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXV.- Por la evaluación de capacidad de carga 14.68 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXVI.- Por el trámite del análisis y la opinión técnica para la viabilidad de un proyecto en el estado de Yucatán 14.68 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 82-A.
+
+Por el uso o aprovechamiento de los elementos naturales terrestres o acuáticos sujetos al régimen de dominio público del estado de Yucatán, existentes dentro de las áreas naturales protegidas de competencia estatal, derivado de toda actividad turística, deportiva o recreativa, de manera enunciativa mas no limitativa: buceo autónomo; buceo o inmersión libre; ciclismo; rappel; montañismo; excursionismo; espeleología; descenso a grutas; esquí acuático; recorridos en embarcaciones motorizadas y no motorizadas; observación de flora y fauna; así como nado, campismo, pernocta y navegación en cenotes, petenes, mares, canales, esteros, rías y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
+
+I.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Parque Estatal Lagunas de Yalahau 0.60 UMA
+
+b) Parque Estatal Kabah 0.60 UMA
+
+c) Parque Estatal Ix Kool Balamtun 0.60 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 7.02 UMA
+
+II.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Reserva Estatal de Dzilam de Bravo 0.80 UMA
+
+b) Reserva Estatal Biocultural del Puuc 0.80 UMA
+
+c) Reserva Estatal El Palmar 0.80 UMA
+
+d) Reserva Estatal Ciénegas y Manglares de la Costa Norte de Yucatán 0.80 UMA
+
+e) Reserva Estatal Geohidrológica Anillo de Cenotes 0.80 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 9.60 UMA
+
+III.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Área Natural Protegida de Valor Cultural, Histórico y Escénico San Juan Bautista Tabi y Anexa Sacnicté 1.72 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 17.20 UMA
+
+La obligación de pago de los derechos previstos en este artículo será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios recreativos, turísticos o deportivos. En los casos en que las actividades a las que se refiere este artículo se realicen sin la participación de los titulares mencionados, la obligación de pago será de cada persona.
+
+No pagarán los derechos a que se refiere este artículo la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, ni los residentes permanentes de las localidades que abarquen las áreas naturales protegidas en cuestión, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
+
+Quedarán exentos del pago de los derechos a que se refiere este artículo los menores de trece años, las personas con cualquier tipo de discapacidad, los profesores, los estudiantes en activo y los residentes de las localidades que abarquen el área natural protegida, de acuerdo con el decreto de regulación correspondiente, siempre y cuando así lo acrediten.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, en la proporción definida en las reglas de operación del Fondo Ambiental, se destinarán a la Secretaría de Desarrollo Sustentable, para la protección, conservación, manejo, restauración y aprovechamiento sustentable de las áreas naturales protegidas.
+
+El cobro y pago de este derecho no exenta el pago por las actividades cinegéticas que se puedan desarrollar en las unidades de manejo ambiental presentes en las áreas naturales protegidas estatales, o bien, por cualquier otra actividad que se desarrolle al interior de estas.
+
 ### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-ARTÍCULO 85 G.- Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se causarán los siguientes derechos:
+###### Artículo 85-G.
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+Por el uso de bienes del dominio público del estado de Yucatán que operen como Paradores Turísiticos (sic) de Zonas Arqueológicas y Turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
 
-I.- Chichén Itzá 1.50 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+I.- Chichén Itzá 1.75 UMA
 
-II.- Chichén Itzá (extranjeros) 4.80 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II.- Chichén Itzá (extranjeros) 5.05 UMA
 
 III.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
 IV.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V.- Uxmal 1.20 UMA
+V.- Uxmal 1.45 UMA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI.- Uxmal (extranjeros) 4.00 UMA
+VI.- Uxmal (extranjeros) 4.25 UMA
 
 VII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
 VIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
-IX.- Grutas de Loltún Unidad de Servicio 0.58 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X.- Grutas de Loltún (extranjeros) 1.02 UMA
+IX.- Grutas de Loltún, unidad de servicio 0.83 UMA
 
-XI.- Dzibilchaltún 0.58 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+X.- Grutas de Loltún (extranjeros) 1.27 UMA
 
-XII.- Dzibilchaltún (extranjeros) 1.80 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII.- Balankanché 0.58 UMA
+XI.- Dzibilchaltún 0.83 UMA
 
-XIV.- Grutas de Balankanché (extranjeros) 1.02 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV.- Celestún 0.58 UMA
+XII.- Dzibilchaltún (extranjeros) 2.05 UMA
 
-XVI.- Celestún (extranjeros) 1.02 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Grutas de Balankanché 0.83 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Grutas de Balankanché (extranjeros) 1.27 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XV.- Celestún 0.83 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI.- Celestún (extranjeros) 1.27 UMA
 
 XVII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
 XVIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
-XIX.- Ek Balam 0.92 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+XIX.- Ek Balam 1.17 UMA
 
-XX.- Ek Balam (extranjeros) 4.00 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XX.- Ek Balam (extranjeros) 4.25 UMA
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -3305,107 +3477,11 @@ Las personas físicas que acrediten la nacionalidad mexicana estarán exentas de
 
 Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no causarán el derecho a que se refiere este artículo.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
 > <small>(REFORMADA SU NUMERACIÓN, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 85-G.
-
-Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se cobrarán los siguientes derechos:
-
-I.- Chichén Itzá Unidad de servicio 1.15 S.M.G.
-
-II.- Chichén Itzá Unidad de servicio (extranjeros) 2.03 S.M.G.
-
-III.- Chichén Itzá Niños entrada general menores de 13 años 0.09 S.M.G.
-
-IV.- Chichén Itzá Estudiante 0.09 S.M.G.
-
-V.- Chichén Itzá Luz y Sonido 0.78 S.M.G.
-
-VI.- Chichén Itzá Luz y Sonido (extranjeros) 1.22 S.M.G.
-
-VII.- Uxmal Unidad de Servicios 1.15 S.M.G.
-
-VIII.- Uxmal Unidad de Servicios (extranjeros) 2.03 S.M.G.
-
-IX.- Uxmal Niños general menores de 13 años 0.09 S.M.G.
-
-X.- Uxmal estudiantes 0.09 S.M.G.
-
-XI.- Uxmal Luz y Sonido 0.78 S.M.G.
-
-XII.- Uxmal Luz y Sonido (extranjeros) 1.22 S.M.G.
-
-XIII.- Grutas Loltún 0.58 S.M.G.
-
-XIV.- Grutas Loltún (extranjeros) 1.02 S.M.G.
-
-XV.- Grutas Loltún niños generales menores de 13 años 0.09 S.M.G
-
-XVI.- Grutas Loltún Estudiante 0.09 S.M.G.
-
-XVII.- Dzibilchaltún 0.58 S.M.G
-
-XVIII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
-
-XIX.- Dzibilchaltún de Loltún niños generales menores de 13 años 0.09 S.M.G.
-
-XX.- Dzibilchaltún estudiantes 0.09 S.M.G.
-
-XXI.- Grutas de Balankanché 0.58 S.M.G.
-
-XXII.- Grutas de Balankanché (extranjeros) 1.02 .S.M.G
-
-XXIII.- Grutas de Balankanché niños generales menores
-
-de 13 años 0.09 S.M.G.
-
-XXIV.- Grutas de Balankanché estudiantes 0.09 S.M.G.
-
-XXV.- Celestún 0.58 .S.M.G.
-
-XXVI.- Celestún (extranjeros) 1.02 S.M.G.
-
-XXVII.- Celestún niños generales menores de 13 años 0.43 S.M.G.
-
-XXVIII.- Celestún estudiantes 0.09 S.M.G.
-
-XXIX.- Cenotes X'Kekén adultos 1.59 S.M.G.
-
-XXX.- Cenotes X'Kekén(extranjeros) 0.92 S.M.G.
-
-XXXI.- Cenotes X'Kekén (menores de 13 años) y estudiantes 0.30 S.M.G.
-
-XXXII.- Cenotes X'Kekén INSEN 0.39 S.M.G.
-
-XXXIII.- Cenote Samulá adulto 0.48 S.M.G.
-
-XXXIV.- Cenote Samulá (extranjeros) 0.92 S.M.G.
-
-XXXV.- Cenote Samulá niños (menores de 13 años) y estudiantes 0.30 S.M.G.
-
-XXXVI.- Cenote Samulá INSEN 0.39 S.M.G.
-
-XXXVII.- Izamal (Luz y Sonido) 0.95 S.M.G.
-
-XXXVIII.- Izamal (Luz y Sonido) extranjero 1.39 S.M.G.
-
-XXXIX.- Ek Balam Unidad de Servicios 0.58 S.M.G.
-
-XL.- Ek Balam Unidad de Servicios extranjero 1.02 S.M.G.
-
-XLI.- Ek Balam Unidad de Servicios (menores de 13 años) 0.09 S.M.G.
-
-XLII.- Ek Balam Unidad de Servicios Estudiantes 0.09 S.M.G.
-
-Los ciudadanos mexicanos no pagarán el derecho a que se refiere este artículo por los servicios que se presten los domingos, en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam.
-
-Los días festivos se cobrará el 50% del derecho que establece este artículo a los ciudadanos mexicanos.
-
-Para disfrutar de la cuota preferencial establecida en este artículo, los estudiantes deberán obtener la autorización del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, previamente a la prestación del servicio.
-
-La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
 ###### ARTÍCULO 83.
 
@@ -3418,6 +3494,10 @@ II.- El 2% anual del valor del inmueble o de la fracción de este, cuando en ell
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 Para efectos de las fracciones anteriores, el valor del inmueble se determinará conforme a un avalúo que emita la Secretaría de Obras Públicas, que será actualizado anualmente. En el avalúo que para el efecto practique dicha secretaría, se considerará todo cuanto de hecho y por derecho corresponda a los bienes inmuebles o a las fracciones afectas al uso, goce o aprovechamiento. Dicho avalúo únicamente deberá considerar, el inmueble como originalmente se otorgó en uso, goce o aprovechamiento, sin incluir las mejoras y adiciones efectuadas por el sujeto pasivo del derecho.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para efecto de lo señalado en el presente artículo no se consideran los bienes del dominio público del Estado en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
 
 ###### ARTÍCULO 84.
 
@@ -3827,17 +3907,17 @@ Los derechos por los servicios previstos en las fracciones X y XI de este artíc
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
+### CAPÍTULO XXVIII. DERECHOS POR SERVICIOS QUE PRESTA EL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ### CAPÍTULO ÚNICO. APROVECHAMIENTOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 85-Y.
 
@@ -3855,6 +3935,26 @@ AA.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 AB.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 85
+
+AC.- Por los servicios que presta el Poder Legislativo del Estado de Yucatán, se causarán derechos conforme a lo siguiente:
+
+I. Por expedición de documentación de la secretaría general, dirección, departamento, coordinación, instituto, biblioteca, o área del Poder Legislativo del Estado, en copia simple, por foja 0.05 UMA
+
+II. Por expedición de documentación de la secretaría general, dirección, departamento, coordinación, instituto, biblioteca, o área del Poder Legislativo del Estado, en copia certificada, por foja 0.10 UMA
+
+III. Por las bases de los procedimientos de licitación del Poder Legislativo del Estado 50 UMAS
+
+IV. Por módulo de trabajo de investigación del Instituto de Investigaciones Legislativas del Poder Legislativo del Estado 20 UMAS
+
+Las recaudaciones de estos derechos se destinarán íntegramente al Poder Legislativo del Estado de Yucatán.
+
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO
@@ -3863,7 +3963,7 @@ AB.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 ###### ARTÍCULO 86.
 
-Los productos que percibirá el Gobierno del Estado, a través de la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán, serán por los conceptos siguientes:
+Los productos que percibirá el Gobierno del Estado, a través de la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán, y los poderes judicial y legislativo, a través de sus respectivas unidades administrativas, serán por los conceptos siguientes:
 
 I.- Uso, aprovechamiento o enajenación de bienes de dominio privado del Estado, de conformidad con las disposiciones legales aplicables.
 
@@ -4354,3 +4454,35 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Ajustes presupuestales
 
 El Poder Ejecutivo del Estado a través de la Secretaría de Administración y Finanzas deberá realizar los ajustes al Presupuesto de Egresos del Gobierno del Estado de Yucatán para el Ejercicio Fiscal 2020, en cumplimiento al principio de balance presupuestario y a lo dispuesto en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, su reglamento y demás normativa aplicable.
+
+D.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 327/2020 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2020".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 329/2020 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS POR SERVICIOS QUE PRESTA EL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2021, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 330/2020 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2021, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de las siguientes modificaciones:
+
+I. Las referidas en las fracciones II y V del artículo 59, el párrafo cuarto del artículo 64 y el inciso c) de la fracción III del artículo 68 de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor el 1 de febrero de 2021.
+
+II. Las referidas en las fracciones XII, XIII, XIV, XV, XVI, XX, XXI, XXII, XXIII y XXIV del artículo 82 de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor hasta en tanto no lo hagan las reformas que regulen la licencia ambiental única en la Ley de Protección al Medio Ambiente del Estado de Yucatán y la Ley de Gestión Integral de los Residuos en el Estado de Yucatán.
+
+III. Las referidas en los incisos a), b) y c) de la fracción I, y a), b) y e) de la fracción II del artículo 82-A de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor el 1 de enero de 2022.
+
+IV. Las referidas en las fracciones I, II, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVI, XIX y XX del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor el 1 de febrero de 2021.
