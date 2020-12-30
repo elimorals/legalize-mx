@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2007-01-22"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE ENERO DE 2007 NO APLICA AL ARTICULADO DEL DECRETO 55 PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2007.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -543,9 +541,9 @@ III.- Si están comprendidos en las fracciones IV y V, de 20 a 40 cuotas. En cas
 
 IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2001)
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
+Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta el equivalente al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -922,3 +920,9 @@ P.O. 13 DE ENERO DE 2007.
 DECRETO No. 57
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
