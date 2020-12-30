@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pronosticos-para-la-asistencia-publica-138
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-09-23"
-last_updated: "2019-09-23"
+last_updated: "2020-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138252&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-09-11"
 ---
 # ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 23 de septiembre de 2019.
 
@@ -588,3 +590,19 @@ Secretario del H. Consejo Directivo
 Lic. Sergio E. Huacuja Betancourt
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL".]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Pronósticos para la Asistencia Pública publicado en el Diario Oficial de la Federación el 23 de septiembre de 2019 y se derogan todas aquellas disposiciones que contravengan el presente Estatuto.
+
+TERCERO.- El presente Estatuto, deberá inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto se encuentren en trámite por parte de una determinada unidad administrativa de la Entidad, y que conforme al mismo deban en lo sucesivo ser atendidos por una unidad administrativa distinta, deberán continuar su desahogo y ser resueltos por aquella o aquellas que inicialmente hayan tenido conocimiento de dichos asuntos hasta su conclusión.
+
+QUINTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna en congruencia con el presente estatuto en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente.
