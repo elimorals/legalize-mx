@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2020-07-01"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1969,9 +1969,9 @@ Cuarto.- En un plazo no mayor a 90-noventa días hábiles, contados a partir de 
 
 Quinto.- En un plazo no mayor de 90-noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, los Gobiernos Municipales y el Gobierno del Estado, a través de la Secretaría, deberán celebrar un convenio de coordinación y colaboración en materia de protección y bienestar animal.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Sexto.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, deberá integrarse e instalarse dentro de los 60 días hábiles siguientes a que se declare oficialmente la apertura de las oficinas Estatales y Municipales.
+Sexto.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, deberá instalarse dentro de los 60 días hábiles contados a partir de la publicación del Decreto mediante el cual el Poder Legislativo apruebe la elección de sus integrantes, en los términos del artículo 136 de esta Ley, en el Periódico Oficial del Estado de Nuevo León. El H. Congreso del Estado, a través de la Comisión de Medio Ambiente y Desarrollo Sustentable, podrá realizar este proceso en forma remota por medios electrónicos o de manera presencial, según estime pertinente, a fin de proteger la salud de los participantes en el proceso, tomando en consideración los indicadores emitidos por la Secretaría de Salud en el Estado.
 
 Séptimo.- En un plazo no mayor a 30-treinta días hábiles posteriores a la instalación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, la Secretaría deberá poner a consideración del Consejo el manual para captura y atención de animales en la vía pública, mismo que deberá ajustarse a los principios de protección y bienestar animal integral y sostenible que dicta la presente Ley.
 
@@ -2002,3 +2002,9 @@ SEGUNDO.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de N
 TERCERO.- Los Municipios y la autoridad de salud correspondiente tendrán un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto para actualizar sus reglamentos de acuerdo al mismo.
 
 CUARTO.- Se derogan todas las disposiciones normativas que contravengan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 421. SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
