@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2020-12-16"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -3451,7 +3451,9 @@ Las sanciones aplicables por las infracciones administrativas en este Capítulo,
 
 I. Apercibimiento;
 
-II. Multa de veinte a treinta mil días de salario mínimo general vigente en la zona geográfica del Estado donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Multa de veinte a treinta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
 
@@ -3823,11 +3825,13 @@ Comete el delito ambiental, quien por si o por interpósita persona, desobedezca
 
 Se entiende por deterioro grave cuando simultáneamente se cause daño a la salud y a la calidad de vida de las personas, al mantenimiento del equilibrio de los ecosistemas y a la disponibilidad cuantitativa y cualitativa de los recursos naturales para el aprovechamiento sustentable.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrá una pena de prisión de dos a seis años y multa de cien a veinte mil cuotas.
+Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrá una pena de prisión de dos a seis años y multa de cien a veinte mil veces el valor diario de la Unidad de Medida y Actualización.
 
-Si los daños ambientes (sic) fueren reversibles, al responsable de este delito se le sancionará con prisión de seis meses a tres años de prisión y multa de cincuenta a diez mil cuotas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Si los daños ambientes (sic) fueren reversibles, al responsable de este delito se le sancionará con prisión de seis meses a tres años de prisión y multa de cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Un daño se considerará irreversible cuando, con las tecnologías y conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado anterior al hecho punible.
 
@@ -4104,3 +4108,9 @@ P.O. 16 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 386. SE ADICIONA EL ARTÍCULO 172 BIS 2 A LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO: El presente Decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
