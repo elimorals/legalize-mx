@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "2018-05-11"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE OBRAS PÚBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -1475,13 +1475,19 @@ VIII.- Llevar a cabo cualquier acto en contravención a las disposiciones de est
 
 Las conductas tipificadas en el Artículo anterior serán sancionadas con las siguientes multas, sin perjuicio de la imposición de cualquier otra sanción que pudiere corresponderle conforme a ésta y otras disposiciones jurídicas:
 
-I.- Con multa de 50 a 100 veces el salario mínimo general diario, las conductas previstas en las fracciones IV, VI y VIII;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II.- Con multa de 100 a 200 veces el salario mínimo general diario, las conductas previstas en las fracciones II, III y V;
+I.- Con multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones IV, VI y VIII;
 
-III.- Con multas de 200 a 500 veces el salario mínimo general diario, las conductas previstas en las fracciones I y VII;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Para los efectos de este Artículo, el salario mínimo general diario será el vigente en la capital del Estado.
+II.- Con multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones II, III y V;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III.- Con multas de 200 a 500 veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones I y VII.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
@@ -1656,3 +1662,9 @@ Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del pr
 Cuarto.- El Fideicomiso deberá constituirse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
 
 Quinto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, además de observar los criterios y bases a que refiere el artículo 85 de (sic) Ley del Patrimonio Cultural del Estado de Nuevo León del presente Decreto, fijará los lineamientos y las reglas de operación de Fideicomiso antes del lanzamiento de la convocatoria.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
