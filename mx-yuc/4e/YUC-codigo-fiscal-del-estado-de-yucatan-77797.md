@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2019-12-13"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # CODIGO FISCAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -33,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EXPOSICION DE MOTIVOS:.
+EXPOSICION DE MOTIVOS:
+
+[...]
 
 Por todo lo expuesto y fundado, los Diputados integrantes de las Comisiones Permanentes de Puntos Constitucionales, Gobernación y Asuntos Electorales y la de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal consideramos que la Iniciativa presentada por la Titular del Poder Ejecutivo del Estado, debe ser aprobada por los razonamientos antes expresados. En tal virtud, con fundamento en los Artículos 29 y 30, fracción V de la Constitución Política, así como los artículos transitorios séptimo y décimo de la Ley de Gobierno del Poder Legislativo, ambos ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado, el siguiente proyecto de:
 
@@ -987,13 +991,11 @@ En el caso de que se haya emitido la resolución a que se refiere el artículo 7
 
 Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando sean publicados en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 56.
 
-Las resoluciones administrativas de carácter individual favorables a un particular solamente podrán ser modificadas por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, mediante resolución que recaiga a un juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular solamente podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado de Yucatán, mediante resolución que recaiga a un juicio iniciado por las autoridades fiscales.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1563,8 +1565,6 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación, excepto que se trate de créditos fiscales determinados en términos del artículo 61, fracción II, de este Código, en cuyo caso, el pago deberá de realizarse antes de que transcurra el plazo señalado en dicha fracción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 88.
@@ -1573,11 +1573,9 @@ A fin de asegurar la recaudación de toda clase de créditos a favor del Gobiern
 
 La Agencia de Administración Fiscal de Yucatán a través de reglas de carácter general señalará qué tipo de bienes son susceptibles de ofrecerse en dación en pago por los contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Agencia de Administración Fiscal de Yucatán, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional del titular de la Agencia de Administración Fiscal de Yucatán, debiendo resolver en un término que no excederá de treinta días hábiles contados a partir de que esté debidamente integrado el expediente y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Yucatán. En caso de que en dicho término no se emita la resolución correspondiente, se tendrá por negada la solicitud.
 
 ###### Artículo 89.
 
@@ -1829,7 +1827,9 @@ Asimismo, cuando por un acto o una omisión se infrinjan diversas disposiciones 
 
 Tratándose de la presentación de declaraciones o avisos, cuando por diferentes contribuciones se deba presentar una misma forma oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida;
 
-VI. En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación al infractor de la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VI. En el caso de que la multa se pague dentro de los treinta días siguientes a la fecha en que surta efectos la notificación al infractor de la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
 ###### Artículo 101.
 
@@ -2367,13 +2367,11 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refiere el a
 
 d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 140.
 
-La interposición del Recurso de Revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+La interposición del Recurso de Revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado de Yucatán.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -2437,11 +2435,9 @@ I. Que no afecten el interés jurídico del recurrente;
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-III. Que hayan sido impugnados ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán;
+III. Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Yucatán;
 
 IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -2463,15 +2459,13 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos del acto o resolución impugnada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 146.
 
-El interesado podrá optar por impugnar un acto a través del Recurso de Revocación o promover, directamente contra dicho acto, juicio ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
+El interesado podrá optar por impugnar un acto a través del Recurso de Revocación o promover, directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado de Yucatán. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro. En el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
 
-Si la resolución dictada en el Recurso de Revocación se combate ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, la impugnación del acto conexo deberá hacerse valer ante el propio Tribunal.
+Si la resolución dictada en el Recurso de Revocación se combate ante el Tribunal de Justicia Administrativa del Estado de Yucatán, la impugnación del acto conexo deberá hacerse valer ante el propio Tribunal.
 
 ###### Artículo 147.
 
@@ -2645,9 +2639,11 @@ Tratándose de los honorarios a que se refiere este artículo, la autoridad reca
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de una a diez unidades de medida y actualización.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 161.
 
-Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante seis días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 ###### Artículo 162.
 
@@ -2673,15 +2669,17 @@ I. Depósito en dinero en las oficinas de la Agencia de Administración Fiscal d
 
 II. Prenda o hipoteca;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Fianza otorgada por institución autorizada, a favor de la Secretaría de Administración y Finanzas, la que no gozará de los beneficios de orden y excusión;
+III. Fianza otorgada por institución autorizada, a favor de la Secretaría de Administración y Finanzas, la que no gozará de los beneficios de orden y excusión.
 
-Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica o el sello digital de la afianzadora;
+Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica o el sello digital de la institución emisora de pólizas de fianzas;
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, así como negociaciones, y
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2843,11 +2841,9 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 Procede garantizar el interés fiscal cuando:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-I. Se solicite la suspensión del procedimiento administrativo de ejecución, inclusive si dicha suspensión se solicita ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, en los términos de la Ley de lo Contencioso Administrativo del Estado de Yucatán.
+I. Se solicite la suspensión del procedimiento administrativo de ejecución, inclusive si dicha suspensión se solicita ante el Tribunal de Justicia Administrativa del Estado de Yucatán, en los términos de la Ley de lo Contencioso Administrativo del Estado de Yucatán;
 
 II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente;
 
@@ -2873,17 +2869,23 @@ Si la garantía consiste en depósito de dinero en las oficinas de la Agencia de
 
 Tratándose de fianzas a favor de la Secretaría de Administración y Finanzas otorgadas para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible se aplicará el Procedimiento Administrativo de Ejecución con las siguientes modalidades:
 
-I. La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días de anticipación a la fecha en que se pretenda surtan sus efectos, a la autoridad ejecutora. La citada información se incorporará en la póliza de fianza respectiva y los cambios se proporcionarán a la autoridad ejecutora. Se notificará el requerimiento por estrados cuando no se haga alguno de los señalamientos mencionados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la institución de crédito o casa de bolsa que mantenga en depósito los títulos o valores en los que la afianzadora tenga invertida sus reservas técnicas, que proceda a su venta a precio de mercado, hasta por el monto necesario para cubrir el principal y accesorios, los que entregará en pago a la autoridad ejecutora. La venta se realizará en o fuera de bolsa, de acuerdo con la naturaleza de los títulos o valores;
+I. La autoridad ejecutora requerirá de pago a la institución emisora de pólizas de fianzas, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello, la institución emisora de pólizas de fianzas designará a un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días de anticipación a la fecha en que se pretenda surtan sus efectos, a la autoridad ejecutora. La citada información se incorporará en la póliza de fianza respectiva y los cambios se proporcionarán a la autoridad ejecutora. Se notificará el requerimiento por estrados cuando no se haga alguno de los señalamientos mencionados;
 
-Para estos efectos las instituciones de crédito y casas de bolsa, que mantengan títulos o valores en depósito por parte de las afianzadoras deberán informar dicha situación a la autoridad fiscal. En los casos en que las instituciones de crédito o las casas de bolsa omitan cumplir con la obligación anterior, resultará improcedente la aceptación de las pólizas de fianza para garantizar créditos fiscales.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Cuando dejen de actuar como depositarios de las instituciones de fianzas deberán notificarlos a dichas autoridades e indicar la casa de bolsas (sic) e institución de crédito a la que efectuaron la transferencia de los títulos o valores.
+II. Si no se paga dentro de los quince días siguientes a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la institución de crédito o casa de bolsa que mantenga en depósito los títulos o valores en los que la institución emisora de pólizas de fianza tenga invertidas sus reservas técnicas, y que proceda a su venta a precio de mercado, hasta por el monto necesario para cubrir el principal y accesorios, los que entregará en pago a la autoridad ejecutora. La venta se realizará en o fuera de bolsa, de acuerdo con la naturaleza de los títulos o valores.
 
-III. La autoridad ejecutora informará a la afianzadora sobre la orden dirigida a las instituciones de crédito o las casas de bolsa, la cual podrá oponerse a la venta únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+Para estos efectos, las instituciones de crédito y casas de bolsa que mantengan títulos o valores en depósito por parte de las instituciones emisoras de pólizas de fianzas, deberán informar dicha situación a la autoridad fiscal. En los casos en que las instituciones de crédito o las casas de bolsa omitan cumplir con la obligación anterior, resultará improcedente la aceptación de las pólizas de fianza para garantizar créditos fiscales.
 
-Para los efectos del párrafo anterior, si la afianzadora exhibe el comprobante de pago del importe establecido en la póliza más sus accesorios, dentro del plazo establecido en la fracción II de este artículo, la autoridad fiscal ordenará a la institución de crédito o a la casa de bolsa, suspender la venta de los títulos o valores.
+Cuando dejen de actuar como depositarios de las instituciones emisoras de pólizas de fianzas, deberán notificarlos a dichas autoridades e indicar la casa de bolsa e institución de crédito a la que efectuaron la transferencia de los títulos o valores.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. La autoridad ejecutora informará a la institución emisora de pólizas de fianza sobre la orden dirigida a las instituciones de crédito o las casas de bolsa, la cual podrá oponerse a la venta únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+
+Para los efectos del párrafo anterior, si la institución emisora de pólizas de fianza exhibe el comprobante de pago del importe establecido en la póliza, más sus accesorios, dentro del plazo establecido en la fracción II de este artículo, la autoridad fiscal ordenará a la institución de crédito o a la casa de bolsa, suspender la venta de los títulos o valores.
 
 ###### Artículo 185.
 
@@ -2921,13 +2923,11 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los treinta días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 187.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán u ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará, en lo conducente, las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Administrativa del Estado de Yucatán u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará, en lo conducente, las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
 ### CAPÍTULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -3377,17 +3377,19 @@ I. Si el embargo de la autoridad fiscal federal es anterior, se designará un re
 
 II. Si el embargo de la autoridad fiscal federal es posterior, el depositario nombrado en el expediente administrativo o quien los (sic) substituya, dará facilidades al representante del fisco federal para el cobro de los créditos fiscales que le corresponda, debiéndose aplicar los principios de preferencia a que se refiere este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 211.
 
-El embargo de créditos será notificado directamente por el personal facultado para ello de la oficina ejecutora a los deudores del embargado, y se le requerirá con el objeto de que no efectúen el pago de las cantidades respectivas a este sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado directamente por la autoridad fiscal a los deudores del embargado y se les requerirá con el objeto de que informen las características de la relación contractual con el contribuyente, apercibidos de que, de no comparecer en el término de tres días, se les impondrá una multa de conformidad con el artículo 116 de este Código. Asimismo, se les requerirá para que no efectúen el pago de las cantidades respectivas a este sino a la autoridad fiscal, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio y que corresponda, el titular de la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+Si se tratara de títulos a la orden o al portador, el embargo solo podrá practicarse mediante la obtención física de estos.
+
+Si llegara a asegurarse el título de crédito, se nombrará a un depositario que lo conserve en guarda, quien tendrá la obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar las acciones y recursos que la ley concede para hacer efectivo el crédito.
+
+Si en cumplimiento de lo dispuesto en el párrafo primero de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del Comercio, y que corresponda, el titular de la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
 
 En caso de que el titular de los créditos embargados no firme dentro del plazo indicado en el párrafo inmediato anterior, el titular de la oficina ejecutora firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del Registro Público de la Propiedad y del Comercio que corresponda, para los efectos procedentes.
-
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 El incumplimiento en que incurra el deudor del embargado a lo indicado en el primer párrafo de este artículo, dentro del plazo que para tal efecto le haga del conocimiento la autoridad fiscal, hará exigible el monto respectivo a través del procedimiento administrativo de ejecución.
 
@@ -3597,9 +3599,9 @@ Si las posturas no cumplen los requisitos a que se refiere este artículo y los 
 
 El día y hora señalados en la convocatoria, el titular de la oficina ejecutora hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, para mejorarla, hasta que la última postura no sea mejorada.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-La Agencia de Administración Fiscal de Yucatán fincará el remate en favor de quien hubiere hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
+La Agencia de Administración Fiscal de Yucatán fincará el remate a favor de quien haya hecho la mejor postura y efectuado el pago de la postura ofrecida, dentro de los plazos establecidos en los artículos 236 y 237 de este Código. Cuando existan varios postores que hayan ofrecido una suma igual, y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
 
 En las pujas no se aceptará postura de uno o más licitantes, por igual suma de contado a la última ofrecida; éstos sólo podrán mejorarla.
 
@@ -3615,9 +3617,11 @@ La autoridad podrá adjudicar el bien al postor que haya presentado la segunda p
 
 En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 236.
 
-Fincado el remate de bienes muebles, se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Declarado ganador al oferente de la postura más alta, en caso de bienes muebles, se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor deberá enterar mediante transferencia electrónica de fondos o depósito bancario, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
 Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
@@ -3625,9 +3629,11 @@ Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con e
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto de los gastos por almacenaje sea igual o superior al valor en que se adjudicaran los bienes, éstos se aplicarán a cubrir los adeudos que se generaran por este concepto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 237.
 
-Fincado el remate de bienes inmuebles o negociaciones, se aplicará el depósito constituido, dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Declarado ganador al oferente de la postura más alta, en caso de bienes inmuebles o negociaciones, se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor deberá enterar mediante transferencia electrónica de fondos o depósito bancario, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
 Hecho el pago a que se refiere el párrafo anterior y designado, en su caso, el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el titular de la oficina ejecutora lo hará en su rebeldía.
 
@@ -3641,9 +3647,11 @@ Los bienes pasarán a ser propiedad del adquirente libres de gravámenes, y a fi
 
 Una vez que se hubiera firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente la posesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 240.
 
-En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+En el caso de que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses, contado a partir de la fecha en que la autoridad le informe sobre la imposibilidad de la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses, contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de estos, en lugar de entregar al postor las cantidades pagadas por esos bienes.
 
 Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 249 de este Código.
 
@@ -3673,7 +3681,9 @@ Los bienes que se adjudiquen a favor del fisco estatal podrán ser donados para 
 
 La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
 
-Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad y del Comercio, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando la adjudicación de los bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación, debidamente firmada por la autoridad ejecutora, tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
 
 Una vez aplicado el producto obtenido por la adjudicación, en los términos del artículo 246 de este Código, el saldo que, en su caso quede pendiente a cargo del contribuyente, se registrará en una subcuenta especial de créditos incobrables.
 
@@ -3727,9 +3737,9 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco estatal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán, por cualquiera de las formas de notificación señaladas en el artículo 156 de este Código, que ha transcurrido el plazo de abandono y que, como consecuencia, pasan a propiedad del fisco estatal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará por correo certificado con acuse de recibo o por estrados.
 
 Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, podrán ser enajenados o destinarse para obras o servicios públicos, o donarse entidades (sic) paraestatales, municipios o instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
 
@@ -3928,3 +3938,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Plazo para actualizar el inventario
 
 El proceso de inventario se realizará en un plazo de seis meses a partir de la entrada en vigor de este Decreto.
+
+D.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 328/2020 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2021, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
