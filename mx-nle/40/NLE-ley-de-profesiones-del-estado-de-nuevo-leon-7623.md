@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-profesiones-del-estado-de-nuevo-leon-7623"
 country: "mx"
 rank: "ley"
 publication_date: "1984-07-25"
-last_updated: "2012-02-22"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROFESIONES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 1984.
 
@@ -665,9 +665,11 @@ Para la aplicación de sanciones, el departamento de Profesiones del Estado toma
 
 Cuando a juicio del Departamento de Profesiones la falta sea leve, se amonestará al infractor y se le prevendrá con la aplicación de una multa para el caso de reincidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 58o.
 
-La comisión de las faltas a que se refiere el artículo 54 de esta Ley se sancionará, a juicio del Departamento de Profesiones, con multa entre un mínimo de cinco y un máximo de veinticinco cuotas diarias, entendiéndose por éstas el importe del salario mínimo más bajo de los que rigen en el Estado
+La comisión de las faltas a que se refiere el artículo 54 de esta Ley se sancionará, a juicio del Departamento de Profesiones, con multa entre un mínimo de cinco y un máximo de veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 La multa respectiva se deberá cubrir en la Secretaría de Finanzas y Tesorería General del Estado a través de las oficinas autorizadas del domicilio del infractor; en caso que éste no pagare la multa, se hará efectiva mediante el procedimiento de ejecución previsto por el Código Fiscal del Estado.
 
@@ -742,3 +744,9 @@ Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su
 P.O. 22 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
