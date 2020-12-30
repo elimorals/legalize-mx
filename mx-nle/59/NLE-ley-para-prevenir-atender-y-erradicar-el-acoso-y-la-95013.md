@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2013-07-01"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -905,7 +905,9 @@ Por las infracciones a la presente Ley, la Secretaría de Educación del Estado 
 
 I. Amonestación por escrito; y
 
-II. Multa de hasta tres mil quinientas veces el salario mínimo general diario vigente en el área geográfica cuyo monto dependerá de la gravedad de la falta y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse, en caso de reincidencia.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Multa de hasta tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización, cuyo monto dependerá de la gravedad de la falta. Las multas impuestas podrán duplicarse, en caso de reincidencia.
 
 La Secretaría de Educación, al dictar la resolución, adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
 
@@ -954,3 +956,11 @@ Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicaci�
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, al primer día del mes de junio de 2013.
 
 PRESIDENTE: DIP. LUIS DAVID ORTIZ SALINAS; DIP. SECRETARIO: JUAN MANUEL CAVAZOS BALDERAS; DIP. SECRETARIA: REBECA CLOUTHIER CARRILLO.- Rúbricas.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
