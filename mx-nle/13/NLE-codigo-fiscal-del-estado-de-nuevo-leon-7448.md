@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2019-12-30"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -745,6 +745,18 @@ V.- Efectuar en distintas partes del Estado reuniones de información con los co
 
 VI.- Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VII.- Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de:
+
+a) Propuestas de pago o declaraciones prellenadas.
+
+b) Comunicados para promover el cumplimiento de sus obligaciones fiscales.
+
+c) Comunicados para informar sobre inconsistencias detectadas o comportamientos atípicos.
+
+El envío de los documentos señalados en los incisos anteriores, no se considerará inicio de facultades de comprobación.
+
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 36.
@@ -993,11 +1005,11 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 47.
 
-Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, relacionadas con la visita.
+Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuenta bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1126,6 +1138,10 @@ V.- El contribuyente o responsable solidario contará con un plazo de veinte dí
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo señalado el contribuyente no presenta elementos comprobatorios que los desvirtúen y en tal caso, se emitirá la resolución que determine las contribuciones omitidas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1969,6 +1985,10 @@ III.- Constancia de notificación del acto impugnado, excepto cuando el promoven
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En caso de que los documentos se presenten en idioma distinto al español, deberán acompañarse de su respectiva traducción.
+
 Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
@@ -1976,8 +1996,6 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2785,9 +2803,15 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 193.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+De conformidad con lo establecido en el artículo 163 de la Ley de Administración Financiera para el Estado de Nuevo León, los certificados de depósito de dinero a favor de personas físicas o morales públicas o privadas, para garantizar el cumplimiento de obligaciones previstas en las leyes, prescribirán en forma automática a favor de la Hacienda Pública Estatal en dos años contados a partir de la fecha en que legalmente pudo exigirse su devolución por el depositante o beneficiario, salvo que exista algún otro plazo de exigibilidad establecido por la ley.
+
+Se excluyen de la disposición anterior, los certificados de depósito correspondientes a obligaciones alimenticias.
+
+Las distintas autoridades que custodien un certificado de depósito que actualicen el supuesto establecido en el presente artículo, deberán notificarle este hecho, y remitirlo a la Secretaría de Finanzas y Tesorería General del Estado, para la debida cancelación del mismo.
 
 ###### ARTICULO 194.
 
@@ -3326,3 +3350,15 @@ P.O. 30 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2020.
 
 Artículo Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 422. SE REFORMA EL CÓDIGO FISCAL DEL ESTADO EN SU ARTÍCULO 47, PRIMER PÁRRAFO Y SE ADICIONA EN SUS ARTÍCULOS 35, CON UNA FRACCIÓN VII, 50, CON UN TERCER PÁRRAFO Y 122, CON UN SEGUNDO PÁRRAFO, PASANDO LOS ACTUALES PÁRRAFOS SEGUNDO A QUINTO A SER TERCERO A SEXTO, RESPECTIVAMENTE Y CON UN ARTÍCULO 193".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero del año 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
