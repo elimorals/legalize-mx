@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2019-03-22"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2359,13 +2359,17 @@ Son conductas prohibidas de los Titulares de las Instituciones Policiales de los
 
 I. Asignar o permitir la asignación de funciones de policía a persona que no cuente con Certificado con efectos de Patente Policial, expedido por la Universidad de Ciencias de la Seguridad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 159.
 
-Se sancionará con pena privativa de libertad de tres a nueve años, multa de doscientas a cuatrocientas cuotas, destitución e inhabilitación de tres a quince años para desempeñar cualquier cargo público, al Policía en cualquiera de las modalidades previstas en esta Ley; agente de tránsito, custodio o elemento de seguridad de los centros penitenciarios, preventivos o de reinserción social que porte o utilice durante el servicio o comisión, uno o varios teléfonos móviles, radiotransmisores, radiofrecuencias o cualquier aparato de comunicación que no sea de aquellos que se le hubieren proporcionado por la dependencia o corporación correspondiente para el ejercicio del cargo.
+Se sancionará con pena privativa de libertad de tres a nueve años, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización. destitución e inhabilitación de tres a quince años para desempeñar cualquier cargo público, al Policía en cualquiera de las modalidades previstas en esta Ley; agente de tránsito, custodio o elemento de seguridad de los centros penitenciarios, preventivos o de reinserción social que porte o utilice durante el servicio o comisión, uno o varios teléfonos móviles, radiotransmisores, radiofrecuencias o cualquier aparato de comunicación que no sea de aquellos que se le hubieren proporcionado por la dependencia o corporación correspondiente para el ejercicio del cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 Al haberse dictado auto de formal prisión o de vinculación al proceso por la comisión de este delito, el imputado será suspendido de sus derechos laborales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 Quedan excluidas de este delito las autoridades señaladas en el Artículo 122 de esta Ley.
 
@@ -2605,9 +2609,11 @@ Toda persona privada de la libertad tendrá el derecho a gozar del sistema educa
 
 El tratamiento individual, progresivo y técnico para la reinserción social es un derecho humano. Por lo cual, a nadie podrá obligársele a ejercer actividades de carácter laboral. Esta disposición no comprende las determinaciones emitidas por la autoridad judicial, incluyendo los casos de trabajo a favor de la comunidad impuesto como sanción penal, en los términos de la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 182.
 
-Se castigará con pena privativa de la libertad de 2 a 7 años y multa de 25 a 800 cuotas al servidor público que permita, tolere o propicie la participación de uno o varios reos en cualquier clase de comercio entre internos o con el personal, dentro de las instalaciones del centro penitenciario donde el responsable preste sus servicios u obtenga con ello un beneficio de cualquier índole.
+Se castigará con pena privativa de la libertad de 2 a 7 años y multa de 25 a 800 veces el valor diario de la Unidades (sic) de Medida y Actualización al servidor público que permita, tolere o propicie la participación de uno o varios reos en cualquier clase de comercio entre internos o con el personal, dentro de las instalaciones del centro penitenciario donde el responsable preste sus servicios u obtenga con ello un beneficio de cualquier índole.
 
 ###### Artículo 183.
 
@@ -3633,7 +3639,9 @@ La ejecución de las sanciones administrativas impuestas en resolución firme se
 
 Para el cumplimiento de las atribuciones que les confiere la Ley, la Comisión de Honor y Justicia podrá emplear los siguientes medios de apremio:
 
-I. Sanción económica de diez hasta ochenta veces el salario mínimo diario vigente en el área geográfica de la capital del Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+I. Sanción económica de diez hasta ochenta veces el valor diario de la Unidades (sic) de Medida y Actualización
 
 II. Auxilio de la fuerza pública; o
 
@@ -3842,3 +3850,9 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
