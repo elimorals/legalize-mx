@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-contra-la-exposicion-al-humo-del-tabaco-95311
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-14"
-last_updated: "2013-06-14"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Decreto publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de junio de 2013.
 
@@ -455,11 +455,17 @@ IV. Arresto hasta por treinta y seis horas.
 
 Se sancionarán las infracciones a lo dispuesto por la presente Ley en los siguientes términos:
 
-I. Se sancionará con multa de hasta 100 días de salario mínimo general de la zona económica de que se trate, a las personas que contravengan lo dispuesto en los artículos 12, 15, 16, 18, 19, 20 y 21 del presente ordenamiento;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Se sancionará con multa de 1000 hasta 4000 días de salario mínimo general vigente en la zona económica de que se trate, a los propietarios, responsables o encargados de los establecimientos que no cumplan con lo dispuesto en los artículos 13 y 14 de la presente Ley, y
+I. Se sancionará con multa de hasta 100 veces el valor diario de la Unidad de Medida y Actualización, a las personas que contravengan lo dispuesto en los artículos 12, 15, 16, 18, 19, 20 y 21 del presente ordenamiento;
 
-III. Se sancionará con multa de 1000 hasta 4000 días de salario mínimo general vigente en la zona económica de que se trate, al titular de la concesión o permiso del medio de transporte que no fije las señalizaciones o que permitan la realización de conductas prohibidas por esta Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Se sancionará con multa de 1000 hasta 4000 veces el valor diario de la Unidad de Medida y Actualización, a los propietarios, responsables o encargados de los establecimientos que no cumplan con lo dispuesto en los artículos 13 y 14 de la presente Ley, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. se sancionará con multa de 1000 hasta 4000 veces el valor diario de la Unidades (sic) de Medida y Actualización, al titular de la concesión o permiso del medio de transporte que no fije las señalizaciones o que permitan la realización de conductas prohibidas por esta ley.
 
 ###### Artículo 47.
 
@@ -561,6 +567,10 @@ EL C. SECRETARIO DE SALUD DEL ESTADO
 
 JESÚS ZACARÍAS VILLARREAL PÉREZ
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
 #### SECCIÓN TERCERA. DEL ESTADO Y LOS MUNICIPIOS
@@ -570,3 +580,7 @@ JESÚS ZACARÍAS VILLARREAL PÉREZ
 #### SECCIÓN QUINTA. DE LA VERIFICACIÓN Y VIGILANCIA
 
 #### SECCIÓN SEXTA. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
