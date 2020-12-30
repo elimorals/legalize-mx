@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2018-07-07"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -1937,6 +1937,20 @@ La UEPC o UMPC, conforme a sus atribuciones, llevarán un control sobre las empr
 
 La UEPC o UMPC, conforme a sus atribuciones, podrán solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna persona obstaculice o se oponga a la práctica de la inspección, independientemente de las sanciones a que haya lugar.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 133 Bis.
+
+Queda prohibido la venta, almacenamiento o distribución de cualquier producto explosivo de baja o mediana intensidad, inflamable, juegos pirotécnicos o similares en los locales o puestos localizados en mercados, tianguis, vías o espacios públicos.
+
+A excepción de las restricciones consideradas en el párrafo anterior, las UMPC realizaran visitas de inspección en los lugares en los que se solicite autorización de los ayuntamientos para la venta o distribución de productos explosivos de baja o mediana intensidad, inflamables, juegos pirotécnicos o similares a efecto de emitir opinión técnica sobre la factibilidad de dichas actividades.
+
+La opinión técnica favorable de las UMPC, será requisito indispensable para la autorización o refrendo de licencias, permisos o autorizaciones para la venta o distribución de productos explosivos de baja o mediana intensidad, inflamables y/o juegos pirotécnicos, por lo que en caso de que las UMPC emitan opinión negativa, los Ayuntamientos estarán impedidos para otorgar las autorizaciones a que alude el presente artículo.
+
+Así mismo, será de carácter indispensable que las UMPC impartan un curso intensivo, expidiendo la constancia respectiva al personal encargado del manejo para la venta o distribución de productos explosivos de baja y mediana intensidad, inflamables y/o juegos pirotécnicos.
+
+En el interior de inmuebles, establecimientos o espacios cerrados, destinados a la prestación de servicios o a la realización de actividades de entretenimiento, diversión, esparcimiento o de cualquier otro de carácter similar, quedará estrictamente prohibido la ejecución de actos que pongan en peligro o riesgo a los asistentes, de manera especial los que impliquen el uso de productos explosivos de baja o mediana intensidad, inflamables, artefactos y/o juegos pirotécnicos.
+
 ###### Artículo 134.
 
 Las inspecciones se sujetarán a las siguientes bases:
@@ -2296,3 +2310,9 @@ P.O. 7 DE JULIO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los incisos establecidos en el párrafo segundo del artículo 105 del presente decreto, entrarán en vigor en el próximo ejercicio fiscal.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 395 POR EL QUE SE ADICIONA EL ARTÍCULO 133 BIS, CON CUATRO PÁRRAFOS, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA Y UN SEGUNDO PÁRRAFO AL INCISO M) DE LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
