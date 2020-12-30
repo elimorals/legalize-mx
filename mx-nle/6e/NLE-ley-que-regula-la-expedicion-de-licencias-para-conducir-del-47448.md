@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2020-06-01"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -333,13 +333,21 @@ IV. Notificarán (sic) la autoridad municipal competente, remitiéndole los dato
 
 La conducción de vehículo automotor en estado de voluntaria intoxicación que afecten la capacidad de manejo, o utilizando simultáneamente algún tipo de aparato de comunicación, salvo que se utilice con tecnología de manos libres u otra tecnología que evite la distracción del conductor, será sancionada al menos, en los términos siguientes:
 
-I. Por conducir en alguna de las referidas condiciones, multa de 50 a 200 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa de 100 a 300 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+I. Por conducir en alguna de las referidas condiciones, multa de 50 a 200 veces el valor diario de la Unidad de Medida y Actualización, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
 
-III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 cuotas, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Por no acreditar haber acudido al menos al 90 % de las sesiones de tratamiento decretadas, multa de 100 a 200 cuotas y suspensión de la licencia para conducir hasta por 18 meses.
+II. Por conducir en alguna de las referidas condiciones, y cometer cualquier infracción administrativa, una multa de 100 a 300 veces el valor diario de la Unidad de Medida y Actualización, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Por conducir en alguna de las referidas condiciones, por más de dos veces en un lapso de un año, procederá multa de 200 a 600 veces el valor diario de la Unidad de Medida y Actualización, tratamiento para los conductores en estado de voluntaria intoxicación, suspensión de la vigencia de la licencia hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV. Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización y suspensión de la licencia para conducir hasta por 18 meses.
 
 En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
 
@@ -460,3 +468,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto de Control Vehicular contará con un plazo no mayor a 90 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto para comenzar a expedir las licencias de conducir digitales.
 
 TERCERO.- Los Municipios del Estado de Nuevo León, dentro de un plazo no mayor de 120 días, deberán modificar sus reglamentos de tránsito a fin de establecer en los mismos la equivalencia jurídica en cuanto a la validez de la Licencia de Conducir Digital expedida por la autoridad estatal.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
