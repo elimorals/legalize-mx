@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-cambio-climatico-del-estado-de-nuevo-leon-139175"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-20"
-last_updated: "2020-06-24"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Número 143 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de noviembre de 2019.
 
@@ -875,9 +875,9 @@ Tercero.- Los Municipios del Estado contarán con un plazo máximo de 90 días h
 
 Cuarto.- En un plazo de 180 días naturales contados a partir de la entrada en vigor de esta Ley, el Poder Ejecutivo deberá emitir el Programa Estatal de Cambio Climático.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Quinto.- La Comisión Intersecretarial para el Cambio Climático de Nuevo León y el Consejo Técnico de Cambio Climático del Estado de Nuevo León, deberán integrarse e instalarse dentro de los 60 días hábiles siguientes a que se declare oficialmente la apertura de las oficinas Estatales y Municipales.
+Quinto.- La Comisión Intersecretarial para el Cambio Climático de Nuevo León y el Consejo Técnico de Cambio Climático del Estado de Nuevo León, deberán integrarse e instalarse dentro de los 60 días hábiles contados a partir de la publicación del Decreto mediante el cual el Poder Legislativo elija, mediante aprobación, a los integrantes del Consejo Técnico que le corresponden, en los términos del artículo 19 de esta Ley, en el Periódico Oficial del Estado de Nuevo León. La Comisión de Medio Ambiente y Desarrollo Sustentable del Congreso del Estado podrá realizar este proceso en forma remota por medios electrónicos o de manera presencial, según estime pertinente, a fin de proteger la salud de los participantes en el proceso, tomando en consideración los indicadores emitidos por la Secretaría de Salud en el Estado.
 
 Sexto.- La Secretaría de Finanzas y Tesorería General del Estado, se encargará de determinar los trámites administrativos para implementar las áreas de infraestructura, recursos humanos, materiales y financieros, realizando las asignaciones presupuestales respectivas para la optimización y el debido cumplimiento de la presente Ley, creando una partida presupuestal establecida en la Ley de Egresos del Estado, la cual no podrá ser inferior a la del año inmediato anterior.
 
@@ -910,5 +910,11 @@ JOSÉ MANUEL VITAL COUTURIER
 P.O. 24 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 315. SE REFORMA EL QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN Y SE REFORMA EL SEXTO TRANSITORIO DEL DECRETO 176 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 29 DE ENERO DE 2020, QUE REFORMA LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 421. SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
