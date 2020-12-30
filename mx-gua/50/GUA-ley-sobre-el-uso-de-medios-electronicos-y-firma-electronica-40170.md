@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-401
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-09"
-last_updated: "2013-06-07"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el día 9 de julio de 2004.
 
@@ -39,9 +39,11 @@ LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto agilizar, accesibilizar y simplificar los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal, promoviendo y fomentando:
+La presente Ley es de orden público e interés general y tiene por objeto agilizar, acceder y simplificar los actos, convenios, comunicaciones, procedimientos administrativos, procedimientos seguidos en forma de juicio o procedimientos jurisdiccionales, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal, promoviendo y fomentando:
 
 I.- El uso de medios electrónicos en las relaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, y entre éstos y los particulares; y
 
@@ -99,15 +101,15 @@ XIV.- Sistema de información: Todo sistema utilizado para generar, enviar, reci
 
 XV.- Titular: La persona en cuyo favor se expide un certificado de firma electrónica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-Esta Ley se aplicará en los procedimientos seguidos en forma de juicio ante los tribunales u órganos jurisdiccionales que autoricen las leyes respectivas.
+Esta Ley se aplicará en los procedimientos seguidos en forma de juicio ante los tribunales u órganos jurisdiccionales.
 
-En los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica certificada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En los actos, convenios, comunicaciones, procedimientos administrativos, procedimientos seguidos en forma de juicio o procedimientos jurisdiccionales, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica certificada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
 
 La neutralidad tecnológica implica utilizar cualquier tecnología sin que se favorezca alguna en particular.
 
@@ -121,13 +123,11 @@ La confidencialidad es la característica que existe cuando la información perm
 
 Se considera que el contenido de un mensaje de datos es íntegro cuando ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes exijan o requieran la firma autógrafo por escrito y, cualquier otra formalidad que no seo susceptible de cumplirse por los medios señalados en el artículo anterior o requieran la concurrencia personal de los servidores públicos o los particulares.
+Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato exijan o requieran la firma autógrafa por escrito y, cualquier otra formalidad que no sea susceptible de cumplirse por los medios señalados en el artículo anterior o requieran la concurrencia personal de los servidores públicos o los particulares.
 
 ###### Artículo 6.
 
@@ -500,3 +500,13 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN !OS (SIC) ARTÍCULOS 1; 4, PÁRRAFOS PRIMERO Y SEGUNDO; Y 5 DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. Las reformas relativas a la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, contenidas en el Artículo Primero del presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las reformas, adiciones y derogaciones relativas a la Ley de Justicia Alternativa del Estado de Guanajuato, contenidas en el Artículo Segundo del presente Decreto entrarán en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. El Poder Judicial del Estado expedirá el reglamento para la mediación y conciliación en línea a más tardar a los noventa días siguientes al de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
