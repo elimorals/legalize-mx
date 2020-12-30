@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2017-06-30"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -371,9 +371,11 @@ De ser procedente la autorización, el solicitante deberá presentar dentro de l
 
 I.- Original del comprobante de pago de derechos por la inscripción de cada arma de fuego o equipo utilizado en la prestación de los servicios;
 
-II.- Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas y Tesorería General del Estado, por un monto equivalente a cinco mil veces el salario mínimo general vigente en la zona geográfica, misma que deberá contener la siguiente leyenda:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-"Para garantizar por un monto equivalente a cinco mil veces el salario mínimo general vigente en la zona geográfica las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada otorgada por la Dirección de Registro y Supervisión a Empresas y Servicios de Seguridad Privada, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas y Tesorería General del Estado".
+II.- Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas y Tesorería General del Estado, por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, misma que deberá contener la siguiente leyenda:
+
+"Para garantizar por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada otorgada por la Dirección de Registro y Supervisión a Empresas y Servicios de Seguridad Privada, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaria de Finanzas y Tesorería General del Estado."
 
 ### Capítulo IV. Del Personal Directivo, Administrativo y Operativo
 
@@ -609,7 +611,9 @@ Atendiendo al interés público o por el incumplimiento de los prestadores de se
 
 I.- Amonestación;
 
-II.- Multa de un mil hasta cinco mil veces el salario mínimo general vigente en la zona geográfica;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II.- Multa de un mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización,
 
 III.- Suspensión de los efectos de la autorización de uno a seis meses;
 
@@ -712,3 +716,9 @@ Primero.- El Decreto entrará en vigor al día siguiente de su publicación en e
 Segundo.- Para el funcionamiento de las Guardias Municipales o Guardias Auxiliares, los Municipios o el Estado deberán expedir previamente el Reglamento correspondiente.
 
 Tercero.- Las evaluaciones de control de confianza expedidas con anterioridad a la vigencia del presente decreto se sujetarán al término señalado en el último párrafo del artículo 6 de los Lineamientos del Certificado Único Policial (CUP) aprobados por el Consejo Nacional de Seguridad Pública, en cumplimiento del Acuerdo CNSP 13/XXXIX/15, publicados en fecha 9 de septiembre de 2016 en el Diario Oficial de la Federación.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
