@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2019-05-29"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -561,9 +561,9 @@ Los Magistrados de oficio o a petición de parte, para hacer cumplir sus determi
 
 I.- Amonestación;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II.- Multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
+II.- Multa equivalente al monto de sesenta y cinco a quinientas veces el valor diario de la Unidad de Medida y Actualización. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -743,7 +743,9 @@ Todas las notificaciones surtirán efectos a partir del día hábil siguiente al
 
 Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. El Tribunal decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
 
-Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un salario mínimo diario vigente en la Ciudad de Monterrey. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a una vez el valor diario de la Unidad de Medida y Actualización. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
 
 ###### Artículo 42.
 
@@ -1129,9 +1131,9 @@ El Magistrado que teniendo impedimento para conocer de un negocio no haga la man
 
 Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante el Tribunal, denunciar cualquiera de los impedimentos a que se refiere el Artículo 58. El impedimento se decidirá de plano, previo informe que rinda el recusado en la inteligencia de que las partes, al denunciar, ofrecerán las pruebas en que funden su petición, sin que sean admisibles pruebas testimoniales, periciales o la confesión.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Si la Sala Superior declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el salario mínimo diario general vigente en la ciudad de Monterrey en la fecha en que denunció el impedimento.
+Si la Sala Superior declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el valor diario de la Unidad de Medida y Actualización en la fecha en que denunció el impedimento.
 
 ### CAPITULO IX. DE LOS INCIDENTES
 
@@ -1339,9 +1341,13 @@ Del reconocimiento se levantará un acta que firmarán todos los que concurriero
 
 Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Magistrado los mandará citar si se proporcionan sus domicilios.
 
-El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, debiendo declararse desierta la prueba testimonial.
+El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince veces el valor diario de la Unidad de Medida y Actualización, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta Unidades de Medida y Actualización, debiendo declararse desierta la prueba testimonial.
 
 ###### Artículo 81.
 
@@ -1625,7 +1631,9 @@ IV.- Cuando las autoridades demandadas no provean sobre la suspensión del acto 
 
 El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de diez días hábiles contados a partir del día hábil siguiente al en que haya surtido efectos la notificación de la resolución recurrida, o tenga conocimiento del acto u omisión de que se duele, acompañando una copia del recurso para cada una de las partes.
 
-Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo vigente en la ciudad de Monterrey, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
 
 Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender la ejecución hasta en tanto se dicte resolución.
 
@@ -1679,7 +1687,9 @@ Si dentro del término de los quince días siguientes al en que haya causado eje
 
 Concluido el término anterior, con informe o sin él, el Magistrado decidirá si hubo incumplimiento injustificado de la sentencia, resolviendo lo conducente. En caso de que resuelva la existencia de un incumplimiento injustificado procederá como sigue:
 
-I. Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el salario mínimo vigente en la Ciudad de Monterrey, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+I. Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad.
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -2862,3 +2872,9 @@ P.O. 29 DE MAYO DE 2019.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Todos los asuntos que se encuentran en trámite, ante la Tercera Sala Ordinaria del Tribunal de Justicia Administrativa del Estado de Nuevo León, en el que no se haya señalado fecha, para la prueba preliminar y estén bajo el supuesto contenido en el artículo 106 Bis, se tramitará en los términos de éste.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
