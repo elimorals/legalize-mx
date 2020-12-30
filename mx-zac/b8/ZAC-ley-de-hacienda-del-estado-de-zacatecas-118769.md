@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -80,6 +80,10 @@ VIII. Estímulo: beneficio económico que se otorga a aquellos contribuyentes qu
 IX. Fuentes fijas: son las fuentes industriales estacionarias que generan emisiones desde puntos estacionarios (por ejemplo, chimeneas o respiraderos).
 
 X. Ley de Hacienda: Ley de Hacienda del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+X. BIS. Norma Oficial Mexicana: a la regulación técnica de observancia obligatoria expedida por las Autoridades Normalizadoras competentes cuyo fin esencial es el fomento de la calidad para el desarrollo económico y la protección de los objetivos legítimos de interés público previstos en la Ley de Infraestructura de la Calidad, mediante el establecimiento de reglas, denominación, especificaciones o características aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, marcado o etiquetado y de información. Las Normas Oficiales Mexicanas se considerarán como Reglamentos Técnicos o Medidas Sanitarias o Fitosanitarias, según encuadren en las definiciones correspondientes previstas en los tratados internacionales de los que el Estado Mexicano es Parte.
 
 XI. Objeto: es la actividad o cosa que la Ley señala como el motivo del gravamen, de tal manera que se considera como el hecho generador del impuesto;
 
@@ -415,9 +419,9 @@ II. Agua: Contaminantes en aguas residuales básicos y en aguas residuales, ocas
 
 Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
 
-Asimismo por los excedentes en contaminantes en miligramos por kilogramo, base seca, que se presente por cada cien metros, se deberá aplicar una cuota de 25 pesos por cada unidad de medida entera o fracción adicional de contaminantes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Asimismo por los excedentes en contaminantes en miligramos en litro que se presenten por metro cúbico, se deberá aplicar una cuota de 100 pesos por cada unidad de medida entera o fracción adicional de contaminantes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 DEL PAGO
 
@@ -449,45 +453,259 @@ II. Cuando no sea posible determinar la base gravable en los términos de la fra
 
 DEL OBJETO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 28.
 
-Es objeto de este impuesto el depósito o almacenamiento de residuos en vertederos públicos o privados, situados en el Estado.
+Es objeto de este impuesto el depósito o el almacenamiento de residuos en vertederos públicos o privados, situados en el Estado, que al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso, que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
 
-Para efectos de esta Sección se considera residuo cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+Para identificar que el residuo genera los efectos establecidos en el párrafo anterior, se tomará como base la información que reporten los sujetos obligados de este impuesto a la Secretaría de Medio Ambiente y Recursos Naturales, a través del Manifiesto de Impacto Ambiental, de su Licencia Ambiental Única, de la Cédula de Operación Anual y de su Plan de Manejo de Residuos, de conformidad en lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o en su caso, los residuos sean identificados en la Ley General para la Prevención y Gestión Integral de los Residuos, o en alguna de las Normas Oficiales Mexicanas siguientes según sea la actividad que desarrollan los sujetos obligado, (sic) atendiendo a la vigencia de la misma:
+
+TÍTULO NOMBRE DE LA NORMA OFICIAL FECHA
+
+MEXICANA PUBLICACIÓN
+
+EN EL DIARIO
+
+OFICIAL DE
+
+LA
+
+FEDERACIÓN
+
+I. NOM-159- Que establece los requisitos de 13 de febrero
+
+SEMARNAT- protección ambiental de los sistemas de de 2012
+
+2011 lixiviación de cobre
+
+II. NOM-157- Que establece los elementos y 30 de agosto
+
+SEMARNAT- procedimientos para instrumentar planes de 2011
+
+2009 de manejo de residuos mineros
+
+III. NOM-052- Que establece las características, el 23 de junio de
+
+SEMARNAT- procedimiento de identificación, 2006
+
+2005 clasificación y los listados de los residuos
+
+peligrosos.
+
+IV. NOM-055- Que establece los requisitos que deben 03 de
+
+SEMARNAT- reunir los sitios que se destinarán para un noviembre
+
+2003 confinamiento controlado de residuos de 2004
+
+peligrosos previamente estabilizados.
+
+V. NOM-098- Protección ambiental-Incineración de 01 de octubre
+
+SEMARNAT- residuos, especificaciones de operación y de 2004
+
+2002 límites de emisión de contaminantes.
+
+Secretaría de Medio Ambiente y Recursos
+
+Naturales.
+
+VI. NOM-087- Protección ambiental - Salud ambiental - 17 de febrero
+
+SEMARNAT- Residuos peligrosos biológico- de 2003
+
+SSA1-2002 infecciosos - Clasificación y
+
+especificaciones de manejo.
+
+VII. NOM-133- Protección ambiental-Bifenilos 10 de
+
+SEMARNAT- policlorados (BPC's)-Especificaciones de diciembre
+
+2000 manejo. de 2001
+
+VIII. NOM-058- Que establece los requisitos para la 22 de octubre
+
+SEMARNAT- operación de un confinamiento de 1993
+
+1993 controlado de residuos peligrosos.
+
+IX. NOM-057- Establece los requisitos que deben 22 de octubre
+
+SEMARNAT- observarse en el diseño, construcción y de 1993
+
+1993 operación de celdas de un confinamiento
+
+controlado para residuos peligrosos
+
+X. NOM-056- Que establece los requisitos para el 22 de octubre
+
+SEMARNAT- diseño y construcción de las obras de 1993
+
+1993 complementarias de un confinamiento
+
+controlado de residuos peligrosos.
+
+XI. NOM-054- Establece el procedimiento para 22 de octubre
+
+SEMARNAT- determinar la incompatibilidad entre dos o de 1993
+
+1993 más residuos considerados como
+
+peligrosos por la norma oficial mexicana
+
+NOM-052-SEMARNAT-1993
+
+XII. NOM-053- Que establece el procedimiento para 22 de octubre
+
+SEMARNAT- llevar a cabo la prueba de extracción para de 1993
+
+1993 determinar los constituyentes que hacen
+
+a un residuo peligroso por su toxicidad al
+
+ambiente.
+
+XIII. ACUERDO Que establece los criterios para clasificar 05 de
+
+por el que se a los residuos de manejo especial y noviembre de
+
+modifica la determinar cuáles están sujetos a plan de 2014
+
+Norma manejo; el listado de los mismos, el
+
+Oficial procedimiento para la inclusión o
+
+Mexicana exclusión a dicho listado; así como los
+
+NOM-161- elementos y procedimientos para la
+
+SEMARNAT- formulación de los planes de manejo.
+
+2011
+
+XIV. NOM-161- Que establece los criterios para clasificar 01 de febrero
+
+SEMARNAT- a los Residuos de Manejo Especial y de 2013
+
+2011 determinar cuáles están sujetos a Plan de
+
+Manejo
+
+XV. NOM-145- Confinamiento de residuos en cavidades 27 de agosto
+
+SEMARNAT- construidas por disolución en domos de 2004
+
+2003 salinos geológicamente estables.
+
+XVI. NOM-141- Que establece el procedimiento para 13 de
+
+SEMARNAT- caracterizar los jales, así como las septiembre de
+
+2003 especificaciones y criterios para la 2004
+
+caracterización y preparación del sitio,
+
+proyecto, construcción, operación y
+
+postoperación de presas de jales.
+
+XVII. NOM-083- Especificaciones de protección ambiental 20 de octubre
+
+SEMARNAT- para la selección del sitio, diseño, de 2004
+
+2003 construcción, operación, monitoreo,
+
+clausura y obras complementarias de un
+
+sitio de disposición final de residuos
+
+sólidos urbanos y de manejo especial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 28 BIS. Para efectos de esta Sección se considera lo siguiente:
+
+I. Co-procesamiento.- Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo.
+
+II. Disposición Final.- Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
+
+III. Evaluación del Riesgo Ambiental.- Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman.
+
+IV. Inventario de Residuos Depositados o Almacenados.- Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto (sic) Ley General para la Prevención y Gestión Integral de los Residuos.
+
+V. Reciclado.- Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando ésta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
+
+VI. Residuo.- Cualquier material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó, o que por sus características no pueda ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos que de ella deriven.
+
+VII. Tóxico.- Que la propiedad de una sustancia o mezcla de sustancias pueden provocar efectos adversos en la salud o en los ecosistemas.
+
+VIII. Valorización.- Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+
+IX. Residuos Peligrosos.- Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+X. Reutilización.- El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
+
+XI. Riesgo.- Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los sujetos obligados del impuesto establecido en esta sección.
 
 DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios depositen o almacenen residuos en vertederos públicos o privados.
+Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios depositen o almacenen residuos en vertederos públicos o privados, que, al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
 
 DE LA BASE
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 30.
 
-Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sea (sic) generados durante un mes de calendario o fracción del mismo.
+Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
+
+No constituirá base del impuesto, la proporción del residuo depositado o almacenado, destinado a la reutilización, reciclado, co-procesamiento o valorización con excepción de lo siguiente:
+
+I. Cuando el residuo permanezca un año o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+
+II. Cuando el residuo sea peligroso y permanezca seis meses o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+
+No existirá base del impuesto, cuando el residuo depositado o almacenado tenga las características técnicas de disposición final, con base en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, o alguna de las Normas Oficiales Mexicanas establecidas en el Artículo 28 de esta Ley.
 
 DE LA CUOTA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 31.
 
-El impuesto al depósito o almacenamiento de residuos en vertederos públicos o privado (sic) se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+El impuesto al depósito o almacenamiento de residuos se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
 
 DEL PAGO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 32.
 
-El impuesto determinado deberá ser enterado mensualmente por las personas físicas y morales, así como las unidades económicas dentro de los primeros diecisiete días del mes siguiente a su vencimiento.
+El impuesto determinado deberá ser enterado mensualmente por las personas físicas y morales, así como las unidades económicas dentro de los primeros diecisiete días del mes siguiente a su vencimiento, en cualquier oficina recaudadora de rentas de la Secretaría o en la forma y términos que se establezcan en el Código, utilizando las formas aprobadas para tal efecto.
 
 DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 33.
 
-Los contribuyentes sujetos al pago del Impuesto originado por el depósito o almacenamiento de residuos en vertederos públicos o privados a que se refiere esta Sección, deberán cumplir con las siguientes obligaciones:
+Los contribuyentes sujetos al pago del Impuesto originado por el depósito o el almacenamiento de residuos en vertederos públicos o privados a que se refiere esta Sección, deberán cumplir con las siguientes obligaciones:
 
-I. Presentar aviso de inscripción ante la Secretaría; y
+I. Presentar aviso de inscripción ante la Secretaría, así como demás avisos y declaraciones que se establezcan en el Código;
 
-II. Llevar un registro específico de los residuos en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, así el señalamiento de si fue depositado o almacenado en un vertedero público o privado y su ubicación.
+II. Llevar un Inventario de Residuos Depositados o Almacenados, en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, fecha de depósito o almacenamiento, así como el señalamiento de si fue depositado o almacenado en un vertedero público o privado y su ubicación;
+
+III. Llevar un registro específico de los residuos destinados a un proceso de reutilización, de reciclado, de co-procesamiento o de valorización, desde el día que inició el depósito o almacenaje, las fechas que se destinaron a esos procesos, y los residuos que tuviesen el retorno para depósito o almacenaje;
+
+IV. Llevar un inventario de los residuos de disposición final; y
+
+V. Presentar un informe anual del inventario establecido en la fracción II de este artículo, a través del portal tributario, con base en los lineamientos que para ello expida y publique la Secretaría mediante reglas de carácter general.
 
 ###### ARTÍCULO 34.
 
@@ -1563,31 +1781,41 @@ c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 VII. Por el servicio de expedición o puesta a disposición por ejemplar:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Del día ordinario $15.00;
+a) Del día ordinario. $ 20.00
 
 > <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 b) De fechas anteriores:
 
-1. Hasta seis meses $25.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Hasta de un año $30.00
+1. Hasta seis meses. $ 30.00
 
-3. De más de un año $40.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+2. Hasta de un año. $ 40.00
 
-c) Del día del suplemento $20.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+3. De más de un año. $ 50.00
 
-VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción $0.90
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+c) Del día suplemento. $ 30.00
 
-IX. Por certificación de copias de ejemplares $300.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción. $ 1.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IX. Por certificación de copias de ejemplares:
+
+a) Fecha menor a veinte años. $ 400.00
+
+b) Fecha mayor de veinte años. $ 500.00
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -1615,7 +1843,9 @@ d) Certificación de documentos de una a cinco fojas. $203.00, y por cada foja e
 
 II. La Dirección de Concesiones, Inspección y Vigilancia de Transporte:
 
-a) Expedición de concesiones del Servicio Público de Transporte por unidad:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a) Expedición de concesiones del Servicio Público de Transporte por unidad, en la modalidad de:
 
 1. Colectivo urbano y suburbano. $ 90,000.00
 
@@ -1651,7 +1881,17 @@ Por cada unidad excedente de las 10 primeras. $ 5,000.00
 
 12. De personal de empresas $70,000.00.
 
-b) Refrendo anual de concesión. $ 1,500.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Refrendo anual de concesión:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+1. Personas Físicas. $ 600.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Personas Morales. $ 950.00
 
 c) Reposición de concesión. $ 2,500.00
 
@@ -2053,17 +2293,19 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Calificación Registral, por testimonio o documento $55.00
+I. Calificación Registral, por testimonio o documento. $ 57.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,163.00, por inmueble; por el excedente del valor del bien inmueble se pagará el 1 por ciento.
+a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,163.00, por inmueble.
 
-Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $2,930.00. Para efectos del valor del inmueble, éste será el mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2117,87 +2359,89 @@ c) Para los efectos de este capítulo se equiparan a la compraventa los siguient
 
 17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Diligencias de apeo y deslinde $330.00
+III. Diligencias de apeo y deslinde: $ 343.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Capitulaciones matrimoniales $330.00
+IV. Capitulaciones matrimoniales: $ 343.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas $330.00
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $ 343.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Fusión de predios, por cada uno de los predios fusionados $110.00
+VI. Fusión de predios, por cada uno de los predios fusionados: $ 115.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción $110.00
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $ 115.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
 a) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales $1,210.00
+b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Subrogación de garantía, cesión de garantías u obligaciones reales $1,210.00
+c) Subrogación de garantía, cesión de garantías u obligaciones reales. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d) Comodato o convenios judiciales $1,210.00
+d) Comodato o convenios judiciales. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-e) Demandas o resoluciones que limiten el derecho de propiedad o posesión $1,210.00
+e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad $1,210.00
+f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad $1,210.00
+g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-h) Fianzas $1,210.00
+h) Fianzas. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-i) Prendas sobre crédito inscrito $1,210.00
+i) Prendas sobre crédito inscrito. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-j) Prenda de frutos pendientes $1,210.00
+j) Prenda de frutos pendientes. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares $1,210.00, y
+k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares. $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-l) División de copropiedad, por cada uno de los predios resultantes $1,210.00
+l) División de copropiedad, por cada uno de los predios resultantes. $ 1,256.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $990.00. Para inscripciones cuyo monto rebase el rango del valor establecido en esta fracción, se aplicará la tarifa adicional del 1% al monto excedente;
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $ 1,027.00.
+
+Para inscripciones cuyo monto rebase el rango de valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Contrato de apertura de crédito $660.00
+XI. Contrato de apertura de crédito $ 685.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. Los créditos otorgados en los que intervenga el fondo instituido por (sic) en relación a la agricultura (FIRA), el 0.16% sobre el monto.
+XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento.
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2207,17 +2451,17 @@ XII. Los créditos otorgados en los que intervenga el fondo instituido por (sic)
 
 Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso, 0.09% sobre el importe de la operación que se consigne en el documento.
+Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados por el gobierno federal, 0.09% sobre el importe de la operación que se consigne en el documento.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 En materia de crédito para adquisición de vivienda, por el registro del contrato de hipoteca y crédito simple, se tasará al 0.125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Inscripción de documentos que contengan los siguientes actos $990.00
+XIII. Inscripción de documentos que contengan los siguientes actos: $1,028.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2257,13 +2501,17 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor o en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos de (sic) dicho capital no exceda de $392,800.00 se pagará la cantidad de $1,210.00
+XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos de (sic) dicho capital no exceda de $392,800.00 se pagará la cantidad de $1,256.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos $990.00
+Para Inscripciones cuyo monto rebase el rango del valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1%, al monto del excedente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI. Registro de documentos que contengan los siguientes actos: $ 1,028.00
 
 a) Disolución de personas morales;
 
@@ -2277,71 +2525,71 @@ d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVII. Cancelación de inscripción o anotación $220.00
+XVII. Cancelación de inscripción o anotación: $ 229.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto $3,300.00
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $ 3,426.00
 
 XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán dentro de las 7 horas hábiles siguientes a su solicitud, adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,500.00
+a) Inscripción de documentos a excepción de fraccionamientos urbanos $ 1,557.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Expedición de copias y certificados $450.00
+b) Expedición de copias y certificados. $ 468.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de $1,210.00
+XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de: $ 1,256.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 103.
 
-Por la inscripción de contrato innominado $2,860.00
+Inscripción de contrato innominado: $ 2,969.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. No propiedad $330.00
+I. No propiedad: $ 343.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Inscripción o no inscripción $330.00
+II. Inscripción o no inscripción: $ 343.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Libertad de graven (sic) $220.00
+III. Libertad de gravamen: $ 229.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Existencia de un gravamen $220.00
+IV. Existencia de gravamen: $ 229.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Por cada gravamen excedente $55.00
+a) Por cada gravamen excedente: $ 57.00
 
 V. Certificado de Historial registral:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Hasta 5 fojas $330.00
+a) Hasta 5 fojas. $ 343.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Por cada foja excedente $20.00
+b) Por cada foja excedente. $ 21.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Certificado de Limitación o de Anotación $270.00
+VI. Certificado de Limitación o de Anotación $ 343.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2355,23 +2603,23 @@ I. Existente en libros:
 
 a) Certificadas
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Hasta cinco fojas $440.00
+1. Hasta cinco fojas $ 457.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por cada foja excedente $20.00
+2. Por cada foja excedente: $ 21.00
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Hasta cinco fojas $220.00
+1. Hasta cinco fojas: $ 229.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por cada foja excedente $17.00
+2. Por cada foja excedente $ 18.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2383,17 +2631,19 @@ a) Certificadas
 
 1. Hasta cinco fojas $550.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por cada foja excedente $20.00.
+2. Por cada foja excedente: $ 21.00
 
 b) Simples
 
-1. Hasta cinco fojas: $250.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+1. Hasta cinco fojas: $ 260.00
 
-2. Por cada foja excedente $17.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Por cada foja excedente: $ 18.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2419,17 +2669,17 @@ b) Simples
 
 2. Por cada foja excedente $17.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 106.
 
-Ratificación o certificación de firmas $330.00
+Ratificación o certificación de firmas: $ 343.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 107.
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto $330.00
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $ 343.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2443,17 +2693,15 @@ Si el mismo origina dos o más inscripciones, se tasarán por separado cada acto
 
 Del ingreso percibido por concepto del pago de derechos por los servicios de catastro y registro público, un 5% será destinado a su modernización y para la celebración de convenios con Municipios, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+ARTÍCULO 107 BIS. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
-ARTÍCULO 107 BIS. Por los servicios que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refieran dichos servicios se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $550.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $914.00
 
-ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a. $880.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción $220.00
+ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $ 229.00
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2875,6 +3123,10 @@ a) Secundaria. $35.00
 
 b) Medio Superior. $46.00
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c) Centros de Capacitación para el Trabajo $ 50.00
+
 XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad. $1,717.00
 
 XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios. $4,700.00
@@ -2996,6 +3248,10 @@ a) Credencial $35.00
 b) Historial Académico $10.00
 
 c) Constancia $35.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+LVII. Corrección de certificados de estudios de los Centros de Capacitación para el Trabajo. $ 50.00
 
 ### CAPÍTULO NOVENO. Servicios de la Secretaría de Administración
 
@@ -3177,139 +3433,143 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Informe preventivo $4,583.04
+I. Informe preventivo. $ 4,749.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Con nivel de impacto bajo $5,983.99
+a) Con nivel de impacto bajo. $ 6,201.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con nivel de impacto medio $6,168.36
+b) Con nivel de impacto medio. $ 6,392.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Con nivel de impacto alto $6,996.43
+c) Con nivel de impacto alto. $ 7,250.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Con nivel de impacto bajo $7,825.54
+a) Con nivel de impacto bajo. $ 8,109.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con nivel de impacto medio $9,993.11
+b) Con nivel de impacto medio. $ 10,355.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Con nivel de impacto alto $13,943.90
+c) Con nivel de impacto alto. $ 14,449.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Con nivel de impacto bajo $15,043.83
+a) Con nivel de impacto bajo. $ 15,588.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con nivel de impacto medio $18,804.00
+b) Con nivel de impacto medio. $ 19,485.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Con nivel de impacto alto $22,752.71
+c) Con nivel de impacto alto. $ 23,576.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Exención de trámite de impacto ambiental $3,612.27;
+V. Exención de trámite de impacto ambiental. $ 3,743.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental $2,226.94;
+VI. Ratificación y ampliación de resolución de impacto ambiental. $ 2,308.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Estudio de riesgo ambiental $10,342.05, y
+VII. Estudio de riesgo ambiental. $ 10,716.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $4,655.95.
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $ 4,825.00
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental $13.54 por foja;
+I. Reproducción de material didáctico, ecológico y ambiental. $14.00 por foja
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Reproducción de material informativo ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro) $160.41 c/u;
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $ 166.00 c/u;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados a disco compacto $343.73 c/u;
+III. Reproducción de material con información ecológico–ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros) $356.00 c/u;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Información de Planos con información ecológico-ambiental $1,489.49 c/u;
+IV. Información de Planos con información ecológico-ambiental. $1,543.00 c/u;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Reproducción de planos con información ecológico-ambiental $916.61 c/u;
+V. Reproducción de planos con información ecológico-ambiental. $950.00 c/u;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora $1,256.17;
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $ 1,302.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental $2,062.37;
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $ 2,137.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Reproducción en plotter $973.90;
+VIII. Reproducción en plotter. $1,009.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Autorización por simulacro de incendio $973.90;
+IX. Autorización por simulacro de Incendio. $ 1,009.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Registro de generadores de residuos de manejo especial $3,510.19, y
+X. Registro de generadores de residuos de manejo especial. $ 3,637.00;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Trámite de certificación ambiental por Renovación de Registro de Manejo Especial $2,864.40.
+XI. Trámite de certificación ambiental $ 2,968.00;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XII. Renovación de Registro de Generadores de Residuos de Manejo Especial $ 2,968.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 121 BIS. Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Sala de Centro de Educación Ambiental $2,604.00;
+a) Sala de Centro de Educación Ambiental. $ 2,698.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Sala de uso múltiple $2,083.20;
+b) Sala de uso múltiple. $ 2,159.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Sala de Juntas $833.28;
+c) Sala de Juntas. $ 864.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d) Plaza Cívica $520.80, y
+d) Plaza Cívica. $ 540.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-e) Plaza del lago $520.80.
+e) Plaza del lago. $ 540.00
 
 ###### ARTÍCULO 122.
 
@@ -3636,3 +3896,19 @@ El resultado de la aplicación de las acciones descritas en el presente artícul
 ###### ARTÍCULO OCTAVO.
 
 Derivado de la reforma a los artículos 2 y 34 de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, los municipios que en el ejercicio fiscal 2020 pudiesen observar un crecimiento menor, derivado de la reforma a la fórmula para determinar y distribuir sus participaciones, tendrán garantizado que su participación no sea menor a la que obtuvieron en el ejercicio fiscal 2019, las cuales podrán cubrirse, en su caso, a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos establecidos en las leyes de la materia.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiuno, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, a más tardar el 31 de marzo de 2021, las reglas de carácter general relativas a la obtención de la opinión del cumplimiento de obligaciones fiscales.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
