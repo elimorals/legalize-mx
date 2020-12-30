@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2020-12-19"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -706,6 +706,10 @@ k) Introducir métodos y procedimientos en la selección y desarrollo del person
 l) Aprobar, en su caso, la adquisición de bienes en cualquiera de las formas previstas por la ley;
 
 m) Conceder y expedir licencias, permisos y autorizaciones municipales para el funcionamiento de empresas comerciales, industriales o de servicios, establecimientos de bebidas alcohólicas, así como cancelarlas temporal o definitivamente por el mal uso de ellas;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Queda prohibido para los ayuntamientos otorgar licencias, permisos o similares para venta, almacenamiento o distribución de cualquier producto (sic) explosivos de baja o mediana intensidad, inflamables, juegos pirotécnicos o similares en los locales o puestos ubicados en los mercados, tianguis, vías o espacios públicos;
 
 n) Acordar la contratación de obras y servicios públicos municipales, en términos de esta Ley y sus reglamentos;
 
@@ -2680,3 +2684,9 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Al Poder Ejecutivo del Estado, se le otorga un plazo de 60 días naturales a partir de la entrada en vigor del presente decreto, para que reforme o expida las disposiciones reglamentarias derivadas de su vigencia.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 395 POR EL QUE SE ADICIONA EL ARTÍCULO 133 BIS, CON CUATRO PÁRRAFOS, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA Y UN SEGUNDO PÁRRAFO AL INCISO M) DE LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
