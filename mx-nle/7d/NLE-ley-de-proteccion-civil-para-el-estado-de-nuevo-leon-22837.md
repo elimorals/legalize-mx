@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2019-03-11"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -1067,9 +1067,11 @@ I. Amonestación;
 
 II. Clausura temporal o definitiva, total o parcial de los establecimientos;
 
-III. Multa equivalente al monto de 20 a 1,000 días de salario mínimo vigente en la zona donde se cometió la infracción.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 2,000 días de salario mínimo, así como la clausura definitiva;
+III. Multa equivalente al monto de 20 a 1,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 2,000 veces el valor diario de la Unidad de Medida y Actualización, así como la clausura definitiva.
 
 IV. Suspensión de obras, instalaciones o servicios; y
 
@@ -1242,3 +1244,9 @@ P.O. 11 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 100. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
