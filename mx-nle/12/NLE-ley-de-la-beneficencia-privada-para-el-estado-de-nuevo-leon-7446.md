@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-beneficencia-privada-para-el-estado-de-nuevo-leon-744
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-02"
-last_updated: "2011-07-05"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEON
+LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de enero de 1984.
 
@@ -1143,11 +1143,11 @@ El desacato por los Notarios a que alude el supuesto previsto por la fracción I
 
 La infracción por los jueces a la fracción V del Artículo 112o., se sancionará por conducto de la autoridad competente, con suspensión en el desempeño de su cargo por el término de un mes y en caso de reincidencia con destitución definitiva.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 118o. Bis.
+###### ARTICULO 118o Bis.
 
-Para los efectos de los artículos anteriores, se entenderá por cuota la cantidad de dinero equivalente al salario mínimo general diario vigente en el Estado.
+Para los efectos de los artículos anteriores, se entenderá por cuota, el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 119o.
 
@@ -1250,3 +1250,9 @@ Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince día
 Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
