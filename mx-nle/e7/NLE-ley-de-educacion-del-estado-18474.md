@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-12-28"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -113,15 +113,19 @@ c) Educación indígena: Es la que se ofrece a los grupos indígenas del Estado,
 
 d) Educación para adultos: La que se ofrece a los individuos de quince años o más que no hayan cursado o concluido la educación básica;
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ EL INCISO e) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Educación especial: Está destinada a individuos con necesidades educativas especiales, con discapacidades transitorias o definitivas, así como a aquellos superdotados o con talento extraordinario, en donde debemos entender por:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Superdotado: Es la niña, niño o adolescente que posea un coeficiente intelectual superior a 130.
+e) EDUCACIÓN ESPECIAL: ESTÁ DESTINADA A PERSONAS CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; CON APTITUDES SOBRESALIENTES, PERSONAS SUPERDOTADAS O CON TALENTO EXTRAORDINARIO.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+Para los efectos de este inciso se define como:
 
-Talento Extraordinario: Es la cualidad de toda niña, niño o adolescente que muestre un desempeño extraordinario en una determinada área o tema dentro del ámbito educativo que necesita de programa educativo especial para que alcance y favorezca su máximo desarrollo profesional.
+Persona con Aptitudes Sobresalientes: aquella que sin ser superdotado o sin ser de talento extraordinario son capaces de destacar significativamente del grupo social y educativo al que pertenecen en uno o más de los siguientes campos del quehacer humano: científico-tecnológico, humanístico, sociocultural, artístico o acción motriz.
+
+Persona Superdotada: a quien cuente con un coeficiente intelectual superior a 130 y que por sus características requiere una educación diferenciada.
+
+Talento Extraordinario: Es la cualidad de toda persona que muestre un desempeño extraordinario en una determinada área o tema dentro del ámbito educativo que necesita de programa educativo especial para que alcance y favorezca su máximo su (sic) desarrollo profesional.
 
 f) Educación media superior: Comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes;
 
@@ -373,21 +377,25 @@ XI.- Promoverán mayor participación de la sociedad en la educación, así como
 
 XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
 
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII.- IMPLEMENTARÁN ACCIONES ENCAMINADAS A LA DETECCIÓN E IDENTIFICACIÓN TEMPRANA DEL ALUMNADO CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; CON APTITUDES SOBRESALIENTES, SUPERDOTADAS Y TALENTO EXTRAORDINARIO;
+
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XIII.- Implementarán acciones encaminadas a la detección de educandos con necesidades educativas especiales;
-
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
-
-XIV. Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
+XIV.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
 XV.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres, madres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus docentes;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XVI.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI.- FORTALECERÁN LA EDUCACIÓN ESPECIAL Y LA EDUCACIÓN INICIAL, INCLUYENDO A LAS PERSONAS CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; CON APTITUDES SOBRESALIENTES, SUPERDOTADAS Y TALENTO EXTRAORDINARIO;
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -397,13 +405,35 @@ XVII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuesta
 
 XVIII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para los educandos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XIX.- Aplicar los programas compensatorios implementados por la autoridad educativa federal, a través de los recursos específicos asignados, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones específicas que la autoridad educativa estatal deba realizar para reducir y superar dichos rezagos; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
+XIX.- APLICAR LOS PROGRAMAS COMPENSATORIOS IMPLEMENTADOS POR LA AUTORIDAD EDUCATIVA FEDERAL, A TRAVÉS DE LOS RECURSOS ESPECÍFICOS ASIGNADOS, CONSIDERANDO PREFERENTEMENTE LAS REGIONES CON MAYORES REZAGOS EDUCATIVOS, PREVIA CELEBRACIÓN DE CONVENIOS EN LOS QUE SE ESTABLEZCAN LAS PROPORCIONES DE FINANCIAMIENTO Y LAS ACCIONES ESPECÍFICAS QUE LA AUTORIDAD EDUCATIVA ESTATAL DEBA REALIZAR PARA REDUCIR Y SUPERAR DICHOS REZAGOS;
 
-XX.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la capacitación hacia los maestros y personal educativos en la atención a las niñas, niños y adolescentes con discapacidad.
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XX.- APOYARÁN Y DESARROLLARÁN PROGRAMAS, CURSOS Y ACTIVIDADES QUE FORTALEZCAN LA CAPACITACIÓN HACIA LOS MAESTROS Y PERSONAL DE ESCUELAS DE EDUCACIÓN BÁSICA, MEDIA SUPERIOR REGULARES Y ESPECIALES EN LA ATENCIÓN A LAS NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; CON APTITUDES SOBRESALIENTES, SUPERDOTADAS Y TALENTO EXTRAORDINARIO;
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXI.- DESARROLLARÁN UN PROGRAMA INTEGRAL EDUCATIVO PARA PERSONAS CON DISCAPACIDAD, TRANSITORIA O DEFINITIVA; ASÍ COMO UNO PARA QUIENES POSEEN APTITUDES SOBRESALIENTES, SUPERDOTADAS Y TALENTO EXTRAORDINARIO, ASÍ MISMO SE DESARROLLARÁN CURSOS Y ACTIVIDADES QUE POTENCIALICEN SUS HABILIDADES;
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXII.- LA SECRETARÍA, CON EL APOYO DE LA SECRETARÍA DE SALUD DEL ESTADO, DE ACUERDO A SUS COMPETENCIAS Y SUJETÁNDOSE A LOS LINEAMIENTOS ESTABLECIDOS POR LA AUTORIDAD EDUCATIVA FEDERAL REALIZARÁN, UN PROTOCOLO DE DETECCIÓN Y ATENCIÓN TEMPRANA DE EDUCACIÓN ESPECIAL QUE INCLUYA LA ORIENTACIÓN DE LOS PADRES O TUTORES, ASÍ COMO LA CAPACITACIÓN A LOS MAESTROS Y PERSONAL DE ESCUELAS DE EDUCACIÓN BÁSICA, MEDIA SUPERIOR REGULARES Y ESPECIALES, PARA LOS ALUMNOS CON DISCAPACIDAD, CON APTITUDES SOBRESALIENTES, PERSONAS SUPERDOTADAS O CON TALENTO EXTRAORDINARIO; Y
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIII.- DESARROLLARÁN PROGRAMAS INTEGRALES DE EDUCACIÓN FÍSICA QUE FOMENTE EN LOS EDUCANDOS LA IMPORTANCIA DE PRACTICAR EL EJERCICIO COMO HERRAMIENTA PARA CUIDAR LA SALUD Y EL ESTADO FÍSICO.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -989,51 +1019,55 @@ La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas 
 
 Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 49.
 
-La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje con equidad inclusiva, en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+La educación especial está destinada a personas con discapacidad, transitoria o definitiva; con aptitudes sobresalientes, superdotadas o con talento extraordinario, atendiendo a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
 Tratándose de niñas, niños y adolescentes con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+Para la identificación y atención educativa de las personas con aptitudes sobresalientes, superdotadas o con talento extraordinario, de las instituciones que integran el sistema educativo estatal, contarán con un protocolo que se sujetará a los lineamientos establecidos por la autoridad educativa federal, así mismo establecerán los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, media superior y superior, con base en sus facultades y a la disponibilidad presupuestal.
 
-Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención la cual estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a las disposiciones legales que resulten aplicables.
+Las instituciones de educación superior autónomas por ley podrán establecer convenios con la autoridad educativa estatal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a educandos con aptitudes sobresalientes, superdotadas y de talento extraordinario.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+Cuando las instituciones de educación básica, media superior y superior detecten casos de estudiantes con aptitudes sobresalientes, superdotadas o talento extraordinario, deberán informar a la autoridad educativa responsable, a fin de que la educación de estos estudiantes sea impartida de acuerdo con los lineamientos establecidos por la autoridad educativa federal para su atención.
 
-Los planteles educativos, en donde se imparta la educación especial, deberán ser accesibles y contar al menos con un titular y un suplente facultados para la atención de las niñas, niños y adolescentes con alguna discapacidad, cuando así se requiera.
+La educación especial incluirá la capacitación y orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica, media superior regulares y especiales, que integren a los alumnos con necesidades especiales de educación.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales como lo son las personas con discapacidad, transitoria o definitiva, con aptitudes sobresalientes, superdotadas o con talento extraordinario.
+
+La capacitación promoverá la educación inclusiva de personas con discapacidad y desarrollara las competencias necesarias para su adecuada atención la cual estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a las disposiciones legales que resulten aplicables.
+
+En los casos de educación para personas con aptitudes sobresalientes, superdotadas y de talento extraordinario, se capacitará a los maestros en razón a las necesidades y condiciones que estos requieran. Misma que estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a las disposiciones legales que resulten aplicables.
+
+Los planteles educativos, en donde se imparta la educación especial para personas con discapacidad, deberán ser accesibles y contar al menos con un titular y un suplente facultados para la atención de las niñas, niños y adolescentes con alguna discapacidad, en los planteles educativos en se imparta educación especial para personas con aptitudes sobresalientes, superdotadas o con talento extraordinario, se deberá facilitar al máximo el proceso de flexibilización y/o adelanto de cursos, como se encuentra establecido en los lineamientos emitidos por las autoridades educativas federales.
+
+Con el fin de atender y proteger el derecho a la educación de las personas con aptitudes sobresalientes, superdotadas y talento extraordinario y en el ámbito de sus atribuciones la Secretaria deberá facilitar la creación de centros especiales para su educación, con base en la disponibilidad presupuestal del Estado.
 
 La educación especial proporcionará orientación a los padres, madres de familia o tutores, maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
 
 Para apoyar el desarrollo pleno de los alumnos con necesidades educativas especiales deberán establecerse programas educativos adecuados a su edad, madurez y potencial cognoscitivo, encaminados a aprovechar toda su capacidad, proporcionando el Estado los medios materiales, técnicos y económicos necesarios para su máximo desarrollo personal y profesional, ampliando las oportunidades para su formación integral, evitando cualquier acto de discriminación que impida su desarrollo, de conformidad con los conocimientos interdisciplinarios más avanzados que se hayan desarrollado a este respecto.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
-
 En el caso de personas con discapacidad, la educación deberá atender lo dispuesto en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 50.
 
-Para cumplir con los fines de la educación especial, la autoridad educativa estatal deberá ampliar gradualmente este servicio a todos los niveles de educación básica, asignando a cada escuela donde exista la necesidad, un equipo interdisciplinario conformado entre otros por maestros y maestras especialistas, psicólogos y psicólogas, así como, trabajadores y trabajadoras sociales que apoyen el proceso de integración escolar de los alumnos y alumnas con necesidades educativas especiales.
+Para cumplir con los fines de la educación especial, la autoridad educativa estatal deberá ampliar gradualmente este servicio a todos los niveles de educación básica, asignando a cada escuela donde exista la necesidad, un equipo interdisciplinario conformado entre otros por maestros y maestras especialistas, psicólogos y psicólogas, así como, trabajadores y trabajadoras sociales que apoyen el proceso de integración escolar, así como la identificación y atención de los alumnos y alumnas con necesidades educativas especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus propias condiciones con equidad social inclusiva y con perspectiva de género con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en los lineamientos para la evaluación diagnosticada, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia.
-
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
-
-Para la identificación, evaluación, atención educativa, acreditación y certificación, de alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestal.
-
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
-
-Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
+Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus propias condiciones con equidad social incluyente y con perspectiva de género con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
 
 #### SECCIÓN 5. DE LA EDUCACIÓN MEDIA SUPERIOR
 
@@ -1407,9 +1441,13 @@ La autoridad educativa estatal podrá ajustar el calendario escolar, cuando ello
 
 Los maestros y maestras serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos que los citados en el presente Artículo.
 
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 87.
 
-En días escolares, las horas de labor escolar se dedicarán a la práctica docente y a las actividades educativas con los educandos, conforme a lo previsto en los planes y programas de estudio aplicables.
+EN DÍAS ESCOLARES, LAS HORAS DE LABOR ESCOLAR SE DEDICARÁN A LA PRÁCTICA DOCENTE Y A LAS ACTIVIDADES EDUCATIVAS Y DE EDUCACIÓN FÍSICA CON LOS EDUCANDOS, CONFORME A LO PREVISTO EN LOS PLANES Y PROGRAMAS DE ESTUDIO APLICABLES.
 
 Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizadas por quien haya establecido o ajustado el correspondiente calendario escolar.
 
@@ -1569,11 +1607,23 @@ V.- Colaborar con el personal docente en el diagnóstico y atención de las difi
 
 VI.- Asegurar que sus hijas, hijos, pupilas o pupilos cumplan con las tareas y compromisos escolares, así como de las actividades extraescolares que realicen;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VII.- Asistir a las juntas de información convocadas por la escuela, así como participar en los programas encaminados a la mejor atención y apoyo a los educandos; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio educativo en los planteles.
+VII.- ASISTIR A LAS JUNTAS DE INFORMACIÓN CONVOCADAS POR LA ESCUELA, ASÍ COMO PARTICIPAR EN LOS PROGRAMAS ENCAMINADOS A LA MEJOR ATENCIÓN Y APOYO A LOS EDUCANDOS;
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE REFORMÓ LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VIII.- ABSTENERSE, POR CUALQUIER MEDIO, DE INTERRUMPIR O IMPEDIR EL SERVICIO EDUCATIVO EN LOS PLANTELES; Y
+
+(NOTA: EL 30 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 363 POR EL QUE SE ADICIONÓ LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IX.- FOMENTAR EN SUS HIJAS, HIJOS, PUPILAS O PUPILOS LA CULTURA FÍSICA, LA PRÁCTICA DEL DEPORTE Y LA BUENA ALIMENTACIÓN.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -1945,7 +1995,9 @@ XX.- Incumplir con las medidas correctivas derivadas de las visitas de inspecci�
 
 Las infracciones a la presente Ley, cometidas por particulares que presten un servicio educativo serán sancionadas por la autoridad educativa competente en la forma siguiente:
 
-I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la región del Estado donde se encuentra ubicada la institución educativa y en la fecha en la que se cometa la infracción;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+I.- Multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
 
@@ -2326,3 +2378,19 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 399. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 363. SE REFORMA EL INCISO E) DE LA FRACCIÓN III DEL ARTÍCULO 4, LAS FRACCIONES XIII, XVI, XIX Y XX DEL ARTÍCULO 16 Y LOS ARTÍCULOS 49, 50, 51, EL PRIMER PÁRRAFO DEL ARTÍCULO 87 Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 93; SE ADICIONAN LAS FRACCIONES XXI, XXII Y XXIII DEL ARTÍCULO 16 Y LA FRACCIÓN IX DEL ARTÍCULO 93, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación del Estado, previo al inicio del ciclo escolar 2021-2022, deberá de contar con el programa integral educativo, señalado en la fracción XXI del artículo 16 del presente Decreto.
+
+TERCERO.- La Secretaría de Educación del Estado dispondrá de un plazo de hasta 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar el protocolo de detección y atención temprana de educación especial que establece la fracción XXII del artículo 16 del presente Decreto.
