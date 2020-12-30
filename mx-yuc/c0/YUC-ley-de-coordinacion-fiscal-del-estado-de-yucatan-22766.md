@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2019-12-31"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -136,6 +136,10 @@ También quedan exceptuados de participaciones a los municipios, el impuesto a l
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 11. 20% de la recaudación del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+12. 20% del monto que corresponda al estado por la recaudación del impuesto previsto en el artículo 126 de la Ley del Impuesto Sobre la Renta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -271,7 +275,9 @@ Las participaciones federales que correspondan al estado y a los municipios, en 
 
 Los municipios podrán convenir que el estado afecte sus participaciones o aportaciones susceptibles de afectación, en garantía, como fuente de pago, para efectos de lo establecido en el párrafo anterior de este artículo.
 
-No estarán sujetas a lo dispuesto en el párrafo primero de este artículo, las compensaciones que se requieran efectuar al estado como consecuencia de ajustes en participaciones federales o de descuentos originados del incumplimiento de metas pactadas con la federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos del estado y de los municipios así como las obligaciones que tengan con la federación cuando exista acuerdo entre las partes interesadas o de conformidad con la Ley de Coordinación Fiscal Federal.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+No estarán sujetas a lo dispuesto en el párrafo primero de este artículo, las compensaciones que se requieran efectuar al estado como consecuencia de ajustes en las participaciones federales y estatales, de descuentos originados del incumplimiento de metas y acuerdos pactados con el estado en términos de lo previsto en el Capítulo IV de la presente ley. Asimismo, procederán las compensaciones entre las participaciones de los municipios y las obligaciones que tengan con el estado cuando exista acuerdo entre las partes interesadas o de conformidad con la presente ley.
 
 Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el Registro de Empréstitos y Obligaciones del Estado de Yucatán, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada de realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
 
@@ -512,3 +518,11 @@ D.O. 31 DE DICIEMBRE DE 2019.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 327/2020 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2020”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
