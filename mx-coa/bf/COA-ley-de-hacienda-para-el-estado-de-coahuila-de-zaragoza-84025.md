@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2019-12-31"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -229,7 +229,9 @@ e) Número de localidades de cada clase que haya en el local destinado al espect
 
 Cualquier modificación a los datos comprendidos en los incisos precedentes, deberá comunicarse por escrito a las autoridades fiscales, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
 
-No se pagará el impuesto por los boletos de entrada que no tengan precio al público y que se utilicen como cortesías siempre y cuando se presenten para su sellado conforme al artículo 10.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+No se pagará el impuesto por los boletos de entrada que no tengan precio al público y que se utilicen como cortesías siempre y cuando se presenten para su sellado conforme al artículo 8.
 
 Los boletos de cortesía no excederán del 10% del boletaje vendido.
 
@@ -381,15 +383,31 @@ PAGO
 
 El pago de este impuesto deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por la Secretaría de Finanzas.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Los contribuyentes obligados a pagar este impuesto y que gocen de un estímulo fiscal, podrán acreditar el importe a que tengan derecho, contra las cantidades que estén obligados a pagar, siempre que cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen dichos estímulos, y en el caso de que no se establezcan, siempre que presenten las declaraciones dentro del plazo establecido en el párrafo anterior.
+
 ###### ARTICULO 26.
 
 Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquellos casos en que no exista oficina recaudadora de rentas en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
-Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1 del Código Fiscal para el Estado de Coahuila de Zaragoza, el impuesto sobre nóminas que se cause por los actos o actividades realizadas dentro del territorio del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En la declaración que se presente, se deberá incluir la información del Impuesto Sobre Nóminas que corresponda a cada una de las sucursales que tengan establecidas en el territorio del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, y que realicen los actos o actividades objeto del Impuesto Sobre Nóminas dentro del territorio del Estado de Coahuila de Zaragoza, deberán inscribirse al Registro Estatal de Contribuyentes y pagar conforme a lo establecido en esta Ley y en el artículo 1 del Código Fiscal para el Estado de Coahuila de Zaragoza, el Impuesto que se cause por los actos o actividades realizados dentro del territorio del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 27.
 
-Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido al equivalente a mil días de salario mínimo vigente en el Estado.
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero el Impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior no haya excedido al equivalente a mil días de salario mínimo vigente en el Estado. El pago anual no podrá ser inferior de lo pagado en el ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para el ejercicio de la opción descrita en el párrafo que antecede, el cálculo del monto de lo pagado en el ejercicio anterior, el contribuyente deberá considerar el monto pagado en todas las sucursales que tenga establecidas en el territorio del Estado.
 
 ###### ARTICULO 28.
 
@@ -409,19 +427,39 @@ I. No se pagará el impuesto que se cause por las erogaciones correspondientes a
 
 II. Adicionalmente, tendrán derecho a las reducciones siguientes:
 
-1. El 20% del impuesto que se cause, cuando ocupen de un 4% hasta un 5% de su planta de trabajadores con personas mayores y/o con discapacidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. El 25% del impuesto que se cause, cuando ocupen más de un 5% hasta un 7% de su planta de trabajadores con personas mayores y/o con discapacidad.
+1. El 20% del impuesto que se cause, cuando ocupen de un 8% hasta un 10% de su planta de trabajadores con personas mayores y/o con discapacidad.
 
-3. El 30% del impuesto que se cause, cuando ocupen más de un 7% hasta un 10% de su planta de trabajadores con personas mayores y/o con discapacidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. El 50% del impuesto que se cause, cuando ocupen más del 10% de su planta de trabajadores con personas mayores y/o con discapacidad.
+2. El 25% del impuesto que se cause, cuando ocupen más de un 10% hasta un 14% de su planta de trabajadores con personas mayores y/o con discapacidad.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. El 30% del impuesto que se cause, cuando ocupen más de un 14% hasta un 20% de su planta de trabajadores con personas mayores y/o con discapacidad.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. El 50% del impuesto que se cause, cuando ocupen más del 20% de su planta de trabajadores con personas mayores y/o con discapacidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Para efectos de este artículo, se considerará como impuesto causado, el correspondiente a los trabajadores distintos a los adultos mayores y personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+En la declaración que presente el contribuyente, deberá desglosar las erogaciones realizadas en beneficio de adultos mayores y de personas con discapacidad, así como el importe del impuesto que corresponde a cada concepto, debiendo en todo caso, conservar en la contabilidad el Registro Federal de Contribuyentes, así como la constancia de registro de discapacidad, de los trabajadores a que se hace referencia en el primer párrafo del presente artículo.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
 Para tener derecho al estímulo que otorga el artículo anterior, los contribuyentes deberán señalar en las declaraciones del Impuesto sobre Nóminas, el número de personas mayores o con discapacidad que estén activos y efectivamente trabajen en la empresa y su remuneración.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Además, para tener derecho al estímulo antes descrito, los contribuyentes deberán estar al corriente en el cumplimiento de sus obligaciones fiscales estatales y no deberán tener adeudo con las autoridades fiscales del Estado, ni en materia de contribuciones federales coordinadas.
 
 EXENCIONES
 
@@ -487,9 +525,9 @@ SUJETO
 
 Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 58 (sic), de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
+En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 33, de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 60], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -607,9 +645,11 @@ III. Una tasa de 5.0 veces el salario mínimo general vigente en el Estado por l
 
 PAGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 45.
 
-El pago de este impuesto deberá efectuarse en las instituciones de crédito o establecimientos autorizados de la jurisdicción en que se encuentre el predio, dentro de los primeros diecisiete días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 66 de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las autoridades fiscales.
+El pago de este impuesto deberá efectuarse en las instituciones de crédito o establecimientos autorizados de la jurisdicción en que se encuentre el predio, dentro de los primeros diecisiete días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 41 de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las autoridades fiscales.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -739,9 +779,9 @@ TARIFA
 
 I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, se pagará $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS 00/100 M.N.), en los siguientes supuestos:
+II. Se pagará una cuota de $20,000.00 (VEINTE MIL PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -777,11 +817,9 @@ II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS
 
 Además de los servicios por la inscripción de los actos jurídicos que conforme a esta fracción y al Código Civil para el Estado de Coahuila de Zaragoza deban registrarse, se incluyen los costos por su revisión, calificación de procedencia, la publicidad y disposición para su consulta de los asientos registrales digitalizados, así como la utilización de recursos materiales, humanos y tecnologías de la información para la clasificación y presentación de la información y todo aquello que se requiere para una adecuada conservación y archivo perene de los documentos que se resguardan.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79-A], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 55.
 
-En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $1'348,800.00 (UN MILLÓN TRESCIENTOS CUARENTA Y OCHO MIL OCHOCIENTOS PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 (ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 79-H], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -805,9 +843,7 @@ IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 V. La búsqueda y/o constancia de información, solicitados por autoridades de la Federación, Entidades Federativas, Municipios u organismos de estos, por cada inmueble, o persona física o moral $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-No se generará el cobro de los derechos previstos en esta fracción, cuando la prestación del servicio la requieran el Poder Judicial de la Federación y del Estado, así como el Ministerio Público Federal, local, la Representación Legal del Ejecutivo y el Servicio de Administración Tributaria, en el ejercicio de sus funciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 > <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -823,17 +859,15 @@ VI. La expedición de certificados o certificaciones relativos a las constancias
 
 5. Por copia certificada de asientos registrales de un folio o de una partida de los libros $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.). Cuando exceda de 5 hojas, se cobrará por cada hoja adicional $10.00 (DIEZ PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VII. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción.
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Por inscripción de avisos preventivos por cada lote o inmueble $50.00 (CINCUENTA PESOS 00/100 M.N.). Y de avisos definitivos, por cada escritura $50.00 (CINCUENTA PESOS 00/100 M.N.).
+X. Por inscripción de avisos preventivos por cada lote o inmueble $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.). Y de avisos definitivos, por cada escritura $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -869,33 +903,25 @@ Los pagos realizados previamente a la prestación del servicio, se considerarán
 
 Para la determinación de los derechos que establece la Primera Parte de esta Sección, serán aplicables las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+I. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-I. En relación al artículo 55 de esta Ley, cuando se trate de actos, contratos o resoluciones el valor por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
+II. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-II. En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas, cuando el monto sea indeterminado, se tomará como base el valor catastral;
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-III. En los casos de información ad-perpetuam, el valor catastral de los inmuebles;
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-IV. En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, cuyas comisiones, cuotas, derechos u otros conceptos no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituye a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+V. Toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos.
 
-V. En relación al artículo 55 de esta Ley, toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
+VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de los derechos que se causen, y al practicarse la inscripción complementaria se cubrirá el 25% restante;
+VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-VII. Para los efectos del cálculo de los derechos la nuda propiedad se valuará con el 75% de los derechos que se causen y el usufructo con el 25% del mismo;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VIII. En relación al artículo 55 de esta Ley, cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a 600 (Seiscientas) veces el valor diario de la Unidad de Medida y Actualización (UMA).
+IX. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -917,9 +943,9 @@ TARIFA
 
 I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse esta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial deniegue por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagará $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS 00/100 M.N.), en los siguientes supuestos:
+II. Se pagará una cuota de $20,000.00 (VEINTE MIL PESOS 00/100 M.N.), en los siguientes supuestos:
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -929,9 +955,9 @@ II. Se pagará una cuota de $14,317.00 (CATORCE MIL TRESCIENTOS DIECISIETE PESOS
 
 2). Tratándose de sociedades mercantiles de capital fijo, por los aumentos de capital que se presente para su inscripción y sus modificaciones;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3). La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares.
+3). La inscripción (sic) actos relacionados con contratos de arrendamiento financiero, de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, o su reestructuración.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -941,21 +967,13 @@ III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 82-A], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 61.
 
-Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 60 de esta Ley, si el valor excede de $1'820,839.00 (UN MILLÓN OCHOCIENTOS VEINTE MIL OCHOCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 82-B], P.O. 31 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 ###### ARTICULO 62.
 
-La inscripción de reestructuración de créditos, causará derechos conforme a la fracción II, artículo 60 y al artículo 61, únicamente sobre el monto en el que se incremente el crédito ya inscrito.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-El mismo procedimiento se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
 (ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016) (REUBICADO [N. DE E. ANTES ARTÍCULO 82-C], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -1011,23 +1029,19 @@ El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o 
 
 La determinación del pago del derecho que establece el artículo 60, se sujetará además a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-I. En relación al artículo 61 de esta Ley, los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
+I. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 II. Cuando un mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
 
-III. En los casos en que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas; y
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
-V. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores (sic) 600 (seiscientas) veces Unidad de Medida y Actualización (UMA).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VI. Si en una misma escritura se consignaren diversos contratos se pagará por cada parte lo que corresponda, con arreglo a las fracciones (sic) 60, fracción II, 61 y 62.
+VI. Si en una misma escritura se consignaren diversos contratos se pagará por cada inscripción registral, con arreglo al artículo 60, fracción II y 62.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1045,9 +1059,9 @@ DE LOS SERVICIOS CATASTRALES
 
 Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Registral y Catastral del Estado de Coahuila, por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por cada predio.
+I. Búsquedas a nombre de propietarios, poseedores, usufructuarios, herederos y entidades públicas relacionadas con la información catastral, geográfica y cartográfica, de inexistencia de registro, y en general de datos que formen parte del acervo catastral del Estado de Coahuila $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.) por cada predio.
 
 II. Por la realización y emisión del avalúo catastral de predios urbanos y rústicos, el 1.8 al millar del valor concluido. El avalúo tendrá vigencia exclusivamente durante el ejercicio fiscal en el que sea emitido.
 
@@ -1055,9 +1069,13 @@ II. Por la realización y emisión del avalúo catastral de predios urbanos y r�
 
 III. Certificados catastrales
 
-1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $300.00 (TRESCIENTOS PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
+1. Certificación de documentos que obren en el acervo catastral del Estado de Coahuila, previa legitimación de derecho a la información, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Certificación de planos de predios urbanos y rústicos que formen parte de la cartografía catastral $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.) por cada uno, que deberán sumarse a los servicios de copiado especificados en el numeral IV.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1065,59 +1083,69 @@ IV. Servicios fotogramétricos consistentes en:
 
 1. Copia de la información existente en los archivos digitales
 
-a) Fotografía aérea, copias de contacto de 23 x 23 cms $476.00 (CUATROCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) cada una.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,128.00 (DOS MIL CIENTO VEINTIOCHO PESOS 00/100 M.N.) cada una.
+a) Fotografía aérea, copias de contacto de 23 x 23 cms $497.00 (CUATROCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.) cada una.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $2,224.00 (DOS MIL DOSCIENTOS VEINTICUATRO PESOS 00/100 M.N.) cada una.
 
 V. Servicios de copiado
 
 1. Copias xerográficas de planos que obren en los archivos del departamento
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Hasta 30 x 30 cms $33.00 (TREINTA Y TRES PESOS 00/100 M.N.)
+a) Hasta 30 x 30 cms $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción $8.00 (OCHO PESOS 00/100 M.N.)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $24.00 (VEINTICUATRO PESOS 00/100 M.N.) por cada uno
+2. Copias fotostáticas de plano o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $25.00 (VEINTICINCO PESOS 00/100 M.N.) por cada uno
 
 3. Copia xerográfica del plano urbano general catastral
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Escala 1:10000 $785.00 (SETECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.)
+a) Escala 1:10000 $820.00 (OCHOCIENTOS VEINTE 00/100 M.N.)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Escalas mayores a 1:10000 $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.)
+b) Escalas mayores a 1:10000 $540.00 (QUINIENTOS CUARENTA PESOS 00/100 M.N.)
 
 4. Copia de la cartografía catastral urbana
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) De la lámina catastral escala 1:1000 a $1,391.00 (UN MIL TRESCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
+a) De la lámina catastral escala 1:1000 a $1,454.00 (UN MIL CUATROCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) De la manzana catastral escala 1:1000 a $491.00 (CUATROCIENTOS NOVENTA Y UN PESOS 00/100 M.N.)
+b) De la manzana catastral escala 1:1000 a $513.00 (QUINIENTOS TRECE PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Por servicios no incluidos en fracciones anteriores de $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.) a $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.)
+VI. Por servicios no incluidos en fracciones anteriores de $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.) a $797.00 (SETECIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Por servicio de validación de la clave catastral y folio real, para su vinculación, $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.).
+VII. Por servicio de validación de la clave catastral y folio real, para su vinculación, $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.).
 
 > <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VIII. Formatos catastrales valorados.
 
-a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.), por cada juego.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Exclusivamente para el uso en programas de regularización de tenencia de la tierra a través de CERTTURC, RAN, CEV, programas sociales implementados por los municipios, así como el pago de las reposiciones por errores administrativos que sean cometidos por el personal técnico adscrito a este Instituto, el costo de la forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control, será de $12.00 (DOCE PESOS 00/100 M.N.).
+a) Forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control $289.00 (DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.), por cada juego.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Exclusivamente para el uso en programas de regularización de tenencia de la tierra a través de CERTTURC, RAN, CEV, programas sociales implementados por los municipios, así como el pago de las reposiciones por errores administrativos que sean cometidos por el personal técnico adscrito a este Instituto, el costo de la forma de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en original y cinco copias así como folio de control, será de $13.00 (TRECE PESOS 00/100 M.N.).
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
@@ -1129,79 +1157,79 @@ Los servicios que se presten en relación con el Registro Civil, causarán derec
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Registro de nacimientos, $108.00 (CIENTO OCHO PESOS 00/100 M.N.);
+I. Registro de nacimientos, $113.00 (CIENTO TRECE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Registro de reconocimientos, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
+II. Registro de reconocimientos, $205.00 (DOSCIENTOS CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $560.00 (QUINIENTOS SESENTA PESOS 00/100 M.N.);
+III. Inscripción (sic) actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $585.00 (QUINIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Registro de matrimonios, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
+IV. Registro de matrimonios, $763.00 (SETECIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Registro de divorcios, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
+V. Registro de divorcios, $763.00 (SETECIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Registro de defunciones, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.);
+VI. Registro de defunciones, $95.00 (NOVENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Inscripción de actos o hechos registrados en el extranjero, $560.00 (QUINIENTOS SESENTA PESOS 00/100 M.N.);
+VII. Inscripción de actos o hechos registrados en el extranjero, $585.00 (QUINIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Registro de Pacto Civil de Solidaridad, $725.00 (SETECIENTOS VEINTICIENCO (SIC) PESOS 00/100 M.N.);
+VIII. Registro de Pacto Civil de Solidaridad, $758.00 (SETECIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Registro de terminación de Pacto Civil de Solidaridad, $725.00 (SETECIENTOS VEINTICIENCO (SIC) PESOS 00/100 M.N.);
+IX. Registro de terminación de Pacto Civil de Solidaridad, $758.00 (SETECIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
+X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $205.00 (DOSCIENTOS CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Expedición de copias certificadas, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.), por hoja;
+XI. Expedición de copias certificadas, $123.00 (CIENTO VEINTITRÉS PESOS 00/100 M.N.), por hoja;
 
-Para efectos de esta fracción, los oficiales de (sic) Registro Civil pagarán la cantidad de $108.00 (CIENTO OCHO PESOS 00/100 M.N.) por la expedición del formato correspondiente.
+Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $113.00 (CIENTO TRECE PESOS 00/100 M.N.) por la expedición del formato correspondiente.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.)
+XII. Impresión de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Rectificaciones relativas a actas del Registro Civil, $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.);
+XIII. Rectificaciones relativas a actas del Registro Civil, $453.00 (CUATROCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.);
+XIV. Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $205.00 (DOSCIENTOS CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV. Búsqueda de actas en el Registro Civil, $96.00 (NOVENTA Y SEIS PESOS 00/100 M.N.);
+XV. Búsqueda de actas en el Registro Civil, $100.00 (CIEN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVI. Por otros servicios no especificados, $214.00 (DOSCIENTOS CATORCE PESOS 00/100 M.N.).
+XVI. Por otros servicios no especificados, $224.00 (DOSCIENTOS VEINTICUATRO PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVII. Constancia de Concubinato, $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.).
+XVII. Constancia de Concubinato, $240.00 (DOSCIENTOS CUARENTA PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Reconocimiento de Identidad de Género, $507.00 (QUINIENTOS SIETE PESOS 00/100 M.N.).
+XVIII. Reconocimiento de Identidad de Género, $530.00 (QUINIENTOS TREINTA PESOS 00/100 M.N.).
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1223,205 +1251,207 @@ Los otros servicios que presta la Secretaría de Gobierno, causarán derechos co
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Certificaciones, $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.), por hoja;
+I. Certificaciones, $58.50 (CINCUENTA Y NUEVE PESOS 00/100 M.N. (SIC), por hoja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Apostillar documentos, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.);
+II. Apostillar documentos, $327.00 (TRESCIENTOS VEINTISIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Presentación de examen para obtener patente de aspirante a notario, $51,900.00 (CINCUENTA Y UN MIL NOVECIENTOS PESOS 00/100 M.N.);
+III. Presentación de examen para obtener patente de aspirante a notario, $54,235.00 (CINCUENTA Y CUATRO MIL DOSCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III-A. Presentación de examen de Notario Adjunto $10,450.00 (DIEZ MIL CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
+III-A. Presentación de examen de Notario Adjunto $10,920.00 (DIEZ MIL NOVECIENTOS VEINTE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Expedición de patente de aspirante a notario, $69,200.00 (SESENTA Y NUEVE MIL DOSCIENTOS PESOS 00/100 M.N.);
+IV. Expedición de patente de aspirante a notario, $72,314.00 (SETENTA Y DOS MIL TRESCIENTOS CATORCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $86,502.00 (OCHENTA Y SEIS MIL QUINIENTOS DOS PESOS 00/100 M.N.);
+V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $90,395.00 (NOVENTA MIL TRESCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V-A. Designación de Notario Adjunto $26,125.00 (VEINTISEIS MIL CIENTO VEINTICINCO PESOS 00/100 M.N.).
+V-A. Designación de Notario Adjunto $27,301.00 (VEINTISIETE MIL TRESCIENTOS Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Expedición de Fiat Notarial, $433,511.00 (CUATROCIENTOS TREINTA Y TRES MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
+VI. Expedición de Fiat Notarial, $453,019.00 (CUATROCIENTOS CINCUENTA Y TRES MIL DIECINUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Expedición de constancia de Función Notarial, $700.00 (SETECIENTOS PESOS 00/100 M.N.);
+VII. Expedición de constancia de Función Notarial, $731.00 (SETECIENTOS TREINTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $6,937.00 (SEIS MIL NOVECIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
+VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $7,249.00.00 (SIC) (SIETE MIL DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $1,732.00 (UN MIL SETECIENTOS TREINTA Y DOS PESOS 00/100 M.N.);
+IX. Por la revisión de documentos requeridos para la celebración de eventos tradicionales $1,810.00 (UN MIL OCHOCIENTOS DIEZ PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Legalización de firmas en cualquier documento, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.), por firma;
+X. Legalización de firmas en cualquier documento, $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.), por firma;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XI. Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
+XII. Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); cada hoja subsecuente $5.00 (CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.) por firma;
+XIII. Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.) por firma;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIV. Exhorto y legalización de firmas de éste a otro Estado, $671.00 (SEISCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
+XIV. Exhorto y legalización de firmas de éste a otro Estado, $701.00 (SETECIENTOS Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV. Exhorto de otro Estado a éste, $671.00 (SEISCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
+XV. Exhorto de otro Estado a éste, $701.00 (SETECIENTOS Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $344.00 (TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $359.00 (TRESCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.); por hoja adicional de los testimonios $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.);
+XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $2,711.00 (DOS MIL SETECIENTOS ONCE PESOS 00/100 M.N.); por hoja adicional de los testimonios $225.00 (DOSCIENTOS VEINTICINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $447.00 (CUATROCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.);
+XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarias, $467.00 (CUATROCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIX. Certificación de existencia o inexistencia de testamento por testador, $350.00 (TRECIENTOS (SIC) CINCUENTA PESOS 00/100 M.N.).
+XIX. Certificación de existencia o inexistencia de testamento por testador, $366.00 (TRECIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XX. Expedición de copias certificadas de instrumentos notariales, $225.00 (DOSCIENTOS VEINTICINCO PESOS 00/100 M.N.) por hoja;
+XX. Expedición de copias certificadas de instrumentos notariales, $235.00 (DOSCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXI. Expedición de copias simples de instrumentos notariales, $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.) por hoja;
+XXI. Expedición de copias simples de instrumentos notariales, $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $258.00 (DOSCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.) por hoja;
+XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $270.00 (DOSCIENTOS SETENTA PESOS 00/100 M.N.) por hoja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Peritajes desahogados en la Dirección de Notarias $3,460.00 (TRES MIL CUATROCIENTOS SESENTA PESOS 00/100 M.N.).
+XXIII. Peritajes desahogados en la Dirección de Notarias $3,616.00 (TRES MIL SEISCIENTOS DIECISÉIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIV. Autorización para cambio de distrito notarial y/o autorización de cambio de Municipio, dentro del mismo distrito notarial, $345,972.00 (TRESCIENTOS CUARENTA Y CINCO MIL NOVECIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+XXIV. Autorización para cambio de distrito notarial y/o autorización de cambio de Municipio, dentro del mismo distrito notarial, $361,541.00 (TRESCIENTOS SESENTA Y UN MIL QUINIENTOS CUARENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)
 
 XXIV-A. Expedición de credenciales:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-a) Para Notario $1,500.00 (UN MIL QUINIENTOS PESOS 00/100 M.N.), por dos años.
+a) Para Notario $500.00 (QUINIENTOS PESOS 00/100 M.N.), por dos años.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Para gestor de Notario $495.00 (CUATROCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
+b) Para gestor de Notario $400.00 (CUATROCIENTOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Reposición de credencial para Notario o Gestor $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.).
+c) Reposición de credencial para Notario o Gestor $345.00 (TRESCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 XXIV-B. Expedición a Notarios de folios para la integración de Protocolos y Testimonios $5.00 (CINCO PESOS 00/100 M.N.) por folio.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIV-C. Licencias para suspender el ejercicio de la función notarial, $20,000.00 (VEINTE MIL PESOS 00/100 M.N.). Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
+XXIV-C. Licencias para suspender el ejercicio de la función notarial, $5,000.00 (CINCO MIL PESOS 00/100 M.N.), por año. Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $23,937.00 (VEINTITRÉS MIL NOVECIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
+XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $700.00 (SETECIENTOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $351.00 (TRESCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.);
+XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $367.00 (TRESCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $461.00 (CUATROCIENTOS SESENTA Y UN PESOS 00/100 M.N.);
+XXVI. Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $482.00 (CUATROCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $587.00 (QUINIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+XXVII. Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $613.00 (SEISCIENTOS TRECE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $879.00 (OCHOCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+XXVIII. Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $919.00 (NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.);
 
 Las autorizaciones a que se refieren las fracciones XXV, XXVI, XXVII y XXVIII se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,358.00 (UN MIL TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.)
+XXIX. Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $1,419.00 (UN MIL CUATROCIENTOS DIECINUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $405.00 (CUATROCIENTOS CINCO PESOS 00/100 M.N.), y
+XXX. Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $423.00 (CUATROCIENTOS VEINTITRÉS PESOS 00/100 M.N.), y
 
-XXXI. Por los Derechos que presta la Dirección de Protección Civil:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXI. Por los Derechos que presta la Subsecretaría de Protección Civil:
 
 1. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $421.00 (CUATROCIENTOS VEINTIUN PESOS 00/100 M.N.);
+3. Ingreso y revisión de programas de prevención de accidentes, población afectable de 1-10 personas; $440.00 (CUATROCIENTOS CUARENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $1,638.00 (UN MIL SEISCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+4. Ingreso y revisión de Programas de Prevención de Accidentes, población afectable 11-50 personas, $1,711.00 (UN MIL SETECIENTOS ONCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $4,081.00 (CUATRO MIL OCHENTA Y UN PESOS 00/100 M.N.);
+5. Ingreso y revisión de programas de prevención de accidentes, población afectable 51-100 personas; $4,265.00 (CUATRO MIL DOSCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $8,169.00 (OCHO MIL CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.);
+6. Ingreso y revisión de programas de prevención de accidentes, población afectable 101-500 personas; $8,537.00 (OCHO MIL QUINIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $20,419.00 (VEINTE MIL CUATROCIENTOS VEINTINUEVE PESOS 00/100 M.N.);
+7. Ingreso y revisión de programas de prevención de accidentes, población afectable 501 personas en adelante, $21,338.00 (VEINTE Y UN MIL TRESCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-8. Inspección solicitada en materia de protección civil, $6,992.00 (SEIS MIL NOVECIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+8. Inspección solicitada en materia de protección civil, $7,307.00 (SIETE MIL TRESCIENTOS SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $7,306.00 (SIETE MIL TRESCIENTOS SEIS PESOS 00/100 M.N.);
+9. Constancia de factibilidad en materia de protección civil de inicio y de construcción $7,635.00 (SIETE MIL SEISCIENTOS TREINTA Y CINCO PESOS 00/100 M.N.);
 
 10. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 11. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $13,985.00 (TRECE MIL NOVECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
+12. Registro como empresas, consultorías y personas físicas que se dediquen a prestar servicios en materia de protección civil $14,614.00 (CATORCE MIL SEISCIENTOS CATORCE PESOS 00/100 M.N.);
 
 13. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -1435,17 +1465,25 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 18. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-19. Autorizaciones en materia de explosivos, $13,985.00 (TRECE MIL NOVECIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.);
+19. Autorizaciones en materia de explosivos, $14,614.00 (CATORCE MIL SEISCIENTOS CATORCE PESOS 00/100 M.N.);
 
 XXXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XXXIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXIV. Por otros servicios no especificados, $341.00 (TRESCIENTOS CUARENTA Y UN PESOS 00/100 M.N.)
+XXXIV. Por otros servicios no especificados, $356.00 (TRESCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXV. Por servicios prestados por el Centro Estatal de Evaluación y Control de Confianza.
+
+a) Por la aplicación de exámenes de control de confianza $7,503.00 (SIETE MIL QUINIENTOS TRES PESOS 00/100 M.N.);
+
+b) Evaluación de portación de arma de fuego, $1,000.00 (UN MIL PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 88], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -1477,53 +1515,55 @@ TARIFA
 
 I. Avisos judiciales y administrativos:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 1. Por cada palabra en primera o única inserción, $2.00 (DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 2. Por cada palabra en inserciones subsecuentes, $1.50 (UN PESO CON CINCUENTA CENTAVOS M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+II. Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Publicación de balances o estados financieros, $950.00 (NOVECIENTOS CINCUENTA PESOS 00/100 M.N.);
+III. Publicación de balances o estados financieros, $993.00 (NOVECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
 
 IV. Suscripciones:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Por un año, $2,601.00 (DOS MIL SEISCIENTOS Y UN PESOS 00/100 M.N.)
+1. Por un año, $2,718.00 (DOS MIL SETECIENTOS DIECIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por seis meses, $1,301.00 (UN MIL TRESCIENTOS Y UN PESOS 00/100 M.N.)
+2. Por seis meses, $1,360.00 (UN MIL TRESCIENTOS SESENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Por tres meses, $687.00 (SEISCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.)
+3. Por tres meses, $718.00 (SETECIENTOS DIECIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Número del día, $28.00 (VEINTIOCHO PESOS 00/100 M.N.);
+V. Número del día, $29.00 (VEINTINUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Números atrasados hasta 6 años, $98.00 (NOVENTA Y OCHO PESOS 00/100 M.N.);
+VI. Números atrasados hasta 6 años, $102.00 (CIENTO DOS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Números atrasados de más de 6 años, $196.00 (CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.); y
+VII. Números atrasados de más de 6 años, $205.00 (DOSCIENTOS CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.).
+VIII. Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $366.00 (TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+IX. Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.);
 
 El pago de las cuotas establecidas en la fracción IV, darán derecho a que el contribuyente reciba por la suscripción, todos los ejemplares incluyendo Códigos, Leyes y Reglamentos.
 
@@ -1725,39 +1765,41 @@ La expedición de licencia para el funcionamiento de establecimientos que enajen
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discoteca bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $299,210.00 (DOSCIENTOS NOVENTA Y NUEVE MIL DOSCIENTOS DIEZ PESOS 00/100 M.N.);
+I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discoteca bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $312,674.00 (TRESCIENTOS DOCE MIL SEISCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Tienda de autoservicio $119,111.00 (CIENTO DIECINUEVE MIL CIENTO ONCE PESOS 00/100 M.N.);
+II. Tienda de autoservicio $124,471.00 (CIENTO VEINTICUATRO MIL CUATROCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Restaurante bar, restaurantes y estadios $95,747.00 (NOVENTA Y CINCO MIL SETECIENTOS CUARENTA Y SISTE (SIC) PESOS 00/100 M.N.);
+III. Restaurante bar, restaurantes y estadios $100,056.00 (CIEN MIL CINCUENTA Y SEIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Supermercados, agencias y cantina o bar $65,598.00 (SESENTA Y CINCO MIL QUINIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
+IV. Supermercados, agencias y cantina o bar $68,550.00 (SESENTA Y OCHO MIL QUINIENTOS CINCUENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $49,070.00 (CUARENTA Y NUEVE MIL SETENTA PESOS 00/100 M.N.);
+V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $51,278.00 (CINCUENTA Y UN MIL DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.);
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019))
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $33,511.00 (TREINTA Y TRES MIL QUINIENTOS ONCE PESOS 00/100 M.N.);
+VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $35,019.00 (TREINTA Y CINCO MIL DIECINUEVE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Fonda, taquerías y otros de naturaleza análoga $27,526.00 (VEINTISIETE MIL QUINIENTOS VEINTISEIS PESOS 00/100 M.N.);
+VII. Fonda, taquerías y otros de naturaleza análoga $28,765.00 (VEINTIOCHO MIL SETECIENTOS SESENTA Y CINCO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Misceláneas $23,240 (VEINTITRÉS MIL DOSCIENTOS CUARENTA PESOS 00/100 M.N.);
+VIII. Misceláneas $24,286.00 (VEINTICUATRO MIL DOSCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
 
-La licencia para el giro de miscelánea se expedirá exclusivamente a las personas físicas que tributen bajo el Régimen de Pequeños Contribuyentes, tendrá vigencia anual y no causará los derechos por el refrendo anual.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+La licencia para el giro de miscelánea se expedirá exclusivamente a las personas físicas que tributen bajo el Régimen de Incorporación Fiscal, tendrá vigencia anual y no causará los derechos por el refrendo anual.
 
 Se entenderá por giro de miscelánea, la compraventa al público en general, de productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza en botella cerrada y cuya rotación en inventarios mensual por la compraventa sea menor a la tarifa más baja por licencia establecida en el presente Artículo.
 
@@ -1779,9 +1821,11 @@ El permiso únicamente será válido por el tiempo y en el lugar para el cual fu
 
 OBJETO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 89.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $11,968.00 (ONCE MIL NOVECIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $12,507.00 (DOCE MIL QUINIENTOS SIETE PESOS 00/100 M.N.).
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 108], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1839,47 +1883,49 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Refrendo para automóviles, camiones y camionetas, $1,748.00 (UN MIL SETECIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
+1. Refrendo para automóviles, camiones y camionetas, $1,827.00 (UN MIL OCHOCIENTOS VEINTISIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Los vehículos de carga de tres o más toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $993.00 (NOVECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+2. Los vehículos de carga de tres o más toneladas, ómnibus y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme al inciso anterior, deberán pagar la cantidad de $1,038.00 (UN MIL TREINTA Y OCHO PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
 Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Reposición por pérdida de la tarjeta de circulación, $110.00 (CIEN DIEZ PESOS 00/100 M.N.).
+4. Reposición por pérdida de la tarjeta de circulación, $115.00 (CIENTO QUINCE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Expedición de juego de placas para demostración de vehículos $2,896.00 (DOS MIL OCHOCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.);
+II. Expedición de juego de placas para demostración de vehículos $3,026.00 (TRES MIL VEINTISÉIS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II-A. Refrendo anual de placas para demostración de vehículos $2,578.00 (DOS MIL QUINIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.);
+II-A. Refrendo anual de placas para demostración de vehículos $2,694.00 (DOS MIL SEISCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $936.00 (NOVECIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
+III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $978.00 (NOVECIENTOS SETENTA Y OCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Expedición de placa y tarjeta de circulación, o refrendo anual para motocicleta, motocicleta todo terreno de cuatro llantas o vehículo utilitario recreacional, $294.00 (DOSCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
+IV. Expedición de placa y tarjeta de circulación, o refrendo anual para motocicleta, motocicleta todo terreno de cuatro llantas o vehículo utilitario recreacional, $307.00 (TRESCIENTOS SIETE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Tarjetón Estatal de Registro Vehicular $358.00 (TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N).
+V. Tarjetón Estatal de Registro Vehicular $374.00 (TRESCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N).
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)
 
 VI. Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Automóviles, camiones y camionetas, $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+1. Automóviles, camiones y camionetas, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1903,31 +1949,31 @@ h) Las personas físicas que padezcan una incapacidad parcial temporal, podrán 
 
 Para el otorgamiento del tarjetón que se describe en el párrafo que antecede, los interesados deberán presentar constancia médica expedida por institución oficial, con la que se acredite que el tipo y grado de la discapacidad es parcial temporal, además deberán contar con licencia de conducir vigente y estar al corriente de sus obligaciones relativas a control vehicular.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Vehículos de servicio público, $945.00 (NOVECIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.); y
+2. Vehículos de servicio público, $988.00 (NOVECIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Remolques $462.00 (CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
+3. Remolques $483.00 (CUATROCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.).
 
 En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $4,100.00 (CUATRO MIL CIEN PESOS 00/100 M.N.).
+VII. Por la obtención de un número de placas específico (sujeto a disponibilidad) $4,284.00 (CUATRO MIL DOSCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Expedición de permiso provisional para circular sin placas, hasta por un plazo que no podrá exceder de treinta, $699.00 (SEISCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.), este permiso se expedirá por una sola ocasión;
+VIII. Expedición de permiso provisional para circular sin placas, hasta por un plazo que no podrá exceder de treinta, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.), este permiso se expedirá por una sola ocasión;
 
 IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.); POR LA PRIMERA HOJA); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 XI. La baja de placas del Estado y de otros Estados $12.00. (DOCE PESOS 00/100 M.N.)
 
@@ -2025,19 +2071,21 @@ Los demás servicios que presta la Secretaría de Finanzas a través de sus Unid
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Certificaciones, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+I. Certificaciones, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 II. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Servicios periciales contables, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.) por hora, por auditor; y
+III. Servicios periciales contables, $146.00 (CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.) por hora, por auditor; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Por constancias del padrón vehicular, $54.00 (CINCUENRA Y CUATRO PEESOS 00/100), por la primera hoja; y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+IV. Por constancias del padrón vehicular, $56.00 (CINCUENTA Y SEIS PESOS 00/100), por la primera hoja; y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 123], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2045,7 +2093,7 @@ IV. Por constancias del padrón vehicular, $54.00 (CINCUENRA Y CUATRO PEESOS 00/
 
 El pago de los derechos a que se refiere esta Sección deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -2055,17 +2103,29 @@ Los servicios prestados por la Administración Fiscal General, por el uso y/o ap
 
 TARIFA
 
-I. Automóvil, pick up, panel con o sin remolque y motos $ 125.00 (CIENTO VEINTICINCO PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Autobuses de pasajeros $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.)
+I. Automóvil, pick up, panel con o sin remolque y motos $131.00, (CIENTO TREINTA Y UN PESOS 00/100 M.N.).
 
-III. Camiones de 2 ejes $181.00 (CIENTO OCHETA Y UNO PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Camiones de 3 y 4 ejes $181.00 (CIENTO OCHETA Y UNO PESOS 00/100 M.N.)
+II. Autobuses de pasajeros $189.00 (CIENTO OCHENTA Y NUEVE PESOS 00/100 M.N.).
 
-V. Camiones de 5 y 6 ejes $251.00 (DOSCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. De más de 6 ejes $279.00 (DOSCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.)
+III. Camiones de 2 ejes $189.00 (CIENTO OCHENTA Y NUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV. Camiones de 3 y 4 ejes $189.00 (CIENTO OCHENTA Y NUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+V. Camiones de 5 y 6 ejes $262.00 (DOSCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VI. De más de 6 ejes $292.00 (DOSCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
 
 Las tarifas establecidas en este artículo deberán actualizarse trimestralmente, conforme al índice nacional de precios al consumidor, en términos del artículo 15-A del Código Fiscal para el Estado de Coahuila de Zaragoza.
 
@@ -2085,11 +2145,9 @@ PAGO
 
 El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por (sic) Administración Fiscal General.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 191 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, SE ADVIERTE QUE LOS ANTERIORES CAPÍTULOS CUARTO Y QUINTO QUEDARON COMPRENDIDOS EN EL ACTUAL CAPÍTULO CUARTO]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
+### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2109,61 +2167,109 @@ I. Por los servicios que otorga la Comisión Estatal de Vivienda y Comisión Est
 
 A. Regularización de la Tenencia de la Tierra:
 
-1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $779.00 (S ETECIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.) por escritura;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por la verificación de medidas de predios o lotes se pagarán $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.) por cada inmueble a verificar;
+1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $814.00 (OCHOCIENTOS CATORCE PESOS 00/100 M.N.) por escritura;
 
-3. Por la elaboración de plano manzanero se pagarán $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.) por plano que comprenda un lote;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Por la validación de cesión de derechos se pagarán $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
+2. Por la verificación de medidas de predios o lotes se pagarán $139.00 (CIENTO TREINTA Y NUEVE PESOS 00/100 M.N.) por cada inmueble a verificar;
 
-5. Por la constancia para trámite de predial se pagarán $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $779.00 (SETECIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+3. Por la elaboración de plano manzanero se pagarán $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.) por plano que comprenda un lote;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Por la validación de cesión de derechos se pagarán $345.00 (TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+5. Por la constancia para trámite de predial se pagarán $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $814.00 (OCHOCIENTOS CATORCE PESOS 00/100 M.N.);
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)
 
 7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
 
-a. Predios/lotes de hasta 500 metros pagarán $4,613.00 (CUATRO (SIC) SEISCIENTOS TRECE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $6,591.00 (SEIS MIL QUINENTOS NOVENTA Y UN PESOS 00/100 M.N.);
+a. Predios/lotes de hasta 500 metros pagarán $4,821.00 (CUATRO (SIC) OCHOCIENTOS VEINTIÚN PESOS 00/100 M.N.);
 
-c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $9,229.00 (NUEVE MIL DOSCIENTOSVEINTINUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $13,183.00 (TRECE MIL CIENTO OCHENTA Y TRES PESOS 00/100 M.N.);
+b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $6,888.00 (SEIS MIL QUINENTOS NOVENTA Y UN (SIC) PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $9,644.00 (NUEVE MIL SEISCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $13,776.00 (TRECE MIL SETECIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
 8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
 
-a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,977.00 (UN MIL NOVECIENTOS SETENTA Y SIETE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $4,393.00 (CUATRO MIL NOVECIENTOS SETENTA Y TRES PESOS 00/100 M.N.);
+a. Predios/lotes con superficie hasta de 300 metros, pagarán $2,066.00 (DOS MIL SESENTA Y SEIS PESOS 00/100 M.N.);
 
-c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $6,591.00 (SEIS MIL QUINIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $10,546.00 (DIEZ MIL QUINIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.);
+b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $4,591.00 (CUATRO MIL QUINIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $6,888.00 (SEIS MIL OCHOCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $11,021.00 (ONCE MIL VEINTIÚN PESOS 00/100 M.N.);
 
 B. En materia inmobiliaria y de vivienda popular.
 
 1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
 
-a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,844.00 (UN MIL OCHOCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $922.00 (NOVECIENTOS VEINTIDÓS PESOS 00/100 M.N.);
+a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,927.00 (UN MIL NOVECIENTOS VEINTISIETE PESOS 00/100 M.N.).
 
-c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
+b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $963.00 (NOVECIENTOS SESENTA Y TRES PESOS 00/100 M.N.).
 
-3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $263.00 (DOSCIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.);
+c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $275.00 (DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $275.00 (DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $275.00 (DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $139.00 (CIENTO TREINTA Y NUEVE PESOS 00/100 M.N.);
 
 5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
 
-Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $922.00 (NOVECIENTOS VEINTIDÓS PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $6,591.00 (SEIS MIL SEISCIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
+Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $963.00 (NOVECIENTOS SESENTA Y TRES PESOS 00/100 M.N.);
 
-6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $658.00 (SEICIENTOS (SIC) CINCUENTA Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $6,888.00 (SEIS MIL OCHOCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $688.00 (SEICIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.).
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2205,25 +2311,25 @@ TARIFA
 
 I. Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Vehículos de servicio público, $1,511.00 (MIL QUINIENTOS ONCE PESOS 00/100 M.N.).
+1. Vehículos de servicio público, $1,579.00 (UN MIL QUINIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Remolque de servicio público, $868.00 (OCHOCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.).
+2. Remolque de servicio público, $907.00 (NOVECIENTOS SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Tarjetón de identificación para operadores del servicio público de transporte, $358.00 (TRESCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N).
+II. Tarjetón de identificación para operadores del servicio público de transporte, $411.00 (CUATROCIENTOS ONCE PESOS 00/100 M.N).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II-A. Tarjetón de identificación para choferes de Empresas de Redes de Transporte $393.00 (TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N).
+II-A. Tarjetón de identificación para choferes de Empresas de Redes de Transporte $411.00 (CUATROCIENTOS ONCE PESOS 00/100 M.N).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $230.00 (DOSCIENTO TREINTA PESOS 00/100 M.N.); y
+III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $240.00 (DOSCIENTOS CUARENTA PESOS 00/100 M.N.); y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2233,53 +2339,69 @@ IV. Expedición de licencias para conducir vehículos:
 
 1. Tipo A: Chofer particular:
 
-a) Con vigencia de dos años $490.00 (CUATROCIENTOS NOVENTA PESOS 00/100 M.N)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con vigencia de cuatro años $697.00 (SEISCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
+a) Con vigencia de dos años $512.00 (QUINIENTOS DOCE PESOS 00/100 M.N).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Con vigencia de cuatro años $728.00 (SETECIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 2. Tipo B: Chofer de transporte público;
 
-a) Con vigencia de dos años $465.00 (CUATROCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con vigencia de cuatro años $697.00 (SEISCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
+a) Con vigencia de dos años $486.00 (CUATROCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Con vigencia de cuatro años $728.00 (SETECIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 3. Tipo C: Motociclista;
 
-a) Con vigencia de dos años $134.00 (CIENTO TREINTA Y CUATRO PESOS 00/100 M.N)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con vigencia de cuatro años $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.).
+a) Con vigencia de dos años $140.00 (CIENTO CUARENTA PESOS 00/100 M.N).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Con vigencia de cuatro años $199.00 (CIENTO NOVENTA Y NUEVE PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 4. Tipo D: Chofer de empresas de redes de transporte:
 
-a) Con vigencia de dos años $720.00 (SETECIENTOS VEINTE PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Con vigencia de cuatro años $1,080.00 (UN MIL OCHENTA PESOS 00/100 M.N.).
+a) Con vigencia de dos años $752.00 (SETECIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Examen Pericial de manejo y de conocimientos reglamentarios, $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.).
+b) Con vigencia de cuatro años $1,129.00 (UN MIL CIENTO VEINTINUEVE PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V-A. Fotografía digitalizada en la licencia de conducir $50.00 (CINCUENTA PESOS 00/100 M.N.).
+V. Examen Pericial de manejo y de conocimientos reglamentarios, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
+V-A. Fotografía digitalizada en la licencia de conducir $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.).
+VI. Examen médico para demostrar aptitud física para obtener licencia de conducir $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.).
+VII. Por aplicación de examen psicométrico a operadores del servicio público de transporte $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VIII. Certificado médico-toxicológico para operadores del servicio público de transporte, $327.00 (TRESCIENTOS VEINTISIETE PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2389,7 +2511,11 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 12. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
 
-III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Certificaciones, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
@@ -2429,17 +2555,17 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
 II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Expedición, por 30 años derivada de licitación, $40,110.00 (CUARENTA MIL CIENTO ONCE (SIC) PESOS 00/100 M.N.); y
+1. Expedición, por 30 años derivada de licitación, $41,915.00 (CUARENTA Y UN MIL NOVECIENTOS QUINCE PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Renovación de concesión (prórroga de concesión por 30 años) $40,110.00 (CUARENTA MIL CIENTO (SIC) PESOS 00/100 M.N.)
+2. Renovación de concesión (prórroga de concesión por 30 años) $41,915.00 (CUARENTA Y UN MIL NOVECIENTOS QUINCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Refrendo anual, $3,707.00 (TRES MIL SETECIENTOS SIETE PESOS 00/100 M.N.).
+3. Refrendo anual, $3,874.00 (TRES MIL OCHOCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.).
 
 > <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2449,149 +2575,153 @@ III. Concesión estatal para servicio de transporte de agua:
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Refrendo anual de concesión, $2,003.00 (DOS MIL TRES PESOS 00/100 M.N.).
+3. Refrendo anual de concesión, $2,093.00 (DOS MIL NOVENTA Y TRES PESOS 00/100 M.N.).
 
 > <small>(REFORMADA CON SUS NUMERALES, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Expedición, $3,886.00 (TRES MIL OCHOCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+1. Expedición, $4,061.00 (CUATRO MIL SESENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Refrendo $1,227.00 (UN MIL DOSCIENTOS VEINTISIETE PESOS 00/100 M.N.); y
+2. Refrendo $1,282.00 (UN MIL DOSCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.); y
 
 > <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 V. Permiso con vigencia de cinco años para servicio de transporte especializado de personal.
 
-1. Expedición, $6,686.00 (SEIS MIL SEISCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Refrendo $2,006.00 (DOS MIL SEIS PESOS 00/100 M.N.); y
+1. Expedición, $6,987.00 (SEIS MIL NOVECIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Refrendo $2,096.00 (DOS MIL NOVENTA Y SEIS PESOS 00/100 M.N.); y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VI. Permiso con vigencia de 5 años para el servicio de transporte de personal propio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1.- Expedición, $2,908.00 (DOS MIL NOVECIENTOS OCHO PESOS 00/100 M/N).
+1. Expedición, $3,039.00 (TRES MIL TREINTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2.- Refrendo anual $940.00 (NOVECIENTOS CUARENTA PESOS 00/100 M/N).
+2. Refrendo anual $982.00 (NOVECIENTOS OCHENTA Y DOS PESOS 00/100 M/N).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,897.00 (DOS MIL OCHOCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.);
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VIII. Permiso anual para servicio de transporte de carga:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. De comestibles, $1,370.00 (UN MIL TRESCIENTOS SETENTA PESOS 00/100 M.N);
+1. De comestibles, $1,432.00 (UN MIL CUATROCIENTOS TREINTA Y DOS PESOS 00/100 M.N);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. De minerales, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+2. De minerales, $3,624.00 (TRES MIL SEISCIENTOS VEINTICUATRO PESOS 00/100 M.N.);
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Distribuidores de materiales de construcción, $2,761.00 (DOS MIL SETECIENTOS SESENTA Y UN PESOS 00/100 M.N.); y
+3. Distribuidores de materiales de construcción, $2,885.00 (DOS MIL OCHOCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.); y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Otros productos, $1,370.00 (UN MIL TRESCIENTOS SETENTA PESOS 00/100 M.N.);
+4. Otros productos, $1,432.00 (UN MIL CUATROCIENTOS TREINTA Y DOS PESOS 00/100 M.N);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Permiso anual para grúas, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+IX. Permiso anual para grúas, $3,812.00 (TRES MIL OCHOCIENTOS DOCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Cesión o transmisión de concesiones, $3,468.00 (TRES MIL CUATROCIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+X. Cesión o transmisión de concesiones, $3,624.00 (TRES MIL SEISCIENTOS VEINTICUATRO PESOS 00/100 M.N );
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Autorización de nueva ruta $17,342.00 (DIECISIETE MIL TRESCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+XI. Autorización de nueva ruta $18,122.00 (DIECIOCHO MIL CIENTO VEINTIDÓS PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. Ampliación de ruta del servicio de transporte de pasajeros, $8,531.00 (OCHO MIL QUINIENTOS TREINTA Y UN PESOS 00/100 M.N.);
+XII. Ampliación de ruta del servicio de transporte de pasajeros, $8,915.00 (OCHO MIL NOVECIENTOS QUINCE PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $879.00 (OCHOCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+XIII. Permiso temporal hasta por treinta días naturales para prestar el servicio de transporte público, $918.00 (NOVECIENTOS DIECIOCHO PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIV. Revisión físico mecánica a vehículos de servicio público, $181.00 (CIENTO OCHENTA Y UNO PESOS 00/100 M.N.);
+XIV. Revisión físico mecánica a vehículos de servicio público, $189.00 (CIENTO OCHENTA Y NUEVE PESOS 00/100 M.N.);
 
 XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVI. Constancia de extravío de documentos $181.00 (CIENTO OCHENTA Y UNO PESOS 00/100 M.N.); y
+XVI. Constancia de extravío de documentos $189.00 (CIENTO OCHENTA Y NUEVE PESOS 00/100 M.N.); y
 
 XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Derecho de preferencia por parcela, $730.00 (SETECIENTOS TREINTA PESOS 00/100 M.N.).
+XVIII. Derecho de preferencia por parcela, $762.00 (SETECIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $2,097.00 (DOS MIL NOVENTA Y SIETE PESOS 17/100 M.N.).
+XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $2,191.00 (DOS MIL CIENTO NOVENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $28,215.00 (VEINTIOCHO MIL DOSCIENTOS QUINCE (SIC) 00/100 M.N.).
+XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $29,485.00 (VEINTINUEVE MIL CUATROCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXI. Permiso anual para el transporte turístico $5,747.00 (CINCO MIL SETECIENTOS CUARENTA Y SIETE PESOS M/N (SIC))
+XXI. Permiso anual para el transporte turístico $6,006.00 (SEIS MIL SEIS PESOS 00/100 M.N.)
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 XXII. Permiso con vigencia de 5 años para el transporte de personas con discapacidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-1. Expedición, $3,030.00 (TRES MIL TREINTA PESOS OO/100 (SIC) M.N.)
+1. Expedición, $3,166.00 (TRES MIL CIENTO SESENTA Y SEIS PESOS 00/100 M.N.)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Refrendo anual $1,881.00 (UN MIL OCHOCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
+2. Refrendo anual $1,966.00 (UN MIL NOVECIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Permiso anual para ambulancias $1,254.00 (UN MIL DOCIENTOS (SIC) CINCUENTA Y CUATRO PESOS 00/100 M.N.)
+XXIII. Permiso anual para ambulancias $1,310.00 (UN MIL TRESCIENTOS DIEZ PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIV. Permiso anual para el transporte ejecutivo $1,881.00 (UN MIL OCHOCIENTOS OCHENTA Y UN PESOS 00/100 M.N.)
+XXIV. Permiso anual para el transporte ejecutivo $1,965.00 (UN MIL NOVECIENTOS SESENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXV. Permiso anual para el transporte mixto y de pasaje $1,149.00 (UN MIL CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.)
+XXV. Permiso anual para el transporte mixto y de pasaje $1,201.00 (UN MIL DOSCIENTOS Y UN PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVI. Permiso anual para el transporte de carga de agua potable $1,803.00 (UN MIL OCHOCIENTOS TRES PESOS 00/100 M.N.)
+XXVI. Permiso anual para el transporte de carga de agua potable $1,884.00 (UN MIL OCHOCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $2,500.00 (DOS MIL QUINIENTOS PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
+XXVII. Registro de los vehículos adheridos a las empresas de redes de transporte para el servicio entre particulares $2,612.00 (DOS MIL SEISCIENTOS DOCE PESOS 00/100 M.N.), por vehículo, con vigencia de 5 años.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,135.00 (TRES MIL CIENTO TREINTA Y CINCO PESOS 00/100 M.N.).
+XXVIII. Permiso anual o por campaña publicitaria para la colocación de anuncios publicitarios en vehículos del servicio público de transporte de competencia estatal, $3,276.00 (TRES MIL DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2609,9 +2739,9 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2623,103 +2753,185 @@ TARIFA
 
 I. Por registro de título y expedición de cédula profesional:
 
-1. De nivel técnico medio $1,049.00 (UN MIL CUARENTA Y NUEVE PESOS 00/100 M.N.)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. De nivel técnico superior, universitario o profesional asociado $1, 070.00.00 (UN MIL SETENTA PESOS 00/100 M.N.)
+1. De nivel técnico medio $1,096.00 (UN MIL NOVENTA Y SEIS PESOS 00/100 M.N.)
 
-3. De nivel licenciatura $1,118.00 (UN MIL CIENTO DIECIOCHO PESOS 00/100 M.N.); y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. De nivel posgrado $1,608.00 (UN MIL SEISCIENTOS OCHO PESOS 00/100 M.N.);
+2. De nivel técnico superior, universitario o profesional asociado $1,118.00 (UN MIL CIENTO DIECIOCHO PESOS 00/100 M.N.)
 
-II. Duplicado de cédula profesional $279.00 (DOSCIENTOS SETENTA Y NUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Constancia de registro de título y no sanción $315.00 (TRESCIENTOS QUINCE PESOS 00/100 M.N.);
+3. De nivel licenciatura $1,168.00 (UN MIL CIENTO SESENTA Y OCHO PESOS 00/100 M.N.)
 
-IV. Constancia de registro de título y expedición de cédula profesional en trámite $143.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N,);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. De nivel posgrado $1,680.00 (UN MIL SEISCIENTOS OCHENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Duplicado de cédula profesional $292.00 (DOSCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Constancia de registro de título y no sanción $329.00 (TRESCIENTOS VEINTINUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV. Constancia de registro de título y expedición de cédula profesional en trámite $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N,);
 
 V. DEROGADA
 
-VI. Registro de institución educativa $8,390.00 (OCHO MIL TRECIENTOS (SIC) NOVENTA PESOS 00/100 M.N.):
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Adición de carrera y/o estudios de posgrado $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+VI. Registro de institución educativa $7,221.00 (SIETE MIL DOSCIENTOS VEINTIÚN PESOS 00/100 M.N.):
 
-VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Cambio de nomenclatura de institución educativa $838.00 (OCHOCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
+VII. Adición de carrera y/o estudios de posgrado $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
-X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $1,608.00 (UN MIL SEISCIENTOS OCHO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Legalización de firmas de documentos académicos, $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.) por firma;
+VIII. Cambio de nomenclatura de carrera y/o estudios de posgrado, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
-XII. Por autorización de incorporación de planteles de educación básica y educación inicial $29,369.00 (VEINTINUEVE MIL TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $32,166.00 (TREINTA Y DOS MIL CIENTO SESENTA Y SEIS PESOS 00/100 M.N.);
+IX. Cambio de nomenclatura de institución educativa $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
-XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $34,964.00 (TREINTA Y CUATRO MIL NOVECIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $3,497.00 (TRES MIL CUATROCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.);
+X. Registro de título, diploma de especialidad o grado académico que procedan de otro estado $1,680.00 (UN MIL SEISCIENTOS OCHENTA PESOS 00/100 M.N.);
 
-XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $4,874.00 (CUATRO MIL OCHOCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.);
+XI. Legalización de firmas de documentos académicos, $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.) por firma;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XII. Por autorización de incorporación de planteles de educación básica y educación inicial $30,691.00 (TREINTA MIL NOVECIENTOS NOVENTA Y UN (SIC) PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII. Reconocimiento de validez oficial de estudios a planteles de educación media superior y formación para el trabajo $27,682.00 (VEINTISIETE MIL SEISCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIV. Reconocimiento de validez oficial de estudios a planteles de educación superior $30,090.00 (TREINTA MIL NOVENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XV. Por trámite de autorización para la incorporación de planteles de educación básica e inicial $3,654.00 (TRES MIL SEISCIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI. Por trámite de reconocimiento de validez oficial de estudios de educación media superior y formación para el trabajo $3,010.00 (TRES MIL DIEZ PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVII. Por trámite de reconocimiento de validez oficial de estudios de educación superior $3,611.00 (TRES MIL SEISCIENTOS ONCE PESOS 00/100 M.N.);
 
 XVIII. DEROGADA
 
-XIX. Por autorización de examen a título de suficiencia de educación media y superior $433.00 (CUATROCIENTOS TREINTA Y TRES PESOS 00/100 M.N.) por alumno por alumno (sic);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XX. Por equivalencia de estudios de nivel medio y superior $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.) por alumno; y
+XIX. Por autorización de examen a título de suficiencia de educación media y superior $452.00 (CUATROCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.) por alumno por alumno (sic);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XX. Por equivalencia de estudios de nivel medio y superior $1,462.00 (UN MIL CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.) por alumno; y
 
 XXI. Por revalidación de estudios cursados en el extranjero:
 
-1. De primaria $2,098.00 (DOS MIL NOVENTA Y OCHO PESOS 00/100 M.N.) por alumno;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. De secundaria cursada en el extranjero $2,795.00 (DOS MIL SETECIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.) por alumno;
+1. De primaria $2,192.00 (DOS MIL CIENTO NOVENTA Y DOS PESOS 00/100 M.N.) por alumno;
 
-3. De educación media superior y superior cursada en el extranjero $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.) por alumno;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. De secundaria cursada en el extranjero $2,921.00 (DOS MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.) por alumno;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. De educación media superior y superior cursada en el extranjero $3,611.00 (TRES MIL SEISCIENTOS ONCE PESOS 00/100 M.N.) por alumno;
 
 XXII. Expedición de certificado de terminación de estudios de escuelas particulares incorporadas:
 
-1. De nivel preescolar $28.00 (VEINTIOCHO PESOS 00/100 M.N.) por alumno;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. De nivel primaria $72.00 (CINCUENTA PESOS 00/100 M.N.) por alumno; y
+1. De nivel preescolar $29.00 (VEINTINUEVE PESOS 00/100 M.N.) por alumno;
 
-3. De nivel secundaria $147.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N.) por alumno.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $577.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.) por alumno.
+2. De nivel primaria $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.) por alumno; y
 
-XXIV. Por registro de Colegios de Profesionistas $7,831.00 (SIETE MIL OCHOCIENTOS TREINTA Y UN PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. De nivel secundaria $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.) por alumno.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIII. Expedición de certificado de terminación de estudios de bachillerato general y nivel técnico $603.00 (SEISCIENTOS TRES PESOS 00/100 M.N.), por alumno.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIV. Por registro de Colegios de Profesionistas $8,183.00 (OCHO MIL CIENTO OCHENTA Y TRES PESOS 00/100 M.N.);
 
 XXV. Por encomienda al Registro del Colegio de Profesionistas:
 
-1. Por cambio de nomenclatura del Colegio $899.00 (OCHOCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Por cambios en nómina de socios $230.00 (DOSCIENTOS TREINTA PESOS 00/100 M.N.);
+1. Por cambio de nomenclatura del Colegio $939.00 (NOVECIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+1 (SIC). Por cambios en nómina de socios $240.00 (DOSCIENTOS CUARENTA PESOS 00/100 M.N.);
 
 XXVI. DEROGADA
 
-XXVII. Por tramite de documentos escolares de otros Estados $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+XXVII. Por tramite de documentos escolares de otros Estados $291.00 (DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.).
 
-XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXX. Por duplicado de acuerdo de incorporación $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.)
+XXVIII. Por expedición de nuevo acuerdo por cambio de domicilio, cambio de titular y/o reestructuración de plan y programa de estudios $1,204.00 (UN MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y programas de escuelas particulares incorporadas $1,204.00 (UN MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXX. Por duplicado de acuerdo de incorporación $240.00 (DOSCIENTOS CUARENTA PESOS 00/100 M.N.).
 
 XXXI. DEROGADA
 
-XXXII. Por constancia de estudio y certificación parcial de estudios $143.00 (CIENTO CUARENTA Y TRES PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Por constancia de estudio y certificación parcial de estudios $149.00 (CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
 XXXIII. Preparatoria abierta.
 
-1. Inscripción semestral $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Credencial $104.00 (CIENTO CUATRO PESOS 00/100 M.N.).
+1. Inscripción semestral $142.00 (CIENTO CUARENTA Y DOS PESOS 00/100 M.N.).
 
-3. Evaluación $68.00 (SESENTA Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Certificado $659.00 (SEISCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.).
+2. Credencial $109.00 (CIENTO NUEVE PESOS 00/100 M.N.).
 
-5. Constancias $167.00 (CIENTO SESENTA Y SIETE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. Evaluación $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Certificado $689.00 (SEISCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+5. Constancias $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2737,7 +2949,9 @@ PAGO
 
 El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
 
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2012) (REUBICADO [N. DE E. ANTES ARTÍCULO 148], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2747,145 +2961,161 @@ Los servicios que presta la Secretaría de Medio Ambiente, causarán derechos co
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos de Manejo Especial, $4,725.00 (CUATRO MIL SETECIENTOS VEINTICINCO PESOS 00/100 M.N.).
+I. Por recepción, evaluación y expedición de la autorización del Generador de Residuos de Manejo Especial, $4,938.00 (CUATRO MIL NOVECIENTOS TREINTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Por la recepción, evaluación y expedición de la autorización bianual como Transportista de Residuos de Manejo Especial $9,000.00 (NUEVE MIL PESOS 00/100 M.N.).
+II. Por la recepción, evaluación y expedición de la autorización bianual como Transportista de Residuos de Manejo Especial $9,405.00 (NUEVE MIL CUATROCIENTOS CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Por expedición de la revalidación bianual de la autorización como Transportista de Residuos de Manejo Especial $3,600.00 (TRES MIL SEISCIENTOS PESOS 00/100 M.N.).
+III. Por expedición de la revalidación bianual de la autorización como Transportista de Residuos de Manejo Especial $3,762.00 (TRES MIL (SIC) PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $6,292.00 (SEIS MIL DOSCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
+IV. Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $6,575.00 (SEIS MIL QUINIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. Por la recepción, evaluación y expedición de la actualización de la Licencia de Funcionamiento en Materia de Atmósfera $3,149.00 (TRES MIL CIENTO CUARENTA Y NUEVE PESOS 00/100 M.N.).
+V. Por la recepción, evaluación y expedición de la actualización de la Licencia de Funcionamiento en Materia de Atmósfera $3,291.00 (TRES MIL DOSCIENTOS NOVENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Por la evaluación y resolución de la Manifestación de Impacto Ambiental $8,197.00 (OCHO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.).
+VI. Por la evaluación y resolución de la Manifestación de Impacto Ambiental $8,566.00 (OCHO MIL QUINIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VII. Por la evaluación y resolución del Informe Preventivo de Impacto Ambiental $5,481.00 (CINCO MIL CUATROCIENTOS OCHENTA Y UN PESOS 00/100 M.N.).
+VII. Por la evaluación y resolución del Informe Preventivo de Impacto Ambiental $5,728.00 (CINCO MIL SETECIENTOS VEINTIOCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $2,796.00 (DOS MIL SETECIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.)
+VIII. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $2,922.00 (DOS MIL NOVECIENTOS VEINTIDÓS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,399.00 (UN MIL TRESCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.)
+IX. Por refrendo anual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de impacto ambiental, $1,462.00 (UN MIL CUATROCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $4,000.00 (CUATRO MIL PESOS 00/100 M.N.), con vigencia bianual.
+X. Por inscripción en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $4,180.00 (CUATRO MIL CIENTO OCHENTA PESOS 00/100 M.N.), con vigencia bianual.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XI. Por refrendo bianual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+XI. Por refrendo bianual en el Registro Estatal de los Prestadores de Servicios Profesionales en materia de residuos de manejo especial, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+XII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial, $10,450.00 (DIEZ MIL CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIII. Por revalidación bianual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
+XIII. Por revalidación bianual de la autorización de sitio de acopio y/o almacenamiento de residuos de manejo especial $6,270.00 (SEIS MIL DOSCIENTOS SETENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIV. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
+XIV. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $6,270.00 (SEIS MIL DOSCIENTOS SETENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XV. Por trámite bianual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $4,000.00 (CUATRO MIL PESOS 00/100 M.N.).
+XV. Por trámite bianual de revalidación de la autorización de sitio de tratamiento y/o coprocesamiento de residuos de manejo especial, $4,180.00 (CUATRO MIL CIENTO OCHENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVI. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial $3,000.00 (TRES MIL PESOS 00/100 M.N.).
+XVI. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de reciclado de residuos de manejo especial, $3,135.00 (TRES MIL CIENTO TREINTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVII. Por trámite bianual años (sic) de revalidación de la autorización de reciclado de residuos de manejo especial, $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+XVII. Por trámite bianual años (sic) de revalidación de la autorización de reciclado de residuos de manejo especial, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $20,000.00 (VEINTE MIL PESOS 00/100 M.N.).
+XVIII. Por trámite bianual de recepción, evaluación y otorgamiento de la resolución sobre la solicitud de autorización de sitio de disposición final de residuos de manejo especial, $40,000.00 (CUARENTA MIL PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIX. Por trámite bianual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+XIX. Por trámite bianual de revalidación de la autorización de sitio de disposición final de residuos de manejo especial, $10,450.00 (DIEZ MIL CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $698.00 (SEISCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.)
+XX. Autorización de quema a cielo abierto en bienes y fuentes de jurisdicción estatal, $729.00 (SETECIENTOS VEINTINUEVE PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $4,196.00 (CUATRO MIL CIENTO NOVENTA Y SEIS PESOS 00/100 M.N.)
+XXI. Recepción, evaluación y otorgamiento de la resolución de autorización del estudio de riesgo, $4,385.00 (CUATRO MIL TRESCIENTOS OCHENTA Y CINCO PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $6,992.00 (SEIS MIL NOVECIENTOS NOVENTA Y DOS PESOS 00/100 M.N.)
+XXII. Recepción, evaluación y resolución de la solicitud de permiso de funcionamiento temporal de fuente emisora estacionaria estatal, $7,307.00 (SIETE MIL TRESCIENTOS SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Recepción, revisión y evaluación de cedulas de operación anual, $400.00 (CUATROCIENTOS PESOS 00/100 M.N.).
+XXIII. Recepción, revisión y evaluación de cedulas de operación anual, $418.00 (CUATROCIENTOS DIECIOCHO PESOS 00/100 M.N.).
 
 XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
 XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $41.00 (CUARENTA Y UN PESOS 00/100 M.N.)
+XXVI. Por los servicios de laboratorio del Banco de Germoplasma, costo por muestra de humedad, $43.00 (CUARENTA Y TRES PESOS 00/100 M.N.)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVII. Por el servicio de una muestra de pureza, $169.00 (CIENTO SESENTA Y NUEVE PESOS 00/100 M.N.)
+XXVII. Por el servicio de una muestra de pureza, $177.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXVIII. Muestra de viabilidad, $288.00 (DOSCIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.)
+XXVIII. Muestra de viabilidad, $301.00 (TRESCIENTOS Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXIX. Muestra de germinación, $229.00 (DOSCIENTOS VEITINUEVE (SIC) PESOS 00/100 M.N.)
+XXIX. Muestra de germinación, $239.00 (DOSCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $8,165.00 (OCHO MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.), por dos años.
+XXX. Por autorización de Depósitos o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $8,532.00 (OCHO MIL QUINIENTOS TREINTA Y DOS PESOS 00/100 M.N.), por dos años.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $12,247.00 (DOCE MIL DOSCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N), por dos años.
+XXXI. Por autorización de Centros Autorizados de Recepción para llevar a cabo el manejo de vehículos al final de su vida útil, $12,798.00 (DOCE MIL SETECIENTOS NOVENTA Y OCHO PESOS 00/100 M.N), por dos años.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXII. Por registro de organizaciones vinculadas con la conservación y aprovechamiento sustentable de la vida silvestre, $692.00 (SEISCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.).
+XXXII. Por registro de organizaciones vinculadas con la conservación y aprovechamiento sustentable de la vida silvestre, $723.00 (SETECIENTOS VEINTITRÉS PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXIII. Por la elaboración de tasa de aprovechamiento, $1,000.00 (UN MIL PESOS 00/100 M.N.).
+XXXIII. Por la elaboración de tasa de aprovechamiento, $1,045.00 (UN MIL CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXIV. Por registro de mascota de vida silvestre $500.00 (QUINIENTOS PESOS 00/100 M.N.), por mascota.
+XXXIV. Por registro de mascota de vida silvestre $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.), por mascota.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXV. Por el refrendo bianual de Depósito o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.).
+XXXV. Por el refrendo bianual de Depósito o Corralones para llevar a cabo el manejo de vehículos al final de su vida útil, $3,657.00 (TRES MIL SEISCIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.).
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XXXVI. Por el refrendo bianual de Centros Autorizados de Recepción para llevar a cabo el manejo de Vehículos al final de su vida útil $5,500.00 (CINCO MIL QUINIENTOS (SIC) 00/100 M.N.).
+XXXVI. Por el refrendo bianual de Centros Autorizados de Recepción para llevar a cabo el manejo de Vehículos al final de su vida útil $5,747.00 (CINCO MIL SETECIENTOS CUARENTA Y SIETE 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXVII. Tratamiento pregerminativo, $1,740.00 (UN MIL SETECIENTOS CUARENTA PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII. Extracción y limpieza de semillas, el 30% del valor total de la semilla limpia.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXXIX. Por venta de semillas, 100% del valor de la semilla de acuerdo con la especie.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XL. Registro estatal de los proveedores de servicio y/o Promoventes en materia de Calidad del Aire y RETC, $4,900.00 (CUATRO MIL NOVECIENTOS PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 146], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2903,9 +3133,9 @@ PAGO
 
 El pago de los derechos a que se refiere este capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO NOVENO. POR SERVICIOS DE LA SECRETARIA DE ECONOMÍA
+### CAPITULO OCTAVO. POR SERVICIOS DE LA SECRETARIA DE ECONOMÍA
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 152], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2921,13 +3151,21 @@ Por el servicio de verificación, evaluación y supervisión que las leyes de la
 
 Por otros servicios:
 
-I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Por la expedición de certificado de aptitud para ser proveedor, contratista o prestador de servicios del Gobierno del Estado, por cada uno de ellos $4,016.00 (CUATRO MIL DIECISÉIS PESOS 00/100 M.N.);
+I. Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $278.00 (DOSCIENTOS SETENTA Y OCHO PESOS 00/100 M.N.);
 
-III. Por inscripción en el padrón de proveedores, $4,016.00 (CUATRO MIL DIECISÉIS PESOS 00/100 M.N.) y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la expedición de copias certificadas $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
+II. Por la expedición de certificado de aptitud para ser proveedor, contratista o prestador de servicios del Gobierno del Estado, por cada uno de ellos $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Por inscripción en el padrón de proveedores, $4,197.00 (CUATRO MIL CIENTO NOVENTA Y SIETE PESOS 00/100 M.N.) y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+IV. Por la expedición de copias certificadas $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -2937,19 +3175,17 @@ SUJETO
 
 Son sujetos de este derecho, las personas que soliciten los servicios que establece este Capítulo.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 151], P.O. 31 DE DICIEMBRE DE 2019)
-
-PAGO
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 136.
 
-La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 148 de esta ley.
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 133 de esta ley.
 
-El pago de los derechos por los servicios a que se refiere el artículo 149 de esta Ley, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios a que se refiere el artículo 134 de esta Ley, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO SU NUMERAL, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO DECIMO. POR SERVICIOS DE LA SECRETARÍA DE SEGUIRIDAD (SIC) PÚBLICA
+### CAPITULO NOVENO. POR SERVICIOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -3001,11 +3237,11 @@ Los derechos a que se refiere este capítulo se causarán conforme a la siguient
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-I. $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
+I. $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.) del precio comercial de la tonelada del mineral beneficiado cuando sea mejorado, lavado, homogenizado, o trasladado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+(REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 II. La Secretaría de Economía, podrá prestar servicios para la capacitación y la comercialización a los productores mineros del Estado y prestarles asistencia técnica. Los derechos por este concepto se determinarán en el convenio que se celebre con los productores.
 
@@ -3029,55 +3265,85 @@ El pago de los derechos a que se refiere el artículo 140, se realizará en las 
 
 (DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN Y DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO DECIMO PRIMERO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO DECIMO. POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA RELATIVAS AL DERECHO DE ACCESO A LA INFORMACION PUBLICA
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 159], P.O. 31 DE DICIEMBRE DE 2019)
-
-OBJETO
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 142.
 
 Los servicios prestados por la Secretaría de Seguridad Pública, causarán derechos conforme a lo siguiente:
 
-I. Certificados de no antecedentes penales $119.00 (CIENTO DIECINUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $5,984.00 (CINCO MIL NOVECIENTOS OCHENYA (SIC) Y CUATRO PESOS 00/100 M.N.), mensuales.
+I. Certificados de no antecedentes penales $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.).
 
-III. Por la aplicación de exámenes de control de confianza $7,180.00 (SIETE MIL CIENTO OCHENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+II. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $6,253.00 (SEIS MIL DOSCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.), mensuales.
+
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 IV. Servicios prestados por la Dirección General de Registro y Control de Seguridad Privada:
 
-a) Autorización para la prestación del servicio de seguridad privada en el Estado, $3,380.00 (TRES MIL TRESCIENTOS OCHENTA PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b) Revalidación anual para la prestación del servicio de seguridad privada en el Estado, $2,535.00 (DOS MIL QUINIENTOS TREITA (SIC) Y CINCO PESOS 00/100 M.N.).
+a) Autorización para la prestación del servicio de seguridad privada en el Estado, $3,532.00 (TRES MIL QUINIENTOS TREINTA Y DOS PESOS 00/100 M.N.).
 
-c) Estudio de factibilidad, relativo al manejo del expediente y cumplimiento de los requisitos legales, $2,112.00 (DOS MIL CIENTO DOCE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Revalidación anual para la prestación del servicio de seguridad privada en el Estado, $2,646.00 (DOS MIL SEISCIENTOS CUARENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c) Estudio de factibilidad, relativo al manejo del expediente y cumplimiento de los requisitos legales, $2,207.00 (DOS MIL DOSCIENTOS SIETE PESOS 00/100 M.N.).
 
 d) Se pagará adicionalmente por modalidad a servicios a realizar, conforme a lo siguiente:
 
-e) Seguridad privada a personas, $16,898.00 (DIECISÉIS MIL OCHOCIENTOS OCHENTA (SIC) Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-f) Seguridad privada intramuros, $12,673.00 (DOCE MIL SEISCIENTOS SETENTA Y TRES PESOS 00/100 M.N.).
+e) Seguridad privada a personas, $17,658.00 (DIECISIETE MIL SEISCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.).
 
-g) Seguridad privada en los bienes, $16,898.00 (DIECISÉIS MIL OCHOCIENTOS OCHENTA (SIC) Y OCHO PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-h) Seguirdad (sic) privada en el traslado de bienes o valores, $25,347.00 (VEINTICINCO MIL TRESCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
+f) Seguridad privada intramuros, $13,243.00 (TRECE MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.).
 
-i) Seguridad por medio de canes, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-j) Servicio de alarmas y monitoreo electrónico, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+g) Seguridad privada en los bienes, $17,658.00 (DIECISIETE MIL SEISCIENTOS CINCUENTA Y OCHO PESOS 00/100 M.N.).
 
-k) Servicio de alarmas por medio de aeronaves no tripuladas, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-l) Seguridad de la Información, $12,673.00 (DOCE MIL SEISCIENTOS SETENTA Y TRES PESOS 00/100 M.N.).
+h) Seguridad privada en el traslado de bienes o valores, $26,487.00 (VEINTISÉIS MIL CUATROCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
 
-m) Sistemas de prevención y responsabilidades, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-n) Actividad vinculada con servicios de blindaje y equipo, $25,347.00 (VEINTICINCO MIL TRESCIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
+i) Seguridad por medio de canes, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
-o) Actividad vinculada con servicios de seguridad privada, $8,449.00 (OCHO MIL CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+j) Servicio de alarmas y monitoreo electrónico, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+k) Servicio de alarmas por medio de aeronaves no tripuladas, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+l) Seguridad de la Información, $13,243.00 (TRECE MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+m) Sistemas de prevención y responsabilidades, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+n) Actividad vinculada con servicios de blindaje y equipo, $26,487.00 (VEINTISÉIS MIL CUATROCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+o) Actividad vinculada con servicios de seguridad privada, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -3109,13 +3375,15 @@ Los pagos realizados previamente a la prestación del servicio, se considerarán
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-### CAPITULO DÉCIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+### CAPITULO DÉCIMO PRIMERO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 164], P.O. 31 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 145.
 
-Es objeto de este derecho, los servicios que prestan las dependencias de la Administración Pública Centralizada a que se refiere el artículo 17 de la Ley Orgánica para la Administración Pública del Estado de Coahuila de Zaragoza, por los documentos físicos o que en medios magnéticos les sean solicitados en materia del derecho de acceso a la información pública.
+Es objeto de este derecho, los servicios que prestan las dependencias de la Administración Pública Centralizada a que se refiere el artículo 18 de la Ley Orgánica para la Administración Pública del Estado de Coahuila de Zaragoza, por los documentos físicos o que en medios magnéticos les sean solicitados en materia del derecho de acceso a la información pública.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 160], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3133,19 +3401,33 @@ Los servicios a que se refiere el presente Capítulo, causarán derechos conform
 
 TARIFA
 
+(REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
+
 I. Por la expedición de copia simple, se pagará $1.00 (UN PESO 00/100 M.N.), por hoja.
 
-II. Por expedición de copia certificada, se pagarán $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.), por hoja.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Por expedición de copia a color, se pagarán $41.00 (CUARENTA Y UN PESOS 00/100 M.N.), por hoja.
+II. Por expedición de copia certificada, se pagarán $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.), por hoja.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Por expedición de copia a color, se pagarán $43.00 (CUARENTA Y TRES PESOS 00/100 M.N.), por hoja.
+
+(REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagarán $5.00 (CINCO PESOS 00/100 M.N.).
 
-V. Por cada disco compacto que contenga la información requerida, se pagarán $28.00 (VEINTISIETE (SIC) PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Por expedición de copia simple de planos, se pagarán de $99.00 (NOVENTA Y NUEVE PESOS 00/100 M.N.) por metro cuadrado.
+V. Por cada disco compacto que contenga la información requerida, se pagarán $28.00 (VEINTIOCHO PESOS 00/100 M.N.).
 
-VII. Por expedición de copia certificada de planos, se pagarán $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de éste artículo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VI. Por expedición de copia simple de planos, se pagarán de $103.00 (CIENTO TRES PESOS 00/100 M.N.) por metro cuadrado.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VII. Por expedición de copia certificada de planos, se pagarán $55.00 (CINCUENTA Y CINCO PESOS 00/100 M.N.) adicionales a la cuota que le corresponde conforme a la fracción VI de este artículo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 162], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3165,9 +3447,9 @@ El pago de los servicios y gastos a que se refiere este Capítulo, deberá efect
 
 La Dependencia, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados, el costo de cada uno y el importe de los gastos de envío.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
+### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -3191,35 +3473,65 @@ Los servicios a que se refiere el presente Capítulo, causarán derechos conform
 
 TARIFA
 
-I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $209.00 (DOSCIENTOS NUEVE PESOS 00/100 M.N.) por pareja.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.)
+I. El Taller de orientación prematrimonial que imparte el Poder Judicial del Estado por conducto del Instituto Estatal de la Defensoría Pública, $218.00 (DOSCIENTOS DIECIOCHO PESOS 00/100 M.N.) por pareja.
 
-III. Búsqueda de datos en el Archivo General Judicial, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,090.00 (DOS MIL NOVENTA PESOS 00/100 M.N.)
+II. Bases de licitación pública nacional para obra pública y servicios relacionados con la misma, $2,184.00 (DOS MIL CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-V. Certificación de mediadores, $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias. $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+III. Búsqueda de datos en el Archivo General Judicial, $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-VII. Certificación como mediador privado capacitado por otras instituciones, $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $313.00 (TRESCIENTOS TRECE PESOS 00/100 M.N.)
+IV. Curso de preparación en materia de mediación, por parte del Centro de Medios Alternos de Solución de Controversias, $2,184.00 (DOS MIL CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.).
 
-IX. Copia simple $2.00 (DOS PESOS 50/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.)
+V. Certificación de mediadores, $545.00 (QUINIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-XI. Constancia de no registro en el REDAM, $104.00 (CIENTO CUATRO PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $31.00 (TREINTA Y UN PESOS 00/100 M.N)
+VI. Validación extemporánea de convenios de mediación privada, ante el Centro de Medios Alternos de Solución de Controversias. $545.00 (QUINIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-XIII. Reposición de credencial institucional $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $2,612.00 (DOS MIL SEISCIENTOS DOCE PESOS 00/100 M.N.)
+VII. Certificación como mediador privado capacitado por otras instituciones, $545.00 (QUINIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-XVI (SIC). Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $522.00 (QUINIENTOS VEINTIDÓS PESOS 00/100 M.N.) por hora.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+VIII. Curso de capacitación impartido por el Instituto de Especialización Judicial a personas externas al Poder Judicial, $327.00 (TRESCIENTOS VEINTISIETE PESOS 00/100 M.N.).
+
+(REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
+
+IX. Copia simple $2.00 (DOS PESOS 00/100 M.N.).
+
+(REPUBLICADA, P.O. 30 DE DICIEMBRE DE 2020)
+
+X. Copia certificada $3.00 (TRES PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XI. Constancia de no registro en el REDAM, $109.00 (CIENTO NUEVE PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XII. CD/DVD con la grabación de audiencia en materia penal o familiar, $32.00 (TREINTA Y DOS PESOS 00/100 M.N).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIII. Reposición de credencial institucional $164.00 (CIENTO SESENTA Y CUATRO PESOS 00/100 M. N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XIV. Validación de contenidos de capacitación en materia de Mecanismos Alternativos de Controversias $2,730.00 (DOS MIL SETECIENTOS TREINTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XVI. (SIC) Renta de instalaciones para la impartición de cursos, talleres, conferencias, encuentros, seminarios, coloquios y demás actividades académicas, por parte de particulares e instituciones privadas. $545.00 (QUINIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.), por hora.
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (REUBICADO [N. DE E. ANTES ARTÍCULO 167], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3229,11 +3541,11 @@ PAGO
 
 El pago de los servicios a que se refiere este Capítulo, deberán efectuarse en las Instituciones de Crédito o establecimientos o medios autorizados, previamente a la prestación del servicio.
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 176], P.O. 31 DE DICIEMBRE DE 2019)
+### CAPITULO DÉCIMO TERCERO. POR SERVICIOS DE LA SECRETARÍA DE DESARROLLO RURAL
 
-OBJETO
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 #### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -3267,15 +3579,21 @@ TARIFA
 
 I. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-II. Inscripción semestral al Centro Acuático Coahuila 2000, $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-III. Curso mensual del Centro Acuático Coahuila 2000, $895.00 (OCHOCIENTOS NOVENTA Y CINCO PESOS 00/100 M.N.).
+II. Inscripción y encuesta médica semestral al Centro Acuático Coahuila 2000, $369.00 (TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.).
 
-IV. Certificado médico semestral del Centro Acuático Coahuila 2000, $172.00 (CIENTO SETENTA Y DOS PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+III. Curso mensual del Centro Acuático Coahuila 2000, $1,032.00 (UN MIL TREINTA Y DOS PESOS 00/100 M.N.).
+
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2020)
 
 V. Mensualidad por uso de piso e instalaciones de la Ciudad Deportiva Francisco I. Madero:
 
-1. Por metro cuadrado $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+1. Por metro cuadrado $276.00 (DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la siguiente:
 
@@ -3283,49 +3601,85 @@ CUOTA
 
 Concepto Importe
 
-Sin uso de energía eléctrica $209.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Menores de 50 kw $231.00
+Sin uso de energía eléctrica $230.00
 
-De 51 kw hasta 280 kw $316.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-De 281 kw hasta 400 kw $531.00
+Menores a 50 kw $254.00
 
-De 401 kw hasta 500 kw $589.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-De 501 kw hasta 600 kw $725.00
+de 51 kw hasta 280 kw $348.00
 
-De 601 kw hasta 1000 kw $1,162.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-2. Con carrito ambulante $628.00 (SEISCIENTOS VEINTIOCHO PESOS 00/100 M.N.);
+de 281 kw hasta 400 kw $584.00
 
-3. Con canastilla $323.00 (TRESCIENTOS VEINTITRES PESOS 00/100 M.N.); y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-4. Otros ambulantes $315.00 (TRESCIENTOS QUINCE PESOS 00/100 M.N.).
+de 401 kw hasta 500 kw $649.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+de 501 kw hasta 600 kw $799.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+de 601 kw hasta 1,000 kw $1,281.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+2. Con carrito ambulante $692.00 (SEISCIENTOS NOVENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. Con canastilla $357.00 (TRESCIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Otros ambulantes $329.00 (TRESCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
 VI. Mensualidad por uso de piso e instalaciones del Parque Venustiano Carranza, de la Unidad Deportiva Oscar Flores Tapia, y del Centro Acuático Coahuila 2000:
 
-1. Por metro cuadrado $215.00 (DOSCIENTOS QUINCE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+1. Por metro cuadrado $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción IV de este artículo.
 
-2. Con carrito ambulante, $555.00 (QUINIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Con canastilla, $277.00 (DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.); y
+2. Con carrito ambulante, $606.00 (SEISCIENTOS SEIS PESOS 00/100 M.N.);
 
-4. Otros ambulantes $323.00 (TRESCIENTOS VEINTITRES PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. Con canastilla, $305.00 (TRESCIENTOS CINCO PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Otros ambulantes $357.00 (TRESCIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.).
 
 VII. Mensualidad por uso de piso e instalaciones de otros Parques:
 
-1. Metro cuadrado $202.00 (DOSCIENTOS DOS PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+1. Metro cuadrado $220.00 (DOSCIENTOS VEINTE PESOS 00/100 M.N.);
 
 Al resultado por metro cuadrado se sumará por concepto de consumo de energía eléctrica y mantenimiento de áreas, la cuota contenida en la fracción V de este artículo.
 
-2. Con carrito ambulante, $489.00 (CUATROCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-3. Con canastilla $251.00 (DOSCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.); y
+2. Con carrito ambulante, $539.00 (QUINIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.);
 
-4. Otros ambulantes $266.00 (DOSCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+3. Con canastilla $274.00 (DOSCIENTOS SETENTA Y CUATRO PESOS 00/100 M.N.); y
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+4. Otros ambulantes $293.00 (DOSCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 175], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -3337,15 +3691,41 @@ El pago de los servicios a que se refiere esta Sección, deberá efectuarse en l
 
 El Instituto Estatal del Deporte en el Estado de Coahuila de Zaragoza, al realizar la liquidación para el pago de los derechos a que se refiere éste capítulo, deberá precisar los servicios prestados y el costo de cada uno.
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 184], P.O. 31 DE DICIEMBRE DE 2019)
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 176], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBJETO
 
-### CAPITULO TERCERO. CONTRIBUCION POR OBRA PUBLICA
+###### ARTÍCULO 157-A.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 194], P.O. 31 DE DICIEMBRE DE 2019)
+Los servicios prestados por la Secretaría de Desarrollo Rural, causarán derechos conforme a lo siguiente:
+
+I. Registro de fiero (sic) de herrar y marca de sangre $450.00 (CUATROCIENTOS CINCUENTA PESOS 00/100 M.N.).
+
+II. Guías de tránsito para movilización de ganado $115.00 (CIENTO QUINCE PESOS 00/100 M.N.).
+
+III. Registro y/o revalidación de prestadores de servicios de ganadería $3,000.00 (TRES MIL PESOS 00/100 M.N.).
+
+IV. Certificación de origen de ganado $1,000.00 (UN MIL PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 157-B.
+
+Son sujetos de los derechos descritos en el presente Capítulo, las personas físicas o las personas morales que soliciten los servicios antes descritos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 157-C.
+
+El pago de estos derechos deberá efectuarse en las instituciones de crédito o establecimientos autorizados, conforme a las tasas y tarifas que se establecen en la presente ley, previamente a la prestación del servicio.
+
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 184], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBJETO
 
@@ -3369,15 +3749,17 @@ POR SERVICIOS DE LA COMISION ESTATAL DE VIVIENDA Y COMISION ESTATAL PARA LA REGU
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+### CAPITULO TERCERO. CONTRIBUCION POR OBRA PUBLICA
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 211], P.O. 31 DE DICIEMBRE DE 2019)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 194], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBJETO
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION Y DE LA SEGURIDAD PÚBLICA EN EL ESTADO
+### CAPITULO CUARTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 211], P.O. 31 DE DICIEMBRE DE 2019)
 
 OBJETO
 
@@ -3449,9 +3831,9 @@ En lo no previsto en este Capítulo, la aplicación y recaudación de las contri
 
 Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Tenencia o Uso de Vehículos, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos teatrales y de circo, al Impuesto Sobre Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los Servicios de Registro Público, así como los Derechos que se causen por los servicios que presta el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, previstos en los artículos 79, fracción II y 82, fracción II de esta Ley, los Derechos que se causen por los Servicios que presta la Secretaría de Educación Pública, y los que se causen por los Servicios prestados por las Dependencias de la Administración Pública Centralizada, relativas al Derecho de Acceso a la Información Pública.
+No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Tenencia o Uso de Vehículos, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos teatrales y de circo, al Impuesto Sobre Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los Servicios de Registro Público, los Derechos que se causen por los Servicios que presta la Secretaría de Educación Pública, y los que se causen por los Servicios prestados por las Dependencias de la Administración Pública Centralizada, relativas al Derecho de Acceso a la Información Pública.
 
 El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación y de la seguridad pública en el Estado.
 
@@ -3687,6 +4069,8 @@ Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el pro
 
 Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
 
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
 
 OBJETO
@@ -3739,33 +4123,57 @@ II. Arrendamiento de bienes muebles o inmuebles propiedad del Estado; inclusive 
 
 1. Teatro de Monclova y Piedras Negras,
 
-a. Empresarios Privados, $69,928.00 (SESENTA Y NUEVE MIL NOVECIENTOS VEINTIOCHO PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $34,964.00 (TREINTA Y CUATRO MIL NOVECIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
+a. Empresarios Privados, $73,075.00 (SETENTA Y TRES MIL SETENTA Y CINCO PESOS 00/100 M.N.);
 
-c. Eventos de Artistas Locales Independientes, $22,376.00 (VEINTIDOS MIL TRESCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.) por día;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d. Teatro de Cámara de Monclova para Artistas Locales, $7,201.00 (SIETE MIL DOSCIENTOS Y UN PESOS 00/100 M.N.) por día;
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $36,537.00 (TREINTA Y SEIS MIL QUINIENTOS TREINTA Y SIETE PESOS 00/100 M.N.);
 
-e. Teatro de Cámara de Monclova para graduaciones, $13,989.00 (TRECE MIL NOVECIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.) por día;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c. Eventos de Artistas Locales Independientes, $23,384.00 (VEINTITRÉS MIL TRESCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.) por día;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d. Teatro de Cámara de Monclova para Artistas Locales, $7,525.00 (SIETE MIL QUINIENTOS VEINTICINCO PESOS 00/100 M.N.) por día;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e. Teatro de Cámara de Monclova para graduaciones, $14,618.00 (CATORCE MIL SEISCIENTOS DIECIOCHO PESOS 00/100 M.N.) por día;
 
 2. Teatro de Saltillo,
 
-a. Empresarios Privados, $55,943.00 (CINCUENTA Y CINCO MIL NOVECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $30,768.00 (TREINTA MIL SETECIENTOS SESENTA Y OCHO PESOS 00/100 M.N.);
+a. Empresarios Privados, $58,460.00 (CINCUENTA Y OCHO MIL CUATROCIENTOS SESENTA PESOS 00/100 M.N.);
 
-c. Eventos de Artistas Locales Independientes, $25,873.00 (VEINTICINCO MIL OCHOCIENTOS SETENTA Y TRES PESOS 00/100 M.N.) por día;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $3,493.00 (TRES MIL CUATROCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.) fin de semana;
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $32,153.00 (TREINTA Y DOS MIL CIENTO CINCUENTA Y TRES PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c. Eventos de Artistas Locales Independientes, $27,037.00 (VEINTISIETE MIL TREINTA Y SIETE PESOS 00/100 M.N.) por día;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d. Teatro De Cámara del Teatro Fernando Soler y Casa de la Cultura para Artistas Locales, $3,650.00 (TRES MIL SEISCIENTOS CINCUENTA PESOS 00/100 M.N.) fin de semana;
 
 3. Teatro Salvador Novo de Torreón:
 
-a. Empresarios Privados, $16,783.00 (DIECISEIS MIL SETECIENTOS OCHENTA Y TRES PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $11,188.00 (ONCE MIL CIENTO OCHENTA Y OCHO PESOS 00/100 M.N.);
+a. Empresarios Privados, $17,538.00 (DIECISIETE MIL QUINIENTOS TREINTA Y OCHO PESOS 00/100 M.N.);
 
-c. Eventos de Artistas Locales Independientes, $6,727.00 (SEIS MIL SETECIENTOS VEINTISIETE PESOS 00/100 M.N.) por dos días.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b. Escuelas y Eventos Gratuitos previa autorización del Ejecutivo del Estado, $11,691.00 (ONCE MIL SEISCIENTOS NOVENTA Y UN PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c. Eventos de Artistas Locales Independientes, $7,030.00 (SIETE MIL TREINTA PESOS 00/100 M.N.) por dos días.
 
 III. Explotación o enajenación de cualquier naturaleza, de los bienes propiedad del Estado;
 
@@ -3843,13 +4251,11 @@ El presente Decreto entrará en vigor el día primero de enero de 2012.
 
 Se abroga la Ley de Hacienda para el Estado de Coahuila de Zaragoza contenida en el Decreto No. 453, publicada en el Periódico Oficial del Estado No. 102 de fecha 22 de diciembre de 1995.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO TERCERO.
 
 Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, establecidos en esta ley.
-
-No se considerarán incluidos en el objeto de ésta contribución los pagos correspondientes a los Derechos que se causen por los servicios de Registro Público de la Propiedad y del Comercio, previstos en los artículos 79, fracción II y 82, fracción II de esta Ley.
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -4124,5 +4530,17 @@ La vigencia de las placas metálicas con número identificatorio para vehículos
 A partir del ejercicio del 2020 y subsecuentes la vigencia de placas a que se refiere el párrafo anterior tendrán vigencia de 4 años.
 
 ###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 923.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
