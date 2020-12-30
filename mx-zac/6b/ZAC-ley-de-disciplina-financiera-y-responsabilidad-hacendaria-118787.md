@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11878
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -437,9 +437,13 @@ Procedimiento del impacto presupuestario
 
 Los Entes Públicos y la Secretaría, en el ámbito de sus respectivas competencias, emitirán el dictamen de estimación de impacto presupuestario de los proyectos a que se refiere el artículo 18 de esta ley, en el cual deben analizar, al menos, los aspectos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Para emitir el dictamen, se requiere presentar solicitud, por conducto del área jurídica correspondiente, acompañada del proyecto y de la evaluación de impacto presupuestario respectiva, suscrita por los servidores públicos competentes de sus coordinaciones administrativas o sus equivalentes.
+Los Entes Públicos presentarán por conducto de su unidad o área jurídica correspondiente, la solicitud acompañada del proyecto y de la evaluación de impacto presupuestario respectiva, suscrita por los servidores públicos competentes de sus coordinaciones administrativas o sus equivalentes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+El procedimiento que la Secretaría llevará a cabo para la elaboración del Impacto Presupuestario se establecerá en las Reglas Generales para la Evaluación del Impacto Presupuestario y Elaboración del Dictamen de Estimación de Impacto, de los Proyectos de Iniciativas de Ley o Decretos, de acuerdo con la presente Ley y demás disposiciones aplicables.
 
 Cuando algún proyecto tenga impacto presupuestario en dos o más Dependencias o entidades, o en una distinta de la responsable de su elaboración, las evaluaciones de impacto correspondientes deberán estar suscritas por los servidores públicos competentes de cada Dependencia o entidad involucrada; el responsable de la elaboración del proyecto será el encargado de integrar las distintas evaluaciones. Lo anterior, con excepción de los proyectos que establezcan regulación aplicable para la Administración Pública, caso en el cual, la Dependencia competente para elaborar dicho proyecto será la responsable de presentar y suscribir la evaluación de impacto correspondiente.
 
@@ -2154,3 +2158,19 @@ El Poder Legislativo del Estado, realizará las acciones administrativas necesar
 Disposiciones de derogación
 
 Artículo Sexto. Se derogan todas las disposiciones legales, reglamentarias o administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiuno, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, a más tardar el 31 de marzo de 2021, las reglas de carácter general relativas a la obtención de la opinión del cumplimiento de obligaciones fiscales.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
