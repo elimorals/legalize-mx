@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2020-12-21"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -589,9 +589,11 @@ SANCIONES:
 
 La imposición de sanciones administrativas compete al Ayuntamiento respectivo, con independencia de las que en su caso determine la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 70.
 
-Las fallas administrativas se sancionarán con multa de diez a cien días de salario mínimo general vigente en el Estado, sin perjuicio de ordenar que el infractor cumpla con la obligación que es a su cargo conforme a la Ley y su reglamento.
+Las fallas administrativas se sancionarán con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de ordenar que el infractor cumpla con la obligación que es a su cargo conforme a la Ley y su reglamento.
 
 ###### ARTICULO 71.
 
@@ -607,25 +609,29 @@ IV.- El incumplimiento de disposiciones administrativas dadas por autoridades co
 
 V.- Toda contravención a esta Ley y su reglamento, que no esté considerado como delito.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 72.
 
-Se impondrá prisión de dos a cinco años y multa de diez a cien días de salario mínimo general vigente en el Estado, al que en contra de la prohibición de la Ley o de la autoridad a quien corresponda, dada por escrito y notificada personalmente al interesado, realice u ordene trabajos de construcción de cualquier índole, incluso de restauración, que cause daño en un bien adscrito al Patrimonio Cultural.
+Se impondrá prisión de dos a cinco años y multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización, al que en contra de la prohibición de la Ley o de la autoridad a quien corresponda, dada por escrito y notificada personalmente al interesado, realice u ordene trabajos de construcción de cualquier índole, incluso de restauración, que cause daño en un bien adscrito al patrimonio Cultural.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 73.
 
-Se impondrá prisión de uno a siete años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que exporte o transmita a extranjeros bienes adscritos al Patrimonio Cultural del Estado.
+Se impondrá prisión de uno a siete años y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al que exporte o transmita a extranjeros bienes adscritos al Patrimonio Cultural del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 74.
 
-Al que por cualquier medio dañe, altere o destruya un bien adscrito al Patrimonio Cultural del Estado, se le impondrá prisión de tres a diez años y multa hasta el valor del daño causado.
+Independientemente de las sanciones previstas en el Código Penal, se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al que destruya un bien adscrito al Patrimonio Cultural.
 
-Cuando el daño no sea intencional, se estará a lo dispuesto en el capítulo de sanciones a los delitos culposos del Código Penal del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 75.
 
-Se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que se apodere de un bien mueble o inmueble ajeno, inscrito en el Registro o Catálogo de Bienes Adscritos al Patrimonio Cultural, sin perjuicio de las sanciones que le sean aplicables por los delitos que le resulten conforme al Código Penal.
+Se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al que se apodere de un bien mueble o inmueble ajeno, inscrito en el Registro o Catálogo de Bienes Adscritos al Patrimonio Cultural, sin perjuicio de las sanciones que le sean aplicables por los delitos que le resulten conforme al Código Penal.
 
 ###### ARTICULO 76.
 
@@ -651,9 +657,11 @@ Los bienes asegurados se entregarán para su custodia a la Junta de Protección 
 
 Cuando un giro se establezca sin contar con la autorización correspondiente, prevista en la presente Ley, la Junta procederá a dar parte a las autoridades competentes, para que las mismas obren en consecuencia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTICULO 80.
 
-Todas las sanciones pecuniarias que imponga el Municipio a los infractores de esta Ley por faltas administrativas se fijarán por "cuotas", entendiendo por tales el equivalente a un día de salario mínimo vigente en la Capital del Estado en el momento de la sanción.
+Todas las sanciones pecuniarias que imponga el Municipio a los infractores de esta Ley por faltas administrativas se fijarán por "cuotas", entendiendo por tales el equivalente al valor diario de la Unidad de Medida y Actualización en el momento de la sanción.
 
 ###### ARTICULO 81.
 
@@ -788,3 +796,9 @@ SEGUNDO.- El Consejo para la Cultura y las Artes de Nuevo León deberá emitir l
 (NOTA: EL 27 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 13/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO TERCERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 TERCERO.- El Consejo para la Cultura y las Artes de Nuevo León, emitirá los lineamientos PARA EL FUNCIONAMIENTO DEL COMITÉ CIENTÍFICO DE GRABADOS INUSUALES.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
