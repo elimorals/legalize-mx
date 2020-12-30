@@ -4,7 +4,7 @@ identifier: "NLE-arancel-de-abogados-en-el-estado-de-nuevo-leon-20682"
 country: "mx"
 rank: "otro"
 publication_date: "1969-01-01"
-last_updated: "2016-12-14"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Arancel publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de enero de 1969.
 
@@ -319,11 +319,11 @@ Los estudiantes y los pasantes en Derecho que al amparo de las leyes en ejercici
 
 La determinación del número de cuotas o porcentajes aplicables al caso concreto, dentro del mínimo y máximo señalados en este arancel, se hará tomando en cuenta la importancia del asunto, calidad y cantidad del trabajo profesional realizado, resultados obtenidos, si se requirió utilizar idiomas extranjeros, así como el grado académico del Abogado que proporcionó el servicio.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 37o.
 
-Para los efectos de esta Ley, se entenderá por cuota la cantidad de dinero equivalente al salario mínimo general diario vigente en el lugar donde se prestó el servicio profesional y en el momento en que se efectúe el pago de los honorarios.
+Para los efectos de esta Ley, se entenderá por cuota el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 38o.
 
@@ -376,3 +376,9 @@ Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con
 Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
