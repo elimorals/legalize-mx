@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2017-11-08"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -1323,7 +1323,9 @@ III.- El no presentar para su revisión, certificación de cierre y archivo defi
 
 IV.- Cualquier otra falta a esta Ley, no mencionada en este artículo.
 
-B) Son causales de multa de 100 a 200 cuotas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+B) Son causales de multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización:
 
 I.- No acatar la amonestación realizada por la autoridad en los casos de las fracciones I, II y III del inciso A) de este Artículo;
 
@@ -1335,11 +1337,15 @@ IV.- No comparecer sin causa justificada cuando sea requerido por el Ejecutivo d
 
 V.- No presentarse sin causa justificada a ejercer sus funciones al vencimiento del plazo de la licencia concedida.
 
-C) Son causales de multa de 200 a 400 cuotas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+C) Son causales de multa de 200 a 400 veces el valor diario de la Unidad de Medida y Actualización:
 
 I.- Reincidir, dentro del plazo de seis meses contados a partir de la notificación respectiva, en la falta a que se refiere la fracción II del inciso B) de este Artículo.
 
-D) Son causales de multa de 400 a 800 cuotas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+D . Son causales de multa de 400 a 800 veces el valor diario de la Unidad de Medida y Actualización:
 
 I.- Negarse sin causa justificada al ejercicio de sus funciones cuando hubiere sido requerido para ello por los particulares.
 
@@ -1486,3 +1492,9 @@ P.O. 8 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 299. SE REFORMA EL ARTÍCULO 2141 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 475 Y EL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 Y EL ARTÍCULO 123 DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
