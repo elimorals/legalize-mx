@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2020-11-27"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -2373,13 +2373,19 @@ Transcurrido el plazo aplicable, sin que se haya dictado resolución por la auto
 
 A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 161.
 
-Las autorizaciones, permisos, licencias, certificaciones o constancias establecidas en la presente Ley, otorgados por las autoridades estatales o municipales competentes, se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
+Las autorizaciones, permisos, licencias, certificaciones o constancias establecidas en la presente Ley, otorgados por las autoridades estatales o municipales competentes, tendrán una vigencia anual y se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
 
 La autoridad competente contará con un plazo de tres meses a partir del refrendo, renovación o revalidación correspondiente para verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento. En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
 
 Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación de la autorización, permiso, licencia o constancia correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Tratándose de proyectos destinados a la generación de energías limpias, cuyo periodo de desarrollo y ejecución se prevea mayor a quince años; las licencias de funcionamiento que a éstos se expidan, previo cumplimiento de los requisitos establecidos en el artículo 158 de la presente Ley, podrán tener una vigencia de quince años. Las autoridades estatales y municipales competentes estarán facultadas para verificar el cumplimiento de los requisitos establecidos en el citado artículo 158, durante los primero (sic) tres meses de cada año de vigencia de la licencia expedida en los términos del presente párrafo.
 
 ### CAPÍTULO TERCERO. DE LOS CONJUNTOS URBANOS
 
@@ -4246,3 +4252,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 924.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 161; SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 161, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
