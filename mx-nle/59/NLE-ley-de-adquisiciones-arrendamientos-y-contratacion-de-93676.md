@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-93676"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-27"
-last_updated: "2019-11-20"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de marzo de 2013.
 
@@ -1561,11 +1561,13 @@ VI. Omitir presentar las garantías o no hacerlo oportunamente; y
 
 VII. El conflicto de intereses entre el servidor público y el proveedor o participante conforme a lo establecido en el Artículo 37 fracción I de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
 Faltas leves
 
-Las faltas no consideradas graves por la Ley serán consideradas faltas leves y merecerán apercibimiento o, en caso de reincidencia, multa de 50 a 500 veces el salario mínimo general diario vigente en la zona económica del Municipio de Monterrey al momento de la comisión de la infracción.
+Las faltas no consideradas graves por la Ley serán consideradas faltas leves y merecerán apercibimiento o, en caso de reincidencia, multa de 50 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 99.
 
@@ -1672,3 +1674,9 @@ P.O. 20 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185. SE MODIFICA EL PÁRRAFO SEGUNDO, CUARTO Y QUINTO, DEL ARTÍCULO 41, Y SE ADICIONA EL PÁRRAFO SEGUNDO Y TERCERO A LA FRACCIÓN X DEL ARTÍCULO 42, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor a partir al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
