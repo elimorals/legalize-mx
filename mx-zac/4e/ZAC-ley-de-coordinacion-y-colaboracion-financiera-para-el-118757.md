@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2020-02-19"
+last_updated: "2020-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -209,11 +209,11 @@ III. El Director de Coordinación y Colaboración Financiera de la Secretaría, 
 
 IV. Un diputado representante de la Legislatura del Estado, quien presida la Comisión de Hacienda y Fortalecimiento Municipal, con derecho a voz, quien podrá ser suplido por un integrante de la Comisión;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-V. El Auditor Superior del Estado, quien podrá ser suplido por el Director de Auditoría Financiera a Municipios;
+V. El Auditor Superior del Estado, quien podrá ser suplido por el funcionario que éste designe;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 VI. Por parte de los Municipios serán los tesoreros o su equivalente; y
 
@@ -583,7 +583,9 @@ I. El Fondo Único de Participaciones, el cual se integra de la forma siguiente:
 
 a) El 22% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
 
-b) El 100% de los recursos provenientes del Fondo de Fomento Municipal;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) El 100% de los recursos provenientes del Fondo de Fomento Municipal, exceptuando lo establecido en el artículo 33 TER de esta Ley;
 
 c) El 22% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
 
@@ -594,6 +596,10 @@ e) El 22% del Fondo de Fiscalización y Recaudación;
 f) El 22% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
 
 g) El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+h) El 20% de la recaudación que se obtenga del incentivo derivado de la recaudación establecida en los artículos 126 y 127 de la Ley del Impuesto Sobre la Renta, en relación con los ingresos por la enajenación de bienes inmuebles, en los términos establecidos en las Cláusulas Décima Primera y Décima Novena Fracción VI, apartado A, del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público.
 
 II. El 20% del Fondo del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolinas y diesel:
 
@@ -625,13 +631,35 @@ VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 33 Bis.
 
-Los municipios, sus organismos descentralizados y entidades paramunicipales, participarán al 100% de la recaudación que se obtenga del Impuesto Sobre Nóminas, establecido en el Capítulo Segundo del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, lo que será en proporción a lo efectivamente enterado al Estado por los propios municipios, organismos y entidades mencionados. El Gobierno del Estado a través de la Secretaría de Finanzas realizará la participación de este impuesto dentro de los diez días hábiles siguientes a su entero.
+Los municipios, sus organismos descentralizados y entidades paramunicipales, participarán al 100% de la recaudación que se obtenga del Impuesto Sobre Nóminas, establecido en el Capítulo Segundo del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, lo que será en proporción a lo efectivamente enterado al Estado por los propios municipios, organismos y entidades mencionados. El Gobierno del Estado a través de la Secretaría de Finanzas realizará la participación de este impuesto mediante el Fondo del Impuesto sobre Nóminas, una vez efectuado el proceso de verificación, conciliación y determinación de cifras, a más tardar en el mes posterior al que se efectuó el entero.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Cuando los Municipios, sus organismos descentralizados y entidades paramunicipales, presenten omisión correspondiente al pago del impuesto citado en el párrafo anterior, de dos meses o más, sean consecutivos o no, la Secretaría de Finanzas tendrá la facultad de determinar la contribución a su cargo con base en los datos presentados en la última declaración o de manera presuntiva y afectar las participaciones que les correspondan, sin que estos tengan derecho a participar de lo establecido en el primer párrafo de este artículo. Corregida su situación fiscal en este sentido, podrán reincorporarse al estímulo a partir de la fecha en que efectúen la correspondiente regularización.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 33 Ter.
+
+Los recursos del Fondo de Fomento Municipal a que se refiere el artículo 2-A fracción III de la Ley de Coordinación Fiscal, en lo referente a la distribución del coeficiente del 30% del excedente del Fondo de Fomento Municipal con respecto al año 2013, el cual solo corresponderá a los Municipios que hayan suscrito y mantengan vigente el Convenio de Colaboración Administrativa en Materia de Recaudación de (sic) Impuesto Predial con el Estado, para que éste administre el Impuesto Predial por cuenta y orden del propio Municipio y previa publicación del mismo en el Periódico Oficial del Gobierno de Zacatecas. Los Municipios tendrán la participación de este fondo con base en lo siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL SUPLEMENTO 3 DEL P.O. DE 30 DE DICIEMBRE DE 2020, PÁGINA 68]</small>
+
+Donde:
+
+FEi, es la participación del FP del Municipio i en el año t.
+
+FPt es el Fondo de Participación por Colaboración Administrativa en Materia de Recaudación del Impuesto Predial a distribuir en el año t para el que se efectúa el cálculo.
+
+Ci es el Coeficiente de distribución del Fondo por Colaboración Administrativa en Materia de Recaudación del Impuesto Predial del Municipio i en el año t en el que se efectúa el cálculo.
+
+Rci,t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en la última cuenta pública presentada a la Legislatura del Estado.
+
+--- (sic). Es la suma sobre todos los Municipios de la variable que le sigue.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -671,7 +699,7 @@ i
 
 Ab. Es el año base definido en el artículo 2 de la presente Ley.
 
-Cuando en el ejercicio que corresponda la distribución del Fondo establecido en el artículo 33 de la presente Ley, sea menor a lo participado en el ejercicio del año inmediato anterior, los Municipios recibirán las participaciones en proporción a lo transferido en ese mismo ejercicio.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -700,6 +728,14 @@ Durante los primeros tres meses de cada ejercicio, las participaciones del Fondo
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 En cumplimiento a lo establecido al párrafo anterior, la Secretaría realizará los ajustes de las participaciones que correspondan a los municipios del Fondo establecido en el artículo 34, en el mes de abril, en el que se incluirán los anticipos entregados en el primer trimestre del ejercicio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Si del resultado de la revisión de las cifras de recaudación del Impuesto Predial y Derechos por el suministro de Agua que realiza el Comité de Vigilancia del Sistema de Participaciones Federales dentro del Sistema Nacional de Coordinación Fiscal, existen inconsistencias en la información y declaración en las cifras reportadas por los Municipios, y derivado de ello realiza ajustes a las mismas, estos se realizarán cuando sean notificados por el citado Comité, y se harán retroactivos a partir del mes de abril del año que corresponda la distribución de participaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+
+Las participaciones a que se refiere el inciso h), primer párrafo del artículo 33 de la presente Ley, se determinarán por la Secretaría al momento de compensar la Liquidación de la Constancia de Participaciones y se determinarán los montos a distribuir a los municipios en donde se realizaron las enajenaciones de bienes inmuebles que causaron la recaudación, para pagarse en los 15 días hábiles del mes siguiente, contados a partir de la liquidación de la Constancia de Participaciones.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -733,7 +769,7 @@ Las participaciones que correspondan a los Municipios son inembargables, y no pu
 
 Los Municipios podrán recibir anticipos a cuenta de sus participaciones, previa aprobación de la Secretaría, los cuales deberán ser liquidados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, para estos efectos, los Municipios cubrirán a la Secretaría una tasa de interés equivalente a la que se establezca anualmente en la Ley de Ingresos del Estado para los casos de autorizaciones de pago a plazos de contribuciones.
 
-Los Municipios podrán recibir anticipos a cuenta de sus participaciones, previa aprobación de la Secretaría, los cuales deberán ser liquidados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, para estos efectos, los Municipios cubrirán a la Secretaría una tasa de interés equivalente a la que establezca anualmente la Legislatura del Estado en la Ley de Ingresos del ejercicio vigente, para los casos de autorizaciones de pago a plazos de contribuciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
@@ -980,3 +1016,19 @@ P.O. 19 DE FEBRERO DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARLA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiuno, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas deberá emitir para su debida publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, a más tardar el 31 de marzo de 2021, las reglas de carácter general relativas a la obtención de la opinión del cumplimiento de obligaciones fiscales.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
