@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2019-12-31"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -205,13 +205,15 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 ### Capítulo II. Derechos por los Servicios
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-#### Sección Primera. Servicios que presta la Dirección de Legalización y Publicaciones Oficiales
+#### Sección Primera. Servicios que presta la Unidad de Legalización y Publicaciones Oficiales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-Por los servicios que presta la Dirección de Legalización y Publicaciones Oficiales, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Unidad de Legalización y Publicaciones Oficiales se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicio Tarifa
 
@@ -235,9 +237,11 @@ a) De 1 a 40 hojas. $480.00
 
 b) Más de 40 hojas. $750.00
 
-IV. Por las publicaciones Oficiales del Gobierno Federal
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-y Gobierno Estatal, de Servicios Judiciales. $480.00
+IV. Por las publicaciones oficiales que realice del Gobierno
+
+Federal y Gobierno Estatal, de Servicios Judiciales. $600.00
 
 V. Por las publicaciones Municipales. $1,100.00
 
@@ -250,6 +254,18 @@ con firmas de funcionarios públicos. $220.00
 VIII. Por el apostillado de documentos públicos estatales
 
 que deben surtir efectos en el extranjero. $1,100.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+IX. Por la búsqueda de publicación, de edictos, anuncios de
+
+terrenos, remates, cédulas hipotecarias, discernimientos de
+
+tutela, avisos y demás asuntos de interés particular, así como
+
+las publicaciones de instituciones federales que obren en los
+
+archivos de esta Unidad. $220.00
 
 Quedan exceptuados del pago de derechos por publicaciones, las Dependencias y Órganos Desconcentrados de la Administración Pública Centralizada.
 
@@ -1179,15 +1195,13 @@ El pago de este derecho deberá ser enterado antes de la
 
 presentación del avalúo ante las autoridades catastrales.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-IV. Por la expedición de constancias y reportes catastrales,
+IV. Por la expedición de:
 
-por predio:
+a) Constancia de medidas y colindancias, por predio: $370.00
 
-a) De medidas y colindancias. $370.00
-
-b) De registro de datos catastrales. $220.00
+b) Reporte de registro de datos catastrales, por predio: $220.00
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1357,37 +1371,9 @@ subdivisión de un predio y expedición de cédula
 
 catastral. $440.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
-XVI. Por la captura gráfica digital (vectorización) en
-
-2d de información no contenida en archivos catastrales
-
-sobre levantamientos topográficos:
-
-a) Plano topográfico a color de poligonales, curvas de
-
-nivel y temáticos $750.00
-
-b) Plano topográfico blanco y negro de poligonales,
-
-curvas de nivel y temáticos. $440.00
-
-c) Respaldo magnético en formato gráfico DGN. $1,900.00
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XVII. Por la captura gráfica digital (vectorización)
-
-en 2d de información no contenida en archivos
-
-catastrales de colonias y fraccionamientos, en
-
-respaldo en CD magnético con características
-
-estandarizadas en niveles de información y en
-
-formato gráfico DGN. $2,800.00
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1405,13 +1391,7 @@ b) Por la expedición de planos en blanco y negro o
 
 a color estándar, por decímetro cuadrado. $15.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIX. Por la conversión de formatos gráficos de
-
-lectura cartográfica a específicos por DGN A,
-
-DXF A o DWG A. $330.00
+XIX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1635,6 +1615,28 @@ la boleta de pago de derechos por razones no imputables a la
 
 Dirección de Catastro del Estado.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XXXII. Por Registro y asignación de clave catastral,
+
+por predio. $220.00
+
+Este cobro no aplicará para las personas físicas o morales que
+
+constituyan fraccionamientos, régimen de propiedad en condominio o
+
+predios resultantes de la regularización de la tenencia de la tierra. Lo
+
+anterior derivado que, en estos casos la asignación de clave catastral,
+
+es de manera masiva.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XXXIII. Por Actualización y/o cambio de Propietario,
+
+por predio. $220.00
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 21 Nonies.
@@ -1697,129 +1699,203 @@ topográficos catastrales. $600.00
 
 #### Sección Sexta. Servicios que presta el Instituto de Bomberos
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Artículo 21 Undecies.- Por los servicios que presta el Instituto de Bomberos, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicio Tarifa
 
-I. Elaboración del plan de emergencia, para prestadores
+I. Elaboración del plan de emergencia, de prevención de incendios en
 
-de servicios públicos y privados, comercios, industrias,
+inmuebles, para determinar el grado de riesgo y peligro, dispuesto
 
-centros educativos de todos los niveles públicos y privados,
+en el artículo 6, fracciones II, XXIV y XXVII de la Ley Orgánica del
 
-Hoteles, Moteles y Hostales, Hospitales públicos y privados:
+Instituto de Bomberos del Estado de Chiapas, elaborado por el
 
-a) De 1 mts hasta 50 mts cuadrados $1,500.00
+Instituto de bomberos dirigido a prestadores de servicios públicos y
 
-b) De 50.1 mts hasta 100 mts cuadrados. $2,000.00
+privados, comercios, industrias, centros educativos de todos los
 
-c) De 100.1 mts hasta 300 mts cuadrados. $3,500.00
+niveles públicos y privados, Hoteles, Moteles y Hostales, Hospitales
 
-d) De 301 mts hasta 400 mts cuadrados. $7,000.00
+públicos y privados, de acuerdo a lo siguiente:
 
-Por cada metro cuadrado adicional a 400 mts $100.00
+a) De 1 mts hasta 50 mts cuadrados. $500.00
 
-e) A particulares, Casa habitación $500.00
+b) De 50.1 mts hasta 100 mts cuadrados. $1,000.00
 
-II. Dictamen de Grado de incendio por el manejo, uso
+c) De 100.1 mts hasta 300 mts cuadrados. $2,000.00
 
-y almacenamiento de sustancias químicas y tecnológicas,
+d) De 301 mts hasta 400 mts cuadrados. $3,000.00
 
-para prestadores de servicios públicos y privados,
+Por cada metro cuadrado adicional
 
-comercios, industrias, centros educativos de todos los
+a 400 mts. $100.00
 
-niveles públicos y privados, Hoteles, Moteles y Hostales,
+e) A particulares, Casa habitación. $300.00
 
-Hospitales públicos y privados, Municipios y/o
+II. Dictamen de prevención de incendios, de acuerdo al grado de
 
-Ayuntamientos:
+riesgo y peligro para prestadores de servicios públicos y privados,
 
-a) De Riesgo bajo: quienes manejen, almacenen
+comercios, industrias, centros educativos de todos los niveles
 
-o manipulen materiales o sustancias químicas
+públicos y privados, Hoteles, Moteles y Hostales, Hospitales
 
-clasificación (A) según la PROY-NOM-005-STPS-2017 $ 3,500.00
+públicos y privados, Municipios y/o Ayuntamientos; y a petición de
 
-b) De Riesgo alto: quienes manejen, almacenen
+parte para los efectos y trámites legales que correspondan de
 
-o manipulen materiales o sustancias químicas
+acuerdo a lo dispuesto en la PROY-NOM-002-STPS-2000, PROYNOM-
 
-clasificación (B, C, D, E, F) según la
+002-STPS-2010, PROY-NOM-005-STPS-2017 y a las
 
-PROY-STPS-NOM-005-STPS-2017 $ 20,000.00
+fracciones II, XXIV Y XXVII del artículo 6 de la Ley Orgánica del
 
-III. Peritaje de incendios que realiza el Instituto
+Instituto de Bomberos del Estado de Chiapas, además de lo
 
-de Bomberos a Local o inmueble siniestrado por
+dispuesto por el Sistema Armonizado Global, de la NFPA, además
 
-incendio:
+del listado contemplado en la SEMARNAT, y de lo dispuesto en la
 
-a) De 1 mts hasta 50 mts cuadrados $ 3,500.00
+Guía de Respuesta en Caso de Emergencia 2020, de acuerdo a lo
 
-b) De 50.1 mts hasta 100 mts cuadrados $ 8,500.00
+siguiente:
 
-c) De 100.1 mts hasta 300 mts cuadrados $ 12,500.00
+a) De Riesgo BAJO. $500.00
 
-d) De 301 mts hasta 500 mts cuadrados. $ 15,000.00
+b) De Riesgo MEDIO. $5,000.00
 
-Por cada metro cuadrado adicional a 500 mts. $ 200.00
+c) De Riesgo ALTO. $15,000.00
 
-e) A particulares. Casa habitación. $ 1,000.00
+III. Dictamen del correcto transporte, almacenamiento, utilización y
 
-IV. Capacitación Anual por persona con Constancia
+comercialización de materiales y sustancias peligrosas. Dispuesto
 
-oficial, del sector público o privado:
+en el artículo 6, fracción XIV de la Ley Orgánica del Instituto de
 
-a) Combate y Prevención de Incendios $ 1,000.00
+Bomberos del Estado de Chiapas, y según la PROY-NOM-002-
 
-b) Curso de Bombero Industrial $ 5,000.00
+STPS-2000, PROY-NOM-002-STPS-2010, PROY-NOM-005-
 
-c) Primer respondiente (primeros auxilios) $ 500.00
+STPS-2017; además de lo dispuesto por el Sistema Armonizado
 
-d) Extricación vehicular. $1,000.00
+Global, de la NFPA, además del listado contemplado en la
 
-e) Búsqueda y rescate. $ 500.00
+SEMARNAT, y de lo dispuesto en la Guía de Respuesta en Caso
 
-f) Rescate en alturas. $1,000.00
+de Emergencia 2020. $5,000.00
 
-g) Evacuación de inmuebles $500.00
+IV. Por el peritaje de incendios en local comercial o inmueble siniestrado,
 
-h) Identificación de riego (sic) en inmuebles $ 500.00
+de acuerdo a lo siguiente:
 
-i) Formación de brigadas en atención de
+a) De 1 mts hasta 50 mts cuadrados. $3,500.00
 
-emergencias: $ 500.00
+b) De 50.1 mts hasta 100 mts cuadrados. $8,500.00
 
-j) trabajo seguro en alturas $1,000.00
+c) De 100.1 mts hasta 300 mts cuadrados. $12,500.00
 
-V. Atlas de Riesgo por Municipio, para determinar el
+d) De 301 mts hasta 500 mts cuadrados. $15,000.00
 
-grado de peligrosidad en materia de los diferentes
+Por cada metro cuadrado adicional
 
-tipos de incendios, por la concentración de los diversos
+a 500 mts. $200.00
 
-materiales o sustancias químicas o tecnológicas tales como;
+e) A particulares. Casa habitación. $1,000.00
 
-(clasificación A, B, C, D, E, F, etc.) en el territorio (sic)
+V. Capacitación Anual por persona con Constancia oficial, dirigido al
 
-municipio que se puedan generar o que representan un
+sector público o privado, dispuesto por los artículos 4 y 6 de la Ley
 
-riesgo latente o potencial en el Municipio, según la normas
+Orgánica del Instituto de Bomberos del Estado de Chiapas, de
 
-oficiales en la materia, tales como; PROY-NOM-005-2017,
+acuerdo a lo siguiente:
+
+a) Combate y Prevención de Incendios, uso y
+
+manejo de extintores. $ 500.00
+
+b) Curso de Bombero Industrial. $1,500.00
+
+c) Puesto de Comando de Incidentes. $500.00
+
+d) Primer respondiente. $500.00
+
+e) Primeros Auxilios. $400.00
+
+f) Extracción vehicular. $1,000.00
+
+g) Búsqueda y rescate. $200.00
+
+h) Rescate en alturas. $1,000.00
+
+i) Evacuación de inmuebles. $300.00
+
+j) Identificación de riesgos y peligros
+
+en inmuebles. $ 300.00
+
+k) Formación de brigadas en atención de
+
+emergencias. $1,000.00
+
+l) Seguridad en el manejo de sustancias
+
+químicas. $ 2,000.00
+
+m) Trabajo en alturas. $1,000.00
+
+VI. Atlas de riesgo en materia de los diferentes
+
+tipos de incendio en los diferentes Municipios y/o
+
+ayuntamientos del Estado, para prevenir, determinar
+
+e identificar el grado de riesgo y peligrosidad
+
+de las diversas sustancias químicas y materiales
+
+peligrosos contemplados (sic) Sistema Armonizado Global,
+
+de la NFPA, además del listado contemplado en la
+
+SEMARNAT, y de lo dispuesto en la Guía de
+
+Respuesta en Caso de Emergencia 2020, mismos que
+
+representen un posible riesgo latente o potencial de
+
+incendio, explosión contaminación, radiación, daños a
+
+la salud derivado de la comercialización, transportación
+
+y almacenamiento de dichos materiales, en el territorio
+
+del Municipio, dispuesto en el artículo 6 fracción XXII
+
+de la Ley Orgánica del Instituto de Bomberos del
+
+Estado de Chiapas, además de la
+
+PROY-NOM-002-STPS-2000, PROY-NOM-002-STPS-2010,
+
+PROY-NOM-005-STPS-2017,
 
 PROY-NOM-018-2015 Y PROY-NOM-026-2008. $150,000.00
 
-VI. Dictamen de validación de red de equipos y
+VII. Dictamen de validación de red de equipos y
 
 semi fijos contra incendio empresas y/o particulares. $2,000.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+VIII. Expedición de copias certificadas de documentos
 
-### Capítulo III. Derechos por los Servicios
+que obran en el archivo del instituto, hasta 25 hojas. $400.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+### Capítulo III. Derechos por los Servicios que Presta la Secretaría de Hacienda
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1839,9 +1915,9 @@ a) Licitación por Convocatoria Pública Estatal. $1,975.00
 
 b) Licitación por Convocatoria Pública Nacional. $2,395.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-#### Sección Segunda. Servicios que presta la Dirección de Administración de Personal
+#### Sección Segunda. Servicios que presta la Coordinación General de Recursos Humanos
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1854,6 +1930,40 @@ Servicios Tarifa
 I. Por la expedición de constancia de sueldos, se
 
 cobrará: $110.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 23 Bis.
+
+Por los servicios que presta la Dirección de Gestión Administrativa y Educativa, se causarán y pagarán, por cada uno de los conceptos, los siguientes derechos:
+
+Servicio Tarifa
+
+I. La expedición de constancia de sueldo. $110.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 23 Ter.
+
+Por los servicios que presta la Dirección de Obligaciones Fiscales y Retenciones, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicio Tarifa
+
+I. Por la expedición de constancia de Liquidez salarial. $110.00
+
+II. Por los servicios que presta la Dirección de
+
+Obligaciones Fiscales y Retenciones del Estado,
+
+derivado de convenio de coordinación y colaboración
+
+administrativa, que la Secretaría celebre con los
+
+Municipios del Estado en materia de servicio de solución
+
+tecnológico administrativa para la emisión y timbrado
+
+masivo de CFDI, pagarán por timbre: $2.00
 
 #### Sección Tercera. Servicios que Presta la Dirección de Ingresos
 
@@ -1899,19 +2009,29 @@ pericia, imprudencia, descuido o negligencia, por
 
 cada efecto valorado. $80.00
 
-III. Por los trámites del permiso para la instalación y
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-funcionamiento de establecimientos mutuantes:
+III. Por los trámites del permiso para la instalación y funcionamiento
 
-a) Por el estudio y análisis de la documentación
+de establecimientos mutuantes:
 
-presentada para la solicitud del permiso. $1,100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-b) Por la práctica de la visita de verificación $1,100.00
+a) Por el estudio y análisis de la documentación presentada
 
-c) Por la expedición del permiso. $40,500.00
+para la solicitud del permiso. $1,600.00
 
-d) Por la revalidación del permiso. $29,500.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+b) Por la práctica de la visita de verificación. $1,600.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+c) Por la expedición del permiso. $41,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+d) Por la revalidación del permiso. $30,000.00
 
 El pago de derechos a que se refiere este inciso,
 
@@ -1923,7 +2043,9 @@ tardar el 30 de mayo y la segunda a más tardar el
 
 fiscal.
 
-e) Por la modificación del permiso. $2,200.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+e) Por la modificación del permiso. $2,700.00
 
 IV. Por la verificación de datos de registros vehiculares:
 
@@ -2091,6 +2213,14 @@ b) Automovilista. $600.00
 
 c) Motociclista. $400.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+En caso de que el ciudadano extranjero cuente con residencia
+
+permanente podrá obtener licencia de conducir en cualquier
+
+modalidad y vigencia.
+
 XII. Por la expedición de licencias de conducir por 2 años,
 
 se cobrará de acuerdo a lo siguiente:
@@ -2183,15 +2313,21 @@ XXI. Por la expedición de constancias de antigüedad de
 
 licencia de conducir, incluyendo su búsqueda, se cobrará $300.00
 
-XXII. Por la expedición de reposición de licencia de conducir permanente, por pérdida o robo, se cobrará de acuerdo a lo siguiente:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-a) Chofer para servicio público. $900.00
+XXII. Por la expedición de reposición de licencia de conducir
 
-b) Chofer. $900.00
+permanente, por pérdida o robo, se cobrará de acuerdo a lo
 
-c) Automovilista. $650.00
+siguiente:
 
-d) Motociclista. $450.00
+a) Chofer para servicio público. $950.00
+
+b) Chofer. $950.00
+
+c) Automovilista. $700.00
+
+d) Motociclista. $500.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2267,19 +2403,41 @@ III. Baja de placas:
 
 a) Por Baja de placas. $200.00
 
-b) Tratándose de baja de placas provenientes de otros
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Estados sin que causen alta en forma simultánea en
+b) Tratándose de baja de placas provenientes de
 
-el Registro Estatal de Vehículos, se cobrará: $1,100.00
+otros Estados sin que causen alta en forma
+
+simultánea en el Registro Estatal de Vehículos. $1,100.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 IV. Refrendo anual de tarjeta de circulación:
 
-a) Servicio privado.
+a) Servicio privado:
 
-1. Automóviles. $780.00
+1. Para automóviles, camiones, autobuses,
+
+para personas con discapacidad y remolques. $780.00
 
 2. Motocicletas y vehículos similares con motor. $630.00
+
+b) Servicio público:
+
+1. Para automóviles, camiones y autobuses. $1,280.00
+
+2. Motocicletas y vehículos similares con motor. $780.00
+
+c) Otras modalidades:
+
+1. Para todo tipo de automóviles de Corporación
+
+Policíaca, Protección Civil, Heroico Cuerpo de
+
+Bomberos y Ambulancias. $780.00
+
+2. Para motocicletas de Corporación Policiaca. $630.00
 
 V. Reposición de tarjeta de circulación:
 
@@ -2315,27 +2473,33 @@ VII. Por el canje de placas para vehículos de prueba
 
 o demostración. $2,350.00
 
-VIII. Otras Modalidades de Servicio:
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VIII. Por la revalidación anual de placas para
+
+vehículos de prueba o demostración. $2,350.00
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+IX. Otras Modalidades de Servicio:
 
 a) Por la expedición de placas, calcomanía y tarjeta
 
-de circulación para todo tipo de automóviles de
+de circulación para todo tipo de automóviles de Corporación
 
-Corporación Policíaca, Protección Civil, Heroico
+Policíaca, Protección Civil, Heroico Cuerpo de Bomberos y
 
-Cuerpo de Bomberos y Ambulancias. $1,150.00
+Ambulancias. $1,150.00
 
-b) Por la expedición de placas y tarjeta de circulación
+b) Por la expedición de placas y tarjeta de circulación para
 
-para motocicletas de Corporación Policíaca. $1,000.00
+motocicletas de Corporación Policíaca. $1,000.00
 
-c) Por el canje de placas, calcomanía y tarjeta de
+c) Por el canje de placas, calcomanía y tarjeta de circulación
 
-circulación para Automóviles de Corporación
+para Automóviles de Corporación Policíaca, Protección
 
-Policíaca, Protección Civil, Heroico Cuerpo de
-
-Bomberos y Ambulancias. $1,150.00
+Civil, Heroico Cuerpo de Bomberos y Ambulancias. $1,150.00
 
 d) Por el canje de placas y tarjeta de circulación de
 
@@ -2407,85 +2571,67 @@ de esta Dirección y que obren en sus archivos. $110.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-#### Sección Séptima. Servicios que presta la Dirección de Obligaciones Fiscales y Retenciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+#### Sección Séptima. Servicios que presta la Unidad de Archivo
+
+(NOTA: EL 7 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE OCTUBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Por los servicios que presta la Dirección de Obligaciones Fiscales y Retenciones, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Unidad de Archivo, se causarán y pagarán, por cada uno, los siguientes derechos:
 
-Servicio Tarifa
+Servicios Tarifa
 
-I. Por la expedición de constancias de liquidez
+I. Por la búsqueda de documentos que constan en los
 
-salarial, se cobrará. $110.00
+expedientes laborales que resguarda la Unidad de Archivo. $150.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+II. Por la expedición de copias simples de
 
-II. Por la búsqueda de documentos que constan en
+documentos que constan en los expedientes laborales
 
-los expedientes que resguarda el Departamento
+que resguarda la Unidad de Archivo, hasta 20 hojas. $190.00
 
-de Archivo de Expedientes Laborales, se cobrará: $110.00
+Por hoja adicional: $5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+III. Por la expedición de copias certificadas de
 
-III. Por la expedición de copias simples de documentos
+documentos que constan en los expedientes laborales
 
-que constan en los expedientes que resguarda el
+que resguarda la Unidad de Archivo, por documento;
 
-Departamento de Archivo de Expedientes Laborales,
-
-hasta 20 hojas, se cobrará: $150.00
-
-Por hoja adicional se cobrará $1.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+hoja única. $175.00
 
 IV. Por la expedición de copias certificadas de
 
-documentos que constan en los expedientes
+documentos que constan en los expedientes que
 
-que resguarda el Departamento de Archivo de
+resguarda la Unidad de Archivo, por documentos
 
-Expedientes Laborales, hasta 10 hojas del mismo
+únicos compuestos hasta por 10 hojas. $240.00
 
-asunto, se cobrará: $175.00
+Por hoja adicional: $5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+V. Por la expedición de copias certificadas de documentos que
 
-V. Por la expedición de copias certificadas de
+constan en los expedientes que resguarda la Unidad de
 
-documentos que constan en los expedientes
+Archivo, por documentos únicos compuestos hasta por 20
 
-que resguarda el Departamento de Archivo de
+hojas. $480.00
 
-Expedientes Laborales, hasta 15 hojas, se cobrará: $480.00
-
-Por hoja adicional se cobrará: $5.00
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VI. Por los servicios que presta la Dirección Obligaciones
-
-Fiscales y Retenciones del Estado, derivado de convenio
-
-de coordinación y colaboración administrativa, que la
-
-Secretaría celebre con los Municipios del Estado, en materia
-
-De servicios de solución tecnológico-administrativa para
-
-la emisión y timbrado masivo de CFDI, pagarán por timbre. $2.00
+Por hoja adicional: $5.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### Capítulo IV. Derechos por los Servicios que presta la Secretaría de Agricultura, Ganadería y Pesca
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-#### Sección Única. Servicios que presta la Dirección de Regulación Pecuaria
+#### Sección Primera. Servicios que presta la Dirección de Regulación Pecuaria
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2514,6 +2660,18 @@ subproductos de origen animal, por paquete:
 b) Para la movilización de ganado bovino en pie por
 
 sistema de registro electrónico, paquete de 500 folios. $5,000.00
+
+> <small>(ADICIONADO,P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+c) Para la movilización interna de semovientes (bovinos,
+
+equinos, porcinos, aves, ovinos, caprinos y colmenas)
+
+productos y subproductos de origen animal, por paquete:
+
+1. De 100 folios: $1,000.00
+
+2. De 500 folios: $5,000.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2553,21 +2711,105 @@ IV. Por la autorización extemporánea de juego de
 
 libros utilizados durante el año en curso, para el
 
-registro de fierros, marcas, tatuajes o aretes. $1,200.00
+registro de fierros, marcas, tatuajes o aretes.
+
+$1,200.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+V. Por el registro de los Centros de Acopio Pecuario, para
+
+propietarios o concesionarios que se dedican al acopio de
+
+animales o semovientes, unitario. $500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VI. Por la realización de pruebas BR. $8.00
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Segunda. Servicios que presta la Dirección de Reconversión Productiva Agrosustentable
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 29 Bis.
+
+Por los servicios que presta la Dirección de Reconversión Productiva Agrosustentable a los Ayuntamientos, organizaciones, grupos de trabajo y productores, se causarán y pagarán, por cada uno los siguientes derechos:
+
+Servicios Tarifa
+
+I. Para todo tipo de productores que necesiten adquirir plantas o
+
+varetas genéticamente mejoradas para el establecimiento de
+
+plantaciones:
+
+a) Por vareta portadora de yema mejorada genéticamente. $5.00
+
+b) Por planta injertada de aguacate y/o limón. $10.00
+
+c) Por planta injertada de cualquier otra especie. $5.00
+
+No serán sujetos al pago de esta fracción, los productores que vivan
+
+en Municipios de alta, muy alta marginación que soliciten a la
+
+Secretaría de Agricultura, Ganadería y Pesca, plantas nativas para
+
+fomentar el rescate de los paisajes. Así como las Instituciones de
+
+Educación, Centros de Investigaciones Públicas y los Sistemas para el
+
+Desarrollo Integral de la Familia (DIF).
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Tercera. Servicios que presta la Dirección de Agricultura Protegida, Vinculación e Innovación
+
+Tecnológica
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 29 Ter.
+
+Por los servicios que presta la Dirección de Agricultura Protegida, Vinculación e Innovación Tecnológica, a los Ayuntamientos, Personas físicas, Organizaciones y grupos de trabajo y productores deberán pagar, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Para todo tipo de productores que tengan el interés de adquirir
+
+plantas genéticamente mejoradas para el cultivo de flores y
+
+plantaciones agroindustriales:
+
+a) Por planta de crisantemo. $1.00
+
+b) Por planta de agave. $5.00
+
+c) Por planta de piña. $5.00
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### Sección Cuarta. Servicios que presta la Dirección de Fomento y Desarrollo Ganadero
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 29 Quater.
+
+Por los servicios que presta la Dirección de Fomento y Desarrollo Ganadero a los productores pecuarios, se causarán y pagarán, por cada uno los siguientes derechos:
+
+Servicios Tarifa
+
+I. Pruebas andrológicas. $50.00
+
+II. Cursos de inseminación artificial. $500.00
+
+III. Crio preservación de semen por dosis. $40.00
 
 #### Sección Primera. Servicios que Presta la Subsecretaría de Servicios Estratégicos de Seguridad
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-#### Sección Tercera. Servicios que presta el Instituto de Formación Policial
-
-#### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### Capítulo V. Derechos por los Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
@@ -2589,9 +2831,9 @@ derivados de los procedimientos administrativos disciplinarios
 
 hasta por 20 hojas. $70.00
 
-#### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
+#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
@@ -2815,9 +3057,7 @@ recorridos, tratándose de localidades que se encuentren
 
 fuera del lugar en donde se contrate el servicio.
 
-#### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+#### Sección Tercera. Servicios que presta el Instituto de Formación Policial
 
 ###### Artículo 33.
 
@@ -2875,21 +3115,19 @@ VIII. Por la expedición de constancias de no
 
 infracción para el servicio público. $300.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-IX. Por la expedición de permisos provisionales
+IX. Por la expedición de permisos provisionales para
 
-para circular sin placas ni tarjeta de circulación para
+circular sin placas ni tarjeta de circulación para vehículos
 
-vehículos por 15 días, se cobrará: $650.00
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 31 DE DICIEMBRE DE 2019]</small>
+por 30 días, se cobrará: $850.00
 
 El permiso provisional solo podrá ser expedido hasta
 
 en dos ocasiones por vehículo.
 
-#### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
+#### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2933,9 +3171,9 @@ b) Constancia de Estudios. $75.00
 
 c) Credencial de Estudiante. $40.00
 
-#### Sección Cuarta. Servicios que presta la Coordinación de Oficinas de Enlace
+#### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 35.
 
@@ -2957,9 +3195,9 @@ IV. Por examen de portación de armas. $450.00
 
 ### Capítulo VI. Derechos por los Servicios que Presta la Secretaría de Movilidad y Transporte
 
-#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+#### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
@@ -2977,9 +3215,11 @@ hasta 20 hojas. $250.00
 
 Por hoja adicional se pagará. $10.00
 
-II. Por la expedición de constancias de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-concesión y/o permiso. $500.00
+II. Por la expedición de constancias de concesión
+
+y/o permiso, número de expediente y estado que guarda. $500.00
 
 III. Por certificación de documentos excepto de
 
@@ -3137,7 +3377,23 @@ solicitantes de concesiones y/o permisos, en
 
 cualquier modalidad. $1,000.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XVII. Por la expedición del permiso provisional por medio
+
+del cual el titular de la Secretaría autoriza a un particular a
+
+prestar el servicio público de transporte en forma temporal
+
+para satisfacer una necesidad de transporte eventual,
+
+emergente o extraordinaria, hasta por 30 días. $1,000.00
+
 Todos y cada uno de los conceptos y derechos establecidos en la presente Sección, se causarán por cada unidad de manera particular sin efectos genéricos.
+
+#### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 37.
 
@@ -3145,115 +3401,141 @@ Por los servicios que presta la Dirección de Registro y Control del Transporte,
 
 Servicios Tarifa
 
-I. Por la expedición del permiso de ruta o zona
+I. Por la expedición de la constancia de autorización de
 
-para el servicio público de transporte para las
+ruta o zona para el servicio público de transporte para
 
-modalidades de carga, de personal al campo y
+las modalidades de carga, de personal al campo y empresas
 
-empresas, rural mixto de carga y pasaje y, especial. $1,500.00
+rural mixto de carga y pasaje y, especial. $1,500.00
 
-II. Por refrendo anual del permiso de ruta o zona para
+II. Por refrendo anual de la constancia de autorización
 
-el servicio público de transporte para las modalidades
+de ruta o zona para el servicio público de transporte para
 
-de carga, de personal al campo y empresas, rural mixto
+las modalidades de carga, de personal al campo y empresas,
 
-de carga y pasaje y, especial. $1,000.00
+rural mixto de carga y pasaje y, especial. $1,000.00
 
-III. Por la expedición del permiso de sustitución de
+III. Por la expedición del permiso temporal de vehículos
 
-vehículos automotores destinados a la prestación
+automotores para prestar el servicio público de transporte
 
-del servicio público de transporte, en cualquier modalidad
+con una unidad distinta a la registrada, en cualquier modalidad
 
 por vigencia de 30 días. $1,000.00
 
-IV. Por la expedición del permiso de ruta o zona para
+IV. Por la expedición de la constancia de autorización
 
-el servicio público de transporte en la modalidad de
+de ruta o zona para el servicio público de transporte
 
-pasajeros. $2,500.00
+en la modalidad de pasajeros. $2,500.00
 
-V. Por refrendo anual del permiso de ruta o zona para el
+V. Por refrendo anual de la constancia de autorización
 
-servicio público de transporte en la modalidad de pasajeros. $1,500.00
+de ruta o zona para el servicio público de transporte
 
-VI. Por la expedición del permiso de paso o penetración
+en la modalidad de pasajeros. $1,500.00
 
-para el servicio público de transporte de pasajeros o de carga;
+VI. Por la expedición del permiso de penetración para
 
-previa presentación del permiso federal vigente. $1,500.00
+el servicio público de transporte de pasajeros o de carga;
 
-VII. Por refrendo anual del permiso de paso o
+previa presentación del permiso federal vigente. $2,000.00
 
-penetración para el servicio público de transporte
+VII. Por refrendo anual del permiso de penetración para
 
-de pasajeros o de carga; previa presentación del
+el servicio público de transporte de pasajeros o de carga;
 
-permiso federal vigente. $1,000.00
+previa presentación del permiso federal vigente. $1,000.00
 
-VIII. Por la autorización de nueva asignación de
+VIII. Por la autorización de nueva asignación de placas, para la
 
-placas, para la prestación del servicio público de
+prestación del servicio público de transporte, por robo o siniestro
 
-transporte, por robo o siniestro de vehículo con
+de vehículo con placas, robo o extravío de placas de circulación,
 
-placas, robo o extravío de placas de circulación, a
+a los concesionarios y permisionarios en cualquier modalidad.
 
-los concesionarios y permisionarios en cualquier
+Previa presentación del documento expedido por la Fiscalía
 
-modalidad. Previa presentación del documento
+General del Estado. $2,000.00
 
-expedido por la Fiscalía General del Estado. $2,000.00
+IX. Por la autorización de reposición de tarjeta de circulación
 
-IX. Por la autorización de reposición de tarjeta
+para la prestación del servicio público de transporte en cualquier
 
-de circulación para la prestación del servicio público
+modalidad. $800.00
 
-de transporte en cualquier modalidad. $800.00
+X. Por la expedición de copias certificadas de documentos
 
-X. Por la expedición de copias certificadas de
+originales que obren en los archivos de la Dirección de Registro
 
-documentos originales que obren en los archivos
-
-de la Dirección de Registro y Control del Transporte,
-
-hasta por 20 hojas. $480.00
+y Control del Transporte, hasta por 20 hojas. $480.00
 
 Por hoja adicional se pagará $10.00
 
-XI. Por expedición de constancia de verificación
+XI. Por expedición de constancia de verificación física,
 
-física, electromecánica y de uniforme de vehículos
+electromecánica y de uniforme de vehículos automotores
 
-automotores destinados a la prestación del servicio
+destinados a la prestación del servicio público de transporte,
 
-público de transporte, en cualquier modalidad. $500.00
+en cualquier modalidad. $500.00
 
-XII. Por la solicitud de elaboración de estudio técnico
+XII. Por la solicitud de elaboración de estudio técnico para
 
-de factibilidad para el servicio público de transporte. $6,000.00
+el servicio público de transporte. $6,000.00
 
-Este pago no garantiza que el resultado del estudio
+Este pago no garantiza que el resultado del estudio técnico de
 
-técnico de factibilidad sea positivo para el solicitante.
+factibilidad sea positivo para el solicitante.
 
-XIII. Por la autorización anual del uso de publicidad
+XIII. Por la autorización anual del uso de publicidad por
 
-por unidad, a los concesionarios y permisionarios de
+unidad, a los concesionarios y permisionarios de vehículos
 
-vehículos que prestan el servicio público de transporte
+que prestan el servicio público de transporte en
 
-en cualquier modalidad. $1,500.00
+cualquier modalidad. $1,500.00
 
 XIV. Por la autorización eventual en los casos que
 
-establece el Reglamento de la Ley de Transportes
+establece el Reglamento de la Ley de Movilidad y
 
-del Estado. $1,000.00
+Transporte del Estado de Chiapas, y su Reglamento. $1,000.00
+
+XV. Por la expedición del permiso complementario
+
+de vehículos automotores procedentes de otras Entidades
+
+Federativas para el servicio público de transporte de
+
+pasajeros o de carga; previa presentación de la concesión
+
+o permiso estatal vigente. $500.00
+
+XVI. Por la expedición de la constancia de autorización del
+
+uso de plataformas tecnológicas para el servicio público de
+
+transporte con vehículos automotores concesionarios o
+
+permisionarios del Estado. $5,000.00
+
+XVII. Por refrendo anual de la constancia de autorización
+
+del uso de plataformas tecnológicas para el servicio público
+
+de transporte con vehículos automotores concesionarios o
+
+permisionarios del Estado. $3,000.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### Sección Cuarta. Servicios que presta la Coordinación de Oficinas de Enlace
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 38.
 
@@ -3287,7 +3569,19 @@ operadores del servicio de transporte público
 
 con vigencia de origen, por cambio de municipio. $250.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+V. Por expedición de certificado vehicular para prestar el
+
+servicio público de transporte a través del uso de
+
+plataformas tecnológicas, a un año: $150.00
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### Sección Primera. Servicios que presta el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 38 Bis.
 
@@ -3863,11 +4157,223 @@ XIX. Por la modificación de datos y/o reposición de
 
 autorizaciones y constancias, se pagará el 75% de su costo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-Las personas físicas que utilicen los servicios que presta la Secretaría de Salud y/o el Instituto de Salud a través de la Dirección de Atención Médica pagarán las cuotas de recuperación por servicios médicos asistenciales, evaluación sanitaria, de diagnóstico y referencias epidemiológicas, de acuerdo a los tabuladores autorizados por el Consejo Nacional Médico.
+Las personas físicas que utilicen los servicios administrativos que presta el Instituto de Salud a través de las Unidades de Atención Médica, se causarán y pagarán por cada uno, los siguientes derechos:
 
-El monto de las cuotas citadas, se determinarán atendiendo a las condiciones socioeconómicas del contribuyente.
+Servicios Tarifa
+
+I. Por la expedición del certificado prenupcial con estudios,
+
+por cada solicitante, lo cual incluye, consulta externa,
+
+prueba del Virus de la Inmunodeficiencia Humana (V.I.H.),
+
+Prueba Serológico de la Sífilis (V.D.R.L.) cuantitativo,
+
+grupo sanguíneo y certificado. $306.00
+
+II. Por la expedición del certificado prenupcial sin estudios,
+
+por cada solicitante, lo cual incluye, consulta externa, grupo
+
+sanguíneo y certificado. $182.00
+
+III. Por la expedición del certificado médico con
+
+estudios, lo cual incluye, consulta externa, grupo
+
+sanguíneo y certificado. $61.00
+
+IV. Por la expedición del certificado médico sin estudios,
+
+lo cual incluye, consulta externa y certificado. $34.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 44 Bis.
+
+Por los servicios que presta el Laboratorio Estatal de Salud del Estado de Chiapas, se causarán y pagarán, por cada uno, los siguientes derechos.
+
+Servicios Tarifa
+
+I. Análisis de agua de uso y consumo humano alimentos, para
+
+determinación de coliformes fecales (número más probable). $215.00
+
+II. Análisis de agua de uso y consumo humano alimentos, para
+
+determinación de coliformes totales (número más probable). $200.00
+
+III. Análisis de alimentos para determinación de coliformes totales
+
+en placa (unidad formadora de colonia). $215.00
+
+IV. Análisis de leche y derivados para determinación de coliformes
+
+totales en placa (unidad formadora de colonia). $215.00
+
+V. Análisis de agua de uso y consumo humano alimentos para
+
+determinación de E.Coli. (número más probable). $170.00
+
+VI. Análisis de productos de la pesca para determinación de E. Coli
+
+(número más probable). $170.00
+
+VII. Análisis de lácteos, cárnicos crudo para determinación de E. Coli
+
+(B-glucoronidasa). $170.00
+
+VIII. Análisis de alimentos para determinación de salmonella. $420.00
+
+IX. Análisis de productos de la pesca y alimentos para
+
+determinación de V. Cholerae. $590.00
+
+X. Análisis de leche y derivados lácteos para determinación
+
+de V. Cholerae. $590.00
+
+XI. Análisis de muestras ambientales (HISOPO MOORE y
+
+Spira) para determinación de V. Cholerae. $590.00
+
+XII. Análisis de productos de la pesca para determinación
+
+de V. Parahaemolytiicus. $600.00
+
+XIII. Análisis de agua de mar para determinación de
+
+enterococos. $235.00
+
+XIV. Análisis de alimentos para determinación de staphylococus
+
+aureus. $480.00
+
+XV. Análisis de alimentos para determinación de cuenta de
+
+bacterias aerobias en placa. $130.00
+
+XVI. Análisis de alimentos para determinación de cuenta
+
+de mohos y levaduras. $130.00
+
+XVII. Análisis de leche y derivados lácteos para
+
+determinación de inhibidores bacterianos
+
+(residuos de antibióticos). $900.00
+
+XVIII. Análisis de músculo, hígado y riñón para
+
+determinación de clenbuterol por Elisa. $1,090.00
+
+XIX. Análisis de moluscos bivalvos para
+
+determinación de saxitoxina por bioensayo en ratón. $3,380.00
+
+XX. Análisis de agua de mar para determinación de
+
+identificación y cuantificación de fitoplancton. $305.00
+
+XXI. Análisis de hongos para determinación de
+
+Identificación taxonómica de hongos macromicetos. $90.00
+
+XXII. Análisis de agua potable y agua purificada para
+
+determinación de arsénico por espectrometría de
+
+absorción atómica. $1,245.00
+
+XXIII. Análisis de agua y hielo para consumo humano para
+
+determinación de arsénico por espectrometría de absorción
+
+atómica. $1,245.00
+
+XXIV. Análisis de agua potable y agua purificada para
+
+determinación de plomo por espectrometría de
+
+absorción atómica. $1,245.00
+
+XXV. Análisis de agua y hielo para consumo humano para
+
+determinación de plomo por espectrometría de absorción
+
+atómica. $1,245.00
+
+XXVI. Análisis de leche y derivados lácteos para
+
+determinación de enterotoxina estafilococcica por Elisa. $850.00
+
+XXVII. Análisis de sal de mesa para determinación de
+
+flúor como ion flúor (mg F-/Kg). $435.00
+
+XXVIII. Análisis de sal de mesa para determinación
+
+de yodo a partir de yodatos (mg/Kg yodo total). $440.00
+
+XXIX. Análisis de agua de uso y consumo humano para
+
+determinación de cloro residual (mg/L). $305.00
+
+XXX. Análisis de agua y hielo para consumo humano para
+
+determinación de fluoruros. $260.00
+
+XXXI. Análisis de agua de uso y consumo humano para
+
+determinación de color. $130.00
+
+XXXII. Análisis de agua de uso y consumo humano para
+
+determinación de cloruro (mg/L). $275.00
+
+XXXIII. Análisis de agua de uso y consumo humano para
+
+determinación de dureza total (mg/L CaCO3). $290.00
+
+XXXIV. Análisis de agua de uso y consumo humano para
+
+determinación de PH. $135.00
+
+XXXV. Análisis de alimentos para determinación de
+
+humedad (%). $150.00
+
+XXXVI. Análisis de nódulos encefálicos (origen animal) para
+
+determinación de virus rábico. $530.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 44 Ter.
+
+Por los servicios que presta el Centro Estatal de Transfusión Sanguínea, se causarán y pagarán, por cada uno, los siguientes derechos:
+
+Servicios Tarifa
+
+I. Paquete Componente Sanguíneo nivel 6.
+
+(Plasma Fresco Congelado, Paquete Globular,
+
+Concentrado Plaquetario): $750.00
+
+II. Aféresis Plaquetario.
+
+a) Nivel 4 $1,310.00
+
+b) Nivel 5 $2,090.00
+
+c) Nivel 6 $3,550.00
+
+III. Pruebas Cruzadas, nivel 6. $385.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3885,31 +4391,45 @@ Servicios Tarifa
 
 I. Por la expedición de constancias de no inhabilitación. $140.00
 
-II. Por la expedición de constancias de inscripción en el
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Registro de Contratistas de Obras Públicas:
+II. Por la expedición de Constancias de Registro de Contratistas:
 
-a) Por la expedición de constancia. $4,300.00
+a) Constancia de Registro de Contratistas,
 
-b) Por la modificación, revalidación, expedición
+por inscripción. $4,300.00
 
-del segundo o posteriores ejemplares de constancias
+b) Constancia de Registro de Contratistas,
 
-de inscripción en el registro de Contratistas de Obras
+por actualización. $2,900.00
 
-Públicas, por cada servicio se cobrará. $2,900.00
+c) Constancia de Registro de Contratistas,
 
-III. Por la expedición de constancia de inscripción en el
+por modificación. $2,900.00
 
-Registro de Supervisores:
+d) Constancia de Registro de Contratistas,
 
-a) Por la expedición de constancia. $2,200.00
+por reexpedición. $2,900.00
 
-b) Por la modificación, revalidación, expedición del
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-segundo o posteriores ejemplares de constancias de
+III. Por la expedición de Constancias de Registro de Supervisores Externos:
 
-inscripción en el Registro de Supervisores, se cobrará: $1,100.00
+a) Constancia de Registro de Supervisores
+
+Externos, por inscripción. $2,200.00
+
+b) Constancia de Registro de Supervisores
+
+Externos, por actualización. $1,100.00
+
+c) Constancia de Registro de Supervisores
+
+Externos, por modificación. $1,100.00
+
+d) Constancia de Registro de Supervisores
+
+Externos, por reexpedición. $1,100.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -4379,7 +4899,7 @@ asociaciones privadas y del sector social. $1,200.00
 
 ### Capítulo XII. Derechos por los servicios que presta el Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 47 Bis.
 
@@ -4387,23 +4907,79 @@ Por los servicios que presta la Dirección de Infraestructura Tecnológica, se c
 
 Servicios Tarifa
 
-I. Para el Uso de Servicios Digitales de
+I. Para el Uso de Servicios Digitales de Certificación y
 
-Certificación y Encriptación por documento. $220.00
+Encriptación por documento. $220.00
 
-II. Para el Uso de Infraestructura Tecnológica
+II. Para el Uso de Infraestructura Tecnológica y Comunicaciones del Data Center Virtual, renta mensual Incluye:
 
-y Comunicaciones del Data Center Virtual,
+a) Hosting WEB con acceso VPN, incluye Subdominio
 
-renta mensual Incluye: hasta 5GB del almacenamiento,
+chiapas.gob.mx y un análisis de vulnerabilidades:
 
-hasta 1º servidores virtuales por DCV, tipo de acceso:
+1. Básico (Hosting Linux, Base de Datos MySQL,
 
-Internet/VPN, Vlan 1 pública, 2 privadas, Firewall Virtual
+Almacenamiento 5 Gb y Seguridad Informática). $190.00
 
-Dedicado: incluido. $6,800.00
+2. Económico (Hosting Linux, Base de Datos MySQL,
 
-El precio de renta mensual no incluye servidores virtuales.
+Almacenamiento 10 Gb, Seguridad Informática, Monitoreo y
+
+Respaldo). $280.00
+
+3. PRO (Hosting Linux, Base de Datos MySQL, Almacenamiento
+
+25 Gb, Seguridad Informática, Monitoreo, Respaldo y
+
+Asesorías). $360.00
+
+b) Servidores Virtuales con Acceso Internet/VPN, VLAN Pública 1,
+
+VLAN Local 1, Seguridad Backup (MV):
+
+1. Servidores LINUX:
+
+1.1 2vcpu - 4GbRam $703.00
+
+1.2 2vcpu - 8GbRam $1,550.00
+
+1.3 2vcpu - 16GbRam $2,057.00
+
+1.4 4vcpu - 16GbRam $3,100.00
+
+1.5 8vcpu - 32GbRam $6,200.00
+
+2. Servidores WINDOWS:
+
+2.1 2vcpu - 4GbRam $816.00
+
+2.2 2vcpu - 8GbRam $2,973.00
+
+2.3 4vcpu - 16GbRam $5,946.00
+
+2.4 8vcpu - 32GbRam $11,905.00
+
+c) Red de Información Gubernamental:
+
+1. Administrador RIG. $1,000.00
+
+2. Mantenimiento RIG. $1,000.00
+
+d) PBX Virtual:
+
+1. Teléfonos IP básicos. $300.00
+
+2. Switch POE 24 Puertos. $500.00
+
+3. Switch POE 48 Puertos. $800.00
+
+4. Administración PBX Virtual. $1,000.00
+
+5. Instalación del PBX Virtual. $2,000.00
+
+e) Plataforma de videoconferencias Básico
+
+para Aulas y conferencias virtuales $250.00
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO XII], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -4415,7 +4991,9 @@ Por los servicios que presta el Poder Judicial del Estado se causarán y pagará
 
 Servicios Tarifa
 
-I. Por la búsqueda de antecedentes penales. $75.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+I. Por la búsqueda de antecedentes penales. $185.00
 
 II. Por la expedición de Constancias
 
@@ -4466,6 +5044,12 @@ X. Por cada DVD de reproducción en medio digital de audiencias
 celebradas ante los Juzgados de Control y Tribunales de
 
 Enjuiciamiento. $100.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XI. Por cambio de estatus en los registros de ficha
+
+signalética. $2,500.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -4590,3 +5174,11 @@ P.O. 31 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinte.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 056 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintiuno.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
