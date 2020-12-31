@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-10-02"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -557,7 +557,9 @@ I. Asegurar la asistencia médica y sanitaria para la prevención, tratamiento y
 
 II. Reducir la morbilidad y mortalidad infantil;
 
-III. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, mediante la promoción de una alimentación adecuada, consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+III. Combatir la desnutrición crónica y aguda, el sobrepeso y la obesidad, así como todo tipo de trastornos de la conducta alimentaria, mediante la promoción de una alimentación adecuada y nutritiva, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención, información, ayuda psicológica y educación sobre los riesgos de consumir bebidas y alimentos con bajo valor nutricional y alto contenido calórico, de sodio, grasas o azúcares;
 
 IV. Fomentar, desarrollar y adecuar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -567,7 +569,9 @@ VI. Establecer medidas tendentes a prevenir embarazos tempranos;
 
 VII. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita un ejercicio igualitario de sus derechos;
 
-VIII. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la nutrición, de la salud física y socioemocional, las ventajas de la lactancia materna, las relaciones seguras, la higiene, el saneamiento ambiental, así como las medidas de prevención de accidentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VIII. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la nutrición, de la salud física y socioemocional, las ventajas de la lactancia materna, las relaciones seguras, la higiene, el saneamiento ambiental, las medidas de prevención de accidentes, así como informar sobre las desventajas del consumo de alimentos y bebidas con bajo contenido nutricional y alto contenido calórico, de sodio, grasas o azúcares;
 
 IX. Adoptar medidas tendentes a la eliminación de prácticas culturales, usos y costumbres, que sean perjudiciales para la salud física y socioemocional de niñas, niños y adolescentes;
 
@@ -659,13 +663,17 @@ XVI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XVII. Realizar lo necesario para fomentar la inclusión social y establecer el diseño universal de accesibilidad a los servicios educativos de niñas, niños y adolescentes con discapacidad y con la condición del espectro autista, en términos de la legislación aplicable, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-XVIII. Garantizar la reparación y mantenimiento de los planteles educativos del Estado, y
+XVIII. Garantizar la reparación y mantenimiento de los planteles educativos del Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-XIX. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+XIX. Promover en las niñas, niños y adolescentes una alimentación nutritiva y adecuada, informándoles sobre los riesgos para la salud asociados con el consumo de alimentos y bebidas con bajo contenido nutricional y de alto contenido calórico, de grasas, de sodio o de azúcares, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XX. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
 En este supuesto será aplicable el procedimiento establecido en el artículo 117 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
@@ -832,6 +840,10 @@ VI. El trabajo en adolescentes mayores de quince años que puedan (sic) perjudic
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados, violentos o en cualquier otra actividad que impida su desarrollo integral, y
 
 VIII. Las autoridades estatales y municipales, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, tienen la obligación de atender y sancionar con perspectiva de género las conductas previstas en este artículo.
 
 ###### ARTÍCULO 63.
 
@@ -1155,7 +1167,9 @@ IV. Asegurar que cursen la educación obligatoria, participar en su proceso educ
 
 V. Impartir en consonancia con la evolución de su desarrollo, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-VI. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VI. Asegurar un entorno afectivo, comprensivo y sin violencia, que incluya atención, orientación, reconocimiento y potenciación, con el fin de lograr el pleno, armonioso y libre desarrollo de su personalidad;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -1245,9 +1259,17 @@ IV. Contar con medidas de seguridad, protección y vigilancia necesarios para ga
 
 V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo casos excepcionales que requieran asistencia por algún adulto;
 
-VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-VII. Atender los requerimientos establecidos por las autoridades de protección civil y salud.
+VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VII. Atender los requerimientos establecidos por las autoridades de protección civil y salud, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VIII. Desarrollar un entorno que propicie las condiciones necesarias para que las niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
 
 Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social.
 
@@ -1263,7 +1285,9 @@ I. Un entorno seguro, afectivo y libre de violencia;
 
 II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
 
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+III. Alimentación que les permita tener una nutrición equilibrada, que cuente con la periódica certificación de la autoridad sanitaria y que prevenga el consumo de alimentos y bebidas con bajo contenido nutricional y alto contenido calórico, así como de sodio, grasas o de azúcares;
 
 IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros;
 
@@ -2028,6 +2052,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y VIII DEL ARTÍCULO 45, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 48 Y LA FRACCIÓN III DEL ARTÍCULO 104, Y ADICIONA LA FRACCIÓN XX AL ARTÍCULO 48 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 98 Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 62 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 103 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
