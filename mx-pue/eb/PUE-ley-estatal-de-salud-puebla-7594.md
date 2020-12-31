@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2020-10-15"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -251,7 +251,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-III. Colaborar al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+III. Contribuir al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes, personas adultas mayores, personas con discapacidad e indígenas, en abandono o desamparo, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1749,9 +1751,9 @@ Son actividades básicas de asistencia social:
 
 I. La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-II. La atención en establecimientos especializados a personas sujetas a maltrato, en estado de abandono, desamparo y sin recursos. En el caso de maltrato infantil, el Estado garantizará su atención, conforme al protocolo de atención a menores víctimas de violencia intrafamiliar y abandono, establecido por la Secretaría de Salud del Estado;
+II. La atención en establecimientos especializados a personas víctimas de maltrato, en estado de abandono, desamparo y sin recursos. En el caso de maltrato infantil, el Estado garantizará su atención, conforme a los protocolos aplicables para la atención a niñas, niños y adolescentes víctimas de violencia familiar y abandono, establecido por la Secretaría de Salud del Estado; en el caso de personas adultas mayores víctimas de maltrato o abandono, se deberá reportar al Sistema Estatal para el Desarrollo Integral de la Familia para que realice las acciones conducentes y se solicite a la familia un reporte de lo sucedido y en caso de ser procedente, se solicite la intervención de la Fiscalía General del Estado;
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
@@ -1777,23 +1779,19 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, dentro del presupuesto aporbado (sic) para tal efecto, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 164.
 
-Los menores, ancianos, mujeres e indígenas en estado de desamparo y desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Las niñas, niños y adolescentes, personas adultas mayores, mujeres e indígenas en situación de desamparo o desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 165.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores, ancianos e indígenas sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, niñas, niños y adolescentes, personas adultas mayores e indígenas sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
 
-En estos casos, las Instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
-En estos casos, las Instituciones de Salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y en los casos procedentes, dar intervención a las autoridades competentes.
+En estos casos, las Instituciones de salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las niñas, niños y adolescentes y en los casos procedentes, dar intervención a las autoridades competentes. En el caso de personas adultas mayores víctimas de maltrato o abandono, se deberá reportar de inmediato al Sistema Estatal para el Desarrollo Integral de la Familia para que realice las acciones conducentes y se solicite a la familia un reporte de lo sucedido y en caso de ser procedente, se solicite la intervención de la Fiscalía General del Estado.
 
 ###### ARTICULO 166.
 
@@ -3434,5 +3432,13 @@ P.O. 15 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV, XV Y XVII DE LA BASE A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6, LA FRACCIÓN II DEL 162, EL 164 Y EL 165 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
