@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-periodico-oficial-del-estado-de-quintana-roo-58300"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-14"
-last_updated: "2007-12-14"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE QUINTANA ROO
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE QUINTANA ROO
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN.]</small>
 
-TEXTO ORIGINAL.
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 14 de diciembre de 2007.
 
@@ -264,3 +266,17 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 094 POR EL QUE SE EXPIDE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días naturales siguientes de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley del Periódico Oficial del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, el día catorce de diciembre del año dos mil siete; lo anterior, sin perjuicio de la existencia de la Dirección del Periódico Oficial del Estado, misma que se mantiene para los efectos del artículo 5 de la presente Ley.
+
+TERCERO. A la entrada en vigor de la presente Ley, los Poderes del Estado, Órganos Autónomos, Dependencias, Entidades, Ayuntamientos y demás entes públicos, así como los particulares que con frecuencia hagan uso de los servicios de publicación, deberán comunicar por escrito a la Secretaría de Gobierno, en un plazo que no exceda de los quince días naturales, la dirección de la cuenta de correo electrónico para los fines previstos en el segundo párrafo del artículo 10 de esta Ley. Asimismo, toda modificación a aquellas deberá ser comunicada de inmediato a la misma autoridad.
+
+CUARTO. A la vigencia de la presente Ley, la persona titular de la Dirección dispondrá lo necesario con el fin de remitir al Archivo General del Estado, el Acervo Histórico del Periódico Oficial, ediciones y documentos jurídicos en caso de existir, que ya estén debidamente digitalizados, con el fin de que aquel conforme a sus atribuciones determine, atendiendo al valor histórico, cultural o social, su conservación en ese archivo o proceda a la destrucción de los mismos.
