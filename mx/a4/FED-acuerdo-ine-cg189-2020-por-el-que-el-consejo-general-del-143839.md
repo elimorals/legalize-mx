@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg189-2020-por-el-que-el-consejo-general-del-143839
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-08-24"
-last_updated: "2020-08-24"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-08-10"
 ---
 # ACUERDO INE/CG189/2020 POR EL QUE EL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL APRUEBA LA ESTRATEGIA DE CAPACITACION Y ASISTENCIA ELECTORAL 2020-2021 Y SUS RESPECTIVOS ANEXOS
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 10 DE MARZO DE 2020, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 EXTRACTO DEL ACUERDO POR EL QUE EL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL APRUEBA LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL 2020-2021 Y SUS RESPECTIVOS ANEXOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2020
 
 Extracto publicado en el Diario Oficial de la Federación, el lunes 24 de agosto de 2020.
 
@@ -100,3 +102,37 @@ El Acuerdo completo y anexos que forma parte integral del mismo, se encuentran d
 Página DOF: www.dof.gob.mx/2020/INE/CGext202008_07_ap_3.pdf
 
 Ciudad de México, 10 de agosto de 2020.- El Director Ejecutivo de Capacitación Electoral y Educación Cívica, Roberto Heycher Cardiel Soto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANCRIBEN LOS PUNTOS DEL “EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA "ADENDA. PRECISIONES OPERATIVAS A LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL 2020-2021", QUE SERÁ APLICABLE DURANTE EL PROCESO ELECTORAL 2020-2021”, QUE SE RELACIONAN CON EL PRRSENTE ORDENAMIENTO.]</small>
+
+Primero. Se aprueba la Adenda, que será aplicable en el proceso electoral 2020-2021.
+
+Segundo. La ECAE 2020-2021 y sus anexos, aprobada mediante Acuerdo INE/CG189/2020, será aplicable en todos sus términos, considerando las precisiones y particularidades previstas en la Adenda.
+
+Tercero. Se instruye a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica para que informe a la Dirección Ejecutiva de Administración, el periodo de contratación de SE y CAE conforme a lo previsto en la Adenda, para su incorporación en los respectivos contratos de prestación de servicios.
+
+Cuarto. Se instruye a la Dirección Ejecutiva de Administración para que, en el ámbito de su competencia, apoye a las Direcciones Ejecutivas de Organización Electoral y, de Capacitación Electoral y Educación Cívica en la implementación de los ajustes referidos en este acuerdo y que se encuentran incorporados en la Adenda.
+
+Quinto. Se instruye a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, para que tome las medidas necesarias y oportunas para garantizar el cumplimiento de los ajustes y precisiones establecidos en la Adenda.
+
+Sexto. Se instruye a la Dirección Ejecutiva de Administración, para llevar a cabo las gestiones necesarias que garanticen, en el ámbito de su competencia, el cumplimiento de los ajustes a la ECAE 2020-2021 previstos en la Adenda.
+
+Séptimo. La Comisión de Capacitación y Asistencia Electoral, deberá dar seguimiento a las actividades previstas en la ECAE 2020-2021, así como en la Adenda.
+
+Octavo. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que instrumente lo conducente a fin de que notifique el presente Acuerdo para su conocimiento a las y los integrantes de los Consejos Generales de los Organismos Públicos Locales.
+
+Noveno. Notifíquese el presente acuerdo y la Adenda a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas del INE, para su conocimiento y debido cumplimiento.
+
+Décimo. Se instruye a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas, para que instrumenten lo conducente a fin de que las y los integrantes del Consejos Locales y Distritales del INE tengan pleno conocimiento de este acuerdo y la Adenda.
+
+Décimo Primero. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+Décimo Segundo. Publíquese…
+
+El Acuerdo completo y anexos que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/sesion-ordinaria-del-consejo-general-15-de-diciembre-de-2020/
+
+Página DOF: http://www.dof.gob.mx/2020/INE/CGord202012_15_ap_22.pdf
