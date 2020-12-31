@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-11-05"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -263,31 +265,213 @@ III. Albergue a personas damnificadas por desastres naturales.
 
 De los recursos que se obtengan de la recaudación del impuesto sobre servicios de hospedaje, se destinará el equivalente al cien por ciento de lo recaudado, para la realización de acciones de fomento y promoción de la actividad turística del Estado, los que se aplicarán a través de un único fideicomiso creado para ese fin, en el que participarán los prestadores de servicios objeto de este impuesto, a través de los dirigentes de la organización empresarial que legalmente los agrupe.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO III BIS. DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS. Se encuentran obligadas al pago de este impuesto las personas físicas y morales que realicen en el territorio del Estado de Michoacán de Ocampo la venta final de bebidas con contenido alcohólico, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación al ser estos, campos exclusivos a gravar por la Federación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 1. Para efectos del presente impuesto, se entenderá como venta final la que se efectúa en el territorio del Estado de Michoacán de Ocampo cuando en el mismo se realice la entrega material de los bienes objeto de este Capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
+
+Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas con contenido alcohólico objeto del presente gravamen.
+
+Aunado a lo anterior, se entenderá como bebidas con contenido alcohólico, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 2. El impuesto se determinará aplicando la tasa del 4.5% sobre el precio de la venta final de las bebidas con contenido alcohólico, sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
+
+Además, no deberá trasladarse o señalarse en forma expresa y por separado a las personas que adquieran las bebidas, por lo que el traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 3. El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto del presente Capítulo, igualmente, cuando las contraprestaciones se paguen parcialmente el impuesto se calculará aplicando a la parte de la contraprestación pagada a la tasa respectiva.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 4. El impuesto materia del presente Capítulo será enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría, a más tardar el día diecisiete del mes siguiente a aquél en que se cause.
+
+La Secretaría podrá acordar con la Secretaría de Hacienda y Crédito Público que el impuesto materia del presente capítulo, se pague en las mismas declaraciones del Impuesto sobre la Renta.
+
+Este impuesto no será acreditable contra otros impuestos locales o federales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 5. No se causará este impuesto por la venta de bebidas alcohólicas cuando éstas se realicen al público en general, en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 6. Los contribuyentes de este impuesto, además de las obligaciones establecidas en esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
+
+I. Registrarse, para los efectos de este impuesto, ante la Secretaría, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto autorice dicha dependencia;
+
+II. Llevar un registro pormenorizado de las ventas a que se refiere el artículo 20 Bis de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto; y,
+
+III. Expedir comprobante por cada una de las operaciones, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 7. Los municipios y demás autoridades vinculadas con el impuesto tendrán la obligación de proporcionar a la Secretaría de Finanzas y Administración, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 8. Los Municipios recibirán el 20% por ciento de la recaudación que corresponda a la entidad federativa en términos del artículo 10-C de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO III BIS 1. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN I. DEL SUJETO Y OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 9. Están obligados al pago del impuesto previsto en esta Sección las personas que realicen erogaciones dentro del territorio del Estado de Michoacán de Ocampo, para participar en juegos con apuestas.
+
+Se considera objeto del impuesto las erogaciones en dinero o en especie que se realicen para participar en juegos de apuesta, siendo estos los siguientes:
+
+I. Aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar;
+
+II. Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante;
+
+III. Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos;
+
+IV. Aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas; y,
+
+V. Aquellas que se entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos.
+
+Lo señalado en las citadas fracciones, es con independencia del nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con Ia (sic) posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN II. DE LA BASE Y LA TASA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 10. El impuesto se calculará aplicando la tasa del 10% a la base del impuesto, constituida ésta por el monto de las erogaciones efectuadas por Ia (sic) persona que participe en juegos con apuestas, ya sea que los pagos se realicen en efectivo, en especie, o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 20 bis 9, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+DEL MOMENTO DE CAUSACIÓN Y ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 11. El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 12. El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá presentar la declaración correspondiente en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración y enterarlo ante las Administraciones y Receptorías de Rentas, así como de las instituciones bancarias y demás oficinas que en su caso, se autorice por la Secretaría de Finanzas y Administración del Estado para tal efecto, a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si cayera en día inhábil.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto.
+
+La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 20 bis 14.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 13. Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 20 bis 12, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 14. Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 20 bis 9 bis (sic);
+
+II. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 20 bis 9;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto; y,
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN III. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 15. Quienes efectúen las retenciones del impuesto a que se refiere este Capítulo, tendrán las siguientes obligaciones:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 15 días siguientes a la fecha de iniciación de las actividades, o dentro de inicio de la vigencia del presente precepto, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+
+II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes;
+
+Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento, así como el Código Fiscal del Estado;
+
+III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo;
+
+IV. Registrar y conservar la documentación relacionada con las constancias, comprobantes fiscales y las retenciones de este impuesto así como la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, por cada operación por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso; y,
+
+V. Proporcionar, a las personas a quienes les efectúen pagos por los conceptos a que se refiere este Capítulo, comprobante fiscal en el que conste el monto de la operación, y el impuesto retenido que fue enterado.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO III BIS 2. DEL IMPUESTO A LOS PREMIOS GENERADOS EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN I. DEL SUJETO, OBJETO Y BASE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 16. Son sujetos de este impuesto, las personas físicas o morales que obtengan ingresos procedentes de un premio dentro del territorio del Estado de Michoacán de Ocampo, derivado de la participación en juegos con apuestas a que se refiere el artículo 20 Bis 9 de la presente Ley y diverso al regulado por los artículos 4, 5 y 6 del presente ordenamiento.
+
+Constituye el objeto de este impuesto, la obtención de premios en los términos del párrafo anterior, y la base del mismo el valor del premio, el cual se constituye con el valor en dinero o en especie que resulte de restar al monto del recurso obtenido en los juegos a los que se refiere este artículo, la erogación total realizada para la obtención del premio, incluyendo el impuesto pagado por concepto de erogaciones en juegos con apuestas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 17. El impuesto se calculará aplicando la tasa del 20%, al monto total nominal del ingreso obtenido como premio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+DEL MOMENTO DE CAUSACIÓN Y EPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 18. El impuesto se causará en el momento en que el sujeto obligado reciba el premio correspondiente, del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o del responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca, y serán quienes entreguen el premio, el responsable de recaudar el impuesto a que se refiere el presente CAPÍTULO, reteniendo de dicho premio, el monto correspondiente al impuesto, y deberá presentar la declaración correspondiente en los formatos que para tal efecto apruebe la Secretaría de Finanzas y Administración y enterarlo ante las Administraciones y Receptorías de Rentas, así como de las instituciones bancarias y demás oficinas que en su caso se autorice por la Secretaría de Finanzas y Administración del Estado para tal efecto, a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el premio se pague en especie, el contribuyente deberá proveer de recursos en efectivo al retenedor para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al retenedor de la responsabilidad solidaria prevista en el artículo 20 bis 20.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 19. Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, o los que entreguen el premio correspondiente, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 20 bis 17 de este ordenamiento, están obligados a expedir comprobantes por cada contraprestación que cobren, conforme a los formatos que para tal efecto prevea la autoridad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+DE LA RESPONSABILIDAD SOLIDARIA Y LAS OBLIGACIONES DE RETENEDORES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 20. Serán responsables solidarios del impuesto, el establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos o, en su caso, el responsable de entregar el premio, sea cualquiera el nombre con el que se le conozca.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 20 BIS 21. Quienes entreguen los premios a que se refiere este Capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto;
+
+II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes;
+
+Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente las disposiciones que regulan esta materia, establecidas en el Código Fiscal de la Federación y su Reglamento, así como el Código Fiscal del Estado;
+
+III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo, y
+
+IV. Registrar y conservar la documentación relacionada con las constancias, comprobantes fiscales y las retenciones de este impuesto así como la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, por cada premio obtenido por la (sic) que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
+
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCIÓN Y DEPENDENCIA DE UN PATRÓN
 
-### CAPÍTULO V. DE LOS IMPUESTOS ECOLÓGICOS
-
 #### SECCIÓN I. DEL OBJETO Y DEL SUJETO
-
-#### SECCIÓN II. DE LA BASE Y DE LA TASA
-
-#### SECCIÓN III. DE LAS OBLIGACIONES Y EL PAGO
-
-### CAPÍTULO VI. DE LOS IMPUESTOS CEDULARES SOBRE INGRESOS DE LAS PERSONAS FÍSICAS
-
-#### SECCIÓN I. GENERALIDADES
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO VII. DEL IMPUESTO SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES
-
-#### SECCIÓN II. DEL IMPUESTO POR REMEDIACIÓN AMBIENTAL EN LA EXTRACCIÓN DE MATERIALES
-
-DEL OBJETO
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO, LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2020 Y SU ACUMULADA 100/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 21.
 
@@ -335,9 +519,7 @@ XV. Las vacaciones.
 
 Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, las prestaciones que se paguen a los trabajadores, como consecuencia de terminación de la relación laboral, así como las indemnizaciones por incapacidad física.
 
-#### SECCIÓN III. DE LA EMISIÓN DE GASES A LA ATMÓSFERA
-
-DEL OBJETO
+#### SECCIÓN II. DE LA BASE Y DE LA TASA
 
 ###### ARTÍCULO 24.
 
@@ -347,9 +529,7 @@ El Impuesto a que se refiere este Capítulo, se determinará, aplicando la tasa 
 
 El Secretario de Finanzas y Administración, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo, con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
 
-#### SECCIÓN IV. DE LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
-
-DEL OBJETO
+#### SECCIÓN III. DE LAS OBLIGACIONES Y EL PAGO
 
 ###### ARTÍCULO 26.
 
@@ -419,11 +599,11 @@ El Ejecutivo del Estado al presentar la Cuenta Pública de la Hacienda Estatal i
 
 Tratándose de las contribuciones por concepto de impuestos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por este mismo Capítulo, se causarán accesorios en términos de lo previsto por el Código Fiscal del Estado de Michoacán de Ocampo, además de recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
 
-### CAPÍTULO ÚNICO. APORTACIONES DE PARTICULARES
+### CAPÍTULO V. DE LOS IMPUESTOS ECOLÓGICOS
 
-#### SECCIÓN V. DEL IMPUESTO AL DEPÓSITO O ALMACENAMIENTO DE RESIDUOS
+#### SECCIÓN I. GENERALIDADES
 
-DEL OBJETO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
@@ -437,7 +617,13 @@ De ninguna forma el pago de los impuestos ecológicos, constituye una excepción
 
 Para efectos de este Capítulo serán aplicables de manera supletoria la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo y demás disposiciones vigentes en el Estado en materia de derecho al medio ambiente, que no sean contrarias a las disposiciones en materia fiscal.
 
-#### SECCIÓN VI. ESTÍMULOS
+#### SECCIÓN II. DEL IMPUESTO POR REMEDIACIÓN AMBIENTAL EN LA EXTRACCIÓN DE MATERIALES
+
+DEL OBJETO
+
+(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO, LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2020 Y SU ACUMULADA 100/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 34.
 
@@ -541,7 +727,9 @@ VI. Poner a disposición de las autoridades competentes, para los efectos del ej
 
 VII. Las demás que señale la Ley y los ordenamientos fiscales aplicables.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN III. DE LA EMISIÓN DE GASES A LA ATMÓSFERA
+
+DEL OBJETO
 
 ###### ARTÍCULO 40.
 
@@ -577,9 +765,9 @@ DE LAS OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-#### SECCIÓN II
+#### SECCIÓN IV. DE LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
 
-DEL IMPUESTO CEDULAR POR LA PRESTACIÓN DE SERVICIOS PROFESIONALES.
+DEL OBJETO
 
 ###### ARTÍCULO 46.
 
@@ -623,7 +811,9 @@ DE LAS OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-#### SECCIÓN III. DEL IMPUESTO CEDULAR POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+#### SECCIÓN V. DEL IMPUESTO AL DEPÓSITO O ALMACENAMIENTO DE RESIDUOS
+
+DEL OBJETO
 
 ###### ARTÍCULO 54.
 
@@ -663,13 +853,15 @@ DE LAS OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-#### SECCIÓN IV. DEL IMPUESTO CEDULAR POR ACTIVIDADES EMPRESARIALES
+#### SECCIÓN VI. ESTÍMULOS
 
 ###### ARTÍCULO 61.
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LOS IMPUESTOS CEDULARES SOBRE INGRESOS DE LAS PERSONAS FÍSICAS
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 62.
 
@@ -686,6 +878,10 @@ DE LAS OBLIGACIONES
 ###### ARTÍCULO 65.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
+
+#### SECCIÓN II
+
+DEL IMPUESTO CEDULAR POR LA PRESTACIÓN DE SERVICIOS PROFESIONALES.
 
 ###### ARTÍCULO 66.
 
@@ -711,6 +907,8 @@ DE LAS OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
+#### SECCIÓN III. DEL IMPUESTO CEDULAR POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
 ###### ARTÍCULO 72.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
@@ -726,6 +924,8 @@ DE LAS OBLIGACIONES
 ###### ARTÍCULO 75.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
+
+#### SECCIÓN IV. DEL IMPUESTO CEDULAR POR ACTIVIDADES EMPRESARIALES
 
 ###### ARTÍCULO 76.
 
@@ -751,9 +951,7 @@ DE LAS OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
-### CAPÍTULO II. DERECHOS POR SERVICIOS DE PROTECCIÓN AMBIENTAL Y DESARROLLO TERRITORIAL
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO VII. DEL IMPUESTO SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES
 
 ###### ARTÍCULO 82.
 
@@ -801,9 +999,7 @@ DE LAS OBLIGACIONES
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO III. DERECHOS POR SERVICIOS DE TRANSPORTE PÚBLICO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO ÚNICO. APORTACIONES DE PARTICULARES
 
 ###### ARTÍCULO 93.
 
@@ -813,9 +1009,7 @@ De los acuerdos o decretos señalados en el párrafo anterior, deberá proporcio
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO IV. DERECHOS POR SERVICIOS DE REGISTRO Y CONTROL VEHICULAR DE TRANSPORTE PARTICULAR
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 94.
 
@@ -913,51 +1107,51 @@ Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, de
 
 Lo dispuesto en el presente artículo, también será aplicable a cualquier órgano del Estado que preste servicios públicos u otorgue el uso, goce, aprovechamiento o explotación de bienes de dominio público que den lugar al pago, con independencia de la denominación que se asigne a este.
 
-### CAPÍTULO V. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN Y RENOVACIÓN DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. DERECHOS POR SERVICIOS DE PROTECCIÓN AMBIENTAL Y DESARROLLO TERRITORIAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 102.
 
 Los derechos que se causen por los Servicios de Protección Ambiental y Desarrollo Territorial, se cubrirán de conformidad con las siguientes:
 
-CUOTAS
+CUOTAS:
 
 I. Por expedición de duplicados, certificados de documentos oficiales y planos:
 
-CONCEPTO CUOTA
+CONCEPTO CUOTA 2021
 
 A) Expedición de copias certificadas de
 
-expedientes, por página. $38.00
+expedientes, por página. $ 39.00
 
 B) Expedición de duplicados simples de
 
-documentos oficiales, por página. $27.00
+documentos oficiales, por página. $ 28.00
 
-C) Heliográficas certificadas de planos,
+C) Heliográficas certificadas de planos, por
 
-por decímetro cuadrado. $5.00
+decímetro cuadrado. $ 5.00
 
 D) Heliográficas simples de planos, por
 
-decímetro cuadrado. $5.00
+decímetro cuadrado. $ 5.00
 
 II. Por dictamen de licencias de aprovechamientos de minerales y sustancias no reservadas a la Federación, se pagarán conforme a lo siguiente:
 
-A) Superficie hasta 3 hectáreas. $19,241.00
+A) Superficie hasta 3 hectáreas. $ 19,818.00
 
 B) Superficie de más de 3 hectáreas
 
-hasta 5 hectáreas. $27,794.00
+hasta 5 hectáreas. $ 28,628.00
 
 C) Superficie de más de 5 hectáreas
 
-hasta 10 hectáreas. $36,347.00
+hasta 10 hectáreas. $ 37,437.00
 
 D) Superficie de más de 10 hectáreas
 
-hasta 50 hectáreas. $45,433.00
+hasta 50 hectáreas. $ 46,796.00
 
 III. Por la expedición de resoluciones correspondientes a las autorizaciones en materia de impacto, riesgo y daño ambiental, por obras y/o actividades de competencia estatal, previstas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, se pagarán conforme a las siguientes cuotas:
 
@@ -967,15 +1161,13 @@ A) De manifestaciones de impacto ambiental
 
 modalidad regional cuando se trate de:
 
-1. Zonas, corredores y parques
+1. Zonas, corredores y parques industriales
 
-industriales de competencia estatal,
+de competencia estatal, obras o actividades
 
-obras o actividades que incluyan
+que incluyan dos o más municipios,
 
-dos o más municipios, proyectos,
-
-conjuntos habitacionales y
+proyectos, conjuntos habitacionales y
 
 desarrollos habitacionales urbanos,
 
@@ -983,283 +1175,263 @@ suburbanos, comerciales e industriales
 
 mayores de 50 hectáreas y en general,
 
-proyectos que alteren de manera
+proyectos que alteren de manera significativa
 
-significativa las cuencas hidrológicas. $50,712.00
+las cuencas hidrológicas. $ 52,233.00
 
-2. Conjunto de proyectos de obras
+2. Conjunto de proyectos de obras y
 
-y actividades que pretendan realizarse
+actividades que pretendan realizarse en
 
-en una región ecológica prioritaria. $50,712.00
+una región ecológica prioritaria. $ 52,233.00
 
-3. Proyectos que pretendan desarrollarse
+3. Proyectos que pretendan desarrollarse en
 
-en sitios en los que por su interacción
+sitios en los que por su interacción con los
 
-con l os (sic) diferentes componentes
+diferentes componentes ambientales
 
-ambientales regionales, se prevean
+regionales, se prevean impactos acumulativos,
 
-impactos acumulativos, sinérgicos o
+sinérgicos o residuales que pudieran ocasionar
 
-residuales que pudieran ocasionar la
+la destrucción, el aislamiento o la fragmentación
 
-destrucción, el aislamiento o la
+de los ecosistemas. $ 52,233.00
 
-fragmentación de los ecosistemas. $50,712.00
+4. Los programas de desarrollo urbano del
 
-4. Los programas de desarrollo
+centro de población o programas
 
-urbano del centro de población o
+parciales de desarrollo y programas de
 
-programas parciales de desarrollo y
-
-programas de ordenamiento ecológico
-
-local. $50,712.00
+ordenamiento ecológico local. $ 52,233.00
 
 B) De manifestación de impacto ambiental
 
 modalidad particular, cuando se trate de:
 
-1. Obras públicas y privadas cuyo
+1. Obras públicas y privadas cuyo propósito
 
-propósito sea la prestación de servicios
+sea la prestación de servicios públicos,
 
-públicos, competencia estatal o municipal. $17,771.00
+competencia estatal o municipal. $ 18,304.00
 
-2. Obras hidráulicas y vías de
+2. Obras hidráulicas y vías de comunicación
 
-comunicación de jurisdicción estatal
+de jurisdicción estatal y municipal. $ 18,304.00
 
-y municipal. $17,771.00
-
-3. Establecimientos industriales. $17,771.00
+3. Establecimientos industriales. $ 18,304.00
 
 4. De explotación, extracción y procesamiento
 
-de minerales de competencia Estatal para
+de minerales de competencia Estatal
 
-la ornamentación o construcción, y trabajos
+para la ornamentación o construcción, y trabajos
 
 que se deriven y se realicen a cielo abierto, en:
 
-a) Superficie hasta 3 hectáreas. $17,771.00
+a) Superficie hasta 3 hectáreas. $ 18,304.00
 
 b) Superficie de más de 3 hectáreas
 
-hasta 5 hectáreas. $27,794.00
+hasta 5 hectáreas. $ 28,628.00
 
 c) Superficie de más de 5 hectáreas
 
-hasta 10 hectáreas. $36,347.00
+hasta 10 hectáreas. $ 37,437.00
 
 d) Superficie de más de 10 hectáreas
 
-hasta lo indicado en la modalidad regional $45,433.00
+hasta lo indicado en la modalidad regional. $ 46,796.00
 
-5. De desarrollos turísticos, recreativos
+5. De desarrollos turísticos, recreativos y
 
-y deportivos, ya sean públicos o privados en:
+deportivos, ya sean públicos o privados en:
 
-a) Superficie hasta 3 hectáreas. $17,771.00
+a) Superficie hasta 3 hectáreas. $ 18,304.00
 
 b) Superficie de más de 3 hectáreas
 
-hasta 5 hectáreas. $27,794.00
+hasta 5 hectáreas. $ 28,628.00
 
 c) Superficie de más de 5 hectáreas
 
-hasta 10 hectáreas. $36,347.00
+hasta 10 hectáreas. $ 37,437.00
 
 d) Superficie de más de 10 hectáreas
 
-hasta lo indicado en la modalidad regional. $45,433.00
+hasta lo indicado en la modalidad regional. $ 46,796.00
 
-6. De desarrollo de fraccionamientos,
+6. De desarrollo de fraccionamientos, conjuntos
 
-conjuntos habitacionales y nuevos centros
+habitacionales y nuevos centros de población en:
 
-de población en:
+a) Superficie de hasta 1 hectárea. $ 18,304.00
 
-a) Superficie de hasta 1 hectárea. $17,771.00
+b) Superficie de más de 1 y hasta 5 hectáreas. $ 28,628.00
 
-b) Superficie de más de 1 y
+c) Superficie de más de 5 y hasta 10 hectáreas. $ 37,437.00
 
-hasta 5 hectáreas. $27,794.00
+d) Superficie de más de 10 hectáreas y hasta lo
 
-c) Superficie de más de 5 y hasta
+indicado en la modalidad regional. $ 46,796.00
 
-10 hectáreas. $36,347.00
+En el caso de los fraccionamientos referidos
 
-d) Superficie de más de 10 hectáreas y
+en los subincisos a), b), c) y d) del numeral 6.
 
-hasta lo indicado en la modalidad regional. $45,433.00
+inmediato anterior, que sean atendidos a través
 
-En el caso de los fraccionamientos
+del Programa Estatal de Atención a Asentamientos
 
-referidos en los subincisos a), b), c) y d)
+Humanos, a cargo de la Secretaría de Medio
 
-del numeral 6. inmediato anterior, que sean
+Ambiente, Cambio Climático y Desarrollo
 
-atendidos a través del Programa Estatal de
+Territorial, se exentará de su pago, siempre y
 
-Atención a Asentamientos Humanos, a cargo
+cuando la superficie de tierra sea propiedad
 
-de la Secretaría de Medio Ambiente, Cambio
+Estatal o Municipal.En (sic) los casos en que la
 
-Climático y Desarrollo Territorial, se exentará
+superficie sea propiedad de alguna asociación o
 
-de su pago, siempre y cuando la superficie
+de un particular, sólo se cobrará el 5 por ciento
 
-de tierra sea propiedad Estatal o Municipal.
+de la cuota establecida en dichos subincisos,
 
-En los casos en que la superficie sea
+previa comprobación ante la Secretaría de
 
-propiedad de alguna asociación o de un
-
-particular, sólo se cobrará el 5 por ciento
-
-de la cuota establecida en dichos
-
-subincisos, previa comprobación ante la
-
-Secretaría de Finanzas y Administración.
+Finanzas y Administración.
 
 7. De obras en superficies de las áreas
 
 naturales protegidas, de las zonas de
 
-restauración y protección ambiental, de
+restauración y protección ambiental, de las áreas
 
-las áreas voluntarias para la conservación,
+voluntarias para la conservación, de las áreas
 
-de las áreas de jurisdicción federal que
+de jurisdicción federal que por virtud de
 
-por virtud de convenios sean objeto de
+convenios sean objeto de atención de la
 
-atención de la Secretaría de Medio
+Secretaría de Medio Ambiente, Cambio
 
-Ambiente, Cambio Climático y Desarrollo
+Climático y Desarrollo Territorial, que constituyen
 
-Territorial, que constituyen en su conjunto
+en su conjunto el "Sistema Estatal de Áreas
 
-el “Sistema Estatal de Áreas para la
-
-Conservación del Patrimonio Natural”. $23,849.00
+para la Conservación del Patrimonio Natural". $ 24,564.00
 
 8. De instalación, construcción y
 
-habilitación de las instalaciones de
+habilitación de las instalaciones
 
-fuentes emisoras de radiaciones
+de fuentes emisoras de radiaciones
 
-electromagnéticas. $15,382.00
+electromagnéticas. $ 15,843.00
 
-C) De estudio de riesgo ambiental. $15,382.00
+C) De estudio de riesgo ambiental. $ 15,843.00
 
-D) De informe preventivo. $8,095.00
+D) De informe preventivo. $ 8,338.00
 
-E) Por la expedición de opinión técnica
+E) Por la expedición de opinión técnica de
 
-de excepción en materia de impacto
+excepción en materia de impacto y riesgo
 
-y riesgo ambiental en cualquiera de sus
+ambiental en cualquiera de sus modalidades:
 
-modalidades.
+1. De 1 a 10 opiniones técnicas por solicitud: $ 884.00
 
-1. De 1 a 10 opiniones técnicas por solicitud: $858.00
-
-2. De 11 a 20 opiniones técnicas por solicitud: $1,716.00
+2. De 11 a 20 opiniones técnicas por solicitud: $ 1,767.00
 
 En caso de que las obras o actividades
 
-referidas en los incisos A) y B) de esta fracción,
+referidas en los incisos A) y B) de esta
 
-requieran un estudio preliminar de riesgo,
+fracción, requieran un estudio preliminar
 
-se pagará un 20 por ciento adicional del
+de riesgo, se pagará un 20 por ciento adicional
 
-monto establecido.
+del monto establecido.
 
 IV. Por el registro de generador de residuos
 
-de manejo especial, persona física o moral: $3,621.00
+de manejo especial, persona física o moral: $ 3,730.00
 
-V. Por el registro como gestor de residuos
+V. Por el registro como gestor de residuos de
 
-de manejo especial: $7,240.00
+manejo especial: $ 7,457.00
 
 VI. Por autorización de planes de manejo
 
-para residuos de manejo especial: $3,621.00
+para residuos de manejo especial: $ 3,730.00
 
 VII. Por el dictamen de expedición de
 
 expedientes de Licencias Ambientales
 
-Únicas para fuentes fijas de jurisdicción estatal. $8,018.00
+Únicas para fuentes fijas de jurisdicción estatal. $ 8,259.00
 
-VIII. Por dictamen de actualización
+VIII. Por dictamen de actualización de
 
-de expedientes de Licencias Ambientales
+expedientes de Licencias Ambientales Únicas,
 
-Únicas, mediante cédula de operación
+mediante cédula de operación anual para
 
-anual para fuentes fijas de jurisdicción
+fuentes fijas de jurisdicción estatal por
 
-estatal por aumento de producción, cambios
+aumento de producción, cambios en el
 
-en el proceso, actualización de equipo o
+proceso, actualización de equipo o ampliación
 
-ampliación en las instalaciones. $4,009.00
+en las instalaciones. $ 4,129.00
 
 IX. Por dictamen de refrendo de
 
-expedientes de Licencias Ambientales
+expedientes de Licencias Ambientales Únicas,
 
-Únicas, mediante cédula de operación
+mediante cédula de operación anual para
 
-anual para fuentes fijas de jurisdicción
+fuentes fijas de jurisdicción estatal; o por
 
-estatal; o por aumento de producción,
+aumento de producción, cambios en
 
-cambios en el proceso, actualización de
+el proceso, actualización de equipo o
 
-equipo o ampliación en las instalaciones. $1,545.00
+ampliación en las instalaciones. $ 1,591.00
 
-X. Por la validación de dictámenes
+X. Por la validación de dictámenes de
 
-de daño ambiental. En el caso de los
+daño ambiental. En el caso de los
 
-fraccionamientos referidos en esta
+fraccionamientos referidos en esta fracción,
 
-fracción, que sean atendidos a través
+que sean atendidos a través del Programa
 
-del Programa Estatal de Atención a
+Estatal de Atención a Asentamientos Humanos,
 
-Asentamientos Humanos, a cargo de la
+a cargo de la Secretaría de Medio Ambiente,
 
-Secretaría de Medio Ambiente, Cambio
+Cambio Climático y Desarrollo Territorial,
 
-Climático y Desarrollo Territorial, se
+se exentará de su pago, siempre y cuando
 
-exentará de su pago, siempre y cuando
+la superficie de tierra sea propiedad Estatal o
 
-la superficie de tierra sea propiedad Estatal
+Municipal.En (sic) los casos en que dicha
 
-o Municipal. En los casos en que dicha
+superficie sea propiedad de alguna asociación o
 
-superficie sea propiedad de alguna asociación
+de un particular, sólo se cobrará el 5 por ciento
 
-o de un particular, sólo se cobrará el 5 por
+de la cuota establecida en esta misma fracción,
 
-ciento de la cuota establecida en esta misma
+previa comprobación ante la Secretaría de
 
-fracción, previa comprobación ante la
-
-Secretaría de Finanzas y Administración. $7,196.00
+Finanzas y Administración. $ 7,412.00
 
 XI. Por la expedición de cada constancia o
 
@@ -1269,23 +1441,123 @@ Medio Ambiente, Cambio Climático y Desarrollo
 
 Territorial, de las áreas voluntarias para la
 
-conservación, que constituyen el “Sistema
+conservación, que constituyen el "Sistema
 
 Estatal de Áreas para la Conservación del
 
-Patrimonio Natural”. $200.00
+Patrimonio Natural". $ 206.00
 
-XII. Por el otorgamiento de permisos,
+XII. Por el otorgamiento de permisos, licencias,
 
-licencias, concesiones o en general
+concesiones o en general cualquier
 
-cualquier autorización para la exploración,
+autorización para la exploración, explotación
 
-explotación o aprovechamiento de recursos
+o aprovechamiento de recursos de las áreas
 
-de las áreas naturales protegidas, de las
+naturales protegidas, de las zonas de
 
-zonas de restauración y protección
+restauración y protección ambiental, de las
+
+áreas voluntarias para la conservación, de las
+
+áreas de jurisdicción federal que por virtud de
+
+convenios sean objeto de atención de la
+
+Secretaría de Medio Ambiente, Cambio
+
+Climático y Desarrollo Territorial, las que
+
+constituyen en su conjunto el "Sistema Estatal
+
+de Áreas para la Conservación del Patrimonio
+
+Natural", siempre y cuando el plan o
+
+programa de manejo respectivo permita
+
+realizar dichas actividades, se pagarán derechos
+
+conforme a las siguientes cuotas:
+
+A) Por el otorgamiento de la concesión,
+
+anualmente. $ 6,108.00
+
+B) Por el otorgamiento de cada permiso. $ 612.00
+
+C) Por el deslinde y levantamiento topográfico
+
+de la zona sujeta a concesión, por metro cuadrado:
+
+1. Hasta 500 metros. $ 714.00
+
+2. De 501 a 1,000 metros. $ 919.00
+
+3. De 1,001 metros en adelante. $ 1,020.00
+
+Cuando en la zona sujeta a concesión a
+
+que se refiere el inciso C), se realicen actividades
+
+turísticas o urbanísticas se pagará adicionalmente
+
+el 50 por ciento del monto señalado en los
+
+numerales 1, 2 y 3 anteriores.
+
+D) Por el otorgamiento de permisos para
+
+prestadores de servicios turísticos, por temporada:
+
+1. Por unidad de transporte terrestre:
+
+a) Motorizada. $ 612.00
+
+b) No motorizada. $ 206.00
+
+2. Por unidad de transporte acuática,
+
+subacuática o anfibia:
+
+a) Embarcaciones hasta de 12 metros de eslora,
+
+incluyendo vehículos o aparatos sumergibles o
+
+anfibios, tablas de oleaje y sus equivalentes. $ 612.00
+
+b) Embarcaciones mayores de 12 metros de
+
+eslora, incluyendo vehículos o aparatos
+
+sumergibles, tablas de oleaje y sus equivalentes. $ 12,213.00
+
+c) Motocicletas acuáticas y subacuáticas
+
+y demás aparatos motorizados equivalentes,
+
+diferentes a los enunciados en los subincisos
+
+a) y b) de este numeral 2. $ 919.00
+
+E) Otros vehículos distintos a los señalados
+
+en el inciso D) anterior. $ 413.00
+
+Estos derechos se pagarán independientemente
+
+de los que correspondan conforme a la fracción
+
+XIV del presente artículo.
+
+XIII. Por la filmación, video grabación (sic) y
+
+tomas geográficas con fines comerciales
+
+dentro de las áreas naturales protegidas, de
+
+las zonas de restauración y protección
 
 ambiental, de las áreas voluntarias para la
 
@@ -1297,213 +1569,97 @@ objeto de atención de la Secretaría de
 
 Medio Ambiente, Cambio Climático y
 
-Desarrollo Territorial, las que constituyen
+Desarrollo Territorial, que constituyen en
 
-en su conjunto el “Sistema Estatal de Áreas
+su conjunto el "Sistema Estatal de Áreas
 
-para la Conservación del Patrimonio Natural”,
+para la Conservación del Patrimonio Natural",
 
-siempre y cuando el plan o programa de
+siempre y cuando cuenten con la certificación
 
-manejo respectivo permita realizar
+de esta calidad, otorgada por la autoridad
 
-dichas actividades, se pagarán derechos
+responsable, previa presentación de la
 
-conforme a las siguientes cuotas:
+documentación correspondiente, y realicen
 
-A) Por el otorgamiento de la concesión,
+actividades recreativas sin fines de lucro.
 
-anualmente. $5,930.00
+A) Por día. $ 5,089.00
 
-B) Por el otorgamiento de cada permiso. $594.00
+B) Por cada 7 días, no fraccionables. $ 25,442.00
 
-C) Por el deslinde y levantamiento
+No se pagará el derecho establecido en
 
-topográfico de la zona sujeta a concesión,
+esta fracción, cuando se trate de fotografías,
 
-por metro cuadrado:
+filmaciones y video grabaciones (sic) con
 
-1. Hasta 500 metros. $693.00
+carácter científico y cultural, siempre y
 
-2. De 501 a 1,000 metros. $892.00
+cuando se acredite dicha calidad ante la
 
-3. De 1,001 metros en adelante. $990.00
+autoridad competente.
 
-Cuando en la zona sujeta a concesión a
+XIV. Por el uso o aprovechamiento no extractivo
 
-que se refiere el inciso C), se realicen
+de elementos naturales y escénicos que se
 
-actividades turísticas o urbanísticas se
+realizan dentro de las áreas naturales
 
-pagará adicionalmente el 50 por ciento del
+protegidas, de las zonas de restauración y
 
-monto señalado en los numerales 1, 2 y 3
+protección ambiental, de las áreas voluntarias
 
-anteriores.
-
-D) Por el otorgamiento de permisos para
-
-prestadores de servicios turísticos,
-
-por temporada:
-
-1. Por unidad de transporte terrestre:
-
-a) Motorizada. $594.00
-
-b) No motorizada. $200.00
-
-2. Por unidad de transporte acuática,
-
-subacuática o anfibia:
-
-a) Embarcaciones hasta de 12 metros
-
-de eslora, incluyendo vehículos o aparatos
-
-sumergibles o anfibios, tablas de oleaje y
-
-sus equivalentes. $594.00
-
-b) Embarcaciones mayores de 12 metros
-
-de eslora, incluyendo vehículos o aparatos
-
-sumergibles, tablas de oleaje y sus equivalentes. $11,857.00
-
-c) Motocicletas acuáticas y subacuáticas
-
-y demás aparatos motorizados equivalentes,
-
-diferentes a los enunciados en los subincisos
-
-a) y b) de este numeral 2. $892.00
-
-E) Otros vehículos distintos a los señalados
-
-en el inciso D) anterior. $401.00
-
-Estos derechos se pagarán independientemente
-
-de los que correspondan conforme a la fracción
-
-XIV del presente artículo.
-
-XIII. Por la filmación, video grabación
-
-y tomas geográficas con fines comerciales
-
-dentro de las áreas naturales protegidas,
-
-de las zonas de restauración y protección
-
-ambiental, de las áreas voluntarias para la
-
-conservación, de las áreas de jurisdicción
-
-federal que por virtud de convenios sean
-
-objeto de atención de la Secretaría de
-
-Medio Ambiente, Cambio Climático y Desarrollo
-
-Territorial, que constituyen en su conjunto el
-
-“Sistema Estatal de Áreas para la Conservación
-
-del Patrimonio Natural”, siempre y cuando
-
-cuenten con la certificación de esta calidad,
-
-otorgada por la autoridad responsable, previa
-
-presentación de la documentación
-
-correspondiente, y realicen actividades
-
-recreativas sin fines de lucro.
-
-A) Por día. $4,941.00
-
-B) Por cada 7 días, no fraccionables. $24,701.00
-
-No se pagará el derecho establecido
-
-en esta fracción, cuando se trate de
-
-fotografías, filmaciones y video grabaciones
-
-con carácter científico y cultural, siempre
-
-y cuando se demuestre dicha calidad ante
-
-la autoridad competente.
-
-XIV. Por el uso o aprovechamiento no
-
-extractivo de elementos naturales y
-
-escénicos que se realizan dentro de
-
-las áreas naturales protegidas, de las
-
-zonas de restauración y protección
-
-ambiental, de las áreas voluntarias para
-
-la conservación, de las áreas de
+para la conservación, de las áreas de
 
 jurisdicción federal que por virtud de
 
-convenios sean objeto de atención de
+convenios sean objeto de atención de la
 
-la Secretaría de Medio Ambiente,
+Secretaría de Medio Ambiente, Cambio
 
-Cambio Climático y Desarrollo Territorial,
+Climático y Desarrollo Territorial, que
 
-que constituyen en su conjunto el
+constituyen en su conjunto el "Sistema Estatal
 
-“Sistema Estatal de Áreas para la
+de Áreas para la Conservación del Patrimonio
 
-Conservación del Patrimonio Natural”,
+Natural", derivado de las actividades turísticas,
 
-derivado de las actividades turísticas,
+deportivas y recreativas, siempre y cuando el plan
 
-deportivas y recreativas, siempre y cuando
+o programa de manejo respectivo permita realizar
 
-el plan o programa de manejo respectivo
+dichas actividades, pagarán este derecho
 
-permita realizar dichas actividades, pagarán
+conforme a las siguientes cuotas:
 
-este derecho conforme a las siguientes cuotas:
+A) Por persona diariamente, por cada área para
 
-A) Por persona diariamente, por cada
+la conservación del patrimonio natural. $ 16.00
 
-área para la conservación del
+B) Las personas podrán optar por pagar el
 
-patrimonio natural. $16.00
+derecho a que se refiere esta fracción,
 
-B) Las personas podrán optar por pagar
+anualmente por cada persona, por todas
 
-el derecho a que se refiere esta fracción,
+las áreas para la conservación del patrimonio
 
-anualmente por cada persona, por
-
-todas las áreas para la conservación del
-
-patrimonio natural. $402.00
+natural. $ 414.00
 
 La obligación del pago de los derechos previstos en los incisos A) y B) de esta fracción será de los titulares de los permisos, licencias, concesiones o en general cualquier autorización para la exploración, explotación o aprovechamientos de los recursos. En los casos en que las actividades a las que se refieren los incisos A) y B) de esta fracción, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
 No pagarán los derechos a que se refieren los incisos A) y B) de esta fracción, los residentes permanentes de las localidades contiguas a las áreas naturales protegidas, de las zonas de restauración y protección ambiental, de las áreas voluntarias para la conservación, de las áreas de jurisdicción federal que por virtud de convenios sean objeto de atención de la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, que constituyen en su conjunto el "Sistema Estatal de Áreas para la Conservación del Patrimonio Natural", siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
 
-Estarán exentos del pago de los derechos a que se refieren los incisos A) y B) de esta fracción los mayores de 60 años con documentos que lo acrediten como personas adultas mayores y las personas con discapacidad y situación de vulnerabilidad.
+Estarán exentos del pago de los derechos a que se refieren los incisos A) y B) de esta fracción los mayores de 60 años con documentos que lo (sic) acrediten como personas adultas mayores y las personas con discapacidad y situación de vulnerabilidad.
 
 El pago del derecho a que se refiere este artículo, no exime a los obligados en el cumplimiento de las obligaciones que pudieran adquirir con los propietarios o legítimos poseedores de los terrenos que se encuentran dentro de las áreas para la conservación del patrimonio natural, de carácter estatal.
 
-### CAPÍTULO VI. DERECHOS POR SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO III. DERECHOS POR SERVICIOS DE TRANSPORTE PÚBLICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 103.
 
@@ -1525,9 +1681,11 @@ otros servicios; foráneo de primera y segunda
 
 clase; autotransporte mixto (pasaje y carga);
 
-colectivo foráneo; y colectivo suburbano. $18,744.00
+colectivo foráneo; y colectivo suburbano. $ 19,306.00
 
-B) Colectivo urbano y turismo. $18,744.00
+B) Colectivo urbano y turismo. $ 19,306.00
+
+C) Servicio de Grúa $ 20,000.00
 
 En ningún caso se autorizará el cambio de vehículo, por concesión, en un término menor a seis meses, a menos que se de algún caso fortuito.
 
@@ -1537,43 +1695,21 @@ A) De autotransporte foráneo, colectivo foráneo y suburbano, como sigue:
 
 CONCEPTO CUOTA
 
-1. Autotransporte de pasajeros foráneo
+1. Autotransporte de pasajeros foráneo de
 
-de primera clase. $1,205.00
+primera clase. $ 1,241.00
 
 2. Autotransporte de pasajeros foráneo de
 
-segunda clase, suburbano y mixto. $1,205.00
+segunda clase, suburbano y mixto. $ 1,241.00
 
-3. Autotransporte colectivo foráneo y
+3. Autotransporte colectivo foráneo y colectivo
 
-colectivo suburbano. $604.00
+suburbano. $ 622.00
 
 B) De autotransporte urbano, atendiendo a la clasificación de poblaciones o localidades, como sigue:
 
-TIPO DE CONCESIONES GRUPO GRUPO GRUPO UNO DOS TRES
-
-1. Auto de alquiler. $2,477.00 $1,249.00 $723.00
-
-2. Camión urbano y
-
-suburbano. $1,249.00 $686.00 $372.00
-
-3. Colectivo urbano,
-
-escolar y turismo. $3,307.00 $1,668.00 $844.00
-
-4. Materiales para
-
-construcción,
-
-carga en general,
-
-servicio de grúa y pipa. $1,668.00 $844.00 $434.00
-
-5. Carga ligera y
-
-otros servicios. $1,460.00 $768.00 $434.00
+> <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 10.]</small>
 
 Para efectos de aplicación de la cuota a que se refiere el inciso B) de esta fracción, se atenderá a la clasificación de localidades del Estado, en los siguientes grupos:
 
@@ -1589,21 +1725,21 @@ CONCEPTOS CUOTA
 
 A) Por la expedición de constancias de
 
-prestación de servicio público estatal. $434.00
+prestación de servicio público estatal. $ 447.00
 
-B) Por la expedición de copias certificadas
+B) Por la expedición de copias certificadas de
 
-de expedientes de concesión, por página. $303.00
+expedientes de concesión, por página. $ 312.00
 
 C) Por la expedición de permisos emergentes
 
-de servicio público, por cada mes de vigencia. $824.00
+de servicio público, por cada mes de vigencia. $ 849.00
 
-D) Por reexpedición o reposición de título de
+D) Por reexpedición o reposición de título
 
-concesión, previos requisitos que deber
+de concesión, previos requisitos que deberá
 
-cumplir el concesionario. $3,006.00
+cumplir el concesionario. $ 3,096.00
 
 E) Por la transferencia del título de concesión
 
@@ -1611,33 +1747,37 @@ de servicio público de autotransporte urbano
 
 y foráneo, entre personas físicas, incluyendo
 
-título de concesión y previo cumplimiento de
+título de concesión y previo cumplimiento
 
-lo dispuesto por la normatividad correspondiente,
+de lo dispuesto por la normatividad
 
-exceptuándose el transporte escolar. $18,744.00
+correspondiente, exceptuándose el
 
-F) Transferencia de Concesión de transporte público
+transporte escolar. $ 19,306.00
 
-por Sucesión, incluyendo título de concesión,
+F) Transferencia de Concesión de transporte
 
-conforme a la normatividad correspondiente. $5,953.00
+público por Sucesión, incluyendo título de
+
+concesión, conforme a la normatividad
+
+correspondiente. $ 6,132.00
 
 G) Cambio de modalidad de Concesión de
 
-trasporte (sic) público, incluyendo título de
+trasporte público, incluyendo título de
 
 concesión conforme a la normatividad
 
-correspondiente, $9,852.00
+correspondiente, $ 10,148.00
 
 H) Cambio de adscripción conforme a la
 
-clasificación de localidades referida en este
+clasificación de localidades referida en
 
-artículo, y a la normatividad correspondiente,
+este artículo, y a la normatividad correspondiente,
 
-incluyendo título de concesión. $9,852.00
+incluyendo título de concesión. $ 10,148.00
 
 IV. Los servicios de registro y control vehicular, tratándose de vehículos destinados al servicio de transporte público en el Estado, causarán derechos que se pagarán conforme a las siguientes:
 
@@ -1645,109 +1785,101 @@ CONCEPTOS CUOTA
 
 A) Por cada juego de placas, incluyendo
 
-tarjeta de circulación. Por la reposición
+tarjeta de circulación.
 
-de placas, en caso de extravío, robo o
+Por la reposición de placas, en caso de
 
-deterioro, se pagarán las mismas cuotas
+extravío, robo o deterioro, se pagarán las
 
-aplicables por la dotación original,
+mismas cuotas aplicables por la dotación
 
-previos requisitos que deberá cumplir
+original, previos requisitos que deberá cumplir
 
-el concesionario. En el caso de extravío
+el concesionario.
 
-o robo, deberá presentarse copia de la
+En el caso de extravío o robo, deberá
 
-denuncia interpuesta ante el Ministerio
+presentarse copia de la denuncia
 
-Público y el certificado de no infracción
+interpuesta ante el Ministerio Público y
 
-correspondiente. $1,621.00
+el certificado de no infracción correspondiente. $ 1,670.00
 
-B) Por holograma de circulación, o
+B) Por holograma de circulación, o refrendo
 
-refrendo anual de calcomanía de
+anual de calcomanía de circulación, previo
 
-circulación, previo cumplimiento de
+cumplimiento de los requisitos que se establezcan. $ 926.00
 
-los requisitos que se establezcan. $899.00
+C) Por la emisión anual o reposición de tarjeta
 
-C) Por la emisión anual o reposición
+de circulación o de tarjeta de control de
 
-de tarjeta de circulación o de tarjeta
+autotransporte en caso de extravío, robo o
 
-de control de autotransporte en caso de
+deterioro así como por cambio de vehículo.
 
-extravío, robo o deterioro así como por
+En el caso de extravío o robo, deberá presentarse
 
-cambio de vehículo. En el caso de extravío
+copia de la denuncia interpuesta ante el
 
-o robo, deberá presentarse copia de la
+Ministerio Público y el certificado de no infracción
 
-denuncia interpuesta ante el Ministerio
-
-Público y el certificado de no infracción
-
-correspondiente. $325.00
+correspondiente. $ 335.00
 
 D) Por la expedición de constancias de
 
-baja de vehículos del Registro Estatal
+baja de vehículos del Registro Estatal Vehicular
 
-Vehicular de Servicio Público. $515.00
+de Servicio Público. $ 530.00
 
-E) Por la expedición de constancias
+E) Por la expedición de constancias que
 
-que acrediten el uso de vehículos en el
+acrediten el uso de vehículos en el servicio
 
-servicio público estatal. $673.00
+público estatal. $ 693.00
 
 F) Por baja de vehículo del servicio público,
 
 por cambio de unidad, por robo o destrucción,
 
-previos requisitos que deberá cumplir el
+previos requisitos que deberá cumplir
 
-concesionario. $673.00
+el concesionario. $ 693.00
 
-V. Por la expedición de permisos para servicios
-
-de transporte escolar y para empresas que prestan
-
-el servicio de transporte a su personal.
+V. Por la expedición de permisos para servicios de transporte escolar y para empresas que prestan el servicio de transporte a su personal.
 
 Tipo Servicio: CUOTA
 
 A) Por expedición de permiso de Servicio
 
-de Transporte Escolar. $5,000.00
+de Transporte Escolar. $ 5,150.00
 
 B) Por renovación mensual de permiso de
 
-servicio de Transporte Escolar. $100.00
+servicio de Transporte Escolar. $ 103.00
 
 C) Por expedición de permiso de Servicios
 
 de Transporte de Personal, (de empresas que
 
-cuenten con dicho servicio, mismas que no
+cuenten con dicho servicio, mismas que no son
 
-son de servicio público). $5,000.00
+de servicio público). $ 5,150.00
 
-D) Renovación mensual de permiso de Servicios
+D) Renovación mensual de permiso de
 
-de Transporte de Personal. $100.00
+Servicios de Transporte de Personal. $ 103.00
 
 VI. Por registro del ingreso a la plataforma informática, para concesionarios de autos de alquiler:
 
 Tipo Servicio: CUOTA
 
-A) Por ingreso a la Plataforma informática,
+A) Por ingreso a la Plataforma informática, se
 
-se realizará un pago único de: $1,000.00
+realizará un pago único de: $ 1,030.00
 
-B) Por mantenimiento anual de Plataforma $400.00
+B) Por mantenimiento anual de Plataforma: $ 412.00
 
 Sólo serán materia en el registro en las plataformas, las personas que cuenten con la concesión correspondiente para prestar el servicio de transporte público y se encuentren regularizados en sus pagos.
 
@@ -1755,27 +1887,29 @@ VII. Expedición de certificado de interés particular, mediante el cual se hace
 
 CONCEPTOS CUOTA
 
-A) Por servicio ordinario. $187.00
+A) Por servicio ordinario. $ 193.00
 
-B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
+B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 VIII. Por la validación de documentos para regularizar vehículos automotores:
 
-CONCEPTOS CUOTA 2020
+CONCEPTOS CUOTA 2021
 
-A) Por validación de pagos relacionados con la
+A) Por validación de pagos relacionados
 
-posesión del vehículo, cuando éste provenga
+con la posesión del vehículo, cuando éste
 
-de otra entidad federativa. $213.00
+provenga de otra entidad federativa. $ 219.00
 
-B) Por validación de Pedimentos de Importación
+B) Por validación de Pedimentos de
 
-de vehículos de procedencia extranjera. $213.00
+Importación de vehículos de procedencia
 
-### CAPÍTULO VII. DERECHOS POR SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
+extranjera. $ 219.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO IV. DERECHOS POR SERVICIOS DE REGISTRO Y CONTROL VEHICULAR DE TRANSPORTE PARTICULAR
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 104.
 
@@ -1789,17 +1923,15 @@ A) Por cada juego de placas para autobuses,
 
 camiones, camionetas, automóviles y pipas,
 
-incluyendo tarjeta de circulación. $1,670.00
+incluyendo tarjeta de circulación. $ 1,720.00
 
-En el caso de transportes de carga,
+En el caso de transportes de carga, en la tarjeta
 
-en la tarjeta de circulación correspondiente,
+de circulación correspondiente, se entenderá
 
-se entenderá comprendido el permiso de carga,
+comprendido el permiso de carga, según los
 
-según los bienes que se transporten en
-
-cada caso.
+bienes que se transporten en cada caso.
 
 B) Por cada juego de placas para autobuses,
 
@@ -1807,97 +1939,85 @@ camiones, camionetas, automóviles y pipas,
 
 incluyendo tarjeta de circulación, en el que se
 
-solicite un número específico. Los derechos a
+solicite un número específico.Los (sic) derechos
 
-que se refiere el párrafo anterior, se pagarán
+a que se refiere el párrafo anterior, se pagarán
 
-previamente a la prestación del servicio. La
+previamente a la prestación del servicio.
 
-entrega de las placas señaladas se realizará
+La entrega de las placas señaladas se
 
-transcurridos 4 días hábiles, después de efectuado
+realizará transcurridos 4 días hábiles, después
 
-el pago. En caso de no existir el número de placas
+de efectuado el pago. $ 2,500.00
 
-solicitado, transcurrido el plazo señalado, se
+C) Por cada juego de placas, incluyendo
 
-reintegraraì (sic) el monto pagado. $3,124.00
+tarjeta de circulación para vehículos de servicio
 
-C) Por cada juego de placas, incluyendo tarjeta
+particular adaptados, o de uso para personas
 
-de circulación para vehículos de servicio
+con discapacidad, pagarán el 50 por ciento de
 
-particular adaptados, o de uso para personas con
-
-discapacidad, pagarán el 50 por ciento de lo
-
-señalado en el inciso A) de esta fracción, de
+lo señalado en el inciso A) de esta fracción, de
 
 conformidad con lo dispuesto por el Artículo 65°
 
-de la Ley para la Inclusión de las Personas con
+de la Ley para la Inclusión de las Personas
 
-Discapacidad en el Estado de Michoacán
+con Discapacidad en el Estado de Michoacán
 
-de Ocampo. $835.00
+de Ocampo. $ 860.00
 
 D) Por cada juego de placas para remolque,
 
-incluyendo tarjeta de circulación. $934.00
+incluyendo tarjeta de circulación. $ 962.00
 
 E) Por cada placa para motocicletas y cuatrimotos,
 
-incluyendo tarjeta de circulación. $504.00
+incluyendo tarjeta de circulación. $ 519.00
 
 F) Por cada juego de placas para demostración,
 
-incluyendo tarjeta de circulación. $1,906.00
+incluyendo tarjeta de circulación. $ 1,963.00
 
-G) Por la reposición de placas, por extravío,
+G) Por la reposición de placas, por extravío, robo, deterioro o destrucción, se pagarán las mismas cuotas establecidas en los incisos A), B), C), D), E) y F) de esta fracción, según corresponda.En (sic) el caso de extravío o robo, deberá presentarse copia de la denuncia interpuesta ante el Ministerio Público y la carta de no infracción correspondiente.
 
-robo, deterioro o destrucción, se pagarán las
+Las personas físicas o morales que enajenen motocicletas o cuatrimotos, estarán obligadas a realizar la entrega de las mismas emplacadas y previo pago del refrendo correspondiente, debiendo, en su caso, trasladar el costo al adquirente, en el entendido de que serán responsables solidarios de este último en caso de omisión. Para tal efecto las personas físicas o morales que enajenen los vehículos señalados en el presente párrafo, podrán solicitar autorización ante la autoridad competente para poder llevar (sic) cabo el trámite a cargo del adquirente del vehículo.
 
-mismas cuotas establecidas en los incisos
+Quien circule en motocicletas o cuatrimotos que no cuenten con placa serán sancionados con una multa de 10 UMAS y se remitirá el vehículo al corralón.
 
-A), B), C), D), E) y F) de esta fracción, según
-
-corresponda. En el caso de extravío o robo,
-
-deberá presentarse copia de la denuncia
-
-interpuesta ante el Ministerio Público y la carta
-
-de no infracción correspondiente.
-
-II. Por holograma de circulación, o refrendo anual de calcomanía de circulación
+II. Por holograma de circulación, o refrendo anual de calcomanía de circulación:
 
 CONCEPTO CUOTA
 
 A) Para autobuses, camiones, camionetas,
 
-automóviles y pipas. $926.00
+automóviles y pipas. $ 954.00
 
-B) Para vehículos de servicio particular adaptados
+B) Para vehículos de servicio particular
 
-o de uso para personas con discapacidad, pagarán
+adaptados o de uso para personas con
 
-el 50 por ciento de lo señalado en el inciso A) de
+discapacidad, pagarán el 50 por ciento de
 
-esta fracción, de conformidad con lo dispuesto por
+lo señalado en el inciso A) de esta fracción,
 
-el artículo 65 de la Ley para la Inclusión de las
+de conformidad con lo dispuesto por el artículo 65
 
-Personas con Discapacidad en el Estado de
+de la Ley para la Inclusión de las Personas
 
-Michoacán de Ocampo. $464.00
+con Discapacidad en el Estado de Michoacán
 
-C) Por refrendo de tarjeta de circulación tratándose
+de Ocampo. $ 478.00
 
-de placas de demostración. $1,058.00
+C) Por refrendo de tarjeta de circulación
 
-D) Para remolques. $465.00
+tratándose de placas de demostración. $ 1,090.00
 
-E) Para motocicletas. $299.00
+D) Para remolques. $ 479.00
+
+E) Para motocicletas. $ 308.00
 
 III. Por registro de bajas de vehículos automotores, conforme a lo establecido por el artículo 110, fracción VI de esta Ley:
 
@@ -1905,63 +2025,59 @@ CONCEPTO CUOTA
 
 A) De autobuses, camiones, camionetas,
 
-automóviles y pipas. $468.00
+automóviles y pipas. $ 482.00
 
-B) De motocicletas y remolques. $230.00
+B) De motocicletas y remolques. $ 237.00
 
-IV. Por la emisión o reposición de tarjetas de circulación por deterioro, cambio de propietario, extravío o cambio de tipo de vehículo:
+IV. Por la emisión anual o reposición de tarjetas de circulación por deterioro, cambio de propietario, extravío o cambio de tipo de vehículo:
 
 CONCEPTO CUOTA
 
 A) Para autobuses, camiones, camionetas,
 
-automóviles, pipas, demostración y remolques. $337.00
+automóviles, pipas, demostración y remolques. $ 347.00
 
-B) Para motocicletas y cuatrimotos. $193.00
+B) Para motocicletas y cuatrimotos. $ 199.00
 
 V. Permisos de circulación:
 
 CONCEPTO CUOTA
 
-A) Provisional para circular sin placas,
+A) Provisional para circular sin placas, por 3 días: $ 58.00
 
-por 3 días: $56.00
+B) Provisional para circular sin placas, por 15 días. $ 237.00
 
-B) Provisional para circular sin placas,
-
-por 15 días. $230.00
-
-C) Por cada día adicional que exceda,
-
-a los 15 días. $34.00
+C) Por cada día adicional que exceda, a los 15 días. $ 35.00
 
 CONCEPTO CUOTA
 
 VI. Expedición de constancia de inscripción
 
-en el “Registro Estatal Vehicular”. $193.00
+en el "Registro Estatal Vehicular" $ 199.00
 
 VII. Expedición de certificado de interés particular, mediante el cual se hace constar que el solicitante, cubrió los pagos correspondientes de los derechos referidos en este Capítulo, de uno hasta cinco años anteriores a la fecha de la solicitud.
 
 A) Por servicio ordinario, por cada uno de los
 
-conceptos referidos en este capítulo. $193.00
+conceptos referidos en este capítulo. $ 199.00
 
-B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
+B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 VIII. Por la validación de documentos para regularizar vehículos automotores.
 
 CONCEPTO CUOTA
 
-A) Por validación de pagos relacionados con la
+A) Por validación de pagos relacionados con
 
-posesión del vehículo, cuando éste provenga
+la posesión del vehículo, cuando éste provenga
 
-de otra entidad federativa. $213.00
+de otra entidad federativa. $ 219.00
 
-B) Por validación de pedimentos de Importación
+B) Por validación de pedimentos de
 
-de vehículos de procedencia extranjera. $213.00
+Importación de vehículos de procedencia
+
+extranjera. $ 219.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2037,9 +2153,9 @@ Para la dotación de placas a los vehículos a que se refieren los supuestos enu
 
 Lo referido en el párrafo anterior, también será aplicable tratándose del documento denominado comúnmente «carta factura».
 
-### CAPÍTULO VIII. DERECHOS POR SERVICIOS DEL REGISTRO CIVIL
+### CAPÍTULO V. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN Y RENOVACIÓN DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 111.
 
@@ -2049,55 +2165,55 @@ I. Por la expedición de licencias para conducir vehículos automotores:
 
 CONCEPTO CUOTA
 
-A) 1.- De Automovilista por dos años: $954.00
+A) 1.- De Automovilista por dos años: $ 983.00
 
-2.- De Automovilista por cuatro años: $1,396.00
+2.- De Automovilista por cuatro años: $ 1,438.00
 
-3.- De Automovilista por nueve años: $2,789.00
+3.- De Automovilista por nueve años: $ 2,873.00
 
-B) 1.- De Chofer por dos años: $1,277.00
+B) 1.- De Chofer por dos años: $ 1,315.00
 
-2.- De Chofer por cuatro años: $1,950.00
+2.- De Chofer por cuatro años: $ 2,009.00
 
-3.- De Chofer por nueve años: $3,694.00
+3.- De Chofer por nueve años: $ 3,805.00
 
-C) De Motociclista por dos años: $576.00
+C) 1.- De Motociclista por dos años: $ 593.00
 
-De Motociclista por cuatro años: $760.00
+2.- De Motociclista por cuatro años: $ 783.00
 
-De Motociclista por nueve años: $1,514.00
+3.- De Motociclista por nueve años: $ 1,559.00
 
-D) De Chofer de Servicio Público
+D) 1.- De Chofer de Servicio Público
 
-Estatal por dos años: $1,688.00
+Estatal por dos años: $ 1,739.00
 
-De Chofer de Servicio Público
+2.- De Chofer de Servicio Público Estatal r (sic)
 
-Estatal por cuatro años: $2,073.00
+por cuatro años: $ 2,135.00
 
-De Chofer de Servicio Público
+3.- De Chofer de Servicio Público Estatal
 
-Estatal por nueve años: $4,679.00
+por nueve años: $ 4,819.00
 
-E) Por la reposición de las licencias antes de su
+E) Por la reposición de las licencias antes de
 
-vencimiento, referidas en los incisos A), B), C) y
+su vencimiento, referidas en los incisos A),
 
-D) de esta fracción, como consecuencia de robo
+B), C) y D) de esta fracción, como consecuencia
 
-o extravío, previa denuncia ante el Ministerio
+de robo o extravío, previa denuncia ante el
 
-Público, y la presentación de la carta de no
+Ministerio Público, y la presentación de la carta
 
-infracción correspondiente. $401.00
+de no infracción correspondiente. $ 413.00
 
-Para la reposición de la licencia, por robo o extravío se tomará como fecha de reexpedición, la correspondiente al día en que se está realizando su reproducción, y como fecha de expiración, la misma fecha que señalaba la licencia original, salvo que se trate de vigencia anual, en cuyo caso la fecha de expiración será de un año a partir de su reexpedición.
+Para la reposición de la licencia, por robo o extravío se considerará como fecha de reexpedición, la correspondiente al día en que se realice su emisión, y como fecha de expiración, la misma fecha que señalaba la licencia original, salvo que se trate de vigencia anual, en cuyo caso la fecha de expiración será de un año a partir de su reexpedición.
 
 Para la expedición de las licencias señaladas en el inciso D) anterior, el solicitante deberá de tener como mínimo, dos años de experiencia como operador del servicio particular, lo cual puede acreditar con la licencia de manejo de automovilista o de chofer, y tener mínimo 20 años de edad cumplidos.
 
 En caso de no cumplir con los requisitos referidos en el párrafo que antecede, el interesado deberá acreditar un curso de capacitación impartido por la Comisión Coordinadora del Transporte Público de Michoacán, a través del cual se tratarán temas relativos al manejo de las unidades del servicio de transporte público y de las precauciones que deben de tener con el personal o bienes que transportan. Dicho curso no tendrá costo alguno.
 
-La clasificación de licencias a que se refiere el presente artículo, corresponde a las definiciones contenidas en los Artículos 31 y 35 de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, que a continuación se transcriben:
+La clasificación de licencias a que se refiere el presente artículo, corresponde a las definiciones contenidas en los artículos 31 y 35 de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, que a continuación se transcriben:
 
 Licencia de Automovilista: que autoriza a su titular a conducir los vehículos de uso privado, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas.
 
@@ -2117,31 +2233,31 @@ A) De hasta tres meses para enseñarse a conducir a personas mayores de 15 años
 
 CONCEPTO CUOTA
 
-1. Para la conducción de automóvil. $299.00
+1. Para la conducción de automóvil. $ 308.00
 
-2. Para la conducción de motocicleta. $299.00
+2. Para la conducción de motocicleta. $ 308.00
 
 En caso de solicitud de prórroga, esta causará los mismos importes, señalados en los numerales 1 y 2 anteriores, según corresponda.
 
 B) A mayores de 16 años y menores de 18 años de edad, de hasta un año de vigencia, de conformidad con lo dispuesto por los Artículos 29 y 30 del Reglamento de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo:
 
-1. Para la conducción de automóvil. $476.00
+1. Para la conducción de automóvil. $ 490.00
 
-2. Para la conducción de motocicleta. $369.00
+2. Para la conducción de motocicleta. $ 380.00
 
 III. Por la expedición de certificado de Interés particular, mediante el cual se hace constar que el solicitante cubrió los pagos correspondientes a los derechos referidos en este Capítulo, de uno y hasta cinco años anteriores a la fecha de la solicitud.
 
-A) Por servicio ordinario. $193.00
+A) Por servicio ordinario. $ 199.00
 
-B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
+B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 ###### ARTÍCULO 112.
 
 Los derechos por la expedición de licencias para conducir vehículos automotores, se pagarán a la Secretaría de Finanzas y Administración, previamente a la expedición de éstas, aplicando las cuotas que se establezcan en la presente Ley para el ejercicio fiscal de que se trate, para cada tipo de licencia que expida la autoridad competente, de conformidad con lo dispuesto en los Capítulos Segundo y Tercero, del Título Tercero de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
 
-### CAPÍTULO IX. DERECHOS POR SERVICIOS DE LA DIRECCIÓN DEL NOTARIADO Y ARCHIVO GENERAL DE NOTARÍAS
+### CAPÍTULO VI. DERECHOS POR SERVICIOS DE SEGURIDAD PRIVADA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 113.
 
@@ -2151,9 +2267,9 @@ CONCEPTO CUOTA
 
 I. Por el estudio, evaluación y recomendaciones
 
-para la prestación de servicios de
+para la prestación de servicios de seguridad
 
-seguridad privada. $10,687.00
+privada. $ 11,008.00
 
 Por la revalidación anual de dichos estudios,
 
@@ -2161,63 +2277,67 @@ evaluaciones y recomendaciones, se pagará
 
 la misma cuota señalada en esta fracción.
 
-II. Por prestar los servicios de traslado
+II. Por prestar los servicios de traslado y custodia
 
-y custodia de bienes y valores. $10,687.00
+de bienes y valores. $ 11,008.00
 
 Por la revalidación anual de los servicios de
 
-traslado y custodia de bienes y valores, se
+traslado y custodia de bienes y valores, se pagará
 
-pagará la misma cuota señalada en esta fracción.
+la misma cuota señalada en esta fracción.
 
-III. Por el estudio, evaluación y
+III. Por el estudio, evaluación y recomendaciones
 
-recomendaciones por solicitud de cambio
+por solicitud de cambio o ampliación de
 
-o ampliación de modalidad de servicio. $5,345.00
+modalidad de servicio. $ 5,505.00
 
-IV. Por el estudio para determinar la legalidad
+IV. Por el estudio para determinar la
 
-de inscribir cada arma de fuego o cada
+legalidad de inscribir cada arma de fuego o
 
-equipo utilizado en la prestación de los servicios. $324.00
+cada equipo utilizado en la prestación de los
+
+servicios. $ 334.00
 
 V. Por el estudio para determinar la legalidad
 
-de inscribir en el “Registro Estatal de
+de inscribir en el «Registro Estatal de
 
-Prestadores de Servicios de Seguridad
+Prestadores de Servicios de Seguridad Privada»,
 
-Privada”, cada uno de los elementos operativos,
+cada uno de los elementos operativos, de
 
-de quienes la Secretaría de Seguridad Pública
+quienes la Secretaría de Seguridad Pública
 
-haya efectuado la consulta previa de
+haya efectuado la consulta previa de antecedentes
 
-antecedentes policiales, por cada elemento. $324.00
+policiales, por cada elemento. $ 334.00
 
 VI. Por la consulta de antecedentes policiales
 
-en el Registro Estatal de Prestadores de Servicios
+en el Registro Estatal de Prestadores de
 
-de Seguridad Privada, por cada elemento. $324.00
+Servicios de Seguridad Privada, por cada elemento. $ 334.00
 
 VII. Por la expedición o reposición de cédula
 
 de identificación a personal operativo,
 
-por cada elemento. $324.00
+por cada elemento. $ 334.00
 
-VIII. Por prestar los servicios de localización
+VIII. Por prestar los servicios de localización e
 
-e información sobre personas físicas, así
+información sobre personas físicas, así como
 
-como de bienes. $10,687.00
+de bienes. $ 11,008.00
 
 Los pagos por la prestación de los servicios señalados en este Capítulo, estarán sujetos a lo dispuesto por la Ley Federal de Seguridad Privada.
 
-### CAPÍTULO X. DERECHOS POR PRESTACIÓN DE SERVICIOS DE LA PROCURADURÍA GENERAL DEL ESTADO
+### CAPÍTULO VII. DERECHOS POR SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 114.
 
@@ -2233,305 +2353,213 @@ CONCEPTO CUOTA
 
 gravamen o de libertad de gravamen:
 
-a) Hasta por 10 años. $214.00
+a) Hasta por 10 años. $ 220.00
 
-b) Por más de 10 años y hasta 20 años. $261.00
+b) Por más de 10 años y hasta 20 años. $ 269.00
 
 c) Si los certificados se refieren a más
 
 de 20 años de haber sido registrados,
 
-causarán el doble de la tarifa anterior. $523.00
+causarán el doble de la tarifa anterior. $ 539.00
 
-d) Si los certificados presentaren más de cinco
+d) Si los certificados presentaren más de
 
-gravámenes, se aplicará una cuota por cada
+cinco gravámenes, se aplicará una cuota
 
-gravamen adicional de: $35.00
+por cada gravamen adicional de: $ 36.00
 
-e) Certificado sobre existencia o inexistencia
+e) Certificado sobre existencia o
 
-de gravámenes con anotaciones preventivas. $707.00
+inexistencia de gravámenes con
+
+anotaciones preventivas. $ 728.00
 
 2. Por la expedición de certificados de
 
-propiedad o negativos de propiedad, se
+propiedad o negativos de propiedad,
 
-cobrará por cada uno: $214.00
+se cobrará por cada uno: $ 220.00
 
-3. Por la expedición de certificados
+3. Por la expedición de certificados con
 
-con medidas y linderos. $261.00
+medidas y linderos. $ 269.00
 
-4. Por historia de las inscripciones de títulos
+4. Por historia de las inscripciones de
 
-de propiedad, por el término que se solicite y
+títulos de propiedad, por el término que
 
-hasta cinco antecedentes. $679.00
+se solicite y hasta cinco antecedentes. $ 699.00
 
-Por cada antecedente adicional. $205.00
+Por cada antecedente adicional. $ 211.00
 
-5. Por la expedición de copias certificadas de
+5. Por la expedición de copias certificadas
 
-documentos del Registro Público de la Propiedad
+de documentos del Registro Público
 
-y de Comercio, por cada página. $42.00
+de la Propiedad y de Comercio, por
 
-6. Por la expedición de copias simples de los
+cada página. $ 43.00
 
-documentos que obran en el Registro Público
+6. Por la expedición de copias simples de
 
-de la Propiedad y de Comercio, por cada página. $23.00
+los documentos que obran en el Registro
+
+Público de la Propiedad y de Comercio,
+
+por cada página. $ 24.00
 
 7. Por las reproducciones certificadas de
 
-testimonios de escrituras, hasta por cinco hojas. $452.00
+testimonios de escrituras, hasta por
 
-Por trascripción (sic) de cada hoja adicional de
+cinco hojas. $ 466.00
 
-documentos que obran en el archivo. $97.00
+Por trascripción de cada hoja adicional
+
+de documentos que obran en el archivo. $ 100.00
 
 8. Por aclaraciones administrativas de
 
-inscripciones, por cada una. $436.00
+inscripciones, por cada una. $ 449.00
 
-B) Por la inscripción de documentos de
+B) Por la inscripción de documentos de propiedad, ya sea traslativos de dominio, por cada bien inmueble que se consigne en el Título correspondiente:
 
-propiedad, ya sea traslativos de dominio,
+1. No habitacionales, independientemente de su valor:
 
-por cada bien inmueble que se consigne en
+a) Inmuebles rústicos, se pagarán derechos por el equivalente a 5 veces la Unidad de Medida y Actualización.
 
-el Título correspondiente:
+b) Inmuebles urbanos, se pagarán derechos por el equivalente a 15 veces la Unidad de Medida y Actualización.
 
-1. No habitacionales, independientemente
+2. Habitacionales cuyo valor al término de su edificación no exceda de 25 veces la Unidad de Medida y Actualización elevada al año, se pagarán derechos por el equivalente a 7.5 veces la Unidad de Medida y Actualización.
 
-de su valor:
+3. Habitacionales cuyo valor al término de su edificación exceda el límite de 25 veces el valor de la Unidad de Medida y Actualización elevada al año, se pagarán derechos por el equivalente a 10 veces el valor de la Unidad de Medida y Actualización.
 
-a) Inmuebles rústicos, se pagarán derechos
+En el caso de fusiones, se cobrará por propiedad, la que resulte de la fusión y de acuerdo a la tarifa establecida en el Artículo 117 primer párrafo de esta Ley.
 
-por el equivalente a 5 veces la Unidad de
+Por lo que respecta a las servidumbres, por cada inmueble se cobrarán derechos de: $ 444.00
 
-Medida y Actualización.
+Las cuotas establecidas en el inciso B) anterior también se aplicarán cuando la adquisición la realicen los Gobiernos Federal y Municipales, así como sus entidades paraestatales o paramunicipales y las entidades públicas autónomas.
 
-b) Inmuebles urbanos, se pagarán derechos
-
-por el equivalente a 15 veces la Unidad de
-
-Medida y Actualización.
-
-2. Habitacionales cuyo valor al término de
-
-su edificación no exceda de 25 veces la
-
-Unidad de Medida y Actualización elevada
-
-al año, se pagarán derechos por el equivalente
-
-a 7.5 veces la Unidad de Medida y Actualización.
-
-3. Habitacionales cuyo valor al término de
-
-su edificación exceda el límite de 25
-
-veces el valor de la Unidad de Medida y
-
-Actualización elevada al año, se pagarán
-
-derechos por el equivalente a 10 veces
-
-el valor de la Unidad de Medida y Actualización.
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 2020)</small>
-
-En el caso de fusiones, se cobrará por
-
-propiedad, la que resulte de la fusión y
-
-de acuerdo a la tarifa establecida en el
-
-Artículo 117 primer párrafo de esta Ley.
-
-Por lo que respecta a las servidumbres,
-
-por cada inmueble se cobrarán derechos de: $431.00
-
-Las cuotas establecidas en el inciso
-
-B) anterior también se aplicarán cuando
-
-la adquisición la realicen los Gobiernos
-
-Federal y Municipales, así como sus
-
-entidades paraestatales o paramunicipales
-
-y las entidades públicas autónomas.
-
-C) Por registro de planos de
-
-fraccionamientos, así como lotificaciones
-
-y relotificaciones por cada lote vendible:
+C) Por registro de planos de fraccionamientos, así como lotificaciones y relotificaciones por cada lote vendible:
 
 1. Habitacionales:
 
-a) Residencial. $71.00
+a) Residencial. $ 73.00
 
-b) Tipo Medio. $28.00
+b) Tipo Medio. $ 29.00
 
-c) Popular. $28.00
+c) Popular. $ 29.00
 
-d) Campestre. $103.00
+d) Campestre. $ 106.00
 
-e) Rústico. $71.00
+e) Rústico. $ 73.00
 
-2. Industrial y comercial: $200.00
+2. Industrial y comercial: $ 206.00
 
 D) Régimen de Propiedad en Condominio.
 
 1. Habitacionales:
 
-a) Por cada vivienda. $71.00
+a) Por cada vivienda. $ 73.00
 
-b) Por cada local comercial, en el
+b) Por cada local comercial, en el mismo régimen. $ 119.00
 
-mismo régimen. $116.00
+E) Las subdivisiones por cada inmueble. $ 73.00
 
-E) Las subdivisiones por cada inmueble. $71.00
+F) Los documentos que consignen el usufructo vitalicio y la nuda propiedad, causarán al momento de inscribirse, derechos equivalentes a los consignados en el inciso C) de esta fracción, entendiéndose que, a la fecha de la consolidación, se aplicará la cuota establecida en el primer párrafo del Artículo 117 de esta Ley.
 
-F) Los documentos que consignen el
+G) Por la ratificación de documentos y
 
-usufructo vitalicio y la nuda propiedad,
-
-causarán al momento de inscribirse,
-
-derechos equivalentes a los consignados
-
-en el inciso C) de esta fracción,
-
-entendiéndose que a la fecha de la
-
-consolidación, se aplicará la cuota establecida
-
-en el primer párrafo del Artículo 117 de esta Ley.
-
-G) Por la ratificación de documentos y firmas
-
-ante el Registro Público de la Propiedad. $214.00
+firmas ante el Registro Público de la Propiedad. $ 220.00
 
 II. Por actos del Registro de Comercio:
 
-A) Se causarán derechos por el equivalente
-
-a 7.5 veces el valor de la Unidad de Medida
-
-y Actualización, por las inscripciones en el
-
-Registro Público de la Propiedad y de
-
-Comercio, de:
+A) Se causarán derechos por el equivalente a 7.5 veces el valor de la Unidad de Medida y Actualización, por las inscripciones en el Registro Público de la Propiedad y de Comercio, de:
 
 1. Escrituras constitutivas;
 
-2. Documentos en que consten los actos de
+2. Documentos en que consten los actos de emisión de bonos y obligaciones de sociedades mercantiles;
 
-emisión de bonos y obligaciones de
+3. Actas en que se haga constar aumento de capital; y,
 
-sociedades mercantiles;
+4. Por la inscripción de gravámenes relativos a garantías prendarias.
 
-3. Actas en que se haga constar aumento
-
-de capital;
-
-4. Por la inscripción de gravámenes relativos
-
-a garantías prendarias.
-
-B) Por la cancelación de inscripciones
-
-en el Registro de Comercio, se cobrará
-
-el 50 por ciento de los derechos que se
-
-causen por la inscripción.
+B) Por la cancelación de inscripciones en el Registro de Comercio, se cobrará el 50 por ciento de los derechos que se causen por la inscripción.
 
 C) Por registro de otros actos:
 
 CONCEPTO CUOTA
 
-1. Depósito de balances o inscripciones de
+1. Depósito de balances o inscripciones
 
-los mismos, actas de asambleas de socios
+de los mismos, actas de asambleas de socios
 
-o de consejo. $303.00
+o de consejo. $ 312.00
 
 2. Actas de disolución o liquidación de
 
 sociedades, por cada una de las formas
 
-precodificadas. $303.00
+precodificadas. $ 312.00
 
-3. Poderes y sustitución de los mismos. $483.00
+3. Poderes y sustitución de los mismos. $ 497.00
 
 D) Por sentencias sobre emancipación para
 
 ejercer el comercio, habilitación de edad,
 
-licencia de matrimonio y renovación de éstas. $123.00
+licencia de matrimonio y renovación de éstas. $ 127.00
 
-E) Por inscripción y cancelación de
+E) Por inscripción y cancelación de contratos
 
-contratos de corresponsalías. $100.00
+de corresponsalías. $ 103.00
 
-F) Por sentencias sobre declaraciones
+F) Por sentencias sobre declaraciones de
 
-de quiebra o en que se admita liquidación
+quiebra o en que se admita liquidación judicial. $ 193.00
 
-judicial. $187.00
+G) Por los actos que autorice el Secretario
 
-G) Por los actos que autorice el
-
-Secretario de Gobierno. $645.00
+de Gobierno. $ 664.00
 
 H) Por la constancia o ratificación de
 
-documentos y firmas ante el Registro
+documentos y firmas ante el Registro Público
 
-Público de la Propiedad y de Comercio. $214.00
+de la Propiedad y de Comercio. $ 220.00
 
 I) Por la inscripción de otros documentos
 
 en el Registro Público de la Propiedad
 
-y de Comercio. $171.00
+y de Comercio. $ 176.00
 
 J) Por historia de las inscripciones de
 
 títulos de comercio, por el término que
 
-se solicite y hasta cinco antecedentes. $679.00
+se solicite y hasta cinco antecedentes. $ 699.00
 
-Por cada antecedente adicional. $205.00
+Por cada antecedente adicional. $ 211.00
 
 III. Por la inscripción de fideicomisos en general:
 
-A) Cuando se aporten bienes inmuebles,
+A) Cuando se aporten bienes inmuebles, se
 
-se causarán derechos por cada inmueble
+causarán derechos por cada inmueble
 
-fideicomitido. $679.00
+fideicomitido. $ 699.00
 
-B) Cuando se aporten bienes distintos a los
+B) Cuando se aporten bienes distintos a
 
-mencionados en el inciso A) anterior, por
+los mencionados en el inciso A) anterior,
 
-cada instrumento. $679.00
+por cada instrumento. $ 699.00
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2020)</small>
+Los Derechos por la prestación de los servicios a que se refieren los incisos A) y B) de la fracción I, cuando se realicen con carácter de urgente, se pagarán por el equivalente al doble de las cuotas correspondientes al servicio de que se trate, y con carácter extra urgente el triple de las cuotas correspondientes. Los servicios ordinarios se entregarán a los cuatro días hábiles, los urgentes al día siguiente, y los extraurgentes (sic) el mismo día.
 
-Los Derechos por la prestación de los servicios a que se refieren los incisos A) y B) de la fracción I, cuando se realicen con carácter de urgente, se pagarán por el equivalente al doble de las cuotas correspondientes al servicio de que se trate, y con carácter extra urgente el triple de las cuotas correspondientes. Los servicios ordinarios se entregarán a los cuatro días hábiles, los urgentes al día siguiente, y los extra urgentes el mismo día.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 115.
 
@@ -2545,7 +2573,7 @@ El cobro de la inscripción referida en el párrafo anterior, se realizará con 
 
 Tratándose de reestructura de créditos garantizados con bienes inmuebles, o convenios modificatorios a los contratos de crédito, se causarán derechos por el equivalente a 5 veces el valor de la Unidad de Medida y Actualización, por cada inmueble otorgado en garantía.
 
-El convenio modificatorio en donde se reforme cualquier cláusula del contrato, y por cada inmueble dado en garantía en el contrato principal. $431.00
+El convenio modificatorio en donde se reforme cualquier cláusula del contrato, y por cada inmueble dado en garantía en el contrato principal. $ 444.00
 
 Por la inscripción de documentos relativos a gravámenes por créditos para la adquisición de vivienda de interés social y popular, se pagarán derechos por el equivalente a 7.5 y 10 veces el valor de la Unidad de Medida y Actualización, respectivamente.
 
@@ -2555,21 +2583,21 @@ Cuando se hayan otorgado en garantía bienes inmuebles, el derecho que se cause 
 
 Cuando los servicios que presta el Registro Público de la Propiedad y de Comercio, no se encuentren expresamente previstos así como tampoco sus tarifas, los derechos que correspondan por su prestación, se causarán por similitud, aplicando las cuotas relativas a los servicios con los que guarden mayor semejanza.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 117.
 
-Por la inscripción de documentos constitutivos de asociaciones de carácter civil, demandas, sentencias jurídicas, resoluciones, avisos preventivos, declaraciones o títulos diversos, protocolización del Reglamento de Régimen de Propiedad en Condominio. Por cada inmueble afectado por la anotación se cobrará: $431.00
+Por la inscripción de documentos constitutivos de asociaciones de carácter civil, demandas, sentencias jurídicas, resoluciones, avisos preventivos, declaraciones o títulos diversos, protocolización del Reglamento de Régimen de Propiedad en Condominio. Por cada inmueble afectado por la anotación se cobrará: $ 444.00
 
 Por lo que corresponde a los testimonios notariales, en los que se rectifica el registro anterior, y los avisos preventivos con vigencia de treinta días naturales que remite el Notario Público al Registro Público de la Propiedad Raíz y de Comercio en el Estado, al firmarse una escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que se ha registrado, se cobrará la misma cantidad referida en el párrafo anterior, con excepción del primer aviso preventivo a que se refiere el Código Civil para el Estado de Michoacán de Ocampo, y por cada antecedente registral establecido en el testimonio que se rectifique. Este mismo criterio se aplicará para las demandas o sentencias.
 
-Tratándose de testimonios notariales que provengan de otras entidades federativas, además de cubrir los derechos causados conforme a lo dispuesto en el presente Capítulo, se cubrirá por cada uno, la cantidad de: $1,741.00
+Tratándose de testimonios notariales que provengan de otras entidades federativas, además de cubrir los derechos causados conforme a lo dispuesto en el presente Capítulo, se cubrirá por cada uno, la cantidad de: $ 1,793.00
 
 Asimismo, todo trámite deberá presentarse junto con su comprobante de pago para su validación o ingreso de servicio a la Dirección del Registro Público de la Propiedad, de lo contrario se tendrá por no presentado su documento.
 
-### CAPÍTULO XI. DERECHOS POR SERVICIOS QUE ESTABLECE LA LEY PARA LA PRESTACIÓN DE SERVICIOS INMOBILIARIOS
+### CAPÍTULO VIII. DERECHOS POR SERVICIOS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 118.
 
@@ -2579,99 +2607,109 @@ I. Por levantamiento de registros de los actos del estado civil de las personas:
 
 A) Nacimiento: CUOTA
 
-1. Cuando se realicen en las propias oficinas,
+1. Cuando se realicen en las propias
 
-independientemente de la edad. Incluye la
+oficinas, independientemente de la edad.
 
-expedición de la primera copia certificada del
+Incluye la expedición de la primera copia
 
-acta de nacimiento. En la prestación de este
+certificada del acta de nacimiento.En (sic)
 
-servicio, no se cobrará el costo de la hoja de
+la prestación de este servicio, no se cobrará
 
-papel oficial, referida en la fracción III,
+el costo de la hoja de papel oficial, referida en
 
-inciso A), del Artículo 135 de esta Ley. $0.00
+la fracción III, inciso A), del Artículo 135 de
 
-2. A domicilio en cualquier caso. $989.00
+esta Ley. $ 0.00
+
+2. A domicilio en cualquier caso. $ 1,019.00
 
 3. Inscripción de nacimiento de hijos de
 
-padres mexicanos nacidos en el extranjero. $549.00
+padres mexicanos nacidos en el extranjero. $ 565.00
 
 4. Por reconocimiento de cambio de
 
 identidad de género (solicitud, acuerdo,
 
-anotaciones, registro y notificaciones). $0.00
+anotaciones, registro y notificaciones). $ 0.00
 
-Las cuotas de los servicios señalados en los numerales 2 y 3 anteriores, incluyen el 35 por ciento de honorarios para pago a los Oficiales del Registro Civil que realizan dichos servicios.
+Las cuotas de los servicios señalados en
+
+los numerales 2 y 3 anteriores, incluyen el
+
+35 por ciento de honorarios para pago a los
+
+Oficiales del Registro Civil que realizan
+
+dichos servicios.
 
 B) Reconocimiento de hijos: CUOTA
 
-1. Levantados ante el Oficial del Registro Civil. $219.00
+1. Levantados ante el Oficial del Registro Civil. $ 226.00
 
-2. Por escritura pública y/o testamento. $263.00
+2. Por escritura pública y/o testamento. $ 271.00
 
-3. Por resolución judicial. $696.00
+3. Por resolución judicial. $ 717.00
 
 4. Por aviso administrativo de otra entidad
 
-federativa. $213.00
+federativa. $ 219.00
 
 C) Adopción: CUOTA
 
 1. Dictada por tribunal judicial nacional
 
-(Incluye anotación marginal en el acta primigenia). $697.00
+(Incluye anotación marginal en el acta primigenia). $ 718.00
 
 2. Inscripción de sentencia dictada por
 
 tribunal extranjero (Incluye anotación marginal
 
-en el acta primigenia). $900.00
+en el acta primigenia). $ 927.00
 
 D) Matrimonio o Sociedad en Convivencia: CUOTA
 
-1. Celebrado en la Oficialía del Registro Civil. $197.00
+1. Celebrado en la Oficialía del Registro Civil. $ 203.00
 
 2. Celebrado en la Oficialía del Registro Civil,
 
-fuera del horario en días hábiles. $1,054.00
+fuera del horario en días hábiles. $ 1,086.00
 
 3. Celebrado fuera de las instalaciones del
 
-Registro Civil, en días hábiles. $1,668.00
+Registro Civil, en días hábiles. $ 1,718.00
 
-4. Celebrado fuera de las instalaciones del
+4. Celebrado fuera de las instalaciones
 
-Registro Civil, en días inhábiles. $2,628.00
+del Registro Civil, en días inhábiles. $ 2,707.00
 
-5. Inscripción de matrimonio celebrado en el
+5. Inscripción de matrimonio celebrado en
 
-extranjero por mexicanos. $549.00
+el extranjero por mexicanos. $ 565.00
 
 6. Anotación marginal en el acta de
 
-Nacimiento de cada uno de los contrayentes
+nacimiento de cada uno de los contrayentes o
 
-o convivientes en el caso de la sociedad
+convivientes en el caso de la sociedad
 
-de convivencia. $176.00
+de convivencia. $ 181.00
 
 7. Solicitud de Matrimonio o de Sociedad
 
-de Convivencia. $56.00
+de Convivencia. $ 58.00
 
 8. Convenio de Separación de Bienes
 
-para el Matrimonio o Sociedad de Convivencia. $56.00
+para el Matrimonio o Sociedad de Convivencia. $ 58.00
 
 9. Aviso de Matrimonio o Sociedad de
 
 Convivencia, cuando el acta de nacimiento
 
-sea de otra entidad federativa. $99.00
+sea de otra entidad federativa. $ 102.00
 
 Las cuotas de los servicios señalados en los numerales 2, 3, 4 y 5 anteriores, incluyen el 35 por ciento de honorarios para pago a los Oficiales del Registro Civil que realizan dichos servicios.
 
@@ -2679,15 +2717,23 @@ E) Divorcio Administrativo y Divorcio Notarial: CUOTA
 
 1. Celebrado en horario de oficina
 
-(Incluye anotación en actas de nacimiento y
+(Incluye anotación en actas de nacimiento
 
-matrimonio de los divorciados). $2,326.00
+y matrimonio de los divorciados). $ 2,396.00
 
 2. Celebrado fuera del horario de oficina
 
 (Incluye anotación en actas de nacimiento
 
-y matrimonio de los divorciados). $3,182.00
+y matrimonio de los divorciados). $ 3,277.00
+
+3. Inscripción de Divorcio celebrado ante
+
+Notario Público (incluye anotación en
+
+actas de nacimiento y matrimonio de los
+
+divorciados) $ 549.00
 
 Las cuotas de los servicios señalados en el numeral 2 anterior, incluyen el 35 por ciento de honorarios para pago a los Oficiales del Registro Civil que realizan dichos servicios.
 
@@ -2697,57 +2743,63 @@ F) Defunción: CUOTA
 
 Únicamente se cubre el costo de la hoja de
 
-papel oficial, referida en la fracción III,
+papel oficial, referida en la fracción III, inciso A)
 
-inciso A) del Artículo 135 de esta Ley. $43.00
+del Artículo 135 de esta Ley. $ 44.00
 
 2. Inscripción de defunción de mexicano
 
-fallecido en el extranjero. Únicamente se
+fallecido en el extranjero.Únicamente (sic) se
 
 cubre el costo de la hoja de papel oficial,
 
 referida en la fracción III, inciso A) del
 
-Artículo 135 de esta Ley. $43.00
+Artículo 135 de esta Ley. $ 44.00
 
-3. Registro de defunción extemporáneo
+3. Orden de inhumación y/o cremación
 
-ordenado por la autoridad judicial. $330.00
+del cadáver. $ 44.00
+
+4. Orden de traslado de cadáver. $ 44.00
+
+5. Registro de defunción extemporáneo
+
+ordenado por la autoridad judicial. $ 340.00
 
 G) Inscripción de Ejecutorias: CUOTA
 
-1. Divorcio Judicial (Incluye anotaciones
+1. Divorcio Judicial (Incluye anotaciones en el
 
-en el acta de nacimiento y matrimonio
+acta de nacimiento y matrimonio de los
 
-de los divorciados). $724.00
+divorciados). $ 746.00
 
-2. La Ausencia, la Presunción de Muerte,
+2. La Ausencia, la Presunción de Muerte, la
 
-la Nulidad de Matrimonio, la Disolución de
+Nulidad de Matrimonio, la Disolución de la
 
-la Sociedad de Convivencia, la Tutela o el
+Sociedad de Convivencia, la Tutela o el que
 
-que ha perdido la Capacidad Legal para
+ha perdido la Capacidad Legal para Administrar
 
-Administrar Bienes (Incluye anotaciones en
+Bienes (Incluye anotaciones en el acta de
 
-el acta de nacimiento y de matrimonio). $714.00
+nacimiento y de matrimonio). $ 735.00
 
 3. Anotación de Rectificación de Acta del
 
-Estado Civil de las Personas. $714.00
+Estado Civil de las Personas. $ 735.00
 
-4. Anotaciones de desconocimiento de la
+4. Anotaciones de desconocimiento de
 
-paternidad o maternidad, nulidad de
+la paternidad o maternidad, nulidad de registro
 
-registro del Estado Civil o cualquier otra
+del Estado Civil o cualquier otra derivada
 
-derivada de procedimiento judicial en el
+de procedimiento judicial en el acta del
 
-acta del Estado Civil. $363.00
+Estado Civil. $ 374.00
 
 Por la Anexión de datos en las inscripciones
 
@@ -2757,7 +2809,7 @@ realizados en el extranjero, a los que se
 
 refiere la presente fracción se cubrirá el
 
-derecho de $714.00
+derecho de $ 735.00
 
 La solicitud de anexiones de datos a que se refiere el párrafo anterior, se deberá de realizar de forma presencial ante las autoridades del registro civil correspondiente, o bien a través de persona que cuente con mandato especial para el acto, cuyo nombramiento conste en instrumento privado otorgado ante notario público. Lo anterior, sin perjuicio del cumplimiento de las disposiciones jurídicas aplicables a nivel nacional, estatal e internacional.
 
@@ -2765,61 +2817,61 @@ II. Por la expedición de certificados, copias certificadas o constancias de los
 
 Tipo de Acta: CUOTA
 
-A) Nacimiento. $132.00
+A) Nacimiento. $ 136.00
 
-B) Reconocimiento de Hijos ante el
+B) Reconocimiento de Hijos ante el Oficial
 
-Oficial del Registro Civil. $104.00
+del Registro Civil. $ 107.00
 
 C) Reconocimiento de Hijos por resolución
 
-judicial y habilitación de edad. $203.00
+judicial y habilitación de edad. $ 209.00
 
-D) Adopción. $104.00
+D) Adopción. $ 107.00
 
-E) Matrimonio o Sociedad de Convivencia. $280.00
+E) Matrimonio o Sociedad de Convivencia. $ 288.00
 
-F) Divorcio (Administrativo o Judicial). $104.00
+F) Divorcio (Administrativo o Judicial). $ 107.00
 
-G) Defunción. $132.00
+G) Defunción. $ 136.00
 
-H) Inscripción de Sentencias. $104.00
+H) Inscripción de Sentencias. $ 107.00
 
 I) Certificado de Soltería. (incluye la búsqueda
 
-de uno a tres años) $203.00
+de uno a tres años) $ 209.00
 
 J) Negativo de Registro de Nacimiento de
 
-menor de edad (incluye la búsqueda de
+menor de edad (incluye la búsqueda de uno
 
-uno a tres años) $88.00
+a tres años) $ 91.00
 
 K) Negativo de Registro de Nacimiento de
 
 Mayor de Edad o de cualquier Acto del
 
-Estado Civil. (incluye la búsqueda de
+Estado Civil. (incluye la búsqueda de uno
 
-uno a tres años) $104.00
+a tres años) $ 107.00
 
 L) Por cada año adicional de búsqueda en
 
-cualquiera de lo señalado por los
+cualquiera de lo señalado por los incisos I),
 
-incisos I), J) y K) anteriores. $32.00
+J) y K) anteriores. $ 33.00
 
 M) Expedición de Oficio de Extemporaneidad
 
-emitido por la Dirección del Registro Civil. $32.00
+emitido por la Dirección del Registro Civil. $ 33.00
 
 N) Copia Certificada de documentos que
 
 integren apéndices de los registros de los
 
-Actos del Estado Civil de las Personas (por
+Actos del Estado Civil de las Personas
 
-cada página que lo integre). $104.00
+(por cada página que lo integre). $ 107.00
 
 III. Por otros servicios que prestan las Oficialías y la Dirección del Registro Civil:
 
@@ -2831,59 +2883,63 @@ otras Entidades Federativas, que se
 
 encuentran en el Sistema de Impresión de
 
-Actas SIDEA. $230.00
+Actas SIDEA. $ 237.00
 
-B) Expedición de actas de matrimonio de
+B) Expedición de actas de matrimonio
 
-otras Entidades Federativas, que se
+de otras Entidades Federativas, que se
 
 encuentran en el Sistema de Impresión de
 
-Actas SIDEA. $384.00
+Actas SIDEA. $ 396.00
 
-C) Copias simples de actas o documentos
+C) Copias simples de actas o documentos que
 
-que integren un apéndice de los registros
+integren un apéndice de los registros de los
 
-de los actos del estado civil de las personas
+actos del estado civil de las personas (por
 
-(por cada página que lo integre). $18.00
+cada página que lo integre). $ 19.00
 
-D) Aviso de anotación de actos del estado civil
+D) Aviso de anotación de actos del estado
 
-de las personas a otras Entidades Federativas. $88.00
+civil de las personas a otras Entidades
+
+Federativas. $ 91.00
 
 E) Por aclaraciones administrativas de los
 
 registros de los actos del estado civil de las
 
-personas, por cada una. $411.00
+personas, por cada una. $ 423.00
 
 F) Por la legalización de firmas de los
 
-Oficiales del Registro Civil. $170.00
+Oficiales del Registro Civil. $ 175.00
 
-G) Certificación de municipios. $170.00
+G) Certificación de municipios. $ 175.00
 
-H) Anotación de duplicidad de registro ante la
+H) Anotación de duplicidad de registro ante
 
-Dirección del Registro Civil, por cada uno de
+la Dirección del Registro Civil, por cada uno
 
-los registros duplicados. $176.00
+de los registros duplicados. $ 181.00
 
-I) Por envío de actas a nivel nacional
+I) Oficio de régimen patrimonial $ 96.00
 
-SEPOMEX, previo pago de la guía de correo. $165.00
+J) Por envío de actas a nivel nacional
 
-J) Por envío de actas a nivel nacional por
+SEPOMEX, previo pago de la guía de correo. $ 170.00
+
+K) Por envío de actas a nivel nacional por
 
 mensajería privada, previo pago de la guía
 
-correspondiente. $439.00
+correspondiente. $ 452.00
 
-### CAPÍTULO XII. DERECHOS POR SERVICIOS EN MATERIA DE EDUCACIÓN
+### CAPÍTULO IX. DERECHOS POR SERVICIOS DE LA DIRECCIÓN DEL NOTARIADO Y ARCHIVO GENERAL DE NOTARÍAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 119.
 
@@ -2891,53 +2947,51 @@ Los derechos que se causen por los servicios que proporcione la Dirección del N
 
 CONCEPTO CUOTA
 
-I. Aviso de testamento. $373.00
+I. Aviso de testamento. $ 384.00
 
-II. Certificado de testamento. $193.00
+II. Certificado de testamento. $ 199.00
 
 III. Testimonios de escrituras, cinco
 
-primeras hojas. $413.00
+primeras hojas. $ 425.00
 
-Por cada página adicional. $85.00
+Por cada página adicional. $ 88.00
 
-IV. Copias certificadas. $38.00
+IV. Copias certificadas. $ 39.00
 
-V. Testamento ológrafo. $373.00
+V. Testamento ológrafo. $ 384.00
 
 VI. Reporte de búsqueda en el Registro
 
-Nacional de avisos de testamento. $193.00
+Nacional de avisos de testamento. $ 199.00
 
-VII. Por cada hoja con Folio Notarial
+VII. Por cada hoja con Folio Notarial exclusiva
 
-exclusiva para notarios. $6.00
+para notarios. $ 6.00
 
-VIII. Revocación de testamento ológrafo. $373.00
+VIII. Revocación de testamento ológrafo. $ 384.00
 
 IX. Por expedición del nombramiento para
 
-el ejercicio del notariado. $7,062.00
+el ejercicio del notariado. $ 7,274.00
 
 X. Por revalidación del nombramiento para
 
-el ejercicio del notariado. $7,062.00
+el ejercicio del notariado. $ 7,274.00
 
 XI. Por autorización para cambiar la
 
-adscripción notarial. $3,532.00
+adscripción notarial. $ 3,638.00
 
-### CAPÍTULO XIII. DE LOS DERECHOS PRESTADOS POR LA SECRETARÍA DE CONTRALORÍA
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO X. DERECHOS POR PRESTACIÓN DE SERVICIOS DE LA PROCURADURÍA GENERAL DEL ESTADO
 
 ###### ARTÍCULO 120.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO XIV. DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE LA COORDINACIÓN DE PROTECCIÓN CIVIL DEL ESTADO
+### CAPÍTULO XI. DERECHOS POR SERVICIOS QUE ESTABLECE LA LEY PARA LA PRESTACIÓN DE SERVICIOS INMOBILIARIOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 121.
 
@@ -2947,23 +3001,33 @@ CONCEPTO CUOTA
 
 I. Licencia para la Prestación de Servicios
 
-Inmobiliarios (LSI). $1,201.00
+Inmobiliarios (LSI). $ 1,237.00
 
-II. Licencia para la Prestación de
+II. Licencia para la Prestación de Servicios
 
-Servicios Inmobiliarios Profesional (LIP). $1,602.00
+Inmobiliarios Profesional (LIP). $ 1,650.00
 
 III. Por cada certificación de documentos,
 
-constancias y otros actos jurídicos inscritos en
+constancias y otros actos jurídicos inscritos
 
-el Registro de Agentes Inmobiliarios del Estado
+en el Registro de Agentes Inmobiliarios del
 
-de Michoacán de Ocampo. $160.00
+Estado de Michoacán de Ocampo. $ 165.00
 
-### CAPÍTULO XV. DERECHOS POR SERVICIOS Y TRÁMITES EN MATERIA DE TRÁNSITO Y MOVILIDAD
+IV. Revalidación de Licencia para la
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+Prestación de Servicios Inmobiliarios (LSI): $ 928
+
+V. Revalidación de Licencia para la
+
+Prestación de Servicios Inmobiliarios
+
+Profesionales (LIP). $ 1,238
+
+### CAPÍTULO XII. DERECHOS POR SERVICIOS EN MATERIA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 122.
 
@@ -2975,25 +3039,23 @@ CONCEPTOS CUOTA
 
 A) Expedición de copias certificadas de
 
-documentos, por cada hoja tamaño
+documentos, por cada hoja tamaño carta u oficio. $ 22.00
 
-carta u oficio. $21.00
+B) Reposición de constancias o duplicados. $ 175.00
 
-B) Reposición de constancias o duplicados. $170.00
+C) Compulsa de documentos, por hoja. $ 11.00
 
-C) Compulsa de documentos, por hoja. $11.00
+D) Legalización de firmas. $ 568.00
 
-D) Legalización de firmas. $551.00
+E) Por cualquier otra certificación o expedición
 
-E) Por cualquier otra certificación o
+de constancias distintas de las señaladas en las
 
-expedición de constancias distintas de las
-
-señaladas en las fracciones que anteceden. $170.00
+fracciones que anteceden. $ 175.00
 
 II. Servicios en materia de registro y ejercicio profesional.
 
-A) Registro de colegio de profesionistas. $9,252.00
+A) Registro de colegio de profesionistas. $ 9,530.00
 
 B) Registro de establecimiento educativo
 
@@ -3001,77 +3063,77 @@ legalmente autorizado para expedir títulos
 
 profesionales, diplomas de especialidad o
 
-grados académicos. $9,252.00
+grados académicos. $ 9,530.00
 
 C) Revalidación de título profesional, de
 
-diploma de especialidad y de grado académico. $1,851.00
+diploma de especialidad y de grado académico. $ 1,907.00
 
 D) Registro de título profesional, de diploma
 
-de especialidad y de grado académico. $926.00
+de especialidad y de grado académico. $ 954.00
 
-E) Expedición de autorización para
+E) Expedición de autorización para el ejercicio
 
-el ejercicio de una especialidad. $928.00
+de una especialidad. $ 956.00
 
 F) Expedición de autorización para constituir
 
-un colegio de profesionistas. $926.00
+un colegio de profesionistas. $ 954.00
 
 G) Enmiendas al registro profesional:
 
-1. En relación con colegios de profesionistas. $926.00
+1. En relación con colegios de profesionistas. $ 954.00
 
-2. En relación con establecimiento educativo. $926.00
+2. En relación con establecimiento educativo. $ 954.00
 
-3. En relación con título profesional o grado
+3. En relación con título profesional o
 
-académico. $185.00
+grado académico. $ 191.00
 
 4. Inscripción de asociado a un colegio de
 
-profesionistas que no figuren en el registro
+profesionistas que no figuren (sic) en el
 
-original. $37.00
+registro original. $ 38.00
 
 5. En relación con federaciones de colegios
 
-de profesionistas. $1,117.00
+de profesionistas. $ 1,151.00
 
 6. Inscripción de asociado a una federación
 
-de colegios de profesionistas que no figure en
+de colegios de profesionistas que no figure
 
-el registro original. $1,117.00
+en el registro original. $ 1,151.00
 
 H) Expedición de duplicado de cédula o
 
 de autorización para el ejercicio de una
 
-especialidad. $372.00
+especialidad. $ 383.00
 
 I) Expedición de cédula profesional con
 
 efectos de patente o de cédula de grado
 
-académico. $371.00
+académico. $ 382.00
 
 J) Expedición de autorización provisional
 
 para ejercer por estar el título profesional en
 
-trámite o para ejercer como pasante. $371.00
+trámite o para ejercer como pasante. $ 382.00
 
-K) Consultas de archivo. $170.00
+K) Consultas de archivo. $ 175.00
 
-L) Constancias de antecedentes profesionales. $369.00
+L) Constancias de antecedentes profesionales. $ 380.00
 
-M) Registro de federación de colegios de
+M) Registro de federación de colegios
 
-profesionistas. $12,398.00
+de profesionistas. $ 12,770.00
 
-N) Integración de expediente. $160.00
+N) Integración de expediente. $ 165.00
 
 III. Por Servicios en materia de Educación.
 
@@ -3079,13 +3141,13 @@ A) Por solicitud, estudio y resolución del trámite de:
 
 1. Reconocimiento de validez oficial de
 
-estudios de tipo superior. $10,428.00
+estudios de tipo superior. $ 10,741.00
 
 2. Cambios a cada plan y programa de estudio
 
 de tipo superior con reconocimiento de
 
-validez oficial. $4,508.00
+validez oficial. $ 4,643.00
 
 3. Cambio o ampliación de dominio, o
 
@@ -3093,7 +3155,7 @@ establecimiento de un plantel adicional,
 
 respecto de cada plan de estudios con
 
-reconocimiento de validez oficial. $3,941.00
+reconocimiento de validez oficial. $ 4,059.00
 
 B) Por solicitud, estudio y resolución del
 
@@ -3101,9 +3163,9 @@ trámite de autorización para impartir
 
 educación preescolar, primaria, secundaria,
 
-normal y demás para la formación de maestros,
+normal y demás para la formación de
 
-sea cual fuere la modalidad. $1,138.00
+maestros, sea cual fuere la modalidad. $ 1,172.00
 
 C) Por solicitud, estudio y resolución del
 
@@ -3111,55 +3173,55 @@ trámite de reconocimiento de validez oficial
 
 de estudios de los niveles medio superior o
 
-equivalente y de formación para el trabajo,
+equivalente y de formación para el trabajo, sea
 
-sea cual fuere la modalidad. $1,138.00
+cual fuere la modalidad. $ 1,172.00
 
 D) Acreditación y certificación a estudiantes
 
-de preparatoria abierta, por examen. $71.00
+de preparatoria abierta, por examen. $ 73.00
 
 E) Exámenes profesionales o de grado:
 
-1. De tipo superior. $227.00
+1. De tipo superior. $ 234.00
 
-2. De tipo medio superior. $114.00
+2. De tipo medio superior. $ 117.00
 
 F) Exámenes a título de suficiencia:
 
-1. De educación primaria. $45.00
+1. De educación primaria. $ 46.00
 
 2. De educación secundaria y de educación
 
-media superior, por materia. $26.00
+media superior, por materia. $ 27.00
 
-3. De tipo superior, por materia. $84.00
+3. De tipo superior, por materia. $ 87.00
 
 G) Exámenes Extraordinarios por Materia:
 
 1. De educación secundaria y de educación
 
-media superior. $22.00
+media superior. $ 23.00
 
-2. De tipo superior. $83.00
+2. De tipo superior. $ 85.00
 
 H) Otorgamiento de diploma, título o grado:
 
-1. De tipo superior. $220.00
+1. De tipo superior. $ 227.00
 
 2. De educación secundaria y de educación
 
-media superior. $55.00
+media superior. $ 57.00
 
-3. De capacitación para el trabajo industrial. $37.00
+3. De capacitación para el trabajo industrial. $ 38.00
 
-I) Por la solicitud de acreditación y
+I) Por la solicitud de acreditación y certificación
 
-certificación de conocimientos, por cada
+de conocimientos, por cada certificado de
 
-certificado de competencia ocupacional en
+competencia ocupacional en capacitación
 
-capacitación para el trabajo industrial. $607.00
+para el trabajo industrial. $ 625.00
 
 J) Expedición de duplicado de certificados
 
@@ -3167,169 +3229,177 @@ de terminación de estudios:
 
 1. De educación básica y de educación
 
-media superior. $55.00
+media superior. $ 57.00
 
-2. De tipo superior. $168.00
+2. De tipo superior. $ 173.00
 
 K) Por solicitud de revalidación de estudios:
 
-1. De educación básica. $37.00
+1. De educación básica. $ 38.00
 
-2. De educación media-superior. $366.00
+2. De educación media-superior. $ 377.00
 
-3. De educación superior. $1,096.00
+3. De educación superior. $ 1,129.00
 
-L) Revisión de certificados de estudios, por grado escolar.
+L) Revisión de certificados de estudios, por
+
+grado escolar.
 
 1. De educación básica y de educación
 
-media superior. $14.00
+media superior. $ 14.00
 
-2. De educación superior. $44.00
+2. De educación superior. $ 45.00
 
 M) Por solicitud de equivalencia de estudios:
 
-1. De educación básica. $37.00
+1. De educación básica. $ 38.00
 
-2. De educación media-superior. $366.00
+2. De educación media-superior. $ 377.00
 
-3. De educación superior. $1,096.00
+3. De educación superior. $ 1,129.00
 
-N) Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
+N) Inspección y vigilancia de establecimientos
 
-1. De educación superior. $89.00
+educativos particulares, por alumno inscrito
 
-2. De educación media-superior. $40.00
+en cada ejercicio escolar:
 
-3. De educación secundaria. $38.00
+1. De educación superior. $ 92.00
 
-4. De educación primaria. $8.00
+2. De educación media-superior. $ 41.00
 
-O) Consultas o constancias de archivo. $170.00
+3. De educación secundaria. $ 39.00
 
-P) Cambio de carrera. $91.00
+4. De educación primaria. $ 8.00
+
+O) Consultas o constancias de archivo. $ 175.00
+
+P) Cambio de carrera. $ 94.00
 
 Q) Dictamen psicopedagógico para cambio
 
-de carrera. $136.00
+de carrera. $ 140.00
 
-R) Inscripción: 1. En curso de verano. $181.002.
+R) Inscripción:
 
-En curso de regularización. $181.00
+1. En curso de verano. $ 186.00
 
-S) Materias libres para alumnos inscritos. $84.00
+2. En curso de regularización. $ 186.00
+
+S) Materias libres para alumnos inscritos. $ 87.00
 
 T) Expedición de duplicado de credencial
 
-de la preparatoria abierta. $42.00
+de la preparatoria abierta. $ 43.00
 
-IV. Por autorización, registro, reexpedición y renovación de profesiones.
+IV. Por autorización, registro, reexpedición
 
-A) Autorización de práctico. $1,108.00
+y renovación de profesiones:
 
-B) Prácticas profesionales. $702.00
+A) Autorización de práctico. $ 1,141.00
 
-C) Registro de asociaciones de profesionales. $11,076.00
+B) Prácticas profesionales. $ 723.00
 
-D) Registro de consejo de certificación. $3,512.00
+C) Registro de asociaciones de
 
-E) Registro de certificación de profesionales. $1,054.00
+profesionales. $ 11,408.00
+
+D) Registro de consejo de certificación. $ 3,617.00
+
+E) Registro de certificación de profesionales. $ 1,086.00
 
 F) Registro de inscripción de instituciones
 
-educativas. $686.00
+educativas. $ 707.00
 
 G) Registro de diplomas de Instituciones de
 
-Educación Superior (1ES) (sic), colegios
+Educación Superior (lES), colegios y asociaciones. $ 723.00
 
-y asociaciones. $702.00
+H) Registro de diplomas y constancias. $ 73.00
 
-H) Registro de diplomas y constancias. $71.00
+I) Registro de grados académicos adicionales
 
-I) Registro de grados académicos
-
-adicionales al registro. $1,106.00
+al registro. $ 1,139.00
 
 J) Reexpedición de autorizaciones temporales
 
-de prácticos. $1,108.00
+de prácticos. $ 1,141.00
 
-K) Renovación de prácticas. $592.00
+K) Renovación de prácticas. $ 610.00
 
-L) Renovación de especialidades y
+L) Renovación de especialidades y certificados
 
-certificados profesionales. $935.00
+profesionales. $ 963.00
 
 M) Registro de sellos extraordinarios al
 
-sistema estatal. $569.00
+sistema estatal. $ 586.00
 
 V. Por otros servicios de educación:
 
 A) De Centros de Estudios de Capacitación
 
-para el Trabajo (CECAP). $71.00
+para el Trabajo (CECAP). $ 73.00
 
-B) Curso de capacitación para el trabajo industrial. $537.00
+B) Curso de capacitación para el trabajo industrial. $ 553.00
 
-C) Registro de diplomas. $85.00
+C) Registro de diplomas. $ 88.00
 
-D) Por la expedición de certificado parcial de
+D) Por la expedición de certificado parcial
 
-estudios de tipo medio-superior, en la
+de estudios de tipo medio-superior, en la
 
 modalidad escolarizada y abierta por la
 
-expedición de terminación de estudios de
+expedición de terminación de estudios de tipo
 
-tipo de medio superior y abierta. $163.00
+de medio superior y abierta. $ 168.00
 
 E) Por la expedición de terminación de
 
 estudios de tipo medio-superior en la modalidad
 
-escolarizada y abierta. $430.00
+escolarizada y abierta. $ 443.00
 
 F) Expedición de duplicado de certificados de
 
-terminación de estudios. $55.00
+terminación de estudios. $ 57.00
 
-G) Constancia de estudios de preparatoria
+G) Constancia de estudios de preparatoria abierta. $ 72.00
 
-abierta. $70.00
-
-H) Constancias de estudios de nivel primaria. $21.00
+H) Constancias de estudios de nivel primaria. $ 22.00
 
 I) Inspección y vigilancia de Centros de Estudios
 
-de Capacitación para el Trabajo (CECAP). $69.00
+de Capacitación para el Trabajo (CECAP). $ 71.00
 
-J) Cotejo. $17.00
+J) Cotejo. $ 18.00
 
-K) Legalización. $23.00
+K) Legalización. $ 24.00
 
-VI. Por la venta de papelería oficial de la Secretaría de Educación.
+VI. Por la venta de papelería oficial de la
 
-A) Cefiya, expediente académico $46.00
+Secretaría de Educación.
 
-B) Tarjetas Kardex. $41.00
+A) Cefiya, expediente académico $ 47.00
 
-### CAPÍTULO XVI. DERECHOS POR SERVICIOS DE CATASTRO
+B) Tarjetas Kardex. $ 42.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO XIII. DE LOS DERECHOS PRESTADOS POR LA SECRETARÍA DE CONTRALORÍA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 123.
 
 Los derechos por los servicios prestados por la Secretaría de Contraloría, se causarán y pagarán de conformidad con las cuotas siguientes:
 
-I. Por la expedición de certificados de no
+I. Por la expedición de certificados de no inhabilitación. $ 46.00
 
-inhabilitación. $45.00
+### CAPÍTULO XIV. DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE LA COORDINACIÓN DE PROTECCIÓN CIVIL DEL ESTADO
 
-### CAPÍTULO XVII. DERECHOS POR SERVICIOS OFICIALES DIVERSOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 124.
 
@@ -3341,35 +3411,35 @@ I. Por el servicio de evaluación de programas
 
 de protección civil, de conformidad con lo
 
-dispuesto por los artículos 60 y 61 de la Ley
+dispuesto por los Artículos 60 y 61 de la
 
-de Protección Civil del Estado de Michoacán
+Ley de Protección Civil del Estado de
 
-de Ocampo y de acuerdo a su clasificación
+Michoacán de Ocampo y de acuerdo a su
 
-de riesgo: $2,005.00
+clasificación de riesgo: $ 2,065.00
 
 A) Cuando dicho servicio sea considerado de
 
-mediano riesgo. $2,736.00
+mediano riesgo. $ 2,818.00
 
-B) Cuando dicho servicio sea considerado de
+B) Cuando dicho servicio sea considerado
 
-alto riesgo. $3,467.00
+de alto riesgo. $ 3,571.00
 
-II. Por el servicio de evaluación de programas
+II. Por el servicio de evaluación de
 
-específicos de protección civil, de acuerdo a
+programas específicos de protección civil,
 
-la concentración masiva de 6,000 personas
+de acuerdo a la concentración masiva
 
-en adelante, de conformidad con lo dispuesto
+de 6,000 personas en adelante, de conformidad
 
-por los Artículos 113 y 114 de la Ley de
+con lo dispuesto por los Artículos 113 y 114 de
 
-Protección Civil del Estado de Michoacán
+la Ley de Protección Civil del Estado de
 
-de Ocampo. $5,941.00
+Michoacán de Ocampo. $ 6,119.00
 
 III. Cuando el organizador solicite servicios
 
@@ -3379,143 +3449,171 @@ la coordinación, durante el desarrollo del evento,
 
 se pagará conforme a lo siguiente:
 
-A) Elemento operativo por 8 horas. $594.00
+A) Elemento operativo por 8 horas. $ 612.00
 
-B) Supervisor. $792.00
+B) Supervisor. $ 816.00
 
-IV. Por el servicio de registro de consultores en materia de protección civil de conformidad con lo establecido por el Artículo 34 de la Ley de Protección Civil del Estado de Michoacán de Ocampo.
+IV. Por el servicio de registro de consultores
 
-A) Persona Física. $9,000.00
+en materia de protección civil de conformidad
 
-B) Persona Moral. $15,000.00
+con lo establecido por el Artículo 34 de la
 
-V. Por la renovación anual de registro de consultores en materia de protección civil para el Estado de Michoacán de Ocampo.
+Ley de Protección Civil del Estado de
 
-A) Persona Física. $7,000.00
+Michoacán de Ocampo.
 
-B) Persona Moral. $15,000.00
+A) Persona Física. $ 9,270.00
 
-VI. Por el registro de capacitadores en materia de protección civil que establece el Artículo 34 de la Ley de Protección Civil del Estado de Michoacán de Ocampo.
+B) Persona Moral. $ 15,450.00
 
-A) Persona Física. $6,000.00
+V. Por la renovación anual de registro de
 
-B) Persona Moral. $15,000.00
+consultores en materia de protección civil para
 
-VII. Por renovación anual del registro de capacitadores en materia de protección civil que establece el Artículo 34 de la Ley de Protección Civil del Estado de Michoacán de Ocampo.
+el Estado de Michoacán de Ocampo.
 
-A) Persona Física. $6,000.00
+A) Persona Física. $ 7,210.00
 
-B) Persona Moral. $8,000.00
+B) Persona Moral. $ 15,450.00
 
-VIII. Por el registro de grupos voluntarios. $3,291.00
+VI. Por el registro de capacitadores en
 
-IX. Por la renovación del registro de grupos
+materia de protección civil que establece el
 
-voluntarios. $2,194.00
+Artículo 34 de la Ley de Protección Civil del
 
-X. Por el registro de empresas dedicadas a
+Estado de Michoacán de Ocampo.
 
-la venta y recarga de extintores. $4,388.00
+A) Persona Física. $ 6,180.00
 
-XI. Por la renovación del registro de empresas
+B) Persona Moral. $ 15,450.00
 
-dedicadas a la venta y recarga de extintores. $3,291.00
+VII. Por renovación anual del registro de
 
-XII. Por la expedición de dictámenes de
+capacitadores en materia de protección civil
 
-No riesgo, para el uso, transporte,
+que establece el Artículo 34 de la Ley de
+
+Protección Civil del Estado de Michoacán
+
+de Ocampo.
+
+A) Persona Física. $ 6,180.00
+
+B) Persona Moral. $ 8,240.00
+
+VIII. Por el registro de grupos voluntarios. $ 3,390.00
+
+IX. Por la renovación del registro de
+
+grupos voluntarios. $ 2,260.00
+
+X. Por el registro de empresas dedicadas
+
+a la venta y recarga de extintores. $ 4,520.00
+
+XI. Por la renovación del registro de
+
+empresas dedicadas a la venta y recarga
+
+de extintores. $ 3,390.00
+
+XII. Por la expedición de dictámenes
+
+de No riesgo, para el uso, transporte,
 
 almacenamiento y venta de materiales
 
-explosivos. $5,485.00
+explosivos. $ 5,650.00
 
 XIII. Por la expedición de dictámenes de
 
 factibilidad para la construcción de gaseras,
 
-estaciones de carburación y estaciones de
+estaciones de carburación y estaciones
 
-servicio de gasolineras. $16,454.00
+de servicio de gasolineras. $ 16,948.00
 
 XIV. Por la expedición de dictámenes u
 
-oficios de factibilidad para la construcción de
+oficios de factibilidad para la construcción
 
-fraccionamientos, centros comerciales y edificios. $10,969.00
+de fraccionamientos, centros comerciales
+
+y edificios. $ 11,298.00
 
 XV. Por la inspección y verificación de las
 
-condiciones para la realización de eventos
+condiciones para la realización de
 
-masivos. $4,388.00
+eventos masivos. $ 4,520.00
 
 XVI. Por la elaboración de estudios de
 
 riesgo y vulnerabilidad en materia de
 
-Protección Civil en el Estado de Michoacán. $4,613.00
+Protección Civil en el Estado de Michoacán. $ 4,751.00
 
 XVII. Por expedición de constancia de
 
 cumplimiento de la norma en materia de
 
-Riesgo en Protección Civil. $2,475.00
+Riesgo en Protección Civil. $ 2,549.00
 
 A) Cuando el cumplimiento de la norma
 
 sea de alto riesgo, la expedición de la
 
-constancia será de: $4,949.00
+constancia será de: $ 5,097.00
 
 XVIII. Por el servicio de capacitación en
 
 materia de protección civil al sector privado,
 
-por cada persona con duración de más de
+por cada persona con duración de más
 
-4 horas, hasta 8 horas máximo. La capacidad
+de 4 horas, hasta 8 horas máximo. La
 
-mínima y máxima para realizar el curso es de
+capacidad mínima y máxima para realizar
 
-5 a 30 personas. $551.00
+el curso es de 5 a 30 personas. $ 568.00
 
 XIX. Por el servicio de capacitación en materia
 
-de protección civil al sector privado, por cada
+de protección civil al sector privado, por
 
-persona con duración de más de 8 horas. La
+cada persona con duración de más de 8 horas.
 
-capacidad mínima y máxima para realizar el
+La capacidad mínima y máxima para realizar
 
-curso es de 5 a 30 personas. $1,102.00
+el curso es de 5 a 30 personas. $ 1,135.00
 
 XX. Por la visita de inspección y verificación
 
-al establecimiento y/o instalación. $990.00
+al establecimiento y/o instalación. $ 1,020.00
 
 A) Cuando la visita de inspección y verificación
 
-sea considerada de mediano riesgo. $1,485.00
+sea considerada de mediano riesgo. $ 1,530.00
 
 B) Cuando la visita de inspección y verificación
 
-sea considerada de alto riesgo. $1,981.00
+sea considerada de alto riesgo. $ 2,040.00
 
-XXI. Por la certificación de libros bitácoras. $496.00
+XXI. Por la certificación de libros bitácoras. $ 511.00
 
 XXII. Por la evaluación de simulacro a
 
-establecimiento y/o instalación. $496.00
+establecimiento y/o instalación. $ 511.00
 
-XXIII. Por la realización de trámites para
+XXIII. Por la realización de trámites para la
 
-la obtención de registro. $496.00
+obtención de registro. $ 511.00
 
-### CAPÍTULO XVIII. OTROS DERECHOS
+### CAPÍTULO XV. DERECHOS POR SERVICIOS Y TRÁMITES EN MATERIA DE TRÁNSITO Y MOVILIDAD
 
-DERECHOS EN MATERIA DE OBRAS PÚBLICAS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 125.
 
@@ -3527,35 +3625,35 @@ CONCEPTO CUOTA
 
 A) TIPO A: Vehículos ligeros.- Aquellos con
 
-un peso bruto vehicular de hasta 3.5
+un peso bruto vehicular de hasta
 
-toneladas. Automóviles, camionetas,
+3.5 toneladas. Automóviles, camionetas,
 
-vagonetas, camiones, remolques y
-
-semirremolques. $43.00
+vagonetas, camiones, remolques y semirremolques. $ 44.00
 
 B) TIPO B: Vehículos pesados.- Aquellos con
 
-un peso bruto vehicular mayor a 3.5 toneladas.
+un peso bruto vehicular mayor a
 
-Microbús y minibús, autobuses, camiones
+3.5 toneladas.Microbús (sic) y minibús,
 
-de 2 o más ejes, remolques y semirremolques,
+autobuses, camiones de 2 o más ejes,
 
-equipo especial movibles, vehículos con grúa. $56.00
+remolques y semirremolques, equipo especial
+
+movibles, vehículos con grúa. $ 58.00
 
 C) TIPO C: Mono o biplaza.- Bicicletas, triciclos
 
 y bicicletas adaptadas, bicimotos, triciclos
 
-automotores y tetramotos, motonetas y
+automotores y tetramotos, motonetas
 
-motocicletas. $33.00
+y motocicletas. $ 34.00
 
 D) Tipo D: Tractores y vehículos agrícolas.
 
-No Aplica. $0.00
+No Aplica. $ 0.00
 
 Los vehículos de carga ligera, de servicio particular o público cuyas características sean modificadas para aumentar su capacidad de carga y rebasen con ello las tres punto cinco toneladas de peso bruto vehicular como medida de carga, serán considerados como vehículos pesados.
 
@@ -3569,15 +3667,13 @@ CONCEPTO CUOTA
 
 A) TIPO A: Maniobras de grúa (propia)
 
-dentro del patio. $42.00
+dentro del patio. $ 43.00
 
-B) TIPO B: Toma de calcas,
+B) TIPO B: Toma de calcas, por cada vehículo. $ 28.00
 
-por cada vehículo. $27.00
+C) TIPO C: A los proveedores particulares de
 
-C) TIPO C: A los proveedores particulares
-
-de grúas y transportistas que ingresen a los
+grúas y transportistas que ingresen a los
 
 patios para retirar unidades, partes, o
 
@@ -3585,7 +3681,7 @@ documentos del interior de sus unidades,
 
 previa identificación y/o permiso de la
 
-autoridad competente. $27.00
+autoridad competente. $ 28.00
 
 III. Servicios de grúa: Cuando se utilice una grúa oficial a cargo de la Dirección de Tránsito y Movilidad del Estado, en un radio de hasta 10 kilómetros:
 
@@ -3593,21 +3689,19 @@ CONCEPTO CUOTA
 
 A) TIPO A: Vehículos ligeros: Aquellos con
 
-un peso bruto vehicular de hasta tres
+un peso bruto vehicular de hasta
 
-punto cinco toneladas.- Automóviles,
+tres punto cinco toneladas.- Automóviles,
 
 camionetas, vagonetas, camiones, remolques;
 
-y semirremolques. $813.00
+y semirremolques. $ 837.00
 
-1. Por cada kilómetro adicional a los 10
+1. Por cada kilómetro adicional a los 10 kilómetros. $ 28.00
 
-kilómetros. $27.00
+B) TIPO B: Vehículos pesados: Aquellos con
 
-B) TIPO B: Vehículos pesados: Aquellos con un
-
-peso bruto vehicular mayor a tres punto cinco
+un peso bruto vehicular mayor a tres punto cinco
 
 toneladas.- Microbús y minibús, autobuses,
 
@@ -3615,31 +3709,29 @@ camiones de dos o más ejes, remolques y
 
 semirremolques, equipo especial movible,
 
-vehículos con grúa. $1,106.00
+vehículos con grúa. $ 1,139.00
 
-1. Por cada kilómetro adicional a los 10
+1. Por cada kilómetro adicional a
 
-kilómetros. $42.00
+los 10 kilómetros. $ 43.00
 
-C) TIPO C: Mono o biplaza.- Bicicletas, triciclos
+C) TIPO C: Mono o biplaza.- Bicicletas,
 
-y bicicletas adaptadas, bicimotos, triciclos
+triciclos y bicicletas adaptadas, bicimotos,
 
-automotores y tetramotos, motonetas y
+triciclos automotores y tetramotos, motonetas
 
-motocicletas. $153.00
+y motocicletas. $ 158.00
 
-1. Por cada kilómetro adicional a los 10
+1. Por cada kilómetro adicional a los
 
-kilómetros. $14.00
+10 kilómetros. $ 14.00
 
 D) TIPO D: Tractores y vehículos agrícolas.
 
-No aplica. $0.00
+No aplica $ 0.00
 
-1. Por cada kilómetro adicional a los 10
-
-kilómetros. $0.00
+1. Por cada kilómetro adicional a los 10 kilómetros. $ 0.00
 
 Los gastos derivados por concepto de retiro, arrastre o aseguramiento de vehículos de la vía pública, en los cuales se haga uso auxiliar de grúas de servicio público concesionado, de acuerdo al Artículo 82 de la Ley de Tránsito y Vialidad del Estado de Michoacán, y/o sus futuras reformas o actualizaciones, y depositados en los lugares que disponga esta autoridad, previsto en el Artículo 61 de la misma Ley, serán cubiertos íntegramente por sus propietarios, de acuerdo a las cuotas autorizadas por la autoridad competente en materia de concesiones.
 
@@ -3649,33 +3741,35 @@ IV. Estudios, certificaciones, permisos o documentos de interés particular: Los
 
 CONCEPTO CUOTA
 
-A) Certificado de no infracción. $37.00
+A) Certificado de no infracción. $ 38.00
 
-B) Permiso para circular con carga
-
-sobresaliente. $131.00
+B) Permiso para circular con carga sobresaliente. $ 135.00
 
 C) Permiso para circular con aditamentos
 
-(polarizado). $131.00
+(polarizado). $ 135.00
 
 D) Estudio técnico para determinar lugares
 
-especiales de ascenso y descenso de
-
-escolares. $131.00
+especiales de ascenso y descenso de escolares. $ 135.00
 
 E) Aplicación de examen de conocimientos
 
 generales, para la obtención de la licencia
 
-de conducir. $105.00
+de conducir. $ 108.00
 
 F) Aplicación de examen médico para la
 
-obtención o renovación de licencia de conducir. $116.00
+obtención o renovación de licencia de conducir. $ 119.00
 
-### CAPÍTULO XIX. DE LAS EXENCIONES
+Los derechos a que se refieren los incisos E) y F) de la presente fracción, sólo se cobrarán cuando se realicen por las autoridades Estatales de Transito y Salud respectivamente.
+
+Serán aceptados los exámenes a que se refiere el párrafo anterior, realizado por instituciones públicas o privadas, estas últimas previamente autorizadas por la Secretaria de Salud o la Secretaría de Seguridad Pública según se trate.
+
+### CAPÍTULO XVI. DERECHOS POR SERVICIOS DE CATASTRO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 126.
 
@@ -3687,11 +3781,11 @@ A) Copias impresas de planos catastrales digitalizados:
 
 CONCEPTO CUOTA
 
-1. Manzaneros. $445.00
+1. Manzaneros. $ 458.00
 
 2. De los Municipios de Morelia, Uruapan y
 
-Zamora, escala 1:10,000. $2,752.00
+Zamora, escala 1:10,000. $ 2,835.00
 
 3. De los Municipios de Apatzingán,
 
@@ -3701,39 +3795,37 @@ Lázaro Cárdenas, Los Reyes, Pátzcuaro,
 
 Puruándiro, Tacámbaro, Sahuayo y Zitácuaro,
 
-escala 1:7,500. $2,096.00
+escala 1:7,500. $ 2,159.00
 
 4. De los Municipios de Coeneo, Cotija,
 
 Cuitzeo, Huandacareo, Jiquilpan, Maravatío,
 
-Paracho, Purépero, Quiroga, Salvador
+Paracho, Purépero, Quiroga,
 
-Escalante, Tangancícuaro, Tarímbaro,
+Salvador Escalante, Tangancícuaro,
 
-Venustiano Carranza, Yurécuaro, Zacapu y
+Tarímbaro, Venustiano Carranza, Yurécuaro,
 
-Zinapécuaro, escala 1:7,500. $1,453.00
+Zacapu y Zinapécuaro, escala 1:7,500. $ 1,497.00
 
-5. Cuando los planos a que se refieren
+5. Cuando los planos a que se refieren los
 
-los numerales anteriores, se requieran
+numerales anteriores, se requieran con curvas
 
-con curvas de nivel, su costo se incrementará
+de nivel, su costo se incrementará a otro
 
-a otro tanto de las cuotas señaladas en dichos
+tanto de las cuotas señaladas en dichos numerales.
 
-numerales.
-
-6. Manzanero, en formato dwf. $514.00
+6. Manzanero, en formato dwf. $ 529.00
 
 7. De sector, en formato dwf, por cada
 
-manzana existente en el mismo. $91.00
+manzana existente en el mismo. $ 94.00
 
-8. Por fotografía aérea escaneada en archivo
+8. Por fotografía aérea escaneada en
 
-digital en formato dwf. $700.00
+archivo digital en formato dwf. $ 721.00
 
 B) Copias en archivo digital en formato dwf:
 
@@ -3741,15 +3833,15 @@ CONCEPTO CUOTA
 
 1. De los municipios de La Piedad, Morelia,
 
-Uruapan y Zamora. $10,944.00
+Uruapan y Zamora. $ 11,272.00
 
 2. De los municipios de Apatzingán,
 
-Jacona, Jiquilpan, Los Reyes, Lázaro
+Jacona, Jiquilpan, Los Reyes, Lázaro Cárdenas,
 
-Cárdenas, Maravatío, Pátzcuaro, Puruándiro,
+Maravatío, Pátzcuaro, Puruándiro, Sahuayo
 
-Sahuayo y Zitácuaro. $8,043.00
+y Zitácuaro. $ 8,284.00
 
 3. De los municipios de Ciudad Hidalgo,
 
@@ -3757,17 +3849,17 @@ Coeneo, Cotija, Cuitzeo, Huandacareo,
 
 Paracho, Purépero, Quiroga, Salvador Escalante,
 
-Tacámbaro, Tangancícuaro, Venustiano
+Tacámbaro, Tangancícuaro, Venustiano Carranza,
 
-Carranza, Yurécuaro, Zacapu y Zinapécuaro. $5,356.00
+Yurécuaro, Zacapu y Zinapécuaro. $ 5,517.00
 
 4. De los planos de valores unitarios de terreno
 
-urbano por sector de los municipios
+urbano por sector de los municipios de Apatzingán,
 
-de Apatzingán, La Piedad, Lázaro Cárdenas,
+La Piedad, Lázaro Cárdenas, Morelia,
 
-Morelia, Uruapan y Zamora. $6,758.00
+Uruapan y Zamora. $ 6,961.00
 
 5. De los planos de valores unitarios de terreno
 
@@ -3775,17 +3867,15 @@ urbano de los demás municipios con los
 
 que se cuenta planos de valores autorizados
 
-por el Congreso. $6,700.00
+por el Congreso. $ 6,901.00
 
 Para la reproducción de las copias en
 
-archivo digital a que se refiere el inciso B)
+archivo digital a que se refiere el inciso B) anterior,
 
-anterior, los interesados proporcionarán el
+los interesados proporcionarán el dispositivo magnético.
 
-dispositivo magnético.
-
-C) Planos catastrales no digitalizados. $707.00
+C) Planos catastrales no digitalizados. $ 728.00
 
 II. Levantamientos topográficos.
 
@@ -3793,23 +3883,17 @@ Medición y deslinde de predios urbanos o rústicos para verificación de medida
 
 CONCEPTO CUOTA
 
-A) Para predios urbanos, de 1 a 1,000 m2. $3,780.00
+A) Para predios urbanos, de 1 a 1,000 m². $ 3,893.00
 
-B) Para predios urbanos, de 1,001 m2
+B) Para predios urbanos, de 1,001 m² a 5,000 m² $ 4,937.00
 
-a 5,000 m2. $4,793.00
+C) Para predios urbanos, de 5,001 m² a 10,000 m² $ 6,582.00
 
-C) Para predios urbanos, de 5,001 m2
+D) Para predios urbanos, de 10,001 m² en adelante. $ 9,325.00
 
-a 10,000 m2. $6,390.00
+E) Para predios rústicos, se aplicará la siguiente tarifa:
 
-D) Para predios urbanos, de 10,001 m2
-
-en adelante. $9,053.00
-
-E) Para predios rústicos, se aplicará la siguiente tarifa :
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS 28 Y 29.]</small>
+> <small>[N. DE E. VÉASE TARIFA EN LA DÉCIMA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 31.]</small>
 
 Por el grado de dificultad técnica, el costo de los levantamientos topográficos a que se refiere la tarifa anterior, se incrementará en un 20 por ciento, cuando se trate de predios con pendiente de entre 16º y 45º y para predios con pendiente superior a 45º, dicho costo se incrementará en un 50 por ciento. Para los efectos de la aplicación de esta tarifa, se atenderá a la clasificación de los municipios en los siguientes grupos:
 
@@ -3821,33 +3905,33 @@ Grupo 3: Apatzingán, Briseñas, Buenavista, Carácuaro, Cotija, Chavinda, Churu
 
 Grupo 4: Aguililla, Aquila, Arteaga, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila, Huetamo, Lázaro Cárdenas, San Lucas, Tepalcatepec, Tiquicheo de Nicolás Romero y Tumbiscatío.
 
-III. Por determinación de la ubicación física de predios, se aplicarán (sic) lo siguiente:
+III. Por determinación de la ubicación física de predios, se aplicarán lo siguiente:
 
 CONCEPTO CUOTA
 
 A) Urbanos, ubicados en cualquier población
 
-del Estado. $2,049.00
+del Estado. $ 2,110.00
 
 B) Rústicos en cualquier lugar del Estado:
 
 1. Ubicados dentro de un radio hasta de
 
-20 kilómetros, teniendo como centro la oficina
+20 kilómetros, teniendo como centro la
 
-recaudadora donde se registra. $1,828.00
+oficina recaudadora donde se registra. $ 1,883.00
 
 2. Ubicados dentro de un radio hasta de
 
-50 kilómetros, teniendo como centro la oficina
+50 kilómetros, teniendo como centro la
 
-recaudadora donde se registra. $1,896.00
+oficina recaudadora donde se registra. $ 1,953.00
 
 3. Ubicados dentro de un radio superior a los
 
-50 kilómetros, teniendo como centro la oficina
+50 kilómetros, teniendo como centro la
 
-recaudadora donde se registra. $2,501.00
+oficina recaudadora donde se registra. $ 2,576.00
 
 IV. Por la elaboración de avalúos por parte de la Dirección de Catastro, dependiente de la Secretaría de Finanzas y Administración, a solicitud de parte, para anexarse al aviso de adquisición de inmuebles, se cobrará el equivalente que resulte de aplicar el uno por ciento al valor catastral que se determine para el inmueble de que se trate.
 
@@ -3855,19 +3939,17 @@ V. Inspecciones oculares de predios urbanos y rústicos para verificar informaci
 
 CONCEPTO CUOTA
 
-A) Sobre predios ubicados dentro del área
+A) Sobre predios ubicados dentro del área de
 
-de la población donde se encuentra la oficina
+la población donde se encuentra la oficina
 
-recaudadora. $587.00
+recaudadora. $ 605.00
 
-B) Sobre predios ubicados fuera de la
+B) Sobre predios ubicados fuera de la localidad
 
-localidad donde se encuentre la oficina
+donde se encuentre la oficina recaudadora
 
-recaudadora dentro de un radio hasta de
-
-20 kilómetros. $936.00
+dentro de un radio hasta de 20 kilómetros. $ 964.00
 
 C) Sobre predios ubicados fuera de la
 
@@ -3875,7 +3957,7 @@ localidad donde se encuentre la oficina
 
 recaudadora dentro de un radio hasta de
 
-50 kilómetros. $1,503.00
+50 kilómetros. $ 1,548.00
 
 D) Sobre predios ubicados fuera de la
 
@@ -3883,47 +3965,35 @@ localidad donde se encuentre la oficina
 
 recaudadora dentro de un radio superior a
 
-50 kilómetros. $1,692.00
+50 kilómetros. $ 1,743.00
 
-No se cobrarán derechos por la inspección
-
-ocular de predios, cuando éstos sean objeto
-
-de variación catastral y el caudal hereditario
-
-esté constituido por un sólo inmueble destinado
-
-a la vivienda.
+No se cobrarán derechos por la inspección ocular de predios, cuando éstos sean objeto de variación catastral y el caudal hereditario esté constituido por un sólo inmueble destinado a la vivienda.
 
 VI. Reestructuración de cuentas catastrales:
 
-Para determinar e informar en detalle el estado catastral que guarda cada una de las propiedades y las afectaciones jurídicas que las mismas han sufrido, cuando para tal fin sea necesario análisis y reestructuración partiendo de la cuenta catastral de origen, se aplicarán las siguientes:
+Para determinar e informar en detalle el estado catastral que guarda cada una de las propiedades y las afectaciones jurídicas que las mismas han sufrido, cuando para tal fin sea necesario (sic) análisis y reestructuración partiendo de la cuenta catastral de origen, se aplicarán las siguientes:
 
 CONCEPTO CUOTA
 
 A) Por cuenta catastral analizada y
 
-reestructurada, tratándose de
+reestructurada, tratándose de fraccionamientos
 
-fraccionamientos y condominios. $2,529.00
+y condominios. $ 2,605.00
 
-B) Otras cuentas catastrales
+B) Otras cuentas catastrales analizadas
 
-analizadas y reestructuradas distintas
+y reestructuradas distintas de fraccionamientos
 
-de fraccionamientos y condominios. $1,664.00
+y condominios. $ 1,714.00
 
-VII. Por desglose de predios y valuación
+VII. Por desglose de predios y valuación correspondiente:
 
-correspondiente:
+A) De fraccionamientos, condominios y conjuntos
 
-A) De fraccionamientos, condominios
+habitacionales, por cada predio que surja. $ 135.00
 
-y conjuntos habitacionales, por cada
-
-predio que surja. $131.00
-
-B) De cualquier otro tipo de inmueble. $182.00
+B) De cualquier otro tipo de inmueble. $ 187.00
 
 El derecho a que se refiere la presente
 
@@ -3935,51 +4005,83 @@ de dependencias o unidades administrativas
 
 del Gobierno del Estado.
 
-VIII. Por solicitud de Variación Catastral
+VIII. Por solicitud de Variación Catastral y/o
 
-y/o Predio Ignorado: $1,545.00
+Predio Ignorado: $ 1,591.00
 
-IX. Por inscripción o registro de
+IX. Por inscripción o registro de predios
 
-predios ignorados sobre el valor
+ignorados sobre el valor catastral determinado
 
-catastral determinado en el acuerdo
+en el acuerdo respectivo. 1 %
 
-respectivo. 1%
+X. Por autorización e inscripción de peritos
 
-X. Por autorización e inscripción
-
-de peritos valuadores de bienes
-
-inmuebles. $3,572.00
+valuadores de bienes inmuebles. $ 3,679.00
 
 A) Por refrendo anual de la autorización
 
-de perito valuador. $2,123.00
+de perito valuador. $ 2,187.00
 
 XI. Certificaciones catastrales:
 
-A) De registro y negativo de registro, así como para anexarse al aviso que modifique la situación catastral de los bienes inmuebles, se pagará el equivalente a 4 veces el valor de la Unidad de Medida y Actualización. Si el certificado se solicita con colindantes, el costo se incrementará en un 25 por ciento al monto del servicio que se requiera.
+A) De registro y negativo de registro, así como
 
-Los certificados o certificaciones a que se refiere el inciso A), se entregarán al tercer día hábil siguiente al que se solicite.
+para anexarse al aviso que modifique la situación
 
-B) De historia catastral, se cobrará el equivalente a una vez el valor de la Unidad de Medida y Actualización, más las cuotas que se señalan a continuación:
+catastral de los bienes inmuebles, se pagará el
 
-1. Si la historia reporta hasta 5
+equivalente a 4 veces el valor de la Unidad
 
-movimientos de registro catastral. $182.00
+de Medida y Actualización. Si el certificado
 
-2. Si la historia reporta de 6 a 10
+se solicita con colindantes, el costo se
 
-movimientos de registro catastral. $269.00
+incrementará en un 25 por ciento al monto
 
-3. Si la historia reporta de 11 a 15
+del servicio que se requiera.
 
-movimientos de registro catastral. $315.00
+1. Ordinario 4 UMAS
 
-4. Si la historia reporta más de 15
+2. Urgente 6 UMAS
 
-movimientos de registro catastral. $456.00
+3. Extraurgente (sic) 8 UMAS
+
+Los certificados o certificaciones a que se
+
+refiere el inciso A), se entregarán de la
+
+siguiente manera: Ordinario al tercer día
+
+hábil siguiente; Urgente al siguiente día hábil;
+
+Extraurgente (sic) el mismo día de su solicitud
+
+y pago.
+
+B) De historia catastral, se cobrará el
+
+equivalente a una vez el valor de la Unidad
+
+de Medida y Actualización, más las cuotas
+
+que se señalan a continuación:
+
+1. Si la historia reporta hasta 5 movimientos
+
+de registro catastral. $ 187.00
+
+2. Si la historia reporta de 6 a 10 movimientos
+
+de registro catastral. $ 277.00
+
+3. Si la historia reporta de 11 a 15 movimientos
+
+de registro catastral. $ 324.00
+
+4. Si la historia reporta más de 15 movimientos
+
+de registro catastral. $ 470.00
 
 El caso a que se refiere el inciso B) anterior,
 
@@ -3987,57 +4089,51 @@ este servicio se entregará a los diez días
 
 después de solicitado.
 
-XII. Por información respecto de los
+XII. Por información respecto de los nombres
 
-nombres de colindantes, a propietarios
+de colindantes, a propietarios o poseedores de
 
-o poseedores de predios registrados. $382.00
+predios registrados. $ 393.00
 
-XIII. Por información respecto de la ubicación de predios en cartografía:
+XIII. Por información respecto de la ubicación
 
-A) Si la información que proporcionen
+de predios en cartografía:
 
-los interesados es suficiente. $88.00
+A) Si la información que proporcionen los
 
-B) Si se requieren investigaciones
+interesados es suficiente. $ 91.00
 
-adicionales a la información
+B) Si se requieren investigaciones adicionales
 
-proporcionada por los interesados. $102.00
+a la información proporcionada por los interesados. $ 105.00
 
-XIV. Expedición de duplicados de documentos catastrales:
+XIV. Expedición de duplicados de
 
-A) Copias simples, por página. $20.00
+documentos catastrales:
 
-B) Copias certificadas, por página. $38.00
+A) Copias simples, por página. $ 21.00
+
+B) Copias certificadas, por página. $ 39.00
 
 XV. Servicios de Inspección, medición y verificación a predios donados al Gobierno del Estado, de conformidad a lo dispuesto por el Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, a cargo de la Dirección de Patrimonio Estatal, se cubrirán aquellos gastos por parte del interesado, los que previamente serán convenidos con éste, los cuales no serán superiores a los costos de traslado de personal respectivo, así como gasolinas y otros gastos indirectos.
 
 XVI. Levantamiento Topográfico con curvas de nivel.
 
-Para la prestación de este servicio, se pagarán las cuotas que se describen a continuación, más las cuotas referidas en la fracción II de este Artículo, siempre y cuando dichos predios se encuentren en zonas que por su orografía, se encuentren en montañas que dificulten la determinación de dicho levantamiento topográfico.
+Para la prestación de este servicio, se pagarán las cuotas que se describen a continuación, más las cuotas referidas en la fracción II de este Artículo, siempre y cuando dichos predios se encuentren en zonas que, por su orografía, se encuentren en montañas que dificulten la determinación de dicho levantamiento topográfico.
 
 CONCEPTO CUOTA
 
-A) Para predios urbanos,
+A) Para predios urbanos, de 1 a 1,000 m². $ 3,893.00
 
-de 1 a 1,000 m2. $3,780.00
+B) Para predios urbanos, de 1,001 m² a 5,000 m² $ 4,937.00
 
-B) Para predios urbanos,
+C) Para predios urbanos, de 5,001 m² a 10,00 0 m² $ 6,582.00
 
-de 1,001 m2 a 5,000 m2 $4,793.00
+D) Para predios urbanos, de 10,001 m² en adelante $ 9,325.00
 
-C) Para predios urbanos,
+E) Para predios rústicos, se aplicará la siguiente cuota:
 
-de 5,001 m2 a 10,000 m2 $6,390.00
-
-D) Para predios urbanos,
-
-de 10,001 m2 en adelante. $9,053.00
-
-E) Para predios rústicos, se aplicará la siguiente cuota :
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINA 31.]</small>
+> <small>[N. DE E. VÉASE CUOTA EN LA DÉCIMA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 33.]</small>
 
 Para los efectos de la aplicación de esta cuota, se atenderá a la clasificación de los municipios en los siguientes grupos:
 
@@ -4049,101 +4145,97 @@ Grupo 3: Apatzingán, Briseñas, Buenavista, Carácuaro, Cotija, Chavinda, Churu
 
 Grupo 4: Aguililla, Aquila, Arteaga, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila, Huetamo, Lázaro Cárdenas, San Lucas, Tepalcatepec, Tiquicheo de Nicolás Romero y Tumbiscatío.
 
-XVII. Modificación de datos
+XVII. Modificación de datos administrativos
 
-administrativos catastrales. $234.00
+catastrales. $ 241.00
 
-XVIII. Cédula de actualización
+XVIII. Cédula de actualización de predios rústicos. $ 241.00
 
-de predios rústicos. $234.00
+XIX. Cédula de actualización de predios urbanos. $ 241.00
 
-XIX. Cédula de actualización
+XX. Revisión de Aviso (traslado de dominio por
 
-de predios urbanos. $234.00
+predio rústico). $ 121.00
 
-XX. Revisión de Aviso
+XXI. Revisión de Aviso (traslado de dominio
 
-(traslado de dominio por predio rústico). $117.00
+por predio urbano). $ 121.00
 
-XXI. Revisión de Aviso
-
-(traslado de dominio por predio urbano). $117.00
-
-XXII. Aviso Aclaratorio de predio
-
-rústico o urbano. $234.00
+XXII. Aviso Aclaratorio de predio rústico o urbano. $ 241.00
 
 XXIII. Inscripción Catastral para Registro de
 
 Predios por Regularizar:
 
-A) Por resolución administrativa
+A) Por resolución administrativa emitida por
 
-emitida por el Registro Agrario Nacional
+el Registro Agrario Nacional o Instituto Nacional
 
-o Instituto Nacional del Suelo Sustentable. $842.00
+del Suelo Sustentable. $ 867.00
 
-B) Por resolución judicial cuando la
+B) Por resolución judicial cuando la regularización
 
-regularización provenga de prescripción
+provenga de prescripción positiva de bienes que
 
-positiva de bienes que eran del Estado: el
+eran del Estado: el 10% del costo del avalúo comercial.
 
-10% del costo del avalúo comercial.
+En el caso del inciso B) de la presente fracción,
 
-En el caso del inciso B) de la presente fracción, para la expedición del certificado correspondiente se deberá de anexar el avalúo comercial emitido por perito autorizado por la Secretaría de Finanzas y Administración.
+para la expedición del certificado correspondiente
 
-XXIV. Levantamientos aerofotogramétricos
+se deberá de anexar el avalúo comercial
 
-y otros servicios de alta precisión.
+emitido por perito autorizado por la Secretaría de
 
-A) Por la operación de Instrumento
+Finanzas y Administración.
 
-volador no tripulado (Dron) por cada
+XXIV. Levantamientos aerofotogramétricos y
 
-hectárea de cobertura. $852.00
+otros servicios de alta precisión.
+
+A) Por la operación de Instrumento volador
+
+no tripulado (Dron) por cada hectárea de cobertura. $ 878.00
 
 B) Apoyo terrestre con Sistema de
 
 Posicionamiento Global (GPS) por
 
-kilómetro cuadrado de cobertura. $4,473.00
+kilómetro cuadrado de cobertura. $ 4,607.00
 
-C) Fotografía aérea georeferenciada
+C) Fotografía aérea georeferenciada (sic)
 
 (Ortofoto) digital, por mosaico de un
 
-kilómetro cuadrado de cobertura. $2,130.00
+kilómetro cuadrado de cobertura. $ 2,194.00
 
-D) Restitución de manzana
+D) Restitución de manzana (sujeta a disposición
 
-(sujeta a disposición de software,
+de software, equipo y personal capacitado. $ 768.00
 
-equipo y personal capacitado. $746.00
+E) Frente Lineal de Manzanas, por predio. $ 10.00
 
-E) Frente Lineal de Manzanas, por predio. $10.00
+XXV. Por la ubicación cartográfica para la
 
-XXV. Por la ubicación cartográfica
+asignación correcta de clave catastral. $ 163.00
 
-para la asignación correcta de
+XXVI. Ubicación cartográfica por cambio
 
-clave catastral. $158.00
-
-XXVI. Ubicación cartográfica por
-
-cambio de localidad. $158.00
+de localidad. $ 163.00
 
 XXVII. Georreferenciación de croquis
 
 para el trámite de procedimientos
 
-administrativos del catastro. $515.00
+administrativos del catastro. $ 530.00
 
 Por lo que se refiere a los servicios de Catastro, por concepto de mediciones y deslindes, determinación de la ubicación física de predios y sobre información de interés particular referente a predios registrados, se pagará el 50% de los derechos que se causen conforme a esta Ley, para el ejercicio de que se trate, en la fecha en que se solicite el servicio y, el 50% restante, en la fecha en que se entregue el documento catastral que corresponda.
 
 Por lo que se refiere a los servicios de Catastro por concepto de registro de predios ignorados y registro de excedencias de superficie, los derechos se pagarán en la fecha en que se inscriba la resolución relativa.
 
-### CAPÍTULO XX. ACCESORIOS DE DERECHOS
+### CAPÍTULO XVII. DERECHOS POR SERVICIOS OFICIALES DIVERSOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 127.
 
@@ -4151,45 +4243,45 @@ Los derechos que se causen por Servicios Oficiales Diversos, se cubrirán de con
 
 CONCEPTO CUOTA
 
-I. Legalización de títulos profesionales
+I. Legalización de títulos profesionales y otros
 
-y otros documentos en pergamino. $170.00
+documentos en pergamino. $ 175.00
 
-II. Legalización de planes de estudio
+II. Legalización de planes de estudio expedidos
 
-expedidos por la Universidad Michoacana
+por la Universidad Michoacana a estudiantes
 
-a estudiantes extranjeros. $445.00
+extranjeros. $ 458.00
 
-III. Legalización de certificados de estudio,
+III. Legalización de certificados de estudio, boletas
 
-boletas de calificaciones, constancias
+de calificaciones, constancias de estudio, actas
 
-de estudio, actas de estado civil, exhortos,
+de estado civil, exhortos, firmas de
 
-firmas de fedatarios y funcionarios públicos
+fedatarios y funcionarios públicos y otros
 
-y otros documentos oficiales. $59.00
+documentos oficiales. $ 61.00
 
-IV. Apostillas de títulos profesionales y
+IV. Apostillas de títulos profesionales y otros
 
-otros documentos en pergamino. $323.00
+documentos en pergamino. $ 333.00
 
-V. Apostillas de planes de estudio. $849.00
+V. Apostillas de planes de estudio. $ 874.00
 
-VI. Apostillas de certificados de estudio,
+VI. Apostillas de certificados de estudio, actas
 
-actas del Registro Civil, exhortos, firmas
+del Registro Civil, exhortos, firmas de
 
-de fedatarios y funcionarios públicos y
+fedatarios y funcionarios públicos y otros
 
-otros documentos oficiales. $108.00
+documentos oficiales. $ 111.00
 
 VII. Por derecho a exámenes de capacidad:
 
-A) Carreras de dos años y hasta cuatro años. $71.00
+A) Carreras de dos años y hasta cuatro años. $ 73.00
 
-B) Carreras de más de cuatro años. $170.00
+B) Carreras de más de cuatro años. $ 175.00
 
 VIII. Por cada certificación de expedientes
 
@@ -4203,13 +4295,11 @@ copias certificadas, por las dependencias
 
 del ejecutivo en defensa de los intereses
 
-del Estado, en cuyo caso serán gratuitas. $59.00
+del Estado, en cuyo caso serán gratuitas. $ 61.00
 
 Por cotejo de copias de expedientes,
 
-adicionalmente, por cada página. $23.00
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+adicionalmente, por cada página. $ 24.00
 
 La certificación a que se refiere esta fracción,
 
@@ -4225,7 +4315,7 @@ IX. Por otra clase de certificaciones, cuando
 
 éstas no estén previstas en el Capítulo
 
-correspondiente, por cada certificación. $62.00
+correspondiente, por cada certificación. $ 64.00
 
 X. Las solicitudes de certificados y copias
 
@@ -4247,69 +4337,57 @@ adicionalmente el 50 por ciento de la cuota
 
 que corresponda al servicio de que se trate.
 
-XII. Por reposición de documentos de
+XII. Por reposición de documentos de las
 
-las diferentes dependencias oficiales,
+diferentes dependencias oficiales, cuando
 
-cuando no esté previsto en el Capítulo
-
-correspondiente. $59.00
+no esté previsto en el Capítulo correspondiente. $ 61.00
 
 XIII. Por la reproducción de información,
 
-ya sea mediante expedición de copias
+ya sea mediante expedición de copias simples o
 
-simples o mediante la impresión de archivos
+mediante la impresión de archivos electrónicos,
 
-electrónicos, que se proporcionen a los
+que se proporcionen a los solicitantes,
 
-solicitantes, por parte de las dependencias,
+por parte de las dependencias, coordinaciones
 
-coordinaciones y entidades del Poder
+y entidades del Poder Ejecutivo, de conformidad
 
-Ejecutivo, de conformidad con lo dispuesto
+con lo dispuesto por la Ley de Transparencia,
 
-por la Ley de Transparencia, Acceso a la
+Acceso a la Información Pública y Protección
 
-Información Pública y Protección de Datos
+de Datos Personales del Estado de Michoacán.
 
-Personales del Estado de Michoacán.
+A) Copias en hoja tamaño carta u oficio. $ 1.00
 
-A) Copias en hoja tamaño carta u oficio. $1.00
+B) Impresiones en hoja tamaño carta u oficio. $ 3.00
 
-B) Impresiones en hoja tamaño carta u oficio. $3.00
+C) Información digitalizada que se entregue en
 
-C) Información digitalizada que se
+dispositivo magnético, por cada hoja digitalizada. $ 1.00
 
-entregue en dispositivo magnético,
+D) Información en Dispositivo CD o DVD. $ 4.00
 
-por cada hoja digitalizada. $1.00
-
-D) Información en Dispositivo CD o DVD. $14.00
+Cuando la entrega de la información solicitada no implique más de veinte hojas simples, no se cobrara el costo del derecho, lo anterior de conformidad con el párrafo cuarto del artículo 69 de la Ley de Transparencia, Acceso a la Información Pública y protección de Datos Personales del Estado de Michoacán
 
 Las cuotas de los derechos que se señalan en esta fracción XIII, no se aplicarán cuando los interesados obtengan la información de las páginas de la red de internet de las instituciones públicas.
 
-Cuando el solicitante proporcione cualquier dispositivo magnético, sólo pagará el costo de los derechos de la información digitalizada.
+Cuando el solicitante proporcione cualquier dispositivo magnético, solo pagará el costo de los derechos de la información digitalizada.
 
 El monto de los derechos que se causen en cada caso, se enterará previamente a la prestación del servicio, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración y en las Instituciones Financieras autorizadas para tal efecto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 128.
 
-Cuando los certificados y copias de documento a que se refiere la fracción I, inciso A), del artículo 114, los certificados, copias certificadas o constancias de actas a que se refiere el artículo 118 y las certificaciones y copias de documentos a que se refieren las fracciones XI y XIV del artículo 126 de esta Ley, se expidan a solicitud telefónica o por correo de interesados radicados fuera del Estado de Michoacán, además de cubrir las cuotas señaladas en dichos Artículos, se pagarán adicionalmente las cuotas siguientes.
+Cuando los certificados y copias de documento a que se refiere la fracción I, inciso A), del artículo 114, los certificados, copias certificadas o constancias de actas a que se refiere el artículo 118 y las certificaciones y copias de documentos a que se refieren las fracciones XI y XIV del artículo 126 de esta Ley, se expidan a solicitud telefónica o por correo de interesados radicados fuera del Estado de Michoacán, además de cubrir las cuotas señaladas en dichos Artículos, se pagarán adicionalmente las cuotas siguientes:
 
-I. Para ser enviados a domicilios en el
+I. Para ser enviados a domicilios en el territorio nacional, se deberá de proporcionar la guía del correo o empresa privada por la cual se requiera el envío y se cobrará la cuota de $ 170.00
 
-territorio nacional, se deberá de
-
-proporcionar la guía del correo o empresa
-
-privada por la cual se requiera el envío y
-
-se cobrará la cuota de: $165.00
-
-II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2019)
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
 El pago de los derechos por los servicios comprendidos en este Artículo, se podrá realizar mediante depósito bancario a la cuenta que señale la Secretaría de Finanzas y Administración.
 
@@ -4317,9 +4395,11 @@ El pago de los derechos por los servicios comprendidos en este Artículo, se pod
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO XXI. SERVICIOS URGENTES Y EXTRAURGENTES
+### CAPÍTULO XVIII. OTROS DERECHOS
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+DERECHOS EN MATERIA DE OBRAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 130.
 
@@ -4327,69 +4407,65 @@ Los derechos que se causen por los servicios que proporcione la Secretaría de C
 
 CONCEPTO CUOTA
 
-I. Por la inscripción o renovación al
+I. Por la inscripción o renovación al Padrón
 
-Padrón de Contratistas. $2,743.00
+de Contratistas. $ 2,825.00
 
-II. Permiso para construir o modificar
+II. Permiso para construir o modificar accesos,
 
-accesos, cruzamientos e instalaciones
+cruzamientos e instalaciones marginales en el
 
-marginales en el derecho de vía de
-
-caminos y puentes estatales. $422.00
+derecho de vía de caminos y puentes estatales. $ 435.00
 
 III. Permiso para construir o administrar,
 
-en su caso, paradores en vías de
+en su caso, paradores en vías de comunicación
 
-comunicación terrestres. $2,957.00
+terrestres. $ 3,046.00
 
 IV. Permiso para instalar anuncios y
 
-señales publicitarias, de información
+señales publicitarias, de información o
 
-o comunicación. $2,957.00
+comunicación. $ 3,046.00
 
-V. Permiso para construir, modificar
+V. Permiso para construir, modificar o ampliar
 
-o ampliar obras asentadas en el derecho
+obras asentadas en el derecho de vía de
 
-de vía de caminos y puentes estatales. $845.00
+caminos y puentes estatales. $ 870.00
 
-VI. Constancia de verificación de
+VI. Constancia de verificación de jurisdicción
 
-jurisdicción de derecho de vía en trámites
+de derecho de vía en trámites judiciales
 
-judiciales para suplir título de dominio,
+para suplir título de dominio, delimitación
 
-delimitación y rectificación de medidas. $422.00
+y rectificación de medidas. $ 435.00
 
 VII. Revisión de planos y supervisión de
 
-obra que efectúe la Secretaría, para el
+obra que efectúe la Secretaría, para el trámite
 
-trámite de otorgamiento de los permisos
+de otorgamiento de los permisos para construir
 
-para construir o modificar accesos,
+o modificar accesos, cruzamientos e instalaciones
 
-cruzamientos e instalaciones marginales
+marginales en el derecho de vía de caminos y
 
-en el derecho de vía de caminos y
+puentes estatales. $ 3,046.00
 
-puentes estatales. $2,957.00
+VIII. Autorización para la cesión de derechos y
 
-VIII. Autorización para la cesión de derechos
+obligaciones de los permisos para la instalación
 
-y obligaciones de los permisos para la
-
-instalación de paradores. $845.00
+de paradores. $ 870.00
 
 IX. Autorización para cambio de leyenda o
 
-figura en un anuncio. $845.00
+figura en un anuncio. $ 870.00
 
-### CAPÍTULO I. PRODUCTOS
+### CAPÍTULO XIX. DE LAS EXENCIONES
 
 ###### ARTÍCULO 131.
 
@@ -4445,9 +4521,7 @@ E) Los acusados, para que surtan sus efectos en los procesos penales que se les 
 
 F) Los obreros, para asuntos laborales.
 
-### CAPÍTULO II. VENTA DE PUBLICACIONES Y OTROS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO XX. ACCESORIOS DE DERECHOS
 
 ###### ARTÍCULO 132.
 
@@ -4455,9 +4529,9 @@ De conformidad con lo previsto por el Código Fiscal del Estado de Michoacán de
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-### CAPÍTULO III. POR SUMINISTRO DE HOLOGRAMAS PARA VERIFICACIÓN VEHICULAR
+### CAPÍTULO XXI. SERVICIOS URGENTES Y EXTRAURGENTES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 132 Bis.
 
@@ -4469,9 +4543,7 @@ Los servicios ordinarios que comúnmente son entregados el día de su solicitud 
 
 ## TÍTULO QUINTO. INGRESOS POR CONTRAPRESTACIONES POR LOS SERVICIOS QUE PRESTE EL ESTADO EN SUS FUNCIONES DE DERECHO PRIVADO
 
-### CAPÍTULO ÚNICO. APROVECHAMIENTOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO I. PRODUCTOS
 
 ###### ARTÍCULO 133.
 
@@ -4491,7 +4563,9 @@ V. Otros Productos, como resultado de establecimientos y empresas del Estado; co
 
 Para la percepción de estos ingresos se estará a lo dispuesto en los contratos o concesiones respectivos o en las escrituras constitutivas o decretos que den nacimiento a los organismos o empresas del Estado, la presente Ley, la Ley de Ingresos o en su defecto, en las disposiciones legales que le sean aplicables.
 
-### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
+### CAPÍTULO II. VENTA DE PUBLICACIONES Y OTROS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 135.
 
@@ -4501,241 +4575,139 @@ I. Venta de publicaciones del Periódico Oficial, como sigue:
 
 CONCEPTO CUOTA
 
-A) Números del día, cada uno. $29.00
+A) Números del día, cada uno. $ 30.00
 
-B) Números atrasados, cada uno. $37.00
+B) Números atrasados, cada uno. $ 38.00
 
-C) Suscripción anual. $1,130.00
+C) Suscripción anual. $ 1,164.00
 
-D) Suscripción semestral. $564.00
+D) Suscripción semestral. $ 581.00
 
-E) Copias simples, por página. $16.00
+E) Copias simples, por página. $ 17.00
 
-F) Suplementos. $63.00
+F) Suplementos. $ 65.00
 
 II. Publicaciones:
 
-A) Inserción, por cada palabra. $10.00
+A) Inserción, por cada palabra. $ 10.00
 
 B) Los textos cuyo contenido sea
 
-fundamentalmente en cifras, se
+fundamentalmente en cifras, se cobrará por
 
-cobrará por plana, según el espacio
+plana, según el espacio que ocupen,
 
-que ocupen, aplicando la cuota de: $707.00
+aplicando la cuota de: $ 728.00
 
-C) Búsqueda de publicaciones, por cada año. $29.00
+C) Búsqueda de publicaciones, por cada año. $ 30.00
 
-Se exceptúan del pago las publicaciones obligatorias que deban hacer las autoridades federales, estatales o municipales, en cumplimiento a lo que dispongan las leyes de carácter fiscal y administrativo del Estado, así como del trabajo, y el Código Civil para el Estado de Michoacán de Ocampo.
+Se exceptúan del pago las publicaciones
 
-El Ejecutivo, por conducto de la Secretaría de Finanzas y Administración, podrá establecer cuota de $0.00, en el pago del costo de publicaciones que se requieran realizar por los particulares en cumplimiento a otras disposiciones legales, cuando se trate de personas que, de conformidad con los estudios socioeconómicos que se realicen, carezcan de recursos para realizar el pago correspondiente.
+obligatorias que deban hacer las autoridades
+
+federales, estatales o municipales, en
+
+cumplimiento a lo que dispongan las leyes
+
+de carácter fiscal y administrativo del Estado,
+
+así como del trabajo, y el Código Civil para el
+
+Estado de Michoacán de Ocampo.
+
+El Ejecutivo, por conducto de la Secretaría
+
+de Finanzas y Administración, podrá establecer
+
+cuota de $0.00, en el pago del costo de
+
+publicaciones que se requieran realizar por
+
+los particulares en cumplimiento a otras
+
+disposiciones legales, cuando se trate de
+
+personas que, de conformidad con los
+
+estudios socioeconómicos que se realicen,
+
+carezcan de recursos para realizar el pago
+
+correspondiente.
 
 III. Venta de impresos y papel oficial:
 
-A) Por cada hoja de papel oficial para
+A) Por cada hoja de papel oficial para expedición
 
-expedición de certificados y actas
+de certificados y actas exentas del pago de
 
-exentas del pago de derechos. $43.00
+derechos. $ 44.00
 
 B) Por impresos diversos, publicaciones
 
-oficiales y cartas geográficas, según el
+oficiales y cartas geográficas, según el valor
 
-valor que se designe por la Secretaría de
+que se designe por la Secretaría de Finanzas
 
-Finanzas y Administración con base en los
+y Administración con base en los costos que
 
-costos que se determinen por dichos
+se determinen por dichos supuestos en la
 
-supuestos en la presente ley, adicionando
+presente ley, adicionando el costo del papel oficial.
 
-el costo del papel oficial.
+IV. Venta de leyes, reglamentos, libros, folletos
 
-IV. Venta de leyes, reglamentos, libros, folletos y demás publicaciones que edite el Gobierno del Estado, de acuerdo con los precios que fije la Secretaría de Finanzas y Administración.
+y demás publicaciones que edite el Gobierno
 
-### CAPÍTULO II. OTROS INGRESOS
+del Estado, de acuerdo con los precios
+
+que fije la Secretaría de Finanzas y Administración.
+
+### CAPÍTULO III. POR SUMINISTRO DE HOLOGRAMAS PARA VERIFICACIÓN VEHICULAR
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 136.
 
 Por el suministro de calcomanías u hologramas y certificados para verificación vehicular de emisión de contaminantes, se atenderá a lo siguiente:
 
-I. Por suministro a los Centros de
+I. Por suministro a los Centros de Verificación Vehicular, de Constancias de Rechazo mediante las cuales se hagan constar que el vehículo automotor no cumple con los límites permisibles de emisiones contaminantes. $ 36.00
 
-Verificación Vehicular, de Constancias
+II. Por suministro a los Centros de Verificación Vehicular, de Constancias de Aprobación mediante las cuales se hagan constar que el vehículo automotor cumple con los límites permisibles de emisiones contaminantes. $ 64.00
 
-de Rechazo mediante las cuales se
+III. Por suministro a los Centros de Verificación Vehicular, de Certificados y Hologramas, indicativos para acreditar la verificación vehicular Tipo 1. $ 64.00
 
-hagan constar que el vehículo automotor
+IV. Por suministro a los Centros de Verificación Vehicular, de Certificados y Hologramas indicativos para acreditar la verificación vehicular Tipo 2. $ 64.00
 
-no cumple con los límites permisibles de
+V. Por suministro a los Centros de Verificación Vehicular, de Certificados y Hologramas "Cero" para exentar las restricciones a la circulación establecidas por los programas "Hoy No Circula" y de "Contingencias Ambientales de la Zona Metropolitana del Valle de México". $ 64.00
 
-emisiones contaminantes. $35.00
+VI. Por suministro a los Centros de Verificación Vehicular, de Certificados y Hologramas "Doble Cero" para exentar las restricciones a la circulación establecidas por los programas "Hoy No Circula" y de "Contingencias Ambientales de la Zona Metropolitana del Valle de México". $ 64.00
 
-II. Por suministro a los Centros de
+El pago que realice el propietario del vehículo por el servicio de verificación vehicular, se hará de acuerdo a lo que señale la Ley o el Acuerdo por el que se establece el Programa de Verificación Vehicular y Monitoreo a Vehículos Ostensiblemente Contaminantes para el Estado de Michoacán de Ocampo.
 
-Verificación Vehicular, de Constancias de
+El pago referido en los incisos A), B), C), D), E) y F) de esta fracción, lo realizarán los permisionarios de los Centros de Verificación Vehicular que llevan a cabo el "Programa de Verificación Vehicular" y "Monitoreo a Vehículos Ostensiblemente Contaminantes", en la Secretaría de Finanzas y Administración, previa autorización de la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, quien a su vez emitirá los Certificados y Hologramas que señalan los incisos ya referidos.
 
-Aprobación mediante las cuales se hagan
+VII. Por participación en concurso en convocatoria pública para la prestación del servicio de verificación vehicular emitida por la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial. $ 5,305.00
 
-constar que el vehículo automotor cumple
+VIII. Pago por autorización de Otorgamiento de Permiso para Instalar y Operar Centro de Verificación Vehicular con una línea. $ 31,827.00
 
-con los límites permisibles de emisiones
+IX. Pago por autorización de Otorgamiento de Permiso para Instalar y Operar Centro de Verificación Vehicular con dos líneas. $ 53,045.00
 
-contaminantes. $62.00
+X. Por la renovación del otorgamiento de permiso anual a los concesionarios de Centros de Verificación Vehicular, para una línea. $ 10,609.00
 
-III. Por suministro a los Centros de
+XI Por la renovación del otorgamiento de permiso anual a los concesionarios de Centros de Verificación Vehicular, para dos líneas. $ 21,218.00
 
-Verificación Vehicular, de Certificados
+XII. Pago por Solicitud de Cambio de Domicilio del Centro de Verificación Vehicular con Autorización. $ 4,244.00
 
-y Hologramas, indicativos para acreditar
+XIII. Pago por reposición administrativa, en caso de pérdida de holograma, la cual se realizará únicamente ante la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial. $ 106.00
 
-la verificación vehicular Tipo 1. $62.00
-
-IV. Por suministro a los Centros de
-
-Verificación Vehicular, de Certificados
-
-y Hologramas indicativos para acreditar
-
-la verificación vehicular Tipo 2. $62.00
-
-V. Por suministro a los Centros de
-
-Verificación Vehicular, de Certificados
-
-y Hologramas "Cero" para exentar las
-
-restricciones a la circulación establecidas
-
-por los programas "Hoy No Circula" y de
-
-"Contingencias Ambientales de la Zona
-
-Metropolitana del Valle de México". $62.00
-
-VI. Por suministro a los Centros de
-
-Verificación Vehicular, de Certificados y
-
-Hologramas "Doble Cero" para exentar las
-
-restricciones a la circulación establecidas
-
-por los programas "Hoy No Circula" y de
-
-"Contingencias Ambientales de la Zona
-
-Metropolitana del Valle de México". $62.00
-
-El pago que realice el propietario del vehículo
-
-por el servicio de verificación vehicular, se hará
-
-de acuerdo a lo que señale la Ley o el Acuerdo
-
-por el que se establece el Programa de
-
-Verificación Vehicular y Monitoreo a Vehículos
-
-Ostensiblemente Contaminantes para el Estado
-
-de Michoacán de Ocampo.
-
-El pago referido en los incisos A), B), C), D), E) y F) de
-
-esta fracción, lo realizarán los permisionarios
-
-de los Centros de Verificación Vehicular que
-
-llevan a cabo el "Programa de Verificación
-
-Vehicular" y "Monitoreo a Vehículos
-
-Ostensiblemente Contaminantes", en la Secretaría
-
-de Finanzas y Administración, previa autorización
-
-de la Secretaría de Medio Ambiente, Cambio Climático
-
-y Desarrollo Territorial, quien a su vez emitirá los
-
-Certificados y Hologramas que señalan los incisos
-
-ya referidos.
-
-VII. Por participación en concurso en
-
-convocatoria pública para la prestación
-
-del servicio de verificación vehicular
-
-emitida por la Secretaría de Medio
-
-Ambiente, Cambio Climático y Desarrollo
-
-Territorial. $5,150.00
-
-VIII. Pago por autorización de
-
-Otorgamiento de Permiso para Instalar
-
-y Operar Centro de Verificación Vehicular
-
-con una línea. $30,900.00
-
-IX. Pago por autorización de Otorgamiento
-
-de Permiso para Instalar y Operar Centro
-
-de Verificación Vehicular con dos líneas. $51,500.00
-
-X. Por la renovación del otorgamiento
-
-de permiso anual a los concesionarios
-
-de Centros de Verificación Vehicular, para
-
-una línea. $10,300.00
-
-XI. Por la renovación del otorgamiento de
-
-permiso anual a los concesionarios de
-
-Centros de Verificación Vehicular, para dos
-
-líneas. $20,600.00
-
-XII. Pago por Solicitud de Cambio de Domicilio
-
-del Centro de Verificación Vehicular con
-
-Autorización. $4,120.00
-
-XIII. Pago por reposición administrativa,
-
-en caso de pérdida de holograma, la cual se
-
-realizará únicamente ante la Secretaría de
-
-Medio Ambiente, Cambio Climático y Desarrollo
-
-Territorial. $103.00
-
-XIV. Pago por expedición de Certificados
-
-y Hologramas Tipo Exento, el cual se
-
-realizará únicamente ante la Secretaría de
-
-Medio Ambiente, Cambio Climático y Desarrollo
-
-Territorial. $175.00
+XIV. Pago por expedición de Certificados y Hologramas Tipo Exento, el cual se realizará únicamente ante la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial. $ 180.00
 
 ## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO I. PARTICIPACIONES
+### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 137.
 
@@ -4743,9 +4715,9 @@ Son los ingresos que percibe el Estado por funciones de derecho público distint
 
 I. Por Venta de Bases de Licitación:
 
-A) Bases de invitación restringida. $1,957.00
+A) Bases de invitación restringida. $ 2,016.00
 
-B) Bases de Licitación Pública. $3,914.00
+B) Bases de Licitación Pública. $ 4,031.00
 
 II. Multas: Multas por infracciones a leyes, reglamentos y demás disposiciones normativas de carácter Estatal.
 
@@ -4757,7 +4729,7 @@ V. Indemnizaciones por cheques no pagados por las instituciones bancarias, en lo
 
 VI. Recuperación de los costos por la realización de los procedimientos de adjudicación de contratos para la adquisición de bienes o servicios, o ejecución de obras públicas, ya sea por licitación pública o por invitación restringida, de conformidad con las leyes y demás disposiciones aplicables en cada materia, como sigue:
 
-A) Conforme al monto que determine el Comité de Adquisiciones del Poder Ejecutivo, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva, para la adquisición de bienes o servicios; y,
+A) Conforme al monto que determine el Comité de Adquisiciones del Poder Ejecutivo, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva, para la adquisición de bienes o servicios; y
 
 B) Conforme al monto que determine la dependencia o entidad de que se trate, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
 
@@ -4797,73 +4769,73 @@ Las dependencias u organismos públicos federales, estatales o municipales que s
 
 XXI. Otros Aprovechamientos:
 
-A) Por inscripción en el Registro de Padrón
+A) Por inscripción en el Registro de Padrón de Proveedores o ampliación de claves de suministro, para personas físicas o morales residentes en el Estado. $ 983.00
 
-de Proveedores o ampliación de claves de
+B) Por inscripción en el Registro de Padrón de Proveedores o ampliación de claves de suministro, para personas físicas o morales residentes en el exterior del Estado. $ 3,252.00
 
-suministro, para personas físicas o morales
+C) Inscripción en el Registro de Padrón de Proveedores (exceptuando la acreditación de antigüedad). $ 9,325.00
 
-residentes en el Estado. $954.00
+D) Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el Estado. $ 389.00
 
-B) Por inscripción en el Registro de Padrón
+E) Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el exterior del Estado. $ 1,558.00
 
-de Proveedores o ampliación de claves
+F) Por la emisión o reposición de la Tarjeta de Registro de Proveedor. $ 226.00
 
-de suministro, para personas físicas o morales
+G) Copia simple. $ 24.00
 
-residentes en el exterior del Estado. $3,157.00
+H) Copia Certificada. $ 43.00
 
-C) Inscripción en el Registro de Padrón
+I) Cuota por Adjudicación Directa. $ 4,031.00
 
-de Proveedores (exceptuando la acreditación
+J) Ampliación de Claves de Suministro para personas físicas o morales residentes en el Estado de Michoacán. $ 982.00
 
-de antigüedad). $9,053.00
+K) Ampliación de Claves de Suministro para personas físicas o morales residentes en el exterior del Estado de Michoacán. $ 3,252.00
 
-D) Por actualización de Constancia en el
+L) Servicios para tramitar el Pasaporte ante la Secretaría de Relaciones Exteriores:
 
-Registro de Padrón de Proveedores, para
-
-personas físicas o morales residentes en el
-
-Estado. $378.00
-
-E) Por actualización de Constancia en el
-
-Registro de Padrón de Proveedores, para
-
-personas físicas o morales residentes en el
-
-exterior del Estado. $1,513.00
-
-F) Por la emisión o reposición de la Tarjeta de
-
-Registro de Proveedor. $219.00
-
-G) Copia simple. $23.00
-
-H) Copia Certificada. $42.00
-
-I) Cuota por Adjudicación Directa. $3,914.00
-
-J) Servicios para tramitar el Pasaporte
-
-ante la Secretaría de RelRelaciones (sic)
-
-Exteriores:
-
-1. Por los servicios y documentos necesarios
-
-para tramitar el Pasaporte en oficinas estatales
-
-que funcionan como enlace de la Secretaría de
-
-Relaciones Exteriores. (No incluye fotografías). $331.00
+1. Por los servicios y documentos necesarios para tramitar el Pasaporte en oficinas estatales que funcionan como enlace de la Secretaría de Relaciones Exteriores. (No incluye fotografías). $ 341.00
 
 XXII. Otros no especificados.
 
-Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el Artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas o de difícil aprovechamiento, la Secretaría de Finanzas y Administración, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
+Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el Artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas (sic) o de difícil aprovechamiento, la Secretaría de Finanzas y Administración, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
 
 Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el Capítulo Sexto del Título Primero de la Ley de Catastro del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 137 BIS. Por los servicios que preste la Fiscalía General del Estado, se atenderá a lo siguiente:
+
+CONCEPTO CUOTA
+
+I. Carta de no antecedente penales. $ 196.00
+
+II. Constancia de respuesta. $ 100.00
+
+III. Certificación de no reporte de robo vehícular
+
+y no alteración en sus números confidenciales
+
+de identificación. $ 373.00
+
+Pruebas periciales requeridas por autoridades
+
+o particulares ajenas a la investigación y
+
+persecución de delitos.
+
+IV. Perfiles genéticos de paternidad $ 10,650.00
+
+V. Guardia y custodia de vehículos u objetos
+
+asegurados o a resguardo de la Fiscalía
+
+A) Remolques, pipas, autobuses, o vehículos
+
+de tamaño semejante. $ 54.00
+
+B) Camiones, camionetas y automóviles $ 42.00
+
+C) Motocicletas $ 32.00
 
 ###### ARTÍCULO 138.
 
@@ -4881,13 +4853,13 @@ Los aprovechamientos derivados de multas por infracciones a disposiciones admini
 
 Son los ingresos propios obtenidos por las Instituciones Públicas de Seguridad Social, las Empresas Productivas del Estado, las entidades de la administración pública paraestatal, los poderes legislativo y judicial, y los órganos autónomos estatales, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
 
-### CAPÍTULO II. APORTACIONES
+### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
 
 ###### ARTÍCULO 141.
 
 Son recursos provenientes de la venta de energía eléctrica, realizada a la Comisión Federal de Electricidad por organismos descentralizados del Gobierno Estatal, conforme a los convenios y demás disposiciones aplicables al caso en concreto.
 
-### CAPÍTULO III. CONVENIOS
+### CAPÍTULO II. OTROS INGRESOS
 
 ###### ARTÍCULO 142.
 
@@ -4903,15 +4875,13 @@ II. Otros.
 
 Son los recursos que recibe el Estado por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
 
-### CAPÍTULO IV. INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO I. PARTICIPACIONES
 
 ###### ARTÍCULO 144.
 
 Son los ingresos que recibe el Estado que se derivan de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes.
 
-### CAPÍTULO V. FONDOS DISTINTOS DE APORTACIONES
+### CAPÍTULO II. APORTACIONES
 
 ###### ARTÍCULO 145.
 
@@ -4955,13 +4925,15 @@ A) Para la Infraestructura Social Municipal y las Demarcaciones Territoriales de
 
 B) Para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de la Ciudad de México.
 
-### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
+### CAPÍTULO III. CONVENIOS
 
 ###### ARTÍCULO 146.
 
 Son los ingresos que recibe el Estado derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la Federación y el Estado.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES
+### CAPÍTULO IV. INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 147.
 
@@ -4995,6 +4967,8 @@ XIII. Incentivos por Vigilancia del Cumplimiento de Obligaciones Fiscales del Im
 
 XIV. Por Actos de Fiscalización del cumplimiento de las obligaciones fiscales y aduaneras, derivadas de la introducción de mercancías y vehículos de procedencia extranjera.
 
+### CAPÍTULO V. FONDOS DISTINTOS DE APORTACIONES
+
 ###### ARTÍCULO 148.
 
 Son los ingresos que recibe el Estado, derivados de fondos distintos de aportaciones y previstos en disposiciones específicas, tales como: Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, y Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros (Fondo Minero), entre otros.
@@ -5007,6 +4981,8 @@ Son los recursos que reciben en forma directa o indirecta los entes públicos co
 
 ## TÍTULO DÉCIMO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
+### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
+
 ###### ARTÍCULO 150.
 
 Se consideran ingresos derivados de financiamientos, los siguientes:
@@ -5018,6 +4994,8 @@ II. Los de largo plazo, de conformidad con lo dispuesto por la Ley de Deuda Púb
 III. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
 
 ## TÍTULO DECIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES
 
 ###### ARTÍCULO 151.
 
@@ -5132,3 +5110,29 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular (sic) la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo, para su conocimiento y los efectos conducentes.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 502 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 102,103, 104, 111, 113, 114, 115, 117, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 130, 135, 136 Y 137; SE ADICIONAN LOS ARTÍCULOS 20 BIS, 20 BIS 1, 20 BIS 2, 20 BIS 3, 20 BIS 4, 20 BIS 5, 20 BIS 6, 20 BIS 7, 20 BIS 8, 20 BIS 9, 20 BIS 10, 20 BIS 11, 20 BIS 12, 20 BIS 13, 20 BIS 14, 20 BIS 15, 20 BIS 16, 20 BIS 17, 20 BIS 18, 20 BIS 19, 20 BIS 20, 20 BIS 21 Y 137 BIS, DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de enero de 2021, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Las disposiciones contenidas en este ordenamiento no son de carácter anual, por lo que en el supuesto de no contar con (sic) Ley de Ingresos del Ejercicio de que se trate, se aplicara la última Ley de Ingresos vigente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a los titulares de las dependencias y Unidades Administrativas del Poder Ejecutivo del Estado, que las actividades que lleven a cabo como consecuencia de sus atribuciones les generen algún ingreso por la prestación de servicios que señala este ordenamiento, llámese derechos, productos, o aprovechamientos, así como cualquier otro ingreso que obtengan de la recaudación por cualquier concepto, deberán ser enterados y depositados a la Secretaría de Finanzas y Administración, en términos de lo previsto por la normatividad aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Con respecto a los ingresos establecidos en esta Ley, de ser necesario, el Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar el cumplimiento de las obligaciones establecidas en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El 35 por ciento de honorarios referidos en la fracción I, inciso a), numerales 2 y 3; inciso D) numerales 2, 3, 4 y 5; e inciso E) del artículo 118 de esta Ley, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad.
+
+###### ARTÍCULO QUINTO.
+
+Los ingresos a que se refiere el artículo 137 bis se cobrarán mediante el acuerdo de coordinación correspondiente entre la Secretaría de Finanzas y Administración y la Fiscalía General del Estado, y se entregarán a esta última como recursos propios.
