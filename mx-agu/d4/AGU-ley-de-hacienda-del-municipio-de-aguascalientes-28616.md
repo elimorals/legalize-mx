@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2019-12-16"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -1483,13 +1483,9 @@ Será objeto de los Derechos a que se refiere este Capítulo, la expedición por
 
 Los Derechos que establece el artículo anterior, se fijarán tomando en cuenta el número de hojas en que se hagan constar los Certificados, Certificaciones, Actas, Legalizaciones y Copias, además la mayor o menor dificultad y tiempo que tenga que emplearse en la búsqueda del documento que ha de copiarse o sea necesario consultar.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTICULO 138.
 
-El servicio de alumbrado público estará a cargo de este Municipio de Aguascalientes y será suministrado dentro del territorio del mismo, conforme a lo siguiente:
-
-I. El Municipio de Aguascalientes determinara la forma de recaudación de la aportación social del alumbrado público, (ASAP), a través del convenio que establezca con la Comisión Federal de Electricidad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 ARTICULO 138 BIS.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
@@ -1591,13 +1587,63 @@ Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, ser�
 
 ARTICULO 148 BIS.- Quedarán exentos del pago de derechos generados por el uso de la pensión a cargo del municipio, los propietarios que tengan el carácter de víctimas u ofendidos de un delito, de los vehículos asegurados por la autoridad ministerial, judicial o administrativa; siempre que dichos vehículos hayan sido el objeto de apropiamiento de dicho delito.
 
-### CAPITULO I
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-#### SECCION UNICA
+### CAPITULO XIV. Por el Servicio Integral de Iluminación Municipal
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN,P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN ÚNICA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 TER.- Será objeto de los Derechos a que se refiere este Capítulo, la expedición por parte de funcionarios o empleados del Municipio, de toda clase de Certificaciones, Actas, Legalizaciones y Copias de Documentos existentes en los archivos de las oficinas municipales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 QUATER.- Los Derechos que establece el artículo anterior, se fijarán tomando en cuenta el número de hojas en que se hagan constar los Certificados, Certificaciones, Actas, Legalizaciones y Copias, además la mayor o menor dificultad y tiempo que tenga que emplearse en la búsqueda del documento que ha de copiarse o sea necesario consultar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 QUINQUIES.- El objeto de este derecho será el Servicio Integral de Iluminación Municipal, el que se presta en calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y, en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 SEXIES.- La tarifa mensual correspondiente al Servicio Integral de Iluminación Municipal, será la obtenida como resultado de dividir el costo anual global actualizado por el Municipio en la prestación de este servicio, entre el número de cuentas catastrales registradas en el Municipio. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre al usuario.
+
+Se entiende como costo anual global actualizado la suma de los montos de los últimos 12 meses de los siguientes conceptos:
+
+I.- El gasto realizado por el Municipio para el otorgamiento del servicio de (sic) integral de iluminación Municipal;
+
+II.- El importe que la Comisión Federal de Electricidad facture por consumo de energía respecto del servicio integral de iluminación Municipal; y
+
+III.- El ahorro energético en pesos que obtenga el Municipio.
+
+Para los efectos de los incisos anteriores, los últimos 12 meses son aquellos previos al mes de septiembre del año en el que se realiza el cálculo, incluyendo este último.
+
+La suma total antes referida será traída a valor presente tras la aplicación de un factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor o cualquier indicador que en su momento lo sustituya, correspondiente al mes de septiembre del año en que se realiza el cálculo, entre el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, correspondiente al mes de septiembre del año inmediato anterior.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA PRIMERA SECCIÓN DEL P.O. 31 DE DICIEMBRE DE 2020, PÁGINA 101.]</small>
+
+Las facilidades administrativas de cobro, beneficios fiscales o políticas de descuento, deberán preverse en la ley de ingresos para el Municipio de Aguascalientes.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en las cuentas catastrales del Municipio, pagarán la tarifa resultante mencionada en este artículo, mediante el recibo que para tal efecto expida la Secretaria de Finanzas Publicas de este Municipio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 SEPTIES.- El Servicio Integral de Iluminación Municipal se causará mensualmente. El pago se hará dentro de los primeros diez días siguientes al mes en que se cause el pago, cuando se haga en las oficinas de la Secretaría de Finanzas Públicas de este Municipio o en las instituciones autorizadas para tal efecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 OCTIES.- Para efectos del cobro de este servicio, el Municipio podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el Municipio. En estos casos se deberá incluir el importe de este servicio, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar conjuntamente con el recibo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTICULO 148 NONIES.- Son sujetos al pago de este servicio los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
-### CAPITULO II. Enajenación de Bienes e Inmuebles Pertenecientes al Patrimonio Municipal
+### CAPITULO I
 
 #### SECCION UNICA
 
@@ -1611,13 +1657,13 @@ II.- Renta o beneficio de bienes propiedad del Municipio; y
 
 III.- Otros productos.
 
-### CAPITULO III. De la Renta o Beneficio de Bienes Propiedad del Municipio
+### CAPITULO II. Enajenación de Bienes e Inmuebles Pertenecientes al Patrimonio Municipal
 
 ###### ARTICULO 150.
 
 La enajenación de los bienes muebles o inmuebles propiedad del Municipio; sólo podrá llevarse a cabo cuando se cumplan previamente los requisitos establecidos en la Constitución Política del Estado y lo aprueben el Ayuntamiento y el Congreso del Estado.
 
-### CAPITULO IV. Otros Productos
+### CAPITULO III. De la Renta o Beneficio de Bienes Propiedad del Municipio
 
 ###### ARTICULO 151.
 
@@ -1627,7 +1673,7 @@ Las rentas o beneficio por el uso y goce de inmuebles municipales, o de cualquie
 
 Las tarifas por los cobros a que se refiere el artículo anterior, se causarán en los términos que al efecto señale la Ley de Ingresos Municipal.
 
-### CAPITULO UNICO
+### CAPITULO IV. Otros Productos
 
 #### SECCION UNICA
 
@@ -1702,6 +1748,8 @@ Las participaciones que por el cobro de multas federales correspondan al Municip
 Las Participaciones fijadas a los patronatos u organismos diversos será conforme a lo establecido en las disposiciones legales relativas a su constitución o a los convenios que celebren con el Ayuntamiento.
 
 ## TITULO SEPTIMO. DE OTROS INGRESOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 159.
 
@@ -1874,3 +1922,69 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2020.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 454.- LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2021”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley y las Tablas de Valores Unitarios de Suelo y/o Construcción, incluidas en el Anexo 1, entrarán en vigencia a partir del 1º de enero de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el caso de que los ingresos que reciba el Municipio en el Ejercicio Fiscal 2021, sean superiores o inferiores, en cualquier tipo de ingresos, a los establecidos en el Artículo 1º de la presente Ley, no será necesario reformar la misma, bastará con que se rinda cuenta de ello en los términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO TERCERO.
+
+Para el caso de que existan excedentes de ingresos en cualquiera de los conceptos que conforman los rubros y tipos establecidos en el Artículo 1°,conforme a lo estimado en la presente Ley de Ingresos del Municipio de Aguascalientes para el Ejercicio Fiscal 2021, se podrán asignar de manera inmediata, sin ser necesario reformar la misma, bastará con que se informe en la cuenta pública del mes en el cual se realice la adición, conforme a los términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Para el caso de que la clasificación por rubro y/o tipo de ingresos establecido en el Artículo 1° y en el texto de la presente Ley, se deba modificar en razón de la adopción e implementación de lo establecido en la Ley General de Contabilidad Gubernamental y en mejoras a los documentos aprobados por el Consejo Nacional de Armonización Contable, no será necesario reformar la misma, bastará con que rinda cuenta pública de ello en términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Si el Impuesto a la Propiedad Raíz determinado conforme al artículo 27 de la presente Ley es superior en un 15% (quince por ciento) en relación con el impuesto generado en el año inmediato anterior, entonces el monto máximo a pagar del Ejercicio Fiscal 2021, será la cantidad que resulte de incrementar en un 15% (quince por ciento) el monto del impuesto que le correspondió en el año inmediato anterior.
+
+Esta prerrogativa no aplicará si el inmueble sufrió modificaciones, sea por construcción, fusión o subdivisión.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando esta Ley haga referencia al Impuesto predial, se entenderá que se refiere al Impuesto a la Propiedad Raíz.
+
+###### ARTÍCULO OCTAVO.
+
+El derecho contenido en el Artículo 66, Fracción III, numeral 1, de esta Ley, únicamente podrá ser cobrado si el Municipio celebra previamente convenio o acuerdo previsto en el Artículo 12, párrafo segundo, de la Ley de Coordinación Fiscal del Estado de Aguascalientes.
+
+###### ARTÍCULO NOVENO.
+
+En relación con los artículos 52, 53 y 54 de la presente Ley se otorgará un 50% (cincuenta por ciento) de descuento en el pago de derechos relacionados con la creación de empresas o de inicio de actividades comerciales, a todas aquellas personas que acrediten su calidad de migrantes en retorno en los términos y condiciones de las reglas que al respecto emita el H. Ayuntamiento. En caso de existir otros descuentos vigentes al momento de la solicitud correspondiente será aplicable únicamente el de mayor beneficio al interesado.
+
+###### ARTÍCULO DÉCIMO.
+
+Se faculta al Presidente Municipal y al Secretario de Finanzas Publicas del Municipio de Aguascalientes a otorgar los siguientes descuentos por el Servicio Integral de Iluminación Municipal:
+
+a) Empresas, comercios, industrias o de servicios hasta del 80% (ochenta por ciento).
+
+b) En los inmuebles de uso habitacional, propiedad de personas adultas mayores, personas con discapacidad, pensionados y jubilados, se aplicará hasta el 50% (cincuenta por ciento).
+
+c) Sólo en situaciones de desastres naturales o causas de fuerza mayor, se aplicará hasta el 80% (ochenta por ciento).
+
+Los descuentos mencionados en los incisos anteriores, deberán ser solicitados dentro de los primeros 3 (tres) meses del año y aplicarán para todo el ejercicio fiscal 2021, mediante solicitud por escrito dirigida a la Secretaría de Finanzas Públicas de este Municipio y con los requisitos que la Dirección de Ingresos de la citada Secretaría Municipal establezca.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Como facilidad administrativa o beneficio fiscal, y en sustitución a lo señalado en esta ley, los contribuyentes del servicio integral de iluminación municipal, cuya recaudación sea por conducto de la compañía o empresa suministradora del servicio de energía eléctrica en el municipio, podrán pagar hasta un máximo del 9.5% sobre su consumo por concepto de energía eléctrica, a manera (sic) estímulo fiscal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+De la misma forma, todos los contribuyentes del Servicio Integral de Iluminación Municipal que voluntariamente deseen aportar, a manera de beneficio a la comunidad Municipal para tener un mejor servicio de iluminación, podrán hacerlo en un máximo del 9.5% sobre su consumo por concepto de energía eléctrica.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los valores que conforman el Anexo 1 de la presente Ley, relativo a las Tablas de Valores Unitarios de Suelo y/o de Construcción, pueden variar con base en las actualizaciones y reconsideraciones de valores que emita el Instituto Catastral del Estado de Aguascalientes, a solicitud del propietario.
