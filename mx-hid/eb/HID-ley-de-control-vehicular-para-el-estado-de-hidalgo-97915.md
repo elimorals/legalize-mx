@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2019-11-11"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -153,17 +153,15 @@ II.- Tratándose de vehículos usados:
 
 A) El contrato traslativo de dominio, análogo o similar, cuando se trate de vehículos que al momento de realizar el trámite, solo cuenten con la carta factura a que se refiere la fracción I, inciso A), del presente artículo. En estos casos, deberá presentar original de la carta factura y copia simple para su debido cotejo de la factura a que se refiere la citada disposición, y el contrato de cesión deberá contener nombre completo del cedente y del cesionario de los derechos, sus firmas, la fecha en que se realiza la operación, el precio pactado en la misma, o la estipulación de que ésta se realizó a título gratuito;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-B) La carta factura a que se refiere la fracción I, inciso A) del presente artículo, cuando se encuentre cedida, y siempre que en la última cesión conste el nombre completo de quien cede el documento, su firma, la fecha, el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito, y la manifestación expresa de que cede todos los derechos y obligaciones que ampara la factura, así como el nombre completo de la persona a favor de quien se cede la misma;
+B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 C) Las resoluciones de tribunales competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Vehicular Estatal o en Registro Público Vehicular.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-D) La factura original del vehículo, a que se refiere la fracción I inciso B) del presente artículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada en la factura. Asimismo, la cesión deberá contener el precio pactado en la operación de transmisión de propiedad o la estipulación de que esta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra venta privados.
+D) La factura original del vehículo, a que se refiere la fracción I inciso B) del presente artículo, acompañada del contrato traslativo de dominio y, en su caso, de los comprobantes fiscales correspondientes. Cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre completo del vendedor con el de la última cesión registrada en la factura, su firma, la fecha, el precio pactado en la operación de trasmisión de la propiedad, o la estipulación de que ésta se realizó a título gratuito y la manifestación expresa de que cede todos los derechos y obligaciones que ampara la factura, así como el nombre completo de la persona a favor de quien se cede la misma. Las disposiciones de este inciso son aplicables a contratos de (sic) traslativos de dominio, análogos o similares.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -177,11 +175,11 @@ A) Los títulos de propiedad emitidos en otros países, siempre que se adjunte e
 
 Cuando las facturas o documentos correspondientes se hubiesen emitido a través de medios electrónicos, será indispensable presentar además el archivo electrónico que en su caso corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o carta poder firmada ante dos testigos y ratificadas la (sic) firmas del otorgante y testigos ante las autoridades fiscales, notarios o fedatario público, acompañado (sic) copia de la identificación del contribuyente o representante legal, o a través de un familiar directo, mayor de edad en línea recta ascendente o descendente, sin limitación de grado.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notarios o fedatario público, acompañado (sic) identificación del contribuyente o representante legal.
 
 ###### Artículo 8.
 
@@ -217,7 +215,7 @@ V.- Recibo de pago de impuesto predial del ejercicio vigente;
 
 VI.- Contrato de arrendamiento, adjuntando último recibo de pago que reúna requisitos fiscales; y
 
-VII.- Constancia de residencia expedida por la autoridad municipal competente.
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -521,9 +519,9 @@ El propietario del vehículo, adicionalmente a los requisitos previstos en el ar
 
 I.- Incorporación de vehículos nuevos en el Registro Vehicular Estatal:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-A) Tratándose de vehículos usados, el propietario deberá presentarlo ante la Secretaría para inspección física del mismo, así como original del documento con que acredite la propiedad del vehículo, en los términos del artículo 6 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento. En el caso de vehículos nuevos, el propietario podrá realizar la inspección física del mismo y bajo su responsabilidad, presentará a la Secretaría la calca o fotografía del número de serie del vehículo.
+A) Tratándose de vehículos usados, el propietario deberá presentarlo ante la Secretaría para inspección física del mismo, así como original del documento con que acredite la propiedad del vehículo, en los términos del artículo 6 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento. En el caso de vehículos nuevos, el propietario podrá realizar la inspección física del mismo y bajo su responsabilidad, presentará a la Secretaría la calca y fotografía del número de serie del vehículo y fotografía a color de frente y de costado del vehículo completo.
 
 B) Tratándose de vehículos nuevos cuya incorporación al Registro Vehicular Estatal la realicen directamente los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos, será de la entera responsabilidad de éstos la verificación física y documental de los vehículos y sus propietarios; y
 
@@ -854,3 +852,11 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 220 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 566 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
