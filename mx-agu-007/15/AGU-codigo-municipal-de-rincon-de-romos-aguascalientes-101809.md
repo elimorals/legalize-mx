@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2019-08-26"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE RINCON DE ROMOS, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE RINCÓN DE ROMOS, AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -17492,3 +17494,57 @@ Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Rinc
 P.O. 26 DE AGOSTO DE 2019.
 
 > <small>[N. DE E. LA ADICIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE RINCÓN DE ROMOS, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Código Municipal de Rincón de Romos, Aguascalientes; publicado en el Periódico Oficial del Estado de Aguascalientes, el veintiocho de julio de dos mil catorce, y sus reformas subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrará en vigor al día primero de enero de dos mil veintiuno, con independencia de la fecha de su publicación en el Periódico Oficial del Estado del Aguascalientes. Los procedimientos y actos realizados por particulares y personas morales se tendrán que adecuar a lo dispuesto por este Bando y al o los reglamentos municipales aprobados de acuerdo con la materia que le sea aplicable.
+
+###### ARTÍCULO TERCERO.
+
+El capítulo “Del uso de las Tecnologías Digitales” entrara en vigor una vez que sea aprobado por el H. Ayuntamiento y publicado en el Periódico Oficial del Estado de Aguascalientes, el reglamento municipal respectivo, en el término que señale para entrar en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los reglamentos expedidos con anterioridad a la vigencia del presente Bando, seguirán teniendo vigencia y el H. Ayuntamiento tendrá la obligación que, en caso de ser necesario, apruebe las reformas, adiciones que sean necesarias, en un término no mayor de 180 días naturales, mientras tanto, en caso de existir alguna situación no previstas (sic) por los reglamentos vigentes, se resolverán (sic) por acuerdo del H. Ayuntamiento por mayoría calificada.
+
+###### ARTÍCULO QUINTO.
+
+El Código Municipal de Rincón de Romos, Aguascalientes; seguirá siendo aplicable en todo aquello que no se oponga al presente Bando, por lo que, las disposiciones reglamentarias seguirán siendo vigentes, para lo cual, el H. Ayuntamiento tendrá un término no mayor de 180 días naturales para realizar la reglamentación especial para cada uno de los casos no previstos en el presente Bando.
+
+###### ARTÍCULO SEXTO.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento de orden municipal se le confieran facultades o atribuciones al Comité del Sistema para el Desarrollo Integral de (sic) Familia del Municipio de Rincón de Romos, Aguascalientes; se entenderán conferidas al ahora Sistema para el Desarrollo Integral de (sic) Familia del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento de orden Municipal donde se le confieran facultades y atribuciones a la Dirección de Seguridad Pública y Vialidad del Municipio de Rincón de Romos, se entenderán conferidas a la ahora Dirección de Seguridad Pública y Movilidad del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El Patronato de Feria Regional de Rincón de Romos, Aguascalientes “Patronato”, una vez que entre en vigor el presente Bando, se extinguirá como Organismo Público Descentralizado de la Administración Municipal y tendrá un plazo de 90 días para realizar el proceso de reincorporación a la Administración Pública Municipal, ahora como Departamento de Ferias Regionales y Turismo, derivado de lo anterior, se deberán de incorporar los recursos económicos, humanos y materiales con él que cuente el Patronato, realizando los ajuste (sic) contables y presupuestales a que allá (sic) lugar.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento de orden Municipal se le confieran facultades o atribuciones al Patronato de Feria Regional de Rincón de Romos, Aguascalientes, se entenderán conferidas al ahora Departamento de Ferias Regionales y Turismo, adscrito a la Dirección de Desarrollo Económico y Turismo del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO NOVENO.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento de orden Municipal donde se le confieran facultades y atribuciones a la Instancia de la Juventud del Municipio de Rincón de Romos, se entenderán conferidas a la ahora Dirección de Instancia de la Juventud del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento de orden Municipal donde se le confieran facultades y atribuciones a la Instancia de la Mujer del Municipio de Rincón de Romos, se entenderán conferidas a la ahora Dirección de Instancia de la Mujer del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para el caso de que, en alguna norma, manual, lineamientos, reglamento o código de orden Municipal donde se le confieran facultades y atribuciones a la Dirección de Ecología y Protección al Medio Ambiente de Rincón de Romos, se entenderán conferidas a la ahora Departamento de Ecología y Casa de Matanza adscrito a la Dirección de Servicios Públicos Municipales del Municipio de Rincón de Romos, Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Departamento de Jueces Calificadores a que hace alusión el artículo 22 fracción VIII, inciso A), del presente Bando, pertenecerá orgánicamente a la Dirección Jurídica a partir del día quince de octubre de dos mil veintiuno, mientras tanto este departamento está a cargo del Secretario de (sic) H. Ayuntamiento y Dirección General de Gobierno del Municipio de Rincón de Romos, Aguascalientes.
