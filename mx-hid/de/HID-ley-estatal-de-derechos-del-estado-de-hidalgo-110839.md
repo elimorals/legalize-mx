@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -1335,9 +1335,9 @@ DE LA DIRECCIÓN GENERAL DE PADRONES Y PROCEDIMIENTOS DE CONTRATACIÓN.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Padrones y Procedimientos de Contratación, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-I.- Por la prestación de servicios de inscripción, revalidación, modificación o reposición en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Hidalgo. 13.00 u.m.a.´s;
+I.- Por la prestación de servicios de inscripción, revalidación, modificación o reposición en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Hidalgo. 30 u.m.a.'s;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1363,7 +1363,9 @@ Los derechos a que se refiere el presente artículo serán enterados a la Hacien
 
 ARTÍCULO 35 BIS. Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Contraloría, a través de la Dirección General de Responsabilidades y Situación Patrimonial, se causarán y pagarán de la siguiente forma:
 
-I.- Por la expedición de constancia de no inhabilitación o, en su caso, constancia de inhabilitación. 1.18 u.m.a.´s
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+I. Por la expedición de constancia de no inhabilitación o, en su caso, constancia de inhabilitación. 1.90 u.m.a.´s
 
 ###### ARTÍCULO 36.
 
@@ -1613,7 +1615,9 @@ e) Por la emisión de gafete de acreditación para el personal. 1 u.m.a.;
 
 f) Por la autorización de la bitácora de operación y mantenimiento. 1 u.m.a.;
 
-g). Por el uso anual del sistema digital de verificación vehicular. 600 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+g). Por el uso anual del sistema digital de verificación vehicular. 200 u.m.a.´s;
 
 II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
@@ -1634,6 +1638,10 @@ c) "00" (doble cero). 4.6 u.m.a.´s;
 d) "1" (uno). 1.19 u.m.a.´s; y
 
 e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+f) “V” (Voluntario). 1.19 u.m.a.´s.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1827,7 +1835,7 @@ XXIV.- En el área natural protegida denominada Parque Ecológico Cubitos, se co
 
 a) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando la visita guiada 0.15 u.m.a.’s; y
 
-b) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando el paquete “Retos de Aventura”. 0.78 u.m.a.’s.
+b).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2253,6 +2261,10 @@ IV.- Por la expedición de constancias de información, registro o folio del reg
 
 V.- Por la expedición de copias certificadas, por cada foja. 0.2 u.m.a.´s
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VI.- Por el registro del profesional, persona física o moral, experto o perito en la materia, responsable de elaborar, integrar y suscribir el Estudio de Impacto en la Movilidad. 11.7 u.m.a.´s
+
 ## TÍTULO TERCERO
 
 DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚBLICO CORRESPONDIENTES A LOS ORGANISMOS DESCENTRALIZADOS QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
@@ -2334,5 +2346,13 @@ P.O. 31 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 303, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “NUM. 566 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
