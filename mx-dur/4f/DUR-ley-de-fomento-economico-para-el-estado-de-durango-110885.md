@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2020-10-01"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -387,7 +389,9 @@ ARTÍCULO 14 BIS 2.
 
 El Patrimonio del Consejo para el Desarrollo y el de los Comités Regionales de Promoción Económica estará formado por:
 
-I. Los recursos que aporte mensualmente el Gobierno del Estado de Durango, por un monto equivalente al 15 por ciento de lo que se recaude cada mes por concepto de Impuesto Sobre Nómina en el Estado de Durango;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+I. Los recursos que aporte el gobierno del Estado de Durango, cuyo monto corresponde al porcentaje de la recaudación del Impuesto sobre Nómina que se determine en las Leyes de Ingresos y Egresos del Estado de Durango para el ejercicio fiscal vigente.
 
 II. Por los subsidios, aportaciones extraordinarias y donativos de los Gobiernos Federal, Estatal y Municipales, de entidades paraestatales e internacionales y de los particulares, entre otros;
 
@@ -1786,6 +1790,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 1 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 354 POR EL QUE SE REFORMA EL ARTÍCULO UNO; SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 3; SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 4 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 484.- QUE CONTIENE REFORMAS A LA FRACCIÓN I DEL ARTÍCULO 14 BIS 2; DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
