@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-local-anticorrupcion-del-estado-de-durango-1217
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2017-11-26"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DEL SISTEMA LOCAL ANTICORRUPCION DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el No. 42 del Periódico Oficial del Gobierno del Estado de Durango, el jueves 25 de mayo de 2017.
 
@@ -277,9 +279,11 @@ Los integrantes del Consejo de Participación Ciudadana no podrán ocupar, duran
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada. Sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Los integrantes del Consejo de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, dichos honorarios serán homólogos a los establecidos para la categoría de alta dirección del Poder Ejecutivo en la Ley de Egresos que corresponda, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
+Los integrantes del Consejo de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaria Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
 
 Los integrantes del Consejo de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Consejo de Participación Ciudadana y a la Comisión Ejecutiva.
 
@@ -399,9 +403,11 @@ El Consejo de Participación Ciudadana podrá solicitar al Consejo Coordinador l
 
 #### Sección I. De Su Organización y Funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-La Secretaría Ejecutiva del Sistema Local es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la capital del Estado. Contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines, y por lo tanto, el Congreso del Estado deberá asignarle cada año el presupuesto suficiente para el ejercicio integral de sus funciones, incluyendo las del Consejo de Participación Ciudadana.
+La Secretaría Ejecutiva del Sistema Local es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la capital del Estado. Contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines, por lo tanto, el Congreso del Estado deberá asignarle cada año el presupuesto para el ejercicio integral de sus funciones, incluyendo las del Consejo de Participación Ciudadana; el ejercicio de estos recursos se realizará con eficiencia, austeridad, eficacia y transparencia.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2017)</small>
 
@@ -738,3 +744,23 @@ P.O. 26 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 491.- QUE CONTIENE REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 24 DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará (sic) el 1 de enero de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que se publiquen en el Periódico Oficial del Gobierno del Estado de Durango los Anexos XXXV y XXXVI, que contienen las reducciones y reasignaciones en la Ley de Egresos del Estado de Durango para el ejercicio fiscal 2021 y por consecuencia las modificaciones a los tabuladores salariales correspondientes a dichos anexos que para el efecto realice la Secretaría de Finanzas y de Administración, por lo tanto la Secretaría Ejecutiva del Sistema Local Anticorrupción, deberá ajustar los honorarios de los consejeros en base a dicho tabulador salarial.
+
+###### ARTÍCULO TERCERO.
+
+Los contratos de prestación de servicios por honorarios que se celebren a partir del 1 de enero de 2021 deberán ajustarse a lo señalado en el artículo 24 del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
