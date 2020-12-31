@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-huertos-urbanos-en-la-ciudad-de-mexico-119275"
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-16"
-last_updated: "2017-02-16"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119275&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-02-16"
 ---
 # LEY DE HUERTOS URBANOS EN LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE HUERTOS URBANOS EN LA CIUDAD DE MÉXICO PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 16 DE FEBRERO DE 2017. SE EXPIDE LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 31 DE DICIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HUERTOS URBANOS EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Número 9 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 16 de febrero de 2017.
 
@@ -299,3 +301,21 @@ TERCERO.- Las Secretarías de Medio Ambiente, Desarrollo Social y de Desarrollo 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de octubre del año dos mil dieciséis. POR LA MESA DIRECTIVA, DIP. A. XAVIER LÓPEZ ADAME, PRESIDENTE.- DIP. SOCORRO MEZA MARTÍNEZ, SECRETARIA.- DIP. RAYMUNDO MARTÍNEZ VITE, PROSECRETARIO.- FIRMAS.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los dieciséis días del mes de febrero del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE HUERTOS URBANOS EN LA CIUDAD DE MÉXICO PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 16 DE FEBRERO DE 2017. SE EXPIDE LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Se abroga la Ley de Huertos Urbanos en la Ciudad de México publicada en la Gaceta Oficial de la Ciudad de México el día 16 de febrero de 2017.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para mayor difusión.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- La Jefatura de Gobierno contará con un periodo no mayor a 180 días naturales para expedir el reglamento de la presente Ley.
+
+QUINTO.- La Secretaría del Medio Ambiente deberá emitir en un periodo no mayor a 180 días naturales, los lineamientos técnicos necesarios respecto del tipo de especies y cuidados de los huertos urbanos, así como de agricultura urbana, mismos que deberán publicarse en la Gaceta Oficial de la Ciudad de México.
+
+SEXTO.- El Congreso de la Ciudad de México asegurará en el Presupuesto para (sic) año fiscal inmediato, siguiente a la entrada en vigor de la presente Ley, la suficiencia presupuestal para la promoción, creación, desarrollo, mantenimiento y protección de los huertos urbanos a cargo de la Secretaría del Medio Ambiente de la Ciudad de México.
