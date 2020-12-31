@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2020-07-28"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -47,339 +47,291 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 1°.
 
-El objeto de esta Ley es regular el Sistema de Coordinación Fiscal del Estado de Michoacán y sus municipios, así como establecer las bases de cálculo, montos y plazos para la distribución de las Participaciones que en (sic) Ingresos Federales y Estatales y Fondos de Aportaciones Federales y Estatales, les corresponden a los municipios del Estado.
+El objeto de esta Ley es regular el Sistema de Coordinación Fiscal del Estado de Michoacán y sus municipios, así como establecer las bases de cálculo, montos, y plazos para la distribución de las Participaciones e Incentivos que en Ingresos Federales y Estatales y Fondos de Aportaciones Federales y Estatales, les corresponden a los municipios del Estado.
 
-Así también, establecer las reglas de colaboración administrativa entre el Estado y los municipios, y constituir los órganos del sistema de Coordinación Fiscal, y fijar las bases de colaboración administrativa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+Así también, de establecer las reglas de colaboración administrativa entre el Estado y los municipios, y constituir los órganos del Sistema de Coordinación Fiscal, y fijar las bases de colaboración administrativa.
 
-De igual forma, establecer el procedimiento y los montos correspondientes del Impuesto sobre la Renta a los municipios del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-### CAPÍTULO II. De las Participaciones en Ingresos Federales y Estatales a los Municipios
+Las Participaciones e Incentivos que correspondan a los municipios del Estado serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, serán inembargables, y no podrán destinarse a fines específicos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+A falta de disposición expresa en esta Ley, se aplicará de manera supletoria la Ley de Coordinación Fiscal, misma que estará a la interpretación de la Secretaría de Finanzas y Administración para los efectos respectivos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. De las Participaciones e Incentivos en Ingresos Federales y Estatales a los Municipios
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 2°.
 
-Los Municipios del Estado de Michoacán de Ocampo, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2º, 2º-A fracción III, 3ºA, 3°-B, 4°, 4º-A y 6° de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, conforme a lo dispuesto por el artículo 6° tercer párrafo de la Ley de Hacienda del Estado de Michoacán de Ocampo.
+De los ingresos que perciba el Gobierno del Estado por concepto de Participaciones e Incentivos en Ingresos Federales, mismos que se determinan con la recaudación de los Impuestos Federales y los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2º, 2º-A fracción III, 3ºA, 3°-B, 4°, 4º-A y 6° de la Ley de Coordinación Fiscal, 14 de la Ley del Impuesto sobre Automóviles Nuevos, Cláusula Décima Novena fracción VI del Convenio de Colaboración Administrativa en Materia Fiscal Federal; así como de la recaudación del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, conforme a lo dispuesto por el artículo 6° tercer párrafo de la Ley de Hacienda del Estado de Michoacán de Ocampo; los municipios percibirán a través de la Secretaría de Finanzas y Administración los montos que refiere este (sic) Ley, y la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 3°.
 
-Con el monto de las participaciones que correspondan a los Municipios del Estado, conforme a las disposiciones a que se refiere el artículo anterior, se constituirán el Fondo Participable y el Fondo de Gasolinas y Diesel, con el equivalente a las proporciones siguientes:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+Con el monto de las participaciones e incentivos que correspondan a los Municipios del Estado, conforme a las disposiciones a que se refiere el artículo anterior, se constituirán dos Fondos: el Fondo Participable y el Fondo de Gasolinas y Diésel, con el equivalente a las proporciones siguientes:
 
 I. Fondo Participable:
 
-a) El 20% de lo que corresponda al Estado en:
+A) El 20% de lo que corresponda al Estado en:
 
-- El Fondo General de Participaciones.
+1. El Fondo General de Participaciones;
 
-- El Impuesto Especial sobre Producción y Servicios.
+2. El Impuesto Especial sobre Producción y Servicios;
 
-- El Fondo de Fiscalización y Recaudación.
+3. El Fondo de Fiscalización y Recaudación;
 
-- El Impuesto sobre Automóviles Nuevos, como Incentivo por la Recaudación que se obtenga en el Territorio Estatal.
+4. El Impuesto sobre Automóviles Nuevos, como Incentivo por la Recaudación que se obtenga en el Territorio Estatal;
 
-- El Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
+5. El Fondo de Compensación del Impuesto sobre Automóviles Nuevos; y,
 
-- El Impuesto sobre Tenencia o Uso de Vehículos.
+6. El Impuesto sobre la Renta sobre los Ingresos por Enajenación de Bienes Inmuebles que establece el artículo 126 de la Ley del Impuesto sobre la Renta, de conformidad con lo establecido por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, como incentivo por la recaudación que se obtenga en el Territorio Estado.
 
-b) el 100% del Fondo de Fomento Municipal;
+7. El Impuesto a la Venta Final de Bebidas con Contenido Alcohólico
 
-c) El 80% de los ingresos que percibe el Estado del Impuesto sobre Loterías, Rifas, Sorteos y Concursos; y,
+B) El 100% del Fondo de Fomento Municipal;
 
-d) El 80% de los ingresos que percibe el Estado del Impuesto sobre Loterías, Rifas, Sorteos y Concursos.
+C) El 80% de los ingresos que percibe el Estado del Impuesto sobre Loterías, Rifas, Sorteos y Concursos; y,
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+II. Fondo de Gasolinas y Diésel:
 
-II. Fondo de Gasolinas y Diesel:
+A) El 20% de lo que corresponde al Estado en función de la recaudación del Impuesto a la Venta de Gasolinas y Diésel, efectuado en el territorio de la Entidad; y,
 
-a) El 20% de lo que corresponde al Estado en función de la recaudación del Impuesto a la Venta de Gasolinas y Diesel, efectuado en el territorio de la Entidad; y,
+B) El 20% de lo que corresponde al Estado del Fondo de Compensación, derivado del Impuesto a la Venta de Gasolinas y Diésel.
 
-b) El 20% de lo que corresponde al Estado del Fondo de Compensación, derivado del Impuesto a la Venta de Gasolinas y Diesel.
+El Fondo de Compensación antes señalado, se integra con el 18.1818% del total recaudado en el Impuesto a la Venta de Gasolinas y Diésel por cada una de las entidades federativas del país; el cual se distribuye entre las 10 entidades federativas, que de acuerdo con la última información oficial del Instituto Nacional de Estadística y Geografía tengan los menores niveles del Producto Interno Bruto Per Cápita no minero y no petrolero; el cual se obtiene de la diferencia entre el Producto Interno Bruto Estatal Total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
 
-El Fondo de Compensación, se integra con el 18.1818% del total recaudado por cada una de las entidades federativas del país; el cual se distribuye entre las 10 entidades federativas que, de acuerdo con la última información oficial del Instituto Nacional de Estadística y Geografía, tengan los menores niveles del Producto Interno Bruto Per Cápita no minero y no petrolero; el cual se obtiene de la diferencia entre el Producto Interno Bruto Estatal Total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
+III. Adicionalmente a lo referido en las fracciones I y II anteriores, los municipios participarán del 100% del Impuesto sobre la Renta, de conformidad con lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal.
 
-III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
+IV. El Municipio de Lázaro Cárdenas, recibe directamente por parte de la Secretaría de Hacienda y Crédito Público, el monto de Participaciones en Ingresos Federales del 0.136% que refiere el artículo 2-A, fracción I de la Ley de Coordinación Fiscal, por ser municipio colindante con litoral por el que se realiza materialmente la entrada al país o la salida de él, de los bienes que se importen o exporten, como consecuencia.
 
-Con el 5% de lo que le corresponda al Estado, en el Fondo General de Participaciones.
-
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2020)</small>
-
-IV. Porcentaje participable a los municipios.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
-
-a) El 100% del Impuesto sobre la Renta participable correspondiente a los municipios, de conformidad con lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2020)</small>
-
-b) 20% de lo que le corresponda al Estado por concepto de Impuesto sobre la Renta por Enajenación de Bienes Inmuebles, como incentivo por la recaudación que se obtenga en el Estado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 4º.
 
-El Fondo Participable, se distribuirá conforme a la fórmula siguiente:
+El Fondo Participable, referido en el artículo 3°, fracción I del de esta Ley, se distribuirá conforme a la fórmula siguiente:
 
 > <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2008, PÁGINAS DE LA 2 A LA 7.</small>
 
 > <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 2 A LA 3.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 3.]</small>
 
-4°-A. El Fondo de Fomento Municipal referido en el inciso b), Fracción I del Artículo 3° de esta Ley, se distribuirá entre los Municipios, conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-El monto determinado conforme a lo dispuesto por el Artículo 2- A fracción III de la Ley de Coordinación Fiscal, excepto el 30%, referido en este mismo artículo, se distribuirá acorde a lo señalado por el artículo 4° de esta Ley.
+ARTÍCULO 4º BIS. Fórmula para establecer el coeficiente C1it., mismo que se determina en base a la población.
 
-El 30% referido en el párrafo anterior, se determinará con la diferencia que exista entre el Fondo de Fomento Municipal a nivel Nacional del ejercicio fiscal anterior al vigente, y el correspondiente al del año 2013, del cual participarán los Municipios que hayan suscrito Convenio con el Gobierno del Estado, para que éste sea el responsable de la Administración del Impuesto Predial.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 3.]</small>
 
-Para que el Gobierno del Estado compruebe la existencia de la coordinación fiscal en el Impuesto Predial, deberá publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el Convenio referido en el párrafo anterior, en el entendido de que la inexistencia o extinción de dicho convenio hará que se deje de ser elegible para la distribución de esta porción del Fondo de Fomento Municipal.
-
-Siendo los Municipios referidos en el párrafo anterior, a los que se les distribuirá el monto determinado por este concepto; conforme a la fórmula siguiente:
-
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 4.</small>
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 5°.
 
-El Fondo de Gasolinas y Diesel, se distribuirá conforme a la fórmula siguiente:
+Fórmula para establecer el coeficiente C2it, o Desarrollo Relativo: Mismo que se determina en base a la suma de los cinco coeficientes de las variables siguientes: Superficie Territorial; Densidad de Población; Recaudación de los Derechos de Alumbrado Público; Número de Localidades; y Participaciones Pagadas en base al Desarrollo Relativo, del año inmediato anterior.
 
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2008, PÁGINAS DE LA 7 A LA 10.</small>
+I. Fórmula para determinar el coeficiente de Superficie Territorial.
 
-> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 4 A LA 5.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 4.]</small>
 
-Coeficientes que se encuentran debajo de la Media aritmética: Son los utilizados para la distribución del Fondo de Aportaciones para la Infraestructura Social de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, del ejercicio fiscal vigente.
+II. Fórmula para determinar el coeficiente de Densidad de Población.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 4.]</small>
+
+III. Fórmula para determinar el coeficiente de Derechos de Alumbrado Público
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 4.]</small>
+
+IV. Fórmula para determinar el coeficiente de Número de Localidades
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 5.]</small>
+
+V. Fórmula para determinar el coeficiente de Participaciones Pagadas en base al Desarrollo Relativo.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 5.]</small>
+
+VI. Determinación del coeficiente C2it, o de Desarrollo Relativo en base a las cinco variables señaladas en las fracciones I, II, III, IV y V anteriores.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 5.]</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 6°.
 
-La distribución entre los Municipios, del Fondo Participable a que se refiere la fracción I) del artículo 3° de esta Ley, se realizará conforme a los criterios siguientes:
+Fórmula para establecer el coeficiente C3it:, el cual se determina en base al inverso a las participaciones Per Cápita del municipio i, mismas que corresponden a las determinadas con el C1it, y el C2it.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 6.]</small>
 
-I. El 45%, en función al número de habitantes que registre cada Municipio, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-II. El 45%, en función del grado de desarrollo relativo de cada municipio, en los términos del artículo 10 de esta Ley; y,
+ARTÍCULO 6° BIS. El Fondo de Fomento Municipal se distribuirá conforme a lo establecido por el artículo 3°, inciso B), fracción I de esta Ley, mismo que corresponde al 70% referido en el Artículo 2- A fracción III de la Ley de Coordinación Fiscal; excepto el 30% que refiere este último artículo, mismo que se distribuirá entre los municipios conforme a lo señalado a continuación:
 
-III. El 10%, en proporción inversa a la participación por habitante, de la suma de las dos partes anteriores, en los términos del artículo 11 de esta Ley.
+El 30% referido en el párrafo que antecede corresponde solamente a aquellos municipios en los que el Gobierno del Estado sea el responsable de la administración del Impuesto Predial por cuenta y orden del municipio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+El Estado comprobará la existencia de la coordinación fiscal en el Impuesto Predial, al haber celebrado un convenio con el municipio correspondiente, y haberlo publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en el entendido de que la inexistencia o extinción de dicho convenio hará que se deje de ser elegible para la distribución de esta porción del Fondo de Fomento Municipal.
 
-###### ARTÍCULO 6°-A.
+A los Municipios referidos en el párrafo anterior, se les distribuirá el monto determinado por este concepto, mismo que previamente ha determinado la Secretaría de Hacienda y Crédito Público para el Estado en forma global; conforme a la fórmula siguiente:
 
-La distribución entre los Municipios del Fondo de Fomento Municipal, referido en el tercer párrafo del Artículo 4°-A de esta Ley, se realizará conforme al criterio siguiente:
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 6 A LA 7.]</small>
 
-I. El 100%en (sic) función del crecimiento en la recaudación del Impuesto Predial de los dos últimos ejercicios fiscales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 7°.
 
-La distribución entre los Municipios, del Fondo de Gasolinas y Diesel a que se refiere la fracción II, inciso A) del artículo 3° de esta Ley, se realizará conforme a los criterios siguientes:
+El Fondo de Gasolinas y Diésel, señalado en el artículo 3° fracción II del de esta Ley, mismo que se integra con:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+I. El Impuesto a la Venta de Gasolinas y Diésel, referido en el artículo 3° fracción II, inciso A) de esta Ley; y,
 
-I. 70% en función al número de habitantes que registre cada Municipio, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y,
+II. El Fondo de Compensación del Impuesto a la Venta de Gasolinas y Diésel, referido en el artículo 3° fracción II, inciso B) de esta Ley.
 
-II. 30% restante, en partes iguales a los 113 municipios de la entidad, conforme a los términos del párrafo segundo del artículo 13 de esta Ley.
+Mismos que se distribuirán conforme a las fórmulas establecidas en los artículos 8° y 9° de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 8°.
 
-La distribución entre los Municipios, del Fondo de Gasolinas y Diesel a que se refiere la fracción II, inciso B), del artículo 3° de esta Ley, se realizará conforme a los criterios siguientes:
+El Impuesto a la Venta de Gasolinas y Diésel referido en el artículo 7° fracción I de esta Ley, se distribuirá conforme a la fórmula siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
-
-I. 70% en función al número de habitantes que registre cada Municipio, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y,
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
-
-II. 30% en función de los Coeficientes de Pobreza Extrema, dados a conocer por la Secretaría de Desarrollo Social, para el ejercicio fiscal vigente, participable a los municipios que muestran que su factor, es menor a la media aritmética de los coeficientes primeramente señalados, conforme a los términos del párrafo segundo, del artículo 13 de esta Ley.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 7 A LA 8.]</small>
 
 ARTÍCULO 8° A. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 9º.
+###### ARTÍCULO 9°.
 
-Los coeficientes de población para la distribución de la parte a que se refiere la fracción I del artículo 6° de esta Ley, se determinan dividiendo el número de habitantes de cada municipio, entre el total de habitantes del estado, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía.
+El Fondo de Compensación de Gasolinas y Diésel referido en el artículo 7° fracción II de esta Ley, se distribuirá conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 8 A LA 9.]</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
-Los coeficientes de desarrollo relativo para la distribución de la parte a que se refiere la fracción II del artículo 6° de esta Ley, se determinan utilizando los parámetros siguientes:
+La metodología de cálculo y desarrollo de las fórmulas señaladas en este Capítulo, se realizarán en el «Acuerdo para la distribución de las Participaciones e Incentivos en Ingresos Federales, estableciéndose el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto estimado, que recibirá cada Municipio del Fondo Participable y el Fondo de Gasolinas y Diésel, referidos en el artículo 3° de esta Ley para cada ejercicio fiscal, a más tardar el 31 de enero del ejercicio de que se trate.
 
-I. Superficie territorial;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
-
-II. Densidad de población;
-
-III. Número de localidades;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-IV. Importe de la Facturación de derechos de alumbrado público, en el ejercicio fiscal del año anterior, emitido por la Comisión Federal de Electricidad; y,
-
-V. Importe absoluto de las participaciones pagadas conforme al criterio a que se refiere la fracción II del artículo 6° de esta Ley, en el ejercicio fiscal del año anterior.
-
-Los coeficientes que se determinen conforme a este artículo, serán el resultado de dividir la suma de los parámetros de cada municipio, entre la suma de los parámetros de todos los municipios.
-
-Para efecto del cálculo homogéneo de los coeficientes, los datos de los parámetros anteriormente señalados, se expresarán en valores relativos y serán el resultado de dividir el dato correspondiente a cada uno de los municipios, en cada uno de los parámetros; entre la suma de cada uno de los parámetros de todos los municipios.
-
-Debido a la dinámica de cada uno de los parámetros, al señalado en la fracción V anterior, se le da un peso específico de 25, y a los parámetros señalados en el resto de las fracciones anteriores, un peso específico de 1 (uno).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 11.
 
-Los coeficientes para la distribución de la parte a que se refiere la fracción III del artículo 6° de esta Ley, se determinan dividiendo la población de cada municipio, entre la suma de las participaciones estimadas para el presente ejercicio, a que se refieren las fracciones I y II del artículo 6° de esta Ley, para cada municipio.
+Los coeficientes determinados conforme a lo establecido por los artículos 4° BIS, 5°, 6°, 6° BIS, 8 y 9°, de esta Ley se aplicarán durante los meses de febrero a diciembre del año en cuestión, así como en el mes de enero del año siguiente. Los cuales se mantienen fijos, por lo que no cambian durante el transcurso del ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 11-A.
+ARTÍCULO 11 BIS. El Impuesto sobre la Renta a que se refiere el artículo 3° fracción III de esta Ley, será participable en un 100% a los municipios del Estado, siempre y cuando éstos efectivamente lo enteren a la Federación, y corresponda al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias, así como en las entidades paramunicipales, siempre y cuando el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones u otros ingresos de origen local; de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
 
-Los coeficientes para la distribución de la parte a que se refiere el artículo 6°-A de esta Ley, se determinan utilizando los parámetros siguientes:
+La Secretaría de Finanzas y Administración del Estado, enterará el 100% del Impuesto sobre la Renta Participable a los Municipios del Estado, dentro de los cinco días hábiles siguientes a su recepción.
 
-I. Monto recaudado del Impuesto Predial de los dos últimos ejercicios fiscales, de cada uno de los Municipios que hayan celebrado Convenio con el Gobierno del Estado, para que éste sea el responsable de la administración del Impuesto Predial;
+Para efectos de lo dispuesto en los párrafos anteriores, se considerará la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
 
-II. Número 2. (Sera constante para todos los Municipios).
-
-III. Población, correspondiente a los Municipios que hayan celebrado Convenio con el Gobierno del Estado, para que éste sea el responsable de la administración del Impuesto Predial.
-
-El coeficiente de distribución se determina de la forma siguiente:
-
-Se divide el monto del último ejercicio fiscal, entre el monto del ejercicio fiscal anterior al del último, referidos en la Fracción I de este Artículo; y el resultado se comparará con el número 2 referido en la Fracción II anterior. Si el resultado es menor que el número 2, se considera el resultado (conocido como valor mínimo), el cual se multiplica por la población.
-
-Si el resultado es mayor que el número 2, se considera el número 2, el cual se multiplica por la población, y ambos forman parte del coeficiente intermedio.
-
-El coeficiente intermedio de cada uno de los Municipios, se divide entre la suma de los coeficientes intermedios de los Municipios ya referidos, y se obtiene como resultado el coeficiente aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 12.
 
-Los coeficientes para la distribución de la parte a que se refiere el artículo 7º, fracción I de esta Ley, se determinan dividiendo el número de habitantes de cada municipio, entre la suma de los habitantes de todos los municipios del Estado, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía.
+Las participaciones e Incentivos en ingresos federales que reciban los Municipios, mismas que se refieren en el artículo 3 fracciones I y II de esta Ley, incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que correspondan al Estado, con excepción del Fondo de Fomento Municipal, del cual se les participará el 100%.
 
-Los coeficientes para la distribución de la parte a que se refiere el artículo 7°, fracción II de esta Ley, se determinan dividiendo 100/113 que es el número de municipios de la entidad.
+Por lo que corresponde al Impuesto sobre Loterías, Rifas, Sorteos y Concursos que es una contribución estatal, se les otorga a los municipios el 80% de la recaudación del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 13.
 
-Los coeficientes para la distribución de la parte a que se refiere el artículo 8, fracción I de esta Ley, se determinan dividiendo el número de habitantes de cada Municipio, entre la suma de los habitantes de todos los municipios del Estado, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía.
+Las liquidaciones y pago de las participaciones e Incentivos en ingresos federales que reciban los Municipios, las realizará la Secretaría de Finanzas y Administración en base a la documentación oficial que al respecto proporcione la Secretaría de Hacienda y Crédito Público. Excepto los Incentivos del Impuesto sobre Automóviles Nuevos, y el Impuesto sobre Loterías, Rifas, Sorteos y Concursos; los cuales proporciona la Secretaría de Finanzas y Administración, ya que se recaudan directamente por ésta.
 
-Los coeficientes para la distribución de la parte a que se refiere el artículo 8, fracción II de esta Ley, se determinan de la manera siguiente:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-I. Se suman los Coeficientes de Pobreza Extrema de los 113 Municipios del Estado, utilizados para distribuir el Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, del ejercicio fiscal vigente;
-
-II. Se determina la media aritmética; dividiendo la suma antes referida, entre los 113 municipios del Estado;
-
-III. Se determinan los municipios que se encuentran debajo de la media aritmética antes señalada, para después sumarizar los factores de éstos; y,
-
-IV. Se determina el coeficiente de distribución, dividiendo cada uno de los factores señalados en la fracción anterior, entre la suma de éstos; debiendo totalizar 100.0000.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 14.
 
-Las participaciones que se determinen y paguen a los Municipios del Fondo Participable y del Fondo de Gasolinas y Diesel que se establecen en el artículo 3° de esta Ley, estarán sujetas al resultado de la recaudación de los conceptos participables, así como a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio, que efectúe la Federación para el Estado, las que se pagarán dentro de los cinco días siguientes al día en que el Estado las reciba, excepto las participaciones por concepto del Impuesto sobre Automóviles Nuevos y del Impuesto Estatal sobre Loterías, Rifas, Sorteos y Concursos, las que se pagarán dentro de los veinte días del mes siguiente a aquél a que la recaudación corresponda.
+Las Participaciones e incentivos que se determinen y paguen a los Municipios del Fondo Participable, y del Fondo de Gasolinas y Diésel que se establecen en el artículo 3° de esta Ley, estarán sujetas al resultado de la Recaudación de los conceptos participables, así como a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio, que efectúe la Federación para el Estado, mismas que se pagarán dentro de los cinco días siguientes al día en que el Estado las reciba; el retraso dará lugar al pago de intereses a la tasa de recargos que fije el Congreso de la Unión, para los casos de pago a plazos de contribuciones.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+Los pagos por concepto de ajustes cuatrimestrales y del ajuste anual, referidos en el párrafo anterior, se determinarán con los mismos coeficientes aplicables en el ejercicio fiscal vigente.
 
-Los pagos por concepto de ajustes cuatrimestrales y del ajuste anual, referidos en el párrafo anterior, se determinarán con los coeficientes correspondientes a la fecha a la que correspondan dichos ajustes.
+La entrega del monto de las participaciones referidas en este artículo, las realizará la Secretaría de Finanzas y Administración a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo, y posteriormente la tesorería municipal de cada ayuntamiento deberá expedir Comprobante Fiscal Digitalizado por Internet CFDI, a través del cual describa los conceptos de Participaciones y montos recibidos.
 
-El retraso, respecto de los plazos señalados en los párrafos anteriores, dará lugar al pago de intereses a la tasa de recargos que fije el Congreso de la Unión, para los casos de pago a plazos de contribuciones federales.
+El CFDI deberá ser entregado a la Secretaría de Fianzas (sic) y Administración, cinco días hábiles posteriores a la recepción del monto de las Participaciones en Ingresos Federales y Estatales pagados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 15.
 
-Si como resultado de las liquidaciones que la Federación realice para el Estado, surgieran diferencias a cargo de los municipios en relación con los pagos provisionales previamente efectuados, el Estado retendrá el importe pagado en exceso, en la liquidación provisional correspondiente al mismo mes en que se le retenga al Estado.
+Las cuentas bancarias referidas en el artículo anterior, deberán de ser aperturadas para cada ejercicio fiscal, mismas que serán entregadas por parte de las tesorerías municipales a la Secretaría de Finanzas y Administración a más tardar el día 2 de enero de cada ejercicio fiscal. También pueden ratificarse las mismas cuentas utilizadas en el ejercicio fiscal inmediato anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+Cuando se trate de cambios de autoridades municipales, se podrá aplicar lo dispuesto en el párrafo que antecede.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 15 BIS. Si como resultado de las liquidaciones que la Federación realice para el Estado, surgieran diferencias a cargo de los municipios en relación con los pagos provisionales previamente efectuados, el Estado retendrá el importe pagado en exceso, en la liquidación provisional correspondiente al mismo mes en que se le retenga al Estado.
 
 Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada Municipio se determinará con los mismos coeficientes con los que se les hayan efectuado los pagos provisionales.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
-
-ARTÍCULO 15 BIS. El Gobierno del Estado de Michoacán de Ocampo, a través de (sic) a Secretaría de Finanzas y Administración, participará el 100% de la recaudación del Impuesto Sobre la Renta a que se refiere el artículo 3°, fracción IV, de la presente Ley, dentro de los cinco días hábiles siguientes a su recepción, correspondiente a los municipios que lo hayan enterado a la Secretaría de Hacienda y Crédito Público, por salarios pagados con recursos propios o participaciones federales, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
-
-Para los efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto Sobre la Renta relativo, una vez descontadas las devoluciones por dicho concepto. Además, la participación correspondiente se realizará de conformidad con la información de montos que proporcione la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, por lo que en caso de ajustes derivados de diferencias en el entero de dicho impuesto respecto de algún municipio o municipios, la Secretaría realizará los descuentos con cargo a la ministración correspondiente a las ministraciones subsecuentes, informando a dichos municipios de la instrucción recibida por la Unidad de Coordinación señalada.
-
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, deberá publicar anualmente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, los montos pagados a los municipios que correspondan al Impuesto Sobre la Renta participable, de acuerdo a lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal.
-
-Los recursos a que se refiere el artículo 3°, fracción IV de esta Ley, en ningún caso podrán ser utilizados para el pago correspondiente al salario del personal o su equivalente que preste o desempeñe un servicio personal subordinado en los municipios.
-
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 16.
 
-Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, no serán embargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraidas por éstos y sus organismos descentralizados, con garantía de las mismas previo Acuerdo del Ayuntamiento y autorización del Congreso del Estado, en los términos previstos por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, serán inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas que correspondan al Fondo General, Fondo de Fomento Municipal, e Impuesto a la Venta de Gasolinas y Diésel referidas en el artículo 3° de esta Ley, las que podrán ser afectadas en garantía como fuente de pago de obligaciones contraídas por los municipios y sus organismos descentralizados, previo Acuerdo de Cabildo del Ayuntamiento y autorización del Congreso del Estado, e inscritas en el Registro Público Único referido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana, así como a lo previsto por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, como son entre otros conceptos, los relativos al Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Servicio de Administración Tributaria, del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente.
 
-Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes, que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, por concepto del Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Sistema de Administración Tributaria y del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente. Cuando el total del monto a retener por los conceptos antes referidos, no se descuente en el mes respectivo, la diferencia causará intereses hasta que se cubra el monto total a favor de la Secretaría de Finanzas y Administración, los que se determinarán a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones. Previo Acuerdo de Cabildo correspondiente.
+Cuando el total del monto a retener por los conceptos antes referidos, no se descuente en el mes respectivo, la diferencia causará intereses hasta que se cubra el monto total a favor de la Secretaría de Finanzas y Administración, los que se determinarán a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones. Previo Acuerdo de Cabildo correspondiente.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+Asimismo, la Secretaría de Finanzas y Administración podrá realizar la retención mensualmente de las participaciones municipales, para cubrir aquellos créditos fiscales que los Municipios y sus organismos paramunicipales hayan originado, como consecuencia de no pagar de (sic) contribuciones estatales oportunamente, previo Acuerdo de Cabildo y la suscripción del Convenio correspondiente.
 
-Asimismo, la Secretaría de Finanzas y Administración podrá realizar la retención mensualmente a las participaciones municipales, para cubrir aquellos créditos fiscales que los Municipios y sus organismos paramunicipales hayan originado por el no pago de contribuciones estatales previo Acuerdo de Cabildo y la suscripción del Convenio correspondiente.
+Lo previsto en el primer párrafo de este artículo, no incluye las compensaciones que se requieran efectuar a los municipios, como consecuencia de los ajustes referidos en el artículo 14 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 16-A.
+ARTÍCULO 16 BIS. Para dar cumplimiento a lo dispuesto por el artículo 9° de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración determinará la estimación de Participaciones y Fondos de Aportaciones Federales y Estatales para los Municipios del Estado, correspondientes al próximo ejercicio fiscal respecto del vigente, utilizando los mismos coeficientes vigentes en el ejercicio en que se lleva cabo dicha estimación.
 
-Para dar cumplimiento a lo dispuesto por el Artículo 9° de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración determinará la estimación de Participaciones y Fondos de Aportaciones para los Municipios del Estado, correspondientes al próximo ejercicio fiscal respecto del vigente, utilizando los mismos coeficientes de este último ejercicio. Los cuales por ser estimados, podrán presentar variaciones con respecto a los utilizados para determinar la información que señala el artículo 17 de esta Ley, debido principalmente a lo señalado en el siguiente artículo, considera coeficientes definitivos.
+Los cuales, por ser estimados, podrán presentar variaciones con respecto a los utilizados para determinar la información que señala el artículo 17 de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 17.
 
-La Secretaría de Finanzas y Administración del Estado, proporcionará a los municipios, al inicio de cada ejercicio, la información sobre el monto anual estimado de participaciones y su programación mensual, de conformidad con la estacionalidad del año anterior. Asimismo, les proporcionará un informe sobre las participaciones que les hayan correspondido en el ejercicio anterior, y su comportamiento con respecto a las estimadas para dicho año.
+La Secretaría de Finanzas y Administración publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Acuerdo para la distribución de las Participaciones e Incentivos en Ingresos Federales, estableciéndose el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto estimado, que recibirá cada Municipio del Fondo Participable y el Fondo de Gasolinas y Diésel, referidos en el artículo 3° de esta Ley para cada ejercicio fiscal, a más tardar el 31 de enero del ejercicio de que se trate.
 
-Asi mismo, la Secretaría de Finanzas y Administración, con base en los lineamientos establecidos por esta Ley, calculará y hará la entrega de las Participaciones que en Ingresos Federales y Estatales les correspondan a los municipios, debiendo publicarlas en el Periódico Oficial del Gobierno Constitucional del Estado a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, o cuando así lo señale el Acuerdo mediante el cual la Secretaría de Hacienda y Crédito Público las dé a conocer; así como la fórmula y su respectiva metodología, justificando cada elemento, y comunicando a cada uno de los ayuntamientos el monto calendarizado mensual, y los procedimientos para su entrega.
+El monto estimado se determinará con la información proporcionada por la Secretaría de Hacienda y Crédito Público, misma que tradicionalmente se da a conocer a más tardar en los primeros días del mes de enero de cada ejercicio fiscal, regularmente a través del «ACUERDO por el que se da a conocer a los gobiernos de las entidades federativas la distribución y calendarización para la ministración durante el ejercicio fiscal respectivo, de los recursos correspondientes a los Ramos Generales 28 Participaciones a Entidades Federativas y Municipios, y 33 Aportaciones Federales para Entidades Federativas y Municipios», o en cualquier otro que determine dicha Secretaría.
 
-Los montos antes señalados, deberán incorporarse a los presupuestos de ingresos y egresos; y reflejarse los montos ejercidos en la Cuenta Pública de la Hacienda Municipal de cada Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-La entrega de las participaciones referidas en el párrafo segundo de este artículo, se realizarán a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo. Para lo cual, será necesario que previamente al inicio de cada ejercicio fiscal, las autoridades de las Haciendas Municipales soliciten e indiquen a la Secretaría de Finanzas y Administración las cuentas bancarias en la que se les realizarán las Transferencias Electrónicas de los Fondos referidos.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 18.
 
 La Secretaría de Finanzas y Administración del Estado pondrá a disposición de los funcionarios municipales competentes que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus coeficientes de distribución de participaciones, así como el monto que de las mismas les correspondan.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
-La Secretaría de Finanzas y Administración del Estado, publicará trimestralmente en el Periódico Oficial del Gobierno Constitucional del Estado, dentro del mes siguiente al trimestre que corresponda, el importe de las participaciones pagadas que les hayan correspondido a los municipios, así como el comparativo de éstas en relación a las estimadas para el mismo período.
+La Secretaría de Finanzas y Administración del Estado, publicará trimestralmente en el Periódico Oficial del Gobierno Constitucional del Estado, a más tardar el día 15 del mes siguiente al trimestre que corresponda, el importe de las participaciones pagadas que les hayan correspondido a los municipios, así como el comparativo de éstas en relación a las estimadas para el mismo período.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+Así mismo, realizará las publicaciones en el Órgano de difusión Estatal, a que refiere el «ACUERDO 02/2014 por el que se expiden los Lineamientos para la publicación de la información a que se refiere el artículo 6° de la Ley de Coordinación Fiscal», publicado en el Diario Oficial de la Federación, el 14 de febrero del año 2014.
 
-Así mismo, realizará las publicaciones en el Órgano de difusión Estatal, a que se refiere el «ACUERDO 02/2014 por el que se expiden los Lineamientos para la publicación de la información a que se refiere el artículo 6o. de la Ley de Coordinación Fiscal», publicado en el Diario Oficial de la Federación, el 14 de febrero del año 2014.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 20.
 
-Los presidentes municipales y los directores de los organismos operadores municipales de los sistemas de agua potable, alcantarillado y saneamiento, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, a más tardar el último día hábil del mes de febrero del ejercicio fiscal vigente, la información relativa a la recaudación del Impuesto Predial y de los Derechos por la Prestación del Servicio de Agua Potable, Alcantarillado y Saneamiento, y sus respectivos accesorios, obtenida en el ejercicio fiscal inmediato anterior, señalando las acciones que se hayan realizado para justificar los incrementos obtenidos, de manera razonablemente aceptable.
+Los presidentes municipales y los directores de los organismos operadores municipales de los sistemas de agua potable, alcantarillado y saneamiento, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, a más tardar el último día hábil del mes de febrero del ejercicio fiscal vigente, la información relativa a la recaudación del Impuesto Predial y de los Derechos por la Prestación del Servicio de Agua Potable, Alcantarillado y Saneamiento, y sus respectivos accesorios, obtenida en el ejercicio fiscal inmediato anterior, señalando las acciones que se hayan realizado para justificar los incrementos obtenidos, de manera razonablemente aceptable. Para lo cual la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado, les proporcionará los formatos oficiales respectivos.
 
-La información a que se refiere el párrafo que antecede, permitirá al Gobierno del Estado, a través de la Secretaría de Finanzas y Administración del Estado, proporcionar las cifras consolidadas a la Secretaría de Hacienda y Crédito Público, para la actualización de los coeficientes de distribución del Fondo de Fomento Municipal entre las entidades federativas, conforme a lo dispuesto en la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 21.
 
-Para los efectos de lo señalado en el artículo anterior, de conformidad con lo dispuesto por los artículos 45 y 60 de la Ley del Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo, los organismos operadores municipales, deberán integrar en sus estados financieros, la información relativa a la recaudación que obtengan por la prestación del servicio que regula dicha Ley, tanto en la cabecera municipal correspondiente, como en cada una de las localidades del municipio que cuenten con el servicio; con base en las cuotas y tarifas aprobadas por los municipios respectivos, en los términos de lo dispuesto por los artículos 36 fracción XIV y 118 de la Ley señalada.
+La información a que se refiere el artículo anterior, permitirá al Gobierno del Estado a través de la Secretaría de Finanzas y Administración del Estado, proporcionar las cifras consolidadas a la Secretaría de Hacienda y Crédito Público, para la actualización de los coeficientes de distribución de las Participaciones Federales entre las entidades federativas, conforme a lo dispuesto en la Ley de Coordinación Fiscal.
 
-REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 22.
 
-Para efectos de la determinación del coeficiente a que se refiere el artículo 10 de esta Ley, las autoridades del ayuntamiento respectivo, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, mensualmente, dentro de los 15 días siguientes al mes de que se trate, una copia del estado de cuenta emitido por la Comisión Federal de Electricidad, en el que se consigne el monto de la facturación de los derechos por la prestación del servicio de alumbrado público, así como el monto del costo del servicio prestado.
+Para los efectos de lo señalado en el artículo anterior, de conformidad con lo dispuesto por los artículos 45 y 60 de la Ley del Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo, los organismos operadores municipales deberán integrar en sus estados financieros, la información relativa a la recaudación que obtengan por la prestación del servicio que regula dicha Ley, tanto en la cabecera municipal correspondiente, como en cada una de las localidades del municipio que cuenten con el servicio; con base en las cuotas y tarifas aprobadas por los ciento trece municipios en los términos de lo dispuesto por la Ley de Ingresos de los Municipios del ejercicio fiscal respectivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -389,29 +341,25 @@ Para efectos de la determinación del coeficiente a que se refiere el artículo 
 
 #### SECCIÓN I. DE LOS FONDOS DE APORTACIONES FEDERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-Los Fondos de Aportaciones Federales creados a favor de los municipios, que se relacionan a continuación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a las disposiciones de la Ley de Coordinación Fiscal, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de esta Ley, y de la legislación estatal y municipal aplicable:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+Los Fondos de Aportaciones Federales creados a favor de los municipios, que se relacionan a continuación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a las disposiciones de la Ley de Coordinación Fiscal, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de esta Ley, y demás legislación estatal aplicable:
 
 I. Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal; y,
 
 II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 24.
 
 El Fondo de Aportaciones Federales para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal FISMDF, se distribuye con los procedimientos y fórmula siguientes:
 
-De conformidad con los Artículos 34 y 35 de la Ley de Coordinación Fiscal, la metodología para el cálculo de la distribución del FISMDF, es la misma que coincide con la utilizada por la Secretaría de Desarrollo Social para la distribución del Fondo de Aportaciones para la Infraestructura Social (FAIS).
+De conformidad con los artículos 34 y 35 de la Ley de Coordinación Fiscal, la metodología para el cálculo de la distribución del FISMDF, es la misma que coincide con la utilizada por la Secretaría de Desarrollo Social para la distribución del Fondo de Aportaciones para la Infraestructura Social (FAIS).
 
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2008, PÁGINAS DE LA 13 A LA 14.</small>
-
-> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 7.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 12.]</small>
 
 La fórmula anterior, enfatiza el carácter redistributivo hacia aquellos Municipios con mayor magnitud y profundidad de pobreza extrema, para lo cual se utiliza la información de pobreza extrema más reciente a nivel municipal, que dé a conocer el Consejo Nacional de Evaluación de la Política de Desarrollo Social, por lo que la Secretaría de Desarrollo Social publicará en el Diario Oficial de la Federación, a más tardar en los primeros diez días del ejercicio fiscal de que se trate, las variables y fuentes de información disponibles a nivel municipal.
 
@@ -445,17 +393,15 @@ G) Publicar en su página oficial las obras financiadas con los recursos de este
 
 Los Municipios que no cuenten con página oficial, convendrán con el Gobierno del Estado, para que éste publique la información correspondiente al Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-El Fondo de Aportaciones Federales para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará mensualmente en los primeros diez meses del año por partes iguales; a través de la Secretaría de Finanzas y Administración, de manera ágil y directa, sin más limitaciones ni restricciones.
+El Fondo de Aportaciones Federales para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, se enterará mensualmente a los municipios durante los diez meses del año por partes iguales; de manera ágil, directa, sin más limitaciones ni restricciones, de conformidad con el calendario de pago que para tal efecto proporcione la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 26-A.
-
-Las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como fuente de pago, garantía de pago o ambas, de Financiamientos u Obligaciones contratadas en términos de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, siempre y cuando se cuente con el Acuerdo del Ayuntamiento correspondiente y se cumpla con lo dispuesto para el efecto en los artículos 50 de la Ley de Coordinación Fiscal y 19, 20, 21 y 22 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+ARTÍCULO 26 BIS. Las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como fuente de pago, garantía de pago o ambas, de Financiamientos u Obligaciones contratadas en términos de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, siempre y cuando se cuente con el Acuerdo del Ayuntamiento correspondiente y se cumpla con lo dispuesto para el efecto en los artículos 50 de la Ley de Coordinación Fiscal y 19, 20, 21 y 22 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -473,13 +419,21 @@ Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para ca
 
 Los Municipios efectuarán los pagos de los Financiamientos u Obligaciones a que se refiere este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos de registro establecidos en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+ARTÍCULO 26 TER. La Secretaría de Finanzas y Administración, con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, elaborará el Acuerdo Administrativo correspondiente al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, en el cual desarrollará la fórmula, metodología de cálculo, justificando cada elemento de la misma, así como el calendario de pago respectivo. Dicho Acuerdo se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, a más tardar el treinta y uno de enero del ejercicio fiscal aplicable. Además de que se incorporará en el portal de Internet de Transparencia, de la Secretaria de Finanzas y Administración.
+
+La entrega de los montos del Fondo referido en el párrafo anterior, se realizarán a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo. Para lo cual, será necesario que previamente al inicio de cada ejercicio fiscal, o cuando se lleva a cabo el cambio de administración municipal, las autoridades de las Haciendas Municipales deberán indicar a la Secretaría de Finanzas y Administración las cuentas bancarias en las que se les realizarán las Transferencias Electrónicas de Fondos ya referida.
+
+El monto del Fondo referido en el párrafo anterior, deberá incorporarse a los presupuestos de ingresos y egresos; así como en la Cuenta Pública de la Hacienda Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 27.
 
-La distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal correspondientes a los Municipios, se realiza en proporción directa al número de habitantes con que cuente cada uno de los Municipios, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía. Siendo la fórmula aplicable la siguiente:
+La distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal referido en el artículo 23, fracción II de esta Ley, correspondientes a los Municipios, se realiza en proporción directa al número de habitantes con que cuente cada uno de los Municipios, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía. Siendo la fórmula aplicable la siguiente:
 
-> <small>N. DE E. VÉASE FORMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 8.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINA 13.]</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -489,17 +443,13 @@ Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortal
 
 Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las mismas obligaciones a que se refieren los incisos a) y c) de la Fracción III del artículo 25 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 28-A.
+ARTÍCULO 28 BIS. El Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito federal, se enterará mensualmente a los Municipios durante los doce meses del año por partes iguales, de manera ágil, directa, sin más limitaciones ni restricciones, de conformidad con el calendario de pago que para tal efecto proporcione la Secretaría de Finanzas y Administración.
 
-El Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito federal, se enterará mensualmente a los Municipios durante los doce meses del año por partes iguales; a través de la Secretaría de Finanzas y Administración, de manera ágil y directa, sin más limitaciones ni restricciones.
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
-
-###### ARTÍCULO 28-B.
-
-Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, previo Acuerdo del Ayuntamiento y cumpliendo en sus términos lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
+ARTÍCULO 28 TER. Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, previo Acuerdo del Ayuntamiento y cumpliendo en sus términos lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -507,31 +457,31 @@ Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de l
 
 Las acciones de administración, inversión y aplicación de los fondos federales a que se refiere el presente Capítulo, se llevarán a cabo, además de lo ya previsto, con apego al Plan Estatal de Desarrollo vigente, a los planes municipales de desarrollo respectivos, a la legislación federal estatal y municipal aplicable y a los convenios que al efecto se suscriban.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría de Finanzas y Administración, con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, calculará y hará la entrega de las aportaciones federales correspondientes a los municipios, debiendo publicarlas en el Periódico Oficial del Gobierno Constitucional del Estado a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, o cuando así lo señale el Acuerdo mediante el cual la Secretaría de Hacienda y Crédito Público, los dé a conocer; así como la fórmula y su respectiva metodología, justificando cada elemento. Comunicando a cada uno de los ayuntamientos el monto calendarizado mensual y los procedimientos para su entrega.
+La Secretaría de Finanzas y Administración, con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, elaborará el Acuerdo Administrativo correspondiente al Fondo de Aportaciones para Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, en el cual desarrollará la fórmula, metodología de cálculo, justificando cada elemento de la misma, así como el calendario de pago respectivo. Dicho Acuerdo se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, a más tardar el treinta y uno de enero del ejercicio fiscal aplicable. Además de que se incorporará en el portal de Internet de Transparencia, de la Secretaria de Finanzas y Administración.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-La entrega de las Aportaciones Federales referidas en el párrafo anterior, se realizarán a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo. Para lo cual, será necesario que previamente al inicio de cada ejercicio fiscal, las autoridades de las Haciendas Municipales soliciten e indiquen a la Secretaría de Finanzas y Administración las cuentas bancarias en la que se les realizarán las Transferencias Electrónicas de los Fondos ya referidos.
+La entrega de los montos del Fondo referido en el párrafo anterior, se realizarán a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo. Para lo cual, será necesario que previamente al inicio de cada ejercicio fiscal, o cuando se lleva a cabo el cambio de administración municipal, las autoridades de las Haciendas Municipales deberán indicar a la Secretaría de Finanzas y Administración las cuentas bancarias en las que se les realizarán las Transferencias Electrónicas de los Fondos ya referidos.
 
 ###### ARTÍCULO 31.
 
 Los ayuntamientos deberán hacer del conocimiento de las comunidades beneficiadas, las obras y acciones a realizar con los recursos de los Fondos referidos en este Capítulo, el costo de cada una y su ubicación, metas y beneficiarios, así como cualquier otra información que les sea requerida por la comunidad respectiva.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 32.
 
-El monto de la inversión asignada y ejercida con los fondos federales, a que se refiere este Capítulo, deberá incorporarse a los presupuestos de ingresos y egresos; así como en la Cuenta Pública de la Hacienda Municipal.
+El monto del Fondo referido en el párrafo anterior, deberá incorporarse a los presupuestos de ingresos y egresos; así como en la Cuenta Pública de la Hacienda Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-Las Aportaciones Federales a que se refiere este Capítulo, no serán embargables, ni podrán bajo ninguna circunstancia gravarse, afectarse en garantía, ni destinarse a fines distintos a lo expresamente previsto tanto en esta Ley, y en la Ley de Coordinación Fiscal; excepto tratándose de lo dispuesto por el Artículo 28-B de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, no serán embargables, ni podrán bajo ninguna circunstancia gravarse, afectarse en garantía, ni destinarse a fines distintos a lo expresamente previsto tanto en esta Ley, y en la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 34.
 
@@ -549,15 +499,17 @@ Las responsabilidades administrativas, civiles y penales en que incurran las aut
 
 ARTÍCULO 35 BIS. Con independencia de lo establecido en el Capítulo II de esta Ley, respecto de los recursos que los Municipios reciben del Fondo Participable y del Fondo de Gasolinas y Diesel, se establece una aportación estatal, como recurso que el Estado transfiere a los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para dicha aportación establece el presente artículo, para un Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, el cual se destinará a las inversiones públicas productivas de los Municipios.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de lo que corresponde al Estado en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporte al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente ley. Del monto correspondiente a cada municipio, éste destinará hasta un 20% para la adquisición de nuevas tecnologías que tengan como finalidad la recuperación, conservación y mejoramiento del medio ambiente. Esta disposición solo aplica para los municipios que reciban 5000,000 (sic) de pesos o más por concepto del FAEISPUM.
+El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de los recursos financieros que corresponde al Estado efectivamente pagado por la Federación en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley. Del monto correspondiente a cada municipio este destinará hasta un 20% para la adquisición de nuevas tecnologías que tengan como finalidad la recuperación, conservación y mejoramiento del medio ambiente. Esta disposición solo aplica para los municipios que reciban 5,000,000 de pesos o más por concepto de FAEISPUM. A los recursos a que se refiere el presente párrafo se podrá aplicar el beneficio de la ampliación del pago a que se refiere el segundo párrafo del artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 La distribución del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se realizará entre los municipios de conformidad con la fórmula siguiente:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 4]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 14]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 14 A LA 15.]</small>
 
 La entrega del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, estará sujeto al resultado de la recaudación de los conceptos participables; a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio que efectúe la Federación para el Estado; a la cartera de proyectos que presenten respectivamente los Municipios para la aplicación y ejecución de dicho Fondo; y a los Lineamientos del Fondo que para tal efecto emita la Secretaría de Finanzas y Administración, en atención a las disposiciones jurídicas aplicables.
 
@@ -900,3 +852,11 @@ Se exhorta al Titular de la Secretaría de Finanzas y Administración del Gobier
 ###### ARTÍCULO TERCERO.
 
 Se exhorta a los Ayuntamientos del Estado, para que durante el ejercicio fiscal 2020 consideren proyectos que vayan encaminados a la recuperación, conservación y mejoramiento del medio-ambiente, independientemente si son sujetos de la presente reforma.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 503 POR EL QUE "SE REFORMAN LOS ARTÍCULOS: 1° PÁRRAFOS PRIMERO Y TERCERO, 2°, 3°, 4°, 4° BIS, 5°, 6°, 6° BIS, 7°, 8°, 9°, 10, 11, 11 BIS, 12, 13, 14, 15, 15 BIS, 16, 16 BIS, 17, 18, 19, 20, 21, 22, 23, 24 ,26, 26 BIS, 27, 28 BIS, 28 TER, 30, 32, 33, 34, 35 BIS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO FRACCIÓN I; Y SE ADICIONAN AL ARTÍCULO 1° UN CUARTO PÁRRAFO, AL ARTÍCULO 3º EL NUMERAL VII Y 26 TER DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
