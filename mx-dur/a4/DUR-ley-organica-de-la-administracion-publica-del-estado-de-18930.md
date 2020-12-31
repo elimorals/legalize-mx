@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2020-11-15"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1829,9 +1831,17 @@ XXXV. Promover la realización de simposiums, convenciones, congresos y conferen
 
 XXXVI. Fomentar y apoyar las acciones de investigación, docencia y capacitación en los renglones de ecología y medio ambiente;
 
-XXXVII. Impulsar la realización y participación de exposiciones que sobre el tema se realicen; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-XXXVIII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos aplicables.
+XXXVII. Impulsar la realización y participación de exposiciones que sobre el tema se realicen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXVIII. Deberá introducir un sistema para la recolección, almacenamiento y la recuperación del papel usado en todas las secretarias, la Fiscalía General del Estado, órganos desconcentrados de estas, las unidades administrativas de apoyo y demás dependencias con el objeto de crear conciencia de ahorro de papel, reducir su consumo para reciclar el papel que se consume en el sector público; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+XXXIX.- Las demás que le encomiende el Ejecutivo del Estado o le señale (sic) las leyes (sic) reglamentos aplicables.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -2826,3 +2836,15 @@ TERCERO. Las funciones de conciliación, registro de los contratos colectivos de
 CUARTO. Las Juntas Locales de Conciliación y Arbitraje continuarán conociendo y atendiendo los conflictos en materia laboral que se encuentren en trámite hasta que se instituyan e inicien su funcionamiento el Centro de Conciliación Laboral y el Tribunal de Justicia Laboral.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 476.- QUE CONTIENE REFORMAS A LAS FRACCIONES XXXVII, XXXVIII Y SE ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 37 A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
