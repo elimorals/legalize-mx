@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -1731,7 +1731,9 @@ En el caso de visitas domiciliarias la notificación de la orden se llevará a c
 
 Cuando las notificaciones tengan por objeto la notificación de un crédito fiscal o el requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios de notificación a cargo de quien incurrió en el incumplimiento, los cuales serán igual a seis Unidades de Medida y Actualización.
 
-Los ingresos recaudados por concepto de honorarios de notificación, se destinarán a las autoridades fiscales para el establecimiento de fondos de productividad; para financiar programas de formación de funcionarios fiscales; para programas de fomento con el público en general respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de notificación; salvo que por ley estén destinados a otros fines. El destino de estos ingresos se dará con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Los ingresos recaudados por concepto de honorarios de notificación, se destinarán a las autoridades fiscales para: el otorgamiento de incentivos a la productividad; financiar programas de formación de funcionarios fiscales; la adquisición, adecuación y renta de bienes y la contratación (sic) servicios destinados a mejorar la administración tributaria y la atención al contribuyente; financiar programas de fomento con el público en general, respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de notificación; salvo que por ley estén destinados a otros fines. El destino de estos ingresos se dará con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
 
 La Autoridad Fiscal determinará los honorarios a que se refiere este artículo y los hará del conocimiento del interesado conjuntamente con la notificación de que se trate. Dichos honorarios se deberán pagar a más tardar en la fecha en que se cumpla con el requerimiento.
 
@@ -1745,9 +1747,11 @@ Al practicarse las notificaciones personales por la autoridad o tercero habilita
 
 La manifestación tácita o expresa que haga el interesado o su representante legal de conocer el acto administrativo que lo afecta, surtirá los efectos legales de notificación desde la fecha en que se manifieste haber tenido tal conocimiento, si esta es anterior a aquella en que debiera surtir efectos para el cómputo de plazos la notificación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 135.
 
-Las notificaciones por estrados procederán previo acuerdo de la autoridad competente, se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, o publicando el documento citado durante el mismo plazo, en el portal electrónico de la Secretaría, dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados procederán previo acuerdo de la autoridad competente, se harán fijando durante seis días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, o publicando el documento citado durante el mismo plazo, en el portal electrónico de la Secretaría, dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
 
 ###### Artículo 136.
 
@@ -1757,11 +1761,19 @@ I. Durante tres días en el Periódico Oficial del Estado.
 
 II. Por un día en un diario de los de mayor circulación en el Estado.
 
-En ambos casos, deberá siempre realizarse la misma publicación, durante quince días en el portal electrónico de la Secretaría.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Se tendrá como fecha de notificación el día hábil siguiente a aquel en que hubiere transcurrido el plazo que corresponda a la publicación realizada en el portal electrónico señalado en el párrafo anterior, o el que corresponda a la última de las publicaciones realizadas sin que sea menor de los quince días que correspondan para la publicación en el portal electrónico de la Secretaría.
+III. Durante seis días en el portal electrónico de la Secretaría.
 
-En los plazos establecidos en este artículo se computarán todos los días, y las publicaciones correspondientes serán válidas aun cuando se realicen en día inhábil.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Los plazos establecidos en las fracciones I y II, de este artículo, se computarán todos los días, y las publicaciones correspondientes a dichas fracciones serán válidas aun cuando se realicen en día inhábil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Se tendrá como fecha de notificación la de la última publicación.
 
 ###### Artículo 137.
 
@@ -2375,11 +2387,17 @@ Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferio
 
 En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos Unidades de Medida y Actualización elevadas al año.
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 122 de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado en los términos de lo previsto por el artículo 221 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con su correspondiente crédito fiscal.
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 122 de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, de los peritos e interventores, salvo cuando dichos depositarios e interventores renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado en los términos de lo previsto por el artículo 221 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
 
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a la autoridad fiscal para el establecimiento de fondos de productividad; para financiar programas de formación de funcionarios fiscales; para programas de fomento con el público en general respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de cobranza; salvo que por ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a la autoridad fiscal para: el otorgamiento de incentivos a la productividad; financiar programas de formación de funcionarios fiscales; la adquisición, adecuación y renta de bienes y la contratación de servicios destinados a mejorar la administración tributaria y la atención al contribuyente; financiar programas de fomento con el público en general respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de cobranza; salvo que por ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
 
 ###### Artículo 176.
 
@@ -2589,11 +2607,13 @@ X. Las pensiones de cualquier tipo.
 
 XI. Los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias y complementarias hasta por un monto de 20 Unidades de Medida y Actualización elevadas al año, conforme lo establecido en la Ley de los Sistema (sic) de Ahorro para el Retiro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 189.
 
-Si durante el desarrollo de la diligencia de embargo, al designarse los bienes que quedarán sujetos a este, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor, lo cual deberá hacerse constar en el acta que al efecto se levante. Esta determinación tomada por el ejecutor tiene el carácter de provisional y la cual deberá ser sometida a ratificación de la oficina ejecutora, en todos los casos, a la que deberán hacerse llegar en el plazo de dos días, los documentos exhibidos en el momento de la oposición.
+Si durante el desarrollo de la diligencia de embargo, al designarse los bienes que quedarán sujetos a este, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la oficina ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso de revocación en los términos de este Código.
 
-Si no hubieren existido otros bienes sobre los que se haya trabado embargo, y no se presentan ante la oficina ejecutora los documentos a que se refiere el párrafo anterior, o a juicio de la ejecutora las pruebas no son suficientes para acreditar la propiedad a favor del tercero opositor, se ordenará la realización de una nueva diligencia de embargo, en la que este podrá ser trabado sobre los bienes materia de oposición, lo cual se notificará al interesado para que pueda hacer valer el recurso de revocación en los términos de este Código.
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 190.
 
@@ -2701,11 +2721,21 @@ Las autoridades fiscales podrán proceder a la enajenación de la negociación i
 
 La enajenación de bienes embargados, procederá:
 
-I. A partir del día siguiente a aquel en que quede firme el avalúo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+I. A partir del día siguiente a aquel en que se hubiese fijado la base en los términos del artículo 206 de este Código.
 
 II. Al quedar firme la resolución confirmatoria del acto impugnado, recaído en los medios de defensa que se hubieren hecho valer.
 
-En caso de embargo precautorio procederá la enajenación, cuando los créditos sean exigibles y no se paguen al momento del requerimiento.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 224 de este Código.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+IV. En caso de embargo precautorio, cuando los créditos sean exigibles y no se paguen al momento del requerimiento.
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 205.
 
@@ -3213,9 +3243,11 @@ El pago de las multas en los términos de los párrafos segundo y tercero de est
 
 También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones indebidas o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido, si el infractor paga las contribuciones omitidas o devuelve el beneficio indebido con sus accesorios dentro de los quince días siguientes a la fecha en la que surta efectos la notificación de la resolución respectiva, la multa impuesta por la autoridad se reducirá en un 20% del monto de las contribuciones omitidas. Para aplicar la reducción contenida en este párrafo, no se requerirá modificar la resolución en que se impuso la multa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### Artículo 253.
 
-Tratándose de la omisión de contribuciones en las declaraciones, se impondrá una multa del 20% al 75% de las contribuciones omitidas.
+Tratándose de la omisión de contribuciones por error aritmético en la presentación de las declaraciones, se impondrá una multa del 20% al 75% de las contribuciones omitidas.
 
 En caso que no existan agravantes o reincidencia en la omisión de pago de contribuciones por error aritmético, y dichas contribuciones se paguen junto con sus accesorios, dentro de los quince días siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
@@ -3245,7 +3277,7 @@ a. De 25 a 50 Unidades de Medida y Actualización, para el primer requerimiento.
 
 b. De 50 a 100 Unidades de Medida y Actualización, para el segundo requerimiento.
 
-c. De 100 a 200 Unidades de Medida y Actualización, para el tercer requerimiento.
+c. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos; se impondrá una multa de 50 a 200 Unidades de Medida y Actualización.
 
@@ -3388,3 +3420,23 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLYC/0951/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, con excepción de lo previsto en su Artículo Segundo Transitorio, que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente contempladas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, correspondientes al presente año, quedarán exceptuadas de su celebración en virtud de las medidas establecidas en el Acuerdo No. 049/2020 emitido por el C. Gobernador Constitucional del Estado y sucesivos.
+
+###### ARTÍCULO TERCERO.
+
+Durante el tiempo de vigencia de las acciones decretadas para combatir la contigencia sanitaria COVID-19, se suspenden las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente, establecidas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
