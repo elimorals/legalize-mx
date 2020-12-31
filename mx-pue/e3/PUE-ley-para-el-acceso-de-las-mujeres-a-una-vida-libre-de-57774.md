@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-11-09"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -494,6 +494,28 @@ En el caso de que se declare una alerta de violencia de género contra las mujer
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
 
 ARTÍCULO 23 BIS.- Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, erótico o sexual, que se realice sin el consentimiento, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada o transgreda algún derecho humano de las mujeres o de sus familias.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 23 Ter.
+
+Es todo acto intencional dirigido a dominar, someter, controlar o agredir de manera física, psicológica o sexual, a la mujer adolescente o adulta con quien se tiene una relación de hecho, afectiva, de romance, enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 23 Quater.
+
+Son actos obligados, los no consentidos por alguna de las partes, orientados a satisfacer necesidades o deseos sexuales, mismos que atentan contra la integridad física, psicológica y moral de las mujeres o adolescentes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 23 Quinquies.
+
+Las acciones orientadas a controlar, restringir, vigilar, con la intención de aislarla socialmente, desvalorizarla, denigrarla, humillarla, o hacerla sentir mal consigo misma, destruir su confianza en sí misma o en la pareja, es considerado también violencia en el noviazgo.
 
 ## TÍTULO TERCERO. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -1571,9 +1593,13 @@ A las Instituciones Públicas y Privadas, los albergues, casas de medio camino y
 
 I.- Aplicar el Programa Estatal;
 
-II.- Cuidar y procurar por la seguridad de las mujeres que se encuentren en sus Instituciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-III.- Otorgar a las mujeres la atención integral necesaria para su recuperación física y psicológica, que les permita participar plenamente en cualquier ámbito de la vida;
+II.- Cuidar y procurar por la seguridad de las mujeres y sus hijas e hijos que se encuentren en sus Instituciones;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+III.- Otorgar a las mujeres y sus hijas e hijos, la atención integral necesaria para su recuperación física y psicológica, que les permita participar plenamente en cualquier ámbito de la vida;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1587,11 +1613,11 @@ VI.- Contar con el personal debidamente capacitado y especializado en la materia
 
 VII.- Procurar las demás que tengan o guarden relación con la prevención, atención y protección de las personas que se encuentren en los casos concretos.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 54.
 
-Las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención a las víctimas deberán ser lugares seguros para éstas. Queda prohibido proporcionar la ubicación de los refugios a personas no autorizadas para acudir a ellos.
+Las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención a las víctimas y sus hijas e hijos, deberán ser lugares seguros para éstas. Queda prohibido proporcionar la ubicación de los refugios a personas no autorizadas para acudir a ellos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1625,15 +1651,15 @@ VIII.- Capacitación, para que puedan adquirir conocimientos para el desempeño 
 
 IX.- Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 56.
 
-En las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención, las víctimas podrán permanecer hasta tres meses, salvo que subsista su inestabilidad física, psicológica o su situación de riesgo.
+En las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención, las víctimas y sus hijas e hijos podrán permanecer hasta tres meses, salvo que subsista su inestabilidad física, psicológica o su situación de riesgo.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+Para efectos del párrafo que precede, el personal médico, psicológico y jurídico de la Institución pública o privada encargada de la atención a víctimas y a sus hijas e hijos, realizará la valoración respecto de su condición.
 
-Para efectos del párrafo que precede, el personal médico, psicológico y jurídico de la Institución pública o privada encargada de la atención a víctimas, realizará la valoración respecto de su condición.
+Los albergues, casas de medio camino y refugios deberán contar con un modelo adecuado para el egreso y seguimiento de las víctimas, con el objeto de verificar, cada tres meses durante un año posterior a su egreso, que tanto la víctima como sus hijas e hijos, no se encuentren en riesgo o hayan vuelto al lugar o a la situación de violencia en la que se encontraban, en cuyo caso, sin perjuicio de lo dispuesto por esta Ley, se le deberá ofrecer su reingreso.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1866,6 +1892,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA (SIC) LAS FRACCIONES VI Y VII DEL ARTÍCULO 12, LA FRACCIÓN XII DEL 38, LA FRACCIÓN VI DEL 45 EL PRIMER PÁRRAFO Y LAS FRACCIONES V, XI Y XII DEL 49, Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 12 Y LA FRACCIÓN XIII AL 49, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 53, EL 54, EL 56; Y ADICIONA LA SECCIÓN SÉPTIMA DENOMINADA "DE LA VIOLENCIA EN EL NOVIAZGO", AL TÍTULO SEGUNDO, CAPÍTULO II, LOS ARTÍCULOS 23 TER, 23 QUATER Y 23 QUINQUIES, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA."
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
