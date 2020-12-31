@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2020-01-29"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -97,11 +97,11 @@ No obstante lo dispuesto en el párrafo anterior, cuando la Secretaría de Hacie
 
 La Federación, los Estados, los Municipios, los organismos o entidades del sector paraestatal, de cualquier orden de gobierno, los prestadores de los servicios públicos concesionados y las instituciones oficiales o privadas, deberán pagar las contribuciones establecidas en esta Ley, con las excepciones que en la misma se señalan.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-Los contribuyentes y los demás sujetos que se mencionan en el Título III Capítulo I del Código Fiscal para el Estado de Morelos deberán dar toda clase de facilidades a las autoridades competentes para que realicen el ejercicio de las facultades de comprobación fiscal. Para tal efecto, se estará a lo dispuesto por el Código Fiscal para el Estado de Morelos.
+Los contribuyentes y los demás sujetos que se mencionan en el Título Tercero Capítulo I del Código Fiscal para el Estado de Morelos deberán dar toda clase de facilidades a las autoridades competentes para que realicen el ejercicio de las facultades de comprobación fiscal. Para tal efecto, se estará a lo dispuesto por el Código Fiscal para el Estado de Morelos.
 
 ###### Artículo 5 Bis.
 
@@ -225,6 +225,10 @@ Es objeto de este impuesto la adquisición de la propiedad, por cualquier títul
 
 Se entiende por adquisición de vehículos automotores usados, la que derive de todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, con excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Para efectos de este artículo no se considera que existe adquisición o trasmisión de propiedad de vehículos automotores usados cuando una persona moral cambia de razón o denominación social.
+
 SUJETO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
@@ -257,7 +261,9 @@ TASA
 
 El impuesto sobre adquisición de vehículos automotores usados, se calculará aplicando la tasa del 1.25% a la base gravable y deberá pagarse dentro de los treinta días hábiles siguientes a la fecha de adquisición del vehículo, junto con los derechos por servicios de control vehicular relativos al cambio de propietario.
 
-Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente y sellarán el documento original que ampare la propiedad del vehículo; al margen del endoso, anotarán el número, fecha e importe del recibo expedido
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente.
 
 Para los efectos de este impuesto, se considera domicilio fiscal el manifestado ante las autoridades responsables de la prestación de los servicios de control vehicular.
 
@@ -435,9 +441,9 @@ Los retenedores, además de cumplir con las obligaciones señaladas en el Códig
 
 I. Registrarse en el Padrón Estatal de Contribuyentes ante la Secretaría, en las oficinas que para ello autorice, dentro de los veinte días hábiles siguientes a la fecha de inicio de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Capítulo II del Título Tercero del Código Fiscal para el Estado de Morelos, en los casos de cambio de nombre, denominación o r (sic) o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de empadronamiento, dentro de los diez días naturales siguientes a la fecha en que se realice dicho cambio;
+II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Capítulo II del Título Tercero del Código Fiscal para el Estado de Morelos, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de empadronamiento, dentro de los diez días naturales siguientes a la fecha en que se realice dicho cambio;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1151,11 +1157,17 @@ Artículo 58 BIS-9.- Una cantidad equivalente al 50% del total de los recursos q
 
 Artículo 58 BIS-10.- Para la administración de los recursos a que se refiere el artículo anterior, se constituirá un Fideicomiso Ejecutivo. Para la aplicación y destino de los recursos del Fideicomiso, se conformará un Comité Técnico, integrado por un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá voto de calidad, dos representantes más del Poder Ejecutivo y tres miembros del sector empresarial organizado. La Secretaría enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 58 Bis
 
-9.- (DEROGADO, P.O. 13 DE JULIO DE 2018)
+11. Los municipios participarán de los ingresos que se generen por este impuesto, en términos del artículo 58 BIS-1 al 100% de la recaudación que se obtenga y que efectivamente enteren y paguen al Estado, correspondiente al personal que les preste o desempeñe un servicio personal subordinado.
+
+La Secretaría enterará las cantidades correspondientes a los municipios, dentro de los 10 días del mes siguiente a aquél en que se haya realizado el pago de dicha contribución.
+
+La participación a la que hace referencia el primer párrafo de este artículo aplicará siempre y cuando se dé cumplimiento a la obligación. Garantizando la obligatoriedad de la Secretaría de Hacienda de regresar la contribución correspondiente en su totalidad a los municipios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
 
@@ -1488,6 +1500,10 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
 ### capítulo décimo séptimo del presente título.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XV (SIC). Cancelación de Registro 14.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2221,7 +2237,7 @@ No se causará este derecho, cuando se realicen anotaciones marginales por proce
 
 ### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 84.
 
@@ -2233,25 +2249,27 @@ Tarifa en UMA
 
 I. Registro en el padrón vehicular estatal.
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 A) Servicio particular, con expedición de placas
 
 metálicas, tarjeta de circulación, engomado
 
 y holograma:
 
-1. Autos: 10.00
+1. Autos: 11.00
 
-2. Camión: 10.00
+2. Camión: 11.00
 
-3. Demostradoras: 12.50
+3. Demostradoras: 13.50
 
-4. Remolque: 9.00
+4. Remolque: 10.00
 
-5. Con capacidades diferentes: 5.50
+5. Con capacidades diferentes: 6.50
 
-6. Motocicletas: 5.00
+6. Motocicletas: 6.00
 
-7. Auto antiguo: 12.00
+7. Auto antiguo: 13.00
 
 B) Servicio público, con expedición de placas,
 
@@ -2281,21 +2299,23 @@ II. Refrendo anual de los derechos de control vehicular, con expedición de
 
 tarjeta de circulación y holograma:
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 A) Servicio particular:
 
-1. Autos: 6.50
+1. Autos: 7.50
 
-2. Camión: 5.50
+2. Camión: 6.50
 
-3. Demostradoras: 5.50
+3. Demostradoras: 6.50
 
-4. Remolque: 5.50
+4. Remolque: 6.50
 
-5. Con capacidades diferentes: 4.00
+5. Con capacidades diferentes: 5.00
 
-6. Motocicletas: 3.00
+6. Motocicletas: 4.00
 
-7. Auto antiguo: 5.50
+7. Auto antiguo: 6.50
 
 B) Servicio público:
 
@@ -2611,9 +2631,9 @@ Los derechos que se causen por los servicios de control vehicular por expedició
 
 Los demás derechos regulados en este Capítulo se pagarán en el momento en que se soliciten.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Estarán exentas de los derechos a que se refieren las fracciones I y II, del artículo 84 de la presente Ley, las unidades vehiculares propiedad de los Municipios del Estado de Morelos, destinadas a los servicios que prestan corporaciones policiacas y de vigilancia, de Protección Civil, ambulancias, bomberos y servicios de limpia.
+Estarán exentas de los derechos a que se refieren las fracciones I y II, del artículo 84 de la presente Ley, las unidades vehiculares propiedad de la Federación, del Estado y de los Municipios, destinadas a los servicios que prestan corporaciones policíacas y de vigilancia, de Protección Civil, ambulancias, bomberos y servicios de limpieza.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -2681,11 +2701,11 @@ por cada evento a realizar se pagará: 7.00
 
 B) Fuentes móviles:
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 1. Servicio de verificación vehicular con independencia
 
-del holograma o constancia técnica de rechazo: 6.58
+del holograma o constancia técnica de rechazo: 6.525
 
 1.1. Servicio de verificación vehicular para los
 
@@ -2895,9 +2915,11 @@ A) Venta de planta forestal y frutal de edad menor
 
 a un año, por unidad:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 1. En charola de un volumen
 
-de 170 ml. hasta 250 mil: 0.07
+de 170 ml. hasta 250 mil: 0.06
 
 2. En charola de un volumen
 
@@ -2915,17 +2937,25 @@ a un año, por unidad:
 
 1. En charola: 0.10
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 2. En bolsa con capacidad mayor
 
 a 1.36 litros (tamaño 15x25) y
 
-hasta 5.68 litros (tamaño 25x35): 0.30
+hasta 5.68 litros (tamaño 25x35): 0.29
 
 3. En bolsa de un volumen mayor a 5.68 litros
 
 (tamaño 25x35) 1.00
 
-C) (DEROGADO, P.O. 29 DE ENERO DE 2020)
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+C) Venta de planta frutal
+
+1. Limón Persa 0.46
+
+2. Otros frutales 0.29
 
 D) (DEROGADO, P.O. 29 DE ENERO DE 2020)
 
@@ -3099,6 +3129,8 @@ servicios, habitacionales en centros
 
 urbanos o ecoturisticos o agropecuarios: 0.25
 
+> <small>(REFORMADO [N. DE E. CON SUS SUBNUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 8. De operación y administración de
 
 plantas de valorización de
@@ -3107,15 +3139,17 @@ residuos sólidos y comercialización de
 
 productos y subproductos:
 
-8.1. Plantas o unidades de valorización
+8.1. Por autorización para su operación 65.5
+
+8.2. Plantas o unidades de valorización
 
 de residuos sólidos: 709.50
 
-8.2. Comercialización de productos y
+8.3. Comercialización de productos y
 
 subproductos derivados de la actividad: 709.50
 
-8.3. Plantas industriales de metanización
+8.4. Plantas industriales de metanización
 
 de la fracción orgánica de residuos
 
@@ -3299,11 +3333,11 @@ una de ellas:
 
 4. Grande: EXENTO
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS, NUMERALES Y SUBNUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-VI. En materia de administración urbana:
+VI. En materia de ordenamiento territorial:
 
-A) Búsqueda de expediente: 1.3247
+A) Búsqueda de expediente: 1.32
 
 B) Consulta de expediente con una
 
@@ -3311,53 +3345,49 @@ duración máxima de 1 hora 30 minutos,
 
 dentro del horario autorizado de 8:00
 
-a 15:00 horas: 1.9870
+a 15:00 horas: 2.00
 
 C) Copia simple de documentos:
 
 1. Copia tamaño carta:
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
-
-1.1. Por la primera página: 0.0662
+1.1. Por la primera página: 0.06
 
 1.2. De la página 2 a la página 50,
 
-por página: 0.0132
+por página: 0.01
 
 1.3. De la página 51 en adelante,
 
-por página: 0.0066
+por página: 0.006
 
 2. Copia tamaño oficio:
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
-
-2.1. Por la primera página: 0.0927
+2.1. Por la primera página: 0.09
 
 2.2. De la página 2 a la página 50,
 
-por página: 0.0199
+por página: 0.02
 
 2.3. De la página 51 en adelante
 
-por página: 0.0099
+por página: 0.009
 
 3. Copia tamaño doble carta:
 
-3.1. Por la primer página: 0.1325
+3.1. Por la primera página: 0.10
 
 3.2. De la página 2 a la página 50,
 
-por página: 0.0265
+por página: 0.02
 
 3.3. De la página 51 en adelante
 
-por página: 0.0132
+por página: 0.01
 
 D) Copia simple de plano:
 
-1. Plano de hasta 90 cm x 60 cm: 1.3247
+1. Plano de hasta 90 cm x 60 cm: 1.32
 
 2. Por cada fracción adicional
 
@@ -3365,41 +3395,39 @@ D) Copia simple de plano:
 
 2.1. Por cada 30 cm adicionales de
 
-ancho: 0.5961
+ancho: 0.60
 
 2.2. Por cada 30 cm adicionales de
 
-longitud: 0.3974
+longitud: 0.40
 
 E) Copia certificada de documento:
 
-1. Por la primera página: 0.2649
+1. Por la primera página: 0.25
 
 2. De la página 2 a la página 50
 
-por página: 0.1325
+por página: 0.13
 
 3. De la página 51 en adelante por
 
-página: 0.0662
+página: 0.06
 
 F) Copia certificada de plano:
 
-1. Plano de 90 cm x 60 cm: 2.6494
+1. Plano de 90 cm x 60 cm: 2.65
 
 2. Por cada fracción adicional
 
 (por lado):
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
-
 2.1. Por cada 30 cm adicionales
 
-de ancho: 0.900
+de ancho: 0.90
 
 2.2. Por cada 30 cm adicionales
 
-de longitud: 0.7948
+de longitud: 0.80
 
 G) Opinión técnica en el marco de
 
@@ -3411,21 +3439,15 @@ Sustentable:
 
 polígono sin compatibilidades
 
-de suelo: 1.9870
+de suelo: 2.00
 
 2. De un predio, parcela o
 
 polígono con compatibilidades
 
-de un solo uso de suelo 3.9740
+de un solo uso de suelo 6.00
 
-3. De un predio, parcela o
-
-polígono con compatibilidades
-
-de varios usos de suelo: 6.6234
-
-4. Sobre viabilidad de un
+3. Sobre compatibilidad de un
 
 proyecto o anteproyecto
 
@@ -3433,17 +3455,25 @@ proyecto o anteproyecto
 
 ubicado en un predio, parcela
 
-o polígono: 5.2987
+o polígono: 6.00
 
-5. Sobre viabilidad de un proyecto
+4. Sobre compatibilidad de un
 
-o anteproyecto (anexando planos
+proyecto o anteproyecto
 
-arquitectónicos) sobre un predio,
+(anexando planos arquitectónicos)
 
-parcela o polígono: 7.9481
+sobre en un predio, parcela
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+o polígono: 8.00
+
+5. Sobre el potencial de
+
+densificación (poblacional
+
+o de vivienda) sobre un predio,
+
+parcela o polígono: 15.00
 
 6. Sobre el potencial de
 
@@ -3451,33 +3481,35 @@ densificación (poblacional
 
 o de vivienda) sobre un predio,
 
-parcela o polígono: 9.2728
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
-
-7. Sobre el potencial de
-
-densificiación (poblacional
-
-o de vivienda) sobre un predio,
-
 parcela o polígono (anexando
 
-planos arquitectónicos): 10.5974
+planos arquitectónicos): 20.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+H) Opinión técnica de compatibilidad
+
+de uso de suelo en materia de
+
+Ordenamiento Ecológico 6.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VII. En materia de impacto urbano
 
 y vial:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 A) Constancia de no requerimiento
 
-de impacto urbano o de impacto vial: 33.1170
+de impacto urbano: 33.1170
 
-B) Dictamen de impacto urbano:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE MARZO DE 2019)</small>
+B) Dictamen de impacto vial: 350.00
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES Y SUBNUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+C) Dictamen de impacto urbano:
 
 1. Apertura, prolongación y
 
@@ -3493,173 +3525,143 @@ así como para los centros de
 
 población que carezcan de ésta: 105.9743
 
-> <small>(REFORMADO [N. DE E. CON SUS SUBNUMERALES], P.O. 29 DE ENERO DE 2020)</small>
-
 2. Autorización de fraccionamientos,
 
 condominios y conjuntos urbanos que
 
-pretendan beneficiarse con la descomposición
+pretendan beneficiarse con la densificación
 
-en más de dos rangos. Así como en las
+en más de dos rangos, así como en las
 
 áreas aptas para el desarrollo urbano para
 
-proyectos iguales o superiores a cien viviendas;
+proyectos iguales o superiores a cien viviendas.
 
-de acuerdo con los siguientes criterios:
+2.1. Autorización de fraccionamientos,
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+condominios y conjuntos urbanos que
 
-2.1. Densificación máxima
+pretendan beneficiarse con la densificación
 
-permitida que se encuentre en el
+en más de dos rangos, de acuerdo con los
 
-rango de 0 a 99 viviendas: 213.043
+siguientes criterios:
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+2.1.1. Densificación máxima
 
-2.2. Densificación máxima
+permitida hasta 3 rangos de
 
-permitida que se encuentre en
+densidad de población 130.00
 
-el rango de 100 a 200 viviendas: 112.5977
+2.1.2. Densificación máxima
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+permitida hasta 4 rangos de
 
-2.3. Densificación máxima
+densidad de población 200.00
 
-permitida que se encuentre en
+2.1.3. Densificación máxima
 
-el rango de 201 a 300 viviendas: 132.4679
+permitida hasta 5 rangos de
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+densidad de población 270.00
 
-2.4. Densificación máxima
+2.1.4. Densificación máxima
 
-permitida que se encuentre en
+permitida hasta 6 rangos de
 
-el rango de 301 a 500 viviendas: 198.7018
+densidad de población 340.00
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+2.1.5. Densificación máxima
 
-2.5. Densificación máxima
+permitida hasta 7 rangos de
 
-permitida que se encuentre en
+densidad de población 410.00
 
-el rango de 501 a 1000
+2.1.6. Densificación máxima
 
-viviendas: 331.1697
+permitida hasta 8 rangos de
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+densidad de población 480.00
 
-2.6. Densificación máxima
+2.1.7. Densificación máxima
 
-permitida que se encuentre en
+permitida hasta 9 rangos de
 
-el rango de 1,001 a 2,500 viviendas: 397.4036
+densidad de población 550.00
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+2.2. Autorización de fraccionamientos,
 
-2.7. Densificación máxima
+condominios y conjuntos urbanos en
 
-permitida que se encuentre en
+áreas aptas para el desarrollo urbano
 
-el rango de 2,501 viviendas en adelante: 529.8715
+para proyectos iguales o superiores a cien
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+viviendas, de acuerdo con los
 
-2.8. Autorización de
+siguientes criterios:
 
-fraccionamientos, condominios
+2.2.1. Autorización de fraccionamientos,
 
-y conjuntos urbanos en áreas
+condominios y conjuntos urbanos en áreas
 
-aptas para el desarrollo urbano,
+aptas para el desarrollo urbano, para los
 
-para los proyectos que se
+proyectos que se encuentre en el rango
 
-encuentren en el rango de
+de 100 a 500 viviendas 165.60
 
-100 a 500 viviendas: 165.5848
+2.2.2. Autorización de fraccionamientos,
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+condominios y conjuntos urbanos en
 
-2.9. Autorización de
+áreas aptas para el desarrollo urbano, para
 
-fraccionamientos, condominios
+los proyectos que se encuentren en el
 
-y conjuntos urbanos en áreas
+rango de 501 a 1000 viviendas: 238.50
 
-aptas para el desarrollo urbano,
+2.2.3. Autorización de fraccionamientos,
 
-para los proyectos que se
+condominios y conjuntos urbanos en
 
-encuentren en el rango de
+áreas aptas para el desarrollo urbano,
 
-501 a 1000 viviendas: 238.4422
+para los proyectos que se encuentre en
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+el rango de 1,001 a 2,500 viviendas: 331.20
 
-2.10. Autorización de
+2.2.4. Autorización de fraccionamientos,
 
-fraccionamientos, condominios
+condominios y conjuntos urbanos en
 
-y conjuntos urbanos en áreas
+áreas aptas para el desarrollo urbano, para
 
-aptas para el desarrollo urbano,
+los proyectos superiores a 2,501 viviendas 397.40
 
-para los proyectos que se
+3. Proyectos de ampliación de vivienda:
 
-encuentre en el rango de
+3.1. Cuando la suma de lo existente y el
 
-1,001 a 2,500 viviendas: 331.1697
+incremento rebase los 5,000 metros
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+cuadrados de construcción: 172.2082
 
-2.11. Autorización de
+3.2. Cuando ya se tenga una evaluación
 
-fraccionamientos, condominios
+de impacto urbano, y se incrementen más de
 
-y conjuntos urbanos en áreas
-
-aptas para el desarrollo urbano,
-
-para los proyectos que se
-
-encuentre en el rango de
-
-2,501 viviendas: en adelante 397.4036
-
-3. Proyectos de ampliación de
-
-vivienda:
-
-3.1. Cuando la suma de lo existente
-
-y el incremento rebase los 5,000
-
-metros cuadrados de construcción: 172.2082
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
-
-3.2. Cuando ya se tenga una
-
-evaluación de impacto urbano, y se
-
-incrementen más de 2,500
-
-metros cuadrados de construcción: 139.0913
+2,500 metros cuadrados de construcción: 139.0913
 
 4. Proyectos de ampliación de usos
 
 no habitacionales:
 
-4.1. Cuando la suma de lo existente
+4.1. Cuando la suma de lo existente y el
 
-y el incremento rebase 5,000
+incremento rebase 5,000 metros cuadrados
 
-metros cuadrados de construcción: 211.9486
+de construcción: 211.9486
 
 4.2. Cuando ya se tenga evaluación
 
@@ -3673,57 +3675,41 @@ construcción: 162.2731
 
 construcción en adelante:
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+5.1. Edificación de
 
-5.1. Edificación de oficinas, despachos y
+oficinas, despachos y consultorios, locales
 
-consultorios, locales de comercios o servicios. 158.9615
+de comercios o servicios. 158.9615
 
 5.2. Bodegas o almacenes: 185.4550
 
-5.3. Industria química,
+5.3. Industria química, farmacéutica, mecánica,
 
-farmacéutica, mecánica,
+automotriz, de ensamble, plantas de manufactura,
 
-automotriz, de ensamble,
-
-plantas de manufactura,
-
-tratamiento o producción
-
-de cualquier tipo: 264.9358
+tratamiento o producción de cualquier tipo: 264.9358
 
 5.4. Equipamiento: 158.9615
 
-5.5. Hoteles, moteles, hostales
+5.5. Hoteles, moteles, hostales o posadas: 158.9615
 
-o posadas: 158.9615
+5.6. Centros comunitarios regionales y culturales,
 
-5.6. Centros comunitarios
+museos, centros de exposiciones temporales,
 
-regionales y culturales,
+galerías y similares: 158.9615
 
-museos, centros de exposiciones
+5.7. Auditorios, cines, teatros, salas de
 
-temporales, galerías y similares: 158.9615
+conciertos o plazas de espectáculos: 264.9358
 
-5.7. Auditorios, cines, teatros,
+5.8. Centros de convenciones y salones o
 
-salas de conciertos o plazas de
+jardines destinados para fiestas y banquetes: 238.3442
 
-espectáculos: 264.9358
+5.9. Restaurantes, bares, cantinas, botaneras,
 
-5.8. Centros de convenciones y
-
-salones o jardines destinados
-
-para fiestas y banquetes: 238,4422
-
-5.9. Restaurantes, bares,
-
-cantinas, botaneras, centros
-
-o clubes nocturnos, centros de
+centros o clubes nocturnos, centros de
 
 espectáculos, discotecas: 238.4442
 
@@ -3731,45 +3717,31 @@ espectáculos, discotecas: 238.4442
 
 construcción en adelante:
 
-6.1. Centrales de abasto de
+6.1. Centrales de abasto de cualquier tipo: 397.4036
 
-cualquier tipo: 397.4036
+6.2. Academias e institutos de capacitación técnica,
 
-6.2. Academias e institutos de
+profesional o comercial: 264.9358
 
-capacitación técnica, profesional
+7. De 10,000 metros cuadrados de terreno en adelante:
 
-o comercial: 264.9358
+7.1. Granjas, rastros, zoológicos, acuarios y
 
-7. De 10,000 metros cuadrados
-
-de terreno en adelante:
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
-
-7.1. Granjas, rastros, zoológicos, acuarios
-
-y jardines botánicos, etnobotánicas, piscícolas,
+jardines botánicos, etnobotánicas, piscícolas,
 
 aviarios o herbolarios: 397.4036
 
-7.2. Locales que contengan de
+7.2. Locales contengan de forma legal flora
 
-forma legal flora o fauna de
+o fauna de cualquier especie 198.7018
 
-cualquier especie: 198.7018
+7.3. Proyectos de usos mixtos (habitacional,
 
-7.3. Proyectos de usos mixtos
+comercio, servicios o equipamiento): 264.9358
 
-(habitacional, comercio,
+7.4. Oficinas, despachos y consultorios,
 
-servicios
-
-o equipamiento): 264.9358
-
-7.4. Oficinas, despachos y
-
-consultorios, comercios, servicios: 397.4036
+comercios, servicios: 397.4036
 
 7.5. Industria: 503.3779
 
@@ -3777,71 +3749,55 @@ consultorios, comercios, servicios: 397.4036
 
 8. Cualquier superficie:
 
-8.1. Depósitos o almacenamiento
+8.1. Depósitos o almacenamiento de
 
-de combustible; estaciones de
+combustible; estaciones de servicio de
 
-servicio de combustible para
+combustible para carburación diésel, gas LP
 
-carburación diésel, gas LP y
+y gas natural: 529.87
 
-gas natural: 529.87
+8.2 Tiendas de autoservicio, departamentales,
 
-8.2 Tiendas de autoservicio,
-
-departamentales, centros
-
-comerciales y mercados, con
+centros comerciales y mercados, con
 
 excepción de las tiendas de
 
 conveniencia: 397.40
 
-8.3. Institutos o escuelas de
+8.3. Institutos o escuelas de educación
 
-educación media superior y
+media superior y universidades o
 
-universidades o institutos
+institutos politécnicos; instituciones o
 
-politécnicos; instituciones o
+centros de estudio de posgrado y centros
 
-centros de estudio de posgrado y
+de investigación públicos o privados: 397.40
 
-centros de investigación públicos
+8.4. Panteones, crematorios, velatorios y
 
-o privados: 397.40
+columbarios; 397.40
 
-8.4. Panteones, crematorios,
+8.5. Arenas de box y luchas, plazas de toros,
 
-velatorios y columbarios; 397.40
+lienzos charros, palenques y similares;
 
-8.5. Arenas de box y luchas,
+estadios, hipódromos, autódromos, velódromos
 
-plazas de toros, lienzos
+y similares; centros de espectáculos: 529.87
 
-charros, palenques y similares;
+8.6. Centros de readaptación o reintegración social,
 
-estadios, hipódromos, autódromos,
+clínicas contra adicciones, reformatorios o
 
-velódromos y similares; centros
+tutelares: 529.87
 
-de espectáculos: 529.87
+8.7. Terminales de autobuses de pasajeros o
 
-8.6. Centros de readaptación o
+aeropuertos: 397.40
 
-reintegración social, clínicas
-
-contra adicciones, reformatorios
-
-o tutelares: 529.87
-
-8.7. Terminales de autobuses de
-
-pasajeros: 397.40
-
-8.8. Aeropuertos y parques
-
-industriales: 635.85
+8.8. Parques industriales: 635.85
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
 
@@ -3980,8 +3936,6 @@ del estado de Morelos.
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
 ### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 87.
 
@@ -4127,71 +4081,97 @@ Tarifa en UMA
 
 I. Por un Policía en 12 horas de servicio diurno
 
-a) Riesgo medio
+a) Riesgo bajo
 
-1. Tarifa diaria 6.50
+1. Tarifa diaria 5.77
 
-2. Tarifa mensual 187.50
+2. Tarifa mensual 173.00
 
-b) Riesgo alto 8.00
+b) Riesgo medio
 
-1. Tarifa diaria 240.50
+1. Tarifa diaria 7.20
 
-2. Tarifa mensual
+2. Tarifa mensual 206.25
+
+c) Riesgo alto
+
+1. Tarifa diaria 8.80
+
+2. Tarifa mensual 264.55
 
 II. Por un policía en 24 horas de servicio
 
-a) Riesgo medio
+a) Riesgo bajo
 
-1. Tarifa diaria 11.50
+1. Tarifa diaria 8.82
 
-2. Tarifa mensual 337.00
+2. Tarifa mensual 264.70
 
-b) Riesgo alto
+b) Riesgo medio
 
-1. Tarifa diaria 17.03
+1. Tarifa diaria 16.50
 
-2. Tarifa mensual 508.49
+2. Tarifa mensual 370.70
 
-III. Por la prestación del servicio nocturno por 12 horas por un policía
+c) Riesgo alto
 
-a) Riesgo medio
+1. Tarifa diaria 18.73
 
-1. Tarifa diaria 6.80
+2. Tarifa mensual 559.34
 
-2. Tarifa mensual 206.00
+III. Por la prestación del servicio nocturno
 
-b) Riesgo alto
+por 12 horas por un policía
 
-1. Tarifa diaria 8.50
+a) Riesgo bajo 6.91
 
-2. Tarifa mensual 259.00
+1. Tarifa diaria 207.00
 
-IV. Por la prestación de servicios extraordinarios por 12 horas por un policía:
+2. Tarifa mensual
 
-1. Tarifa diaria 10.50
+b) Riesgo medio
 
-2. Tarifa mensual 300.00
+1. Tarifa diaria 7.48
 
-V. Por la prestación del servicio extraordinario por 24 horas por un policía:
+2. Tarifa mensual 226.60
 
-1. Tarifa diaria 20.00
+c) Riesgo alto
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+1. Tarifa diaria 9.35
 
-2. Tarifa mensual 600.00
+2. Tarifa mensual 284.90
 
-VI. Por la prestación del servicio de escoltas por cada elemento:
+IV. Por la prestación de servicios extraordinarios
 
-1. Tarifa diaria 15.50
+por 12 horas por un policía
 
-2. Tarifa mensual 457.50
+1. Tarifa diaria 11.55
+
+2. Tarifa mensual 330.00
+
+V. Por la prestación del servicio extraordinario
+
+por 24 horas por un policía:
+
+1. Tarifa diaria 22.00
+
+2. Tarifa mensual 660.00
+
+VI. Por la prestación del servicio de escoltas
+
+por cada elemento:
+
+1. Tarifa diaria 17.05
+
+2. Tarifa mensual 503.25
 
 Para la clasificación del riesgo se estará a lo siguiente:
 
-a) Riesgo medio: los servicios prestados en los que se requiera portar armamento, y
+a) Riesgo Bajo: Los servicios prestados en los que no se requiera portar armamento;
 
-b) Riesgo alto: los servicios prestados en los lugares en los que se resguarden valores, para los que sea indispensable portar armamento.
+b) Riesgo Medio: los servicios prestados en los que se requiera portar armamento, y
+
+c) Riesgo Alto: los servicios prestados en los lugares en los que se resguarden valores, para los que sea indispensable portar armamento.
 
 ### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
 
@@ -4209,35 +4189,53 @@ Los derechos por registro de control y vigilancia de las personas físicas o per
 
 Tarifa en UMA
 
-I. Por la autorización para su funcionamiento y registro: 141.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-II. Por la revalidación anual de la autorización registro: 71.00
+I. Por la autorización para su funcionamiento y registro: 212.25
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+II. Por la revalidación anual de la autorización registro: 106.5
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 III. Por el registro y expedición de la cédula de registro
 
 de cada elemento de seguridad: 2.50
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 IV. Por la revalidación anual y reposición de la cédula a
 
-que se refiere la fracción anterior: 1.50
+que se refiere la fracción anterior: 3.75
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 V. Por la autorización de traslado y custodia de fondos,
 
-valores o bienes vinculados con el servicio de seguridad: 197.00
+valores o bienes vinculados con el servicio de seguridad: 295.50
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VI. Por la revalidación anual de la autorización de traslado
 
 y custodia de fondos, valores o bienes: vinculados con
 
-el servicio de seguridad: 141.50
+el servicio de seguridad: 212.25
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VII. Emisión de credencial individual que acredita
 
-el registro del elemento ante la dirección: 1.00
+el registro del elemento ante la dirección: 1.50
 
-VIII. Por el estudio de procedencia de la autorización: 5.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-IX. Otros servicios: 35.50
+VIII. Por el estudio de procedencia de la autorización: 8.25
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+IX. Otros servicios: 53.25
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -4249,41 +4247,7 @@ RELATIVOS A INMUEBLES
 
 ###### Artículo 96 Bis.
 
-Los derechos por las evaluaciones que realiza el centro de evaluación de control de confianza de la Secretaría de Gobierno, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-
-Tarifa
-
-en UMA
-
-I. Evaluaciones de control de confianza
-
-a) Fase toxicológicas (sic): 7.50
-
-b) Fase médica: 12.00
-
-c) Fase socioeconómica: 16.50
-
-d) Fase psicológica: 20.00
-
-e) Fase poligráfica: 30.00
-
-II. Evaluaciones para la licencia
-
-oficial colectiva
-
-a) Fase toxicológica: 7.50
-
-b) Fase médica: 12.00
-
-c) Fase psicológica: 20.00
-
-III. Evaluaciones para seguridad
-
-privada
-
-Fase toxicológica 7.50
-
-Fase psicológica 20.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
@@ -4923,7 +4887,7 @@ Por concepto de las diversas constancias que expida el Tribunal de Justicia Admi
 
 ### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 109.
 
@@ -5005,17 +4969,19 @@ La legalización de firmas, certificados, certificaciones y copias certificadas 
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 112 Bis.
 
 Las copias certificadas que soliciten entre sí las diversas autoridades del Gobierno del Estado, en especial las requeridas por autoridades contencioso-administrativas, jurisdiccionales o de investigación, no causarán derechos, por lo que para su expedición bastará con su solicitud por escrito.
 
+Así mismo, no se causarán los derechos por los servicios de trámite a que se refiere el artículo 109 de la presente Ley, cuando sean solicitados por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, para asuntos oficiales de su competencia, siempre y cuando sean solicitados por escrito, mediante el cual justifique y acredite su petición.
+
 ### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Artículo 114 Quintus. Los derechos por los servicios en materia de expedición de hojas de servicio y constancias de sueldo, derivado de la guarda y custodia de expedientes del personal, así como por la expedición de credencial de identificación, se causarán y pagarán previamente, en razón de una cantidad equivalente a 1.5 UMA, excepto cuando se trate de la primera expedición que corresponda en el periodo de su vigencia.
+Artículo 114 Quintus. Los derechos por los servicios en materia de expedición de hojas de servicio y constancias de sueldo, derivado de la guarda y custodia de expedientes del personal, así como por la expedición de credencial de identificación, se causarán y pagarán previamente, debido a una cantidad equivalente a 1.5 UMA, excepto cuando se trate de la primera expedición que corresponda en el periodo de su vigencia, reingreso, cambio de nombramiento y cambio de adscripción.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -5098,6 +5064,10 @@ DE: A:
 4001 6000 14.00
 
 DE 6001 UNIDADES O PIEZAS EN ADELANTE: 16.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Se exenta del pago de estos derechos a las secretarías, dependencias, entidades, unidades y órganos del Estado, que auxilien a la Comisión de Avalúos de Bienes Estatales para el cumplimiento de las funciones que establece el artículo 56 de la Ley General de Bienes del Estado de Morelos, así como aquellas autoridades que soliciten trámites para actualización anual de avalúo de bienes inmuebles.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -5259,201 +5229,139 @@ UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO PO
 
 ###### Artículo 114 Quater.
 
-Por la evaluación de los programas de protección civil a que se refiere el artículo 57 de la Ley de Protección Civil para el Estado de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 61 de la misma Ley, se causarán y pagarán los derechos de conformidad a la siguiente tarifa:
+Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
 
-Clasificación de riesgo Tarifa en UMA
-
-Alto o máximo riesgo 32.00
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-No se causarán los derechos a que se refiere este artículo, por los servicios de evaluación de programas de protección civil, cuando se presten a las entidades de la administración pública del estado.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-1. Por la evaluación de programas de protección civil a que se refiere el artículo 57 de la Ley de Protección Civil para el Estado de Morelos de los espacios e instalaciones previstas en los artículos 132 y 134 del mismo ordenamiento, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
+1. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos de los espacios e instalaciones previstas en el artículo 127 del mismo ordenamiento, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 114 Quater
-
-2. Por la visita de inspección y vigilancia del cumplimiento de normas, leyes y reglamentos en materia de seguridad y protección civil para prevenir y evitar riesgos donde se celebren espectáculos masivos de personas, a que se refieren los artículos 134 y 135 de la Ley de Protección Civil para el Estado de Morelos, se pagará un derecho por la cantidad equivalente a 41.50 UMA.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-3. Por la aprobación del cumplimiento a las normas, leyes y reglamentos en materia de seguridad y protección civil en la celebración de espectáculos públicos masivos en lo relativo a las medidas de seguridad y prevención previstas en los artículos 134 y 135 de la Ley de Protección Civil para el Estado de Morelos, se pagará un derecho por la cantidad de 27.50 UMA.
+2. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos para proyectos e instalaciones existentes o de nueva creación, a que se refiere el artículo 98, de la Ley Estatal de Protección Civil de Morelos se causará un derecho por la cantidad equivalente a 55.00 UMA.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-4. Los derechos por el servicio de apoyo especializado en materia de seguridad y prevención en protección civil, que preste la Coordinación Estatal de Protección Civil Morelos, a solicitud de parte, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causarán y pagarán de acuerdo a lo siguiente:
+3. Por la evaluación y aprobación al análisis de vulnerabilidad y riesgo, a que se refieren los artículos 42 y 43, del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-TURNO HORARIO TARIFA POR CADA
-
-ELEMENTO OPERATIVO
-
-EN UMA
-
-Matutino-Vespertino 08:00 a las 16:00 horas 5.50
-
-Vespertino-Nocturno 16:00 a las 24:00 horas 7.00
-
-Nocturno-Matutino 24:00 a las 08:00 horas 8.50
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-5. Por la opinión en materia de riesgo, que emita la Coordinación Estatal de Protección Civil Morelos, prevista en el artículo 143 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad a la siguiente tarifa:
+4. Por la visita de inspección y visto bueno, en cumplimiento de la seguridad para prevenir y evitar riesgos en instalaciones donde exista concentración masiva de personas a que se refiere el artículo 129, de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 60.00 UMA.
 
-CLASIFICACIÓN DE RIESGO Tarifa en UMA
-
-ALTO O MÁXIMO RIESGO 27.50
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-###### Articulo 114 Quater
-
-6. Por la visita de inspección y vigilancia que realice la Coordinación Estatal de Protección Civil Morelos a los proyectos de construcción e instalación, existentes o de nueva creación y todo desarrollo habitacional, a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos y 122 del Reglamento de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa:
-
-Clasificación de riesgo Tarifa en UMA
-
-Alto o máximo riesgo 18.50
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-7. Por las aprobaciones, que emita la Coordinación Estatal de Protección Civil Morelos, en relación a los proyectos de construcción e instalación, existentes o de nueva creación y todo desarrollo habitacional, a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos y 122 del Reglamento de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa:
+5. Por la visita de inspección y visto bueno, al predio para Proyectos e instalaciones existentes o de nueva creación y desarrollos habitacionales, a que se refieren los artículos 98 y 100, de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA
 
-Clasificación de riesgo Tarifa en UMA
-
-Alto o máximo riesgo 27.50
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-8. Por la visita de inspección y vigilancia que se realice para verificar que el transporte que utilice gas L.P. para carburación, cumple con las medidas de seguridad establecidas en la norma oficial mexicana respectiva, se causará un derecho por la cantidad equivalente a 2.50 UMA, por cada unidad vehicular.
+6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren el artículo 93 de la Ley Estatal de Protección Civil de Morelos, 61 y 66 de su Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 114 Quater
-
-9. Por la aprobación que se emita al transporte que utilice gas L.P., para carburación derivado del cumplimiento de las medidas de seguridad establecidas en Noma Oficial Mexicana respectiva, se causará y pagará un derecho por la cantidad equivalente a 1.50 UMA, por cada unidad vehicular.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-10. Por el registro de particulares para ejercer actividades en materia de protección civil y por la renovación anual, que deberá realizarse durante el primer mes del ejercicio fiscal, se causarán y pagarán los derechos de acuerdo a la siguiente tarifa:
+7. Por la visita de inspección y visto bueno a los proyectos de construcción e instalación, existentes o de nueva creación, a que se refiere el artículo 98 de la Ley Estatal de Protección Civil de Morelos y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-I. Consultores: Tarifa en UMA
-
-1. Riesgo alto o máximo 69.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-II. Capacitadores:
-
-1. Primeros auxilios
-
-Nivel
-
-1.1. Básico 8.50
-
-1.2. Intermedio 10.00
-
-1.3. Avanzado 14.00
-
-2. Prevención, combate y control
-
-de incendio:
-
-Nivel
-
-2.1. Básico 8.50
-
-2.2. Intermedio 10.00
-
-2.3. Avanzado 14.00
-
-3. Formación de brigadas: 11.00
-
-4. Búsqueda y rescate:
-
-Nivel
-
-4.1. Básico 8.50
-
-4.2. Intermedio 10.00
-
-4.3. Avanzado 14.00
-
-5. Señalización 10.00
-
-6. Guardavidas 26.50
-
-7. Rescate acuático 26.50
-
-8. Rescate vertical 26.50
-
-9. Simulacros de campo y
-
-gabinete 10.00
-
-10. Materiales peligrosos 27.50
-
-11. Elaboración de programas
-
-de protección civil. 27.50
-
-III. Expedición de estudios de
-
-vulnerabilidad y riesgo. 48.00
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-11. Por la capacitación en materia de protección civil al sector privado se causará y pagará un derecho por la cantidad equivalente a 4.50 UMA por persona y por curso con duración menor a diez horas.
+8. Por la visita de inspección, y visto bueno a los establecimientos, instalaciones, edificaciones e inmuebles que estén en operación y funcionamiento, a que se refiere los artículos 190, 191 y 192 de la Ley Estatal de Protección Civil de Morelos y 190 y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-La capacidad mínima y máxima para realizar el curso es de 15 a 50 personas.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-12. Por el registro y autorización de los libros bitácora que documenten acciones en materia de protección, se causará y pagará un derecho por la cantidad equivalente a 5.00 UMA por cada libro.
+9. Por la visita de inspección y opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67 y 68 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 114 Quater
 
-13. Por la evaluación de simulacros que realice la Coordinación Estatal de Protección Civil Morelos, se causará y pagará un derecho por la cantidad equivalente a 4.50 UMA
+10. Por la visita de inspección, y visto bueno para verificar al transporte que utilice gas L.P. o gas natural para carburación, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+11. Por la visita de inspección, y visto bueno para verificar vehículos que transportan gas L.P., gas natural, materiales, sustancias peligrosas o los regulados por la Ley Federal de Armas de Fuego y Explosivos, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+12. Por el registro como consultor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+13. Por el registro como consultor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 10.00 UMA, por cada tema a impartir.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+15. Por la capacitación en materia de protección civil al sector privado se causará un derecho por la cantidad equivalente a 5.00 UMA, por persona.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+16. Por el registro y autorización de los libros bitácora que documenten acciones en materia de protección civil, se causará un derecho por la cantidad equivalente a 5.00 UMA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+17. Por el servicio de vigilancia en materia de seguridad y prevención en protección civil, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causará un derecho por la cantidad equivalente a:
+
+TURNO HORARIO TIEMPO POR
+
+CADA ELEMENTO OPERATIVO
+
+MATUTINO- 08:00 a las
+
+VESPERTINO 16:00 horas 6.00
+
+Vespertino- 16:00 a las
+
+Nocturno 24:00 horas 8.00
+
+Nocturno- 24:00 a las
+
+Matutino 08:00 horas 10.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+18. Por cada evaluación de simulacros se causará un derecho por cada uno la cantidad equivalente a 5.00 UMA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+19. Por la copia certificada que emita la Coordinación Estatal de Protección Civil Morelos, conforme al artículo 23 fracción XII del Estatuto Orgánico de la Coordinación Estatal de Protección Civil Morelos se causará un derecho por la cantidad equivalente a 2.00 UMA.
+
+No se causarán los derechos a que se refiere este capítulo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -6166,5 +6074,15 @@ P.O. 29 DE ENERO DE 2020.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO CUATRO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
