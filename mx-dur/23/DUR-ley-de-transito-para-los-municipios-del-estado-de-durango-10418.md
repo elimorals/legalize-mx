@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2019-12-29"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "DUR"
 ---
 # LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -397,11 +401,15 @@ La Comisión de Honor estará integrada por un Presidente que será el Director 
 
 La Comisión de Honor se reunirá periódicamente y decidirá que empleados y funcionarios de la Dirección de Tránsito se harán acreedores a un ascenso o compensación económica, la cual se establecerá de acuerdo al presupuesto de egresos de la dependencia, evaluando los aspectos de asistencia, puntualidad, honestidad, cumplimiento de su deber y servicio a la ciudadanía en general.
 
-### CAPITULO SEPTIMO. DEL CONTROL Y REGISTRO DE VEHICULOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+### CAPITULO SEPTIMO. DEL CONTROL Y REGISTRO DE VEHICULOS Y DEL SEGURO DE RESPONSABILIDAD CIVIL
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 34.
 
-Todo vehículo para poder transitar dentro del Estado, deberá estar provisto de placas, tarjeta de circulación y calcomanías respectivas en vigor, expedidas por el Gobierno del Estado, y si son del extranjero, que hayan sido autorizadas de acuerdo con las leyes de su país de origen y no contravengan las normas estatales y municipales y se hayan internado legalmente en el país. Tanto las placas como los demás documentos a que se hace referencia en este artículo, serán la única forma legal de identificación de los vehículos; por lo que, en ningún caso y por ningún motivo, podrá establecerse otro medio de control de vehículos por parte de los Municipios.
+Todo vehículo para poder transitar dentro del Estado, deberá estar provisto de placas, tarjeta de circulación y calcomanías respectivas en vigor, expedidas por el Gobierno del Estado, y si son del extranjero, que hayan sido autorizadas de acuerdo con las leyes de su país de origen y no contravengan las normas estatales y municipales y se hayan internado legalmente en el país, de igual forma deberán portar la póliza de seguro de responsabilidad civil vigente de daños a terceros. Tanto las placas como los demás documentos a que se hace referencia en este artículo, serán la única forma legal de identificación de los vehículos; por lo que, en ningún caso y por ningún motivo, podrá establecerse otro medio de control de vehículos por parte de los Municipios.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
@@ -415,9 +423,11 @@ La Secretaría de Seguridad Pública del Gobierno del Estado se coordinará y co
 
 Se prohíbe a los conductores o propietarios de cualquier tipo de motocicletas, trimoto, cuatrimoto, o motocarro, llevar como acompañante a menores de cinco años o que habiendo cumplido esa edad no puedan sujetarse por sus propios medios y alcanzar el posapiés o pedal que tenga el vehículo para ese efecto. Los Ayuntamientos sancionaran en los reglamentos que correspondan la violación a esta disposición.
 
-###### ARTICULO 35.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-Los vehículos requieren, para su tránsito en el Municipio, del registro correspondiente del Gobierno del Estado. Dicho registro se comprobará mediante la exhibición de las placas, de la calcomanía vigente a éstas y de la tarjeta de circulación, instrumentos que deberán llevarse en el vehículo, de conformidad a lo dispuesto en los Reglamentos de Tránsito Municipales.
+###### ARTÍCULO 35.
+
+Los vehículos requieren, para su tránsito en el Municipio, del registro correspondiente del Gobierno del Estado. Dicho registro se comprobará mediante la exhibición de las placas, de la calcomanía vigente a éstas, de la tarjeta de circulación, y de la copia vigente de la póliza del seguro de responsabilidad civil, instrumentos que deberán llevarse en el vehículo, de conformidad a lo dispuesto en los Reglamentos de Tránsito Municipales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
 
@@ -482,6 +492,10 @@ El permiso temporal deberá portarse en el vidrio parabrisas frontal del vehícu
 El conductor de un vehículo deberá llevar consigo la licencia expedida por el Gobierno del Estado que lo faculte para manejarlo.
 
 Es obligación de los conductores, presentar su licencia al personal de la Dirección Municipal cuando se cometa una infracción a la Ley o Reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Todos los vehículos que transiten en vías, caminos y puentes del Estado deberán contar con un seguro de responsabilidad civil que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo. La contratación del seguro será responsabilidad del propietario del vehículo y por ningún motivo se podrá obligar a los propietarios de vehículos a que contraten el seguro con alguna institución en específico.
 
 ###### ARTICULO 38.
 
@@ -896,3 +910,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo que no exceda de 45 días posteriores a la entrada en vigor del presente Decreto, los Ayuntamientos deberán expedir la reglamentación necesaria para dar cumplimiento a este decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 475.- QUE CONTIENE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, SE REFORMA EL ARTÍCULO 34, SE REFORMA EL ARTÍCULO 35 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2022, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Poder Ejecutivo del Estado deberá expedir, dentro de 90 días posteriores a la publicación del presente decreto, las disposiciones administrativas a fin de dar cumplimiento al mismo.
+
+TERCERO.- Los ayuntamientos del Estado deberán expedir, dentro de 90 días posteriores a la publicación del presente decreto, las disposiciones reglamentarias a fin de dar cumplimiento al mismo.
