@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2020-01-29"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -119,27 +119,31 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
 A los Municipios de la Entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-I.- Del Fondo General de Participaciones, el 20% del total;
+I. Del Fondo General de Participaciones, el 20% del total;
 
-II.- Del Fondo de Fomento Municipal, el 100%;
+II. Del Fondo de Fomento Municipal, el 100%;
 
-III.- Del Impuesto Especial sobre Producción y Servicios, el 20% del total;
+III. Del Impuesto Especial sobre Producción y Servicios, el 20% del total;
 
-IV.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
+IV. Del Impuesto Sobre Automóviles el 20% del total incluyendo el Fondo de Compensación de dicho impuesto;
 
-V.- De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las Dependencias del Municipio, así como en sus respectivos Organismos Autónomos y Entidades Paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
+V. Del Impuesto Especial Sobre Producción y Servicios a la venta de gasolinas y diésel, el 20% del total, en forma proporcional al coeficiente que resulte de dividir el total de la población de cada Municipio, entre el total de la población de los municipios del estado de Morelos de acuerdo con la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía;
+
+VI. Del Fondo de Fiscalización y Recaudación que disponga la Ley de Coordinación Fiscal, 20% del total; en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
+
+VII. De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en la dependencias del municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
 
 Para efectos del párrafo anterior, se considera la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
 
-Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los Municipios deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales.
+Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los municipios deberán enterar a la federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales, así como cumplir con los requisitos fiscales en materia de expedición de Comprobantes Fiscales Digitales por Internet, y
 
-VI.- De los ingresos que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada Municipio, entre el total de las participaciones pagadas a todos los Municipios en el ejercicio fiscal inmediato anterior.
+VIII. De los ingresos que por concepto de participaciones en ingresos federales le distribuya la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
@@ -786,5 +790,15 @@ P.O. 29 DE ENERO DE 2020.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CUATRO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS Y DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
