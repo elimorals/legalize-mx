@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2015-09-06"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE ASISTENCIA SOCIAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -167,9 +169,13 @@ V.- Elaborar y proponer anteproyectos legislativos en materia de asistencia soci
 
 VI.- Llevar a cabo programas de capacitación de recursos humanos para la asistencia social;
 
-VII.- Establecer y operar un sistema estatal de información básica en materia de asistencia social; y
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-VIII.- Las demás que le otorguen esta Ley y otros ordenamientos.
+VII.- Establecer y operar un sistema de transporte exclusivo con rutas especiales para personas con discapacidad, que permita su traslado de su domicilio a un centro de rehabilitación con el fin de recibir sus terapias.
+
+VIII.- Establecer y operar un sistema estatal de información básica en materia de asistencia social; y
+
+IX.- Las demás que le otorguen esta Ley y otros ordenamientos.
 
 ### CAPITULO IV. DEL SERVICIO DE ASISTENCIA SOCIAL
 
@@ -810,3 +816,11 @@ P.O. 6 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480.- QUE CONTIENE ADICIÓN EN UNA FRACCIÓN VII AL ARTÍCULO 9 DE LA LEY DE ASISTENCIA SOCIAL VIGENTE EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
