@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-12-28"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -171,7 +171,7 @@ Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera refe
 
 Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
 
-Para el cálculo del impuesto a las cantidades antes indicadas, deberán reducirse los premios efectivamente pagados o entregados y las cantidades efectivamente devueltas a los jugadores.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 DEDUCCIONES
 
@@ -185,7 +185,9 @@ En el caso de premios distintos al efectivo, se podrá deducir el valor estipula
 
 II. Las cantidades devueltas a los participantes, antes de la realización de los juegos o sorteos.
 
-Para que puedan deducirse los valores referidos en las fracciones anteriores, estos deberán estar registrados en la contabilidad, en el sistema central de apuestas o en el sistema que resulte equivalente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Las deducciones señaladas en las fracciones anteriores, no deberán incluir las contribuciones que se hubieren retenido o trasladado derivadas de contribuciones locales o federales. Así mismo, para que puedan deducirse los valores referidos en las mismas, estos deberán estar registrados en la contabilidad, en el sistema central de apuestas o en el sistema que resulte equivalente.
 
 CÁLCULO Y FECHA DE PAGO
 
@@ -1106,3 +1108,23 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinte.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLYC/0951/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, con excepción de lo previsto en su Artículo Segundo Transitorio, que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente contempladas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, correspondientes al presente año, quedarán exceptuadas de su celebración en virtud de las medidas establecidas en el Acuerdo No. 049/2020 emitido por el C. Gobernador Constitucional del Estado y sucesivos.
+
+###### ARTÍCULO TERCERO.
+
+Durante el tiempo de vigencia de las acciones decretadas para combatir la contingencia sanitaria COVID-19, se suspenden las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente, establecidas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
