@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2020-01-01"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -339,6 +339,10 @@ V. El 20% del monto percibido por el Estado en la recaudación del Impuesto sobr
 
 VI. El 20% del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VII. El 20% correspondiente al Incentivo referido en el último párrafo del inciso A, fracción VI, de la Cláusula Décima Novena del Convenio de Colaboración Administrativa en Materia Fiscal Federal, firmado por la Secretaría de Hacienda y Crédito Público y el Estado de Chihuahua.
+
 ###### ARTÍCULO 29.
 
 Además de las participaciones del Fondo de Participaciones Municipales a que se refiere el artículo anterior, los municipios percibirán participaciones de los siguientes conceptos:
@@ -371,13 +375,25 @@ El 20% de los recursos que reciba el Estado por concepto de la recaudación deri
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL ANEXO DEL P.O. DE 24 DE NOVIEMBRE DE 2018, PÁGINAS DE LA 22 A LA 23]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 5777 A LA 5778.]</small>
+
 ###### ARTÍCULO 33.
 
 La Secretaría entregará a los municipios las participaciones federales que les correspondan, las cuales serán cubiertas en efectivo, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de la Ley de Coordinación Fiscal. Dichas participaciones se entregarán, en los términos del artículo 6o., segundo párrafo, de la Ley de Coordinación Fiscal, dentro de los cinco días siguientes a aquel en que el Estado las reciba.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 34.
 
-Los ajustes a las participaciones a los que se refieren los párrafos tercero y cuarto del artículo 7o. de la Ley de Coordinación Fiscal, se integrarán a las participaciones que correspondan a los municipios conforme los artículos 28 y 29, de esta Ley, para los conceptos que resulten afectados.
+Los ajustes a las participaciones del Fondo General de Participaciones, Fondo de Fomento Municipal y las participaciones al Impuesto sobre Producción y Servicios a los que se refieren los párrafos tercero y cuarto del artículo 7o. de la Ley de Coordinación Fiscal, se calcularán con las fórmulas de participaciones que correspondan a los municipios establecidas en los artículos 30 y 31, de esta Ley. Dichos cálculos se determinarán de manera independiente al cálculo mensual que se realice para la distribución de participaciones a municipios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Los ajustes trimestrales del Fondo de Fiscalización y Recaudación a los que se refiere el párrafo tercero del artículo 4o. de la Ley de Coordinación Fiscal, se acumularán al cálculo mensual para la determinación de las participaciones a municipios de acuerdo con la fórmula del artículo 30, de esta Ley. El ajuste definitivo del Fondo de Fiscalización y Recaudación al que se refiere el párrafo cuarto del artículo 7o. de la Ley de Coordinación Fiscal se determinará con la mecánica descrita en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Cuando haya ha lugar a compensaciones de las participaciones referenciadas a la Recaudación Federal Participable (RFP) del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF) durante el ejercicio fiscal, se entregarán a los municipios de acuerdo con la Ley de Coordinación Fiscal, las Reglas de Operación vigentes de dicho Fondo y con el coeficiente mensual vigente de esta Ley.
 
 ### CAPÍTULO II. DE LOS FONDOS DE APORTACIONES
 
@@ -686,3 +702,23 @@ Los estudios validados por el Instituto Estatal de Seguridad Pública, así como
 ###### ARTÍCULO UNDÉCIMO.
 
 En un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto, se elaborará la Ley Orgánica de la Secretaría de Seguridad Pública con la participación de la Comisión Primera de Gobernación y Puntos Constitucionales del H. Congreso del Estado y personas especialistas en la materia.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLYC/0951/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, con excepción de lo previsto en su Artículo Segundo Transitorio, que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente contempladas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, correspondientes al presente año, quedarán exceptuadas de su celebración en virtud de las medidas establecidas en el Acuerdo No. 049/2020 emitido por el C. Gobernador Constitucional del Estado y sucesivos.
+
+###### ARTÍCULO TERCERO.
+
+Durante el tiempo de vigencia de las acciones decretadas para combatir la contingencia sanitaria COVID-19, se suspenden las sesiones de la Reunión Estatal de Funcionarios Hacendarios y la Comisión Permanente, establecidas en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
