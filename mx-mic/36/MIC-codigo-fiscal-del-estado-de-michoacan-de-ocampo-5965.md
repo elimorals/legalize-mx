@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2020-10-26"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -57,17 +57,17 @@ Las disposiciones de este Código son de orden público e interés general y tie
 
 La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos, así como lo conducente a la transparencia y difusión de la información financiera relativa a la presupuestación, ejercicio, evaluación, transparencia y rendición de cuentas, en apego a las disposiciones legales aplicables en la materia.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Para cubrir el gasto público y demás obligaciones a su cargo, el Estado percibirá en cada ejercicio fiscal los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, establecidos en la Ley de Ingresos del Estado.
+Para cubrir el gasto público y demás obligaciones a su cargo, el Estado percibirá en cada ejercicio fiscal los ingresos derivados de impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, los cuales se deberán estimar y establecer en la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 La Ley de Ingresos del Estado se sustentará en el plan de desarrollo integral del Estado de Michoacán, en base a los programas sectoriales, regionales, institucionales y especiales que apruebe el Ejecutivo del Estado, conforme a lo establecido en la Ley de Planeación del Estado de Michoacán de Ocampo; las disposiciones que al efecto señale la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, y, en su caso, con la última información económica publicada por el Banco de México y la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos del Estado. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos del Estado o el Presupuesto de Egresos del Gobierno del Estado.
+Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos del Estado o en la Ley. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos del Estado o en la Ley, así como el Presupuesto de Egresos del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -185,11 +185,11 @@ Créditos fiscales son las prestaciones económicas que tiene derecho a percibir
 
 La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaria o por las oficinas que la misma autorice expresamente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 8o.
 
-Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre erogaciones por remuneración al trabajo personal, prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Secretaría, de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
+Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -279,11 +279,13 @@ II. En el plazo que expresamente se señalen en la Ley o la Ley de Ingresos del 
 
 La circunstancia de que por error de liquidación se deje de cobrar alguna cantidad por concepto de créditos fiscales, no exime a los contribuyentes de pagar la diferencia que resulte a cargo de éstos al descubrirse la equivocación, sin perjuicio de la prescripción en su favor; pero al hacerse efectiva, se le eximirá de los recargos causados por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 11.
 
-Ningún gravamen podrá recaudarse si no está previsto en la Ley de Ingresos o por ley posterior a ella.
+Ningún gravamen podrá recaudarse si no está previsto en la Ley o en la Ley de Ingresos o por ley posterior a ella.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 13.
 
@@ -671,9 +673,7 @@ El monto actualizado de la contribución o el aprovechamiento conserva la natura
 
 No causarán recargos las multas impuestas por autoridades no fiscales, ni las derivadas de responsabilidades administrativas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-Las multas por responsabilidades administrativas y las impuestas por autoridades no fiscales en su caso, se actualizarán de acuerdo con las disposiciones de este Código.
+> <small>(DEROGADO DÉCIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -861,25 +861,25 @@ IV. Crear nuevas administraciones y receptorías de rentas, cambiar el lugar de 
 
 V. Contraer obligaciones pecuniarias y obtener créditos, o avalar los que concerten los ayuntamientos y organismos públicos o descentralizados, siempre que fueren destinados a obras de beneficio colectivo en el Estado, de conformidad con las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-VI. Condonar o en su caso eximir total o parcialmente los créditos fiscales, cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de la actividad económica, así como en casos de desastres sufridos por fenómenos meteorológicos, plagas, epidemias o aquellos de origen antropogénico; en el entendido de que el Gobernador del Estado no podrá condonar o en su caso eximir total o parcialmente los créditos fiscales derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+VI. Condonar o en su caso eximir total o parcialmente los créditos fiscales, cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de la actividad económica, así como en casos de desastres sufridos por fenómenos meteorológicos, plagas, epidemias o aquellos de origen antropogénico;
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en que la afectación o posible afectación a una determinada rama de la industria obedezca a lo dispuesto en una Ley Tributaria Federal o Tratado Internacional.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes, o se trate de condonaciones de carácter general como instrumento de política financiera; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; en el entendido de que el Gobernador del Estado no podrá condonar recargos y multas derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios;
+VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso.
 
 VIII. Acordar y hacer declaratorias correspondientes a las franquicias impositivas, de conformidad con las leyes fiscales respectivas;
 
 IX. Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deben pagar, siempre que impere una situación económica difícil de los sujetos para cubrir la totalidad de los créditos fiscales y que con tales convenios, se facilite el desarrollo de actividades que se traduzcan en mejoramiento económico y social de la Entidad;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-X. Conceder subsidios a los contribuyentes siempre y cuando el otorgamiento de éstos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Estado; en el entendido de que el Gobernador del Estado no podrá otorgar subsidios de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo;
+X. Conceder subsidios a los contribuyentes siempre y cuando el otorgamiento de éstos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2205,7 +2205,9 @@ Para que proceda la libertad provisional cuando se incurra en delitos fiscales, 
 
 Comete el delito de defraudación fiscal:
 
-I. El que simule un acto jurídico del que resulte o pueda resultar la omisión total o parcial del pago de una contribución;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+I. El que simule un acto jurídico del que resulte o pueda resultar la omisión total o parcial del pago de una contribución, incluyéndose los pagos provisionales o definitivos o el impuesto del ejercicio en los términos que establecen las disposiciones fiscales;
 
 II. El que declare ante las autoridades fiscales ingresos menores a los realmente obtenidos;
 
@@ -2371,13 +2373,17 @@ Es improcedente el recurso, cuando se haga valer contra actos administrativos:
 
 I. Que no afecten el interés jurídico del recurrente;
 
-II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-III. Que se hayan consentido, entendiéndose por consentimiento, el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
+II. Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
 
-IV. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente; y
+III. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
 
-V. Si son revocados los actos por la autoridad.
+IV. Que se hayan consentido, entendiéndose por consentimiento, el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
+
+V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente; y
+
+VI. Si son revocados los actos por la autoridad.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3291,6 +3297,10 @@ III. En caso de posturas o pujas iguales.
 
 La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+
 ###### ARTICULO 172.
 
 Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 158 de este Código.
@@ -3494,3 +3504,9 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado y las autoridades fiscales municipales que correspondan; deberán realizar las adecuaciones necesarias en sus sistemas de recaudación de las contribuciones para efectos de cumplimiento del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 504 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, 8, 27 FRACCIÓN VI, VII, X; 11, Y LA FRACCIÓN I DEL 88; SE ADICIONAN UNA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 105, UN PÁRRAFO TERCERO AL ARTÍCULO 171, Y SE DEROGA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 20, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
