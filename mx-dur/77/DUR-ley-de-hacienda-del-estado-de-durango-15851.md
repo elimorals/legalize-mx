@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2019-12-29"
+last_updated: "2020-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -257,9 +259,13 @@ I. Las Entidades Federativas y los Municipios, excepto sus organismos descentral
 
 II. Las Instituciones de Beneficencia reconocidas por el Gobierno Estatal y Federal.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-III.- Las instituciones de Educación pública mediante las cuales la Federación, el Estado o los Municipios y sus organismos descentralizados proporcionen el servicio público de educación en los términos de la ley respectiva.
+III. Las Instituciones de Educación pública mediante las cuáles el Estado o los Municipios y los organismos descentralizados de ambos órdenes de gobierno proporcionen el servicio público de educación en los términos de la Ley respectiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Los sujetos exentos mencionados en el párrafo anterior, serán aquellos que realicen pagos a que se refiere el artículo 2 de esta ley exclusivamente por los servicios públicos de educación que sean cubiertos con recursos propios del Estado o de los municipios.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1567,6 +1573,10 @@ o cuando no exista valor o monto. 5
 
 Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+
+Cuando por así convenir a los intereses del contribuyente, solicite el servicio de manera urgente, causará como derecho el equivalente a dos cuotas de las establecidas en cada fracción aplicable al servicio solicitado.
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 Artículo 52 bis.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2015)
@@ -2155,17 +2165,29 @@ lumínica, térmica y-o radiaciones
 
 electromagnéticas no ionizantes.
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
-VII. Se causarán derechos por la extracción
+VII. Se causarán derechos por la extracción en los bancos de material pétreo para la construcción u ornamento de conformidad con lo siguiente:
 
-en los bancos de material petreo para la
+Por cada m3 de material: UMA
 
-construcción u ornamento con el
+a) Grava 0.20
 
-siguiente criterio:
+b) Arena 0.20
 
-Por cada 10m3 de material. 3
+c) Arcillas y limos 0.16
+
+d) Materiales en greña 0.16
+
+e) Piedra 0.18
+
+f) Otros 0.10
+
+El sujeto obligado al pago del derecho por extracción en los bancos de material pétreo a que tenga derecho, deberá presentar aviso ante la Secretaría de Recursos Naturales y Medio Ambiente respecto al volumen y tipo de material que tenga programado extraer. Con dicho aviso, autorizado por la autoridad que corresponda de esa Secretaría, el contribuyente deberá realizar el pago del derecho que en su caso corresponda, en las oficinas de recepción de pagos autorizada por la Secretaría de Finanzas y de Administración.
+
+El aviso a que se refiere el párrafo anterior y pago del derecho correspondiente, se presentará y pagará mensualmente, dentro de los diez días previos a la extracción, considerando el volumen y tipo de material que se tenga programado extraer durante ese periodo.
+
+Las personas físicas y morales que extraigan materiales pétreos, estarán obligados a llevar un registro diario de los volúmenes y tipo de materiales extraídos, en el formato que para tal electo autorice la Secretaría de Recursos Naturales y Medio Ambiente.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -3796,5 +3818,13 @@ P.O. 29 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 256.- QUE CONTIENE ADICIÓN DE LA FRACCIÓN VIII BIS AL ARTÍCULO 57 DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
