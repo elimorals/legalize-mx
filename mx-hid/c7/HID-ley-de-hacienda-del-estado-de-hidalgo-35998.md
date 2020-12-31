@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -189,9 +189,9 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro de los quince días hábiles siguientes a la fecha del inicio de sus actividades;
+I. Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro del mes siguiente a la fecha del inicio de sus operaciones;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -913,17 +913,33 @@ Años de Antigüedad Factor de Depreciación
 
 II.- Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
 
-Límite inferior Límite superior CUOTA FIJA TASA
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-0.01 550,000.00 0.00 2.6%
+Límite inferior Límite superior Porciento Cuota Fija
 
-550,000.01 1,100,000.00 14,299.99 11%
+para
 
-1,100,000.01 1,500,000.00 71,499.97 17%
+aplicarse
 
-1,500,000.01 2,000,000.00 139,099.96 21%
+sobre el
 
-2,000,000.01 En adelante 243,099.95 25%
+excedente
+
+del
+
+límite
+
+inferior
+
+0.01 550,000.00 2.6% 0.00
+
+550,000.01 1,100,000.00 11% 14,299.99
+
+1,100,000.01 1,500,000.00 17% 71,499.97
+
+1,500,000.01 2,000,000.00 21% 139,099.96
+
+2,000,000.01 En adelante 25% 243,099.95
 
 ###### ARTICULO 42.
 
@@ -1744,5 +1760,13 @@ P.O. 31 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 303 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1º de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 566 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
