@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2020-12-24"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -233,9 +233,11 @@ El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de 
 
 En caso de integrarse un Fondo de Reserva de Contingencia de conformidad con el artículo 4 de la Ley de Coordinación Fiscal, se repartirá aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal que corresponda a cada municipio en el ejercicio de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE ENERO DE 2021)</small>
+
 ###### Artículo 14.
 
-Los municipios recibirán como mínimo el 20% de la participación que le corresponda al Estado de los ingresos provenientes del Impuesto Especial sobre Producción y Servicios y el 20% de lo que recaude el Estado por concepto del impuesto sobre automóviles nuevos.
+Los municipios recibirán como mínimo el 20% de la participación que le corresponda al Estado de los ingresos provenientes del Impuesto Especial sobre Producción y Servicios; el 20% de lo que recaude el Estado por concepto del Impuesto sobre automóviles nuevos; y, el 20% del incentivo de la recaudación derivada de los contribuyentes que tributen en términos del artículo 126 del Impuesto Sobre la Renta.
 
 La distribución de los conceptos señalados en el párrafo anterior, se hará aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal en los porcentajes a que hace referencia el artículo 10 de esta Ley.
 
@@ -1666,3 +1668,11 @@ G.O. 24 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día primero del mes de enero del año 2021, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 608 QUE REFORMA EL ARTÍCULO 14 PRIMER PÁRRAFO DE LA LEY DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
