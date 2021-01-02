@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-145
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-07"
-last_updated: "2020-12-23"
+last_updated: "2021-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2020.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2021.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el lunes 7 de diciembre de 2020.
 
@@ -569,7 +569,15 @@ que empleen personas para que desarrollen
 
 actividades de Seguridad Privada, pagarán. $12,190.00
 
-V (SIC).- Por la expedición de credencial para las
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2021)</small>
+
+IV.- Por la autorización a personas físicas
+
+o morales que presten servicios de seguridad
+
+privada a terceros, pagarán. $12,190.00
+
+V.- Por la expedición de credencial para las
 
 personas que desempeñen funciones de
 
