@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-122747"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-11-15"
+last_updated: "2021-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 2 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2021 (ABROGADO).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -1552,3 +1554,59 @@ P.O. 15 DE NOVIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 2 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuatro de enero de dos mil veintiuno, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, sin perjuicio de los que señalen los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Sin perjuicio de lo establecido en este apartado, con la entrada en vigor de la presente Ley, queda abrogada la Ley de Justicia Administrativa del Estado de Zacatecas, aprobada mediante Decreto #198, publicada en el suplemento 4 al número 56 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 15 de julio de 2017, así como todas aquellas disposiciones que la contraríen.
+
+###### ARTÍCULO TERCERO.
+
+En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2021, se establecerán los recursos correspondientes para el funcionamiento del juicio en línea y del boletín electrónico. La Secretaría de Finanzas del Gobierno del Estado, en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, reasignará recursos para el funcionamiento del juicio en línea y del boletín electrónico.
+
+Asimismo, el Tribunal deberá realizar las acciones que correspondan, a efecto de que el juicio en línea, inicie su operación a partir de los seis meses siguientes a la fecha de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los juicios que se encuentren en trámite ante el Tribunal de Justicia Administrativa del Estado de Zacatecas, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total conclusión conforme a las disposiciones legales aplicables vigentes a su inicio.
+
+Podrá exceptuarse de lo señalado en el párrafo que antecede, las disposiciones relativas a la forma de notificación, la cual podrá efectuarse por boletín electrónico en los juicios que se encuentren en trámite con anterioridad a la entrada en vigor de esta Ley, siempre que el mismo se encuentre en operación y las partes manifiesten su interés de acogerse a lo dispuesto por este instrumento jurídico.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos de lo dispuesto en el artículo 108, segundo párrafo, de esta Ley, las dependencias, organismos o autoridades contarán con un plazo de tres meses para registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Tribunal dentro de los noventa días posteriores a la entrada en vigor de la presente Ley, deberá expedir la reglamentación y normatividad administrativa interna y publicarla en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Hasta en tanto el Pleno del Tribunal expida la nueva reglamentación, continuará vigente el Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los abogados postulantes que pretendan ejercer la autorización en alguno de los juicios, en términos del primer párrafo del artículo 83 de la Ley, deberán previamente registrar su cédula profesional ante la Secretaría General de Acuerdos del Tribunal.
+
+###### ARTÍCULO OCTAVO.
+
+Las Ponencias que actualmente constituyen la base orgánica del Tribunal, conformarán las Salas Unitarias, por lo que es potestad del Pleno la asignación de la competencia especializada en términos de esta Ley.
+
+###### ARTÍCULO NOVENO.
+
+Los expedientes correspondientes a juicios contenciosos administrativos, que se encuentren radicados en la Ponencia designada como Sala Especializada en Responsabilidades Administrativas Graves, continuarán tramitándose hasta su total conclusión en dicha Sala.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones en otros ordenamientos de la Ley de Justicia Administrativa del Estado de Zacatecas, se entenderán realizadas a la Ley contenida en el presente Decreto.
+
+De la misma forma, las menciones al Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas en los diferentes ordenamientos legales, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los Magistrados del Tribunal de Justicia Administrativa del Estado de Zacatecas, que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos hasta concluir el periodo para el cual fueron designados, en términos de la Constitución Política del Estado Libre y Soberano de Zacatecas. COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
