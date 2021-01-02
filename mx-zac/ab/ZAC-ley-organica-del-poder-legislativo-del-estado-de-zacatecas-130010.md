@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2020-08-08"
+last_updated: "2021-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -515,7 +515,9 @@ II. Cumplir las encomiendas para las que sean designados, ya sea por el Pleno, l
 
 III. Formar parte activa de las comisiones, asistir con puntualidad, integrar los expedientes y elaborar los dictámenes correspondientes;
 
-IV. Los diputados de mayoría relativa deberán visitar su distrito y presentar informe anual por escrito a la Legislatura, de igual manera, deberán rendir un informe anual los diputados de representación proporcional;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+IV. Los diputados de mayoría relativa deberán visitar su distrito y presentar informe anual por escrito a la Legislatura, de igual manera, deberán rendir un informe anual los diputados de representación proporcional; en ambos casos, la presentación del informe deberá realizarse durante el mes de agosto de cada año de ejercicio constitucional;
 
 V. Rendir ante sus electores, al menos una vez al año, informe del desempeño de sus responsabilidades;
 
@@ -1481,7 +1483,9 @@ I. Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne 
 
 II. Elaborar su programa de trabajo y entregarlo a la Asamblea dentro del término de treinta días naturales contados a partir de la integración de la misma;
 
-III. Presentar a la Comisión de Régimen Interno y Concertación Política informe escrito anual de actividades;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+III. Presentar ante el Pleno y la Comisión de Régimen Interno y Concertación Política, por conducto de su presidente, informe escrito anual de actividades;
 
 IV. Emitir sus dictámenes agotando todos los pasos, de conformidad con el asunto de que se trate y al procedimiento señalado en esta Ley y en el Reglamento General. Todo dictamen deberá estar firmado por los integrantes de las mismas o, en su caso, por la mayoría. Si alguno de ellos disiente de una resolución, podrá expresar su punto de vista por escrito y firmarlo como voto particular y dirigirlo al presidente de la Legislatura para que sea puesto a consideración de la Asamblea, cuando se presente el dictamen motivo de dicho voto particular;
 
@@ -1525,7 +1529,9 @@ VII. Presentar a la Asamblea, los acuerdos, resoluciones o dictámenes de los as
 
 VIII. Salvaguardar los documentos y expedientes de los asuntos que le sean turnados para su estudio;
 
-IX. Presentar el informe anual a la Comisión de Régimen Interno y Concertación Política, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+IX. Presentar el informe anual ante el Pleno y la Comisión de Régimen Interno y Concertación Política, y
 
 X. Las demás que señala esta Ley y las disposiciones reglamentarias aplicables.
 
@@ -1809,11 +1815,17 @@ II. Impulsar programas de profesionalización y actualización en derecho parlam
 
 III. Conocer y dictaminar sobre propuestas de reformas o adiciones a la Constitución estatal en el ámbito parlamentario, a esta Ley, Reglamento General y a todos los ordenamientos internos, prácticas y procedimientos del régimen parlamentario del Poder Legislativo. Asimismo, emitir opinión para el dictamen sobre reconocimientos y distinciones que haga la Legislatura;
 
-IV. Con apoyo de la Secretaría General, dirigir y evaluar el trabajo del Instituto de Investigaciones Legislativas e impulsar los presupuestos y programas del mismo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
 
-V. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
+IV. Aprobar el programa de trabajo de la Unidad de Investigaciones y Estudios Legislativos que le presente la Dirección de Procesos Legislativos y Asuntos Jurídicos, al comienzo de cada periodo ordinario de sesiones;
 
-VI. Actualizar, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos y con apoyo del Instituto de Investigaciones Legislativas, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+V. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas de la Unidad de Investigaciones y Estudios Legislativos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+VI. Actualizar, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
 
 VII. En coordinación con la Comisión de Desarrollo Cultural, promover la inserción y la publicación de trabajos y artículos que fomenten el estudio del derecho parlamentario;
 
@@ -2201,7 +2213,9 @@ I. La Secretaría General, es el ámbito de coordinación y supervisión de los 
 
 II. La Dirección de Apoyo Parlamentario, apoyará las funciones relativas al protocolo, conducción de sesiones, levantamiento de actas y compilación del diario de los debates;
 
-III. La Dirección de Procesos Legislativos y Asuntos Jurídicos, será la encargada de asesorar técnicamente a las comisiones legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos; realizar estudios e investigaciones en materia legislativa, finanzas públicas y estudios municipales; proporcionar a la Dirección de Apoyo Parlamentario y al Instituto de Investigaciones Legislativas los productos legislativos elaborados en la misma, para que una vez aprobados por el Pleno o la instancia que corresponda, formen parte de los sistemas legislativos de información del Poder Legislativo, así como asistir a la instancia que tiene la representación jurídica de la Asamblea en los asuntos jurisdiccionales en los que ésta intervenga, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+
+III. La Dirección de Procesos Legislativos y Asuntos Jurídicos, será la encargada de asesorar técnicamente a las comisiones legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos; realizar estudios e investigaciones en materia legislativa, finanzas públicas y estudios municipales; proporcionar a la Dirección de Apoyo Parlamentario los productos legislativos elaborados en la misma, para que una vez aprobados por el Pleno o la instancia que corresponda, formen parte de los sistemas legislativos de información del Poder Legislativo, así como asistir a la instancia que tiene la representación jurídica de la Asamblea en los asuntos jurisdiccionales en los que ésta intervenga, y
 
 IV. La Dirección de Administración y Finanzas, apoyará las funciones relativas al desarrollo de la actividad administrativa interna de la Legislatura bajo la supervisión y lineamientos que señale la Comisión de Planeación, Patrimonio y Finanzas.
 
@@ -2209,7 +2223,7 @@ IV. La Dirección de Administración y Finanzas, apoyará las funciones relativa
 
 La Secretaría General, además, tendrá a su cargo, como órganos de apoyo a la actividad legislativa, la coordinación de las siguientes unidades:
 
-I. El Instituto de Investigaciones Legislativas;
+I. (DEROGADA, P.O. 2 DE ENERO DE 2021)
 
 II. La Coordinación de Comunicación Social;
 
@@ -2218,6 +2232,10 @@ III. La Unidad de Archivo General del Poder Legislativo;
 IV. La Unidad Centralizada de Información Digitalizada, y
 
 V. La Unidad de Transparencia.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2021)</small>
+
+VI. Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género.
 
 ###### Artículo 169.
 
@@ -2506,3 +2524,27 @@ P.O. 8 DE AGOSTO DE 2020.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 438.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA Y REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día 4 de enero de 2021, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. En un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto, la Secretaría General deberá modificar los Manuales de Organización y de Procedimientos, con el fin de adecuarlos a las disposiciones del presente instrumento legal.
+
+Artículo Tercero. A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros que corresponden al Instituto de Investigaciones Legislativas, así como las obligaciones jurídicas contraídas por éste, serán transferidas a la Dirección de Procesos Legislativas y Asuntos Jurídicos, con el fin de integrar la Unidad de Investigaciones y Estudios Legislativos.
+
+Artículo Cuarto. En un plazo que no exceda de treinta días posteriores a la entrada en vigor de este Decreto, la Dirección de Procesos Legislativos y Asuntos Jurídicos deberá presentar ante la Comisión de Estudios Legislativos y Prácticas Parlamentarias el programa de trabajo de la Unidad de Investigaciones y Estudios Legislativos para el periodo ordinario marzo-junio 2021.
+
+De la misma forma, en el plazo citado, deberá presentar ante la Comisión de Régimen Interno y Concertación Política y la Secretaría General, la nueva estructura e integración de la Dirección.
+
+Artículo Quinto. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 439.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA Y REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
