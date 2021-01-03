@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -61,15 +61,21 @@ IV. Los derechos y obligaciones de los beneficiarios del desarrollo social y hum
 
 V. Las bases para fomentar y consolidar la organización y participación de los sectores sociales y de la ciudadanía en general en las políticas de desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VI. La competencia del Estado y los Municipios en materia de desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VII. Regular y garantizar el derecho a la igualdad de género entre mujeres y hombres, estableciendo los lineamientos y mecanismos institucionales que orienten al Estado y los Municipios hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo social y humano; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VIII. Las bases para garantizar el efectivo acceso de toda persona a la información pública en materia de desarrollo social y la relacionada con los diversos programas en esta materia e impulsar su máxima publicidad.
 
@@ -77,19 +83,25 @@ VIII. Las bases para garantizar el efectivo acceso de toda persona a la informac
 
 Queda prohibida toda práctica discriminatoria en los programas y acciones de desarrollo social y humano, de conformidad con lo establecido en la Constitución Política del Estado Libre y Soberano de Durango.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
 La política de desarrollo social y humano se sujetará a los principios rectores de universalidad, integralidad, equidad, solidaridad, participación, sustentabilidad, libertad, subsidiaridad, transparencia y el interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
 La aplicación de la presente Ley, le corresponde al Poder Ejecutivo, por conducto de la Secretaría, independientemente de las atribuciones que en la materia se establezcan a otras dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
@@ -101,13 +113,17 @@ II. Instrumentar el Sistema Estatal de Información Social;
 
 III. Establecer la definición, los criterios y lineamientos para determinar los indicadores e índices de medición de pobreza, marginación y vulnerabilidad, tomando en consideración lo establecido en el artículo 21 de esta Ley;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 IV. Promover la participación corresponsable de la sociedad en la planeación, diseño, ejecución y evaluación de política de desarrollo social y humano mediante el establecimiento de mecanismos adecuados;
 
 V. Integrar el Padrón Estatal de Beneficiarios;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VI. Diseñar, operar y evaluar programas y acciones de desarrollo social y humano, además de modificar y adecuar para su mejor aplicación aquellos que en beneficio de la población se considere necesario (sic);
 
@@ -133,19 +149,27 @@ XIII. Dictar las disposiciones administrativas que sean necesarias para el adecu
 
 XIV. Llevar a cabo un Sistema de Estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado de Durango, con el fin de que el Consejo y las autoridades puedan evaluar y establecer si los programas han tenido eficiencia, eficacia y calidad en los mismos;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XV. Coordinarse con la Secretaría de Educación, en el proceso productivo de elaboración o adquisición de acuerdo a lo establecido por la Ley de Adquisiciones, Arrendamientos o Servicios del Estado de Durango, distribución y entrega de uniformes escolares a que se refiere el artículo 49 de la Ley de Educación del Estado de Durango;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XVI. Proponer al Titular del Poder Ejecutivo la inclusión de zonas de atención prioritaria en el Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XVII. Diseñar y difundir públicamente las reglas de operación para la ejecución de los programas en el ámbito de su competencia; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XVIII. Las demás que le confiera esta Ley y otras disposiciones legales aplicables en la materia.
 
@@ -155,7 +179,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Ley: La Ley de Desarrollo Social para el Estado de Durango;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 II. Secretaría: La Secretaría de Bienestar Social del Gobierno del Estado;
 
@@ -213,23 +239,33 @@ XXVII. Padrón de beneficiarios: Relación oficial que incluye a las personas at
 
 XXVIII. Dirección General del Registro Civil: Entidad del Estado encargada de, entre otras funciones, la expedición de actas del estado civil de las personas, nacimientos, defunciones, etc.;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XXIX. Beneficiarios: Las personas atendidas por los planes y programas de desarrollo social y humano que por sus condiciones de vida así lo han requerido y que cumplen con la normatividad establecida en los planes y programas de la materia;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XXX. Equidad de género: Los derechos y capacidades de hombres y mujeres en la participación, en el diseño, programación, ejecución y evaluación de los planes y programas de desarrollo social (sic) sean en circunstancias de igualdad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XXXI. Programa de desarrollo social: Acción gubernamental dirigida a modificar la condición de desigualdad social mediante la entrega de un bien o una transferencia de recursos, la cual se norma a partir de las respectivas reglas de operación.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XXXII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XXXIII. Interés superior de la niñez: Conjunto de acciones, políticas y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, de conformidad con lo establecido en la Constitución Política de las Estados Unidos Mexicanos, los tratados ¡internacionales (sic) aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado Libre y Soberano de Durango y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Durango.
 
@@ -305,7 +341,9 @@ VIII. Impulsar el desarrollo municipal, como estrategia rectora de equilibrio en
 
 IX. Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr las (sic) integralidad, sustentabilidad y sostentenibilidad (sic) del desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 X. Promover la inclusión al desarrollo de los grupos vulnerables, en particular las personas con discapacidad, las personas adultas mayores y los indígenas, en la formulación, ejecución, evaluación y control de los programas de desarrollo social; y
 
@@ -333,7 +371,9 @@ VI. Instrumentar programas y acciones de desarrollo familiar y humano.
 
 La Política Estatal de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 I. Identificación de desventajas de las personas en situación de pobreza y/o con discapacidad, para acceder al desarrollo social, promoviendo su inclusión la educación, la salud, la alimentación y la generación de empleo, del ingreso o el autoempleo mediante proyectos productivos, infraestructura social básica y la capacitación, entre otros;
 
@@ -425,15 +465,21 @@ El Titular del Poder Ejecutivo determinará las zonas de atención prioritaria y
 
 I. Las evaluaciones de resultados y estudios de medición de la pobreza, marginación y vulnerabilidad que emita el Consejo Nacional de Evaluación de la política de desarrollo social y el Consejo Consultivo de desarrollo Social; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 II. Los indices e indicadores de pobreza que genere el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y la Secretaría, entre los que se deberá considerar la accesibilidad y movilidad para las personas con discapacidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Independientemente de lo anterior, la Secretaría anualmente emitirá un diagnóstico de la situación del Estado en materia de desarrollo social refiriendo los requerimientos relativos a las zonas de atención prioritaria y a las zonas de atención inmediata; para ello tomará como referencia las evaluaciones de resultados de los estudios de medición de la pobreza y marginación, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social o cualquiera otro estudio o evaluación que considere suficiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 De igual manera podrá modificar las declaratorias referidas derivado de la medición del impacto de los programas y acciones en los niveles mínimos de bienestar en las zonas de atención prioritaria y la población objetivo y reasignar los recursos destinados al desarrollo social, acorde a los criterios nacionales y locales, que permitan determinar la reasignación, si es el caso, de los recursos destinados al desarrollo social del Estado.
 
@@ -525,15 +571,21 @@ X. Proponer acciones de capacitación para servidores públicos de los tres órd
 
 XI. Proponer la creación de grupos de trabajo temático y regionales para la atención de asuntos específicos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XII. Sugerir las acciones que estime necesarias y convenientes para el funcionamiento adecuado del Sistema Estatal de Desarrollo Social;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XIII. Proponer acciones destinadas a la inclusión al desarrollo social de las personas con discapacidad a través de la accesibilidad en sus comunidades y la movilidad en el transporte público; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 XIV. Las demás que le señale esta ley y demás ordenamientos legales aplicables.
 
@@ -767,7 +819,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 478.- QUE CONTIENE REFORMAS AL ARTÍCULO 4, LA FRACCIÓN X DEL ARTÍCULO 13, LA FRACCIÓN I DEL ARTÍCULO 15, LA FRACCIÓN II DEL ARTÍCULO 21, ADICIÓN A LA FRACCIÓN XXXII AL ARTÍCULO 7 Y LA FRACCIÓN XII RECORRIÉNDOSE LA SUCESIVA DEL ARTÍCULO 28 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO".]
 
@@ -775,7 +829,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 479.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2, 4, 5, 6, 7 Y 21 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO”.]
 
@@ -787,7 +843,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 481.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 4 Y 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO”.]
 
