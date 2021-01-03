@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY DE ASISTENCIA SOCIAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -169,7 +171,7 @@ V.- Elaborar y proponer anteproyectos legislativos en materia de asistencia soci
 
 VI.- Llevar a cabo programas de capacitación de recursos humanos para la asistencia social;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 VII.- Establecer y operar un sistema de transporte exclusivo con rutas especiales para personas con discapacidad, que permita su traslado de su domicilio a un centro de rehabilitación con el fin de recibir sus terapias.
 
@@ -817,7 +819,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480.- QUE CONTIENE ADICIÓN EN UNA FRACCIÓN VII AL ARTÍCULO 9 DE LA LEY DE ASISTENCIA SOCIAL VIGENTE EN EL ESTADO DE DURANGO”.]
 
