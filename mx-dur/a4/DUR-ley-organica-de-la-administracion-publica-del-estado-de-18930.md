@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+(F. DE. E., P.O. 3 DE ENERO DE 2021)
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]</small>
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1831,15 +1833,15 @@ XXXV. Promover la realización de simposiums, convenciones, congresos y conferen
 
 XXXVI. Fomentar y apoyar las acciones de investigación, docencia y capacitación en los renglones de ecología y medio ambiente;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXXVII. Impulsar la realización y participación de exposiciones que sobre el tema se realicen;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXXVIII. Deberá introducir un sistema para la recolección, almacenamiento y la recuperación del papel usado en todas las secretarias, la Fiscalía General del Estado, órganos desconcentrados de estas, las unidades administrativas de apoyo y demás dependencias con el objeto de crear conciencia de ahorro de papel, reducir su consumo para reciclar el papel que se consume en el sector público; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2020)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXXIX.- Las demás que le encomiende el Ejecutivo del Estado o le señale (sic) las leyes (sic) reglamentos aplicables.
 
@@ -2837,7 +2839,9 @@ CUARTO. Las Juntas Locales de Conciliación y Arbitraje continuarán conociendo 
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 476.- QUE CONTIENE REFORMAS A LAS FRACCIONES XXXVII, XXXVIII Y SE ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 37 A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
 
