@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -401,11 +401,11 @@ La Comisión de Honor estará integrada por un Presidente que será el Director 
 
 La Comisión de Honor se reunirá periódicamente y decidirá que empleados y funcionarios de la Dirección de Tránsito se harán acreedores a un ascenso o compensación económica, la cual se establecerá de acuerdo al presupuesto de egresos de la dependencia, evaluando los aspectos de asistencia, puntualidad, honestidad, cumplimiento de su deber y servicio a la ciudadanía en general.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 ### CAPITULO SEPTIMO. DEL CONTROL Y REGISTRO DE VEHICULOS Y DEL SEGURO DE RESPONSABILIDAD CIVIL
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 ###### ARTICULO 34.
 
@@ -423,7 +423,7 @@ La Secretaría de Seguridad Pública del Gobierno del Estado se coordinará y co
 
 Se prohíbe a los conductores o propietarios de cualquier tipo de motocicletas, trimoto, cuatrimoto, o motocarro, llevar como acompañante a menores de cinco años o que habiendo cumplido esa edad no puedan sujetarse por sus propios medios y alcanzar el posapiés o pedal que tenga el vehículo para ese efecto. Los Ayuntamientos sancionaran en los reglamentos que correspondan la violación a esta disposición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 ###### ARTÍCULO 35.
 
@@ -493,7 +493,7 @@ El conductor de un vehículo deberá llevar consigo la licencia expedida por el 
 
 Es obligación de los conductores, presentar su licencia al personal de la Dirección Municipal cuando se cometa una infracción a la Ley o Reglamentos aplicables.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 Todos los vehículos que transiten en vías, caminos y puentes del Estado deberán contar con un seguro de responsabilidad civil que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo. La contratación del seguro será responsabilidad del propietario del vehículo y por ningún motivo se podrá obligar a los propietarios de vehículos a que contraten el seguro con alguna institución en específico.
 
@@ -911,7 +911,9 @@ SEGUNDO. En un plazo que no exceda de 45 días posteriores a la entrada en vigor
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 475.- QUE CONTIENE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, SE REFORMA EL ARTÍCULO 34, SE REFORMA EL ARTÍCULO 35 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
 
