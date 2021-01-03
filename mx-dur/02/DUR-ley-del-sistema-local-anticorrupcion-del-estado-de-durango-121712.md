@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-local-anticorrupcion-del-estado-de-durango-1217
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY DEL SISTEMA LOCAL ANTICORRUPCION DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
 
 Ley publicada en el No. 42 del Periódico Oficial del Gobierno del Estado de Durango, el jueves 25 de mayo de 2017.
 
@@ -279,7 +281,7 @@ Los integrantes del Consejo de Participación Ciudadana no podrán ocupar, duran
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada. Sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 ###### Artículo 17.
 
@@ -403,7 +405,7 @@ El Consejo de Participación Ciudadana podrá solicitar al Consejo Coordinador l
 
 #### Sección I. De Su Organización y Funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 ###### Artículo 24.
 
@@ -745,7 +747,9 @@ PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del a
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 491.- QUE CONTIENE REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 24 DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO".]
 
