@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-14735
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "DUR"
 ---
 # LEY PARA LA CONSERVACION Y PROTECCION DEL ARBOLADO URBANO DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
 
-Ley publicada en el No. 105 Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2020.
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
+
+Ley publicada en el No. 105 Bis del Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 2020.
 
 Con fecha 11 de marzo de 2020 el C. Diputado Gerardo Villarreal Solis, representante del Partido Verde Ecologista de México de la LXVIII Legislatura, presentó Iniciativa de Decreto que contiene (sic) LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Ecología integrada por los CC. Diputados: Gerardo Villarreal Solís, Claudia Julieta Domínguez Espinoza, Otniel García Navarro, David Ramos Zepeda y Nanci Carolina Vásquez Luna; Presidente, Secretaria y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
