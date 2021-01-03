@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2020-12-31"
+last_updated: "2021-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 3 DE ENERO DE 2021.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -259,11 +259,15 @@ I. Las Entidades Federativas y los Municipios, excepto sus organismos descentral
 
 II. Las Instituciones de Beneficencia reconocidas por el Gobierno Estatal y Federal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 III. Las Instituciones de Educación pública mediante las cuáles el Estado o los Municipios y los organismos descentralizados de ambos órdenes de gobierno proporcionen el servicio público de educación en los términos de la Ley respectiva.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Los sujetos exentos mencionados en el párrafo anterior, serán aquellos que realicen pagos a que se refiere el artículo 2 de esta ley exclusivamente por los servicios públicos de educación que sean cubiertos con recursos propios del Estado o de los municipios.
 
@@ -1573,7 +1577,9 @@ o cuando no exista valor o monto. 5
 
 Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Cuando por así convenir a los intereses del contribuyente, solicite el servicio de manera urgente, causará como derecho el equivalente a dos cuotas de las establecidas en cada fracción aplicable al servicio solicitado.
 
@@ -2165,7 +2171,9 @@ lumínica, térmica y-o radiaciones
 
 electromagnéticas no ionizantes.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VII. Se causarán derechos por la extracción en los bancos de material pétreo para la construcción u ornamento de conformidad con lo siguiente:
 
@@ -3821,7 +3829,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 24 DE DICIEMBRE DE 2020.
+> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+
+P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 485.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO".]
 
