@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2019-07-31"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -33,7 +33,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 QUINTA.- Por todo lo expuesto y fundado, los integrantes de esta Comisión Permanente de Puntos Constitucionales y Gobernación, consideramos viable aprobar la Ley que Crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, por todos los razonamientos anteriormente expresados. En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política, 18 y 43 fracción III de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -291,17 +293,19 @@ Los servidores públicos registrales de la Dirección del Registro Público inve
 
 #### SECCIÓN I. Disposiciones Comunes
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 27.
 
 Serán objeto de registro los siguientes documentos:
 
-I. Los testimonios de escrituras o actas notariales u otros documentos auténticos;
+I. Los testimonios de escrituras o actas notariales u otros documentos auténticos, enviados por medios electrónicos por los notarios o escribanos con su firma electrónica acreditada;
 
-II. Las resoluciones y providencias jurisdiccionales y administrativas que consten de manera auténtica;
+II. Las resoluciones y providencias jurisdiccionales y administrativas que consten de manera auténtica, enviadas electrónicamente por los funcionarios autorizados con su firma electrónica acreditada;
 
-III. Los documentos privados que fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el Notario, el Registrador o el Juez competente, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar el sello respectivo, y
+III. Los documentos privados que fueren válidos con arreglo en la Ley, siempre que al calce de ellos hubiere la constancia de que el Notario, el Registrador o el Juez competente se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar el sello respectivo, y los documentos deberán ser enviados por medios electrónicos por los notarios o escribanos, con su firma electrónica acreditada, y
 
-IV. Las formas precodificadas que los fedatarios públicos sometan a Inscripción, directamente o por la vía electrónica y que contengan los antecedentes registrales correspondientes y demás requisitos para la Inscripción, que señale el Reglamento.
+IV. Las formas precodificadas que los fedatarios públicos sometan a Inscripción, enviadas por medios electrónicos con su firma electrónica acreditada y que contengan los antecedentes registrales correspondientes y demás requisitos para la Inscripción que señale el Reglamento.
 
 ###### Artículo 28.
 
@@ -315,7 +319,9 @@ III. El valor de los bienes o derechos a que se refrieren las fracciones anterio
 
 IV. Tratándose de hipotecas, la obligación garantizada, la época en que podrá exigirse el cumplimiento, el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado, los réditos, la tasa o el monto, si se causaren y la fecha y hora desde que deba correr;
 
-V. Los nombres, nacionalidad, estado civil, edades, domicilios y profesiones u oficios de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón o denominación, así como los nombres de aquellas personas de quienes proceden inmediatamente los bienes;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+V. Los nombres, nacionalidad, estado civil con el régimen patrimonial, edades, domicilios y profesiones u oficios de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón o denominación, así como los nombres de aquellas personas de quienes proceden inmediatamente los bienes;
 
 VI. La naturaleza del acto o contrato, y
 
@@ -339,9 +345,11 @@ La prelación entre los diversos documentos ingresados al Registro Público resp
 
 Cuando respecto de un mismo predio existan diversas solicitudes, el término para la atención de la segunda empezará a contar, al fenecer el plazo para atender la primera solicitud o por haberse concluido el trámite anterior y así sucesivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 32.
 
-Cuando un Título o documento presentado para su Inscripción o Anotación, contenga más de uno de los actos o convenios inscribibles o anotables de acuerdo a este Título Segundo, el Registro Público procederá a la Inscripción o Anotación de todos los actos y convenios que sean inscribibles contenidos en dicho Título o documentos, considerando como fecha y hora de ingreso la de presentación del Título o documento.
+Cuando un Título o documento enviado por medios electrónicos con la firma electrónica del fedatario o autoridad para su Inscripción o Anotación contenga más de uno de los actos o convenios inscribibles o anotables, de acuerdo con este Título Segundo, el Registro Público procederá a la Inscripción o Anotación de todos los actos y convenios que sean inscribibles contenidos en dicho Título o documentos, considerando como fecha y hora de ingreso la de presentación del Título o documento.
 
 En caso, de que el acto o convenio que se presenten (sic) por el interesado, no corresponda a alguno de los señalados como registrables o anotables por esta Ley, el Registrador los devolverá sin tramitar, debiendo quedar constancia en el Sistema Registral Informático o en su caso, en el Folio Electrónico Registral, comunicándole al interesado expresamente la causa y el fundamento legal del rechazo.
 
@@ -361,7 +369,9 @@ c) Cualquier Anotación que pudiera afectar la propiedad, la posesión o el dere
 
 La fecha del certificado deberá estar comprendida dentro de los quince días hábiles anteriores a la fecha de la escritura.
 
-II. Darán un aviso preventivo al Registro Público, el cual, además de ser firmado por el fedatario público o por la autoridad judicial en funciones de fedatario público, deberá contener los nombres de los interesados, el acto o convenio de que se trate, así como los datos del inmueble y el antecedente registral.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE ENERO DE 2021)</small>
+
+II. Darán un aviso preventivo al Registro Público, el cual, además de ser firmado electrónicamente por el fedatario público o por la autoridad judicial en funciones de fedatario público, deberá contener los nombres de los interesados, el acto o convenio de que se trate, así como los datos del inmueble y el antecedente registral.
 
 Dicho aviso tendrá una vigencia de quince días hábiles a partir de la fecha y hora de su presentación y será anotado en el Folio Electrónico Registral de la Inscripción a la que se refiere el aviso. Para el cómputo de la vigencia del aviso preventivo, el día en que sea presentado el mismo se computará como completo, independientemente de la hora de su presentación.
 
@@ -369,13 +379,15 @@ Dicho aviso tendrá una vigencia de quince días hábiles a partir de la fecha y
 
 Lo dispuesto en el artículo anterior, también se aplicará a las entidades y a los organismos a que se refiere el artículo 1405 del Código.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 35.
 
-Una vez formalizado el acto o el convenio en el que se crea, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, el fedatario público, la autoridad judicial o la entidad u organismo correspondientes, dará al Registro Público, un aviso definitivo sobre el acto o convenio de que se trate, dentro de los quince días hábiles de vigencia del aviso preventivo.
+Una vez formalizado el acto o el convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, el fedatario público, la autoridad judicial o la entidad u organismo correspondientes dará al Registro Público un aviso definitivo, que será enviado por medios electrónicos con la firma electrónica del funcionario respectivo, sobre el acto o convenio de que se trate, dentro de los quince días hábiles de vigencia del aviso preventivo.
 
-Para el caso de que el fedatario público no presente el correspondiente aviso preventivo, o bien habiéndolo dado fenezca la vigencia del mismo, el aviso definitivo a que se refiere este artículo, deberá presentarse dentro de los siete días hábiles siguientes a la formalización del acto a que se refiere dicho aviso, por lo que los avisos definitivos presentados para su Inscripción en forma extemporánea según lo establecido, no serán motivo de Inscripción.
+Para el caso de que el fedatario público no presente el correspondiente aviso preventivo, o bien, habiéndolo dado, fenezca su vigencia, el aviso definitivo a que se refiere este artículo deberá presentarse dentro de los siete días hábiles siguientes a la formalización del acto a que este se refiera.
 
-El aviso definitivo contendrá además de los datos que se mencionan en el artículo 33 Fracción II y 28 de esta Ley, el número de escritura y la fecha de la formalización de la operación. Asimismo, será anotado en el Folio Electrónico Registral del inmueble al que se refiere el aviso.
+El aviso definitivo contendrá, además de los datos que se mencionan en los artículos 33, fracción II, y 28 de esta Ley, el número de escritura y la fecha de la formalización de la operación. Asimismo, será anotado en el Folio Electrónico Registral del inmueble al que se refiere el aviso.
 
 ###### Artículo 36.
 
@@ -387,21 +399,25 @@ a) Se celebró dentro del período de vigencia establecido en el párrafo segund
 
 b) Si el aviso definitivo fue dado dentro del plazo previsto para ello en el artículo 35, y
 
-c) Si el documento fue presentado para su Inscripción en un plazo de noventa días naturales siguientes a la fecha de su otorgamiento.
+c) (DEROGADO, D.O. 4 DE ENERO DE 2021)
 
 II. La fecha de presentación del aviso definitivo:
 
 a) Si éste se dio dentro del plazo previsto para ello y no se hubiere dado el aviso preventivo o si se presenta fenecido el plazo del aviso preventivo, y
 
-b) Si el documento fue presentado para su Inscripción en un plazo de noventa días naturales siguientes a la fecha de su otorgamiento, y
+b) (DEROGADO, D.O. 4 DE ENERO DE 2021)
 
 III. La fecha de la presentación ante el Registro Público, del documento que los contenga, si no se dio ninguno de los avisos previstos en este Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 37.
 
-Si se decretare embargo o secuestro que provenga de acción personal, respecto de un inmueble o derecho sobre el mismo, cuya Inscripción contuviere la Anotación del aviso preventivo, se tomará razón del embargo o secuestro en la fecha y hora de su presentación, pero la Inscripción del embargo o secuestro únicamente quedará firme si no se celebra el acto o convenio dentro del período de vigencia del aviso preventivo o, si a pesar de haberse celebrado dentro de la vigencia de éste, no se diere el aviso definitivo de la operación o no se presentara el documento a que se refiere el mismo, en el plazo previsto para ello.
+Si se decretare embargo o secuestro que provenga de acción personal respecto de un inmueble o derecho sobre él, cuya Inscripción contuviere la Anotación del aviso preventivo, se tomará razón del embargo o secuestro en la fecha y hora de su presentación, pero la Inscripción del embargo o secuestro únicamente quedará firme si no se celebra el acto o convenio dentro del período de vigencia del aviso preventivo o, si a pesar de haberse celebrado dentro de la vigencia de este, no se diere el aviso definitivo de la operación.
 
-Para el caso de que existiere aviso definitivo respecto de operaciones de traslación de dominio, no se tomará razón del embargo o secuestro decretado.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Para el caso de que existiere aviso definitivo, no se tomará razón del embargo o secuestro decretado.
 
 En cualquiera de éstos casos el Titular del Registro Público deberá notificar a la autoridad correspondiente, fundando y motivando su actuación.
 
@@ -429,7 +445,9 @@ Para inscribir o anotar cualquier Título de conformidad con el principio regist
 
 Inscrito o anotado un derecho, no podrá inscribirse o anotarse otro de igual, anterior o posterior fecha que, refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
-Si sólo existiere anotado alguno de los avisos a que se refiere ésta Sección, tampoco podrá inscribirse o anotarse otro Título de la clase antes expresada, mientras el asiento esté vigente, con las excepciones previstas por la Ley.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Si sólo existiere anotado aviso preventivo, tampoco podrá inscribirse o anotarse otro Título de la clase antes expresada, mientras el asiento esté vigente. Si fuere aviso definitivo, no podrá inscribirse o anotarse sin que previamente dicho asiento sea cancelado con la solicitud y el documento rescisorio respectivo, con las excepciones previstas por la Ley.
 
 > <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
@@ -505,13 +523,15 @@ En los casos que se detecte la falta, mutilación o destrucción de Acervo Regis
 
 Las inscripciones se extinguen por su cancelación en los términos de la Ley o por el registro de la transmisión del dominio o derecho real, inscrito en favor de otra persona.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 49.
 
-Las anotaciones relativas a los avisos preventivos y definitivos a que se refiere este Título, se extinguen al fenecer su vigencia, y por la Inscripción del acto jurídico a que se refieren dichos avisos o por su cancelación.
+Las anotaciones relativas a los avisos preventivos y definitivos a que se refiere este Título se extinguen al fenecer su vigencia, únicamente en el primer caso y por la Inscripción del acto jurídico a que se refieren dichos avisos o por su cancelación.
 
 Para la cancelación anticipada del aviso preventivo, bastará la solicitud del fedatario público que lo haya dado o quien lo sustituya legalmente en sus funciones, expresando las razones legales que la motivan.
 
-En el caso de los avisos definitivos, además de los requisitos a que se refiere el párrafo anterior, deberá darse aviso previo al Consejo de Notarios haciéndolo conocedor de esa circunstancia. El notario público deberá anexar a su solicitud de cancelación, copia del documento en que conste el aviso al Consejo y el acta donde se otorgué la recisión.
+En el caso de los avisos definitivos, además de los requisitos a que se refiere el párrafo anterior, deberá darse aviso previo al Consejo de Notarios, haciéndolo conocedor de esa circunstancia. El notario público deberá anexar a su solicitud de cancelación copia del documento en que conste el aviso al Consejo, la respuesta de este y el acta donde se otorgue la recisión.
 
 ###### Artículo 50.
 
@@ -721,9 +741,11 @@ El derecho inscrito o anotado se presume que existe y que pertenece a su titular
 
 No podrá ejercitarse ninguna acción contradictoria del dominio del inmueble o de derechos reales inscritos o anotados a nombre de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la Inscripción o Anotación en que conste dicho dominio o derecho.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 78.
 
-No serán inscritos los embargos o secuestros que provengan de una acción personal, ordenados por autoridad competente contra bienes o derechos reales determinados, cuando esté anotado el aviso definitivo respecto de operaciones de traslación de dominio a que se refiere el artículo 35 de esta Ley o estuviesen inscritos a nombre de persona distinta de aquélla contra la cual se decretó el embargo. En todo caso, el Titular del Registro Público deberá notificar a la autoridad correspondiente tal circunstancia, fundando y motivando la negativa para la toma de razón.
+No serán inscritos los embargos o secuestros que provengan de una acción personal, ordenados por autoridad competente contra bienes o derechos reales determinados, cuando esté anotado el aviso definitivo a que se refiere el artículo 35 de esta Ley o estuviesen inscritos a nombre de persona distinta de aquella contra la cual se decretó el embargo. En todo caso, el Titular del Registro Público deberá notificar a la autoridad correspondiente tal circunstancia, fundando y motivando la negativa para la toma de razón.
 
 ###### Artículo 79.
 
@@ -1009,9 +1031,11 @@ Cuando alguno de los asientos que deba comprender la certificación estuviere re
 
 Los usuarios podrán tener acceso al Sistema Registral Informático, en las terminales de cómputo que al efecto se instalen en la sala de consulta o realizar ésta, en su domicilio con su propio equipo de cómputo por la vía electrónica, para lo cual deberán cumplir con los requisitos que al efecto se establezcan en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 122.
 
-Los usuarios tendrán acceso a la información generada en el Sistema Manual de Información, consistente en las inscripciones o anotaciones que consten en los libros correspondientes, cuando estos no estén digitalizados en el Sistema Registral Informático.
+Los usuarios tendrán acceso a la información generada en el Sistema Manual de Información, consistente en las inscripciones o anotaciones que consten en los libros correspondientes, únicamente en la Sala de Consultas por mandamiento de una autoridad judicial o administrativa competente, salvo que estos no estén digitalizados en el Sistema Registral Informático o, estándolo, no se permita consultar las imágenes de manera clara y legible, en la forma prevista en el Reglamento de la Ley.
 
 ###### Artículo 123.
 
@@ -1343,9 +1367,11 @@ Si del resultado de la inspección a un Predio hubiere diferencias en medidas, c
 
 En los casos de los predios rústicos, deberá contener un punto georeferenciado y se procederá después de su verificación a su urbanización, de conformidad al informe pericial que se emita al efecto, en el que se mencione que el mismo ya se encuentra dentro de la zona urbana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 148.
 
-Para el otorgamiento de la autorización para subdividir, relotificar o unir un bien inmueble, la autoridad competente requerirá del solicitante la certificación del valor y registro catastral del inmueble que corresponda y expedirá los oficios correspondientes los cuales tendrán una vigencia de seis meses, mismos que se podrán revalidar por una sola ocasión.
+Para el otorgamiento de la autorización para relotificar, dividir, unir, urbanizar y rectificar medidas, así como para obtener las factibilidades de Constitución o Modificación de Régimen en Condominio de un bien inmueble, la autoridad competente requerirá del solicitante el registro catastral del inmueble que corresponda y expedirá los oficios correspondientes, los cuales tendrán una vigencia de acuerdo con el año calendario en que se expidan y se podrán revalidar por una sola ocasión, en los términos del Reglamento de la Ley.
 
 Cuando la dirección del catastro que corresponda emita un oficio de cambio de nomenclatura, mandará una copia para su conocimiento y anotación marginal al Registro Público, previos los requisitos que deban reunir ante este.
 
@@ -1353,11 +1379,13 @@ Cuando la dirección del catastro que corresponda emita un oficio de cambio de n
 
 Los trámites catastrales relacionados con un Predio que sea afectado con una vialidad o camino público, federal, estatal o municipal, deberán contar con los oficios de autorización de las autoridades competentes, en los que se expresarán las medidas legales y reglamentarias correspondientes al caso y a cuál de los resultantes de la división corresponde dicha vialidad o camino objeto de la afectación.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 150.
 
-Las personas físicas o morales que obtengan autorización o licencia para fraccionar, subdividir, relotificar o unir un inmueble, deberán presentar a la autoridad catastral copia de la licencia o autorización que les haya sido otorgada por la autoridad competente, en un plazo no mayor de quince días hábiles contados a partir de la fecha de su expedición, acompañando copias de los planos y demás documentos relativos.
+Las personas físicas o morales que obtengan autorización o licencia para fraccionar, dividir, relotificar o unir un inmueble deberán presentar a la autoridad catastral la autorización vigente que les haya sido otorgada por la autoridad competente, acompañándola de copias de los planos y de los demás documentos relativos.
 
-Toda modificación que se realice con posterioridad a la autorización o licencia otorgada deberá ser comunicada a la autoridad catastral, en el mismo término señalado en el párrafo anterior y en caso contrario se aplicarán las sanciones que correspondan.
+Toda modificación que se realice con posterioridad a la autorización otorgada deberá ser comunicada a la autoridad catastral. En caso contrario, se aplicarán las sanciones que correspondan.
 
 ###### Artículo 151.
 
@@ -1381,17 +1409,21 @@ III. Manifestación de cada una de las construcciones dentro del Predio y el val
 
 IV. Especificación de los terrenos y construcciones que son del dominio público y de los que no lo son, con el valor actual de cada uno de ellos.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 154.
 
-Los notarios y escribanos públicos, así como los organismos públicos que por disposición de la ley intervengan en actos, contratos y operaciones que transmitan el dominio o modifiquen las características de un Predio, deberán dar aviso de dichos actos jurídicos a la dirección del catastro municipal que corresponda, mediante las formas correspondientes, acompañadas necesariamente de la Cédula Catastral actualizada y vigente, dentro de un plazo de treinta días naturales contados a partir de la Inscripción del acto en el Registro Público.
+Los notarios y escribanos públicos, así como los organismos públicos que, por disposición de la ley, intervengan en actos, contratos y operaciones que transmitan el dominio o modifiquen las características de un Predio, deberán dar aviso de dichos actos jurídicos a la Dirección del Catastro o a la dirección de catastro municipal que corresponda, mediante las formas correspondientes, acompañadas necesariamente de la Cédula Catastral actualizada y vigente, dentro de un plazo de treinta días naturales, contados a partir de la Inscripción del acto en el Registro Público.
 
 ###### Artículo 155.
 
 La autoridad catastral proporcionará información y expedirá constancia y certificaciones de los documentos que obren en el Padrón Catastral, de acuerdo a lo establecido en la legislación aplicable, previo pago de los derechos respectivos.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 156.
 
-El fraccionador dará aviso a las autoridades estatales y municipales, una vez autorizado el fraccionamiento por las autoridades competentes, remitiendo los planos respectivos en el formato electrónico que señale el Reglamento, a fin de que la autoridad catastral municipal señale la clave catastral a cada uno de los lotes de terreno que resulten, así como las áreas y demás componentes del mismo que servirá de base para la identificación de las operaciones que posteriormente se realicen.
+El desarrollador inmobiliario dará aviso a las autoridades estatales y municipales, una vez autorizado el desarrollo inmobiliario de tipo fraccionamiento por las autoridades competentes, remitiendo los planos respectivos en el formato electrónico que señale el Reglamento, a fin de que la autoridad catastral respectiva señale la clave catastral para cada uno de los lotes de terreno que resulten, así como para las áreas y los demás componentes de este, la cual servirá como base para la identificación de las operaciones que posteriormente se realicen.
 
 ###### Artículo 157.
 
@@ -1413,9 +1445,11 @@ En casos de inmuebles con o sin construcciones, ubicados en las Secciones Catast
 
 El Valor Catastral que se determine para cada inmueble, será el que se obtenga de la suma de los Valores Unitarios del terreno y de la construcción, en su caso, el que se aplicará de acuerdo a lo señalado en el artículo 136 de la presente Ley.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 161.
 
-Para los inmuebles que están sujetos al régimen de propiedad condominal, la Valuación Catastral deberá hacerse respecto a cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes.
+Para los inmuebles que estén sujetos al régimen de propiedad condominal, la Valuación Catastral deberá hacerse respecto a cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la cuota de participación de los bienes comunes.
 
 ###### Artículo 162.
 
@@ -1449,7 +1483,9 @@ a) Un inmueble se inscriba por primera vez en el Padrón Catastral;
 
 b) Se constituya respecto de un bien inmueble el régimen de la propiedad condominal;
 
-c) Un terreno sea fraccionado o subdividido;
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+c) Un terreno sea fraccionado o dividido;
 
 d) Los lotes de un terreno se relotifiquen;
 
@@ -2350,3 +2386,27 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
