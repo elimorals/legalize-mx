@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-vias-terrestres-del-estado-de-yucatan-15176"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-16"
-last_updated: "2007-12-20"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de agosto de 1999.
 
@@ -77,9 +77,9 @@ V. Las vías federales que sean transferidas al Estado.
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-I. Dependencia u Organismo: La Secretaría de Obras Públicas;
+I. Entidad: la unidad administrativa de la Administración Pública estatal encargada de vigilar el debido cumplimiento de las disposiciones aplicables en materia de vías terrestres de competencia estatal, de conformidad con esta Ley;
 
 II. (DEROGADA, D.O. 20 DE DICIEMBRE DE 2007)
 
@@ -95,17 +95,19 @@ Se considera parte de un anuncio, el área del mismo y todos los elementos que l
 
 V. Cruzamiento: Obra a nivel o desnivel que atraviesa de un lado a otro la carretera estatal, camino rural, libramiento y periférico;
 
-VI. Derecho de Vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía terrestre de jurisdicción estatal y sus servicios auxiliares con longitud variable, cuya dimensión fije el Organismo, la cual no podrá ser inferior a veinte metros a cada lado del eje de la vía terrestre.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+VI. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y, en general, para el uso adecuado de una vía terrestre de jurisdicción estatal y de sus servicios auxiliares, con longitud variable, cuya dimensión fije la Entidad, en términos de esta Ley;
 
-Tratándose de vías terrestres de dos carriles, la longitud se medirá a partir del eje a cada lado y en las vías terrestres de más de dos carriles se medirá a partir del eje de cada uno de ellos. En libramientos y periféricos no será menor de 50 metros a cada lado del eje;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 VII. Instalación Marginal: Obra para la instalación o tendido de ductos, cableados y similares, que se construye cuando menos a diez metros del eje de la vía de una carretera estatal, camino rural, libramiento o periférico hacia el exterior;
 
 VIII. Parador: Instalaciones y construcciones adyacentes al derecho de vía de una carretera, camino, libramiento y periférico, en las que se presten servicios de alojamiento, alimentación, comercio, servicios sanitarios, comunicación, servicio a vehículos y otros similares;
 
-IX. Permiso: Autorización otorgada por el Organismo para ocupar, usar o aprovechar el derecho de vía, de las carreteras estatales, caminos rurales, libramientos o periféricos;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IX. Permiso: Autorización otorgada por la Entidad para ocupar, usar o aprovechar el derecho de vía de las carreteras estatales, caminos rurales, libramientos o periféricos;
 
 X. Concesión: Autorización que otorga el Ejecutivo del Estado para la construcción, operación, explotación, conservación, mantenimiento y modernización de las carreteras estatales, caminos rurales, libramientos y periféricos;
 
@@ -135,17 +137,19 @@ II. Las vías separadas que son carreteras con longitud variable de acuerdo con 
 
 III. La franja que comprende el derecho de vía.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 5.
 
-Corresponde al Titular del Ejecutivo del Estado por sí o por conducto de la Dependencia, la aplicación de esta Ley, de conformidad con la distribución de competencias establecidas en la misma.
+Corresponde al Titular del Poder Ejecutivo del Estado, por sí o por conducto de la Entidad, la aplicación de esta Ley, de conformidad con la distribución de competencias establecidas en ella.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-Corresponde al Ejecutivo del Estado por conducto de su titular o de la Dependencia:
+Corresponde al Poder Ejecutivo del Estado, por conducto de su titular o de la Entidad:
 
 I. Planear, formular y conducir las políticas y programas, así como regular el desarrollo de las vías terrestres de jurisdicción estatal y sus servicios auxiliares, con base en el Plan Estatal de Desarrollo, los programas sectoriales respectivos y demás ordenamientos legales aplicables;
 
@@ -153,7 +157,9 @@ II. Otorgar las concesiones a que se refiere esta Ley y en su caso, resolver sob
 
 III. Aprobar las tarifas que cobren los concesionarios de las vías de jurisdicción estatal concesionadas;
 
-IV. La aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y en general, todos los documentos relacionados con la explotación de las vías terrestres de jurisdicción estatal;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IV. Aprobar y modificar tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todo lo relacionado con las concesiones que se otorguen para la explotación de las vías terrestres de jurisdicción estatal, en términos de esta Ley;
 
 V. La declaración de abandono de trámite de las solicitudes de concesión;
 
@@ -161,11 +167,11 @@ VI. Determinar la construcción de las vías terrestres de jurisdicción estatal
 
 VII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 7.
 
-Compete a la Secretaría de Obras Públicas, por conducto de su titular o de la Dirección correspondiente:
+Compete a la Entidad, por conducto de su titular o de la unidad administrativa correspondiente:
 
 I. Construir, mejorar, ampliar y conservar las vías terrestres de jurisdicción estatal, así como regular y vigilar que se encuentren en condiciones adecuadas de funcionamiento;
 
@@ -199,33 +205,41 @@ II. Por lo establecido en esta Ley y demás ordenamientos legales aplicables.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 9.
 
-La Secretaría de Obras Públicas, fijará en cada caso, las condiciones técnicas relacionadas con la seguridad, utilidad y eficiencia del servicio que deben satisfacer las vías terrestres de jurisdicción estatal.
+La Entidad fijará, en cada caso, las condiciones técnicas relacionadas con la seguridad, utilidad y eficiencia del servicio que deben satisfacer las vías terrestres de jurisdicción estatal.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 10.
 
-En ningún caso se permitirá la construcción de líneas de transmisión eléctrica, postes, ductos, cercas y demás obras dentro de la franja del derecho de vía o que pudieran entorpecer el tránsito en las vías terrestres de jurisdicción estatal, salvo que se cuente con la autorización previa del Organismo.
+En ningún caso se permitirá la construcción de líneas de transmisión eléctrica, postes, ductos, cercas y demás obras dentro de la franja del derecho de vía o que pudieran entorpecer el tránsito en las vías terrestres de jurisdicción estatal, salvo que se cuente con la autorización previa de la Entidad.
 
-El que con cualquier obra o trabajo invada la franja del derecho de vía o la propia vía terrestre, está obligado a demoler la obra ejecutada en la parte invadida y hacer las reparaciones que se requieran en la misma, en el concepto de que si no lo hiciere, el Organismo podrá solicitar al Ejecutivo del Estado el auxilio de la fuerza pública para realizar la demolición y la reparación podrá hacerla el Organismo a costa del Invasor, sin perjuicio en que éste pudiera incurrir en responsabilidad civil o penal.
+El que con cualquier obra o trabajo invada la franja del derecho de vía o la propia vía terrestre, está obligado a demoler la obra ejecutada en la parte invadida y hacer las reparaciones que se requieran en ella, en el concepto de que, si no lo hiciere, la Entidad podrá solicitar al Ejecutivo del Estado el auxilio de la fuerza pública para realizar la demolición y la reparación podrá hacerla la Entidad a costa del Invasor, sin perjuicio en que este pudiera incurrir en responsabilidad civil o penal.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 11.
 
-El Organismo determinará las condiciones a que deba sujetarse el proyecto, la construcción y conservación de las vías terrestres de jurisdicción estatal así como sus obras y servicios auxiliares.
+La Entidad determinará las condiciones a que deba sujetarse el proyecto, la construcción y la conservación de las vías terrestres de jurisdicción estatal así como sus obras y servicios auxiliares.
 
 ###### ARTÍCULO 12.
 
 Los propietarios de los predios colindantes de una vía terrestre de jurisdicción estatal, tienen la obligación de cercarlos en la parte que limiten con el derecho de vía.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 13.
 
-Los propietarios de los terrenos colindantes con las carreteras estatales, caminos rurales, libramientos y periféricos, cuando construyan su cerca, muro, albarrada o cualquier otra edificación que limite su propiedad con el derecho de vía, deberán solicitar al Organismo la verificación del alineamiento del acotamiento correspondiente y los gastos serán a costa del peticionario.
+Los propietarios de los terrenos colindantes con las carreteras estatales, caminos rurales, libramientos y periféricos, cuando construyan su cerca, muro, albarrada o cualquier otra edificación que limite su propiedad con el derecho de vía, deberán solicitar a la Entidad la verificación del alineamiento del acotamiento correspondiente y los gastos serán a costa del peticionario.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-Cuando para la ejecución de alguna obra se requiera romper el pavimento de una vía terrestre de jurisdicción estatal, se solicitará el permiso correspondiente al Organismo. El interesado, ya sea persona física o moral, deberá garantizar el importe de la reparación mediante fianza que fije el Organismo, sujetándose a las condiciones que se le señalen. La reparación del pavimento se hará por cuenta del interesado y en caso de no cumplir con las normas de construcción de las vías, el Organismo las realizará con el importe de la fianza.
+Cuando, para la ejecución de alguna obra, se requiera romper el pavimento de una vía terrestre de jurisdicción estatal, se solicitará el permiso correspondiente a la Entidad. El interesado, ya sea persona física o moral, deberá garantizar el importe de la reparación mediante fianza que fije la Entidad, sujetándose a las condiciones que se le señalen. La reparación del pavimento se hará por cuenta del interesado y en caso de no cumplir con las normas de construcción de las vías, la Entidad las realizará con el importe de la fianza.
 
 ## TÍTULO TERCERO. DEL ESTABLECIMIENTO, MANTENIMIENTO Y APROVECHAMIENTO DEL DERECHO DE VÍA Y LAS VÍAS TERRESTRES
 
@@ -233,9 +247,15 @@ Cuando para la ejecución de alguna obra se requiera romper el pavimento de una 
 
 DERECHO DE VÍA
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 15.
 
-La franja de terreno que comprende el derecho de vía de jurisdicción estatal será determinada por el Organismo y no podrá ser inferior a veinte metros de ancho por cada lado del eje de las vías antes señaladas; tratándose de vías de dos carriles o más, el derecho de vía se medirá a partir del eje de cada uno de ellos hacia el exterior. La franja intermedia entre dos carriles de una misma vía se considerará como derecho de vía, independientemente de su longitud.
+La franja de terreno que comprende el derecho de vía de jurisdicción estatal será determinada por la Entidad y no podrá ser inferior a veinte metros de ancho por cada lado del eje de la vía.
+
+Tratándose de vías terrestres de dos carriles, la longitud del derecho de vía se medirá a partir del eje de la vía hacia el exterior. En las vías terrestres de más de dos carriles, la longitud del derecho de vía se medirá a partir del eje de cada uno de ellos hacia el exterior. En libramientos y periféricos, el derecho de vía no podrá ser inferior a cincuenta metros de ancho por cada lado del eje de la vía.
+
+La franja intermedia entre dos carriles de una misma vía se considerará como derecho de vía, independientemente de su longitud.
 
 ###### ARTÍCULO 16.
 
@@ -245,21 +265,25 @@ El derecho de vía podrá ampliarse en las carreteras estatales, caminos rurales
 
 Los terrenos para la creación de la zona del derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, que no sean propiedad del Estado podrán ser adquiridos por el Ejecutivo Estatal a través de contratos de compraventa, donación o mediante expropiación, según sea el caso, así como por cualquier otro medio legal procedente.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-Dentro de la franja de terreno que comprende el derecho de vía, queda prohibido el depósito o extracción de materiales, salvo en los casos en que éstos sean necesario (sic) para la realización de obras ejecutadas o autorizadas por el Organismo.
+Dentro de la franja de terreno que comprende el derecho de vía, queda prohibido el depósito o la extracción de materiales, salvo en los casos en que estos sean necesarios para la realización de obras ejecutadas o autorizadas por la Entidad.
 
 ###### ARTÍCULO 19.
 
 Se prohiben los asentamientos humanos en el derecho de vía; quienes contravengan esta disposición serán desalojados y, en su caso, serán demolidas las construcciones. Los invasores se harán acreedores a las sanciones establecidas por esta Ley, sin perjuicio de cualquier otra responsabilidad en que pudieren incurrir.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 20.
 
-La Secretaría de Obras Públicas establecerá las normas técnicas que deberán observarse para el aprovechamiento del derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, así como los estudios pertinentes de ingeniería de tránsito; correspondiéndole a ésta autorizar, inspeccionar y vigilar la instalación de las obras que autorice.
+La Entidad establecerá las normas técnicas que deberán observarse para el aprovechamiento del derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, así como los estudios pertinentes de ingeniería de tránsito. Asimismo, le corresponderá autorizar, inspeccionar y vigilar la instalación de las obras que autorice.
 
-### CAPÍTULO II. DE LA CONSTRUCCIÓN, RECONSTRUCCIÓN, CONSERVACIÓN Y MEJORAMIENTO DE LAS VÍAS TERRESTRES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
+
+### CAPÍTULO II. DE LA CONSTRUCCIÓN, RECONSTRUCCIÓN, REPARACIÓN, CONSERVACIÓN Y MEJORAMIENTO DE LAS VÍAS TERRESTRES
 
 ###### ARTÍCULO 21.
 
@@ -273,21 +297,25 @@ Si para construir una vía terrestre de jurisdicción estatal hubiere necesidad 
 
 La construcción, reconstrucción, conservación o mejoramiento de vías terrestres de jurisdicción estatal podrá encomendarse a particulares en los términos de los ordenamientos legales aplicables.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-Para realizar trabajos de construcción, reconstrucción, conservación o mejoramiento en las vías terrestres de jurisdicción estatal, se requiere que la Dependencia apruebe el proyecto y los documentos relacionados con la obra que pretenda ejecutarse.
+Para realizar trabajos de construcción, reconstrucción, conservación o mejoramiento en las vías terrestres de jurisdicción estatal, se requiere que la Entidad apruebe el proyecto y los documentos relacionados con la obra que pretenda ejecutarse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-Los cruzamientos de las vías terrestres de jurisdicción estatal sólo podrán construirse previa autorización del Organismo.
+Los cruzamientos de las vías terrestres de jurisdicción estatal solo podrán construirse previa autorización de la Entidad.
 
 Las obras de construcción y conservación de los cruzamientos se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos establecidos en esta Ley y en el permiso.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-El Organismo, tomando en consideración las circunstancias de cada caso, podrá prever la construcción de libramientos necesarios que eviten el tránsito pesado por las poblaciones.
+La Entidad, tomando en consideración las circunstancias de cada caso, podrá prever la construcción de libramientos necesarios que eviten el tránsito pesado por las poblaciones.
 
 ###### ARTÍCULO 27.
 
@@ -297,31 +325,61 @@ Los accesos que se construyan dentro del derecho de vía se considerarán auxili
 
 Toda obra que se realice en las vías terrestres de jurisdicción estatal deberá cumplir con lo dispuesto en la legislación, programas y zonificación en materia de desarrollo urbano y protección ambiental.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-El Organismo, en su caso, promoverá con los municipios, concesionarios, permisionarios o particulares la construcción, reconstrucción, conservación y mejoramiento de las vías terrestres de jurisdicción estatal.
+La Entidad, en su caso, promoverá con los municipios, concesionarios, permisionarios o particulares la construcción, reconstrucción, conservación y mejoramiento de las vías terrestres de jurisdicción estatal.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 29 BIS. Se entenderá por daño a las vías terrestres de jurisdicción estatal cualquier modificación, alteración o destrucción que, sin autorización por parte de la Entidad, sufra alguna vía terrestre de jurisdicción estatal o sus instalaciones accesorias.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 29 TER. Si algún vehículo dañara alguna vía terrestre de jurisdicción estatal, su propietario tendrá la obligación de pagar los daños ocasionados, de acuerdo con la cuantificación que realice la Entidad al respecto, quien, una vez que la persona hubiera reparado los daños ocasionados, emitirá el perdón ante la autoridad correspondiente.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 29 QUATER. Para el cumplimiento del artículo anterior de esta Ley, quien dañara alguna vía terrestre de jurisdicción estatal deberá presentar ante la Entidad los siguientes documentos:
+
+I. Identificación oficial vigente;
+
+II. Tarjeta de circulación vigente;
+
+III. Peritaje o parte expedido por la Secretaría de Seguridad Pública, y
+
+IV. Comparecencia y acreditación de su personalidad, en formato físico o electrónico.
+
+Los documentos a que se refieren las fracciones I y II de este artículo deberán ser presentados en original y copia, para cotejo. Los documentos originales serán devueltos una vez hecho el cotejo correspondiente. El documento a que se refiere la fracción III será presentado solo en copia. El documento a que se refiere la fracción IV será presentado solo en original.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO III. DE LA SEGURIDAD EN LAS VÍAS TERRESTRES DE CIRCULACIÓN
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 340, PUBLICADO EN EL D.O. DE 4 DE ENERO DE 2021, PAGINAS 18 Y 21.]</small>
+
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
-ARTÍCULO 29 BIS. Las vías terrestres del Estado, además de cumplir con la normatividad aplicable en materia de vialidad, obras públicas y desarrollo urbano, deberán contar con medidas de seguridad adicionales encaminadas a proteger a los peatones y conductores de vehículos automotores que circulen en cruceros, libramientos, periféricos y demás lugares que la autoridad competente determine necesario atender.
+ARTÍCULO 29 QUINQUIES. Las vías terrestres del Estado, además de cumplir con la normatividad aplicable en materia de vialidad, obras públicas y desarrollo urbano, deberán contar con medidas de seguridad adicionales encaminadas a proteger a los peatones y conductores de vehículos automotores que circulen en cruceros, libramientos, periféricos y demás lugares que la autoridad competente determine necesario atender.
 
 Se consideran medidas de seguridad adicionales, los semáforos, vibradores, el balizamiento en general y pasos peatonales sobre los carriles de circulación, así como los puentes vehiculares que se ubiquen en los periféricos, libramientos y demás vías terrestres del Estado.
 
 En los periféricos y libramientos de las principales poblaciones del Estado y en las vías urbanas, en donde la gran circulación de vehículos y de peatones lo amerite, la autoridad competente podrá autorizar la implementación de medidas de seguridad adicionales y la construcción de puentes sobre esas vías.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 340, PUBLICADO EN EL D.O. DE 4 DE ENERO DE 2021, PAGINAS 18 Y 21.]</small>
+
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
-ARTÍCULO 29 TER. Las señales preventivas se instalarán de acuerdo a lo establecido en el Manual de Dispositivos para el Control del Tránsito en calles y carreteras, emitida por la autoridad competente. Se instalarán a una distancia del crucero que, de acuerdo a la velocidad de proyecto de las vías, sea suficiente para la detención total de los vehículos. Los semáforos se podrán instalar en el propio entronque de acuerdo a las especificaciones técnicas que se definan para cada caso.
+ARTÍCULO 29 SEXIES. Las señales preventivas se instalarán de acuerdo a lo establecido en el Manual de Dispositivos para el Control del Tránsito en calles y carreteras, emitida por la autoridad competente. Se instalarán a una distancia del crucero que, de acuerdo a la velocidad de proyecto de las vías, sea suficiente para la detención total de los vehículos. Los semáforos se podrán instalar en el propio entronque de acuerdo a las especificaciones técnicas que se definan para cada caso.
 
 Las indicaciones de los semáforos deberán distinguirse claramente desde una distancia mínima de 300 metros en condiciones atmosféricas normales y como mínimo habrá dos caras para cada acceso.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 340, PUBLICADO EN EL D.O. DE 4 DE ENERO DE 2021, PAGINAS 18 Y 21.]</small>
+
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
-ARTÍCULO 29 QUATER. Los semáforos se instalarán en el propio entronque de las vías de circulación y en los lugares donde se requieran por motivos de seguridad.
+ARTÍCULO 29 SEPTIES. Los semáforos se instalarán en el propio entronque de las vías de circulación y en los lugares donde se requieran por motivos de seguridad.
 
 También podrán ubicarse pasos peatonales en áreas de alta afluencia peatonal.
 
@@ -419,15 +477,17 @@ VII. Normas para prevenir y controlar daños al ecosistema;
 
 VIII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-IX. Las contraprestaciones que deban cubrirse al Gobierno del Estado, mismas que serán fijadas por la Secretaría de Hacienda a propuesta de la Dependencia, y
+IX. Las contraprestaciones que deberán cubrirse a favor del Gobierno del Estado, las cuales serán determinadas por la Secretaría de Administración y Finanzas, a propuesta de la Entidad, y
 
 X. Los demás que señale esta Ley y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 37.
 
-Las vías terrestres que se construyan por concesión, serán consideradas como obra de utilidad pública y el concesionario deberá adquirir los terrenos para la construcción de la obra de referencia. En caso de presentarse dificultades para la adquisición de los terrenos objeto de la concesión, el concesionario lo comunicará al Organismo para que se proceda conforme a derecho.
+Las vías terrestres que se construyan por concesión serán consideradas como obras de utilidad pública. El concesionario deberá adquirir los terrenos necesarios para la construcción de las vías terrestres. En caso de presentar dificultades para la adquisición de los terrenos, el concesionario lo comunicará a la Entidad, para que esta proceda conforme a derecho.
 
 ###### ARTÍCULO 38.
 
@@ -451,71 +511,121 @@ Los concesionarios deberán realizar a su costa todas las obras y actividades de
 
 ### CAPÍTULO II. DE LOS PERMISOS
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 43.
 
-Se requiere permiso otorgado por el Organismo para:
+Se requiere permiso otorgado por la Entidad para:
 
-I. La construcción de accesos, cruzamientos e instalaciones marginales en la franja que comprende el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos;
+I. El desarrollo de obras para la construcción, modificación o ampliación de la franja que comprende el derecho de vía de carreteras estatales, caminos rurales, libramientos y periféricos;
 
-II. El establecimiento de paradores en la franja que comprende el derecho de vía, salvo cuando se trate de vías concesionadas;
+II. El desarrollo de obras para la construcción, modificación o ampliación de paradores en la franja que comprende el derecho de vía de carreteras estatales, caminos rurales, libramientos y periféricos;
 
-III. La instalación de anuncios y la construcción de obras con fines de publicidad, información o comunicación, en los siguientes lugares:
+III. El desarrollo de obras para la construcción, modificación o ampliación de accesos viales en la franja que comprende el derecho de vía de carreteras estatales, caminos rurales, libramientos y periféricos;
 
-a) En la franja que comprende el derecho de vía;
+IV. El desarrollo de obras para la construcción, modificación o ampliación de instalaciones marginales o cruces en la franja que comprende el derecho de vía de carreteras estatales, caminos rurales, libramientos y periféricos;
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+V. La instalación de señales de tránsito e informativas en la franja que comprende el derecho de vía;
 
-b) En las zonas que por su ubicación especial o características particulares, se pudiera afectar la operación, visibilidad o perspectiva panorámica de las vías terrestres, en perjuicio de la seguridad de los usuarios;
+VI. La instalación de anuncios y la construcción de obras con fines de publicidad en los siguientes lugares:
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+a) En la franja que comprende el derecho de vía.
 
-c) En aquellas vías terrestres que crucen zonas consideradas suburbanas, y
+b) En las zonas que, por su ubicación especial o sus características particulares, se pudiera afectar la operación, visibilidad o perspectiva panorámica de las vías terrestres, en perjuicio de la seguridad de los usuarios.
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+c) En las vías terrestres que crucen zonas consideradas suburbanas.
 
 d) En los puentes y pasos peatonales ubicados sobre el eje de las vías terrestres.
 
-IV. La construcción, modificación y ampliación de caminos de acceso;
-
-V. La construcción, modificación y ampliación de obras dentro de la franja del derecho de vía;
-
-VI. La instalación de señales informativas;
-
 VII. El establecimiento de servicios públicos en las vías terrestres de jurisdicción estatal;
 
-VIII. La instalación de terminales de carga y unidades de verificación vehicular, así como de otros servicios auxiliares, independientemente de lo señalado en otros ordenamientos legales aplicables;
+VIII. La instalación de terminales de carga y de unidades de verificación vehicular, así como de otros servicios auxiliares, independientemente de lo señalado en otros ordenamientos legales aplicables;
 
-IX. La construcción de accesos, cruzamientos, e instalaciones marginales, en el derecho de vía, y
+IX. La construcción de banquetas, jardines o cualquier otra mejora que se pretenda hacer sobre la franja que comprende el derecho de vía, y
 
 X. Las demás que señale esta Ley y otros ordenamientos legales aplicables.
 
-El Organismo podrá concursar en los términos del artículo 35 de esta Ley, el otorgamiento de permisos cuando se trate de servicios auxiliares vinculados a la infraestructura carretera.
+La Entidad podrá concursar el otorgamiento de permisos, cuando se trate de servicios auxiliares relacionados con infraestructura carretera, de conformidad con el procedimiento previsto en el artículo 35 de esta Ley.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-Los interesados en obtener permiso para aprovechar el derecho de vía de jurisdicción estatal deberán:
+Los interesados en obtener el permiso a que se refiere el artículo anterior de esta Ley deberán cumplir con las formalidades previstas en los artículos 29 y 30 de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán. Además, deberán presentar en la Entidad, por escrito, la solicitud correspondiente, acompañada de los siguientes documentos:
 
-I. Presentar solicitud por escrito;
+I. Para personas físicas:
 
-II. Cuando se trate de personas morales, acompañar copia certificada de la escritura pública constitutiva; así como la copia certificada de su última acta de sesión ordinaria o extraordinaria, en la que haya sufrido modificaciones el acta constitutiva;
+a) Identificación oficial vigente.
 
-III. La ubicación exacta donde se llevará a cabo la obra o instalación;
+b) Cédula de identificación fiscal.
 
-IV. Presentar croquis con medidas y colindancias de la superficie que se pretenda utilizar;
+c) Carta poder simple de la persona encargada de realizar las diligencias del trámite.
 
-V. Acreditar el pago de los derechos que en su caso correspondan, y
+d) Croquis que contenga la ubicación georreferenciada exacta en donde se pretende realizar la obra o instalación, y las medidas y colindancias de la superficie a utilizar.
 
-VI. Proporcionar los demás datos específicos que señale esta Ley y otros ordenamientos legales aplicables.
+II. Para personas morales:
 
-En caso de que falte algún requisito, el Organismo lo comunicará por escrito al interesado en un plazo de quince días hábiles. El interesado dispondrá de un plazo de treinta días hábiles para subsanar los requisitos faltantes y transcurrido el mismo sin que se dé cumplimiento, se tendrá por abandonada la solicitud.
+a) Escritura pública del acta constitutiva.
+
+b) Actas de las sesiones en las que se hubiesen aprobado modificaciones sustanciales al acta constitutiva. Se entenderán como modificaciones sustanciales aquellas que tenga el acta constitutiva y que estén relacionadas con cambios en la denominación social de la persona moral, su objeto, su duración, su administración o sus apoderados legales.
+
+c) Poder notarial de la persona encargada de realizar las diligencias del trámite.
+
+d) Croquis que contenga la ubicación georreferenciada exacta en donde se pretende realizar la obra o instalación, y las medidas y colindancias de la superficie a utilizar.
+
+Los documentos a que se refiere este artículo deberán ser presentados en original y copia, para cotejo. Los documentos originales serán devueltos una vez hecho el cotejo correspondiente.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 44 BIS. Para obtener el permiso para el desarrollo de obras para la construcción, modificación o ampliación de accesos viales, en términos del artículo 43, fracción III, de esta Ley, los interesados deberán presentar en la Entidad, además de los previstos en el artículo anterior, los siguientes documentos:
+
+I. Licencia de uso de suelo vigente o licencia de funcionamiento, expedida por el ayuntamiento correspondiente.
+
+II. Escritura pública o copia del Registro Público de la Propiedad y del Comercio que acredite la propiedad del predio en cuestión.
+
+III. Estudio de impacto vial, y su resolución, expedido por la Secretaría de Seguridad Pública.
+
+En el caso específico de este permiso, el croquis que se entregue como parte de la documentación deberá contener la siguiente información:
+
+I. Planta con la propuesta geométrica del acceso vial, acorde con el uso de suelo autorizado.
+
+II. Perfil de acceso que indique las cotas y niveles del proyecto propuesto.
+
+III. Secciones transversales de construcción del acceso vial solicitado.
+
+IV. Generadores de volúmenes de obra.
+
+V. Catálogo de presupuesto por evaluar con volúmenes de proyecto.
+
+El trámite para obtener el permiso a que se refiere este artículo se desarrollará, de conformidad con el artículo 45 de esta Ley, de manera presencial, en las oficinas de la Entidad, o bien, en línea, a través de la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, administrada por la Secretaría de Administración y Finanzas, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 44 TER. Para obtener el permiso para la construcción de banquetas, jardines o cualquier otra mejora que se pretenda hacer sobre la franja que comprende el derecho de vía, en términos del artículo 43, fracción IX, de esta Ley, los interesados deberán presentar en la Entidad, además de los previstos en el artículo 44 de esta Ley, los siguientes documentos:
+
+I. Escritura pública o copia del Registro Público de la Propiedad y del Comercio que acredite la propiedad del predio en cuestión.
+
+II. Plano del proyecto constructivo solicitado, de acuerdo con la normatividad de la Secretaría de Comunicaciones y Transportes. El plano deberá entregarse impreso y en disco compacto, en el formato digital que determine la Entidad.
+
+En caso de que otras empresas tuvieran instalaciones marginales en la zona donde se pretende desarrollar la obra y que estas instalaciones fueran a compartir espacio con las instalaciones del interesado, este deberá presentar carta de liberación o anuencia de las empresas, al momento de presentar la documentación a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 45.
 
-El Organismo otorgará los permisos dentro de un plazo de treinta días hábiles contados a partir de la fecha en que hubiere cumplido con todos los requisitos siempre que no se afecte la seguridad de la vía.
+La Entidad otorgará los permisos en un plazo de diez días hábiles, contado a partir del día hábil siguiente a la fecha en que el interesado hubiera cumplido satisfactoriamente con la documentación establecida en esta Ley, previa verificación de la Entidad, siempre y cuando la obra a realizar no afectara la seguridad de la vía terrestre objeto del trámite.
+
+Una vez entregada la documentación, la Entidad verificará que se encuentre completa y que contenga la información necesaria para el trámite de la solicitud, y emitirá el dictamen de procedencia correspondiente. Para ello, contará con un plazo de cinco días hábiles, contado a partir del día hábil siguiente a la fecha de presentación de la solicitud.
+
+En caso de que el resultado del dictamen fuera improcedente, la Entidad le notificará por escrito o por correo electrónico al interesado sobre las omisiones detectadas. El interesado contará con un plazo de diez días hábiles, contado a partir de la fecha de notificación, para solventar las omisiones. Excedido este plazo, la solicitud se tendrá por abandonada y será desechada por la Entidad. El interesado podrá presentar nuevamente su solicitud, para lo cual deberá iniciar nuevamente el procedimiento referido en este artículo.
+
+En caso de que la Entidad determinara que es procedente la solicitud, esta le notificará por escrito o por correo electrónico al interesado sobre este hecho. El interesado deberá acudir a la Entidad para que le sea entregada la ficha de pago de los derechos correspondientes. El interesado pagará estos derechos y presentará en la Entidad el comprobante de pago. Hecho lo anterior, la Entidad le otorgará el permiso respectivo.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-En el caso de construcción de accesos, cruzamientos e instalaciones marginales, el permisionario podrá solicitar al Organismo prórroga para la finalización de la obra, hasta por la mitad del plazo establecido en el permiso, previa justificación y actualización de costos del pago de derechos correspondientes, siempre que a juicio del Organismo los motivos por los que no las concluyó sean justificados. En caso de no ser procedente la justificación se tendrá por terminado el permiso.
+En el caso de construcción de accesos, cruzamientos e instalaciones marginales, el permisionario podrá solicitar a la Entidad prórroga para la finalización de la obra, hasta por la mitad del plazo establecido en el permiso, previa justificación y actualización de costos del pago de derechos correspondientes, siempre que, a juicio de la Entidad, los motivos por los que no la concluyó sean justificados. En caso de no ser procedente la justificación, se tendrá por terminado el permiso.
 
 ###### ARTÍCULO 47.
 
@@ -525,17 +635,25 @@ En la zona de cruzamientos, entronques principales de las vías terrestres de ju
 
 Los accesos y las obras auxiliares que se construyan dentro de la franja del derecho de vía, se consideran complementarias de las carreteras, caminos rurales, libramientos y periféricos.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-La construcción del acceso a las carreteras que hayan sido concesionadas, así como sus obras complementarias, sólo se podrá realizar mediante permiso y en aquellos lugares que autorice el Organismo, siempre y cuando no se ponga en peligro la seguridad en las vías antes señaladas.
+La construcción del acceso a las carreteras que hayan sido concesionadas así como sus obras complementarias solo se podrá realizar mediante permiso y en aquellos lugares que autorice la Entidad, siempre y cuando no se ponga en peligro la seguridad en las vías antes señaladas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-Se prohibe a los permisionarios:
+Se prohíbe a los permisionarios:
 
-I. Colocar anuncios o realizar obras con fines de publicidad, que puedan confundirse con cualquier otra clase de señal instalada por el Organismo a lo largo de las carreteras estatales, caminos rurales, libramientos y periféricos;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-II. Fijar o usar anuncios fuera de las zonas autorizadas por el Organismo, conforme a lo dispuesto por esta Ley y demás ordenamientos legales aplicables;
+I. Colocar anuncios o realizar obras con fines de publicidad que puedan confundirse con cualquier otra clase de señal instalada por la Entidad a lo largo de las carreteras estatales, caminos rurales, libramientos y periféricos;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+II. Fijar o usar anuncios fuera de las zonas autorizadas por la Entidad conforme a esta Ley y los demás ordenamientos legales aplicables;
 
 III. Emplear en los textos de los anuncios las palabras "alto", "siga", "peligro", "pare", "crucero" y otras análogas, que pudieran provocar confusión en los conductores de vehículos;
 
@@ -543,9 +661,9 @@ IV. Utilizar anuncios resplandecientes o con luces en las superficies de los mis
 
 V. Usar colores predominantes que dificulten la visibilidad de los conductores de vehículos que transiten en las vías terrestres de jurisdicción estatal;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-VI. Utilizar las obras auxiliares construidas en las carreteras, caminos, libramientos y periféricos, para fijar o pintar anuncios o cualquier clase de propaganda, excepto en los puentes y pasos peatonales que se ubiquen en libramientos, periféricos y zonas urbanas, para reforzar la seguridad de los peatones, debiendo en este último caso, obtener autorización de la Dependencia;
+VI. Utilizar las obras auxiliares construidas en las carreteras, caminos, libramientos y periféricos, para fijar o pintar anuncios o cualquier clase de propaganda, excepto en los puentes y pasos peatonales que se ubiquen en libramientos, periféricos y zonas urbanas, para reforzar la seguridad de los peatones;
 
 VII. Usar anuncios con materiales que ofrezcan baja resistencia al aire;
 
@@ -575,11 +693,15 @@ I. Responder por los daños que pudieran causar a las carreteras estatales, cami
 
 II. Garantizar la seguridad y cuidar la estética en las obras que construyan;
 
-III. Permitir las inspecciones que ordene el Organismo y contribuir para el desarrollo de las mismas;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+III. Permitir las inspecciones que ordene la Entidad y contribuir a su desarrollo;
 
 IV. Realizar únicamente las obras aprobadas en el permiso; y
 
-V. Desocupar el derecho de vía de que se trate, cuando el Organismo lo solicite por causa justificada.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+V. Desocupar el derecho de vía de que se trate, cuando la Entidad lo solicite por causa justificada.
 
 ### CAPÍTULO III. DE LAS CAUSAS DE TERMINACIÓN DE LA CONCESIÓN Y EL PERMISO
 
@@ -615,25 +737,35 @@ IV. La falta de pago de la contraprestación que corresponda;
 
 V. No construir o no establecer, dentro de los plazos señalados en las concesiones o permisos, la parte o totalidad del camino u obras convenidas;
 
-VI. Obstaculizar u oponerse, el permisionario o concesionario, a las inspecciones y supervisiones que realice el Organismo;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+VI. Obstaculizar u oponerse a las inspecciones y verificaciones que, en su caso, deba realizar la Entidad;
 
 VII. El cambio de lugar originalmente autorizado para la construcción de la obra o instalación de que se trate;
 
-VIII. Ceder, hipotecar, gravar o transferir las concesiones o permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, sin la autorización previa del Ejecutivo del Estado o del Organismo, según corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE ENERO DE 2021)</small>
+
+VIII. Ceder, hipotecar, gravar o transferir las concesiones o permisos, los derechos en ellos conferidos o los bienes afectos a ellos, sin la autorización previa del Titular del Poder Ejecutivo del Estado o de la Entidad, según corresponda.
 
 En la autorización de que se trate, deberá hacerse constar que el adquirente cumple los requisitos establecidos en esta Ley, en su reglamento, en la concesión y en los demás ordenamientos legales aplicables;
 
 IX. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios o daños a terceros, según el caso;
 
-X. Tratándose de accesos, cruzamientos e instalaciones marginales, no sujetarse a las especificaciones técnicas contenidas en el proyecto autorizado por el Organismo en el permiso que para tal efecto se otorgue;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+X. Tratándose de accesos, cruzamientos e instalaciones marginales, no sujetarse a las especificaciones técnicas contenidas en el proyecto autorizado por la Entidad o en el permiso que para tal efecto se otorgue;
 
 XI. Prestar servicios distintos a los señalados en el permiso respectivo;
 
-XII. Modificar o alterar la naturaleza o condiciones de las vías terrestres de jurisdicción estatal o sus servicios auxiliares sin la autorización del Organismo;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XII. Modificar o alterar la naturaleza o condiciones de las vías terrestres de jurisdicción estatal o sus servicios auxiliares sin la autorización de la Entidad;
 
 XIII. Tratándose de anuncios y obras con fines publicitarios:
 
-a) Cambiar los textos sin dar aviso al Organismo, y
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+a) Cambiar los textos sin dar aviso a la Entidad, y
 
 b) El incumplimiento del pago de derechos y demás obligaciones pecuniarias;
 
@@ -649,29 +781,37 @@ XV. Las demás previstas por los ordenamientos legales y disposiciones administr
 
 El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de cinco años, contados a partir de que hubiere quedado firme la resolución respectiva.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 58.
 
-Cuando surja o se incurra en algunas de las causas a que se refiere el artículo 56, el Organismo notificará al permisionario o concesionario y previo a la resolución de revocación, se concederá al interesado un término de quince días hábiles para expresar lo que a su derecho corresponda y ofrecer pruebas ante el Organismo. Concluido este término, el Ejecutivo del Estado, en el caso de concesiones o el Organismo, en el caso de permisos, dictará en un plazo no mayor de diez días hábiles la resolución definitiva que corresponda.
+Cuando surja o se incurra en algunas de las causas a que se refiere el artículo 56, la Entidad notificará al permisionario o concesionario y, previamente a la resolución de revocación, se concederá al interesado un término de quince días hábiles para expresar lo que a su derecho corresponda y ofrecer pruebas ante la Entidad. Concluido este término, el Titular del Poder Ejecutivo del Estado, en el caso de concesiones, o la Entidad, en el caso de permisos, dictará, en un plazo no mayor de diez días hábiles, la resolución definitiva que corresponda.
 
-Para el caso de los permisos, en la resolución que dicte el Organismo para revocar éste, se ordenará el retiro del anuncio o el desmantelamiento de la obra que ocupe el derecho de vía, señalando al interesado un plazo de quince días hábiles para cumplirla. En caso de incumplimiento, el Organismo realizará el desmantelamiento de la obra con cargo al permisionario según se trate, y en su caso, podrá solicitar el auxilio de la fuerza pública, sin perjuicio de cualquier otra responsabilidad en que este pudiere incurrir.
+Para el caso de los permisos, en la resolución que dicte la Entidad para revocarlos se ordenará el retiro del anuncio o el desmantelamiento de la obra que ocupe el derecho de vía, señalando al interesado un plazo de quince días hábiles para cumplirla. En caso de incumplimiento, la Entidad realizará el desmantelamiento de la obra con cargo al permisionario, según se trate, y, en su caso, podrá solicitar el auxilio de la fuerza pública, sin perjuicio de cualquier otra responsabilidad en que este pudiere incurrir.
 
 ## TÍTULO QUINTO. DEL APROVECHAMIENTO DEL DERECHO DE VÍA
 
 ### CAPÍTULO I. DE LOS PARADORES
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 59.
 
-El Organismo definirá en qué vías terrestres de jurisdicción estatal, se requiere la instalación de paradores.
+La Entidad definirá en qué vías terrestres de jurisdicción estatal se requerirá la instalación de paradores.
 
-Para la instalación de paradores, los particulares podrán presentar su solicitud al Organismo, el cual resolverá en el término establecido en esta Ley.
+Para la instalación de paradores, los particulares podrán presentar su solicitud a la Entidad, la cual resolverá en el término establecido en esta Ley.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 60.
 
-El permisionario podrá realizar la explotación del parador directamente o a través de las personas que designe, previa notificación al Organismo, pero en todo caso, el responsable ante éste será el titular del permiso.
+El permisionario podrá realizar la explotación del parador directamente o a través de las personas que designe, previa notificación a la Entidad, pero, en todo caso, el responsable ante esta será el titular del permiso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 61.
 
-El interesado en construir un parador, deberá presentar además de lo señalado en el artículo 43 de esta Ley lo siguiente:
+El interesado en obtener el permiso para el desarrollo de obras para la construcción, modificación o ampliación de paradores, en términos del artículo 43, fracción II, de esta Ley, deberá presentar en la Entidad, además de los previstos en el artículo 44 de esta Ley, los siguientes documentos:
 
 I. Plano general de construcción;
 
@@ -679,7 +819,9 @@ II. Plano de las instalaciones sanitarias, y
 
 III. Descripción de las instalaciones, calendarizando el programa de obras.
 
-El Organismo revisará los planos para verificar que no se afecte la vía terrestre de jurisdicción estatal y la seguridad de los usuarios.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+La Entidad revisará los planos para verificar que no se afecte la vía terrestre de jurisdicción estatal y la seguridad de los usuarios.
 
 ###### ARTÍCULO 62.
 
@@ -689,13 +831,17 @@ El permiso incluirá la autorización para la ubicación del parador, proyectos 
 
 Previo a la obtención del permiso, el interesado deberá cubrir los derechos que señale la Ley Fiscal respectiva, por concepto de revisión de planos y supervisión de las obras.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 64.
 
-La vigencia del permiso será por el tiempo que determine el Organismo y concluirá por las causas previstas en el mismo o en esta Ley.
+La vigencia del permiso será por el tiempo que determine la Entidad y concluirá por las causas previstas en él, de conformidad con lo establecido en esta Ley.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 65.
 
-El titular del permiso podrá ceder todos los derechos y obligaciones del mismo, previa autorización del Organismo.
+El titular del permiso podrá ceder todos los derechos y obligaciones que en él se establezcan, previa autorización de la Entidad.
 
 ###### ARTÍCULO 66.
 
@@ -705,13 +851,15 @@ Para la construcción y explotación de los paradores, los concesionarios deber�
 
 ### CAPÍTULO II. DE LA INSTALACIÓN DE ANUNCIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 67.
 
-Para la instalación de anuncios o construcción de obras, con fines de publicidad dentro del perímetro de la franja de terreno que comprende el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, se requiere permiso del Organismo y se sujetará a lo siguiente:
+Para la instalación de anuncios o construcción de obras con fines de publicidad dentro del perímetro de la franja de terreno que comprende el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, se requiere permiso de la Entidad y se estará sujeto a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE ENERO DE 2021)</small>
 
-I. Sólo se autorizará la instalación y construcción en las zonas que fije la Dependencia.
+I. Sólo se autorizará la instalación y construcción en las zonas que fije la Entidad.
 
 Las zonas se determinarán conforme al siguiente criterio:
 
@@ -725,19 +873,23 @@ c) En las zonas de curvas, cruceros de ferrocarril y cambios de alineamiento hor
 
 II. El ángulo en el que se colocarán los anuncios dentro de las zonas señaladas, será de cero a veinte grados respecto al eje normal de la carretera, camino, libramiento o periférico.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 68.
 
-En las vías terrestres de jurisdicción estatal y en las concesionadas, sólo se permitirá la instalación de anuncios en aquellas zonas que determine el Organismo. El contenido de los anuncios se sujetará a lo que señalen las leyes respectivas y tratándose de propaganda política, se estará a lo que establezca la Ley de la materia y demás ordenamientos legales aplicables.
+En las vías terrestres de jurisdicción estatal y en las concesionadas solo se permitirá la instalación de anuncios en aquellas zonas que determine la Entidad. El contenido de los anuncios se sujetará a lo que señalen las leyes respectivas y, tratándose de propaganda política, se estará a lo que establezca la Ley de la materia y los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 69.
 
-El interesado en obtener permiso para la instalación de anuncios, deberá presentar además:
+Para obtener el permiso para la instalación de anuncios o la construcción de obras con fines de publicidad, en términos del artículo 43, fracción VI; de esta Ley, los interesados deberán presentar en la Entidad, además de los previstos en el artículo 44 de esta Ley, los siguientes documentos:
 
-I. Descripción del anuncio;
+I. Plano del proyecto constructivo solicitado, de acuerdo a la normatividad de la Secretaría de Comunicaciones y Transportes. El plano deberá entregarse impreso y en disco compacto, en el formato digital que determine la Entidad.
 
-II. Croquis de ubicación del anuncio, y
+II. Memoria descriptiva del cálculo que avale la estabilidad del anuncio, con base en una velocidad máxima del viento de 110 kilómetros por hora.
 
-III. Señalar si existen o no instalaciones de anuncios en el área.
+III. Póliza del seguro por daños a terceros.
 
 ###### ARTÍCULO 70.
 
@@ -761,81 +913,93 @@ II. Estar redactado en lenguaje claro y accesible en idioma español. Sólo se a
 
 III. En las zonas de alto índice turístico podrá incluirse la traducción del texto en español a otro lenguaje extranjero o dialecto;
 
-IV. Estar exento de expresiones o imágenes obscenas y su contenido no deberá ser mayor de diez palabras, sin contar el mensaje vial, y (sic)
+IV. Estar exento de expresiones o imágenes obscenas y su contenido no deberá ser mayor de diez palabras, sin contar el mensaje vial, y
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
 V. Para el caso de los anuncios denominados espectaculares, estos deberán ser fijados fuera del límite del derecho de vía de las carreteras estatales, libramientos o periféricos, de tal manera que ningún elemento del mismo se proyecte sobre el área del derecho de vía; esto es, para evitar que, a consecuencia de algún accidente este tipo de anuncio invada las vialidades adyacentes a su ubicación;
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-VI. Para cualquier tipo de anuncio u obra publicitaria se deberá dar el debido cumplimiento a las medidas de seguridad y cálculo estructural que emita la Dependencia, éstas serán de inmediata ejecución, tendrán carácter preventivo y podrán aplicarse sin perjuicio de las sanciones administrativas que, en su caso, correspondan. Al dictarse las medidas por la Dependencia, se indicará su temporalidad y las acciones a implementar, a fin de que se pueda ordenar, si el caso lo requiere, el levantamiento o reubicación de las mismas en caso de que procediera de acuerdo a un dictamen emitido por la propia Dependencia;
+VI. Para cualquier tipo de anuncio u obra publicitaria se deberá dar el debido cumplimiento a las medidas de seguridad y cálculo estructural que emita la Entidad. Estas serán de inmediata ejecución, tendrán carácter preventivo y podrán aplicarse sin perjuicio de las sanciones administrativas que, en su caso, correspondan. Al dictarse las medidas por la Entidad, se indicará su temporalidad y las acciones a implementar, a fin de que se pueda ordenar, si el caso lo requiere, el levantamiento o reubicación de las obras, en caso de que procediera, de acuerdo con el dictamen emitido por la propia Entidad;
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
-
-VII. La Dependencia podrá suspender, clausurar, demoler o retirar los anuncios en ejecución o ya colocados en los siguientes casos:
-
-a) Cuando su colocación, construcción, instalación o rotulación se ejecute sin el permiso correspondiente;
-
-b) Cuando haya concluido la vigencia del permiso y en los casos que expresamente lo ordene la Dependencia con base a lo dispuesto en la presente Ley;
-
-c) Cuando no se dé cumplimiento a una orden ya notificada, dentro del plazo fijado para tal efecto, y
-
-d) Cuando su colocación, construcción o instalación, se ejecute sin ajustarse al proyecto aprobado o fuera de las condiciones previstas en esta Ley.
+VII. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
 > <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2007)</small>
 
 VIII. Los demás requisitos que se establezcan en esta Ley, los permisos y otros ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+ARTÍCULO 73 BIS. La Entidad podrá suspender, clausurar, demoler o retirar los anuncios en ejecución o ya colocados, en los siguientes casos:
+
+I. Cuando su colocación, construcción, instalación o rotulación se ejecute sin el permiso correspondiente;
+
+II. Cuando haya concluido la vigencia del permiso y en los casos que expresamente lo ordene la Entidad, con base en lo dispuesto en esta Ley;
+
+III. Cuando no se dé cumplimiento a una orden ya notificada dentro del plazo fijado para tal efecto, y
+
+IV. Cuando su colocación, construcción o instalación se ejecute sin ajustarse al proyecto aprobado o fuera de las condiciones previstas en esta Ley.
+
 ###### ARTÍCULO 74.
 
 Los anuncios deberán tener un máximo de treinta metros cuadrados de superficie destinada a su objeto y no más de cincuenta metros cuadrados de superficie total.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-Los anuncios deberán ostentar en el ángulo inferior izquierdo el número de licencia que para su instalación hubiere otorgado el Organismo.
+Los anuncios deberán ostentar en el ángulo inferior izquierdo el número de licencia que hubiera otorgado la Entidad para su instalación.
 
 ### CAPÍTULO III. DE LAS SEÑALES DE TRÁNSITO E INFORMATIVAS
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 76.
 
-Los solicitantes en obtener permiso para la instalación de señales informativas deberán presentar:
+Para obtener el permiso para la instalación de señales de tránsito e informativas, en términos del artículo 43, fracción V, de esta Ley, los interesados deberán presentar en la Entidad, además de los documentos previstos en el artículo 44 de esta ley, un dibujo descriptivo y el texto de la señal a instalar, según el manual de señalización vial y dispositivos de seguridad que emita la autoridad competente; e indicar en el croquis correspondiente si existen o no otras señales de tránsito o informativas en el área respectiva.
 
-I. Solicitud por escrito;
+El trámite para obtener el permiso a que se refiere este artículo se desarrollará, de conformidad con el artículo 45 de esta Ley, de manera presencial, en las oficinas de la Entidad, o bien, en línea, a través de la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, administrada por la Secretaría de Administración y Finanzas, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
 
-II. Croquis y texto de la señal, y
-
-III. Ubicación de la misma.
+El permiso a que se refiere este artículo tendrá una vigencia de un año. Después de su vencimiento, el interesado contará con un plazo de treinta días naturales para renovarlo. En caso de que el interesado no lo hiciera, o bien, de que no pagara anualmente las contraprestaciones que determine la Entidad para la permanencia de la señal, esta se retirará y se resguardará por un plazo de sesenta días naturales, para reclamo. Concluido este plazo, pasará a ser parte de la Entidad.
 
 ###### ARTÍCULO 77.
 
 Las señales deberán observar las características que indica el Manual de Dispositivos de Control de Tránsito en Calles y Carreteras y colocarse en posición vertical a noventa grados con respecto al eje de la vía.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 78.
 
-El Organismo deberá instalar las señales de tránsito e informativas de acuerdo a la normatividad que corresponda.
+La Entidad deberá instalar las señales de tránsito e informativas de acuerdo con la normatividad que corresponda.
 
 ###### ARTÍCULO 79.
 
 Las señales de tránsito e informativas deberán cumplir con las normas de Vialidad que correspondan y con las normas técnicas en cuanto a la dimensión y características que deban tener.
 
-## TÍTULO SEXTO. DE LAS VISITAS DE INSPECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
+
+## TÍTULO SEXTO. DE LAS VISITAS DE INSPECCIÓN Y VERIFICACIÓN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 80.
 
-El Organismo tendrá a su cargo la inspección y vigilancia para garantizar el cumplimiento de esta Ley y demás ordenamientos legales aplicables. Para tal efecto podrán requerir en cualquier tiempo a los concesionarios o permisionarios, informes de los datos técnicos, administrativos, financieros y estadísticos, que permitan al Organismo conocer la forma de operar y explotar las vías y sus servicios auxiliares.
+La Entidad tendrá a su cargo la inspección y vigilancia para garantizar el cumplimiento de esta Ley y los demás ordenamientos legales aplicables. Para tal efecto, podrá requerir en cualquier tiempo a los concesionarios o permisionarios informes de los datos técnicos, administrativos, financieros y estadísticos que le permitan conocer la forma de operar y explotar las vías terrestres y sus servicios auxiliares.
 
-Asimismo, el Organismo, en coordinación con la autoridad de transporte, podrá inspeccionar o verificar que se cumplan con las disposiciones sobre pesos, dimensiones y de seguridad en las vías de jurisdicción estatal.
+Asimismo, la Entidad, en coordinación con la autoridad de transporte, podrá inspeccionar o verificar que se cumplan con las disposiciones sobre pesos, dimensiones y de seguridad en las vías de jurisdicción estatal.
 
-Para el cumplimiento de esta Ley y demás ordenamientos legales, el Organismo podrá auxiliarse de la Secretaría de Protección y Vialidad o de la dependencia que ejerza sus funciones.
+Para el cumplimiento de esta Ley y los demás ordenamientos legales, la Entidad podrá auxiliarse de la Secretaría de Seguridad Pública o de la dependencia que ejerza sus funciones.
 
 ###### ARTÍCULO 81.
 
 Las visitas de inspección se practicarán en días y horas hábiles, por inspectores autorizados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Sin embargo, podrán practicarse inspecciones en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso se deberán habilitar en la orden de visita.
 
-Los concesionarios o permisionarios de carreteras estatales, caminos rurales, libramientos o periféricos y sus servicios auxiliares, están obligados a proporcionar a los inspectores designados por el Organismo, todas las facilidades para las visitas de inspección, así como los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por el Organismo. La información que se proporcione tendrá el carácter de confidencial.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los concesionarios o permisionarios de carreteras estatales, caminos rurales, libramientos o periféricos, y de sus servicios auxiliares, están obligados a proporcionar a los inspectores designados por la Entidad todas las facilidades para las visitas de inspección o verificación, así como los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por la Entidad. Asimismo, deberán cumplir con todo lo dispuesto en el artículo 107 de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán. La información que se proporcione tendrá el carácter de confidencial.
 
 ###### ARTÍCULO 82.
 
@@ -865,21 +1029,45 @@ IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos, y omisio
 
 Una vez elaborada el acta, el inspector proporcionará una copia de la misma a la persona que atendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
 
-El visitado contará con un término de diez días hábiles para que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de esta Ley. Con vista en ellas o a falta de su presentación, el Organismo dictará la resolución correspondiente en un término que no podrá exceder de sesenta días hábiles.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El visitado contará con un término de diez días hábiles para presentar las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de esta Ley. Con vista en ellas, o a falta de su presentación, la Entidad dictará la resolución correspondiente en un término que no podrá exceder de sesenta días hábiles.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Agotados los medios de apremio previstos en el artículo 101 de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, y sin que se hubiese logrado la práctica de la visita de inspección o verificación, la Entidad, con base en los documentos, órdenes de visita y actas circunstanciadas levantadas, denunciará la comisión de los hechos posiblemente delictivos ante la autoridad competente.
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS
 
 ### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 84.
 
-Las infracciones serán sancionadas por el Organismo, de acuerdo a las circunstancias concretas del caso, con multa de diez a quinientas veces el salario mínimo general vigente en el Estado y en caso de reincidencia, la sanción se duplicará.
+Las sanciones administrativas por infracciones a esta Ley serán impuestas por la Entidad, de acuerdo con las circunstancias concretas del caso que corresponda, y podrán ser las siguientes:
 
-La revocación o suspensión de las concesiones corresponderá al Ejecutivo del Estado y la de los permisos al Organismo.
+I. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Multa adicional por cada día que persista la infracción;
+
+IV. Clausura temporal o permanente, parcial o total;
+
+V. Suspensión de actividades, y
+
+VI. Revocación o suspensión de concesiones o permisos.
+
+La Entidad, según el caso de que se trate, podrá imponer una o varias de las sanciones administrativas a que se refiere este artículo. En caso de reincidencia, la sanción se duplicará.
+
+La revocación o suspensión de las concesiones corresponderá al Titular del Poder Ejecutivo del Estado y la de los permisos a la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 85.
 
-Al imponerse las sanciones el Organismo deberá considerar:
+Al imponerse las sanciones, la Entidad deberá considerar:
 
 I. La gravedad de la infracción;
 
@@ -887,33 +1075,37 @@ II. Los daños causados, y
 
 III. La reincidencia.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 86.
 
-Para los efectos de esta Ley son infracciones:
+Para los efectos de esta Ley, son infracciones:
 
-I. Realizar cualquier tipo de obra o instalación en el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, o en lugares que pudiesen afectar la seguridad de estas vías; se sancionará con multa de cien a doscientos días de salario mínimo general vigente en el Estado;
+I. Realizar cualquier tipo de obra o instalación en el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos, o en lugares que pudiesen afectar la seguridad de estas vías, sin contar con concesión o permiso de la Entidad. Esta infracción se sancionará con multa de quinientas a cinco mil unidades de medida y actualización;
 
-II. Ocupar o aprovechar el derecho de vía sin contar con la concesión o permiso del Organismo; se sancionará con multa de doscientos a quinientos días de salario mínimo general vigente en el Estado;
+II. Ocupar o aprovechar el derecho de vía sin contar con concesión o permiso de la Entidad. Esta infracción se sancionará con multa de quinientas a cinco mil unidades de medida y actualización;
 
-III. Efectuar obras o cualquier acto que modifique o altere las condiciones del permiso, sin la previa autorización del Organismo; se sancionará con multa de cincuenta a doscientos cincuenta días de salario mínimo general vigente en el Estado;
+III. Efectuar obras o cualquier acto que modifique o altere las condiciones del permiso, sin la previa autorización de la Entidad. Esta infracción se sancionará con multa de doscientas a quinientas unidades de medida y actualización;
 
-IV. Dejar de cumplir con las obligaciones de conservar las obras e instalaciones autorizadas en el permiso o en la concesión; se sancionará con multa de doscientos cincuenta a quinientos días de salario mínimo general vigente en el Estado;
+IV. Dejar de cumplir con las obligaciones de conservar las obras e instalaciones autorizadas en la concesión o el permiso. Esa infracción se sancionará con multa de doscientas cincuenta a quinientas unidades de medida y actualización;
 
-V. Causar daños a bienes propiedad del Estado o de terceros o que afecten la seguridad de las vías, con motivo de la construcción de cualquier tipo de obras en el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos; se sancionará con multa de trescientos a quinientos días de salario mínimo general vigente en el Estado o suspensión de quince a treinta días, de la concesión o permiso, según corresponda;
+V. Causar daños a bienes propiedad del Estado o de terceros, o que afecten la seguridad de las vías terrestres, con motivo de la construcción de cualquier tipo de obras en el derecho de vía de las carreteras estatales, caminos rurales, libramientos y periféricos. Esta infracción se sancionará con multa de quinientas a cinco mil unidades de medida y actualización, o con suspensión de quince a treinta días de la concesión o del permiso, según corresponda;
 
-VI. Incumplir la orden dictada y justificada por el Organismo de suspender la obra o retirar un anuncio; se sancionará con multa de ciento cincuenta a trescientos días de salario mínimo general vigente en el Estado;
+VI. Incumplir la orden dictada y justificada por la Entidad para suspender la obra o retirar un anuncio. Esta infracción se sancionará con multa de ciento cincuenta a trescientas unidades de medida y actualización;
 
-VII. No proporcionar la información que le solicite el Ejecutivo del Estado o el Organismo, en relación con las obras o actividades inherentes a la concesión o permiso; se sancionará con multa de cincuenta a cuatrocientos días de salario mínimo general vigente del Estado o suspensión de quince a treinta días;
+VII. No proporcionar la información que le solicite el Titular del Poder Ejecutivo del Estado o la Entidad en relación con las obras o actividades inherentes a la concesión o el permiso. Esta infracción se sancionará con multa de cincuenta a cuatrocientas unidades de medida y actualización, o con suspensión de quince a treinta días de la concesión o del permiso;
 
-VIII. Tratándose de anuncios y señales informativas, continuar ejerciendo los derechos derivados del permiso sin cubrir la cuota anual correspondiente se sancionará con multa de hasta cien días de salario mínimo general vigente del Estado, y
+VIII. Tratándose de anuncios y señales informativas, continuar ejerciendo los derechos derivados del permiso sin cubrir la cuota anual correspondiente. Esta infracción se sancionará con multa de hasta cien unidades de medida y actualización, y
 
-IX. Las demás previstas en esta Ley, en la concesión o permiso, serán sancionadas con multa de diez a quinientos días de salario mínimo vigente en el Estado o con suspensión de quince a treinta días.
+IX. Las demás previstas en esta Ley, en la concesión o el permiso, que serán sancionadas con multa de diez a quinientas unidades de medida y actualización, o con suspensión de quince a treinta días de la concesión o del permiso.
 
-Las sanciones que se señalan se podrán interponer sin perjuicio de cualquier responsabilidad civil o penal.
+Las sanciones dispuestas en este artículo se podrán interponer sin perjuicio de cualquier responsabilidad civil o penal que corresponda.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 87.
 
-Comprobadas que fueren las infracciones, el Organismo dictará la resolución correspondiente y notificará al infractor por escrito en el domicilio señalado por éste para oír y recibir notificaciones y en caso de ausencia, por los medios establecidos en los ordenamientos legales aplicables para tal efecto.
+Comprobadas que fueren las infracciones, la Entidad dictará la resolución correspondiente y notificará al infractor por escrito en el domicilio señalado por este para oír y recibir notificaciones y, en caso de ausencia, por los medios establecidos en los ordenamientos legales aplicables para tal efecto.
 
 ###### ARTÍCULO 88.
 
@@ -923,9 +1115,11 @@ Las sanciones pecuniarias se deberán liquidar en un plazo no mayor de treinta d
 
 El que sin haber previamente obtenido concesión o permiso, opere o explote vías terrestres de jurisdicción estatal o sus servicios auxiliares, perderá en beneficio del Estado las obras ejecutadas y las instalaciones establecidas.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 90.
 
-Una vez que el Organismo tenga conocimiento de lo señalado en el artículo anterior, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas, poniéndola bajo la guarda de un interventor, previo inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un término de quince días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes, en su caso; pasado dicho término, el Ejecutivo del Estado o el Organismo, según corresponda, dictará la resolución fundada y motivada que proceda.
+Una vez que la Entidad tenga conocimiento de lo señalado en el artículo anterior, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas, poniéndolas bajo la guarda de un interventor, previo inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un término de quince días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes, en su caso. Pasado dicho término, el Titular del Poder Ejecutivo del Estado o la Entidad, según corresponda, dictará la resolución fundada y motivada que proceda.
 
 ###### ARTÍCULO 91.
 
@@ -933,19 +1127,21 @@ El monto de las sanciones administrativas que se impongan será garantizado con 
 
 ### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 92.
 
-En contra de las resoluciones que dicte el Ejecutivo del Estado o el Organismo, según corresponda, con base en esta Ley y demás ordenamientos legales aplicables, el interesado podrá interponer el recurso de reconsideración dentro del término de cinco días hábiles, contados a partir del día siguiente en que le fue notificada dicha resolución, el cual tramitará conforme al siguiente procedimiento:
+En contra de las resoluciones que dicte el Titular del Poder Ejecutivo del Estado o la Entidad, según corresponda, con base en esta Ley y los demás ordenamientos legales aplicables, el interesado podrá interponer el recurso de reconsideración, dentro del término de cinco días hábiles, contados a partir del día siguiente en que le fue notificada dicha resolución, el cual tramitará conforme al siguiente procedimiento:
 
-I. Se interpondrá por conducto del interesado o su representante legal ante el Ejecutivo del Estado u Organismo, según corresponda, mediante escrito en el que exprese sus generales, el domicilio para oír y recibir notificaciones en la instancia, los agravios que el acto impugnado le cause, ofreciendo las pruebas que considere necesarias para sustentar su dicho, siempre que tengan relación con los hechos en los que el recurrente funde su reclamación;
+I. Se interpondrá por conducto del interesado o su representante legal ante el Titular del Poder Ejecutivo del Estado o la Entidad, según corresponda, mediante escrito en el que exprese sus generales, el domicilio para oír y recibir notificaciones en la instancia y los agravios que el acto impugnado le cause, y ofreciendo las pruebas que considere necesarias para sustentar su dicho, siempre que tengan relación con los hechos en los que el recurrente funde su reclamación;
 
-II. El Ejecutivo del Estado o el Organismo, según corresponda, procederá al desahogo de las pruebas dentro del plazo de quince días hábiles, a partir de la fecha de presentación del recurso;
+II. El Titular del Poder Ejecutivo del Estado o la Entidad, según corresponda, procederá al desahogo de las pruebas dentro del plazo de quince días hábiles, a partir de la fecha de presentación del recurso;
 
-III. Vencido el plazo para el desahogo de pruebas, el Organismo dictará resolución en un término que no excederá de quince días hábiles, y
+III. Vencido el plazo para el desahogo de pruebas, el Titular del Poder Ejecutivo del Estado o la Entidad dictará resolución en un término que no excederá de quince días hábiles, y
 
-IV. Las resoluciones dictadas por el Ejecutivo del Estado o el Organismo, se notificarán por escrito y en forma personal a los interesados, en el domicilio señalado para tal efecto.
+IV. Las resoluciones dictadas por el Titular del Poder Ejecutivo del Estado o la Entidad se notificarán por escrito y en forma personal a los interesados, en el domicilio señalado para tal efecto.
 
-Lo no previsto en el procedimiento establecido en este artículo, se ajustará a lo que dispongan los ordenamientos legales aplicables.
+Lo no previsto en el procedimiento establecido en este artículo se ajustará a lo que dispongan los ordenamientos legales aplicables.
 
 ## TRANSITORIOS
 
@@ -992,3 +1188,29 @@ Este Decreto entrará vigor el primer día hábil del mes de enero del año 2008
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a este Decreto.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA".].
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto.
+
+Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
