@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2019-07-31"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -79,7 +79,9 @@ II.- La conservación, protección y el manejo de los sistemas ecológicos;
 
 III.- La prevención, regulación y control de las actividades industriales, agropecuarias, comerciales, de servicios y demás que contaminen el ambiente; así como el cuidado, restauración y aprovechamiento de los recursos naturales y de ecosistemas necesarios para asegurar dichos recursos;
 
-IV.- La regulación, vigilancia y gestión integral de los residuos urbanos y especiales;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IV.- La regulación, vigilancia y gestión integral de los residuos urbanos y de manejo especial;
 
 V.- El establecimiento, regulación, manejo, preservación y restauración de las áreas naturales protegidas en el Estado; las zonas prioritarias de preservación y restauración ecológica de los centros de población; así como otras zonas que se consideren de importancia para la continuidad de los procesos ecológicos, y
 
@@ -123,7 +125,9 @@ IX.- Centro de verificación: unidad fija o móvil determinada y autorizada por 
 
 X.- Contaminación: presencia en el ambiente de cualquier agente físico, químico o biológico o bien de una combinación de varios agentes en lugares, formas y concentraciones tales que sean o puedan ser nocivos para la salud, la seguridad o para el bienestar de la población; o que puedan ser perjudiciales para la vida vegetal o animal; o impidan el uso normal de las propiedades y lugares de recreación, y el goce de los mismos;
 
-XI.- Contaminante: toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural y que puedan afectar la salud, la higiene o el bienestar público;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XI.- Contaminante: toda materia o energía, en cualquiera de sus estados físicos y formas, que, al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural, y que pueda afectar la salud, la higiene, el bienestar público o los ecosistemas;
 
 XII.- Contingencia ambiental: ocurrencia de un evento de riesgo, derivada de actividades humanas o de fenómenos ambientales que ocasionan un daño ambiental o ponen en peligro la integridad de uno o varios ecosistemas;
 
@@ -135,7 +139,9 @@ XV.- Daño ambiental: toda pérdida, disminución, detrimento o menoscabo inferi
 
 XVI.- Delito ambiental: conducta descrita en una norma de carácter penal cuya consecuencia es la degradación del medio ambiente, de la salud de la población y de la calidad de vida de la misma, y que se encuentra sancionada con una pena expresamente determinada;
 
-XVII.- Denuncia ciudadana: derecho de la sociedad mediante el cual una persona o la Secretaría de Desarrollo Urbano y Medio Ambiente, así como de los municipios, cualquier acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos ambientales aplicables;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XVII.- Denuncia ciudadana: derecho de la sociedad mediante el cual una persona, la Secretaría de Desarrollo Sustentable o los municipios pueden hacer del conocimiento de las autoridades competentes cualquier acto u omisión que produzca o pueda producir desequilibrio ecológico, daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos ambientales aplicables;
 
 XVIII.- Desarrollo sustentable: proceso evolutivo sustentado en el equilibrio ecológico y el soporte vital de la región, con respeto pleno a la integridad étnica y cultural regional, nacional y local, así como en el fortalecimiento de la participación de la sociedad, en convivencia pacífica y en armonía con la naturaleza garantizando la calidad de vida de las generaciones futuras;
 
@@ -233,9 +239,25 @@ LXIII.- Riesgo: probabilidad o posibilidad de que el manejo, la liberación al a
 
 LXIV.- Secretaría: Secretaría de Desarrollo Sustentable;
 
-LXV.- Talud: inclinación del paramento de un muro o de un terreno; vertiente rápida submarina que desciende desde el borde de la plataforma continental hasta profundidades de 2000 metros o más, y
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-LXVI.- Zona de Amortiguamiento: región próxima al borde de un área protegida; zona de transición entre zonas administrativas para alcanzar diferentes objetivos.
+LXV.- Talud: inclinación del paramento de un muro o de un terreno, o vertiente rápida submarina que desciende desde el borde de la plataforma continental hasta profundidades de 2000 metros o más;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+LXVI.- Zona de amortiguamiento: región próxima al borde de un área protegida o zona de transición entre zonas administrativas, para alcanzar diferentes objetivos;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+LXVII.- Límite máximo permisible: es la medida de la concentración o grado de elementos, sustancias o parámetros físicos, químicos y biológicos que caracterizan a un efluente o una emisión y que al ser excedidos causan o pueden causar daños a la salud, al bienestar humano y al medio ambiente;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+LXVIII.- Licencia Ambiental Única: el instrumento por el que se evalúa y autoriza el funcionamiento de fuentes fijas de emisiones contaminantes, planes de manejo de residuos de manejo especial o proyectos ejecutivos para el manejo de residuos de manejo especial que sean de competencia estatal, mediante la tramitación de un solo procedimiento que ampare las autorizaciones emitidas en la normatividad ambiental vigente, y
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+LXIX.- Exención de manifiesto de impacto ambiental: es el instrumento a través de cual se autoriza la realización de obras o actividades por ampliaciones, modificaciones, sustitución de infraestructura, rehabilitación o mantenimiento de instalaciones, en las cuales se demuestre que su ejecución no causará desequilibrios ecológicos, tomando en consideración la preservación y restauración de los ecosistemas.
 
 ### CAPÍTULO II. De las Autoridades Ambientales
 
@@ -277,7 +299,9 @@ IX.- Formular, expedir, ejecutar, evaluar y vigilar el cumplimiento de los Progr
 
 X.- Recibir, y en su caso admitir o desechar el Informe preventivo o la Manifestación de Impacto Ambiental de las obras o actividades que puedan dañar o contaminar el ambiente que sean de competencia estatal, para iniciar el procedimiento de autorización en materia de impacto ambiental y posteriormente autorizar o negar conforme a los resultados de la evaluación que se haga a los estudios;
 
-XI.- Recibir, evaluar y resolver acerca de los estudios de riesgo;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XI.- Recibir, evaluar y resolver acerca de los Estudios de Riesgo y la Licencia Ambiental Única;
 
 XII.- Evaluar las obras y actividades de carácter social para determinar el impacto de su desarrollo al medio ambiente, para autorizarlas o requerir el estudio correspondiente;
 
@@ -301,9 +325,13 @@ XXI.- Regular, prevenir y controlar las actividades riesgosas cuando éstas afec
 
 XXII.- Regular, prevenir y controlar la contaminación del aire, suelo y agua, en los asuntos de su competencia;
 
-XXIII.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales o agroindustriales, así como por fuentes móviles que no sean de competencia federal;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XXIV.- Autorizar el funcionamiento y mantener actualizado el inventario de fuentes fijas de contaminantes en el Estado de Yucatán;
+XXIII.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales o agroindustriales, o por servicios y comercios de competencia estatal, así como por fuentes móviles que no sean de competencia federal;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXIV.- Autorizar el funcionamiento y mantener actualizado el inventario de fuentes fijas de contaminantes en el Estado de Yucatán y recibir reportes de emisión de contaminantes;
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -325,9 +353,19 @@ XXXII.- Admitir y resolver el recurso de revisión que sea interpuesto con motiv
 
 XXXIII.- Vigilar el cumplimiento de las normas oficiales mexicanas y de las normas técnicas ambientales que emita el Estado de Yucatán;
 
-XXXIV.- Exigir y fijar el monto de las fianzas que garanticen la reparación de los daños ambientales, el cumplimiento de las medidas de restauración y cumplimiento de las condicionantes dictadas en las resoluciones administrativas, y
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XXXV.- Ejercer las atribuciones que le confieren esta Ley y demás disposiciones legales aplicables.
+XXXIV.- Exigir y fijar el monto de las fianzas que garanticen la reparación de los daños ambientales, el cumplimiento de las medidas de restauración y el cumplimiento de las condicionantes dictadas en las resoluciones administrativas;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXXV.- Procurar la constante simplificación y digitalización de los trámites y servicios de su competencia;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXXVI.- Proporcionar la información sobre los trámites y servicios de su competencia que permitan mantener actualizada la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, administrada por la Secretaría de Administración y Finanzas, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán, y
+
+XXXVII.- Ejercer las atribuciones que le confieren esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -429,6 +467,10 @@ XII.- Es necesario para el desarrollo sustentable mejorar la calidad de vida, y
 
 XIII.- Toda persona cumple una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su completa participación es esencial para lograr el desarrollo sustentable.
 
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 13 bis.- El Poder Ejecutivo del Estado y los ayuntamientos, en la esfera de sus respectivas competencias, deberán difundir y hacer pública, principalmente, a través de medios electrónicos, las políticas ambientales que definan e implementen para la defensa, preservación y restauración del equilibrio ecológico en el Estado.
+
 ## TÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA ECOLÓGICA
 
 ### CAPÍTULO I. DE LA PLANEACIÓN ECOLÓGICA
@@ -492,6 +534,10 @@ II.- Las normas y criterios ecológicos que expida la autoridad federal competen
 III.- Las declaratorias de áreas naturales protegidas y la determinación de usos, provisiones y destino del suelo, hechas por la Federación, el Estado y los municipios, y
 
 IV.- Las declaratorias de usos, destinos y reservas que se hayan expedido con fundamento en las leyes de la materia.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+La información prevista en las fracciones III y IV de este artículo deberá ser difundida y actualizada por el Poder Ejecutivo del Estado, por conducto de la Secretaría, y los ayuntamientos, en el ámbito de sus respectivas competencias, a través de los medios e instrumentos, principalmente electrónicos, que faciliten su acceso y consulta por parte de la población. Para lo anterior, podrán celebrar convenios de coordinación, a efecto de compartir información, o bien, un sistema o plataforma tecnológica.
 
 ###### Artículo 22.
 
@@ -617,7 +663,9 @@ El impacto ambiental que pudiesen ocasionar las obras o actividades que no sean 
 
 Las personas físicas o morales, que pretendan realizar obras o actividades públicas o privadas que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables en la materia, previo a su inicio, deberán obtener la autorización del Poder Ejecutivo, por conducto de la Secretaría, en los términos de esta Ley y su Reglamento, así como cumplir con los requisitos que se les impongan.
 
-El procedimiento de evaluación del impacto ambiental se inicia con la presentación del informe preventivo y/o manifestación de impacto ambiental y/o estudio de riesgo, así como los documentos que se soliciten, dependiendo de la obra o actividad que se pretende realizar, y concluye con la resolución que la Secretaría emita.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El procedimiento de evaluación del impacto ambiental se inicia con la presentación del Informe Preventivo, Manifestación de Impacto Ambiental o Estudio de Riesgo, así como de los documentos que se soliciten, dependiendo de la obra o actividad que se pretenda realizar, y concluye con la resolución que la Secretaría emita, la cual, en caso de autorizarse, estará sujeta al cumplimiento de las condicionantes establecidas en ella y que serán supervisadas por las autoridades correspondientes.
 
 Esta información permitirá verificar mediante su análisis si procede o no la presentación de una manifestación de impacto ambiental en cualesquiera de sus modalidades;
 
@@ -629,17 +677,25 @@ I.- Obra pública estatal y municipal;
 
 II.- La explotación, extracción, transformación y tratamiento de minerales o substancias no reservadas a la Federación y que no se encuentren señaladas en la Ley Minera;
 
-III.- La construcción de vías de comunicación estatal o municipal, incluyendo los caminos rurales;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+III.- La construcción, reconstrucción y ampliación de vías de comunicación, estatales o municipales, incluyendo los caminos rurales;
 
 IV.- El establecimiento de zonas y parques industriales;
 
-V.- El establecimiento y construcción de plantas industriales que no sean competencia de la Federación, así como las agroindustrias y los centros de producción pecuaria con superficies mayores de cinco mil metros cuadrados;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+V.- El establecimiento y construcción de plantas industriales que no sean competencia de la Federación, así como las agroindustrias y los centros de producción pecuaria;
 
 VI.- La construcción de los rastros y de centrales de abasto;
 
-VII.- La construcción y operación de plantas de tratamiento, recuperación, reciclaje, estaciones de transferencia y sitios de disposición de residuos sólidos urbanos y de manejo especial;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-VIII.- La construcción de plantas potabilizadoras;
+VII.- La construcción y operación de plantas de tratamiento, recuperación, reciclaje, valorización y disposición final; estaciones de transferencia; y sitios de disposición de residuos sólidos urbanos y de manejo especial;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+VIII.- La construcción de plantas potabilizadoras para el abasto de redes de suministro a comunidades, cuando no esté prevista la realización de actividades altamente riesgosas;
 
 IX.- La construcción y operación de centros comerciales con cualquiera de las siguientes características:
 
@@ -655,29 +711,55 @@ e) Que generen emisiones de ruido que pudieran superar los niveles máximos perm
 
 X.- Las actividades consideradas riesgosas en los términos de la presente Ley;
 
-XI.- La construcción de conjuntos habitacionales, fraccionamientos y nuevos centros de población;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XII.- La construcción de desarrollos turísticos y ecoturísticos, estatales, municipales o privados;
+XI.- La lotificación, urbanización o construcción de desarrollos inmobiliarios, conjuntos habitacionales, fraccionamientos y nuevos centros de población;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XII.- La ampliación, construcción o remodelación de desarrollos turísticos o ecoturísticos estatales, municipales o privados;
 
 XIII.- Obras o actividades que puedan causar daños al ambiente, que estando reservadas a la Federación se transfieran al Estado mediante los instrumentos jurídicos respectivos y que requieran de la evaluación del impacto ambiental;
 
 XIV.- Las obras o actividades que se pretendan realizar dentro de las áreas naturales protegidas de competencia estatal o municipal;
 
-XV.- Las obras y actividades que se realicen en el entorno y dentro de cenotes, grutas y cuevas, y
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XVI.- Las demás obras o actividades que no se encuentren en los supuestos anteriores, que puedan causar impactos o desequilibrios ecológicos y que no sean competencia de la Federación.
+XV.- Las obras y actividades que se realicen en las inmediaciones y al interior de cenotes, cuevas y grutas;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XVI.- La construcción y operación de plantas para el tratamiento de aguas residuales que descarguen líquidos hasta un máximo de 100 litros por segundo, que en su tratamiento no se realicen actividades consideradas altamente riesgosas y aquellas que no requieran autorización en materia de impacto ambiental ante la Federación;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XVII.- La construcción de estaciones o subestaciones eléctricas de potencia o distribución, así como las obras de transmisión y subtransmisión eléctrica que pretendan ubicarse en áreas urbanas, suburbanas, de equipamiento urbano o de servicios, rurales, agropecuarias, industriales o turísticas;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XVIII.- Las plantas de cogeneración y autoabastecimiento de energía eléctrica menores a 3 megavatios, y
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XIX.- Las demás obras o actividades que no se encuentren en los supuestos anteriores y que puedan ocasionar impactos ambientales o desequilibrios ecológicos, siempre y cuando no sean competencia de la Federación.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 33.
 
-Para obtener la autorización a que se refiere la presente Ley, los interesados deberán presentar a la Secretaría un informe preventivo, exceptuando los casos establecidos en el Reglamento de esta Ley, que por la magnitud o naturaleza de la obra o actividad se requiera de la Manifestación de Impacto Ambiental, en la modalidad que determine la Secretaría o de un estudio de riesgo. En todos los casos se deberá incluir la descripción de los posibles efectos de dichas obras o actividades en el ecosistema de que se trate, los recursos que serían sujetos de aprovechamiento.
+Para obtener la autorización de impacto ambiental a que hace referencia el artículo 31 de la presente Ley, los interesados deberán presentar un manifiesto de impacto ambiental y un programa general calendarizado, exceptuando de lo anterior los casos establecidos en el Reglamento de esta Ley en los que, por la magnitud o naturaleza de la obra o actividad, se requiera de un Informe Preventivo. En todos los casos se deberá incluir la descripción de los posibles efectos de la obra o actividad en el ecosistema de que se trate así como los recursos naturales sujetos de aprovechamiento.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 34.
 
-Cuando las obras o actividades que por su giro, ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente, el interesado debe entregar un proyecto de factibilidad, el que después de analizado se le otorgará constancia resolviéndole sobre su proyecto o en su caso, requiriéndole la presentación de algún estudio para su evaluación.
+Cuando las obras o actividades que en su ejecución no causen desequilibrio ecológico, incrementen el nivel de impacto o riesgo ambiental, o rebasen los límites y condiciones establecidos en las disposiciones jurídicas aplicables en materia de preservación y protección del medio ambiente, el interesado deberá presentar en la Secretaría una solicitud de exención de manifiesto de impacto ambiental, para lo cual deberá contar con la factibilidad urbano ambiental.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 35.
 
-Una vez recibida la documentación y el estudio solicitado, la Secretaría, en un plazo no mayor a 10 días hábiles, comunicará al interesado si admite o desecha, en su caso, el Informe Preventivo, la Manifestación de Impacto Ambiental, el Estudio de Riesgo y los documentos presentados.
+Una vez recibida la documentación y el estudio que, en su caso, se solicite, la Secretaría, en un plazo no mayor a 5 días hábiles, comunicará al interesado si admite o desecha, en su caso, el Informe Preventivo, la Manifestación de Impacto Ambiental, el Estudio de Riesgo y los documentos presentados.
 
 ###### Artículo 36.
 
@@ -685,7 +767,9 @@ Para el cumplimiento del artículo anterior, se entenderán por admitidos los es
 
 En el caso contrario, se devolverán los documentos respectivos al promovente, quedando a salvo sus derechos para los fines legales que correspondan.
 
-Una vez admitida y evaluada la Manifestación de Impacto Ambiental, la Secretaría mandará publicar en el Diario Oficial del Gobierno del Estado, a costa del promovente, una descripción del proyecto de la obra o de la actividad, con el fin de que en un plazo de 10 días hábiles, contados a partir del día siguiente de la publicación, pueda ser consultada por cualquier persona, para en su caso, proponer el establecimiento de las medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Una vez admitida y evaluada la Manifestación de Impacto Ambiental, la Secretaría mandará publicar en el Diario Oficial del Gobierno del Estado de Yucatán, a costa del promovente, una descripción del proyecto de la obra o de la actividad, con el fin de que, en un plazo de 5 días hábiles, contados a partir del día siguiente al de la publicación, pueda ser consultada por cualquier persona para, en su caso, proponer el establecimiento de las medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes.
 
 Los promoventes podrán solicitar que se mantenga en reserva la información que se haya integrado al expediente, que de hacerse pública pudiera afectar derechos de propiedad industrial o la confidencialidad de la información comercial que aporte el interesado
 
@@ -697,45 +781,51 @@ La Secretaría o los municipios podrán solicitar a las instituciones académica
 
 De ser necesario, la Secretaría podrá solicitar en cualquier momento del procedimiento de autorización, aclaraciones, rectificaciones o ampliaciones sobre el estudio o documentos que se hayan exhibidos para obtener la autorización a que se refiere el artículo 36 del presente ordenamiento.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 39.
 
-Evaluado el estudio y documentos exhibidos, satisfechos los requerimientos y por ende integrado el expediente, la Secretaría emitirá el acuerdo correspondiente que deberá ser notificado a las partes interesadas y a partir de ésta, se tendrá un plazo no mayor de 20 días hábiles para dictar la resolución en el caso del Informe Preventivo, de 40 días hábiles para la Manifestación de Impacto Ambiental y de 20 días hábiles para el Estudio de Riesgo. Cuando por la complejidad y las dimensiones de una obra o actividad, la Secretaría requiera de un tiempo mayor para la evaluación, excepcionalmente podrán ampliar los plazos señalados en el párrafo anterior hasta en 30 días hábiles adicionales, siempre que se justifique la necesidad de la medida conforme al Reglamento.
+Evaluado el estudio y documentos exhibidos, satisfechos los requerimientos y, por ende, integrado el expediente, la Secretaría emitirá el acuerdo correspondiente que deberá ser notificado a las partes interesadas. A partir de esta notificación, se tendrá un plazo no mayor de 10 días hábiles para dictar la resolución, en el caso del Informe Preventivo, de 20 días hábiles, para la Manifestación de Impacto Ambiental y de 15 días hábiles, para el Estudio de Riesgo. Cuando, por la complejidad y las dimensiones de una obra o actividad, la Secretaría requiera de un tiempo mayor para la evaluación, excepcionalmente, se podrán ampliar los plazos referidos hasta en 15 días hábiles adicionales, siempre que se justifique la necesidad de la medida conforme al Reglamento.
 
-Si durante el procedimiento de autorización de una obra o actividad, surgiera una denuncia ciudadana en contra del proyecto del cual ya se solicitó la aprobación, la Secretaría suspenderá el plazo del procedimiento de autorización en tanto se resuelve la denuncia, haciendo del conocimiento a las partes involucradas de tal circunstancia. La denuncia se substanciará de conformidad con lo que al respecto dispone la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+Si, durante el procedimiento de autorización de una obra o actividad, surgiera una denuncia ciudadana en contra del proyecto del cual ya se solicitó la aprobación, la Secretaría suspenderá el plazo del procedimiento de autorización en tanto se resuelve la denuncia, haciendo del conocimiento de las partes involucradas tal circunstancia. La denuncia se substanciará de conformidad con lo que al respecto dispone la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
-La Secretaría emitirá, debidamente fundada y motivada, la resolución correspondiente en la que podrá:
+La Secretaría emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
 I.- Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-II.- Autorizar de manera condicionada la ejecución de la obra o actividad de que se trate, con base en la modificación del proyecto o al establecimiento de medidas adicionales de prevención, mitigación o compensación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos que puedan producirse en la construcción u operación normal de la obra o actividad, o en caso de accidente. Cuando se trate de autorizaciones condicionadas la Secretaría señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista;
+II.- Autorizar de manera condicionada la ejecución de la obra o actividad de que se trate, con base en la modificación del proyecto o en el establecimiento de medidas adicionales de prevención, mitigación o compensación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos que puedan producirse en la construcción u operación normal de la obra o actividad, o en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deberán observarse en la realización de la obra o actividad prevista, o
 
 III.- Negar la autorización solicitada cuando:
 
 a) Se contravenga lo establecido en esta Ley, su Reglamento, en las normas oficiales mexicanas, normas técnicas ambientales y demás disposiciones aplicables;
 
-b) Las obras o actividades se contrapongan a lo establecido en los Programas de Ordenamiento Ecológico que se emitan y sean obligatorios en el Estado, el Plan Estatal de Desarrollo, Programas Estatales Sectoriales y los Programas de Ordenamiento Municipales de Desarrollo Urbano, y
+b) Las obras o actividades se contrapongan con lo establecido en los Programas de Ordenamiento Ecológico que se emitan y sean obligatorios en el Estado, el Plan Estatal de Desarrollo, Programas Estatales Sectoriales y los Programas de Ordenamiento Municipales de Desarrollo Urbano, y
 
-c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
+c) Exista falsedad en la información proporcionada por los promoventes respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-Cuando la Secretaría proceda a negar una autorización, ésta hará del conocimiento de todas las autoridades que según el proyecto solicitado sean competentes para conocer del asunto, para que dentro de su jurisdicción realicen las acciones pertinentes.
+Cuando la Secretaría proceda a negar una autorización, esta hará del conocimiento de todas las autoridades que, según el proyecto solicitado, sean competentes para conocer del asunto, para que dentro de su jurisdicción realicen las acciones pertinentes.
 
 La Secretaría podrá exigir el otorgamiento de fianzas que garanticen el cumplimiento de las condicionantes dictadas.
 
-> <small>(REFORMADO, D.O. 21 DE MARZO DE 2018)</small>
+Las autorizaciones otorgadas tendrán una vigencia de dos años, contados a partir del día siguiente al de la notificación de la autorización, para la construcción de la obra. Sin perjuicio de lo anterior, el interesado deberá dar aviso a la Secretaría sobre el inicio de la obra, dentro de los quince días posteriores a la fecha de notificación de la autorización. En dicho aviso, el interesado deberá manifestar la fecha cierta del inicio de la obra.
 
-Las autorizaciones otorgadas tendrán una vigencia de dos años, contada a partir del día siguiente de su notificación, para el inicio y conclusión de la obra o actividad. Si el interesado no inicia la obra o actividad durante la vigencia de la autorización, se archivará el expediente iniciado; por lo que el interesado, para poder ejecutar el proyecto, deberá solicitar nuevamente la autorización.
+Si una vez iniciada la construcción de la obra, esta no se fuera a concluir dentro de los dos años de vigencia de la autorización, el interesado deberá presentar una solicitud de modificación del proyecto, antes de que concluya la vigencia de dicha autorización, anexando, en su caso, un nuevo programa general calendarizado; lo anterior, a efecto de que la Secretaría evalúe las nuevas condiciones del proyecto.
 
-En el caso de haberse iniciado la obra previa verificación del personal de esta Secretaría, con un avance menor al treinta por ciento, el interesado deberá iniciar nuevamente el procedimiento.
+Si el interesado es omiso en dar aviso a la Secretaría sobre el inicio de construcción de la obra o, en su caso, se abstiene de promover las modificaciones al proyecto, tal como se describe en el párrafo anterior, la Secretaría podrá aplicar alguna de las sanciones establecidas en la presente Ley y su Reglamento.
 
-Si la obra no se concluyera en el plazo señalado en el párrafo anterior, el interesado deberá solicitar una prórroga la cual se le podrá otorgar, dependiendo del avance que tenga el proyecto.
+El plazo otorgado para la operación del proyecto autorizado se determinará de acuerdo con la obra o actividad a realizarse y se indicará en la resolución de autorización de impacto ambiental.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 40.
 
-La Secretaría vigilará el cumplimiento de las condicionantes que haya dictado en la resolución, una vez evaluado el impacto ambiental.
+La Secretaría vigilará el cumplimiento de las condicionantes que haya dictado en la resolución de impacto ambiental y podrá solicitar al promovente la información complementaria o las aclaraciones que estime necesarias y que sean posteriores a la emisión de dicha resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 41.
 
-Las personas que presten sus servicios profesionales para la realización de estudios de impacto y riesgo ambientales, serán responsables ante la Secretaría de los Informes Preventivos, las Manifestaciones de Impacto Ambiental y Estudios de Riesgo que elaboren; para ello, manifestarán, bajo protesta de decir verdad, que en dichos informes, manifestaciones y estudios se incorporen las características de las obras y/o actividades así como del sitio, mejoras técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Las personas que presten sus servicios profesionales para la realización de estudios de impacto y riesgo ambientales deberán estar registradas en el Padrón de Técnicos Especializados de la Secretaría y, en el ejercicio de su profesión, serán responsables ante la Secretaría de los Informes Preventivos, las Manifestaciones de Impacto Ambiental y los Estudios de Riesgo que elaboren; para ello, manifestarán, bajo protesta de decir verdad, que en dichos informes, manifestaciones y estudios se incorporan las características de las obras o actividades así como el sitio, mejoras técnicas y metodologías existentes, y la información y medidas de prevención y mitigación más efectivas.
 
 Los prestadores de servicios ambientales responderán solidariamente, junto con los promoventes del proyecto involucrado, de cualquier tipo de responsabilidad o sanción a la que éstos sean acreedores, cuando los resultados del estudio correspondiente sean notoriamente incongruentes con las mejoras, metodologías e información referidas o se basen en hechos o datos falsos con la finalidad de que sea autorizado el proyecto que se trate y que, de haberse realizado el informe, manifestación o estudios correspondientes, de manera correcta, éste hubiere resultado ambiental y legalmente improcedente.
 
@@ -767,11 +857,15 @@ III.- Las demás acciones que induzcan a las empresas a alcanzar los objetivos d
 
 Los responsables del funcionamiento de una empresa podrán realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
 
-### CAPÍTULO VII. De la Investigación y Educación Ecológica
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
+
+### CAPÍTULO VII. De la Investigación y Educación Ambiental
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 45.
 
-La Secretaría, en coordinación con las autoridades competentes, promoverá la incorporación de contenidos ecológicos y ambientales en los programas de estudio de todos los niveles, particularmente en el básico, así como la formación de una cultura ambiental en la población, enfatizando las características y condiciones ecológicas del Estado.
+La Secretaría, en coordinación con las autoridades competentes, promoverá la incorporación de contenidos ecológicos y ambientales en los programas de estudio de todos los niveles, particularmente en el básico, así como la formación de una cultura ambiental en la población, enfatizando las características y condiciones ambientales del Estado y la vulnerabilidad ante el cambio climático.
 
 ###### Artículo 46.
 
@@ -781,17 +875,21 @@ I.- La incorporación del conocimiento ambiental en la formación, especializaci
 
 II.- La formación, especialización y actualización de profesionistas orientados a las actividades de gestión ambiental.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 47.
 
-El Poder Ejecutivo, a través de la Secretaría, y los municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación; propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas, especialmente los de la Entidad, así como la realización de acciones de formación, capacitación y actualización de los recursos humanos en la materia. Para tal efecto, se podrán celebrar convenios con instituciones de educación, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Poder Ejecutivo, a través de la Secretaría, y los municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación; fomentar medidas de adaptación y mitigación del cambio climático; propiciar el aprovechamiento sustentable de los recursos naturales; y preservar los ecosistemas, especialmente los de la Entidad, así como la realización de acciones de formación, capacitación y actualización de los recursos humanos en la materia. Para tal efecto, se podrán celebrar convenios con instituciones de educación, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 ###### Artículo 48.
 
 El Poder Ejecutivo, a través de la Secretaría, promoverá y celebrará acuerdos de colaboración con las instituciones de investigación y de educación de la Entidad, con la finalidad de incorporar en los planes de estudio de las mismas, los programas referentes a la educación, comunicación y formación ambiental.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 49.
 
-El Poder Ejecutivo, a través de la Secretaría, realizará campañas de educación permanentes dirigidas a la población en general, tendientes a desalentar el uso indiscriminado de productos tóxicos y contaminantes, considerados en las Normas Oficiales Mexicanas.
+El Poder Ejecutivo, a través de la Secretaría, realizará campañas de cultura y educación ambientales, de manera temporal o permanente, dirigidas a la población en general.
 
 ###### Artículo 50.
 
@@ -801,9 +899,11 @@ El Poder Ejecutivo y los municipios podrán celebrar acuerdos de coordinación p
 
 En los planes de manejo de las áreas naturales protegidas, se deberán incluir disposiciones referentes a educación ambiental y de participación ciudadana.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 52.
 
-La Secretaría promoverá la incorporación de contenidos ambientales en los programas de las comisiones de seguridad e higiene de las empresas, en coordinación con las autoridades competentes.
+La Secretaría promoverá la incorporación de contenidos ambientales en los programas de sustentabilidad o en las comisiones de seguridad e higiene de las empresas, en coordinación con las autoridades competentes.
 
 ###### Artículo 53.
 
@@ -819,7 +919,9 @@ II.- Los procesos físicos, químicos, biológicos, geográficos, culturales, so
 
 III.- Las causas y los efectos del deterioro ecológico y ambiental, y
 
-IV.- El aprovechamiento actual y potencial de los recursos naturales y sus efectos.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IV.- El aprovechamiento sustentable de los recursos naturales y sus efectos.
 
 ## TÍTULO TERCERO. DE LA CONSERVACIÓN Y MANEJO DE LOS RECURSOS NATURALES
 
@@ -871,7 +973,7 @@ En este caso, sólo podrán extraerse las muestras estrictamente necesarias para
 
 Los permisos de explotación y aprovechamiento tendrán una duración máxima de 6 meses, prorrogables siempre que se haya dado cumplimiento a las obligaciones señaladas en el permiso y subsistan las condiciones que justificaron su expedición.
 
-Los permisos serán intransferibles.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 63.
 
@@ -947,15 +1049,19 @@ VII.- Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos
 
 ### CAPÍTULO IV. De las Características de las Áreas Naturales Protegidas
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 70.
 
 Se consideran áreas naturales protegidas:
 
-I.- Las reservas y parques estatales, y
+I.- Las reservas y parques estatales;
 
-II.- Las zonas de preservación y restauración ecológica de los centros de población.
+II.- Las zonas de preservación y restauración ecológica de los centros de población, y
 
-El establecimiento, administración y manejo de las áreas mencionadas en la fracción I corresponderá al Poder Ejecutivo, y las señaladas en la fracción II a los ayuntamientos.
+III.- Las áreas naturales de valor escénico, histórico y cultural.
+
+El establecimiento, administración y manejo de las áreas mencionadas en las fracciones I y III corresponderá al Poder Ejecutivo del Estado, y las señaladas en la fracción II a los ayuntamientos.
 
 ###### Artículo 71.
 
@@ -1014,6 +1120,10 @@ Una vez declarada una superficie como Área Natural Protegida, sólo se podrá m
 ###### Artículo 79.
 
 La administración y vigilancia de las áreas naturales protegidas corresponderá a la autoridad que haya emitido el Decreto o declaratoria.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Para el caso de las declaradas por el Poder Ejecutivo del Estado, la Secretaría podrá captar y recibir donaciones, fondos, aportaciones y demás recursos, sea en numerario o en especie, a través del Fondo Ambiental.
 
 ###### Artículo 80.
 
@@ -1077,7 +1187,9 @@ Para lo anterior, la Secretaría solicitará a la Federación y a los municipios
 
 Corresponde al Poder Ejecutivo, por conducto de la autoridad competente, conocer y aplicar la política forestal dentro de la jurisdicción territorial que le corresponda, en concordancia con la política forestal nacional, para propiciar el desarrollo forestal sustentable, de acuerdo a la Ley General de Desarrollo Forestal Sustentable, su Reglamento y demás disposiciones aplicables.
 
-La conservación y aprovechamiento sustentable de la vida silvestre, la formulación y conducción de la política estatal, en concordancia con la política nacional en materia de vida silvestre y su hábitat, será aplicada por el Poder Ejecutivo del Estado, a través de la autoridad competente, en términos de la Ley General de Vida Silvestre y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+La conservación y aprovechamiento sustentable de la vida silvestre, y la formulación y conducción de la política estatal, en concordancia con la política nacional en materia de vida silvestre y su hábitat, será aplicada por el Poder Ejecutivo del Estado, a través de la autoridad competente, en términos de la Ley General de Vida Silvestre, la Ley de Conservación y Desarrollo del Arbolado Urbano del Estado de Yucatán y las demás disposiciones aplicables.
 
 ###### Artículo 89.
 
@@ -1127,9 +1239,11 @@ Los costos ocasionados por los daños ambientales serán a cargo de los responsa
 
 ### CAPÍTULO VIII. De la Prevención y Control de la Contaminación Atmosférica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 95.
 
-Las emisiones contaminantes a la atmósfera tales como, humo, polvos, gases, vapores, olores, ruido, vibraciones y energía lumínica, no deberán rebasar los límites máximos permisibles contenidos en las normas oficiales vigentes, en las normas técnicas ambientales que se expidan y en las demás disposiciones locales aplicables en el Estado de Yucatán.
+Las emisiones contaminantes a la atmósfera tales como humo, polvos, gases, vapores, ruido, vibraciones y energía lumínica no deberán rebasar los límites máximos permisibles contenidos en las normas oficiales vigentes, en las normas técnicas ambientales que se expidan y en las demás disposiciones locales aplicables en el Estado de Yucatán.
 
 Los propietarios de fuentes fijas y móviles que generen cualquiera de estos contaminantes, están obligados a instalar mecanismos para la recuperación y disminución de las emisiones contaminantes.
 
@@ -1143,7 +1257,9 @@ Lo dispuesto en el artículo anterior será considerado en:
 
 I.- La designación de áreas y zonas industriales, y
 
-II.- En el otorgamiento de todo tipo de autorizaciones, registros o permisos para emitir contaminantes a la atmósfera.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+II.- En el otorgamiento de todo tipo de autorizaciones, licencias, registros o permisos para emitir contaminantes a la atmósfera.
 
 ###### Artículo 98.
 
@@ -1159,7 +1275,9 @@ La Secretaría, en el ámbito de su competencia, tiene en materia de prevención
 
 I.- Requerir a quienes realicen actividades con emisiones contaminantes y, en su caso, convenir con ellos, la instalación de equipos de control con la mejor tecnología disponible, con el propósito de reducir sus emisiones a la atmósfera;
 
-II.- Autorizar el funcionamiento de fuente fija e integrar y mantener actualizados los inventarios de fuentes fijas de contaminación a la atmósfera;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+II.- Autorizar el funcionamiento de fuentes fijas de competencia estatal y mantener actualizados los inventarios de fuentes fijas de contaminación a la atmósfera;
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -1211,9 +1329,19 @@ XIV.- Ejercer las demás facultades que le confieran otras disposiciones en mate
 
 Artículo 100 bis.- El Instituto de Movilidad y Desarrollo Urbano Territorial establecerá centros de verificación de emisiones de automotores destinados al transporte público de pasajeros registrados en el estado, de conformidad con las normas oficiales y estatales correspondientes, llevará su registro y podrá solicitar a la autoridad responsable el retiro de la circulación de los automotores destinados al transporte público de pasajeros cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles determinados en las normas estatales y oficiales aplicables.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 101.
 
-Para la operación y funcionamiento de las fuentes fijas reguladas por esta Ley, que emitan contaminantes a la atmósfera de cualquier naturaleza, se requerirá autorización previa de la Secretaría.
+Para la operación y funcionamiento de las fuentes fijas reguladas por esta Ley que emitan contaminantes a la atmosfera de cualquier naturaleza, se requerirá, de manera previa, la Licencia Ambiental Única, expedida por la Secretaría.
+
+La Licencia Ambiental Única tendrá una vigencia de dos años y podrá ser renovada, previo cumplimiento de los requisitos y del procedimiento que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 101 bis.- Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de competencia estatal las industrias de alimentos y de bebidas, bloqueras, industria de la construcción, fabricación de productos de asfaltos, fabricación de productos de cartón y papel, fabricación de cemento y productos a base de cemento en plantas integradas, fabricación de productos de hierro y acero, manufacturera textil, manufacturera industrial, fabricación de estructuras metálicas, almacén de granos, agroindustria, minería de piedra caliza, matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles, recubrimientos y terminados metálicos, servicios y comercios a gran escala, y generación y manejo de residuos de acuerdo con la normativa vigente en la materia.
+
+El Reglamento de esta Ley determinará los subsectores específicos pertenecientes a cada uno de los sectores antes señalados, cuyos establecimientos se sujetarán a las disposiciones de la legislación estatal en lo que se refiere a la emisión de contaminantes a la atmósfera y generación y manejo de residuos.
 
 ###### Artículo 102.
 
@@ -1240,6 +1368,10 @@ La omisión de dicha verificación o la falta de cumplimiento de las medidas que
 ###### Artículo 106.
 
 Quienes realicen actividades que generen contaminantes hacia la atmósfera, así como las industrias o empresas prestadoras de servicios clasificadas como fuentes fijas de emisiones, deberán instalar equipos o sistemas para el control de sus emisiones que satisfagan las normas oficiales y las técnicas ambientales vigentes en el Estado. Asimismo, deberán proporcionar toda la información que la autoridad estatal o las municipales les requieran, a efecto de integrar y mantener actualizado el inventario de fuentes fijas de contaminación de la atmósfera.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Para el caso de las industrias o empresas que realicen emisiones a la atmósfera cuyos parámetros no estén normados, estas deberán presentar la estimación de sus emisiones en los formatos que la Secretaría determine, para fines de registro y reporte.
 
 ###### Artículo 107.
 
@@ -1275,19 +1407,23 @@ La generación de aguas residuales en cualquier actividad susceptible de produci
 
 Corresponde al Poder Ejecutivo formular, conducir y evaluar la política estatal en materia de residuos de manejo especial, en términos de esta Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 113.
 
 Para la prevención y control de la contaminación del suelo se deben observar cuando menos los siguientes criterios:
 
-I.- El Estado, los municipios y la sociedad en general, deberán participar en la prevención de la contaminación del suelo, de acuerdo a la normatividad aplicable;
+I.- El Estado, los municipios y la sociedad en general deberán participar en la prevención de la contaminación del suelo, de acuerdo con la normatividad aplicable;
 
-II.- Minimizar la generación de residuos e incorporar tecnologías que eviten los daños ambientales y procedimientos para su reuso y reciclaje;
+II.- Se deberá prevenir y reducir la generación de residuos sólidos urbanos y de manejo especial, e incorporar tecnologías, técnicas y procedimientos para su reúso y reciclaje, así como regular su manejo y disposición final eficientes;
 
-III.- La utilización de agroquímicos y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, ajustándose en todos los casos a la normatividad vigente;
+III.- Se deberá garantizar que la utilización de agroquímicos y sustancias tóxicas sea compatible con el equilibrio de los ecosistemas y que se consideren sus efectos sobre la salud humana, ajustándose en todos los casos a la normatividad vigente;
 
-IV.- Fomentar el uso de composta, biofertilizantes o algún otro mejorador de suelo de origen orgánico, y
+IV.- Se deberá fomentar el uso de composta, biofertilizantes o algún otro mejorador de suelo de origen orgánico;
 
-V.- En los suelos contaminados deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones originales.
+V.- Se deberán llevar a cabo en los suelos contaminados las acciones necesarias para recuperar o restablecer sus condiciones originales, y
+
+VI.- Quienes realicen acciones para la recuperación de suelos contaminados por residuos deberán contar con la licencia o los permisos de generación, manejo y disposición final de residuos de manejo especial que al efecto se otorguen.
 
 ###### Artículo 114.
 
@@ -1313,13 +1449,17 @@ VIII.- La contaminación y daño generado o que se puedan generar con las activi
 
 ### CAPÍTULO II. De la Difusión e Información Ambiental
 
-### CAPÍTULO III. Consejo Estatal de Consultoría y Evaluación Ambiental
+### CAPÍTULO III. Consejo Estatal para la Protección del Medio Ambiente
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ### CAPÍTULO IV. De la Denuncia Ciudadana
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA Y DIFUSIÓN AMBIENTAL
 
 ### CAPÍTULO ÚNICO. Inspección y Vigilancia
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 115.
 
@@ -1359,15 +1499,23 @@ Cualquier persona tiene derecho a la información pública ambiental, por tanto 
 
 La Secretaría, en coordinación con la Federación y los municipios, desarrollará un Sistema Estatal de Información Ambiental, vinculado a los sistemas nacionales estadístico y de información geográfica del Instituto Nacional de Estadística, Geografía e Informática (INEGI), que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal por los diferentes medios, principalmente por el electrónico. Los aspectos de integración y operación del sistema de información ambiental serán establecidos en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Sistema Estatal de Información Ambiental deberá contener un mapa georreferenciado y una base de datos de los proyectos a realizarse en el Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
+
 ### CAPÍTULO II. De las Sanciones Administrativas y Medios de Impugnación
 
 ###### Artículo 122.
 
-Con objeto de coordinar y unificar los esfuerzos del Estado en materia ecológica y ambiental, se integrará el Consejo Estatal de Consultoría y Evaluación Ambiental.
+Con objeto de coordinar y unificar los esfuerzos del Estado en materia ecológica y ambiental, se integrará el Consejo Estatal para la Protección del Medio Ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 123.
 
-El Consejo Estatal de Consultoría y Evaluación Ambiental, tendrá las siguientes funciones:
+El Consejo Estatal para la Protección del Medio Ambiente tendrá las siguientes atribuciones:
 
 I.- Analizar e intercambiar opiniones relacionadas con las acciones y programas relativos a los aspectos ecológicos y ambientales;
 
@@ -1381,13 +1529,17 @@ V.- Recomendar al Poder Ejecutivo investigaciones prioritarias en la materia, y
 
 VI.- Informar al Poder Ejecutivo y a las instituciones y organismos involucrados, los acuerdos consensuados con base en criterios científicos, para fundamentar la toma de decisiones orientadas a la solución o mitigación de los problemas de desequilibrio ecológico o contaminación ambiental.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 124.
 
-El Consejo Estatal de Consultoría y Evaluación Ambiental, estará integrado con los representantes de las dependencias federales, estatales, municipales, instituciones de educación superior, de investigación, asociaciones civiles y grupos sociales, debidamente organizados y relacionados con la materia, que fueren convocadas por el Titular del Poder Ejecutivo.
+El Consejo Estatal para la Protección del Medio Ambiente estará integrado con los representantes de las dependencias federales, estatales, municipales, instituciones de educación superior, de investigación, asociaciones civiles y grupos sociales debidamente organizados y relacionados con la materia, que fueren convocados por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 125.
 
-La estructura, operación, así como el perfil de los integrantes del Consejo Estatal de Consultoría y Evaluación Ambiental, se establecerán en el Reglamento de esta Ley.
+Las disposiciones referentes a la estructura, la operación y los integrantes del Consejo Estatal para la Protección del Medio Ambiente se establecerán en el Reglamento de esta Ley.
 
 ### CAPÍTULO III. De los Delitos Ambientales
 
@@ -1395,9 +1547,11 @@ La estructura, operación, así como el perfil de los integrantes del Consejo Es
 
 Toda persona tiene el derecho y el deber de denunciar ante la Secretaría o la autoridad municipal, según corresponda, todo hecho, acto u omisión que pueda producir desequilibrio ecológico, o esté en contravención de las disposiciones de esta Ley y de los demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 127.
 
-La denuncia podrá presentarse por escrito acompañada de identificación personal o solicitar que sea de manera anónima, en este caso, la autoridad ante quien se presente deberá proteger este derecho del denunciante y dar trámite a la misma.
+La denuncia podrá presentarse de manera electrónica, a través del portal de recepción de denuncias, o por escrito ante las oficinas de la Secretaría. La denuncia podrá estar acompañada de la identificación personal del denunciante, o bien, ser de manera anónima. En este último caso, la autoridad ante quien se presente deberá proteger este derecho del denunciante y dar trámite a la denuncia.
 
 ###### Artículo 128.
 
@@ -1407,21 +1561,59 @@ La interposición y el procedimiento relativo a la denuncia ciudadana se realiza
 
 ###### Artículo 129.
 
-La Secretaría y los ayuntamientos, en el ámbito de su competencia, podrán realizar por conducto del personal debidamente autorizado visitas de inspección, verificación y vigilancia en los siguientes casos:
+La Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias, podrán realizar, por conducto del personal debidamente autorizado, visitas de inspección, verificación y vigilancia en los siguientes casos:
 
-I.- Para constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás normatividad legales aplicables;
+I.- Para constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás disposiciones legales aplicables;
 
-II.- En las obras o actividades en que hubiese emitido algún acuerdo o dictado resolución que contenga medidas de mitigación, prevención o urgente aplicación, o
+II.- En las obras o actividades en que hubiese emitido algún acuerdo o dictado resolución que contenga medidas de mitigación, prevención o urgente aplicación;
 
-III.- En las obras o actividades en que hubiese otorgado autorización de impacto ambiental o dictando resolución en los procedimientos administrativos para verificar el cumplimiento de las condicionantes impuestas en la misma.
+III.- En las obras o actividades en que hubiese otorgado autorización de impacto ambiental o dictado resolución en los procedimientos administrativos para verificar el cumplimiento de las condicionantes impuestas en dicha autorización;
+
+IV.- En obras o actividades que, por el ingreso de la factibilidad urbana ambiental, aplique la exención de Manifiesto de Impacto Ambiental;
+
+V.- En obras o actividades que ingresen por denuncia ciudadana, y
+
+VI.- En obras o actividades que, de manera oficiosa, se detecten en el Estado y que no cuenten con autorizaciones en materia ambiental.
+
+El personal debidamente autorizado que realice las visitas que se refiere este artículo deberá contar con el documento oficial que lo acredite o autorice para practicar las inspecciones, verificaciones o vigilancias que sean necesarias, así como con la orden escrita en la que se indique el lugar, zona o ubicación que habrá de inspeccionarse.
 
 ###### Artículo 130.
 
 La Secretaría podrá realizar actos de inspección, verificación y/o vigilancia en las obras o actividades en que hubiese emitido algún acuerdo que contenga medidas de mitigación, prevención o urgente aplicación u otorgado autorización de impacto ambiental y dictado resolución en los procedimientos administrativos para verificar el cumplimiento de las condicionantes impuestas en la misma.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 131.
 
-Los procedimientos para realizar las visitas de inspección, verificación y vigilancia se realizarán de conformidad con lo dispuesto por la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+El procedimiento para realizar las visitas de inspección, verificación y vigilancia del cumplimiento de las disposiciones de esta Ley se desarrollará, en términos de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, conforme a los siguientes lineamientos:
+
+I.- El personal autorizado, al realizar las visitas de inspección, deberá contar con un oficio de inspección expedido por la autoridad competente, debidamente fundado y motivado, en el que se deberá precisar el lugar, zona, ubicación o coordenadas geográficas objeto de la inspección y el motivo de la visita;
+
+II.- Los inspectores deberán identificarse por medio de la credencial vigente con fotografía expedida por la Secretaría o la autoridad competente, con la persona o las personas con las que se entienda la diligencia, a quienes se le exhibirá y notificara el oficio de inspección, entregando copia con firmas autógrafas del acta de notificación y del oficio de inspección. Posteriormente, se solicitará al visitado el acceso al sitio para proceder con la visita de verificación o vigilancia ambiental;
+
+III.- Los inspectores comisionados para la diligencia deberán requerir al visitado la designación de dos testigos. En caso de negativa o de que los designados no acepten, el personal autorizado hará la designación correspondiente;
+
+IV.- De toda visita, verificación o vigilancia ambiental se levantará acta en la que se expresará el lugar, fecha y nombre de las personas con quienes se entendió la diligencia, y su resultado, en donde se harán constar los hechos u omisiones que se hubiesen presentado durante la diligencia;
+
+V.- Concluida la visita de inspección, se dará la oportunidad a la persona de manifestar lo que a su derecho convenga en relación con los hechos asentados en el acta, y también para que pueda ofrecer las pruebas que considere convenientes, y
+
+VI.- Una vez leída el acta, el visitado y los testigos designados deberán firmarla, así como el personal autorizado por la Secretaría o la autoridad competente. Hecho lo anterior, se entregará copia del acta al visitado. Si la persona con quien se atendió la visita o los testigos se negaran a firmar el acta, o el visitado se negase a aceptar copia de ella, dichas circunstancias se asentarán en el acta sin que esto afecte su validez y valor probatorio.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 131 bis.- La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley, con excepción de lo relativo a derechos de propiedad industrial, que serán confidenciales.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 131 ter.- Recibida el acta de inspección por la autoridad ordenadora, en caso de haberse encontrado alguna irregularidad, esta requerirá al interesado, mediante notificación personal, que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivos, fundando y motivando el requerimiento y señalando el plazo que corresponda. El interesado contará con un término de 15 días hábiles para exponer lo que a su derecho convenga y, en su caso, aportar las pruebas que considere procedentes, las cuales deberán guardar relación con los hechos u omisiones asentados en el acta de inspección.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 131 quater.- Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría o la autoridad municipal correspondiente procederá, dentro de los 15 días hábiles siguientes, a dictar por escrito la resolución que corresponda, la cual se notificará al interesado personalmente.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 131 quinquies.- Cuando en una misma acta se hagan constar diversas infracciones, las multas y el monto total de ellas se determinarán separadamente en la resolución respectiva.
 
 ## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
@@ -1616,3 +1808,27 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
