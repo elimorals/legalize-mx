@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-universidad-autonoma-del-estado-de-mexico-6162"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-03"
-last_updated: "2005-11-25"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 3 de marzo de 1992.
 
@@ -331,7 +331,9 @@ IX. Proponer al Consejo Universitario el o los candidatos para ocupar el cargo d
 
 X. Otorgar y revocar mandatos generales o especiales, cuando lo estime conveniente.
 
-XI. Nombrar y remover al Contralor Universitario, y Auditor Externo, con aprobación del Consejo Universitario.
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2021)</small>
+
+XI. Nombrar y remover al Auditor Externo, con aprobación del Consejo Universitario.
 
 XII. Otorgar y revocar los nombramientos del personal universitario, conforme a las disposiciones legales aplicables.
 
@@ -507,11 +509,129 @@ Corresponde al Consejo Universitario normar, dictaminar y opinar sobre la presup
 
 El Rector informará anualmente al Consejo Universitario sobre el estado que guarde la administración del patrimonio de la Institución, y dará cuenta del manejo, aplicación y evaluación del gasto universitario autorizado. Presentará ante dicho órgano la información financiera que determine la reglamentación aplicable, así como, los resultados de una auditoria externa anual.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE ENERO DE 2021)</small>
+
+## TITULO SEXTO. Del Órgano Interno de Control en la Universidad Autónoma del Estado de México
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE ENERO DE 2021)</small>
+
+### CAPITULO I. Naturaleza y Atribuciones del Órgano Interno de Control
+
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2021)</small>
+
 ###### ARTICULO 39.
 
-La Contraloría Universitaria es el órgano auxiliar del Rector en el ejercicio de sus facultades y obligaciones en materia de conservación, control y vigilancia patrimonial, presupuestal y administrativa. El Estatuto Universitario y reglamentación aplicable establecerán la naturaleza de su actuación, normas de organización y funcionamiento e instancias necesarias para alcanzar su finalidad.
+La Universidad Autónoma del Estado de México contará con un Órgano Interno de Control con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las personas servidoras públicas de la Universidad Autónoma del Estado de México, sindicalizados, de confianza, o de elección, que ejerzan, manejen o dispongan de recursos públicos, así como de particulares vinculados con faltas graves, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de México; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales, estatales, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía General de Justicia del Estado de México.
 
-Atenderá, entre otras funciones, lo necesario en materia de inventarios y resguardo en la renovación o sustitución de Rector, Directores y servidores universitarios con autoridad directiva, así como, lo referente a la manifestación de bienes de los mismos, conforme lo disponga la reglamentación respectiva.
+El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones, respetando la autonomía universitaria, establecida en el artículo 3, fracción VII de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 40.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, que se determinará en su reglamento a propuesta de su titular y que deberá ser aprobado por el Consejo Universitario.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 41.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+
+II. Verificar que el ejercicio de gasto de la Universidad Autónoma del Estado de México se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar al Consejo Universitario los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Universidad Autónoma del Estado de México;
+
+IV. Revisar que las operaciones presupuestales que realice la Universidad Autónoma del Estado de México, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Universidad Autónoma del Estado de México;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+VIII. Recibir denuncias conforme a las leyes aplicables;
+
+IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Asimismo, efectuar visitas a las áreas administrativas y espacios académicos de la Universidad Autónoma del Estado de México para el cumplimento de sus funciones;
+
+X. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
+
+XI. Participar y coadyuvar con la Dirección General de Evaluación y Control de la Gestión Universitaria en los procesos de entrega y recepción de los servidores de la Universidad Autónoma del Estado de México, en los términos de su propia competencia;
+
+XII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIII. Atender las solicitudes de los diferentes órganos de la Universidad Autónoma del Estado de México en los asuntos de su competencia;
+
+XIV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal, recursos y al reglamento respectivo;
+
+XV. Expedir la normatividad interna que sea necesaria, y no sea competencia del Consejo Universitario;
+
+XVI. Designar a los titulares y demás personal de las áreas administrativas del Órgano Interno de Control;
+
+XVII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XVIII. Presentar al Consejo Universitario los informes cuatrimestral y anual de resultados de su gestión, y comparecer ante el mismo, cuando sea requerido;
+
+XIX. Presentar al Consejo Universitario los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 42.
+
+El titular del Órgano Interno de Control en la Universidad Autónoma del Estado de México será designado por la Legislatura del Estado de México, con el voto de las dos terceras partes de sus miembros presentes.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 43.
+
+Para ser titular del Órgano Interno de Control en la Universidad Autónoma del Estado de México se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Contar al momento de su designación con experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y rendición de cuentas, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y/o servicios del sector público;
+
+III. Contar al día de su designación, con título profesional, con antigüedad mínima de siete años, relacionado con las actividades a que se refiere la fracción anterior, expedido por institución legalmente facultada para ello;
+
+(NOTA: EL 22 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. SER EGRESADO DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO O DE ALGUNA OTRA UNIVERSIDAD PÚBLICA;
+
+V. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Órgano Interno de Control de la Universidad Autónoma del Estado de México, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VII. No haber sido Secretario de Estado, Fiscal General de la República o de Justicia del Estado de México, Oficial Mayor de un ente público, Senador, Diputado Federal, Diputado Local, Gobernador, miembro de algún Ayuntamiento, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 44.
+
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un período inmediato posterior al que se haya desempeñado, previa postulación cumpliendo los requisitos previstos en esta Ley.
+
+Asimismo, mantendrá la coordinación técnica necesaria con las Entidades de Fiscalización Superior del Estado de México y de la Federación a que se refieren los artículos 61 de la Constitución Política del Estado Libre y Soberano de México y 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE ENERO DE 2021)</small>
+
+### CAPITULO II. De la Responsabilidad del Titular del Órgano Interno de Control
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 45.
+
+El titular del Órgano Interno de Control en la Universidad Autónoma del Estado de México será sujeto de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, cargo o comisión públicos o privados, con excepción de los cargos docentes, conferencias y exposiciones por las que no recibirá remuneración.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control en la Universidad Autónoma del Estado de México serán sancionados por el titular del Órgano Interno de Control o el servidor público en quien delegue la facultad, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 46.
+
+El titular del Órgano Interno de Control en la Universidad Autónoma del Estado de México será suplido en sus ausencias por los servidores públicos correspondientes en el orden que señale su reglamento.
 
 T R A N S I T O R I O S
 
@@ -580,3 +700,25 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Consejo Universitario procederá a la transformación de las Unidades Académicas Profesionales en Centros Universitarios en términos de la legislación de la Universidad y de los lineamientos aprobados para este efecto.
 
 CUARTO.- En tanto se expiden las reformas al Estatuto Universitario y demás reglamentación que se derive del presente decreto, se estará a las disposiciones actualmente aplicables a las Unidades Académicas Profesionales.
+
+G.G. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno''.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno''.
+
+TERCERO.- El Consejo Universitario de la Universidad Autónoma del Estado de México, tendrá un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto para expedir el Reglamento Interno correspondiente.
+
+CUARTO.- La Universidad Autónoma del Estado de México, tendrá un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+QUINTO.- El Titular del Órgano Interno de Control de la Universidad Autónoma del Estado de México contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto que las necesidades del servicio se (sic) requieran, mediante la disponibilidad presupuestaria que para ello deberá ser prevista mediante el proceso de planeación , programación y presupuestación que se realiza anualmente.
+
+SEXTO.- Los procedimientos administrativos iniciados antes de 19 de julio de 2017 deberán concluir según las disposiciones aplicables vigentes a su inicio.
+
+Los asuntos iniciados después del 19 de julio de 2017, serán tramitados de conformidad con la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+SÉPTIMO.- El titular del Órgano Interno de Control de la Universidad Autónoma del Estado de México, ejercerá sus funciones por el período para el cual fue designado según Decreto 185 de la LX Legislatura del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 10 de septiembre de 2020.
+
+OCTAVO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
