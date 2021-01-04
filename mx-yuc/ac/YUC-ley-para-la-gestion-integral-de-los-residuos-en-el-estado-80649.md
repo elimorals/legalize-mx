@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-gestion-integral-de-los-residuos-en-el-estado-80649
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2019-06-18"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el viernes 8 de abril de 2011.
 
@@ -173,15 +173,23 @@ XLIII.- Sitio controlado: El sitio inadecuado de disposición final que cumple c
 
 XLIV.- Sistema de manejo ambiental: El conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
 
-XLV.- Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, y
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XLVI.- Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+XLV.- Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XLVI.- Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, Manejo integral y eficiencia ambiental, tecnológica y económica, y
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XLVII.- Licencia Ambiental Única: El instrumento por el que se evalúa y autoriza el funcionamiento de fuentes fijas de emisiones contaminantes, planes de manejo de residuos de manejo especial o proyectos ejecutivos para el manejo de residuos de manejo especial que sean de competencia estatal, mediante la tramitación de un solo procedimiento que ampare las autorizaciones emitidas en la normatividad ambiental vigente.
 
 ###### Artículo 5.
 
 Se considera de interés público:
 
-l.- Evitar el deterioro al medio ambiente o perjuicio a la colectividad por la liberación de residuos;
+I.- Evitar el deterioro al medio ambiente o perjuicio a la colectividad por la liberación de residuos;
 
 II.- Construir infraestructura que sirva para la preservación y protección del medio ambiente por la generación de los residuos, y para la remediación de sitios contaminados a fin de reducir los riesgos a la salud, y
 
@@ -243,7 +251,9 @@ I.- Formular, conducir y evaluar la política del Estado en materia de residuos 
 
 II.- Expedir un programa estatal para la gestión integral de los residuos de manejo especial y para la prevención de la contaminación de sitios con dichos residuos, así como promover los programas municipales para la prevención y gestión de los residuos sólidos, la prevención de la contaminación de sitios con tales residuos y su remediación;
 
-III.- Evaluar y autorizar el manejo integral de residuos de manejo especial así como los planes de manejo a que puedan estar sujetos;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+III.- Evaluar y autorizar la Licencia Ambiental Única para el Manejo integral de residuos, planes de manejo y proyectos ejecutivos sobre residuos que de ella deriven, así como otorgar los permisos, licencias y autorizaciones para la gestión de residuos, en el ámbito de su competencia;
 
 IV.- Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
@@ -257,7 +267,9 @@ VIII.- Someter a consideración de la Secretaría de Medio Ambiente y Recursos N
 
 IX.- Autorizar y controlar los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación;
 
-X.- Establecer e integrar el registro de los planes de manejo y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, las normas oficiales mexicanas y las técnicas ambientales que al efecto se emitan;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+X.- Establecer e integrar el registro de las Licencias Ambientales Únicas otorgadas, los planes de manejo y los programas para la instalación de sistemas destinados a la recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final de residuos, conforme a los lineamientos establecidos en la presente Ley, las normas oficiales mexicanas y las técnicas ambientales que al efecto se emitan;
 
 XI.- Promover y desarrollar en coordinación con el Gobierno Federal, las autoridades municipales y otras entidades, la creación de infraestructura para el manejo integral de residuos sólidos, de manejo especial y residuos peligrosos, de acuerdo a los criterios, normas oficiales mexicanas y las técnicas ambientales que se emitan;
 
@@ -295,11 +307,19 @@ XXVI.- Evaluar y en su caso autorizar la construcción y operación de los centr
 
 XXVII.- Promover la creación de microempresas o el establecimiento de mecanismos que permitan incorporar al sector informal que se dedica a la segregación de residuos;
 
-> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XXVIII.- Establecer, los criterios, lineamientos y programas referentes al uso de bolsas plásticas de acarreo de un solo uso, contenedores de poliestireno y popotes de plásticos entregadas (sic) a título gratuito o de manera onerosa en establecimientos mercantiles al consumidor final, con el fin de prevenir, disminuir y eliminar de manera gradual su consumo, y
+XXVIII.- Establecer los criterios, lineamientos y programas referentes al uso de bolsas plásticas de acarreo de un solo uso, contenedores de poliestireno y popotes de plásticos entregados a título gratuito o de manera onerosa en establecimientos mercantiles al consumidor final, con el fin de prevenir, disminuir y eliminar de manera gradual, su consumo;
 
-XXIX.- Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXIX.- Procurar la constante simplificación y digitalización de los trámites y servicios de su competencia;
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXX.- Proporcionar la información sobre los trámites y servicios de su competencia que permitan mantener actualizada la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, administrada por la Secretaría de Administración y Finanzas, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán, y
+
+XXXI.- Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 9.
 
@@ -391,9 +411,11 @@ VIII.- Regular los almacenes temporales de acopio y capacitar al personal para s
 
 IX.- Las demás que establezca el Reglamento de esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 13.
 
-Los planes de manejo establecerán las formas o mecanismos específicos para la gestión de determinados residuos, a fin de instaurar modalidades de manejo que respondan a las particularidades de los mismos y de los materiales que los constituyan.
+Los planes de manejo, a través de la Licencia Ambiental Única, establecerán las formas o mecanismos específicos para la gestión de determinados residuos, a fin de instaurar modalidades de manejo que respondan a las particularidades de ellos y de los materiales que los constituyan.
 
 La Secretaría, en coordinación con los municipios y respetando su ámbito de competencia, promoverá el establecimiento de planes de manejo para facilitar la devolución y acopio de productos de consumo que, al desecharse, se convierten en residuos, a fin de que sean enviados a instalaciones en las cuales se sometan a procesos que permitan su aprovechamiento o, de ser el caso, a empresas autorizadas a tratarlos o disponerlos en sitios de confinamiento.
 
@@ -403,9 +425,11 @@ La Secretaría, en coordinación con los municipios y respetando su ámbito de c
 
 El Poder Ejecutivo, por conducto de la Secretaría, dentro del ámbito de su competencia, establecerá un plan de manejo para la gestión de los residuos derivados de bolsas plásticas de acarreo de un solo uso y contenedores de poliestireno entregadas (sic) a título gratuito o de manera onerosa en establecimientos mercantiles al consumidor final, así como popotes plásticos a fin de propiciar su manejo, producción y consumo responsable; su reducción, reciclaje y reutilización; la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de las bolsas plásticas de acarreo de un solo uso, popotes plásticos y contenedores de poliestireno; y promover el uso de materias primas provenientes de recursos naturales renovables y reciclables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 14.
 
-Los planes de manejo tendrán por objeto:
+Los planes de manejo, a través de la Licencia Ambiental Única, tendrán por objeto:
 
 I.- Identificar formas de prevenir o reducir la Generación de Residuos;
 
@@ -447,9 +471,17 @@ II.- La disminución del impacto ambiental generado por las actividades administ
 
 III.- La eficiencia administrativa, a través del consumo racional y sustentable de los recursos materiales, utilizando de manera exhaustiva los bienes y servicios adquiridos de acuerdo a las necesidades reales y reciclando los residuos de éstos;
 
-IV.- La organización de estrategias de capacitación, sensibilización, información y comunicación de las políticas, lineamientos y planes en materia de gestión de residuos, así como de los avances y resultados que se obtengan de la implementación de los mismos, y
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-V.- Fomentar la adquisición de tecnología apropiada para disminuir el impacto ambiental por las actividades provenientes del ejercicio de sus funciones.
+IV.- La organización de estrategias de capacitación, sensibilización, información y comunicación de las políticas, lineamientos y planes en materia de gestión de residuos, así como de los avances y resultados que se obtengan de su implementación;
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+V.- Fomentar la adquisición de tecnología apropiada para disminuir el impacto ambiental de las actividades provenientes del ejercicio de sus funciones, y
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+VI.- La promoción de la Licencia Ambiental Única en su ámbito de atribuciones.
 
 Asimismo, promoverán que en los procesos de adquisición de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos de bajo impacto ambiental y que puedan regresarse a sus proveedores para que le den la disposición final adecuada.
 
@@ -545,9 +577,9 @@ III.- Aplicar las disposiciones específicas, criterios, normas y recomendacione
 
 IV.- Denunciar ante las autoridades competentes las infracciones contra la normatividad en materia residuos;
 
-> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-V.- Observar los planes y programas de manejo que se establezcan;
+V.- Instituir y observar los planes y programas de manejo que deriven de la Licencia Ambiental Única otorgada por la Secretaría;
 
 > <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
@@ -561,7 +593,9 @@ VII.- Las demás que establezcan las normas oficiales mexicanas y las normas té
 
 Los generadores de residuos de manejo especial, además de las obligaciones señaladas en el artículo anterior, deberán:
 
-I.- Obtener autorización de la Secretaría;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+I.- Obtener la Licencia Ambiental Única otorgada por la Secretaría;
 
 II.- Diseñar los planes de manejo de los residuos que generen y someterlos a la autorización de la Secretaría;
 
@@ -637,21 +671,29 @@ Los establecimientos de alimentos, restaurantes, bares y similares deberán disp
 
 ### CAPÍTULO I. De las Autorizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 32.
 
-Se requiere autorización de la Secretaría para llevar a cabo la etapa de disposición final del Manejo integral de residuos sólidos.
+Se requiere la Licencia Ambiental Única, y la autorización que de ella derive, ambas, otorgadas por la Secretaría, para llevar a cabo la etapa de disposición final del Manejo integral de residuos sólidos.
 
 Los Ayuntamientos autorizarán las etapas del Manejo integral de los residuos sólidos señaladas en las fracciones de la V a la XI del artículo 43 de esta Ley.
 
 Las autorizaciones se otorgarán por tiempo determinado y podrán renovarse siempre y cuando se cumplan los requisitos establecidos en las disposiciones legales aplicables, así como los que establezcan las autoridades competentes.
 
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría, y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán identificar las áreas y zonas apropiadas para el desarrollo y funcionamiento de obras e instalaciones dedicadas al almacenamiento, tratamiento o disposición final de residuos, las cuales podrán poner al alcance de la población a través de los medios e instrumentos, principalmente electrónicos, que faciliten su acceso y consulta por parte de la población. Para lo anterior, podrán celebrar convenios de coordinación, a efecto de compartir información, o bien, un sistema o plataforma tecnológica.
+
 ###### Artículo 33.
 
 Para el otorgamiento de autorizaciones para el funcionamiento de las infraestructuras que se requieren para el manejo integral de los residuos, en las etapas señaladas en el artículo 43 de esta Ley, se deberá:
 
-l.- Ubicarlas en lugares que reúnan los requisitos que establezca la normatividad aplicable;
+I.- Ubicarlas en lugares que reúnan los requisitos que establezca la normatividad aplicable;
 
-II.- Instituir un Plan de manejo autorizado por la Secretaría;
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+II.- Instituir un Plan de manejo, a través de la Licencia Ambiental Única autorizada por la Secretaría;
 
 III.-Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
 
@@ -661,9 +703,11 @@ V.- Otorgar garantías para asegurar que al cierre de las operaciones de sus ins
 
 Además de los requisitos señalados en este artículo, la persona física o moral deberá cumplir con lo que se establezca en las guías que publiquen las autoridades competentes, lo señalado en el Reglamento de ésta Ley y las condiciones de carácter técnico que se le den a conocer y que formarán parte de la autorización.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 34.
 
-Las personas interesadas en obtener las autorizaciones referidas, deberán presentar ante la Secretaría su solicitud de autorización cumpliendo con los requisitos señalados en las guías que para tal efecto se expidan.
+Las personas interesadas en obtener las licencias y autorizaciones estatales a que se refiere este capítulo, deberán presentar ante la Secretaría el formato de solicitud correspondiente y cumplir con los requisitos señalados en las guías que para tal efecto se expidan.
 
 ###### Artículo 35.
 
@@ -673,9 +717,11 @@ Durante la vigencia de la autorización, la empresa de servicio de Manejo integr
 
 Las personas que realicen actividades de acopio o almacenamiento de residuos sólidos para su reciclaje, deberán observar las disposiciones administrativas que el Poder Ejecutivo y los Ayuntamientos determinen, en su correspondiente ámbito de competencia, a fin de que el lugar y la actividad cumplan con esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 37.
 
-Son causas de revocación o negativa de las autorizaciones:
+Son causas de revocación o negativa de las licencias o autorizaciones:
 
 I.- Proporcionar información falsa;
 
@@ -693,19 +739,23 @@ La Secretaría resolverá sobre la petición de autorización a que se refiere e
 
 En caso de requerir información adicional a la presentada, el promovente dispondrá de quince días hábiles adicionales para presentarla y, si la información es satisfactoria, la Secretaría tendrá un plazo de cinco días hábiles para integrar el expediente; en caso contrario mandará archivar el expediente iniciado hasta la entrega de la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 39.
 
-La Secretaría negará o revocará las autorizaciones en el ámbito de su competencia, en los siguientes casos:
+La Secretaría negará o revocará las licencias o autorizaciones, en el ámbito de su competencia, en los siguientes casos:
 
-l.- Si se generan otros contaminantes o residuos peligrosos como resultado de sus actividades y se rebasan los límites máximos permisibles establecidos en las normas aplicables, y
+I.- Si se generan otros contaminantes o residuos peligrosos como resultado de sus actividades y se rebasan los límites máximos permisibles establecidos en las normas aplicables, y
 
 II.- Si no se satisfacen las disposiciones correspondientes de esta Ley, los ordenamientos que de ella deriven o las condicionantes de la autorización de impacto ambiental y demás disposiciones que resulten aplicables.
 
 En ambos casos estarán sujetos al cumplimiento de los requerimientos y de las sanciones que procedan.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 40.
 
-Las autorizaciones otorgadas podrán ser renovadas, actualizando la información antes de la fecha del vencimiento, siempre y cuando cumplan los requisitos establecidos.
+Las licencias o autorizaciones otorgadas podrán ser renovadas, actualizando la información antes de la fecha de vencimiento, siempre y cuando se cumplan los requisitos establecidos.
 
 ###### Artículo 41.
 
@@ -753,21 +803,21 @@ Las etapas que comprenden el Manejo integral de residuos se deberán llevar a ca
 
 Corresponde a los Ayuntamientos vigilar que los propietarios o poseedores de establos. caballerizas o cualquier otro local o sitio destinado al alojamiento de animales, reutilicen como composta o transporten periódicamente, el estiércol y demás residuos sólidos producidos en contenedores debidamente cerrados, a sitios en los cuales sean aprovechados, tratados o confinados de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 46.
 
-La transportación de residuos sólidos en el Estado, se realizará con la autorización de las autoridades estatales y municipales, en el ámbito de su competencia, las cuales, para otorgarla, deberán considerar lo siguiente:
+La transportación de residuos sólidos en el Estado se realizará con la autorización de las autoridades estatales y municipales, en el ámbito de su competencia, las cuales, para otorgarla, deberán considerar lo siguiente:
 
 I.- Que se cumplan las condiciones necesarias para el transporte, establecidas en el Reglamento de esta Ley;
 
-II.- Que se implementen las medidas de seguridad en el transporte, para proteger el medio ambiente de forma integral y, prioritariamente, la salud humana, y (sic)
+II.- Que se implementen las medidas de seguridad en el transporte para proteger el medio ambiente de forma integral y, prioritariamente, la salud humana;
 
-> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+III.- Que se diseñen rutas de transporte y, en su caso, se adapten a las necesidades que vaya generando el crecimiento del centro poblacional;
 
-III.- Que se diseñen rutas de transporte y en su caso se adapten a las necesidades que vaya generando el crecimiento del centro poblacional, y
+IV.- Que se empleen las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos, para evitar cualquier contaminación al medio ambiente, y
 
-> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
-
-IV.- Que se empleen las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos, para evitar cualquier contaminación al medio ambiente.
+V.- Que se cuente con la Licencia Ambiental Única.
 
 ### CAPÍTULO III. Del Aprovechamiento de Residuos
 
@@ -831,9 +881,11 @@ La selección y clausura de sitios de disposición final de los residuos, se deb
 
 El Manejo integral de los residuos de manejo especial comprende las etapas señaladas en el artículo 43 de esta Ley, con excepción de la etapa de limpia o barrido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 59.
 
-Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial, establecidas en las fracciones II, III y de la V a la XII del artículo 43 de esta Ley.
+Se requiere la Licencia Ambiental Única y la autorización de la Secretaría para llevar a cabo las etapas del Manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del artículo 43 de esta Ley. La Licencia Ambiental Única tendrá una vigencia de dos años y podrá ser renovada, previo cumplimiento de los requisitos y del procedimiento que establezca el Reglamento.
 
 Las autorizaciones deberán otorgarse por tiempo determinado, el cual podrá ser renovable siempre y cuando se cumplan los requisitos establecidos por las disposiciones legales aplicables, y la reglamentación que establezcan las autoridades competentes.
 
@@ -841,9 +893,11 @@ Las autorizaciones deberán otorgarse por tiempo determinado, el cual podrá ser
 
 Para el otorgamiento de las autorizaciones correspondientes al funcionamiento de las infraestructuras que se requieren para el Manejo integral de los residuos, en las etapas señaladas en el artículo 43 de esta Ley, será necesario cumplir con los requisitos establecidos en el artículo 33 de esta Ley.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 61.
 
-Las personas interesadas en obtener las autorizaciones referidas, deberán presentar ante la Secretaría la solicitud correspondiente, de conformidad con los requisitos señalados en las guías que para tal efecto se expidan.
+Las personas interesadas en obtener las licencias y autorizaciones estatales a que se refiere este capítulo, deberán presentar ante la Secretaría el formato de solicitud correspondiente y cumplir con los requisitos señalados en las guías que para tal efecto se expidan.
 
 ###### Artículo 62.
 
@@ -853,9 +907,11 @@ Durante la vigencia de la autorización, la empresa de servicio de Manejo integr
 
 Las personas que realicen actividades de acopio o almacenamiento de residuos de manejo especial para su reciclaje, deberán observar las disposiciones administrativas que el Poder Ejecutivo y los ayuntamientos determinen en su respectivo ámbito de competencia, a fin de que el lugar y la actividad cumplan con esta Ley.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 64.
 
-Serán causas de revocación o negativa de las autorizaciones para el Manejo integral de los residuos de manejo especial, las señaladas en el artículo 37 y 39 de esta Ley.
+Serán causas de revocación o negativa de las licencias o autorizaciones para el Manejo integral de los residuos de manejo especial, las señaladas en el artículo 37 y 39 de esta Ley.
 
 ###### Artículo 65.
 
@@ -1236,3 +1292,27 @@ Concluidos los plazos señalados, todos los establecimientos deberán de llevar 
 Cuarta.- Obligación normativa
 
 Los ayuntamientos del estado en un plazo de seis meses, contado a partir de la entrada en vigor de este decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las disposiciones contenidas en este decreto y expedir los programas municipales de sustitución y eliminación gradual de bolsas plásticas de acarreo de un solo uso, contenedores de poliestireno y popotes plásticos.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
