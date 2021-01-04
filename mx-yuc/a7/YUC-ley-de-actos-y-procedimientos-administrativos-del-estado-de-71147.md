@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-actos-y-procedimientos-administrativos-del-estado-de-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2016-12-28"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de diciembre de 2009.
 
@@ -154,6 +154,16 @@ XV.- De ser el caso, que se expida de manera congruente con lo solicitado y que 
 ###### Artículo 7.
 
 Los actos administrativos de carácter general, tales como reglamentos, decretos, acuerdos, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y cualquiera de naturaleza análoga a los anteriores, que expidan las dependencias y que afecten a particulares, deben publicarse en el Diario Oficial del Gobierno del Estado para que produzcan efectos jurídicos.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+###### Artículo 7 Bis.
+
+Las dependencias y entidades de la Administración Pública estatal designarán al personal que consideren necesario para realizar las notificaciones, las visitas de inspección o de verificación, o cualquier otro acto administrativo de naturaleza análoga previsto en esta ley y que requieran para el cumplimiento de sus atribuciones, de conformidad con las disposiciones legales y normativas aplicables en la materia que corresponda.
+
+Los actos administrativos señalados en el párrafo anterior de este artículo podrán realizarse por uno o varios servidores públicos, de acuerdo con los recursos de cada dependencia o entidad, y con la capacidad técnica de su personal, siempre y cuando cuenten con las facultades para ello. En la designación del personal que ha de realizar estos actos, las dependencias y entidades deberán procurar la mayor eficiencia posible, tanto para la institución como para la persona interesada.
+
+En caso de que la realización de diversos actos administrativos recaiga en un solo servidor público, este solo podrá realizar los actos administrativos de la dependencia o entidad de la que forme parte y no podrá realizar, simultáneamente, dos o más actos administrativos de diferente naturaleza, sino que deberá concluir los actos de cierta naturaleza que deba realizar, con las formalidades previstas en esta Ley, para poder iniciar los actos de diferente naturaleza que correspondan.
 
 ### CAPÍTULO II. De la Nulidad y Anulabilidad del Acto Administrativo
 
@@ -1306,3 +1316,27 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
