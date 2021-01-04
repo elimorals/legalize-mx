@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-mejora-regulatoria-para-el-estado-de-yucatan-139566"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-12"
-last_updated: "2019-12-12"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 12 de diciembre de 2019.
 
@@ -49,17 +49,19 @@ Ley de Mejora Regulatoria para el Estado de Yucatán
 
 ### Capítulo único
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
 Objeto
 
 Esta ley es de orden público y de observancia general en el estado de Yucatán, y tiene por objeto establecer el Sistema Estatal de Mejora Regulatoria, fijar las obligaciones de las autoridades del estado y los municipios en esta materia y regular los instrumentos para la aplicación de la política de mejora regulatoria en la entidad.
 
-Los poderes legislativo y judicial, así como los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa, que no formen parte del Poder Judicial, serán sujetos obligados para efectos de lo previsto en esta ley, solo respecto a las obligaciones contenidas en el Catálogo Estatal de Regulaciones, Trámites y Servicios.
+Los poderes legislativo y judicial, así como los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa que no formen parte del Poder Judicial, serán sujetos obligados, para efectos de lo previsto en esta ley, respecto a las obligaciones contenidas en el Catálogo Estatal de Regulaciones, Trámites y Servicios. En el caso específico del Poder Legislativo, también será sujeto obligado para efectos de lo relacionado con el análisis de impacto regulatorio, de conformidad con el artículo 60 de esta ley.
 
-Este ordenamiento no es aplicable a las materias de carácter fiscal tratándose de contribuciones y los accesorios que deriven directamente de aquellas responsabilidades de los servidores públicos, ni al Ministerio Público en ejercicio de sus funciones constitucionales.
+Este ordenamiento no es aplicable a las materias de carácter fiscal, tratándose de contribuciones y los accesorios que deriven directamente de aquellas responsabilidades de los servidores públicos, ni al Ministerio Público, en ejercicio de sus funciones constitucionales.
 
-La aplicación de esta ley corresponde al Consejo Estatal de Mejora Regulatoria de Yucatán, a la autoridad estatal de mejora regulatoria y a las comisiones municipales de mejora regulatoria, comités, unidades administrativas o áreas responsables dentro del ámbito de sus respectivas competencias.
+La aplicación de esta ley corresponde al Consejo Estatal de Mejora Regulatoria de Yucatán, a la autoridad estatal de mejora regulatoria y a las autoridades municipales de mejora regulatoria, comités, unidades administrativas o áreas responsables, dentro del ámbito de sus respectivas competencias.
 
 ###### Artículo 2.
 
@@ -93,7 +95,9 @@ Definiciones
 
 Para los efectos de esta ley, además de las definiciones previstas en el artículo 3 de la Ley General de Mejora Regulatoria, se entenderá por:
 
-I. Autoridad de mejora regulatoria: la unidad administrativa perteneciente al Gobierno del estado de Yucatán, las comisiones de mejora regulatoria municipales, los comités, las unidades administrativas o áreas responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+I. Autoridad de mejora regulatoria: La unidad administrativa perteneciente al Gobierno del estado de Yucatán, las autoridades municipales de mejora regulatoria, los comités, las unidades administrativas o las áreas responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia.
 
 II. Catálogo estatal: el Catálogo Estatal de Regulaciones, Trámites y Servicios.
 
@@ -117,41 +121,51 @@ XI. Padrón de inspección: El padrón estatal de servidores públicos con nombr
 
 XII. Programa de mejora regulatoria: El programa de mejora regulatoria de cada uno de los sujetos obligados y que, en su conjunto, integran el Programa Especial de Mejora Regulatoria.
 
-XIII. Portal oficial: El espacio de una red informática administrado por el Gobierno del estado o del municipio, según corresponda, que ofrece, de manera sencilla e integrada, información, acceso al interesado para gestionar los trámites y servicios que ofrecen los sujetos obligados, así como mecanismos de participación a través de la consulta pública.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XIV. Registro estatal: El Registro Estatal de Trámites y Servicios.
+XIII. Portal oficial: El espacio de una red informática, administrado por el Gobierno del estado, que ofrece, de manera sencilla e integrada, información y acceso al interesado para gestionar los trámites y servicios que ofrecen los sujetos obligados, así como mecanismos de participación, a través de la consulta pública.
 
-XV. Registro municipal: El Registro Municipal de Trámites y Servicios del municipio que corresponda.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XIV. Registro estatal: El Registro de Trámites y Servicios.
+
+XV. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
 XVI. Simplificación: El procedimiento por medio del cual se propicia la transparencia y la capacidad de síntesis en la elaboración de las regulaciones y procesos administrativos, así como la reducción de plazos y requisitos o la digitalización o eliminación de los trámites que emanan de tales disposiciones de carácter general, para disminuir las cargas del ciudadano.
 
 XVII. Sistema: El Sistema Estatal de Mejora Regulatoria.
 
-XVIII. Sujeto obligado: La Administración Pública estatal y sus respectivos homólogos de los municipios y sus dependencias y entidades, además de la Fiscalía General del Estado. Los poderes Legislativo y Judicial, así como los organismos con autonomía constitucional del orden estatal y los organismos con jurisdicción contenciosa, que no formen parte del Poder Judicial, serán sujetos obligados para efectos de lo previsto en el Capítulo I del Título Tercero de esta ley.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XVIII. Sujeto obligado: La Administración Pública estatal y sus respectivos homólogos de los municipios y sus dependencias y entidades, además de la Fiscalía General del Estado. Los poderes Legislativo y Judicial, así como los organismos con autonomía constitucional del orden estatal y los organismos con jurisdicción contenciosa que no formen parte del Poder Judicial, serán sujetos obligados para efectos de lo previsto en el Capítulo I del Título Tercero de esta ley. En el caso específico del Poder Legislativo, también será sujeto obligado para efectos de lo relacionado con el análisis de impacto regulatorio, de conformidad con el artículo 60 de esta ley.
 
 XIX. Trámite: La solicitud o entrega de información que las personas físicas o morales del sector privado realicen ante la autoridad competente en el ámbito estatal o municipal, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
 
-XX. Legalidad.- Es todo aquello que se realiza dentro del marco de la ley escrita.
+XX. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXI. Principio de Legalidad.- Es aquel en virtud del cual los poderes públicos están sujetos a la ley, de tal forma que todos sus actos deben ser conforme a ésta.
+XXI. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXII. Reserva de Ley.- Es el conjunto de materias que de manera exclusiva la Constitución entrega al ámbito de potestades del legislador, excluyendo de su ámbito la intervención de otros poderes del estado.
+XXII. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXIII. Jerarquía Normativa.- Ordenación jerárquica o escalonada de las normas jurídicas de modo que las normas de rango inferior no pueden contradecir ni vulnerar lo establecido por una norma de rango superior que tiene mucho valor, superioridad de la Constitución sobre cualquier otra norma jurídica.
+XXIII. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXIV. Maximización del Beneficio.- Es el objetivo económico de los entes públicos o de las empresas paraestatales, para así incrementar el valor de la misma.
+XXIV. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXV. Competitividad.- Es la capacidad de una persona u organización para desarrollar ventajas competitivas con respecto a sus competidores y obtener así, una posición destacada en su entorno.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XXVI. Máxima Publicidad.- Es el conjunto de disposiciones y actos mediante los cuales los sujetos obligados tienen el deber de poner a disposición de las personas solicitantes la información pública que poseen y dan a conocer, en su caso, el proceso y la toma de decisiones de acuerdo a su competencia.
+XXV. Competitividad: La capacidad de una organización para desarrollar ventajas con respecto a sus competidores y obtener, así, una posición destacada en su entorno.
 
-XXVII. La Participación Ciudadana.- Se entiende como la intervención de los ciudadanos en la esfera pública en función de intereses sociales de carácter particular.
+XXVI. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXVIII. Entidades: Las mencionadas en el Código de la Administración Pública de Yucatán;
+XXVII. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXIX. Plataforma: El sistema informático;
+XXVIII. (DEROGADA, D.O. 4 DE ENERO DE 2021)
 
-XXX. Diario Oficial.- El Diario Oficial del Gobierno de Estado de Yucatán;
+XXIX. (DEROGADA, D.O. 4 DE ENERO DE 2021)
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXX. Plataforma estatal: La Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción.
 
 ###### Artículo 4.
 
@@ -265,7 +279,9 @@ Los gastos que los sujetos obligados requieran para implementar acciones en mate
 
 Objeto del sistema estatal
 
-El Sistema Estatal de Mejora Regulatoria tiene por objeto coordinar a las autoridades del gobierno estatal y municipal con el sistema nacional, en sus respectivos ámbitos de competencia, a través de las normas, principios, objetivos y procedimientos correspondientes con la finalidad de implementar la estrategia, así como formular, desarrollar e implementar la estrategia estatal y la política de mejora regulatoria.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Sistema Estatal de Mejora Regulatoria tiene por objeto coordinar a las autoridades de los gobiernos estatal y municipales con el sistema nacional, en sus respectivos ámbitos de competencia, a través de las normas, principios, objetivos y procedimientos correspondientes, con la finalidad de implementar la estrategia así como formular, desarrollar e implementar la estrategia estatal y la política de mejora regulatoria, de conformidad con el sistema nacional.
 
 Para el cumplimiento de los objetivos de la ley, y garantizar el funcionamiento eficaz del sistema estatal, el consejo definirá los mecanismos de coordinación entre este y los consejos municipales.
 
@@ -279,9 +295,13 @@ I. La estrategia estatal.
 
 II. El consejo.
 
-III. Las autoridades de mejora regulatoria estatal.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-IV. Los Sistemas de Mejora Regulatoria en los municipios y las Comisiones Municipales de Mejora Regulatoria.
+III. La autoridad estatal de mejora regulatoria.
+
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IV. Los sistemas de mejora regulatoria en los municipios y las autoridades municipales de mejora regulatoria.
 
 V. Los sujetos obligados.
 
@@ -299,15 +319,21 @@ III. El análisis de impacto regulatorio.
 
 IV. Los programas de mejora regulatoria.
 
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+V. La plataforma estatal.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 15.
 
-Designación de la autoridad de mejora regulatoria
+Designación de enlaces de mejora regulatoria
 
-Los titulares de los sujetos obligados designarán a un servidor público con nivel de subsecretario u oficial mayor como responsable oficial de mejora regulatoria para coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria y la estrategia estatal al interior de cada sujeto obligado conforme a lo dispuesto en la ley general, en la estrategia, en esta ley y en las disposiciones que de ellas deriven.
+Los titulares de los sujetos obligados designarán a un servidor público con nivel de subsecretario, director general o su equivalente, como enlace de mejora regulatoria, quien ocupará este cargo y deberá coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria y de la estrategia estatal al interior de cada sujeto obligado, conforme a lo dispuesto en la ley general, en la estrategia, en esta ley y en las disposiciones que de ellas deriven.
 
-En caso de que el sujeto obligado no cuente con servidores públicos de dicho nivel, deberá ser un servidor público que tenga un nivel jerárquico inmediato inferior al del titular. En el caso de los poderes Legislativo y Judicial, estos decidirán lo conducente de conformidad con sus disposiciones orgánicas.
+En caso de que el sujeto obligado no cuente con servidores públicos de dicho nivel, el enlace de mejora regulatoria deberá ser un servidor público que tenga el nivel jerárquico inmediato inferior al del titular. En el caso de los poderes Legislativo y Judicial, estos decidirán lo conducente, de conformidad con sus disposiciones orgánicas.
 
-La coordinación y comunicación entre el sujeto obligado y la autoridad de mejora regulatoria correspondiente se llevará a cabo a través del responsable oficial de mejora regulatoria.
+La coordinación y comunicación entre el sujeto obligado y la autoridad de mejora regulatoria correspondiente se llevará a cabo a través del enlace de mejora regulatoria.
 
 ### Capítulo II. Estrategia Estatal de Mejora Regulatoria
 
@@ -425,7 +451,11 @@ XX. Fomentar la participación coordinada de los sectores público, privado y so
 
 XXI. Promover el uso de metodologías, criterios, instrumentos y programas acordes a las mejores prácticas.
 
-XXII. Las demás que establezca esta ley, la ley general y otras disposiciones aplicables en la materia.
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXII. Emitir lineamientos para el desarrollo de la plataforma estatal.
+
+XXIII. Las demás que establezca esta ley, la ley general y otras disposiciones aplicables en la materia.
 
 ###### Artículo 21.
 
@@ -445,23 +475,35 @@ V. El secretario de la Contraloría General.
 
 VI. El secretario técnico de Planeación y Evaluación.
 
-VII. Un representante del Congreso del estado, quien podrá ser designado por la Junta de Gobierno y Coordinación Política; o en su caso, el Presidente de la Mesa Directiva del Congreso, o el Presidente de la Comisión Permanente de Desarrollo Económico y Fomento al Empleo.
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
 
-VIII. El magistrado presidente del Poder Judicial del Estado.
+VII. Un representante de la comisión nacional.
 
-IX. El presidente municipal de Mérida, así como tres presidentes municipales designados por el consejo de la siguiente manera, uno de ellos deberá elegirse de aquellos municipios cuya población sea menor a 5 mil habitantes, otro de los de 5 mil hasta 15 mil habitantes, y uno restante de entre los municipios mayores a 15 mil habitantes.
+VIII. Un representante del Congreso del estado, quien podrá ser designado por la Junta de Gobierno y Coordinación Política; o en su caso, el Presidente de la Mesa Directiva del Congreso, o el Presidente de la Comisión Permanente de Desarrollo Económico y Fomento al Empleo.
 
-X. Cinco representantes de cámaras o asociaciones empresariales legalmente constituidas y establecidas en el estado. Tres de ellas designadas por el Titular del Poder Ejecutivo del Estado y dos a propuesta del sector empresarial.
+IX. El magistrado presidente del Poder Judicial del Estado.
 
-XI. Un representante del sector académico.
+X. El presidente municipal de Mérida, así como tres presidentes municipales designados por el consejo de la siguiente manera, uno de ellos deberá elegirse de aquellos municipios cuya población sea menor a 5 mil habitantes, otro de los de 5 mil hasta 15 mil habitantes, y uno restante de entre los municipios mayores a 15 mil habitantes.
 
-XII. Cuatro representantes del sector social, pertenecientes a organizaciones cuyo objeto o actividades se relacionen con la materia del consejo, entre ellos deberá contemplarse uno del sector obrero.
+XI. Cinco representantes de cámaras o asociaciones empresariales legalmente constituidas y establecidas en el estado. Tres de ellas designadas por el Titular del Poder Ejecutivo del Estado y dos a propuesta del sector empresarial.
 
-El presidente nombrará al secretario técnico del consejo y este participará en las sesiones únicamente con derecho a voz.
+XII. Un representante del sector académico.
+
+XIII. Cuatro representantes del sector social, pertenecientes a organizaciones cuyo objeto o actividades se relacionen con la materia del consejo, entre ellos deberá contemplarse uno del sector obrero.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El consejo contará con una secretaría técnica, que será desempeñada por el titular de la autoridad estatal de mejora regulatoria. El secretario técnico participará en las sesiones del consejo con derecho a voz y voto.
 
 Cada integrante titular podrá nombrar a un suplente que solamente podrá ser de nivel jerárquico inmediato inferior o equivalente.
 
-Los representantes a los que se refieren las fracciones X, XI y XII, participarán previa aceptación de la invitación que les realice el presidente del consejo para este fin y durarán cinco años en su cargo, con posibilidad de ratificación hasta por un periodo más.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los representantes a los que se refieren las fracciones XI, XII y XIII de este artículo participarán en el consejo previa aceptación de la invitación que al respecto les realice el presidente de este y durarán cinco años en su cargo, con posibilidad de ratificación hasta por un periodo más.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El presidente del consejo podrá invitar a participar en las sesiones de este, con carácter permanente o transitorio, a los servidores públicos de los tres órdenes de gobierno, poderes del estado u organismos constitucionales autónomos; a los representantes de los sectores privado o social; o a las personas que tengan conocimiento o prestigio en materia de mejora regulatoria y que puedan aportar opiniones valiosas y ser utilidad para el consejo. Los invitados participarán únicamente con derecho a voz.
 
 ###### Artículo 22.
 
@@ -480,6 +522,12 @@ El reglamento interno del consejo deberá establecer lo relativo a la organizaci
 ### Capítulo IV. Autoridades de mejora regulatoria
 
 #### Sección I. Autoridad de mejora regulatoria estatal
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 23 bis. Autoridad de mejora regulatoria
+
+El titular de la autoridad estatal de mejora regulatoria deberá ser un servidor público cuyo cargo sea de nivel subsecretario o su equivalente. El titular de la autoridad estatal de mejora regulatoria ocupará el cargo y se encargará de coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria y de la estrategia estatal en la entidad.
 
 ###### Artículo 24.
 
@@ -507,7 +555,9 @@ IX. Promover la integración de los catálogos estatal y municipales al catálog
 
 X. Compilar y revisar la información vertida en el Registro Nacional de Regulaciones que sea competencia del gobierno del estado.
 
-XI. Revisar y dictaminar las propuestas regulatorias, y sus análisis de impacto regulatorio, que se reciban de los sujetos obligados del ámbito estatal y, en su caso, municipal; lo anterior respetando los lineamientos que para tal efecto emita el consejo nacional.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XI. Revisar y dictaminar las propuestas regulatorias, y sus análisis de impacto regulatorio, que se reciban de los sujetos obligados del ámbito estatal; lo anterior, respetando los lineamientos que para tal efecto emita el consejo nacional.
 
 XII. Calcular el costo económico de los trámites y servicios con la información proporcionada por los sujetos obligados de la Administración Pública estatal, para lo cual podrá solicitar la asesoría de las autoridades que considere pertinente.
 
@@ -547,9 +597,19 @@ XXIX. Participar en foros, conferencias, coloquios, diplomados, seminarios, tall
 
 XXX. Elaborar y presentar al Congreso un informe anual sobre los resultados, avances y retos de la política estatal de mejora regulatoria, así como del desempeño de sus funciones en materia de mejora regulatoria y los avances de los sujetos obligados del ámbito estatal.
 
-XXXI. Remitir, dentro de los primeros tres días de cada mes, al medio de difusión que corresponda el listado y demás documentación que requiera publicación en términos del artículo 69 de esta ley.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
 
-XXXII. Las demás facultades que establezcan la ley general, esta ley y otras disposiciones jurídicas aplicables.
+XXXI. Remitir al medio de difusión que corresponda, dentro de los primeros siete días de cada mes, la lista y la demás documentación que requiera publicación, en términos del artículo 69 de esta ley.
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXXII. Promover el desarrollo de la plataforma estatal y su vinculación con los sistemas de apertura rápida de empresas que implementen y operen los ayuntamientos del estado.
+
+> <small>(ADICIONADA, D.O. 4 DE ENERO DE 2021)</small>
+
+XXXIII. Fomentar la coordinación con las dependencias y entidades de la Administración Pública estatal, para la actualización y el desarrollo de la plataforma estatal.
+
+XXXIV. Las demás facultades que establezcan la ley general, esta ley y otras disposiciones jurídicas aplicables.
 
 #### Sección II. Enlaces de mejora regulatoria
 
@@ -641,11 +701,15 @@ Política de mejora regulatoria para los poderes Legislativo, Judicial, organism
 
 Disposiciones comunes
 
-Los poderes Legislativo y Judicial, así como los organismos con autonomía constitucional del orden local y los organismos con jurisdicción contenciosa que no formen parte del poder judicial, atendiendo a su presupuesto, deberán designar, dentro de su estructura orgánica, una unidad o instancia responsable de la mejora regulatoria, encargada de aplicar lo establecido en el Capítulo I del Título Tercero de esta ley en relación con el catálogo o bien coordinarse con la autoridad de mejora regulatoria estatal.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los poderes Legislativo y Judicial, así como los organismos con autonomía constitucional del orden local y los organismos con jurisdicción contenciosa que no formen parte del poder judicial, atendiendo a su presupuesto, deberán designar, dentro de su estructura orgánica, una unidad o instancia responsable de la mejora regulatoria, encargada de aplicar lo establecido en el Capítulo I del Título Tercero de esta ley en relación con el catálogo o bien coordinarse con la autoridad de mejora regulatoria estatal, previo convenio de coordinación.
 
 Lo previsto en el párrafo anterior no será aplicable para procesos jurisdiccionales.
 
-Todas las iniciativas que se presenten al Congreso del estado y que impliquen costos o la creación de trámites para el ciudadano deberán contar con análisis de impacto regulatorio, para lo cual, este órgano podrá designar una autoridad de mejora regulatoria encargada de dicha función o coordinarse con la autoridad de mejora regulatoria estatal.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Todas las iniciativas que se presenten al Congreso del estado y que impliquen la generación o modificación de costos o trámites para el ciudadano deberán contar con análisis de impacto regulatorio, de conformidad con el artículo 60 de esta ley.
 
 ## Título tercero. Herramientas del Sistema Estatal de Mejora Regulatoria
 
@@ -669,43 +733,45 @@ Inscripción del catálogo estatal
 
 La inscripción y actualización del catálogo y del catálogo estatal es de carácter permanente y obligatorio para todos los sujetos obligados en el ámbito de sus competencias, por lo que deberán informar periódicamente a la autoridad de mejora regulatoria correspondiente cualquier modificación a la información inscrita en los catálogos, conforme a lo establecido en la ley general.
 
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 34.
 
 Integración del catálogo estatal
 
 El catálogo estatal estará integrado por:
 
-I. El Registro Estatal de Regulaciones.
+I. El Registro de Regulaciones.
 
-II. El Registro Municipal de Regulaciones que establezca cada ayuntamiento.
+II. El registro estatal.
 
-III. El registro estatal.
+III. El Expediente para Trámites y Servicios.
 
-IV. Los registros municipales de trámites y servicios.
+IV. El Registro de Visitas Domiciliarias, Inspecciones y Verificaciones.
 
-V. El Expediente para Trámites y Servicios.
-
-VI. El Registro Estatal de Visitas Domiciliarias, Inspecciones y Verificaciones.
-
-VII. La protesta ciudadana.
+V. La protesta ciudadana.
 
 #### Sección II. Registros de regulaciones
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 35.
 
 Objeto del registro de regulaciones
 
-El Registro Estatal de Regulaciones y los registros municipales de regulaciones son las herramientas tecnológicas públicas que compilan las regulaciones de los sujetos obligados del estado. Tendrán carácter público y contendrán la misma información que estará inscrita en el Registro Nacional de Regulaciones previsto en la ley general.
+El Registro de Regulaciones es la herramienta tecnológica pública que compila las regulaciones de los sujetos obligados del estado. Tendrá carácter público y contendrá la misma información que esté inscrita en el Registro Nacional de Regulaciones, previsto en la ley general.
 
-La autoridad de mejora regulatoria estatal integrará y administrará del Registro Estatal de Regulaciones en un portal oficial que se vincule con la información inscrita en el Registro Estatal de Trámites y Servicios.
+La autoridad estatal de mejora regulatoria integrará y administrará del Registro de Regulaciones en un portal oficial que se vincule con la información inscrita en el registro estatal.
 
-Los sujetos obligados serán los responsables de inscribir y actualizar permanentemente la información que les corresponde en el Registro Estatal de Regulaciones y en los registros municipales de regulaciones, asegurándose de que las regulaciones vigentes que apliquen se encuentren contenidas en este registro. Cuando exista una regulación estatal cuya aplicación no se atribuya a algún sujeto obligado del ámbito estatal específico, corresponderá a la Secretaría General de Gobierno su registro y actualización.
+Los sujetos obligados serán los responsables de inscribir y actualizar permanentemente la información que les corresponda en el Registro de Regulaciones, asegurándose de que las regulaciones vigentes que apliquen se encuentren contenidas en este registro. Cuando exista una regulación estatal cuya aplicación no se atribuya a algún sujeto obligado específico del ámbito estatal, corresponderá a la Secretaría General de Gobierno su registro y actualización.
 
 ###### Artículo 36.
 
 Requisitos del registro de regulaciones
 
-El Registro Estatal de Regulaciones deberá contemplar para cada regulación contenida una ficha con, al menos, la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Registro de Regulaciones deberá considerar, para cada regulación contenida, una ficha con, al menos, la siguiente información:
 
 I. Nombre de la regulación.
 
@@ -737,57 +803,65 @@ En caso de que la autoridad de mejora regulatoria estatal identifique errores u 
 
 ###### Artículo 37.
 
-Convenios municipales
+(DEROGADO, D.O. 4 DE ENERO DE 2021)
 
-Los municipios que no cuenten con los medios para contar con una plataforma electrónica, podrán celebrar convenios de colaboración con la autoridad de mejora regulatoria estatal a efecto de que esta comparta su infraestructura tecnológica con ellos, con base en los recursos y capacidades con que el estado cuente.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
 
-#### Sección III. Registro estatal y municipales de trámites y servicios
+#### Sección III. Registro Estatal de Trámites y Servicios
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 38.
 
 Objeto del registro de trámites y servicios
 
-Los registros de trámites y servicios son herramientas tecnológicas que compilan los trámites y servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de las tecnologías de la información. Tendrán carácter público y la información que contengan será vinculante para los sujetos obligados.
+El registro estatal es la herramienta tecnológica que compila los trámites y servicios de los sujetos obligados del estado con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de las tecnologías de la información. Tendrá carácter público y la información que contenga será vinculante para los sujetos obligados.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 39.
 
-Listado de trámites y servicios
+Contenido
 
-Los registros de trámites y servicios serán los siguientes:
+El registro estatal contendrá la información relacionada con los trámites y servicios de los siguientes sujetos obligados:
 
-I. El registro estatal.
+I. El Poder Ejecutivo del estado, a través de sus dependencias y entidades.
 
-II. Los registros municipales de trámites y servicios que cada ayuntamiento establezca.
+II. Los ayuntamientos del estado.
 
-III. De los poderes Legislativo y Judicial del estado.
+III. Los poderes Legislativo y Judicial del estado.
 
-IV. De los órganos constitucionales autónomos.
+IV. Los órganos constitucionales autónomos del estado.
 
-V. De los organismos con jurisdicción contenciosa que no formen parte del Poder Judicial.
+V. Los organismos con jurisdicción contenciosa que no formen parte del Poder Judicial del estado.
 
-VI. Los registros de los demás sujetos obligados, en caso de que no se encuentren comprendidos en alguna de las fracciones anteriores.
+VI. Los demás sujetos obligados, en caso de que no se encontraran comprendidos en alguna de las fracciones anteriores.
 
-La inscripción y actualización de los registros de trámites y servicios es de carácter permanente y obligatorio para todos los sujetos obligados.
+La inscripción y actualización del registro estatal es de carácter permanente y obligatorio para todos los sujetos obligados, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 40.
 
 Procedimiento para el registro de trámites y servicios
 
-La autoridad de mejora regulatoria será la responsable de administrar la información que los sujetos obligados, en sus respectivos ámbitos de competencia, inscriban en sus registros de trámites y servicios.
+La autoridad estatal de mejora regulatoria será la responsable de administrar la información que los sujetos obligados, en sus respectivos ámbitos de competencia, inscriban en el registro estatal.
 
-Los sujetos obligados serán los responsables de ingresar y actualizar la información que les corresponda en los registros de trámites y servicios respectivos. La legalidad y el contenido de la información que inscriban los sujetos obligados en los registros de trámites y servicios es bajo su estricta responsabilidad.
+Los sujetos obligados serán los responsables de ingresar y actualizar la información que les corresponda en el registro estatal. Es responsabilidad de los sujetos obligados la legalidad y el contenido de la información que inscriban.
 
-A partir del momento en que la autoridad de mejora regulatoria correspondiente identifique errores u omisiones en la información proporcionada, tendrá un plazo de cinco días para comunicar sus observaciones al sujeto obligado. Dichas observaciones tendrán carácter vinculante para los sujetos obligados, quienes a su vez contarán con un plazo de cinco días para solventar las observaciones. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, la autoridad de mejora regulatoria que corresponda publicará, dentro del término de cinco días, la información en su registro de trámites y servicios.
+A partir del momento en que la autoridad estatal de mejora regulatoria identifique errores u omisiones en la información proporcionada, tendrá un plazo de cinco días para comunicar sus observaciones al sujeto obligado. Dichas observaciones tendrán carácter vinculante para los sujetos obligados, quienes, a su vez, contarán con un plazo de cinco días para solventar las observaciones. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, la autoridad estatal de mejora regulatoria publicará, dentro del término de cinco días, la información en el registro estatal.
 
-La omisión o la falsedad de la información que los sujetos obligados inscriban en los registros de trámites y servicios será sancionada en términos de la legislación aplicable en materia de responsabilidades administrativas.
+La omisión o la falsedad de la información que los sujetos obligados inscriban en el registro estatal será sancionada en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
-La legislación o normativa de los registros de trámites y servicios se ajustará a lo previsto en la ley general y sus disposiciones reglamentarias.
+La normativa del registro estatal se ajustará a lo previsto en la ley general y sus disposiciones reglamentarias.
 
 ###### Artículo 41.
 
 Inscripción y actualización de información
 
-Los sujetos obligados deberán inscribir y mantener actualizada al menos la siguiente información y documentación de sus trámites y servicios dentro de la sección correspondiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los sujetos obligados deberán inscribir y mantener actualizada, dentro de la sección correspondiente del registro estatal, al menos, la siguiente información y documentación sobre sus trámites y servicios:
 
 I. Nombre y descripción del trámite o servicio.
 
@@ -831,9 +905,13 @@ Para que puedan ser aplicables los trámites y servicios es indispensable que co
 
 Para la información a que se refieren las fracciones V, VI, VIII, X, XI, XII, XIII, XIV y XVIII, los sujetos obligados deberán establecer el fundamento jurídico aplicable, relacionándolo con la regulación inscrita en los registros nacional y estatal de regulaciones.
 
-Los sujetos obligados deberán inscribir en su registro de trámites y servicios que les corresponda y en el catálogo la información a que se refiere este artículo y la autoridad de mejora regulatoria, dentro de los cinco días siguientes, deberá efectuar la publicación sin cambio alguno, siempre que la disposición que dé fundamento a la actualización de la información contenida en el catálogo se encuentre vigente. En caso contrario, la autoridad de mejora regulatoria correspondiente no podrá efectuar la publicación correspondiente sino hasta la entrada en vigor de la disposición que fundamente la modificación.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
-Los sujetos obligados deberán inscribir o modificar la información de su registro de trámites y servicios y en el catálogo dentro de los diez días siguientes a que se publique en el medio de difusión.
+Los sujetos obligados deberán inscribir en el registro estatal y en el catálogo la información a que se refiere este artículo y la autoridad de mejora regulatoria correspondiente, dentro de los cinco días siguientes, deberá efectuar la publicación sin cambio alguno, siempre que la disposición que dé fundamento a la actualización de la información contenida en el catálogo se encontrara vigente. En caso contrario, la autoridad de mejora regulatoria correspondiente no podrá efectuar la publicación respectiva sino hasta la entrada en vigor de la disposición que fundamente la modificación.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los sujetos obligados deberán inscribir o modificar la información que les corresponda en el registro estatal y en el catálogo, dentro de los diez días siguientes a que se publique en el medio de difusión.
 
 Los sujetos obligados que apliquen trámites y servicios deberán tener a disposición del público la información que al respecto esté inscrita en el catálogo.
 
@@ -841,7 +919,9 @@ Los sujetos obligados que apliquen trámites y servicios deberán tener a dispos
 
 Prohibición de aplicar trámites y servicios
 
-Los sujetos obligados no podrán aplicar trámites o servicios adicionales a los establecidos en su registro de trámites y servicios respectivo o en el catálogo, ni podrán exigir requisitos adicionales o en forma distinta a como se inscriban, a menos que se presente cualquiera de las siguientes circunstancias:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los sujetos obligados no podrán aplicar trámites o servicios adicionales a los establecidos en el registro estatal o en el catálogo, ni podrán exigir requisitos adicionales o en forma distinta a como se inscriban, a menos que se presente cualquiera de las siguientes circunstancias:
 
 I. La existencia del trámite o servicio sea por única ocasión y no exceda los sesenta días.
 
@@ -853,17 +933,17 @@ En caso de incumplimiento del primer párrafo de este artículo, la autoridad de
 
 ###### Artículo 43.
 
-Convenios
+(DEROGADO, D.O. 4 DE ENERO DE 2021)
 
-Los municipios que no cuenten con los medios para tener una plataforma electrónica que contenga su registro municipal de trámites y servicios, podrán celebrar convenios de colaboración con el estado a efecto de que comparta su plataforma con ellos, con base en los recursos y capacidades que el estado disponga.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
 
 ###### Artículo 44.
 
 Obligación de informar
 
-Los sujetos obligados deberán, dentro del ámbito de su competencia, proporcionar información inmediata al ciudadano sobre cualquiera de los trámites y servicios que se encuentren inscritos en su registro de trámites y servicios que corresponda.
+Los sujetos obligados deberán, dentro del ámbito de sus respectivas competencias, proporcionar información inmediata al ciudadano sobre cualquiera de los trámites y servicios que se encuentren inscritos en el registro estatal.
 
-Los servidores públicos de los sujetos obligados deberán proporcionarle al ciudadano la liga de acceso al registro de trámites y servicios correspondiente.
+Los servidores públicos de los sujetos obligados deberán proporcionarle al ciudadano la liga de acceso al registro estatal.
 
 #### Sección IV. Expediente para trámites y servicios
 
@@ -893,27 +973,33 @@ Integración del documento autógrafo
 
 Los sujetos obligados integrarán al expediente los documentos firmados autógrafamente cuando se encuentre en su poder el documento original y se cumpla con lo siguiente:
 
-I. Que la migración a una forma digital haya sido realizada o supervisada por un servidor público que cuente con facultades de certificación de documentos en términos de las disposiciones aplicables.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+I. Que la migración del documento a un formato digital se haga o se supervise por un servidor público con facultades para ello.
 
 II. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta.
 
 III. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud.
 
-IV. Que cuente con la firma electrónica avanzada del servidor público al que se refiere la fracción I de este artículo.
+> <small>(REFORMADA, D.O. 4 DE ENERO DE 2021)</small>
+
+IV. Las demás condiciones que la autoridad estatal de mejora regulatoria disponga en los manuales correspondientes.
 
 ###### Artículo 49.
 
-Expediente único empresarial
+(DEROGADO, D.O. 4 DE ENERO DE 2021)
 
-Cuando se trate de procedimientos administrativos relacionados con la apertura y operación de las empresas, el Expediente Electrónico Empresarial hará las veces del expediente.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE ENERO DE 2021)</small>
 
-#### Sección V. Registro Estatal de Visitas Domiciliarias, Inspecciones y Verificaciones
+#### Sección V. Registro de Visitas Domiciliarias, Inspecciones y Verificaciones
 
 ###### Artículo 50.
 
 Integración del registro
 
-El Registro Estatal de Visitas Domiciliarias, Inspecciones y Verificaciones se integrará por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Registro de Visitas Domiciliarias, Inspecciones y Verificaciones se integrará por:
 
 I. El padrón de inspectores, verificadores y visitadores en el ámbito administrativo.
 
@@ -1022,6 +1108,10 @@ Objeto del análisis de impacto regulatorio
 El análisis de impacto regulatorio es una herramienta que tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que estas representen la mejor alternativa para atender una problemática específica.
 
 La finalidad del análisis de impacto regulatorio es garantizar que las regulaciones salvaguarden el interés general, considerando los impactos o riesgos de la actividad a regular, así como las condiciones institucionales de los sujetos obligados.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Las iniciativas que se presenten al Congreso del estado y que impliquen la generación o modificación de costos o trámites para el ciudadano deberán contar con análisis de impacto regulatorio, elaborado por la autoridad de mejora regulatoria correspondiente. El análisis de impacto regulatorio de las iniciativas presentadas por diputadas o diputados será elaborado por la autoridad que designe el Congreso del estado, o bien, por la autoridad estatal de mejora regulatoria, mediante convenio de coordinación. El análisis de impacto regulatorio de las iniciativas presentadas mediante iniciativa popular será elaborado por la autoridad estatal de mejora regulatoria, previa solicitud de la ciudadana o del ciudadano interesado.
 
 Las autoridades de mejora regulatoria expedirán los manuales respecto al análisis de impacto regulatorio, aplicando los lineamientos generales aprobados por el consejo nacional.
 
@@ -1163,7 +1253,9 @@ Objeto de los programas de mejora regulatoria
 
 Los programas de mejora regulatoria son las herramientas que tienen por objeto mejorar la regulación vigente e implementar acciones de simplificación de trámites y servicios.
 
-Los sujetos obligados, de acuerdo con el calendario que se establezca en términos del párrafo siguiente, someterán a la autoridad de mejora regulatoria correspondiente su programa de mejora regulatoria, con una vigencia anual, bienal o por el tiempo que dure la administración, en relación con la regulación, trámites y servicios que aplican, y en los primeros cinco días de los meses de mayo y noviembre de cada año, sus reportes sobre los avances de sus programas de mejora regulatoria o sus resultados, en el caso de que los programas hayan concluido, así como las áreas de oportunidad que hayan detectado, en su caso.
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Los sujetos obligados, de acuerdo con el calendario que se establezca en términos del párrafo siguiente, someterán a la autoridad de mejora regulatoria correspondiente sus programas de mejora regulatoria, en relación con la regulación o los trámites y servicios que apliquen. Estos programas tendrán una vigencia anual, bienal o por el tiempo que dure la administración. Asimismo, los sujetos obligados presentarán sus reportes sobre los avances de sus programas de mejora regulatoria o sus resultados, en el caso de que los programas hayan concluido, así como las áreas de oportunidad que hayan detectado, en su caso.
 
 La autoridad de mejora regulatoria emitirá los lineamientos para establecer los calendarios, mecanismos, formularios e indicadores para la implementación de los programas de mejora regulatoria, considerando los lineamientos generales contenidos en la estrategia.
 
@@ -1267,9 +1359,35 @@ Certificados vigentes y coordinación
 
 Las autoridades de mejora regulatoria publicarán en su portal electrónico un listado que contendrá las certificaciones vigentes y deberán notificar a la comisión nacional sobre la creación, modificación o extinción de sus programas específicos de simplificación y mejora regulatoria. Las autoridades de mejora regulatoria revocarán el certificado correspondiente cuando detecten el incumplimiento de alguno de los principios u objetivos previstos en esta ley.
 
-### Capítulo VI. Información estadística
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE ENERO DE 2021)</small>
 
-### Capítulo único
+### Capítulo VI. Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 80 bis. Objeto
+
+La plataforma estatal es un sistema tecnológico que tiene por objeto lograr la apertura de empresas y la obtención de permisos de construcción en el menor tiempo posible, mediante la implementación de mecanismos electrónicos que permitan realizar en línea los trámites y acceder a los servicios necesarios, con el propósito de disminuir los costos en tiempo y dinero que estos implican.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 80 ter. Autoridad responsable
+
+La plataforma estatal será desarrollada y administrada por la Secretaría de Administración y Finanzas, y operada y actualizada por las dependencias y entidades de la Administración Pública estatal, de conformidad con los lineamientos que al respecto emita el consejo.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 80 quater. Autoridades corresponsables
+
+Para el desarrollo de la plataforma estatal, las dependencias y entidades de la Administración Pública estatal deberán identificar, simplificar y digitalizar, constantemente, en coordinación con la autoridad estatal de mejora regulatoria, los trámites y servicios de su competencia que sean necesarios para la apertura de empresas y la obtención de permisos de construcción.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Artículo 80 quinquies. Coordinación intergubernamental
+
+El Gobierno del estado podrá celebrar convenios de coordinación con los ayuntamientos, para vincular la plataforma estatal con los sistemas de apertura rápida de empresas que cuenten con la certificación correspondiente, emitida por la comisión nacional, y, con ello, ampliar el alcance de la plataforma estatal, potenciar su objeto y facilitar, en mayor medida, la realización de los trámites y el acceso a los servicios necesarios para la apertura de empresas y la obtención de permisos de construcción en la entidad.
+
+### Capítulo VII. Información estadística
 
 ###### Artículo 81.
 
@@ -1278,6 +1396,8 @@ Apoyo para estudios y encuestas
 Los sujetos obligados y las autoridades de mejora regulatoria brindarán todas las facilidades y proporcionarán toda la información en materia de mejora regulatoria que les sea requerida por el Instituto Nacional de Estadística y Geografía, en términos de la ley general.
 
 ## Título cuarto. Responsabilidades administrativas
+
+### Capítulo único
 
 ###### Artículo 82.
 
@@ -1352,3 +1472,29 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
