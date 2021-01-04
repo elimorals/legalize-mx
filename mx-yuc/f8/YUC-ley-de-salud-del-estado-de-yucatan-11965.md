@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2020-12-09"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -1849,6 +1849,14 @@ Es competencia del Estado ejercer el control y Regulación Sanitaria de los esta
 
 Dichas acciones consisten en el otorgamiento de las autorizaciones sanitarias respectivas, la vigilancia y verificación de los establecimientos, la aplicación de medidas de seguridad, la imposición de sanciones y en general todos aquellos actos que permitan preservar la salubridad local de los habitantes de esta Entidad Federativa.
 
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+El Estado, a través del Organismo, procurará la constante simplificación y digitalización de los trámites y servicios necesarios para la obtención de las autorizaciones sanitarias a que se refiere este artículo, con el propósito de disminuir los costos en tiempo y dinero que esta implica, sin dejar de ejercer el control y la regulación sanitaria que le compete en virtud de esta Ley.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+Para lo anterior, el Organismo proporcionará la información sobre dichos trámites y servicios, a efecto de desarrollar y mantener actualizada la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, administrada por la Secretaría de Administración y Finanzas, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
 ###### ARTICULO 180.
 
 Corresponde al Estado emitir las normas técnicas locales para la Regulación y Control Sanitario de las materias de salubridad local.
@@ -2406,6 +2414,14 @@ I.- Los días que se determinen conforme a la legislación electoral federal y e
 II.- Los que en forma expresa determine el Ayuntamiento por acuerdo de Cabildo o a través de sus reglamentos y para casos de riesgo, emergencia o por causa de seguridad pública, y
 
 III.- Los que en forma expresa y para fechas y plazos determinados, decrete el Titular del Poder Ejecutivo del Estado, en los términos de la fracción anterior.
+
+> <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
+
+###### ARTICULO 253-G.
+
+El Organismo, en coordinación con la Secretaría de Administración y Finanzas, pondrá al alcance de la ciudadanía la información relacionada con las determinaciones sanitarias que facilite su obtención, sin perjuicio del cumplimiento de los requisitos establecidos en esta Ley y en la normativa aplicable, y de conformidad con las disposiciones legales y normativas aplicables en materia de protección de datos personales.
+
+Lo anterior, lo hará, preferentemente, a través de la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en particular, de su mapa georreferenciado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -3606,3 +3622,27 @@ D.O. 9 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 312/2020 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN Y LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE SALUD BUCODENTAL”.]
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 340/2020 POR EL QUE SE MODIFICAN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE VÍAS TERRESTRES DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuación de reglamentos y disposiciones complementarias
+
+El Poder Ejecutivo del estado deberá adecuar o, en su caso, emitir los reglamentos y las disposiciones complementarias que sean necesarias para detallar, en lo procedente, las modificaciones realizadas en virtud de este decreto. Para ello, contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Desarrollo de la plataforma estatal
+
+La Secretaría de Administración y Finanzas contará con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, para poner a disposición de la ciudadanía la Plataforma de Trámites y Servicios Transversales del Gobierno del Estado de Yucatán para la Apertura de Empresas y Permisos de Construcción, en términos de la Ley de Mejora Regulatoria para el Estado de Yucatán.
+
+Cuarto. Actualización del consejo estatal de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integración a lo previsto en este decreto, a efecto de que se encuentre completa para la siguiente sesión que celebre a partir de la entrada en vigor de este.
+
+Quinto. Actualización del órgano colegiado en materia de medio ambiente
+
+El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
