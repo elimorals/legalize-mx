@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2020-04-14"
+last_updated: "2021-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2021.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -1665,9 +1665,11 @@ Emplazamiento al demandado
 
 175.- Si se trata de emplazamiento o primera notificación, se hará personalmente al demandado o a su representante en el domicilio designado, y encontrándolo presente en la primera busca, el Notificador, previo cercioramiento de su identidad y domicilio, entenderá la diligencia con éste, entregándole y corriéndole traslado con el escrito de demanda y demás documentos presentados con la misma, así como con transcripción del auto que ordene el emplazamiento que contendrá todos los datos de identificación del juicio y del Tribunal donde se encuentra radicado. El Notificador levantará razón del acto, anotando todas las circunstancias anteriores, recabando la firma o huella digital del emplazado y notificado; de no poder hacerlo o rehusarse, se harán constar tales hechos.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
-176.- En caso de que el Notificador no encontrare en el domicilio señalado al demandado o a su representante en la primera busca, le dejará citatorio en el que hará constar la fecha y hora de su entrega, la hora fija hábil del día siguiente para que le espere, nombre del promovente, Tribunal que ordena la diligencia, la determinación que se manda notificar y el nombre y domicilio de la persona a quien se entrega la cita, recabando su firma o huella digital, o haciendo constar que ésta no supo hacerlo o se negó a firmar, de todo lo cual asentará razón en autos.
+176.- En caso de que el Notificador no encontrare en el domicilio señalado al demandado o a su representante en la primera busca, o encontrándolo no se identifique a través de un documento oficial que acredite su identidad, le dejará citatorio en el que hará constar la fecha y hora de su entrega, la hora fija hábil del día siguiente para que le espere, nombre del promovente, Tribunal que ordena la diligencia, la determinación que se manda notificar y el nombre y domicilio de la persona a quien se entrega la cita, recabando su firma o huella digital, o haciendo constar que ésta no supo hacerlo o se negó a firmar, de todo lo cual asentará razón en autos
 
 ###### Artículo 1.
 
@@ -9290,3 +9292,11 @@ G.G. 14 DE ABRIL DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 4 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228.- POR EL QUE SE REFORMA EL ARTÍCULO 1.176 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno”.
