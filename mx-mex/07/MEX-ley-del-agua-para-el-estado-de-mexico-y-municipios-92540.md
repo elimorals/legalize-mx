@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2020-09-29"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -211,13 +211,13 @@ XXXV. Drenaje: Sistema de obras hidráulicas para la descarga y alejamiento de l
 
 XXXVI. Estado: Estado de México;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXVI Bis. Evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales: Al análisis efectuado por la Comisión para la prestación de los servicios de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales;
+XXXVI Bis. Evaluación técnica de impacto en materia de agua, drenaje, alcantarillado y tratamiento de aguas residuales: Al análisis efectuado por la Comisión para la prestación de los servicios de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXVI Ter. Evaluación técnica de factibilidad de distribución de agua: Al análisis efectuado por la Comisión para la distribución de agua potable y tratada a través de pipas;
+XXXVI Ter. Evaluación técnica de impacto en materia de distribución de agua: Al análisis efectuado por la Comisión para la distribución de agua potable y tratada a través de pipas;
 
 XXXVII. Explotación: Aplicación del agua en actividades encaminadas a extraer elementos químicos u orgánicos disueltos en la misma, después de lo cual es retornada a su fuente original sin consumo significativo;
 
@@ -603,9 +603,9 @@ VI. Asesorar a las comunidades y a los municipios que lo soliciten, en las gesti
 
 VII. Asesorar, auxiliar y proporcionar asistencia técnica a los municipios y a los organismos operadores que lo soliciten;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VIII. Emitir la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, respecto de las factibilidades para los nuevos desarrollos urbanos, industriales y de servicios, que otorguen los municipios sobre los proyectos de dotación de los servicios. Cuando tales evaluaciones técnicas se relacionen con las autorizaciones a que se refiere el Libro Quinto del Código Administrativo del Estado de México, las mismas se emitirán a través de los medios que considere pertinentes, incluyendo las plataformas tecnológicas;
+VIII. Emitir la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, respecto de las factibilidades para los nuevos desarrollos urbanos, industriales y de servicios, que otorguen los municipios sobre los proyectos de dotación de los servicios. Cuando tales evaluaciones técnicas se relacionen con las autorizaciones a que se refiere el Libro Quinto del Código Administrativo del Estado de México, las mismas se emitirán a través de los medios que considere pertinentes, incluyendo las plataformas tecnológicas;
 
 IX. Verificar que los desarrollos a que se refiere la fracción anterior se ubiquen en predios con vocación no inundable, debiendo emitir opinión negativa, en su caso, o condicionada a que se realicen las obras necesarias para evitar la inundación;
 
@@ -661,9 +661,9 @@ XXX. Implementar, operar y mantener la red estatal de estaciones meteorológicas
 
 XXXI. Coadyuvar con los organismos operadores del agua al cumplimiento del marco regulatorio y de los títulos de concesión que al efecto se otorguen para la prestación de los servicios;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXI Bis. Verificar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, el cumplimiento de las condiciones con base en las cuales se haya otorgado la evaluación técnica de factibilidad para la distribución de agua y el Permiso de Distribución, mediante visitas de verificación, así como la aplicación de medidas de seguridad e imposición de sanciones en términos de esta Ley y demás disposiciones jurídicas aplicables;
+XXXI Bis. Verificar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, el cumplimiento de las condiciones con base en las cuales se haya otorgado la evaluación técnica de impacto en materia de distribución de agua y el Permiso de Distribución, mediante visitas de verificación, así como la aplicación de medidas de seguridad e imposición de sanciones en términos de esta Ley y demás disposiciones jurídicas aplicables;
 
 XXXII. Emitir su reglamento Interior; y
 
@@ -735,9 +735,9 @@ VII. Aprobar el Reglamento Interior de la Comisión; y
 
 VIII. Nombrar a los responsables de supervisar y ejecutar las acciones de desinfección del agua suministrada en bloque u objeto de conducción;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-IX. Emitir la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, con base en lo dispuesto por el Reglamento;
+IX. Emitir la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, con base en lo dispuesto por el Reglamento;
 
 > <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -1445,11 +1445,11 @@ II. Se requiera hacer alguna reparación o dar mantenimiento a la infraestructur
 
 III. Exista solicitud justificada del usuario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 76.
 
-El municipio o, en su caso, el organismo operador determinará la factibilidad de otorgamiento del servicio de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, previo la satisfacción de los requisitos que para ello señala el Reglamento de esta Ley, y considerando la infraestructura hidráulica para su prestación y la disponibilidad del agua. La Comisión emitirá la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, que incluirá la determinación de si el predio tiene vocación inundable.
+El municipio o, en su caso, el organismo operador determinará la factibilidad de otorgamiento del servicio de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, previo la satisfacción de los requisitos que para ello señala el Reglamento de esta Ley, y considerando la infraestructura hidráulica para su prestación y la disponibilidad del agua. La Comisión emitirá la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, que incluirá la determinación de si el predio tiene vocación inundable.
 
 En el caso de otorgamiento de factibilidad, el municipio o, en su caso, el organismo operador determinará y, en su caso, aprobará, y supervisará, en los términos del Reglamento, las obras necesarias para la prestación del servicio a cargo del desarrollador, mismas que se considerarán para el cálculo del cobro de conexión a la red de distribución correspondiente, o en su caso condicionar la factibilidad al desarrollo de la infraestructura.
 
@@ -2251,11 +2251,11 @@ Los permisos pueden ser revocados, previo el otorgamiento de la garantía de aud
 
 ### CAPÍTULO CUARTO. DE LOS DICTÁMENES
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 150.
 
-La Comisión validará los dictámenes de factibilidad emitidos por los municipios o por los organismos operadores, mediante la emisión de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos del reglamento.
+La Comisión validará los dictámenes de factibilidad emitidos por los municipios o por los organismos operadores, mediante la emisión de la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos del reglamento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -2267,9 +2267,9 @@ La Comisión validará los dictámenes de factibilidad emitidos por los municipi
 
 La venta de agua potable o tratada por metro cúbico a pipas para su distribución, que realicen la Comisión, los municipios o los organismos operadores, se llevará a cabo de acuerdo con la disponibilidad del recurso, cuidando en todo momento que no se desatienda el servicio público que tienen a su cargo.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-La venta de agua a que se refiere el párrafo anterior se realizará únicamente a quien cuente con Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales.
+La venta de agua a que se refiere el párrafo anterior se realizará únicamente a quien cuente con Permiso de Distribución y la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales.
 
 > <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -2309,9 +2309,9 @@ IV. Exhibir póliza de seguro o fianza que garantice el pago de daños a tercero
 
 V. Cubrir los derechos por el Permiso de Distribución;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VI. Para el Permiso de Distribución municipal se deberá contar con la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+VI. Para el Permiso de Distribución municipal se deberá contar con la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
 VII. Las demás que establezca la normatividad en la materia.
 
@@ -2337,9 +2337,9 @@ La Comisión, los municipios y los organismos operadores, deberán enviar al Reg
 
 El permisionario de distribución tiene las obligaciones siguientes:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I. Presentar el Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales cada vez que le sea requerido por la autoridad correspondiente;
+I. Presentar el Permiso de Distribución y la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales cada vez que le sea requerido por la autoridad correspondiente;
 
 II. Acatar las normas técnicas aplicables al objeto del Permiso de Distribución y, en su caso, sujetarse a las disposiciones generales y normas en materia de tránsito, salubridad, equilibrio ecológico y de protección al ambiente y a la norma oficial mexicana correspondiente;
 
@@ -2349,31 +2349,31 @@ IV. Cobrar las tarifas autorizadas en esta Ley;
 
 V. Adherir en la pipa, en lugar visible para el consumidor, las tarifas autorizadas en esta Ley;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VI. Permitir a la autoridad correspondiente la supervisión, verificación y/o inspección del cumplimiento del objeto del Permiso de Distribución y de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, ya sea en forma directa o mediante terceros autorizados por la autoridad para tal fin y otorgar las facilidades necesarias para tal efecto;
+VI. Permitir a la autoridad correspondiente la supervisión, verificación y/o inspección del cumplimiento del objeto del Permiso de Distribución y de la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, ya sea en forma directa o mediante terceros autorizados por la autoridad para tal fin y otorgar las facilidades necesarias para tal efecto;
 
 VII. Resarcir a consumidores y a terceros, los daños que se generen por causas que le fueren imputables, por lo que deberán contratar y mantener vigentes los seguros que garanticen la reparación de los daños y el pago de los perjuicios que se ocasionen;
 
 VIII. Constituir en tiempo y forma las garantías, seguros y fianzas, en los términos establecidos en el Reglamento y el Permiso de Distribución;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-IX. Vigilar que el personal a su cargo cumpla con las disposiciones legales en la materia, con las derivadas del Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como con aquellas que emita, en su caso, la autoridad competente;
+IX. Vigilar que el personal a su cargo cumpla con las disposiciones legales en la materia, con las derivadas del Permiso de Distribución y la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, así como con aquellas que emita, en su caso, la autoridad competente;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-X. Proporcionar en todo tiempo a la autoridad otorgante del Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, los datos, informes y documentos que le sean solicitados, relacionados con el objeto de los mismos;
+X. Proporcionar en todo tiempo a la autoridad otorgante del Permiso de Distribución y la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, los datos, informes y documentos que le sean solicitados, relacionados con el objeto de los mismos;
 
 XI. Solicitar oportunamente la renovación del Permiso de Distribución que le hubiese sido otorgado, en términos de la presente Ley y su Reglamento;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XII. Atender las instrucciones y recomendaciones que en su caso realice la autoridad otorgante respecto de la materia del Permiso de Distribución y de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+XII. Atender las instrucciones y recomendaciones que en su caso realice la autoridad otorgante respecto de la materia del Permiso de Distribución y de la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XIII. Contar con el Permiso de Distribución y la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, emitidos por autoridad competente para tal efecto;
+XIII. Contar con el Permiso de Distribución y la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, emitidos por autoridad competente para tal efecto;
 
 XIV. Suministrar agua potable o tratada al consumidor de conformidad con la normatividad aplicable;
 
@@ -2387,25 +2387,25 @@ XVI. Las demás que le establezcan las disposiciones reglamentarias correspondie
 
 Son causas de revocación de los Permisos de Distribución las siguientes:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I. No cumplir, sin causa justificada con el objeto, obligaciones o condiciones del Permiso de Distribución o de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos establecidos en el mismo;
+I. No cumplir, sin causa justificada con el objeto, obligaciones o condiciones del Permiso de Distribución o de la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, en los términos establecidos en el mismo;
 
 II. Cobrar tarifas superiores a las autorizadas;
 
 III. No cubrir las indemnizaciones por daños que se originen con motivo del Permiso de Distribución;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-IV. Ceder o transferir el Permiso de Distribución o la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, sin previa autorización de la autoridad otorgante;
+IV. Ceder o transferir el Permiso de Distribución o la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, sin previa autorización de la autoridad otorgante;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-V. Modificar o alterar el Permiso de Distribución o la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+V. Modificar o alterar el Permiso de Distribución o la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VI. Prestar servicios distintos a los señalados en el Permiso de Distribución y en la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+VI. Prestar servicios distintos a los señalados en el Permiso de Distribución y en la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
 VII. No proporcionar la información requerida por la autoridad, impedir o dificultar la verificación o inspección de la pipa;
 
@@ -2936,3 +2936,59 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
