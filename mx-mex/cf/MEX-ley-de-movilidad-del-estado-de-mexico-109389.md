@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2020-12-21"
+last_updated: "2021-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -77,9 +77,9 @@ V. Concesión: al acto administrativo por el cual el titular del Poder Ejecutivo
 
 VI. Estado: Estado Libre y Soberano de México.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VII. Evaluación técnica de factibilidad de impacto de movilidad: Procedimiento sistemático en el que se comprueban las condiciones de seguridad y diseño universal de un proyecto de vialidad nueva, existente o de cualquier proyecto que pueda afectar a la vía o a los usuarios, con objeto de garantizar desde la primera fase de planeamiento, que se diseñen con los criterios óptimos para todos sus usuarios y verificando que se mantengan dichos criterios durante las fases de proyecto, construcción y puesta en operación de la misma;
+VII. Evaluación técnica de impacto en materia de movilidad: Procedimiento sistemático en el que se comprueban las condiciones de seguridad y diseño universal de un proyecto de vialidad nueva, existente o de cualquier proyecto que pueda afectar a la vía o a los usuarios, con objeto de garantizar desde la primera fase de planeamiento, que se diseñen con los criterios óptimos para todos sus usuarios y verificando que se mantengan dichos criterios durante las fases de proyecto, construcción y puesta en operación de la misma;
 
 VIII. Ley: Ley de Movilidad del Estado de México.
 
@@ -563,19 +563,19 @@ Programas regionales, metropolitanos, sectoriales o especiales. En caso de consi
 
 Los programas regionales, metropolitanos, sectoriales o especiales, tendrán como objetivo principal la aplicación o el desarrollo sectorizado de los principios establecidos en el Programa, para lo cual deberán enfocarse al sector o sectores que se pretende atender.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 30.
 
-Evaluación técnica de factibilidad de impacto de movilidad. La Secretaría en el ámbito de su competencia, deberá llevar a cabo la evaluación técnica de factibilidad de Impacto de Movilidad respecto de cualquier obra, proyecto o actividad que se realice por cualquier entidad en el Estado. La evaluación técnica de factibilidad de Impacto de Movilidad se regulará de conformidad con lo que se establezca en los libros correspondientes del Código Administrativo del Estado de México, los cuales deberán establecer, como mínimo, lo siguiente:
+Evaluación técnica de impacto en materia de movilidad. La Secretaría en el ámbito de su competencia, deberá llevar a cabo la evaluación técnica de impacto en materia de movilidad respecto de cualquier obra, proyecto o actividad que se realice por cualquier entidad en el Estado. La evaluación técnica de Impacto en materia de movilidad se regulará de conformidad con lo que se establezca en los libros correspondientes del Código Administrativo del Estado de México, los cuales deberán establecer, como mínimo, lo siguiente:
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 I. La influencia o alteración en los desplazamientos de personas dentro del Estado, derivados de cualquier obra o actividad que realicen en relación al Sistema Integral de Movilidad;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-II. En caso de que derivado de la evaluación técnica de factibilidad de impacto de movilidad, se desprenda que la obra, proyecto o actividad que se pretende realizar en relación con el Sistema de (sic) Integral de Movilidad, implica una influencia, impacto o alteración negativa en los desplazamientos de personas dentro del Estado, se deberán establecer las medidas de mitigación e integración a efecto de disminuir los efectos negativos de la obra o actividad de que se trate.
+II. En caso de que derivado de la evaluación técnica de impacto en materia de movilidad, se desprenda que la obra, proyecto o actividad que se pretende realizar en relación con el Sistema de Integral de Movilidad, implica una influencia, impacto o alteración negativa en los desplazamientos de personas dentro del Estado, se deberán establecer las medidas de mitigación e integración a efecto de disminuir los efectos negativos de la obra o actividad de que se trate.
 
 Las obligaciones que se establezcan con base en el presente artículo no podrán ser modificadas, ni sustituidas en perjuicio de la movilidad.
 
@@ -1092,3 +1092,59 @@ G.G. 21 DE DICIEMBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
