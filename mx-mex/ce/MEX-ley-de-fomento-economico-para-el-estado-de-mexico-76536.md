@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2020-09-29"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -139,9 +139,9 @@ XXXI. Registro: Al Registro Estatal de Desarrollo Económico;
 
 XXXII. Reglamento: Al Reglamento de esta Ley expedido por el Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de balo (sic) riesgo que no requieren del dictamen único de factibilidad.
+XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas que no requieren de la Evaluación de Impacto Estatal o Dictamen de Giro.
 
 XXXIV. Secretaría: A la Secretaría de Desarrollo Económico del Estado de México;
 
@@ -159,9 +159,9 @@ XL. Sustentabilidad: A la posibilidad de promover el desarrollo económico sin c
 
 XLI. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tienen a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XLII. Visita colegiada: Al acto en el que las dependencias y organismos auxiliares, bajo la coordinación y ejecución del Instituto de Verificación Administrativa del Estado de México y con conocimiento de la Comisión de Factibilidad del Estado de México, realizan la supervisión técnica y física del inmueble donde se pretende la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de factibilidad que en su caso sustente la determinación del Dictamen o la resolución correspondiente; y
+XLII. Visita colegiada: Al acto en el que las dependencias y organismos auxiliares, bajo la coordinación y ejecución del Instituto de Verificación Administrativa del Estado de México y con conocimiento de la Comisión de Impacto Estatal, realizan la supervisión técnica y física del inmueble donde tendrá lugar el proyecto con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de impacto en la materia correspondiente, que en su caso sustente la Evaluación de Impacto Estatal o la determinación que en su caso proceda, y
 
 > <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -1083,11 +1083,11 @@ La empresa o empresas que resulten premiadas, además de la entrega de su recono
 
 ### Capítulo Primero. De los Trámites Empresariales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 52.
 
-Las autorizaciones, evaluaciones técnicas de factibilidad, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las autoridades correspondientes en relación con la instalación, apertura, operación y ampliación de empresas consideradas de impacto urbano, se ajustarán a las disposiciones específicas que en cada caso establezca la legislación aplicable, su reglamentación y los planes de desarrollo urbano, y deberán realizar, en su caso, los trámites siguientes:
+Las autorizaciones, evaluaciones técnicas de impacto, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las autoridades correspondientes en relación con la instalación, apertura, operación y ampliación de empresas consideradas de impacto urbano, se ajustarán a las disposiciones específicas que en cada caso establezca la legislación aplicable, su reglamentación y los planes de desarrollo urbano, y deberán realizar, en su caso, los trámites siguientes:
 
 I. Dictamen de servicios de agua potable, drenaje y saneamiento. Consiste en la certificación que emite el correspondiente organismo prestador del servicio, en los términos de la Ley del Agua del Estado de México, en la que se definen los puntos de conexión de agua potable y los de descargas de aguas residuales, tratadas o no, según el caso;
 
@@ -1097,9 +1097,13 @@ III. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 IV. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-V. Dictamen Único de Factibilidad. Al Dictamen Único de Factibilidad, que es el documento de carácter permanente emitido por la Comisión de Factibilidad del Estado de México, sustentado en las evaluaciones técnicas de factibilidad en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, cuya finalidad es determinar la factibilidad de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos, en el entorno ambiental o salud, en términos de las disposiciones jurídicas aplicables;
+V. Dictamen de Giro: Al documento de carácter permanente emitido por el Comité Municipal de Dictámenes de Giro, sustentado en las evaluaciones que realicen las autoridades municipales en el ámbito de su competencia, en materias de salubridad local tratándose de venta de bebidas alcohólicas para consumo inmediato y rastros, previo análisis normativo multidisciplinario, para el funcionamiento de unidades económicas que regula expresamente la Ley de Competitividad y Ordenamiento Comercial del Estado de México, en términos de las disposiciones jurídicas aplicables de acuerdo con los principios de transparencia y publicidad;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+V Bis. Evaluación de Impacto Estatal: Al documento de carácter permanente emitido por la Comisión de Impacto Estatal, sustentado en una o más evaluaciones técnicas de impacto en materias de desarrollo urbano, protección civil, medio ambiente, comunicaciones, movilidad, agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, según corresponda, cuya finalidad es determinar la factibilidad de proyectos nuevos, ampliaciones o actualizaciones, que por el uso o aprovechamiento del suelo generen efectos en la infraestructura, el equipamiento urbano, servicios públicos, en el entorno ambiental o protección civil, en términos de las disposiciones jurídicas aplicables;
 
 VI. Permiso sanitario de inicio de construcción y de ocupación de obra. Consiste en la autorización para que una persona física o jurídica colectiva, realice actividades relacionadas con el inicio y ocupación de obras de construcción, reconstrucción, modificación o acondicionamiento de determinados establecimientos, y que están reguladas por el Libro Segundo del Código Administrativo;
 
@@ -1113,9 +1117,9 @@ IX. Cédula informativa de zonificación. Es el documento que expide la autorida
 
 El Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, establecerá las actividades económicas que estarán exentas del cumplimiento de los trámites previstos en el artículo anterior, y en él se señalarán expresamente los que sean aplicables a cada actividad.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX, salvo los casos de excepción que, de acuerdo con otras disposiciones legales aplicables, requieran Dictamen Único de Factibilidad.
+Las actividades contenidas en el Catálogo se gestionarán al amparo del SAREMEX, salvo los casos de excepción que, de acuerdo con otras disposiciones legales aplicables, requieran Evaluación de Impacto Estatal o Dictamen de Giro.
 
 ### Capítulo Segundo. Del Sistema de Apertura Rápida de Empresas del Estado de México
 
@@ -1125,11 +1129,11 @@ El SAREMEX es el conjunto de acciones orientadas a la gestión ágil y expedita 
 
 La Secretaría promoverá la celebración de convenios con las dependencias federales y municipales, a efecto de asegurar la adecuada operación del SAREMEX.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 55.
 
-El SAREMEX contará con un conjunto de normas, instancias, instrumentos, políticas, acciones y servicios orientados a coordinar, controlar, gestionar y evaluar los procesos a cargo de las dependencias estatales y municipales del Estado de México, competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones, relativos a la instalación, apertura, operación y ampliación de empresas en la Entidad, cuya actividad económica no requiera del dictamen único de factibilidad.
+El SAREMEX contará con un conjunto de normas, instancias, instrumentos, políticas, acciones y servicios orientados a coordinar y evaluar los procesos a cargo de las dependencias estatales y municipales del Estado de México, competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones, relativos a la instalación, apertura, operación y ampliación de empresas en la Entidad, cuya actividad económica no requiera de Evaluación de Impacto Estatal o Dictamen de Giro.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1850,3 +1854,59 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
