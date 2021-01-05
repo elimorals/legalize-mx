@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2020-09-29"
+last_updated: "2021-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -877,13 +877,11 @@ XXVIII. Participar en el establecimiento y expedición, en coordinación con las
 
 XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+XXX. (DEROGADA, G.G. 5 DE ENERO DE 2021)
 
-XXX. Emitir a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, la evaluación técnica de factibilidad de impacto sanitario;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XXXI. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, el debido cumplimiento de las condiciones derivado de las cuales, se emitió la evaluación técnica de factibilidad de impacto sanitario y el Dictamen Único de Factibilidad, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones; y
+XXXI. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México y las autoridades correspondientes, el debido cumplimiento de las disposiciones en el ámbito de su competencia, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan, y
 
 (ADICIONADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 11 DE SEPTIEMBRE DE 2013)
 
@@ -1183,9 +1181,9 @@ XXIX.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos
 
 XXX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXI.- Expedir la evaluación técnica de factibilidad de impacto urbano de conformidad a los ordenamientos jurídicos aplicables y emitir, a través de la Comisión del Agua del Estado de México, la evaluación técnica de factibilidad para la distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+XXXI.- Expedir la evaluación técnica de impacto en materia urbana de conformidad a los ordenamientos jurídicos aplicables y emitir, a través de la Comisión del Agua del Estado de México, la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1223,9 +1221,9 @@ XXXIX.- Controlar el inventario de disponibilidad de Agua Potable del Estado;
 
 XL.- Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo con el Plan Anual y Sexenal de Obras;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XLI.- Dirigir, coordinar y supervisar a la Comisión de Factibilidad del Estado de México;
+XLI.- Dirigir, coordinar y supervisar a la Comisión de Impacto Estatal;
 
 > <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1253,9 +1251,9 @@ I.- Formular y ejecutar planes, programas y acciones para el desarrollo del tran
 
 II.- Fomentar mecanismos para garantizar el derecho humano a la movilidad eficiente y segura, así como para garantizar que todas las personas en ejercicio de dicho derecho se obliguen a respetar y preservar las condiciones de la infraestructura para la movilidad;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-III.- Emitir la evaluación técnica de factibilidad de incorporación e impacto vial, tratándose de los casos previstos en el artículo 5.35 del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
+III.- Emitir la evaluación técnica de impacto en materia vial, tratándose de los casos previstos en el artículo 5.35 del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
 
 IV.- Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
 
@@ -1327,9 +1325,9 @@ XXI.- Resolver respecto del uso de la infraestructura vial primaria por los serv
 
 XXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXIII.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial;
+XXIII.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Impacto en materia Vial;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1461,9 +1459,9 @@ XXIII. Promover y fomentar las investigaciones ecológicas.
 
 XXIV. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXIV Bis. Emitir las evaluaciones técnicas de factibilidad de impacto ambiental y de transformación forestal, en términos del Código para la Biodiversidad del Estado de México, de la Ley de Competitividad y Ordenamiento Comercial del Estado de México y demás disposiciones jurídicas aplicables;
+XXIV Bis. Emitir las evaluaciones técnicas de impacto en materia ambiental en términos del Código para la Biodiversidad del Estado de México, y demás disposiciones jurídicas aplicables;
 
 XXV. Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades.
 
@@ -1745,9 +1743,7 @@ XII. Difundir la información relativa a las unidades económicas o establecimie
 
 XIII. Expedir Normas Técnicas en las materias de su competencia;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XIV. Vigilar en coordinación con el Instituto de Verificación Administrativa del Estado de México el debido cumplimiento de las condiciones derivado de las cuales se emitió la evaluación técnica de factibilidad comercial automotriz y el Dictamen Único de Factibilidad, a través de visitas de verificación, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan en el ámbito de sus atribuciones;
+XIV. (DEROGADA, G.G. 5 DE ENERO DE 2021)
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2101,9 +2097,9 @@ XVII. Intervenir en los juicios de amparo, cuando el Gobernador tenga el caráct
 
 XVIII. Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos;
 
-> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XVIII Bis. Tramitar las solicitudes de amnistía e indulto;
+XVIII Bis. Tramitar las solicitudes de indulto;
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -3948,3 +3944,73 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229.- POR EL QUE SE EXPIDE LA LEY DE AMNISTÍA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 38 TER FRACCIÓN XVIII BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+TERCERO. El Consejo de la Judicatura contará con un plazo de sesenta días naturales para emitir el Acuerdo General a que se refiere la presente Ley, y publicarlo en la Gaceta del Gobierno y en el Boletín Judicial para que a partir de dicha publicación se inicie la recepción de las solicitudes correspondientes.
+
+CUARTO. La LX Legislatura proveerá los recursos presupuestales necesarios al Poder Judicial para el debido cumplimiento de la presente Ley.
+
+QUINTO. La Comisión especial a que se refiere de la presente Ley, se constituirá por acuerdo de la Junta de Coordinación Política dentro de los treinta días hábiles siguientes a la entrada en vigor, para que luego de su instalación y en cuanto a su denominación permanecerá, hasta en tanto se resuelvan todas las solicitudes que se formulen ante la LX Legislatura.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
